@@ -1,0 +1,159 @@
+Commonly reported side effects of stavudine include: increased serum alanine aminotransferase, increased serum amylase, increased serum aspartate aminotransferase, and increased serum lipase.  See below for a comprehensive list of adverse effects.
+Applies to stavudine: oral capsule, oral powder for solution, oral powder for suspension
+As well as its needed effects, stavudine may cause unwanted side effects that require medical attention. 
+If any of the following side effects occur while taking stavudine, check with your doctor immediately:
+Some stavudine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+
+
+Applies to stavudine: oral capsule, oral capsule extended release, oral powder for reconstitution
+Many of the side effects associated with nucleoside reverse transcriptase inhibitor therapy (neuropathy, pancreatitis, liver failure, lactic acidosis, etc.) are attributable to their direct toxic effect on mitochondria which causes decreased mitochondrial energy-generating capacity.[Ref]
+Nervous system side effects have included headache (up to 54%), peripheral neurologic symptoms/neuropathy (up to 52%), dizziness, abnormal dreams, somnolence, abnormal thinking, depression, and ototoxicity.  Insomnia and severe motor weakness (usually with lactic acidosis) have been reported during postmarketing experience.[Ref]
+Peripheral neuropathy (PN) seen with the administration of stavudine is both dosage- and treatment duration-dependent.  It is also more common in patients who are being treated with other neurotoxic drugs, who have previously experienced PN, or who have been diagnosed with AIDS at the time of starting treatment.  PN is generally characterized by numbness, tingling, or pain in the feet or hands.  Stavudine should be discontinued if peripheral neuropathy develops.[Ref]
+Hepatic side effects have included elevated bilirubin (all grades: up to 68%; greater than 2.6 times ULN: up to 16%), ALT (all grades: up to 50%; greater than 5 times ULN: up to 13%), AST (all grades: up to 53%; greater than 5 times ULN: up to 11%), and gamma glutamyltransferase (all grades: up to 28%; greater than 5 times ULN: up to 5%).  Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs alone or in combination, including stavudine and other antiretroviral agents.  Hepatic decompensation (some fatal) has been reported in patients coinfected with HIV-1 and hepatitis C receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin.  Symptomatic hyperlactatemia/lactic acidosis and hepatic steatosis, hepatitis, and liver failure have been reported during postmarketing experience.[Ref]
+Caution should be exercised when administering stavudine to any patient with known risk factors for liver disease.  However, cases of hepatic toxicity have also been reported in patients with no known risk factors.  Treatment with stavudine should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis (fatigue, nausea, vomiting, abdominal pain, unexplained weight loss, tachypnea, dyspnea, motor weakness) or pronounced hepatotoxicity.Fatal lactic acidosis has been reported in pregnant women who received the combination of stavudine and didanosine with other antiretroviral agents.[Ref]
+Gastrointestinal side effects have included nausea (up to 53%), diarrhea (up to 50%), nausea and vomiting (39%), vomiting (up to 30%), pancreatitis, and dyspepsia.  Anorexia and pancreatitis (including fatal cases) have been reported during postmarketing experience.[Ref]
+When stavudine is used in combination with other drugs that have pancreatic toxic effects (other nucleoside analogs or drugs to treat/prevent Pneumocystis pneumonia) the incidence of pancreatitis may increase.[Ref]
+Hematologic side effects have included anemia, leukopenia, neutropenia, macrocytosis, and thrombocytopenia during postmarketing experience.[Ref]
+Other side effects have included edema.  Abdominal pain, allergic reactions, and chills/fever have been reported during postmarketing experience.[Ref]
+Edema has been reported with use of stavudine although no causal relationship has been established.[Ref]
+Dermatologic side effects have included rash (up to 40%) and pruritus.[Ref]
+Musculoskeletal side effects have included muscle weakness and decreased bone mineral density.  Myalgia has been reported during postmarketing experience.[Ref]
+Metabolic side effects have included elevated amylase (all grades: up to 31%; greater than or equal to 1.4 times ULN: 14%; greater than 2 times ULN: up to 8%) and lipase (all grades: up to 27%; greater than 2 times ULN: up to 6%).  Hyperlipidemia and progressive subcutaneous fat wasting have been reported.  Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral agents.  Diabetes mellitus, hyperglycemia, lipoatrophy, lipodystrophy, and redistribution/accumulation of body fat have been reported during postmarketing experience.[Ref]
+Although progressive subcutaneous fat wasting has been attributed to the use of protease inhibitors, nucleoside reverse transcriptase inhibitors may have an independent contribution.  This syndrome has been observed in patients naive to protease inhibitors, however, not to the same degree as in patients on a combination regimen that includes a protease inhibitor.[Ref]
+Immunologic side effects have included immune reconstitution syndrome.  Autoimmune disorders (e.g., Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
+Renal side effects have included at least one case of Fanconi syndrome.[Ref]
+1. Neff GW,  Sherman KE,  Eghtesad B,  Fung J "Review article: current status of liver transplantation in HIV-infected patients." Aliment Pharmacol Ther 20 (2004): 993-1000
+2. "Risk factors for lactic acidosis and severe hyperlactataemia in HIV-1-infected adults exposed to antiretroviral therapy." AIDS 21 (2007): 2455-64
+3. Gallant JE "Drug resistance after failure of initial antiretroviral therapy in resource-limited countries." Clin Infect Dis 44 (2007): 453-5
+4. Dunkle L, Anderson R, McLaren C, Cross A, Brown M, Gugliotti R, Adler M, Kaul S "Stavudine (d4T) a promising anti-retroviral agent." Int Conf AIDS 8 (1992): we47(ab.no.eb1011)
+5. Nelson M,  Azwa A,  Sokwala A,  Harania RS,  Stebbing J "Fanconi syndrome and lactic acidosis associated with stavudine and lamivudine therapy." AIDS 22 (2008): 1374-6
+6. HHS Panel on Antiretroviral Guidelines for Adults
+and Adolescents – A Working Group of the Office of AIDS Research
+Advisory Council (OARAC). NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Available from: URL: http://aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf."   ([2011 Oct 14]):
+7. Petersen E, Ramirez-Ronda C, Schwartz R, Peterson D, Hardy W, Sacks H, Follansbee S "Findings from a phase II study of stavudine (d4T)." Int Conf AIDS 8 (1992): b90(ab.no.po3023)
+8. Kakuda TN "Pharmacology of nucleoside and nucleotide reverse transcriptase inhibitor-induced mitochondrial toxicity." Clin Ther 22 (2000): 685-708
+9. Piacenti FJ "An update and review of antiretroviral therapy." Pharmacotherapy 26 (2006): 1111-33
+10. Bolhaar MG,  Karstaedt AS "A high incidence of lactic acidosis and symptomatic hyperlactatemia in women receiving highly active antiretroviral therapy in Soweto, South Africa." Clin Infect Dis 45 (2007): 254-60
+11. Panel on Antiretroviral Therapy and Medical Management of HIV-Infected Children. NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in pediatric HIV infection. Available from: URL: http://aidsinfo.nih.gov/guidelines/html/2/pediatric-treatment-guidelines/0"   ([2012 Nov 5]):
+12. Walker UA,  Bauerle J,  Laguno M, et al. "Depletion of mitochondrial DNA in liver under antiretroviral therapy with didanosine, stavudine, or zalcitabine." Hepatology 39 (2004): 311-7
+13. Brinkman K, terHofstede HJM, Burger DM, Smeitinkt JAM, Koopmans PP "Adverse effects of reverse transcriptase inhibitors: mitochondrial toxicity as common pathway." AIDS 12 (1998): 1735-44
+14. "Drugs for HIV infection." Med Lett Drugs Ther 43 (2001): 103-8
+15. Currier JS "Sex differences in antiretroviral therapy toxicity: lactic acidosis, stavudine, and women." Clin Infect Dis 45 (2007): 261-2
+16. Hurst M, Noble S "Stavudine - An update of its use in the treatment of HIV infection." Drugs 58 (1999): 919-49
+17. Thoden J,  Lebrecht D,  Venhoff N,  Neumann J,  Muller K,  Walker UA "Highly active antiretroviral HIV therapy-associated fatal lactic acidosis: quantitative and qualitative mitochondrial DNA lesions with mitochondrial dysfunction in multiple organs." AIDS 22 (2008): 1093-4
+18. Hammer SM,  Saag MS,  Schechter M, et al. "Treatment for adult HIV infection: 2006 recommendations of the International AIDS Society-USA panel." JAMA 296 (2006): 827-43
+19. Browne MJ, Mayer KH, Chafee SB, Dudley MN, Posner MR, Steinberg SM, Graham KK, Geletko SM, Zinner SH, Denman SL, et al "2' related complex: a phase I trial." J Infect Dis 167 (1993): 21-9
+20. Shalit P, Farrell P, Lindgren P "Long-term safety and efficacy of nevirapine, stavudine and lamivudine in a real-world setting." Aids 15 (2001): 804-5
+21. "Product Information. Zerit (stavudine)." Bristol-Myers Squibb, Princeton, NJ. 
+22. Squires KE, Weiss W, Sacks H, Hassett J, Gugliotti R, Murray H "Effect of 2'3'-didehydro-3'deoxythymidine (d4T) on p24 antigenemia in patients with AIDS or ARC." Int Conf AIDS 6 (1990): 180(ab.no.th..241)
+23. Rey D,  L'Heritier A,  Lang JM "Severe Ototoxicity in a Health Care Worker Who Received Postexposure Prophylaxis with Stavudine, Lamivudine, and Nevirapine after Occupational Exposure to HIV." Clin Infect Dis 34 (2002): 418-9
+24. "Drugs for HIV infection." Treat Guidel Med Lett 7 (2009): 11-22
+25. "Product Information. Zerit XR (stavudine)." Bristol-Myers Squibb, Princeton, NJ. 
+26. Warnke D,  Barreto J,  Temesgen Z "Antiretroviral drugs." J Clin Pharmacol 47 (2007): 1570-9
+27. Delgado J,  Harris M,  Tesiorowski A,  Montaner JS "Symptomatic elevations of lactic Acid and their response to treatment manipulation in human immunodeficiency virus-infected persons: a case series." Clin Infect Dis 33 (2001): 2072-4
+28. Sulkowski MS,  Mehta SH,  Torbenson M, et al. "Hepatic steatosis and antiretroviral drug use among adults coinfected with HIV and hepatitis C virus." AIDS 19 (2005): 585-592
+29. Mokrzycki MH, Harris C, May H, Laut J, Palmisano J "Lactic acidosis associated with stavudine administration: A report of five cases." Clin Infect Dis 30 (2000): 198-200
+30. Soriano V,  Puoti M,  Sulkowski M, et al. "Care of patients coinfected with HIV and hepatitis C virus: 2007 updated recommendations from the HCV-HIV International Panel." AIDS 21 (2007): 1073-89
+31. McComsey GA,  Re VL 3rd,  O'Riordan M, et al. "Effect of reducing the dose of stavudine on body composition, bone density, and markers of mitochondrial toxicity in HIV-infected subjects: a randomized, controlled study." Clin Infect Dis 46 (2008): 1290-6
+32. Mandelbrot L,  Kermarrec N,  Marcollet A, et al. "Case report: nucleoside analogue-induced lactic acidosis in the third trimester of pregnancy." AIDS 17 (2003): 272-3
+33. Schiano TD, Lissoos TW, Ahmed A, Siano C, Zaitman D, Cohn G, Ehrenpreis ED "Lamivudine-stavudine-induced liver failure in hepatitis B cirrhosis." Am J Gastroenterol 92 (1997): 1563-4
+34. Johri S, Alkhuja S, Siviglia G, Soni A "Steatosis-lactic acidosis syndrome associated with stavudine and lamivudine therapy." Aids 14 (2000): 1286-7
+35. Callens S,  De Schacht C,  Huyst V,  Colebunders R "Pancreatitis in an HIV-infected person on a tenofovir, didanosine and stavudine containing highly active antiretroviral treatment." J Infect 47 (2003): 188-9
+36. Ene L,  Goetghebuer T,  Hainaut M,  Peltier A,  Toppet V,  Levy J "Prevalence of lipodystrophy in HIV-infected children: a cross-sectional study." Eur J Pediatr 166 (2006): 13-21
+37. Manfredi R, Calza L, Chiodo F "Gynecomastia associated with highly antiretroviral therapy." Ann Pharmacother 35 (2001): 438-9
+38. Martinez E, Mocroft A, GarciaViejo MA, PerezCuevas JB, Blanco JL, Mallolas J, Bianchi L, Conget I, Blanch J, Phillips A, Gatell "Risk of lipodystrophy in HIV-1-infected patients treated with protease inhibitors: a prospective cohort study." Lancet 357 (2001): 592-8
+39. "Anti-HIV agents. New drugs, new hope, old lessons." TreatmentUpdate 19 (2007): 1-3
+40. SaintMarc T, Touraine JL "The effects of discontinuing stavudine therapy on clinical and metabolic abnormalities in patients suffering from lipodystrophy." AIDS 13 (1999): 2188-9
+41. SaintMarc T, Partisani M, PoizotMartin I, Bruno F, Rouviere O, Lang JM, Gastaut JA, Touraine JL "A syndrome of peripheral fat wasting (Lipodystrophy) in patients receiving long-term nucleoside analogue therapy." AIDS 13 (1999): 1659-67
+42. Lichtenstein KA,  Ward DJ,  Moorman AC, et al. "Clinical assessment of HIV-associated lipodystrophy in an ambulatory population." AIDS 15 (2001): 1389-98
+43. Mallal SA, John M, Moore CB, James IR, McKinnon EJ "Contribution of nucleoside analogue reverse transcriptase inhibitors to subcutaneous fat wasting in patients with HIV infection." Aids 14 (2000): 1309-16
+44. Ter Hofstede HJ,  Koopmans PP,  Burger DM "Stavudine plasma concentrations and lipoatrophy." J Antimicrob Chemother 61 (2008): 933-8
+45. Bergersen BM "Cardiovascular Risk in Patients with HIV Infection : Impact of Antiretroviral Therapy." Drugs 66 (2006): 1971-87
+46. Brambilla AM,  Novati R,  Calori G, et al. "Stavudine or indinavir-containing regimens are associated with an increased risk of diabetes mellitus in HIV-infected individuals." AIDS 17 (2003): 1993-5
+It is possible that some side effects of stavudine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Burning, numbness, tingling, or painful sensations
+chills with fever
+tingling, burning, numbness, or pain in the hands or feet
+unsteadiness or awkwardness
+weakness in the arms, hands, legs, or feet
+
+
+Cough
+difficulty with swallowing
+dizziness
+fast heartbeat
+hives
+itching
+joint pain
+muscle pain
+puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
+shortness of breath
+skin rash
+tightness in the chest
+unusual tiredness or weakness
+wheezing
+
+
+Nausea and vomiting
+stomach pain (severe)
+
+
+Abdominal or stomach discomfort or pain
+black, tarry stools
+bleeding gums
+bloating
+blood in the urine or stools
+blurred vision
+chest pain
+constipation
+darkened urine
+decreased appetite
+diarrhea
+difficulty with moving
+dry mouth
+fast, shallow breathing
+fever
+flushed, dry skin
+fruit-like breath odor
+general feeling of discomfort
+general tiredness and weakness
+increased hunger
+increased thirst
+increased urination
+indigestion
+light-colored stools
+loss of appetite
+loss of consciousness
+muscle cramping, pains, or stiffness
+painful or difficult urination
+pains in the stomach, side, or abdomen, possibly radiating to the back
+pale skin
+pinpoint red spots on the skin
+shakiness and unsteady walk, unsteadiness, trembling, or other problems with muscle control or coordination
+sleepiness
+sore throat
+sores, ulcers, or white spots on the lips or in the mouth
+sweating
+swollen glands
+swollen joints
+troubled breathing
+unexplained weight loss
+unusual bleeding or bruising
+yellow eyes or skin
+
+
+Headache
+loss of appetite
+weight loss
+
+
+Difficulty with sleeping
+lack of strength or energy
+stomach pain (mild)
+
+
+Gaining weight around your neck, upper back, breast, face, or waist
+sleeplessness
+unable to sleep
+

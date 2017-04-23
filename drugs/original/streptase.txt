@@ -1,0 +1,228 @@
+Generic Name: streptokinase
+Applies to streptokinase: powder for solution
+As well as its needed effects, streptokinase (the active ingredient contained in Streptase) may cause unwanted side effects that require medical attention. 
+
+If any of the following side effects occur while taking streptokinase, check with your doctor or nurse immediately:
+
+
+Applies to streptokinase: injectable powder for injection
+Predisposing risk factors for the development of intracranial hemorrhage during thrombolytic therapy for myocardial infarction have included body weight less than 70 kg, age greater than 65 years old, and preexisting anticoagulant therapy.  The authors of GISSI concluded that the risk of hemorrhagic stroke is also directly related to Killip classification.A meta-analysis of 30 studies dealing with proximal lower extremity deep vein thrombosis (DVT) has revealed the following relative risks for patients who received SK + heparin versus heparin alone:  any major bleeding, 2.9; central nervous system (CNS) bleeding, 4.5; mortality from CNS bleeding, 4.0; pulmonary embolism (PE), 1.0; mortality from PE, 1.0; postphlebitic syndrome, 0.4.The risk of hemorrhagic side effects from streptokinase (the active ingredient contained in Streptase) can be minimized with patient selection.  Major risk factors for intracranial hemorrhage have included known intracranial tumor, prior neurosurgery, stroke within the past six months, head trauma within the past month.  Other significant risk factors included severe, uncontrolled hypertension, a remote stroke known not to be hemorrhagic, recent transient ischemic attacks, advanced age, and female gender.[Ref]
+Hematologic side effects of streptokinase (SK) have included minor and major bleeding.  The risk of bleeding appears to be significantly increased when plasma fibrinogen levels fall below 250 mg/dl.  Minor bleeding has occurred in up to 67% of patients, presenting as venipuncture or arterial cutdown site oozing, microscopic hematuria, hemoptysis, or hematemesis.  Local bleeding usually has been controlled by manual compression for 20 to 30 minutes.  Serious or major bleeding, including gastrointestinal, genitourinary, joint, retroperitoneal or intracerebral hemorrhage, has occurred in 0.3% to 6.0% of patients.  Adjuvant heparin, but not aspirin, therapy appears to increase the risk of bleeding.Intracranial hemorrhage in 0.1% to 1.0% of patients and rare cases of intramyocardial hemorrhage have been reported.  Several fatalities due to intracranial or retroperitoneal hemorrhage have occurred during thrombolytic therapy.Rare cases of embolization and anti-SK-mediated platelet aggregation during or after SK therapy have been reported.  There is speculation that fibrinolysis could increase pericatheter thrombosis, which can result in local or distal thromboembolism.[Ref]
+The overall incidence of hypersensitivity reactions to SK from the ISIS-2, GISSI-1 and GISSI-2 data ranged from 1.6% to 4.4%.  Smaller studies have reported an incidence of 2% to 6%.  Acute allergic reactions to SK ranged from minor dyspnea, urticaria, pruritus, flushing, nausea, headache, or musculoskeletal pain to severe anaphylaxis, bronchospasm, or periorbital or angioneurotic edema.  SK-induced fever has been reported in 30% to 50% of patients.  Severe acute hypersensitivity reactions have usually required discontinuation of therapy, antihistamines, and/or corticosteroids.  In rare cases, adrenergic agents have been required to treat anaphylactic shock.[Ref]
+In the 8,592 patients in the ISIS-2 trial who received SK there were no confirmed incidences of anaphylactic shock.  The GISSI study 7 incidents of nonfatal anaphylactic reactions among 5,860 patients who had received SK (0.1%), though 99 patients (1.7%) had allergic reactions severe enough to discontinue therapy and another 42 (0.7%) were identified retrospectively.  Skin testing immediately before SK therapy appears to be a practical, sensitive, and specific tool to help identify patients at risk for anaphylaxis.[Ref]
+Since cardiovascular side effects may be more likely among the population of patients in whom SK in indicated, a cause-and-effect relationship to the drug is not always clear.  Transient hypotension has been reported during SK therapy in approximately 40% of patients (anterior or inferior wall MI).  Hypotension has been associated with reperfusion, which has been associated with decreased in-hospital mortality.  Reperfusion of the myocardium has resulted in arrhythmias in 80% of patients who experience reperfusion.  The most common reperfusion arrhythmia is a transient accelerated idioventricular rhythm, which is typically clinically benign.  Premature ventricular depolarizations during reperfusion do not necessarily predict severe ventricular arrhythmias.Dyspnea, cyanosis, rare cases of hemorrhagic myocardial infarction, serious ventricular arrhythmias, hemopericardium, and death from cardiogenic shock have been associated with thrombolytic therapy, in general.Rare cases of cholesterol embolization syndrome have been associated with SK and other thrombolytic agents.[Ref]
+Cholesterol embolization, a rare syndrome that typically presents with painful ischemia or necrosis of the digits, myalgias, skin changes of livedo reticularis and often progresses to renal failure and death, has occurred.  Other findings have included cyanosis, ulcers, gangrene of the hands and feet, myalgias, intestinal infarction or eosinophilia.  The exact mechanism is not known, but is believed to be due to physical disruption of atheromatous plaques by lysis of platelet-fibrin thrombi.[Ref]
+New or worsened renal impairment has been associated with SK-induced immune complex disease.  Rare cases of mild and transient acute renal insufficiency with proteinuria without evidence of hypersensitivity have been described after SK therapy.[Ref]
+The differential diagnosis of acute renal failure following SK therapy includes ischemic injury, immunologic injury, and postrenal obstruction.  Ischemia may be due to low cardiac output or hypotension secondary to acute myocardial infarction (if present), a direct effect of SK, reperfusion-induced hypotension, or hemorrhagic shock.  These conditions may cause acute tubular necrosis.  Ischemia may also be due to emboli from mural thrombi (if present), cholesterol emboli syndrome, or myoglobinuria.Immunologic injury to the kidney may be related to SK-induced serum sickness, Schonlein-Henoch purpura, or immune complex nephritis.Retroperitoneal hemorrhage or ureter thrombosis during or following SK therapy can cause postrenal obstruction.[Ref]
+In one case of Guillain-Barre syndrome (GBS) associated with SK oligoclonal IgG bands in the cerebrospinal fluid and serum were shown to be specific for streptokinase (the active ingredient contained in Streptase)   Clinical symptoms of GBS were thought to result from SK-antibody complex-mediated damage to the local blood-nerve barrier.[Ref]
+Hemorrhagic stroke, a potentially serious nervous system side effect, has affected approximately 0.1% to 1.0% of patients.  Extremely rare cases of Guillain-Barre syndrome have been associated with the use of SK.[Ref]
+Gastrointestinal side effects have been rare.  Hemorrhagic gastritis has been associated with the thrombolytic state.  Nausea or vomiting has been reported during thrombolytic therapy.  Unusual cases of hemorrhagic splenic rupture and subcapsular hepatic hematoma have occurred.[Ref]
+Rare cases of SK-induced hepatic dysfunction have been reported .  Some experts believe that mild, transient liver function test elevations indicative of cholestasis do not appear to be caused by toxic or allergic effects of SK itself, but by the high activities of the proteolytic enzymes, plasminogen activator and plasmin.  Rare cases of jaundice have been reported.[Ref]
+In a prospective study of 24 nonselected patients with peripheral arterial occlusions undergoing SK therapy, 18 had significant liver enzyme elevations typical of cholestasis and impaired hepatocellular integrity and function, but none became jaundiced.[Ref]
+Rare cases of musculoskeletal back pain have been reported.  In some cases bleeding into the iliopsoas muscles was discovered, but in most reported cases, there was no evidence of allergy, aortic dissection, worsened myocardial infarction or retroperitoneal hemorrhage.[Ref]
+A genitourinary concern for menstruating women who are considered for thrombolytic therapy has been whether SK can safely be used during menses.  The drug has been used safely during menses, perhaps because hemostasis of the uterine endothelium after the first day of menses depends on arteriolar vasoconstriction more than the formation of fibrin.[Ref]
+Adult respiratory distress syndrome (ARDS) has been rarely associated with the use of SK.  ARDS is a known complication of hypersensitivity to SK.[Ref]
+Dermatologic side effects have included rare cases of dermal microemboli.  Some cases have progressed to dermal necrosis.[Ref]
+SK is antigenic and may induce the formation of antibodies.  Delayed hypersensitivity reactions may result in the development of immune complex disease, presenting as fever, vasculitic or purpuric rashes, abnormal renal and liver function tests, arthralgias, serum sickness, and/or a syndrome resembling adult respiratory distress syndrome.  A case of SK-induced direct antiglobulin test-positive hemolysis has been reported.[Ref]
+The production of the general body symptom, fever, has also been associated with urokinase, which is not antigenic.  While the mechanism of fever is not known, this suggests that fever may be due to breakdown products of thrombi rather than to thrombolytic drugs.[Ref]
+1. "Product Information. Streptase (streptokinase)." Astra USA, Westborough, MA. 
+2. Vaughan DE, Kirshenbaum JM, Loscalzo J "Streptokinase-induced, antibody-mediated platelet aggregation: a potential cause of clot propagation in vivo." J Am Coll Cardiol 11 (1988): 1343-8
+3. Kao KJ, Hackel DB, Kong Y "Hemorrhagic myocardial infarction after streptokinase treatment for acute coronary thrombosis." Arch Pathol Lab Med 108 (1984): 121-4
+4. Toupin LR, Blanchard DG "Acute anuric renal failure: a complication of combined thrombolytic and antithrombotic therapy." Int J Cardiol 40 (1993): 283-5
+5. Goa KL, Henwood JM, Stolz JF, Langley MS, Clissold SP "Intravenous streptokinase. A reappraisal of its therapeutic use in acute myocardial infarction." Drugs 39 (1990): 693-719
+6. Kleiman NS, White HD, Ohman EM, Ross AM, Woodlief LH, Califf RM, Holmes DR, Bates E, Pfisterer M, Vahanian A, Topol EJ "Mortality within 24 hours of thrombolysis for myocardial infarction: the importance of early reperfusion." Circulation 90 (1994): 2658-65
+7. Nyamekye I, Beard J, Gaines P "The management of stroke during intraarterial thrombolysis." Br J Radiol 66 (1993): 781-2
+8. Hommel M, Cornu C, Boutitie F, Boissel JP, Viallet F, Bonnefoikyriacou D, Gayraud D, Kiegel P, Bissuel JPB, Driencourt JB, Rue "Thrombolytic therapy with streptokinase in acute ischemic stroke." N Engl J Med 335 (1996): 145-50
+9. Grijseels EWM, Bouten MJM, Lenderink T, Deckers JW, Hoes AW, Hartman JAM, Vanderdoes E, Simoons ML "Pre-hospital thrombolytic therapy with either alteplase or streptokinase - practical applications, complications and long-term results in 529 patients." Eur Heart J 16 (1995): 1833-8
+10. Porter RS, DiPalma JR "Coronary artery thrombolysis: comparison of approved agents." Am Fam Physician 44 (1991): 591-8
+11. Eggers KA, Mason NP "Lingual haematoma following streptokinase therapy." Anaesthesia 49 (1994): 922
+12. Wong FKM, Chan SK, Ing TS, Li CS "Acute renal failure after streptokinase therapy in a patient with acute myocardial infarction." Am J Kidney Dis 26 (1995): 508-10
+13. Chan NS, White H, Maslowski A, Cleland J "Plasmacytosis and renal failure after readministration of streptokinase for threatened myocardial reinfarction." BMJ 297 (1988): 717-8
+14. Hyer SL, Soo SC, Taylor W, Nussey SS "Spontaneous haemorrhage into a pituitary tumour after streptokinase therapy." Postgrad Med J 69 (1993): 244
+15. Broadway DC "Retrobulbar hemorrhage after intravenous streptokinase therapy." Ann Ophthalmol 26 (1994): 124-5
+16. Mathiesen O, Grunnet N "Haemolysis after intravenous streptokinase." Lancet 1 (1989): 1016-7
+17. Meissner AJ, Misiak A, Ziemski JM, Scharf R, Rudowski W, Huszcza S, Kucharski W, Wislawski S "Hazards of thrombolytic therapy in deep vein thrombosis." Br J Surg 74 (1987): 991-3
+18. Rogers TK, Polacarz S, Channer KS, Morice AH "Cardiac rupture and fibrinolytic therapy." Lancet 336 (1990): 259-60
+19. Karnash SL, Granger CB, White HD, Woodlief LH, Topol EJ, Califf RM "Treating menstruating women with thrombolytic therapy: insights from the global utilization of streptokinase and tissue plasminogen activator for occluded coronary arteries (GUSTO-i) trial." J Am Coll Cardiol 26 (1995): 1651-6
+20. Califf RM, Fortin DF, Tenaglia AN, Sane DC "Clinical risks of thrombolytic therapy." Am J Cardiol 69 (1992): a12-20
+21. Morris AD, Ritchie C, Grosset DG, Adams FG, Lees KR "A pilot study of streptokinase for acute cerebral infarction." QJM 88 (1995): 727-31
+22. Browse DJ, Torrie EP, Galland RB "Early results and 1-year follow-up after intra-arterial thrombolysis." Br J Surg 80 (1993): 194-7
+23. Wiener RS, Ong LS "Streptokinase and splenic rupture." Am J Med 86 (1989): 249
+24. Renkin J, de Bruyne B, Benit E, Joris JM, Carlier M, Col J "Cardiac tamponade early after thrombolysis for acute myocardial infarction: a rare but not reported hemorrhagic complication." J Am Coll Cardiol 17 (1991): 280-5
+25. Chesterman CN "Late adverse effects of streptokinase." Aust N Z J Med 22 (1992): 106-8
+26. Lebrazi J, Helft G, Abdelouahed M, Elalamy I, Mirshahi M, Samama MM, Lecompte T "Human anti-streptokinase antibodies induce platelet aggregation in an fc receptor (CD32) dependent manner." Thromb Haemost 74 (1995): 938-42
+27. Ott P, Eldrup E, Oxholm P, Vestergard A, Knudsen JB "Streptokinase therapy in the routine management of deep venous thrombosis in the lower extremities. A retrospective study of phlebographic results and therapeutic complications." Acta Med Scand 219 (1986): 295-300
+28. Ramsay DA, Penswick JL, Robertson DM "Fatal streptokinase-induced intracerebral haemorrhage in cerebral amyloid angiopathy." Can J Neurol Sci 17 (1990): 336-41
+29. Thery C, Bauchart JJ, Lesenne M, Asseman P, Flajollet JG, Legghe R, Marache P "Predictive factors of effectiveness of streptokinase in deep venous thrombosis." Am J Cardiol 69 (1992): 117-22
+30. Rao AK, Pratt C, Berke A, Jaffe A, Ockene I, Schreiber TL, Bell WR, Knatterud G, Robertson TL, Terrin ML "Thrombolysis in Myocardial Infarction (TIMI) Trial--Phase I: hemorrhagic manifestations and changes in plasma fibrinogen and the fibrinolytic system in patients treated with recombinant tissue plasminogen activator and streptokinase." J Am Coll Cardiol 11 (1988): 1-11
+31. Schneeman NJ, Stein EM "Thrombolytic therapy and gastrointestinal bleeding." Am Fam Physician 43 (1991): 53-6,
+32. Lessler DS, Avins AL "Cost, uncertainty, and doctors' decisions. The case of thrombolytic therapy." Arch Intern Med 152 (1992): 1665-72
+33. De Jaegere PP, Arnold AA, Balk AH, Simoons ML "Intracranial hemorrhage in association with thrombolytic therapy: incidence and clinical predictive factors." J Am Coll Cardiol 19 (1992): 289-94
+34. LeBolt SA, Tisnado J, Cho SR "Treatment of peripheral arterial obstruction with streptokinase: results in arterial vs graft occlusions." AJR Am J Roentgenol 151 (1988): 589-92
+35. Goldberg M, Colonna-Romano P, Babins NA "Emergency coronary artery bypass surgery following intracoronary streptokinase." Anesthesiology 61 (1984): 601-4
+36. Hirsch DR, Goldhaber SZ "Bleeding time and other laboratory tests to monitor the safety and efficacy of thrombolytic therapy." Chest 97 (1990): s124-31
+37. Graor RA, Risius B, Young JR, Geisinger MA, Zelch MG, Smith JA, Ruschhaupt WF "Low-dose streptokinase for selective thrombolysis: systemic effects and complications." Radiology 152 (1984): 35-9
+38. Gillanders IA, Nakielny R, Channer KS "Spontaneous iliopsoas haemorrhage--an unusual complication of streptokinase therapy." Postgrad Med J 66 (1990): 862-3
+39. Stringer KA "Beyond thrombolysis: other effects of thrombolytic drugs." Ann Pharmacother 28 (1994): 752-6
+40. Friedman HS "Thrombolytic therapy for acute myocaardial infarction: GUSTO criticized." N Engl J Med 330 (1994): 504
+41. Marcus DM, Frederick AR "Streptokinase-induced tenon's hemorrhage after retinal detachment surgery." Am J Ophthalmol 118 (1994): 815-7
+42. Collen D "Coronary thrombolysis: streptokinase or recombinant tissue-type plasminogen activator?." Ann Intern Med 112 (1990): 529-38
+43. Marx M, Levin DC "Coronary thrombolytic therapy: state of the art." AJR Am J Roentgenol 147 (1986): 1-8
+44. Jervis P, Mason JDT, Jones NS "Streptokinase and facial haematoma." Postgrad Med J 71 (1995): 114-5
+45. Meneveau N, Bassand JP, Schiele F, Bouras Y, Anguenot T, Bernard Y, Schultz R "Safety of thrombolytic therapy in elderly patients with massive pulmonary embolism: a comparison with nonelderly patients." J Am Coll Cardiol 22 (1993): 1075-9
+46. Holmstrom M, Bratt G, Tornebohm E, Rhedin AS, Lockner D "Fatal pulmonary embolism caused by streptokinase treatment of deep venous thrombosis of the leg?" J Intern Med 228 (1990): 647-9
+47. Chesebro JH, Knatterud G, Roberts R, Borer J, Cohen LS, Dalen J, Dodge HT, Francis CK, Hillis D, Ludbrook P, et al "Thrombolysis in Myocardial Infarction (TIMI) Trial, Phase I: A comparison between intravenous tissue plasminogen activator and intravenous streptokinase. Clinical findings through hospital discharge." Circulation 76 (1987): 142-54
+48. Birnbaum Y, Stahl B, Rechavia E "Spontaneous hemarthrosis following thrombolytic therapy for acute myocardial infarction." Int J Cardiol 40 (1993): 289-90
+49. Godley PJ, Bell RC "Major hemorrhage following administration of intrapleural streptokinase." Chest 86 (1984): 486-7
+50. Montgomery HE, Mcintyre CW, Almond MK, Davies K, Pumphrey CW, Bennett D "Rhabdomyolysis and multiple system organ failure with streptokinase." BMJ 311 (1995): 1472
+51. Oldroyd KG, Hornung RS, Jones AM, Andrews NP, Dawes PT, Carson PH "Spontaneous haemarthrosis following thrombolytic therapy for myocardial infarction." Postgrad Med J 66 (1990): 387-8
+52. Willis SM, Bailey SR "Streptokinase-induced subcapsular hematoma of the liver." Arch Intern Med 144 (1984): 2084-5
+53. Seaberg DC, Generalovich T "Hemorrhagic compression of the phrenic nerve after streptokinase infusion." Am J Emerg Med 7 (1989): 185-6
+54. Kennedy JW, Gensini GG, Timmis GC, Maynard C "Acute myocardial infarction treated with intracoronary streptokinase: a report of the Society for Cardiac Angiography." Am J Cardiol 55 (1985): 871-7
+55. Levine MN, Goldhaber SZ, Gore JM, Hirsh J Califf RM "Hemorrhagic complications of thrombolytic therapy in the treatment of myocardial infarction and venous thromboembolism." Chest 108 Suppl (1995): s291-301
+56. Makhdoom ZA, MacLeod F, Holmes GK, Elliott S "Pain during streptokinase infusion." Lancet 340 (1992): 1235
+57. Sunderraj P "Intraocular hemorrhage associated with intravenously administered streptokinase." Am J Ophthalmol 112 (1991): 734-5
+58. Tisdale JE, Colucci RD, Ujhelyi MR, Kluger J, Fieldman A, Chow MS "Evaluation and comparison of the adverse effects of streptokinase and alteplase." Pharmacotherapy 12 (1992): 440-4
+59. Berridge DC, Makin GS, Hopkinson BR "Local low dose intra-arterial thrombolytic therapy: the risk of stroke or major haemorrhage." Br J Surg 76 (1989): 1230-3
+60. Partanen HJ, Nieminen MS "Intracerebellar fatal haemorrhage after thrombolytic therapy of suspected non-Q-wave myocardial infarction." Lancet 336 (1990): 883
+61. Haugeberg G, Bonarjee V, Dickstein K "Fatal intrathoracic haemorrhage after cardiopulmonary resuscitation and treatment with streptokinase and heparin." Br Heart J 62 (1989): 157-8
+62. Rentrop KP, Cohen M, Hosat ST "Thrombolytic therapy in acute myocardial infarction: review of clinical trials." Am J Cardiol 54 (1984): e29-31
+63. O'Meara JJ, McNutt RA, Evans AT, Moore SW, Downs SM "A decision analysis of streptokinase plus heparin as compared with heparin alone for deep-vein thrombosis." N Engl J Med 330 (1994): 1864-9
+64. Kahn SE, Goldstein J, Cope C "Low-dose streptokinase therapy for Swan-Ganz catheter-induced thrombosis." Am Heart J 110 (1985): 891-3
+65. Donnan GA, Davis SM, Chambers BR, Gates PC, Hankey GJ, Mcneil JJ, Rosen D, Stewartwynne EG, Tuck RR "Streptokinase for acute ischemic stroke with relationship to time of administration." JAMA 276 (1996): 961-6
+66. Mcgrath K, Hogan C, Hunt D, Omalley C, Green N, Dauer R, Dalli A "Neutralising antibodies after streptokinase treatment for myocardial infarction: a persisting puzzle." Br Heart J 74 (1995): 122-3
+67. Sleight P "Dangers of thrombolysis." BMJ 300 (1990): 1076
+68. Lynch M, Pentecost BL, Littler WA, Stockley RA "Why do patients develop reactions to streptokinase?" Clin Exp Immunol 94 (1993): 279-85
+69. Tio RA, Voorbij RH, Enthoven R "Adult respiratory distress syndrome after streptokinase." Am J Cardiol 70 (1992): 1632-3
+70. Jones PB, Clague R, Freemont T "Acute inflammatory polyarthritis following streptokinase." Br J Rheumatol 29 (1990): 402-3
+71. White HD, Cross DB, Williams BF, Norris RM "Safety and efficacy of repeat thrombolytic treatment after acute myocardial infarction." Br Heart J 64 (1990): 177-81
+72. McGrath KG, Patterson R "Anaphylactic reactivity to streptokinase." JAMA 252 (1984): 1314-7
+73. Noel J, Rosenbaum LH, Gangadharan V, Stewart J, Galens G "Serum sickness-like illness and leukocytoclastic vasculitis following intracoronary arterial streptokinase." Am Heart J 113 (1987): 395-7
+74. Smithson JE, Kennedy CT, Hughes S "A new skin lesion associated with intravenous streptokinase." BMJ 306 (1993): 973
+75. Davidson JR, Bush RK, Grogan EW, Boh LA, Graziano FM "Immunology of a serum sickness/vasculitis reaction secondary to streptokinase used for acute myocardial infarction." Clin Exp Rheumatol 6 (1988): 381-4
+76. Salem DN, Pauker SG "The need to identify patients who have received streptokinase therapy." N Engl J Med 324 (1991): 1742
+77. Siebert WJ, Ayres RW, Bulling MT, Thomas CM, Minson RB, Aylward PE "Streptokinase morbidity--more common than previously recognised." Aust N Z J Med 22 (1992): 129-33
+78. Green C "Antistreptokinase titres after topical streptokinase." Lancet 341 (1993): 1602-3
+79. Kelly MP, Bielawska C "Recurrence of a reactive arthritis following streptokinase therapy." Postgrad Med J 67 (1991): 402
+80. Fowler SF, Murray KM "Torsemide: a new loop diuretic." Am J Health Syst Pharm 52 (1995): 1771-80
+81. Clesham GJ, Terry HJ, Jalihal S, Toghill PJ "Serum sickness and purpura following intravenous streptokinase." J R Soc Med 85 (1992): 638-9
+82. Dykewicz MS, Patterson R "Serum sickness from streptokinase." Am Heart J 115 (1988): 1338-9
+83. Tisdale JE, Stringer KA, Antalek M, Matthews GE "Streptokinase-induced anaphylaxis." DICP 23 (1989): 984-7
+84. Cooper JP, Quarry DP, Beale DJ, Chappell AG "Life-threatening, localized angio-oedema associated with streptokinase." Postgrad Med J 70 (1994): 592-3
+85. Birnbaum Y, Strasberg B, Rechavia E, Neuman Y, Stahl B "Acute renal failure following intravenous streptokinase infusion for acute myocardial infarction." West J Med 158 (1993): 406-9
+86. Jennings K "Antibodies to streptokinase - once is enough." BMJ 312 (1996): 393-4
+87. Davies KA, Mathieson P, Winearls CG, Rees AJ, Walport MJ "Serum sickness and acute renal failure after streptokinase therapy for myocardial infarction." Clin Exp Immunol 80 (1990): 83-8
+88. Schweitzer DH, van der Wall EE, Bosker HA, Scheffer E, Macfarlane JD "Serum-sickness-like illness as a complication after streptokinase therapy for acute myocardial infarction." Cardiology 78 (1991): 68-71
+89. Lee HS, Yule S, McKenzie A, Cross S, Reid T, Davidson R, Jennings K "Hypersensitivity reactions to streptokinase in patients with high pre- treatment antistreptokinase antibody and neutralisation titres." Eur Heart J 14 (1993): 1640-3
+90. DiMuzio A, DiGuglielmo G, Feliciani C, DeLuca G, DiMuzio M, Uncini A "Inflammatory myopathy after intravenous streptokinase." Muscle Nerve 20 (1997): 619-21
+91. Patel A, Prussick R, Buchanan WW, Sauder DN "Serum sickness-like illness and leukocytoclastic vasculitis after intravenous streptokinase." J Am Acad Dermatol 24 (1991): 652-3
+92. Barnham M "Hypersensitivity and streptokinase." Lancet 335 (1990): 535
+93. Dykewicz MS, McGrath KG, Davison R, Kaplan KJ, Patterson R "Identification of patients at risk for anaphylaxis due to streptokinase." Arch Intern Med 146 (1986): 305-7
+94. Bednarczyk EM, Sherlock SC, Farah MG, Green JA "Anaphylactic reaction to streptokinase with first exposure: case report and review of the literature." DICP 23 (1989): 869-72
+95. Thompson RF, Stratton MA, Heffron WA "Hypersensitivity vasculitis associated with streptokinase." Clin Pharm 4 (1985): 383,
+96. Gray MY, Lazarus JH "Iritis after treatment with streptokinase." BMJ 309 (1994): 97
+97. Cross DB "Should streptokinase be readministered? insights from recent studies of antistreptokinase antibodies." Med J Aust 161 (1994): 100-1
+98. Lantin JP, Gattesco S, Duclos A, Zanchi A, Schaller MD, Pecoud A, Aubert V "Anaphylactoid purpura like vasculitis following fibrinolytic therapy - role of the immune response to streptokinase." Clin Exp Rheumatol 12 (1994): 429-33
+99. Thayer CF, Whitmore CK "Comment: streptokinase-induced reactions." DICP 24 (1990): 546-7
+100. Glassock RJ, Ritz E, Bommer J, Andrassy K, Waldherr R "Acute renal failure, hypertension and skin necrosis in a patient with streptokinase therapy." Am J Nephrol 4 (1984): 193-200
+101. Zatuchni J "Postthrombolytic high-risk syndrome." Angiology 39 (1988): 773-4
+102. Pochmalicki G, Feldman L, Meunier P, Rougeot C, Weschler J, Jan F "Cholesterol embolisation syndrome after thrombolytic therapy for myocardial infarction." Lancet 339 (1992): 58-9
+103. Schwartz MW, McDonald GB "Cholesterol embolization syndrome. Occurrence after intravenous streptokinase therapy for myocardial infarction." JAMA 258 (1987): 1934-5
+104. Melin JA, De Coster PM, Renkin J, Detry JM, Beckers C, Col J "Effect of intracoronary thrombolytic therapy on exercise-induced ischemia after acute myocardial infarction." Am J Cardiol 56 (1985): 705-11
+105. Richardson SG, Allen DC, Morton P, Murtagh JG, Scott ME, O'Keeffe DB "Pathological changes after intravenous streptokinase treatment in eight patients with acute myocardial infarction." Br Heart J 61 (1989): 390-5
+106. Alexopoulos D, Collins R, Adamopoulos S, Peto R, Sleight P "Holter monitoring of ventricular arrhythmias in a randomised, controlled study of intravenous streptokinase in acute myocardial infarction." Br Heart J 65 (1991): 9-13
+107. Ridker PM, Michel T "Streptokinase therapy and cholesterol embolization." Am J Med 87 (1989): 357-8
+108. Herlitz J, Hartford M, Aune S, Karlsson T "Occurrence of hypotension during streptokinase infusion in suspected acute myocardial infarction, and its relation to prognosis and metoprolol therapy." Am J Cardiol 71 (1993): 1021-4
+109. Blankenship JC, Almquist AK "Cardiovascular complications of thrombolytic therapy in patients with a mistaken diagnosis of acute myocardial infarction." J Am Coll Cardiol 14 (1989): 1579-82
+110. Pirson Y, Honhon B, Cosyns JP, van Ypersele C "Cholesterol embolism in a renal graft after treatment with streptokinase." Br Med J (Clin Res Ed) 296 (1988): 394-5
+111. RiveraManrique E, CastroSalomo A, AzonMasoliver A, Marin LM "Cholesterol embolism: A fatal complication after thrombolytic therapy for acute myocardial infarction." Arch Intern Med 158 (1998): 1575
+112. Gemmill JD, Hogg KJ, Douglas JT, Dunn FG, Lowe GD, Rae AP, Hillis WS "The incidence and mechanism of hypotension following thrombolytic therapy for acute myocardial infarction with streptokinase-containing agents--lack of relationship to pretreatment streptokinase resistance." Eur Heart J 14 (1993): 819-25
+113. Cercek B, Horvat M "Arrhythmias with brief, high-dose intravenous streptokinase infusion in acute myocardial infarction." Eur Heart J 6 (1985): 109-13
+114. Newby KH, Thompson T, Stebbins A, Topol EJ, Califf RM, Natale A "Sustained ventricular arrhythmias in patients receiving thrombolytic therapy - Incidence and outcomes." Circulation 98 (1998): 2567-73
+115. Lynch M, Hoffmann NV, Aroney CN "Thrombolytic treatment and proteinuria." Br Heart J 74 (1995): 354-7
+116. Pickett TM, Hilton PJ "Proteinuria and streptokinase." Lancet 341 (1993): 1538
+117. Payne ST, Hosker HS, Allen MB, Bradbury H, Page RL "Transient impairment of renal function after streptokinase therapy." Lancet 2 (1989): 1398
+118. Lang EK "Streptokinase therapy: complications of intra-arterial use." Radiology 154 (1985): 75-7
+119. Birnbaum Y, Hasdai D, Stahl B "Renal adverse effects of streptokinase therapy." Int J Cardiol 46 (1994): 1-6
+120. Birnbaum Y, Barash D, Rechavia E, Regev A, Stahl B, Mager A "Acute iritis and transient renal impairment following thrombolytic therapy for acute myocardial infarction." Ann Pharmacother 27 (1993): 1539-40
+121. Zilliox AP, Domoto DT, Hutcheson PS, Tsai CC, Slavin RG "Henoch-Schoenlein purpura due to streptokinase." J Clin Immunol 13 (1993): 415-23
+122. Lynch M, Pentecost BL, Littler WA, Stockley RA "Proteinuria with streptokinase." Lancet 341 (1993): 1024
+123. Maggioni AP, Franzosi MG, Santoro E, White H, Van de Werf F, Tognoni G "The risk of stroke in patients with acute myocardial infarction after thrombolytic and antithrombotic treatment. Gruppo Italiano per lo Studio della Sopravvivenza nell'Infarto Miocardico II (GISSI-2), andThe International Study Group." N Engl J Med 327 (1992): 1-6
+124. Kinshuck D "Bilateral hypopyon and streptokinase." BMJ 305 (1992): 1332
+125. Collins R, Sleight P, Maggioni AP "The risk of stroke after thrombolytic therapy ." N Engl J Med 327 (1992): 1531-2
+126. Leaf DA, MacDonald I, Kliks B, Wilson R, Jones SR "Streptokinase and the Guillain-Barre syndrome." Ann Intern Med 100 (1984): 617
+127. Arrowsmith JB, Milstien JB, Kuritsky JN, Murano G "Streptokinase and the Guillain-Barre syndrome." Ann Intern Med 103 (1985): 302
+128. Kaiser R, Kaufmann R, Czygan M, Lang H, Lucking CH "Guillain-Barre syndrome following streptokinase therapy." Clin Investig 71 (1993): 795-801
+129. Chrysanthopoulos C, Kounis N "Rhabdomyolysis due to combined treatment with lovastatin and cholestyramine." BMJ 304 (1992): 1225
+130. Maggioni AP, Franzosi MG, Farina ML, Santoro E, Celani MG, Ricci S, Tognoni G "Cerebrovascular events after myocardial infarction: analysis of the GISSI trial. Gruppo Italiano per lo Studio della Streptochinasi nell'Infarto Miocardico (GISSI)." BMJ 302 (1991): 1428-31
+131. Aldrich MS, Sherman SA, Greenberg HS "Cerebrovascular complications of streptokinase infusion." JAMA 253 (1985): 1777-9
+132. Polkey MI, Oliver RM, Walker JM "Hepatic dysfunction induced by streptokinase." Am J Gastroenterol 87 (1992): 1062
+133. Mager A, Birnbaum Y, Zlotikamien B, Strasberg B, Rechavia E, Sagie A, Sclarovsky S "Streptokinase-induced jaundice in patients with acute myocardial infarction." Am Heart J 121 (1991): 1543-4
+134. Pipek R, Avizohar O, Levy Y "Transient hepatic dysfunction in two brothers receiving heparin and streptokinase: a genetic predisposition?" Int J Cardiol 46 (1994): 299-301
+135. Gilutz H, Cohn G, Battler A "Jaundice induced by streptokinase." Angiology 47 (1996): 281-4
+136. Phillips E, Woolfrey S, Cameron E "Streptokinase-induced jaundice." Postgrad Med J 70 (1994): 55
+137. Schmidt E, Schmidt FW "Streptokinase-induced hepatic dysfunction." Am J Gastroenterol 79 (1984): 328-9
+138. Freimark D, Leor R, Hod H, Elian D, Kaplinsky E, Rabinowitz B "Impaired hepatic function tests after thrombolysis for acute myocardial infarction." Am J Cardiol 67 (1991): 535-7
+139. Sood N, Midha V "Streptokinase-induced jaundice due to hemolysis in a G-6PD-deficient patient." Am J Gastroenterol 95 (2000): 312-3
+140. Mahadeva R, Siklos PW "Pain during streptokinase infusion." Lancet 340 (1992): 1234-5
+141. Shah M, Taylor RT "Low back pain associated with streptokinase." BMJ 301 (1990): 1219
+142. Lear J, Rajapakse R, Pohl J "Low back pain associated with streptokinase." Lancet 340 (1992): 851
+143. Powers JC "Is menstruation a contraindication to thrombolytic therapy?." Clin Cardiol 15 (1992): 875
+144. Simel DL, Moorman JR, Pryor SL, Piscitelli JT, Sharma GV "Is streptokinase safe during menses?" Arch Intern Med 144 (1984): 841-2
+145. Kerstein MD, Adinolfi MF "Pulmonary dysfunction associated with streptokinase therapy." Arch Surg 121 (1986): 852-3
+146. Penswick J, Wright AL "Skin necrosis induced by streptokinase." BMJ 309 (1994): 378
+147. Abraham JS, Wilson M, Scripcariu V, Barnes PC, Marcuson RW "Microembolism from aortic aneurysm and ventricular thrombus: a complication of intravenous streptokinase." Postgrad Med J 70 (1994): 756-8
+148. Gorog DA, Ahmed N, Davies GJ "Platelet reactivity and streptokinase resistance following antecedent streptokinase therapy for myocardial infarction." Cardiology 91 (1999): 56-9
+149. Juhlin P, Bostrom PA, Torp A, Bredberg A "Streptokinase antibodies inhibit reperfusion during thrombolytic therapy with streptokinase in acute myocardial infarction." J Intern Med 245 (1999): 483-8
+150. Ogunyankin K "Thrombolytic therapy for acute myocardial infarction: GUSTO criticized." N Engl J Med 330 (1994): 505
+151. Topol EJ, Califf RM, Van de Werf F "Thrombolytic therapy for acute myocardial infarction: GUSTO criticized." N Engl J Med 330 (1994): 505-6
+152. Chelluri L, Sirio CA, Angus DC "Thrombolytic therapy for acute myocardial infarction: GUSTO criticized." N Engl J Med 330 (1994): 505
+153. Barletta JF "Streptokinase and urokinase for the treatment of pleural effusions and empyemas." Ann Pharmacother 33 (1999): 495-8
+It is possible that some side effects of Streptase may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Blurred vision
+confusion
+dizziness, faintness, or lightheadedness when getting up from a lying or sitting position suddenly
+fever
+sweating
+unusual tiredness or weakness
+
+
+Blood in stool
+blood in urine
+nose bleeds
+red or purple spots on skin
+unusual bruising
+vomiting blood
+
+
+Abdominal pain or swelling
+back pain or backaches
+black, tarry stools
+burning, itching, redness, or soreness of skin
+cloudy urine
+cold clammy skin
+constipation
+cough
+coughing up blood
+difficulty with breathing
+difficulty with swallowing
+dizziness
+fast heartbeat
+fast, weak pulse
+feeling of warmth
+greatly decreased frequency of urination or amount of urine
+headaches
+hives or welts
+large, hive-like swelling on face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
+lightheadedness
+muscle or bone pain
+nausea and vomiting
+noisy breathing
+puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
+redness of the face, neck, arms, and occasionally, upper chest
+shortness of breath
+skin rash
+tightness in chest
+wheezing
+

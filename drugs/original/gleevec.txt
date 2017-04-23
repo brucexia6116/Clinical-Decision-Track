@@ -1,0 +1,175 @@
+Generic Name: imatinib
+Applies to imatinib: oral capsule, oral tablet
+In addition to its needed effects, some unwanted effects may be caused by imatinib (the active ingredient contained in Gleevec). In the event that any of these side effects do occur, they may require medical attention.
+You should check with your doctor immediately if any of these side effects occur when taking imatinib:
+Some of the side effects that can occur with imatinib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
+
+
+Applies to imatinib: oral capsule, oral tablet
+In general, the most frequent side effects were nausea, vomiting, edema, tumor necrosis, and muscle cramps.  Most events were mild to moderate.  Causality was difficult to determine due to single arm study designs, disease complications, and concurrent medications.  This section lists adverse events regardless of causality.[Ref]
+Occurrence of hematologic toxicity appeared to be dependent on dose and disease stage.  The incidence of severe cytopenia was 2 to 3 times higher in blast crisis and accelerated phase than in chronic phase.  Neutropenic episodes had a median duration of 2 to 3 weeks and thrombocytopenic episodes had a duration of 3 to 4 weeks.  They were treated with dose reduction or imatinib (the active ingredient contained in Gleevec) treatment interruption.[Ref]
+Hematologic side effects have been the major toxicity associated with imatinib and have included cytopenias, especially neutropenia (16% to 35% grade 3, 8% to 46% grade 4), thrombocytopenia (16% to 30% grade 3, less than 1% to 31% grade 4), and anemia (4% to 40% grade 3, less than 1% to 10% grade 4).  Epistaxis was reported in an average of 3% to 12% of patients.  Pancytopenia has been reported infrequently.In pediatric CML patients the most frequent toxicities observed were grade 3 or 4 cytopenias including neutropenia, thrombocytopenia, and anemia.  These generally occurred within the first several months of therapy.  In the newly diagnosed CML trial, 1.1% of patients were reported to have grade 3 or 4 hemorrhage.  In the gastrointestinal stromal tumor (GIST) clinical trial, seven patients (5%) had a total of eight events of grade 3 or 4 gastrointestinal bleeds (3 patients), intratumor bleeds (3 patients) or both (1 patient).  Gastrointestinal tumor sites may have been the source of the GI bleeds.[Ref]
+Patients should be weighed and monitored regularly for signs and symptoms of fluid retention.  Unexpected rapid weight gain should be carefully investigated and appropriated treatment should be provided.One patient in blast crisis died with pleural effusion, congestive heart failure and renal failure.[Ref]
+Cardiovascular side effects have included edema, most frequently in the periorbital area or in the lower limbs.  Superficial edema was reported in 51% to 66% of patients.  In the chronic myeloid leukemia (CML) studies, the incidence of edema has been higher in patients over 65 years and with higher dosages.  Severe superficial edema has been reported in 1.5% to 6% of CML patients.  In addition, other severe fluid retention events (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) have been reported in 0.7% of newly diagnosed CML patients, and in 2% to 6% of other adult patients taking imatinib.  There have also been postmarketing reports, including fatalities, of cerebral edema, increased intracranial pressure, cardiac tamponade, and papilledema in patients with CML treated with imatinib.  Severe congestive heart failure and left ventricular dysfunction have been reported occasionally.  Cardiac failure, tachycardia, hypertension, hypotension, flushing, peripheral coldness, subdural hematoma, and increased CPK and LDH have been reported infrequently.  Pericarditis, thrombosis, and embolism have been reported rarely.[Ref]
+Hepatic side effects have included laboratory abnormalities with severe bilirubin and enzyme elevations: elevated bilirubin (0.4 to 3.5% grade 3), elevated alkaline phosphatase (0.2% to 5.1% grade 3, 0% to 0.4% grade 4), elevated AST (SGOT) (1.1% to 2.1% grade 3), elevated ALT (SGPT) (1.7% to 3% grade 3, 0% to 0.4% grade 4).  These abnormalities were managed with dose reduction or treatment interruption and had a median duration of 1 week.[Ref]
+Severe elevation of transaminases or bilirubin has been reported in approximately 5% of CML patients.  Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1.0% of CML patients.Fatal liver failure occurred in a study patient who regularly took acetaminophen concurrently.Imatinib may be potentially hepatotoxic with long-term use.  It was associated with severe hepatotoxicity in animal studies, including elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia.[Ref]
+Gastrointestinal side effects have included nausea (47% to 68%), vomiting (20.5% to 49%), diarrhea (33% to 49%), dyspepsia (9% to 19%), abdominal pain (20% to 29.9%), anorexia (3% to 10%), constipation (4% to 13%), and gastrointestinal hemorrhage (0.2% to 5%).  Abdominal distention, gastroesophageal reflux, and mouth ulceration have been reported less commonly.  Gastric ulcer, gastroenteritis, and gastritis have been reported infrequently.  Colitis, ileus/intestinal obstruction, and pancreatitis have been reported rarely.  Three cases of splenic rupture have also been reported.[Ref]
+Musculoskeletal side effects have included muscle cramps (25% to 46%), musculoskeletal pain (27% to 39.9%), arthralgia (21% to 28%), myalgia (7% to 22.5%), and weakness (5% to 10%).  Joint swelling has been reported less commonly.  Sciatica as well as joint and muscle stiffness have been reported infrequently.  Rhabdomyolysis has also been reported.  In children, growth retardation has been reported.[Ref]
+Nervous system side effects have included headache (24% to 33.6%) and CNS hemorrhage (0.2% to 4%).  Paresthesia has been reported less commonly.  Syncope, peripheral neuropathy, somnolence, and migraine have been reported infrequently.  Confusion, convulsions, increased intracranial pressure, and cerebral edema (including fatalities) have been reported rarely.[Ref]
+Dermatologic side effects have included skin rash (32% to 39%), pruritus (6% to 10%), and petechiae (0.9% to 10%).  Dry skin and alopecia have been less common.  Exfoliative dermatitis, psoriasis, bullous eruption, nail disorder, skin pigmentation changes, photosensitivity reaction and purpura have been reported infrequently.  Vesicular rash, erythema multiforme, and Stevens-Johnson syndrome have been reported rarely.  In one trial (n=133), nine of the patients who had grey hair before treatment had progressive repigmentation of the hair (on the head in eight patients and on the body and the head in one).  Three cases of hyperkeratosis and nail dystrophy have been reported in patients with chronic myeloid leukemia.  Three cases of skin rashes with a peculiar livedoid pattern that were probably associated with imatinib (the active ingredient contained in Gleevec) therapy have also been reported.  Two cases of oral and cutaneous lichenoid reaction have been reported.  A case of follicular mucinosis and a case of severe pustular eruption have been reported.[Ref]
+In some cases of bullous dermatologic reactions (including erythema multiforme and Stevens-Johnson syndrome reported during postmarketing surveillance), a recurrent dermatologic reaction was observed upon rechallenge.  Several foreign postmarketing reports have described cases in which patients tolerated the reintroduction of imatinib therapy after resolution or improvement of the bullous reaction.  In these instances, imatinib was resumed at a dose lower than that at which the reaction occurred and some patients also received concomitant treatment with corticosteroids or antihistamines.Hair repigmentation was reported to occur after a median of 5 months.[Ref]
+Respiratory side effects have included nasopharyngitis (5% to 26.9%), cough (9% to 22%), pharyngolaryngeal pain (16.9%), upper respiratory tract infection (16.5%), dyspnea (5% to 16%), and pneumonia (1% to 10%).  Interstitial pneumonitis and pulmonary fibrosis have been reported rarely.[Ref]
+Monitoring for SIADH has been recommended for patients receiving high dose imatinib (the active ingredient contained in Gleevec) who develop hyponatremia.[Ref]
+Metabolic side effects have included weight increase (4% to 16%) and hypokalemia (2% to 12%).  Hypophosphatemia, decreased weight, and gout have been reported infrequently.  Hyperkalemia and hyponatremia have been reported rarely.  A case of the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) has been reported in a patient receiving high dose imatinib.  Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported.[Ref]
+Other side effects have included pyrexia (14% to 38%), fatigue (24% to 37.0%), dizziness (15.8%), insomnia (13.2%), influenza (11.1%), and night sweats (8% to 10%).  Infections including sepsis, herpes simplex, and herpes zoster have been reported infrequently.  Dehydration, appetite disturbances, vertigo, and tinnitus have been reported infrequently.  A case of dental hyperpigmentation and a case of hand-foot syndrome have also been reported.[Ref]
+Imatinib (the active ingredient contained in Gleevec) may be potentially nephrotoxic with long term use.  It was associated with focal mineralization and dilation of the renal tubules, tubular nephrosis, and increased BUN and creatinine in animal studies.[Ref]
+Renal side effects have included elevated creatinine (1.2% to 1.3% grade 3).  Renal failure, urinary frequency, and hematuria have been reported infrequently.[Ref]
+Hypersensitivity side effects including angioedema have been reported infrequently.[Ref]
+Psychiatric side effects including depression (12.7%), anxiety, and memory impairment have been reported infrequently.[Ref]
+Genitourinary side effects including breast enlargement, menorrhagia, and sexual dysfunction have been reported infrequently.[Ref]
+Breast enlargement has been reported in both female and male patients (gynecomastia).[Ref]
+Ocular side effects including periorbital edema, epiphora, conjunctivitis, and blurred vision have been reported.  Conjunctival hemorrhage and dry eye have been reported infrequently.  Macular edema, papilledema, glaucoma, vitreous hemorrhage, and retinal hemorrhage have been reported rarely.[Ref]
+In most cases, periorbital edema and epiphora can be managed conservatively.  In severe cases, oral diuretics or topical steroids may improve the signs and symptoms of periorbital edema and epiphora.  In unusually severe cases of periorbital edema, surgical excision of periocular soft tissue may be necessary to improve function.[Ref]
+Oncologic side effects have been reported in animal studies including renal adenomas, renal carcinomas, urinary bladder papillomas, and papillomas/carcinomas of the preputial and clitoral gland.  A case of eccrine squamous syringometaplasia has also been reported.[Ref]
+1. "Product Information. Gleevec (imatinib mesylate)." Novartis Pharmaceuticals, East Hanover, NJ. 
+2. Elliott MA,  Mesa RA,  Tefferi A "Adverse events after imatinib mesylate therapy." N Engl J Med 346 (2002): 712-3
+3. Druker BJ, Talpaz M, Resta DJ, et al. "Efficacy and safety of a specific inhibitor of the BCR-ABL tyrosine kinase in chronic myeloid leukemia." N Engl J Med 344 (2001): 1031-7
+4. Maxwell GL,  Synan I,  Dodge R,  Carroll B,  Clarke-Pearson DL "Pneumatic compression versus low molecular weight heparin in gynecologic oncology surgery: a randomized trial." Obstet Gynecol 98 (2001): 989-95
+5. Penel N,  Blay JY,  Adenis A "Imatinib as a possible cause of severe rhabdomyolysis." N Engl J Med 358 (2008): 2746-7
+6. Gambillara E,  Laffitte E,  Widmer N, et al. "Severe pustular eruption associated with imatinib and voriconazole in a patient with chronic myeloid leukemia." Dermatology 211 (2005): 363-5
+7. Etienne G,  Cony-Makhoul P,  Mahon FX "Imatinib mesylate and gray hair." N Engl J Med 347 (2002): 446
+8. Pascual JC,  Matarredona J,  Miralles J,  Conesa V,  Borras-Blasco J "Oral and cutaneous lichenoid reaction secondary to imatinib: report of two cases." Int J Dermatol 45 (2006): 1471-3
+9. Yanagi T,  Sawamura D,  Shimizu H "Follicular mucinosis associated with imatinib (STI571)." Br J Dermatol 151 (2004): 1276-8
+10. Martinez-Gonzalez MC,  Del Pozo J,  Yebra-Pimentel MT,  Perez M,  Almagro M,  Fonseca E "Livedoid skin reaction probably due to imatinib therapy." Ann Pharmacother 41 (2007): 148-52
+11. Deguchi N,  Kawamura T,  Shimizu A, et al. "Imatinib mesylate causes palmoplantar hyperkeratosis and nail dystrophy in three patients with chronic myeloid leukaemia." Br J Dermatol 154 (2006): 1216-8
+12. Liapis K,  Apostolidis J,  Charitaki E,  Panitsas F,  Harhalakis N,  Nikiforakis E "Syndrome of inappropriate secretion of antidiuretic hormone associated with imatinib." Ann Pharmacother 42 (2008): 1882-6
+13. Singh N,  Bakhshi S "Imatinib-induced dental hyperpigmentation in childhood cronic myeloid leukemia." J Pediatr Hematol Oncol 29 (2007): 208-9
+14. Battistella M,  Fremont G,  Vignon-Pennamen MD,  Gornet JM,  Dubertret L,  Viguier M "Imatinib-induced hand-foot syndrome in a patient with metastatic gastrointestinal stromal tumor." Arch Dermatol 144 (2008): 1400-2
+15. Gambacorti-Passerini C,  Tornaghi L,  Cavagnini F, et al. "Gynaecomastia in men with chronic myeloid leukaemia after imatinib." Lancet 361 (2003): 1954-6
+16. Fraunfelder FW,  Solomon J,  Druker BJ,  Esmaeli B,  Kuyl J "Ocular side-effects associated with imatinib mesylate (Gleevec)." J Ocul Pharmacol Ther 19 (2003): 371-5
+17. Van de Voorde K,  De Raeve H,  Van Regenmortel N,  Lambert J "Imatinib-induced eccrine squamous syringometaplasia." J Am Acad Dermatol 55(2 Suppl) (2006): S58-9
+Not all side effects for Gleevec may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+
+Abdominal or stomach pain, cramping, burning, or tenderness
+bleeding from wound after surgery
+bleeding gums
+bleeding problems
+bloating or swelling of the face, hands, lower legs, or feet
+blood in the urine
+bloody eye
+bloody nose
+blue lips and fingernails
+blurred vision
+body aches or pain
+chest pain or discomfort
+chills
+clay-colored stools
+cough
+coughing that sometimes produces a pink frothy sputum
+coughing up blood
+decrease in the amount of urine
+decreased appetite
+decreased urination
+diarrhea
+difficult or labored breathing
+difficulty with swallowing
+dizziness
+dry mouth
+ear congestion
+fever
+general feeling of discomfort or illness
+headache
+inability to speak
+increased menstrual flow or vaginal bleeding
+increased thirst
+irregular heartbeat
+itching or skin rash
+joint pain
+large, flat, blue, or purplish patches on the skin
+loss of appetite
+loss of voice
+mood changes
+muscle aches and pain
+muscle cramps
+nausea and vomiting
+noisy, rattling breathing
+nosebleed
+numbness or tingling in the hands, feet, or lips
+pain or tenderness around the eyes and cheekbones
+painful or difficult urination
+pale skin
+prolonged bleeding from cuts
+rapid weight gain
+red, black, bloody, or tarry stools
+red or dark brown urine
+redness of the eye
+seizures
+shivering
+slurred speech
+small red or purple spots on the skin
+sneezing
+sore throat
+sores, ulcers, or white spots on the lips or in the mouth
+stuffy or runny nose
+sweating
+swelling in the legs and ankles
+swollen glands
+temporary blindness
+tightness in the chest
+trouble sleeping
+troubled breathing at rest
+troubled breathing when moving or walking
+unusual bleeding or bruising
+unusual tiredness or weakness
+vomiting of blood or material that looks like coffee grounds
+weakness in the arm or leg on one side of the body, sudden and severe
+yellow eyes or skin
+
+
+Anxiety
+blistering, peeling, or loosening of the skin
+change in vision not present before treatment
+chest pain, possibly moving to the left arm, neck, or shoulder
+confusion
+delayed or slow growth in children
+irregular, fast or slow, or shallow breathing
+nausea, heartburn, or indigestion, severe and continuing
+pain in the bones
+red, irritated eyes
+red skin lesions, often with a purple center
+seeing floaters, veil, or curtain appearing across part of vision
+severe abdominal or stomach pain, cramping, or burning
+severe constipation
+severe vomiting
+tenderness, pain, swelling, warmth, skin discoloration, and prominent superficial veins over affected area
+
+
+Acid or sour stomach
+belching
+difficulty having a bowel movement (stool)
+difficulty with moving
+discouragement
+excess air or gas in the stomach or intestines
+fear or nervousness
+feeling sad or empty
+feeling unusually cold
+full or bloated feeling
+increased bowel movements
+irritability
+lack or loss of strength
+loose stools
+loss of interest or pleasure
+muscle stiffness
+night sweats
+passing gas
+stomach discomfort, upset, or pain
+swollen joints
+trouble concentrating
+weight loss
+
+
+Back pain
+bad, unusual, or unpleasant (after) taste
+change in taste
+watering of the eyes
+

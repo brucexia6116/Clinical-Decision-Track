@@ -1,0 +1,101 @@
+Commonly reported side effects of canagliflozin include: vulvovaginal candidiasis, vaginal infection, vulvitis, vulvovaginitis, and mean glomerular filtration rate decreased. Other side effects include: balanitis, balanoposthitis, increased urine output, nocturia, polyuria, urinary urgency, and pollakiuria.  See below for a comprehensive list of adverse effects.
+Applies to canagliflozin: oral tablet
+In addition to its needed effects, some unwanted effects may be caused by canagliflozin. In the event that any of these side effects do occur, they may require medical attention.
+You should check with your doctor immediately if any of these side effects occur when taking canagliflozin:
+Some of the side effects that can occur with canagliflozin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
+
+
+Applies to canagliflozin: oral tablet
+The most commonly reported adverse reactions were hypoglycemia when used in combination with insulin or an insulin secretagogue, vulvovaginal candidiasis, urinary tract infection, and increased urinary frequency.[Ref]
+Very common (10% or more): Female genital mycotic infections including vulvovaginal mycotic infection, vulvovaginitis, vaginal infection, vulvitis, and genital infection fungal (up to 11.4%), recurrent male genital mycotic infections (22%)Common (1% to 10%): Urinary tract infection, increased urination, male genital mycotic infections including balanitis, balanoposthitis, balanitis candida, and fungal genital infection Uncommon (0.1% to 1%): PhimosisPostmarketing reports: Urosepsis, pyelonephritis[Ref]
+Common (1% to 10%): Adverse reactions related to reduced intravascular volume (postural hypotension, orthostatic hypotension, hypotension, dehydration, and syncope)[Ref]
+Twenty reports of acidosis have been identified in the US Food and Drug Administration Adverse Event Reporting System (FAERS) database during the period March 2013 through 06 June 2014.  All patients required emergency room treatment or hospitalization.  These cases were not typical of ketoacidosis or diabetic ketoacidosis (DKA) in that they occurred in patients with type 2 diabetes and their blood sugar levels were only slightly increased.  Some factors identified as potentially triggering the acidosis included major illness, reduced food and fluid intake, and reduced insulin dose.[Ref]
+Very common (10% or more): Hypoglycemia when combined with insulin or an insulin secretagogue (up to 49%), hyperkalemia (up to 27%)Common (1% to 10%): Increased serum magnesium, increased serum phosphate, increased low-density lipoprotein (LDL-C)Postmarketing reports: Acidosis including diabetic ketoacidosis, ketoacidosis, or ketosis[Ref]
+Common (1% to 10%): Constipation, thirst, nausea, abdominal pain, pancreatitis[Ref]
+In a pooled analysis of 9 clinical trials with a mean duration drug exposure of 85 weeks, the incidence rate of adjudicated bone fractures were 1.1, 1.4, 1.5 per 100 patient years of exposure to the comparator, 100 or 300 mg dose, respectively.  Fractures were observed as early as 12 weeks and were more likely to be caused by low trauma and affect upper extremities.  On September 10, 2015, the US Food and Drug Administration issued a drug safety communication regarding new information on bone fracture risk and decreased bone mineral density with use of canagliflozin.  Based on updated data, fractures have occurred as early as 12 weeks after starting therapy with trauma that is usually minor, such as falling from standing height.  Additionally, a 2-year study (n=714) has shown a greater loss of bone mineral density at the hip and lower spine in canagliflozin treated patients compared with placebo.[Ref]
+Uncommon (0.1% to 1%): Bone fracture, upper extremity fractureFrequency not reported: Loss of bone mineral density at hip and lower spine[Ref]
+Common (1% to 10%): Hypersensitivity reactions including rash, pruritus, urticaria, and angioedemaFrequency not reported: Serious hypersensitivity reactionPostmarketing reports: Anaphylaxis[Ref]
+Frequency not reported: Increases in serum creatinine, decreases in eGFR, renal impairment, acute renal failurePostmarketing reports: Acute kidney injury[Ref]
+In a pooled analysis among patients with moderate renal impairment, the incidence of renal related adverse reactions such as increased serum creatinine, decreased eGFR, renal impairment, or acute renal failure, was 8.9% and 9.3% in patients receiving canagliflozin 100 mg or 300 mg, compared with 3.7% in those receiving comparator drug or placebo.From March 2013 to October 2015, the US FDA received 101 confirmable case reports of acute kidney injury (AKI) with use of canagliflozin (n=73) or dapagliflozin (n=28).  Hospitalization was necessary for evaluation and management in 96 cases; admission to the intensive care unit occurred in 22 cases, and death occurred in 4 patients, of which 2 were cardiac-related.  Dialysis was necessary in 15 patients, 3 of whom had a history of chronic kidney disease or previous AKI.  In 58 cases, time to onset of AKI was within 1 month or less of initiating therapy.  In 78 cases in which drug discontinuation was reported, 56 reported subsequent improvement; 3 patients recovered with sequelae, 11 patients did not recover (including the 4 deaths mentioned earlier).  Median age was 57 years (range 28 to 78 years; based on 84 cases reporting age).  Concomitant ACE inhibitor therapy was reported in 51 cases, diuretic use in 26 cases, and NSAID use in 6 cases.  Almost half the patients reported a change in renal function at time of diagnosis (median elevation of serum creatinine from baseline 1.6 mg/dL [based on 32 cases reporting serum creatinine] and median decrease in eGFR 46 mL/min/1.73m2 [based on 13 cases reporting eGFR]).[Ref]
+Uncommon (0.1% to 1%): Photosensitivity reactions, rash, urticaria[Ref]
+The US FDA has issued a safety alert warning of increased leg and foot amputations (mostly toes) compared to placebo in the ongoing CANVAS (Canagliflozin Cardiovascular Assessment Study) clinical trial.  Interim safety results have shown risk of amputation for patients receiving 100 mg daily, 300 mg daily, and placebo were 7, 5, and 3 out of 1000 patients treated, respectively based on an average follow-up of 4.5 years.  A similar trial (CANVAS-R) trial has not shown these risks (average follow-up 9 months).  The FDA will continue to evaluate this safety issue and update as necessary.[Ref]
+Common (1% to 10%): Fatigue, asthenia, fallsUncommon (0.1% to 1%): Leg and foot amputations[Ref]
+1. Cerner Multum,  Inc. "Australian Product Information." O 0
+2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+3. "Product Information. Invokana (canagliflozin)." Janssen Pharmaceuticals, Titusville, NJ. 
+4. FDA. U.S. Food and Drug Administration "FDA: SGLT2 inhibitors: Drug Safety Communication - FDA Warns Medicines May Result in a Serious Condition of Too Much Acid in the Blood
+ Available from: URL: http://www.fda.gov/safety/medwatch/safetyinformation/safetyalertsforhumanmedicalproducts/ucm44699"   (2015 May 15):
+5. US Food and Drug Administration "Invokana and Invokamet (canagliflozin): Drug Safety Communication - New Information on Bone Fracture Risk and Decreased Bone Mineral Density. Available from: URL: http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm"   ([2015, Sep. 10]):
+6. US Food and Drug Administration "Canagliflozin (Invokana, Invokamet) and Dapagliflozin (Farxiga, Xigduo XR): Drug Safety Communication - Strengthened Kidney Warnings. Available from: URL: http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm506554.h"   ([2016, Jun 14]):
+7. FDA. U.S. Food and Drug Administration "FDA Drug Safety Communication: Interim clinical trial results find increased risk of leg and foot amputations, mostly affecting the toes, with the diabetes medicine canagliflozin (Invokana, Invokamet); FDA to investigate. Available from: URL: http://www.f"   ([2016, May 18]):
+Not all side effects for canagliflozin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+
+Bladder pain
+bloody or cloudy urine
+decreased frequency or amount of urine
+difficult, burning, or painful urination
+discharge with a strong odor from the penis
+frequent urge to urinate
+increased thirst
+itching of the vagina or outside of the genitals
+loss of appetite
+lower back or side pain
+nausea
+pain during sexual intercourse
+pain in the skin around the penis
+redness, itching, or swelling of the penis
+swelling of the face, fingers, or lower legs
+troubled breathing
+unusual tiredness or weakness
+vaginal discharge without odor or with mild odor
+vomiting
+weight gain
+
+
+Anxiety
+blurred vision
+chills
+cold sweats
+confusion
+cool, pale skin
+depression
+dizziness
+dry mouth
+fast or irregular heartbeat
+headache
+hives or welts, itching skin, rash
+increased hunger
+large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
+nightmares
+redness of the skin
+seizures
+shakiness
+slurred speech
+unusual tiredness or weakness
+
+
+Abdominal or stomach pain
+blurred vision
+dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
+flushed, dry skin
+frequent or painful urination
+frequent urge to urinate
+fruit-like breath odor
+increased urination
+loss of consciousness
+numbness or tingling in the hands, feet, or lips
+stomach pain
+sweating
+unexplained weight loss
+weakness or heaviness of the legs
+
+
+Difficulty having a bowel movement (stool)
+lack or loss of strength
+pain or swelling in the arms or legs without an injury
+
+
+Increased sensitivity of the skin to sunlight
+redness or other discoloration of the skin
+severe sunburn
+

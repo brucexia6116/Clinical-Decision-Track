@@ -1,0 +1,85 @@
+Commonly reported side effects of eptifibatide include: major hemorrhage and minor hemorrhage.  See below for a comprehensive list of adverse effects.
+Applies to eptifibatide: intravenous solution
+In addition to its needed effects, some unwanted effects may be caused by eptifibatide. In the event that any of these side effects do occur, they may require medical attention.
+
+If any of the following side effects occur while taking eptifibatide, check with your doctor or nurse immediately:
+
+
+Applies to eptifibatide: intravenous solution
+Prior to approval by the FDA, the efficacy and safety of eptifibatide was evaluated in 8,737 patients.  The average age of these patients was 62 years (range 20 to 94).  Eighty nine percent were Caucasian, 5% were Black, and 5% were Hispanic.  Sixty seven percent were male.  The most common side effect was bleeding.  Discontinuation of eptifibatide due to adverse events other than bleeding has been uncommon; no single event occurred in greater than 0.5% of the study population.[Ref]
+The overall incidence of intracranial hemorrhage or stroke in large clinical trials has ranged from 0.5% to 0.7% of patients, depending on dose.  The incidences of thrombocytopenia and the need for platelet transfusions were similar between patients who received eptifibatide and those who received placebo, suggesting a stronger relationship between these problems and the use of heparin than with the use of the study drug.  However, bleeding times and activated clotting times have been significantly higher among treated patients compared with placebo, in some cases despite receiving less heparin.The incidence of thrombocytopenia (less than 100,000 cells/mcL) associated with eptifibatide is 1.2% to 6.8%, while severe thrombocytopenia (less than 50,000 cells/mcL) has been reported in 0.2% of patients.  Platelet transfusions have been reported in 1.3% to 1.5% of patients.The results of one study (PROTECT-TIMI-30 trial) indicate that in high-risk non ST segment elevation acute coronary syndrome patients undergoing percutaneous coronary intervention (PCI) and treated with eptifibatide, increased age significantly correlated with bleeding events.  Patients with reduced CrCl (less than or equal to 50 mL/min), given a full-dose eptifibatide infusion, were associated with a greater incidence of bleeding events.  No bleeding events occurred in patients with reduced CrCl who received a reduced dose infusion.  In addition, the majority of bleeding events occurred more than 6 hours after initiation of the eptifibatide infusion.Risk factors for bleeding events in patients treated with glycoprotein (GP) IIb/IIIa inhibitors undergoing percutaneous coronary intervention have been identified and include advanced age, renal dysfunction, female gender, peripheral vascular disease, lower body weight, duration of GP IIb/IIIa inhibitor infusion, baseline platelet count, lower baseline hemoglobin, diabetes, and elevated peak activated clotting time.  According to one study (CRUSADE trial) involving patients with non ST segment elevation acute coronary syndrome treated with a GPIIb/IIIa inhibitor, women are at a greater risk of bleeding than men, primarily because of excessive dosing.[Ref]
+Hematologic side effects have been the most common and potentially serious.  The incidences of major (intracranial hemorrhage or decreases in hemoglobin of 5 mg/dL or more) and minor bleeding (spontaneous gross hematuria or hematemesis, decreases in hemoglobin of less than 5 mg/dL) were 10.8% and 13.1% (PURSUIT study) and 4.7% and 14.2% (IMPACT II study), respectively.  The incidences of the transfusion requirements in these two studies were 12.8% and 5.8%, respectively.  The overall incidence of major bleeding was strongly associated with the incidence of coronary artery bypass graft surgery, and occurred mainly at arterial puncture sites.  The next most common sites of bleeding--occurring in 0% to 6% of patients--were oropharyngeal (primarily gingival), gastrointestinal (incidences of upper and lower GI bleeding similar), genitourinary, then retroperitoneal.  In the PURSUIT study, the risk of major bleeding was inversely related to body weight; patients less than 70 kg showed the highest correlation.  Bleeding was cited as the reason to discontinue therapy in 3.5% to 8.0% of patients.  Fatal bleeding, thrombocytopenia, as well as cerebral, gastrointestinal and pulmonary hemorrhage (when used in combination with aspirin and heparin) have been reported during postmarketing experience.[Ref]
+Hypersensitivity reactions have been rare, and have included anaphylaxis in approximately 0.05% of patients.[Ref]
+Cardiovascular side effects have included hypotension (7% versus 6% among placebo patients).  Other cardiovascular side effects may have been related to underlying disease as they were typical of side effects among patients with unstable angina.[Ref]
+Nervous system side effects have been limited to non hemorrhagic stroke in approximately 0.5% of treated and placebo patients in controlled trials.[Ref]
+Musculoskeletal discomfort--basically back pain--was reported in significantly more patients who received eptifibatide compared with placebo patients in the IMPACT II trial (50% versus 47%).[Ref]
+Local intravenous site reactions have been reported in significantly more treated patients compared with placebo patients in controlled trials.  Arterial access sites are the most common sites of bleeding.[Ref]
+Immunologic side effects have included postmarketing reports of IgG antibodies related to immune-mediated thrombocytopenia.[Ref]
+1. Adgey AA "An overview of the results of clinical trials with glycoprotein IIb/IIIa inhibitors." Am Heart J 135 (1998): s43-55
+2. Harrington RA, Kleiman NS, Kottke-Marchant K, Lincoff AM, Tcheng JE, Sigmon KN, Joseph D, Rios G, Trainor K, Rose D, et al "Immediate and reversible platelet inhibition after intravenous administration of a peptide glycoprotein IIb/IIIa inhibitor durin percutaneous coronary intervention." Am J Cardiol 76 (1995): 1222-7
+3. Coons JC,  Barcelona RA,  Freedy T,  Hagerty MF "Eptifibatide-associated acute, profound thrombocytopenia." Ann Pharmacother 39 (2005): 368-72
+4. Huxtable LM,  Tafreshi MJ,  Rakkar AN "Frequency and Management of Thrombocytopenia With the Glycoprotein IIb/IIIa Receptor Antagonists." Am J Cardiol 97 (2006): 426-9
+5. Brouse SD,  Wiesehan VG "Evaluation of bleeding complications associated with glycoprotein IIb/IIIa inhibitors." Ann Pharmacother 38 (2004): 1783-8
+6. Blankenship JC "Bleeding complications of glycoprotein IIb-IIIa receptor inhibitors." Am Heart J 138 (1999): s287-96
+7. Kleiman NS "Primary and secondary safety endpoints from IMPACT II. Integrilin to Minimize Platelet Aggregation and Coronary Thrombosis." Am J Cardiol 80 (1997): b29-33
+8. Kirtane AJ,  Piazza G,  Murphy SA, et al. "Correlates of bleeding events among moderate- to high-risk patients undergoing percutaneous coronary intervention and treated with eptifibatide: observations from the PROTECT-TIMI-30 trial." J Am Coll Cardiol 47 (2006): 2374-9
+9. Tcheng JE, Harrington RA, Kottke-Marchant K, Kleiman NS, Ellis SG, Kereiakes DJ, Mick MJ, Navetta FI, Smith JE, Worley SJ, et al "Multicenter, randomized, double-blind, placebo-controlled trial of the platelet integrin glycoprotein IIb/IIIa blocker Integrelin i elective coronary intervention. IMPACT Investigators." Circulation 91 (1995): 2151-7
+10. Topol E, Califf R, Simoons M, Diaz R, Paolasso E, Klein W, Boland J, DeBacker G, Armstrong P, Corbalan R, Isaza D, Widimsky P, "Inhibition of platelet glycoprotein IIb/IIIa with eptifibatide in patients with acute coronary syndromes." N Engl J Med 339 (1998): 436-43
+11. The IMPACT-II Investigators "Randomised placebo-controlled trial of effect of eptifibatide on complications of percutaneous coronary intervention: IMPACT-II." Lancet 349 (1997): 1422-8
+12. Dobesh PP, Latham KA "Advancing the battle against acute ischemic syndromes: a focus on the GP IIb-IIIa inhibitors." Pharmacotherapy 18 (1998): 663-85
+13. Goa KL, Noble S "Eptifibatide - A review of its use in patients with acute coronary syndromes and/or undergoing percutaneous coronary intervention." Drugs 57 (1999): 439-62
+14. Alexander KP,  Chen AY,  Newby LK, et al. "Sex Differences in Major Bleeding With Glycoprotein IIb/IIIa Inhibitors. Results From the CRUSADE (Can Rapid Risk Stratification of Unstable Angina Patients Suppress Adverse Outcomes With Early Implementation of the ACC/AHA Guidelines) Initiative." Circulation 114 (2006): 1380-7
+15. Tcheng JE, OShea JC, Cohen EA, Pacchiana CM, Kitt MM, Lorenz TJ, Greenberg S, Strony J, Califf RM, Buller C, Cantor WJ, "Novel dosing regimen of eptifibatide in planned coronary stent implantation (ESPRIT): a randomised, placebo-controlled trial." Lancet 356 (2000): 2037-44
+16. Tcheng JE "Impact of eptifibatide on early ischemic events in acute ischemic coronary syndromes: a review of the IMPACT II trial. Integrilin t Minimize Platelet Aggregation and Coronary Thrombosis." Am J Cardiol 80 (1997): b21-8
+Not all side effects for eptifibatide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+
+Abdominal or stomach pain or swelling
+back pain or backaches
+bleeding from the bladder
+bleeding gums
+blood in the urine
+bloody or black, tarry stools
+blurred vision
+confusion
+constipation
+coughing up blood
+difficulty with breathing or swallowing
+dizziness
+dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
+headache
+headache, sudden and severe
+increased menstrual flow or vaginal bleeding
+nausea and vomiting
+nosebleeds
+paralysis
+prolonged bleeding from cuts
+red or black, tarry stools
+red or dark brown urine
+severe stomach pain
+shortness of breath
+sweating
+unusual tiredness or weakness
+vomiting of blood or material that looks like coffee grounds
+weakness
+
+
+Pinpoint red spots on the skin
+
+
+Cough
+difficulty with swallowing
+fast heartbeat
+hives
+itching
+puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
+skin rash
+tightness in the chest
+wheezing
+
+
+Difficulty with speaking
+double vision
+inability to move the arms, legs, or facial muscles
+inability to speak
+slow speech
+

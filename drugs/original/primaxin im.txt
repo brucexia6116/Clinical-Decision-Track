@@ -1,0 +1,80 @@
+Generic Name: cilastatin / imipenem
+Applies to cilastatin / imipenem: powder for solution
+As well as its needed effects, cilastatin / imipenem may cause unwanted side effects that require medical attention. 
+If any of the following side effects occur while taking cilastatin / imipenem, check with your doctor immediately:
+Some cilastatin / imipenem side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+
+
+Applies to cilastatin / imipenem: injectable powder for injection, intramuscular powder for injection
+Imipenem is generally well tolerated.[Ref]
+Local side effects associated with IV administration have included phlebitis or thrombophlebitis at the injection site (3.1%), pain at the injection site (0.7%), erythema at the injection site (0.4%), vein induration (0.2%), infused vein infection (0.1%), and injection site reaction.[Ref]
+Gastrointestinal side effects have included nausea (2%), vomiting (1.5%), and diarrhea (1.8%).  Pseudomembranous colitis, hemorrhagic colitis, gastroenteritis, abdominal pain, glossitis, tongue papillar hypertrophy, staining of the teeth or tongue, heartburn, pharyngeal pain, and increased salivation have been reported in less than 0.2% of patients.  Constipation has also been reported.[Ref]
+Seizures may be dose-related and are generally reported in patients with renal insufficiency, central nervous system pathology (stroke or neoplasm), or a history of seizure disorder, head trauma, or alcoholism.A 49-year-old woman with advanced ovarian adenocarcinoma experienced severe myoclonus of the upper extremities while receiving imipenem 500 mg every 6 hours.  The myoclonus started to improve within 12 hours of imipenem discontinuation.[Ref]
+Neurologic side effects have included seizures (0.4%), dizziness (0.3%), and somnolence (0.2%). Encephalopathy, tremors, confusion, myoclonus, paresthesia, vertigo, headache, psychic disturbances, including hallucinations have been reported in less than 0.2% of patients.  Exacerbation of myasthenia gravis has also been reported.[Ref]
+Dermatologic side effects have included rash (0.9%), pruritus (0.3%), and urticaria (0.2%).  Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme, angioneurotic edema, flushing cyanosis, hyperhidrosis, skin texture changes and candidiasis have been reported in less than 0.2% of patients.[Ref]
+One study demonstrated an increased incidence of allergic reactions in patients with cystic fibrosis who were given imipenem.[Ref]
+Hypersensitivity to imipenem is unusual.  However, fever, pruritus, rash, eosinophilia, or positive direct Coombs' test may indicate the presence of hypersensitivity.  Patients allergic to other beta-lactam antibiotics may be allergic to imipenem.[Ref]
+Cardiovascular side effects have rarely included hypotension, palpitations, and tachycardia.[Ref]
+Genitourinary side effects have included pruritus vulvae and urine discoloration in less than 0.2% of patients.  Urine protein, red and/or white blood cells, casts, bacteria, bilirubin, and urobilinogen have also been reported.[Ref]
+Hematologic side effects have included pancytopenia, bone marrow depression, neutropenia, thrombocytosis, thrombocytopenia, leukopenia, and hemolytic anemia in less than 0.2% of patients.  Increased eosinophils, positive Coombs test, increased white blood cells, increased platelets, decreased hemoglobin and hematocrit, anemia, agranulocytosis, increased monocytes, abnormal prothrombin time, increased lymphocytes, and increased basophils have also been reported.[Ref]
+Hepatic side effects have included hepatitis (including fulminant hepatitis) and jaundice in less than 0.2% of patients.  Transient elevations in liver function tests (ALT, AST, alkaline phosphatase, bilirubin, and LDH) and hepatic failure have also been reported.[Ref]
+Metabolic side effects have included decreased serum sodium, increased potassium, and increased chloride.[Ref]
+Musculoskeletal side effects have included polyarthralgia in less than 0.2% of patients.[Ref]
+Renal side effects have included acute renal failure, oliguria, anuria, and polyuria in less than 0.2% of patients.  Increased BUN and creatinine have also been reported.[Ref]
+Respiratory side effects have included chest discomfort, dyspnea, hyperventilation, and thoracic spine pain in less than 0.2% of patients.[Ref]
+Up to 4% of patients treated with imipenem develop superinfection during therapy.  The most common organisms are Enterococcus faecium, Stenotrophomonas maltophilia, methicillin-resistant Staphylococcus aureus, and Candida species.[Ref]
+Other side effects have included hearing loss, tinnitus, taste perversion, drug fever, and asthenia/weakness in less than 0.2% of patients.  Pain has also been reported.[Ref]
+1. Clissold SP, Todd PA, Campoli-Richards DM "Imipenem/cilastatin: a review of its antibacterial activity, pharmacokinetic properties and therapeutic efficacy." Drugs 33 (1987): 185-241
+2. "Product Information. Primaxin (imipenem)." Merck & Co, Inc, West Point, PA. 
+3. Zhanel GG,  Wiebe R,  Dilay L, et al. "Comparative Review of the Carbapenems." Drugs 67 (2007): 1027-1052
+4. Embil JM,  Soto NE,  Melnick DA "A post hoc subgroup analysis of meropenem versus imipenem/cilastatin in a multicenter, double-blind, randomized study of complicated skin and skin-structure infections in patients with diabetes mellitus." Clin Ther 28 (2006): 1164-74
+5. Chastre J,  Wunderink R,  Prokocimer P,  Lee M,  Kaniga K,  Friedland I "Efficacy and safety of intravenous infusion of doripenem versus imipenem in ventilator-associated pneumonia: a multicenter, randomized study." Crit Care Med 36 (2008): 1089-96
+6. Calandra GB, Brown KR, Grad LC, et al "Review of adverse experiences and tolerability in the first 2,516 patients treated with imipenem/cilastatin." Am J Med 78 (1985): 73-8
+7. Rivera M,  Crespo M,  Teruel JL,  Marcen R,  Ortuno J "Neurotoxicity due to imipenem/cilastatin in patients on continuous ambulatory peritoneal dialysis." Nephrol Dial Transplant 14 (1999): 258-9
+8. Calandra GB, Hesney M, Grad C "A multiclinic randomized study of the comparative efficacy, safety and tolerance of imipenem/cilastatin and moxalactam." Eur J Clin Microbiol 3 (1984): 478-87
+9. Wang C, Calandra GB, Aziz MA, Brown KR "Efficacy and safety of imipenem/cilastatin: a review of worldwide clinical experience." Rev Infect Dis 7 (1985): s528-36
+10. Lyon JA "Imipenem/cilastatin: the first carbapenem antibiotic." Drug Intell Clin Pharm 19 (1985): 894-8
+11. Patel SA, Braun HL, Fine MS, et al "Imipenem-associated elevation of amylase and lipase." Am J Gastroenterol 84 (1989): 80-1
+12. Young K "Imipenem/cilastatin." Pharm Ther Forum 34 (1986): 1-3
+13. Schmitt DV,  Leitner E,  Welte T,  Lode H "Piperacillin/Tazobactam vs Imipenem/Cilastatin in the Treatment of Nosocomial Pneumonia-a Double Blind Prospective Multicentre Study." Infection 34 (2006): 127-34
+14. Roberts JA,  Lipman J "Antibacterial Dosing in Intensive Care : Pharmacokinetics, Degree of Disease and Pharmacodynamics of Sepsis." Clin Pharmacokinet 45 (2006): 755-773
+15. Campise M "Neurological complication during imipenem/cilastatin therapy in uraemic patients." Nephrol Dialysis Transplant 13 (1998): 1895-6
+16. Oriordan J, Javed M, Doherty C, Hutchinson M "Worsening of myasthenia gravis on treatment with imipenem/cilastatin." J Neurol Neurosurg Psychiatry 57 (1994): 383
+17. Zazgornik J, Schein W, Heimberger K, et al "Potentiation of neurotoxic side effects by coadministration of imipenem to cyclosporine therapy in a kidney transplant recipient: synergism of side effects or drug." Clin Nephrol 26 (1986): 265-6
+18. Eng RH, Munsif AN, Yangco BG, et al "Seizure propensity with imipenem." Arch Intern Med 149 (1989): 1881-3
+19. Guglielmo BJ, Jacobs RA "Impact of dosage-monitoring system on frequency of seizures associated with imipenem-cilastatin." Am J Health Syst Pharm 53 (1996): 1097-8
+20. Lane M, Kania D, Rapp RP "Seizures related to use of imipenem-cilastatin." Am J Health Syst Pharm 53 (1996): 1605-6
+21. Frucht S, Eidelberg D "Imipenem-induced myoclonus." Mov Disord 12 (1997): 621-2
+22. Duque A, Altimiras J, Garcia-Cases C, Vidal P "Vertigo caused by intravenous imipenem/cilastatin." DICP 25 (1991): 1009
+23. Semel JD, Allen N "Seizures in patients simultaneously receiving theophylline and imipenem or ciprofloxacin or metronidazole." South Med J 84 (1991): 465-8
+24. Leo RJ, Ballow CH "Seizure activity associated with imipenem use: clinical case reports and review of the literature." DICP 25 (1991): 351-4
+25. Guglielmo BJ, Jacobs RA "Impact of dosage-monitoring system on frequency of seizures associated with imipenem-cilastatin." Am J Health Syst Pharm 53 (1996): 2097-8
+26. Job ML, Dretler RH "Seizure activity with imipenem therapy: incidence and risk factors." DICP 24 (1990): 467-9
+27. Romano A,  Viola M,  Gueant-Rodriguez RM,  Gaeta F,  Pettinato R,  Gueant JL "Imipenem in patients with immediate hypersensitivity to penicillins." N Engl J Med 354 (2006): 2835-7
+28. Larsen JW, Gabel-Hughes K, Kreter B "Efficacy and tolerability of imipenem-cilastatin versus clindamycin + gentamicin for serious pelvic infections." Clin Ther 14 (1992): 90-6
+29. Pleasants RA, Walker TR, Samuelson WM "Allergic reactions to parenteral beta-lactam antibiotics in patients with cystic fibrosis." Chest 106 (1994): 1124-8
+30. Hantson P, de Coninck B, Horn JL, Mahieu P "Immediate hypersensitivity to aztreonam and imipenem." Br Med J 302 (1991): 294-5
+It is possible that some side effects of Primaxin IM may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Confusion
+convulsions (seizures)
+dizziness
+pain at place of injection 
+skin rash, hives, itching, fever, or wheezing
+tremors
+
+
+Dizziness
+increased sweating
+nausea or vomiting
+unusual tiredness or weakness
+
+
+Fever
+severe abdominal or stomach cramps and pain
+watery and severe diarrhea, which may also be bloody (these side effects may also occur up to several weeks after you stop receiving this medicine)
+
+
+Diarrhea
+nausea and vomiting
+

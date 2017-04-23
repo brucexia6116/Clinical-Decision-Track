@@ -1,0 +1,36 @@
+Applies to dopamine: parenteral injection concentrate for iv infusion, parenteral injection for iv infusion
+Side effects include:
+Dopamine may cause cardiac conduction abnormalities (e.g., ventricular arrhythmia, atrial fibrillation, widened QRS complex, ectopic heartbeats), tachycardia, angina, palpitation, bradycardia, vasoconstriction, hypotension, hypertension, dyspnea, nausea, vomiting, headache, anxiety, azotemia, piloerection, and gangrene of the extremities. 
+Applies to dopamine: intravenous solution
+Cardiovascular side effects include hypotension and induction of arrhythmias (ventricular arrhythmia, atrial fibrillation).  Although dopamine is 1/10th as potent as norepinephrine in increasing heart rate, tachycardia and increased AV conduction have been reported.Bradycardia has been reported in patients receiving 16 mcg per kg per minute, which may have been a dose high enough to induce vasoconstriction, increased peripheral vascular resistance, and reflex bradycardia.A case in which pulmonary artery pressure increased in a patient with normal arterial oxygenation who was receiving dopamine 5.6 mcg per kg per minute has been reported.At high doses (greater than 5 mcg per kg per minute), dopamine may cause local reactions and hypertension.[Ref]
+Local reactions due to use of dopamine in a peripheral vein may be severe.   Although rare, even at high doses, cases of skin necrosis, sloughing, and even gangrene and amputations due to extravasation of dopamine in a peripheral intravenous site have been reported.  This may be more likely and more severe in patients with vascular diseases (such as atherosclerosis, Raynaud's phenomenon, etc).  It is highly recommended that dopamine be administered via a central venous catheter, if possible, especially in high risk patients.[Ref]
+If extravasation occurs, it is recommended that infusion at the intravenous site be stopped and phentolamine 5 to 10 mg in 10 to 15 mL normal saline be liberally infiltrated with a hypodermic needle into the affected site as soon as possible.[Ref]
+Limited data from patients with sepsis or septic shock have revealed the benefit of dopamine on diuresis and renal function (creatinine clearance) may significantly decrease over time, suggestive of a desensitization of renal dopaminergic receptors.[Ref]
+Renal side effects are more likely when doses exceed 5 mcg/kg/min.  At these higher doses, dopamine may induce vasoconstriction, resulting in decreased renal blood flow, glomerular filtration, and renal function.Unlike dobutamine, most doses of dopamine cause a natriuresis.[Ref]
+Respiratory side effects may be important in patients with respiratory insufficiency.  Dopamine may blunt the tachypneic response to hypercapneic hypoxemia, resulting in respiratory depression.[Ref]
+Dermatologic side effects including vasoconstriction and piloerection are common dermatologic reactions to dopamine.  Skin rashes are rare.[Ref]
+Endocrine side effects including significant endocrinologic dysfunction may be induced or aggravated by prolonged infusions of this catecholamine.  Prolonged infusions of dopamine can cause a decrease in serum prolactin concentrations and impair T-lymphocyte proliferation (associated with hyperprolactinemia), attenuate pulsatile growth hormone and leutinizing hormone secretion, suppress serum concentrations of dehydroepiandrosterone sulfate, and inhibit TSH release and T4 to T3 conversion.  The latter can result in an iatrogenic "low T3 syndrome" or hypothyroidism.[Ref]
+Metabolic side effects including decreased thyrotropin (TSH) secretion have been reported.[Ref]
+1. Winkler MJ, Trunkey DD "Dopamine gangrene. Association with disseminated intravascular coagulation." Am J Surg 142 (1981): 588-91
+2. Greene SI, Smith JW "Letter: Dopamine gangrene." N Engl J Med 294 (1976): 114
+3. Carcoana OV, Hines RL "Is renal dose dopamine protective or therapeutic? yes." Crit Care Clin 12 (1996): 677
+4. Stetson JB, Reading GP "Avoidance of vascular complications associated with the use of dopamine." Can Anaesth Soc J 24 (1977): 727-33
+5. Cottee DBF, Saul WP "Is renal dose dopamine protective or therapeutic? no." Crit Care Clin 12 (1996): 687
+6. Boltax RS, Dineen JP, Scarpa FJ "Gangrene resulting from infiltrated dopamine solution." N Engl J Med 296 (1977): 823
+7. Ebels T, van der Heide JN "Dopamine-induced ischaemia ." Lancet 2 (1977): 762
+8. Gelfman DM, Ornato JP, Gonzalez ER "Dopamine-induced increase in atrioventricular conduction in atrial fibrillation-flutter." Clin Cardiol 10 (1987): 671-3
+9. Golbranson FL, Lurie L, Vance RM, Vandell RF "Multiple extremity amputations in hypotensive patients treated with dopamine." JAMA 243 (1980): 1145-6
+10. Maggi JC, Angelats J, Scott JP "Gangrene in a neonate following dopamine therapy." J Pediatr 100 (1982): 323-5
+11. Woods I, Edwards JD, Wilkins RG "Reflex bradycardia during dopamine therapy for septic shock ." Crit Care Med 15 (1987): 88
+12. Julka NK, Nora JR "Letter: Gangrene aggravation after use of dopamine." JAMA 235 (1976): 2812-3
+13. Ross M "Dopamine-induced localized cutaneous vasoconstriction and piloerection ." Arch Dermatol 127 (1991): 586-7
+14. Olson LG, Hensley MJ, Saunders NA "Ventilatory responsiveness to hypercapnic hypoxia during dopamine infusion in humans." Am Rev Respir Dis 126 (1982): 783-7
+15. Tisdale JE, Patel RV, Webb Cr, Borzak S, Zarowitz BJ "Proarrhythmic effects of intravenous vasopressors." Ann Pharmacother 29 (1995): 269-81
+16. Chen JL, OShea M "Extravasation injury associated with low-dose dopamine." Ann Pharmacother 32 (1998): 545-8
+17. Robles RG, Villa E, Andres A, Martinez J, Ruilope LM, Sancho JM "Natriuretic effects of dopamine agonist drugs in models of reduced renal mass." J Cardiovasc Pharmacol 22 (1993): S88-92
+18. Lherm T, Troche G, Rossignol M, Bordes P, Zazzo JF "Renal effects of low dose dopamine in patients with sepsis syndrome or septic shock treated with catecholamines." Intensive Care Med 22 (1996): 213-9
+19. Polansky D, Eberhard N, McGrath R "Dopamine and polyuria ." Ann Intern Med 107 (1987): 941
+20. Klausen NO, Qvist J, Brynjolf I, Munck O, Sorensen B, Wiberg-Jorgensen F "Pulmonary hypertension in a patient with ARDS - a possible side- effect of dopamine treatment." Intensive Care Med 8 (1982): 155-8
+21. Vandenberghe G, Dezegher F "Anterior pituitary function during critical illness and dopamine treatment." Crit Care Med 24 (1996): 1580-90
+22. Surks MI, Sievert R "Drugs and thyroid function." N Engl J Med 333 (1995): 1688-94
+Not all side effects for dopamine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.

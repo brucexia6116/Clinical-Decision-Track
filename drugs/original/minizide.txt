@@ -1,0 +1,121 @@
+Generic Name: polythiazide / prazosin
+Applies to polythiazide / prazosin: oral capsule
+Cardiovascular side effects are common during initial therapy.  A postural hypotension "first dose effect" occurs in up to 10% to 70% of patients who are taking prazosin.  For this reason, it is recommended that therapy be started with the patient supine, preferably at bedtime.  Dizziness or syncope is reported in 10% and 1% of patients, respectively.  Other side effects include palpitations in 7% to 14% of patients, fluid retention in 5% of patients, and rare cases of angina or sinus bradycardia.  Cardiac arrhythmias, including ventricular ectopy and complete AV heart block, have been associated with thiazide-induced hypokalemia.[Ref]
+Although all patients are susceptible to prazosin-polythiazide-induced postural hypotension, risk factors include higher doses, coadministration of beta-blockers, and preexisting serum sodium depletion.Animal studies reveal that prazosin exerts a negative chronotropic action on the sinus node of the dog.  There is evidence that this may be important in humans.  A 50-year-old man with benign prostatic hypertrophy developed presyncope, described as "lightheadedness within 45 minutes after taking prazosin."  The patient was referred for pacemaker placement, but, because he was convinced that the drug was causing his problem, he stopped it and became asymptomatic.  A follow-up electrocardiogram revealed normal sinus rhythm at 55 beats per minute, and the pacemaker placement was cancelled.  The author of this case report has located two other such cases that were reported to the United Kingdom Committee on Safety of Medicines over a 30-year period.[Ref]
+Hallucinations, irritability, and confusion have been reported in less than 1% of patients who were taking prazosin.  A rare cases of hypothermia has been associated with prazosin.[Ref]
+Nervous system side effects are most likely due to prazosin, and include headache in 8% to 18% (more common in patients with a history of migraine), fatigue in 8%, and blurred vision in less than 5% of patients.[Ref]
+Some of the metabolic changes associated with thiazides may be significant in patients with underlying cardiac arrhythmias (hypokalemia), coronary artery disease (hypercholesterolemia), gout (hyperuricemia), or liver disease (hyponatremia or hypokalemia).[Ref]
+The metabolic side effects of polythiazide, as with other thiazide diuretics, include hypokalemia, hyponatremia, hypochloremia, hypercalcemia, hypercholesterolemia, and hyperuricemia.  Significant reductions in the serum potassium concentration (decreases of 0.5 mEq/L or more) have been observed in up to 50% of patients who are taking moderate doses of thiazide diuretics.  This reduction in serum potassium can predispose some patients to develop cardiac arrhythmias.[Ref]
+Hypersensitivity reactions to thiazide diuretics are reported in less than 1% of patients.  While most allergic reactions present as rash with nausea and vomiting, rare cases of acute pulmonary edema, interstitial cystitis, interstitial nephritis, and anaphylaxis have been associated with the use of some thiazides.  Hypersensitivity reactions to prazosin are rare, and include urticaria and a single report of a serum sickness-like reaction (fever, arthralgias, cold sweats).[Ref]
+Genitourinary symptoms associated with prazosin include urinary frequency or incontinence.  Impotence occurs in less than 1% of male patients.  Priapism has rarely been associated with prazosin, and may be more likely in patients with renal insufficiency.[Ref]
+Urinary incontinence associated with prazosin is due to alpha-adrenergic blockade of the urinary sphincter.[Ref]
+Dermatologic reactions to thiazides include erythema annular centrifugum, acute eczematous dermatitis, and morbilliform or leukocytoclastic vasculitis.  Thiazides may induce phototoxic dermatitis.  In addition, a rare, distinct entity with clinical and laboratory features indistinguishable from those of subacute cutaneous lupus erythematosus has been associated with a related drug, hydrochlorothiazide.[Ref]
+Renal side effects including new or worsened renal insufficiency may occur due to polythiazide-induced intravascular volume depletion.  Rare cases of interstitial nephritis have been associated with the use of some thiazides.[Ref]
+A prospective study of 34 patients who received oral thiazide diuretics for 14 years without interruption revealed an increased mean fasting blood glucose level after treatment.  Withdrawal of thiazide therapy for 7 months in 10 of the patients resulted in mean reductions of 10% in fasting blood glucose and 25% in the 2-hour glucose tolerance test values.  A control group was not reported.[Ref]
+Endocrinologic problems associated with thiazide diuretics include glucose intolerance and a potentially deleterious effect on the lipid profile.  This may be important in some patients with or who are at risk for diabetes or coronary artery disease.[Ref]
+A 2.5-year-old male with anasarca developed cyanosis and oral ulcerations association with laboratory evidence of pancytopenia 15 days after beginning polythiazide (dose not available).  A bone marrow aspiration revealed general hypoplasia with absence of megakaryocytes and blast cells.  The child died from persistent hemorrhaging and infections despite prednisolone and antimicrobial therapy.[Ref]
+Hematologic side effects are rare.  Cases of immune-complex hemolytic anemia, aplastic anemia, and thrombocytopenia have been associated either with polythiazide or related thiazide agents.[Ref]
+Gastrointestinal side effects include nausea in approximately 5% of patients.  Constipation and diarrhea occur in less than 4% of patients.  Xerostomia is less commonly seen with prazosin than with less selective alpha-adrenergic receptor blockers.  There have been rare cases of pancreatitis and acute cholecystitis associated with thiazide diuretics.[Ref]
+Thiazide diuretics may increase serum cholesterol and triglycerides, resulting in an increased risk of cholesterol gallstone formation.  Reports of bowel strictures associated with thiazide ingestion have been reported in the 1960's, although these patients were taking a combination hydrochlorothiazide-potassium product.A single case of fecal incontinence, thought to be due to alpha-adrenergic blockade of the anal sphincter (due to prazosin) has been reported.[Ref]
+Respiratory system side effects associated with prazosin have included nasal congestion, seen in less than 4% of patients.[Ref]
+Psychiatric side effects including depression have been associated with the use of thiazide diuretics.  These data are uncontrolled observations and have not been substantiated.[Ref]
+1. Marinkovic M, Vrhovac B, Kuzmanic D, Radonic M "Comparative study with prazosin, methyldopa and polythiazide in arterial hypertension." Int J Clin Pharmacol Biopharm 17 (1979): 38-47
+2. Mouallem M, Friedman E, Shemesh Y, Mayan H, Pauzner R, Farfel Z "Cardiac conduction defects associated with hyponatremia." Clin Cardiol 14 (1991): 165-8
+3. Curtis JR, Bateman FJ "Use of prazosin in management of hypertension in patients with chronic renal failure and in renal transplant recipients." Br Med J 4 (1975): 432-4
+4. "Prazosin (Minipress) for hypertension." Med Lett Drugs Ther 19 (1977): 1-2
+5. Ragnarsson J, Hardarson T, Snorrason SP "Ventricular dysrhythmias in middle-aged hypertensive men treated either with a diuretic agent or a beta-blocker." Acta Med Scand 221 (1987): 143-8
+6. Pitkajarvi T, Kyostila S, Kontro J "Antihypertensive action of drug combination: polythiazide, prazosin and tolamolol." Curr Ther Res Clin Exp 21 (1977): 169-76
+7. Woeltjen AE, Gordon AJ "Sustained antihypertensive response with Minizide: long-term follow- up in a multicentre study." J Int Med Res 9 (1981): 309-14
+8. Charness ME, Fishman JA, Robertson D "Exacerbation of angina pectoris by prazosin." South Med J 72 (1979): 1213-4
+9. Salim SS, Mtui EP, Makene WJ "An open evaluation of the efficacy and toleration of prazosin in patients with hypertension." East Afr Med J 54 (1977): 429-33
+10. Pollare T, Lithell H, Berne C "A comparison of the effects of hydrochlorothiazide and captopril on glucose and lipid metabolism in patients with hypertension." N Engl J Med 321 (1989): 868-73
+11. Melkild A "Prazosin (peripress): a long-term study." Curr Med Res Opin 9 (1984): 219-28
+12. Graham RM, Pettinger WA "Prazosin." N Engl J Med 300 (1979): 232-6
+13. O'Brien ET, MacKinnon J "Propranolol and polythiazide in treatment of hypertension." Br Heart J 34 (1972): 1042-4
+14. Papademetriou V, Fletcher R, Khatri IM, Freis ED "Diuretic-induced hypokalemia in uncomplicated systemic hypertension: effect of plasma potassium correction on cardiac arrhythmias." Am J Cardiol 52 (1983): 1017-22
+15. Young JB, Leon CA, Pratt CM "Potentially deleterious effects of long-term vasodilator therapy in patients with heart failure." Chest 91 (1987): 737-44
+16. Krishna GG, Narins RG "Hemodynamic consequences of diuretic-induced hypokalemia." Am J Kidney Dis 12 (1988): 329-31
+17. Mahabir RN, Laufer ST "Clinical evaluation of diuretics in congestive heart failure. A detailed study in four patients." Arch Intern Med 124 (1969): 1-7
+18. Kobrin I, Stressman J, Yagil Y, Ben-Ishay D "Prazosin-induced bradycardia in acute treatment of hypertension." Arch Intern Med 143 (1983): 2019, 2023
+19. Hollifield JW, Slaton PE "Thiazide diuretics, hypokalemia and cardiac arrhythmias." Acta Med Scand Suppl 647 (1981): 67-73
+20. Gordon AJ, Woeltjen AE "Treatment of Essential hypertension with single daily doses of a prazosin-polythiazide combination: a multicentre study with Minizide." J Int Med Res 9 (1981): 303-8
+21. Glass AR, Ballou R "Pheochromocytoma, prazosin, and hypotension." Ann Intern Med 97 (1982): 455
+22. Grunwald MH, Halevy S, Livni E "Allergic vasculitis induced by hydrochlorothiazide: confirmation by mast cell degranulation test." Isr J Med Sci 25 (1989): 572-4
+23. Ball J "Symptomatic sinus bradycardia due to prazosin." Lancet 343 (1994): 121
+24. Oh MS, Carroll HJ, Cruz WM, Whang ES, Lejano RF "Treatment of hypertension with a combination of prazosin and polythiazide." Postgrad Med Spec No (1975): 77-80
+25. Gould BA, Hornung RS, Kieso HA, Cashman PM, Raftery EB "Prazosin alone and combined with a beta-adrenoreceptor blocker in treatment of hypertension." J Cardiovasc Pharmacol 5 (1983): 678-84
+26. Graham RM, Thornell IR, Gain JM, Bagnoli C, Oates HF, Stokes GS "Prazosin: the first-dose phenomenon." Br Med J 2 (1976): 1293-4
+27. New Zealand Hypertension Study Group. "Initial experience with prazosin in New Zealand: a multicentre report." Med J Aust 2 (1977): 23-6
+28. Hankey GJ, Gubbay SS "Focal cerebral ischaemia and infarction due to antihypertensive therapy." Med J Aust 146 (1987): 412-4
+29. Holland OB, Kuhnert L, Pollard J, Padia M, Anderson RJ, Blomqvist G "Ventricular ectopic activity with diuretic therapy." Am J Hypertens 1 (1988): 380-5
+30. Kosman ME "Evaluation of a new antihypertensive agent: prazosin hydrochloride (Minipress)." JAMA 238 (1977): 157-9
+31. De Leeuw PW, Birkenhager WH "Hypothermia: a possible side effect of prazosin." Br Med J 281 (1980): 1181
+32. Aldrich MS, Rogers AE "Exacerbation of human cataplexy by prazosin." Sleep 12 (1989): 254-6
+33. Gould L, Reddy CV, Zen B, Singh BK "Life-threatening reaction to thiazides." N Y State J Med 80 (1980): 1975-6
+34. Singleton W, Dix RK, Monsen L, et al "Efficacy and safety of minipress XL, a new once-a-day formulation of prazosin." Am J Med 87 (1989): s45-52
+35. Ghose RR "Letter: Hyponatraemia and diuretics." Lancet 1 (1975): 578-9
+36. Kaur J, Wahi PL "Polythiazide as a diuretic. A clinical trial." J Indian Med Assoc 48 (1967): 13-7
+37. Larson E, Dominguez CJ, Scheib R "Thiazide therapy: experience with parenteral administration." Curr Ther Res Clin Exp 7 (1965): 617-24
+38. Hakim R, Tolis G, Goltzman D, Meltzer S, Friedman R "Severe hypercalcemia associated with hydrochlorothiazide and calcium carbonate therapy." Can Med Assoc J 121 (1979): 591-4
+39. Bell DS "Insulin resistance. An often unrecognized problem accompanying chronic medical disorders." Postgrad Med 93 (1993): 99-103,
+40. Fichman MP, Vorherr H, Kleeman CR, Telfer N "Diuretic-induced hyponatremia." Ann Intern Med 75 (1971): 853-63
+41. Bain PG, Egner W, Walker PR "Thiazide-induced dilutional hyponatraemia masquerading as subarachnoid haemorrhage ." Lancet 2 (1986): 634
+42. Murphy MB, Kohner E, Lewis PJ, Schumer B, Dollery CT "Glucose intolerance in hypertensive patients treated with diuretics: a fourteen-year follow-up." Lancet 2 (1982): 1293-5
+43. Duarte CG, Winnacker JL, Becker KL, Pace A "Thiazide-induced hypercalcemia." N Engl J Med 284 (1971): 828-30
+44. Ghose RR "Reset osmostat after diuretic treatment." Br Med J 2 (1977): 1063
+45. Pinnock CA "Hyponatraemia associated with hydrochlorothiazide treatment ." Br Med J 1 (1978): 48
+46. Klimiuk PS, Davies M, Adams PH "Primary hyperparathyroidism and thiazide diuretics." Postgrad Med J 57 (1981): 80-3
+47. Peters RW, Hamilton J, Hamilton BP "Incidence of cardiac arrhythmias associated with mild hypokalemia induced by low-dose diuretic therapy for hypertension." South Med J 82 (1989): 966-9,
+48. Fager G, Berglund G, Bondjers G, Elmfeldt D, Lager I, Olofsson SO, Smith U, Wiklund O "Effects of anti-hypertensive therapy on serum lipoproteins. Treatment with metoprolol, propranolol and hydrochlorothiazide." Artery 11 (1983): 283-96
+49. Kuller L, Farrier N, Caggiula A, Borhani N, Dunkle S "Relationship of diuretic therapy and serum magnesium levels among participants in the Multiple Risk Factor Intervention Trial." Am J Epidemiol 122 (1985): 1045-59
+50. Nilsson G "Symptomatic diabetes mellitus cured by potassium and withdrawal of polythiazide in a hypokalemic hypertensive woman." Acta Med Scand 208 (1980): 129-30
+51. Seelig CB "Magnesium deficiency in two hypertensive patient groups." South Med J 83 (1990): 739-42
+52. Rosenberg L, Shapiro S, Slone D, Kaufman DW, Miettinen OS, Stolley PD "Thiazides and acute cholecystitis." N Engl J Med 303 (1980): 546-8
+53. Smith WM "Diuretics and cholesterol elevation." JAMA 242 (1979): 1612
+54. Benfield GF, Haffner C, Harris P, Stableforth DE "Dilutional hyponatraemia masquerading as subarachnoid haemorrhage in patient on hydrochlorothiazide/amiloride/timolol combined drug ." Lancet 2 (1986): 341
+55. Jones IG, Pickens PT "Diabetes mellitus following oral diuretics." Practitioner 199 (1967): 209-10
+56. Ramirez EA, Tristani FE "Clinical evaluation of parenteral polythiazide (P-2525) administration." Curr Ther Res Clin Exp 7 (1965): 528-35
+57. Papademetriou V, Price M, Notargiacomo A, Gottdiener J, Fletcher RD, Freis ED "Effect of diuretic therapy on ventricular arrhythmias in hypertensive patients with or without left ventricular hypertrophy." Am Heart J 110 (1985): 595-9
+58. Diamond MT "Hyperglycemic hyperosmolar coma associated with hydrochlorothiazide and pancreatitis." N Y State J Med 72 (1972): 1741-2
+59. Kone B, Gimenez L, Watson AJ "Thiazide-induced hyponatremia." South Med J 79 (1986): 1456-7
+60. Berlin I "Prazosin, diuretics, and glucose intolerance." Ann Intern Med 119 (1993): 860
+61. Polanska AI, Baron DN "Hyponatraemia associated with hydrochlorothiazide treatment ." Br Med J 1 (1978): 175-6
+62. Grace AA, Morgan AD, Strickland NH "Hydrochlorothiazide causing unexplained pulmonary oedema." Br J Clin Pract 43 (1989): 79-81
+63. Hoss DM, Nierenberg DW "Severe shaking chills and fever following hydrochlorothiazide administration." Am J Med 85 (1988): 747
+64. Biron P, Dessureault J, Napke E "Acute allergic interstitial pneumonitis induced by hydrochlorothiazide [published erratum appears in Can Med Assoc J 1991 Sep 1;145(5):391]." Can Med Assoc J 145 (1991): 28-34
+65. Magil AB, Ballon HS, Cameron EC, Rae A "Acute interstitial nephritis associated with thiazide diuretics. Clinical and pathologic observations in three cases." Am J Med 69 (1980): 939-43
+66. Hoegholm A, Rasmussen SW, Kristensen KS "Pulmonary oedema with shock induced by hydrochlorothiazide: a rare side effect mimicking myocardial infarction." Br Heart J 63 (1990): 186
+67. Prupas HM, Brown D "Acute idiosyncratic reaction to hydrochlorothiazide ingestion." West J Med 138 (1983): 101-2
+68. Levay ID "Hydrochlorothiazide-induced pulmonary edema." Drug Intell Clin Pharm 18 (1984): 238-9
+69. Beaudry C, Laplante L "Severe allergic pneumonitis from hydrochlorothiazide." Ann Intern Med 78 (1973): 251-3
+70. Alted E, Navarro M, Cantalapiedra JA, Alvarez JA, Blasco MA, Nunez A "Non-cardiogenic pulmonary edema after oral ingestion of hydrochlorothiazide ." Intensive Care Med 13 (1987): 364-5
+71. Klein MD "Noncardiogenic pulmonary edema following hydrochlorothiazide ingestion." Ann Emerg Med 16 (1987): 901-3
+72. Magil AB "Drug-induced acute interstitial nephritis with granulomas." Hum Pathol 14 (1983): 36-41
+73. Dorn MR, Walker BK "Noncardiogenic pulmonary edema associated with hydrochlorothiazide therapy." Chest 79 (1981): 482-3
+74. Ruzicka T, Ring J "Hypersensitivity to prazosin." Lancet Feb (1983): 473-4
+75. Cairns SA, Jordan SC "Prazosin treatment complicated by acute febrile polyarthritis." Br Med J 2 (1976): 1424-5
+76. Robinson HN, Morison WL, Hood AF "Thiazide diuretic therapy and chronic photosensitivity." Arch Dermatol 121 (1985): 522-4
+77. Goette DK, Beatrice E "Erythema annulare centrifugum caused by hydrochlorothiazide-induced interstitial nephritis." Int J Dermatol 27 (1988): 129-30
+78. Ylitalo P, Pasternack A "Priapism: side-effect of prazosin in patients with renal failure." Acta Med Scand 213 (1983): 319-20
+79. Thien T, Delaere KP, Debruyne FM, Koene RA "Urinary incontinence caused by prazosin." Br Med J 1 (1978): 622-3
+80. Delevett AF, Recalde M "Diuretic-induced renal colic." JAMA 225 (1973): 992
+81. Lameire N, Gordts J "A pharmacokinetic study of prazosin in patients with varying degrees of chronic renal failure." Eur J Clin Pharmacol 31 (1986): 333-7
+82. Diffey BL, Langtry J "Phototoxic potential of thiazide diuretics in normal subjects." Arch Dermatol 125 (1989): 1355-8
+83. Reed BR, Huff JC, Jones SK, Orton PW, Lee LA, Norris DA "Subacute cutaneous lupus erythematosus associated with hydrochlorothiazide therapy." Ann Intern Med 103 (1985): 49-51
+84. Parodi A, Romagnoli M, Rebora A "Subacute cutaneous lupus erythematosus-like eruption caused by hydrochlorothiazide." Photodermatol 6 (1989): 100-2
+85. Bjornberg A, Gisslen H "Thiazides: A cause of necrotising vasculitis?" Lancet 2 (1965): 982-3
+86. Goodrich AL, Kohn SR "Hydrochlorothiazide-induced lupus erythematosus: a new variant?" J Am Acad Dermatol 28 (1993): 1001-2
+87. Paloyan E, Farland M, Pickleman JR "Hyperparathyroidism coexisting with hypertension and prolonged thiazide administration." JAMA 210 (1969): 1243-5
+88. Garratty G, Houston M, Petz LD, Webb M "Acute immune intravascular hemolysis due to hydrochlorothiazide." Am J Clin Pathol 76 (1981): 73-8
+89. Eisner EV, Crowell EB "Hydrochlorothiazide-dependent thrombocytopenia due to IgM antibody." JAMA 215 (1971): 480-2
+90. Srivastava G, Agarwal KN "Thiazide-induced bone-marrow aplasia. Report of a case." Indian J Pediatr 34 (1967): 407-9
+91. Reinus FZ, Weinberger HA, Fischer WW "Medication-induced ulceration of the small bowel." Am J Surg 112 (1966): 97-101
+92. Holland GW "Stenosing ulcers of the small bowel associated with thiazide and potassium therapy." N Z Med J 64 (1965): 383-5
+93. Wagner W, Longerbeam JK, Smith LL, Feikes HL "Drug-induced ulcers of the small bowel causing intestinal obstruction or perforation." Am Surg 33 (1967): 7-11
+94. Smith BL, Tedeschi A, Lane CD "Pancreatitis with a twist." Hosp Pract (Off Ed) 23 (1988): 150,
+95. Campbell JR, Knapp RW "Small bowel ulceration associated with thiazide and potassium therapy: review of 13 cases." Ann Surg 163 (1966): 291-6
+96. Holmes SA, Christmas TJ, Wood JJ, Kirby RS "Faecal incontinence resulting from a1-adrenoceptor blockade." Lancet 336 (1990): 685-6
+97. Dietz MW "Iatrogenic jejunal ulcer." Am J Roentgenol Radium Ther Nucl Med 99 (1967): 136-8
+98. Chin DK, Ho AK, Tse CY "Neuropsychiatric complications related to use of prazosin in patients with renal failure." Br Med J 293 (1986): 1347
+99. Okada F "Depression after treatment with thiazide diuretics for hypertension." Am J Psychiatry 142 (1985): 1101-2
+Not all side effects for Minizide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.

@@ -1,0 +1,39 @@
+Generic Name: flumazenil
+Applies to flumazenil: parenteral injection
+Side effects include:
+Dizziness, injection site pain, increased sweating, headache, and abnormal or blurred vision. 
+Applies to flumazenil: intravenous solution
+Flumazenil is generally well-tolerated when given to patients without prior exposure to benzodiazepines.  Convulsions are the most common serious adverse events reported.  Dizziness, injection site pain, increased sweating, headache, and visual disturbances have been reported  in 3% to 9% of patients.  Most of the adverse effects observed during flumazenil (the active ingredient contained in Romazicon) therapy are related to the rapid resolution of benzodiazepine effects rather than to the administration of flumazenil per se.[Ref]
+Flumazenil has been associated with seizures in patients with severe hepatic insufficiency and patients who were taking benzodiazepines for seizure control.  Other risk factors for seizures may include concurrent sedative-hypnotic withdrawal, recent repeated administration of parenteral benzodiazepines, jerking or seizures prior to administration of flumazenil (the active ingredient contained in Romazicon)  and concurrent cyclic antidepressant overdose.  Seizures are generally reversible with standard antiepileptic therapy include benzodiazepines, phenytoin or barbiturates.  Greater than usual benzodiazepine doses may be required to control seizures which occur in association with flumazenil therapy.Some investigators have suggested that flumazenil may increase intracranial pressure and should therefore be avoided in patients with space-occupying intracranial lesions.[Ref]
+Nervous system side effects have included seizures, agitation, anxiety, nervousness, dry mouth, tremor, palpitations, insomnia, dyspnea, hyperventilation, dizziness, vertigo, ataxia, confusion, somnolence, resedation (as flumazenil's effects wane), headache, and paresthesia have also been reported.[Ref]
+Fear and panic attacks have been reported in patients with a history of panic disorders.[Ref]
+Psychiatric side effects have included emotional lability (crying, depersonalization, euphoria, depression, dysphoria, and paranoia), psychosis, anxiety, fear, and panic attacks.[Ref]
+Local reaction at the site of intravenous injection include pain, burning, swelling, and rash.[Ref]
+Gastrointestinal side effects have included nausea and vomiting in 11% of treated patients.  Hiccups have been reported in less than 1%.[Ref]
+Cardiovascular side effects have included cutaneous vasodilation (sweating, flushing, and hot flashes) in 1% to 3% of patients.  Arrhythmias (atrial, nodal, ventricular extrasystoles), tachycardia, bradycardia, premature ventricular depolarizations, heart block, cardiac arrest, hypertension, and chest pain have been reported in less than 1% of patients.[Ref]
+Ventricular tachycardia (1/446) and junctional tachycardia (1/446) have been reported in clinical trials of patients with benzodiazepine overdose.Some investigators have suggested that reports of adverse cardiac effects are related to reversal of benzodiazepine-mediated sedation with consequent increased sympathetic drive, rather than to any intrinsic cardiac effects of flumazenil.Other investigators and case reports have suggested that cardiovascular effects are most likely to occur in the setting of multiple drug overdose treated with flumazenil rather than isolated benzodiazepine overdose.[Ref]
+Fatalities have been reported, the majority of deaths were in patients with overdoses due to nonbenzodiazepine drugs (usually cyclic antidepressants) and in patients with serious underlying disease.[Ref]
+Benzodiazepine withdrawal symptoms have been reported following flumazenil treatment in patients receiving chronic (and rarely, acute) benzodiazepine therapy.  Such symptoms have included dizziness, tenseness, agitation, anxiety, panic attacks, confusion, tachycardia, perceptual disturbances, and sweating.  Withdrawal symptoms may occur in chronic benzodiazepine users after rapid flumazenil injection.[Ref]
+Although benzodiazepine withdrawal symptoms have been reported, symptoms are generally mild and transient.  One study has reported that no evidence of precipitated withdrawal was observed on psychomotor/behavioral performance studies or observer ratings in subjects pretreated with benzodiazepines.Another case report has suggested that flumazenil may aggravate seizures in patients undergoing benzodiazepine withdrawal.[Ref]
+Other side effects affecting the body as a whole have included fatigue, rigors, and shivering.[Ref]
+Tinnitus, hyperacusis, transient hearing impairment, dysphonia, and thick tongue have been reported.[Ref]
+Ocular side effects have included abnormal vision, diplopia, and visual field defects.[Ref]
+1. Pomier-Layrargues G, Giguere JF, Lavoie J, Willems B, Butterworth RF "Pharmacokinetics of benzodiazepine antagonist Ro 15-1788 in cirrhotic patients with moderate or severe liver dysfunction." Hepatology 10 (1989): 969-72
+2. "Product Information. Romazicon (flumazenil)." Roche Laboratories, Nutley, NJ. 
+3. Thomas P, Lebrun C, Chatel M "De novo absence status epilepticus as a benzodiazepine withdrawal syndrome." Epilepsia 34 (1993): 355-8
+4. LaFleche FR, Milzman DP "Flumazenil & coma." Ann Emerg Med 20 (1991): 1397
+5. Marchant B, Wray R, Leach A, Nama M "Flumazenil causing convulsions and ventricular tachycardia." BMJ 299 (1989): 860
+6. "Flumazenil." Med Lett Drugs Ther 34 (1992): 66-8
+7. Short TG, Galletly DC "Residual psychomotor effects following reversal of midazolam sedation with flumazenil." Anaesth Intensive Care 17 (1989): 290-7
+8. Chern TL, Kwan A "Flumazenil-induced seizure accompanying benzodiazepine and baclofen intoxication." Am J Emerg Med 14 (1996): 231-2
+9. Lheureux P, Vrankx M, Askenasi R "Administration of flumazenil." Ann Emerg Med 20 (1991): 592-3
+10. Mordel A, Winkler E, Almog S, Tirosh M, Ezra D "Seizures after flumazenil administration in a case of combined benzodiazepine and tricyclic antidepressant overdose." Crit Care Med 20 (1992): 1733-4
+11. Griffiths RR, Evans SM, Guarino JJ, Roache JD, Furman WR, Liebson I, Schwam EM "Intravenous flumazenil following acute and repeated exposure to lorazepam in healthy volunteers: antagonism and precipitated withdrawal." J Pharmacol Exp Ther 265 (1993): 1163-74
+12. Seebach J, Jost R "Flumazenil-induced psychotic disorder in hepatic encephalopathy." Lancet 339 (1992): 488-9
+13. Short TG, Maling T, Galletly DC "Ventricular arrhythmia precipitated by flumazenil." Br Med J (Clin Res Ed) 296 (1988): 1070-1
+14. Birch BR "Cardiac arrest associated with flumazenil." BMJ 305 (1992): 180-1
+15. Herd B, Clarke F "Complete heart block after flumazenil." Hum Exp Toxicol 10 (1991): 289
+16. Bodenham AR "Death after flumazenil." BMJ 299 (1989): 457
+17. Katz Y, Boulos M, Singer P, Rosenberg B "Cardiac arrest associated with flumazenil." BMJ 304 (1992): 1415
+18. Lopez A, Rebollo J "Benzodiazepine withdrawal syndrome after a benzodiazepine antagonist." Crit Care Med 18 (1990): 1480-1
+It is possible that some side effects of Romazicon may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

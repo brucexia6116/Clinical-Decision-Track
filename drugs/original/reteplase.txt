@@ -1,0 +1,53 @@
+Applies to reteplase: intravenous kit, intravenous powder for solution
+As well as its needed effects, reteplase may cause unwanted side effects that require medical attention. 
+
+If any of the following side effects occur while taking reteplase, check with your doctor or nurse immediately:
+
+
+Applies to reteplase: intravenous kit
+Hematologic side effects have been the most frequently reported side effects.  In the INJECT trial, the overall incidence of bleeds from any site was 15.0%, of which 4.6% were clinically significant.  Transfusion requirements have ranged from 1.0% (INJECT trial) to 12.4% (RAPID-2 trial).  The types of bleeds associated with this drug (and thrombolytic therapy, in general) may be broadly categorized as either intracranial hemorrhage or other types of hemorrhage.The overall incidence of intracranial hemorrhage has averaged 0.8%.  This risk is increased in patients with advanced age or hypertension.  The incidence of transient ischemic attack (TIA) or reversible ischemic neurologic deficit (RIND) in the INJECT trial averaged 0.20%, and the incidence of frank stroke in the RAPID-2 trial averaged 1.8%.  The average incidence of nonintracranial hemorrhage ranged from 1.9% to 9.0%, depending on the trial, use of arterial catheterization, and whether the study was performed in the US or Europe.The incidence of IV site bleeding ranged from 4.6% to 48.6%.  Arterial and venous punctures should be minimized.  Should serious bleeding in a critical location (intracranial, gastrointestinal, retroperitoneal, or pericardial) occur, any concomitant heparin should be terminated immediately, and the second bolus of reteplase should be withheld.[Ref]
+The incidences of bleeding have been reported in the following sites within the following clinical trials, respectively (European INJECT study [n=2965], US RAPID-1 study [n=210], European RAPID-2 study [n=113]: injection site 4.6%, 48.6%, 19.5%; intracranial 1.2% (stroke), 0%, 1.8% (stroke); gastrointestinal 2.5%, 9.0%, 1.8%; genitourinary 1.6%, 9.5%, 0.9%; anemia 2.6%; 1.4%, 0.9%).Since reteplase causes lysis of the fibrin plug, which is necessary to stop bleeding at puncture sites, careful attention should be paid to potential sites of bleeding during therapy (injection site, arterial puncture sites, catheter insertion sites, etc.).[Ref]
+The following incidences were reported from the RAPID-2 trial:  myocardial reinfarction 4.7%, congestive heart failure 9.5%, and ischemia or angina in 29.0%.Cholesterol embolization--sometimes fatal--has been reported rarely in patients treated with thrombolytic agents.  The exact incidence is unknown.  Its relationship with lytic therapy might be coincidental as there is such risk associated with invasive vascular procedures (e.g., cardiac catheterization, angiography, vascular surgery) and/or anticoagulant therapy.Reperfusion arrhythmias during thrombolytic therapy can be a sign of successful lytic therapy.  These arrhythmias (e.g., sinus bradycardia, accelerated idioventricular rhythm, ventricular rhythm, ventricular premature depolarizations, ventricular tachycardia) may also be seen during the natural course of acute myocardial infarction, and they should be treated with standard antiarrhythmic measures, as indicated.  It is recommended that antiarrhythmic therapy for bradycardia and/or ventricular irritability be available during reteplase therapy.[Ref]
+Cardiovascular side effects are probably sequelae of myocardial infarction and not due to reteplase.  These side effects have included hypotension, cardiogenic shock, arrhythmias (e.g., sinus bradycardia, accelerated idioventricular rhythm, premature ventricular depolarizations, supraventricular tachycardia, ventricular tachycardia, and ventricular fibrillation), AV block, pulmonary edema, heart failure, cardiac arrest, recurrent ischemia, reinfarction, myocardial rupture, mitral regurgitation, pericardial effusion, pericarditis, cardiac tamponade, venous thrombosis and embolism, and electromechanical dissociation.[Ref]
+Serious hypersensitivity reactions to reteplase have been rare.  Among the 2,965 patients in the INJECT trial, such reactions were noted in 3 patients, with 1 patient experiencing dyspnea and hypotension.  No cases of anaphylaxis were reported among the 3,856 patients treated with reteplase in initial clinical trials, but 2 cases of anaphylaxis were associated with the use of reteplase among approximately 2,500 patients in ongoing clinical trials.[Ref]
+There are no data to demonstrate the formation of anti-reteplase antibodies among the approximately 2,400 patients who have been tested for the presence of such antibodies.  Nevertheless, the use of reteplase (including the second bolus of reteplase) is not recommended if anaphylaxis has occurred with any prior use of reteplase in a given patient.[Ref]
+Gastrointestinal side effects have included nausea and vomiting.[Ref]
+Fever, a general body side effect, has been reported.[Ref]
+1. Smalling RW, Bode C, Kalbfleisch J, Sen S, Limbourg P, Forycki F, Habib G, Feldman R, Hohnloser S, Seals A "More rapid, complete, and stable coronary thrombolysis with bolus administration of reteplase compared with alteplase infusion in acute myocardial infarction. RAPID Investigators." Circulation 91 (1995): 2725-32
+2. Tebbe U, Graf A, Kamke W, Zahn R, Forycki F, Kratzsch G, Berg G "Hemodynamic effects of double bolus reteplase versus alteplase infusion in massive pulmonary embolism." Am Heart J 138 (1999): 39-44
+3. Amsterdam EA "Controlled trials comparing reteplase with alteplase and streptokinase in patients with acute myocardial infarction." Pharmacotherapy 16 (1996): s137-40
+4. Bode C, Smalling RW, Berg G, et al. "Randomized comparison of coronary thrombolysis achieved with double-bolus reteplase (Recombinant Plasminogen Activator) and front-loaded, accelerated alteplase (Recombinat Tissue Plasminogen Activator) in patients with acute myocardial infarction." Circulation 94 (1996): 891-8
+5. "Product Information. Retavase (reteplase)." Boehringer Mannheim, Gaithersburg, MD. 
+6. International Joint Efficacy Comparison of Thrombolytics "Randomised, souble-blind comparison of reteplase double-bolus administration with streptokinase in acute myocardial infarction(INJECT): trial to investigate equivalence." Lancet 346 (1995): 329-6
+7. Martin U, Dorge L, Fischer S "Comparison of desulfatohirudin (REVASC) and heparin as adjuncts to thrombolytic therapy with reteplase in a canine model of coronary thrombosis." Br J Pharmacol 118 (1996): 271-6
+It is possible that some side effects of reteplase may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Bleeding at injection site
+bleeding from the bladder, blood in urine
+bloody or black, tarry stools
+severe stomach pain
+vomiting of blood or material that looks like coffee grounds
+
+
+Pale skin
+troubled breathing with exertion
+unusual bleeding or bruising
+unusual tiredness or weakness
+
+
+Blurred vision
+confusion
+cough
+difficult or labored breathing
+difficulty swallowing
+dizziness, faintness, or lightheadedness when getting up from a lying or sitting position suddenly
+fast heartbeat
+hives
+itching
+puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
+shortness of breath
+skin rash
+sweating
+tightness in chest
+wheezing
+

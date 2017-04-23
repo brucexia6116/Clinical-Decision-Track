@@ -1,0 +1,142 @@
+Generic Name: bevacizumab
+Applies to bevacizumab: intravenous solution
+In addition to its needed effects, some unwanted effects may be caused by bevacizumab (the active ingredient contained in Avastin). In the event that any of these side effects do occur, they may require medical attention.
+
+If any of the following side effects occur while taking bevacizumab, check with your doctor or nurse immediately:
+Some of the side effects that can occur with bevacizumab may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
+
+
+Applies to bevacizumab: intravenous solution
+Very common (10% or more): Abdominal pain (up to 61%), vomiting (up to 52%), anorexia (up to 43%), constipation (up to 40%), diarrhea (up to 34%), stomatitis (up to 32%), dyspepsia (up to 24%), gastrointestinal hemorrhage (up to 24%), flatulence (up to 19%)Common (1% to 10%): Dry mouth, colitis, constipation, nauseaVery rare (less than 0.01%): TE fistula, upper aerodigestive tract hemorrhageFrequency not reported: Intestinal obstruction, intestinal necrosis, mesenteric venous occlusion, ileus, anastomotic ulceration, gastrointestinal perforation and wound dehiscence (complicated by intra-abdominal abscesses), tracheoesophageal fistulae[Ref]
+All three TE fistulas occurred during the bevacizumab maintenance phase of the study in the context of persistent esophagitis.  Additionally, six other cases of TE fistula have been reported in other lung and esophageal cancer studies using bevacizumab and chemotherapy alone or with concurrent radiation treatment.The incidence of gastrointestinal perforation (gastrointestinal perforation, fistula formation, and/or intraabdominal abscess) in patients with colorectal cancer and in patients with non-small cell lung cancer (NSCLC) receiving bevacizumab was 2.4% and 0.9%, respectively.[Ref]
+Very common (10% or more): Hypertension (up to 34%), hypotension (up to 15%)Common (1% to 10%): Deep vein thrombosis, congestive heart failureFrequency not reported: Arterial thromboembolic events (including cerebrovascular accident (stroke), myocardial infarction, transient ischemic attack, angina), fatal arterial thrombotic events, cerebral ischemia, supraventricular tachycardia, both serious and non-serious hemorrhagic events[Ref]
+Risk factors for the development of arterial thromboembolic events have included a history of arterial thromboembolism prior to bevacizumab exposure, age 65 years and above, and bevacizumab therapy.  These events have occurred at a higher rate in these high-risk groups.In one study, the rate of congestive heart failure (defined as NCI-CTC grade 3 and 4) in the bevacizumab plus paclitaxel arm was 2.2% versus 0.3% in the control arm.  Among patients receiving anthracyclines, the rate of CHF was 3.8% for bevacizumab treated patients and 0.6% for patients receiving paclitaxel alone.  Congestive heart failure occurred in six of 44 (14%) patients with relapsed acute leukemia (a non-FDA approved indication) receiving bevacizumab and concurrent anthracyclines in a single arm study.  The safety of continuation or resumption of bevacizumab in patients with cardiac dysfunction has not been studied.[Ref]
+Very common (10% or more): Dizziness (up to 26%), sensory neuropathy (24%)Common (1% to 10%): Confusion, abnormal gait, CNS hemorrhage, cerebrovascular ischemiaRare (less than 0.1%): Brain-capillary leak syndrome (reversible posterior hyponatremia hypertensive encephalopathyFrequency not reported: Dysgeusia[Ref]
+RPLS is a neurological disorder associated with hypertension, fluid retention, and cytotoxic effects of immunosuppressive drugs on the vascular endothelium.  The syndrome can present with headache, seizure, lethargy, confusion, blindness and other visual and neurologic disturbances.  Mild to severe hypertension may be present, but is not necessary for diagnosis.  The onset of symptoms has been reported to occur from sixteen hours to one year after initiation of bevacizumab.  Magnetic resonance imaging is necessary to confirm the diagnosis of RPLS.[Ref]
+Very common (10% or more): Leukopenia (37%), neutropenia (21%)Common (1% to 10%): ThrombocytopeniaFrequency not reported: Hemorrhagic events, pancytopenia, febrile neutropenia, decreased hemoglobin, anemia, prothrombin time prolongations, infection with severe neutropenia[Ref]
+Postmarketing reports: Gallbladder perforation
+Very common (10% or more): Hyperglycemia (up to 26%), hypomagnesemia (up to 24%), hyponatremia (up to 19%), hypoalbuminemia (16%), weight loss (up to 16%), hypokalemia (up to 16%)Common (1% to 10%): BilirubinemiaFrequency not reported: Increased blood potassium, decreased blood phosphorus, increased blood alkaline phosphatase[Ref]
+Very common (10% or more): Myalgia (up to 15%)Common (1% to 10%): Bone pain, back painPostmarketing reports: Osteonecrosis of the jaw[Ref]
+Frequency not reported: Ureteral stricture[Ref]
+Very common (10% or more): Upper respiratory infection (up to 47%), severe or fatal hemoptysis (up to 31%), epistaxis (up to 35%), dyspnea (up to 26%)Frequency not reported: Pulmonary hypertension, fatal pulmonary hemorrhage, nasal septum perforationCommon (1% to 10%): Voice alteration[Ref]
+Patients with recent hemoptysis (greater than or equal to 1/2 tsp of red blood) should not receive bevacizumab.  In study 6, four of 13 (31%) bevacizumab-treated patients with squamous cell histology and two of 53 (4%) bevacizumab-treated patients with histology other than squamous cell, experienced serious or fatal pulmonary hemorrhage as compared to none of the 32 (0%) patients receiving chemotherapy alone.  In study 5, the rate of pulmonary hemorrhage requiring medical intervention for the paclitaxel, carboplatin, plus bevacizumab arm was 2.3% (10 of 427) compared to 0.5% (2 of 441) for the paclitaxel plus carboplatin alone arm.  There were seven deaths due to pulmonary hemorrhage reported by investigators in the paclitaxel, carboplatin, plus bevacizumab arm as compared to one in the paclitaxel plus carboplatin alone arm.  Generally, these serious hemorrhagic events presented as major or massive hemoptysis without a history of minor hemoptysis during bevacizumab therapy.[Ref]
+Kidney biopsy of six patients with proteinuria showed findings consistent with thrombotic microangiopathy.In study 5, patients age 65 and older receiving carboplatin, paclitaxel, and bevacizumab (the active ingredient contained in Avastin) had a greater relative risk for proteinuria as compared to younger patients.[Ref]
+Very common (10% or more): Proteinuria (up to 36%)Uncommon (0.1% to 1%): Nephrotic syndrome[Ref]
+Very common (10% or more): Lacrimation increasedPostmarketing reports: Cases of serious ocular adverse reactions have been reported following unapproved intravitreal use of this drug compounded from vials approved for IV administration.  These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitreitis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular hemorrhage (such as vitreous hemorrhage or retinal hemorrhage and conjunctival hemorrhage).  Some of these reactions have resulted in various degrees of visual loss, including permanent blindness.[Ref]
+It has been suggested that reduction in macular edema after treatment may have resulted in anatomic changes at the fovea and may have triggered the visual hallucinations.[Ref]
+Very common (10% or more): Alopecia (up to 32%)Common (1% to 10%): Rash/desquamation, skin ulcerFrequency not reported: Exfoliative dermatitis, skin discolorationPostmarketing reports: Necrotizing fasciitis[Ref]
+Very common (10% or more): Asthenia (up to 74%), pain (up to 62%), fatigue (up to 80%), headache (up to 37%), peripheral edema (up to 22%), taste disorder (up to 9%)Common (1% to 10%): Infection with an unknown ANCUncommon (0.1% to 1%): Nongastrointestinal fistula formation, infection without neutropeniaFrequency not reported: Mesenteric venous occlusion, syncope, dehydration, somnolence, polyserositis, polyserositis[Ref]
+Frequency not reported: Sepsis, wound healing complications, urinary tract infection, positive assays for treatment-emergent anti-bevacizumab[Ref]
+1. "Product Information. Avastin (bevacizumab)." Genentech, South San Francisco, CA. 
+2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+3. Estilo CL,  Fornier M,  Farooki A,  Carlson D,  Bohle G 3rd,  Huryn JM "Osteonecrosis of the jaw related to bevacizumab." J Clin Oncol 26 (2008): 4037-8
+4. Cerner Multum,  Inc. "Australian Product Information." O 0
+5. Australian Government. Australian Department of Health and Ageing. Therapeutic Goods Administration "Medicines Safety Update, Volume 4, Number 4, August 2013. Available from: URL: http://www.tga.gov.au/hp/msu-2013-04.htm."   ([2013 Aug]):
+6. Mrugala MM "Bevacizumab for recurrent malignant gliomas: efficacy, toxicity, and patterns of  recurrence." Neurology 72 (2009): 773; author reply 773-4
+7. George BA,  Zhou XJ,  Toto R "Nephrotic syndrome after bevacizumab: case report and literature review." Am J Kidney Dis 49 (2007): e23-9
+8. Tan CS,  Sanjay S,  Eong KG "Charles Bonnet syndrome (visual hallucinations) after intravitreal avastin injection for age-related macular degeneration." Am J Ophthalmol 144 (2007): 330; author reply 330-1
+Not all side effects for Avastin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+
+Black, tarry stools
+bleeding gums
+body aches or pain
+burning, tingling, numbness, or pain in the hands, arms, feet, or legs
+chest pain or discomfort
+chills
+cloudy urine
+convulsions
+cough
+cracks in the skin
+decreased urine output
+difficult or labored breathing
+dilated neck veins
+dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
+ear congestion
+extreme fatigue
+fever
+irregular breathing
+irregular heartbeat
+lack or loss of strength
+lightheadedness
+loss of appetite
+loss of heat from the body
+loss of voice
+mood changes
+nasal congestion
+nervousness
+pain
+pain, redness, or swelling in the arm or leg
+painful or difficult urination
+pinpoint red spots on the skin
+pounding in the ears
+rapid breathing
+redness
+runny nose
+sensation of pins and needles
+slow or fast heartbeat
+sore throat
+sores on the skin
+sores, ulcers, or white spots on the lips or in the mouth
+stabbing pain
+sunken eyes
+sweating
+swelling of the face, fingers, feet, or lower legs
+swelling or inflammation of the mouth
+swollen glands
+thirst
+tightness in the chest
+trouble breathing
+unusual bleeding or bruising
+unusual tiredness or weakness
+vomiting of blood or material that looks like coffee grounds
+watery or bloody diarrhea
+weight gain
+wrinkled skin
+yellow skin
+
+
+Abdominal or stomach pain or tenderness
+bone pain
+difficulty with swallowing
+fainting
+severe constipation
+severe vomiting
+
+
+Back pain
+blisters
+blurred vision
+coma
+confusion
+dizziness
+drowsiness
+headache
+increased thirst
+muscle pain or cramps
+open sores
+pale skin
+
+
+Bloody mucus or unexplained nosebleeds
+hoarseness
+sudden weakness in the arms or legs
+sudden, severe chest pain
+voice changes
+
+
+Acid or sour stomach
+belching
+bloody nose
+change in taste or bad unusual or unpleasant (after) taste
+change in walking and balance
+clumsiness or unsteadiness
+diarrhea
+dry mouth
+excess flow of tears
+hair loss
+heartburn
+indigestion
+stomach discomfort, upset, or pain
+thinning of the hair
+weight loss
+

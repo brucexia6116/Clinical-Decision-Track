@@ -1,0 +1,87 @@
+Commonly reported side effects of propafenone include: constipation, dyspnea, nausea, and dysgeusia. Other side effects include: cardiac rate disturbance, death, atrial flutter, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia, blurred vision, heart murmur, myasthenia, asthenia, diarrhea, first degree atrioventricular block, vomiting, ecchymoses, and unpleasant taste.  See below for a comprehensive list of adverse effects.
+Applies to propafenone: oral capsule extended release, oral tablet
+As well as its needed effects, propafenone may cause unwanted side effects that require medical attention. 
+If any of the following side effects occur while taking propafenone, check with your doctor immediately:
+Some propafenone side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+
+
+Applies to propafenone: oral capsule extended release, oral tablet
+The Cardiac Arrhythmia Suppression Trial (CAST) revealed significantly higher mortality associated with some class IC antiarrhythmic agents in patients with a recent history (more than six days but less than two years prior to study) of myocardial infarction and asymptomatic non-life-threatening ventricular arrhythmias relative to placebo (5.1% versus 2.3%).  Use of propafenone in this context is potentially harmful.The safety and tolerability of propafenone after long-term administration has been reported.  After 14 months, 60% of patients discontinued therapy, but only 15% discontinued therapy due to side effects.  Overall, 59% of patients experienced at least 1 side effect, and the incidence was related to dose and age > 65 years.  The overall incidence of side effects was not related to structural heart disease.  However, cardiovascular toxicity including arrhythmia aggravation, heart failure, and serious conduction disturbances occurred more often in those with heart disease (20% vs. 13%).[Ref]
+Accelerated ventricular tachycardias refractory to overdrive pacing in patients on propafenone, who had arrhythmias previously responsive to overdrive pacing, have been reported.[Ref]
+Cardiovascular side effects may be serious.  Two to four percent of patients have experienced a proarrhythmic effect.  Propafenone slows conduction throughout the myocardial conduction system with very little effect on repolarization, resulting in a prolonged PR interval and QRS complex.  Cases of bradycardia, sinus pauses and arrest, accelerated reentrant tachycardia, AV block, and ventricular tachycardia, including torsades de pointes, have been reported.  Propafenone has negative inotropic activity.  Preexisting congestive heart failure has been aggravated in 9% of patients and new congestive heart failure induced in 5% of patients.[Ref]
+A 68 year-old man with ocular myasthenia gravis developed generalized myasthenia with ptosis, diplopia, dysarthria, dysphagia, and limb weakness within hours after beginning propafenone 450 mg per day.  It is believed that propafenone, by blocking fast sodium channels, may interfere with the generation of propagation of the motor end-plate potential.[Ref]
+Nervous system side effects have included dizziness in 7%, headaches in 5%, ataxia in 1% to 3%, and fatigue in less than 1% of patients.  Rare cases of exacerbation of myasthenia gravis and peripheral neuropathy have been associated with the use of propafenone.[Ref]
+Gastrointestinal side effects have included general gastrointestinal upset in 3%, constipation in 4%, a metallic taste in 9%, and nausea or vomiting in approximately 2% of patients.[Ref]
+Respiratory side effects have included dyspnea, wheezing, and bronchoconstriction.  These side effects have not exclusively been reported in patients with preexisting reactive airways disease.[Ref]
+Limited data indicate that the plasma concentration of propafenone is not correlated with respiratory complaints, although caution is recommended particularly when daily doses exceed 450 mg.  Propafenone is associated with a significant decrease in the average dose of methacholine required to reduce the forced expiratory volume in 1 second (FEV1) by 20% and an increase in the use of beta-agonist inhalers in patients with asthma.A case of wheezing and decreased expiratory flow rates has been associated with propafenone in a 50-year-old woman with no history of reactive airways disease and who had previously received atenolol and metoprolol without problems.[Ref]
+Profound neutropenia associated with bone marrow evidence of myeloid injury has been reported in at least 4 cases.  Each patient recovered completely within 7 to 30 days after drug withdrawal.[Ref]
+Hematologic side effects have been rare.  A meta-analysis of all adverse drug events associated with propafenone yielded 4 cases of agranulocytosis.  The reported rate is 1 case per 10,000 prescriptions per year.  Anemia, granulocytopenia, increased bleeding time, leukopenia, purpura, and thrombocytopenia have occurred.[Ref]
+Propafenone associated liver injury appears to be secondary to hepatocellular injury, cholestasis, or a combination of these.  In some cases an allergic reaction has been suspected, while in at least one case, an idiosyncratic toxicity of propafenone metabolites in the biliary epithelial cells was suspected.  There are no known fatalities or cases in which the drug had to be discontinued due to elevated liver function tests.[Ref]
+Hepatic side effects been reported.  The overall incidence of hepatotoxicity is estimated to be 0.1% to 0.2%.[Ref]
+A 63-year-old woman with hypertension, coronary artery disease, and ventricular tachycardia developed a facial photosensitive rash, generalized erythema, and an elevated ANA titer in a homogenous and speckled pattern within 2 months after beginning propafenone 300 mg every 8 hours.  The clinical and laboratory abnormalities resolved within 1 month of drug discontinuation and reappeared upon rechallenge with propafenone.[Ref]
+Immunologic side effects including the rare development of a lupus-like syndrome have been reported in at least two cases.  An elevated ANA titer has been reported in 0.7% of patients.[Ref]
+A 39-year-old woman with a history of congestive heart failure and symptomatic premature ventricular depolarizations developed paresthesias, insomnia, paranoia, hallucinations, and frank psychosis within 24 hours after starting propafenone 300 mg every 12 hours.  The syndrome resolved within 2 to 3 days after discontinuation of the drug and institution of haloperidol.  The patient subsequently did well off of haloperidol, on an alternative antiarrhythmic agent.A 61-year-old man with a history of sick sinus syndrome, chronic atrial fibrillation, and premature ventricular depolarizations developed amnesia and disorientation within six days after starting propafenone.  His mental status deterioration resolved within six to seven hours after discontinuing therapy.  Comparable adverse effects have been associated with an analogous agent, propranolol.[Ref]
+Psychiatric abnormalities have been limited to a case of frank psychosis and a case of global amnesia.[Ref]
+Ocular side effects of blurred vision (4%), abnormal vision(2%), and eye irritation (less than 1%) have been reported.[Ref]
+Dermatologic side effects including at least one case of acute generalized exanthematous pustulosis, which resolved within 3 days after discontinuation of propafenone, has been reported.[Ref]
+1. Podrid PJ, Anderson JL "Safety and tolerability at long-term propafenone therapy for supraventricular tachyarrhythmias." Am J Cardiol 78 (1996): 430-4
+2. "Multum Information Services, Inc. Expert Review Panel"  
+3. Chimienti M, Cullen MT, Casadei G "Safety of long-term flecainide and propafenone in the management of patients with symptomatic paroxysmal atrial fibrillation: report from the flecainide and propafenone italian study investigators." Am J Cardiol 77 (1996): a60-5
+4. Lee SH, Chen SA, Chiang CE, Tal CT, Wen ZC, Wang SP, Chang MS "Comparisons of oral propafenone and quinidine as an initial treatment option in patients with symptomatic paroxysmal atrial fibrillation: a double-blind, randomized trial." J Intern Med 239 (1996): 253-60
+5. Sulke AN, Holt P, Sowton GE "Acceleration of conduction within an accessory pathway with propafenone." Int J Cardiol 28 (1990): 105-7
+6. Alboni P, Scarfo S, Fuca G, Paparella N, Pedini I, Mele D "Hemodynamic effects of oral propafenone during both sinus rhythm and atrial fibrillation." Am J Cardiol 75 (1995): 91-3
+7. Nathan AW, Hellestrand KJ, Bexton RS, Camm AJ "Fatal ventricular tachycardia in association with propafenone, a new class IC antiarrhythmic agent." Postgrad Med J 60 (1984): 155-6
+8. Stavens CS, McGovern B, Garan H, Ruskin JN "Aggravation of electrically provoked ventricular tachycardia during treatment with propafenone." Am Heart J 110 (1985): 24-9
+9. Buss J, Neuss H, Bilgin Y, Schlepper M "Malignant ventricular tachyarrhythmias in association with propafenone treatment." Eur Heart J 6 (1985): 424-8
+10. Cobbe SM, Rae AP, Poloniecki JD, Chong E, Balnave K, Moriarty A, Blackwood R, Cahill N, Cobbe S, Pye M, Sedgwick M, Cooper D "A randomized, placebo-controlled trial of propafenone in the prophylaxis of paroxysmal supraventricular tachycardia and paroxysmal atrial fibrillation." Circulation 92 (1995): 2550-7
+11. Porterfield JG, Porterfield LM "Therapeutic efficacy and safety of oral propafenone for atrial fibrillation." Am J Cardiol 63 (1989): 114-6
+12. Dinh H, Baker BJ, de Soyza N, Murphy ML "Sustained therapeutic efficacy and safety of oral propafenone for treatment of chronic ventricular arrhythmias: a 2-year experience." Am Heart J 115 (1988): 92-6
+13. Ravid S, Podrid PJ, Lampert S, Lown B "Congestive heart failure induced by six of the newer antiarrhythmic drugs." J Am Coll Cardiol 14 (1989): 1326-30
+14. "Product Information. Rhythmol (propafenone)." Knoll Pharmaceutical Company, Whippany, NJ. 
+15. Zehender M, Hohnloser S, Geibel A, et al "Short-term and long-term treatment with propafenone: determinants of arrhythmia suppression, persistence of efficacy, arrhythmogenesis, and side effects in patients." Br Heart J 67 (1992): 491-7
+16. Aliot E, Denjoy I, Attuel, Admant, Rey, Janody, Richard, Lang, Valere, Morane, Kahn, Kayanakis, Janinmagnificat, Fauvel "Comparison of the safety and efficacy of flecainide versus propafenone in hospital out-patients with symptomatic paroxysmal atrial fibrillation/flutter." Am J Cardiol 77 (1996): a66-71
+17. Lee PK, Kerr CR, Vorderbrugge S, Qi AZ, Yeung-Lai-Wah JA "Symptomatic sinus node dysfunction associated with the use of propafenone." Am J Cardiol 62 (1988): 480-1
+18. Odeh M, Seligmann H, Oliven A "Propafenone-induced ataxia: Report of three cases." Am J Med Sci 320 (2000): 151-3
+19. Galasso PJ, Stanton MS, Vogel H "Propafenone-induced peripheral neuropathy." Mayo Clin Proc 70 (1995): 469-72
+20. Jones RJ, Brace SR, Vander Tuin EL "Probable propafenone-induced transient global amnesia." Ann Pharmacother 29 (1995): 586-90
+21. Lecky B, Weir D, Chong E "Exacerbation of myasthenia by propafenone." J Neurol Neurosurg Psychiatry 54 (1991): 377
+22. Spinler SA, Elder CA, Kindwall KE "Propafenone-induced liver injury." Ann Pharmacother 26 (1992): 926-8
+23. Mondardini A, Pasquino P, Bernardi P, Aluffi E, Tartaglino B, Mazzucco G, Bonino F, Verme G, Negro F "Propafenone-induced liver injury: report of a case and review of the literature." Gastroenterology 104 (1993): 1524-6
+24. Pritchett EL,  Page RL,  Carlson M,  Undesser K,  Fava G "Efficacy and safety of sustained-release propafenone (propafenone SR) for patients with atrial fibrillation." Am J Cardiol 92 (2003): 941-6
+25. Veale D, McComb JM, Gibson GJ "Propafenone." Lancet 335 (1990): 979
+26. Olm M, Munne P, Jimenez MJ "Severe reactive airways disease induced by propafenone." Chest 95 (1989): 1366-7
+27. Hill MR, Gotz VP, Harman E, et al "Evaluation of the asthmogenicity of propafenone, a new antiarrhythmic drug: comparison of spirometry with methacholine challenge." Chest 90 (1986): 698-702
+28. Fan K, Bell R, Eudy S, Fullenwider J "Amiodarone-associated pulmonary fibrosis. Evidence of an immunologically mediated mechanism." Chest 92 (1987): 625-30
+29. Miwa LJ, Jolson HM "Propafenone associated agranulocytosis." Pacing Clin Electrophysiol 15 (1992): 387-90
+30. Guindo J, de la Serna AR, Borja J, et al "Propafenone and a syndrome of the lupus erythematosus type." Ann Intern Med 104 (1986): 589
+31. Jack RA "A case of mania secondary to propafenone." J Clin Psychiatry 46 (1985): 104-5
+32. Huang YM,  Lee WR,  Hu CH,  Cheng KL "Propafenone-induced acute generalized exanthematous pustulosis." Int J Dermatol 44 (2005): 256-7
+It is possible that some side effects of propafenone may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Chest pain
+fast, irregular, or slow heartbeat
+lightheadedness, dizziness, or fainting
+shortness of breath
+swelling of the feet or lower legs
+weight gain
+
+
+Chills
+fever
+joint pain
+trembling or shaking
+weakness
+
+
+Change in taste or bitter or metallic taste
+
+
+Blurred vision
+constipation
+diarrhea
+dryness of the mouth
+headache
+nausea or vomiting
+skin rash
+unusual tiredness or weakness
+

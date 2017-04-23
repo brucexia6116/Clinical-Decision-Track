@@ -1,0 +1,79 @@
+Applies to telaprevir: oral tablet
+As well as its needed effects, telaprevir may cause unwanted side effects that require medical attention. 
+If any of the following side effects occur while taking telaprevir, check with your doctor immediately:
+Some telaprevir side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+
+
+Applies to telaprevir: oral tablet
+Telaprevir must be administered in combination with peginterferon alfa and ribavirin.  The prescribing information for peginterferon alfa and ribavirin should be consulted for associated side effects.Serious side effects have been reported in 3% of patients receiving telaprevir combination therapy compared to none of the patients receiving peginterferon alfa and ribavirin alone.  The serious side effects reported most frequently were skin disorders (rash and/or pruritus) and anemia.  Telaprevir was discontinued due to side effects in 14% of patients.  The side effects leading to discontinuation most often were rash, anemia, fatigue, pruritus, nausea, and vomiting.Most of the following side effects were reported in patients receiving telaprevir combination therapy with an incidence at least 5% greater than those receiving peginterferon alfa and ribavirin alone.[Ref]
+Rash developed most often during the first 4 weeks, but was reported at any time during telaprevir combination therapy.  Rash events led to discontinuation of telaprevir alone and telaprevir combination therapy in 6% and 1% of patients, respectively.  Severe rash may have a prominent eczematous component.Fatal cases have been reported in patients with progressive rash and systemic symptoms who continued telaprevir combination therapy after serious skin reaction was identified.Presenting signs of DRESS have included rash, fever, facial edema, and evidence of internal organ involvement (e.g., hepatitis, nephritis), with or without eosinophilia.  Presenting signs of SJS have included fever, target lesions, and mucosal erosions or ulcerations (e.g., conjunctivae, lips).[Ref]
+Very common (10% or more): Rash (all grades: 56%), pruritus (47%)Common (1% to 10%): Severe rash (e.g., generalized rash or rash with vesicles or bullae or ulcerations other than Stevens-Johnson syndrome; 4%)Uncommon (0.1% to 1%): Serious skin reactions (including drug reaction with eosinophilia and systemic symptoms [DRESS], Stevens-Johnson syndrome [SJS]; less than 1%)Frequency not reported: Fatal and nonfatal serious skin reactions (including SJS, DRESS, toxic epidermal necrolysis), dry skinPostmarketing reports: Toxic epidermal necrolysis, erythema multiforme[Ref]
+The addition of telaprevir to peginterferon alfa and ribavirin was associated with a further decrease in hemoglobin levels.  Decreased hemoglobin levels occurred during the first 4 weeks of therapy and the lowest values were reached at the end of telaprevir dosing.  After telaprevir dosing was completed, hemoglobin levels gradually increased to levels observed with peginterferon alfa and ribavirin (10 g/dL or less: 17%; less than 8.5 g/dL: 5%).  In clinical trials, time to onset of hemoglobin levels 10 g/dL or less was earlier with telaprevir combination therapy (56 days [range 8 to 365 days]) compared to therapy with peginterferon alfa and ribavirin (63 days [13 to 341 days]).In patients receiving telaprevir combination therapy, 32% had ribavirin dose modification (reduction, interruption, or discontinuation) due to anemia, 6% received a blood transfusion, 4% discontinued telaprevir, and 1% discontinued telaprevir combination therapy.  In patients receiving peginterferon alfa and ribavirin alone, 12% had ribavirin dose modification due to anemia, 1% received a blood transfusion, and less than 1% discontinued therapy.  Anemia requiring ribavirin dose reduction, blood transfusion, and/or erythropoiesis stimulating agent has been reported as early as 10 days after initiation of telaprevir combination therapy.Decreased total white blood cell, absolute neutrophil, absolute lymphocyte, and platelet counts have been associated with peginterferon alfa.  Decreased total white cell counts (1499/mm3 or less) have been reported in 5% of patients treated with peginterferon alfa.  Decreased absolute neutrophil counts (749/mm3 or less) have been reported in 15% of patients treated with peginterferon alfa and ribavirin alone.  Decreased platelet counts have been reported in 36% (all grades) and 1% (49,999/mm3 or less) of patients treated with peginterferon alfa and ribavirin alone.[Ref]
+Very common (10% or more): Anemia (36%), decreased mean platelet counts (all grades: 47%), decreased hemoglobin levels (10 g/dL or less: 36%; less than 8.5 g/dL: 14%), decreased lymphocyte counts (499/mm3 or less: 15%), decreased absolute neutrophil counts (749/mm3 or less: 12%)Common (1% to 10%): Decreased total white cell counts (1499/mm3 or less: 8%), decreased mean platelet counts (49,999/mm3 or less: 3%)[Ref]
+Very common (10% or more): Elevated uric acid levels (73%)Common (1% to 10%): Uric acid level shifts from baseline to 12.1 mg/dL or greater (7%)Uncommon (0.1% to 1%): Gout/gouty arthritis (less than 1%)Frequency not reported: Metabolic and nutrition disorders (unspecified)[Ref]
+Very common (10% or more): Nausea (39%), diarrhea (26%), vomiting (13%), hemorrhoids (12%), anorectal discomfort (11%)Common (1% to 10%): Anal pruritus (6%)Frequency not reported: Rectal burning, anorexia, abdominal discomfort, constipation[Ref]
+Anorectal side effects have been reported in 29% of patients.  The majority of anorectal side effects (e.g., hemorrhoids, anorectal discomfort, anal pruritus, and rectal burning) were of mild to moderate severity; less than 1% led to discontinuation of therapy and all resolved during or after completion of telaprevir dosing.[Ref]
+Very common (10% or more): Fatigue (56%)Frequency not reported: Pyrexia, influenza-like illness, infections and infestations (unspecified)[Ref]
+Bilirubin levels increased most steeply during the first 1 to 2 weeks of telaprevir, stabilized, and returned to baseline levels between weeks 12 and 16.Elevated bilirubin has been reported in 28% (all grades) and 2% (2.6 times ULN or greater) of patients treated with peginterferon alfa and ribavirin alone.[Ref]
+Very common (10% or more): Elevated bilirubin (all grades: 41%)Common (1% to 10%): Elevated bilirubin (2.6 times ULN or greater: 4%)[Ref]
+Very common (10% or more): Dysgeusia (10%)Frequency not reported: Headache[Ref]
+Frequency not reported: Depression, insomnia[Ref]
+Frequency not reported: Myalgia, musculoskeletal disorders (unspecified)[Ref]
+Postmarketing reports: Prerenal azotemia (with or without acute renal insufficiency/failure), uric acid nephropathy
+Frequency not reported: Ocular events (unspecified)[Ref]
+1. "Product Information. Incivek (telaprevir)." Vertex Pharmaceuticals, Cambridge, MA. 
+2. Matthews SJ,  Lancaster JW "Telaprevir: a hepatitis C NS3/4A protease inhibitor." Clin Ther 34 (2012): 1857-82
+3. Gentile I,  Viola C,  Borgia F,  Castaldo G,  Borgia G "Telaprevir: a promising protease inhibitor for the treatment of hepatitis C virus infection." Curr Med Chem 16 (2009): 1115-21
+4. Perry CM "Telaprevir: a review of its use in the management of genotype 1 chronic hepatitis C." Drugs 72 (2012): 619-41
+5. Lawitz E,  Rodriguez-Torres M,  Muir AJ, et al. "Antiviral effects and safety of telaprevir, peginterferon alfa-2a, and ribavirin  for 28 days in hepatitis C patients." J Hepatol 49 (2008): 163-9
+6. Fowell AJ,  Nash KL "Telaprevir: a new hope in the treatment of chronic hepatitis C?" Adv Ther 27 (2010): 512-22
+7. Montaudie H,  Passeron T,  Cardot-Leccia N,  Sebbag N,  Lacour JP "Drug rash with eosinophilia and systemic symptoms due to telaprevir." Dermatology 221 (2010): 303-5
+8. Kim JJ,  Culley CM,  Mohammad RA "Telaprevir: an oral protease inhibitor for hepatitis C virus infection." Am J Health Syst Pharm 69 (2012): 19-33
+9. "Telaprevir (Incivek) and boceprevir (Victrelis) for chronic hepatitis C." Med Lett Drugs Ther 53 (2011): 57-9
+10. Rowe IA,  Mutimer DJ "Protease inhibitors for treatment of genotype 1 hepatitis C virus infection." BMJ 343 (2011): d6972
+It is possible that some side effects of telaprevir may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Black, tarry stools
+bleeding gums
+blood in the urine or stools
+chills
+cough
+fever
+joint pain, stiffness, or swelling
+lower back, side, or stomach pain
+painful or difficult urination
+pale skin
+pinpoint red spots on the skin
+rash
+shortness of breath
+sore throat
+swelling of the feet or lower legs
+troubled breathing with exertion
+ulcers, sores, or white spots in the mouth
+unusual bleeding or bruising
+unusual tiredness or weakness
+
+
+Blistering, peeling, or loosening of the skin
+cloudy urine
+dark urine
+diarrhea
+difficulty with breathing
+drowsiness
+general tiredness and weakness
+headache
+itching
+joint or muscle pain
+light-colored stools
+nausea or vomiting
+red skin lesions, often with a purple center
+red, irritated eyes
+swelling or puffiness of the face
+unusual weight gain
+upper right abdominal or stomach pain
+yellow eyes and skin
+
+
+Bleeding with stools
+uncomfortable swelling around the anus
+

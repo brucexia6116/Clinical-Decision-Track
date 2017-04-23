@@ -1,0 +1,27 @@
+Generic Name: magnesium oxide
+Applies to magnesium oxide: capsules, tablets
+ Check with your doctor if any of these most COMMON side effects persist or become bothersome:
+Diarrhea.
+Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); black, tarry stools; nausea; slow reflexes; vomit that looks like coffee grounds.
+
+
+Applies to magnesium oxide: compounding powder, oral capsule, oral tablet
+Other side effects have included effects due to toxicity (hypermagnesemia).  Mild hypermagnesemia is generally well-tolerated.  Moderate or severe hypermagnesemia primarily affects the nervous and cardiovascular systems.  The effects of hypermagnesemia may be worsened by the presence of hypocalcemia, especially in patients with uremia.[Ref]
+Gastrointestinal side effects have included diarrhea.  Magnesium toxicity has been associated with nausea (magnesium levels of 2.0 to 2.5 mg/dL or 4 to 5 mEq/L) and rare cases of paralytic ileus (magnesium levels greater than 5 mEq/L).[Ref]
+Nervous system side effects have resulted from the suppression of neuromuscular transmission in the CNS and at the neuromuscular junction by magnesium (antagonized by calcium).  The degree of severity of these side effects has been dependent on the serum magnesium level.  Clinically, if serum magnesium levels increase to 4 to 7 mEq/L, there may be a decrease in tendon reflexes, muscle weakness and/or mental confusion/sedation.  At levels of 7 to 10 mEq/L the respiratory rate slows and the blood pressure falls.  At levels  of 10 to 15 mEq/L there is usually profound mental depression, areflexia, coma and respiratory paralysis.  Magnesium also has a curare-like effect at the neuromuscular junction at serum levels above 10 mEq/L.  Death is not uncommon when serum magnesium levels rise to 15 mEq/L.[Ref]
+Cardiovascular side effects have included hypotension, depressed myocardial conductivity, and bradyarrhythmias.[Ref]
+The cardiovascular consequences of hypermagnesemia are due to peripheral vasodilation.  Hypotension may be observed when serum Mg levels rise to 7 to 10 mEq/L, becoming severe when serum Mg levels rise above 10 mEq/L.  Magnesium can also depress myocardial conductivity and cause bradyarrhythmias at levels greater than 10 mEq/L.  While some patients are inexplicably able to tolerate extraordinary magnesium levels, there is a significant risk of asystole when levels rise to 25 mEq/L.  The risk of cardiotoxicity from hypermagnesemia is increased in the presence of hypocalcemia, hyperkalemia, acidosis, digitalis therapy, and renal insufficiency.[Ref]
+Acute hypermagnesemia may cause hypocalcemia due to suppression of the release of parathyroid hormone (PTH) and competition for renal tubular reabsorption between calcium (Ca) and magnesium.  The latter can lead to decreased Ca reabsorption and hypercalciuria, which aggravates the hypocalcemia produced by decreased release of PTH.[Ref]
+Metabolic side effects have included hypocalcemia.[Ref]
+Magnesium oxide (the active ingredient contained in Uro-Mag) is generally well-tolerated.[Ref]
+1. Schrier RW, Gottschalk CW, Eds. "Diseases of the Kidney, 5th Edition." Boston, MA: Little, Brown and Company 1-3 (1993): 183-2653
+2. Golzarian J, Scott HW, Richards WO "Hypermagnesemia-induced paralytic ileus." Dig Dis Sci 39 (1994): 1138-42
+3. Wilson J, Braunwald E, Isselbacher K, Petersdorf R, Martin J, Fauci A, Root R "Harrison's Principles of Internal Medicine, 12th Edition." McGraw-Hill, Inc., Health Professions Division, New York 1 (1991): 1938
+4. Ridgway LE 3d, Muise K, Wright JW, Patterson RM, Newton ER "A prospective randomized comparison of oral terbutaline and magnesium oxide for the maintenance of tocolysis." Am J Obstet Gynecol 163 (1990): 879-82
+5. Fung MC, Weintraub M, Bowen DL "Hypermagnesemia: elderly over-the-counter drug users at risk." Arch Fam Med 4 (1995): 718-23
+6. Jenny DB, Goris GB, Urwiller RD, Brian BA "Hypermagnesemia following irrigation of renal pelvis. Cause of respiratory depression." JAMA 240 (1978): 1378-9
+7. Alison LH, Bulugahapitiya D "Laxative induced magnesium poisoning in a 6 week old infant." BMJ 300 (1990): 125
+8. Cumming WA, Thomas VJ "Hypermagnesemia: a cause of abnormal metaphyses in the neonate." AJR Am J Roentgenol 152 (1989): 1071-2
+9. Neumann L, Jensen BG "Osteomalacia from Al and Mg antacids. Report of a case of bilateral hip fracture." Acta Orthop Scand 60 (1989): 361-2
+10. Lembcke B, Fuchs C "Magnesium load induced by ingestion of magnesium-containing antacids." Contrib Nephrol 38 (1984): 185-94
+It is possible that some side effects of Uro-Mag may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

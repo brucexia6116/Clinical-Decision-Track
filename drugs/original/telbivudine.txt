@@ -1,0 +1,100 @@
+Applies to telbivudine: oral solution, oral tablet
+As well as its needed effects, telbivudine may cause unwanted side effects that require medical attention. 
+If any of the following side effects occur while taking telbivudine, check with your doctor immediately:
+Some telbivudine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+
+
+Applies to telbivudine: oral solution, oral tablet
+In general, telbivudine was usually well tolerated in clinical studies, with most side effects described as mild or moderate and not ascribed to telbivudine.  Discontinuations due to adverse events were reported in 4% of telbivudine recipients and 4% of lamivudine recipients.  The most common side effects leading to discontinuation of telbivudine included elevated creatine kinase (CK), nausea, diarrhea, fatigue, myalgia, and myopathy.[Ref]
+Increased CK occurred more frequently during telbivudine treatment during clinical trials.  By 104 weeks of treatment, 79% of telbivudine-treated patients and 47% of lamivudine-treated patients reported Grade 1 to 4 CK elevations.  Thirteen percent and 4% of telbivudine- and lamivudine-treated patients reported Grade 3 or 4 CK elevations, respectively.  Most patients with CK elevations did not exhibit symptoms, but the average recovery time was longer in telbivudine-treated patients versus lamivudine-treated patients.  Of the telbivudine-treated patients with Grade 1 to 4 CK elevations, 10% experienced a musculoskeletal side effect compared to 5% of lamivudine-treated patients.  By 208 weeks of treatment, 16% of telbivudine-treated patients reported Grade 3 or 4 CK elevations, most of which were asymptomatic (74%), transient (98% lasted 1 or 2 visits), and resolved spontaneously or returned to baseline levels (93%).Cases of myopathy/myositis have been reported with telbivudine use several weeks to months following treatment initiation.[Ref]
+Very common (10% or more): CK greater than 7 times ULN (13%), increased CK (11%)Common (1% to 10%): Arthralgia (4%), back pain (4%), myalgia (3%)Uncommon (0.1% to 1%): Myopathy/myositis (presenting with muscular weakness; less than 1%)Frequency not reported: Fibromyalgia, muscle strain, chest wall pain, noncardiac chest pain, chest discomfort, flank pain, muscle cramp, musculoskeletal chest pain, musculoskeletal pain, musculoskeletal discomfort, musculoskeletal stiffness, myofascial pain syndrome, neck pain, pain in extremity, tendernessPostmarketing reports: Rhabdomyolysis[Ref]
+Very common (10% or more): Fatigue (13%)Common (1% to 10%): Pyrexia (4%)Frequency not reported: Malaise, vertigo, influenza and influenza-like symptoms, postprocedural pain[Ref]
+Very common (10% or more): Headache (10%)Common (1% to 10%): Dizziness (4%), insomnia (3%)Uncommon (0.1% to 1%): Peripheral neuropathy (less than 1%)Frequency not reported: Migraine, sinus headache, tension headachePostmarketing reports: Paresthesia, hypoesthesia[Ref]
+Common (1% to 10%): ALT greater than 3 times baseline (7%), AST (SGOT) greater than 3 times baseline (6%), ALT greater than 10 times ULN and 2 times baseline (i.e., acute hepatitis flare; 5%), increased ALT (3%), hepatitis B exacerbation (2%)Uncommon (0.1% to 1%): Total bilirubin greater than 5 times ULN (less than 1%)Frequency not reported: Lactic acidosis and severe hepatomegaly with steatosis, hypercholesterolemia, posttreatment exacerbations of hepatitis[Ref]
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of telbivudine and other nucleoside analogs alone or in combination with other antiretroviral agents.The incidence of ALT flares (ALT greater than 10 times ULN and greater than 2 times baseline) was similar (3%) in the two treatment arms in the first 6 months.  After week 24, ALT flares were reduced to 2% in telbivudine-treated patients versus 5% in lamivudine-treated patients.Posttreatment exacerbations of hepatitis have occurred after discontinuation of telbivudine.[Ref]
+Common (1% to 10%): Diarrhea (6%), upper abdominal pain (6%), nausea (5%), abdominal pain (3%), abdominal distension (3%), dyspepsia (3%), lipase greater than 2.5 times ULN (2%)Uncommon (0.1% to 1%): Amylase greater than 3 times ULN (less than 1%)Frequency not reported: Gastritis, sore throat, dry mouth, decreased appetite, abdominal discomfort, lower abdominal pain, gastrointestinal pain[Ref]
+Common (1% to 10%): Cough (6%), pharyngolaryngeal pain (5%)Frequency not reported: Upper respiratory tract infection, nasopharyngitis[Ref]
+Common (1% to 10%): Rash (4%), pruritus (2%)Frequency not reported: Acne[Ref]
+Common (1% to 10%): Neutropenia (absolute neutrophil count less than or equal to 749/mm3; 2%)Uncommon (0.1% to 1%): Thrombocytopenia (platelets less than or equal to 49,999/mm3; less than 1%)[Ref]
+Postmarketing reports: Lactic acidosis
+At least one patient reporting polyuria was receiving a diuretic for ascites.[Ref]
+Rare (less than 0.1%): Polyuria[Ref]
+Frequency not reported: Hematuria, irregular menstruation[Ref]
+1. "Product Information. Tyzeka (telbivudine)." IDEC Pharmaceuticals Corporation, San Diego, CA. 
+2. "Multum Information Services, Inc. Expert Review Panel"  
+3. Matthews SJ "Telbivudine for the management of chronic hepatitis B virus infection." Clin Ther 29 (2007): 2635-53
+4. Jones R,  Nelson M "Novel anti-hepatitis B agents: A focus on telbivudine." Int J Clin Pract 60 (2006): 1295-9
+5. "Telbivudine (Tyzeka) for chronic Hepatitis B." Med Lett Drugs Ther 49 (2007): 11-2
+6. Yuen MF,  Lai CL "Telbivudine: an upcoming agent for chronic hepatitis B." Expert Rev Anti Infect Ther 3 (2005): 489-94
+7. Keam SJ "Telbivudine." Drugs 67 (2007): 1917-29
+8. Hu P,  Jiang J,  Wang H, et al. "Single-dose and multiple-dose pharmacokinetics and safety of telbivudine after oral administration in healthy Chinese subjects." J Clin Pharmacol 46 (2006): 999-1007
+9. Lai CL,  Lim SG,  Brown NA, et al. "A dose-finding study of once-daily oral telbivudine in HBeAg-positive patients with chronic hepatitis B virus infection." Hepatology 40 (2004): 719-26
+10. Zhou XJ,  Marbury TC,  Alcorn HW, et al. "Pharmacokinetics of telbivudine in subjects with various degrees of hepatic impairment." Antimicrob Agents Chemother 50 (2006): 1721-6
+11. Zhou XJ,  Swan S,  Smith WB, et al. "Pharmacokinetics of telbivudine in subjects with various degrees of renal impairment." Antimicrob Agents Chemother 51 (2007): 4231-5
+It is possible that some side effects of telbivudine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Chills
+cough
+diarrhea
+fever
+general feeling of discomfort or illness
+headache
+joint pain
+loss of appetite
+muscle aches and pains
+nausea
+runny nose
+shivering
+sore throat
+stomach pain
+sweating
+trouble with sleeping
+unusual tiredness or weakness
+vomiting
+
+
+Back pain
+chest pain
+difficulty with moving
+muscle cramping
+muscle stiffness
+muscle tenderness, wasting, or weakness
+pain
+pain in the extremity
+swollen joints
+
+
+Burning feeling in the chest or stomach
+indigestion
+loose stools
+stomach upset
+tenderness in the stomach area
+
+
+Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
+dark-colored urine
+decreased appetite
+fast, shallow breathing
+muscle pain or spasms
+shortness of breath
+sleepiness
+
+
+Body aches or pain
+difficulty with breathing
+ear congestion
+loss of voice
+nasal congestion
+sneezing
+stuffy nose
+
+
+Acid or sour stomach
+belching
+dizziness
+heartburn
+rash
+sleeplessness
+stomach discomfort
+unable to sleep
+

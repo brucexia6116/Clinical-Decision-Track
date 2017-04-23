@@ -1,0 +1,70 @@
+Generic Name: dipyridamole
+Applies to dipyridamole: capsule extended release, solution, tablet, tablet extended release
+As well as its needed effects, dipyridamole (the active ingredient contained in Persantine) may cause unwanted side effects that require medical attention. 
+If any of the following side effects occur while taking dipyridamole, check with your doctor or nurse as soon as possible:
+Some dipyridamole side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+
+
+Applies to dipyridamole: compounding powder, intravenous solution, oral tablet
+Generally, oral administration of dipyridamole (the active ingredient contained in Persantine) has been well tolerated.  Adverse effects during intravenous (IV) administration have occurred in 40% to 55% of patients.  The majority of dipyridamole-induced adverse effects resulting from IV administration can be reversed by intravenous aminophylline.[Ref]
+Cardiovascular symptoms have been the most frequently reported adverse effects associated with dipyridamole (the active ingredient contained in Persantine)  particularly when given intravenously.  Ischemia and angina have been reported following oral administration.  Intravenous administration has been associated with chest pain (20% to 25%), ST segment depression (8% to 20%), facial flushing (2%), and severe ischemia (2.5%).  Atrial and ventricular premature beats, ventricular tachycardia, ventricular fibrillation, bradycardia, asystole, sinus arrest, and myocardial infarction have also been reported.  Hypotension may occur, with an average decrease in mean arterial pressure of 5% to 10%.[Ref]
+Chest pain, ischemia, and myocardial infarction associated with dipyridamole may be due to a phenomenon known as coronary "steal".  Coronary steal involves shunting of blood flow away from an ischemic area where diseased vessels are already maximally dilated, to non-diseased areas when dipyridamole administration has resulted in vasodilation.  Myocardial infarction has been reported in patients with unstable angina.Aminophylline, an adenosine-receptor antagonist, may be used to reverse some of the effects of dipyridamole, including chest pain and bronchospasm.  Intravenous aminophylline should be available during myocardial imaging.[Ref]
+Nervous system effects have occurred following intravenous and oral administration of dipyridamole (the active ingredient contained in Persantine) and included headache (12.2%), lightheadedness or dizziness (11.8%), and paresthesias (1.3%).  Cerebrovascular accident following intravenous administration also has been reported.[Ref]
+In one case report, a patient with asthma developed sudden bronchospasm with wheezing, coughing, and dyspnea immediately after receiving IV dipyridamole (the active ingredient contained in Persantine) during thallium stress testing.  Symptoms and hypoxemia resolved within 5 minutes after administration of IV aminophylline.[Ref]
+Respiratory tract adverse effects may occur, especially in patients with pre-existing asthma or chronic obstructive pulmonary disease.  Dyspnea, bronchospasm, and respiratory arrest have been reported.[Ref]
+Gastrointestinal disturbances associated with dipyridamole (the active ingredient contained in Persantine) therapy have included nausea and vomiting in up to 5% of patients. Gallstones containing dipyridamole have been reported in patients on long-term dipyridamole therapy.[Ref]
+Hematologic abnormalities have included rare bleeding complications due to the platelet inhibitory effects of dipyridamole (the active ingredient contained in Persantine) [Ref]
+In one small study, dipyridamole (the active ingredient contained in Persantine) induced a marked but reversible reduction in glomerular filtration rate in patients with elevated renin-angiotensin activity and ascites due to cirrhosis.  Sodium and free water excretion were reduced as well.[Ref]
+Hypersensitivity reactions have been reported rarely and included angioedema and anaphylaxis.[Ref]
+1. Beller GA "Dipyridamole thallium 201 imaging. How safe is it?." Circulation 81 (1990): 1425-7
+2. Homma S, Gilliland Y, Guiney TE, Strauss HW, Boucher CA "Safety of intravenous dipyridamole for stress testing with thallium imaging." Am J Cardiol 59 (1987): 152-4
+3. Roach PJ, Magee MA, Freedman SB "Asystole and bradycardia during dipyridamole stress testing in patients receiving beta blockers." Int J Cardiol 42 (1993): 92-4
+4. Bayliss J, Pearson M, Sutton GC "Ventricular dysrhythmias following intravenous dipyridamole during "stress" myocardial imaging." Br J Radiol 56 (1983): 686
+5. Shibata T, Kubota I, Ikeda K, Yamaki M, Hanashima K, Tsuiki K, Yasui S "Relation between the incidence of arrhythmias and ischemic ST-segment depression during dipyridamole electrocardiography test in patients with coronary artery disease." Jpn Heart J 32 (1991): 751-8
+6. Ranhosky A, Kempthorne-Rawson J, the Intravenous Dipyridamole Thallium Imaging Study Group "The safety of intravenous dipyridamole thallium myocardial perfusion imaging." Circulation 81 (1990): 1205-9
+7. Mauro RL, Sabella FP, Enia F "Sinus arrest associated with dipyridamole infusion." Chest 105 (1994): 604-5
+8. Kaul S, Villanueva FS "Dipyridamole/thallium-201 imaging: how safe is it? When should it be used?" J Nucl Med 32 (1991): 2115-7
+9. Klein HO, Ninio R, Eliyahu S, Bakst A, Levi A, Dean H, Oren V, Beker B, Kaplinsky E, Gilboa S, et al "Effects of the dipyridamole test on left ventricular function in coronary artery disease." Am J Cardiol 69 (1992): 482-8
+10. Chen ZC, Kwan CM, Chen JH "Profound shock resulting from a large dose of dipyridamole." Int J Cardiol 46 (1994): 75-8
+11. Blumenthal MS, McCauley CS "Cardiac arrest during dipyridamole imaging." Chest 93 (1988): 1103-4
+12. Lam JY, Chaitman BR, Glaenzer M, Byers S, Fite J, Shah Y, Goodgold H, Samuels L "Safety and diagnostic accuracy of dipyridamole-thallium imaging in the elderly." J Am Coll Cardiol 11 (1988): 585-9
+13. Lo Mauro R, Sabella FP, Enia F "Sinus arrest associated with dipyridamole infusion." Chest 106 (1994): 984
+14. Camp A, Chaitman BR, Goodgold H, Byers S, Shaw L, Barth G, Samuels L "Intravenous dipyridamole: body weight considerations and dosage requirements." Am Heart J 117 (1989): 702-4
+15. Weinmann P, Leguludec D, Moretti JL "Coronary spasm induced by dipyridamole during a myocardial scintigraphy." Int J Cardiol 43 (1994): 75-8
+16. Castello R, Hidalgo R "Dipyridamole-induced myocardial ischemia ." JAMA 259 (1988): 1179
+17. Whiting JH, Jr  Datz FL, Gabor FV, Jones SR, Morton KA "Cerebrovascular accident associated with dipyridamole thallium-201 myocardial imaging: case report." J Nucl Med 34 (1993): 128-30
+18. Lette J, Cerino M, Laverdiere M, Tremblay J, Prenovault J "Severe bronchospasm followed by respiratory arrest during thallium- dipyridamole imaging." Chest 95 (1989): 1345-7
+19. Cogen F,  Zweiman B "Dipyridamole (Persantin)-induced asthma during thallium stress testing." J Allergy Clin Immunol 115 (2005): 203-4
+20. Eagle KA, Boucher CA "Intravenous dipyridamole infusion causes severe bronchospasm in asthmatic patients." Chest 95 (1989): 258-9
+21. Hagege H, Fonpeydie D, Ink O, Buffet C, Fritsch J, Choury A, Levillain P, Etienne JP "Iatrogenic gallstone with dipyridamole." J Hepatol 21 (1994): 686
+22. Bayer I, Kyzer S, Creter D, Lewinski UH "Rectal bleeding induced by Dipyridamole." Dis Colon Rectum 29 (1986): 123-5
+23. Cunningham RJ, 3d  Brouhard BH, Travis LB, Berger M, Petrusick T "Hemorrhage as a complication of dipyridamole therapy." South Med J 72 (1979): 498-9
+24. Llach J, Gines P, Arroyo V, et al. "Effect of dipyridamole on kidney function in cirrhosis." Hepatology 17 (1993): 59-64
+25. Weinmann P, Moretti JL, Leynadier F "Anaphylaxis-like reaction induced by dipyridamole during myocardial scintigraphy." Am J Med 97 (1994): 488
+26. Angelides S, Vand Der Wall H, Freedman SB "Acute reaction to dipyridamole during myocardial scintigraphy." N Engl J Med 340 (1999): 394
+It is possible that some side effects of Persantine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Chest pain
+gallstones
+tightness or swelling of neck
+yellow eyes or skin
+
+
+Abdominal or stomach cramps
+diarrhea 
+dizziness or lightheadedness
+
+
+Flushing
+headache
+ nausea or vomiting
+weakness
+
+
+General discomfort and/or unusual tiredness or weakness
+hair loss
+joint pain or swelling
+muscle pain
+runny nose
+sneezing
+

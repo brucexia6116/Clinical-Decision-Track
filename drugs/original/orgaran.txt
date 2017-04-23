@@ -1,0 +1,74 @@
+Generic Name: danaparoid
+Applies to danaparoid: subcutaneous solution
+As well as its needed effects, danaparoid (the active ingredient contained in Orgaran) may cause unwanted side effects that require medical attention. 
+Stop taking danaparoid and get emergency help immediately if any of the following effects occur:
+If any of the following side effects occur while taking danaparoid, check with your doctor or nurse as soon as possible:
+Some danaparoid side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+
+
+Applies to danaparoid: subcutaneous solution
+A fatal bleeding episode has been reported in a patient with renal insufficiency.  Overall, probable or possible danaparoid-associated mortality due to bleeding, thrombosis, or septic shock occurred in 7 of 230 patients (3.0%).Danaparoid has shown a much lower in vitro cross-reactivity with heparin-induced antibody than some low molecular weight heparins (6.3% versus 95%, respectively).  In fresh patient plasma, 14 of 143 (9.8%) of danaparoid (the active ingredient contained in Orgaran) tests showed positive cross-reactivity with heparin-induced antibody.Patients previously exposed to unfractionated heparin or a low-molecular-weight heparin appear to be more susceptible to developing heparin-induced thrombocytopenia (HIT) and HIT-related thromboembolic complications (e.g., transient ischemic attack, stroke) than those who were never exposed.Heparin-induced thrombocytopenia (HIT) is an immune-mediated, prothrombotic reaction that occurs in 0.5% to 5% of patients treated with unfractionated heparin and in less than 1% of patients treated with a low molecular weight heparin (LMWH).  The decrease in platelet count associated with HIT usually begins 5 to 14 days after starting heparin.  However, patients with a previous exposure to heparin may have an abrupt decrease in platelets upon restarting heparin.  Patients with LMWH-induced HIT exhibit a longer delay in the onset of symptoms compared with those who develop it from unfractionated heparin.  Following discontinuation, platelet counts begin to recover within 4 days, but may take more than 2 weeks in patients with high-titer HIT antibodies.  Thrombocytopenia is caused by heparin-dependent IgG antibodies that bind to a specific platelet protein, platelet factor 4 (PF4).  The heparin-PF4-IgG immune complex binds to platelets causing platelet activation.  The activated platelets cause release of platelet-derived procoagulant microparticles, which accelerate coagulation reactions and generates thrombin.  LMWHs have a high cross-reactivity with circulating heparin-PF4-IgG immune complex.  Factors associated with a higher risk for developing HIT-associated thrombosis include women, nonwhites, severity of thrombocytopenia, and lower body weight.  Complications associated with HIT include exacerbation of venous thromboembolism, arterial or venous thrombosis, limb gangrene, stroke, and skin necrosis.  The antibodies that cause HIT will usually disappear after approximately 3 months; therefore, use of unfractionated heparin or LMWH may be considered in a patient with a history of HIT if the antibody test is negative.[Ref]
+Patients undergoing spinal/epidural anesthesia or puncture and anticoagulated or scheduled to be anticoagulated with low molecular weight heparins or heparinoids are at risk for long-term or permanent paralysis due to epidural or spinal hematoma.  The risk of these events is increased by the use of indwelling epidural catheters or by concomitant use of platelet inhibitors, other anticoagulants, or drugs that affect hemostasis.Hematologic adverse effects that have been reported include hemorrhage (intraoperative and postoperative blood loss), bruising and wound hematoma.  Incidence of bleeding complications appear to be similar to heparin (approximately 10%).  Thrombocytopenia has been reported to occur significantly less than with heparin or low molecular weight heparins.  Danaparoid is considered a useful substitute for heparin or low molecular weight heparins in thrombocytopenia for the majority of patients who require immediate anticoagulation, although thrombocytopenia has been reported in patients receiving danaparoid.[Ref]
+Local effects may include injection site discomfort and bruising.  The incidence of bruising appears to be less with heparin.[Ref]
+Hypersensitivity reactions have included a Type IV (IgE) delayed hypersensitivity cutaneous reaction due to subcutaneous injection danaparoid (the active ingredient contained in Orgaran)   The reaction was described as a red, itchy, indurated and erythematous.[Ref]
+1. Marymont JH,  Murphy GS,  Gilbert HC "Intraoperative heparin and heparin-induced thrombocytopenia." Anesth Analg 102 (2006): 328
+2. Begelman SM,  Hursting MJ,  Aghababian RV,  McCollum D "Heparin-induced thrombocytopenia from venous thromboembolism treatment." J Intern Med 258 (2005): 563-72
+3. Baroletti SA,  Goldhaber SZ "Heparin-induced thrombocytopenia." Circulation 114 (2006): e355-6
+4. Warkentin TE "Drug-induced immune-mediated thrombocytopenia--from purpura to thrombosis." N Engl J Med 356 (2007): 891-3
+5. de Valk HW, Banga JD, Wester JW, Brouwer CB, van Hessen MW, Meuwissen OJ, Hart HC, Sixma JJ, Nieuwenhuis HK "Comparing subcutaneous danaparoid with intravenous unfractionated heparin for the treatment of venous thromboembolism. A randomized controlled trial." Ann Intern Med 123 (1995): 1-9
+6. Selleng K,  Warkentin TE,  Greinacher A "Heparin-induced thrombocytopenia in intensive care patients." Crit Care Med 35 (2007): 1165-76
+7. Prandoni P,  Siragusa S,  Girolami B,  Fabris F "The incidence of heparin-induced thrombocytopenia in medical patients treated with low molecular weight heparin." Blood 106 (2005): 3049-54
+8. Nicholson CD, Meuleman DG, Magnani HN, Egberts JF, Leibowitz DA, Spinler SA, Cziraky MJ "Danaparoid is not a low-molecular-weight heparin." Am J Hosp Pharm 51 (1994): 2049-50
+9. Das P,  Ziada K,  Steinhubl SR, et al. "Heparin-induced thrombocytopenia and cardiovascular diseases." Am Heart J 152 (2006): 19-26
+10. Lewis BE,  Wallis DE,  Hursting MJ,  Levine RL,  Leya F "Effects of argatroban therapy, demographic variables, and platelet count on thrombotic risks in heparin-induced thrombocytopenia." Chest 129 (2006): 1407-16
+11. Burnett B,  Bracket E,  Larsen J,  et al "Health care guideline: deep vein thrombosis (DVT) diagnosis algorithm. Available from: URL: http://www.icsi.org/display_file.asp?FileId=187&title=Venous%20Thromboembolism."   ([2006 Feb]):
+12. Insler SR, Kraenzler EJ, Bartholomew JR, Kottkemarchant K, Lytle B, Starr NJ "Thrombosis during the use of the heparinoid organon 10172 in a patient with heparin-induced thrombocytopenia." Anesthesiology 86 (1997): 495-8
+13. Menajovsky LB "Heparin-induced thrombocytopenia: clinical manifestations and management strategies." Am J Med 118(Suppl 8A) (2005): 21-30
+14. Magnani HN "Heparin-induced thrombocytopenia (HIT): an overview of 230 patients treated with orgaran (Org 10172) [published erratum appears in Thromb Haemost 1993 Dec 20;70(6):1072]." Thromb Haemost 70 (1993): 554-61
+15. Arepally GM,  Ortel TL "Clinical practice. Heparin-induced thrombocytopenia." N Engl J Med 355 (2006): 809-17
+16. Foo SY,  Everett BM,  Yeh RW, et al. "Prevalence of heparin-induced thrombocytopenia in patients undergoing cardiac catheterization." Am Heart J 152 (2006): 290.e1-7
+17. Chong BH, Magnani HN "Orgaran in heparin-induced thrombocytopenia." Haemostasis 22 (1992): 85-91
+18. de Valk HW, Banga J, Wester JW, et al. "Comparing subcutaneous danaparoid and intravenous unfractionated heparin for the treatment of venous thromboembolism: a randomised controlled trial." Ann Intern Med 123 (1995): 1-9
+19. Levine RL,  McCollum D,  Hursting MJ "How frequently is venous thromboembolism in heparin-treated patients associated with heparin-induced thrombocytopenia?" Chest 130 (2006): 681-7
+20. Dang CH,  Durkalski VL,  Nappi JM "Evaluation of treatment with direct thrombin inhibitors in patients with heparin-induced thrombocytopenia." Pharmacotherapy 26 (2006): 461-8
+21. Arnold DM,  Kelton JG "Heparin-induced thrombocytopenia: an iceberg rising." Mayo Clin Proc 80 (2005): 988-90
+22. Gallus A, Cade J, Ockelford P, Hepburn S, Maas M, Magnani H, Bucknall T, Stevens J, Porteous F "Orgaran (Org 10172) or heparin for preventing venous thrombosis after elective surgery for malignant disease? A double-blind, randomised, multicentre comparison. ANZ-Organon Investigators' Group." Thromb Haemost 70 (1993): 562-7
+23. Sivakumaran M, Ghosh K, Munks R, Gelsthorpe K, Tan L, Wood JK "Delayed cutaneous reaction to unfractionated heparin, low molecular weight heparin and danaparoid." Br J Haematol 86 (1994): 893-4
+It is possible that some side effects of Orgaran may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Bleeding gums
+coughing up blood
+difficulty in breathing or swallowing
+ dizziness
+headache
+increased menstrual flow or vaginal bleeding
+nosebleeds
+paralysis
+prolonged bleeding from cuts 
+red or black, tarry stools
+red or dark brown urine
+shortness of breath
+unexplained pain, swelling, or discomfort, especially in the chest, abdomen, joints, or muscles
+unusual bruising 
+vomiting of blood or coffee ground–like material; weakness
+
+
+Back pain
+burning, pricking, tickling, or tingling sensation
+leg weakness
+numbness
+problems with bowel or bladder function
+
+
+Fever
+
+
+Skin rash
+
+
+Pain at injection site
+
+
+Constipation
+nausea
+

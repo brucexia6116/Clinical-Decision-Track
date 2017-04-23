@@ -1,0 +1,71 @@
+More frequently reported side effects include: attempted suicide, suicidal ideation, depressed mood, depression, dysphoria, major depressive disorder, and mood changes.  See below for a comprehensive list of adverse effects.
+Applies to rilpivirine: oral tablet
+As well as its needed effects, rilpivirine may cause unwanted side effects that require medical attention. 
+If any of the following side effects occur while taking rilpivirine, check with your doctor immediately:
+Some rilpivirine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+
+
+Applies to rilpivirine: oral tablet
+Most side effects occurred in the first 48 weeks of therapy.  The most common side effects (at least moderate severity) were depression, headache, insomnia, increased transaminases, and rash.  This drug was discontinued due to side effects in 2% of patients.[Ref]
+Increased ALT (grade 1: 18%; grade 2: 5%; grade 3: 1%; grade 4: 1%), AST (grade 1: 16%; grade 2: 4%; grade 3: 2%; grade 4: 1%), and total bilirubin (grade 1: 5%; grade 2: 3%; grade 3: 1%) have been reported.The incidence of hepatic enzyme elevation was greater in patients coinfected with hepatitis B and/or C virus compared with uninfected patients.[Ref]
+Very common (10% or more): Increased ALT (up to 18%), increased AST (up to 16%), increased transaminasesCommon (1% to 10%): Increased total bilirubinFrequency not reported: Hepatotoxicity, cholecystitis, cholelithiasis, drug-induced acute allergic hepatitis[Ref]
+Common (1% to 10%): RashFrequency not reported: LipodystrophyPostmarketing reports: Severe skin and hypersensitivity reactions (including drug reaction with eosinophilia and systemic symptoms [DRESS])[Ref]
+During phase 3 trials, 3% of patients using this drug reported at least grade 2 therapy-related rashes; most rashes were grade 1 or 2 and developed in the first 4 to 6 weeks of therapy.[Ref]
+Very common (10% or more): Increased fasted total cholesterol (up to 17%), increased fasted low-density lipoprotein (LDL) cholesterol (up to 14%)Common (1% to 10%): Increased fasted triglycerides, decreased appetiteFrequency not reported: Redistribution/accumulation of body fat (including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, "cushingoid appearance")[Ref]
+Increased fasted total cholesterol (grade 1: 17%; grade 2: 7%; grade 3: less than 1%), fasted LDL cholesterol (grade 1: 14%; grade 2: 5%; grade 3: 1%), and fasted triglycerides (grade 2: 2%; grade 3: 1%) have been reported.[Ref]
+Very common (10% or more): InsomniaCommon (1% to 10%): Depression, depressed mood, depressive disorders (reported as depressed mood, depression, dysphoria, major depression, altered mood, negative thoughts, suicide attempt, suicidal ideation), abnormal dreams, sleep disordersFrequency not reported: Anxiety[Ref]
+Psychiatric disorders were the most common side effects leading to treatment discontinuation.  In the phase 3 clinical trials, ten patients (1%), discontinued this drug due to psychiatric disorders.During phase 3 trials through 96 weeks, depressive disorders (regardless of causality, severity) were reported in 9% of patients.[Ref]
+Very common (10% or more): Headache, dizzinessCommon (1% to 10%): Somnolence[Ref]
+Very common (10% or more): Nausea, increased pancreatic amylaseCommon (1% to 10%): Abdominal pain, vomiting, abdominal discomfort, increased lipase, dry mouthFrequency not reported: Diarrhea[Ref]
+Postmarketing reports: Severe skin and hypersensitivity reactions (including DRESS)
+Common (1% to 10%): Increased creatinineFrequency not reported: Membranous glomerulonephritis, mesangioproliferative glomerulonephritis, nephrolithiasisPostmarketing reports: Nephrotic syndrome[Ref]
+Grade 1, 2, and 3 increases in creatinine have been reported in 6%, 1%, and less than 1% of patients, respectively.During phase 3 trials, an increase in serum creatinine was seen over 96 weeks of therapy.  Most of this increase occurred within the first 4 weeks of therapy, with a mean change of 0.1 mg/dL (range: -0.3 to 0.6 mg/dL) observed after 96 weeks of therapy.  In subjects with mild or moderate baseline renal dysfunction, the serum creatinine increase observed was similar to that seen in subjects with normal renal function.  These changes were not considered clinically relevant and no subject discontinued therapy due to increases in serum creatinine.[Ref]
+Common (1% to 10%): Fatigue[Ref]
+Common (1% to 10%): Decreased white blood cell count, decreased hemoglobin, decreased platelet count[Ref]
+Uncommon (0.1% to 1%): Immune reconstitution/reactivation syndromeFrequency not reported: Autoimmune disorders in the setting of immune reconstitution (e.g., Graves' disease, polymyositis, Guillain-Barre syndrome)[Ref]
+In the pooled phase 3 trials, at week 96, there was an overall mean change from baseline in basal cortisol of -19.1 nmol/L (-0.69 mcg/dL) in the rilpivirine group, and of -0.6 nmol/L (-0.02 mcg/dL) in the efavirenz group.  At week 96, the mean change from baseline in ACTH-stimulated cortisol levels was lower in the rilpivirine group (+18.4 nmol/L) than in the efavirenz group (+54.1 nmol/L).  Mean values for both basal and ACTH-stimulated cortisol values at week 96 were within the normal range.In the rilpivirine group, 43 of 588 patients with normal 250 mcg ACTH stimulation test at baseline developed abnormal 250 mcg ACTH stimulation test (peak cortisol level less than 18.1 mcg/dL) during the trial versus 18 of 561 patients in the efavirenz group.  Abnormal 250 mcg ACTH stimulation test at week 96 was seen in 14 of the 43 rilpivirine patients and 9 of the 18 efavirenz patients.  Clinical significance of abnormal 250 mcg ACTH stimulation tests (or the higher rate in the rilpivirine group) has not been established.Overall, there were no serious side effects, deaths, or treatment discontinuations that could clearly be attributed to adrenal insufficiency.[Ref]
+Frequency not reported: Decreased basal cortisol, decreased adrenocorticotropic hormone (ACTH)-stimulated cortisol levels, adrenal insufficiency, abnormal 250 mcg ACTH stimulation test[Ref]
+1. "Product Information. Edurant (rilpivirine)." Tibotec Pharmaceuticals, Titusville, NJ. 
+2. Cerner Multum,  Inc. "Australian Product Information." O 0
+3. Ahmed Y,  Siddiqui W,  Enoch CB,  Albrecht H,  Bookstaver PB "Rare case of rilpivirine-induced severe allergic hepatitis." J Antimicrob Chemother  (2012):
+4. Cohen CJ,  Molina JM,  Cassetti I, et al. "Week 96 efficacy and safety of rilpivirine in treatment-naive, HIV-1 patients in  two Phase III randomised trials." AIDS 27 (2013): 930-50
+5. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+It is possible that some side effects of rilpivirine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Abdominal or stomach fullness
+changes in behavior
+cloudy or bloody urine
+discouragement
+feeling sad or empty
+gaseous abdominal or stomach pain
+indigestion
+irritability
+lack of appetite
+loss of interest or pleasure
+recurrent fever
+severe nausea or vomiting
+swelling of the face, feet, or lower legs
+thoughts of killing oneself
+tiredness
+trouble concentrating
+trouble sleeping
+yellow eyes or skin
+
+
+Abdominal or stomach discomfort
+abnormal dreams
+decreased appetite
+diarrhea
+dizziness
+fear or nervousness
+headache
+nausea
+rash
+sleepiness or unusual drowsiness
+unusual tiredness or weakness
+vomiting
+
+
+Decreased amount of fat from your legs, arms, or face
+increased amount of fat in the upper back and neck, or around the chest and stomach area
+

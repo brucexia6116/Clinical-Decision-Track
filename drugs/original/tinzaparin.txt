@@ -1,0 +1,140 @@
+Applies to tinzaparin: subcutaneous solution
+As well as its needed effects, tinzaparin may cause unwanted side effects that require medical attention. 
+If any of the following side effects occur while taking tinzaparin, check with your doctor immediately:
+Some tinzaparin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+
+
+Applies to tinzaparin: subcutaneous solution
+Hematologic side effects including epistaxis (1.9%), hemorrhage (1.5%), hematoma (greater than 1%), thrombocytopenia (greater than 1%), anemia (greater than 1%), and hematuria (1%) have been reported.  Other side effects including anorectal bleeding, cerebral/intracranial bleeding, gastrointestinal hemorrhage, hemarthrosis, hematemesis, hemoptysis, ocular hemorrhage, injection site bleeding, melena, purpura, retroperitoneal/intra-abdominal bleeding, vaginal hemorrhage, granulocytopenia, agranulocytosis, pancytopenia, and wound hematoma have been reported in ongoing or completed clinical trials or from post marketing experience.[Ref]
+Patients previously exposed to unfractionated heparin or a low-molecular-weight heparin appear to be more susceptible to developing heparin-induced thrombocytopenia (HIT) and HIT-related thromboembolic complications (e.g., transient ischemic attack, stroke) than those who were never exposed.Heparin-induced thrombocytopenia (HIT) is an immune-mediated, prothrombotic reaction that occurs in 0.5% to 5% of patients treated with unfractionated heparin and in less than 1% of patients treated with a low molecular weight heparin (LMWH).  The decrease in platelet count associated with HIT usually begins 5 to 14 days after starting heparin.  However, patients with a previous exposure to heparin may have an abrupt decrease in platelets upon restarting heparin.  Patients with LMWH-induced HIT exhibit a longer delay in the onset of symptoms compared with those who develop it from unfractionated heparin.  Following discontinuation, platelet counts begin to recover within 4 days, but may take more than 2 weeks in patients with high-titer HIT antibodies.  Thrombocytopenia is caused by heparin-dependent IgG antibodies that bind to a specific platelet protein, platelet factor 4 (PF4).  The heparin-PF4-IgG immune complex binds to platelets causing platelet activation.  The activated platelets cause release of platelet-derived procoagulant microparticles, which accelerate coagulation reactions and generates thrombin.  LMWHs have a high cross-reactivity with circulating heparin-PF4-IgG immune complex.  Factors associated with a higher risk for developing HIT-associated thrombosis include women, nonwhites, severity of thrombocytopenia, and lower body weight.  Complications associated with HIT include exacerbation of venous thromboembolism, arterial or venous thrombosis, limb gangrene, stroke, and skin necrosis.  The antibodies that cause HIT will usually disappear after approximately 3 months; therefore, use of unfractionated heparin or LMWH may be considered in a patient with a history of HIT if the antibody test is negative.[Ref]
+Cardiovascular side effects including chest pain (2.3%), hypotension (greater than 1%), tachycardia (greater than 1%), hypertension (greater than 1%), and angina pectoris (greater than 1%) have been reported.  Other side effects including myocardial infarction/coronary thrombosis, cardiac arrhythmias and thromboembolism have been reported in ongoing or completed clinical trials or from post marketing experience.[Ref]
+Dermatologic side effects including rash (1.2%), bullous eruption (greater than 1%), erythematous rash (greater than 1%), and pruritus (greater than 1%) have been reported.  Other side effects including epidermal necrolysis, ischemic necrosis, urticaria, and skin necrosis have been reported in ongoing or completed clinical trials or from post marketing experience.  Diffuse alopecia in a diabetic man receiving tinzaparin has also been reported.[Ref]
+A 66-year-old man with end-stage renal disease (who had been receiving dialysis for about a year) complained of hair loss from the right temporal area.  He had been taking enoxaparin for 9 months to prevent extracorporeal blood clotting, but was switched to tinzaparin for the last three months.  It was suspected that the alopecia was due to tinzaparin use.  Tinzaparin was subsequently discontinued and enoxaparin was reinitiated.  A gradual regrowth of hair was noted over the next few months, with a full restoration of normal hair growth at 18 months.[Ref]
+Respiratory tract symptoms including pulmonary embolism (2.3%) and dyspnea (1.2%) have been reported.[Ref]
+Hepatic side effects including cholestatic hepatitis and increases in hepatic enzymes have been reported in ongoing or completed clinical trials or from post marketing experience.[Ref]
+General side effects including headache (1.7%), pain (1.5%), fever (1.5%), insomnia (greater than 1%), and healing impairment (greater than 1%) have been reported.  Other side effects including angioedema, dependent edema, and peripheral ischemia have been reported in ongoing or completed clinical trials or from post marketing experience.[Ref]
+Genitourinary side effects including urinary tract infection (3.7%), dysuria (greater than 1.5%), and urinary retention (greater than 1%) have been reported.  Other side effects including priapism have been reported in ongoing or completed clinical trials or from post marketing experience.[Ref]
+Gastrointestinal side effects including nausea (1.7%), constipation (1.3%), flatulence (greater than 1%), dyspepsia (greater than 1%), vomiting (1%), abdominal pain (0.8%), and diarrhea (0.6%) have been reported in ongoing or completed clinical trials or from post marketing experience.[Ref]
+Musculoskeletal side effects including back pain (1.5%) have been reported.[Ref]
+Local side effects including injection site hematoma (greater than 1%) have been reported.  Other side effects including cellulitis at the injection site, abscess, and necrosis have been reported in ongoing or completed clinical trials or from post marketing experience.[Ref]
+Nervous system side effects including dizziness (greater than 1%) have been reported[Ref]
+Psychiatric side effects including confusion (greater than 1%) have been reported.[Ref]
+Immunologic side effects including infection (greater than 1%) have been reported.[Ref]
+Oncologic side effects including nonspecified neoplasm have been reported.[Ref]
+1. Lewis BE,  Wallis DE,  Hursting MJ,  Levine RL,  Leya F "Effects of argatroban therapy, demographic variables, and platelet count on thrombotic risks in heparin-induced thrombocytopenia." Chest 129 (2006): 1407-16
+2. Friedel HA, Balfour JA "Tinzaparin. A review of its pharmacology and clinical potential in the prevention and treatment of thromboembolic disorders." Drugs 48 (1994): 638-60
+3. Arepally GM,  Ortel TL "Clinical practice. Heparin-induced thrombocytopenia." N Engl J Med 355 (2006): 809-17
+4. Burnett B,  Bracket E,  Larsen J,  et al "Health care guideline: deep vein thrombosis (DVT) diagnosis algorithm. Available from: URL: http://www.icsi.org/display_file.asp?FileId=187&title=Venous%20Thromboembolism."   ([2006 Feb]):
+5. Menajovsky LB "Heparin-induced thrombocytopenia: clinical manifestations and management strategies." Am J Med 118(Suppl 8A) (2005): 21-30
+6. Levine RL,  McCollum D,  Hursting MJ "How frequently is venous thromboembolism in heparin-treated patients associated with heparin-induced thrombocytopenia?" Chest 130 (2006): 681-7
+7. Arnold DM,  Kelton JG "Heparin-induced thrombocytopenia: an iceberg rising." Mayo Clin Proc 80 (2005): 988-90
+8. Marymont JH,  Murphy GS,  Gilbert HC "Intraoperative heparin and heparin-induced thrombocytopenia." Anesth Analg 102 (2006): 328
+9. Das P,  Ziada K,  Steinhubl SR, et al. "Heparin-induced thrombocytopenia and cardiovascular diseases." Am Heart J 152 (2006): 19-26
+10. Dang CH,  Durkalski VL,  Nappi JM "Evaluation of treatment with direct thrombin inhibitors in patients with heparin-induced thrombocytopenia." Pharmacotherapy 26 (2006): 461-8
+11. Begelman SM,  Hursting MJ,  Aghababian RV,  McCollum D "Heparin-induced thrombocytopenia from venous thromboembolism treatment." J Intern Med 258 (2005): 563-72
+12. Prandoni P,  Siragusa S,  Girolami B,  Fabris F "The incidence of heparin-induced thrombocytopenia in medical patients treated with low molecular weight heparin." Blood 106 (2005): 3049-54
+13. Foo SY,  Everett BM,  Yeh RW, et al. "Prevalence of heparin-induced thrombocytopenia in patients undergoing cardiac catheterization." Am Heart J 152 (2006): 290.e1-7
+14. "Product Information. Innohep (tinzaparin)" DuPont Pharmaceuticals, Wilmington, DE. 
+15. Baroletti SA,  Goldhaber SZ "Heparin-induced thrombocytopenia." Circulation 114 (2006): e355-6
+16. Selleng K,  Warkentin TE,  Greinacher A "Heparin-induced thrombocytopenia in intensive care patients." Crit Care Med 35 (2007): 1165-76
+17. Simpson HK, Baird J, Allison M, Briggs JD, Rowe PA, Welsh M, Macdougall AI, Grant AC, Lowe GD, Rumley A, Wallace M, Menday AP "Long-term use of the low molecular weight heparin tinzaparin in haemodialysis." Haemostasis 26 (1996): 90-7
+18. Warkentin TE "Drug-induced immune-mediated thrombocytopenia--from purpura to thrombosis." N Engl J Med 356 (2007): 891-3
+19. Sarris E,  Tsele E,  Bagiatoudi G, et al. "Diffuse alopecia in a hemodialysis patient caused by a low-molecular-weight heparin, tinzaparin." Am J Kidney Dis 41 (2003): E15
+It is possible that some side effects of tinzaparin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
+
+Deep, dark purple bruise, pain, or swelling at the place of injection
+
+
+Bladder pain
+bleeding gums
+blood in the urine
+bloody or cloudy urine
+blurred vision
+chest pain
+chest tightness
+chills
+confusion
+cough
+coughing up blood
+difficulty with breathing or swallowing
+dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
+fast, slow, or irregular heartbeat
+fever
+frequent urge to urinate
+headache
+increased menstrual flow or vaginal bleeding
+lower back or side pain
+nosebleeds
+pain or burning while urinating
+painful or difficult urination
+pale skin
+palpitations
+paralysis
+pounding in the ears
+prolonged bleeding from cuts
+red or black, tarry stools
+red or dark brown urine
+severe or continuing dull nervousness
+shortness of breath
+skin rash
+sore throat
+sores, ulcers, or white spots on the lips or in the mouth
+sweating
+swollen glands
+troubled breathing, exertional
+unexplained pain, swelling, or discomfort, especially in the chest, abdomen or stomach, joints, or muscles
+unusual bleeding or bruising
+unusual tiredness or weakness
+vomiting of blood or material like coffee grounds
+
+
+Blue-green to black skin discoloration
+bowel or bladder dysfunction
+hives
+itching
+leg weakness
+numbness
+pain, redness, or sloughing of the skin at the place of injection
+puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
+wheezing
+
+
+Abdominal or stomach pain
+accumulation of pus
+break in the skin, especially associated with blue-black discoloration, swelling, or drainage of fluid
+change in vision
+clay-colored stools
+collection of blood under the skin
+diarrhea
+excessive thirst
+general feeling of discomfort or illness
+hoarseness
+large, flat, blue or purplish patches in the skin
+large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
+loss of appetite
+muscle cramps
+numbness and tingling of the face, fingers, or toes
+pain in the arms, legs, or lower back, especially pain in the calves or heels upon exertion
+pain, redness, or swelling
+painful knees and ankles
+pale, bluish-colored, or cold hands or feet
+problems with vision or hearing
+raised, red swellings on the skin, buttocks, legs or ankles
+red or irritated eyes
+redness, tenderness, burning, blistering, or peeling of the skin (usually on the backs of arms and the fronts of legs, mouth, eyes, hands, or feet)
+seeing floating spots before the eyes
+swollen, red, or tender area of infection
+unpleasant breath odor
+weak or absent pulses in the legs
+yellow eyes or skin
+
+
+Constipation
+nausea and vomiting
+prolonged, painful, or inappropriate erection of the penis
+trouble with sleeping
+
+
+Hives or welts
+redness of the skin
+

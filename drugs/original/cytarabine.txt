@@ -1,0 +1,38 @@
+Applies to cytarabine: parenteral conventional cytarabine injection, parenteral conventional cytarabine powder for injection, parenteral liposomal cytarabine injection
+Side effects include:
+IV, sub-Q, or IM administration of conventional cytarabine: Myelosuppression, anorexia, nausea, vomiting, diarrhea, oral and anal inflammation or ulceration, hepatic dysfunction, fever, rash, thrombophlebitis, bleeding (all sites).    
+Intrathecal administration of conventional cytarabine: Nausea, vomiting, fever, transient headaches.      
+Intrathecal administration of liposomal cytarabine: Chemical arachnoiditis (neck rigidity, neck pain, meningism, nausea, vomiting, headache, fever, back pain, and/or CSF pleocytosis), asthenia, pain, confusion, somnolence.  
+Applies to cytarabine: injectable powder for injection, injectable solution
+Hematologic side effects including myelosuppression have been the most universal and dose limiting effect of cytarabine.  Leukopenia and thrombocytopenia have been reported commonly.  Anemia has been reported occasionally.[Ref]
+Myelosuppression has generally been reported to occur four to twelve days after therapy with recovery generally by day twenty eight.  It is recommended that the patient's blood counts be monitored throughout therapy and at any clinical sign of thrombocytopenia, fever, or anemia, and before subsequent courses of therapy.[Ref]
+Respiratory side effects including adult respiratory distress syndrome (5% to 32%), sore throat, esophageal ulceration, esophagitis, and shortness of breath have been reported.  One case of pulmonary edema has also been reported.[Ref]
+Nervous system side effects have been reported in up to 10% of patients and have included neuritis, neural toxicity, cerebellar toxicity, lethargy, confusion, and headache.[Ref]
+One study has reported 8 of 49 patients treated with high dose cytarabine developed cerebellar and cerebral toxicity.  In another study 4 out of 24 patients developed treated with high dose cytarabine were reported to have developed cerebellar degeneration during treatment.  Acute cerebellar toxicity after high dose cytarabine has been associated with CNS accumulation of its metabolite, uracil arabinoside.[Ref]
+Nausea and vomiting have been reported most frequently following rapid intravenous injection.[Ref]
+Gastrointestinal side effects including oral and anal inflammation or ulceration, anorexia, nausea, vomiting, and diarrhea have been reported frequently.  Bowel necrosis, stomatitis, and pancreatitis have also been reported.[Ref]
+Hepatic side effects including hepatic dysfunction have been reported frequently.  Jaundice has also been reported.[Ref]
+General side effects including fever have been reported frequently.  Chest pain, abdominal pain, and dizziness have also been reported.[Ref]
+Dermatologic side effects including rash have been reported frequently.  Skin ulceration, freckling, alopecia, pruritus, and urticaria have also been reported.  A case of severe Henoch-Schonlein purpura has been reported.[Ref]
+Cardiovascular side effects including thrombophlebitis and bleeding have been reported frequently.  Pericarditis has also been reported.[Ref]
+Immunologic side effects including sepsis and pneumonia have been reported.[Ref]
+Local side effects including cellulitis at the injection site have been reported.[Ref]
+Genitourinary side effects including urinary retention and renal dysfunction have been reported.[Ref]
+Ocular side effects including conjunctivitis have been reported.[Ref]
+Hypersensitivity side effects including anaphylaxis and allergic edema have been reported.[Ref]
+Other side effects have included a  syndrome of fever, conjunctival suffusion, and maculopapular rash which has been reported primarily in children who received large cumulative doses of cytarabine.[Ref]
+1. "Product Information. Cytosar-U (cytarabine)." Pharmacia and Upjohn, Kalamazoo, MI. 
+2. Lazarus HM, Herzig RH, Herzig GP, Phillips GL, Roessmann U, Fishman DJ "Central nervous system toxicity of high-dose systemic cytosine arabinoside." Cancer 48 (1981): 2577-82
+3. Larouche G, Denault A, Prenovault J "Corticosteroids and serious cytarabine-induced pulmonary edema." Pharmacotherapy 20 (2000): 1396-9
+4. "Multum Information Services, Inc. Expert Review Panel"  
+5. Winkelman MD, Hines JD "Cerebellar degeneration caused by high-dose cytosine arabinoside: a clinicopathological study." Ann Neurol 14 (1983): 520-7
+6. Chu E,  DeVita VT Jr. "Physicians' Cancer Chemotherapy Drug Manual 2002." Sudbury, MA: Jones and Bartlett Publishers  (2002):
+7. Lopez JA, Agarwal RP "Acute cerebellar toxicity after high-dose cytarabine associated with CNS accumulation of its metabolite, uracil arabinoside." Cancer Treat Rep 68 (1984): 1309-10
+8. Lazarus HM "Acute cerebellar dysfunction with high-dose Ara-C therapy." Cancer 53 (1984): a17
+9. Mcbride CE, Yavorski RT, Moses FM, Robson ME, Solimando DA, Byrd JC "Acute pancreatitis associated with continuous infusion cytarabine therapy: a case report." Cancer 77 (1996): 2588-91
+10. Berg S "Cytarabine (Ara-C): a drug profile." J Assoc Pediatr Oncol Nurses 1 (1984): 30-2
+11. George CB, Mansour RP, Redmond J 3d, Gandara DR, Redmond J "Hepatic dysfunction and jaundice following high-dose cytosine arabinoside." Cancer 54 (1984): 2360-2
+12. Aktas B,  Topcuoglu P,  Kurt OK,  Ensari A,  Demirer T "Severe henoch-schonlein purpura induced by cytarabine." Ann Pharmacother 43 (2009): 792-3
+13. Vaickus L, Letendre L "Pericarditis induced by high-dose cytarabine therapy." Arch Intern Med 144 (1984): 1868-9
+14. Shah SS, Rybak ME, Griffin TW "The cytarabine syndrome in an adult." Cancer Treat Rep 67 (1983): 405-6
+Not all side effects for cytarabine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.

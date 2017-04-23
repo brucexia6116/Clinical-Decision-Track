@@ -1,0 +1,55 @@
+Commonly reported side effects of ampicillin include: eosinophilia and skin rash.  See below for a comprehensive list of adverse effects.
+Applies to ampicillin: oral capsules, oral for suspension, parenteral powder for injection or infusion
+Side effects include:
+GI effects (diarrhea, nausea), rash.
+Applies to ampicillin: compounding powder, injectable powder for injection, oral capsule, oral powder for reconstitution
+The eruption that is sometimes observed in ampicillin-treated patients with undiagnosed infectious mononucleosis is characterized by a delayed pruritic maculopapular erythematous rash that generally occurs 5 to 10 days after ampicillin therapy is initiated.  It is often more severe and extensive and longer in duration than the typical spontaneous eruption of infectious mononucleosis, but does not necessarily indicate a lifelong allergy to ampicillin or other penicillin derivatives.  Although this type of reaction has been described with penicillin and also tetracycline, ampicillin has been implicated most frequently.  Therefore, ampicillin may not be suitable in patients suspected of having infectious mononucleosis.[Ref]
+Hypersensitivity reactions have included urticarial rash, erythema multiforme, exfoliative dermatitis, serum sickness-like reactions, edema, hypotension, fever, eosinophilia, dyspnea, interstitial nephritis, Henoch-Schonlein purpura, focal glomerulonephritis, Stevens-Johnson syndrome, bullous pemphigoid, hypersensitivity myocarditis, toxic epidermal necrolysis, and fixed drug eruptions.  Anaphylaxis is rare (up to 0.2%), but is more common in patients receiving parenteral ampicillin therapy.  Erythematous eruptions have been reported in patients with infectious mononucleosis who were given ampicillin.[Ref]
+Gastrointestinal side effects have included diarrhea (5% to 20%), nausea, vomiting, anorexia, gastritis, generalized abdominal cramps, oral candidiasis, black hairy tongue, mouth or tongue soreness, glossitis, stomatitis, enterocolitis, and pseudomembranous colitis.  Rare cases of pancreatitis have occurred.[Ref]
+Ampicillin-associated diarrhea is usually self-limiting and thought to be related to alterations of intestinal microflora.  However, Clostridium difficile toxin diarrhea may occasionally occur and may be indicative of pseudomembranous colitis.  If diarrhea is severe, or if the patient has more than 10 loose stools per day, the stools should be tested for Clostridium difficile toxin.  Clostridium perfringens type C has also been implicated in an isolated case of ampicillin-related pseudomembranous colitis in an 11-year-old boy.Transient increases in liver function tests and chronic cholestasis have rarely been associated with ampicillin.  Acute pancreatitis has been reported and confirmed by rechallenge with ampicillin in a patient in whom there was no other obvious cause of pancreatitis.[Ref]
+Hematologic side effects have rarely included thrombocytopenia, thrombocytopenic purpura, Henoch Schönlein purpura, red cell aplasia, leukopenia, neutropenia, anemia, eosinophilia and agranulocytosis.  These reactions are generally reversible and some may be allergic in nature.  Prolongations in activated partial thromboplastin time and bleeding time, and platelet aggregation abnormalities have also been reported.  Leukopenia has been reported in 23% of patients with liver disease receiving beta-lactam antibiotics.[Ref]
+Neutropenia was described in one case report of 3 pediatric patients who received high dosages (150 to 400 mg/kg) of intravenous ampicillin.  In all 3 cases, white blood cell and neutrophil counts returned to normal after discontinuation of therapy.[Ref]
+Seizures have been reported in patients with high serum concentrations of ampicillin, although these patients were otherwise very ill.  High cerebral spinal fluid (CSF) levels of some penicillins are known to be potentially neurotoxic, and the CSF concentrations of ampicillin rise significantly in meningitis.Generalized seizures have been described in 2 patients during treatment with ampicillin, although in both cases, there were underlying disease factors that may have predisposed the patients to seizure activity.[Ref]
+Nervous system side effects have rarely included seizures in patients treated with large intravenous doses of ampicillin, headache, and dizziness.[Ref]
+Renal side effects have rarely included crystalluria in patients receiving high dosages of intravenous ampicillin, interstitial nephritis, and glomerulonephritis.  The latter two may be associated with hypersensitivity.[Ref]
+Hepatic side effects have included rare cases of hepatitis, cholestasis, and elevated AST (SGOT) and ALT (SGPT).  Glutamic oxalacetic transaminase is released at intramuscular injection sites; therefore increased SGOT is not necessarily a hepatic side effect.[Ref]
+Local side effects have rarely included phlebitis after IV administration and pain with IM administration of ampicillin.[Ref]
+Dermatologic side effects have included rash, maculopapular rash, morbilliform rash, exfoliative dermatitis, erythema multiforme, purpura, urticaria, pruritus, and acute generalized exanthematous pustulosis.  Rashes have been reported in patients with infectious mononucleosis and Epstein-Barr virus.  Ampicillin has also been associated with a case of reactivation of latent Epstein-Barr virus infection and rash.[Ref]
+HIV/AIDS patients have a significantly higher incidence of rash than other patients.[Ref]
+Genitourinary side effects have included vaginal candidiasis.[Ref]
+Respiratory side effects have included laryngeal stridor.[Ref]
+Other side effects have included fever.[Ref]
+1. Konstantinidis AB, Markopoulos A, Trigonides G "Ampicillin induced erythema multiforme." J Oral Med 40 (1985): 168-70
+2. Cavanzo FJ, Garcia CF, Botero RC "Chronic cholestasis, paucity of bile ducts, red cell aplasia, and the Stevens-Johnson syndrome." Gastroenterology 99 (1990): 854-6
+3. Castro SM, Schwartz RH, Nazarian LF "Ampicillin and amoxicillin delayed hypersensitivity: Side-chain-specific allergic reactions in a child." Pediatr Asthma Allerg Immun 10 (1996): 197-203
+4. Beeching NJ, Gruer LD, Findlay CD, Geddes AM "A case of Henoch-Schonlein purpura syndrome following oral ampicillin." J Antimicrob Chemother 10 (1982): 479-82
+5. Chikwava KR,  Savell VH Jr,  Boyd TK "Fatal cephalosporin-induced acute hypersensitivity myocarditis." Pediatr Cardiol 27 (2006): 777-80
+6. Johnson JR, Lyons MF, Pearce W, et al "Therapy for women hospitalized with acute pyelonephritis: a randomized trial of ampicillin versus trimethoprim-sulfamethoxasole for 14 days." J Infect Dis 163 (1991): 325-30
+7. Craig WA, Gerber AU "Worldwide experience with bacampicillin administered twice a day." Rev Infect Dis 3 (1981): 171-7
+8. Dolovich J, Ruhno J, Sauder DN, Ahlstedt S, Hargreave FE "Isolated late cutaneous skin test response to ampicillin: a distinct entity." J Allergy Clin Immunol 82 (1988): 676-9
+9. "Product Information. Polycillin (ampicillin)." Apothecon Inc, Plainsboro, NJ. 
+10. Tagami H, Tatsuta K, Iwatski K, Yamada M "Delayed hypersensitivity in ampicillin-induced toxic epidermal necrolysis." Arch Dermatol 119 (1983): 910-3
+11. Chan HL "Fixed drug eruption to bacampicillin (ampicillin)." Arch Dermatol 120 (1984): 542
+12. Heim K, Alge A, Marth C "Anaphylactic reaction to ampicillin and severe complication in the fetus." Lancet 337 (1991): 859-60
+13. Poe RH, Condemi JJ, Weinstein SS, Schuster RJ "Adult respiratory distress syndrome related to ampicillin sensitivity." Chest 3 (1980): 449-51
+14. Marra CA, Shalansky KF "Ampicillin-induced macropapular versus urticarial rash." Ann Pharmacother 30 (1996): 401-2
+15. Adcock BB, Rodman DP "Ampicillin-specific rashes." Arch Fam Med 5 (1996): 301-4
+16. Guinta JL, Fiumara N "Ampicillin allergy presenting as secondary syphilis." Oral Surg Oral Med Oral Patho 2 (1984): 152-4
+17. Garty BZ, Offer I, Livni E, Danon YL "Erythema multiforme and hypersensitivity myocarditis caused by ampicillin." Ann Pharmacother 28 (1994): 730-1
+18. Mehta D, Warwick GL, Goldberg MJ "QT prolongation after ampicillin anaphylaxis." Br Heart J 55 (1986): 308-10
+19. Kounis GN,  Kouni SA,  Chiladakis JA,  Kounis NG "Comment: Mesalamine-Associated Hypersensitivity Myocarditis in Ulcerative Colitis and the Kounis Syndrome (February)." Ann Pharmacother 43 (2009): 393-4
+20. Hodak E, Ben-Shetrit A, Ingber A, Sandbank M "Bullous pemphigoid: an adverse effect of ampicillin." Clin Exp Dermatol 15 (1990): 50-2
+21. Midtvedt T, Carlstedt-Duke B, Hoverstad T, et al "Influence of peroral antibiotics upon the biotransformatory activity of the intestinal microflora in healthy subjects." Eur J Clin Invest 16 (1986): 11-7
+22. Guay DR, Craft JC "Comparative safety and efficacy of clarithromycin and ampicillin in the treatment of out-patients with acute bacterial exacerbation of chronic bronchitis." J Intern Med 231 (1992): 295-301
+23. Cobbs CG, Livingston W "Shigella sonnei gastroenteritis after oral ampicillin therapy for an unrelated disorder." South Med J 73 (1980): 1545-6
+24. Brause BD, Romankiewicz JA, Gotz V, Franklin JE Jr, Roberts RB "Comparative study of diarrhea associated with clindamycin and ampicillin therapy." Am J Gastroenterol 73 (1980): 244-8
+25. Koklu S,  Yuksel O,  Filik L,  Uskudar O,  Altundag K,  Altiparmak E "Recurrent cholestasis due to ampicillin." Ann Pharmacother 37 (2003): 395-7
+26. Hanline MH "Acute pancreatitis caused by ampicillin." South Med J 80 (1987): 1069
+27. Berliner S, Sidi Y, Shaklai M, Pinkhas J "Appearance of thrombocytopenia and benign monoclonal gammopathy following intake of drugs." Acta Haematol 67 (1982): 71-2
+28. Singh N, Yu VL, Mieles LA, Wagener MM "Beta-lactam antibiotic-induced leukopenia in severe hepatic dysfunction: risk factors and implications for dosing in patients with liver disease." Am J Med 94 (1993): 251-6
+29. Hughes GS "Ampicillin and hematologic effects." Ann Intern Med 99 (1983): 573
+30. Argov Z, Brenner T, Abramsky O "Ampicillin may aggravate clinical and experimental myasthenia gravis." Arch Neurol 43 (1986): 255-6
+31. Hodgman T, Dasta JF, Armstrong DK, Visconti JA, Reilley TE "Ampicillin-associated seizures." South Med J 77 (1984): 1323-5
+32. Moesch C, Rince M, Raby C, Denis F, Leroux-Robert C "Crystalluria following aminopenicillin therapy." Clin Nephrol 23 (1985): 318-9
+33. Sidoroff A,  Dunant A,  Viboud C, et al. "Risk factors for acute generalized exanthematous pustulosis (AGEP)-results of a multinational case-control study (EuroSCAR)." Br J Dermatol 157 (2007): 989-96
+Not all side effects for ampicillin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.

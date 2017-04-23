@@ -1,0 +1,45 @@
+Applies to piperacillin: injectable powder for injection
+This drug was generally well tolerated.  Local side effects (after IV or IM injection) were most common.[Ref]
+Common (1% to 10%): Diarrhea, loose stoolsFrequency not reported: Nausea, vomiting, bloody diarrhea, pseudomembranous colitis, Clostridium difficile-associated diarrhea[Ref]
+The onset of pseudomembranous colitis symptoms has been reported during or after antimicrobial therapy.[Ref]
+Common (1% to 10%): Rash, pruritusFrequency not reported: Vesicular eruptions/vesiculation, erythema multiforme, urticaria, toxic epidermal necrolysis, Stevens-Johnson syndrome, drug reactions with eosinophilia and systemic symptoms (DRESS), petechial rash/purpura, exanthematous pustulosis, bullous dermatosis, erythema nodosum, exanthems, exfoliative dermatitis, Jarisch-Herxheimer reaction[Ref]
+An increased incidence of rash has been reported in cystic fibrosis patients.DRESS has been reported, particularly with piperacillin-tazobactam.Petechial rash or purpura due to thrombocytopenia has been reported.[Ref]
+Common (1% to 10%): Thrombophlebitis, injection site pain, injection site induration, injection site erythemaFrequency not reported: Ecchymosis, deep vein thrombosis, hematomas[Ref]
+Thrombophlebitis was more likely when insufficiently diluted solution was injected into the vein.[Ref]
+Common (1% to 10%): Drug feverFrequency not reported: Fever, edema, fatigue, decreased serum potassium levels, superinfection (including candidiasis), hemorrhagic manifestations[Ref]
+An increased incidence of fever has been reported in cystic fibrosis patients.Patients with liver disease or those receiving cytotoxic therapy or diuretics have reported decreased serum potassium levels with high doses of this drug.[Ref]
+Frequency not reported: Anaphylactic/anaphylactoid reactions (some leading to shock and fatalities)[Ref]
+Frequency not reported: Agranulocytosis, hemolytic anemia, leukopenia, neutropenia, pancytopenia, thrombocytopenia, eosinophilia, bleeding disorders, positive Coombs tests, hemorrhage/bleeding, decreased prothrombin time, platelet dysfunction, prolonged bleeding times[Ref]
+Risk factors for reversible leukopenia (neutropenia) included prolonged therapy with high doses or concomitant drugs that cause this effect.[Ref]
+Neuromuscular excitability and convulsions have been reported when higher than recommended doses were given IV.[Ref]
+Frequency not reported: Headache, dizziness, seizures/convulsions, prolonged muscle relaxation, paralysis, neurotoxicity, encephalopathy, neuromuscular excitability[Ref]
+Drug-induced interstitial nephritis is a rare but potentially serious side effect of all penicillins.[Ref]
+Frequency not reported: Elevated serum creatinine, elevated BUN, interstitial nephritis, renal failure[Ref]
+Frequency not reported: Elevated liver enzymes (LDH, AST, ALT), hyperbilirubinemia, hepatotoxicity, cholestatic hepatitis[Ref]
+Frequency not reported: Hypokalemia, electrolyte disturbances, acid-base disturbances[Ref]
+Frequency not reported: Epistaxis
+1. Cerner Multum,   Inc. "Canadian Product Information." O 0 (2015):
+2. Mandell GL "In vitro microbiology and pharmacokinetics of piperacillin." Clin Ther 7 (1985): 37-44
+3. "Product Information. Pipracil (piperacillin)." Lederle Laboratories, Wayne, NJ. 
+4. Eliopoulos GM, Moellering RC "Azlocillin, mezlocillin, and piperacillin: new broad-spectrum penicillins." Ann Intern Med 97 (1982): 755-60
+5. Ramakrishnan K,  Scheid DC "Diagnosis and management of acute pyelonephritis in adults." Am Fam Physician 71 (2005): 933-42
+6. Lutz B, Mogabgab W, Holmes B, et al "Clinical evaluation of the therapeutic efficacy and tolerability of piperacillin." Antimicrob Agents Chemother 22 (1982): 10-4
+7. Winston DJ, Murphy W, Young LS, Hewitt WL "Piperacillin therapy for serious bacterial infections." Am J Med 69 (1980): 255-61
+8. Link AS, Jr "Efficacy and safety of ticarcillin plus clavulanic acid and piperacillin in patients with lower respiratory tract infections." Am J Med 79 (1985): 86-7
+9. Abate G,  Godbole K,  Springston C "Piperacillin/tazobactam-induced petechial rash." Ann Pharmacother 44 (2010): 1345-6
+10. Pleasants RA, Walker TR, Samuelson WM "Allergic reactions to parenteral beta-lactam antibiotics in patients with cystic fibrosis." Chest 106 (1994): 1124-8
+11. Strandvik B "Adverse reactions to piperacillin in patients with cystic fibrosis." Lancet 06/16/84 (1984): 1362
+12. Cabanas R, Munoz L, LopezSerrano C, Contreras J, Padial A, Caballero T, MorenoAncillo A, Barranco P "Hypersensitivity to piperacillin." Allergy 53 (1998): 819-20
+13. Stead RJ, Kennedy HG, Hodson ME, Batten JC "Adverse reactions to piperacillin in cystic fibrosis." Lancet 04/14/84 (1984): 857
+14. Moore M, McNamara TR, Johnson J "Elevated bleeding time and epistaxis associated with piperacillin therapy." South Med J 78 (1985): 363
+15. Singh N, Yu VL, Mieles LA, Wagener MM "Beta-lactam antibiotic-induced leukopenia in severe hepatic dysfunction: risk factors and implications for dosing in patients with liver disease." Am J Med 94 (1993): 251-6
+16. Gentry LO, Jemsek JG, Natelson EA "Effects of sodium piperacillin on platelet function in normal volunteers." Antimicrob Agents Chemother 19 (1981): 532-3
+17. Yan MT,  Chu HY,  Chau T,  Lin SH "Profound thrombocytopenia associated with piperacillin in a hemodialysis patient." Clin Nephrol 72 (2009): 240-3
+18. Bressler RB, Huston DP "Piperacillin-induced anemia and leukopenia." South Med J 79 (1986): 255-6
+19. Kirkwood CF, Lasezkay GM "Neutropenia associated with mezlocillin and piperacillin." Drug Intell Clin Pharm 19 (1985): 112-4
+20. Fass RJ, Copelan EA, Brandt JT, Moeschberger ML, Ashton JJ "Platelet-mediated bleeding caused by broad-spectrum penicillins." J Infect Dis 155 (1987): 1242-8
+21. Lee M, Stobnicki M, Sharifi R "Hemorrhagic complications of piperacillin therapy." J Urol 136 (1986): 454-5
+22. Parkmatsumoto YC, Tazawa T "Piperacillin-induced encephalopathy." J Neurol Sci 140 (1996): 141-2
+23. Malanga CJ, Kokontis L, Mauzy S "Piperacillin-induced seizures." Clin Pediatr (Phila) 36 (1997): 475-6
+24. Mackie K, Pavlin EG "Recurrent paralysis following piperacillin administration." Anesthesiology 72 (1990): 561-3
+It is possible that some side effects of piperacillin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

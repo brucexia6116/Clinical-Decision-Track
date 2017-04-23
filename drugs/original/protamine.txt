@@ -1,0 +1,57 @@
+Applies to protamine: parenteral solution for injection
+Side effects include:
+Decreased BP or hypotension,    bradycardia,   skin reactions (e.g., flushing, feeling of warmth, urticaria, edema),   dyspnea,  nausea,  vomiting,  lassitude,  back pain. 
+Applies to protamine: injectable solution
+It has been postulated that the heparin-protamine complex may be acted upon by fibrinolysin, thus freeing heparin.  Clinical monitoring of coagulation parameters such as the heparin titration test with protamine and plasma thrombin time is recommended to determine subsequent protamine dosage requirements.[Ref]
+Hematologic adverse effects such as bleeding and elevated plasma heparin concentrations resulting from rebound anticoagulation have occurred 30 minutes to 18 hours following cardiac surgery despite complete protamine neutralization of heparin.[Ref]
+Immune responses, some life-threatening and fatal, have occurred and are thought to be related to previous protamine exposure such as prior heparin neutralization or use of protamine-containing insulin.  Severe reactions may occur in the absence of local or systemic allergic reactions to protamine-containing insulin injections and fatal anaphylaxis without a prior allergy history has been reported.  Data suggest that vasectomized men may be at increased risk for protamine-induced immunologic reactions.[Ref]
+Vasectomy disrupts the normal blood-testes barrier allowing systemic absorption of sperm and the potential for antibody formation.  Data concerning vasectomized men have reported the appearance of human protamine-specific IgG antibodies in 22% to 33% within one year after vasectomy.  A study revealed antiprotamine IgE antibodies in 35% of vasectomized men compared to 0% in nonvasectomized controls.  Cross-reactivity has been demonstrated between human and salmon protamine.[Ref]
+Cardiovascular symptoms of hypotension and bradycardia have occurred following intravenous (IV) administration of protamine.  Reduced cardiac output, myocardial failure, and irreversible circulatory collapse can occur.[Ref]
+Respiratory adverse effects resulting in high-protein, noncardiogenic pulmonary edema have been reported in patients on cardiopulmonary bypass undergoing cardiovascular surgery.  The role of protamine is not completely understood, but may be related to an immune-mediated response.  However, this effect has been observed with administration of certain blood products, drugs, cardiopulmonary by-pass alone, and in the presence of other etiologic factors.Respiratory side effects have also included reports of severe pulmonary hypertension.[Ref]
+Dermatologic effects, primarily associated with allergic reactions, have been characterized by urticaria, erythema, or edema.[Ref]
+1. Lindblad B "Protamine sulphate: a review of its effects: hypersensitivity and toxicity." Eur J Vasc Surg 3 (1989): 195-201
+2. Soloway HB, Cornett BM, Donahoo JV, Cox SP "Differentiation of bleeding diatheses which occur following protamine  correction of heparin anticoagulation." Am J Clin Pathol 60 (1973): 188-91
+3. Al-Mondhiry H, Pierce WS, Basarab RM "Protamine-induced thrombocytopenia and leukopenia." Thromb Haemost 53 (1985): 60-4
+4. "Product Information. Protamine sulfate (protamine)" Lilly, Eli and Company, Indianapolis, IN. 
+5. Horrow JC "Thrombocytopenia accompanying a reaction to protamine sulfate." Can Anaesth Soc J 32 (1985): 49-52
+6. Mezt S "Prior vasectomy and anaphylaxis following protamine: no cause and effect." Anesthesiology 79 (1993): 617-9
+7. Konstadt SN "Protamine administration: untoward responses and their mechanisms." Mt Sinai J Med 54 (1987): 297-300
+8. Adourian U, Shampaine EL, Hirshman CA, Fuchs E, Adkinson NF, Jr "High-titer protamine-specific IgG antibody associated with  anaphylaxis: report of a case and quantitative analysis of antibody  in vasectomized men." Anesthesiology 78 (1993): 368-72
+9. Holland CL, Singh AK, McMaster PR, Fang W "Adverse reactions to protamine sulfate following cardiac surgery." Clin Cardiol 7 (1984): 157-62
+10. Best N, Sinosich MJ, Teisner B, Grudzinskas JG, Fisher MM "Complement activation during cardiopulmonary bypass by heparin- protamine interaction." Br J Anaesth 56 (1984): 339-43
+11. Walker WS, Reid KG, Hider CF, Davidson IA, Boulton FE, Yap PL "Successful cardiopulmonary bypass in diabetics with anaphylactoid  reactions to protamine." Br Heart J 52 (1984): 112-4
+12. Weiler JM, Freiman P, Sharath MD, Metzger WJ, Smith JM, Richerson HB, Ballas ZK, Halverson PC, Shulan DJ, Matsuo S, et al "Serious adverse reactions to protamine sulfate: are alternatives needed?" J Allergy Clin Immunol 75 (1985): 297-303
+13. Adourian U, Shampaine EL, Hirshman CA, Fuchs E, Adkinson NF Jr "High-titer protamine-specific IgG antibody associated with anaphylaxis: report of a case and quantitative analysis of antibody in vasectomized men." Anesthesiology 78 (1993): 368-72
+14. Weiss ME, Adkinson NF, Jr "Allergy to protamine." Clin Rev Allergy 9 (1991): 339-55
+15. Olinger GN, Becker RM, Bonchek LI "Noncardiogenic pulmonary edema and peripheral vascular collapse following cardiopulmonary bypass: rare protamine reaction?" Ann Thorac Surg 29 (1980): 20-5
+16. Lakin JD, Blocker TJ, Strong DM, Yocum MW "Anaphylaxis to protamine sulfate mediated by a complement-dependent IgG antibody." J Allergy Clin Immunol 61 (1978): 102-7
+17. Vontz FK, Puestow EC, Cahill DJ, Jr "Anaphylactic shock following protamine administration." Am Surg 48 (1982): 549-51
+18. Watson RA, Ansbacher R, Barry M, Deshon GE, Jr  Agee RE "Allergic reaction to protamine: a late complication of elective  vasectomy?" Urology 22 (1983): 493-5
+19. Adourian UA, Hirshman CA, Adkinson NF Jr, Weiss ME "Immunoreactivity of protamine preparations used to reverse heparin anticoagulation." Anesthesiology 73 (1990): 328-31
+20. Stewart WJ, McSweeney SM, Kellett MA, Faxon DP, Ryan TJ "Increased risk of severe protamine reactions in NPH insulin-dependent  diabetics undergoing cardiac catheterization." Circulation 70 (1984): 788-92
+21. Weiler JM, Gellhaus MA, Carter JG, Meng RL, Benson PM, Hottel RA, Schillig KB, Vegh AB, Clarke WR "A prospective study of the risk of an immediate adverse reaction to  protamine sulfate during cardiopulmonary bypass surgery." J Allergy Clin Immunol 85 (1990): 713-9
+22. Kirklin JK, Chenoweth DE, Naftel DC, Blackstone EH, Kirklin JW, Bitran DD, Curd JG, Reves JG, Samuelson PN "Effects of protamine administration after cardiopulmonary bypass on  complement, blood elements, and the hemodynamic state." Ann Thorac Surg 41 (1986): 193-9
+23. Awan NA, Evenson MK, Needham KE, Mason DT "Management of refractory CHF with prazosin: importance of tolerance and tachyphylaxis." Acta Med Scand Suppl 652 (1981): 115-24
+24. Horrow JC "Adverse reactions to protamine." Int Anesthesiol Clin 23 (1985): 133-44
+25. Sharath MD, Metzger WJ, Richerson HB, Scupham RK, Meng RL, Ginsberg BH, Weiler JM "Protamine-induced fatal anaphylaxis. Prevalence of antiprotamine immunoglobulin E antibody." J Thorac Cardiovasc Surg 90 (1985): 86-90
+26. Hulshof MM, Faber WR, Kniestedt WF, Boeree MJ, Kreek P "Granulomatous hypersensitivity to protamine as a complication of insulin therapy." Br J Dermatol 127 (1992): 286-8
+27. Andersen JM, Johnson TA "Hypertension associated with protamine sulfate administration." Am J Hosp Pharm 38 (1981): 701-3
+28. Del Re MR, Ayd JD, Schultheis LW, Heitmiller ES "Protamine and left ventricular function: a transesophageal echocardiography study." Anesth Analg 77 (1993): 1098-103
+29. Dayal SK, Barlow JC, Watson WA "Unpredictable anaphylactic reaction to protamine sulfate." Drug Intell Clin Pharm 22 (1988): 209-11
+30. Frater RW, Oka Y, Hong Y, Tsubo T, Loubser PG, Masone R "Protamine-induced circulatory changes." J Thorac Cardiovasc Surg 87 (1984): 687-92
+31. Moorthy SS, Pond W, Rowland RG "Severe circulatory shock following protamine (an anaphylactic reaction)." Anesth Analg 59 (1980): 77-8
+32. Lowenstein E, Johnston WE, Lappas DG, D'Ambra MN, Schneider RC, Daggett WM, Akins CW, Philbin DM "Catastrophic pulmonary vasoconstriction associated with protamine reversal of heparin." Anesthesiology 59 (1983): 470-3
+33. Cheung AT, Weiss SJ, Savino JS "Protamine-induced right-to-left intracardiac shunting." Anesthesiology 75 (1991): 904-7
+34. Akata T, Kodama K, Yoshitake J, Takahashi S "Heparin prevents the vasodilating actions of protamine on human small mesenteric arteries." Anesth Analg 76 (1993): 1213-21
+35. Pharo GH, Horrow J, Van Riper DF, Levy JH "Suspected protamine allergy: diagnosis and management for coronary artery surgery." Anesth Analg 78 (1994): 181-4
+36. Conahan TJ, 3d  Andrews RW, MacVaugh H, 3d "Cardiovascular effects of protamine sulfate in man." Anesth Analg 60 (1981): 33-6
+37. Shikuma LR, Eyer SD, Zaske DE "Protamine sulfate and fatal anaphylactoid shock." Drug Intell Clin Pharm 22 (1988): 211-3
+38. Hird RB, Crawford FA Jr, Mukherjee R, Zile MR, Spinale FG "Effects of protamine on myocyte contractile function and beta- adrenergic responsiveness." Ann Thorac Surg 57 (1994): 1066-74;disc. 1074-5
+39. Kimmel SE,  Sekeres M,  Berlin JA,  Ellison N "Mortality and Adverse Events After Protamine Administration in Patients Undergoing Cardiopulmonary Bypass." Anesth Analg 94 (2002): 1402-1408
+40. Lobato EB, Janelle GM, Urdaneta F, Malias MA "Noncardiogenic pulmonary edema and rhabdomyolsis after protamine administration in a patient with unrecognized McArdle's disease." Anesthesiology 91 (1999): 303-5
+41. Just-Viera JO, Fischer CR, Gago O, Morris JD "Acute reaction to protamine. Its importance to surgeons." Am Surg 50 (1984): 52-60
+42. Ralley FE "The use of nitric oxide for managing catastrophic pulmonary vasoconstriction arising from protamine administration." Anesth Analg 88 (1999): 505-7
+43. Zaidan JR, Johnson S, Brynes R, Monroe S, Guffin AV "Rate of protamine administration: its effect on heparin reversal and  antithrombin recovery after coronary artery surgery." Anesth Analg 65 (1986): 377-80
+44. McIntyre RW, Flezzani P, Knopes KD, Reves JG, Watkins WD "Pulmonary hypertension and prostaglandins after protamine." Am J Cardiol 58 (1986): 857-8
+45. Brooks JC "Noncardiogenic pulmonary edema immediately following rapid protamine administration." Ann Pharmacother 33 (1999): 927-30
+It is possible that some side effects of protamine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

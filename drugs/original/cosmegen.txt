@@ -1,0 +1,136 @@
+Generic Name: dactinomycin
+Applies to dactinomycin: intravenous powder for solution
+In addition to its needed effects, some unwanted effects may be caused by dactinomycin (the active ingredient contained in Cosmegen). In the event that any of these side effects do occur, they may require medical attention.
+
+If any of the following side effects occur while taking dactinomycin, check with your doctor or nurse immediately:
+Some of the side effects that can occur with dactinomycin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
+
+
+Applies to dactinomycin: intravenous powder for injection
+Gastrointestinal side effects have been reported in 75% of patients and are usually mild to moderate in severity.  Nausea and vomiting may present within hours of administration, may be dose-limiting, may be most intense two to four days after the end of a five-day course, typically require and respond to antiemetic therapy, and may persist for as long as a week after therapy is stopped.  Intravenously administered ondansetron is compatible with dactinomycin (the active ingredient contained in Cosmegen) for up to four hours.  Other serious gastrointestinal problems include cheilitis (inflammation of the lip), dysphagia, esophagitis, ulcerative stomatitis, and pharyngitis.  Anorexia, abdominal pain, diarrhea, proctitis and gastrointestinal ulceration have also been reported.[Ref]
+Radiation-recall enteritis has been reported after the use of dactinomycin and doxorubicin therapy.[Ref]
+Hepatic side effects have been serious, ranging from elevated liver function tests in approximately 17% of patients to rare cases of hepatitis, hepatomegaly, ascites, hepatic failure, hepatic veno-occlusive disease which may be associated with intravascular clotting disorder and multi-organ failure, and death.  Dactinomycin-induced hepatotoxicity may be more likely in the presence of x-radiation therapy to an hepatic port (not uncommon during treatment of right-sided Wilms' tumors) or after higher single doses.  There appears to be a causal relationship between dactinomycin (the active ingredient contained in Cosmegen) and the development of veno-occlusive disease of the liver.[Ref]
+X-radiation therapy (XRT) to the liver apparently produces a vascular lesion affecting primarily the small hepatic veins leading to vascular obstruction and hyperemia.  The contribution of dactinomycin towards the development of veno-occlusive disease of the liver is unknown.  Some experts have suggested a two-month interval between  XRT to the liver and dactinomycin therapy.A rare case of portal hypertension that necessitated mesocaval shunting because of life-threatening esophageal variceal hemorrhaging has been associated with the use of dactinomycin and x-radiation therapy in a girl who had been treated for a right-sided Wilms' tumor.[Ref]
+Myelosuppression can be dose-limiting or life-threatening.  Experts recommend DAILY complete blood cell counts to detect severe hematopoietic depression and withholding therapy if any cell line becomes markedly depressed.  Bone marrow recovery typically takes three weeks.Elderly patients may be associated with an increased risk of myelosuppression compared to younger patients.[Ref]
+Hematologic side effects have presented as myelosuppression in approximately 20% to 50% of patients.  Leukopenia and thrombocytopenia have typically been observed at one to two weeks after doses are started, but nadirs can be delayed until three weeks.  Anemia, even aplastic anemia, agranulocytosis, pancytopenia, reticulopenia, neutropenia, febrile neutropenia,and rare cases of immune thrombocytopenia have also been reported.[Ref]
+Dermatologic side effects have been common, and included alopecia, skin eruptions (including bullous pemphigoid and folliculitis), acne, and exacerbations of erythema or increased pigmentation associated with previous disease or x-radiation therapy.  Alopecia has typically developed within one to four weeks, and resolved within two to three months.[Ref]
+Dactinomycin-induced RNA damage precludes growing cells (in vitro) from repairing sublethal radiation damage.  The pathogenesis of "radiation recall" is otherwise poorly understood. Theories include primary cytologic damage to neurons, glia and myelin; an allergic reactive phenomenon; and damage to neural tissue secondary to vascular injury.  Factors related to the intensity of "radiation recall" appear to include individual patient variation, the total dose of radiation administered, and the intensity of the radiation.  Incidentally, patients who experience radiation recall are more likely to also experience gastrointestinal and bone marrow toxicity.Some severe cases of acne associated with the use of dactinomycin have also been associated with elevated levels of androgenous serum hormones.[Ref]
+Local side effects have included IV site extravasation which should be rigorously avoided as dactinomycin (the active ingredient contained in Cosmegen) is extremely toxic and corrosive.  Extravascular infiltrates should be aspirated and treated locally with hydrocortisone and/or sodium thiosulfate.  Extravasation has resulted in severe soft tissue damage, including necrosis and contracture of extremities.[Ref]
+General side effects including malaise, fatigue, lethargy, muscle aches, and fever have been reported.[Ref]
+Metabolic side effects have been associated with overdoses of dactinomycin (the active ingredient contained in Cosmegen)  including hyponatremia, hypokalemia, hypocalcemia, and hypomagnesemia.  Excessive urinary magnesium loss has been documented in such rare cases.  Hypocalcemia may be observed after usual therapeutic doses.[Ref]
+Musculoskeletal side effects have generally been limited to myalgias.  The pediatric literature describes radiographic findings of transverse lines of long bones associated with the use of dactinomycin (the active ingredient contained in Cosmegen) [Ref]
+Hypersensitivity side effects, including frank anaphylaxis reactions, have been reported, but have been rare.[Ref]
+Endocrinologic side effects have been rare.  Gynecomastia without elevated serum beta-HCG levels has been associated with dactinomycin (the active ingredient contained in Cosmegen) therapy in males with testicular cancer.  Thymic enlargement has rarely been associated with the use of dactinomycin (with later generation computerized axial tomograms [CT scans] the thymus is demonstrable in all patients less than 30 years old).[Ref]
+Cardiovascular side effects have been rare.  A single case of portal hypertension has been reported.  Rare cases of pericarditis have been associated with the use of dactinomycin (the active ingredient contained in Cosmegen) in combination with other antineoplastic agents, such as cyclophosphamide, vinblastine, bleomycin, and cisplatin.[Ref]
+Oncologic side effects have consisted of animal data which have reported that dactinomycin (the active ingredient contained in Cosmegen) is a carcinogen.  In vivo animal data have revealed sarcomas and mesenchymal tumors after regular subcutaneous or intraperitoneal injections.  In vitro and in vivo human data have shown dactinomycin to be mutagenic in a number of test systems, including human fibroblasts, leukocytes and HELA cells.[Ref]
+1. Osathanondh R, Goldstein DP, Pastorfide GB "Actinomycin D as the primary agent for gestational trophoblastic disease." Cancer 36 (1975): 863-6
+2. Cupps RE, Ahmann DL, Soule EH "Treatment of pulmonary metastatic disease with radiation therapy and adjuvant actinomycin D. Preliminary observations." Cancer 24 (1969): 719-23
+3. Frei E 3d "The clinical use of actinomycin." Cancer Chemother Rep 58 (1974): 49-54
+4. Kyalwazi SK, Bhana D, Master SP "Actinomycin D in malignant Kaposi's sarcoma." East Afr Med J 48 (1971): 16-26
+5. Weiss RB, Stablein DM, Muggia FM, Einhorn LH, Golbey RB, DeWys WD "Toxicity comparisons between two chemotherapy regimens as adjuvant or salvage treatment in nonseminomatous testicular cancer." Cancer 62 (1988): 18-23
+6. Petrilli ES, Morrow CP "Actinomycin D toxicity in the treatment of trophoblastic disease: a comparison of the five-day course to single-dose administration." Gynecol Oncol 9 (1980): 18-22
+7. Chanes RE, Condit PT, Bottomley RH, Nisimblat W "Combined actinomycin D and vincristine in the treatment of patients with cancer." Cancer 27 (1971): 613-7
+8. Petrilli ES, Twiggs LB, Blessing JA, Teng NH, Curry S "Single-dose actinomycin-D treatment for nonmetastatic gestational trophoblastic disease. A prospective phase II trial of the Gynecologic Oncology Group." Cancer 60 (1987): 2173-6
+9. Somerville PJ, Evans RA "Actinomycin D in the treatment of Paget's disease of bone." Med J Aust 2 (1975): 13-6
+10. Goldstein DP "Prevention of gestational trophoblastic disease by use of actinomycin D in molar pregnancies." Obstet Gynecol 43 (1974): 475-9
+11. Ma HK, Yip SK, Chun D "Actinomycin D in the treatment of methotrexate-resistant malignant trophoblastic tumours." J Obstet Gynaecol Br Commonw 78 (1971): 166-71
+12. Goldstein DP, Winig P, Shirley RL "Actinomycin D as initial therapy of gestational trophoblastic disease. A reevaluation." Obstet Gynecol 39 (1972): 341-5
+13. Choonara IA, Kendall-Smith S, Bailey CC "Accidental actinomycin D overdosage in man, a case report." Cancer Chemother Pharmacol 21 (1988): 173-4
+14. Green DM, Sallan SE, Krishan A "Actinomycin D in childhood acute lymphocytic leukemia." Cancer Treat Rep 62 (1978): 829-31
+15. Wiley AL Jr, Wirtanen GW, Ansfield FJ, Ramirez G "Combined intra-arterial actinomycin D and radiation therapy for surgically unresectable hypernephroma." J Urol 114 (1975): 198-201
+16. Schlaerth JB, Morrow CP, Nalick RH, Gaddis O Jr "Single-dose actinomycin D in the treatment of postmolar trophoblastic disease." Gynecol Oncol 19 (1984): 53-6
+17. Hall SW, Benjamin RS, Lewinski U, Mavligit G "Actinomycin-D, levamisole chemoimmunotherapy of refractory malignant melanoma." Cancer 43 (1979): 1195-200
+18. Stein RS "Radiation-recall enteritis after actinomycin-D and adriamycin therapy." South Med J 71 (1978): 960-1
+19. Grimm RA, Muss HB, White DR, Richards F 2d, Cooper MR, Stuart JJ, Jackson DV, Barnes PL, Spurr CL "Actinomycin D in the treatment of advanced breast cancer." Cancer Chemother Pharmacol 4 (1980): 195-7
+20. "Product Information. Cosmegen (dactinomycin)." Merck & Co, Inc, West Point, PA. 
+21. Pritchard J, Raine J, Wallendszus K "Hepatotoxicity of actinomycin-D." Lancet 1 (1989): 168
+22. de Camargo B, Franco EL "Single-dose versus fractionated-dose dactinomycin in the treatment of Wilms' tumor. Preliminary results of a clinical trial. The Brazilian Wilms' Tumor Study Group." Cancer 67 (1991): 2990-6
+23. Jayabose S, Shende A, Lanzkowsky P "Hepatotoxicity of chemotherapy following nephrectomy and radiation therapy for right-sided Wilms tumor." J Pediatr 88 (1976): 898
+24. Johnson FL, Balis FM "Hepatopathy following irradiation and chemotherapy for Wilms' tumor." Am J Pediatr Hematol Oncol 4 (1982): 217-21
+25. Harris F, Cullity G, Lister J "Hepatitis following actinomycin D and irradiation." Proc R Soc Med 67 (1974): 756-7
+26. Roback SA, Nesbit ME Jr, Sharp HL, D'Angio GJ, Leonard AS "Portal hypertension following surgery, x-radiation, and actinomycin D therapy of nephroblastoma." J Pediatr 78 (1971): 1031-4
+27. Winig PJ, Goldstein DP, Shirley RL "Actinomycin D--the drug of choice for initial therapy of gestational trophoblastic disease." Surg Forum 22 (1971): 388-90
+28. Barclay KL, Yeong ML "Actinomycin D associated hepatic veno-occlusive disease--a report of 2 cases." Pathology 26 (1994): 257-60
+29. McVeagh P, Ekert H "Hepatotoxicity of chemotherapy following nephrectomy and radiation therapy for right-sided Wilms tumor." J Pediatr 87 (1975): 627-8
+30. Green DM, Finklestein JZ, Norkool P, D'Angio GJ "Severe hepatic toxicity after treatment with single-dose dactinomycin and vincristine. A report of the National Wilms' Tumor Study." Cancer 62 (1988): 270-3
+31. D'Angio GJ "Hepatotoxicity with actinomycin D." Lancet 2 (1987): 104
+32. Raine J, Bowman A, Wallendszus K, Pritchard J "Hepatopathy-thrombocytopenia syndrome--a complication of dactinomycin therapy for Wilms' tumor: a report from the United Kingdom Childrens Cancer Study Group." J Clin Oncol 9 (1991): 268-73
+33. Green DM, Norkool P, Breslow NE, Finklestein JZ, D'Angio GJ "Severe hepatic toxicity after treatment with vincristine and dactinomycin using single-dose or divided-dose schedules: a report from the National Wilms' Tumor Study." J Clin Oncol 8 (1990): 1525-30
+34. Lee AC, Lau YL "Chemotherapy-induced veno-occlusive disease of the liver." Med Pediatr Oncol 25 (1995): 485-6
+35. "Hepatotoxicity and actinomycin D." Lancet 335 (1990): 1290
+36. Vogel CL, Primack A, Dhru D, Briers P, Owor R, Kyalwazi SK "Treatment of Kaposi's sarcoma with a combination of actinomycin D and vincristine. Results of a randomized clinical trial." Cancer 31 (1973): 1382-91
+37. Pratt RA, Di Chiro G, Weed JC Jr "Cerebral necrosis following irradiation and chemotherapy for metastatic choriocarcinoma." Surg Neurol 7 (1977): 117-20
+38. Hara T, Ishii E, Ueda K "Thrombocytopenia with actinomycin-D therapy." J Pediatr 108 (1986): 1039-40
+39. Hodder FS, Kempert P, McCormack S, Bennetts GA, Katz J, Cairo MS "Immune thrombocytopenia following actinomycin-D therapy." J Pediatr 107 (1985): 611-4
+40. Yu LC, Warrier RP, Gaumer R, Ducos R "Actinomycin-induced immune thrombocytopenia." Clin Pediatr (Phila) 29 (1990): 196-7
+41. Amer MH, Akhtar M, Mackey DM, Butler PG "Bullous pemphigoid after chemotherapy for choriocarcinoma." Int J Dermatol 21 (1982): 32-5
+42. Kanwar VS, Gajjar A, Ribeiro RC, Bowman L, Parham DM, Jenkins JJ 3rd, Jenkins JJ rd "Unusual cutaneous toxicity following treatment with dactinomycin: a report of two cases." Med Pediatr Oncol 24 (1995): 329-33
+43. Blatt J, Lee PA "Severe acne and hyperandrogenemia following dactinomycin." Med Pediatr Oncol 21 (1993): 373-4
+44. Flam F, Lundstrom V "Twenty years' experience of treating gestational trophoblastic neoplasia in Sweden." Acta Obstet Gynecol Scand 68 (1989): 65-9
+45. Golomb FM, Solowey AC, Postel A, Gumport SL, Wright JC "Induced remission of malignant melanoma with actinomycin D. Immunologic implications." Cancer 20 (1967): 656-62
+46. Epstein EH Jr, Lutzner MA "Folliculitis induced by actinomycin D." N Engl J Med 281 (1969): 1094-6
+47. Levantine A, Almeyda J "Drug reactions. XXIV. Cutaneous reactions to cytostatic agents." Br J Dermatol 90 (1974): 239-42
+48. Aarskog D, Hexeberg A "Actinomycin D and transverse lines of growing bones." Acta Paediatr Scand 57 (1968): 463-7
+49. Trump DL, Anderson SA "Painful gynecomastia following cytotoxic therapy for testis cancer: a potentially favorable prognostic sign?" J Clin Oncol 1 (1983): 416-20
+50. Ahmed M, Slayton RE "Report on drug-induced pericarditis." Cancer Treat Rep 64 (1980): 353-5
+51. Kushner JP, Hansen VL, Hammar SP "Cardiomyopathy after widely separated courses of adriamycin exacerbated by actinomycin-D and mithramycin." Cancer 36 (1975): 1577-84
+Not all side effects for Cosmegen may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+
+Black, tarry stools
+blood in the urine or stools
+cough or hoarseness accompanied by fever or chills
+diarrhea (continuing)
+difficulty with swallowing
+fever or chills
+heartburn
+lower back or side pain accompanied by fever or chills
+painful or difficult urination accompanied by fever or chills
+pinpoint red spots on the skin
+sores in the mouth and on the lips
+stomach pain (continuing)
+unusual bleeding or bruising
+unusual tiredness or weakness
+
+
+Joint pain
+pain at the injection site
+swelling of the feet or lower legs
+wheezing
+yellow eyes or skin
+
+
+Abdominal or stomach cramps
+blisters
+body aches or pain
+chapped, red, or swollen lips
+confusion
+congestion
+convulsions
+cough
+difficulty with breathing
+difficulty with moving
+difficulty with swallowing
+dryness or soreness of the throat
+flushing or redness of the skin
+growth retardation
+irregular heartbeats
+muscle aching or cramping
+muscle cramps in the hands, arms, feet, legs, or face
+muscle pains or stiffness 
+numbness and tingling around the mouth, fingertips, or feet
+runny nose
+scaling, redness, burning, pain, or other signs of inflammation of the lips
+shortness of breath
+swollen joints
+tender, swollen glands in the neck
+tremor
+unusually warm skin
+voice changes
+
+
+Darkening of the skin
+general feeling of discomfort or weakness
+nausea and vomiting
+skin rash or acne
+unusual feeling of dullness or sluggishness
+

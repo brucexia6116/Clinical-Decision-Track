@@ -1,0 +1,19 @@
+Applies to doxapram: parenteral injection
+Side effects include:
+Cough,   dyspnea,   tachypnea,   headache,   dizziness,   apprehension,   hypertension,   flushing,   sweating,   nausea,   vomiting,   diarrhea,   urinary retention,   muscle spasticity.  
+Applies to doxapram: intravenous solution
+-In preterm neonates and infants, this drug has caused significant QT interval prolongation (associated with atrioventricular block in some cases), bloody stools, abdominal distension, necrotizing enterocolitis, multiple gastric perforations/increased gastric residuals, neurodevelopmental delay, vomiting, premature teeth eruption, hypertension, irritability, jitteriness, hyperglycemia, glucosuria, erratic limb movements, excessive crying, and disturbed sleep.-Seizures have occurred in premature neonates with risk factors such as a previous seizure, perinatal asphyxia, or intracerebral hemorrhage.  In many cases, this drug was given following administration of xanthine derivatives (e.g., caffeine, aminophylline, or theophylline).[Ref]
+Frequency not reported: Phlebitis, heart rate variations, lowered T-waves, arrhythmia, ventricular tachycardia, sinus tachycardia, ventricular fibrillation, bradycardia, extrasystole, chest pain, chest tightness, increased blood pressure, flushing[Ref]
+Frequency not reported: Pruritus, sweating[Ref]
+Frequency not reported: Nausea, vomiting, diarrhea, defecation desire, salivation[Ref]
+Frequency not reported: Urinary retention, urinary bladder stimulation with spontaneous voiding, elevated BUN, albuminuria[Ref]
+Frequency not reported: Hemolysis, decreased hemoglobin, decreased hematocrit, decreased red blood cell count, decreased white blood cell count (in presence of pre-existing leukopenia)[Ref]
+Frequency not reported: Muscle spasticity, muscle fasciculation, increased deep tendon reflexes, clonus, bilateral Babinski[Ref]
+Frequency not reported: Paresthesia, headache, dizziness, hyperactivity, involuntary movement, convulsion, decreased cerebral blood flow velocity[Ref]
+Frequency not reported: Pupillary dilation[Ref]
+Frequency not reported: Pyrexia, perineal warmth[Ref]
+Frequency not reported: Apprehension, disorientation, hallucination, confusion[Ref]
+Frequency not reported: Dyspnea, cough, hyperventilation, tachypnea, laryngospasm, bronchospasm, hiccough, rebound hyperventilation[Ref]
+1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+2. "Product Information. Dopram (doxapram)." West-Ward Pharmaceutical Corporation, Eatontown, NJ. 
+Not all side effects for doxapram may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
