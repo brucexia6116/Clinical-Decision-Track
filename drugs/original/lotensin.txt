@@ -1,35 +1,22 @@
-Generic Name: benazepril
-Applies to benazepril: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by benazepril (the active ingredient contained in Lotensin). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking benazepril:
-Some of the side effects that can occur with benazepril may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to benazepril: oral tablet
-The most common side effects were headache, dizziness, somnolence, and postural dizziness.[Ref]
-Common (1% to 10%): Headache, dizziness, somnolence, postural dizzinessFrequency not reported: Hypertonia, paresthesia[Ref]
-Rare (less than 0.1%): Decreases in hemoglobin (a low value and a decrease of 5 g/dL)Frequency not reported: Thrombocytopenia, hemolytic anemia, eosinophilia[Ref]
-Frequency not reported: Stevens-Johnson syndrome, pemphigus, dermatitis, pruritus, rash, photosensitivity, alopecia, sweating, angioedema[Ref]
-Frequency not reported: Asthma, bronchitis, dyspnea, sinusitis, cough[Ref]
-Frequency not reported: Uric acid increased, blood glucose increased, hyponatremia[Ref]
-Frequency not reported: Flushing, electrocardiographic changes, hypotension[Ref]
-Frequency not reported: Nausea, pancreatitis, constipation, gastritis, vomiting, melena[Ref]
-Frequency not reported: Urinary tract infection, frequent urination, impotence, proteinuria[Ref]
-Frequency not reported: Serum bilirubin increased, liver enzymes increased[Ref]
-Frequency not reported: Infection[Ref]
-Frequency not reported: Arthritis, arthralgia, myalgia[Ref]
-Frequency not reported: Fatigue, asthenia[Ref]
-Frequency not reported: Anxiety, decreased libido, insomnia, nervousness[Ref]
-1. "Product Information. Lotensin (benazepril)." Ciba Pharmaceuticals, Summit, NJ. 
-Not all side effects for Lotensin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common side effects were headache, dizziness, somnolence, and postural dizziness.
+Common (1% to 10%): Headache, dizziness, somnolence, postural dizzinessFrequency not reported: Hypertonia, paresthesia
+Rare (less than 0.1%): Decreases in hemoglobin (a low value and a decrease of 5 g/dL)Frequency not reported: Thrombocytopenia, hemolytic anemia, eosinophilia
+Frequency not reported: Stevens-Johnson syndrome, pemphigus, dermatitis, pruritus, rash, photosensitivity, alopecia, sweating, angioedema
+Frequency not reported: Asthma, bronchitis, dyspnea, sinusitis, cough
+Frequency not reported: Uric acid increased, blood glucose increased, hyponatremia
+Frequency not reported: Flushing, electrocardiographic changes, hypotension
+Frequency not reported: Nausea, pancreatitis, constipation, gastritis, vomiting, melena
+Frequency not reported: Urinary tract infection, frequent urination, impotence, proteinuria
+Frequency not reported: Serum bilirubin increased, liver enzymes increased
+Frequency not reported: Infection
+Frequency not reported: Arthritis, arthralgia, myalgia
+Frequency not reported: Fatigue, asthenia
+Frequency not reported: Anxiety, decreased libido, insomnia, nervousness
 Chills
 cold sweats
 confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 unusual tiredness or weakness
-
-
 Arm, back, or jaw pain
 blistering, peeling, or loosening of the skin
 bloating or swelling of the face, arms, hands, lower legs, or feet
@@ -56,12 +43,7 @@ sweating
 tingling of the hands or feet
 unusual weight gain or loss
 wheezing
-
-
 Headache
-
-
 Cough
 dizziness
 sleepiness or unusual drowsiness
-

@@ -1,86 +1,28 @@
-Generic Name: albuterol
 More frequent side effects include: hypersensitivity reaction, tachycardia, and tremor.  See below for a comprehensive list of adverse effects.
-Applies to albuterol: oral syrup, oral tablet, oral tablet extended release
 Other dosage forms:
 As well as its needed effects, albuterol (the active ingredient contained in ProAir HFA) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking albuterol, check with your doctor immediately:
 Some albuterol side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to albuterol: compounding powder, inhalation aerosol, inhalation aerosol with adapter, inhalation capsule, inhalation powder, inhalation solution, oral syrup, oral tablet, oral tablet extended release
-The most commonly reported adverse reactions are: Taste alteration (bad, unpleasant and unusual taste), mouth and throat irritation, fine tremor (usually of the hands), nausea, sweating, restlessness, headache and dizziness.  These undesirable effects may subside on continuation of treatment.[Ref]
-Very common (10% or more): Peripheral vasodilation, increase in heart rate Common (1% to 10%): Palpitations, tachycardia, pallorRare (0.01% to 0.1%): Myocardial ischemia, arrhythmias (including atrial fibrillation, supraventricular tachycardia, extra systoles)Very rare (less than 0.01%): Cardiovascular collapse, thrombopeniaFrequency not reported: Angina, hypertension, hypotension, flushing[Ref]
-Very common (10% or more): Headache (up to 18.8%), tremor (up to 24.2%), excitement (up to 20%), nervousness (up to 15%)Common (1% to 10%): Migraine, dizziness, shakiness, hyperkinesia, emotional labilityUncommon (0.1% to 1%): Somnolence, dizziness, drowsiness, restlessness, irritabilityFrequency not reported: Central nervous system stimulation[Ref]
-Common (1% to 10%): Skin/Appendage Infection (1.7%), pruritus, rash, erythema, urticaria, angioedema, sweating[Ref]
-Common (1% to 10%): Gastroenteritis, nausea, oropharyngeal pain, vomiting, increased appetiteUncommon (0.1% to 1%): Epigastric pain, stomach ache, loss of appetiteRare (less than 0.1%): Sore mouthFrequency not reported: Oropharyngeal edema, throat irritation, altered taste, glossitis, tongue ulceration, gagging, drying or irritation of the oropharynx[Ref]
-Common (1% to 10%): Urinary tract infectionRare (less than 0.1%): NephritisFrequency not reported: Difficulty in micturition[Ref]
-Common (1% to 10%): Allergic reactionVery rare (less than 0.01%): angioedema, urticaria, bronchospasm, hypotension and collapse[Ref]
-Common (1% to 10%): Lymphadenopathy[Ref]
-Common (1% to 10%): Application site reaction (mouth and throat irritation, burning sensation of the tongue)Frequency not reported: Slight pain or stinging (IM injection)[Ref]
-Common (1% to 10%): Back pain, muscles crampsUncommon (0.1% to 1%): MyalgiaVery rare (less than 0.01%): Fine tremor (particularly of hands)Frequency not reported: Myoclonus[Ref]
-Common (1% to 10%): Cold symptoms, flue syndrome, pain, pyrexia, hyperactivity, excitementUncommon (0.1% to 1%): Epistaxis, fatigue, otitis media,Frequency not reported: Weakness[Ref]
-Common (1% to 10%): TensenessUncommon (0.1% to 1%): Sleepiness, sleep disturbanceRare (0.01% to 0.1%): HallucinationsVery rare (less than 0.01%): Insomnia[Ref]
-Common (1% to 10%): Asthma exacerbation (13%), chest pain, bronchitis, sinus headache, upper respiratory infection, nasopharyngitis, sinusitis, bronchitis, cough Very rare (less than 0.01%): Paradoxical bronchospasm, bronchospasmFrequency not reported: Aggravated bronchospasm, asthma exacerbation, chest discomfort, pulmonary edema[Ref]
-Uncommon (0.1% to 1%): Dilated pupils, conjunctivitis[Ref]
-Rare (less than 0.1%): Hypokalemia, hyperglycemia, increase of insulin, free fatty acids, glycerol and ketone bodiesPostmarketing reports: Metabolic acidosis, lactic acidosis[Ref]
-1. "Product Information. Albuterol (albuterol (salbutamol))." Physicians Total Care, Tulsa, OK. 
-2. "Product Information. Albuterol Extended Release (albuterol (salbutamol))." Dava Pharmaceuticals Inc, Fort Lee, NJ. 
-3. Larsson S, Svedmyr N "Bronchodilating effect and side effects of beta2- adrenoceptor stimulants by different modes of administration (tablets, metered aerosol, and combinations thereof). A study with salbutamol inasthmatics." Am Rev Respir Dis 116 (1977): 861-9
-4. Price AH, Clissold SP "Salbutamol in the 1980s. A reappraisal of its clinical efficacy." Drugs 38 (1989): 77-122
-5. Cerner Multum,  Inc. "Australian Product Information." O 0
-6. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-7. "Product Information. Albuterol Sulfate (albuterol (salbutamol))." Vista Pharm Inc, Birmingham, AL. 
-8. "Albuterol." Med Lett Drugs Ther 23 (1981): 81-2
-9. Godfrey S "Worldwide experience with albuterol (salbutamol)." Ann Allergy 47 (1981): 423-6
-10. Meyer MF,  Hopkins WE,  Kaminsky DA "Cardiovascular collapse in a 77-year-old-woman with an asthma exacerbation following bronchodilator treatment." Chest 124 (2003): 1160-3
-11. Vathenen AS, Britton JR, Ebden P, Cookson JB, Wharrad HJ, Tattersfield AE "High-dose inhaled albuterol in severe chronic airflow limitation." Am Rev Respir Dis 138 (1988): 850-5
-12. Breeden CC, Safirstein BH "Albuterol and spacer-induced atrial fibrillation." Chest 98 (1990): 762-3
-13. Jenne JW "Can oral beta(2) agonists cause heart failure?" Lancet 352 (1998): 1081-2
-14. Kallergis EM,  Manios EG,  Kanoupakis EM, et al. "Acute electrophysiologic effects of inhaled salbutamol in humans." Chest 127 (2005): 2057-63
-15. Davies AE, Robertson MJ "Pulmonary oedema after the administration of intravenous salbutamol and ergometrine. Case report." Br J Obstet Gynaecol 87 (1980): 539-41
-16. Neville E, Corris PA, Vivian J, Nariman S, Gibson GJ "Nebulised salbutamol and angina." Br Med J (Clin Res Ed) 285 (1982): 796-7
-17. Hawker F "Five cases of pulmonary oedema associated with beta 2-sympathomimetic treatment of premature labour." Anaesth Intensive Care 12 (1984): 159-62
-18. Shovlin CL, Tam FW "Salbutamol nebuliser and precipitation of critical cardiac ischaemia." Lancet 336 (1990): 1258
-19. Mettauer B, Rouleau JL, Burgess JH "Detrimental arrhythmogenic and sustained beneficial hemodynamic effects of oral salbutamol in patients with chronic congestive heart failure." Am Heart J 109 (1985): 840-7
-20. Finch JS "Cardiovascular toxicity: clinical evaluation of albuterol, isoproterenol and placebo in rising dose tolerance trial." Ann Allergy 47 (1981): 402-4
-21. Wong CS, Pavord ID, Williams J, Britton JR, Tattersfield AE "Bronchodilator, cardiovascular, and hypokalaemic effects of fenoterol, salbutamol, and terbutaline in asthma." Lancet 336 (1990): 1396-9
-22. Tan SN "Peri-partum pulmonary oedema." Anaesth Intensive Care 19 (1991): 111-3
-23. Larsson S "Long-term treatment with beta2-adrenostimulants in asthma. Side effects, selectivity, tolerance, and routes of administration." Acta Med Scand Suppl 608 (1977): 1-40
-24. Lipworth BJ, Struthers AD, McDevitt DG "Tachyphylaxis to systemic but not to airway responses during prolonged therapy with high dose inhaled salbutamol in asthmatics." Am Rev Respir Dis 140 (1989): 586-92
-25. Chazan R, Droszcz W, Maruchin JE "Pharmacodynamics of salbutamol in humans." Int J Clin Pharmacol Ther Toxicol 26 (1988): 385-7
-26. Lisi DM "Muscle spasms and creatine phosphokinase elevation following salbutamol administration." Eur Respir J 2 (1989): 98
-27. Craig TJ, Smits W, Soontornniyomkiu V "Elevation of creatine kinase from skeletal muscle associated with inhaled albuterol." Ann Allergy Asthma Immunol 77 (1996): 488-90
-28. Svedmyr N, Lofdahl CG "The use of beta(2)-adrenoceptor agonists in the treatment of bronchial asthma." Pharmacol Toxicol 78 (1996): 3-11
-29. Yates DH, Kharitonov SA, Barnes PJ "An inhaled glucocorticoid does not prevent tolerance to the bronchoprotective effect of a long-acting inhaled beta(2)-agonist." Am J Respir Crit Care Med 154 (1996): 1603-7
-30. Drazen JM, Israel E, Boushey HA, et al. "Comparisons of regularly scheduled with as-needed use of albuterol in mild asthma." N Engl J Med 335 (1996): 841-7
-31. van Schayck CP, Dompeling E, van Herwaarden CL, et al. "Bronchodilator treatment in moderate asthma or chronic bronchitis: continuous or on demand? A randomised controlled study." BMJ 303 (1991): 1426-31
-32. Sears MR, Taylor DR, Print CG, et al. "Regular inhaled beta-agonist treatment in bronchial asthma." Lancet 336 (1990): 1391-5
-33. Cockcroft DW, Swystun VA "Functional antagonism: tolerance produced by inhaled beta(2) agonists." Thorax 51 (1996): 1051-6
-34. Whitehouse AM, Novosel S "Salbutamol psychosis." Biol Psychiatry 26 (1989): 631-3
-35. Ray I, Evans CJ "Paranoid psychosis with Ventolin (salbutamol tablets b.p.)." Can Psychiatr Assoc J 23 (1978): 427
-36. Hall RC, Beresford TP, Stickney SK, Nasdahl CS, Coleman JH "Psychiatric reactions produced by respiratory drugs." Psychosomatics 26 (1985): 605-8,616-7
-37. Martin W, Unutzer J, Szuba MP "Exacerbation of psychosis associated with inhaled albuterol." J Clin Psychopharmacol 15 (1995): 446-7
-38. Raghunathan K,  Nagajothi N "Paradoxical bronchospasm: a potentially life threatening adverse effect of albuterol." South Med J 99 (2006): 288-9
-39. Stratakos G,  Kalomenidis J,  Routsi C,  Papiris S,  Roussos C "Transient lactic acidosis as a side effect of inhaled salbutamol." Chest 122 (2002): 385-6
-40. Kantola I, Tarssanen L "Hypokalemia from usual salbutamol dosage ." Chest 89 (1986): 619-20
-41. Hastwell G, Lambert BE "The effect of oral salbutamol on serum potassium and blood sugar." Br J Obstet Gynaecol 85 (1978): 767-9
-42. Allon M, Dunlay R, Copkney C "Nebulized albuterol for acute hyperkalemia in patients on hemodialysis." Ann Intern Med 110 (1989): 426-9
-43. Habib GS,  Saliba WR,  Cohen L "Diabetic ketoacidosis associated with oral salbutamol overdose." Am J Med 113 (2002): 701-2
-44. Rakhmanina NY, Kearns GL, Farrar HC "Hypokalemia in an asthmatic child from abuse of albuterol metered dose inhaler." Pediatr Emerg Care 14 (1998): 145-7
-45. Montoliu J, Almirall J, Ponz E, Campistol JM, Revert L "Treatment of hyperkalaemia in renal failure with salbutamol inhalation." J Intern Med 228 (1990): 35-7
-46. Whyte KF, Addis GJ, Whitesmith R, Reid JL "The mechanism of salbutamol-induced hypokalaemia." Br J Clin Pharmacol 23 (1987): 65-71
-47. "Hypokalaemia due to salbutamol overdosage." Br Med J (Clin Res Ed) 283 (1981): 500-1
-48. Liem EB,  Mnookin SC,  Mahla ME "Albuterol-induced Lactic Acidosis." Anesthesiology 99 (2003): 505-506
+The most commonly reported adverse reactions are: Taste alteration (bad, unpleasant and unusual taste), mouth and throat irritation, fine tremor (usually of the hands), nausea, sweating, restlessness, headache and dizziness.  These undesirable effects may subside on continuation of treatment.
+Very common (10% or more): Peripheral vasodilation, increase in heart rate Common (1% to 10%): Palpitations, tachycardia, pallorRare (0.01% to 0.1%): Myocardial ischemia, arrhythmias (including atrial fibrillation, supraventricular tachycardia, extra systoles)Very rare (less than 0.01%): Cardiovascular collapse, thrombopeniaFrequency not reported: Angina, hypertension, hypotension, flushing
+Very common (10% or more): Headache (up to 18.8%), tremor (up to 24.2%), excitement (up to 20%), nervousness (up to 15%)Common (1% to 10%): Migraine, dizziness, shakiness, hyperkinesia, emotional labilityUncommon (0.1% to 1%): Somnolence, dizziness, drowsiness, restlessness, irritabilityFrequency not reported: Central nervous system stimulation
+Common (1% to 10%): Skin/Appendage Infection (1.7%), pruritus, rash, erythema, urticaria, angioedema, sweating
+Common (1% to 10%): Gastroenteritis, nausea, oropharyngeal pain, vomiting, increased appetiteUncommon (0.1% to 1%): Epigastric pain, stomach ache, loss of appetiteRare (less than 0.1%): Sore mouthFrequency not reported: Oropharyngeal edema, throat irritation, altered taste, glossitis, tongue ulceration, gagging, drying or irritation of the oropharynx
+Common (1% to 10%): Urinary tract infectionRare (less than 0.1%): NephritisFrequency not reported: Difficulty in micturition
+Common (1% to 10%): Allergic reactionVery rare (less than 0.01%): angioedema, urticaria, bronchospasm, hypotension and collapse
+Common (1% to 10%): Lymphadenopathy
+Common (1% to 10%): Application site reaction (mouth and throat irritation, burning sensation of the tongue)Frequency not reported: Slight pain or stinging (IM injection)
+Common (1% to 10%): Back pain, muscles crampsUncommon (0.1% to 1%): MyalgiaVery rare (less than 0.01%): Fine tremor (particularly of hands)Frequency not reported: Myoclonus
+Common (1% to 10%): Cold symptoms, flue syndrome, pain, pyrexia, hyperactivity, excitementUncommon (0.1% to 1%): Epistaxis, fatigue, otitis media,Frequency not reported: Weakness
+Common (1% to 10%): TensenessUncommon (0.1% to 1%): Sleepiness, sleep disturbanceRare (0.01% to 0.1%): HallucinationsVery rare (less than 0.01%): Insomnia
+Common (1% to 10%): Asthma exacerbation (13%), chest pain, bronchitis, sinus headache, upper respiratory infection, nasopharyngitis, sinusitis, bronchitis, cough Very rare (less than 0.01%): Paradoxical bronchospasm, bronchospasmFrequency not reported: Aggravated bronchospasm, asthma exacerbation, chest discomfort, pulmonary edema
+Uncommon (0.1% to 1%): Dilated pupils, conjunctivitis
+Rare (less than 0.1%): Hypokalemia, hyperglycemia, increase of insulin, free fatty acids, glycerol and ketone bodiesPostmarketing reports: Metabolic acidosis, lactic acidosis
 It is possible that some side effects of ProAir HFA may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 inhalation aerosol powder, inhalation capsule, inhalation powder, inhalation solution, inhalation suspension
-
 Shakiness in the legs, arms, hands, or feet
 trembling or shaking of the hands or feet
-
-
 Fast, irregular, pounding, or racing heartbeat or pulse
-
-
 Cough
 difficulty breathing
 difficulty with swallowing
@@ -95,8 +37,6 @@ slow or irregular breathing
 swelling of the mouth or throat
 tightness in the chest
 wheezing
-
-
 Agitation
 anxiety
 arm, back, or jaw pain
@@ -122,8 +62,6 @@ sweating
 total body jerking
 unusual feeling of excitement
 vomiting
-
-
 Dizziness
 feeling of warmth
 irritability
@@ -133,12 +71,8 @@ sleeplessness
 trouble with holding or releasing urine
 trouble sleeping
 unable to sleep
-
-
 Sleepiness
 unusual drowsiness
-
-
 Bad, unusual, or unpleasant (after) taste
 change in taste
 feeling of constant movement of self or surroundings
@@ -146,4 +80,3 @@ gagging
 rough, scratchy sound to voice
 sensation of spinning
 tightness in the throat
-

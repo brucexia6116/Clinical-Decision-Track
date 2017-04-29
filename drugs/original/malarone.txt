@@ -1,27 +1,15 @@
-Generic Name: atovaquone / proguanil
-Applies to atovaquone / proguanil: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by atovaquone / proguanil. In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking atovaquone / proguanil, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with atovaquone / proguanil may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to atovaquone / proguanil: oral tablet
-In general, side effects associated with the use of atovaquone-proguanil have been mild.  Side effects are more pronounced and occur more frequently when higher doses are used in the treatment of malaria than with lower prophylactic doses.[Ref]
-Dermatologic side effects have included pruritus (2%).  Cutaneous reactions ranging from rash, photosensitivity, and urticaria have been reported during postmarketing experience.[Ref]
-Gastrointestinal side effects have included abdominal pain (5% to 17%), nausea (3% to 12%), vomiting (1% to 12%), diarrhea (4% to 8%), mouth ulcers (6%), anorexia (5%), dyspepsia (2%), and gastritis (2%).  GI upset has also been reported.  Stomatitis has been reported during postmarketing experience.[Ref]
-Hepatic side effects have included transient increases in liver function tests.  These increases have not required discontinuation of therapy.  Rare cases of hepatitis, cholestasis, and a single case of hepatic failure have been reported during postmarketing experience.[Ref]
-Musculoskeletal side effects have included asthenia (8%), myalgia (7%), and back pain (4%).[Ref]
-Nervous system side effects have included headache (4% to 17%), dizziness (2% to 5%), vertigo (2%), and visual disturbances (2%).  Rare cases of seizures and psychotic events (such as hallucinations) have been reported during postmarketing experience.  However, a causal relationship has not been established.[Ref]
-Respiratory side effects have rarely included cough (4%).[Ref]
-Hypersensitivity side effects have included rare cases of anaphylaxis.  Rare cases of erythema multiforme, Stevens-Johnson syndrome, vasculitis, and angioedema have been reported during postmarketing experience.[Ref]
-Psychiatric side effects including strange or vivid dreams (7%), insomnia (3%), anxiety (less than 1%), and depression (less than 1%) have been reported.[Ref]
+In general, side effects associated with the use of atovaquone-proguanil have been mild.  Side effects are more pronounced and occur more frequently when higher doses are used in the treatment of malaria than with lower prophylactic doses.
+Dermatologic side effects have included pruritus (2%).  Cutaneous reactions ranging from rash, photosensitivity, and urticaria have been reported during postmarketing experience.
+Gastrointestinal side effects have included abdominal pain (5% to 17%), nausea (3% to 12%), vomiting (1% to 12%), diarrhea (4% to 8%), mouth ulcers (6%), anorexia (5%), dyspepsia (2%), and gastritis (2%).  GI upset has also been reported.  Stomatitis has been reported during postmarketing experience.
+Hepatic side effects have included transient increases in liver function tests.  These increases have not required discontinuation of therapy.  Rare cases of hepatitis, cholestasis, and a single case of hepatic failure have been reported during postmarketing experience.
+Musculoskeletal side effects have included asthenia (8%), myalgia (7%), and back pain (4%).
+Nervous system side effects have included headache (4% to 17%), dizziness (2% to 5%), vertigo (2%), and visual disturbances (2%).  Rare cases of seizures and psychotic events (such as hallucinations) have been reported during postmarketing experience.  However, a causal relationship has not been established.
+Respiratory side effects have rarely included cough (4%).
+Hypersensitivity side effects have included rare cases of anaphylaxis.  Rare cases of erythema multiforme, Stevens-Johnson syndrome, vasculitis, and angioedema have been reported during postmarketing experience.
+Psychiatric side effects including strange or vivid dreams (7%), insomnia (3%), anxiety (less than 1%), and depression (less than 1%) have been reported.
 Hematologic side effects including neutropenia, anemia (rarely), and pancytopenia in patients with severe renal impairment treated with proguanil have been reported during the postmarketing experience.
-Other side effects have included flu-like symptoms (4%) and fever (3%).[Ref]
-1. "Product Information. Malarone (atovaquone-proguanil)" Glaxo Wellcome, Research Triangle Pk, NC. 
-2. Overbosch D,  Schilthuis H,  Bienzle U, et al. "Atovaquone-Proguanil versus Mefloquine for Malaria Prophylaxis in Nonimmune Travelers: Results from a Randomized, Double-Blind Study." Clin Infect Dis 33 (2001): 1015-21
-3. Winstanley P "Malaria: treatment." J R Coll Physicians Lond 32 (1998): 203-7
-Not all side effects for Malarone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Other side effects have included flu-like symptoms (4%) and fever (3%).
 Blistering, peeling, loosening of skin
  chills
 convulsions
@@ -48,8 +36,6 @@ sudden loss of consciousness
 tightness in chest
 unusual tiredness or weakness
 wheezing
-
-
 Abdominal pain
 back pain
 coughing
@@ -65,8 +51,6 @@ sore throat
  sores in mouth
 sneezing
  vomiting
-
-
 Acid or sour stomach
 belching
 blurred or loss of vision
@@ -86,8 +70,6 @@ trouble sleeping
 tunnel vision
 unable to sleep
 weight loss
-
-
 Discouragement
 fear
  feeling sad or empty
@@ -96,4 +78,3 @@ lack of appetite
 loss of interest or pleasure
 nervousness
  trouble concentrating
-

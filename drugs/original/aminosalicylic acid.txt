@@ -1,30 +1,17 @@
 More frequently reported side effects include: eosinophilia and leukocytosis.  See below for a comprehensive list of adverse effects.
-Applies to aminosalicylic acid: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by aminosalicylic acid. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking aminosalicylic acid:
 If any of the following side effects occur while taking aminosalicylic acid, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with aminosalicylic acid may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to aminosalicylic acid: compounding powder, oral granule enteric coated
-Gastrointestinal side effects have been reported the most frequently.  These have included nausea, vomiting, and abdominal pain.[Ref]
-The incidence of gastrointestinal side effects is reduced with lower doses (8 g daily) and with the granular formulation of the drug.[Ref]
-Hypersensitivity side effects have been reported rarely.  The first signs have included rash, often followed by fever, and much less frequently, anorexia, nausea or diarrhea.  The drug has been restarted in small but gradually increasing doses under a closely followed desensitization protocol.[Ref]
-Patients should be closely monitored during the first three months of therapy and treatment must be discontinued immediately at the first signs of rash, fever, jaundice, or other sign of intolerance.[Ref]
-Hepatic side effects have included jaundice and hepatitis.  In patients diagnosed with hepatitis, hepatomegaly was invariably present with lymphadenopathy (45%), leukocytosis (79%), and eosinophilia (55%).  Prompt recognition of symptoms with discontinuation of therapy led to recovery.  Failure to recognize symptoms of liver injury can result in a mortality of up to 21%.[Ref]
-A reduction in thyroxine synthesis has been associated with the administration of the sodium salt of aminosalicylic acid.  The development of goiter can be prevented by the administration of thyroxine but not iodide.[Ref]
-Endocrine side effects have included hypothyroidism, especially with prolonged administration.  It may be accompanied by goiter development.[Ref]
-Hematologic side effects have included leukopenia, agranulocytosis, thrombocytopenia, Coombs' positive hemolytic anemia, and reduction in prothrombin.[Ref]
-1. "Product Information. Paser Granules (aminosalicylic acid)." Jacobus Pharmaceutical Company, Princeton, NJ. 
-2. American Thoracic Society,  CDC,  Infectious Diseases Society of America "Treatment of tuberculosis." MMWR Morb Mortal Wkly Rep 53 (2005): 1203
-Not all side effects for aminosalicylic acid may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal side effects have been reported the most frequently.  These have included nausea, vomiting, and abdominal pain.
+The incidence of gastrointestinal side effects is reduced with lower doses (8 g daily) and with the granular formulation of the drug.
+Hypersensitivity side effects have been reported rarely.  The first signs have included rash, often followed by fever, and much less frequently, anorexia, nausea or diarrhea.  The drug has been restarted in small but gradually increasing doses under a closely followed desensitization protocol.
+Patients should be closely monitored during the first three months of therapy and treatment must be discontinued immediately at the first signs of rash, fever, jaundice, or other sign of intolerance.
+Hepatic side effects have included jaundice and hepatitis.  In patients diagnosed with hepatitis, hepatomegaly was invariably present with lymphadenopathy (45%), leukocytosis (79%), and eosinophilia (55%).  Prompt recognition of symptoms with discontinuation of therapy led to recovery.  Failure to recognize symptoms of liver injury can result in a mortality of up to 21%.
+A reduction in thyroxine synthesis has been associated with the administration of the sodium salt of aminosalicylic acid.  The development of goiter can be prevented by the administration of thyroxine but not iodide.
+Endocrine side effects have included hypothyroidism, especially with prolonged administration.  It may be accompanied by goiter development.
+Hematologic side effects have included leukopenia, agranulocytosis, thrombocytopenia, Coombs' positive hemolytic anemia, and reduction in prothrombin.
 Fever
 joint pains
  skin rash or itching
 unusual tiredness or weakness 
-
-
 Abdominal pain (severe)
 backache
 headache
@@ -33,17 +20,12 @@ pain or burning while urinating
 paleness of skin
 sore throat
 yellow eyes or skin
-
-
 Changes in menstrual periods
 decreased sexual ability in males
 dry, puffy skin
 swelling of front part of neck
 weight gain (unusual)
-
-
 Diarrhea
 loss of appetite
 nausea and vomiting
 stomach pain (mild) 
-

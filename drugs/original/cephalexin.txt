@@ -1,45 +1,16 @@
-Applies to cephalexin: oral capsule, oral powder for suspension, oral tablet, oral tablet for suspension
-In addition to its needed effects, some unwanted effects may be caused by cephalexin. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking cephalexin:
-Some of the side effects that can occur with cephalexin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cephalexin: oral capsule, oral powder for reconstitution, oral tablet, oral tablet dispersible
-Cephalexin is generally well-tolerated.  Large studies report an overall 6% incidence of side effects, some of which may not be related to cephalexin.[Ref]
-Hypersensitivity side effects have included fever, urticaria, rash, eosinophilia, anaphylaxis, angioedema, contact dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, acute paronychia, and hepatitis.[Ref]
-Up to 20% of patients with a penicillin allergy may be allergic to cephalexin.[Ref]
-Gastrointestinal side effects have included diarrhea, nausea, vomiting, dyspepsia, abdominal cramping, anorexia, and anal pruritus.  Diarrhea due to Clostridium difficile colitis has been reported with some cephalosporins.[Ref]
-If diarrhea occurs and it does not resolve with discontinuation of the drug and/or institution of standard antidiarrheal therapy, pseudomembranous colitis should be suspected.[Ref]
-Hepatic side effects have included transient elevations of liver function tests, transient hepatitis, and rare cases of cholestatic jaundice.[Ref]
-Renal side effects have rarely included interstitial nephritis.  Reversible fever, azotemia, pyuria and eosinophiluria are the hallmarks of cephalosporin-induced interstitial nephritis.  Acute tubular necrosis has also been reported.[Ref]
-Hematologic side effects have included eosinophilia, neutropenia, thrombocytopenia and hemolytic anemia.[Ref]
-Nervous system side effects have included dizziness, fatigue, headache, agitation, confusion, and hallucinations. Reversible ototoxicity and vertigo, apparently due to labyrinthine disease, have been reported in a few patients with renal disease.[Ref]
-Genitourinary side effects have included genital pruritus, genital moniliasis, vaginitis, and vaginal discharge.[Ref]
-Musculoskeletal side effects have included arthralgia, arthritis, and joint disorder.[Ref]
-Dermatologic side effects have included urticaria, rash, contact dermatitis, erythema multiforme, and toxic epidermal necrolysis.  Acute generalized exanthematous pustulosis has been reported.[Ref]
-1. "Product Information. Keflex (cephalexin)." Dista Products Company, Indianapolis, IN. 
-2. Burt RA "A review of the drug events reported by 12,917 patients treated with cephalexin." Postgrad Med J 59 (1983): 47-50,51-3
-3. Filipe P, Almeida RSLS, Rodrigo FG "Occupational allergic contact dermatitis from cephalosporins." Contact Dermatitis 34 (1996): 226
-4. Jackson H, Vion B, Levy PM "Generalized eruptive pustular drug rash due to cephalexin." Dermatology 177 (1988): 292-4
-5. Moellering RC Jr, Swartz MN "The newer cephalosporins." N Engl J Med 294 (1976): 24-8
-6. Milligan A, Douglas WS "Contact dermatitis to cephalexin." Contact Dermatitis 15 (1986): 91
-7. Dave J, Heathcock R, Fenelon L, et al "Cephalexin induced toxic epidermal necrolysis." J Antimicrob Chemother 28 (1991): 477-8
-8. Baran R, Perrin C "Fixed-drug eruption presenting as an acute paronychia." Br J Dermatol 125 (1991): 592-5
-9. Hogan DJ, Rooney ME "Toxic epidermal necrolysis due to cephalexin." J Am Acad Dermatol 17 (1987): 852-3
-10. Manoharan A, Kot T "Cephalexin-induced haemolytic anaemia." Med J Aust 147 (1987): 202
-11. Harnar TJ, Dobke M, Simoni J, Ninnemann JL "Toxic epidermal necrolysis complicated by severe wound sepsis: a case study." J Burn Care Rehabil 8 (1987): 554-7
-12. Raff MJ "Cephalexin in lower respiratory tract infections." Postgrad Med J 59 (1983): 32-9
-13. Ammann R, Neftel K, Hardmeier T, Reinhardt M "Cephalosporin-induced cholestatic jaundice." Lancet 2 (1982): 336-7
-14. Ramakrishnan K,  Scheid DC "Diagnosis and management of acute pyelonephritis in adults." Am Fam Physician 71 (2005): 933-42
-15. Longstreth KL,  Robbins SD,  Smavatkul C,  Doe NS "Cephalexin-induced acute tubular necrosis." Pharmacotherapy 24 (2004): 808-11
-16. Sennesael J, Verbeelen D, Lauwers S "Ototoxicity associated with cephalexin in two patients with renal failure." Lancet 2 (1982): 1154-5
-17. Wolf R, Dechner E, Ophir J, Brenner S "Cephalexin: a nonthiol drug that may induced pemphigus vulgaris." Int J Dermatol 30 (1991): 213-5
-18. Holscher CM,  Mauck SK,  Armstrong L,  Buchanan JA "Man with rash and nausea. Acute generalized exanthematous pustulosis after cephalexin use." Ann Emerg Med 58 (2011): 508, 516
-Not all side effects for cephalexin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cephalexin is generally well-tolerated.  Large studies report an overall 6% incidence of side effects, some of which may not be related to cephalexin.
+Hypersensitivity side effects have included fever, urticaria, rash, eosinophilia, anaphylaxis, angioedema, contact dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, acute paronychia, and hepatitis.
+Up to 20% of patients with a penicillin allergy may be allergic to cephalexin.
+Gastrointestinal side effects have included diarrhea, nausea, vomiting, dyspepsia, abdominal cramping, anorexia, and anal pruritus.  Diarrhea due to Clostridium difficile colitis has been reported with some cephalosporins.
+If diarrhea occurs and it does not resolve with discontinuation of the drug and/or institution of standard antidiarrheal therapy, pseudomembranous colitis should be suspected.
+Hepatic side effects have included transient elevations of liver function tests, transient hepatitis, and rare cases of cholestatic jaundice.
+Renal side effects have rarely included interstitial nephritis.  Reversible fever, azotemia, pyuria and eosinophiluria are the hallmarks of cephalosporin-induced interstitial nephritis.  Acute tubular necrosis has also been reported.
+Hematologic side effects have included eosinophilia, neutropenia, thrombocytopenia and hemolytic anemia.
+Nervous system side effects have included dizziness, fatigue, headache, agitation, confusion, and hallucinations. Reversible ototoxicity and vertigo, apparently due to labyrinthine disease, have been reported in a few patients with renal disease.
+Genitourinary side effects have included genital pruritus, genital moniliasis, vaginitis, and vaginal discharge.
+Musculoskeletal side effects have included arthralgia, arthritis, and joint disorder.
+Dermatologic side effects have included urticaria, rash, contact dermatitis, erythema multiforme, and toxic epidermal necrolysis.  Acute generalized exanthematous pustulosis has been reported.
 Diarrhea
-
-
 Abdominal or stomach pain
 blistering, peeling, or loosening of the skin
 chills
@@ -65,8 +36,6 @@ unusual tiredness or weakness
 upper right abdominal or stomach pain
 vomiting of blood
 yellow eyes or skin
-
-
 Abdominal or stomach cramps or tenderness
 back or leg pains
 black, tarry stools
@@ -99,8 +68,6 @@ tightness in the chest
 unusual bleeding or bruising
 unusual weight loss
 watery or bloody diarrhea
-
-
 Acid or sour stomach
 anxiety
 belching
@@ -124,4 +91,3 @@ shaking
 stomach upset
 trouble sleeping
 white or brownish vaginal discharge
-

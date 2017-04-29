@@ -1,67 +1,40 @@
-Generic Name: risedronate
 Common side effects of Actonel include: abdominal pain, arthralgia, and ostealgia. Other side effects include: bone fracture, arthropathy, and myalgia.  See below for a comprehensive list of adverse effects.
-Applies to risedronate: oral tablet, oral tablet delayed release
-In addition to its needed effects, some unwanted effects may be caused by risedronate (the active ingredient contained in Actonel). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking risedronate:
-
 If any of the following symptoms of overdose occur while taking risedronate, get emergency help immediately:
-
-Some of the side effects that can occur with risedronate may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to risedronate: oral delayed release tablet, oral tablet
-Abdominal and musculoskeletal pain were commonly reported adverse effects.[Ref]
-Very common (10% or more): Hypertension (up to 10.5%)Common (1% to 10%): Arrhythmia (2%) in men with osteoporosisFrequency not reported: Syncope, vasodilation[Ref]
-Very common (10% or more): Constipation (up to 12.9%), diarrhea (up to 10.8%), dyspepsia (up to 10.8%), nausea (up to 10.5%)Common (1% to 10%): Abdominal pain, vomiting, abdominal upper pain, gastritis, gastroesophageal reflux disease, gastroenteritisUncommon (0.1% to 1%): Duodenitis, glossitisRare (less than 0.1%): Esophageal stricturePostmarketing reports: Esophagitis, esophageal or gastric ulcers[Ref]
-Very common (10% or more): Urinary tract infection (up to 11.1%)Common (1% to 10%): Nocturia (1.6%), cystitis, hemorrhoids, Hiatus hernia, urinary disorders, reproductive system and breast disorders[Ref]
-Very common (10% or more): Arthralgia (up to 23.7%)Common (1% to 10%): Back pain, pain in extremity, musculoskeletal pain, bone pain, muscle spasms, myalgia, neck pain, arthritis, traumatic bone fracture, join disorder, leg cramps, myasthenia (1.6%), osteoarthritis, tendonitisRare (less than 0.1%): Severe or incapacitating bone, join, or muscle pain; osteonecrosis of the jaw (ONJ); atypical subtrochanteric and diaphyseal femoral fractures (bisphosphonate class adverse reaction)Frequency not reported: Muscle spasms[Ref]
-Very common (10% or more): Accidental injury (up to 16.9%), pain (up to 14.1%), flu syndrome (up to 11.6%)Common (1% to 10%): Tinnitus (1.6%), asthenia, peripheral edema, contusion, herpes zoster (1% to 2.6%), ear and labyrinth disorders, vertigo[Ref]
-Very common (10% or more): Bronchitis (up to 10%)Common (1% to 10%): Influenza, upper respiratory infection, chest pain, sinusitis, rhinitis, pharyngitis, increased cough, apnea (1.6%)Postmarketing reports: Asthma exacerbations[Ref]
-Common (1% to 10%): RashFrequency not reported: Pruritus[Ref]
-Common (1% to 10%): Elevated levels of parathyroid hormone (PTH), endocrine disorders[Ref]
-Common (1% to 10%): Anemia (1% to 2.6%), blood and lymphatic system disorders[Ref]
-In most of the postmarketing reported cases the patients were also treated with other products known to cause hepatic disorders.[Ref]
-Common (1% to 10%): Colitis (1.6%), hepatobiliary disordersRare (less than 0.1%): Abnormal liver function testPostmarketing reports: Serious hepatic disorders[Ref]
-Common (1% to 10%): Allergic reactionsPostmarketing reports: Angioedema, generalized rash, bullous skin reactions, Stevens-Johnson syndrome and toxic epidermal necrolysis, anaphylactic reactions[Ref]
-Common (1% to 10%): Immune system disorders[Ref]
-Common (1% to 10%): Decreased weight, hypocalcemia (1.6%), transient decreases from baseline of serum calcium and phosphate, hypercholesterolemia[Ref]
-Transient decreases from baseline in serum calcium (less than 1%) and serum phosphate (less than 3%) were observed within 6 months in patients in osteoporosis clinical trials treated with doses of 5 mg daily immediate-release.[Ref]
-Common (1% to 10%): Dizziness, headache, insomnia, sciatica (0.6% to 2.3%)[Ref]
-Common (1% to 10%): Cataract; amblyopia, corneal lesion and dry eye (1.6%)Uncommon (0.1% to 1%): IritisRare (less than 0.1%): Eye inflammation including uveitis[Ref]
-Common (1% to 10%): Benign prostatic hyperplasia (5%) in men with osteoporosis; neoplasms benign, malignant and unspecified (including cysts and polyps)[Ref]
-Common (1% to 10%): Depression, psychiatric disorders[Ref]
-Common (1% to 10%): Nephrolithiasis (3%) in men with osteoporosis, renal disorders[Ref]
-1. Lourwood DL "The pharmacology and therapeutic utility of bisphosphonates." Pharmacotherapy 18 (1998): 779-89
-2. "Product Information. Actonel (risedronate)." Procter and Gamble Pharmaceuticals, Cincinnati, OH. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Delmas PD, Balena R, Confravreux E, Hardouin C, Hardy P, Bremond A "Bisphosphonate risedronate prevents bone loss in women with artificial menopause due to chemotherapy of breast cancer: a double blind, placebo-controlled study." J Clin Oncol 15 (1997): 955-62
-5. Cerner Multum,  Inc. "Australian Product Information." O 0
-6. Reginster JY, Colson F, Morlock G, Combe B, Ethgen D, Geusens P "Evaluation of the efficacy and safety of oral tiludronate in Paget's disease of bone. A double-blind, multiple-dosage, placebo-controlled study [published erratum appears in Arthritis Rheum 199 Jan;36(1):134]." Arthritis Rheum 35 (1992): 967-74
-7. Taggart H,  Bolognese MA,  Lindsay R, et al. "Upper gastrointestinal tract safety of risedronate: a pooled analysis of 9 clinical trials." Mayo Clin Proc 77 (2002): 262-70
-Not all side effects for Actonel may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Abdominal and musculoskeletal pain were commonly reported adverse effects.
+Very common (10% or more): Hypertension (up to 10.5%)Common (1% to 10%): Arrhythmia (2%) in men with osteoporosisFrequency not reported: Syncope, vasodilation
+Very common (10% or more): Constipation (up to 12.9%), diarrhea (up to 10.8%), dyspepsia (up to 10.8%), nausea (up to 10.5%)Common (1% to 10%): Abdominal pain, vomiting, abdominal upper pain, gastritis, gastroesophageal reflux disease, gastroenteritisUncommon (0.1% to 1%): Duodenitis, glossitisRare (less than 0.1%): Esophageal stricturePostmarketing reports: Esophagitis, esophageal or gastric ulcers
+Very common (10% or more): Urinary tract infection (up to 11.1%)Common (1% to 10%): Nocturia (1.6%), cystitis, hemorrhoids, Hiatus hernia, urinary disorders, reproductive system and breast disorders
+Very common (10% or more): Arthralgia (up to 23.7%)Common (1% to 10%): Back pain, pain in extremity, musculoskeletal pain, bone pain, muscle spasms, myalgia, neck pain, arthritis, traumatic bone fracture, join disorder, leg cramps, myasthenia (1.6%), osteoarthritis, tendonitisRare (less than 0.1%): Severe or incapacitating bone, join, or muscle pain; osteonecrosis of the jaw (ONJ); atypical subtrochanteric and diaphyseal femoral fractures (bisphosphonate class adverse reaction)Frequency not reported: Muscle spasms
+Very common (10% or more): Accidental injury (up to 16.9%), pain (up to 14.1%), flu syndrome (up to 11.6%)Common (1% to 10%): Tinnitus (1.6%), asthenia, peripheral edema, contusion, herpes zoster (1% to 2.6%), ear and labyrinth disorders, vertigo
+Very common (10% or more): Bronchitis (up to 10%)Common (1% to 10%): Influenza, upper respiratory infection, chest pain, sinusitis, rhinitis, pharyngitis, increased cough, apnea (1.6%)Postmarketing reports: Asthma exacerbations
+Common (1% to 10%): RashFrequency not reported: Pruritus
+Common (1% to 10%): Elevated levels of parathyroid hormone (PTH), endocrine disorders
+Common (1% to 10%): Anemia (1% to 2.6%), blood and lymphatic system disorders
+In most of the postmarketing reported cases the patients were also treated with other products known to cause hepatic disorders.
+Common (1% to 10%): Colitis (1.6%), hepatobiliary disordersRare (less than 0.1%): Abnormal liver function testPostmarketing reports: Serious hepatic disorders
+Common (1% to 10%): Allergic reactionsPostmarketing reports: Angioedema, generalized rash, bullous skin reactions, Stevens-Johnson syndrome and toxic epidermal necrolysis, anaphylactic reactions
+Common (1% to 10%): Immune system disorders
+Common (1% to 10%): Decreased weight, hypocalcemia (1.6%), transient decreases from baseline of serum calcium and phosphate, hypercholesterolemia
+Transient decreases from baseline in serum calcium (less than 1%) and serum phosphate (less than 3%) were observed within 6 months in patients in osteoporosis clinical trials treated with doses of 5 mg daily immediate-release.
+Common (1% to 10%): Dizziness, headache, insomnia, sciatica (0.6% to 2.3%)
+Common (1% to 10%): Cataract; amblyopia, corneal lesion and dry eye (1.6%)Uncommon (0.1% to 1%): IritisRare (less than 0.1%): Eye inflammation including uveitis
+Common (1% to 10%): Benign prostatic hyperplasia (5%) in men with osteoporosis; neoplasms benign, malignant and unspecified (including cysts and polyps)
+Common (1% to 10%): Depression, psychiatric disorders
+Common (1% to 10%): Nephrolithiasis (3%) in men with osteoporosis, renal disorders
 Abdominal or stomach pain
 skin rash
-
-
 Abdominal or stomach pain (severe)
 belching
 bone pain
 cramping of the stomach
 trouble swallowing
-
-
 Red, sore eyes
-
-
 Bone, joint, or muscle pain, severe and occasionally incapacitating
 chest pain
 heartburn
 pain or burning in the throat
 sores, ulcers, or white spots on the lips or tongue or inside the mouth
 vomiting
-
-
 Confusion
 convulsions
 difficulty with breathing
@@ -70,8 +43,6 @@ muscle cramps in the hands, arms, feet, legs, or face
 numbness and tingling around the mouth, fingertips, or feet
 shortness of breath
 tremor
-
-
 Back pain
 cough or hoarseness
 diarrhea
@@ -80,8 +51,6 @@ headache
 joint pain
 lower back or side pain
 painful or difficult urination
-
-
 Acid or sour stomach
 bladder pain
 bloody or cloudy urine
@@ -111,8 +80,6 @@ swelling of the feet or lower legs
 tender swollen glands in the neck
 voice changes
 weakness
-
-
 Fainting
 fear
 itching skin
@@ -128,8 +95,6 @@ troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
 wheezing
-
-
 Eye pain
 large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
 muscle pain
@@ -137,4 +102,3 @@ redness of the eye
 sensitivity of the eye to light
 skin blisters
 tearing
-

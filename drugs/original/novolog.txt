@@ -1,33 +1,24 @@
-Generic Name: insulin aspart
 Common side effects of Novolog include: hypoglycemia.  See below for a comprehensive list of adverse effects.
-Applies to insulin aspart: subcutaneous solution
 As well as its needed effects, insulin aspart (the active ingredient contained in Novolog) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking insulin aspart, check with your doctor immediately:
-
-
-Applies to insulin aspart: subcutaneous solution
-Adverse reactions observed have included hypoglycemia, allergic reactions, local injection site reactions, lipodystrophy, rash, and pruritus.[Ref]
-Hypersensitivity side effects have included both local and systemic reactions.  Anaphylaxis has been reported.  Local reactions have presented as erythema, local edema, and pruritus at the injection site.  Most minor reactions to insulin at the injection site resolve in a few days to a few weeks.  Generalized allergy to insulin may present as a whole body rash, dyspnea, wheezing, hypotension, tachycardia, or diaphoresis.  In clinical trials, allergic reactions were reported in 0.7% (10/1394) patients receiving insulin aspart (the active ingredient contained in Novolog) [Ref]
-Very rare (less than 0.01%): AnaphylaxisFrequency not reported: Allergic reactions[Ref]
-Weight gain has been reported with insulin therapy and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.[Ref]
-Very common (10% or more): HypoglycemiaFrequency not reported: Weight gain[Ref]
-Common (1% to 10%): Chest painUncommon (0.1% to 1%): Peripheral edema[Ref]
-Insulin may cause sodium retention and edema, especially as metabolic control is improving.[Ref]
-Long-term use of insulin may cause lipodystrophy at the site of repeated injection.  Lipodystrophy includes lipohypertrophy, a thickening of adipose tissue, and lipoatrophy, thinning of adipose tissue.[Ref]
-Common (1% to 10%): Skin disorderUncommon (0.1% to 1%): Urticaria, rash Frequency not reported: Lipodystrophy including lipohypertrophy and lipoatrophy[Ref]
-Common (1% to 10%): Onychomycosis Frequency not reported: Anti-insulin antibody titers[Ref]
-The clinical significance of the development of these antibody titers is unknown.[Ref]
-Rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder and worsening of diabetic retinopathy.  However, long-term glycemic control decreases the risk of diabetic retinopathy.[Ref]
-Uncommon (0.1% to 1%): Refraction disorder, worsening of diabetic retinopathy[Ref]
-Rapid improvement in glucose control has been associated with a transitory, reversible acute painful peripheral neuropathy.  However, long-term glycemic control decreases the risk.[Ref]
-Very common (10% or more): Headache (up to 12%)Common (1% to 10%): Hyporeflexia, sensory disturbanceRare (less than 0.1%): Painful peripheral neuropathy[Ref]
-Common (1% to 10%): Nausea, diarrhea, abdominal pain[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-1. "Product Information. Novolog (insulin aspart)" Novo Nordisk Pharmaceuticals Inc, Princeton, NJ. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+Adverse reactions observed have included hypoglycemia, allergic reactions, local injection site reactions, lipodystrophy, rash, and pruritus.
+Hypersensitivity side effects have included both local and systemic reactions.  Anaphylaxis has been reported.  Local reactions have presented as erythema, local edema, and pruritus at the injection site.  Most minor reactions to insulin at the injection site resolve in a few days to a few weeks.  Generalized allergy to insulin may present as a whole body rash, dyspnea, wheezing, hypotension, tachycardia, or diaphoresis.  In clinical trials, allergic reactions were reported in 0.7% (10/1394) patients receiving insulin aspart (the active ingredient contained in Novolog) 
+Very rare (less than 0.01%): AnaphylaxisFrequency not reported: Allergic reactions
+Weight gain has been reported with insulin therapy and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
+Very common (10% or more): HypoglycemiaFrequency not reported: Weight gain
+Common (1% to 10%): Chest painUncommon (0.1% to 1%): Peripheral edema
+Insulin may cause sodium retention and edema, especially as metabolic control is improving.
+Long-term use of insulin may cause lipodystrophy at the site of repeated injection.  Lipodystrophy includes lipohypertrophy, a thickening of adipose tissue, and lipoatrophy, thinning of adipose tissue.
+Common (1% to 10%): Skin disorderUncommon (0.1% to 1%): Urticaria, rash Frequency not reported: Lipodystrophy including lipohypertrophy and lipoatrophy
+Common (1% to 10%): Onychomycosis Frequency not reported: Anti-insulin antibody titers
+The clinical significance of the development of these antibody titers is unknown.
+Rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder and worsening of diabetic retinopathy.  However, long-term glycemic control decreases the risk of diabetic retinopathy.
+Uncommon (0.1% to 1%): Refraction disorder, worsening of diabetic retinopathy
+Rapid improvement in glucose control has been associated with a transitory, reversible acute painful peripheral neuropathy.  However, long-term glycemic control decreases the risk.
+Very common (10% or more): Headache (up to 12%)Common (1% to 10%): Hyporeflexia, sensory disturbanceRare (less than 0.1%): Painful peripheral neuropathy
+Common (1% to 10%): Nausea, diarrhea, abdominal pain
+Common (1% to 10%): Urinary tract infection
 It is possible that some side effects of Novolog may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Anxious feeling
 behavior change similar to being drunk
 blurred vision
@@ -47,8 +38,6 @@ restless sleep
 shakiness
 slurred speech
 tingling in the hands, feet, lips, or tongue
-
-
 Depression of the skin at the place of injection
 dryness of the mouth
 fast or weak pulse
@@ -65,4 +54,3 @@ sweating
 thickening of the skin at the place of injection
 unusual tiredness or weakness
 wheezing
-

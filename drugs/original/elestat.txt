@@ -1,24 +1,10 @@
-Generic Name: epinastine ophthalmic
-Applies to epinastine ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by epinastine ophthalmic (the active ingredient contained in Elestat). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking epinastine ophthalmic:
-Some of the side effects that can occur with epinastine ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to epinastine ophthalmic: ophthalmic solution
-The most common ocular side effects reported were a burning sensation following instillation, folliculosis, hyperemia, and pruritus of the eye.[Ref]
-Common: Burning, irritation, pruritusUncommon: Hyperemia, discharge, dryness, visual disturbancePostmarketing reports: Increased lacrimation, eye pain[Ref]
-Uncommon: Asthma, nasal irritation, rhinitis[Ref]
-Uncommon: Headache, dysgeusia[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Elestat (epinastine ophthalmic)." Allergan Inc, Irvine, CA. 
-Not all side effects for Elestat may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common ocular side effects reported were a burning sensation following instillation, folliculosis, hyperemia, and pruritus of the eye.
+Common: Burning, irritation, pruritusUncommon: Hyperemia, discharge, dryness, visual disturbancePostmarketing reports: Increased lacrimation, eye pain
+Uncommon: Asthma, nasal irritation, rhinitis
+Uncommon: Headache, dysgeusia
 Burning sensation in the eye
 increase in blood flow to the whites of the eyes
 redness, itching, pain, swelling, or other irritation of the eye
-
-
 Body aches or pain
 chills
 cough
@@ -32,8 +18,6 @@ runny nose
 sneezing
 sore throat
 unusual tiredness or weakness
-
-
 Congestion
 hoarseness
 increased cough
@@ -45,4 +29,3 @@ tightness of the chest or wheezing
 trouble with swallowing
 troubled breathing
 voice changes
-

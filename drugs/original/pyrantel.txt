@@ -1,21 +1,12 @@
-Applies to pyrantel: oral suspension, oral tablet, oral tablet chewable
 As well as its needed effects, pyrantel may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking pyrantel, check with your doctor or nurse as soon as possible:
 Some pyrantel side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to pyrantel: compounding powder, oral suspension, oral tablet
-Gastrointestinal side effects have included nausea, vomiting, diarrhea, abdominal cramps.[Ref]
-Dermatologic side effects have included skin rashes.[Ref]
-Hepatic side effects have included transient increases in liver enzymes values.[Ref]
-Nervous system side effects have included dizziness, drowsiness, insomnia, and headache.[Ref]
-1. "Product Information. Pinworm Medicine (pyrantel)." Reese Chemical Company, Cleveland, OH. 
-2. "Multum Information Services, Inc. Expert Review Panel"  
+Gastrointestinal side effects have included nausea, vomiting, diarrhea, abdominal cramps.
+Dermatologic side effects have included skin rashes.
+Hepatic side effects have included transient increases in liver enzymes values.
+Nervous system side effects have included dizziness, drowsiness, insomnia, and headache.
 It is possible that some side effects of pyrantel may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Skin rash
-
-
 Abdominal or stomach cramps or pain
  diarrhea
 dizziness
@@ -25,4 +16,3 @@ irritability
 loss of appetite
 nausea or vomiting
 trouble in sleeping
-

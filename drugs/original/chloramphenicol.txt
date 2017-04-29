@@ -1,66 +1,28 @@
-Applies to chloramphenicol: capsule, powder for solution, suspension
-In addition to its needed effects, some unwanted effects may be caused by chloramphenicol. In the event that any of these side effects do occur, they may require medical attention.
 Stop taking chloramphenicol and get emergency help immediately if any of the following effects occur:
-You should check with your doctor immediately if any of these side effects occur when taking chloramphenicol:
-Some of the side effects that can occur with chloramphenicol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to chloramphenicol: compounding powder, injectable powder for injection, oral capsule
-Hematologic side effects due to chloramphenicol-induced bone marrow depression are the most significant adverse reactions and have included aplastic anemia, hypoplastic anemia, thrombocytopenia, pancytopenia, and granulocytopenia.  Idiosyncratic aplastic anemia occurs in approximately 1 in 20,000 to 1 in 40,000 cases, is fatal in 70% of affected patients, and resolves in only 10% of patients.  Reversible bone marrow suppression is more common, and is dose-related.  Paroxysmal nocturnal hemoglobinuria has also been reported.  Hemolysis may occur in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency.[Ref]
-Aplastic anemia is idiosyncratic and dose-independent.  It has been reported in patients who have received intravenous, oral, and topical (including ophthalmologic ointment) chloramphenicol 3 to 12 weeks after initiation of therapy. Reversible bone marrow suppression may present as early as 5 days after therapy is begun as pancytopenia, is more common with plasma chloramphenicol levels of 25 mcg/mL or more, and may result in high serum iron levels due to lack of bone marrow clearance of iron.[Ref]
-Hypersensitivity side effects have included fever, macular and vesicular rashes, angioedema, urticaria, anaphylaxis, fever, hypersensitivity myocarditis, and angioedema.  Herxheimer's reactions have been reported during treatment of typhoid fever.  Extremely rare cases of contact dermatitis have been reported.[Ref]
-Anaphylaxis may present with urticarial rash, bronchospasm, and angioedema, and is rare.[Ref]
-Nervous system side effects have included headache, mental confusion, delirium, ototoxicity, sensorineural hearing loss, optic neuritis, peripheral neuritis, and encephalopathy.[Ref]
-Sensorineural hearing loss has been reported after oral administration and after topical administration of chloramphenicol to the outer ear.  The proposed mechanism is inhibition of mitochondrial protein synthesis in highly oxidative organs.[Ref]
+Hematologic side effects due to chloramphenicol-induced bone marrow depression are the most significant adverse reactions and have included aplastic anemia, hypoplastic anemia, thrombocytopenia, pancytopenia, and granulocytopenia.  Idiosyncratic aplastic anemia occurs in approximately 1 in 20,000 to 1 in 40,000 cases, is fatal in 70% of affected patients, and resolves in only 10% of patients.  Reversible bone marrow suppression is more common, and is dose-related.  Paroxysmal nocturnal hemoglobinuria has also been reported.  Hemolysis may occur in patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency.
+Aplastic anemia is idiosyncratic and dose-independent.  It has been reported in patients who have received intravenous, oral, and topical (including ophthalmologic ointment) chloramphenicol 3 to 12 weeks after initiation of therapy. Reversible bone marrow suppression may present as early as 5 days after therapy is begun as pancytopenia, is more common with plasma chloramphenicol levels of 25 mcg/mL or more, and may result in high serum iron levels due to lack of bone marrow clearance of iron.
+Hypersensitivity side effects have included fever, macular and vesicular rashes, angioedema, urticaria, anaphylaxis, fever, hypersensitivity myocarditis, and angioedema.  Herxheimer's reactions have been reported during treatment of typhoid fever.  Extremely rare cases of contact dermatitis have been reported.
+Anaphylaxis may present with urticarial rash, bronchospasm, and angioedema, and is rare.
+Nervous system side effects have included headache, mental confusion, delirium, ototoxicity, sensorineural hearing loss, optic neuritis, peripheral neuritis, and encephalopathy.
+Sensorineural hearing loss has been reported after oral administration and after topical administration of chloramphenicol to the outer ear.  The proposed mechanism is inhibition of mitochondrial protein synthesis in highly oxidative organs.
 Psychiatric side effects have included mild depression.
-Gastrointestinal side effects have infrequently included nausea, vomiting, glossitis, stomatitis, and enterocolitis.[Ref]
-Cardiovascular side effects have rarely included cardiomyopathy.  The proposed mechanism is inhibition of mitochondrial protein synthesis in highly oxidative organs.[Ref]
-Hepatic side effects have included rare cases of hepatitis.[Ref]
-Gray syndrome has been reported in neonates, premature infants, and infants.  It usually appears after 3 to 4 days of chloramphenicol therapy and manifests as abdominal distension with or without vomiting, progressive pallid cyanosis, irregular respiration, vasomotor collapse, and death within a few hours after onset.  In one case gray syndrome was reported in a neonate whose mother had received chloramphenicol during labor.  High chloramphenicol serum levels (greater than 90 mcg/mL) have been associated with gray syndrome and large doses have been associated with a rapidly fatal course.  Symptoms are frequently reversible with complete recovery if chloramphenicol is discontinued immediately.[Ref]
-1. Doona M, Walsh JB "Use of chloramphenicol as topical eye medication: time to cry halt? bone marrow aplasia also occurs with ocular use." BMJ 310 (1995): 1217-8
-2. "Product Information. Chloromycetin (chloramphenicol)." Parke-Davis, Morris Plains, NJ. 
-3. Del Giacco GS, Petrini MT, Jannelli S, Carcassi U "Fatal bone marrow hypoplasia in a shepherd using chloramphenicol spray." Lancet 1 (1981): 945
-4. Fraunfelder FT, Bagby GC, Kelly DJ "Fatal aplastic anemia following topical administration of ophthalmic chloramphenicol." Am J Ophthalmol 93 (1982): 356-60
-5. Smith AL, Weber A "Pharmacology of chloramphenicol." Pediatr Clin North Am 30 (1983): 209-36
-6. Calderwood SB, Moellering RC "Common adverse effects of antibacterial agents on major organ systems." Surg Clin North Am 60 (1980): 65-81
-7. Abrams SM, Degnan TJ, Vinciguerra V "Marrow aplasia following topical application of chloramphenicol eye ointment." Arch Intern Med 140 (1980): 576-7
-8. West BC, DeVault GA Jr, Clement JC, Williams DM "Aplastic anemia associated with parenteral chloramphenicol: review of 10 cases, including the second case of possible increased risk with cimetidine." Rev Infect Dis 10 (1988): 1048-51
-9. Finegold SM "Therapy for infections due to anaerobic bacteria: an overview." J Infect Dis 135 Suppl (1977): S25-9
-10. Shalit I, Marks MI "Chloramphenicol in the 1980s." Drugs 28 (1984): 281-91
-11. Diskin C "Paroxysmal nocturnal hemoglobinuria after chloramphenicol therapy." Mayo Clin Proc 80 (2005): 1392, 1394
-12. Alavi JB "Aplastic anemia associated with intravenous chloramphenicol." Am J Hematol 15 (1983): 375-9
-13. Farber BF, Brody JP "Rapid development of aplastic anemia after intravenous chloramphenicol and cimetidine therapy." South Med J 74 (1981): 1257-8
-14. Liphshitz I, Loewenstein A "Anaphylactic reaction following application of chloramphenicol eye ointment." Br J Ophthalmol 75 (1991): 64
-15. Schewach-Millet M, Shpiro D "Urticaria and angioedema due to topically applied chloramphenicol ointment." Arch Dermatol 121 (1985): 587
-16. Van Joost T, Dikland W, Stolz E, Prens E "Sensitization to chloramphenicol: a persistent problem." Contact Dermatitis 14 (1986): 176-8
-17. Palchick BA, Funk EA, McEntire JE, Hamory BH "Anaphylaxis due to chloramphenicol." Am J Med Sci 288 (1984): 43-5
-18. Perkins JB, Raasch RH "Hypersensitivity reaction following chloramphenicol administration in a patient with typhoid fever." Drug Intell Clin Pharm 21 (1987): 343-5
-19. Kounis GN,  Kouni SA,  Chiladakis JA,  Kounis NG "Comment: Mesalamine-Associated Hypersensitivity Myocarditis in Ulcerative Colitis and the Kounis Syndrome (February)." Ann Pharmacother 43 (2009): 393-4
-20. Iqbal SM, Srivatsav CBP "Chloramphenicol ototoxicity." J Laryngol Otol 98 (1984): 523-5
-21. Biancaniello T, Meyer R, Kaplan S "Chloramphenicol and cardiotoxicity." J Pediatr 98 (1981): 828-30
-22. Phelps SJ, Tsiu W, Barrett FF, et al "Chloramphenicol-induced cardiovascular collapse in an anephric patient." Pediatr Infect Dis J 6 (1987): 285-8
-Not all side effects for chloramphenicol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal side effects have infrequently included nausea, vomiting, glossitis, stomatitis, and enterocolitis.
+Cardiovascular side effects have rarely included cardiomyopathy.  The proposed mechanism is inhibition of mitochondrial protein synthesis in highly oxidative organs.
+Hepatic side effects have included rare cases of hepatitis.
+Gray syndrome has been reported in neonates, premature infants, and infants.  It usually appears after 3 to 4 days of chloramphenicol therapy and manifests as abdominal distension with or without vomiting, progressive pallid cyanosis, irregular respiration, vasomotor collapse, and death within a few hours after onset.  In one case gray syndrome was reported in a neonate whose mother had received chloramphenicol during labor.  High chloramphenicol serum levels (greater than 90 mcg/mL) have been associated with gray syndrome and large doses have been associated with a rapidly fatal course.  Symptoms are frequently reversible with complete recovery if chloramphenicol is discontinued immediately.
  Bloated stomach
 drowsiness
  gray skin color
 low body temperature
 uneven breathing
 unresponsiveness
-
-
 Pale skin
 sore throat and fever
 unusual bleeding or bruising
 unusual tiredness or weakness (the above side effects may also occur up to weeks or months after you Stop taking chloramphenicol)
-
-
 Confusion, delirium, or headache
 eye pain, blurred vision, or loss of vision
 numbness, tingling, burning pain, or weakness in the hands or feet
  skin rash, fever, or difficulty in breathing
-
-
 Diarrhea
 nausea or vomiting
-

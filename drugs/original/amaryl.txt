@@ -1,33 +1,18 @@
-Generic Name: glimepiride
-Applies to glimepiride: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by glimepiride (the active ingredient contained in Amaryl). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking glimepiride:
-
 If any of the following symptoms of overdose occur while taking glimepiride, get emergency help immediately:
-
-Some of the side effects that can occur with glimepiride may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to glimepiride: oral tablet
-The most commonly reported adverse events included hypoglycemia, headache, nausea, asthenia, and dizziness.[Ref]
-Hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH) occurred in mostly in patients who were on other medications or who had medical conditions known to cause hyponatremia or increased release of antidiuretic hormone.[Ref]
-Very common (10% or more): Hypoglycemia (up to 19.7%) Frequency not reported: Weight gainPostmarketing reports: Hyponatremia, SIADH[Ref]
-Rare (less than 0.1%): Thrombocytopenia, leukopenia, agranulocytosis, granulocytopenia, erythropenia, aplastic anemia, pancytopenia Postmarketing reports: Hemolytic anemia in patients without G6PD deficiency, thrombocytopenia purpura[Ref]
-Uncommon (0.1% to 1%): Allergic reactions such as pruritus, erythema, urticaria, a morbilliform or maculopapular eruptions Frequency not reported: Cutaneous eruptions with or without pruritus, cross-allergenicity with sulfonylureas, sulfonamides, or related substances Postmarketing reports: Anaphylaxis, angioedema, Stevens-Johnson syndrome, dyspnea[Ref]
-Temporary visual impairment due to changes in blood glucose levels may occur due to temporary alteration in the turgidity and hence the refractive index of the lens which is dependent on blood glucose levels.[Ref]
-Frequency not reported: Transient visual disturbances[Ref]
-Dermatologic side effects have included pruritus, erythema, urticaria, and morbilliform or maculopapular rashes in less than 1% of cases.  Sulfonylureas have caused porphyria cutanea tarda and photosensitivity reactions.[Ref]
-Common (1% to 10%): Headache, dizziness[Ref]
-Rare (less than 0.1%): Nausea, vomiting, diarrhea, abdominal discomfort, abdominal pain, sensations of pressure or fullness in the epigastrium[Ref]
-Common (1% to 10%): Elevated ALTVery rare (less than 0.01%): Hepatic function abnormal, hepatitis, hepatic failurePostmarketing reports: Hepatitis and liver impairment, e.g.  with cholestasis and jaundice, hepatic porphyria reactions and disulfiram-like reactions[Ref]
-Common (1% to 10%): Flu syndromeVery rare (less than 0.01%): Leukocytoclastic vasculitis[Ref]
-Common (1% to 10%): Asthenia, accidental injury[Ref]
-Accidental injury was reported more frequently in patients receiving this drug (5.4% vs 3.4%).  There was insufficient information available to determine if these events were associated with hypoglycemia.[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Amaryl (glimepiride)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-Not all side effects for Amaryl may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported adverse events included hypoglycemia, headache, nausea, asthenia, and dizziness.
+Hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH) occurred in mostly in patients who were on other medications or who had medical conditions known to cause hyponatremia or increased release of antidiuretic hormone.
+Very common (10% or more): Hypoglycemia (up to 19.7%) Frequency not reported: Weight gainPostmarketing reports: Hyponatremia, SIADH
+Rare (less than 0.1%): Thrombocytopenia, leukopenia, agranulocytosis, granulocytopenia, erythropenia, aplastic anemia, pancytopenia Postmarketing reports: Hemolytic anemia in patients without G6PD deficiency, thrombocytopenia purpura
+Uncommon (0.1% to 1%): Allergic reactions such as pruritus, erythema, urticaria, a morbilliform or maculopapular eruptions Frequency not reported: Cutaneous eruptions with or without pruritus, cross-allergenicity with sulfonylureas, sulfonamides, or related substances Postmarketing reports: Anaphylaxis, angioedema, Stevens-Johnson syndrome, dyspnea
+Temporary visual impairment due to changes in blood glucose levels may occur due to temporary alteration in the turgidity and hence the refractive index of the lens which is dependent on blood glucose levels.
+Frequency not reported: Transient visual disturbances
+Dermatologic side effects have included pruritus, erythema, urticaria, and morbilliform or maculopapular rashes in less than 1% of cases.  Sulfonylureas have caused porphyria cutanea tarda and photosensitivity reactions.
+Common (1% to 10%): Headache, dizziness
+Rare (less than 0.1%): Nausea, vomiting, diarrhea, abdominal discomfort, abdominal pain, sensations of pressure or fullness in the epigastrium
+Common (1% to 10%): Elevated ALTVery rare (less than 0.01%): Hepatic function abnormal, hepatitis, hepatic failurePostmarketing reports: Hepatitis and liver impairment, e.g.  with cholestasis and jaundice, hepatic porphyria reactions and disulfiram-like reactions
+Common (1% to 10%): Flu syndromeVery rare (less than 0.01%): Leukocytoclastic vasculitis
+Common (1% to 10%): Asthenia, accidental injury
+Accidental injury was reported more frequently in patients receiving this drug (5.4% vs 3.4%).  There was insufficient information available to determine if these events were associated with hypoglycemia.
 Difficulty with swallowing
 dizziness
 fast heartbeat
@@ -39,8 +24,6 @@ skin rash
 tightness in the chest
 unusual tiredness or weakness
 wheezing
-
-
 Abdominal or stomach pain
 agitation
 back, leg, or stomach pains
@@ -94,8 +77,6 @@ swollen or painful glands
 unusual bleeding or bruising
 upper right abdominal or stomach pain
 yellow eyes or skin
-
-
 Anxiety
 blurred vision
 cold sweats
@@ -104,11 +85,6 @@ increased hunger
 nightmares
 shakiness
 slurred speech
-
-
 Lack or loss of strength
-
-
 Redness or other discoloration of the skin
 severe sunburn
-

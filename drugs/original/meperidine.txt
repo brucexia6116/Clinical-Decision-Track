@@ -1,39 +1,25 @@
-Applies to meperidine: oral solution, oral syrup, oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by meperidine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking meperidine:
-
 If any of the following symptoms of overdose occur while taking meperidine, get emergency help immediately:
-
-Some of the side effects that can occur with meperidine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to meperidine: compounding powder, injectable solution, intravenous solution, oral syrup, oral tablet
-The most frequently reported adverse reactions have included lightheadedness, dizziness, sedation, nausea, vomiting, and sweating.[Ref]
-Frequency not reported: Respiratory depression, respiratory arrest[Ref]
-Frequency not reported: Serotonin syndrome, hyperexcitability, convulsions, weakness, headache, tremor, involuntary muscle movements (e.g.  muscle twitches, myoclonus), delirium, dizziness, drowsiness, fainting, neurotoxicity, lightheadedness[Ref]
-Therapeutic doses of this drug have precipitated unpredictable, severe, and occasionally fatal reactions in patients who have received MAOIs within 14 days of receiving this drug.  The mechanism of this reaction is unclear, but may be related to preexisting hyperphenylalaninemia.  Reactions have included coma, severe respiratory depression, cyanosis, and hypotension.  IV hydrocortisone or prednisolone have been used to treat severe reactions, with IV chlorpromazine used in cases exhibiting hypertension and hyperpyrexia.  The usefulness and safety of narcotic antagonists is unknown.  Neurotoxicity associated with increased concentrations of active metabolite have occurred.  Reactions have included a range of excitatory effects including tremor, hallucinations, seizures, coma, and mood changes.[Ref]
-Frequency not reported: Mood changes (e.g.  euphoria, dysphoria), agitation, transient hallucinations and disorientation, confusion, dependence, anxiety, nervousness[Ref]
-Frequency not reported: Severe hypotension, orthostatic hypotension, syncope, shock, cardiac arrest, circulatory depression, flushing, tachycardia, bradycardia, palpitations, hypotension, hypertension[Ref]
-Frequency not reported: Wheel and flare over the vein with IV injection, hypersensitivity reactions, anaphylaxis, histamine release leading to hypotension and/or tachycardia, sweating, flushing, and pruritus[Ref]
-Frequency not reported: Sensory-motor paralysis, phlebitis, injection site pain, local tissue irritation and induration following subcutaneous injection[Ref]
-Inadvertent injection about a nerve trunk may result in sensory-motor paralysis which is usually transitory.  Phlebitis has been reported following IV injection.[Ref]
-Frequency not reported: Vertigo, hypothermia[Ref]
-Frequency not reported: Urinary retention, micturition difficulties, decreased libido, renal colic, anuria[Ref]
-Frequency not reported: Dry mouth, constipation, biliary tract spasm, nausea, vomiting, decreased gastric emptying[Ref]
-Frequency not reported: Pruritus, urticaria, other skin rashes, sweating[Ref]
-Frequency not reported: Muscle twitching, muscle rigidity[Ref]
-Frequency not reported: Adrenal insufficiency, androgen deficiency[Ref]
-Frequency not reported: Biliary spasm, choledochoduodenal sphincter spasm[Ref]
-Frequency not reported: Antidiuretic effect[Ref]
-Frequency not reported: Visual disturbances, dry eye, pupillary constriction, miosis, decreased corneal reflex, mydriasis[Ref]
-Frequency not reported: Anorexia[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Demerol HCl (meperidine)." Validus Pharmaceuticals Inc, Parsippany, NJ. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for meperidine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most frequently reported adverse reactions have included lightheadedness, dizziness, sedation, nausea, vomiting, and sweating.
+Frequency not reported: Respiratory depression, respiratory arrest
+Frequency not reported: Serotonin syndrome, hyperexcitability, convulsions, weakness, headache, tremor, involuntary muscle movements (e.g.  muscle twitches, myoclonus), delirium, dizziness, drowsiness, fainting, neurotoxicity, lightheadedness
+Therapeutic doses of this drug have precipitated unpredictable, severe, and occasionally fatal reactions in patients who have received MAOIs within 14 days of receiving this drug.  The mechanism of this reaction is unclear, but may be related to preexisting hyperphenylalaninemia.  Reactions have included coma, severe respiratory depression, cyanosis, and hypotension.  IV hydrocortisone or prednisolone have been used to treat severe reactions, with IV chlorpromazine used in cases exhibiting hypertension and hyperpyrexia.  The usefulness and safety of narcotic antagonists is unknown.  Neurotoxicity associated with increased concentrations of active metabolite have occurred.  Reactions have included a range of excitatory effects including tremor, hallucinations, seizures, coma, and mood changes.
+Frequency not reported: Mood changes (e.g.  euphoria, dysphoria), agitation, transient hallucinations and disorientation, confusion, dependence, anxiety, nervousness
+Frequency not reported: Severe hypotension, orthostatic hypotension, syncope, shock, cardiac arrest, circulatory depression, flushing, tachycardia, bradycardia, palpitations, hypotension, hypertension
+Frequency not reported: Wheel and flare over the vein with IV injection, hypersensitivity reactions, anaphylaxis, histamine release leading to hypotension and/or tachycardia, sweating, flushing, and pruritus
+Frequency not reported: Sensory-motor paralysis, phlebitis, injection site pain, local tissue irritation and induration following subcutaneous injection
+Inadvertent injection about a nerve trunk may result in sensory-motor paralysis which is usually transitory.  Phlebitis has been reported following IV injection.
+Frequency not reported: Vertigo, hypothermia
+Frequency not reported: Urinary retention, micturition difficulties, decreased libido, renal colic, anuria
+Frequency not reported: Dry mouth, constipation, biliary tract spasm, nausea, vomiting, decreased gastric emptying
+Frequency not reported: Pruritus, urticaria, other skin rashes, sweating
+Frequency not reported: Muscle twitching, muscle rigidity
+Frequency not reported: Adrenal insufficiency, androgen deficiency
+Frequency not reported: Biliary spasm, choledochoduodenal sphincter spasm
+Frequency not reported: Antidiuretic effect
+Frequency not reported: Visual disturbances, dry eye, pupillary constriction, miosis, decreased corneal reflex, mydriasis
+Frequency not reported: Anorexia
 injection solution
-
 Blurred vision
 chest pain or discomfort
 cold, clammy skin
@@ -68,22 +54,16 @@ trembling or shaking of the hands or feet
 unusual tiredness or weakness
 upper abdominal or stomach pain
 wheezing
-
-
 Bluish color of the fingernails, lips, skin, palms, or nail beds
 change in consciousness
 decreased awareness or responsiveness
 loss of consciousness
 severe sleepiness
 sleepiness or unusual drowsiness
-
-
 Drowsiness
 nausea
 relaxed and calm
 vomiting
-
-
 Anxiety
 blurred or loss of vision
 confusion about identity, place, and time
@@ -106,4 +86,3 @@ seeing, hearing, or feeling things that are not there
 trouble with sleeping
 tunnel vision
 weakness
-

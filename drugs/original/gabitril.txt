@@ -1,41 +1,24 @@
-Generic Name: tiagabine
-Applies to tiagabine: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by tiagabine (the active ingredient contained in Gabitril). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking tiagabine, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with tiagabine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to tiagabine: oral tablet
-Nervous system side effects including dizziness (28% to 31%), asthenia (18% to 23%), tremor (14% to 21%), somnolence (19% to 21%), nervousness (11% to 14%), difficulty with concentration/attention (7% to 14%), ataxia (6% to 9%), depression (1% to 7%), insomnia (5% to 6%), abnormal gait (5%), and hostility (5%) have been reported.  From the launch of tiagabine (the active ingredient contained in Gabitril) in 1997 through the end of 2004, fifty-nine postmarketing reports of seizures in patients without a history of epilepsy have been reported.  A case of transient athetosis induced by tiagabine has also been reported.[Ref]
-In patients experiencing incapacitating generalized weakness, the weakness resolved in all cases after either discontinuation or a reduction in tiagabine (the active ingredient contained in Gabitril) dosage.[Ref]
-General side effects including accidental injury (15% to 21%), infection (10% to 19%), flu syndrome (6% to 9%), pain (2% to 7%), and abdominal pain (5% to 7%) have been reported.  Moderately severe to incapacitating generalized weakness (1%) has also been reported.[Ref]
-Gastrointestinal side effects including diarrhea (2% to 10%), nausea, vomiting, and mouth ulceration have been reported.[Ref]
-Studies have reported that when dogs received a single dose of radiolabeled tiagabine (the active ingredient contained in Gabitril)  residual binding in the retina and uvea was present after 3 weeks.  While no specific recommendations for periodic ophthalmic monitoring are recommended, prescribers should be aware of the possibility of long term ophthalmic effects.[Ref]
-Ocular side effects including amblyopia (4% to 9% ) have been reported.[Ref]
-Respiratory side effects including pharyngitis (7% to 8%) have been reported.[Ref]
-Hematologic side effects including ecchymosis have been reported in up to 6% of patients receiving tiagabine (the active ingredient contained in Gabitril) therapy.  A case of thrombocytopenia suspected of being secondary to tiagabine has also been reported.[Ref]
-Musculoskeletal side effects including myalgia (2% to 5%) have been reported.  Three cases of transient dystonias have also been reported.[Ref]
-Genitourinary side effects including urinary tract infection have been reported in up to 5% of patients on tiagabine (the active ingredient contained in Gabitril) therapy.[Ref]
-A definite correlation between tiagabine (the active ingredient contained in Gabitril) and any of the rashes was not made.[Ref]
-Dermatologic side effects including four cases of serious rashes have been reported.  Two of the rashes were maculopapular, one case was vesiculobullous, and the last was diagnosed as Stevens-Johnson Syndrome.[Ref]
-1. "Product Information. Gabitril (tiagabine)." Abbott Pharmaceutical, Abbott Park, IL. 
-2. Tombini M,  Pacifici L,  Passarelli F,  Rossini PM "Transient athetosis induced by tiagabine." Epilepsia 47 (2006): 799-800
-3. Willert C, Englisch S, Schlesinger S, Runge U "Possible drug-induced thrombocytopenia secondary to tiagabine." Neurology 52 (1999): 889
-4. Wolanczyk T,  Grabowska-Grzyb A "Transient dystonias in three patients treated with tiagabine." Epilepsia 42 (2001): 944-6
-Not all side effects for Gabitril may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Nervous system side effects including dizziness (28% to 31%), asthenia (18% to 23%), tremor (14% to 21%), somnolence (19% to 21%), nervousness (11% to 14%), difficulty with concentration/attention (7% to 14%), ataxia (6% to 9%), depression (1% to 7%), insomnia (5% to 6%), abnormal gait (5%), and hostility (5%) have been reported.  From the launch of tiagabine (the active ingredient contained in Gabitril) in 1997 through the end of 2004, fifty-nine postmarketing reports of seizures in patients without a history of epilepsy have been reported.  A case of transient athetosis induced by tiagabine has also been reported.
+In patients experiencing incapacitating generalized weakness, the weakness resolved in all cases after either discontinuation or a reduction in tiagabine (the active ingredient contained in Gabitril) dosage.
+General side effects including accidental injury (15% to 21%), infection (10% to 19%), flu syndrome (6% to 9%), pain (2% to 7%), and abdominal pain (5% to 7%) have been reported.  Moderately severe to incapacitating generalized weakness (1%) has also been reported.
+Gastrointestinal side effects including diarrhea (2% to 10%), nausea, vomiting, and mouth ulceration have been reported.
+Studies have reported that when dogs received a single dose of radiolabeled tiagabine (the active ingredient contained in Gabitril)  residual binding in the retina and uvea was present after 3 weeks.  While no specific recommendations for periodic ophthalmic monitoring are recommended, prescribers should be aware of the possibility of long term ophthalmic effects.
+Ocular side effects including amblyopia (4% to 9% ) have been reported.
+Respiratory side effects including pharyngitis (7% to 8%) have been reported.
+Hematologic side effects including ecchymosis have been reported in up to 6% of patients receiving tiagabine (the active ingredient contained in Gabitril) therapy.  A case of thrombocytopenia suspected of being secondary to tiagabine has also been reported.
+Musculoskeletal side effects including myalgia (2% to 5%) have been reported.  Three cases of transient dystonias have also been reported.
+Genitourinary side effects including urinary tract infection have been reported in up to 5% of patients on tiagabine (the active ingredient contained in Gabitril) therapy.
+A definite correlation between tiagabine (the active ingredient contained in Gabitril) and any of the rashes was not made.
+Dermatologic side effects including four cases of serious rashes have been reported.  Two of the rashes were maculopapular, one case was vesiculobullous, and the last was diagnosed as Stevens-Johnson Syndrome.
 Blue or purple spots on skin
 difficulty in concentrating or paying attention
-
-
 Burning, numbness, or tingling sensations
  clumsiness or unsteadiness
 confusion
 itching
 mental depression
 speech or language problems
-
-
 Agitation
 bloody or cloudy urine
 burning, pain, or difficulty in urinating
@@ -47,8 +30,6 @@ quick to react or overreact emotionally
  rash
 uncontrolled back-and-forth and/or rolling eye movements
 walking in unusual manner
-
-
 Agitation (severe)
 clumsiness or unsteadiness (severe)
 coma
@@ -60,8 +41,6 @@ severe muscle twitching or jerking
  sluggishness
 speech problems (severe)
 weakness
-
-
 Chills
 diarrhea
  dizziness
@@ -74,8 +53,6 @@ nervousness
 tremor
 unusual tiredness or weakness
 vomiting
-
-
 Abdominal pain
 flushing
 impaired vision
@@ -86,4 +63,3 @@ muscle weakness
  nausea
 pain
 trouble in sleeping
-

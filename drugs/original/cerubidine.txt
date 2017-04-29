@@ -1,71 +1,21 @@
-Generic Name: daunorubicin
-Applies to daunorubicin: intravenous powder for solution, intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by daunorubicin (the active ingredient contained in Cerubidine). In the event that any of these side effects do occur, they may require medical attention.
 Also, because of the way these medicines act on the body, there is a chance that they might cause other unwanted effects that may not occur until months or years after the medicine is used. These delayed effects may include certain types of cancer, such as leukemia. Discuss these possible effects with your doctor.
-You should check with your doctor immediately if any of these side effects occur when taking daunorubicin:
 If any of the following side effects occur while taking daunorubicin, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with daunorubicin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
 Daunorubicin causes the urine to turn reddish in color, which may stain clothes. This is not blood. It is perfectly normal and lasts for only 1 or 2 days after each dose is given.
 This medicine often causes a temporary and total loss of hair. After treatment with daunorubicin has ended, normal hair growth should return.
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention. If you notice any of the following side effects check with your doctor immediately:
-
-
-Applies to daunorubicin: intravenous powder for injection, intravenous solution
-In general, two main dose-limiting toxicities have been reported: myelosuppression and cumulative cardiotoxicity.  Acute febrile drug reactions have occurred in up to 50% of patients (probably represent reactions to histamine release), but are not generally observed with steroid and other premedications.[Ref]
-The main metabolite, daunorubicinol, has only approximately one tenth the toxicity of the parent compound.[Ref]
-Hematologic side effects can be expected after therapeutic doses.  Daunorubicin (the active ingredient contained in Cerubidine) is a potent bone marrow suppressant, and can cause significant reductions in all bone marrow cell lines for one to two weeks after therapy.  Persistent, severe myelosuppression may result in superinfection, hemorrhage, and/or death.[Ref]
-Cardiovascular side effects usually present as congestive heart failure, especially after total doses of 550 mg/m2 (400 mg/m2 if there is a history of radiation therapy that included the heart or the area around it).  Large retrospective studies have shown that the incidence of heart failure averages 1% to 6% and 14% after cumulative doses of 600 and 1,050 mg/m2, respectively.  Daunorubicin-induced heart failure can present months to years after termination of therapy.  Early effects of anthracyclines include pericarditis-myocarditis (which can rarely affect patients without a history of cardiac disease and which carries a high mortality rate of about 20%), left ventricular dysfunction (which may lead to clinically significant heart failure in patients with limited cardiac reserve), and arrhythmias, the most common of which is sinus tachycardia (usually asymptomatic and transient).  Isolated cases of symptomatic supraventricular tachycardia, heart block, and ventricular arrhythmias have been reported.[Ref]
-While total doses may need to be decreased in patients with previous or concomitant therapy with any potentially cardiotoxic drugs or related compounds such as doxorubicin, there is no reliable method for predicting which patients will develop heart failure.  However, a decrease of at least 30% in the QRS voltage in the limb leads of the ECG, nonspecific ST-T wave changes, or a significant decrease in systolic ejection fraction (MUGA scanning) are signs that have been most commonly associated with cardiotoxicity.Early clinical detection of heart failure appears to be essential for successful treatment with digitalis, diuretics, sodium restriction, and bed rest.[Ref]
-Dermatologic side effects have included reversible alopecia (common), urticaria, chemical thrombophlebitis, and local necrosis (in cases of extravasation).  Hyperpigmentation of skin and nails and rare cases of anaphylactic reactions have been reported.  One case of generalized hyperpigmentation which involved many sun-protected areas has also been reported.[Ref]
-Gastrointestinal side effects including upset stomach, nausea, or vomiting (all usually mild) have been reported to occur in approximately 50% of patients.  Diarrhea is rare.  Stomatitis or mucositis may occur in up to 40% of patients 3 to 7 days after administration.[Ref]
-Intramuscular or subcutaneous administration is NEVER recommended.[Ref]
-Local side effects including local tissue inflammation, thrombophlebitis, and necrosis following IV site extravasation have been reported.[Ref]
-Hypersensitivity side effects have rarely been reported.  They have included fever, chills, rash, fulminant hyperpyrexia, and general anaphylaxis.[Ref]
-Hepatic side effects including serum transaminase and bilirubin concentration elevations have been transiently observed.[Ref]
-Renal side effects including new or worsened renal insufficiency probably associated with hyperuricemia and/or dehydration have been rarely reported in large clinical trials.  Nephrotic syndrome has been associated with the use of daunorubicin (the active ingredient contained in Cerubidine) in patients with acute myelogenous leukemias.[Ref]
-Genitourinary side effects including a red-orange discoloration of the urine have been reported.[Ref]
-1. Benjamin RS "Clinical pharmacology of daunorubicin." Cancer Treat Rep 65 (1981): 109-10
-2. Burgess MA, Garson OM, Gruchy GC de "Daunorubicin in the treatment of adult acute leukaemia." Med J Aust 1 (1970): 629-35
-3. Mortensen ME, Cecalupo AJ, Lo WD, Egorin MJ, Batley R "Inadvertent intrathecal injection of daunorubicin with fatal outcome." Med Pediatr Oncol 20 (1992): 249-53
-4. Ma DD, Isbister JP "Cytotoxic-induced fulminant hyperpyrexia." Cancer 45 (1980): 2249-51
-5. "Product Information. Cerubidine (daunorubicin)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-6. Lippman M, Zager R, Henderson ES "High dose daunorubicin (NSC-83142) in the treatment of advanced acute myelogenous leukemia." Cancer Chemother Rep 56 (1972): 755-60
-7. Woodcock TM, Allegra JC, Richman SP, Lalley K, Kubota TT, Blumenreich MS, Gentile P, Jones M, Seeger J "Pharmacology and phase I clinical studies of daunorubicin in patients with advanced malignancies." Semin Oncol 11 (4 Suppl) (1984): 28-32
-8. Samuels LD, Newton WA Jr, Heyn R "Daunorubicin therapy in advanced neuroblastoma." Cancer 27 (1971): 831-4
-9. Weil M, Glidewell OJ, Jacquillat C, Levy R, Serpick AA, Wiernik PH, Cuttner J, Hoogstraten B, Wasserman L, Ellison RR, Gailani S, Brunner K "Daunorubicin in the therapy of acute granulocytic leukemia." Cancer Res 33 (1973): 921-8
-10. Bloomfield CD, Brunning RD, Kennedy BJ "Daunorubicin therapy in adult acute lymphatic leukemia." Cancer 30 (1972): 47-55
-11. Bornstein RS, Theologides A, Kennedy BJ "Daunorubicine in acute myelogenous leukemia in adults." JAMA 207 (1969): 1301-6
-12. Buja LM, Ferrans VJ, Mayer RJ, Roberts WC, Henderson ES "Cardiac ultrastructural changes induced by daunorubicin therapy." Cancer 32 (1973): 771-88
-13. Bristow MR, Billingham ME, Mason JW, Daniels JR "Clinical spectrum of anthracycline antibiotic cardiotoxicity." Cancer Treat Rep 62 (1978): 873-9
-14. Kajihara H, Yokozaki H, Yamahara M, Kadomoto Y, Tahara E "Anthracycline induced myocardial damage. An analysis of 16 autopsy cases." Pathol Res Pract 181 (1986): 434-41
-15. Kindman LA, Almenoff JS, Narurkar VA, Blake K "Daunorubicin, amsacrine, and sinus arrest." West J Med 154 (1991): 466-7
-16. Wilcox RG, James PD, Toghill PJ "Endomyocardial fibrosis associated with daunorubicin therapy." Br Heart J 38 (1976): 860-3
-17. "Daunorubicin and the heart." Br Med J 4 (1974): 431-2
-18. Singal PK, Iliskovic N "Current concepts: Doxorubicin-induced cardiomyopathy." N Engl J Med 339 (1998): 900-5
-19. Mhatre R, Herman E, Huidobro A, Waravdekar V "The possible relationship between metabolism and cardiac toxicity of duanomycin and related compounds." J Pharmacol Exp Ther 178 (1971): 216-22
-20. Ainger LE, Bushore J, Johnson WW, Ito J "Daunomycin: a cardiotoxic agent." J Natl Med Assoc 63 (1971): 261-7
-21. Harrison DT, Sanders LA "Letter: Pericarditis in a case of early daunorubicin cardiomyopathy." Ann Intern Med 85 (1976): 339-41
-22. Von Hoff DD, Rozencweig M, Layard M, Slavik M, Muggia FM "Daunomycin-induced cardiotoxicity in children and adults. A review of 110 cases." Am J Med 62 (1977): 200-8
-23. Ferrans VJ "Overview of cardiac pathology in relation to anthracycline cardiotoxicity." Cancer Treat Rep 62 (1978): 955-61
-24. Bethell H, Grace AA, Hall JA, Petch MC, Schofield PM "Bradycardia due to anthracyclines." Lancet 340 (1992): 858
-25. Von Hoff DD, Layard M "Risk factors for development of daunorubicin cardiotoxicity." Cancer Treat Rep 65 Suppl 4 (1981): 19-23
-26. Malhotra OP, Talwar KK, Chopra P, Kumar R "Erythroleukaemia and daunorubicin-induced cardiotoxicity in a young boy." Br J Clin Pract 44 (1990): 633-4
-27. Al-Ismail SA, Parry DH, Whittaker JA "Anthracycline cardiotoxicity and acute myelogenous leukaemia." Br Med J 1 (1977): 815
-28. "Adriamycin and the heart." Lancet 1 (1974): 1325
-29. Kelly TM, Fishman LM, Lessner HE "Hyperpigmentation with daunorubicin therapy." Arch Dermatol 120 (1984): 262-3
-30. Dragon LH, Braine HG "Necrosis of the hand after daunorubicin infusion distal to an arteriovenous fistula." Ann Intern Med 91 (1979): 58-9
-31. deMarinis M, Hendricks A, Stoltzner G "Nail pigmentation with daunorubicin therapy." Ann Intern Med 89 (1978): 516-7
-32. Anderson LL, Thomas DE, Berger TG, Vukelja SJ "Cutaneous pigmentation after daunorubicin chemotherapy." J Am Acad Dermatol 26 (1992): 255-6
-33. Kroumpouzos G,  Travers R,  Allan A "Generalized hyperpigmentation with daunorubicin chemotherapy." J Am Acad Dermatol 46(2 Pt 2) (2002): S1-3
-34. Freeman AI "Clinical note: allergic reaction to daunomycin (NSC-82151)." Cancer Chemother Rep 54 (1970): 475-6
-35. Reich SD, Bachur NR "Letter: Contact dermatitis associated with adriamycin (NSC-123127) and daunorubicin (NSC-82151)." Cancer Chemother Rep 59 (1975): 677-8
-36. Burke JF Jr, Laucius JF, Brodovsky HS, Soriano RZ "Doxorubicin hydrochloride-associated renal failure." Arch Intern Med 137 (1977): 385-8
-37. Morino N, Nojima Y, Mimura T, Hamasai K, Nakamoto T, Hirai H, Arai M, Matsuya S, Yazaki Y "Nephrotic syndrome developed in a patient with acute promyelocytic leukemia treated with daunomycin." Nephron 70 (1995): 374-5
-38. Thomson M, de Arriba G, Ordi J, Oliva H, Hernando L "Acute myelogenous leukemia treated with daunomycin associated with nephrotic syndrome." Nephron 51 (1989): 261-4
-39. Chu E,  DeVita VT Jr. "Physicians' Cancer Chemotherapy Drug Manual 2002." Sudbury, MA: Jones and Bartlett Publishers  (2002):
-40. "Multum Information Services, Inc. Expert Review Panel"  
-Not all side effects for Cerubidine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+In general, two main dose-limiting toxicities have been reported: myelosuppression and cumulative cardiotoxicity.  Acute febrile drug reactions have occurred in up to 50% of patients (probably represent reactions to histamine release), but are not generally observed with steroid and other premedications.
+The main metabolite, daunorubicinol, has only approximately one tenth the toxicity of the parent compound.
+Hematologic side effects can be expected after therapeutic doses.  Daunorubicin (the active ingredient contained in Cerubidine) is a potent bone marrow suppressant, and can cause significant reductions in all bone marrow cell lines for one to two weeks after therapy.  Persistent, severe myelosuppression may result in superinfection, hemorrhage, and/or death.
+Cardiovascular side effects usually present as congestive heart failure, especially after total doses of 550 mg/m2 (400 mg/m2 if there is a history of radiation therapy that included the heart or the area around it).  Large retrospective studies have shown that the incidence of heart failure averages 1% to 6% and 14% after cumulative doses of 600 and 1,050 mg/m2, respectively.  Daunorubicin-induced heart failure can present months to years after termination of therapy.  Early effects of anthracyclines include pericarditis-myocarditis (which can rarely affect patients without a history of cardiac disease and which carries a high mortality rate of about 20%), left ventricular dysfunction (which may lead to clinically significant heart failure in patients with limited cardiac reserve), and arrhythmias, the most common of which is sinus tachycardia (usually asymptomatic and transient).  Isolated cases of symptomatic supraventricular tachycardia, heart block, and ventricular arrhythmias have been reported.
+While total doses may need to be decreased in patients with previous or concomitant therapy with any potentially cardiotoxic drugs or related compounds such as doxorubicin, there is no reliable method for predicting which patients will develop heart failure.  However, a decrease of at least 30% in the QRS voltage in the limb leads of the ECG, nonspecific ST-T wave changes, or a significant decrease in systolic ejection fraction (MUGA scanning) are signs that have been most commonly associated with cardiotoxicity.Early clinical detection of heart failure appears to be essential for successful treatment with digitalis, diuretics, sodium restriction, and bed rest.
+Dermatologic side effects have included reversible alopecia (common), urticaria, chemical thrombophlebitis, and local necrosis (in cases of extravasation).  Hyperpigmentation of skin and nails and rare cases of anaphylactic reactions have been reported.  One case of generalized hyperpigmentation which involved many sun-protected areas has also been reported.
+Gastrointestinal side effects including upset stomach, nausea, or vomiting (all usually mild) have been reported to occur in approximately 50% of patients.  Diarrhea is rare.  Stomatitis or mucositis may occur in up to 40% of patients 3 to 7 days after administration.
+Intramuscular or subcutaneous administration is NEVER recommended.
+Local side effects including local tissue inflammation, thrombophlebitis, and necrosis following IV site extravasation have been reported.
+Hypersensitivity side effects have rarely been reported.  They have included fever, chills, rash, fulminant hyperpyrexia, and general anaphylaxis.
+Hepatic side effects including serum transaminase and bilirubin concentration elevations have been transiently observed.
+Renal side effects including new or worsened renal insufficiency probably associated with hyperuricemia and/or dehydration have been rarely reported in large clinical trials.  Nephrotic syndrome has been associated with the use of daunorubicin (the active ingredient contained in Cerubidine) in patients with acute myelogenous leukemias.
+Genitourinary side effects including a red-orange discoloration of the urine have been reported.
 Cough or hoarseness
 fever or chills 
 irregular heartbeat
@@ -74,31 +24,16 @@ pain at place of injection
 painful or difficult urination
  shortness of breath
 swelling of feet and lower legs 
-
-
 Black, tarry stools
 blood in urine or stools
 pinpoint red spots on skin
 unusual bleeding or bruising
-
-
 Sores in mouth and on lips
-
-
 Joint pain
-
-
 Skin rash or itching
-
-
 Nausea and vomiting
-
-
 Darkening or redness of skin
 diarrhea 
-
-
 Irregular heartbeat
 shortness of breath 
 swelling of feet and lower legs
-

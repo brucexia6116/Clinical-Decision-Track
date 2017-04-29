@@ -1,23 +1,12 @@
-Generic Name: gadobenate dimeglumine
-Applies to gadobenate dimeglumine: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by gadobenate dimeglumine (the active ingredient contained in Multihance). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking gadobenate dimeglumine, check with your doctor or nurse immediately:
-Some of the side effects that can occur with gadobenate dimeglumine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to gadobenate dimeglumine: intravenous solution
-Cardiovascular side effects have included hypertension, vasodilatation, and tachycardia.[Ref]
-Gastrointestinal side effects have included nausea, vomiting, and diarrhea.[Ref]
-Hematologic side effects have included anemia.[Ref]
-Nervous system side effects have included headache, paresthesia, and dizziness.[Ref]
-Dermatologic side effects have included rash.[Ref]
-General side effects have included taste perversion.[Ref]
-Local side effects have included pain and injection site reactions.[Ref]
+Cardiovascular side effects have included hypertension, vasodilatation, and tachycardia.
+Gastrointestinal side effects have included nausea, vomiting, and diarrhea.
+Hematologic side effects have included anemia.
+Nervous system side effects have included headache, paresthesia, and dizziness.
+Dermatologic side effects have included rash.
+General side effects have included taste perversion.
+Local side effects have included pain and injection site reactions.
 Hypersensitivity side effects have included anaphylactic and anaphylactoid reactions involving cardiovascular, respiratory and/or cutaneous manifestations which ranged from mild to severe.  Some patients experienced circulatory collapse and died.  In most cases, initial symptoms occurred within minutes of administration and resolved with prompt emergency treatment.
-1. "Product Information. Multihance (gadobenate dimeglumine)." Bracco Diagnostics Inc, Princeton, NJ. 
-Not all side effects for Multihance may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Abdominal or stomach pain
 anxiety
 back pain
@@ -88,12 +77,8 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 wheezing
 yellow eyes or skin
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 feeling hot
-
-
 Acid or sour stomach
 bad, unusual, or unpleasant (after) taste
 belching
@@ -132,4 +117,3 @@ swelling of the eyelid
 swollen joints
 tunnel vision
 vomiting
-

@@ -1,25 +1,11 @@
-Generic Name: nystatin
-Applies to nystatin: oral capsule, oral suspension, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by nystatin (the active ingredient contained in Mycostatin). In the event that any of these side effects do occur, they may require medical attention.
-Some of the side effects that can occur with nystatin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to nystatin: compounding powder, oral capsule, oral lozenge, oral suspension, oral tablet, topical cream, topical ointment, topical powder, vaginal tablet
-The most commonly reported side effects include oral irritation and sensitization.[Ref]
-Frequency not reported: Diarrhea, bloody diarrhea, nausea, vomiting, gastrointestinal upset/disturbances, oral irritation and sensitization[Ref]
-Frequency not reported: Rash, urticaria, Sevens-Johnson syndrome, generalized pustular eruptions[Ref]
-Frequency not reported: Delayed (type IV) hypersensitivity reactions[Ref]
-Frequency not reported: Tachycardia[Ref]
-Frequency not reported: Facial swelling[Ref]
-Frequency not reported: Bronchospasm[Ref]
-Frequency not reported: Non-specific myalgia[Ref]
-1. "Product Information. Mycostatin Pastilles (nystatin)." Ernest Jackson & Co., Ltd., Crediton, Devon, England,   . 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Product Information. Nystatin, USP from Extemporaneous Preparation of Oral Suspension (nystatin)." Paddock Laboratories Inc, Minneapolis, MN. 
-Not all side effects for Mycostatin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects include oral irritation and sensitization.
+Frequency not reported: Diarrhea, bloody diarrhea, nausea, vomiting, gastrointestinal upset/disturbances, oral irritation and sensitization
+Frequency not reported: Rash, urticaria, Sevens-Johnson syndrome, generalized pustular eruptions
+Frequency not reported: Delayed (type IV) hypersensitivity reactions
+Frequency not reported: Tachycardia
+Frequency not reported: Facial swelling
+Frequency not reported: Bronchospasm
+Frequency not reported: Non-specific myalgia
 Diarrhea
 nausea or vomiting
 stomach pain
-

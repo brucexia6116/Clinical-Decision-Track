@@ -1,28 +1,18 @@
-Generic Name: coagulation factor ix
 More frequent side effects include: dizziness, nausea, skin rash, and urticaria.  See below for a comprehensive list of adverse effects.
-Applies to coagulation factor ix: intravenous powder for solution
 As well as its needed effects, coagulation factor ix (the active ingredient contained in Rixubis) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking coagulation factor ix, check with your doctor or nurse immediately:
 Some coagulation factor ix side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to coagulation factor ix: intravenous kit, intravenous powder for injection
-Hypersensitivity side effects have included hypersensitivity reactions, including bronchospastic reactions and/or hypotension and anaphylaxis.[Ref]
-Hematologic side effects have included and the development of high-titer inhibitors necessitating alternative treatments to factor IX replacement therapy.[Ref]
-Gastrointestinal side effects have included nausea and vomiting.[Ref]
-Dermatologic side effects have included hives, rash, and flushing.[Ref]
-Local side effects have included Injection site reaction, Injection site pain, cellulitis at IV site, and phlebitis at IV site.[Ref]
-Nervous system side effects have included headache, dizziness, taste perversion (altered taste), shaking, and drowsiness.[Ref]
-Respiratory side effects have included dry cough, hypoxia, chest tightness, and dyspnea (respiratory distress)[Ref]
-General side effects have included fever.[Ref]
-Ocular side effects have included blurred vision.[Ref]
-Renal side effects have e included renal infarction.[Ref]
-1. "Product Information. Alphanine SD (coagulation factor IX)." Grifols Biologicals Inc, Los Angeles, CA. 
-2. "Product Information. Mononine (coagulation factor IX)." CSL Behring, King of Prussia, PA. 
-3. "Product Information. BeneFIX (coagulation factor IX)." Wyeth Laboratories, Philadelphia, PA. 
+Hypersensitivity side effects have included hypersensitivity reactions, including bronchospastic reactions and/or hypotension and anaphylaxis.
+Hematologic side effects have included and the development of high-titer inhibitors necessitating alternative treatments to factor IX replacement therapy.
+Gastrointestinal side effects have included nausea and vomiting.
+Dermatologic side effects have included hives, rash, and flushing.
+Local side effects have included Injection site reaction, Injection site pain, cellulitis at IV site, and phlebitis at IV site.
+Nervous system side effects have included headache, dizziness, taste perversion (altered taste), shaking, and drowsiness.
+Respiratory side effects have included dry cough, hypoxia, chest tightness, and dyspnea (respiratory distress)
+General side effects have included fever.
+Ocular side effects have included blurred vision.
+Renal side effects have e included renal infarction.
 It is possible that some side effects of Rixubis may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Anxiety
 blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -53,10 +43,7 @@ tightness in the chest
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 unusual tiredness or weakness
 vomiting
-
-
 Change in taste
 loss of taste
 headache
 pain in the arms or legs
-

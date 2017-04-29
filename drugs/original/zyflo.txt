@@ -1,44 +1,29 @@
-Generic Name: zileuton
 More frequent side effects include: dyspepsia.  See below for a comprehensive list of adverse effects.
-Applies to zileuton: oral tablet, oral tablet extended release
 As well as its needed effects, zileuton (the active ingredient contained in Zyflo) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking zileuton, check with your doctor immediately:
 Some zileuton side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to zileuton: oral tablet, oral tablet extended release
-The most commonly occurring adverse reactions are sinusitis, nausea, and pharyngolaryngeal pain.[Ref]
-Very common (10% or more): Headache (up to 24.6%)Common (1% to 10%): Hypertonia, nervousness, dizziness, somnolence[Ref]
-Common (1% to 10%): Pruritus, urticaria[Ref]
-Common (1% to 10%): Dyspepsia (8.2%), nausea (5.5%), diarrhea (5%), abdominal pain, upper abdominal pain, vomiting, constipation, flatulence[Ref]
-Common (1% to 10%): Urinary tract infection, vaginitis[Ref]
-Common (1% to 10%): Low white blood cell count (2.6%)[Ref]
-The WBC counts returned to normal or baseline following discontinuation of this drug.  The clinical significance of these findings is not known.[Ref]
-Common (1% to 10%): Hepatotoxicity, ALT elevations (1.8%)Postmarketing reports: Hepatic injury, including death, life-threatening liver injury with recovery, symptomatic jaundice, hyperbilirubinemia, and elevations of ALT more than 8 times ULN[Ref]
-The majority of ALT elevations (82%) were reported within the first 3 months of treatment and resolved within 21 days for most of these patients after discontinuation of the drug.  In the extended release group, the majority of ALT elevations (60%) occurred in the first month of treatment; in a few patients, the levels returned to less than 2 times ULN or normal within 9 and 12 days.The hepatic function enzyme elevations did not result in any cases of jaundice, development of chronic liver disease, or death in this clinical trial.  In patients who discontinued this drug, ALT levels dropped below 2 times ULN in approximately one month.[Ref]
-Common (1% to 10%): Hypersensitivity, rash[Ref]
-Common (1% to 10%): Lymphadenopathy[Ref]
-Common (1% to 10%): Myalgia (7%), arthralgia, neck pain/rigidity[Ref]
-Common (1% to 10%): Conjunctivitis[Ref]
-Common (1% to 10%): Pain (7.8%), asthenia (3.8%), accidental injury (3.4%), fever, malaise[Ref]
-Common (1% to 10%): InsomniaPostmarketing reports: Sleep disorders, behavior changes[Ref]
-Common (1% to 10%): Upper respiratory tract infections (9%), sinusitis (6.5%), pharyngolaryngeal pain (5%), chest pain[Ref]
-1. "Product Information. Zyflo CR (zileuton)." Cornerstone Therapeutics, Cary, NC. 
-2. "Product Information. Zyflo (zileuton)." Abbott Pharmaceutical, Abbott Park, IL. 
-3. "Product Information. Zylo Filmtab (zileuton)." Abbott Pharmaceutical, Abbott Park, IL. 
-4. Weinblatt ME, Kremer JM, Coblyn JS, Helfgott S, Maier AL, Petrillo G, Henson B, Rubin P, Sperling R "Zileuton, a 5-lipoxygenase inhibitor in rheumatoid arthritis." J Rheumatol 19 (1992): 1537-41
-5. Hackshaw KV, Shi Y, Brandwein SR, Jones K, Westcott JY "A pilot study of zileuton, a novel selective 5-lipoxygenase inhibitor, in patients with systemic lupus erythematosus." J Rheumatol 22 (1995): 462-8
-6. Israel E, Rubin P, Kemp JP, Grossman J, Pierson W, Siegel SC, Tinkelman D, Murray JJ, Busse W, Segal AT, et al "The effect of inhibition of 5-lipoxygenase by zileuton in mild-to- moderate asthma." Ann Intern Med 119 (1993): 1059-66
-7. Israel E, Cohn J, Dube L, Drazen JM "Effect of treatment with zileuton, a 5-lipoxygenase inhibitor, in patients with asthma. A randomized controlled trial. Zileuton Clinical Trial Group." JAMA 275 (1996): 931-6
+The most commonly occurring adverse reactions are sinusitis, nausea, and pharyngolaryngeal pain.
+Very common (10% or more): Headache (up to 24.6%)Common (1% to 10%): Hypertonia, nervousness, dizziness, somnolence
+Common (1% to 10%): Pruritus, urticaria
+Common (1% to 10%): Dyspepsia (8.2%), nausea (5.5%), diarrhea (5%), abdominal pain, upper abdominal pain, vomiting, constipation, flatulence
+Common (1% to 10%): Urinary tract infection, vaginitis
+Common (1% to 10%): Low white blood cell count (2.6%)
+The WBC counts returned to normal or baseline following discontinuation of this drug.  The clinical significance of these findings is not known.
+Common (1% to 10%): Hepatotoxicity, ALT elevations (1.8%)Postmarketing reports: Hepatic injury, including death, life-threatening liver injury with recovery, symptomatic jaundice, hyperbilirubinemia, and elevations of ALT more than 8 times ULN
+The majority of ALT elevations (82%) were reported within the first 3 months of treatment and resolved within 21 days for most of these patients after discontinuation of the drug.  In the extended release group, the majority of ALT elevations (60%) occurred in the first month of treatment; in a few patients, the levels returned to less than 2 times ULN or normal within 9 and 12 days.The hepatic function enzyme elevations did not result in any cases of jaundice, development of chronic liver disease, or death in this clinical trial.  In patients who discontinued this drug, ALT levels dropped below 2 times ULN in approximately one month.
+Common (1% to 10%): Hypersensitivity, rash
+Common (1% to 10%): Lymphadenopathy
+Common (1% to 10%): Myalgia (7%), arthralgia, neck pain/rigidity
+Common (1% to 10%): Conjunctivitis
+Common (1% to 10%): Pain (7.8%), asthenia (3.8%), accidental injury (3.4%), fever, malaise
+Common (1% to 10%): InsomniaPostmarketing reports: Sleep disorders, behavior changes
+Common (1% to 10%): Upper respiratory tract infections (9%), sinusitis (6.5%), pharyngolaryngeal pain (5%), chest pain
 It is possible that some side effects of Zyflo may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Flu-like symptoms
 itching
 right upper stomach pain
 unusual tiredness or weakness
 yellow eyes or skin
-
-
 Attack, assault, or force
 attempts at killing oneself
 discouragement
@@ -60,8 +45,6 @@ trembling or shaking of the hands or feet
 trouble with concentrating
 trouble with sleeping
 unable to sleep
-
-
 Cough
 fever
 headache
@@ -71,9 +54,6 @@ stuffy or runny nose
 tightness of the chest or wheezing
 troubled breathing
 upset stomach
-
-
 Abdominal or stomach pain
 sore throat
 weakness
-

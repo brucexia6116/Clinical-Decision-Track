@@ -1,37 +1,23 @@
-Generic Name: interferon beta-1a
 Common side effects of Avonex include: flu-like symptoms, fever, headache, myalgia, nausea, and chills. Other side effects include: anemia.  See below for a comprehensive list of adverse effects.
-Applies to interferon beta-1a: kit, solution
-In addition to its needed effects, some unwanted effects may be caused by interferon beta-1a (the active ingredient contained in Avonex). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking interferon beta-1a:
-Some of the side effects that can occur with interferon beta-1a may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to interferon beta-1a: intramuscular kit, intramuscular powder for injection, subcutaneous kit, subcutaneous solution
-Influenza-like symptoms (e.g., myalgia, fever, chills, sweating, asthenia, headache, nausea) are the most common adverse reactions.[Ref]
-Very common (10% or more): Lymphopenia (14%), leukopenia (11%), neutropenia, thrombocytopenia, anemia Common (1% to 10%): Neutrophil count decreased, hematocrit decreased, blood potassium increased, blood urea nitrogen increasedUncommon (0.1% to 1%): Platelet count decreasedRare (Less than 0.1%): Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/hemolytic uremic syndrome, Frequency not reported: Pancytopenia[Ref]
-Very common (10% or more): Nausea (27%), diarrhea (17%), constipation (12%), vomiting (10%)Common (1% to 10%): Abdominal pain, toothacheFrequency not reported: Dry mouth, dyspepsia[Ref]
-Very common (10% or more): Skin rashes (25%), increased sweatingCommon (1% to 10%): Contusion, pruritus, erythematous rash, maculopapular rash, night sweatsUncommon (0.1% to 1%): Alopecia, allergic dermatitis, erythema, urticariaRare (0.01% to 0.1%): Skin ulceration/necrosis at the site of injection, Quincke's edema (angioedema), erythema multiforme, Stevens-Johnson syndrome Very rare (less than 0.01%): Calcified subcutaneous nodules, psoriasis, periungual and nail alterationsFrequency not reported: Rash vesicular[Ref]
-Uncommon (0.1% to 1%): Hypothyroidism, hyperthyroidism[Ref]
-Frequency not reported: Cardiomyopathy, congestive heart failure, palpitations, arrhythmia, tachycardia, vasodilatation, chest pain, pulmonary arterial hypertension (PAH) (sometimes reported up to several years after starting treatment)[Ref]
-Very common (10% or more): Urinary tract infection (19%), cystitis (11%)Frequency not reported: Metrorrhagia, menorrhagia, urinary incontinence, increase in the frequency of micturition[Ref]
-Very common (10% or more): Alanine aminotransferase increased (26%), aspartate aminotransferase increased (16%)Common (1% to 10%): Gamma-glutamyl-transferase increasedUncommon (0.1% to 1%): Hepatitis (with or without icterus)Rare (Less than 0.1%): Hepatic failure, autoimmune hepatitis Frequency not reported: Elevation of hepatic transaminases (SGPT and SGOT), bilirubinemia, jaundice[Ref]
-Rare (Less than 0.1%): Anaphylactic reactionsFrequency not reported: Other allergic reactions[Ref]
-Very common (10% or more): Influenza-like symptoms (49%)Frequency not reported: Systemic lupus erythematosus, anaphylactic reaction, anaphylactic shock, hypersensitivity reactions (angioedema, dyspnea, urticaria, rash, pruritic rash)[Ref]
-Very common (10% or more): Injection site erythema (62%), injection site pain (15%), injection site pruritus (13%), injection site bruisingCommon (1% to 10%): Injection site edema, injection site warmth, injection site hematoma, injection site rashUncommon (0.1% to 1%): Injection site infections (which could be severe)Rare (Less than 0.1%): Injection site cellulitis (which could be severe) Frequency not reported: Injection site abscess, injection site reaction, injection site inflammation, injection site necrosis, injection site bleeding[Ref]
-Very common (10% or more): Myalgia (19%), back pain (20%), pain in extremity (19%), arthralgia (16%), muscular weakness (12%), muscle spasms (10%)Common (1% to 10%): Muscle spasticity, muscle cramp, neck pain, arthralgia, muscle stiffness, musculoskeletal stiffnessRare (0.01% to 0.1%): Drug induced lupus erythematosus Frequency not reported: Arthritis[Ref]
-Very common (10% or more): Headache (67%), dizziness (16%), paresthesia (12%)Common (1% to 10%): HypoesthesiaUncommon (0.1% to 1%): Facial hypoesthesiaFrequency not reported: Neurological symptoms, syncope, hypertonia, seizures, migraine[Ref]
-Frequency not reported: Weight decreased, weight increased[Ref]
-Common (1% to 10%): Eye painUncommon (0.1% to 1%): Retinal vascular disorders (i.e.  retinopathy, cotton wool spots, obstruction of retinal artery or vein)Frequency not reported: Eye disorder, abnormal vision, xerophthalmia[Ref]
-Very common (10% or more): Pyrexia (45%), asthenia (24%), pain (23%), fever (20%), chills (19%)Common (1% to 10%): Fatigue, malaise, hyperthermia, vertigoFrequency not reported: Tachyphylaxis, sudden hearing loss, tinnitus (ototoxic effects resolved 7 to 14 days after discontinuation of the drug)[Ref]
-Common (1% to 10%): Depression/suicidal ideation, insomnia, somnolenceUncommon (0.1% to 1%): AnxietyFrequency not reported: Suicide attempt, suicide, psychosis, anxiety, confusion, emotional lability, anhedonia, psychotic thoughts, mood disturbances, hypersexuality, aggressive behavior, panic attacks[Ref]
-Very common (10% or more): Oropharyngeal pain (28%), nasopharyngitis (24%), upper respiratory tract infection (21%), cough (16%), sinusitis (14%)Common (1% to 10%): Rhinorrhea, bronchitisRare (0.01% to 0.1%): Dyspnea Frequency not reported: Pulmonary arterial hypertension[Ref]
-Rare (Less than 0.1%): Nephrotic syndrome, glomerulosclerosis[Ref]
-1. "Product Information. Rebif (interferon beta-1a)." Serono Laboratories Inc, Norwell, MA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Avonex (interferon beta-1a)." Biogen, Cambridge, MA. 
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Avonex may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Influenza-like symptoms (e.g., myalgia, fever, chills, sweating, asthenia, headache, nausea) are the most common adverse reactions.
+Very common (10% or more): Lymphopenia (14%), leukopenia (11%), neutropenia, thrombocytopenia, anemia Common (1% to 10%): Neutrophil count decreased, hematocrit decreased, blood potassium increased, blood urea nitrogen increasedUncommon (0.1% to 1%): Platelet count decreasedRare (Less than 0.1%): Thrombotic microangiopathy including thrombotic thrombocytopenic purpura/hemolytic uremic syndrome, Frequency not reported: Pancytopenia
+Very common (10% or more): Nausea (27%), diarrhea (17%), constipation (12%), vomiting (10%)Common (1% to 10%): Abdominal pain, toothacheFrequency not reported: Dry mouth, dyspepsia
+Very common (10% or more): Skin rashes (25%), increased sweatingCommon (1% to 10%): Contusion, pruritus, erythematous rash, maculopapular rash, night sweatsUncommon (0.1% to 1%): Alopecia, allergic dermatitis, erythema, urticariaRare (0.01% to 0.1%): Skin ulceration/necrosis at the site of injection, Quincke's edema (angioedema), erythema multiforme, Stevens-Johnson syndrome Very rare (less than 0.01%): Calcified subcutaneous nodules, psoriasis, periungual and nail alterationsFrequency not reported: Rash vesicular
+Uncommon (0.1% to 1%): Hypothyroidism, hyperthyroidism
+Frequency not reported: Cardiomyopathy, congestive heart failure, palpitations, arrhythmia, tachycardia, vasodilatation, chest pain, pulmonary arterial hypertension (PAH) (sometimes reported up to several years after starting treatment)
+Very common (10% or more): Urinary tract infection (19%), cystitis (11%)Frequency not reported: Metrorrhagia, menorrhagia, urinary incontinence, increase in the frequency of micturition
+Very common (10% or more): Alanine aminotransferase increased (26%), aspartate aminotransferase increased (16%)Common (1% to 10%): Gamma-glutamyl-transferase increasedUncommon (0.1% to 1%): Hepatitis (with or without icterus)Rare (Less than 0.1%): Hepatic failure, autoimmune hepatitis Frequency not reported: Elevation of hepatic transaminases (SGPT and SGOT), bilirubinemia, jaundice
+Rare (Less than 0.1%): Anaphylactic reactionsFrequency not reported: Other allergic reactions
+Very common (10% or more): Influenza-like symptoms (49%)Frequency not reported: Systemic lupus erythematosus, anaphylactic reaction, anaphylactic shock, hypersensitivity reactions (angioedema, dyspnea, urticaria, rash, pruritic rash)
+Very common (10% or more): Injection site erythema (62%), injection site pain (15%), injection site pruritus (13%), injection site bruisingCommon (1% to 10%): Injection site edema, injection site warmth, injection site hematoma, injection site rashUncommon (0.1% to 1%): Injection site infections (which could be severe)Rare (Less than 0.1%): Injection site cellulitis (which could be severe) Frequency not reported: Injection site abscess, injection site reaction, injection site inflammation, injection site necrosis, injection site bleeding
+Very common (10% or more): Myalgia (19%), back pain (20%), pain in extremity (19%), arthralgia (16%), muscular weakness (12%), muscle spasms (10%)Common (1% to 10%): Muscle spasticity, muscle cramp, neck pain, arthralgia, muscle stiffness, musculoskeletal stiffnessRare (0.01% to 0.1%): Drug induced lupus erythematosus Frequency not reported: Arthritis
+Very common (10% or more): Headache (67%), dizziness (16%), paresthesia (12%)Common (1% to 10%): HypoesthesiaUncommon (0.1% to 1%): Facial hypoesthesiaFrequency not reported: Neurological symptoms, syncope, hypertonia, seizures, migraine
+Frequency not reported: Weight decreased, weight increased
+Common (1% to 10%): Eye painUncommon (0.1% to 1%): Retinal vascular disorders (i.e.  retinopathy, cotton wool spots, obstruction of retinal artery or vein)Frequency not reported: Eye disorder, abnormal vision, xerophthalmia
+Very common (10% or more): Pyrexia (45%), asthenia (24%), pain (23%), fever (20%), chills (19%)Common (1% to 10%): Fatigue, malaise, hyperthermia, vertigoFrequency not reported: Tachyphylaxis, sudden hearing loss, tinnitus (ototoxic effects resolved 7 to 14 days after discontinuation of the drug)
+Common (1% to 10%): Depression/suicidal ideation, insomnia, somnolenceUncommon (0.1% to 1%): AnxietyFrequency not reported: Suicide attempt, suicide, psychosis, anxiety, confusion, emotional lability, anhedonia, psychotic thoughts, mood disturbances, hypersexuality, aggressive behavior, panic attacks
+Very common (10% or more): Oropharyngeal pain (28%), nasopharyngitis (24%), upper respiratory tract infection (21%), cough (16%), sinusitis (14%)Common (1% to 10%): Rhinorrhea, bronchitisRare (0.01% to 0.1%): Dyspnea Frequency not reported: Pulmonary arterial hypertension
+Rare (Less than 0.1%): Nephrotic syndrome, glomerulosclerosis
 Black, tarry stools
 chest pain
 chills
@@ -50,8 +36,6 @@ sores, ulcers, or white spots on the lips or in the mouth
 swollen glands
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 clumsiness or unsteadiness
 convulsions (seizures)
@@ -74,15 +58,11 @@ sore throat
 speech problems
 swelling of the face, lips, or eyelids
 troubled breathing
-
-
 Earache
 general feeling of discomfort or illness
 loss of appetite
 painful blisters on trunk of the body
 painful cold sores or blisters on the lips, nose, eyes, or genitals
-
-
 Bleeding gums
 blood in the urine or stools
 bloody nose
@@ -126,13 +106,8 @@ tightness in the throat
 upper right abdominal or stomach pain or tenderness
 weight gain or loss
 yellow eyes and skin
-
-
 Heartburn
 indigestion
 sour stomach
-
-
 Hair loss
 trouble sleeping
-

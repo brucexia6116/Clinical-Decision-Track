@@ -1,36 +1,16 @@
-Generic Name: colestipol
-Applies to colestipol: oral powder for suspension, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by colestipol (the active ingredient contained in Colestid). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking colestipol:
 If any of the following side effects occur while taking colestipol, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with colestipol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to colestipol: oral granule for reconstitution, oral tablet
-Gastrointestinal side effects occur in the majority of patients.  In one study, up to 68% of patients complained of gastrointestinal side effects.  Constipation is most common and can be severe. Intestinal obstruction is reported with another bile acid sequestrant; elderly and pediatric patients treated with colestipol (the active ingredient contained in Colestid) may be at risk for this as well.  Increases in fluid intake as well as dietary fiber may help to reduce the severity of constipation.  In general, gastrointestinal side effects tend to diminish with continued therapy.  If gastrointestinal side effects are significant, dosage reduction, even if temporary, may be beneficial.[Ref]
-Gastrointestinal side effects include constipation (10 to 28%), heartburn (17%), abdominal discomfort (11%), nausea (9%), belching, flatulence, vomiting, and diarrhea.  Peptic ulceration, gastrointestinal irritation and bleeding, cholecystitis, cholelithiasis, and anorexia have been reported rarely.[Ref]
-Hematologic side effects include a single report of prolonged prothrombin time responsive to vitamin K supplementation.[Ref]
-Hepatic side effects include transient elevations in serum glutamic oxaloacetic transaminase and alkaline phosphatase.[Ref]
-Nervous system side effects include headache, dizziness, and, very rarely, anxiety, vertigo, and drowsiness.[Ref]
-Hypersensitivity reactions have included urticaria and dermatitis.[Ref]
-Musculoskeletal side effects include rare reports of muscle pain, joint pain, and arthritis.[Ref]
-Metabolic side effects include increases in serum phosphorus and chloride and decreases in serum sodium and potassium.  Colestipol (the active ingredient contained in Colestid) has been reported to decrease the absorption of thyroxine (T4).[Ref]
-1. "Product Information. Colestid (colestipol HCI)." Pharmacia and Upjohn, Kalamazoo, MI. 
-2. LaRosa J "Review of clinical studies of bile acid sequestrants for lowering plasma lipid levels." Cardiology 76 (1989): 55-61;
-3. Heel RC, Brogden RN, Pakes GE, Speight TM, Avery GS "Colestipol: a review of its pharmacological properties and therapeutic efficacy in patients with hypercholesterolaemia." Drugs 19 (1980): 161-80
-4. Surks MI, Sievert R "Drugs and thyroid function." N Engl J Med 333 (1995): 1688-94
-Not all side effects for Colestid may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal side effects occur in the majority of patients.  In one study, up to 68% of patients complained of gastrointestinal side effects.  Constipation is most common and can be severe. Intestinal obstruction is reported with another bile acid sequestrant; elderly and pediatric patients treated with colestipol (the active ingredient contained in Colestid) may be at risk for this as well.  Increases in fluid intake as well as dietary fiber may help to reduce the severity of constipation.  In general, gastrointestinal side effects tend to diminish with continued therapy.  If gastrointestinal side effects are significant, dosage reduction, even if temporary, may be beneficial.
+Gastrointestinal side effects include constipation (10 to 28%), heartburn (17%), abdominal discomfort (11%), nausea (9%), belching, flatulence, vomiting, and diarrhea.  Peptic ulceration, gastrointestinal irritation and bleeding, cholecystitis, cholelithiasis, and anorexia have been reported rarely.
+Hematologic side effects include a single report of prolonged prothrombin time responsive to vitamin K supplementation.
+Hepatic side effects include transient elevations in serum glutamic oxaloacetic transaminase and alkaline phosphatase.
+Nervous system side effects include headache, dizziness, and, very rarely, anxiety, vertigo, and drowsiness.
+Hypersensitivity reactions have included urticaria and dermatitis.
+Musculoskeletal side effects include rare reports of muscle pain, joint pain, and arthritis.
+Metabolic side effects include increases in serum phosphorus and chloride and decreases in serum sodium and potassium.  Colestipol (the active ingredient contained in Colestid) has been reported to decrease the absorption of thyroxine (T4).
 Black, tarry stools
 stomach pain (severe) with nausea and vomiting
-
-
 Constipation
-
-
 Loss of weight (sudden)
-
-
 Belching
 bloating
  diarrhea
@@ -38,4 +18,3 @@ dizziness
 headache 
 nausea or vomiting
 stomach pain
-

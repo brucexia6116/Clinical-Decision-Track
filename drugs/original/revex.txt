@@ -1,20 +1,12 @@
-Generic Name: nalmefene
-Applies to nalmefene: parenteral injection
 Side effects include:
 Nausea, vomiting, tachycardia, hypertension. 
-Applies to nalmefene: injectable solution
-Gastrointestinal side effects have occurred commonly, with nausea and vomiting observed in 18% and 9%, respectively, of treated patients.  Diarrhea and dry mouth have been reported in less than 1% of patients.[Ref]
-Cardiovascular adverse effects including tachycardia, hypertension, hypotension, vasodilation, bradycardia, and arrhythmia have been reported in 5% or fewer of treated patients.[Ref]
-Nervous system side effects including postoperative pain, dizziness, headache, fever, and chills have been reported in less than 5% of treated patients.  Somnolence, depression, agitation, nervousness, tremor, confusion, and myoclonus have been reported in less than 1% of patients.[Ref]
-Nalmefene administration may precipitate acute and extended withdrawal symptoms in opioid-dependent patients.[Ref]
-A 21-year-old male with no significant past medical history had decreased respirations following an exploratory laparotomy for presumed appendicitis.  The patient developed acute pulmonary edema after receiving 75 mcg nalmefene (the active ingredient contained in Revex) in 25 mcg increments over 10 minutes.  Clinical resolution of symptoms was prompt after supplemental oxygen and furosemide.  It took 36 hours for the chest X-ray to improve.[Ref]
-Respiratory side effects have included pharyngitis (less than 1%).  Pulmonary edema is an uncommon effect that has occurred with nalmefene administration.[Ref]
-Dermatologic side effects have infrequently included pruritus (less than 1%).[Ref]
-Genitourinary side effects have included rare reports of urinary retention (less than 1%).[Ref]
+Gastrointestinal side effects have occurred commonly, with nausea and vomiting observed in 18% and 9%, respectively, of treated patients.  Diarrhea and dry mouth have been reported in less than 1% of patients.
+Cardiovascular adverse effects including tachycardia, hypertension, hypotension, vasodilation, bradycardia, and arrhythmia have been reported in 5% or fewer of treated patients.
+Nervous system side effects including postoperative pain, dizziness, headache, fever, and chills have been reported in less than 5% of treated patients.  Somnolence, depression, agitation, nervousness, tremor, confusion, and myoclonus have been reported in less than 1% of patients.
+Nalmefene administration may precipitate acute and extended withdrawal symptoms in opioid-dependent patients.
+A 21-year-old male with no significant past medical history had decreased respirations following an exploratory laparotomy for presumed appendicitis.  The patient developed acute pulmonary edema after receiving 75 mcg nalmefene (the active ingredient contained in Revex) in 25 mcg increments over 10 minutes.  Clinical resolution of symptoms was prompt after supplemental oxygen and furosemide.  It took 36 hours for the chest X-ray to improve.
+Respiratory side effects have included pharyngitis (less than 1%).  Pulmonary edema is an uncommon effect that has occurred with nalmefene administration.
+Dermatologic side effects have infrequently included pruritus (less than 1%).
+Genitourinary side effects have included rare reports of urinary retention (less than 1%).
 Other side effects including fever (3%) and chills (1%) have been reported.
-1. "Product Information. Revex (nalmefene)." Ohmeda Pharmaceutical Products Division, Liberty Corner, NJ. 
-2. Rosen DA, Morris JL, Rosen KR, et al. "Nalmefene to prevent epidural narcotic side effects in pediatric patients: a pharmacokinetic and safety study." Pharmacotherapy 20 (2000): 745-9
-3. Barsan WG, Seger D, Danzl DF, Ling LJ, Bartlett R, Buncher R, Bryan C "Duration of antagonistic effects of nalmefene and naloxone in opiate- induced sedation for emergency department procedures." Am J Emerg Med 7 (1989): 155-61
-4. Kaplan JL, Marx JA, Calabro JJ, GinShaw SL, Spiller JD, Spivey WL, Gaddis GM, Zhao N, Harchelroad FP "Double-blind, randomized study of nalmefene and naloxone in emergency department patients with suspected narcotic overdose." Ann Emerg Med 34 (1999): 42-50
-5. Henderson CA, Reynolds JE "Acute pulmonary edema in a young male after intravenous nalmefene." Anesth Analg 84 (1997): 218-9
 It is possible that some side effects of Revex may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

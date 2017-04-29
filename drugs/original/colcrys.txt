@@ -1,42 +1,24 @@
-Generic Name: colchicine
 Common side effects of Colcrys include: diarrhea and nausea.  See below for a comprehensive list of adverse effects.
-Applies to colchicine: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by colchicine (the active ingredient contained in Colcrys). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking colchicine:
-
 If any of the following symptoms of overdose occur while taking colchicine, get emergency help immediately:
-
-Some of the side effects that can occur with colchicine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to colchicine: compounding powder, intravenous solution, oral capsule, oral tablet
-The most common adverse reactions have included gastrointestinal symptoms and pharyngolaryngeal pain.[Ref]
-Very common (10% or more): Diarrhea (23%)Common (1% to 10%): Abdominal cramping, abdominal pain, nausea, vomitingFrequency not reported: Lactose intolerance, gastrointestinal hemorrhage, paralytic ileus, stomatitis[Ref]
-Gastrointestinal events including diarrhea, nausea, vomiting, and abdominal pain are the most common adverse reactions reported with use of this drug.  These events are often the first signs of toxicity and may indicate the need for dose reduction or therapy discontinuation.[Ref]
-Rare (less than 0.1%): Agranulocytosis, thrombocytopenia, aplastic anemiaPostmarketing reports: Myelosuppression, disseminated intravascular coagulation[Ref]
-Rare (less than 0.1%): Peripheral neuritisFrequency not reported: Sensory motor neuropathy[Ref]
-Rare (less than 0.1%): Myopathy, rhabdomyolysisFrequency not reported: Elevated CPK, myotonia, muscle weakness, muscle pain[Ref]
-Very rare (less than 0.01%): Hypersensitivity including angioedema[Ref]
-Frequency not reported: Renal damage, bladder spasm, anuria, oliguria[Ref]
-Frequency not reported: elevated AST, elevated ALT, elevated alkaline phosphatase, hepatic damage[Ref]
-Common (1% to 10%): Pharyngolaryngeal painPostmarketing reports: Adult respiratory distress syndrome[Ref]
-There have been reports of corneal ulcers refractory to conventional treatment and delayed corneal wound healing following strabismus surgery in patients receiving colchicine (the active ingredient contained in Colcrys)   Discontinuation of colchicine therapy resulted in satisfactory wound healing within several days.[Ref]
-Frequency not reported: Delayed corneal wound healing[Ref]
-Rare (less than 0.1%): AlopeciaVery rare (less than 0.01%): Nonthrombocytopenic purpura rashes, rashes, urticaria, dermatoses, dermatitisFrequency not reported: Maculopapular rash[Ref]
-Frequency not reported: Hypothyroidism[Ref]
-Rare (less than 0.1%): Azoospermia, oligospermiaFrequency not reported: Amenorrhea, dysmenorrhea, hematuria[Ref]
-Frequency not reported: Loss of appetite[Ref]
-1. "Product Information. Colcrys (colchicine)." AR Scientific Inc, Philadelphia, PA. 
-2. "Product Information. Mitigare (colchicine)." Hikma Americas, Inc, Memphis, TN. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Colcrys may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions have included gastrointestinal symptoms and pharyngolaryngeal pain.
+Very common (10% or more): Diarrhea (23%)Common (1% to 10%): Abdominal cramping, abdominal pain, nausea, vomitingFrequency not reported: Lactose intolerance, gastrointestinal hemorrhage, paralytic ileus, stomatitis
+Gastrointestinal events including diarrhea, nausea, vomiting, and abdominal pain are the most common adverse reactions reported with use of this drug.  These events are often the first signs of toxicity and may indicate the need for dose reduction or therapy discontinuation.
+Rare (less than 0.1%): Agranulocytosis, thrombocytopenia, aplastic anemiaPostmarketing reports: Myelosuppression, disseminated intravascular coagulation
+Rare (less than 0.1%): Peripheral neuritisFrequency not reported: Sensory motor neuropathy
+Rare (less than 0.1%): Myopathy, rhabdomyolysisFrequency not reported: Elevated CPK, myotonia, muscle weakness, muscle pain
+Very rare (less than 0.01%): Hypersensitivity including angioedema
+Frequency not reported: Renal damage, bladder spasm, anuria, oliguria
+Frequency not reported: elevated AST, elevated ALT, elevated alkaline phosphatase, hepatic damage
+Common (1% to 10%): Pharyngolaryngeal painPostmarketing reports: Adult respiratory distress syndrome
+There have been reports of corneal ulcers refractory to conventional treatment and delayed corneal wound healing following strabismus surgery in patients receiving colchicine (the active ingredient contained in Colcrys)   Discontinuation of colchicine therapy resulted in satisfactory wound healing within several days.
+Frequency not reported: Delayed corneal wound healing
+Rare (less than 0.1%): AlopeciaVery rare (less than 0.01%): Nonthrombocytopenic purpura rashes, rashes, urticaria, dermatoses, dermatitisFrequency not reported: Maculopapular rash
+Frequency not reported: Hypothyroidism
+Rare (less than 0.1%): Azoospermia, oligospermiaFrequency not reported: Amenorrhea, dysmenorrhea, hematuria
+Frequency not reported: Loss of appetite
 Diarrhea
 nausea or vomiting
 stomach pain
-
-
 Black, tarry stools
 blood in the urine or stools
 burning, "crawling", or tingling feeling in the skin
@@ -57,8 +39,6 @@ swelling
 tenderness
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Bleeding
 burning feeling in the stomach, throat, or skin
 convulsions (seizures)
@@ -66,8 +46,5 @@ diarrhea (severe or bloody)
 fast, shallow breathing
 muscle weakness (very severe)
 nausea, stomach pain, or vomiting (severe)
-
-
 Hair loss
 loss of appetite
-

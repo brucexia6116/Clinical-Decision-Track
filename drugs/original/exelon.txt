@@ -1,51 +1,29 @@
-Generic Name: rivastigmine
 Common side effects of Exelon include: abdominal pain, diarrhea, dizziness, headache, nausea, vomiting, weight loss, and anorexia. Other side effects include: abdominal pain, anxiety, asthenia, depression, dizziness, drowsiness, dyspepsia, fatigue, headache, tremor, anorexia, diaphoresis, flatulence, and malaise.  See below for a comprehensive list of adverse effects.
-Applies to rivastigmine: oral capsule, oral solution
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by rivastigmine (the active ingredient contained in Exelon). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking rivastigmine:
-
 If any of the following symptoms of overdose occur while taking rivastigmine, get emergency help immediately:
-
-Some of the side effects that can occur with rivastigmine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to rivastigmine: oral capsule, oral solution, transdermal film extended release
-Common (1% to 10%): HyperhidrosisRare (less than 0.1%): Rash Frequency not reported: PruritusPostmarketing reports: Stevens-Johnson syndrome disseminated allergic dermatitis[Ref]
-Common (1% to 10%): Hypertension, bradycardiaUncommon (0.1% to 1%): HypotensionRare (0.01% to 0.1%): Angina pectoris Very rare (less than 0.01%): Cardiac arrhythmia (e.g., bradycardia, atrioventricular block, atrial fibrillation, tachycardia)Frequency not reported: Sick sinus syndrome[Ref]
-Very common (10% or more): Nausea (47%), vomiting (31%)diarrhea (19%), abdominal pain (13%)Common (1% to 10%): Dyspepsia, salivary hypersecretion, upper abdominal pain, flatulence, eructationRare (0.01% to 0.1%): Gastric and duodenal ulcers Very rare (less than 0.01%): GI hemorrhage, pancreatitisFrequency not reported: Some cases of severe vomiting were associated with esophageal rupture[Ref]
-Common (1% to 10%): Urinary incontinenceVery rare (less than 0.01%): Urinary tract infection[Ref]
-Frequency not reported: Elevated liver function tests, hepatitis[Ref]
-Very common (10% or more): Tremor (23%), dizziness (21%)Common (1% to 10%): Somnolence, bradykinesia, dyskinesia, cogwheel rigidity, hypokinesia, vertigo, psychomotor hyperactivity, gait disturbance, Parkinson gait, headacheUncommon (0.1% to 1%): Syncope, dystoniaRare (0.01% to 0.1%): Seizures[Ref]
-Common (1% to 10%): Insomnia, confusion, depression, anxiety, hallucination, agitation, restlessness, nightmares[Ref]
-Common (1% to 10%): Application site erythema, application site irritation (e.g., pruritus, rash)Postmarketing reports: Application site hypersensitivity, urticaria, blister, allergic dermatitis[Ref]
-Very common (10% or more): Anorexia (17%)Common (1% to 10%): Decreased appetiteFrequency not reported: Dehydration[Ref]
-Common (1% to 10%): Asthenia, weight loss, fatigue, malaise, fall[Ref]
-Common (1% to 10%): Rhinitis[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Monastero R,  Lopez G,  Mannino M,  Camarda R "Erythematous maculopapular eruption due to rivastigmine therapy." Am J Med 111 (2001): 583-4
-3. "Product Information. Exelon (rivastigmine)" Novartis Pharmaceuticals, East Hanover, NJ. 
-4. Kayrak M,  Yazici M,  Ayhan SS,  Koc F,  Ulgen MS "Complete atrioventricular block associated with rivastigmine therapy." Am J Health Syst Pharm 65 (2008): 1051-3
-Not all side effects for Exelon may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Common (1% to 10%): HyperhidrosisRare (less than 0.1%): Rash Frequency not reported: PruritusPostmarketing reports: Stevens-Johnson syndrome disseminated allergic dermatitis
+Common (1% to 10%): Hypertension, bradycardiaUncommon (0.1% to 1%): HypotensionRare (0.01% to 0.1%): Angina pectoris Very rare (less than 0.01%): Cardiac arrhythmia (e.g., bradycardia, atrioventricular block, atrial fibrillation, tachycardia)Frequency not reported: Sick sinus syndrome
+Very common (10% or more): Nausea (47%), vomiting (31%)diarrhea (19%), abdominal pain (13%)Common (1% to 10%): Dyspepsia, salivary hypersecretion, upper abdominal pain, flatulence, eructationRare (0.01% to 0.1%): Gastric and duodenal ulcers Very rare (less than 0.01%): GI hemorrhage, pancreatitisFrequency not reported: Some cases of severe vomiting were associated with esophageal rupture
+Common (1% to 10%): Urinary incontinenceVery rare (less than 0.01%): Urinary tract infection
+Frequency not reported: Elevated liver function tests, hepatitis
+Very common (10% or more): Tremor (23%), dizziness (21%)Common (1% to 10%): Somnolence, bradykinesia, dyskinesia, cogwheel rigidity, hypokinesia, vertigo, psychomotor hyperactivity, gait disturbance, Parkinson gait, headacheUncommon (0.1% to 1%): Syncope, dystoniaRare (0.01% to 0.1%): Seizures
+Common (1% to 10%): Insomnia, confusion, depression, anxiety, hallucination, agitation, restlessness, nightmares
+Common (1% to 10%): Application site erythema, application site irritation (e.g., pruritus, rash)Postmarketing reports: Application site hypersensitivity, urticaria, blister, allergic dermatitis
+Very common (10% or more): Anorexia (17%)Common (1% to 10%): Decreased appetiteFrequency not reported: Dehydration
+Common (1% to 10%): Asthenia, weight loss, fatigue, malaise, fall
+Common (1% to 10%): Rhinitis
 transdermal patch extended release
-
 Diarrhea
 indigestion
 loss of appetite
 loss of strength
 nausea and vomiting
 weight loss
-
-
 Fainting
-
-
 Aggression
 convulsions (seizures)
 trembling and shaking of the hands and fingers
 trouble urinating
-
-
 Bloody or black, tarry stools
 chest pain or discomfort
 constipation
@@ -65,8 +43,6 @@ twisting movements of the body
 uncontrolled movements, especially of the face, neck, and back
 unusual tiredness
 vomiting of blood or material that looks like coffee grounds
-
-
 Chest pain or discomfort
 increased sweating
 increased watering of the mouth
@@ -79,8 +55,6 @@ slow or irregular heartbeat
 trouble breathing
 unusual tiredness
 vomiting (severe)
-
-
 Abdominal or stomach pain or cramping
 bloated or full feeling
 confusion
@@ -89,8 +63,5 @@ headache
 mental depression
 seeing, hearing, or feeling things that are not there
 trouble sleeping
-
-
 General feeling of discomfort or illness
 runny nose
-

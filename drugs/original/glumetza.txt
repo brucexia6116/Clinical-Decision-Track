@@ -1,33 +1,17 @@
-Generic Name: metformin
-Applies to metformin: oral solution, oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by metformin (the active ingredient contained in Glumetza). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking metformin:
-Some of the side effects that can occur with metformin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to metformin: compounding powder, oral solution, oral tablet, oral tablet extended release
-Gastrointestinal events such as nausea, vomiting, diarrhea, abdominal pain, and loss of appetite have been frequently reported during therapy initiation and resolve spontaneously in most cases.  Adverse events in the pediatric population appear to be similar in nature and severity to that published in adults.[Ref]
-Common (1% to 10%): HypoglycemiaVery rare (less than 0.01%): Lactic acidosis[Ref]
-Very common (10% or more): Diarrhea (53.2%), nausea/vomiting (25.5%), flatulence (12.1%)Common (1% to 10%): Indigestion, abdominal discomfort, abnormal stools, dyspepsia, loss of appetite[Ref]
-Very rare (less than 0.01%): Subnormal vitamin B12 levels[Ref]
-Common (1% to 10%): Asthenia, chills, flu syndrome, accidental injury[Ref]
-Very rare (less than 0.01%): Liver function test abnormalities, hepatitis[Ref]
-Common (1% to 10%): Chest discomfort, flushing, palpitation[Ref]
-Common (1% to 10%): Rash, nail disorder, increased sweating Very rare (less than 0.01%): Erythema, pruritus, urticaria[Ref]
-Frequency not reported: Reduction in thyrotropin (TSH) levels[Ref]
-Very common (10% or more): Infection (20.5%)[Ref]
-Common (1% to 10%): Myalgia[Ref]
-Common (1% to 10%): Lightheadedness, taste disturbances[Ref]
-Common (1% to 10%): Headache[Ref]
-Common (1% to 10%): Rhinitis[Ref]
-1. "Product Information. Glucophage (metformin)." Bristol-Myers Squibb, Princeton, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Fortamet (metFORMIN)." Physicians Total Care, Tulsa, OK. 
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
-5. "Product Information. Glumetza (metFORMIN)." Biovail Pharmaceuticals Canada, Mississauga, IA. 
-6. "Product Information. Riomet (metFORMIN)." Ranbaxy Pharmaceuticals, Jacksonville, FL. 
-Not all side effects for Glumetza may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal events such as nausea, vomiting, diarrhea, abdominal pain, and loss of appetite have been frequently reported during therapy initiation and resolve spontaneously in most cases.  Adverse events in the pediatric population appear to be similar in nature and severity to that published in adults.
+Common (1% to 10%): HypoglycemiaVery rare (less than 0.01%): Lactic acidosis
+Very common (10% or more): Diarrhea (53.2%), nausea/vomiting (25.5%), flatulence (12.1%)Common (1% to 10%): Indigestion, abdominal discomfort, abnormal stools, dyspepsia, loss of appetite
+Very rare (less than 0.01%): Subnormal vitamin B12 levels
+Common (1% to 10%): Asthenia, chills, flu syndrome, accidental injury
+Very rare (less than 0.01%): Liver function test abnormalities, hepatitis
+Common (1% to 10%): Chest discomfort, flushing, palpitation
+Common (1% to 10%): Rash, nail disorder, increased sweating Very rare (less than 0.01%): Erythema, pruritus, urticaria
+Frequency not reported: Reduction in thyrotropin (TSH) levels
+Very common (10% or more): Infection (20.5%)
+Common (1% to 10%): Myalgia
+Common (1% to 10%): Lightheadedness, taste disturbances
+Common (1% to 10%): Headache
+Common (1% to 10%): Rhinitis
 Abdominal or stomach discomfort
 cough or hoarseness
 decreased appetite
@@ -39,8 +23,6 @@ lower back or side pain
 muscle pain or cramping
 painful or difficult urination
 sleepiness
-
-
 Anxiety
 blurred vision
 chest discomfort
@@ -67,16 +49,12 @@ slurred speech
 tightness in the chest
 unusual tiredness or weakness
 wheezing
-
-
 Behavior change similar to being drunk
 difficulty with concentrating
 drowsiness
 lack or loss of strength
 restless sleep
 unusual sleepiness
-
-
 Acid or sour stomach
 belching
 bloated
@@ -91,8 +69,6 @@ stomachache
 stomach upset or pain
 vomiting
 weight loss
-
-
 Abnormal stools
 bad, unusual, or unpleasant (after) taste
 change in taste
@@ -105,4 +81,3 @@ runny nose
 sneezing
 stuffy nose
 swollen joints
-

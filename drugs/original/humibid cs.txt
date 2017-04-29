@@ -1,22 +1,7 @@
-Generic Name: dextromethorphan / guaifenesin
-Applies to dextromethorphan / guaifenesin: capsules, elixir, extended-release liquid, extended-release tablets, granule packets, liquid, solution, suspension, sustained-release tablets, syrup, tablets
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Dizziness; drowsiness; stomach upset.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue).
-
-
-Applies to dextromethorphan / guaifenesin: oral capsule, oral capsule extended release, oral elixir, oral granule, oral liquid, oral suspension extended release, oral tablet, oral tablet extended release
-Nervous system side effects of dextromethorphan have included drowsiness and dizziness.  Adverse effects, which have occurred at higher doses, include excitation, mental confusion, and opioid like respiratory depression.  In some cases of abuse, patients have experienced euphoria, hyperactivity, mania, and auditory and visual hallucinations.[Ref]
-Gastrointestinal side effects have included nausea, vomiting and constipation.[Ref]
-Dermatologic side effects have included pruritus and rash.[Ref]
-Hypersensitivity side effects of dextromethorphan have included fixed-drug eruptions.[Ref]
-1. Hall RC, Beresford TP, Stickney SK, Nasdahl CS, Coleman JH "Psychiatric reactions produced by respiratory drugs." Psychosomatics 26 (1985): 605-8,616-7
-2. Covington TR, Lawson LC, Young LL, eds. "Handbook of Nonprescription Drugs. 10th ed." Washington, DC: American Pharmaceutical Association  (1993):
-3. Wolfe TR, Caravati EM "Massive dextromethorphan ingestion and abuse." Am J Emerg Med 13 (1995): 174-6
-4. Bostwick JM "Dextromethorphan-induced manic symptoms in a bipolar patient on lithium." Psychosomatics 37 (1996): 571-2
-5. Murray S, Brewerton T "Abuse of over-the-counter dextromethorphan by teenagers." South Med J 86 (1993): 1151-3
-6. Polles A, Griffith JL "Dextromethorphan-induced mania." Psychosomatics 37 (1996): 71-4
-7. Helfer J, Kim OM "Psychoactive abuse potential of Robitussin-DM." Am J Psychiatry 147 (1990): 672-3
-8. "Product Information. Tussi-Organidin DM NR (dextromethorphan-guaifenesin)" Wallace Laboratories, Cranbury, NJ. 
-9. Stubb S, Reitamo S "Fixed-drug eruption due to dextromethorphan ." Arch Dermatol 126 (1990): 970-1
-Not all side effects for Humibid CS may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Nervous system side effects of dextromethorphan have included drowsiness and dizziness.  Adverse effects, which have occurred at higher doses, include excitation, mental confusion, and opioid like respiratory depression.  In some cases of abuse, patients have experienced euphoria, hyperactivity, mania, and auditory and visual hallucinations.
+Gastrointestinal side effects have included nausea, vomiting and constipation.
+Dermatologic side effects have included pruritus and rash.
+Hypersensitivity side effects of dextromethorphan have included fixed-drug eruptions.

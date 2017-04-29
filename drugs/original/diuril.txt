@@ -1,53 +1,18 @@
-Generic Name: chlorothiazide
-Applies to chlorothiazide: oral suspension, oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by chlorothiazide (the active ingredient contained in Diuril). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking chlorothiazide:
-Some of the side effects that can occur with chlorothiazide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to chlorothiazide: intravenous powder for injection, oral suspension, oral tablet
-Hyperuricemia may be an important consideration in patients with a history of gout.  Hypophosphatemia and low serum magnesium concentrations may occur, but are usually clinically insignificant except in malnourished patients.Rare cases of the milk-alkali syndrome (hypercalcemia, metabolic alkalosis, and renal insufficiency)  have been associated with chlorothiazide (the active ingredient contained in Diuril) Chlorothiazide-induced hypercalcemia appears to depend on circulating parathyroid hormone.[Ref]
-Metabolic changes associated with chlorothiazide, as with other thiazide diuretics, are relatively common, especially when daily doses greater than 500 mg are used.  Mild hypokalemia (decrease of 0.5 mEq/L) occurs in up to 50%, and may predispose patients to cardiac arrhythmias.  Metabolic alkalosis, hyponatremia, hypomagnesemia, hypophosphatemia, hypercalcemia, hyperglycemia, hypercholesterolemia, and hyperuricemia are also relatively common.[Ref]
-Cardiovascular complications of diuretic therapy include orthostatic hypotension secondary to intravascular volume depletion.  This has resulted in syncope and, in some patients with glaucoma, temporary loss of vision.  Rare cases of cerebrovascular accident associated with thiazide-induced diuresis have been reported.[Ref]
-Thiazides may induce allergic reactions in patients who are allergic to sulfonamides.[Ref]
-Hypersensitivity reactions usually involve the skin (cutaneous vasculitis, urticaria, rash, purpura), but may involve the gastrointestinal system (nausea, vomiting, or diarrhea), the genitourinary system (interstitial nephritis), and the respiratory system (acute noncardiogenic pulmonary edema, pneumonitis).  Thiazide diuretics may induce phototoxic dermatitis.[Ref]
-Dermatologic reactions may indicate hypersensitivity to the drug.  Erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis (including toxic epidermal necrolysis), and alopecia have been reported in rare cases.[Ref]
-Gastrointestinal problems include diarrhea, vomiting, constipation or abdominal pain in approximately 5% of patients.  Thiazide diuretics have been associated with acute cholecystitis and rare cases of pancreatitis.[Ref]
-A retrospective case-control drug surveillance study has revealed the relative risk of acute cholecystitis associated with the use of a thiazide diuretic is 2.0.  The suspected explanation for this association is the potentially deleterious effect thiazides have on the serum lipid profile.  Chlorothiazide-induced hypercholesterolemia or hypertriglyceridemia may enhance the formation of some types of gallstones.[Ref]
-Renal side effects including new or worsened renal insufficiency associated with chlorothiazide (the active ingredient contained in Diuril) therapy is a probable sign of intravascular volume depletion, and serves as a signal to reduce or withhold therapy.  Rare cases of allergic interstitial nephritis have been associated with chlorothiazide.[Ref]
-Endocrinologic changes associated with chlorothiazide (the active ingredient contained in Diuril)  as with other thiazide diuretic agents, include decreased glucose tolerance and a potentially deleterious effect on the lipid profile.  This may be important in some patients with or who are at risk for diabetes or coronary artery disease.[Ref]
-Hematologic side effects are rare.  Rare cases of immune-complex hemolytic anemia, aplastic anemia, and thrombocytopenia have been associated with thiazide diuretics.[Ref]
-Musculoskeletal cramping or spasms have occasionally been reported during chlorothiazide (the active ingredient contained in Diuril) diuresis.[Ref]
-Genitourinary problems have been limited to rare complaints of impotence among male patients.[Ref]
-1. "Product Information. Diuril (chlorothiazide)." Merck & Co, Inc, West Point, PA. 
-2. Aneckstein AG, Weingold AB "Chlorothiazide-induced hepatic coma in pregnancy." Am J Obstet Gynecol 95 (1966): 136-7
-3. Leigh H "Letter: Factitious hypokalemia." Ann Intern Med 80 (1974): 111-2
-4. Paloyan E, Farland M, Pickleman JR "Hyperparathyroidism coexisting with hypertension and prolonged thiazide administration." JAMA 210 (1969): 1243-5
-5. Lindy S, Tarssanen L "Serum calcium and phosphorus in patients treated with thiazides and furosemide." Acta Med Scand 194 (1973): 319-22
-6. Moore TD, Bechtel TP "Hyponatremia secondary to tolbutamide and chlorothiazide." Am J Hosp Pharm 36 (1979): 1107-10
-7. Popovtzer MM, Subryan VL, Alfrey AC, Reeve EB, Schrier RW "The acute effect of chlorothiazide on serum-ionized calcium. Evidence for a parathyroid hormone-dependent mechanism." J Clin Invest 55 (1975): 1295-302
-8. Parfitt AM "Chlorothiazide-induced hypercalcemia in juvenile osteoporosis and hyperparathyroidism." N Engl J Med 281 (1969): 55-9
-9. Jackson WP, Nellen M "Effect of frusemide on carbohydrate metabolism, blood-pressure, and other modalities. A comparison with chlorothiazide." Br Med J 2 (1966): 333-6
-10. Sherlock S, Senewiratne B, Scott A, Walker JG "Complications of diuretic therapy in hepatic cirrhosis." Lancet 1 (1966): 1049-52
-11. Sherlock S, Walker JG, Senewiratne B, Scott A "The complications of diuretic therapy in patients with cirrhosis." Ann N Y Acad Sci 139 (1966): 497-505
-12. Parfitt AM "Thiazide-induced hypercalcemia in vitamin D-treated hypoparathyroidism." Ann Intern Med 77 (1972): 557-63
-13. Pickkers P, Schachter M, Hughes AD, Feher MD, Sever PS "Thiazide-induced hyperglycaemia: a role for calcium-activated potassium channels?" Diabetologia 39 (1996): 861-4
-14. Lapidus PW, Guidotti FP "Gout in orthopaedic practice: review of 232 cases." Clin Orthop 28 (1963): 97-110
-15. Gora ML, Seth SK, Bay WH, Visconti JA "Milk-alkali syndrome associated with use of chlorothiazide and calcium carbonate." Clin Pharm 8 (1989): 227-9
-16. Gammon GD, Docherty JP "Thiazide-induced hypercalcemia in a manic-depressive patient." Am J Psychiatry 137 (1980): 1453-5
-17. Bullock JD "Antihypertensive drugs and danger to vision ." JAMA 237 (1977): 2186
-18. Bowden FJ "Non-cardiogenic pulmonary edema after ingestion of chlorothiazide." BMJ 298 (1989): 605
-19. Lyons H, Pinn VW, Cortell S, Cohen JJ, Harrington JT "Allergic interstitial nephritis causing reversible renal failure in four patients with idiopathic nephrotic syndrome." N Engl J Med 288 (1973): 124-8
-20. Chan HL "Fixed drug eruptions. A study of 20 occurrences in Singapore." Int J Dermatol 23 (1984): 607-9
-21. Stern RS, Kleinerman RA, Parrish JA, et al "Phototoxic reactions to photoactive drugs in patients treated with PUVA." Arch Dermatol 116 (1980): 1269-71
-22. Rosenberg L, Shapiro S, Slone D, Kaufman DW, Miettinen OS, Stolley PD "Thiazides and acute cholecystitis." N Engl J Med 303 (1980): 546-8
-23. Goldman JA, Neri A, Ovadia J, Eckerling B, Vries A, de "Effect of chlorothiazide on intravenous glucose tolerance in pregnancy." Am J Obstet Gynecol 105 (1969): 556-60
-24. Miller NR, Moses H "Transient oculomotor nerve palsy. Association with thiazide-induced glucose intolerance." JAMA 240 (1978): 1887-8
-25. Bird CC, Reeves BD "Effect of diuretic administration on urinary estriol levels in late pregnancy." Am J Obstet Gynecol 105 (1969): 552-5
-Not all side effects for Diuril may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Hyperuricemia may be an important consideration in patients with a history of gout.  Hypophosphatemia and low serum magnesium concentrations may occur, but are usually clinically insignificant except in malnourished patients.Rare cases of the milk-alkali syndrome (hypercalcemia, metabolic alkalosis, and renal insufficiency)  have been associated with chlorothiazide (the active ingredient contained in Diuril) Chlorothiazide-induced hypercalcemia appears to depend on circulating parathyroid hormone.
+Metabolic changes associated with chlorothiazide, as with other thiazide diuretics, are relatively common, especially when daily doses greater than 500 mg are used.  Mild hypokalemia (decrease of 0.5 mEq/L) occurs in up to 50%, and may predispose patients to cardiac arrhythmias.  Metabolic alkalosis, hyponatremia, hypomagnesemia, hypophosphatemia, hypercalcemia, hyperglycemia, hypercholesterolemia, and hyperuricemia are also relatively common.
+Cardiovascular complications of diuretic therapy include orthostatic hypotension secondary to intravascular volume depletion.  This has resulted in syncope and, in some patients with glaucoma, temporary loss of vision.  Rare cases of cerebrovascular accident associated with thiazide-induced diuresis have been reported.
+Thiazides may induce allergic reactions in patients who are allergic to sulfonamides.
+Hypersensitivity reactions usually involve the skin (cutaneous vasculitis, urticaria, rash, purpura), but may involve the gastrointestinal system (nausea, vomiting, or diarrhea), the genitourinary system (interstitial nephritis), and the respiratory system (acute noncardiogenic pulmonary edema, pneumonitis).  Thiazide diuretics may induce phototoxic dermatitis.
+Dermatologic reactions may indicate hypersensitivity to the drug.  Erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis (including toxic epidermal necrolysis), and alopecia have been reported in rare cases.
+Gastrointestinal problems include diarrhea, vomiting, constipation or abdominal pain in approximately 5% of patients.  Thiazide diuretics have been associated with acute cholecystitis and rare cases of pancreatitis.
+A retrospective case-control drug surveillance study has revealed the relative risk of acute cholecystitis associated with the use of a thiazide diuretic is 2.0.  The suspected explanation for this association is the potentially deleterious effect thiazides have on the serum lipid profile.  Chlorothiazide-induced hypercholesterolemia or hypertriglyceridemia may enhance the formation of some types of gallstones.
+Renal side effects including new or worsened renal insufficiency associated with chlorothiazide (the active ingredient contained in Diuril) therapy is a probable sign of intravascular volume depletion, and serves as a signal to reduce or withhold therapy.  Rare cases of allergic interstitial nephritis have been associated with chlorothiazide.
+Endocrinologic changes associated with chlorothiazide (the active ingredient contained in Diuril)  as with other thiazide diuretic agents, include decreased glucose tolerance and a potentially deleterious effect on the lipid profile.  This may be important in some patients with or who are at risk for diabetes or coronary artery disease.
+Hematologic side effects are rare.  Rare cases of immune-complex hemolytic anemia, aplastic anemia, and thrombocytopenia have been associated with thiazide diuretics.
+Musculoskeletal cramping or spasms have occasionally been reported during chlorothiazide (the active ingredient contained in Diuril) diuresis.
+Genitourinary problems have been limited to rare complaints of impotence among male patients.
 intravenous powder for solution
-
 Abdominal or stomach pain
 back, leg, or stomach pains
 black, tarry stools
@@ -137,8 +102,6 @@ weakness and heaviness of legs
 weight gain
 wheezing
 yellow eyes or skin
-
-
 Cramping
 decreased interest in sexual intercourse
 difficulty having a bowel movement (stool)
@@ -154,4 +117,3 @@ restlessness
 sensation of spinning
 severe sunburn
 weakness
-

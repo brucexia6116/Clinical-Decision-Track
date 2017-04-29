@@ -1,24 +1,14 @@
-Applies to alirocumab: subcutaneous solution
-In addition to its needed effects, some unwanted effects may be caused by alirocumab. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking alirocumab:
-Some of the side effects that can occur with alirocumab may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to alirocumab: subcutaneous solution
-The most common adverse reactions leading to treatment discontinuation were allergic reactions and elevated liver enzymes.[Ref]
-Very common (10% or more): Hypersensitivity reaction, nummular eczema, hypersensitivity vasculitis[Ref]
-Very common (10% or more): Nasopharyngitis (11.3%)Common (1% to 10%): Influenza, bronchitis, sinusitis, cough[Ref]
-Common (1% to 10%): Diarrhea[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-Common (1% to 10%): Elevated liver enzyme[Ref]
-Common (1% to 10%): Development of antidrug antibody (ADA), neutralizing antibodies (NAb)[Ref]
-Patients who developed ADA (antidrug antibody) had a higher incidence of injection site reactions compared with patients who did not develop ADA (10.2% vs 5.9%).[Ref]
-Common (1% to 10%): Injection site reaction (erythema, redness, itching, swelling, pain, tenderness)[Ref]
-Common (1% to 10%): Myalgia, muscle spasm, contusion, musculoskeletal pain[Ref]
-Uncommon (0.1% to 1%): Neurocognitive events, confusion or memory impairment[Ref]
-1. "Product Information. Praluent Pen (alirocumab)." sanofi-aventis, Bridgewater, NJ. 
-Not all side effects for alirocumab may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions leading to treatment discontinuation were allergic reactions and elevated liver enzymes.
+Very common (10% or more): Hypersensitivity reaction, nummular eczema, hypersensitivity vasculitis
+Very common (10% or more): Nasopharyngitis (11.3%)Common (1% to 10%): Influenza, bronchitis, sinusitis, cough
+Common (1% to 10%): Diarrhea
+Common (1% to 10%): Urinary tract infection
+Common (1% to 10%): Elevated liver enzyme
+Common (1% to 10%): Development of antidrug antibody (ADA), neutralizing antibodies (NAb)
+Patients who developed ADA (antidrug antibody) had a higher incidence of injection site reactions compared with patients who did not develop ADA (10.2% vs 5.9%).
+Common (1% to 10%): Injection site reaction (erythema, redness, itching, swelling, pain, tenderness)
+Common (1% to 10%): Myalgia, muscle spasm, contusion, musculoskeletal pain
+Uncommon (0.1% to 1%): Neurocognitive events, confusion or memory impairment
 Difficulty with breathing or swallowing
 fever
 hives
@@ -26,12 +16,8 @@ nausea
 reddening of the skin, especially around the ears
 swelling of the eyes, face, or inside of the nose
 unusual tiredness or weakness
-
-
 Cough producing mucus
 tightness in the chest
-
-
 Chills
 cough
 diarrhea
@@ -47,8 +33,6 @@ stuffy or runny nose
 sweating
 trouble sleeping
 vomiting
-
-
 Bladder pain
 bloody or cloudy urine
 difficult, burning, or painful urination
@@ -59,4 +43,3 @@ muscle pains or stiffness
 muscle spasms
 pain or tenderness around the eyes and cheekbones
 swollen joints
-

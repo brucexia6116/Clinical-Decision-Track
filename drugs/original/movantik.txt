@@ -1,23 +1,11 @@
-Generic Name: naloxegol
 Common side effects of Movantik include: abdominal pain. Other side effects include: diarrhea and flatulence.  See below for a comprehensive list of adverse effects.
-Applies to naloxegol: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by naloxegol (the active ingredient contained in Movantik). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking naloxegol:
-Some of the side effects that can occur with naloxegol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to naloxegol: oral tablet
-The most common adverse reactions include abdominal pain, nausea, diarrhea, headache, vomiting, and flatulence.[Ref]
-Common (1% to 10%): Possible opioid withdrawal (3 or more symptoms on the same day including, but not limited to hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning)[Ref]
-Possible opioid withdrawal defined as at least 3 adverse reactions potentially related to opioid withdrawal occurring on the same day and not all related to the gastrointestinal system occurred in less than 1% of patients (5 of 441) receiving the 12.5 mg dose and 3% of patients (14 of 446) receiving the 25 mg dose.  Symptoms included, but were not limited to hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning.  For patients receiving methadone, higher frequencies of gastrointestinal adverse reactions were observed compared with other opioids.[Ref]
-Very common (10% or more): Abdominal pain (up to 21%)Common (1% to 10%): Diarrhea, nausea, flatulence, vomiting[Ref]
-Common (1% to 10%): Hyperhidrosis[Ref]
-Common (1% to 10%): Headache[Ref]
-Common (1% to 10%): Nasopharyngitis[Ref]
-1. "Product Information. Movantik (naloxegol)." Astra-Zeneca Pharmaceuticals, Wilmington, DE. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Movantik may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions include abdominal pain, nausea, diarrhea, headache, vomiting, and flatulence.
+Common (1% to 10%): Possible opioid withdrawal (3 or more symptoms on the same day including, but not limited to hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning)
+Possible opioid withdrawal defined as at least 3 adverse reactions potentially related to opioid withdrawal occurring on the same day and not all related to the gastrointestinal system occurred in less than 1% of patients (5 of 441) receiving the 12.5 mg dose and 3% of patients (14 of 446) receiving the 25 mg dose.  Symptoms included, but were not limited to hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning.  For patients receiving methadone, higher frequencies of gastrointestinal adverse reactions were observed compared with other opioids.
+Very common (10% or more): Abdominal pain (up to 21%)Common (1% to 10%): Diarrhea, nausea, flatulence, vomiting
+Common (1% to 10%): Hyperhidrosis
+Common (1% to 10%): Headache
+Common (1% to 10%): Nasopharyngitis
 Abdominal or stomach pain
 anxiety
 chills
@@ -25,8 +13,6 @@ diarrhea
 increased sweating
 irritability
 yawning
-
-
 Bloody, black or tarry stools
 heartburn
 indigestion
@@ -34,14 +20,9 @@ nausea
 severe abdominal or stomach pain, cramping, or burning
 trouble breathing
 vomiting of material that looks like coffee grounds, severe and continuing
-
-
 Bloated
 excess air or gas in the stomach or bowels
 full feeling
 passing gas
-
-
 Headache
 vomiting
-

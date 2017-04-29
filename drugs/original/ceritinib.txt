@@ -1,26 +1,16 @@
 Commonly reported side effects of ceritinib include: abdominal pain, diarrhea, hyperglycemia, increased serum alanine aminotransferase, nausea, and vomiting. Other side effects include: interstitial pulmonary disease, pneumonitis, and prolonged qt interval on ecg.  See below for a comprehensive list of adverse effects.
-Applies to ceritinib: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by ceritinib. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking ceritinib:
-Some of the side effects that can occur with ceritinib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ceritinib: oral capsule
-The most common side effect resulting in dose reductions or interruptions were increased ALT (29%), nausea (20%), increased AST (16%), diarrhea (16%), and vomiting (16%).  The most common side effects leading to discontinuation were pneumonia, interstitial lung disease/pneumonitis, and decreased appetite.[Ref]
-Very common (10% or more): Diarrhea (86%), nausea (80%), vomiting (60%), abdominal pain (54%), constipation (29%), esophageal disorder (16%)Rare (less than 0.1%): Gastrointestinal hemorrhage[Ref]
-Very Common (10% or more): Hemoglobin decreased (84%), phosphate decreased (36%)[Ref]
-Very Common (10% or more): ALT increased (80%), AST increased (75%), bilirubin increased (15%)[Ref]
-Very Common (10% or more): Creatinine increased (58%), phosphate decreased (36%)[Ref]
-Very common (10% or more): Decreased appetite (34%), glucose increased (49%), lipase increased (28%)[Ref]
-Very common (10% or more): Rash (16%)[Ref]
-Common (1% to 10%): Interstitial lung disease/pneumonitisRare (0.01% than 0.1%): Respiratory failure, pneumothorax, pulmonary tuberculosis[Ref]
-Very common (10% or more): Neuropathy (17%)[Ref]
-Common (1% to 10%): Vision disorder[Ref]
-Common (1% to 10%): Prolonged QT, bradycardiaRare (less than 0.1%): Cardiac tamponade[Ref]
-Very common (10% or more): Fatigue (52%)Uncommon (0.1% to 1%): General physical health deteriorationRare (less than 0.1%): Sepsis[Ref]
-1. "Product Information. Zykadia (ceritinib)." Novartis Pharmaceuticals, East Hanover, NJ. 
-Not all side effects for ceritinib may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common side effect resulting in dose reductions or interruptions were increased ALT (29%), nausea (20%), increased AST (16%), diarrhea (16%), and vomiting (16%).  The most common side effects leading to discontinuation were pneumonia, interstitial lung disease/pneumonitis, and decreased appetite.
+Very common (10% or more): Diarrhea (86%), nausea (80%), vomiting (60%), abdominal pain (54%), constipation (29%), esophageal disorder (16%)Rare (less than 0.1%): Gastrointestinal hemorrhage
+Very Common (10% or more): Hemoglobin decreased (84%), phosphate decreased (36%)
+Very Common (10% or more): ALT increased (80%), AST increased (75%), bilirubin increased (15%)
+Very Common (10% or more): Creatinine increased (58%), phosphate decreased (36%)
+Very common (10% or more): Decreased appetite (34%), glucose increased (49%), lipase increased (28%)
+Very common (10% or more): Rash (16%)
+Common (1% to 10%): Interstitial lung disease/pneumonitisRare (0.01% than 0.1%): Respiratory failure, pneumothorax, pulmonary tuberculosis
+Very common (10% or more): Neuropathy (17%)
+Common (1% to 10%): Vision disorder
+Common (1% to 10%): Prolonged QT, bradycardiaRare (less than 0.1%): Cardiac tamponade
+Very common (10% or more): Fatigue (52%)Uncommon (0.1% to 1%): General physical health deteriorationRare (less than 0.1%): Sepsis
 Abdominal or stomach pain or tenderness
 blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -46,8 +36,6 @@ unsteadiness or awkwardness
 unusual tiredness or weakness
 weakness in the arms, hands, legs, or feet
 yellow eyes or skin
-
-
 Chest pain
 chills
 cough
@@ -55,8 +43,6 @@ fainting
 general feeling of discomfort or illness
 irregular heartbeat, recurrent
 thickening of bronchial secretions
-
-
 Blurred vision or other changes in vision
 decreased appetite
 diarrhea
@@ -64,4 +50,3 @@ difficulty having a bowel movement (stool)
 heartburn
 pain or discomfort in the chest, upper stomach, or throat
 seeing flashes or sparks of light
-

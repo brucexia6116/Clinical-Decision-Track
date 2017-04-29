@@ -1,36 +1,21 @@
-Applies to doxepin: oral capsule, oral solution, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by doxepin. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking doxepin:
-
 If any of the following symptoms of overdose occur while taking doxepin, get emergency help immediately:
-
-Some of the side effects that can occur with doxepin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to doxepin: oral capsule, oral concentrate, oral tablet
-Capsules and Oral Concentrate: The most frequently reported side effects were constipation, dry mouth, and drowsiness.Tablets (3 and 6 mg): The most frequently reported side effects were somnolence/sedation, nausea, and upper respiratory tract infection.[Ref]
-Common (1% to 10%): Somnolence/sedationFrequency not reported: Drowsiness, numbness, paresthesia, ataxia, extrapyramidal symptoms, seizure, tardive dyskinesia, tremor, dizziness, headache, neuroleptic malignant-like syndrome, convulsion, hyperreflexia in neonate, lethargy, syncope, ageusia, cerebrovascular accident, disturbance in attention, migraine, sleep paralysis, syncope vasovagalPostmarketing reports: Hypoesthesia, dysgeusia[Ref]
-Common (1% to 10%): HypertensionFrequency not reported: Hypotension, flushing, tachycardia, ECG changed, postural hypotension, atrioventricular block, palpitation, ventricular extrasystole, ECG ST-T segment abnormal, ECG QRS complex abnormal, heart rate decreased, QRS axis abnormal, pallor, blood pressure inadequately controlled, hematoma, hot flushPostmarketing reports: Arrhythmia, conduction disorder[Ref]
-Common (1% to 10%): Gastroenteritis, nauseaFrequency not reported: Dry mouth, constipation, vomiting, indigestion, taste disturbance, diarrhea, anorexia, aphthous stomatitis, abdominal pain, gastroesophageal reflux disease, dyspepsia, gingival recession, hematochezia, lip blisterPostmarketing reports: Tongue edema, upper abdominal pain[Ref]
-Common (1% to 10%): Upper respiratory tract infection/nasopharyngitisFrequency not reported: Asthma exacerbated, respiratory depression in neonate, bronchitis, laryngitis, sinusitis, lower respiratory tract infection, pharyngitis, pneumonia, nasal congestion, pharyngolaryngeal pain, sinus congestion, wheezing, cough, crackles lung, nasopharyngeal disorder, rhinorrhea, dyspnea[Ref]
-Frequency not reported: Confusion, disorientation, hallucination, libido decreased, libido increased, withdrawal symptom, agitation, anxiety, nervousness, aggressive reaction, suicidal ideation, suicidal behavior, insomnia, nightmare, mania exacerbated, paranoid delusions exacerbated, dream abnormal, adjustment disorder, depression, elevated mood[Ref]
-Frequency not reported: Edema, tinnitus, weight gain, chills, fatigue, weakness, hyperpyrexia, asthenia, bone fracture, drug tolerance, ear pain, hypoacusis, motion sickness, tympanic membrane perforated, chest pain, gait abnormal, peripheral edema, fungal infection, tooth infection, viral infection, cellulitis staphylococcal, folliculitis, gastroenteritis viral, herpes zoster, infective tenosynovitis, influenza, onychomycosis, back injury, fall, joint sprain, skin laceration, sensation of heaviness, arthrodesisPostmarketing reports: Malaise[Ref]
-Frequency not reported: Gynecomastia, breasts enlarged, galactorrhea, testicular swelling, syndrome of inappropriate antidiuretic hormone[Ref]
-Frequency not reported: Lung adenocarcinoma stage I, malignant melanoma, breast cyst[Ref]
-Frequency not reported: Urinary retention, urinary tract infection, dysmenorrhea, dysuria, enuresis, hemoglobinuria, nocturia[Ref]
-Frequency not reported: Eosinophilia, bone marrow depression, agranulocytosis, leukopenia, thrombocytopenia, hemolytic anemia, thrombocythemia, anemia, neutrophil count decreased[Ref]
-Frequency not reported: Jaundice, hepatitis, hepatic abnormality, hyperbilirubinemia, ALT increased, transaminases increased[Ref]
-Frequency not reported: Arthralgia, back pain, myalgia, neck pain, pain in extremity, muscle cramp, joint range of motion decreased[Ref]
-Frequency not reported: Rash, pruritus, photosensitivity, purpura, sweating, alopecia, face edema, urticaria, hyperhidrosis, cold sweat, skin irritation, dermatitis, erythema, rosacea[Ref]
-Frequency not reported: Hypersensitivity[Ref]
-Frequency not reported: Blood sugar increased, blood sugar decreased, appetite increased, anorexia, appetite decreased, hyperkalemia, hypermagnesemia, hypokalemia[Ref]
-Frequency not reported: Vision blurred, angle closure glaucoma, mydriasis, intraocular pressure increased, eye redness, blepharospasm, diplopia, eye pain, lacrimation decreased, eye infection[Ref]
-1. "Product Information. Silenor (doxepin)." Somaxon Pharmaceuticals, San Diego, CA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Sinequan (doxepin)." Roerig Division, New York, NY. 
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for doxepin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Capsules and Oral Concentrate: The most frequently reported side effects were constipation, dry mouth, and drowsiness.Tablets (3 and 6 mg): The most frequently reported side effects were somnolence/sedation, nausea, and upper respiratory tract infection.
+Common (1% to 10%): Somnolence/sedationFrequency not reported: Drowsiness, numbness, paresthesia, ataxia, extrapyramidal symptoms, seizure, tardive dyskinesia, tremor, dizziness, headache, neuroleptic malignant-like syndrome, convulsion, hyperreflexia in neonate, lethargy, syncope, ageusia, cerebrovascular accident, disturbance in attention, migraine, sleep paralysis, syncope vasovagalPostmarketing reports: Hypoesthesia, dysgeusia
+Common (1% to 10%): HypertensionFrequency not reported: Hypotension, flushing, tachycardia, ECG changed, postural hypotension, atrioventricular block, palpitation, ventricular extrasystole, ECG ST-T segment abnormal, ECG QRS complex abnormal, heart rate decreased, QRS axis abnormal, pallor, blood pressure inadequately controlled, hematoma, hot flushPostmarketing reports: Arrhythmia, conduction disorder
+Common (1% to 10%): Gastroenteritis, nauseaFrequency not reported: Dry mouth, constipation, vomiting, indigestion, taste disturbance, diarrhea, anorexia, aphthous stomatitis, abdominal pain, gastroesophageal reflux disease, dyspepsia, gingival recession, hematochezia, lip blisterPostmarketing reports: Tongue edema, upper abdominal pain
+Common (1% to 10%): Upper respiratory tract infection/nasopharyngitisFrequency not reported: Asthma exacerbated, respiratory depression in neonate, bronchitis, laryngitis, sinusitis, lower respiratory tract infection, pharyngitis, pneumonia, nasal congestion, pharyngolaryngeal pain, sinus congestion, wheezing, cough, crackles lung, nasopharyngeal disorder, rhinorrhea, dyspnea
+Frequency not reported: Confusion, disorientation, hallucination, libido decreased, libido increased, withdrawal symptom, agitation, anxiety, nervousness, aggressive reaction, suicidal ideation, suicidal behavior, insomnia, nightmare, mania exacerbated, paranoid delusions exacerbated, dream abnormal, adjustment disorder, depression, elevated mood
+Frequency not reported: Edema, tinnitus, weight gain, chills, fatigue, weakness, hyperpyrexia, asthenia, bone fracture, drug tolerance, ear pain, hypoacusis, motion sickness, tympanic membrane perforated, chest pain, gait abnormal, peripheral edema, fungal infection, tooth infection, viral infection, cellulitis staphylococcal, folliculitis, gastroenteritis viral, herpes zoster, infective tenosynovitis, influenza, onychomycosis, back injury, fall, joint sprain, skin laceration, sensation of heaviness, arthrodesisPostmarketing reports: Malaise
+Frequency not reported: Gynecomastia, breasts enlarged, galactorrhea, testicular swelling, syndrome of inappropriate antidiuretic hormone
+Frequency not reported: Lung adenocarcinoma stage I, malignant melanoma, breast cyst
+Frequency not reported: Urinary retention, urinary tract infection, dysmenorrhea, dysuria, enuresis, hemoglobinuria, nocturia
+Frequency not reported: Eosinophilia, bone marrow depression, agranulocytosis, leukopenia, thrombocytopenia, hemolytic anemia, thrombocythemia, anemia, neutrophil count decreased
+Frequency not reported: Jaundice, hepatitis, hepatic abnormality, hyperbilirubinemia, ALT increased, transaminases increased
+Frequency not reported: Arthralgia, back pain, myalgia, neck pain, pain in extremity, muscle cramp, joint range of motion decreased
+Frequency not reported: Rash, pruritus, photosensitivity, purpura, sweating, alopecia, face edema, urticaria, hyperhidrosis, cold sweat, skin irritation, dermatitis, erythema, rosacea
+Frequency not reported: Hypersensitivity
+Frequency not reported: Blood sugar increased, blood sugar decreased, appetite increased, anorexia, appetite decreased, hyperkalemia, hypermagnesemia, hypokalemia
+Frequency not reported: Vision blurred, angle closure glaucoma, mydriasis, intraocular pressure increased, eye redness, blepharospasm, diplopia, eye pain, lacrimation decreased, eye infection
 Abdominal or stomach pain
 agitation
 black, tarry stools
@@ -121,8 +106,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting of blood
 yellow eyes or skin
-
-
 Clumsiness
 disturbed concentration
 drowsiness
@@ -135,8 +118,6 @@ shivering
 sleepiness
 weak or feeble pulse
 weight gain
-
-
 Change in taste or bad, unusual or unpleasant (after) taste
 decreased interest in sexual intercourse
 diarrhea
@@ -156,4 +137,3 @@ swelling of the breasts or breast soreness in both females and males
 swelling of the testicles
 unexpected or excess milk flow from breasts
 weight loss
-

@@ -1,37 +1,21 @@
-Generic Name: timolol ophthalmic
-Applies to timolol ophthalmic: ophthalmic gel forming solution, ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by timolol ophthalmic (the active ingredient contained in Betimol). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking timolol ophthalmic:
-Some of the side effects that can occur with timolol ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to timolol ophthalmic: ophthalmic gel forming solution, ophthalmic solution
-The most commonly reported side effects were burning/stinging sensation, blurred vision, and abnormal vision.[Ref]
-Very common (10% or more): Burning/stinging sensation (up to 38%), blurred/abnormal vision (up to 25%)Common (1% to 10%): Conjunctival hyperemia, foreign body sensation, keratitis, conjunctivitis, cataract, decreased visual acuityFrequency not reported: Itching, tearing, redness, blepharitis, dry eyes, decreased corneal sensitivity, corneal erosion, refractive changes (due to withdrawal of miotic therapy in some cases), diplopia, ptosis and choroidal detachment following filtration surgery, discharge (e.g., crusting), foreign body sensation, cystoid macular edema, pseudopemphigoid[Ref]
-Common (1% to 10%): HypertensionFrequency not reported: Bradycardia, chest pain, arrhythmia, heart block, congestive heart failure, palpitations, cardiac arrest, atrioventricular block, cardiac failure, edema; AV block (second- or third-degree), sino-atrial block, worsening of arterial insufficiency, worsening of angina pectoris, vasodilation, claudication, hypotension, syncope, Raynaud's phenomenon, cold hands and feet[Ref]
-Frequency not reported: Pulmonary edema, bronchospasm (predominantly in patients with pre-existing bronchospastic disease), respiratory failure, dyspnea, cough, rales, sore throat, laryngospasm, respiratory distressPostmarketing reports: Bronchial obstruction[Ref]
-Common (1% to 10%): HeadacheFrequency not reported: Tinnitus, memory loss, diminished concentration, increased dreaming, cerebrovascular accident, cerebral ischemia, dizziness, increase in signs and symptoms of myasthenia gravis, paresthesia, vertigo, local weakness[Ref]
-Frequency not reported: Depression, insomnia, nightmares, catatonia[Ref]
-Frequency not reported: Alopecia, psoriasiform rash or exacerbation of psoriasis, skin rash, sweating, exfoliative dermatitis[Ref]
-Frequency not reported: Nausea, diarrhea, dyspepsia, dry mouth, dysgeusia, abdominal pain, vomiting, mesenteric artery thrombosis, ischemic colitis[Ref]
-Frequency not reported: Systemic lupus erythematosus[Ref]
-Frequency not reported: Anaphylaxis, angioedema, urticaria, localized/generalized rash, anaphylactic reactionPostmarketing reports: Erythematous rash[Ref]
-Frequency not reported: Decreased libido, Peyronie's disease, impotence, micturition difficulties, retroperitoneal fibrosis[Ref]
-Frequency not reported: Asthenia, fatigue, extremity pain, decreased exercise tolerance, fever[Ref]
-Frequency not reported: Non-thrombocytopenic purpura, thrombocytopenic purpura, agranulocytosis[Ref]
-Frequency not reported: Myalgia, arthralgia[Ref]
-Postmarketing reports: Hepatomegaly[Ref]
-Frequency not reported: Hypoglycemia, hyperglycemia, anorexia[Ref]
-1. "Product Information. Timolol Maleate, Ophthalmic (timolol ophthalmic)." Bausch and Lomb, Rochester, NY. 
-2. "Product Information. Timoptic (timolol ophthalmic)." Merck & Co, Inc, West Point, PA. 
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Betimol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were burning/stinging sensation, blurred vision, and abnormal vision.
+Very common (10% or more): Burning/stinging sensation (up to 38%), blurred/abnormal vision (up to 25%)Common (1% to 10%): Conjunctival hyperemia, foreign body sensation, keratitis, conjunctivitis, cataract, decreased visual acuityFrequency not reported: Itching, tearing, redness, blepharitis, dry eyes, decreased corneal sensitivity, corneal erosion, refractive changes (due to withdrawal of miotic therapy in some cases), diplopia, ptosis and choroidal detachment following filtration surgery, discharge (e.g., crusting), foreign body sensation, cystoid macular edema, pseudopemphigoid
+Common (1% to 10%): HypertensionFrequency not reported: Bradycardia, chest pain, arrhythmia, heart block, congestive heart failure, palpitations, cardiac arrest, atrioventricular block, cardiac failure, edema; AV block (second- or third-degree), sino-atrial block, worsening of arterial insufficiency, worsening of angina pectoris, vasodilation, claudication, hypotension, syncope, Raynaud's phenomenon, cold hands and feet
+Frequency not reported: Pulmonary edema, bronchospasm (predominantly in patients with pre-existing bronchospastic disease), respiratory failure, dyspnea, cough, rales, sore throat, laryngospasm, respiratory distressPostmarketing reports: Bronchial obstruction
+Common (1% to 10%): HeadacheFrequency not reported: Tinnitus, memory loss, diminished concentration, increased dreaming, cerebrovascular accident, cerebral ischemia, dizziness, increase in signs and symptoms of myasthenia gravis, paresthesia, vertigo, local weakness
+Frequency not reported: Depression, insomnia, nightmares, catatonia
+Frequency not reported: Alopecia, psoriasiform rash or exacerbation of psoriasis, skin rash, sweating, exfoliative dermatitis
+Frequency not reported: Nausea, diarrhea, dyspepsia, dry mouth, dysgeusia, abdominal pain, vomiting, mesenteric artery thrombosis, ischemic colitis
+Frequency not reported: Systemic lupus erythematosus
+Frequency not reported: Anaphylaxis, angioedema, urticaria, localized/generalized rash, anaphylactic reactionPostmarketing reports: Erythematous rash
+Frequency not reported: Decreased libido, Peyronie's disease, impotence, micturition difficulties, retroperitoneal fibrosis
+Frequency not reported: Asthenia, fatigue, extremity pain, decreased exercise tolerance, fever
+Frequency not reported: Non-thrombocytopenic purpura, thrombocytopenic purpura, agranulocytosis
+Frequency not reported: Myalgia, arthralgia
+Postmarketing reports: Hepatomegaly
+Frequency not reported: Hypoglycemia, hyperglycemia, anorexia
 Blurred vision
 burning or stinging in eye
-
-
 Arm, back, or jaw pain
 blisters, hives, welts, or itching
 blue lips, fingernails, or skin
@@ -107,8 +91,6 @@ unusual tiredness or weakness
 weakness in arm and/or leg on one side of the body, sudden and severe
 weight gain
 wheezing
-
-
 Acid or sour stomach
 belching
 body aches or pain
@@ -131,4 +113,3 @@ stuffy nose
 trouble sleeping
 unable to sleep
 weight loss
-

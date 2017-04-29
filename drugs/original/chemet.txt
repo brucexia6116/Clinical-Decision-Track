@@ -1,35 +1,22 @@
-Generic Name: succimer
-Applies to succimer: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by succimer (the active ingredient contained in Chemet). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking succimer, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with succimer may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
 Succimer may cause your urine, sweat, and feces to have an unpleasant odor.
-
-
-Applies to succimer: oral capsule
-Gastrointestinal side effects (12% in children and 20.9% in adults) have included nausea, vomiting, diarrhea, appetite loss, hemorrhoidal symptoms, loose stools, and metallic taste in mouth.  Abdominal cramps and stomach pain have also been reported in patients receiving succimer (the active ingredient contained in Chemet) [Ref]
-General side effects (5.2% in children and 15.7% in adults) have included back pain, head pain, rib pain, chills, flank pain, fever, flu-like symptoms, heavy head/tired, head cold, headache, and moniliasis.[Ref]
-Metabolic side effects (4.2% in children and 10.4% in adults) have included elevated serum cholesterol and increased proteinuria.[Ref]
-Hepatic side effects (4.2% in children and 10.4% in adults) have included elevated SGPT, SGOT, and alkaline phosphatase.[Ref]
-Respiratory side effects (3.7% in children and 0.7% in adults) have included rhinorrhea, nasal congestion, and cough.[Ref]
-Genitourinary side effects (3.7% in adults) have included decreased urination and voiding difficulty.[Ref]
-Other side effects (3.7% in children and 0.7% in adults) have included plugged ears, otitis media, and sore throat.[Ref]
-Dermatologic side effects (2.6% in children and 11.2% in adults) have included papular rash, herpetic rash, rash, mucocutaneous eruptions, and pruritus.[Ref]
-Musculoskeletal side effects (3.0% in adults) have included kneecap pain and leg pains.[Ref]
-Cardiovascular side effects (1.8% in adults) have included arrhythmia.[Ref]
-Nervous system side effects (1.0% in children and 12.7% in adults) have included drowsiness, dizziness, sensorimotor neuropathy, sleepiness, and paresthesia.[Ref]
-Ocular side effects (1.0% in children and 3.0% in adults) have included cloudy film in eye and watery eyes.[Ref]
-Hematologic side effects (0.5% in children and 1.5% in adults) have included mild to moderate neutropenia, increased platelet count, and intermittent eosinophilia.[Ref]
-1. "Product Information. Chemet (succimer)." McNeil Pharmaceutical, Raritan, NJ. 
-Not all side effects for Chemet may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal side effects (12% in children and 20.9% in adults) have included nausea, vomiting, diarrhea, appetite loss, hemorrhoidal symptoms, loose stools, and metallic taste in mouth.  Abdominal cramps and stomach pain have also been reported in patients receiving succimer (the active ingredient contained in Chemet) 
+General side effects (5.2% in children and 15.7% in adults) have included back pain, head pain, rib pain, chills, flank pain, fever, flu-like symptoms, heavy head/tired, head cold, headache, and moniliasis.
+Metabolic side effects (4.2% in children and 10.4% in adults) have included elevated serum cholesterol and increased proteinuria.
+Hepatic side effects (4.2% in children and 10.4% in adults) have included elevated SGPT, SGOT, and alkaline phosphatase.
+Respiratory side effects (3.7% in children and 0.7% in adults) have included rhinorrhea, nasal congestion, and cough.
+Genitourinary side effects (3.7% in adults) have included decreased urination and voiding difficulty.
+Other side effects (3.7% in children and 0.7% in adults) have included plugged ears, otitis media, and sore throat.
+Dermatologic side effects (2.6% in children and 11.2% in adults) have included papular rash, herpetic rash, rash, mucocutaneous eruptions, and pruritus.
+Musculoskeletal side effects (3.0% in adults) have included kneecap pain and leg pains.
+Cardiovascular side effects (1.8% in adults) have included arrhythmia.
+Nervous system side effects (1.0% in children and 12.7% in adults) have included drowsiness, dizziness, sensorimotor neuropathy, sleepiness, and paresthesia.
+Ocular side effects (1.0% in children and 3.0% in adults) have included cloudy film in eye and watery eyes.
+Hematologic side effects (0.5% in children and 1.5% in adults) have included mild to moderate neutropenia, increased platelet count, and intermittent eosinophilia.
 Chills
 fever
-
-
 Diarrhea
 loose stools
 loss of appetite
 nausea and vomiting 
 skin rash
-

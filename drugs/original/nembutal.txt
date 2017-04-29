@@ -1,42 +1,17 @@
-Generic Name: pentobarbital
-Applies to pentobarbital: parenteral solution for injection
 Side effects include:
 Residual sedation,  drowsiness,   lethargy,  vertigo,   nausea,   vomiting,   headache.  
-Applies to pentobarbital: compounding powder, injectable solution, oral capsule, oral elixir, rectal suppository
-Behavioral problems, impaired memory, impaired cognition, decreased perceptuomotor performance, tics, dyskinesias, nystagmus, oculogyric crises, dystonic reactions, and ataxia have also been reported.[Ref]
-Nervous system side effects have been common and have included drowsiness, sedation, lethargy, and somnolence.  Paradoxical stimulation has also been reported in the elderly.[Ref]
-Respiratory side effects including life threatening respiratory depression have been reported, particularly during acute intoxication.[Ref]
-Withdrawal symptoms may include hallucinations, sweating, insomnia, and hypertension.An increased frequency of seizures may occur if barbiturate therapy is suddenly discontinued.[Ref]
-Other side effects from pentobarbital use have included physical and psychological dependence.  Withdrawal symptoms have been reported when pentobarbital therapy has been discontinued suddenly.[Ref]
-Cardiovascular side effects including hypotension and bradycardia have been reported.[Ref]
-Musculoskeletal side effects including myopathy in association with anticonvulsant osteomalacia has been reported in patients taking other barbiturates.  Reflex sympathetic dystrophy of the upper extremities, Dupuytren's contractures, Peyronie's disease, the "shoulder-hand syndrome" and other musculoskeletal and joint pains have been reported in as many as 5% of patients treated with other barbiturates.[Ref]
-Hypersensitivity side effects have included a variety of hypersensitivity reactions reported in association with use of pentobarbital (the active ingredient contained in Nembutal) and other barbiturates.  The reactions frequently involved generalized rashes, fever, and hepatic derangements.[Ref]
-The more serious hepatic effects have often been reported in association with hypersensitivity reactions.[Ref]
-Hepatic side effects including elevated liver function tests, hepatitis, cholestasis, and fulminant hepatic failure have all been reported in association with use of other barbiturates.[Ref]
-Hematologic side effects including macrocytosis and, more rarely, megaloblastic anemia have been reported with use of other barbiturates.[Ref]
-Animal studies have suggested that pentobarbital may inhibit prostaglandin l2 and thereby promote platelet aggregation.[Ref]
-Endocrine side effects including alterations in vitamin D metabolism have been reported in patients taking barbiturates and other anticonvulsants.  Hypocalcemia and osteomalacia have been specifically reported.[Ref]
-Oncologic side effects have been reported.  Some investigators have reported a possible increased frequency of malignancy (particularly brain tumors, lung cancer, and liver cancer) in patients taking pentobarbital (the active ingredient contained in Nembutal) and other barbiturates chronically.  Other investigators have not found an association with malignancy.[Ref]
-1. "Product Information. Pentobarbital (pentobarbital)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-2. Schwartz JF, Patterson JH "Toxic encephalopathy related to antihistamine-barbiturate antiemetic medication." Am J Dis Child 132 (1978): 37-9
-3. Martin WR, Thompson WO, Fraser HF "Comparison of graded single intramuscular doses of morphine and pentobarbital in man." Clin Pharmacol Ther 15 (1974): 623-30
-4. Shapiro S, Slone D, Lewis GP, Jick H "Clinical effects of hypnotics. II. An epidemiologic study." JAMA 209 (1969): 2016-20
-5. Lessell S, Wolf PA, Chronley D "Prolonged vertical nystagmus after pentobarbital sodium administration." Am J Ophthalmol 80 (1975): 151-2
-6. Boisse NR, Okamoto M "Physical dependence to barbital compared to pentobarbital. II. Tolerance characteristics." J Pharmacol Exp Ther 204 (1978): 507-13
-7. Theodore WH, Porter RJ, Raubertas RF "Seizures during barbiturate withdrawal: relation to blood level." Ann Neurol 22 (1987): 644-7
-8. Eisenberg HM, Frankowski RF, Contant CF, Marshall LF, Walker MD "High-dose barbiturate control of elevated intracranial pressure in patients with severe head injury." J Neurosurg 69 (1988): 15-23
-9. Griffiths RR, Bigelow GE, Liebson I, Kaliszak JE "Drug preference in humans: double-blind choice comparison of pentobarbital, diazepam and placebo." J Pharmacol Exp Ther 215 (1980): 649-61
-10. Sullivan JT, Sellers EM "Treatment of the barbiturate abstinence syndrome." Med J Aust 145 (1986): 456-8
-11. Teba L, Weber S "Intensive management of severe head injury." Chest 99 (1991): 1551-2
-12. Marsden CD, Reynolds EH, Parsons V, Harris R, Duchen L "Myopathy associated with anticonvulsant osteomalacia." Br Med J 4 (1973): 526-7
-13. Doriguzzi C, Mongini T, Jeantet A, Monga G "Tubular aggregates in a case of osteomalacic myopathy due to anticonvulsant drugs." Clin Neuropathol 3 (1984): 42-5
-14. Shear NH, Spielberg SP "Anticonvulsant hypersensitivity syndrome. In vitro assessment of risk." J Clin Invest 82 (1988): 1826-32
-15. Wilensky AJ "Phenytoin hypersensitivity." JAMA 237 (1977): 2600-1
-16. Jezequel AM, Librari ML, Mosca P, Novelli G, Lorenzini I, Orlandi F "Changes induced in human liver by long-term anticonvulsant therapy. Functional and ultrastructural data." Liver 4 (1984): 307-17
-17. Ward JM, Konishi N, Ostergaard K "Hepatic lesions in Danish epileptics after long-term exposure to anticonvulsant drugs including phenobarbitone." J Natl Cancer Inst 81 (1989): 1753-4
-18. Mockli G, Crowley M, Stern R, Warnock ML "Massive hepatic necrosis in a child after administration of phenobarbital." Am J Gastroenterol 84 (1989): 820-2
-19. Van Hoof A, Chamone DA, Vermylen J "Platelet aggregation and anaesthesia." Lancet 2 (1980): 373
-20. Kiorboe E, Plum CM "Megaloblastic anaemia developing during treatment of epilepsy." Acta Med Scand Suppl 445 (1966): 349-57
-21. Sotaniemi EA, Hakkarainen HK, Puranen JA, Lahti RO "Radiologic bone changes and hypocalcemia with anticonvulsant therapy in epilepsy." Ann Intern Med 77 (1972): 389-94
-22. Zerwekh JE, Homan R, Tindall R, Pak CY "Decreased serum 24,25-dihydroxyvitamin D concentration during long- term anticonvulsant therapy in adult epileptics." Ann Neurol 12 (1982): 184-6
+Behavioral problems, impaired memory, impaired cognition, decreased perceptuomotor performance, tics, dyskinesias, nystagmus, oculogyric crises, dystonic reactions, and ataxia have also been reported.
+Nervous system side effects have been common and have included drowsiness, sedation, lethargy, and somnolence.  Paradoxical stimulation has also been reported in the elderly.
+Respiratory side effects including life threatening respiratory depression have been reported, particularly during acute intoxication.
+Withdrawal symptoms may include hallucinations, sweating, insomnia, and hypertension.An increased frequency of seizures may occur if barbiturate therapy is suddenly discontinued.
+Other side effects from pentobarbital use have included physical and psychological dependence.  Withdrawal symptoms have been reported when pentobarbital therapy has been discontinued suddenly.
+Cardiovascular side effects including hypotension and bradycardia have been reported.
+Musculoskeletal side effects including myopathy in association with anticonvulsant osteomalacia has been reported in patients taking other barbiturates.  Reflex sympathetic dystrophy of the upper extremities, Dupuytren's contractures, Peyronie's disease, the "shoulder-hand syndrome" and other musculoskeletal and joint pains have been reported in as many as 5% of patients treated with other barbiturates.
+Hypersensitivity side effects have included a variety of hypersensitivity reactions reported in association with use of pentobarbital (the active ingredient contained in Nembutal) and other barbiturates.  The reactions frequently involved generalized rashes, fever, and hepatic derangements.
+The more serious hepatic effects have often been reported in association with hypersensitivity reactions.
+Hepatic side effects including elevated liver function tests, hepatitis, cholestasis, and fulminant hepatic failure have all been reported in association with use of other barbiturates.
+Hematologic side effects including macrocytosis and, more rarely, megaloblastic anemia have been reported with use of other barbiturates.
+Animal studies have suggested that pentobarbital may inhibit prostaglandin l2 and thereby promote platelet aggregation.
+Endocrine side effects including alterations in vitamin D metabolism have been reported in patients taking barbiturates and other anticonvulsants.  Hypocalcemia and osteomalacia have been specifically reported.
+Oncologic side effects have been reported.  Some investigators have reported a possible increased frequency of malignancy (particularly brain tumors, lung cancer, and liver cancer) in patients taking pentobarbital (the active ingredient contained in Nembutal) and other barbiturates chronically.  Other investigators have not found an association with malignancy.
 It is possible that some side effects of Nembutal may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

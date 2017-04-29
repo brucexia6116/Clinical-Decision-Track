@@ -1,41 +1,25 @@
 Commonly reported side effects of guanfacine include: asthenia, constipation, drowsiness, decreased blood pressure, dizziness, fatigue, hypotension, sedation, and xerostomia. Other side effects include: impotence, and nausea.  See below for a comprehensive list of adverse effects.
-Applies to guanfacine: oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by guanfacine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking guanfacine:
-
 If any of the following symptoms of overdose occur while taking guanfacine, get emergency help immediately:
-
-Some of the side effects that can occur with guanfacine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention. If you notice any of the following side effects check with your doctor immediately:
-
-
-Applies to guanfacine: oral tablet, oral tablet extended release
-The most common adverse reactions were dry mouth, somnolence, headache, fatigue, dizziness, abdominal pain, constipation, appetite decreased, and sedation.[Ref]
-Very common (10% or more): Dry mouth (up to 54%), abdominal pain (up to 15%), constipation (up to 15%)Common (1% to 10%): Vomiting, diarrhea, nausea, abdominal/stomach discomfortUncommon (0.1% to 1%): Dyspepsia[Ref]
-Very common (10% or more): Somnolence (up to 40.6%), headache (up to 28%), dizziness (up to 16%), sedation (10.2%)Common (1% to 10%): Lethargy, convulsion, dizziness postural, syncopeRare (less than 0.1%): HypersomniaPostmarketing reports: Tremor, paresthesias, vertigo, taste alteration[Ref]
-Very common (10% or more): Fatigue (up to 22%)Common (1% to 10%): AstheniaUncommon (0.1% to 1%): Chest painRare (less than 0.1%): Malaise[Ref]
+The most common adverse reactions were dry mouth, somnolence, headache, fatigue, dizziness, abdominal pain, constipation, appetite decreased, and sedation.
+Very common (10% or more): Dry mouth (up to 54%), abdominal pain (up to 15%), constipation (up to 15%)Common (1% to 10%): Vomiting, diarrhea, nausea, abdominal/stomach discomfortUncommon (0.1% to 1%): Dyspepsia
+Very common (10% or more): Somnolence (up to 40.6%), headache (up to 28%), dizziness (up to 16%), sedation (10.2%)Common (1% to 10%): Lethargy, convulsion, dizziness postural, syncopeRare (less than 0.1%): HypersomniaPostmarketing reports: Tremor, paresthesias, vertigo, taste alteration
+Very common (10% or more): Fatigue (up to 22%)Common (1% to 10%): AstheniaUncommon (0.1% to 1%): Chest painRare (less than 0.1%): Malaise
 Very common (10% or more): Appetite decreased (up to 15%)Common (1% to 10%): Weight increasedFrequency not reported: Body mass index increasedPostmarketing reports: Edema
-Common (1% to 10%): Insomnia, depression, anxiety, affect lability, middle insomnia, nightmare, irritabilityUncommon (0.1% to 1%): Agitation, hallucinationPostmarketing reports: Confusion[Ref]
+Common (1% to 10%): Insomnia, depression, anxiety, affect lability, middle insomnia, nightmare, irritabilityUncommon (0.1% to 1%): Agitation, hallucinationPostmarketing reports: Confusion
 Common (1% to 10%): Hypotension, bradycardia, orthostatic hypotension, tachycardiaUncommon (0.1% to 1%): Pallor, atrioventricular block first degree, sinus arrhythmia, blood pressure increased, heart rate decreasedRare (less than 0.1%): HypertensionFrequency not reported: QTc prolongationPostmarketing reports: Palpitations
-Common (1% to 10%): Impotence, enuresisUncommon (0.1% to 1%): PollakiuriaFrequency not reported: Urinary frequency increased[Ref]
+Common (1% to 10%): Impotence, enuresisUncommon (0.1% to 1%): PollakiuriaFrequency not reported: Urinary frequency increased
 Common (1% to 10%): Rash, pruritusPostmarketing reports: Alopecia, dermatitis, exfoliative dermatitis
 Uncommon (0.1% to 1%): AsthmaPostmarketing reports: Dyspnea
 Uncommon (0.1% to 1%): ALT increased
 Uncommon (0.1% to 1%): Hypersensitivity
 Postmarketing reports: Arthralgia, leg cramps, leg pain, myalgia
 Postmarketing reports: Blurred vision
-1. "Product Information. Intuniv (guanfacine)." Shire US Inc, Florence, KY. 
-2. "Product Information. Tenex (guanfacine)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for guanfacine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Blurred vision
 confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 sweating
 unusual tiredness or weakness
-
-
 Chest pain or discomfort
 cough
 difficulty with breathing
@@ -47,12 +31,8 @@ noisy breathing
 passing urine more often
 pounding heartbeat
 tightness in the chest
-
-
 Dizziness (extreme) or faintness
 unusual tiredness or weakness (severe)
-
-
 Constipation
 dizziness
 drowsiness
@@ -65,8 +45,6 @@ unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 upper abdominal or stomach pain
 vomiting
 weight gain
-
-
 Acid or sour stomach
 belching
 decreased appetite
@@ -78,12 +56,9 @@ lack or loss of strength
 paleness of the skin
 stomach discomfort, upset, or pain
 trouble with sleeping
-
-
 Anxiety or tenseness
 increased salivation
 nervousness or restlessness
 shaking or trembling of the hands and fingers
 stomach cramps
 sweating
-

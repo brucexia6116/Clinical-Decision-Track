@@ -1,36 +1,22 @@
-Applies to macitentan: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by macitentan. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking macitentan:
-Some of the side effects that can occur with macitentan may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to macitentan: oral tablet
-The most common adverse reactions are peripheral edema, upper respiratory tract infection, nasopharyngitis, headache, anemia, and bronchitis.[Ref]
-Very common (10% or more): Upper respiratory tract infection (15.3%), nasopharyngitis (14%), bronchitis (11.6%)Common (1% to 10%): Viral respiratory tract infection, pharyngitis, sinusitis, rhinitis, lower respiratory tract infection, tracheitis, tonsillitis, rhinorrhea, productive cough, bronchial hyperreactivityFrequency not reported: Pulmonary edemaPostmarketing reports: Nasal congestion[Ref]
-Very common (10% or more): Anemia (13.2%)Common (1% to 10%): Thrombocytopenia, hemoglobin decreased, hematocrit decreasedFrequency not reported: Decrease in mean leukocyte count, decrease in mean platelet count[Ref]
-Very common (10% or more): Peripheral edema (18.2%)Common (1% to 10%): Hypotension, flushing[Ref]
-Very common (10% or more): Headache (13.6%)Common (1% to 10%): Migraine[Ref]
-Common (1% to 10%): Diarrhea, upper abdominal pain, gastroenteritis, abdominal pain, irritable bowel syndrome, hemorrhoids, viral gastroenteritis[Ref]
-Common (1% to 10%): Urinary tract infection, metrorrhagia, menorrhagia, ovarian cyst Frequency not reported: Adverse effects on spermatogenesis affecting male fertility[Ref]
-Common (1% to 10%): Skin ulcer, pruritus, eczema, urticariaPostmarketing reports: Angioedema, rash[Ref]
-Common (1% to 10%): Arthralgia, myalgia, systemic sclerosis, costochondritis[Ref]
-Common (1% to 10%): Cholelithiasis, elevated aminotransferasesFrequency not reported: Hepatotoxicity, liver failure[Ref]
-Common (1% to 10%): Hypokalemia, blood urea increased[Ref]
-Common (1% to 10%): Insomnia, depression[Ref]
-Common (1% to 10%): Pyrexia, gynecomastia[Ref]
-Common (1% to 10%): Influenza[Ref]
-Common (1% to 10%): Conjunctivitis[Ref]
-1. "Product Information. Opsumit (macitentan)." Actelion Pharmaceuticals US Inc, South San Francisco, CA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for macitentan may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions are peripheral edema, upper respiratory tract infection, nasopharyngitis, headache, anemia, and bronchitis.
+Very common (10% or more): Upper respiratory tract infection (15.3%), nasopharyngitis (14%), bronchitis (11.6%)Common (1% to 10%): Viral respiratory tract infection, pharyngitis, sinusitis, rhinitis, lower respiratory tract infection, tracheitis, tonsillitis, rhinorrhea, productive cough, bronchial hyperreactivityFrequency not reported: Pulmonary edemaPostmarketing reports: Nasal congestion
+Very common (10% or more): Anemia (13.2%)Common (1% to 10%): Thrombocytopenia, hemoglobin decreased, hematocrit decreasedFrequency not reported: Decrease in mean leukocyte count, decrease in mean platelet count
+Very common (10% or more): Peripheral edema (18.2%)Common (1% to 10%): Hypotension, flushing
+Very common (10% or more): Headache (13.6%)Common (1% to 10%): Migraine
+Common (1% to 10%): Diarrhea, upper abdominal pain, gastroenteritis, abdominal pain, irritable bowel syndrome, hemorrhoids, viral gastroenteritis
+Common (1% to 10%): Urinary tract infection, metrorrhagia, menorrhagia, ovarian cyst Frequency not reported: Adverse effects on spermatogenesis affecting male fertility
+Common (1% to 10%): Skin ulcer, pruritus, eczema, urticariaPostmarketing reports: Angioedema, rash
+Common (1% to 10%): Arthralgia, myalgia, systemic sclerosis, costochondritis
+Common (1% to 10%): Cholelithiasis, elevated aminotransferasesFrequency not reported: Hepatotoxicity, liver failure
+Common (1% to 10%): Hypokalemia, blood urea increased
+Common (1% to 10%): Insomnia, depression
+Common (1% to 10%): Pyrexia, gynecomastia
+Common (1% to 10%): Influenza
+Common (1% to 10%): Conjunctivitis
 Pale skin
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain or tenderness
 clay colored stools
 dark urine
@@ -41,10 +27,7 @@ muscle aches and pains
 difficulty with breathing
 tightness in the chest
 yellow eyes or skin
-
-
 Chills or fever
 cough
 sore throat
 stuffy or runny nose
-

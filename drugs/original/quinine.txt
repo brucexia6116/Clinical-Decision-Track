@@ -1,59 +1,28 @@
-Applies to quinine: oral capsule, oral tablet, oral tablet extended release
 As well as its needed effects, quinine may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking quinine, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking quinine, get emergency help immediately:
-
-
-
-Applies to quinine: compounding powder, oral capsule, oral tablet
-Disseminated intravascular coagulation has been reported in a 79-year-old female within 12 hours following a second dose of quinine 300 mg.[Ref]
-Hematologic side effects have included thrombocytopenia, purpura, neutropenia, thrombotic thrombocytopenic purpura-hemolytic uremic syndrome, disseminated intravascular coagulation, petechiae, and ecchymosis.  At least 7 cases of immune thrombocytopenia have been reported.[Ref]
-Fixed drug eruption (nummular skin lesion) has been reported in a 23-year-old female following exposure to quinine in tonic water.  An open oral challenge, approved by the patient, with 30 mg quinine sulfate triggered the appearance of pruritus, erythema, and edema at the usual sites within 40 minutes of ingestion of the dose.[Ref]
-Dermatologic side effects have included flushing, pruritus, and skin rashes.  Fixed drug eruption (nummular skin lesion) and fatal cutaneous vasculitis have been reported.[Ref]
-Gastrointestinal side effects have included abdominal pain, nausea, vomiting, diarrhea, and gastrointestinal upset.[Ref]
-Renal side effects have included renal failure secondary to thrombotic thrombocytopenic purpura-hemolytic uremic syndrome.[Ref]
-Respiratory side effects have included asthma symptoms, hemoptysis, and a case report of transient bilateral pulmonary infiltrates.[Ref]
-Transient bilateral pulmonary infiltrates have been reported in a 45-year-old woman following a single dose of quinine sulfate 325 mg for nocturnal cramps.  Approximately 45 minutes after she took the single dose of quinine the following symptoms were present: sudden onset of dyspnea, wheezing, cough, breathlessness, severe anxiety, dry nonproductive cough, orthopnea, mild fever, chills, and pleuritic chest discomfort.[Ref]
-Ocular side effects have included visual disturbances including blurred vision with scotomata, photophobia, diplopia, diminished visual fields, disturbed color vision, and blindness.[Ref]
-Cardiovascular side effects have included cardiac dysrhythmias, including prolongation of the QT-interval.[Ref]
-Within 24 hours of taking the first dose of quinine 260 mg for leg cramps, a 57-year-old Native American female presented to the hospital with symptoms of nausea, vomiting, generalized myalgia, headache, fever, chills, and rigor.  The following liver enzymes were dramatically elevated: alkaline phosphatase, lactate dehydrogenase, aspartate aminotransferase, alanine aminotransferase, and gamma-glutamyltranspeptidase.  Following discontinuation of quinine, the patient's symptoms resolved within 48 hours and the liver enzyme concentrations declined within 72 hours.[Ref]
-Hepatic side effects have included changes in the hepatic enzyme system that synthesizes vitamin K dependent factors.  At least one case report of hepatotoxicity with elevated alkaline phosphatase, lactate dehydrogenase, aspartate aminotransferase, alanine aminotransferase, and gamma-glutamyltranspeptidase has been reported.[Ref]
-Tinnitus and impaired hearing may occur at plasma concentrations over 10 mcg/mL.[Ref]
-Nervous system side effects have included apprehension, restlessness, confusion, syncope, dizziness, vertigo, tinnitus, hearing loss, and nystagmus.  Cinchonism has been reported with repeated doses or high serum levels in 25% to 100% of patients.  Signs and symptoms of cinchonism have been commonly reported.  The clinical presentation of cinchonism have included temporary deafness/slight deafness, tinnitus, headache, dizziness, rash, mental dullness, depression, confusion, and nausea.  Fatalities have been reported from single oral doses of 2 to 8 grams.[Ref]
-Hypersensitivity side effects have been reported in a few patients who experienced severe side effects after a single dose of quinine.[Ref]
-Metabolic side effects have included hypoglycemia and electrolyte imbalance.[Ref]
-Other side effects have included mucosal bleeding (gingival, gastrointestinal, epistaxis).[Ref]
-1. Morton AP "Quinine-induced disseminated intravascular coagulation and haemolytic-uraemic syndrome." Med J Aust 176 (2002): 351
-2. FDA Drug Safety Newsletter "Quinine (marketed as Qualaquin): overview of off-label use and serious adverse events. Available from: URL: http://www.fda.gov/downloads/Drugs/DrugSafety/DrugSafetyNewsletter/UCM168579.pdf."   ([2009]):
-3. Baliga RS,  Wingo CS "Quinine Induced HUS-TTP: An Unusual Presentation." Am J Med Sci 326 (2003): 378-80
-4. Blayney DW "Quinine-associated immune thrombopenia, neutropenia, and renal failure in a patient with Klinefelter's syndrome." Blood 10 (1992): 2686
-5. "Product Information. Quinine (quinine)." Zenith Goldline Pharmaceuticals, Fort Lauderdale, FL. 
-6. Chuah TL, Denaro C "A case of quinine-induced thrombocytopenia and neutropenia." Aust N Z J Med 30 (2000): 96
-7. Asvadi P,  Ahmadi Z,  Chong BH "Drug induced thrombocytopenia: localization of the binding site of GPIX specific quinine-dependent antibodies." Blood  (2003):
-8. Kojouri K,  Vesely SK,  George JN "Summaries for patients. Quinine and thrombotic thrombocytopenic purpura-hemolytic uremic syndrome." Ann Intern Med 135 (2001): S-65
-9. Kedia RK, Wright AJ "Quinine-mediated disseminated intravascular coagulation." Postgrad Med J 75 (1999): 429-30
-10. "In brief: safety of quinine." Med Lett Drugs Ther 52 (2010): 88
-11. Bougie DW,  Wilker PR,  Aster RH "Patients with quinine-induced immune thrombocytopenia have both " drug-dependent " and " drug-specific " antibodies." Blood 108 (2006): 922-7
-12. Brasic JR "Quinine-induced thrombocytopenia in a 64-year-old man who consumed tonic water to relieve nocturnal leg cramps." Mayo Clin Proc 76 (2001): 863-4
-13. Reddy JC,  Shuman MA,  Aster RH "Quinine/Quinidine-induced thrombocytopenia: a great imitator." Arch Intern Med 164 (2004): 218-20
-14. Asero R "Fixed drug eruptions caused by tonic water." J Allergy Clin Immunol 111 (2003): 198-9
-15. Bakshi R,  Hermeling-Fritz I,  Gathmann I,  Alteri E "An integrated assessment of the clinical safety of artemether-lumefantrine: a new oral fixed-dose combination antimalarial drug." Trans R Soc Trop Med Hyg 94 (2000): 419-24
-16. Winstanley P "Malaria: treatment." J R Coll Physicians Lond 32 (1998): 203-7
-17. Krantz MJ,  Dart RC,  Mehler PS "Transient pulmonary infiltrates possibly induced by quinine sulfate." Pharmacotherapy 22 (2002): 775-8
-18. Feeney GFX, Lee GA, OConnor PA "Quinine-induced blindness during attempted heroin withdrawal." Med J Australia 170 (1999): 449
-19. Farver DK, lavin MN "Quinine-induced hepatotoxicity." Ann Pharmacother 33 (1999): 32-4
-20. White NJ,  Pukrittayakamee S "Clinical malaria in the tropics." Med J Aust 159 (1993): 197-203
-21. Weinke T,  Held T,  Trautmann M,  et al "Malaria therapy in 452 patients, with special reference to the use of quinine." J Infect 25 (1992): 173-80
-22. Vierira JL,  Midio AF "Drug monitoring of quinine in men with nonsevere falciparum malaria: study in the Amazon region of Brazil." Ther Drug Monit 23 (2001): 512-5
+Disseminated intravascular coagulation has been reported in a 79-year-old female within 12 hours following a second dose of quinine 300 mg.
+Hematologic side effects have included thrombocytopenia, purpura, neutropenia, thrombotic thrombocytopenic purpura-hemolytic uremic syndrome, disseminated intravascular coagulation, petechiae, and ecchymosis.  At least 7 cases of immune thrombocytopenia have been reported.
+Fixed drug eruption (nummular skin lesion) has been reported in a 23-year-old female following exposure to quinine in tonic water.  An open oral challenge, approved by the patient, with 30 mg quinine sulfate triggered the appearance of pruritus, erythema, and edema at the usual sites within 40 minutes of ingestion of the dose.
+Dermatologic side effects have included flushing, pruritus, and skin rashes.  Fixed drug eruption (nummular skin lesion) and fatal cutaneous vasculitis have been reported.
+Gastrointestinal side effects have included abdominal pain, nausea, vomiting, diarrhea, and gastrointestinal upset.
+Renal side effects have included renal failure secondary to thrombotic thrombocytopenic purpura-hemolytic uremic syndrome.
+Respiratory side effects have included asthma symptoms, hemoptysis, and a case report of transient bilateral pulmonary infiltrates.
+Transient bilateral pulmonary infiltrates have been reported in a 45-year-old woman following a single dose of quinine sulfate 325 mg for nocturnal cramps.  Approximately 45 minutes after she took the single dose of quinine the following symptoms were present: sudden onset of dyspnea, wheezing, cough, breathlessness, severe anxiety, dry nonproductive cough, orthopnea, mild fever, chills, and pleuritic chest discomfort.
+Ocular side effects have included visual disturbances including blurred vision with scotomata, photophobia, diplopia, diminished visual fields, disturbed color vision, and blindness.
+Cardiovascular side effects have included cardiac dysrhythmias, including prolongation of the QT-interval.
+Within 24 hours of taking the first dose of quinine 260 mg for leg cramps, a 57-year-old Native American female presented to the hospital with symptoms of nausea, vomiting, generalized myalgia, headache, fever, chills, and rigor.  The following liver enzymes were dramatically elevated: alkaline phosphatase, lactate dehydrogenase, aspartate aminotransferase, alanine aminotransferase, and gamma-glutamyltranspeptidase.  Following discontinuation of quinine, the patient's symptoms resolved within 48 hours and the liver enzyme concentrations declined within 72 hours.
+Hepatic side effects have included changes in the hepatic enzyme system that synthesizes vitamin K dependent factors.  At least one case report of hepatotoxicity with elevated alkaline phosphatase, lactate dehydrogenase, aspartate aminotransferase, alanine aminotransferase, and gamma-glutamyltranspeptidase has been reported.
+Tinnitus and impaired hearing may occur at plasma concentrations over 10 mcg/mL.
+Nervous system side effects have included apprehension, restlessness, confusion, syncope, dizziness, vertigo, tinnitus, hearing loss, and nystagmus.  Cinchonism has been reported with repeated doses or high serum levels in 25% to 100% of patients.  Signs and symptoms of cinchonism have been commonly reported.  The clinical presentation of cinchonism have included temporary deafness/slight deafness, tinnitus, headache, dizziness, rash, mental dullness, depression, confusion, and nausea.  Fatalities have been reported from single oral doses of 2 to 8 grams.
+Hypersensitivity side effects have been reported in a few patients who experienced severe side effects after a single dose of quinine.
+Metabolic side effects have included hypoglycemia and electrolyte imbalance.
+Other side effects have included mucosal bleeding (gingival, gastrointestinal, epistaxis).
 It is possible that some side effects of quinine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Diarrhea
 nausea
 stomach cramps or pain
 vomiting
-
-
 Anxiety
 behavior change, similar to drunkenness
 black, tarry stools
@@ -81,8 +50,6 @@ slurred speech
 sore throat
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Difficulty breathing or swallowing
 disturbed color perception
 double vision
@@ -93,8 +60,6 @@ night blindness
 reddening of the skin, especially around ears
 ringing or buzzing in the ears
 swelling of the eyes, face, or inside of the nose
-
-
 Blindness
 blurred vision or change in vision
 chest pain
@@ -104,4 +69,3 @@ fainting
 lightheadedness
 rapid or irregular heartbeat
 sleepiness
-

@@ -1,31 +1,18 @@
-Generic Name: interferon gamma-1b
 Common side effects of Actimmune include: fever, flu-like symptoms, headache, chills, erythema at injection site, and tenderness at injection site.  See below for a comprehensive list of adverse effects.
-Applies to interferon gamma-1b: solution
-In addition to its needed effects, some unwanted effects may be caused by interferon gamma-1b (the active ingredient contained in Actimmune). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking interferon gamma-1b, check with your doctor or nurse immediately:
-Some of the side effects that can occur with interferon gamma-1b may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to interferon gamma-1b: subcutaneous solution
-General flu-like side effects have been reported most frequently.  These have included fever (52%), headache (33%), chills (14%), fatigue (14%), myalgia (6%), and arthralgia (2%).  Chest discomfort has been reported.[Ref]
-Gastrointestinal side effects have been reported frequently.  These have included diarrhea (14%), vomiting (13%), and nausea (10%).  Gastrointestinal bleeding has been reported rarely.[Ref]
-Dermatologic side effects have included rash (17%).[Ref]
-Local side effects have included erythema or tenderness at the site of injection (14%).[Ref]
-Cardiovascular side effects have been reported rarely.  These have included hypotension, syncope, tachyarrhythmia, heart block, heart failure, and myocardial infarction.[Ref]
-Nervous system side effects have been reported rarely.  These have included confusion, disorientation, gait disturbance, Parkinsonian symptoms, seizure, hallucinations, and transient ischemic attacks.[Ref]
-Respiratory side effects have included tachypnea, bronchospasm, and interstitial pneumonitis.[Ref]
-Hematologic side effects have been reported rarely.  These have included deep venous thrombosis and pulmonary embolism.[Ref]
-Renal side effects have included renal insufficiency which was reversible.[Ref]
-Metabolic side effects have included hyponatremia, hyperglycemia, and hypertriglyceridemia.[Ref]
-Immunologic side effects have included increased autoantibodies and lupus-like syndrome.[Ref]
-1. "Product Information. Actimmune (interferon gamma-1b)" Genenetech, South San Francisco, CA. 
-Not all side effects for Actimmune may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+General flu-like side effects have been reported most frequently.  These have included fever (52%), headache (33%), chills (14%), fatigue (14%), myalgia (6%), and arthralgia (2%).  Chest discomfort has been reported.
+Gastrointestinal side effects have been reported frequently.  These have included diarrhea (14%), vomiting (13%), and nausea (10%).  Gastrointestinal bleeding has been reported rarely.
+Dermatologic side effects have included rash (17%).
+Local side effects have included erythema or tenderness at the site of injection (14%).
+Cardiovascular side effects have been reported rarely.  These have included hypotension, syncope, tachyarrhythmia, heart block, heart failure, and myocardial infarction.
+Nervous system side effects have been reported rarely.  These have included confusion, disorientation, gait disturbance, Parkinsonian symptoms, seizure, hallucinations, and transient ischemic attacks.
+Respiratory side effects have included tachypnea, bronchospasm, and interstitial pneumonitis.
+Hematologic side effects have been reported rarely.  These have included deep venous thrombosis and pulmonary embolism.
+Renal side effects have included renal insufficiency which was reversible.
+Metabolic side effects have included hyponatremia, hyperglycemia, and hypertriglyceridemia.
+Immunologic side effects have included increased autoantibodies and lupus-like syndrome.
 Chills
 fever
-
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
@@ -47,8 +34,6 @@ trouble walking
 ulcers, sores, or white spots in the mouth
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain or tenderness
 change in walking and balance
 clay colored stools
@@ -76,13 +61,8 @@ swelling of the face, fingers, or lower legs
 trouble sleeping
 weight gain
 yellow eyes or skin
-
-
 Diarrhea
 redness or tenderness at the injection site
-
-
 Back pain
 dizziness
 weight loss
-

@@ -1,45 +1,26 @@
-Generic Name: loteprednol ophthalmic
-Applies to loteprednol ophthalmic: ophthalmic gel/jelly, ophthalmic ointment, ophthalmic suspension
-In addition to its needed effects, some unwanted effects may be caused by loteprednol ophthalmic (the active ingredient contained in Lotemax). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking loteprednol ophthalmic:
-Some of the side effects that can occur with loteprednol ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to loteprednol ophthalmic: ophthalmic gel, ophthalmic ointment, ophthalmic suspension
-The most common reported side effects were anterior chamber inflammation, eye pain, and foreign body sensation.[Ref]
-Common (1% to 10%): Corneal defect, eye discharge, ocular discomfort, dry eye, epiphora, foreign body sensation in eyes, conjunctival hyperemia, ocular itching, burning on instillationUncommon (0.1% to 1%): Abnormal vision, blurring of vision, chemosis, conjunctivitis, conjunctival hyperemia, iritis, eye irritation, eye pain, conjunctival papillae, photophobia, uveitis, keratoconjunctivitisFrequency not reported: Elevated intraocular pressure, optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation[Ref]
-Rare (less than 0.1%): Urticaria, rash, dry skin, eczema[Ref]
-Rare (less than 0.1%): Diarrhea, nausea, vomiting[Ref]
-Rare (less than 0.1%): Urinary tract infection, urethritis[Ref]
-Rare (less than 0.1%): Weight gain[Ref]
-Rare (less than 0.1%): Migraine, taste perversion, dizziness, paresthesia, tinnitus[Ref]
-Rare (less than 0.1%): Breast neoplasm[Ref]
-Uncommon (0.1% to 1%): AstheniaRare (less than 0.1%): Chills, fever, pain, face edemaFrequency not reported: Delayed wound healing[Ref]
-Rare (less than 0.1%): Nervousness[Ref]
-Uncommon (0.1% to 1%): Rhinitis, pharyngitisRare (less than 0.1%): Chest pain, cough[Ref]
-1. "Product Information. Alrex (loteprednol ophthalmic)." Bausch and Lomb, Tampa, FL. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Lotemax (loteprednol ophthalmic)." Bausch and Lomb, Tampa, FL. 
-Not all side effects for Lotemax may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common reported side effects were anterior chamber inflammation, eye pain, and foreign body sensation.
+Common (1% to 10%): Corneal defect, eye discharge, ocular discomfort, dry eye, epiphora, foreign body sensation in eyes, conjunctival hyperemia, ocular itching, burning on instillationUncommon (0.1% to 1%): Abnormal vision, blurring of vision, chemosis, conjunctivitis, conjunctival hyperemia, iritis, eye irritation, eye pain, conjunctival papillae, photophobia, uveitis, keratoconjunctivitisFrequency not reported: Elevated intraocular pressure, optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation
+Rare (less than 0.1%): Urticaria, rash, dry skin, eczema
+Rare (less than 0.1%): Diarrhea, nausea, vomiting
+Rare (less than 0.1%): Urinary tract infection, urethritis
+Rare (less than 0.1%): Weight gain
+Rare (less than 0.1%): Migraine, taste perversion, dizziness, paresthesia, tinnitus
+Rare (less than 0.1%): Breast neoplasm
+Uncommon (0.1% to 1%): AstheniaRare (less than 0.1%): Chills, fever, pain, face edemaFrequency not reported: Delayed wound healing
+Rare (less than 0.1%): Nervousness
+Uncommon (0.1% to 1%): Rhinitis, pharyngitisRare (less than 0.1%): Chest pain, cough
 Blurred vision or other change in vision
 redness or swelling of the eye
 sensitivity of the eyes to light
 swelling of the membrane covering the white part of the eye
-
-
 Discharge from the eye
 eye discomfort, irritation, or pain
 redness of the eyelid or inner lining of the eyelid
 tiny bumps on the inner lining of the eyelid
-
-
 Blindness
 delayed wound healing
 loss of vision
 nausea or vomiting
-
-
 Burning when medicine is applied
 dry eyes
 feeling of something in the eye
@@ -48,4 +29,3 @@ itching
 runny nose
 sore throat
 tearing or watery eye
-

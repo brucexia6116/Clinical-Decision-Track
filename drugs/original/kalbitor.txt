@@ -1,24 +1,13 @@
-Generic Name: ecallantide
 More frequent side effects include: pruritus.  See below for a comprehensive list of adverse effects.
-Applies to ecallantide: subcutaneous solution
-In addition to its needed effects, some unwanted effects may be caused by ecallantide (the active ingredient contained in Kalbitor). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking ecallantide, check with your doctor or nurse immediately:
-Some of the side effects that can occur with ecallantide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ecallantide: subcutaneous solution
-The most common adverse reactions were headache, nausea, diarrhea, pyrexia, injection site reactions, and nasopharyngitis.[Ref]
-Common (1% to 10%): Pruritus, rash, urticaria[Ref]
-Very common (10% or more): Nausea (up to 13%), diarrhea (up to 11%)Common (1% to 10%): Vomiting, upper abdominal pain[Ref]
-Common (1% to 10%): AnaphylaxisFrequency not reported: Hypersensitivity reactions[Ref]
-Common (1% to 10%): Injection site reactions[Ref]
-Very common (10% or more): Headache (up to 16%)[Ref]
-Very common (10% or more): Fatigue (12%)[Ref]
-Common (1% to 10%): Upper respiratory tract infection, nasopharyngitis[Ref]
-1. "Product Information. Kalbitor (ecallantide)." Dyax Corporation, Cambridge, MA. 
-Not all side effects for Kalbitor may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions were headache, nausea, diarrhea, pyrexia, injection site reactions, and nasopharyngitis.
+Common (1% to 10%): Pruritus, rash, urticaria
+Very common (10% or more): Nausea (up to 13%), diarrhea (up to 11%)Common (1% to 10%): Vomiting, upper abdominal pain
+Common (1% to 10%): AnaphylaxisFrequency not reported: Hypersensitivity reactions
+Common (1% to 10%): Injection site reactions
+Very common (10% or more): Headache (up to 16%)
+Very common (10% or more): Fatigue (12%)
+Common (1% to 10%): Upper respiratory tract infection, nasopharyngitis
 Blurred vision
 chest discomfort
 confusion
@@ -41,13 +30,8 @@ sweating
 throat irritation
 tightness in the chest
 unusual tiredness or weakness
-
-
 Headache
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 muscle aches
 nausea
 sore throat
-

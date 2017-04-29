@@ -1,18 +1,8 @@
-Generic Name: phenazopyridine
-Applies to phenazopyridine: oral kit, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by phenazopyridine (the active ingredient contained in Azo-Standard). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking phenazopyridine, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with phenazopyridine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to phenazopyridine: compounding powder, oral tablet
-Nervous system side effects have included headache.[Ref]
-Dermatologic side effects have included rash and pruritus.[Ref]
-Gastrointestinal side effects have included occasional upset.[Ref]
-Genitourinary side effects have included an orange to red discoloration of the urine.[Ref]
-1. "Product Information. Pyridium (phenazopyridine)." Warner Chilcott Laboratories, Rockaway, NJ. 
-Not all side effects for Azo-Standard may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Nervous system side effects have included headache.
+Dermatologic side effects have included rash and pruritus.
+Gastrointestinal side effects have included occasional upset.
+Genitourinary side effects have included an orange to red discoloration of the urine.
 Blue or blue-purple color of skin
  fever and confusion
 shortness of breath, tightness in chest, wheezing, or troubled breathing
@@ -22,11 +12,8 @@ swelling of face, fingers, feet, and/or lower legs
 unusual tiredness or weakness
 weight gain
 yellow eyes or skin
-
-
 Dizziness
 headache
  indigestion
 itching of the skin
  stomach cramps or pain
-

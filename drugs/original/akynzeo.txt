@@ -1,20 +1,9 @@
-Generic Name: netupitant / palonosetron
-Applies to netupitant / palonosetron: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by netupitant / palonosetron. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking netupitant / palonosetron:
-Some of the side effects that can occur with netupitant / palonosetron may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to netupitant / palonosetron: oral capsule
-Common (1% to 10%): Erythema[Ref]
-Common (1% to 10%): Dyspepsia, constipation[Ref]
-AST greater than 3 times the upper limit of normal (ULN) and/or ALT greater than 3 x ULN with total bilirubin greater than ULN occurred in up to 0.3% of patients, and AST greater than 3 x ULN and/or ALT greater than 3 x ULN with total bilirubin greater than or equal to 2 x ULN occurred in up to 0.1% of patients.[Ref]
-Uncommon (0.1% to 1%): Elevated AST, elevated ALT, elevated total bilirubin[Ref]
-Common (1% to 10%): Headache[Ref]
-Common (1% to 10%): Fatigue, asthenia[Ref]
-1. "Product Information. Akynzeo (netupitant-palonosetron)." Eisai Inc, Woodcliff Lake, NJ. 
-Not all side effects for Akynzeo may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Erythema
+Common (1% to 10%): Dyspepsia, constipation
+AST greater than 3 times the upper limit of normal (ULN) and/or ALT greater than 3 x ULN with total bilirubin greater than ULN occurred in up to 0.3% of patients, and AST greater than 3 x ULN and/or ALT greater than 3 x ULN with total bilirubin greater than or equal to 2 x ULN occurred in up to 0.1% of patients.
+Uncommon (0.1% to 1%): Elevated AST, elevated ALT, elevated total bilirubin
+Common (1% to 10%): Headache
+Common (1% to 10%): Fatigue, asthenia
 Agitation
 confusion
 dizziness
@@ -26,16 +15,11 @@ poor coordination
 shivering
 sweating
 trembling or shaking
-
-
 Headache
 fatigue
 unusual tiredness or weakness
-
-
 constipation
 flushing or redness of the skin
 heartburn
 indigestion
 stomach discomfort, upset, or pain
-

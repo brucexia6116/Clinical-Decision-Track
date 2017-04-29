@@ -1,32 +1,18 @@
-Generic Name: aspirin / butalbital / caffeine / codeine
-Applies to aspirin / butalbital / caffeine / codeine: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by aspirin / butalbital / caffeine / codeine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking aspirin / butalbital / caffeine / codeine:
-
 If any of the following symptoms of overdose occur while taking aspirin / butalbital / caffeine / codeine, get emergency help immediately:
-
-Some of the side effects that can occur with aspirin / butalbital / caffeine / codeine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to aspirin / butalbital / caffeine / codeine: oral capsule
-The most common adverse reactions have included nausea and/or abdominal pain, drowsiness, and dizziness.[Ref]
-Postmarketing reports: Allergic reaction, anaphylactic shock[Ref]
-Common (1% to 10%): Nausea/abdominal pain Uncommon (0.1% to 1%): Dry mouth, vomiting, difficulty swallowing, heartburnPostmarketing reports: Salivation, anorexia, increased appetite, constipation, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasm, mouth burning, pyloric ulcer, stomach upset[Ref]
-Uncommon (0.1% to 1%): AgitationPostmarketing reports: Abuse, addiction, anxiety, depression, hallucination, insomnia, libido decreased, nervousness, psychosis, increased sexual activity[Ref]
-Common (1% to 10%): Drowsiness, dizziness/lightheadedness, feeling intoxicatedUncommon (0.1% to 1%): Headache, shaky feeling, tingling, fainting, numbnessPostmarketing reports: Hyperactivity, disorientation, sedation, slurred speech, twitching, unconsciousness[Ref]
-Uncommon (0.1% to 1%): Fatigue, heavy eyelids, high energy, hot spells, sluggishness, fever, earache, tinnitusPostmarketing reports: Vertigo[Ref]
-Uncommon (0.1% to 1%): TachycardiaPostmarketing reports: Flushing, chest pain, hypotensive reaction, palpitations, syncope, edema[Ref]
-Uncommon (0.1% to 1%): Diuresis Postmarketing reports: Urinary difficulty[Ref]
-Uncommon (0.1% to 1%): Hyperhidrosis, pruritusPostmarketing reports: Erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis[Ref]
-Postmarketing reports: Kidney impairment[Ref]
-Uncommon (0.1% to 1%): Leg pain, muscle fatigue[Ref]
-Uncommon (0.1% to 1%): Nasal congestionPostmarketing reports: Epistaxis, hiccup[Ref]
-Postmarketing reports: Miosis[Ref]
-Postmarketing reports: Cholangiocarcinoma[Ref]
-1. "Product Information. Fiorinal with Codeine (aspirin / butalbital / caffeine / codeine (ASA/butalbital/caffeine/codeine))." Watson Pharmaceuticals, Parsippany, NJ. 
-2. "Product Information. Ascomp with Codeine (aspirin / butalbital / caffeine / codeine (ASA/butalbital/caffeine/codeine))." NexGen Pharma, Irvine, CA. 
-Not all side effects for Ascomp with Codeine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions have included nausea and/or abdominal pain, drowsiness, and dizziness.
+Postmarketing reports: Allergic reaction, anaphylactic shock
+Common (1% to 10%): Nausea/abdominal pain Uncommon (0.1% to 1%): Dry mouth, vomiting, difficulty swallowing, heartburnPostmarketing reports: Salivation, anorexia, increased appetite, constipation, diarrhea, esophagitis, gastroenteritis, gastrointestinal spasm, mouth burning, pyloric ulcer, stomach upset
+Uncommon (0.1% to 1%): AgitationPostmarketing reports: Abuse, addiction, anxiety, depression, hallucination, insomnia, libido decreased, nervousness, psychosis, increased sexual activity
+Common (1% to 10%): Drowsiness, dizziness/lightheadedness, feeling intoxicatedUncommon (0.1% to 1%): Headache, shaky feeling, tingling, fainting, numbnessPostmarketing reports: Hyperactivity, disorientation, sedation, slurred speech, twitching, unconsciousness
+Uncommon (0.1% to 1%): Fatigue, heavy eyelids, high energy, hot spells, sluggishness, fever, earache, tinnitusPostmarketing reports: Vertigo
+Uncommon (0.1% to 1%): TachycardiaPostmarketing reports: Flushing, chest pain, hypotensive reaction, palpitations, syncope, edema
+Uncommon (0.1% to 1%): Diuresis Postmarketing reports: Urinary difficulty
+Uncommon (0.1% to 1%): Hyperhidrosis, pruritusPostmarketing reports: Erythema, erythema multiforme, exfoliative dermatitis, hives, rash, toxic epidermal necrolysis
+Postmarketing reports: Kidney impairment
+Uncommon (0.1% to 1%): Leg pain, muscle fatigue
+Uncommon (0.1% to 1%): Nasal congestionPostmarketing reports: Epistaxis, hiccup
+Postmarketing reports: Miosis
+Postmarketing reports: Cholangiocarcinoma
 Back, leg, or stomach pains
 black, tarry stools
 bleeding gums
@@ -65,8 +51,6 @@ trembling or shaking of the hands or feet
 upper right abdominal or stomach pain
 weight gain
 yellow eyes and skin
-
-
 Confusion as to time, place, or person
 continuing ringing or buzzing or other unexplained noise in the ears
 convulsions
@@ -86,8 +70,6 @@ pinpoint pupils (black part of the eyes)
 restlessness
 trouble sleeping
 unusual bleeding or bruising
-
-
 Anxiety
 blurred vision
 burning, tingling, numbness, or pain in the hands, arms, feet, or legs
@@ -118,4 +100,3 @@ trouble sitting still
 unexplained weight loss
 unusual behavior
 weakness
-

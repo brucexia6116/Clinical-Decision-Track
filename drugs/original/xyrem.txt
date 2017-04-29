@@ -1,38 +1,26 @@
-Generic Name: sodium oxybate
 Common side effects of Xyrem include: dizziness and nausea.  See below for a comprehensive list of adverse effects.
-Applies to sodium oxybate: oral solution
 As well as its needed effects, sodium oxybate (the active ingredient contained in Xyrem) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking sodium oxybate, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking sodium oxybate, get emergency help immediately:
-
 Some sodium oxybate side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to sodium oxybate: oral liquid
-Very common (10% or more): Dizziness (up to 15%), headacheCommon (1% to 10%): Confusion, somnolence, tremor, cataplexy paresthesia, disturbance in attention, sleep paralysis, balance disorder, hypoesthesia, sedation, dysgeusia, vertigoUncommon (0.1% to 1%): Myoclonus, amnesia, restless legs syndromeFrequency not reported: CNS depression, convulsionPostmarketing reports: Memory impairment[Ref]
-Common (1% to 10%): Depression, anxiety, parasomnias (including sleepwalking), disorientation, irritability, abnormal dreams, confusional state, nightmares, sleep disorder, insomnia, middle insomnia, nervousnessUncommon (0.1% to 1%): Suicide attempt, paranoia, hallucination, abnormal thinking, agitation, initial insomniaFrequency not reported: Abuse/misuse, psychosis, and suicidal ideationPostmarketing reports: Panic attack[Ref]
-Common (1% to 10%): Pain, feeling drunk, peripheral edema, asthenia, fatigue, fallPostmarketing reports: Hangover[Ref]
-Very common (10% or more): Nausea (up to 20%), vomiting (up to 11%)Common (1% to 10%): Diarrhea, upper abdominal pain, dry mouthUncommon (0.1% to 1%): Fecal incontinence[Ref]
-Common (1% to 10%): Pain in extremity, muscle spasms, arthralgia, back pain[Ref]
-Common (1% to 10%): Hyperhidrosis, rashFrequency not reported: Urticaria[Ref]
-Common (1% to 10%): Dyspnea, snoring, nasal congestion, nasopharyngitis, sinusitisFrequency not reported: Respiratory depression and sleep-disordered breathing, sleep apnea[Ref]
-The most commonly reported side effects were nausea, dizziness, vomiting, somnolence, enuresis, and tremor.[Ref]
-Common (1% to 10%): Palpitations, hypertension, increased blood pressure[Ref]
-Uncommon (0.1% to 1%): Hypersensitivity[Ref]
-Common (1% to 10%): Anorexia, decreased appetite, decreased weightPostmarketing reports: Fluid retention[Ref]
-Common (1% to 10%): Blurred vision[Ref]
-Common (1% to 10%): Enuresis nocturna, urinary incontinence[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Xyrem (sodium oxybate)." Orphan Medical, Minnetonka, MN. 
+Very common (10% or more): Dizziness (up to 15%), headacheCommon (1% to 10%): Confusion, somnolence, tremor, cataplexy paresthesia, disturbance in attention, sleep paralysis, balance disorder, hypoesthesia, sedation, dysgeusia, vertigoUncommon (0.1% to 1%): Myoclonus, amnesia, restless legs syndromeFrequency not reported: CNS depression, convulsionPostmarketing reports: Memory impairment
+Common (1% to 10%): Depression, anxiety, parasomnias (including sleepwalking), disorientation, irritability, abnormal dreams, confusional state, nightmares, sleep disorder, insomnia, middle insomnia, nervousnessUncommon (0.1% to 1%): Suicide attempt, paranoia, hallucination, abnormal thinking, agitation, initial insomniaFrequency not reported: Abuse/misuse, psychosis, and suicidal ideationPostmarketing reports: Panic attack
+Common (1% to 10%): Pain, feeling drunk, peripheral edema, asthenia, fatigue, fallPostmarketing reports: Hangover
+Very common (10% or more): Nausea (up to 20%), vomiting (up to 11%)Common (1% to 10%): Diarrhea, upper abdominal pain, dry mouthUncommon (0.1% to 1%): Fecal incontinence
+Common (1% to 10%): Pain in extremity, muscle spasms, arthralgia, back pain
+Common (1% to 10%): Hyperhidrosis, rashFrequency not reported: Urticaria
+Common (1% to 10%): Dyspnea, snoring, nasal congestion, nasopharyngitis, sinusitisFrequency not reported: Respiratory depression and sleep-disordered breathing, sleep apnea
+The most commonly reported side effects were nausea, dizziness, vomiting, somnolence, enuresis, and tremor.
+Common (1% to 10%): Palpitations, hypertension, increased blood pressure
+Uncommon (0.1% to 1%): Hypersensitivity
+Common (1% to 10%): Anorexia, decreased appetite, decreased weightPostmarketing reports: Fluid retention
+Common (1% to 10%): Blurred vision
+Common (1% to 10%): Enuresis nocturna, urinary incontinence
 It is possible that some side effects of Xyrem may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 rapid weight gain
 tingling of the hands or feet
 unusual weight gain or loss
-
-
 Anxiety
 blurred vision
 chest pain or discomfort
@@ -54,8 +42,6 @@ tightness in the chest
 troubled breathing at rest
 troubled breathing or swallowing
 weight gain
-
-
 Alternating periods of shallow and deep breathing
 bluish lips or skin, not breathing
 clumsiness
@@ -77,18 +63,13 @@ trembling or other problems with muscle control or coordination
 unusual tiredness or weakness
 vomiting
 weak or feeble pulse
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 confusion about identity, place, and time
 diarrhea
 feeling drunk
 irritability
 upper abdominal or stomach pain
-
-
 Being forgetful
 decreased appetite
 difficulty with moving
 muscle pain or stiffness
-

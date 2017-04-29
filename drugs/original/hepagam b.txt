@@ -1,21 +1,13 @@
-Generic Name: hepatitis b immune globulin
-Applies to hepatitis b immune globulin: solution
-In addition to its needed effects, some unwanted effects may be caused by hepatitis b immune globulin (the active ingredient contained in HepaGam B). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking hepatitis b immune globulin, check with your doctor or nurse immediately:
-Some of the side effects that can occur with hepatitis b immune globulin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to hepatitis b immune globulin: injectable solution, intramuscular solution
-Most side effects have been classified as mild.[Ref]
-Local side effects have included erythema, pain, ecchymosis, and tenderness at the injection site.[Ref]
-Hypersensitivity side effects including allergic reactions have been commonly reported.  Urticaria, angioedema, and anaphylactic reactions have been reported rarely.[Ref]
-Gastrointestinal side effects including nausea and vomiting have been commonly reported.  Aphthous stomatitis, diarrhea, dyspepsia, and gingival hyperplasia have been reported in greater than 10% of patients.[Ref]
-Other side effects have included fatigue (greater than 10%), peripheral edema (greater than 10%), pyrexia (greater than 10%), cold or flu symptoms (10%), lightheadedness (3%), fainting (3%), malaise, chills, and fever.[Ref]
-Musculoskeletal side effects have been commonly reported.  These have included back pain (greater than 10%), moderate low back pain, and arthralgia.  Myalgia and joint stiffness have been reported.[Ref]
-Hematologic side effects have included splenomegaly (greater than 10%) and decreased white blood cells.[Ref]
-Hepatic side effects have included hepatobiliary disease (greater than 10%), increased AST, and alkaline phosphatase.[Ref]
-Renal side effects have included nocturia (greater than 10%) and increased creatinine.[Ref]
+Most side effects have been classified as mild.
+Local side effects have included erythema, pain, ecchymosis, and tenderness at the injection site.
+Hypersensitivity side effects including allergic reactions have been commonly reported.  Urticaria, angioedema, and anaphylactic reactions have been reported rarely.
+Gastrointestinal side effects including nausea and vomiting have been commonly reported.  Aphthous stomatitis, diarrhea, dyspepsia, and gingival hyperplasia have been reported in greater than 10% of patients.
+Other side effects have included fatigue (greater than 10%), peripheral edema (greater than 10%), pyrexia (greater than 10%), cold or flu symptoms (10%), lightheadedness (3%), fainting (3%), malaise, chills, and fever.
+Musculoskeletal side effects have been commonly reported.  These have included back pain (greater than 10%), moderate low back pain, and arthralgia.  Myalgia and joint stiffness have been reported.
+Hematologic side effects have included splenomegaly (greater than 10%) and decreased white blood cells.
+Hepatic side effects have included hepatobiliary disease (greater than 10%), increased AST, and alkaline phosphatase.
+Renal side effects have included nocturia (greater than 10%) and increased creatinine.
 Respiratory side effects including pleural effusion have been reported in greater than 10% of patients.
 Dermatologic side effects including pruritus and rash have been reported in greater than 10% of patients.
 Psychiatric side effects including agitation have been reported in greater than 10% of patients.
@@ -24,17 +16,11 @@ Cardiovascular side effects including hypertension and hypotension have been rep
 Metabolic side effects have included hyperglycemia.
 Nervous system side effects have included amnesia (greater than 10%), essential tremor (greater than 10%), and headache (6% to greater than 10%).  At least two cases of tremor have been reported.
 Ocular side effects including presbyopia have been reported in greater than 10% of patients.
-1. "Product Information. Nabi-HB (hepatitis B immune globulin)." Allscripts Healthcare Solutions, Libertyville, IL. 
-2. "Product Information. Bayhep B (hepatitis B immune globulin)." Bayer Pharmaceutical Inc, West Haven, CT. 
-Not all side effects for HepaGam B may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Blurred vision
 confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 sweating
 unusual tiredness or weakness
-
-
 Chills
 cough
 difficult or labored breathing
@@ -49,26 +35,19 @@ shortness of breath
 skin rash
 tightness in the chest
 wheezing
-
-
 Back pain
 general feeling of discomfort
 headache
 muscle aches or pain
 nausea
 pain at the injection site
-
-
 Abdominal or stomach cramping
 burning, heat, and redness at the injection site
 diarrhea
 feeling as if you are going to vomit
 joint pain
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 cold sweats
 feeling cold
 flu-like symptoms
 upper abdominal or stomach pain
-

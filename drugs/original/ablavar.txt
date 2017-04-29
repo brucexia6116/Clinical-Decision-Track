@@ -1,22 +1,11 @@
-Generic Name: gadofosveset trisodium
-Applies to gadofosveset trisodium: injection solution
-In addition to its needed effects, some unwanted effects may be caused by gadofosveset trisodium (the active ingredient contained in Ablavar). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking gadofosveset trisodium, check with your doctor or nurse immediately:
-Some of the side effects that can occur with gadofosveset trisodium may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to gadofosveset trisodium: intravenous solution
-Hypersensitivity side effects have included anaphylaxis and anaphylactoid reactions.[Ref]
-Dermatologic side effects have included pruritus.[Ref]
-Local side effects have included injection site bruising, burning sensation, and venipuncture site bruise.[Ref]
-Nervous system side effects have included headache, paresthesia, and dizziness (excluding vertigo).[Ref]
-Cardiovascular side effects have included vasodilatation and hypertension.[Ref]
-Gastrointestinal side effects have included nausea and dysgeusia.[Ref]
-General side effects have included feeling cold.[Ref]
-1. "Product Information. Vasovist (gadofosveset trisodium)." Bayer Pharmaceutical Inc, West Haven, CT. 
-Not all side effects for Ablavar may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hypersensitivity side effects have included anaphylaxis and anaphylactoid reactions.
+Dermatologic side effects have included pruritus.
+Local side effects have included injection site bruising, burning sensation, and venipuncture site bruise.
+Nervous system side effects have included headache, paresthesia, and dizziness (excluding vertigo).
+Cardiovascular side effects have included vasodilatation and hypertension.
+Gastrointestinal side effects have included nausea and dysgeusia.
+General side effects have included feeling cold.
 Cough
 difficulty with swallowing
 dizziness
@@ -29,8 +18,6 @@ skin rash
 tightness in the chest
 unusual tiredness or weakness
 wheezing
-
-
 Blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 feeling faint, dizzy, or lightheaded
@@ -41,11 +28,8 @@ nervousness
 pounding in the ears
 slow or fast heartbeat
 sweating
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 change in taste
 feeling cold
 loss of taste
 nausea
-

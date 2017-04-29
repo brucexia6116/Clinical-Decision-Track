@@ -1,25 +1,14 @@
-Generic Name: doxylamine / pyridoxine
 Common side effects of Diclegis include: drowsiness.  See below for a comprehensive list of adverse effects.
-Applies to doxylamine / pyridoxine: oral tablet delayed release, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by doxylamine / pyridoxine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking doxylamine / pyridoxine:
-Some of the side effects that can occur with doxylamine / pyridoxine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to doxylamine / pyridoxine: oral delayed release tablet
-Postmarketing reports: Palpitation, tachycardia[Ref]
-Postmarketing reports: Hyperhidrosis, pruritus, rash, maculo-papular rash[Ref]
-Postmarketing reports: Abdominal distension, abdominal pain, constipation, diarrhea[Ref]
-Postmarketing reports: Hypersensitivity[Ref]
-Very common (10% or more): Somnolence (14.3%)Postmarketing reports: Vertigo, dizziness, headache, migraines, paresthesia, psychomotor hyperactivity[Ref]
-Postmarketing reports: Blurred vision, visual disturbances[Ref]
-Postmarketing reports: Chest discomfort, fatigue, irritability, malaise[Ref]
-Postmarketing reports: Anxiety, disorientation, insomnia, nightmares[Ref]
-Postmarketing reports: Dysuria, urinary retention[Ref]
-Postmarketing reports: Dyspnea[Ref]
-1. "Product Information. Diclegis (doxylamine-pyridoxine)." Duchesnay USA Inc, Rosemont, PA. 
-Not all side effects for Diclegis may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Postmarketing reports: Palpitation, tachycardia
+Postmarketing reports: Hyperhidrosis, pruritus, rash, maculo-papular rash
+Postmarketing reports: Abdominal distension, abdominal pain, constipation, diarrhea
+Postmarketing reports: Hypersensitivity
+Very common (10% or more): Somnolence (14.3%)Postmarketing reports: Vertigo, dizziness, headache, migraines, paresthesia, psychomotor hyperactivity
+Postmarketing reports: Blurred vision, visual disturbances
+Postmarketing reports: Chest discomfort, fatigue, irritability, malaise
+Postmarketing reports: Anxiety, disorientation, insomnia, nightmares
+Postmarketing reports: Dysuria, urinary retention
+Postmarketing reports: Dyspnea
 Chest discomfort
 decrease in the frequency of urination
 decrease in urine volume
@@ -27,7 +16,4 @@ difficult or labored breathing
 difficult or painful urination
 fast, irregular, pounding, or racing heartbeat or pulse
 swelling of the eyelids, face, lips, hands, or feet
-
-
 Unusual drowsiness
-

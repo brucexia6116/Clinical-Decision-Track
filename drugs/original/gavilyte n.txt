@@ -1,36 +1,21 @@
-Generic Name: polyethylene glycol 3350 with electrolytes
-Applies to polyethylene glycol 3350 with electrolytes: oral powder for solution
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by polyethylene glycol 3350 with electrolytes (the active ingredient contained in GaviLyte-N). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking polyethylene glycol 3350 with electrolytes:
-Some of the side effects that can occur with polyethylene glycol 3350 with electrolytes may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to polyethylene glycol 3350 with electrolytes: oral kit, oral powder for reconstitution
-The most common adverse events were abdominal distension, anal discomfort, thirst, nausea, and abdominal pain.  Since diarrhea is considered part of the efficacy of this product, it was not defined as an adverse reaction.[Ref]
-Very common (10% or more): Abdominal distension (59.8%), anal discomfort (52%), nausea (47.3%), abdominal pain (39.1%), vomiting (12.8%)Common (1% to 10%): Upper abdominal pain, dyspepsiaFrequency not reported: Upper gastrointestinal bleeding from a Mallory-Weiss tear, esophageal perforation, borborygmi, flatulence[Ref]
-Very common (10% or more): Hunger (70.8%)Common (1% to 10%): Hypokalemia, hyperphosphatemiaFrequency not reported: Electrolyte disturbances, hyperkalemia[Ref]
-Very common (10% or more): Rigors (33.7%), malaise (26.6%)Frequency not reported: Peripheral edema[Ref]
-Very common (10% or more): Dizziness (18.1%)Common (1% to 10%): Headache[Ref]
-Very common (10% or more): Sleep disorder (34.9%)[Ref]
-Frequency not reported: Anaphylactic reactionPostmarketing reports: Hypersensitivity reactions (including anaphylaxis, rash, angioedema, urticaria, lip and facial swelling, dyspnea, chest tightness, throat tightness)[Ref]
-Frequency not reported: Asystole[Ref]
-Frequency not reported: Urticaria, dermatitis[Ref]
-Frequency not reported: Rhinorrhea, acute pulmonary edema, acute pulmonary edema after aspirating the PEG-based preparation[Ref]
-1. "Product Information. MoviPrep (polyethylene glycol 3350 with electrolytes)." Physicians Total Care, Tulsa, OK. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for GaviLyte-N may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most common adverse events were abdominal distension, anal discomfort, thirst, nausea, and abdominal pain.  Since diarrhea is considered part of the efficacy of this product, it was not defined as an adverse reaction.
+Very common (10% or more): Abdominal distension (59.8%), anal discomfort (52%), nausea (47.3%), abdominal pain (39.1%), vomiting (12.8%)Common (1% to 10%): Upper abdominal pain, dyspepsiaFrequency not reported: Upper gastrointestinal bleeding from a Mallory-Weiss tear, esophageal perforation, borborygmi, flatulence
+Very common (10% or more): Hunger (70.8%)Common (1% to 10%): Hypokalemia, hyperphosphatemiaFrequency not reported: Electrolyte disturbances, hyperkalemia
+Very common (10% or more): Rigors (33.7%), malaise (26.6%)Frequency not reported: Peripheral edema
+Very common (10% or more): Dizziness (18.1%)Common (1% to 10%): Headache
+Very common (10% or more): Sleep disorder (34.9%)
+Frequency not reported: Anaphylactic reactionPostmarketing reports: Hypersensitivity reactions (including anaphylaxis, rash, angioedema, urticaria, lip and facial swelling, dyspnea, chest tightness, throat tightness)
+Frequency not reported: Asystole
+Frequency not reported: Urticaria, dermatitis
+Frequency not reported: Rhinorrhea, acute pulmonary edema, acute pulmonary edema after aspirating the PEG-based preparation
 oral powder for solution, oral powder for suspension
-
 Full or bloated feeling
 pain in the upper stomach
 pressure in the stomach
 stomach pain
 swelling of abdominal or stomach area
 vomiting
-
-
 Coma
 confusion
 convulsions
@@ -46,8 +31,6 @@ numbness or tingling in the hands, feet, fingertips, lips, or mouth
 shortness of breath
 swelling of the face, ankles, or hands
 unusual tiredness or weakness
-
-
 Burning, itching, or pain around the anus
 difficulty with sleeping
 feeling unusually cold
@@ -56,11 +39,8 @@ hunger
 nausea
 shivering
 thirst
-
-
 Acid or sour stomach
 belching
 heartburn
 indigestion
 stomach discomfort or upset
-

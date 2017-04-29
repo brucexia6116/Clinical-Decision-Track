@@ -1,34 +1,26 @@
-Generic Name: tacrolimus topical
 Common side effects of Protopic include: burning sensation of skin and pruritus. Other side effects include: herpes zoster infection, varicella zoster infection, and vesicobullous dermatitis.  See below for a comprehensive list of adverse effects.
-Applies to tacrolimus topical: topical ointment
 As well as its needed effects, tacrolimus topical (the active ingredient contained in Protopic) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking tacrolimus topical, check with your doctor immediately:
 Some tacrolimus topical side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to tacrolimus topical: topical ointment
-Common (1% to 10%): Lymphadenopathy, peripheral edema, hypertensionUncommon (0.1% to 1%): Tachycardia, syncope, valvular heart disease, vasodilation[Ref]
-Very common (10% or more): Skin burning (26%), pruritus (22%), skin infection (12%)Common (1% to 10%): Erythema, herpes simplex, pustular rash, folliculitis, urticaria, maculopapular rash, fungal dermatitis, acne, sunburn, skin disorder, vesiculobullous rash, skin tingling, face edema, dry skin, benign skin neoplasm, varicella zoster/herpes zoster, contact dermatitis, eczema, cellulitis, Kaposi's varicelliform eruptionUncommon (0.1% to 1%): Cutaneous moniliasis, furunculosis, leukoderma, seborrhea, skin carcinoma, skin discoloration, skin hypertrophy, skin ulcer, sweating, rosacea[Ref]
-Common (1% to 10%): Urinary tract infection, dysmenorrheaUncommon (0.1% to 1%): Breast neoplasm benign, cystitis, vaginal moniliasis, vaginitisFrequency not reported: Unintended pregnancy[Ref]
-Common (1% to 10%): Diarrhea, nausea, vomiting, abdominal pain, gastroenteritis, dyspepsia, periodontal abscess, tooth disorder, alopeciaUncommon (0.1% to 1%): Colitis, constipation, cramps, dehydration, dry mouth/nose, gastritis, GI disorder, hernia, mouth ulceration, nail disorder, photosensitivity reaction, rectal disorder, stomatitis, tooth caries[Ref]
-Uncommon (0.1% to 1%): Hypothyroidism[Ref]
-Uncommon (0.1% to 1%): Anemia, ecchymosis[Ref]
-Uncommon (0.1% to 1%): Bilirubinemia[Ref]
-Very common (10% or more): Influenza-like illness (28%)Common (1% to 10%): InfectionUncommon (0.1% to 1%): Abscess, moniliasis, bullous impetigo, osteomyelitis,[Ref]
-Very common (10% or more): Allergic reaction (11%)[Ref]
-Uncommon (0.1% to 1%): Application site edema, application site burning, application site warmth, application site erythema, application site pain, application site irritation, application site paresthesia, application site rash[Ref]
-Common (1% to 10%): Alcohol intoleranceUncommon (0.1% to 1%): Anorexia, arthrosis, hypercholesterolemia[Ref]
-Common (1% to 10%): Back pain, myalgia, arthralgiaUncommon (0.1% to 1%): Arthritis, arthrosis, bone disorder, bursitis, chest pain, hypertonia, joint disorder, neck pain, tendon disorder[Ref]
-Very common (10% or more): Headache (11%)Common (1% to 10%): Hyperesthesia, paresthesiaUncommon (0.1% to 1%): Dizziness, migraine, taste perversion[Ref]
-Common (1% to 10%): ConjunctivitisUncommon (0.1% to 1%): Abnormal vision, blepharitis, conjunctival edema, dry eyes, eye painFrequency not reported: Ophthalmic herpes infection[Ref]
-Postmarketing reports: Lymphomas, basal cell carcinoma, squamous cell carcinoma, malignant melanoma[Ref]
-Common (1% to 10%): Otitis media, pain, asthenia, cyst, ear painUncommon (0.1% to 1%): Malaise, chills, ear disorder, edema, otitis externa[Ref]
-Common (1% to 10%): Insomnia, depressionUncommon (0.1% to 1%): Anxiety, thinking abnormal[Ref]
-Common (1% to 10%): Cough, asthma, pharyngitis, rhinitis, sinusitis, bronchitis, pneumoniaUncommon (0.1% to 1%): Dyspnea, epistaxis, laryngitis, lung disorder[Ref]
-1. "Product Information. Protopic (tacrolimus topical)" Fujisawa, Deerfield, IL. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+Common (1% to 10%): Lymphadenopathy, peripheral edema, hypertensionUncommon (0.1% to 1%): Tachycardia, syncope, valvular heart disease, vasodilation
+Very common (10% or more): Skin burning (26%), pruritus (22%), skin infection (12%)Common (1% to 10%): Erythema, herpes simplex, pustular rash, folliculitis, urticaria, maculopapular rash, fungal dermatitis, acne, sunburn, skin disorder, vesiculobullous rash, skin tingling, face edema, dry skin, benign skin neoplasm, varicella zoster/herpes zoster, contact dermatitis, eczema, cellulitis, Kaposi's varicelliform eruptionUncommon (0.1% to 1%): Cutaneous moniliasis, furunculosis, leukoderma, seborrhea, skin carcinoma, skin discoloration, skin hypertrophy, skin ulcer, sweating, rosacea
+Common (1% to 10%): Urinary tract infection, dysmenorrheaUncommon (0.1% to 1%): Breast neoplasm benign, cystitis, vaginal moniliasis, vaginitisFrequency not reported: Unintended pregnancy
+Common (1% to 10%): Diarrhea, nausea, vomiting, abdominal pain, gastroenteritis, dyspepsia, periodontal abscess, tooth disorder, alopeciaUncommon (0.1% to 1%): Colitis, constipation, cramps, dehydration, dry mouth/nose, gastritis, GI disorder, hernia, mouth ulceration, nail disorder, photosensitivity reaction, rectal disorder, stomatitis, tooth caries
+Uncommon (0.1% to 1%): Hypothyroidism
+Uncommon (0.1% to 1%): Anemia, ecchymosis
+Uncommon (0.1% to 1%): Bilirubinemia
+Very common (10% or more): Influenza-like illness (28%)Common (1% to 10%): InfectionUncommon (0.1% to 1%): Abscess, moniliasis, bullous impetigo, osteomyelitis,
+Very common (10% or more): Allergic reaction (11%)
+Uncommon (0.1% to 1%): Application site edema, application site burning, application site warmth, application site erythema, application site pain, application site irritation, application site paresthesia, application site rash
+Common (1% to 10%): Alcohol intoleranceUncommon (0.1% to 1%): Anorexia, arthrosis, hypercholesterolemia
+Common (1% to 10%): Back pain, myalgia, arthralgiaUncommon (0.1% to 1%): Arthritis, arthrosis, bone disorder, bursitis, chest pain, hypertonia, joint disorder, neck pain, tendon disorder
+Very common (10% or more): Headache (11%)Common (1% to 10%): Hyperesthesia, paresthesiaUncommon (0.1% to 1%): Dizziness, migraine, taste perversion
+Common (1% to 10%): ConjunctivitisUncommon (0.1% to 1%): Abnormal vision, blepharitis, conjunctival edema, dry eyes, eye painFrequency not reported: Ophthalmic herpes infection
+Postmarketing reports: Lymphomas, basal cell carcinoma, squamous cell carcinoma, malignant melanoma
+Common (1% to 10%): Otitis media, pain, asthenia, cyst, ear painUncommon (0.1% to 1%): Malaise, chills, ear disorder, edema, otitis externa
+Common (1% to 10%): Insomnia, depressionUncommon (0.1% to 1%): Anxiety, thinking abnormal
+Common (1% to 10%): Cough, asthma, pharyngitis, rhinitis, sinusitis, bronchitis, pneumoniaUncommon (0.1% to 1%): Dyspnea, epistaxis, laryngitis, lung disorder
 It is possible that some side effects of Protopic may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Agitation
 black, tarry stools
 bloody urine
@@ -74,8 +66,6 @@ vomiting
 weight gain
 weight loss
 yellow skin and eyes
-
-
 Cough
 fever
 general aches and pains
@@ -86,8 +76,6 @@ skin burning
 skin flushing in areas of ointment application when drinking alcohol
 sneezing
 weakness
-
-
 Acid or sour stomach
 acne
 back pain
@@ -119,4 +107,3 @@ swollen glands
 tightness of the chest
 troubled breathing or wheezing
 watery eyes
-

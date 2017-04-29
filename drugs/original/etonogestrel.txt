@@ -1,24 +1,14 @@
 Commonly reported side effects of etonogestrel include: irregular menses and weight gain. Other side effects include: depression and pain.  See below for a comprehensive list of adverse effects.
-Applies to etonogestrel: intradermal implant
-In addition to its needed effects, some unwanted effects may be caused by etonogestrel. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking etonogestrel, check with your doctor or nurse immediately:
-Some of the side effects that can occur with etonogestrel may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to etonogestrel: subcutaneous implant
-Local side effects have included insertion site pain.[Ref]
-Dermatologic side effects have included acne.[Ref]
-General side effects have included weight increase, influenza-like symptoms, and pain.[Ref]
-Gastrointestinal side effects have included abdominal pain and nausea.[Ref]
-Genitourinary side effects have included bleeding irregularities, vaginitis, dysmenorrhea, and leukorrhea.[Ref]
-Nervous system side effects have included headache, dizziness,and nervousness.[Ref]
-Psychiatric side effects have included emotional liability and depression.[Ref]
-Musculoskeletal side effects have included back pain.[Ref]
-Respiratory side effects have included sinusitis, pharyngitis, and upper respiratory tract infection.[Ref]
-1. "Product Information. Implanon (etonogestrel)." Organon Pharmaceuticals, West Orange, NJ. 
-Not all side effects for etonogestrel may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Local side effects have included insertion site pain.
+Dermatologic side effects have included acne.
+General side effects have included weight increase, influenza-like symptoms, and pain.
+Gastrointestinal side effects have included abdominal pain and nausea.
+Genitourinary side effects have included bleeding irregularities, vaginitis, dysmenorrhea, and leukorrhea.
+Nervous system side effects have included headache, dizziness,and nervousness.
+Psychiatric side effects have included emotional liability and depression.
+Musculoskeletal side effects have included back pain.
+Respiratory side effects have included sinusitis, pharyngitis, and upper respiratory tract infection.
 Breast pain
 chills
 cough
@@ -37,8 +27,6 @@ sweating
 trouble sleeping
 unusual tiredness or weakness
 vomiting
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 bloating
 blurred vision or other changes in vision
@@ -66,12 +54,8 @@ stomach or pelvic discomfort, aching, or heaviness
 swelling of the hands, ankles, feet, or lower legs
 tightness in the chest
 wheezing
-
-
 Collection of blood under the skin at the injection site
 deep, dark purple bruise at the injection site
-
-
 Back pain
 blemishes on the skin, pimples
 body aches or pain
@@ -104,8 +88,6 @@ tender, swollen glands in the neck
 thick, white vaginal discharge with no odor or with a mild odor
 trouble concentrating
 voice changes
-
-
 Abdominal or stomach bloating and cramping
 abnormal ejaculation
 abnormal or decreased touch sensation
@@ -144,4 +126,3 @@ tenderness in the stomach area
 unable to sleep
 vaginal burning or pain
 weight loss
-

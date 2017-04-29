@@ -1,83 +1,27 @@
-Applies to atazanavir: oral capsule, oral powder
-In addition to its needed effects, some unwanted effects may be caused by atazanavir. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking atazanavir:
-Some of the side effects that can occur with atazanavir may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to atazanavir: oral capsule, oral powder for reconstitution
-The most common side effects reported in therapy-naive patients during clinical trials were nausea, jaundice/scleral icterus, and rash.  The most common side effects reported in therapy-experienced patients during clinical trials were jaundice/scleral icterus and myalgia.[Ref]
-Elevated total bilirubin (at least 2.6 times upper limit of normal [ULN]), ALT (at least 5.1 times ULN), and AST (at least 5.1 times ULN) have been reported in up to 53%, up to 25%, and up to 10% of patients, respectively.Most patients taking this drug experienced asymptomatic elevations in indirect (unconjugated) bilirubin related to inhibition of UDP-glucuronosyl transferase.  This hyperbilirubinemia was reversible upon discontinuation of this drug.[Ref]
-Very common (10% or more): Elevated indirect (unconjugated) bilirubin (up to 87%), elevated total bilirubin (up to 53%), elevated ALT (up to 25%), jaundice (up to 19%)Common (1% to 10%): Elevated AST, jaundice/scleral icterusUncommon (0.1% to 1%): HepatitisRare (less than 0.1%): HepatosplenomegalyFrequency not reported: Hepatomegaly, liver damage, acute hepatic cytolysis, biliary lithiasis, choledocholithiasisPostmarketing reports: Hepatic function abnormalities, cholelithiasis, cholecystitis, cholestasis[Ref]
-Elevated total cholesterol (at least 240 mg/dL), triglycerides (at least 751 mg/dL), and glucose (at least 251 mg/dL) have been reported in up to 25%, up to 8%, and 5% of patients.[Ref]
-Very common (10% or more): Elevated total cholesterol (up to 25%)Common (1% to 10%): Elevated triglycerides, elevated glucoseUncommon (0.1% to 1%): Anorexia, increased appetite, decreased weight, weight gainRare (less than 0.1%): KetoacidosisFrequency not reported: Elevated LDL cholesterol, elevated HDL cholesterol, hyperkalemia, lactic acidosis, hyperlactatemia, redistribution/accumulation of body fat (including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, "cushingoid appearance"), hypertriglyceridemia, hypercholesterolemia, insulin resistancePostmarketing reports: New onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, hyperglycemia[Ref]
-Very common (10% or more): Rash (up to 20%)Common (1% to 10%): LipodystrophyUncommon (0.1% to 1%): Alopecia, pruritus, urticariaRare (less than 0.1%): Vesiculobullous rash, eczemaFrequency not reported: PhotosensitivityPostmarketing reports: Maculopapular rash, erythema multiforme, toxic skin eruptions, drug rash with eosinophilia and systemic symptoms (DRESS) syndrome, angioedema, Stevens-Johnson syndrome[Ref]
-Elevated amylase (at least 2.1 times ULN) and lipase (at least 2.1 times ULN) have been reported in up to 14% and up to 11% of patients, respectively.[Ref]
-Very common (10% or more): Nausea (up to 20%), elevated amylase (up to 14%), elevated lipase (up to 11%)Common (1% to 10%): Abdominal pain, diarrhea, vomiting, dyspepsiaUncommon (0.1% to 1%): Dry mouth, flatulence, gastritis, pancreatitis, abdominal distension, aphthous stomatitisFrequency not reported: Acholia, colitis, constipation, dental pain, esophageal ulcer, gastrointestinal disorder, peptic ulcer, sialolithiasis/parotid gland lithiasis[Ref]
-Very common (10% or more): Headache (up to 14%)Common (1% to 10%): Peripheral neurological symptoms, dizzinessUncommon (0.1% to 1%): Syncope, peripheral neuropathy, amnesia, somnolence, dysgeusiaFrequency not reported: Paresthesias[Ref]
-Very common (10% or more): Elevated creatine kinase (up to 11%)Common (1% to 10%): Back pain, myalgia, arthralgiaUncommon (0.1% to 1%): Muscle atrophyRare (less than 0.1%): MyopathyFrequency not reported: Bone pain, extremity pain, myasthenia, osteonecrosis[Ref]
-Elevated creatine kinase (at least 5.1 times ULN) has been reported in up to 11% of patients.[Ref]
-Common (1% to 10%): Decreased neutrophils, decreased hemoglobin, decreased plateletsRare (less than 0.1%): Spontaneous bleeding in hemophiliacs[Ref]
-Decreased neutrophils (less than 750 cells/mm3), hemoglobin (less than 8 g/dL), and platelets (less than 50,000 cells/mm3) have been reported in up to 8%, up to 5%, and up to 5% of patients, respectively.[Ref]
-Common (1% to 10%): Fever/pyrexia, pain, fatigue, asthenia, lipodystrophy syndromeUncommon (0.1% to 1%): Chest pain, malaise, gait disturbancesRare (less than 0.1%): EdemaFrequency not reported: Burning sensation, dysplasia, facial atrophy, generalized edema, heat sensitivity, infection, overdose, pallor, peripheral edema, substernal chest pain, sweating, semicircular canal lithiasis[Ref]
-Common (1% to 10%): Depression, insomniaUncommon (0.1% to 1%): Anxiety, disorientation, sleep disorder, abnormal dream[Ref]
-Common (1% to 10%): Scleral icterus/ocular icterus[Ref]
-Common (1% to 10%): Increased coughUncommon (0.1% to 1%): Dyspnea[Ref]
-In healthy volunteers and patients, abnormalities in AV conduction were asymptomatic and generally limited to first-degree AV block.A 59-year-old HIV-infected woman with congestive heart failure and an ejection fraction of 30% started lamivudine, zidovudine, and atazanavir.  One month later, the patient presented with syncope and complained of nausea, which had begun 5 days prior.  During the month after therapy initiation, the patient experienced slowly progressive shortness of breath.  An ECG showed a QTc interval prolongation of 619 min.  Prior to starting antiretroviral therapy, an ECG showed a QTc interval of 398 min for the patient.  The patient developed continuous ventricular tachycardia and was defibrillated to sinus bradycardia, which worsened her QT interval prolongation.  The patient developed torsades de pointes, which reverted after further defibrillation.  Treatment to increase her heart rate and decrease her QT interval was started.  The patient's antiretroviral therapy was discontinued during her hospitalization and was not restarted due to concerns regarding QT prolongation.  The patient's QTc interval decreased to 394 min and she had no additional ventricular tachyarrhythmias.  The patient was restarted on lamivudine, zidovudine, and atazanavir and within 2 days, ECG showed QTc interval prolongation to 571 min.  The atazanavir was concluded to be the cause of the prolonged QT interval and torsades de pointes.  The patient's QT interval returned to normal following discontinuation of her antiretroviral therapy.[Ref]
-Uncommon (0.1% to 1%): HypertensionRare (less than 0.1%): Palpitation, vasodilatationFrequency not reported: Prolongation of the PR interval, abnormalities in atrioventricular (AV) conduction, first-degree AV block, prolonged QT interval, ventricular tachycardia, increased QRS interval, heart arrest, heart block, myocarditisPostmarketing reports: Second-degree AV block, third-degree AV block, left bundle branch block, QTc prolongation, torsades de pointes[Ref]
-Uncommon (0.1% to 1%): Interstitial nephritisRare (less than 0.1%): Acute interstitial nephritis, renal colic, reversible acute renal failure, urolithiasis, kidney painPostmarketing reports: Nephrolithiasis, hydronephrosis, renal insufficiency[Ref]
-An analysis of a ureteral stone determined it was 60% atazanavir metabolite and 40% calcium phosphate (carbonate apatite).  The stone was not metabolites adsorbed into the apatite but contained atazanavir crystals.  Analysis of renal calculi from additional patients determined concentrations of atazanavir ranging from 40% to 100%.[Ref]
-Uncommon (0.1% to 1%): HypersensitivityFrequency not reported: Allergic reaction[Ref]
-Uncommon (0.1% to 1%): Hematuria, frequency of micturition/pollakiuria, proteinuria, gynecomastiaFrequency not reported: Decreased male fertility[Ref]
-Frequency not reported: Immune reconstitution syndrome, autoimmune disorders in the setting of immune reconstitution (e.g., Graves' disease, polymyositis, Guillain-Barre syndrome)[Ref]
-1. "Product Information. Reyataz (atazanavir)." Bristol-Myers Squibb, Princeton, NJ. 
-2. Croom KF,  Dhillon S,  Keam SJ "Atazanavir: A Review of its Use in the Management of HIV-1 Infection." Drugs 69 (2009): 1107-40
-3. Tozzi V "Pharmacogenetics of antiretrovirals." Antiviral Res 85 (2010): 190-200
-4. Vernazza P,  Daneel S,  Schiffer V, et al. "The role of compartment penetration in PI-Monotherapy: the Atazanavir-Ritonavir Monomaintenance (ATARITMO) Trial." AIDS 21 (2007): 1309-1315
-5. Guaraldi G,  Cocchi S,  Motta A, et al. "A pilot study on the efficacy, pharmacokinetics and safety of atazanavir in patients with end-stage liver disease." J Antimicrob Chemother 62 (2008): 1356-64
-6. HHS Panel on Antiretroviral Therapy and Medical Management of HIV-Infected Children. National Institutes of Health "Guidelines for the use of antiretroviral agents in pediatric HIV infection. Available from: URL: http://aidsinfo.nih.gov/contentfiles/lvguidelines/pediatricguidelines.pdf."   ([2014 Feb 12]):
-7. Soriano V,  Puoti M,  Sulkowski M, et al. "Care of patients coinfected with HIV and hepatitis C virus: 2007 updated recommendations from the HCV-HIV International Panel." AIDS 21 (2007): 1073-89
-8. Johnson M,  Grinsztejn B,  Rodriguez C, et al. "96-week comparison of once-daily atazanavir/ritonavir and twice-daily lopinavir/ritonavir in patients with multiple virologic failures." AIDS 20 (2006): 711-718
-9. Ouagari Z,  Tubiana R,  Mohand HA, et al. "Skin rash associated with atazanavir: report of three cases." AIDS 20 (2006): 1207-8
-10. Johnson M,  Grinsztejn B,  Rodriguez C, et al. "Atazanavir plus ritonavir or saquinavir, and lopinavir/ritonavir in patients experiencing multiple virological failures." AIDS 19 (2005): 685-94
-11. Pacanowski J,  Poirier JM,  Petit I,  Meynard JL,  Girard PM "Atazanavir urinary stones in an HIV-infected patient." AIDS 20 (2006): 2131
-12. Jacques AC,  Giguere P,  Zhang G,  Touchie C,  la Porte CJ "Atazanavir-associated choledocholithiasis leading to acute hepatitis in an HIV-infected adult (January)." Ann Pharmacother 44 (2009): 202-6
-13. Courbon E,  Laylavoix F,  Soulie C, et al. "Unexpected atazanavir-associated biliary lithiasis in an HIV-infected patient." J Antimicrob Chemother 67 (2012): 250-1
-14. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-15. Colombo S,  Buclin T,  Cavassini M, et al. "Population pharmacokinetics of atazanavir in patients with human immunodeficiency virus infection." Antimicrob Agents Chemother  (2006):
-16. "Drugs for HIV infection." Treat Guidel Med Lett 7 (2009): 11-22
-17. Rotger M,  Taffe P,  Bleiber G, et al. "Gilbert syndrome and the development of antiretroviral therapy-associated hyperbilirubinemia." J Infect Dis 192 (2005): 1381-6
-18. Rodriguez-Novoa S,  Martin-Carbonero L,  Barreiro P, et al. "Genetic factors influencing atazanavir plasma concentrations and the risk of severe hyperbilirubinemia." AIDS 21 (2007): 41-6
-19. von Hentig N,  Muller A,  Rottmann C, et al. "Pharmacokinetics of saquinavir, atazanavir and ritonavir in a boosted double-protease inhibitor twice-daily regimen." Antimicrob Agents Chemother 51 (2007): 1431-9
-20. Park WB,  Choe PG,  Song KH, et al. "Genetic factors influencing severe atazanavir-associated hyperbilirubinemia in a population with low UDP-glucuronosyltransferase 1A1*28 allele frequency." Clin Infect Dis 51 (2010): 101-6
-21. Anderson PL "Pharmacologic perspectives for once-daily antiretroviral therapy." Ann Pharmacother 38 (2004): 1969-70
-22. Piacenti FJ "An update and review of antiretroviral therapy." Pharmacotherapy 26 (2006): 1111-33
-23. Warnke D,  Barreto J,  Temesgen Z "Antiretroviral drugs." J Clin Pharmacol 47 (2007): 1570-9
-24. van Leeuwen E,  Ter Heine R,  van der Veen F,  Repping S,  Beijnen JH,  Prins JM "Penetration of atazanavir in seminal plasma of men infected with HIV-1." Antimicrob Agents Chemother 51 (2007): 335-7
-25. Hammer SM,  Saag MS,  Schechter M, et al. "Treatment for adult HIV infection: 2006 recommendations of the International AIDS Society-USA panel." JAMA 296 (2006): 827-43
-26. Torti C,  Lapadula G,  Antinori A, et al. "Hyperbilirubinemia during atazanavir treatment in 2,404 patients in the Italian Atazanavir Expanded Access Program and MASTER Cohorts." Infection 37 (2009): 244-9
-27. Gatell J,  Salmon-Ceron D,  Lazzarin A, et al. "Efficacy and safety of atazanavir-based highly active antiretroviral therapy in patients with virologic suppression switched from a stable, boosted or unboosted protease inhibitor treatment regimen: the SWAN Study (AI424-097) 48-week results." Clin Infect Dis 44 (2007): 1484-92
-28. Rakotondravelo S,  Poinsignon Y,  Borsa-Lebas F, et al. "Complicated atazanavir-associated Cholelithiasis: a Report of 14 Cases." Clin Infect Dis 55 (2012): 1270-2
-29. Eholie SP,  Lacombe K,  Serfaty L,  Wendum D,  Girard PM "Acute hepatic cytolysis in an HIV-infected patient taking atazanavir." AIDS 18 (2004): 1610-1
-30. Swainston Harrison T,  Scott LJ "Atazanavir: A Review of its Use in the Management of HIV Infection." Drugs 65 (2005): 2309-36
-31. HHS Panel on Antiretroviral Guidelines for Adults and Adolescents. Office of AIDS Research Advisory Council (OARAC). NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Available from: URL: http://aidsinfo.nih.gov/contentfiles/lvguidelines/adultandadolescentgl.pdf."   ([2013 Feb 12]):
-32. Jemsek JG,  Arathoon E,  Arlotti M, et al. "Body fat and other metabolic effects of atazanavir and efavirenz, each administered in combination with zidovudine plus lamivudine, in antiretroviral-naive HIV-infected patients." Clin Infect Dis 42 (2006): 273-80
-33. Bergersen BM "Cardiovascular Risk in Patients with HIV Infection : Impact of Antiretroviral Therapy." Drugs 66 (2006): 1971-87
-34. Torres HA,  Barnett BJ,  Arduino RC "Alopecia associated with ritonavir-boosted atazanavir therapy." AIDS 21 (2007): 1391-1392
-35. Borras-Blasco J,  Navarro-Ruiz A,  Borras C,  Castera E "Adverse cutaneous reactions associated with the newest antiretroviral drugs in patients with human immunodeficiency virus infection." J Antimicrob Chemother 62 (2008): 879-88
-36. Pastori D,  Esposito A,  Cagliuso M,  Conti V,  Mezzaroma I "Lithiasis of semicircular canals and parotid glands: unusual stones deposition in atazanavir-treated individuals." AIDS 23 (2009): 2233-4
-37. Le MP,  Stitou H,  Soulie C,  Katlama C,  Peytavin G "Sialolithiasis in an HIV-1-infected patient treated with atazanavir/ritonavir monotherapy." J Antimicrob Chemother 68 (2012): 727-9
-38. Ly T,  Ruiz ME "Prolonged QT Interval and Torsades de Pointes Associated with Atazanavir Therapy." Clin Infect Dis 44 (2007): e67-8
-39. Gallagher DP,  Kieran J,  Sheehan G,  Lambert J,  Mahon N,  Mallon PW "Ritonavir-boosted atazanavir, methadone, and ventricular tachycardia: 2 case reports." Clin Infect Dis 47 (2008): e36-8
-40. Chan-Tack KM,  Truffa MM,  Struble KA,  Birnkrant DB "Atazanavir-associated nephrolithiasis: cases from the US Food and Drug Administration's Adverse Event Reporting System." AIDS 21 (2007): 1215-8
-41. Koblic PM,  Gold WL,  la Porte CJ,  Lee TC "Medication-based urolithiasis and atazanavir." CMAJ 183 (2011): E748-51
-42. Anderson PL,  Lichtenstein KA,  Gerig NE,  Kiser JJ,  Bushman LR "Atazanavir-containing renal calculi in an HIV-infected patient." AIDS 21 (2007): 1060-2
-43. Roling J,  Schmid H,  Fischereder M,  Draenert R,  Goebel FD "HIV-Associated Renal Diseases and Highly Active Antiretroviral Therapy-Induced Nephropathy." Clin Infect Dis 42 (2006): 1488-95
-44. Couzigou C,  Daudon M,  Meynard JL, et al. "Urolithiasis in HIV-positive patients treated with atazanavir." Clin Infect Dis 45 (2007): e105-8
-45. Brewster UC,  Perazella MA "Acute interstitial nephritis associated with atazanavir, a new protease inhibitor." Am J Kidney Dis 44 (2004): e81-4
-46. Izzedine H,  M'rad MB,  Bardier A,  Daudon M,  Salmon D "Atazanavir crystal nephropathy." AIDS 21 (2007): 2357-8
-47. Chang HR,  Pella PM "Atazanavir urolithiasis." N Engl J Med 355 (2006): 2158-2159
-Not all side effects for atazanavir may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common side effects reported in therapy-naive patients during clinical trials were nausea, jaundice/scleral icterus, and rash.  The most common side effects reported in therapy-experienced patients during clinical trials were jaundice/scleral icterus and myalgia.
+Elevated total bilirubin (at least 2.6 times upper limit of normal [ULN]), ALT (at least 5.1 times ULN), and AST (at least 5.1 times ULN) have been reported in up to 53%, up to 25%, and up to 10% of patients, respectively.Most patients taking this drug experienced asymptomatic elevations in indirect (unconjugated) bilirubin related to inhibition of UDP-glucuronosyl transferase.  This hyperbilirubinemia was reversible upon discontinuation of this drug.
+Very common (10% or more): Elevated indirect (unconjugated) bilirubin (up to 87%), elevated total bilirubin (up to 53%), elevated ALT (up to 25%), jaundice (up to 19%)Common (1% to 10%): Elevated AST, jaundice/scleral icterusUncommon (0.1% to 1%): HepatitisRare (less than 0.1%): HepatosplenomegalyFrequency not reported: Hepatomegaly, liver damage, acute hepatic cytolysis, biliary lithiasis, choledocholithiasisPostmarketing reports: Hepatic function abnormalities, cholelithiasis, cholecystitis, cholestasis
+Elevated total cholesterol (at least 240 mg/dL), triglycerides (at least 751 mg/dL), and glucose (at least 251 mg/dL) have been reported in up to 25%, up to 8%, and 5% of patients.
+Very common (10% or more): Elevated total cholesterol (up to 25%)Common (1% to 10%): Elevated triglycerides, elevated glucoseUncommon (0.1% to 1%): Anorexia, increased appetite, decreased weight, weight gainRare (less than 0.1%): KetoacidosisFrequency not reported: Elevated LDL cholesterol, elevated HDL cholesterol, hyperkalemia, lactic acidosis, hyperlactatemia, redistribution/accumulation of body fat (including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, "cushingoid appearance"), hypertriglyceridemia, hypercholesterolemia, insulin resistancePostmarketing reports: New onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, hyperglycemia
+Very common (10% or more): Rash (up to 20%)Common (1% to 10%): LipodystrophyUncommon (0.1% to 1%): Alopecia, pruritus, urticariaRare (less than 0.1%): Vesiculobullous rash, eczemaFrequency not reported: PhotosensitivityPostmarketing reports: Maculopapular rash, erythema multiforme, toxic skin eruptions, drug rash with eosinophilia and systemic symptoms (DRESS) syndrome, angioedema, Stevens-Johnson syndrome
+Elevated amylase (at least 2.1 times ULN) and lipase (at least 2.1 times ULN) have been reported in up to 14% and up to 11% of patients, respectively.
+Very common (10% or more): Nausea (up to 20%), elevated amylase (up to 14%), elevated lipase (up to 11%)Common (1% to 10%): Abdominal pain, diarrhea, vomiting, dyspepsiaUncommon (0.1% to 1%): Dry mouth, flatulence, gastritis, pancreatitis, abdominal distension, aphthous stomatitisFrequency not reported: Acholia, colitis, constipation, dental pain, esophageal ulcer, gastrointestinal disorder, peptic ulcer, sialolithiasis/parotid gland lithiasis
+Very common (10% or more): Headache (up to 14%)Common (1% to 10%): Peripheral neurological symptoms, dizzinessUncommon (0.1% to 1%): Syncope, peripheral neuropathy, amnesia, somnolence, dysgeusiaFrequency not reported: Paresthesias
+Very common (10% or more): Elevated creatine kinase (up to 11%)Common (1% to 10%): Back pain, myalgia, arthralgiaUncommon (0.1% to 1%): Muscle atrophyRare (less than 0.1%): MyopathyFrequency not reported: Bone pain, extremity pain, myasthenia, osteonecrosis
+Elevated creatine kinase (at least 5.1 times ULN) has been reported in up to 11% of patients.
+Common (1% to 10%): Decreased neutrophils, decreased hemoglobin, decreased plateletsRare (less than 0.1%): Spontaneous bleeding in hemophiliacs
+Decreased neutrophils (less than 750 cells/mm3), hemoglobin (less than 8 g/dL), and platelets (less than 50,000 cells/mm3) have been reported in up to 8%, up to 5%, and up to 5% of patients, respectively.
+Common (1% to 10%): Fever/pyrexia, pain, fatigue, asthenia, lipodystrophy syndromeUncommon (0.1% to 1%): Chest pain, malaise, gait disturbancesRare (less than 0.1%): EdemaFrequency not reported: Burning sensation, dysplasia, facial atrophy, generalized edema, heat sensitivity, infection, overdose, pallor, peripheral edema, substernal chest pain, sweating, semicircular canal lithiasis
+Common (1% to 10%): Depression, insomniaUncommon (0.1% to 1%): Anxiety, disorientation, sleep disorder, abnormal dream
+Common (1% to 10%): Scleral icterus/ocular icterus
+Common (1% to 10%): Increased coughUncommon (0.1% to 1%): Dyspnea
+In healthy volunteers and patients, abnormalities in AV conduction were asymptomatic and generally limited to first-degree AV block.A 59-year-old HIV-infected woman with congestive heart failure and an ejection fraction of 30% started lamivudine, zidovudine, and atazanavir.  One month later, the patient presented with syncope and complained of nausea, which had begun 5 days prior.  During the month after therapy initiation, the patient experienced slowly progressive shortness of breath.  An ECG showed a QTc interval prolongation of 619 min.  Prior to starting antiretroviral therapy, an ECG showed a QTc interval of 398 min for the patient.  The patient developed continuous ventricular tachycardia and was defibrillated to sinus bradycardia, which worsened her QT interval prolongation.  The patient developed torsades de pointes, which reverted after further defibrillation.  Treatment to increase her heart rate and decrease her QT interval was started.  The patient's antiretroviral therapy was discontinued during her hospitalization and was not restarted due to concerns regarding QT prolongation.  The patient's QTc interval decreased to 394 min and she had no additional ventricular tachyarrhythmias.  The patient was restarted on lamivudine, zidovudine, and atazanavir and within 2 days, ECG showed QTc interval prolongation to 571 min.  The atazanavir was concluded to be the cause of the prolonged QT interval and torsades de pointes.  The patient's QT interval returned to normal following discontinuation of her antiretroviral therapy.
+Uncommon (0.1% to 1%): HypertensionRare (less than 0.1%): Palpitation, vasodilatationFrequency not reported: Prolongation of the PR interval, abnormalities in atrioventricular (AV) conduction, first-degree AV block, prolonged QT interval, ventricular tachycardia, increased QRS interval, heart arrest, heart block, myocarditisPostmarketing reports: Second-degree AV block, third-degree AV block, left bundle branch block, QTc prolongation, torsades de pointes
+Uncommon (0.1% to 1%): Interstitial nephritisRare (less than 0.1%): Acute interstitial nephritis, renal colic, reversible acute renal failure, urolithiasis, kidney painPostmarketing reports: Nephrolithiasis, hydronephrosis, renal insufficiency
+An analysis of a ureteral stone determined it was 60% atazanavir metabolite and 40% calcium phosphate (carbonate apatite).  The stone was not metabolites adsorbed into the apatite but contained atazanavir crystals.  Analysis of renal calculi from additional patients determined concentrations of atazanavir ranging from 40% to 100%.
+Uncommon (0.1% to 1%): HypersensitivityFrequency not reported: Allergic reaction
+Uncommon (0.1% to 1%): Hematuria, frequency of micturition/pollakiuria, proteinuria, gynecomastiaFrequency not reported: Decreased male fertility
+Frequency not reported: Immune reconstitution syndrome, autoimmune disorders in the setting of immune reconstitution (e.g., Graves' disease, polymyositis, Guillain-Barre syndrome)
 Abdominal or stomach discomfort, fullness, or pain
 bloating
 blood in the urine
@@ -128,8 +72,6 @@ unusual tiredness or weakness
 vomiting
 vomiting of blood
 yellow eyes or skin
-
-
 Back pain
 cough, increased
 discouragement
@@ -139,8 +81,6 @@ irritability
 loss of interest or pleasure
 trouble concentrating
 trouble sleeping
-
-
 Burning, numbness, tingling, or painful sensations
 difficulty with moving
 muscle stiffness
@@ -148,8 +88,5 @@ pain
 pain in the joints
 unsteadiness or awkwardness
 weakness in the arms, hands, legs, or feet
-
-
 Hair loss or thinning of the hair
 rash with flat lesions or small raised lesions on the skin
-

@@ -1,21 +1,11 @@
-Generic Name: cangrelor
-Applies to cangrelor: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by cangrelor (the active ingredient contained in Kengreal). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking cangrelor, check with your doctor or nurse immediately:
-
-
-Applies to cangrelor: intravenous powder for injection
-The most common adverse reaction was bleeding.[Ref]
-Very common (10% or more): Any Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Arteries (GUSTO) bleeding (15.5%), mild GUSTO bleeding (14.9%)Uncommon (0.1% to 1%): Severe/life-threatening GUSTO bleeding, moderate GUSTO bleeding, any Thrombolysis in Myocardial Infarction (TIMI) bleeding, major TIMI bleeding, minor TIMI bleedingFrequency not reported: Coronary artery dissection, coronary artery perforation[Ref]
-Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Arteries (GUSTO) bleeding definitions:-Severe/life-threatening GUSTO bleeding: Intracranial hemorrhage or bleeding resulting in substantial hemodynamic compromise requiring treatment.-Moderate GUSTO bleeding: Bleeding requiring blood transfusion but not resulting in hemodynamic compromise.-Mild GUSTO bleeding: All other bleeding not included in severe or moderate.Thrombolysis in Myocardial Infarction (TIMI) bleeding definitions:-Major TIMI bleeding: Any intracranial hemorrhage or any overt bleeding associated with a reduction in hemoglobin of at least 5 g/dL (if hemoglobin is not available, an absolute reduction in hematocrit of 15% or more).-Minor TIMI bleeding: Any overt sign of bleeding (including observation by imaging techniques) associated with a reduction in hemoglobin of 3 to less than 5 g/dL (if hemoglobin is not available, an absolute reduction in hematocrit of 9% to less than 15%).[Ref]
-Common (1% to 10%): DyspneaFrequency not reported: Bronchospasm, stridor[Ref]
-Common (1% to 10%): Worsening renal function in patients with CrCl less than 30 mL/min[Ref]
-Rare (less than 0.1%): HypersensitivityFrequency not reported: Anaphylactic reactions, anaphylactic shock[Ref]
-Frequency not reported: Angioedema[Ref]
-1. "Product Information. Kengreal (cangrelor)." The Medicines Company, Parsippany, NJ. 
-Not all side effects for Kengreal may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reaction was bleeding.
+Very common (10% or more): Any Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Arteries (GUSTO) bleeding (15.5%), mild GUSTO bleeding (14.9%)Uncommon (0.1% to 1%): Severe/life-threatening GUSTO bleeding, moderate GUSTO bleeding, any Thrombolysis in Myocardial Infarction (TIMI) bleeding, major TIMI bleeding, minor TIMI bleedingFrequency not reported: Coronary artery dissection, coronary artery perforation
+Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Arteries (GUSTO) bleeding definitions:-Severe/life-threatening GUSTO bleeding: Intracranial hemorrhage or bleeding resulting in substantial hemodynamic compromise requiring treatment.-Moderate GUSTO bleeding: Bleeding requiring blood transfusion but not resulting in hemodynamic compromise.-Mild GUSTO bleeding: All other bleeding not included in severe or moderate.Thrombolysis in Myocardial Infarction (TIMI) bleeding definitions:-Major TIMI bleeding: Any intracranial hemorrhage or any overt bleeding associated with a reduction in hemoglobin of at least 5 g/dL (if hemoglobin is not available, an absolute reduction in hematocrit of 15% or more).-Minor TIMI bleeding: Any overt sign of bleeding (including observation by imaging techniques) associated with a reduction in hemoglobin of 3 to less than 5 g/dL (if hemoglobin is not available, an absolute reduction in hematocrit of 9% to less than 15%).
+Common (1% to 10%): DyspneaFrequency not reported: Bronchospasm, stridor
+Common (1% to 10%): Worsening renal function in patients with CrCl less than 30 mL/min
+Rare (less than 0.1%): HypersensitivityFrequency not reported: Anaphylactic reactions, anaphylactic shock
+Frequency not reported: Angioedema
 Abdominal or stomach pain or swelling
 back pain
 black, tarry stools
@@ -28,12 +18,8 @@ dizziness
 headache
 joint pain or swelling
 nosebleeds
-
-
 Difficult or labored breathing
 tightness in the chest
-
-
 Cough
 difficulty with swallowing
 fast heartbeat
@@ -42,4 +28,3 @@ large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, leg
 noisy breathing
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 unusual tiredness or weakness
-

@@ -1,11 +1,7 @@
-Generic Name: isoflurane
-Applies to isoflurane: inhalation liquid
-General side effects including malignant hyperthermia and shivering have been observed in the postoperative period.In general, side effects encountered in the administration of isoflurane (the active ingredient contained in Forane) are dose dependent extensions of pharmacophysiologic effects and include respiratory depression, hypotension, and arrhythmias.[Ref]
-Hepatic side effects have included rare reports of mild, moderate, and severe (sometimes fatal) postoperative hepatic dysfunction and hepatitis.  There have also been rare postmarketing reports of hepatic failure and hepatic necrosis associated with the use of potent volatile anesthetic agents, including isoflurane (the active ingredient contained in Forane) [Ref]
-Gastrointestinal side effects including nausea, vomiting, and ileus have been observed in the postoperative period.[Ref]
-Isoflurane (the active ingredient contained in Forane) can react with desiccated carbon dioxide (CO2) absorbents to produce carbon monoxide, which may result in elevated levels of carboxyhemoglobin in some patients.[Ref]
-Respiratory side effects including elevated carboxyhemoglobin levels have been reported.[Ref]
-Metabolic side effects including perioperative hyperkalemia have been reported.[Ref]
-Hematologic side effects including transient elevations in white blood count have been reported even in the absence of surgical stress.[Ref]
-1. "Product Information. Forane (isoflurane)." Baxter Pharmaceutical Products, Inc, New Providence, NJ. 
-Not all side effects for Forane may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+General side effects including malignant hyperthermia and shivering have been observed in the postoperative period.In general, side effects encountered in the administration of isoflurane (the active ingredient contained in Forane) are dose dependent extensions of pharmacophysiologic effects and include respiratory depression, hypotension, and arrhythmias.
+Hepatic side effects have included rare reports of mild, moderate, and severe (sometimes fatal) postoperative hepatic dysfunction and hepatitis.  There have also been rare postmarketing reports of hepatic failure and hepatic necrosis associated with the use of potent volatile anesthetic agents, including isoflurane (the active ingredient contained in Forane) 
+Gastrointestinal side effects including nausea, vomiting, and ileus have been observed in the postoperative period.
+Isoflurane (the active ingredient contained in Forane) can react with desiccated carbon dioxide (CO2) absorbents to produce carbon monoxide, which may result in elevated levels of carboxyhemoglobin in some patients.
+Respiratory side effects including elevated carboxyhemoglobin levels have been reported.
+Metabolic side effects including perioperative hyperkalemia have been reported.
+Hematologic side effects including transient elevations in white blood count have been reported even in the absence of surgical stress.

@@ -1,62 +1,27 @@
-Generic Name: acetaminophen / hydrocodone
-Applies to acetaminophen / hydrocodone: oral capsule, oral elixir, oral liquid, oral solution, oral syrup, oral tablet
 As well as its needed effects, acetaminophen / hydrocodone may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking acetaminophen / hydrocodone, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking acetaminophen / hydrocodone, get emergency help immediately:
-
 Some acetaminophen / hydrocodone side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to acetaminophen / hydrocodone: oral capsule, oral elixir, oral liquid, oral solution, oral tablet
-The adverse effects of hydrocodone are generally similar to the adverse effects observed with other narcotic analgesics.  Acetaminophen is generally well-tolerated when administered in therapeutic doses.[Ref]
-One study has suggested that the respiratory depression caused by hydrocodone may be of benefit in the treatment of dyspnea related to chronic obstructive pulmonary disease and restrictive lung disease.  However, the potential for the precipitation of respiratory insufficiency makes such use of hydrocodone hazardous and such use should be undertaken, if at all, only with extreme caution.[Ref]
-Nervous system side effects of hydrocodone include mental depression, dizziness, lightheadedness, respiratory depression (which is sometimes fatal), stupor, delirium, somnolence, agitation, and dysphoria.[Ref]
-Other side effects have included withdrawal symptoms, after either abrupt cessation or fast tapering of narcotic analgesics.  Such symptoms may include agitation, restlessness, anxiety, insomnia, tremor, abdominal cramps, blurred vision, vomiting, and sweating.[Ref]
-Alcoholic patients may develop hepatotoxicity after even modest doses of acetaminophen.  In healthy patients, approximately 15 grams of acetaminophen is necessary to deplete liver glutathione stores by 70% in a 70 kg person.  However, hepatotoxicity has been reported following smaller doses.  Glutathione concentrations may be repleted by the antidote N-acetylcysteine.  One case report has suggested that hypothermia may also be beneficial in decreasing liver damage during overdose.In a recent retrospective study of 306 patients admitted for acetaminophen overdose, 6.9% had severe liver injury but all recovered.  None of the 306 patients died.A 19-year-old female developed hepatotoxicity, reactive plasmacytosis and agranulocytosis followed by a leukemoid reaction after acute acetaminophen toxicity.The adverse effects of hydrocodone may be more likely and more severe in patients with liver disease.[Ref]
-Hepatic side effects including severe and sometimes fatal dose dependent hepatitis have been reported in alcoholic patients.  Hepatotoxicity has been increased during fasting.  Several cases of hepatotoxicity from chronic acetaminophen therapy at therapeutic doses have also been reported despite a lack of risk factors for toxicity.[Ref]
-Gastrointestinal side effects with the use of acetaminophen are rare except in alcoholics and after overdose.  Cases of acute pancreatitis have been reported rarely.Gastrointestinal side effect including nausea, vomiting, constipation, and dry mouth are relatively common effects of narcotic analgesics.[Ref]
-One study has suggested that acetaminophen may precipitate acute biliary pain and cholestasis.  The mechanism of this effect may be related to inhibition of prostaglandin and alterations in the regulation of the sphincter of Oddi.[Ref]
-Genitourinary side effects including ureteral spasm, spasm of vesicle sphincters, and urinary retention have been reported.[Ref]
-Dermatologic side effects including narcotic-induced rashes have been reported.  General erythematous skin rashes associated with acetaminophen have been reported, but are rare.  A rare case of bullous erythema associated with acetaminophen has been reported.  Acetaminophen has been associated with a risk of rare but potentially fatal serious skin reactions know as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP).[Ref]
-Acute tubular necrosis usually occurs in conjunction with liver failure, but has been observed as an isolated finding in rare cases.The adverse effects of hydrocodone may be more likely and more severe in patients with renal insufficiency.[Ref]
-Renal side effects of acetaminophen are rare and include acute tubular necrosis and interstitial nephritis.  Adverse renal effects are most often observed after overdose, from chronic abuse (often with multiple analgesics), or in association with acetaminophen-related hepatotoxicity.[Ref]
-Hematologic side effects including rare cases of thrombocytopenia associated with acetaminophen have been reported.  Acute thrombocytopenia has also been reported as having been caused by sensitivity to acetaminophen glucuronide, the major metabolite of acetaminophen.  Methemoglobinemia with resulting cyanosis has also been observed in the setting of acute overdose.[Ref]
-Hypersensitivity side effects to acetaminophen have been reported rarely.[Ref]
-Respiratory side effects have included a case of eosinophilic pneumonia which has been associated with acetaminophen.[Ref]
+The adverse effects of hydrocodone are generally similar to the adverse effects observed with other narcotic analgesics.  Acetaminophen is generally well-tolerated when administered in therapeutic doses.
+One study has suggested that the respiratory depression caused by hydrocodone may be of benefit in the treatment of dyspnea related to chronic obstructive pulmonary disease and restrictive lung disease.  However, the potential for the precipitation of respiratory insufficiency makes such use of hydrocodone hazardous and such use should be undertaken, if at all, only with extreme caution.
+Nervous system side effects of hydrocodone include mental depression, dizziness, lightheadedness, respiratory depression (which is sometimes fatal), stupor, delirium, somnolence, agitation, and dysphoria.
+Other side effects have included withdrawal symptoms, after either abrupt cessation or fast tapering of narcotic analgesics.  Such symptoms may include agitation, restlessness, anxiety, insomnia, tremor, abdominal cramps, blurred vision, vomiting, and sweating.
+Alcoholic patients may develop hepatotoxicity after even modest doses of acetaminophen.  In healthy patients, approximately 15 grams of acetaminophen is necessary to deplete liver glutathione stores by 70% in a 70 kg person.  However, hepatotoxicity has been reported following smaller doses.  Glutathione concentrations may be repleted by the antidote N-acetylcysteine.  One case report has suggested that hypothermia may also be beneficial in decreasing liver damage during overdose.In a recent retrospective study of 306 patients admitted for acetaminophen overdose, 6.9% had severe liver injury but all recovered.  None of the 306 patients died.A 19-year-old female developed hepatotoxicity, reactive plasmacytosis and agranulocytosis followed by a leukemoid reaction after acute acetaminophen toxicity.The adverse effects of hydrocodone may be more likely and more severe in patients with liver disease.
+Hepatic side effects including severe and sometimes fatal dose dependent hepatitis have been reported in alcoholic patients.  Hepatotoxicity has been increased during fasting.  Several cases of hepatotoxicity from chronic acetaminophen therapy at therapeutic doses have also been reported despite a lack of risk factors for toxicity.
+Gastrointestinal side effects with the use of acetaminophen are rare except in alcoholics and after overdose.  Cases of acute pancreatitis have been reported rarely.Gastrointestinal side effect including nausea, vomiting, constipation, and dry mouth are relatively common effects of narcotic analgesics.
+One study has suggested that acetaminophen may precipitate acute biliary pain and cholestasis.  The mechanism of this effect may be related to inhibition of prostaglandin and alterations in the regulation of the sphincter of Oddi.
+Genitourinary side effects including ureteral spasm, spasm of vesicle sphincters, and urinary retention have been reported.
+Dermatologic side effects including narcotic-induced rashes have been reported.  General erythematous skin rashes associated with acetaminophen have been reported, but are rare.  A rare case of bullous erythema associated with acetaminophen has been reported.  Acetaminophen has been associated with a risk of rare but potentially fatal serious skin reactions know as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP).
+Acute tubular necrosis usually occurs in conjunction with liver failure, but has been observed as an isolated finding in rare cases.The adverse effects of hydrocodone may be more likely and more severe in patients with renal insufficiency.
+Renal side effects of acetaminophen are rare and include acute tubular necrosis and interstitial nephritis.  Adverse renal effects are most often observed after overdose, from chronic abuse (often with multiple analgesics), or in association with acetaminophen-related hepatotoxicity.
+Hematologic side effects including rare cases of thrombocytopenia associated with acetaminophen have been reported.  Acute thrombocytopenia has also been reported as having been caused by sensitivity to acetaminophen glucuronide, the major metabolite of acetaminophen.  Methemoglobinemia with resulting cyanosis has also been observed in the setting of acute overdose.
+Hypersensitivity side effects to acetaminophen have been reported rarely.
+Respiratory side effects have included a case of eosinophilic pneumonia which has been associated with acetaminophen.
 In the case of metabolic acidosis, causality is uncertain as more than one drug was ingested.  The case of metabolic acidosis followed the ingestion of 75 grams of acetaminophen, 1.95 grams of aspirin, and a small amount of a liquid household cleaner.  The patient also had a history of seizures which the authors reported may have contributed to an increased lactate level indicative of metabolic acidosis.
 Metabolic side effects including metabolic acidosis have been reported following a massive overdose of acetaminophen.
-1. Turturro MA, Paris PM, Yealy DM, Menegazzi JJ "Hydrocodone versus codeine in acute musculoskeletal pain." Ann Emerg Med 20 (1991): 1100-3
-2. Morrison AB "Toxicity and abuse of hydrocodone bitartrate." Can Med Assoc J 120 (1979): 1338
-3. Fricke J, Halladay SC, Bynum L, Francisco CA "Pain relief after dental impaction surgery using ketorolac, hydrocodone plus acetaminophen, or placebo." Clin Ther 15 (1993): 500-9
-4. Morrow PL, Faris EC "Death associated with inadvertent hydrocodone overdose in a child with a respiratory tract infection." Am J Forensic Med Pathol 8 (1987): 60-3
-5. Sackner MA "Effects of hydrocodone bitartrate on breathing pattern of patients with chronic obstructive pulmonary disease and restrictive lung disease." Mt Sinai J Med 51 (1984): 222-6
-6. Cohen J, Tattersfield H, Lloyd D, Cantopher T "A request for a strong analgesic." Practitioner 234 (1990): 691-4
-7. Seeff LB, Cuccherini BA, Zimmerman HJ, Adler E, Benjamin SB "Acetaminophen hepatotoxicity in alcoholics." Ann Intern Med 104 (1986): 399-404
-8. Minton NA, Henry JA, Frankel RJ "Fatal paracetamol poisoning in an epileptic." Hum Toxicol 7 (1988): 33-4
-9. Shriner K, Goetz MB "Severe hepatotoxicity in a patient receiving both acetaminophen and zidovudine." Am J Med 93 (1992): 94-6
-10. Csete M, Sullivan JB "Vicodin-induced fulminant hepatic failure." Anesthesiology 79 (1993): 857-60
-11. Keaton MR "Acute renal failure in an alcoholic during therapeutic acetaminophen ingestion." South Med J 81 (1988): 1163-6
-12. Black M "Acetaminophen hepatotoxicity." Annu Rev Med 35 (1984): 577-93
-13. Wong V, Daly M, Boon A, Heatley V "Paracetamol and acute biliary pain with cholestasis." Lancet 342 (1993): 869
-14. Kaysen GA, Pond SM, Roper MH, Menke DJ, Marrama MA "Combined hepatic and renal injury in alcoholics during therapeutic use of acetaminophen." Arch Intern Med 145 (1985): 2019-23
-15. Jackson CH, MacDonald NC, Cornett JW "Acetaminophen: a practical pharmacologic overview." Can Med Assoc J 131 (1984): 25-37
-16. O'Dell JR, Zetterman RK, Burnett DA "Centrilobular hepatic fibrosis following acetaminophen-induced hepatic necrosis in an alcoholic." JAMA 255 (1986): 2636-7
-17. Thomas RH, Munro DD "Fixed drug eruption due to paracetamol." Br J Dermatol 115 (1986): 357-9
-18. Guin JD, Haynie LS, Jackson D, Baker GF "Wandering fixed drug eruption: a mucocutaneous reaction to acetaminophen." J Am Acad Dermatol 17 (1987): 399-402
-19. Segasothy M, Suleiman AB, Puvaneswary M, Rohana A "Paracetamol: a cause for analgesic nephropathy and end-stage renal disease." Nephron 50 (1988): 50-4
-20. Gabriel R, Caldwell J, Hartley RB "Acute tubular necrosis, caused by therapeutic doses of paracetamol?" Clin Nephrol 18 (1982): 269-71
-21. Shoenfeld Y, Shaklai M, Livni E, Pinkhas J "Thrombocytopenia from acetaminophen." N Engl J Med 303 (1980): 47
-22. Bougie DW,  Benito AI,  Sanchez-Abarca LI,  Torres R,  Birenbaum J,  Aster RH "Acute thrombocytopenia caused by sensitivity to the glucuronide conjugate of acetaminophen." Blood 109 (2007): 3608-9
-23. Van Diem L, Grilliat JP "Anaphylactic shock induced by paracetamol." Eur J Clin Pharmacol 38 (1990): 389-90
-24. Settipane RA, Stevenson DD "Cross sensitivity with acetaminophen in aspirin-sensitive subjects with asthma." J Allergy Clin Immunol 84 (1989): 26-33
-25. Kondo K, Inoue Y, Hamada H, Yokoyama A, Kohno N, Hiwada K "Acetaminophen-induced eosinophilic pneumonia." Chest 104 (1993): 291-2
 It is possible that some side effects of Xodol may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Dizziness
 lightheadedness
-
-
 Back, leg, or stomach pains
 black, tarry stools
 bleeding gums
@@ -101,8 +66,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Bloody or cloudy urine
 change in consciousness
 chest pain or discomfort
@@ -123,13 +86,9 @@ stopping of heart
 sudden decrease in the amount of urine
 unconsciousness
 unpleasant breath odor
-
-
 Drowsiness
 relaxed and calm
 sleepiness
-
-
 Belching
 changes in mood
 difficulty having a bowel movement (stool)
@@ -139,4 +98,3 @@ hearing loss
 impaired hearing
 pain in the chest below the breastbone
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
-

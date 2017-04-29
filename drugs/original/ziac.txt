@@ -1,42 +1,33 @@
-Generic Name: bisoprolol / hydrochlorothiazide
 More frequent side effects include: diarrhea, dizziness, headache, and rhinitis.  See below for a comprehensive list of adverse effects.
-Applies to bisoprolol / hydrochlorothiazide: oral tablet
 As well as its needed effects, bisoprolol / hydrochlorothiazide may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking bisoprolol / hydrochlorothiazide, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking bisoprolol / hydrochlorothiazide, get emergency help immediately:
-
 Some bisoprolol / hydrochlorothiazide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to bisoprolol / hydrochlorothiazide: oral tablet
-Frequency not reported side effects were seen with hydrochlorothiazide doses of generally 25 mg and higher.[Ref]
-The more commonly reported side effects observed with this drug are fatigue, dizziness, and diarrhea.[Ref]
-Common (1% to 10%): Bradycardia, chest pain, peripheral edemaFrequency not reported: Arrhythmia, peripheral ischemiaBisoprolol:Frequency not reported: Bradycardia, palpitations, rhythm disturbances, cold extremities, claudication, hypotension, orthostatic hypotension, chest pain, congestive heart failure, exertional dyspnea, edemaHydrochlorothiazide:Frequency not reported: Orthostatic hypotension, necrotizing angiitis, vasculitis[Ref]
-Orthostatic hypotension may be potentiated by alcohol, barbiturates, or narcotics.[Ref]
-Common (1% to 10%): Diarrhea, nausea, dyspepsiaBisoprolol:Frequency not reported: Gastric pain, epigastric pain, abdominal pain, peptic ulcer, gastritis, dyspepsia, nausea, vomiting, diarrhea, constipation, dry mouth, mesenteric arterial thrombosis, ischemic colitis Hydrochlorothiazide:Frequency not reported: Gastric irritation, constipation, pancreatitis, sialadenitis, dry mouth[Ref]
-Common (1% to 10%): Dizziness, somnolenceFrequency not reported: HeadacheBisoprolol:Frequency not reported: Unsteadiness, dizziness, vertigo, headache, syncope, paresthesia, hypoesthesia, hyperesthesia, somnolence, decreased concentration, decreased memory, tremor, taste abnormality, slightly clouded sensoriumHydrochlorothiazide:Frequency not reported: Vertigo, paresthesia[Ref]
-Common (1% to 10%): Muscle cramps, myalgiaBisoprolol:Frequency not reported: Arthralgia, muscle pain, joint pain, back pain, neck pain, muscle cramps, twitchingHydrochlorothiazide:Frequency not reported: Cramping, muscle spasm[Ref]
-Common (1% to 10%): Cough, upper respiratory tract infectionUncommon (0.1% to 1%): RhinitisBisoprolol:Frequency not reported: Asthma, bronchospasm, bronchitis, dyspnea, pharyngitis, rhinitis, sinusitis, upper respiratory infection, sore throat, laryngospasm, respiratory distressHydrochlorothiazide:Frequency not reported: Respiratory distress, pneumonitis, pulmonary edema[Ref]
-Common (1% to 10%): FatigueBisoprolol:Frequency not reported: Tinnitus, decreased hearing, earache, fatigue, asthenia, malaise, fever, achingHydrochlorothiazide:Frequency not reported: Weakness, fever[Ref]
-Common (1% to 10%): ImpotenceBisoprolol:Frequency not reported: Impotence, polyuria, Peyronie's diseaseHydrochlorothiazide: Frequency not reported: Sexual dysfunction[Ref]
-Uncommon (0.1% to 1%): HypokalemiaFrequency not reported: Increased uric acid, increased serum triglycerides, decreased HDLBisoprolol:Frequency not reported: Gout, weight gain, increased serum triglycerides, increased uric acid, increased serum potassium, increased glucose, increased phosphorus Hydrochlorothiazide:Common (1% to 10%): HypokalemiaFrequency not reported: Anorexia, gout, hyperglycemia, hyperuricemia, hyperlipidemia, hypercalcemia, increased uric acid, other electrolyte imbalances[Ref]
-Bisoprolol: Uric acid, serum potassium, glucose, and phosphorus increases associated with use of this drug were not of clinical importance and rarely resulted in discontinuation.[Ref]
-Frequency not reported: Insomnia, loss of libidoBisoprolol:Frequency not reported: Sleep disturbance, vivid dreams, insomnia, depression, anxiety, restlessness, decreased libido, hallucination, disorientation to time and space, emotional labilityHydrochlorothiazide:Frequency not reported: Restlessness[Ref]
-Of the 15% of patients who converted to a positive ANA status, one-third of the patients converted back to a negative ANA titer with continued use.[Ref]
-Bisoprolol:Very common: Antinuclear antibody (ANA) conversions to a positive titer (up to 15%)[Ref]
-Bisoprolol:Frequency not reported: Cystitis, renal colic, increased creatinine, increased BUNHydrochlorothiazide:Frequency not reported: Renal failure, renal dysfunction, interstitial nephritis, glycosuria[Ref]
-Creatinine and BUN were associated with slightly increased levels, but these effects were generally not of clinical importance and rarely resulted in discontinuation.[Ref]
-Bisoprolol:Frequency not reported: Rash, acne, eczema, psoriasis, skin irritation, pruritus, flushing, sweating, alopecia, dermatitis, cutaneous vasculitis, exfoliative dermatitis Hydrochlorothiazide:Frequency not reported: Photosensitivity, rash, cutaneous vasculitis, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis[Ref]
-Bisoprolol:Frequency not reported: Visual disturbances, ocular pain, ocular pressure, abnormal lacrimationHydrochlorothiazide:Frequency not reported: Transient blurred vision, xanthopsia[Ref]
-Bisoprolol:Frequency not reported: Purpura, decreased WBCs, decreased platelets, eosinophilia, agranulocytosis, thrombocytopeniaHydrochlorothiazide:Frequency not reported: Purpura, leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia[Ref]
-During treatment with this drug, eosinophilia and decreased levels of WBCs and platelets were not of clinical importance and rarely resulted in discontinuation.[Ref]
-Bisoprolol:Frequency not reported: AngioedemaHydrochlorothiazide:Frequency not reported: Urticaria, anaphylactic reactions[Ref]
-SGOT and SGPT elevations of 1 to 2 times the upper limit of normal were reported in 6.2% of patients, with a multiple occurrence rate of 1.9%.  Generally, this increase was the result of underlying disorders or resolved with continued use of this drug.[Ref]
-Bisoprolol:Common (1% to 10%): Increased serum glutamic oxaloacetic transaminase (SGOT) and serum glutamic pyruvic transaminase (SGPT)Hydrochlorothiazide:Frequency not reported: Intrahepatic cholestatic jaundice, cholecystitis[Ref]
-1. "Product Information. Ziac (bisoprolol-hydrochlorothiazide)." Lederle Laboratories, Wayne, NJ. 
+Frequency not reported side effects were seen with hydrochlorothiazide doses of generally 25 mg and higher.
+The more commonly reported side effects observed with this drug are fatigue, dizziness, and diarrhea.
+Common (1% to 10%): Bradycardia, chest pain, peripheral edemaFrequency not reported: Arrhythmia, peripheral ischemiaBisoprolol:Frequency not reported: Bradycardia, palpitations, rhythm disturbances, cold extremities, claudication, hypotension, orthostatic hypotension, chest pain, congestive heart failure, exertional dyspnea, edemaHydrochlorothiazide:Frequency not reported: Orthostatic hypotension, necrotizing angiitis, vasculitis
+Orthostatic hypotension may be potentiated by alcohol, barbiturates, or narcotics.
+Common (1% to 10%): Diarrhea, nausea, dyspepsiaBisoprolol:Frequency not reported: Gastric pain, epigastric pain, abdominal pain, peptic ulcer, gastritis, dyspepsia, nausea, vomiting, diarrhea, constipation, dry mouth, mesenteric arterial thrombosis, ischemic colitis Hydrochlorothiazide:Frequency not reported: Gastric irritation, constipation, pancreatitis, sialadenitis, dry mouth
+Common (1% to 10%): Dizziness, somnolenceFrequency not reported: HeadacheBisoprolol:Frequency not reported: Unsteadiness, dizziness, vertigo, headache, syncope, paresthesia, hypoesthesia, hyperesthesia, somnolence, decreased concentration, decreased memory, tremor, taste abnormality, slightly clouded sensoriumHydrochlorothiazide:Frequency not reported: Vertigo, paresthesia
+Common (1% to 10%): Muscle cramps, myalgiaBisoprolol:Frequency not reported: Arthralgia, muscle pain, joint pain, back pain, neck pain, muscle cramps, twitchingHydrochlorothiazide:Frequency not reported: Cramping, muscle spasm
+Common (1% to 10%): Cough, upper respiratory tract infectionUncommon (0.1% to 1%): RhinitisBisoprolol:Frequency not reported: Asthma, bronchospasm, bronchitis, dyspnea, pharyngitis, rhinitis, sinusitis, upper respiratory infection, sore throat, laryngospasm, respiratory distressHydrochlorothiazide:Frequency not reported: Respiratory distress, pneumonitis, pulmonary edema
+Common (1% to 10%): FatigueBisoprolol:Frequency not reported: Tinnitus, decreased hearing, earache, fatigue, asthenia, malaise, fever, achingHydrochlorothiazide:Frequency not reported: Weakness, fever
+Common (1% to 10%): ImpotenceBisoprolol:Frequency not reported: Impotence, polyuria, Peyronie's diseaseHydrochlorothiazide: Frequency not reported: Sexual dysfunction
+Uncommon (0.1% to 1%): HypokalemiaFrequency not reported: Increased uric acid, increased serum triglycerides, decreased HDLBisoprolol:Frequency not reported: Gout, weight gain, increased serum triglycerides, increased uric acid, increased serum potassium, increased glucose, increased phosphorus Hydrochlorothiazide:Common (1% to 10%): HypokalemiaFrequency not reported: Anorexia, gout, hyperglycemia, hyperuricemia, hyperlipidemia, hypercalcemia, increased uric acid, other electrolyte imbalances
+Bisoprolol: Uric acid, serum potassium, glucose, and phosphorus increases associated with use of this drug were not of clinical importance and rarely resulted in discontinuation.
+Frequency not reported: Insomnia, loss of libidoBisoprolol:Frequency not reported: Sleep disturbance, vivid dreams, insomnia, depression, anxiety, restlessness, decreased libido, hallucination, disorientation to time and space, emotional labilityHydrochlorothiazide:Frequency not reported: Restlessness
+Of the 15% of patients who converted to a positive ANA status, one-third of the patients converted back to a negative ANA titer with continued use.
+Bisoprolol:Very common: Antinuclear antibody (ANA) conversions to a positive titer (up to 15%)
+Bisoprolol:Frequency not reported: Cystitis, renal colic, increased creatinine, increased BUNHydrochlorothiazide:Frequency not reported: Renal failure, renal dysfunction, interstitial nephritis, glycosuria
+Creatinine and BUN were associated with slightly increased levels, but these effects were generally not of clinical importance and rarely resulted in discontinuation.
+Bisoprolol:Frequency not reported: Rash, acne, eczema, psoriasis, skin irritation, pruritus, flushing, sweating, alopecia, dermatitis, cutaneous vasculitis, exfoliative dermatitis Hydrochlorothiazide:Frequency not reported: Photosensitivity, rash, cutaneous vasculitis, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis
+Bisoprolol:Frequency not reported: Visual disturbances, ocular pain, ocular pressure, abnormal lacrimationHydrochlorothiazide:Frequency not reported: Transient blurred vision, xanthopsia
+Bisoprolol:Frequency not reported: Purpura, decreased WBCs, decreased platelets, eosinophilia, agranulocytosis, thrombocytopeniaHydrochlorothiazide:Frequency not reported: Purpura, leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia
+During treatment with this drug, eosinophilia and decreased levels of WBCs and platelets were not of clinical importance and rarely resulted in discontinuation.
+Bisoprolol:Frequency not reported: AngioedemaHydrochlorothiazide:Frequency not reported: Urticaria, anaphylactic reactions
+SGOT and SGPT elevations of 1 to 2 times the upper limit of normal were reported in 6.2% of patients, with a multiple occurrence rate of 1.9%.  Generally, this increase was the result of underlying disorders or resolved with continued use of this drug.
+Bisoprolol:Common (1% to 10%): Increased serum glutamic oxaloacetic transaminase (SGOT) and serum glutamic pyruvic transaminase (SGPT)Hydrochlorothiazide:Frequency not reported: Intrahepatic cholestatic jaundice, cholecystitis
 It is possible that some side effects of Ziac may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 chest pain or discomfort
 lightheadedness, dizziness, or fainting
@@ -46,8 +37,6 @@ slow or irregular heartbeat
 tingling of the hands or feet
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Anxiety
 blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -103,8 +92,6 @@ very drowsy or sleepy
 weakness and heaviness of legs
 weight gain
 wheezing
-
-
 Acid or sour stomach
 belching
 decreased interest in sexual intercourse
@@ -119,9 +106,6 @@ muscle aching or stiffness
 sleepiness
 stomach discomfort, upset, or pain
 swollen joints
-
-
 Runny nose
 sneezing
 stuffy nose
-

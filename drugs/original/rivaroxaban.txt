@@ -1,33 +1,25 @@
-Applies to rivaroxaban: oral tablet
 As well as its needed effects, rivaroxaban may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking rivaroxaban, check with your doctor immediately:
 Some rivaroxaban side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to rivaroxaban: oral kit, oral tablet
-The most common adverse reactions were bleeding complications.[Ref]
-The risk of bleeding may be increased in certain patient groups, including patients with uncontrolled severe arterial hypertension and/or concomitant treatment affecting hemostasis.[Ref]
-Very common (10% or more): Any bleedingCommon (1% to 10%): Anemia (including postoperative anemia)Uncommon (0.1% to 1%): Bleeding into a critical organ, bleeding that required reoperation, decreased hemoglobin, decrease in hemoglobin by 2 g/dL (20 g/L) or more, fatal bleeding, non-fatal non-critical organ bleeding, occult blood positive, thrombocythemia, transfusion of 2 or more units of whole blood or packed red blood cells (including extra-surgical site bleeding),Postmarketing reports: Agranulocytosis[Ref]
-Common (1% to 10%): Constipation, diarrhea, dyspepsia, gastrointestinal bleeding, gastrointestinal hemorrhage (including rectal hemorrhage), gingival bleeding, nausea, toothache, upper abdominal pain, vomitingUncommon (0.1% to 1%): Dry mouth, gastric ulcer hemorrhage, hematochezia, hemorrhagic gastritis, hemorrhoidal hemorrhage, lip hemorrhage, lower abdominal pain, melena, mouth hemorrhage, tongue hemorrhageRare (less than 0.1%): Retroperitoneal bleeding[Ref]
-Common (1% to 10%): Dizziness, headache, syncopeUncommon (0.1% to 1%): Cerebral and intracranial hemorrhageRare (0.01% to 0.1%): Cerebellar hemorrhage, fatal intracranial bleeding, hemorrhagic transformation strokeFrequency not reported: Intraspinal bleeding, spinal/epidural hematomaPostmarketing reports: Hemiparesis, subdural hematoma[Ref]
-Following study drug discontinuation in the ROCKET AF trial, cases of stroke were reported in during the transition from rivaroxaban to warfarin in nonvalvular atrial fibrillation patients.[Ref]
-Common (1% to 10%): Deep vein thrombosis, hematoma, hypertension, hypotension (include procedural hypotension), peripheral edema, tachycardiaRare (less than 0.1%): Vascular pseudoaneurysmFrequency not reported: Pericardial and intra-articular bleeding, symptoms of cardiac ischemia such as chest pain or angina pectoris (as a consequence of anemia)[Ref]
-Common (1% to 10%): Increase in transaminasesUncommon (0.1% to 1%): Abnormal hepatic function, increased bilirubin, increased blood alkaline phosphatase, increased gamma glutamyltransferase (GGT)Rare (less than 0.1%): Increased conjugated bilirubin (with or without concomitant ALT increase), jaundicePostmarketing reports: Cholestasis, cytolytic hepatitis[Ref]
-Common (1% to 10%): Renal impairment (including increased blood creatinine and blood urea)Uncommon (0.1% to 1%): Decreased creatinine renal clearanceFrequency not reported: Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion[Ref]
-Postmarketing reports: Anaphylactic reaction, anaphylactic shock, hypersensitivity[Ref]
-Common (1% to 10%): Blister, contusion, cutaneous and subcutaneous hemorrhage, ecchymosis, pruritus (including uncommon cases of generalized pruritus), rash, wound hemorrhage, wound secretionUncommon (0.1% to 1%): Allergic dermatitis, urticariaPostmarketing reports: Angioedema, Stevens-Johnson syndrome[Ref]
-Common (1% to 10%): Urinary retention, urogenital tract hemorrhage (including hematuria and menorrhagia), vaginal hemorrhageUncommon (0.1% to 1%): Urinary tract infectionRare (0.01% to 0.1%): Menometrorrhagia, metrorrhagia[Ref]
-Uncommon (0.1% to 1%): Hyperglycemia, increased amylase, increased LDH, increased lipaseRare (less than 0.1%): Localized edema[Ref]
-Common (1% to 10%): Arthralgia, back pain, increased muscle tone and cramping, muscle spasm, osteoarthritis, pain in extremityUncommon (0.1% to 1%): HemarthrosisRare (less than 0.1%): Muscle hemorrhageFrequency not reported: Intramuscular bleeding with compartment syndrome[Ref]
-Common (1% to 10%): Eye hemorrhage (including conjunctival hemorrhage)Uncommon (0.1% to 1%): Vitreous hemorrhageRare (less than 0.1%): Intraocular bleeding[Ref]
-Common (1% to 10%): Anxiety reaction, sleep disorders[Ref]
-Common (1% to 10%): Dyspnea, epistaxis, hemoptysis, oropharyngeal pain, sinusitisFrequency not reported: Pulmonary hemorrhage and pulmonary hemorrhage with bronchiectasis[Ref]
-Common (1% to 10%): Decreased general strength and energy (including fatigue and asthenia), feverUncommon (0.1% to 1%): Feeling unwell (including malaise)[Ref]
-1. "Product Information. Xarelto (rivaroxaban)." Bayer Inc, Toronto, IA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
+The most common adverse reactions were bleeding complications.
+The risk of bleeding may be increased in certain patient groups, including patients with uncontrolled severe arterial hypertension and/or concomitant treatment affecting hemostasis.
+Very common (10% or more): Any bleedingCommon (1% to 10%): Anemia (including postoperative anemia)Uncommon (0.1% to 1%): Bleeding into a critical organ, bleeding that required reoperation, decreased hemoglobin, decrease in hemoglobin by 2 g/dL (20 g/L) or more, fatal bleeding, non-fatal non-critical organ bleeding, occult blood positive, thrombocythemia, transfusion of 2 or more units of whole blood or packed red blood cells (including extra-surgical site bleeding),Postmarketing reports: Agranulocytosis
+Common (1% to 10%): Constipation, diarrhea, dyspepsia, gastrointestinal bleeding, gastrointestinal hemorrhage (including rectal hemorrhage), gingival bleeding, nausea, toothache, upper abdominal pain, vomitingUncommon (0.1% to 1%): Dry mouth, gastric ulcer hemorrhage, hematochezia, hemorrhagic gastritis, hemorrhoidal hemorrhage, lip hemorrhage, lower abdominal pain, melena, mouth hemorrhage, tongue hemorrhageRare (less than 0.1%): Retroperitoneal bleeding
+Common (1% to 10%): Dizziness, headache, syncopeUncommon (0.1% to 1%): Cerebral and intracranial hemorrhageRare (0.01% to 0.1%): Cerebellar hemorrhage, fatal intracranial bleeding, hemorrhagic transformation strokeFrequency not reported: Intraspinal bleeding, spinal/epidural hematomaPostmarketing reports: Hemiparesis, subdural hematoma
+Following study drug discontinuation in the ROCKET AF trial, cases of stroke were reported in during the transition from rivaroxaban to warfarin in nonvalvular atrial fibrillation patients.
+Common (1% to 10%): Deep vein thrombosis, hematoma, hypertension, hypotension (include procedural hypotension), peripheral edema, tachycardiaRare (less than 0.1%): Vascular pseudoaneurysmFrequency not reported: Pericardial and intra-articular bleeding, symptoms of cardiac ischemia such as chest pain or angina pectoris (as a consequence of anemia)
+Common (1% to 10%): Increase in transaminasesUncommon (0.1% to 1%): Abnormal hepatic function, increased bilirubin, increased blood alkaline phosphatase, increased gamma glutamyltransferase (GGT)Rare (less than 0.1%): Increased conjugated bilirubin (with or without concomitant ALT increase), jaundicePostmarketing reports: Cholestasis, cytolytic hepatitis
+Common (1% to 10%): Renal impairment (including increased blood creatinine and blood urea)Uncommon (0.1% to 1%): Decreased creatinine renal clearanceFrequency not reported: Renal failure/acute renal failure secondary to a bleeding sufficient to cause hypoperfusion
+Postmarketing reports: Anaphylactic reaction, anaphylactic shock, hypersensitivity
+Common (1% to 10%): Blister, contusion, cutaneous and subcutaneous hemorrhage, ecchymosis, pruritus (including uncommon cases of generalized pruritus), rash, wound hemorrhage, wound secretionUncommon (0.1% to 1%): Allergic dermatitis, urticariaPostmarketing reports: Angioedema, Stevens-Johnson syndrome
+Common (1% to 10%): Urinary retention, urogenital tract hemorrhage (including hematuria and menorrhagia), vaginal hemorrhageUncommon (0.1% to 1%): Urinary tract infectionRare (0.01% to 0.1%): Menometrorrhagia, metrorrhagia
+Uncommon (0.1% to 1%): Hyperglycemia, increased amylase, increased LDH, increased lipaseRare (less than 0.1%): Localized edema
+Common (1% to 10%): Arthralgia, back pain, increased muscle tone and cramping, muscle spasm, osteoarthritis, pain in extremityUncommon (0.1% to 1%): HemarthrosisRare (less than 0.1%): Muscle hemorrhageFrequency not reported: Intramuscular bleeding with compartment syndrome
+Common (1% to 10%): Eye hemorrhage (including conjunctival hemorrhage)Uncommon (0.1% to 1%): Vitreous hemorrhageRare (less than 0.1%): Intraocular bleeding
+Common (1% to 10%): Anxiety reaction, sleep disorders
+Common (1% to 10%): Dyspnea, epistaxis, hemoptysis, oropharyngeal pain, sinusitisFrequency not reported: Pulmonary hemorrhage and pulmonary hemorrhage with bronchiectasis
+Common (1% to 10%): Decreased general strength and energy (including fatigue and asthenia), feverUncommon (0.1% to 1%): Feeling unwell (including malaise)
 It is possible that some side effects of rivaroxaban may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Back pain
 bleeding gums
 bloody stools
@@ -46,17 +38,11 @@ prolonged bleeding from cuts
 red or black, tarry stools
 red or dark brown urine
 vomiting of blood or material that looks like coffee grounds
-
-
 Fainting
 pain in the arms or legs
 wound secretion
-
-
 Burning while urinating
 difficult or painful urination
-
-
 Abdominal or stomach pain or swelling
 blistering, peeling, or loosening of the skin
 blurred vision
@@ -84,8 +70,5 @@ unpleasant breath odor
 unusual bleeding or bruising
 unusual tiredness or weakness
 yellow eyes or skin
-
-
 Blisters
 muscle spasm
-

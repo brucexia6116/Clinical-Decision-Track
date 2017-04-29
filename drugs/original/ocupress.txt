@@ -1,28 +1,20 @@
-Generic Name: carteolol ophthalmic
-Applies to carteolol ophthalmic: ophthalmic solution
 As well as its needed effects, carteolol ophthalmic (the active ingredient contained in Ocupress) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking carteolol ophthalmic, check with your doctor immediately:
 Some carteolol ophthalmic side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to carteolol ophthalmic: ophthalmic solution
-The most commonly reported side effects were transient eye irritation, burning, tearing, conjunctival hyperemia, and edema.[Ref]
-Very common (10% or more): Transient eye irritation (25%), burning (25%), tearing (25%), conjunctival hyperemia (25%), edema (25%)Frequency not reported: Blurred/cloudy vision, photophobia, decreased night vision, ptosis, ocular signs (including blepharoconjunctivitis, abnormal corneal staining, corneal sensitivity), keratitis, blepharoptosis, visual disturbances including refractive changes (due to withdrawal of miotic therapy in some cases), diplopia, sensation of foreign body, conjunctivitis, choroidal detachment following filtration surgery, dry eyes, corneal erosion[Ref]
-Frequency not reported: Bradycardia, palpitations, arrhythmia, syncope, heart block, cerebral vascular accident, cerebral ischemia, congestive heart failure, chest pain, atrioventricular block, cardiac arrest, cardiac failure, hypotension, Raynaud's phenomenon, cold hands and feet[Ref]
-Frequency not reported: Angioedema, urticaria, localized and generalized rash, pruritus, anaphylactic reaction[Ref]
-Frequency not reported: Alopecia, psoriasiform rash or exacerbation of psoriasis[Ref]
-Frequency not reported: Dyspnea, sinusitis, bronchospasm (predominantly in patients with pre-existing bronchospastic disease), respiratory failure, cough[Ref]
-Frequency not reported: Headache, dizziness, taste perversion, memory loss, syncope, increases in signs and symptoms of myasthenia gravis, paresthesia, dysgeusia[Ref]
-Frequency not reported: Insomnia, depression, nightmares[Ref]
-Frequency not reported: Nausea, diarrhea, dry mouth, abdominal pain, vomiting, dyspepsia[Ref]
-Frequency not reported: Sexual dysfunction, decreased libido[Ref]
-Frequency not reported: Hypoglycemia, masked symptoms of hypoglycemia in insulin-dependent diabetics[Ref]
-Frequency not reported: Myalgia[Ref]
-Frequency not reported: Asthenia, malaise, discomfort, edema, fatigue[Ref]
-1. "Product Information. Ocupress (carteolol ophthalmic)" Ciba Vision Ophthalmics, Duluth, GA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+The most commonly reported side effects were transient eye irritation, burning, tearing, conjunctival hyperemia, and edema.
+Very common (10% or more): Transient eye irritation (25%), burning (25%), tearing (25%), conjunctival hyperemia (25%), edema (25%)Frequency not reported: Blurred/cloudy vision, photophobia, decreased night vision, ptosis, ocular signs (including blepharoconjunctivitis, abnormal corneal staining, corneal sensitivity), keratitis, blepharoptosis, visual disturbances including refractive changes (due to withdrawal of miotic therapy in some cases), diplopia, sensation of foreign body, conjunctivitis, choroidal detachment following filtration surgery, dry eyes, corneal erosion
+Frequency not reported: Bradycardia, palpitations, arrhythmia, syncope, heart block, cerebral vascular accident, cerebral ischemia, congestive heart failure, chest pain, atrioventricular block, cardiac arrest, cardiac failure, hypotension, Raynaud's phenomenon, cold hands and feet
+Frequency not reported: Angioedema, urticaria, localized and generalized rash, pruritus, anaphylactic reaction
+Frequency not reported: Alopecia, psoriasiform rash or exacerbation of psoriasis
+Frequency not reported: Dyspnea, sinusitis, bronchospasm (predominantly in patients with pre-existing bronchospastic disease), respiratory failure, cough
+Frequency not reported: Headache, dizziness, taste perversion, memory loss, syncope, increases in signs and symptoms of myasthenia gravis, paresthesia, dysgeusia
+Frequency not reported: Insomnia, depression, nightmares
+Frequency not reported: Nausea, diarrhea, dry mouth, abdominal pain, vomiting, dyspepsia
+Frequency not reported: Sexual dysfunction, decreased libido
+Frequency not reported: Hypoglycemia, masked symptoms of hypoglycemia in insulin-dependent diabetics
+Frequency not reported: Myalgia
+Frequency not reported: Asthenia, malaise, discomfort, edema, fatigue
 It is possible that some side effects of Ocupress may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blurred vision
 chest pain or discomfort
 confusion
@@ -31,8 +23,6 @@ shortness of breath
 slow or irregular heartbeat
 sweating
 unusual tiredness or weakness
-
-
 Blue lips, fingernails, or skin
 blurred, cloudy, or yellow vision
 change in color vision
@@ -87,8 +77,6 @@ unusual feeling in the eyes
 weakness in arm and/or leg on one side of the body, sudden and severe
 weight gain
 wheezing
-
-
 Change in taste or bad, unusual, or unpleasant (after) taste
 discouragement
 feeling sad or empty
@@ -102,4 +90,3 @@ sleeplessness
 trouble concentrating
 trouble sleeping
 unable to sleep
-

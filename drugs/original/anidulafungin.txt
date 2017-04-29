@@ -1,36 +1,21 @@
-Applies to anidulafungin: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by anidulafungin. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking anidulafungin, check with your doctor or nurse immediately:
-Some of the side effects that can occur with anidulafungin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to anidulafungin: intravenous powder for injection
-The most common side effects reported during studies in patients with candidemia and other Candida infections were hypokalemia, nausea, diarrhea, vomiting, pyrexia, and insomnia.  Anidulafungin was discontinued in 11.5% of patients due to side effects.  The most common side effects leading to discontinuation of anidulafungin were multi-organ failure and systemic Candida infection.The most common side effects reported during a study in patients with esophageal candidiasis were diarrhea, pyrexia, anemia, headache, vomiting, nausea, and dyspepsia.  Anidulafungin was discontinued in 9% of patients due to side effects.  The most common side effect leading to discontinuation of anidulafungin was maculopapular rash.[Ref]
-Metabolic side effects have included hypokalemia (up to 25%), hypomagnesemia (12%), increased blood alkaline phosphatase (12%), hypoglycemia (7%), hyperglycemia (6%), hyperkalemia (6%), dehydration (6%), increased amylase (less than 2%), increased creatine phosphokinase (less than 2%), increased lipase (less than 2%), decreased potassium (less than 2%), decreased magnesium, hypercalcemia, and hypernatremia.[Ref]
-Gastrointestinal side effects have included nausea (up to 24%), diarrhea (up to 18%), vomiting (up to 18%), constipation (8%), dyspepsia (7%), abdominal pain (6%), oral candidiasis (5%), upper abdominal pain, and fecal incontinence.[Ref]
-To reduce occurrence of infusion-related side effects, the rate of infusion should not exceed 1.1 mg/minute.[Ref]
-Other side effects have included pyrexia (up to 18%), bacteremia (18%), peripheral edema (up to 11%), sepsis (7%), chest pain (5%), flushing (less than 2%), hot flushes (less than 2%), infusion-related reaction (less than 2%), rigors (less than 2%), clostridial infection (less than 2%), fungemia, candidiasis, multi-organ failure, and systemic Candida infection.  Infusion-related side effects, possibly histamine-mediated, have included rash, urticaria, flushing, pruritus, bronchospasm, dyspnea, and hypotension.[Ref]
-Cardiovascular side effects have included hypotension (15%), hypertension (12%), deep vein thrombosis (10%), phlebitis, and electrocardiogram early transition.  Atrial fibrillation, bundle branch block (right), sinus arrhythmia, superficial thrombophlebitis, electrocardiogram QT prolonged, and ventricular extrasystoles have been reported in less than 2% of patients.[Ref]
-Psychiatric side effects have included insomnia (15%), confusional state (8%), and depression (6%).[Ref]
-Genitourinary side effects have included urinary tract infection (15%).[Ref]
-Respiratory side effects have included dyspnea (12%), pleural effusion (10%), cough (up to 7%), pneumonia (6%), and respiratory distress (6%).  Bronchospasm has been reported during postmarketing experience.[Ref]
-Hematologic side effects have included anemia (up to 9%), increased white blood cell (8%), thrombocythemia (6%), leukocytosis (5%), coagulopathy (less than 2%), thrombocytopenia (less than 2%), prothrombin time prolonged (less than 2%), neutropenia, leukopenia, and increased and decreased platelet count.[Ref]
-Nervous system side effects have included headache (8%), convulsion (less than 2%), and dizziness (less than 2%).[Ref]
-Hepatic side effects have included increased hepatic enzymes (5%), ALT, and AST.  Increased gamma-glutamyltransferase, increased bilirubin, abnormal liver function tests, cholestasis, and hepatic necrosis have been reported in less than 2% of patients.  Significant hepatic dysfunction, hepatitis, and hepatic failure have been reported.[Ref]
-Hypersensitivity side effects have included anaphylactic shock and anaphylactic reaction during postmarketing experience.[Ref]
-Dermatologic side effects have included decubitus ulcer (5%), rash, generalized pruritus, and maculopapular rash.  Erythema, pruritus, increased sweating, urticaria, and angioneurotic edema have been reported in less than 2% of patients.[Ref]
-Renal side effects have included increased blood creatinine (5%) and urea (less than 2%).[Ref]
-Musculoskeletal side effects have included back pain (5%).[Ref]
-Ocular side effects have included eye pain, blurred vision, and visual disturbance in less than 2% of patients.[Ref]
-1. Dowell JA,  Stogniew M,  Krause D,  Damle B "Anidulafungin does not require dosage adjustment in subjects with varying degrees of hepatic or renal impairment." J Clin Pharmacol 47 (2007): 461-70
-2. "Product Information. Eraxis (anidulafungin)." Pfizer U.S. Pharmaceuticals Group, New York, NY. 
-3. "Anidulafungin (Eraxis) for Candida infections." Med Lett Drugs Ther 48 (2006): 43-4
-4. Vazquez JA,  Sobel JD "Anidulafungin: a novel echinocandin." Clin Infect Dis 43 (2006): 215-22
-5. Thompson GR 3rd,  Cadena J,  Patterson TF "Overview of antifungal agents." Clin Chest Med 30 (2009): 203-15, v
-6. Krause DS,  Reinhardt J,  Vazquez JA, et al. "Phase 2, randomized, dose-ranging study evaluating the safety and efficacy of anidulafungin in invasive candidiasis and candidemia." Antimicrob Agents Chemother 48 (2004): 2021-4
-Not all side effects for anidulafungin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common side effects reported during studies in patients with candidemia and other Candida infections were hypokalemia, nausea, diarrhea, vomiting, pyrexia, and insomnia.  Anidulafungin was discontinued in 11.5% of patients due to side effects.  The most common side effects leading to discontinuation of anidulafungin were multi-organ failure and systemic Candida infection.The most common side effects reported during a study in patients with esophageal candidiasis were diarrhea, pyrexia, anemia, headache, vomiting, nausea, and dyspepsia.  Anidulafungin was discontinued in 9% of patients due to side effects.  The most common side effect leading to discontinuation of anidulafungin was maculopapular rash.
+Metabolic side effects have included hypokalemia (up to 25%), hypomagnesemia (12%), increased blood alkaline phosphatase (12%), hypoglycemia (7%), hyperglycemia (6%), hyperkalemia (6%), dehydration (6%), increased amylase (less than 2%), increased creatine phosphokinase (less than 2%), increased lipase (less than 2%), decreased potassium (less than 2%), decreased magnesium, hypercalcemia, and hypernatremia.
+Gastrointestinal side effects have included nausea (up to 24%), diarrhea (up to 18%), vomiting (up to 18%), constipation (8%), dyspepsia (7%), abdominal pain (6%), oral candidiasis (5%), upper abdominal pain, and fecal incontinence.
+To reduce occurrence of infusion-related side effects, the rate of infusion should not exceed 1.1 mg/minute.
+Other side effects have included pyrexia (up to 18%), bacteremia (18%), peripheral edema (up to 11%), sepsis (7%), chest pain (5%), flushing (less than 2%), hot flushes (less than 2%), infusion-related reaction (less than 2%), rigors (less than 2%), clostridial infection (less than 2%), fungemia, candidiasis, multi-organ failure, and systemic Candida infection.  Infusion-related side effects, possibly histamine-mediated, have included rash, urticaria, flushing, pruritus, bronchospasm, dyspnea, and hypotension.
+Cardiovascular side effects have included hypotension (15%), hypertension (12%), deep vein thrombosis (10%), phlebitis, and electrocardiogram early transition.  Atrial fibrillation, bundle branch block (right), sinus arrhythmia, superficial thrombophlebitis, electrocardiogram QT prolonged, and ventricular extrasystoles have been reported in less than 2% of patients.
+Psychiatric side effects have included insomnia (15%), confusional state (8%), and depression (6%).
+Genitourinary side effects have included urinary tract infection (15%).
+Respiratory side effects have included dyspnea (12%), pleural effusion (10%), cough (up to 7%), pneumonia (6%), and respiratory distress (6%).  Bronchospasm has been reported during postmarketing experience.
+Hematologic side effects have included anemia (up to 9%), increased white blood cell (8%), thrombocythemia (6%), leukocytosis (5%), coagulopathy (less than 2%), thrombocytopenia (less than 2%), prothrombin time prolonged (less than 2%), neutropenia, leukopenia, and increased and decreased platelet count.
+Nervous system side effects have included headache (8%), convulsion (less than 2%), and dizziness (less than 2%).
+Hepatic side effects have included increased hepatic enzymes (5%), ALT, and AST.  Increased gamma-glutamyltransferase, increased bilirubin, abnormal liver function tests, cholestasis, and hepatic necrosis have been reported in less than 2% of patients.  Significant hepatic dysfunction, hepatitis, and hepatic failure have been reported.
+Hypersensitivity side effects have included anaphylactic shock and anaphylactic reaction during postmarketing experience.
+Dermatologic side effects have included decubitus ulcer (5%), rash, generalized pruritus, and maculopapular rash.  Erythema, pruritus, increased sweating, urticaria, and angioneurotic edema have been reported in less than 2% of patients.
+Renal side effects have included increased blood creatinine (5%) and urea (less than 2%).
+Musculoskeletal side effects have included back pain (5%).
+Ocular side effects have included eye pain, blurred vision, and visual disturbance in less than 2% of patients.
 Black, tarry stools
 chills
 cough
@@ -53,8 +38,6 @@ sore throat
 sores, ulcers, or white spots on the lips or in the mouth
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 back pain
 bleeding gums
@@ -116,8 +99,6 @@ weight loss
 white patches in the mouth or throat or on the tongue
 white patches with diaper rash
 yellow eyes or skin
-
-
 Acid or sour stomach
 belching
 bloating or swelling of the face, arms, hands, lower legs, or feet
@@ -139,4 +120,3 @@ tingling of the hands or feet
 tunnel vision
 unusual weight gain or loss
 upper stomach pain
-

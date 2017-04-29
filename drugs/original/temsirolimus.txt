@@ -1,32 +1,25 @@
 Commonly reported side effects of temsirolimus include: abdominal pain, chest pain, cough, diarrhea, dyspnea, fever, hyperglycemia, increased serum cholesterol, increased serum glucose, and increased serum triglycerides. Other side effects include: hypersensitivity reaction.  See below for a comprehensive list of adverse effects.
-Applies to temsirolimus: intravenous solution
 As well as its needed effects, temsirolimus may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking temsirolimus, check with your doctor or nurse immediately:
 Some temsirolimus side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to temsirolimus: intravenous solution
-Very common (10% or more): Increased AST (up to 38%)Common (1% to 10%): Increased total bilirubin, increased ALT[Ref]
-Very common (10% or more): Bacterial and viral infections (including abscess, bronchitis, cellulitis, herpes simplex, oral herpes, herpes zoster; up to 28.3%)Common (1% to 10%): Sepsis, candidiasis, fungal infection, flu syndrome[Ref]
-Common (1% to 10%): Allergic/hypersensitivity reactions[Ref]
-Very common (10% or more): Dyspnea (up to 28%), cough (up to 29%), epistaxis (up to 21.5%), pharyngitis (up to 12%), pneumonia (up to 10.9%), rhinitis (up to 10%)Common (1% to 10%): Upper respiratory tract infection, pleural effusion, sinusitis, interstitial lung disease/pneumonitis (including fatalities)Uncommon (0.1% to 1%): LaryngitisPostmarketing reports: Pneumocystis jiroveci pneumonia[Ref]
-Very common (10% or more): Increased creatinine (up to 57%)Common (1% to 10%): Renal failure[Ref]
-Very common (10% or more): Decreased hemoglobin (up to 94%), decreased lymphocytes (up to 53%), anemia (up to 41.1%), decreased platelets (up to 40%), decreased leukocytes (up to 32%), thrombocytopenia (up to 30.2%), decreased neutrophils (up to 19%), neutropenia (up to 14.3%)Common (1% to 10%): Leukopenia, lymphopenia[Ref]
-Very common (10% or more): Chest pain (up to 16%)Common (1% to 10%): Hypertension, venous thromboembolism (including deep vein thrombosis and pulmonary embolism, some fatal), thrombophlebitis, pericardial effusion[Ref]
-Very common (10% or more): Rash (including eczema, exfoliative dermatitis, maculopapular rash, pustular rash, vesiculobullous rash; up to 47%), pruritus (up to 21.5%), nail disorder (up to 14%), dry skin (up to 11%), acne (up to 10%)Common (1% to 10%): Folliculitis, ecchymosis, petechiaePostmarketing reports: Stevens-Johnson syndrome[Ref]
-Very common (10% or more): Asthenia (up to 51%), fatigue (up to 41.4%), edema (including facial and peripheral; up to 38%), pyrexia (up to 28.3%), pain (up to 28%)Common (1% to 10%): Wound infection/post-operative wound infection, impaired wound healingPostmarketing reports: Angioneurotic edema-type reactions, extravasations[Ref]
-Very common (10% or more): Increased glucose (up to 89%), hyperglycemia (up to 26%)Common (1% to 10%): Diabetes mellitus[Ref]
-Very common (10% or more): Mucositis (including stomatitis, glossitis, mouth ulceration; up to 41%), nausea (up to 37%), diarrhea (up to 34%), abdominal pain (up to 21%), constipation (up to 20%), vomiting (up to 19%)Common (1% to 10%): Bowel perforation (including fatal cases), gastrointestinal hemorrhage, rectal hemorrhage, gastritis, dysphagia, abdominal distension, oral pain, gingivitis, mouth pain, oral moniliasis, hemorrhoidal hemorrhageUncommon (0.1% to 1%): Intestinal/duodenal perforation, lip hemorrhage, mouth hemorrhage[Ref]
-Very common (10% or more): Unspecified urogenital adverse reaction (up to 30%), urinary tract infection (including cystitis, dysuria, hematuria, urinary frequency; up to 15%)[Ref]
-Very common (10% or more): Increased total cholesterol (up to 87%), increased triglycerides (up to 83%), increased alkaline phosphatase (up to 68%), decreased phosphorus (up to 49%), decreased calcium (up to 39%), decreased appetite (up to 33.3%), anorexia (up to 32%), hyperlipidemia (up to 27%), decreased potassium (up to 21%), weight loss (up to 19%), hypercholesterolemia (up to 18.8%), hypertriglyceridemia (up to 17.4%), hypokalemia (up to 13.7%), increased lactic dehydrogenase (up to 11%)Common (1% to 10%): Dehydration, hypocalcemia, hypophosphatemia[Ref]
-Very common (10% or more): Back pain (up to 20%), arthralgia (up to 18%), muscle cramp (up to 12%)Common (1% to 10%): MyalgiaPostmarketing reports: Rhabdomyolysis[Ref]
-Very common (10% or more): Dysgeusia (including taste loss, taste perversion; up to 20%), headache (up to 17.1%)Common (1% to 10%): Dizziness, paresthesia, somnolence, convulsionUncommon (0.1% to 1%): Intracranial hemorrhagePostmarketing reports: Complex regional pain syndrome/reflex sympathetic dystrophy[Ref]
-Common (1% to 10%): Conjunctivitis (including lacrimation disorder)Uncommon (0.1% to 1%): Eye hemorrhage[Ref]
-Very common (10% or more): Insomnia (up to 14%)Common (1% to 10%): Depression, anxiety[Ref]
-1. "Product Information. Torisel (temsirolimus)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
+Very common (10% or more): Increased AST (up to 38%)Common (1% to 10%): Increased total bilirubin, increased ALT
+Very common (10% or more): Bacterial and viral infections (including abscess, bronchitis, cellulitis, herpes simplex, oral herpes, herpes zoster; up to 28.3%)Common (1% to 10%): Sepsis, candidiasis, fungal infection, flu syndrome
+Common (1% to 10%): Allergic/hypersensitivity reactions
+Very common (10% or more): Dyspnea (up to 28%), cough (up to 29%), epistaxis (up to 21.5%), pharyngitis (up to 12%), pneumonia (up to 10.9%), rhinitis (up to 10%)Common (1% to 10%): Upper respiratory tract infection, pleural effusion, sinusitis, interstitial lung disease/pneumonitis (including fatalities)Uncommon (0.1% to 1%): LaryngitisPostmarketing reports: Pneumocystis jiroveci pneumonia
+Very common (10% or more): Increased creatinine (up to 57%)Common (1% to 10%): Renal failure
+Very common (10% or more): Decreased hemoglobin (up to 94%), decreased lymphocytes (up to 53%), anemia (up to 41.1%), decreased platelets (up to 40%), decreased leukocytes (up to 32%), thrombocytopenia (up to 30.2%), decreased neutrophils (up to 19%), neutropenia (up to 14.3%)Common (1% to 10%): Leukopenia, lymphopenia
+Very common (10% or more): Chest pain (up to 16%)Common (1% to 10%): Hypertension, venous thromboembolism (including deep vein thrombosis and pulmonary embolism, some fatal), thrombophlebitis, pericardial effusion
+Very common (10% or more): Rash (including eczema, exfoliative dermatitis, maculopapular rash, pustular rash, vesiculobullous rash; up to 47%), pruritus (up to 21.5%), nail disorder (up to 14%), dry skin (up to 11%), acne (up to 10%)Common (1% to 10%): Folliculitis, ecchymosis, petechiaePostmarketing reports: Stevens-Johnson syndrome
+Very common (10% or more): Asthenia (up to 51%), fatigue (up to 41.4%), edema (including facial and peripheral; up to 38%), pyrexia (up to 28.3%), pain (up to 28%)Common (1% to 10%): Wound infection/post-operative wound infection, impaired wound healingPostmarketing reports: Angioneurotic edema-type reactions, extravasations
+Very common (10% or more): Increased glucose (up to 89%), hyperglycemia (up to 26%)Common (1% to 10%): Diabetes mellitus
+Very common (10% or more): Mucositis (including stomatitis, glossitis, mouth ulceration; up to 41%), nausea (up to 37%), diarrhea (up to 34%), abdominal pain (up to 21%), constipation (up to 20%), vomiting (up to 19%)Common (1% to 10%): Bowel perforation (including fatal cases), gastrointestinal hemorrhage, rectal hemorrhage, gastritis, dysphagia, abdominal distension, oral pain, gingivitis, mouth pain, oral moniliasis, hemorrhoidal hemorrhageUncommon (0.1% to 1%): Intestinal/duodenal perforation, lip hemorrhage, mouth hemorrhage
+Very common (10% or more): Unspecified urogenital adverse reaction (up to 30%), urinary tract infection (including cystitis, dysuria, hematuria, urinary frequency; up to 15%)
+Very common (10% or more): Increased total cholesterol (up to 87%), increased triglycerides (up to 83%), increased alkaline phosphatase (up to 68%), decreased phosphorus (up to 49%), decreased calcium (up to 39%), decreased appetite (up to 33.3%), anorexia (up to 32%), hyperlipidemia (up to 27%), decreased potassium (up to 21%), weight loss (up to 19%), hypercholesterolemia (up to 18.8%), hypertriglyceridemia (up to 17.4%), hypokalemia (up to 13.7%), increased lactic dehydrogenase (up to 11%)Common (1% to 10%): Dehydration, hypocalcemia, hypophosphatemia
+Very common (10% or more): Back pain (up to 20%), arthralgia (up to 18%), muscle cramp (up to 12%)Common (1% to 10%): MyalgiaPostmarketing reports: Rhabdomyolysis
+Very common (10% or more): Dysgeusia (including taste loss, taste perversion; up to 20%), headache (up to 17.1%)Common (1% to 10%): Dizziness, paresthesia, somnolence, convulsionUncommon (0.1% to 1%): Intracranial hemorrhagePostmarketing reports: Complex regional pain syndrome/reflex sympathetic dystrophy
+Common (1% to 10%): Conjunctivitis (including lacrimation disorder)Uncommon (0.1% to 1%): Eye hemorrhage
+Very common (10% or more): Insomnia (up to 14%)Common (1% to 10%): Depression, anxiety
 It is possible that some side effects of temsirolimus may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bladder pain
 bloody nose
 bloody or cloudy urine
@@ -70,8 +63,6 @@ tender, swollen glands in the neck
 tightness in the chest
 voice changes
 vomiting
-
-
 Abdominal or stomach cramps
 black, tarry stools
 bloody stools
@@ -81,8 +72,6 @@ pain, tenderness, or swelling of the foot or leg
 seizures
 severe vomiting, sometimes with blood
 vomiting of blood or material that looks like coffee grounds
-
-
 Blistering, peeling, or loosening of the skin
 convulsions
 dark-colored urine
@@ -94,8 +83,6 @@ pale skin at injection site
 red skin lesions, often with a purple center
 red, irritated eyes
 unusual tiredness or weakness
-
-
 Back pain
 blemishes on the skin
 burning, dry, or itching eyes
@@ -112,12 +99,9 @@ redness, pain, or swelling of the eye, eyelid, or inner lining of the eyelid
 swollen joints
 trouble sleeping
 weight loss
-
-
 Discouragement
 feeling sad or empty
 irritability
 loss of interest or pleasure
 tiredness
 trouble concentrating
-

@@ -1,28 +1,12 @@
-Generic Name: antihemophilic factor
-Applies to antihemophilic factor: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by antihemophilic factor (the active ingredient contained in Monoclate-P). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking antihemophilic factor:
-Some of the side effects that can occur with antihemophilic factor may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to antihemophilic factor: intravenous kit, intravenous powder for injection
-Nervous system side effects have included headache, dizziness, somnolence, and asthenia.[Ref]
-Respiratory side effects have included dyspnea and rhinitis.[Ref]
-Musculoskeletal side effects have included arthralgia.[Ref]
-Local side effects have included injection site pain.[Ref]
-General side effects have included pyrexia and chills.[Ref]
-Gastrointestinal side effects have included nausea, diarrhea, and vomiting.[Ref]
-Dermatologic side effects have include pruritus, rash, and urticaria.[Ref]
-Cardiovascular side effects have included hemorrhage, hypotension, and vasodilatation.[Ref]
-1. "Product Information. Koate-HP (antihemophilic factor)." Bayer, West Haven, CT. 
-2. "Product Information. Helixate FS (antihemophilic factor)." CSL Behring, King of Prussia, PA. 
-3. "Product Information. Humate-P (antihemophilic factor-von Willebrand factor)." CSL Behring, King of Prussia, PA. 
-4. "Product Information. Xyntha (antihemophilic factor)." Wyeth Laboratories, Philadelphia, PA. 
-Not all side effects for Monoclate-P may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Nervous system side effects have included headache, dizziness, somnolence, and asthenia.
+Respiratory side effects have included dyspnea and rhinitis.
+Musculoskeletal side effects have included arthralgia.
+Local side effects have included injection site pain.
+General side effects have included pyrexia and chills.
+Gastrointestinal side effects have included nausea, diarrhea, and vomiting.
+Dermatologic side effects have include pruritus, rash, and urticaria.
+Cardiovascular side effects have included hemorrhage, hypotension, and vasodilatation.
 Fever
-
-
 Changes in facial skin color
 chills
 fast or irregular breathing
@@ -33,8 +17,6 @@ skin rash, hives, or itching
 tightness in the chest
 troubled breathing
 unusual tiredness or weakness
-
-
 Bluish color of the fingernails, lips, skin, palms, or nail beds
 blurred vision
 chest pain or discomfort
@@ -52,11 +34,7 @@ slow or irregular heartbeat
 sweating
 swelling of the face, throat, or tongue
 unusual tiredness or weakness
-
-
 Headache
-
-
 Burning, stinging, or swelling at the place of injection
 diarrhea
 dizziness or lightheadedness
@@ -65,12 +43,8 @@ lack or loss of strength
 nosebleed
 redness of the face
 vomiting
-
-
 Change in taste
 loss of taste
-
-
 Abdominal or stomach pain
 feeling of warmth
 increased sweating
@@ -80,4 +54,3 @@ redness of the eye
 redness of the face, neck, arms, and occasionally, upper chest
 redness of the skin
 trouble seeing
-

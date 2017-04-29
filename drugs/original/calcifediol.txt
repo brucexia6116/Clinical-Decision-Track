@@ -1,22 +1,7 @@
 More frequently reported side effects include: increased serum calcium.  See below for a comprehensive list of adverse effects.
-Applies to calcifediol: oral capsule extended release, oral capsule liquid filled
-In addition to its needed effects, some unwanted effects may be caused by calcifediol. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking calcifediol:
-
 If any of the following symptoms of overdose occur while taking calcifediol, get emergency help immediately:
-
-Some of the side effects that can occur with calcifediol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to calcifediol: oral capsule, oral capsule extended release
-Metabolic side effects have included hypercalcemia, and increased phosphate absorption.[Ref]
-Early signs and symptoms of hypercalcemia include headache, anorexia, nausea, vomiting, metallic taste, constipation, abdominal cramps, dry mouth, weakness, fatigue, muscle and bone pain, ataxia, tinnitus, and vertigo.  Later hypercalcemia may result in pruritus, mental confusion, coma, hypertension, cardiac arrhythmias, seizures, metastatic calcification, and renal insufficiency manifested by polyuria, nocturia, polydipsia, and proteinuria.  Patients with renal failure are more prone to the development of hypercalcemia because the urinary excretion of calcium cannot compensate for increases in serum calcium.Increased phosphate absorption may be detrimental in patients with chronic renal failure and hyperphosphatemia.Because of the long half-life of calcifediol, reversal of toxic symptoms may take 7 to 30 days.[Ref]
-1. "Product Information. Calderol (calcifediol)." Organon, West Orange, NJ. 
-2. "Calcifediol for renal osteodystrophy." Med Lett Drugs Ther 24 (1982): 92-3
-3. Araugo OE, Flowers FP, Brown K "Vitamin D therapy in psoriasis." DICP 25 (1991): 835-9
-4. Miller SM "New perspectives on vitamin D." Am J Med Technol 49 (1983): 27-37
-Not all side effects for calcifediol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Metabolic side effects have included hypercalcemia, and increased phosphate absorption.
+Early signs and symptoms of hypercalcemia include headache, anorexia, nausea, vomiting, metallic taste, constipation, abdominal cramps, dry mouth, weakness, fatigue, muscle and bone pain, ataxia, tinnitus, and vertigo.  Later hypercalcemia may result in pruritus, mental confusion, coma, hypertension, cardiac arrhythmias, seizures, metastatic calcification, and renal insufficiency manifested by polyuria, nocturia, polydipsia, and proteinuria.  Patients with renal failure are more prone to the development of hypercalcemia because the urinary excretion of calcium cannot compensate for increases in serum calcium.Increased phosphate absorption may be detrimental in patients with chronic renal failure and hyperphosphatemia.Because of the long half-life of calcifediol, reversal of toxic symptoms may take 7 to 30 days.
 Abdominal or stomach pain
 chest pain
 confusion
@@ -45,8 +30,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 weakness or heaviness of the legs
 weight gain
-
-
 Confusion
 constipation
 depression
@@ -59,8 +42,6 @@ metallic taste
 muscle weakness
 thirst
 weight loss
-
-
 Decreased appetite
 decreased urination
 dizziness
@@ -74,9 +55,6 @@ muscle weakness
 rapid breathing
 sunken eyes
 wrinkled skin
-
-
 Bruise
 muscle aches
 stuffy or runny nose
-

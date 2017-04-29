@@ -1,38 +1,19 @@
-Generic Name: glipizide
-Applies to glipizide: oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by glipizide (the active ingredient contained in GlipiZIDE XL). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking glipizide:
-Some of the side effects that can occur with glipizide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to glipizide: compounding powder, oral tablet, oral tablet extended release
-The majority of side effects have been dose related, transient, and have responded to dose reduction or withdrawal of the drug.  As with other sulfonylureas, some side effects associated with hypersensitivity may be severe and deaths have been reported in some instances.[Ref]
-Common (1% to 10%): SyncopeUncommon (less than 1%): Arrhythmia, flushing, hypertension[Ref]
-Common (1% to 10%): Sweating, pruritusUncommon (less than 1%): Rash, urticariaFrequency not reported: Rash, erythema, morbilliform or maculopapular eruptions, urticaria, pruritus, eczema[Ref]
-Dermatologic side effects frequently disappear with continued therapy.  Photosensitivity has been reported with other sulfonylureas.[Ref]
-Gastrointestinal side effects appear to be dose-related and may disappear on division or reduction of dosage.[Ref]
-Common (1% to 10%): Nausea, diarrhea, constipation, gastralgia, vomiting, flatulence, dyspepsiaUncommon (less than 1%): Anorexia, trace blood in stoolFrequency not reported: Gastrointestinal irritation, gastrointestinal bleedingPostmarketing reports: Abdominal pain[Ref]
-Common (1% to 10%): PolyuriaUncommon (less than 1%): Dysuria[Ref]
-Common (1% to 10%): HypoglycemiaUncommon (less than 1%): ThirstFrequency not reported: Disulfiram like reactions, hepatic porphyria, hyponatremia, syndrome of inappropriate antidiuretic hormone (SIADH), elevation of LDH[Ref]
-Common (1% to 10%): Arthralgia, leg cramps, myalgia[Ref]
-Common (1% to 10%): Headache, dizziness, nervousness, tremors, paresthesia, hypesthesiaUncommon (less than 1%): MigraineFrequency not reported: Drowsiness[Ref]
-Common (1% to 10%): Blurred visionUncommon (less than 1%): Pain in the eye, conjunctivitis, retinal hemorrhageFrequency not reported: Diplopia, abnormal vision, visual impairment, decreased vision[Ref]
-Common (1% to 10%): Asthenia, painUncommon (less than 1%): Chills, edemaFrequency not reported: Vertigo, malaise[Ref]
-Common (1% to 10%): Insomnia, anxiety, depressionFrequency not reported: Confusion[Ref]
-Common (1% to 10%): RhinitisUncommon (less than 1%): Pharyngitis, dyspnea[Ref]
-Frequency not reported: Leucopenia, agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia, pancytopenia, elevation of alkaline phosphatase, BUN, and creatinine[Ref]
-Frequency not reported: Impaired hepatic function, hepatitis, jaundice, elevation of SGOTPostmarketing reports: Cholestatic and hepatocellular forms of liver injury accompanied by jaundice[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Glucotrol (glipizide)." Pfizer US Pharmaceuticals, New York, NY. 
-4. Prendergast BD "Glyburide and glipizide, second-generation oral sulfonylurea hypoglycemic agents." Clin Pharm 3 (1984): 473-85
-5. Lebovitz HE "Glipizide: a second-generation sulfonylurea hypoglycemic agent. Pharmacology, pharmacokinetics and clinical use." Pharmacotherapy 5 (1985): 63-77
-6. Brogden RN, Heel RC, Pakes GE, Speight TM, Avery GS "Glipizide: a review of its pharmacological properties and therapeutic use." Drugs 18 (1979): 329-53
-7. Moder KG, Schwenk NM "A coproporphyria-like syndrome induced by glipizide." Mayo Clin Proc 66 (1991): 312-6
-8. Feinglos MN, Lebovitz HE "Long-term safety and efficacy of glipizide." Am J Med 75 (1983): 60-6
-9. Asplund K, Wiholm BE, Lundman B "Severe hypoglycaemia during treatment with glipizide." Diabet Med 8 (1991): 726-31
-Not all side effects for GlipiZIDE XL may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The majority of side effects have been dose related, transient, and have responded to dose reduction or withdrawal of the drug.  As with other sulfonylureas, some side effects associated with hypersensitivity may be severe and deaths have been reported in some instances.
+Common (1% to 10%): SyncopeUncommon (less than 1%): Arrhythmia, flushing, hypertension
+Common (1% to 10%): Sweating, pruritusUncommon (less than 1%): Rash, urticariaFrequency not reported: Rash, erythema, morbilliform or maculopapular eruptions, urticaria, pruritus, eczema
+Dermatologic side effects frequently disappear with continued therapy.  Photosensitivity has been reported with other sulfonylureas.
+Gastrointestinal side effects appear to be dose-related and may disappear on division or reduction of dosage.
+Common (1% to 10%): Nausea, diarrhea, constipation, gastralgia, vomiting, flatulence, dyspepsiaUncommon (less than 1%): Anorexia, trace blood in stoolFrequency not reported: Gastrointestinal irritation, gastrointestinal bleedingPostmarketing reports: Abdominal pain
+Common (1% to 10%): PolyuriaUncommon (less than 1%): Dysuria
+Common (1% to 10%): HypoglycemiaUncommon (less than 1%): ThirstFrequency not reported: Disulfiram like reactions, hepatic porphyria, hyponatremia, syndrome of inappropriate antidiuretic hormone (SIADH), elevation of LDH
+Common (1% to 10%): Arthralgia, leg cramps, myalgia
+Common (1% to 10%): Headache, dizziness, nervousness, tremors, paresthesia, hypesthesiaUncommon (less than 1%): MigraineFrequency not reported: Drowsiness
+Common (1% to 10%): Blurred visionUncommon (less than 1%): Pain in the eye, conjunctivitis, retinal hemorrhageFrequency not reported: Diplopia, abnormal vision, visual impairment, decreased vision
+Common (1% to 10%): Asthenia, painUncommon (less than 1%): Chills, edemaFrequency not reported: Vertigo, malaise
+Common (1% to 10%): Insomnia, anxiety, depressionFrequency not reported: Confusion
+Common (1% to 10%): RhinitisUncommon (less than 1%): Pharyngitis, dyspnea
+Frequency not reported: Leucopenia, agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia, pancytopenia, elevation of alkaline phosphatase, BUN, and creatinine
+Frequency not reported: Impaired hepatic function, hepatitis, jaundice, elevation of SGOTPostmarketing reports: Cholestatic and hepatocellular forms of liver injury accompanied by jaundice
 Anxiety
 blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -63,8 +44,6 @@ slurred speech
 sweating
 swollen joints
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 bloating
 bloody or black, tarry stools
@@ -106,8 +85,6 @@ voice changes
 vomiting of blood or material that looks like coffee grounds
 wheezing
 yellow eyes or skin
-
-
 Agitation
 back or leg pains
 bleeding gums
@@ -135,12 +112,8 @@ sores, ulcers, or white spots on the lips or in the mouth
 stupor
 swelling of the face, ankles, or hands
 unusual bleeding or bruising
-
-
 Indigestion
 passing of gas
-
-
 Acid or sour stomach
 belching
 excess air or gas in the stomach or intestines
@@ -151,8 +124,6 @@ sneezing
 stuffy nose
 trouble sleeping
 unable to sleep
-
-
 Decreased interest in sexual intercourse
 dizziness or lightheadedness
 excessive muscle tone
@@ -171,8 +142,5 @@ sleepiness or unusual drowsiness
 unusually warm skin
 walking in unusual manner
 weight loss
-
-
 Increased sensitivity of the skin to sunlight
 severe sunburn
-

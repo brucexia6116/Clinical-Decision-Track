@@ -1,50 +1,38 @@
-Generic Name: docetaxel
 Common side effects of Taxotere include: severe neutropenia, infection, severe leukopenia, severe thrombocytopenia, neutropenia, alopecia, anemia, arthralgia, asthenia, burning sensation, diarrhea, dysesthesia, edema, fever, hypersensitivity, increased serum alanine aminotransferase, increased serum aspartate aminotransferase, leukopenia, myalgia, nausea, pain, paresthesia, peripheral edema, skin rash, stomatitis, vomiting, weight gain, nail depigmentation, nail hyperpigmentation, and thinning of nails. Other side effects include: desquamation, increased serum alkaline phosphatase, and increased serum bilirubin.  See below for a comprehensive list of adverse effects.
-Applies to docetaxel: intravenous powder for solution, intravenous solution
 As well as its needed effects, docetaxel (the active ingredient contained in Taxotere) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking docetaxel, check with your doctor or nurse immediately:
 Some docetaxel side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to docetaxel: intravenous powder for injection, intravenous solution
-The most common adverse reactions across all indications include infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, and myalgia.[Ref]
-Very common (10% or more): Neutropenia (up to 99%), leukopenia (up to 99%), thrombocytopenia (up to 39%), anemia (up to 94%)Common (1% to 10%): Hemorrhage Postmarketing reports: Bleeding episodes, disseminated intravascular coagulation (DIC)[Ref]
-The major dose-limiting toxicity of this drug is reversible marrow suppression.  In clinical trials, the median time to nadir was 7 days, and the median duration of severe neutropenia (less than 500 cells/mm3) was 7 days.  Hematologic toxicity is increased at higher doses and in patients with elevated baseline liver function tests.[Ref]
-Very common (10% or more): Hypersensitivity (up to 33%)Common (1% to 10%): Severe hypersensitivityFrequency not reported: Flushing, rash with or without pruritus, chest tightness, back pain, dyspnea, drug fever, chillsPostmarketing reports: Anaphylactic shock[Ref]
-Severe hypersensitivity reactions have been reported.  Minor events, including flushing, rash with or without pruritus, chest tightness, back pain, dyspnea, drug fever, or chills have been reported and after discontinuation of the infusion and instituting treatment as necessary, have resolved.[Ref]
-Very common (10% or more): Fluid retention (up to 60%) Common (1% to 10%): Severe fluid retention, hypotension, lymphedema, phlebitis, hypertensionRare (less than 0.1%): Heart failure, sinus tachycardia, atrial flutter, dysrhythmia, unstable angina, pulmonary edemaPostmarketing reports: Atrial fibrillation, deep vein thrombosis, ECG abnormalities, pulmonary embolism, syncope, tachycardia, myocardial infarction, chest pain[Ref]
-Very common (10% or more): Alopecia (up to 98%), cutaneous reactions (up to 54%), nail changes (up to 41%)Common (1% to 10%): Severe cutaneous reactions, severe nail changes, rashRare (less than 0.1%): OnycholysisPostmarketing reports: Very rare cases of cutaneous lupus erythematosus, rare cases of bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and Scleroderma-like changes usually preceded by peripheral lymphedema, severe hand and foot syndrome, radiation recall[Ref]
-Cutaneous reactions including severe skin toxicity has been reported.  Reversible cutaneous reactions include rash mainly on the feet and/or hands, or on the arms, face, or thorax.  This is usually accompanied by pruritus.  Eruptions generally occur within 1 week of receiving the drug and resolve before the next infusion.[Ref]
-Very common (10% or more): Neurosensory events (up to 58%), dizziness (up to 16%), headache, hypoesthesia Common (1% to 10%): Severe neurosensory events Uncommon (0.1% to 1%): SomnolenceFrequency not reported: Paresthesia, dysesthesia, neuromotor weakness, Postmarketing reports: Confusion, seizures or transient loss of consciousness[Ref]
-Postmarketing reports: Acute myeloid leukemia, myelodysplasic syndrome[Ref]
-The cumulative risk of developing treatment-related acute myeloid leukemia appears to be similar to the risk observed for other anthracyclines/cyclophosphamide containing adjuvant breast chemotherapy regimens.[Ref]
-Among patients with normal liver function tests at baseline, elevations in bilirubin occurred in 8.9%, increases in AST or ALT to greater than 1.5 times the upper limit of normal (1.5 x ULN), or increases in alkaline phosphatase to greater than 2.5 x ULN occurred in 18.9% and 7.3%, respectively.  Increases in AST and/or ALT to greater than 1.5 x ULN concurrently with alkaline phosphatase elevations to greater than 2.5 x ULN occurred in 4.3% of patients.  It is unknown whether these changes were drug related or related to the underlying disease condition.[Ref]
-Very common (10% or more): Transaminase elevations, (18.9%) Common (1% to 10%): Bilirubin elevations, alkaline phosphatase elevations, transaminase elevations in combination with alkaline phosphatase elevations Postmarketing reports: Hepatitis[Ref]
-Considering all tumor types, stomatitis has been reported in 42% of patients with normal LFTs at baseline and 49% of patients with elevated LFTs.  Severe stomatitis has been reported in 6% of patients with normal LFTs at baseline and 13% of patients with elevated LFTs.  Stomatitis appears to be dose dependent.[Ref]
-Very common (10% or more): Stomatitis (up to 52%), nausea (up to 42%), vomiting (up to 23%), diarrhea (up to 43%), constipation (up to 25%), esophagitis/dysphagia/odynophagia (up to 16%)Common (1% to 10%): Severe gastrointestinal events, severe stomatitis, gastrointestinal pain and cramping, dry mouthUncommon (0.1% to 1%): Gastrointestinal hemorrhage, severe abdominal pain, severe esophagitisPostmarketing reports: Duodenal ulcer, gastrointestinal hemorrhage, gastrointestinal perforation, ischemic colitis, colitis, intestinal obstruction, ileus, neutropenic enterocolitis, dehydration[Ref]
-Very common (10% or more): Asthenia (up to 66%), severe asthenia (up to 25%), febrile neutropenia (up to 26%), fever in absence of infection (up to 47%) Common (1% to 10%): Non-septic death, impaired hearing Postmarketing reports: Ototoxicity, hearing disorders[Ref]
-Infusion reactions were generally mild and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis, extravasation, or swelling of the vein.[Ref]
-Common (1% to 10%): Infusion site reactions Frequency not reported: Hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis, extravasation, swelling of the vein[Ref]
-Very common (10% or more): Lacrimation disorder (up to 11%) Common (1% to 10%): ConjunctivitisPostmarketing reports: Cystoid macular edema, transient visual disturbances occurring during drug infusion and in association with hypersensitivity reactions (have been reversible upon discontinuation of the infusion)[Ref]
-Very common (10% or more): Cough, rhinorrhea, pharyngolaryngeal painCommon (1% to 10%): Epistaxis, pneumonia, dyspneaPostmarketing reports: Acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis, rare cases of radiation pneumonitis in patients receiving concomitant radiotherapy[Ref]
-Postmarketing reports: Renal insufficiency and renal failure (majority of these cases associated with concomitant nephrotoxic drugs)[Ref]
-Very common (10% or more): Weight gain (up to 15%), weight loss (up to 21%)Common (1% to 10%): Anorexia Postmarketing reports: Hyponatremia[Ref]
-Very common (10% or more): Myalgia (up to 33%) Common (1% to 10%): Severe myalgia, arthralgia, bone pain, back pain[Ref]
-Very common (10% or more): Infections (up to 33%)Common (1% to 10%): Severe infections, septic death, oral candidiasis[Ref]
-Very common (10% or more): Insomnia[Ref]
-Very common (10% or more): Amenorrhea (up to 62%) Common (1% to 10%): Menstrual irregularities[Ref]
-1. "Product Information. Taxotere (docetaxel)." Rhone-Poulenc Rorer, Collegeville, PA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+The most common adverse reactions across all indications include infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, and myalgia.
+Very common (10% or more): Neutropenia (up to 99%), leukopenia (up to 99%), thrombocytopenia (up to 39%), anemia (up to 94%)Common (1% to 10%): Hemorrhage Postmarketing reports: Bleeding episodes, disseminated intravascular coagulation (DIC)
+The major dose-limiting toxicity of this drug is reversible marrow suppression.  In clinical trials, the median time to nadir was 7 days, and the median duration of severe neutropenia (less than 500 cells/mm3) was 7 days.  Hematologic toxicity is increased at higher doses and in patients with elevated baseline liver function tests.
+Very common (10% or more): Hypersensitivity (up to 33%)Common (1% to 10%): Severe hypersensitivityFrequency not reported: Flushing, rash with or without pruritus, chest tightness, back pain, dyspnea, drug fever, chillsPostmarketing reports: Anaphylactic shock
+Severe hypersensitivity reactions have been reported.  Minor events, including flushing, rash with or without pruritus, chest tightness, back pain, dyspnea, drug fever, or chills have been reported and after discontinuation of the infusion and instituting treatment as necessary, have resolved.
+Very common (10% or more): Fluid retention (up to 60%) Common (1% to 10%): Severe fluid retention, hypotension, lymphedema, phlebitis, hypertensionRare (less than 0.1%): Heart failure, sinus tachycardia, atrial flutter, dysrhythmia, unstable angina, pulmonary edemaPostmarketing reports: Atrial fibrillation, deep vein thrombosis, ECG abnormalities, pulmonary embolism, syncope, tachycardia, myocardial infarction, chest pain
+Very common (10% or more): Alopecia (up to 98%), cutaneous reactions (up to 54%), nail changes (up to 41%)Common (1% to 10%): Severe cutaneous reactions, severe nail changes, rashRare (less than 0.1%): OnycholysisPostmarketing reports: Very rare cases of cutaneous lupus erythematosus, rare cases of bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and Scleroderma-like changes usually preceded by peripheral lymphedema, severe hand and foot syndrome, radiation recall
+Cutaneous reactions including severe skin toxicity has been reported.  Reversible cutaneous reactions include rash mainly on the feet and/or hands, or on the arms, face, or thorax.  This is usually accompanied by pruritus.  Eruptions generally occur within 1 week of receiving the drug and resolve before the next infusion.
+Very common (10% or more): Neurosensory events (up to 58%), dizziness (up to 16%), headache, hypoesthesia Common (1% to 10%): Severe neurosensory events Uncommon (0.1% to 1%): SomnolenceFrequency not reported: Paresthesia, dysesthesia, neuromotor weakness, Postmarketing reports: Confusion, seizures or transient loss of consciousness
+Postmarketing reports: Acute myeloid leukemia, myelodysplasic syndrome
+The cumulative risk of developing treatment-related acute myeloid leukemia appears to be similar to the risk observed for other anthracyclines/cyclophosphamide containing adjuvant breast chemotherapy regimens.
+Among patients with normal liver function tests at baseline, elevations in bilirubin occurred in 8.9%, increases in AST or ALT to greater than 1.5 times the upper limit of normal (1.5 x ULN), or increases in alkaline phosphatase to greater than 2.5 x ULN occurred in 18.9% and 7.3%, respectively.  Increases in AST and/or ALT to greater than 1.5 x ULN concurrently with alkaline phosphatase elevations to greater than 2.5 x ULN occurred in 4.3% of patients.  It is unknown whether these changes were drug related or related to the underlying disease condition.
+Very common (10% or more): Transaminase elevations, (18.9%) Common (1% to 10%): Bilirubin elevations, alkaline phosphatase elevations, transaminase elevations in combination with alkaline phosphatase elevations Postmarketing reports: Hepatitis
+Considering all tumor types, stomatitis has been reported in 42% of patients with normal LFTs at baseline and 49% of patients with elevated LFTs.  Severe stomatitis has been reported in 6% of patients with normal LFTs at baseline and 13% of patients with elevated LFTs.  Stomatitis appears to be dose dependent.
+Very common (10% or more): Stomatitis (up to 52%), nausea (up to 42%), vomiting (up to 23%), diarrhea (up to 43%), constipation (up to 25%), esophagitis/dysphagia/odynophagia (up to 16%)Common (1% to 10%): Severe gastrointestinal events, severe stomatitis, gastrointestinal pain and cramping, dry mouthUncommon (0.1% to 1%): Gastrointestinal hemorrhage, severe abdominal pain, severe esophagitisPostmarketing reports: Duodenal ulcer, gastrointestinal hemorrhage, gastrointestinal perforation, ischemic colitis, colitis, intestinal obstruction, ileus, neutropenic enterocolitis, dehydration
+Very common (10% or more): Asthenia (up to 66%), severe asthenia (up to 25%), febrile neutropenia (up to 26%), fever in absence of infection (up to 47%) Common (1% to 10%): Non-septic death, impaired hearing Postmarketing reports: Ototoxicity, hearing disorders
+Infusion reactions were generally mild and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis, extravasation, or swelling of the vein.
+Common (1% to 10%): Infusion site reactions Frequency not reported: Hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis, extravasation, swelling of the vein
+Very common (10% or more): Lacrimation disorder (up to 11%) Common (1% to 10%): ConjunctivitisPostmarketing reports: Cystoid macular edema, transient visual disturbances occurring during drug infusion and in association with hypersensitivity reactions (have been reversible upon discontinuation of the infusion)
+Very common (10% or more): Cough, rhinorrhea, pharyngolaryngeal painCommon (1% to 10%): Epistaxis, pneumonia, dyspneaPostmarketing reports: Acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis, rare cases of radiation pneumonitis in patients receiving concomitant radiotherapy
+Postmarketing reports: Renal insufficiency and renal failure (majority of these cases associated with concomitant nephrotoxic drugs)
+Very common (10% or more): Weight gain (up to 15%), weight loss (up to 21%)Common (1% to 10%): Anorexia Postmarketing reports: Hyponatremia
+Very common (10% or more): Myalgia (up to 33%) Common (1% to 10%): Severe myalgia, arthralgia, bone pain, back pain
+Very common (10% or more): Infections (up to 33%)Common (1% to 10%): Severe infections, septic death, oral candidiasis
+Very common (10% or more): Insomnia
+Very common (10% or more): Amenorrhea (up to 62%) Common (1% to 10%): Menstrual irregularities
 It is possible that some side effects of Taxotere may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Burning, numbness, tingling, or pain in the arms, hands, legs, or feet
 swelling of the stomach, face, fingers, hands, feet, or lower legs
 unusual tiredness or weakness
 weight gain
-
-
 Black, tarry stools
 blood in the urine or stools
 cough or hoarseness (accompanied by fever or chills)
@@ -63,14 +51,10 @@ red, scaly, swollen, or peeling areas of the skin (severe)
 tightness in the chest
 troubled breathing while at rest
 unusual bleeding or bruising
-
-
 Chest pain or discomfort
 decreased blood pressure
 fast or irregular heartbeat
 increased blood pressure
-
-
 Congestion
 diarrhea
 dryness or soreness of the throat
@@ -78,8 +62,6 @@ nausea
 skin rash or redness (mild)
 sores or ulcers on the lips or tongue or inside the mouth
 weakness in the arms, hands, legs, or feet
-
-
 Bloody nose
 body aches or pain
 change in the color of the fingernails or toenails
@@ -93,8 +75,6 @@ runny nose
 tender, swollen glands in the neck
 voice changes
 vomiting
-
-
 Burning, dry, or itching eyes
 burning upper abdominal or stomach pain
 confusion
@@ -107,4 +87,3 @@ redness, pain, or swelling of the eye, eyelid, or inner lining of the eyelid
 sunken eyes
 tearing of the eyes
 wrinkled skin
-

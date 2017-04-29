@@ -1,32 +1,19 @@
-Generic Name: meningococcal conjugate vaccine
-Applies to meningococcal conjugate vaccine: intramuscular powder for suspension, intramuscular suspension
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by meningococcal conjugate vaccine (the active ingredient contained in Menveo). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking meningococcal conjugate vaccine, check with your doctor or nurse immediately:
-Some of the side effects that can occur with meningococcal conjugate vaccine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to meningococcal conjugate vaccine: intramuscular powder for injection, intramuscular solution
-The most common adverse events were injection site pain, irritability, diarrhea, headache, and fatigue.[Ref]
-Very common (10% or more): Injection site pain (48.1%), injection site redness (16%), injection site induration (11%)Common (1% to 10%): Injection site swelling, injection site hematomaUncommon (0.1% to 1%): Injection site pruritusPostmarketing reports: Injection site reaction, injection site cellulitis, extensive swelling of the injected limb (frequently associated with erythema, sometimes involving the adjacent joint or swelling of the entire injected limb)[Ref]
-Very common (10% or more): Headache (41.8%), drowsiness (11.2%)Uncommon (0.1% to 1%): Dizziness, hypoesthesiaPostmarketing reports: Vasovagal syncope, paresthesia, Guillain-Barre syndrome, vertigo, tonic convulsion, febrile convulsion, vertigo, vestibular disorder, syncope, facial paresis, balance disorder[Ref]
-Very common (10% or more): Diarrhea (14%), nauseaCommon (1% to 10%): Vomiting, gastrointestinal symptoms[Ref]
-Very common (10% or more): Fatigue (32.3%), malaise (22.3%), feverCommon (1% to 10%): Chills, cryingPostmarketing reports: Asthenia, impaired hearing, ear pain, fall, head injury, body temperature increased[Ref]
-Common (1% to 10%): RashUncommon (0.1% to 1%): PruritusPostmarketing reports: Bullous conditions[Ref]
-Very common (10% or more): Arthralgia (16%), myalgiaUncommon (0.1% to 1%): Pain in extremityPostmarketing reports: Bone pain[Ref]
-Very common (10% or more): Irritability (12.2%)Common (1% to 10%): Insomnia[Ref]
-Very common (10% or more): Appetite lostCommon (1% to 10%): Anorexia, eating disorder[Ref]
-Uncommon (0.1% to 1%): NasopharyngitisPostmarketing reports: Oropharyngeal pain[Ref]
-Postmarketing reports: Hypersensitivity (such as rash, urticaria, pruritus, dyspnea, angioedema) including anaphylaxis[Ref]
-Postmarketing reports: Alanine aminotransferase increased[Ref]
-Postmarketing reports: Eyelid ptosis[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Menactra (meningococcal conjugate vaccine)." sanofi pasteur, Swiftwater, PA. 
-Not all side effects for Menveo may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most common adverse events were injection site pain, irritability, diarrhea, headache, and fatigue.
+Very common (10% or more): Injection site pain (48.1%), injection site redness (16%), injection site induration (11%)Common (1% to 10%): Injection site swelling, injection site hematomaUncommon (0.1% to 1%): Injection site pruritusPostmarketing reports: Injection site reaction, injection site cellulitis, extensive swelling of the injected limb (frequently associated with erythema, sometimes involving the adjacent joint or swelling of the entire injected limb)
+Very common (10% or more): Headache (41.8%), drowsiness (11.2%)Uncommon (0.1% to 1%): Dizziness, hypoesthesiaPostmarketing reports: Vasovagal syncope, paresthesia, Guillain-Barre syndrome, vertigo, tonic convulsion, febrile convulsion, vertigo, vestibular disorder, syncope, facial paresis, balance disorder
+Very common (10% or more): Diarrhea (14%), nauseaCommon (1% to 10%): Vomiting, gastrointestinal symptoms
+Very common (10% or more): Fatigue (32.3%), malaise (22.3%), feverCommon (1% to 10%): Chills, cryingPostmarketing reports: Asthenia, impaired hearing, ear pain, fall, head injury, body temperature increased
+Common (1% to 10%): RashUncommon (0.1% to 1%): PruritusPostmarketing reports: Bullous conditions
+Very common (10% or more): Arthralgia (16%), myalgiaUncommon (0.1% to 1%): Pain in extremityPostmarketing reports: Bone pain
+Very common (10% or more): Irritability (12.2%)Common (1% to 10%): Insomnia
+Very common (10% or more): Appetite lostCommon (1% to 10%): Anorexia, eating disorder
+Uncommon (0.1% to 1%): NasopharyngitisPostmarketing reports: Oropharyngeal pain
+Postmarketing reports: Hypersensitivity (such as rash, urticaria, pruritus, dyspnea, angioedema) including anaphylaxis
+Postmarketing reports: Alanine aminotransferase increased
+Postmarketing reports: Eyelid ptosis
 intramuscular suspension
-
 Cough
 difficulty with swallowing
 dizziness
@@ -39,16 +26,12 @@ skin rash
 tightness in the chest
 unusual tiredness or weakness
 wheezing
-
-
 Inability to move the arms and legs
 fainting
 sudden and progressing muscle weakness
 sudden and severe back pain
 sudden numbness and weakness in the arms and legs
 weakness of the muscles in your face
-
-
 Chills
 diarrhea
 difficulty with moving
@@ -63,7 +46,4 @@ pain in the joints
 pain, redness, or swelling at the injection site
 sleepiness
 weight loss
-
-
 Vomiting
-

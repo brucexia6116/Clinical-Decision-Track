@@ -1,49 +1,19 @@
-Generic Name: meperidine / promethazine
-Applies to meperidine / promethazine: injectable solution, oral capsule
-Central nervous system side effects of meperidine may be either depressant or excitatory.  Excitatory symptoms are sometimes ignored as possible side effects of meperidine, but may be due to the accumulation of a metabolite, normeperidine.  Accumulation of normeperidine occurs more frequently in patients with renal insufficiency and in patients who are receiving meperidine via a patient-controlled analgesia pump.Meperidine may increase intracranial pressure, and therefore should be used with caution in patients with head injuries.  Severe adverse effects, such as respiratory depression, may be treated with the opioid antagonist naloxone.A case of seizures has been reported in a patient with porphyria receiving meperidine.[Ref]
-Central nervous system adverse effects of meperidine include sleepiness, respiratory depression, delirium, seizures, tremors, dizziness, visual disturbances, muscle twitches, dilated pupils, and Parkinsonian symptoms.Nervous system side effects are common with the use of promethazine and include excessive sedation, drowsiness, fatigue, paradoxical excitation, and decreased motor coordination.  Extrapyramidal effects (including oculogyric crises, torticollis and tongue protrusion), encephalitic symptoms, convulsions, and psychosis have been rarely reported.[Ref]
-Psychiatric adverse effects of meperidine include fearfulness, agitation, paranoia, hypervigilance, and auditory and visual hallucinations.[Ref]
-Psychological dependence on meperidine may develop.[Ref]
-Meperidine may cause contraction of the sphincter of Oddi, thereby increasing intrabiliary pressure.  As a result, meperidine may aggravate rather than relieve biliary colic.Constipation is less common with meperidine than some other narcotics.[Ref]
-Gastrointestinal effects of meperidine including increased gastroesophageal reflux, increased biliary pressure, dry mouth, nausea, and vomiting have been reported.Gastrointestinal effects of promethazine include nausea and vomiting.[Ref]
-There are case reports of bronchospasm occurring in patients with a history of asthma after receiving meperidine.  Because of this effect and possible respiratory depression, meperidine should be used with caution in patients with severe reactive or obstructive pulmonary disease.[Ref]
-Bronchospasm has been reported with the use of meperidine in patients with underlying pulmonary disease.Respiratory depression and arrest may occur rarely, especially with parenteral administration of promethazine.  Equipment for resuscitation should be available when parenteral promethazine is used.[Ref]
-Cardiovascular effects including phlebitis have been reported in patients who are receiving meperidine.  Hypotension has been reported rarely.Cardiovascular effects have been rarely observed with the use of promethazine and include tachycardia, bradycardia, and transient hypotension.  Prolongation of the QT interval, heart block, and malignant arrhythmias have been reported in association with other phenothiazines.[Ref]
-The hypotension reported in patients receiving meperidine occurs most commonly in patients who are under anesthesia, who are dehydrated, and who are receiving other medications.[Ref]
-Genitourinary effects including urinary retention have been reported in patients who are receiving meperidine.[Ref]
-Dermatologic effects including rash and sweating have been reported in patients who are receiving meperidine.[Ref]
-The neuroleptic malignant syndrome has been rarely observed during treatment with promethazine.[Ref]
-Fever, altered consciousness, autonomic dysfunction, and muscle rigidity are the hallmarks of the neuroleptic malignant syndrome.  The neuroleptic malignant syndrome is associated with a case fatality rate of about 20%.  Immediate discontinuation of promethazine and intensive monitoring and supportive care are indicated.[Ref]
-Inadvertent intra-arterial injection of promethazine carries a high risk of distal necrosis and frequently requires amputation of the affected limb.  Subcutaneous injection has more rarely caused chemical irritation and necrosis.[Ref]
-Hypersensitivity reactions to promethazine include rare reports of rash, pruritus, hypotension, photosensitivity, and tachycardia.[Ref]
-Hematologic effects of promethazine include rare cases of neutropenia.[Ref]
-Immunologic reactions with the use of promethazine include rare reports of a systemic lupus erythematosus syndrome.[Ref]
-Central and obstructive apneas have been observed in infants given promethazine.  Promethazine has been implicated by some as a possible cause of the Sudden Infant Death Syndrome (SIDS).[Ref]
-1. Drotts DL, Vinson DR "Prochlorperazine induces akathisia in emergency patients." Ann Emerg Med 34 (1999): 469-75
-2. Marcantonio ER, Juarez G, Goldman L, et al. "The relationship of postoperative delirium with psychoactive medications." JAMA 272 (1994): 1518-22
-3. Hagmeyer KO, Mauro LS, Mauro VF "Meperidine-related seizures associated with patient-controlled analgesia pumps." Ann Pharmacother 27 (1993): 29-32
-4. Jones J, Sklar D, Dougherty J, White W "Randomized double-blind trial of intravenous prochlorperazine for the treatment of acute headache." JAMA 261 (1989): 1174-6
-5. "Product Information. Compazine (prochlorperazine)." SmithKline Beecham, Philadelphia, PA. 
-6. Shaw HL "Treatment of intractable cancer pain by electronically controlled parenteral infusion of analgesic drugs." Cancer 72 (1993): 3416-25
-7. Baker FM, Cook P "Compazine complications: a review." J Natl Med Assoc 73 (1981): 409-12
-8. Samuels SI, Rabinov W "Difficulty reversing drug-induced coma in a patient with sleep apnea." Anesth Analg 65 (1986): 1222-4
-9. Geller RJ "Meperidine in patient-controlled analgesia: a near-fatal mishap." Anesth Analg 76 (1993): 655-7
-10. Olive JM, Masana L, Gonzalez J "Meperidine and reversible parkinsonism." Mov Disord 9 (1994): 115-6
-11. Olver IN, Laidlaw CR, Matthews JP, Bishop JF, Hayes AM, Wolf M, Toner GC "A randomised double blind crossover study of domperidone and prochlorperazine suppositories for controlling emesis in outpatients receiving chemotherapy." Eur J Cancer 30a (1994): 426-9
-12. Stone PA, Macintyre PE, Jarvis DA "Norpethidine toxicity and patient controlled analgesia." Br J Anaesth 71 (1993): 738-40
-13. Armstrong PJ, Bersten A "Normeperidine toxicity." Anesth Analg 65 (1986): 536-8
-14. Boston Collaborative Drug Surveillance Program "Drug-induced extrapyramidal symptoms." JAMA 224 (1973): 889-91
-15. Fogarty T, Murray GB "Psychiatric presentation of meperidine toxicity." J Clin Psychopharmacol 7 (1987): 116-7
-16. Stanski DR, Cherry C, Bradley R, et al "Efficacy and safety of single doses of intramuscular ketorolac tromethamine compared with meperidine for postoperative pain." Pharmacotherapy 10 (1990): s40-4
-17. Hey VM, Ostick DG, Mazumder JK, Lord WD "Pethidine, metoclopramide and the gastro-oesophageal sphincter." Anaesthesia 36 (1981): 173-6
-18. Reutens DC, Stewart-Wynne EG "Norpethidine induced myoclonus in a patient with renal failure." J Neurol Neurosurg Psychiatry 52 (1989): 1450-1
-19. Elloway R, Sherman S, Maas L, et al "Meperidine-induced bronchospasm." Gastrointest Endosc 38 (1992): 93
-20. "Product Information. Demerol (meperidine)." Sanofi Winthrop Pharmaceuticals, New York, NY. 
-21. Petros JG, Mallen JK, Howe K, Rimm EB, Robillard RJ "Patient-controlled analgesia and postoperative urinary retention after open appendectomy." Surg Gynecol Obstet 177 (1993): 172-5
-22. Reilly GD, Wood ML "Prochlorperazine--an unusual cause of lip ulceration." Acta Derm Venereol 64 (1984): 270-1
-23. Duxbury AJ, Ead RD, Turner EP "Erosive cheilitis related to prochlorperazine maleate." Br Dent J 153 (1982): 271-2
-24. Manser TJ, Warner JF "Neuroleptic malignant syndrome associated with prochlorperazine." South Med J 83 (1990): 73-4
-25. Hager DL, Wilson JN "Gangrene of the hand following intra-arterial injection." Arch Surg 94 (1967): 86-9
-26. "Product Information. Phenergan (promethazine)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-27. Fabius AJ, Gaulhofer WK "Systemic lupus erythematosus induced by psychotropic drugs." Acta Rheumatol Scand 17 (1971): 137-47
-Not all side effects for Meprozine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Central nervous system side effects of meperidine may be either depressant or excitatory.  Excitatory symptoms are sometimes ignored as possible side effects of meperidine, but may be due to the accumulation of a metabolite, normeperidine.  Accumulation of normeperidine occurs more frequently in patients with renal insufficiency and in patients who are receiving meperidine via a patient-controlled analgesia pump.Meperidine may increase intracranial pressure, and therefore should be used with caution in patients with head injuries.  Severe adverse effects, such as respiratory depression, may be treated with the opioid antagonist naloxone.A case of seizures has been reported in a patient with porphyria receiving meperidine.
+Central nervous system adverse effects of meperidine include sleepiness, respiratory depression, delirium, seizures, tremors, dizziness, visual disturbances, muscle twitches, dilated pupils, and Parkinsonian symptoms.Nervous system side effects are common with the use of promethazine and include excessive sedation, drowsiness, fatigue, paradoxical excitation, and decreased motor coordination.  Extrapyramidal effects (including oculogyric crises, torticollis and tongue protrusion), encephalitic symptoms, convulsions, and psychosis have been rarely reported.
+Psychiatric adverse effects of meperidine include fearfulness, agitation, paranoia, hypervigilance, and auditory and visual hallucinations.
+Psychological dependence on meperidine may develop.
+Meperidine may cause contraction of the sphincter of Oddi, thereby increasing intrabiliary pressure.  As a result, meperidine may aggravate rather than relieve biliary colic.Constipation is less common with meperidine than some other narcotics.
+Gastrointestinal effects of meperidine including increased gastroesophageal reflux, increased biliary pressure, dry mouth, nausea, and vomiting have been reported.Gastrointestinal effects of promethazine include nausea and vomiting.
+There are case reports of bronchospasm occurring in patients with a history of asthma after receiving meperidine.  Because of this effect and possible respiratory depression, meperidine should be used with caution in patients with severe reactive or obstructive pulmonary disease.
+Bronchospasm has been reported with the use of meperidine in patients with underlying pulmonary disease.Respiratory depression and arrest may occur rarely, especially with parenteral administration of promethazine.  Equipment for resuscitation should be available when parenteral promethazine is used.
+Cardiovascular effects including phlebitis have been reported in patients who are receiving meperidine.  Hypotension has been reported rarely.Cardiovascular effects have been rarely observed with the use of promethazine and include tachycardia, bradycardia, and transient hypotension.  Prolongation of the QT interval, heart block, and malignant arrhythmias have been reported in association with other phenothiazines.
+The hypotension reported in patients receiving meperidine occurs most commonly in patients who are under anesthesia, who are dehydrated, and who are receiving other medications.
+Genitourinary effects including urinary retention have been reported in patients who are receiving meperidine.
+Dermatologic effects including rash and sweating have been reported in patients who are receiving meperidine.
+The neuroleptic malignant syndrome has been rarely observed during treatment with promethazine.
+Fever, altered consciousness, autonomic dysfunction, and muscle rigidity are the hallmarks of the neuroleptic malignant syndrome.  The neuroleptic malignant syndrome is associated with a case fatality rate of about 20%.  Immediate discontinuation of promethazine and intensive monitoring and supportive care are indicated.
+Inadvertent intra-arterial injection of promethazine carries a high risk of distal necrosis and frequently requires amputation of the affected limb.  Subcutaneous injection has more rarely caused chemical irritation and necrosis.
+Hypersensitivity reactions to promethazine include rare reports of rash, pruritus, hypotension, photosensitivity, and tachycardia.
+Hematologic effects of promethazine include rare cases of neutropenia.
+Immunologic reactions with the use of promethazine include rare reports of a systemic lupus erythematosus syndrome.
+Central and obstructive apneas have been observed in infants given promethazine.  Promethazine has been implicated by some as a possible cause of the Sudden Infant Death Syndrome (SIDS).

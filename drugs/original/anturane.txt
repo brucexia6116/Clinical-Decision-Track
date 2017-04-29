@@ -1,51 +1,23 @@
-Generic Name: sulfinpyrazone
-Applies to sulfinpyrazone: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by sulfinpyrazone (the active ingredient contained in Anturane). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking sulfinpyrazone:
 If any of the following side effects occur while taking sulfinpyrazone, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with sulfinpyrazone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to sulfinpyrazone: oral capsule, oral tablet
-Gastrointestinal symptoms have been the most frequently reported side effects.  Peptic ulcer disease may be exacerbated or reactivated.[Ref]
-Hematologic side effects including anemia, leukopenia, agranulocytosis, thrombocytopenia, and aplastic anemia have occurred.  Two cases of leukemia following chronic sulfinpyrazone (the active ingredient contained in Anturane) therapy have been reported.   Concomitant drug therapy was also reported and a causal relationship with sulfinpyrazone has not been established.[Ref]
-Dermatologic side effects have been limited to rash.[Ref]
-Renal failure has been reported.  Suggested mechanisms have included hypersensitivity induced interstitial nephritis, tubular-interstitial damage due to precipitation of urinary uric acid crystals, and inhibition of renal prostaglandin synthesis.  Urolithiasis and renal colic may occur following initiation of therapy.  Adequate fluid intake and urinary alkalinization are recommended.[Ref]
-Mobilization of urates during initiation of therapy has resulted in musculoskeletal symptoms of acute gouty arthritis.[Ref]
-1. Mattingly D, Bradley M, Selley PJ "Hazards of sulphinpyrazone." Br Med J 2 (1978): 1786-7
-2. "Product Information. Anturane (sulfinpyrazone)." Novartis Pharmaceuticals, East Hanover, NJ. 
-3. Braun J "Abnormalities of urinary sediment and renal failure following sulfinpyrazone therapy." Arch Intern Med 136 (1976): 1060-1
-4. Walls M, Goral S, Stone W "Acute renal failure due to sulfinpyrazone." Am J Med Sci 315 (1998): 319-21
-5. Keidar S, Kohan R, Levy J, Grenadier E, Palant A, Ben Ari J "Non oliguric acute renal failure after treatment with sulfinpyrazone." Clin Nephrol 17 (1982): 266-7
-6. Howard T, Hoy RH, Warren S, Georgiev M, Selinger H "Acute renal dysfunction due to sulfinpyrazone therapy in post- myocardial infarction cardiomegaly: reversible hypersensitiv interstitial nephritis." Am Heart J 102 (1981): 294-5
-7. Lijnen P, Boelaert J, van Eeghem P, Daneels R, Schurgers M, de Jaegere P, van der Stichele E, Vincke J, Fagard R, Verschueren LJ, Amery A "Decrease in renal function due to sulphinpyrazone treatment early after myocardial infarction." Clin Nephrol 19 (1983): 143-6
-8. Keidar S, Kohan R, Levy J, et al "Non oliguric acute renal failure after treatment with sulfinpyrazone." Clin Nephrol 17 (1982): 266-7
-9. Lenfant F, Lahet JJ, Volot F, Schafer I, Freysz M, Rochette L "Effects of bupivacaine on human erythrocytes submitted to stress and evidence for an interaction between bupivacaine and flumazenil." Br J Clin Pharmacol 48 (1999): 826-8
-10. Boelaert J, Lijnen P, Robbens E, Rocher A, Daneels R, Schurgers M, Amery A "Impairment of renal function due to sulphinpyrazone after coronary artery bypass surgery: a prospective double-blind study." J Cardiovasc Pharmacol 8 (1986): 386-91
-Not all side effects for Anturane may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal symptoms have been the most frequently reported side effects.  Peptic ulcer disease may be exacerbated or reactivated.
+Hematologic side effects including anemia, leukopenia, agranulocytosis, thrombocytopenia, and aplastic anemia have occurred.  Two cases of leukemia following chronic sulfinpyrazone (the active ingredient contained in Anturane) therapy have been reported.   Concomitant drug therapy was also reported and a causal relationship with sulfinpyrazone has not been established.
+Dermatologic side effects have been limited to rash.
+Renal failure has been reported.  Suggested mechanisms have included hypersensitivity induced interstitial nephritis, tubular-interstitial damage due to precipitation of urinary uric acid crystals, and inhibition of renal prostaglandin synthesis.  Urolithiasis and renal colic may occur following initiation of therapy.  Adequate fluid intake and urinary alkalinization are recommended.
+Mobilization of urates during initiation of therapy has resulted in musculoskeletal symptoms of acute gouty arthritis.
 Shortness of breath, troubled breathing, tightness in chest, and/or wheezing
 sores, ulcers, or white spots on lips or in mouth
 sore throat and fever with or without chills
 swollen and/or painful glands
 unusual bleeding or bruising
-
-
 Clumsiness or unsteadiness
 convulsions (seizures)
 diarrhea
 nausea or vomiting (severe or continuing)
 stomach pain (severe or continuing)
 difficulty in breathing
-
-
 Lower back and/or side pain
 painful urination (possibly with blood)
-
-
 Skin rash
-
-
 Bloody or black, tarry stools
 fever 
 increased blood pressure
@@ -55,9 +27,6 @@ swelling of face, fingers, feet, and/or lower legs
 unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds 
 weight gain
-
-
 Joint pain, redness, and/or swelling
  nausea or vomiting
 stomach pain
-

@@ -1,25 +1,15 @@
-Generic Name: codeine / guaifenesin
-Applies to codeine / guaifenesin: capsules, liquid, tablets
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Dizziness; drowsiness; excitability; headache; nausea; nervousness or anxiety; trouble sleeping; weakness.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); difficulty urinating; fast or irregular heartbeat; hallucinations; seizures; severe dizziness, lightheadedness, or headache; severe drowsiness; tremor.
-
-
-Applies to codeine / guaifenesin: oral capsule, oral liquid, oral syrup, oral tablet
 The more commonly reported adverse effects of codeine include nausea, vomiting, and diarrhea.  Guaifenesin is generally well tolerated.
-Codeine Frequency not reported: CNS depression, lightheadedness, dizziness, sedation, headache, convulsions, weakness[Ref]
+Codeine Frequency not reported: CNS depression, lightheadedness, dizziness, sedation, headache, convulsions, weakness
 Codeine Frequency not reported: Tachycardia, bradycardia, palpitation, faintness, syncope, orthostatic hypotension, circulatory depression
-Codeine Frequency not reported: Nausea, vomiting, constipation, biliary tract spasm, increased colonic motility, toxic dilationGuaifenesin: Frequency not reported: Abdominal pain (upper), diarrhea, nausea, vomiting[Ref]
-Codeine Frequency not reported: Oliguria, urinary retention, antidiuretic effect[Ref]
-Codeine-induced rash may be related to direct stimulation of histamine release.[Ref]
-Codeine: Frequency not reported: RashGuaifenesin: Frequency not reported: Rash[Ref]
+Codeine Frequency not reported: Nausea, vomiting, constipation, biliary tract spasm, increased colonic motility, toxic dilationGuaifenesin: Frequency not reported: Abdominal pain (upper), diarrhea, nausea, vomiting
+Codeine Frequency not reported: Oliguria, urinary retention, antidiuretic effect
+Codeine-induced rash may be related to direct stimulation of histamine release.
+Codeine: Frequency not reported: RashGuaifenesin: Frequency not reported: Rash
 Codeine Frequency not reported: Pruritus, giant urticaria, angioneurotic edema, laryngeal edemaGuaifenesin: Frequency not reported: Hypersensitivity reactions (pruritus, urticaria)
 Codeine Frequency not reported: Visual disturbances
 Codeine Frequency not reported: Euphoria, dysphoria, transient hallucination, disorientation
-Codeine: Frequency not reported: Respiratory depression[Ref]
-Respiratory depression and death have occurred in children who received codeine in the postoperative period following tonsillectomy and/or adenoidectomy.  Further investigation has shown these patients to be ultra-rapid metabolizers of codeine.  Children with obstructive sleep apnea who are treated with codeine appear to be particularly sensitive to the respiratory depressant effects of codeine.[Ref]
-1. de Groot AC, Conemans J "Allergic urticarial rash from oral codeine." Contact Dermatitis 14 (1986): 209-14
-2. "Product Information. Robitussin (guaifenesin)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-3. Gonzalogarijo MA, Revengaarranz F "Fixed drug eruption due to codeine." Br J Dermatol 135 (1996): 498-9
-4. US Food and Drug Administration "FDA News Release: FDA requires strong warnings for opioid analgesics, prescription opioid cough products, and benzodiazepine labeling related to serious risks and death from combined use. Available from: URL: http://www.fda.gov/NewsEvents/Newsroom/PressAn"   ([2016, Aug 31]):
-Not all side effects for Mytussin AC may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Codeine: Frequency not reported: Respiratory depression
+Respiratory depression and death have occurred in children who received codeine in the postoperative period following tonsillectomy and/or adenoidectomy.  Further investigation has shown these patients to be ultra-rapid metabolizers of codeine.  Children with obstructive sleep apnea who are treated with codeine appear to be particularly sensitive to the respiratory depressant effects of codeine.

@@ -1,40 +1,22 @@
-Generic Name: acetaminophen / butalbital / caffeine
-Applies to acetaminophen / butalbital / caffeine: oral capsule, oral solution, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by acetaminophen / butalbital / caffeine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking acetaminophen / butalbital / caffeine:
-
 If any of the following symptoms of overdose occur while taking acetaminophen / butalbital / caffeine, get emergency help immediately:
-
-Some of the side effects that can occur with acetaminophen / butalbital / caffeine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to acetaminophen / butalbital / caffeine: oral capsule, oral liquid, oral tablet
-Butalbital/Acetaminophen/Caffeine: Common (1% to 10%): Drowsiness, lightheadedness, dizziness, sedationUncommon (0.1% to 1%): Headache, shaky feeling, tingly, fainting, numbness, seizures, mental confusion, excitement or depression due to intoleranceCaffeine: Frequency not reported: Tremor[Ref]
-The most frequently reported adverse events have included drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling.[Ref]
-Acetaminophen:Frequency not reported: Liver failure[Ref]
-Acute liver failure has been reported with acetaminophen use; many case have been associated with use at doses in excess of 4 g/day, and often involving more than 1 acetaminophen-containing product.[Ref]
-Common (1% to 10%): Nausea, vomiting, abdominal painUncommon (0.1% to 1%): Dry mouth, difficulty swallowing, heartburn, flatulence, constipation[Ref]
-Butalbital/Acetaminophen/Caffeine: Uncommon (0.1% to 1%): Diuresis Caffeine: Frequency not reported: Nephrotoxicity[Ref]
-Uncommon (0.1% to 1%): Allergic reactionsPostmarketing reports: AnaphylaxisAcetaminophen:Postmarketing reports: Anaphylaxis[Ref]
-Acetaminophen: Frequency not reported: Thrombocytopenia, agranulocytosis[Ref]
-Butalbital/Acetaminophen/Caffeine: Uncommon (0.1% to 1%): Hyperhidrosis, pruritus		Frequency not reported: Toxic epidermal necrolysis, erythema multiformeAcetaminophen: Rare (less than 0.1%): Serious skin reactions such as acute generalized exanthematous pustulosis, Stevens-Johnson syndrome, and toxic epidermal necrolysisFrequency not reported: Rash[Ref]
-Several cases of dermatologic reactions including toxic epidermal necrolysis and erythema multiforme have been reported.[Ref]
-Common (1% to 10%): Shortness of breathUncommon (0.1% to 1%): Nasal congestion[Ref]
-Butalbital/Acetaminophen/Caffeine: Uncommon (0.1% to 1%): TachycardiaCaffeine: Frequency not reported: Cardiac stimulation[Ref]
-Common (1% to 10%): Intoxicated feelingUncommon (0.1% to 1%): Fatigue, high energy, heavy eyelids, sluggishness, hot spells, fever, earache, tinnitus[Ref]
-Caffeine: Frequency not reported: Hyperglycemia[Ref]
-Uncommon (0.1% to 1%): Leg pain, muscle fatigue[Ref]
-Butalbital/Acetaminophen/Caffeine: Uncommon (0.1% to 1%): Agitation, euphoria Caffeine: Frequency not reported: Irritability, dependence[Ref]
-1. "Product Information. Acetaminophen/Butalbital/Caffeine (acetaminophen / butalbital / caffeine)." Par Pharmaceutical Inc (formerly Qualitest Pharmaceuticals Inc), Huntsville, AL. 
-2. "Product Information. Vanatol LQ (acetaminophen / butalbital / caffeine)." GM Pharmaceuticals, Arlington, TX. 
-3. "Product Information. Esgic (acetaminophen / butalbital / caffeine)." Forest Pharmaceuticals, St. Louis, MO. 
-4. "Product Information. Fioricet (APAP/butalbital/caffeine)." Novartis Pharmaceuticals, East Hanover, NJ. 
-Not all side effects for Margesic may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Butalbital/Acetaminophen/Caffeine: Common (1% to 10%): Drowsiness, lightheadedness, dizziness, sedationUncommon (0.1% to 1%): Headache, shaky feeling, tingly, fainting, numbness, seizures, mental confusion, excitement or depression due to intoleranceCaffeine: Frequency not reported: Tremor
+The most frequently reported adverse events have included drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling.
+Acetaminophen:Frequency not reported: Liver failure
+Acute liver failure has been reported with acetaminophen use; many case have been associated with use at doses in excess of 4 g/day, and often involving more than 1 acetaminophen-containing product.
+Common (1% to 10%): Nausea, vomiting, abdominal painUncommon (0.1% to 1%): Dry mouth, difficulty swallowing, heartburn, flatulence, constipation
+Butalbital/Acetaminophen/Caffeine: Uncommon (0.1% to 1%): Diuresis Caffeine: Frequency not reported: Nephrotoxicity
+Uncommon (0.1% to 1%): Allergic reactionsPostmarketing reports: AnaphylaxisAcetaminophen:Postmarketing reports: Anaphylaxis
+Acetaminophen: Frequency not reported: Thrombocytopenia, agranulocytosis
+Butalbital/Acetaminophen/Caffeine: Uncommon (0.1% to 1%): Hyperhidrosis, pruritus		Frequency not reported: Toxic epidermal necrolysis, erythema multiformeAcetaminophen: Rare (less than 0.1%): Serious skin reactions such as acute generalized exanthematous pustulosis, Stevens-Johnson syndrome, and toxic epidermal necrolysisFrequency not reported: Rash
+Several cases of dermatologic reactions including toxic epidermal necrolysis and erythema multiforme have been reported.
+Common (1% to 10%): Shortness of breathUncommon (0.1% to 1%): Nasal congestion
+Butalbital/Acetaminophen/Caffeine: Uncommon (0.1% to 1%): TachycardiaCaffeine: Frequency not reported: Cardiac stimulation
+Common (1% to 10%): Intoxicated feelingUncommon (0.1% to 1%): Fatigue, high energy, heavy eyelids, sluggishness, hot spells, fever, earache, tinnitus
+Caffeine: Frequency not reported: Hyperglycemia
+Uncommon (0.1% to 1%): Leg pain, muscle fatigue
+Butalbital/Acetaminophen/Caffeine: Uncommon (0.1% to 1%): Agitation, euphoria Caffeine: Frequency not reported: Irritability, dependence
 Lightheadedness
 shortness of breath
-
-
 Abdominal or stomach pain
 black, tarry stools
 bleeding gums
@@ -78,8 +60,6 @@ unexplained weight loss
 unusual bleeding or bruising
 unusual tiredness or weakness
 weakness
-
-
 Confusion as to time, place, or person
 dark urine
 difficult or painful urination
@@ -102,12 +82,8 @@ unpleasant breath odor
 unusual excitement, nervousness, or restlessness
 vomiting of blood
 yellow eyes or skin
-
-
 Relaxed and calm
 sleepiness
-
-
 Anxiety
 bloated
 constipation
@@ -130,4 +106,3 @@ passing gas
 sluggishness
 stuffy nose
 tingling sensation
-

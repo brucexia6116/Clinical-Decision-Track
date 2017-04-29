@@ -1,32 +1,19 @@
-Generic Name: pembrolizumab
 More frequent side effects include: hyperthyroidism.  See below for a comprehensive list of adverse effects.
-Applies to pembrolizumab: intravenous powder for solution, intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by pembrolizumab (the active ingredient contained in Keytruda). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking pembrolizumab, check with your doctor or nurse immediately:
-Some of the side effects that can occur with pembrolizumab may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to pembrolizumab: intravenous powder for injection, intravenous solution
-Very common (10% or more): Peripheral edema (up to 17%)[Ref]
-Very common (10% or more): Pruritus (up to 30%), rash (up to 29%), vitiligo (up to 11%)Uncommon (0.1% to 1%): Exfoliative dermatitis[Ref]
-Very common (10% or more): Hyperglycemia (up to 40%), hypertriglyceridemia (up to 25%)Common (1% to 10%): Hypothyroidism, hyperthyroidismUncommon (0.1% to 1%): Hypophysitis, adrenal insufficiency[Ref]
-Very common (10% or more): Nausea (up to 30%), constipation (up to 21%), diarrhea (up to 20%), vomiting (up to 16%), abdominal pain (up to 12%)Common (1% to 10%): ColitisUncommon (0.1% to 1%): Pancreatitis[Ref]
-Very common (10% or more): Anemia (up to 55%), immune-mediated hemolytic anemia[Ref]
-Very common (10% or more): Hypoalbuminemia (up to 34%), increased aspartate aminotransferase (up to 24%)Uncommon (0.1% to 1%): Hepatitis[Ref]
-Very common (10% or more): Hyponatremia (up to 35%), decreased appetite (up to 26%), hypocalcemia (up to 24%)[Ref]
-Very common (10% or more): Arthralgia (up to 20%), pain in extremity (up to 18%), myalgia (up to 14%), back pain (up to 12%)Uncommon (0.1% to 1%): Arthritis, myositis, myasthenic syndrome, rhabdomyolysis[Ref]
-Very common (10% or more): Headache (up to 16%), dizziness (up to 11%)Uncommon (0.1% to 1%): Partial seizures[Ref]
-Uncommon (0.1% to 1%): Uveitis, optic neuritis[Ref]
-Very common (10% or more): Fatigue (up to 47%), chills (up to 14%), pyrexia (up to 11%), sepsis (up to 10%)[Ref]
-Very common (10% or more): Insomnia (up to 14%)[Ref]
-Uncommon (0.1% to 1%): Nephritis, renal failure[Ref]
-Very common (10% or more): Cough (up to 30%), dyspnea (up to 18%), upper respiratory tract infection (up to 11%)Common (1% to 10%): Pneumonitis[Ref]
-1. "Product Information. Keytruda (pembrolizumab)." Merck & Company Inc, Whitehouse Station, NJ. 
-2. Pharmaceutical Society of Australia "APPGuide online. Australian prescription products guide online. Available from: URL: http://www.appco.com.au/appguide/default.asp."   ([2006]):
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Keytruda may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Peripheral edema (up to 17%)
+Very common (10% or more): Pruritus (up to 30%), rash (up to 29%), vitiligo (up to 11%)Uncommon (0.1% to 1%): Exfoliative dermatitis
+Very common (10% or more): Hyperglycemia (up to 40%), hypertriglyceridemia (up to 25%)Common (1% to 10%): Hypothyroidism, hyperthyroidismUncommon (0.1% to 1%): Hypophysitis, adrenal insufficiency
+Very common (10% or more): Nausea (up to 30%), constipation (up to 21%), diarrhea (up to 20%), vomiting (up to 16%), abdominal pain (up to 12%)Common (1% to 10%): ColitisUncommon (0.1% to 1%): Pancreatitis
+Very common (10% or more): Anemia (up to 55%), immune-mediated hemolytic anemia
+Very common (10% or more): Hypoalbuminemia (up to 34%), increased aspartate aminotransferase (up to 24%)Uncommon (0.1% to 1%): Hepatitis
+Very common (10% or more): Hyponatremia (up to 35%), decreased appetite (up to 26%), hypocalcemia (up to 24%)
+Very common (10% or more): Arthralgia (up to 20%), pain in extremity (up to 18%), myalgia (up to 14%), back pain (up to 12%)Uncommon (0.1% to 1%): Arthritis, myositis, myasthenic syndrome, rhabdomyolysis
+Very common (10% or more): Headache (up to 16%), dizziness (up to 11%)Uncommon (0.1% to 1%): Partial seizures
+Uncommon (0.1% to 1%): Uveitis, optic neuritis
+Very common (10% or more): Fatigue (up to 47%), chills (up to 14%), pyrexia (up to 11%), sepsis (up to 10%)
+Very common (10% or more): Insomnia (up to 14%)
+Uncommon (0.1% to 1%): Nephritis, renal failure
+Very common (10% or more): Cough (up to 30%), dyspnea (up to 18%), upper respiratory tract infection (up to 11%)Common (1% to 10%): Pneumonitis
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 body aches or pain
 chills
@@ -57,8 +44,6 @@ troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Chest pain
 general feeling of discomfort or illness
 nervousness
@@ -71,8 +56,6 @@ thickening of bronchial secretions
 trouble sleeping
 watery or bloody diarrhea
 weight loss
-
-
 Back, leg, or stomach pains
 bleeding gums
 blurred vision or other change in vision
@@ -102,11 +85,8 @@ sore throat
 tearing
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Decreased appetite
 diarrhea
 dizziness
 headache
 rash 
-

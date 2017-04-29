@@ -1,22 +1,9 @@
-Generic Name: oxymetazoline nasal
-Applies to oxymetazoline nasal: nasal solution, nasal spray
-In addition to its needed effects, some unwanted effects may be caused by oxymetazoline nasal (the active ingredient contained in Duration). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking oxymetazoline nasal:
-Some of the side effects that can occur with oxymetazoline nasal may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to oxymetazoline nasal: nasal solution, nasal spray
-Very rare (less than 0.01%): Tachycardia, palpitations, increased blood pressure[Ref]
-Very rare (less than 0.01%): Nausea[Ref]
-The most commonly reported side effects were discomfort or irritation in the nose, mouth or throat, and sneezing.[Ref]
-Very rare (less than 0.01%): Insomnia, nervousness, tremor, anxiety, restlessness, irritability, headache[Ref]
-Rare (less than 0.1%): Eye irritation, dryness, discomfort/redness[Ref]
-Rare (less than 0.1%): Discomfort or irritation in the nose, mouth or throat, sneezingFrequency not reported: Rhinitis medicamentosa (after prolonged or heavy use)[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Afrin (oxymetazoline nasal)" Schering-Plough, Liberty Corner, NJ. 
-Not all side effects for Duration may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very rare (less than 0.01%): Tachycardia, palpitations, increased blood pressure
+Very rare (less than 0.01%): Nausea
+The most commonly reported side effects were discomfort or irritation in the nose, mouth or throat, and sneezing.
+Very rare (less than 0.01%): Insomnia, nervousness, tremor, anxiety, restlessness, irritability, headache
+Rare (less than 0.1%): Eye irritation, dryness, discomfort/redness
+Rare (less than 0.1%): Discomfort or irritation in the nose, mouth or throat, sneezingFrequency not reported: Rhinitis medicamentosa (after prolonged or heavy use)
 Blurred vision
 fast, irregular, or pounding heartbeat
 headache, dizziness, drowsiness, or lightheadedness
@@ -26,8 +13,5 @@ nervousness
 trembling
 trouble in sleeping
 weakness
-
-
 Burning, dryness, or stinging inside of nose
 sneezing
-

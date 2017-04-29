@@ -1,28 +1,21 @@
 Commonly reported side effects of trabectedin include: increased creatine phosphokinase, increased liver enzymes, increased serum alanine aminotransferase, increased serum alkaline phosphatase, increased serum aspartate aminotransferase, increased serum bilirubin, and neutropenia. Other side effects include: febrile neutropenia, cardiomyopathy, and fever.  See below for a comprehensive list of adverse effects.
-Applies to trabectedin: intravenous powder for solution
 As well as its needed effects, trabectedin may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking trabectedin, check with your doctor or nurse immediately:
 Some trabectedin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to trabectedin: intravenous powder for injection
-Very common (10% or more): Increased ALT (up to 96.1%), increased AST (up to 89.5%), increased alkaline phosphatase (up to 70%), hyperbilirubinemia (up to 25.2%), increased gamma-glutamyltransferase (% unavailable)Common (1% to 10%): Drug-induced liver injuryUncommon (0.1% to 1%): HepatotoxicityFrequency not reported: Hepatic failure, increased conjugated bilirubin[Ref]
-Very common (10% or more): Anemia (up to 96%), neutropenia (up to 91.6%), leukopenia (up to 94.9%), thrombocytopenia (up to 63.7%)Common (1% to 10%): Febrile neutropenia, neutropenic sepsis, pancytopenia, bone marrow failure, granulocytopeniaUncommon (0.1% to 1%): Neutropenic infection[Ref]
-Very common (10% or more): Nausea (up to 75%), vomiting (up to 51.7%), constipation (up to 37%), diarrhea (up to 35%), stomatitis (up to 19.2%),Common (1% to 10%): Abdominal pain, dyspepsia, upper abdominal pain[Ref]
-Very common (10% or more): Fatigue/asthenia/malaise (up to 69%), peripheral edema (up to 28%), mucosal inflammation (up to 11.4%), pyrexia (up to 10.2%)Common (1% to 10%): Infection, edema, injection site reactionUncommon (0.1% to 1%): Septic shockFrequency not reported: Multi-organ failure, catheter site reactionsPostmarketing reports: Extravasation/tissue necrosis[Ref]
-Very common (10% or more): Hypoalbuminemia (up to 63%), decreased appetite (up to 37%), anorexia (up to 28.8%)Common (1% to 10%): Dehydration, hypokalemia, decreased weight[Ref]
-Very common (10% or more): Increased creatinine (up to 46%)Common (1% to 10%): Renal failure[Ref]
-Very common (10% or more): Elevated creatine phosphokinase (up to 33%), arthralgia (up to 15%), myalgia (up to 12%)Common (1% to 10%): Back painUncommon (0.1% to 1%): RhabdomyolysisFrequency not reported: Musculoskeletal pain[Ref]
-Very common (10% or more): Dyspnea (up to 25%)Common (1% to 10%): Cough, pulmonary embolismUncommon (0.1% to 1%): Pulmonary edema[Ref]
-Very common (10% or more): Headache (up to 25%)Common (1% to 10%): Peripheral neuropathy, dysgeusia, dizziness, paresthesiaUncommon (0.1% to 1%): SyncopeFrequency not reported: Hypoesthesia[Ref]
-Very common (10% or more): Palmar-plantar erythrodysesthesia (up to 24%), alopecia (up to 12%)Common (1% to 10%): Rash, skin hyperpigmentation[Ref]
-Very common (10% or more): Insomnia (up to 15%)[Ref]
-Common (1% to 10%): Cardiomyopathy, decreased ejection fraction, hypotension, flushingUncommon (0.1% to 1%): Left ventricular dysfunction[Ref]
-Common (1% to 10%): Hypersensitivity reactions[Ref]
-1. "Product Information. Yondelis (trabectedin)." Janssen Pharmaceuticals, Titusville, NJ. 
+Very common (10% or more): Increased ALT (up to 96.1%), increased AST (up to 89.5%), increased alkaline phosphatase (up to 70%), hyperbilirubinemia (up to 25.2%), increased gamma-glutamyltransferase (% unavailable)Common (1% to 10%): Drug-induced liver injuryUncommon (0.1% to 1%): HepatotoxicityFrequency not reported: Hepatic failure, increased conjugated bilirubin
+Very common (10% or more): Anemia (up to 96%), neutropenia (up to 91.6%), leukopenia (up to 94.9%), thrombocytopenia (up to 63.7%)Common (1% to 10%): Febrile neutropenia, neutropenic sepsis, pancytopenia, bone marrow failure, granulocytopeniaUncommon (0.1% to 1%): Neutropenic infection
+Very common (10% or more): Nausea (up to 75%), vomiting (up to 51.7%), constipation (up to 37%), diarrhea (up to 35%), stomatitis (up to 19.2%),Common (1% to 10%): Abdominal pain, dyspepsia, upper abdominal pain
+Very common (10% or more): Fatigue/asthenia/malaise (up to 69%), peripheral edema (up to 28%), mucosal inflammation (up to 11.4%), pyrexia (up to 10.2%)Common (1% to 10%): Infection, edema, injection site reactionUncommon (0.1% to 1%): Septic shockFrequency not reported: Multi-organ failure, catheter site reactionsPostmarketing reports: Extravasation/tissue necrosis
+Very common (10% or more): Hypoalbuminemia (up to 63%), decreased appetite (up to 37%), anorexia (up to 28.8%)Common (1% to 10%): Dehydration, hypokalemia, decreased weight
+Very common (10% or more): Increased creatinine (up to 46%)Common (1% to 10%): Renal failure
+Very common (10% or more): Elevated creatine phosphokinase (up to 33%), arthralgia (up to 15%), myalgia (up to 12%)Common (1% to 10%): Back painUncommon (0.1% to 1%): RhabdomyolysisFrequency not reported: Musculoskeletal pain
+Very common (10% or more): Dyspnea (up to 25%)Common (1% to 10%): Cough, pulmonary embolismUncommon (0.1% to 1%): Pulmonary edema
+Very common (10% or more): Headache (up to 25%)Common (1% to 10%): Peripheral neuropathy, dysgeusia, dizziness, paresthesiaUncommon (0.1% to 1%): SyncopeFrequency not reported: Hypoesthesia
+Very common (10% or more): Palmar-plantar erythrodysesthesia (up to 24%), alopecia (up to 12%)Common (1% to 10%): Rash, skin hyperpigmentation
+Very common (10% or more): Insomnia (up to 15%)
+Common (1% to 10%): Cardiomyopathy, decreased ejection fraction, hypotension, flushingUncommon (0.1% to 1%): Left ventricular dysfunction
+Common (1% to 10%): Hypersensitivity reactions
 It is possible that some side effects of trabectedin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Chest discomfort or pain
 difficulty breathing
 dizziness
@@ -30,14 +23,10 @@ faintness
 fast irregular or pounding heartbeat
 swelling of the feet or lower legs
 unusual tiredness or weakness
-
-
 Dark-colored urine
 fever
 muscle cramps or spasms
 muscle pain or stiffness
-
-
 Abdominal or stomach pain or tenderness
 clay colored stools
 decreased appetite
@@ -47,8 +36,6 @@ loss of appetite
 nausea and vomiting
 swelling of the feet or lower legs
 yellow eyes or skin
-
-
 Black, tarry stools
 chills
 cough
@@ -62,14 +49,9 @@ sore throat
 tightness in the chest
 ulcers, sores, or white spots in the mouth
 unusual bleeding or bruising
-
-
 Diarrhea
 difficulty having a bowel movement (stool)
 decreased appetite
 headache
 trouble sleeping
-
-
 Pain at the injection site
-

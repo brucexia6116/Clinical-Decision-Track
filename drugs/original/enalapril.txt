@@ -1,151 +1,34 @@
 Commonly reported side effects of enalapril include: increased blood urea nitrogen and increased serum creatinine. Other side effects include: hypotension.  See below for a comprehensive list of adverse effects.
-Applies to enalapril: oral powder for solution, oral solution, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by enalapril. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking enalapril:
-Some of the side effects that can occur with enalapril may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to enalapril: compounding powder, intravenous solution, oral powder for reconstitution, oral tablet
-Predisposing risk factors for hypotension after enalapril administration are decreased intravascular volume (angiotensin-dependency), hyponatremia, and concurrent use of a diuretic agent.[Ref]
-Very common (10% or more): HypotensionCommon (1% to 10%): EdemaUncommon (0.1% to 1%): Angioedema[Ref]
-Very common (10% or more): HeadacheCommon (1% to 10%): Vertigo, fatigue, peripheral paresthesias, insomnia, dizziness, syncope[Ref]
-Enalapril, like other angiotensin converting enzyme inhibitors, may decrease serum aldosterone levels, resulting in mild to moderate hyperkalemia.  Diuretic use and advanced age increase the risk of renal impairment.  Enalapril reduced the risk of renal impairment compared to placebo in diabetic patients.  The concomitant use of beta blockers with enalapril has been shown to be renoprotective.Enalapril may worsen renal insufficiency, especially if the patient is hypovolemic or hypotensive.Patients with underlying congestive heart failure are predisposed to renal side effects associated with enalapril.[Ref]
-Common (1% to 10%): Increased serum creatinine, uric acid, and potassium[Ref]
-Rare case reports of enalapril-associated hepatitis, where liver function tests rose despite resolution of congestive heart failure, are reported.A 54-year-old woman with hypertension developed asymptomatic abnormal liver function tests associated with eosinophilia and relatively normal abdominal ultrasonography seven weeks after beginning enalapril.  An extensive work-up revealed no evidence of infection; liver biopsy revealed cellular degeneration, portal eosinophilic and mononuclear infiltration, and centrilobular necrosis.  The signs and symptoms of hepatitis resolved upon discontinuation of enalapril.An 80-year-old woman with hypertension and mild heart failure developed hepatomegaly and icterus accompanied by increased conjugated bilirubin, alkaline phosphatase, and aspartate aminotransferase thirty days after beginning enalapril treatment.  The patient had not been taking any other medications or herbal products.  Tests for hemochromatosis, Wilson's disease, and alpha-1 antitrypsin deficiency returned with normal results.  Serology for hepatitis A, B, C and autoimmune screen were negative.  Other infectious causes were ruled out.  Twenty days after admission, the patient developed grade III encephalopathy and severe coagulation disorders and died 30 days after admission.In patients with liver dysfunction, frequent monitoring of liver function tests during enalapril administration is recommended.[Ref]
-Frequency not reported: Cholestatic jaundice, centrilobular necrosis, fulminant hepatic necrosis, death[Ref]
-Uncommon (0.1% to 1%): Photosensitivity, urticariaFrequency not reported: Angioedema, obstructive laryngeal and glossal angioedema, intestinal angioedema, Henoch-Schonlein purpura[Ref]
-Late-onset enalapril-induced angioedema (more than three months) is reported in at least one patient who had taken enalapril without incident for three years.  Patients with intestinal angioedema generally present with abdominal pain (with or without nausea or vomiting) and in some cases there was no prior history of facial angioedema, and C-1 esterase levels were normal.  These symptoms resolve after stopping the ACE inhibitor.[Ref]
-Common (1% to 10%): Dry, nonproductive coughFrequency not reported: New bronchial hyperactivity, rhinorrhea, exacerbation of obstructive sleep apnea[Ref]
-Rare case reports of asthma associated with some angiotensin converting enzyme inhibitors suggest that these drugs seem to play a role in the genesis and metabolism of bronchodilatory mediators.  For this reason, some experts recommend cautious use of enalapril in patients with preexisting asthma.A retrospective study has revealed a significantly higher incidence of discontinuation of angiotensin converting enzyme (ACE) inhibitor therapy due to cough among black patients compared with non-black patients (9.6% vs. 2.4%).Several agents have been studied for treating cough with ACE inhibitors.  No long term trials exist to allow a definitive treatment option.  Cromolyn has the most data showing some benefit.  Other agents studied include baclofen, theophylline, sulindac, and benzonatate.[Ref]
-Rare, reversible cases of agranulocytosis associated with enalapril and other angiotensin converting enzyme (ACE) inhibitors have been reported.  ACE inhibitors have been used to treat post renal transplant erythrocytosis.  Data have shown that they may decrease circulating erythropoietin levels in these patients.[Ref]
-Rare (less than 0.1%): Neutropenia, agranulocytosis[Ref]
-Common (1% to 10%): Nausea, vomiting, diarrheaUncommon (0.1% to 1%): DysgeusiaFrequency not reported: Pancreatitis, acute small bowel mucosal edema[Ref]
-A 56-year-old woman with hypertension and diabetes developed acute abdominal pain, nausea, and vomiting associated upper abdominal tenderness, hyperamylasemia, hyperlipasemia, and normal upper abdominal ultrasonography within 24 hours of starting enalapril.  The signs and symptoms of pancreatitis resolved over the next several days once the drug was discontinued.  No rechallenge was performed.A 65-year-old woman was diagnosed with acute pancreatitis by ultrasonography, CT scan, and serum amylase level of 980 units/L.  The patient had been receiving enalapril, HCTZ, and amiloride for one year.  The pancreatitis resolved over 7 days.  The patient upon rechallenge with enalapril developed severe upper abdominal pain, vomiting, and hypotension.  CT scan showed intrapancreatic necrosis and peripancreatic fluid.  Four weeks later a CT scan showed three pseudocysts that took 4 months to resolve.  The author of the report concluded that rechallenging patients who develop acute pancreatitis while on enalapril is not recommended.[Ref]
-A 52-year-old Korean woman with hypertension experienced a generalized, erythematous, scaly rash associated with a positive Nikolsky sign and biopsy results consistent with pemphigus foliaceous within three weeks after beginning enalapril.  Direct immunofluorescence revealed intercellular IgG deposition.  The pemphigus remained active at least 12 months after enalapril was discontinued.A 35-year-old woman with hypertension developed alopecia during enalapril therapy, which resolved upon discontinuation of the drug, and recurred upon rechallenge.A 77-year-old man with heart failure developed a generalized morbilliform rash after starting enalapril.  Biopsy was consistent with toxic pustuloderma.[Ref]
-Common (1% to 10%): Pruritic, maculopapular eruptionUncommon (0.1% to 1%): RashFrequency not reported: Alopecia, photosensitive lichenoid eruptions, erythema with vasculitis, bullous pemphigoid, pemphigus foliaceous, toxic pustuloderma[Ref]
-Frequency not reported: Depression, acute psychosis[Ref]
-A 52-year-old woman with hypertension and a history of depression associated with the use of beta-blockers, developed fatigue, malaise, and clinical signs and symptoms of depression, including suicidal ideation, within five weeks after starting enalapril.  The depression gradually resolved with substitution of a thiazide diuretic and a low sodium diet.  Rechallenge resulted in recurrent depression.A 41-year-old man with hypertension became agitated, anxious, depressed, and unable to sleep four weeks after starting enalapril.  The psychosis resolved when enalapril was stopped, and recurred upon rechallenge.[Ref]
-Frequency not reported: Syndrome of inappropriate ADH secretion, gynecomastia[Ref]
-A 69-year-old woman with diabetes mellitus and hypertension developed symptomatic hyponatremia associated with decreased plasma and increased urine osmolalities, normal thyroid and basal cortisol studies, and a positive water load test four months after beginning enalapril.  The syndrome resolved upon discontinuation of enalapril, and recurred upon rechallenge.[Ref]
-Frequency not reported: Severe arthralgias and myalgias[Ref]
-A 76-year-old woman with hypertension, on enalapril monotherapy for three weeks, developed progressive myalgias, asthenia, morning stiffness, and weakness associated with no abnormal laboratory values.  Due to the absence of other apparent causes, enalapril was discontinued, and the patient's myalgias disappeared.  In at least one other case, rechallenge resulted in recurrent symptoms.[Ref]
-Frequency not reported: Positive fluorescent antinuclear antibody test[Ref]
-Frequency not reported: Vulvovaginal pruritus, dysuria, incontinence[Ref]
-1. Forslund T, Tohmo H, Weckstrom G, Stenborg M, Jarvinen S "Angio-oedema induced by enalapril." J Intern Med 238 (1995): 179-81
-2. Eisner GM, Johnson BF, McMahon FG, et al "A multicenter comparison of the safety and efficacy of isradipine and enalapril in the treatment of hypertension." Am J Hypertens 4 (1991): s154-7
-3. Kostis JB, Shelton B, Gosselin G, Goulet C, Hood WB, Kohn RM, Kubo SH, Schron E, Weiss MB, Willis PW, Young JB, Probstfie "Adverse effects of enalapril in the studies of left ventricular dysfunction (SOLVD)." Am Heart J 131 (1996): 350-5
-4. Inman WH, Rawson NS, Wilton LV, et al "Postmarketing surveillance of enalapril. I: results of prescription-event monitoring." Br Med J 297 (1988): 826-9
-5. Todd PA, Heel RC "Enalapril: a review of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in hypertension and congestive heart failure." Drugs 31 (1986): 198-248
-6. Chin HL, Buchan DA "Severe angioedema after long-term use of an angiotensin-converting enzyme inhibitor ." Ann Intern Med 112 (1990): 312-3
-7. Lang RM, Dibianco R, Broderick GT, Gottlieb SS, Kostis J, Lyle PA, Makris L, Rajfer SI, Rucinska EJ "First-dose effects of enalapril 2.5 mg and captopril 6.25 mg in patients with heart failure: a double-blind, randomized, multicenter study." Am Heart J 128 (1994): 551-6
-8. Roberts JR, Wuerz RC "Clinical characteristics of angiotensin-converting enzyme inhibitor-induced angioedema." Ann Emerg Med 20 (1991): 555-8
-9. Todd PA, Goa KL "Enalapril: a reappraisal of its pharmacology and therapeutic use in hypertension." Drugs 43 (1992): 346-81
-10. Orfan N, Patterson R, Dykewicz MS "Severe angioedema related to ACE inhibitors in patients with a history of idiopathic angioedema." JAMA 264 (1990): 1287-9
-11. Antonios TFT, Macgregor GA "Angiotensin converting enzyme inhibitors in hypertension: potential problems." J Hypertens 13 Suppl (1995): s11-6
-12. Cooper WD, Sheldon D, Brown D, et al "Post-marketing surveillance of enalapril: experience in 11,710 hypertensive patients in general practice." J R Coll Gen Pract 37 (1987): 346-9
-13. Francis GS, Rucinska EJ "Long-term effects of a once-a-day versus twice-a-day regimen of enalapril for congestive heart failure." Am J Cardiol 63 (1989): d17-21
-14. Russell RM, Jones RM "Postoperative hypotension associated with enalapril." Anaesthesia 44 (1989): 837-8
-15. Gimenez JC "Angioneurotic edema produced by enalapril." Ann Pharmacother 29 (1995): 317
-16. Fagher B, Katzman P, Hulthen UL, et al "Antihypertensive efficacy and tolerability of enalapril and slow-release verapamil in essential hypertension: a double-blind, cross-over study." J Intern Med 230 (1991): 219-26
-17. "Product Information. Vasotec (enalapril)." Merck & Co, Inc, West Point, PA. 
-18. Annane D, Bellissant E, Pussard E, Asmar R, Lacombe F, Lanata E, Madonna O, Safar M, Giudicelli JF, Gajdos P "Placebo-controlled, randomized, double-blind study of intravenous enalaprilat efficacy and safety in acute cardiogenic pulmonary edema." Circulation 94 (1996): 1316-24
-19. Alderman CP "Adverse effects of the angiotensin-converting enzyme inhibitors." Ann Pharmacother 30 (1996): 55-61
-20. Johnson BF, Eisner GM, Mcmahon FG, Jain AK, Rudd P, Sowers JR "A multicenter comparison of adverse reaction profiles of isradipine and enalapril at equipotent doses in patients with essential hypertension." J Clin Pharmacol 35 (1995): 484-92
-21. Kostis JB, Shelton BJ, Yusuf S, Weiss MB, Capone RJ, Pepine CJ, Gosselin G, Delahaye F, Probstfield JL, Cahill L, Dutton D "Tolerability of enalapril initiation by patients with left ventricular dysfunction: results of the medication challenge phase of the studies of left ventricular dysfunction." Am Heart J 128 (1994): 358-64
-22. Leon AS "Efficacy and safety of enalapril versus extended-release nifedipine for the treatment of mild-to-moderate hypertension - a multicenter 22-week study." Clin Ther 15 (1993): 1094-107
-23. Bajaj AK "Topics in clinical pharmacology: enalapril, a second-generation angiotensin converting enzyme inhibitor." Am J Med Sci 296 (1988): 332-5
-24. Dickstein K, Chang P, Willenheimer R, Haunso S, Remes J, Hall C, Kjekshus J "Comparison of the effects of losartan and enalapril on clinical status and exercise performance in patients with moderate or severe chronic heart failure." J Am Coll Cardiol 26 (1995): 438-45
-25. Ahmad S "Enalapril and peripheral neuropathy." J Am Geriatr Soc 43 (1995): 1182-3
-26. Hormigo A, Alves M "Peripheral neuropathy in a patient receiving enalapril." Br Med J 305 (1992): 1332
-27. Dallavolta S "Safety and efficacy study of delapril versus enalapril in patients with congestive heart failure." Am J Cardiol 75 (1995): f44-9
-28. Rengo F, Acanfora D, Furgi G, Papa A, Nicolino A, Picone C, Vitale DF, Rengo C "Comparison of the safety and efficacy of delapril with enalapril in patients with congestive heart failure." Am J Cardiol 75 (1995): f25-8
-29. Hume AL, Murphy JL, Lauerman SE "Angiotensin-converting enzyme inhibitor-induced cough." Pharmacotherapy 9 (1989): 88-90
-30. Schwartz D, Averbuch M, Pines A, et al "Renal toxicity of enalapril in very elderly patients with progressive, severe congestive heart failure." Chest 100 (1991): 1558-61
-31. Murray BM, Venuto RC, Kohli R, Cunningham EE "Enalapril-associated acute renal failure in renal transplants: possible role of cyclosporine." Am J Kidney Dis 16 (1990): 66-9
-32. Champ JD "Case report: azotemia secondary to enalapril and diuretic use and the diagnosis of renovascular hypertension." Am J Med Sci 305 (1993): 25-7
-33. Wynckel A, Ebikili B, Melin JP, Randoux C, Lavaud S, Chanard J "Long-term follow-up of acute renal failure caused by angiotensin converting enzyme inhibitors." Am J Hypertens 11 (1998): 1080-6
-34. Ravid M, Brosh D, Levi Z, Bar-Dayan Y, Ravid D, Rachmani R "Use of enalapril to attenuate decline in renal function in normotensive, normoalbuminuric patients with type 2 diabetes mellitus: a controlled, randomised trial." Ann Intern Med 128 (1998): 982-8
-35. Ljungman S, Kjekshus J, Swedberg K "Renal function in severe congestive heart failure during treatment with enalapril." Am J Cardiol 70 (1992): 479-87
-36. O'Donnell D "Renal failure due to enalapril and captopril in bilateral renal artery stenosis: greater awareness needed." Med J Aust 148 (1988): 525-7
-37. Thind GS "Renal insufficiency during angiotensin-converting enzyme inhibitor therapy in hypertensive patients with no renal artery stenosis." J Clin Hypertens 1 (1985): 337-43
-38. Lowenthal DT, Saris SD, Haratz A, et al "The clinical pharmacology of antihypertensive drugs." J Hypertens 2 (1984): 13-24
-39. Knight EL, Glynn RJ, McIntyre KM, Mogun H, Avorn J "Predictors of decreased renal function in patients with hear, failure during angiotensin-converting enzyme inhibitor therapy: Results from the Studies of Left Ventricular Dysfunction (SOLVD)." Am Heart J 138 (1999): 849-55
-40. Lant AF, McNabb RW, Noormohamed FH "Kinetic and metabolic aspects of enalapril action." J Hypertens 2 (1984): 37-42
-41. Kitai E, Sandiuk A, Zalewski S "Enalapril-induced immunologic impairment of hepatic function." J Fam Pract 33 (1991): 301-2
-42. Todd P, Levison D, Farthing MJ "Enalapril-related cholestatic jaundice." J R Soc Med 83 (1990): 271-2
-43. Gonzalez de la Puente MA,  Calderon E,  Espinosa R,  Rincon M,  Varela JM "Fatal hepatotoxicity associated with enalapril." Ann Pharmacother 35 (2001): 1492
-44. Rosellini SR, Costa PL, Gaudio M, et al "Hepatic injury related to enalapril ." Gastroenterology 97 (1989): 810
-45. Shionoiri H, Nomura S, Oda H, et al "Hepatitis associated with captopril and enalapril but not with delapril in a patient with congestive heart failure receiving chronic hemodialysis." Curr Ther Res Clin Exp 42 (1987): 1171-6
-46. Moots RJ,Keeling PJ, Morgan SH "Adult schonlein-henoch purpura after enalapril." Lancet 340 (1992): 304-5
-47. Schiller PI, Messmer SL, Haefeli WE, Schlienger RG, Bircher AJ "Angiotensin-converting enzyme inhibitor-induced angioedema: Late onset, irregular course, and potential role of triggers." Allergy 52 (1997): 432-5
-48. Abidin MR, Eisele DW "Angioedema after long-term use of angiotensin-converting enzyme inhibitor ." Arch Otolaryngol Head Neck Surg 117 (1991): 1059
-49. Jain M, Armstrong L, Hall J "Predisposition to and late onset of upper airway obstruction following angiotensin-converting enzyme inhibitor therapy." Chest 102 (1992): 871-4
-50. Gonnering RS, Hirsch SR "Delayed drug-induced periorbital angioedema ." Am J Ophthalmol 110 (1990): 566-8
-51. Roten SV, Mainetti C, Donath R, Saurat JH "Enalapril-induced lichen planus-like eruption." J Am Acad Dermatol 32 (1995): 293-5
-52. Murray A, Crowther J "ACE inhibitor use and severe angioedema." Postgrad Med J 74 (1998): 571-2
-53. Gunkel AR, Thurner KH, Kanonier G, Sprinzl GM, Thumfart WF "Angioneurotic edema as a reaction to angiotensin-converting enzyme inhibitors." Am J Otolaryngol 17 (1996): 87-91
-54. Gianos ME, Klaustermeyer WB, Kurohara M, et al "Enalapril induced angioedema." Am J Emerg Med 8 (1990): 124-6
-55. Ferguson JE, Chalmers RJG "Enalapril-induced toxic pustuloderma." Clin Exp Dermatol 21 (1996): 54-5
-56. Kostis JB,  Kim HJ,  Rusnak J, et al. "Incidence and characteristics of angioedema associated with enalapril." Arch Intern Med 165 (2005): 1637-42
-57. Brown NJ, Snowden M, Griffin MR "Recurrent angiotensin-converting enzyme inhibitor-associated angioedema." JAMA 278 (1997): 232-3
-58. Gannon TH, Eby TL "Angioedema from angiotensin converting enzyme inhibitors: a cause of upper airway obstruction." Laryngoscope 100 (1990): 1156-60
-59. Mullins PD, Choudhury SL "Enalapril and bullous eruptions." BMJ 309 (1994): 1411
-60. McEwan JR, Choudry N, Street R, Fuller RW "Change in cough reflex after treatment with enalapril and ramipril." Br Med J 299 (1989): 13-6
-61. Mue S, Tamura G, Yamauchi K, et al "Bronchial responses to enalapril in asthmatic, hypertensive patients." Clin Ther 12 (1990): 335-43
-62. Yeo WW, Higgins KS, Foster G, Jackson PR, Ramsay LE "Effect of dose adjustment on enalapril-induced cough and the response to inhaled capsaicin." Br J Clin Pharmacol 39 (1995): 271-6
-63. Fennerty A, Littley M, Reid P "Enalapril-induced nasal blockage ." Lancet 2 (1986): 1395-6
-64. Semple PF "Putative mechanisms of cough after treatment with angiotensin converting enzyme inhibitors." J Hypertens 13 Suppl (1995): s17-21
-65. Cicolin A,  Mangiardi L,  Mutani R,  Bucca C "Angiotensin-converting enzyme inhibitors and obstructive sleep apnea." Mayo Clin Proc 81 (2006): 53-5
-66. Woo KS, Nicholls MG "High prevalence of persistent cough with angiotensin converting enzyme inhibitors in chinese." Br J Clin Pharmacol 40 (1995): 141-4
-67. Andersson RGG, Persson K "ACE inhibitors and their influence on inflammation, bronchial reactivity and cough." Eur Heart J 15 (1994): 52-6
-68. Lindgren BR, Rosenqvist U, Ekstrom T, et al "Increased bronchial reactivity and potentiated skin responses in hypertensive subjects suffering from coughs during ACE-inhibitor therapy." Chest 95 (1989): 1225-30
-69. Semple PF, Herd GW "Cough and wheeze caused by inhibitors of angiotensin-converting enzyme ." N Engl J Med 314 (1986): 61
-70. Luque CA, Ortiz MV "Treatment of ACE inhibitor-induced cough." Pharmacotherapy 19 (1999): 804-10
-71. Roth A "Chronic cough caused by angiotensin converting enzyme inhibitors." Ann Allergy 64 (1990): 47-8
-72. Visser LE, Stricker BHC, Vandervelden J, Paes AHP, Bakker A "Angiotensin converting enzyme inhibitor associated cough: a population-based case-control study." J Clin Epidemiol 48 (1995): 851-7
-73. Elliott WJ "Higher incidence of discontinuation of angiotensin converting enzyme inhibitors due to cough in black subjects." Clin Pharmacol Ther 60 (1996): 582-8
-74. Kaufman J, Casanova JE, Riendl P, Schlueter DP "Bronchial hyperreactivity and cough due to angiotensin-converting enzyme inhibitors." Chest 95 (1989): 544-8
-75. Cichelli AV, Lenchner GS, Promisloff RA, Segal SL "Enalapril-induced cough ." Am J Med 83 (1987): 1009-10
-76. Loftus WK, Ierino F, Mathew TH "Enalapril and anaemia ." Med J Aust 148 (1988): 209-10
-77. Gossmann J, Thurmann P, Bachmann T, Weller S, Kachel HG, Schoeppe W, Scheuermann EH "Mechanism of angiotensin converting enzyme inhibitor-related anemia in renal transplant recipients." Kidney Int 50 (1996): 973-8
-78. Ripamonti V,  Racca V,  Calvo MG,  Castiglioni P,  Ferratini M "Angiotensin-converting enzyme inhibitors slow recovery from anemia following cardiac surgery." Chest 130 (2006): 79-84
-79. Vlahakos DV, Canzanello VJ, Madaio MP, Madias NE "Enalapril-associated anemia in renal transplant recipients treated for hypertension." Am J Kidney Dis 17 (1991): 199-205
-80. Elis A, Lishner M, Lang R, Ravid M "Agranulocytosis associated with enalapril." Drug Intell Clin Pharm 25 (1991): 461-2
-81. Donadio C,  Lucchesi A "Neutropenia after treatment of posttransplantation erythrocytosis with enalapril." Transplantation 72 (2001): 553-4
-82. Montanaro D, Gropuzzo M, Boscutti G, Risaliti A, Bresadola F, Mioni G "Long-term therapy for postrenal transplant erythrocytosis with ACE inhibitors: efficacy, safety and action mechanisms." Clin Nephrol 53 (2000): b47-51
-83. Davies RO, Irvin JD, Kramsch PK, Walker JF, Moncloa F "Enalapril worldwide experience." Am J Med 77 (1984): 23-35
-84. Lal SM, Trivedi HS, Ross G "Long term effects of ACE inhibitors on the erythrocytosis in renal transplant recipients." Int J Artif Organs 18 (1995): 13-6
-85. Farraye FA, Peppercorn MA, Steer ML, et al "Acute small-bowel mucosal edema following enalapril use ." JAMA 259 (1988): 3131
-86. Firth NA, Reade PC "Angiotensin-converting enzyme inhibitors implicated in oral mucosal lichenoid reactions." Oral Surg Oral Med Oral Pathol 67 (1989): 41-4
-87. Maringhini A, Termini A, Patti R, Ciambra M, Biffarella P, Pagliaro L "Enalapril-associated acute pancreatitis: recurrence after rechallenge." Am J Gastroenterol 92 (1997): 166-7
-88. Singh S "Angiotensin-converting enzyme (ACE) inhibitor-induced acute pancreatitis: in search of the evidence." South Med J 99 (2006): 1327-8
-89. Shelton RM "Pemphigus foliaceus associated with enalapril." J Am Acad Dermatol 24 (1991): 503-4
-90. Vignes S, Paul C, Flageul B, Dubertret L "Ramipril-induced superficial pemphigus." Br J Dermatol 135 (1996): 657-8
-91. Kanwar AJ, Dhar S, Ghosh S "Photosensitive lichenoid eruption due to enalapril." Dermatology 187 (1993): 80
-92. Smith EP, Taylor TB, Meyer LJ, Zone JJ "Antigen identification in drug-induced bullous pemphigoid." J Am Acad Dermatol 29 (1993): 879-82
-93. Carrington PR, Sanusi ID, Zahradka S, Winder PR "Enalapril-associated erythema and vasculitis." Cutis 51 (1993): 121-3
-94. Ahmad S "Enalapril and reversible alopecia ." Arch Intern Med 151 (1991): 404
-95. Ahmad S "Enalapril-induced acute psychosis ." Drug Intell Clin Pharm 25 (1991): 558-9
-96. Patterson JF "Depression associated with enalapril." South Med J 82 (1989): 402-3
-97. Llop R, Gomez-Farran F, Figueras A, Capella D, LaPorte JR "Gynecomastia associated with enalapril and diazepam." Ann Pharmacother 28 (1994): 671-2
-98. Herings RMC, Deboer A, Stricker BHC, Leufkens HGM, Porsius A "Hypoglycaemia associated with use of inhibitors of angiotensin converting enzyme." Lancet 345 (1995): 1195-8
-99. Castrillon JL, Mediavilla A, Mendez MA, et al "Syndrome of inappropriate antidiuretic hormone secretion (SIADH) and enalapril." J Intern Med 233 (1993): 89-91
-100. Milavetz JJ, Popovtzer MM "Angiotensin-converting enzyme inhibitors and glycosuria." Arch Intern Med 152 (1992): 1081-3
-101. Pratt MC, Lewisbarned NJ, Walker RJ "A comparison between enalapril and captopril on insulin sensitivity in normotensive healthy volunteers." Aust N Z J Med 23 (1993): 652-5
-102. Leloet X, Moore N, Deshayes P "Pseudopolymyalgia rheumatica during treatment with enalapril." Br Med J 298 (1989): 325
-103. Peppers MP "Myalgia and arthralgia associated with enalapril and ramipril." Am J Health Syst Pharm 52 (1995): 203-4
-104. Schwartz D, Pines A, Averbuch M, Levo Y "Enalapril-induced antinuclear antibodies ." Lancet 336 (1990): 187
-105. Casanova JE "Incontinence after use of enalapril ." J Urol 143 (1990): 1237-8
-106. Heckerling PS "Enalapril and vulvovaginal pruritis ." Ann Intern Med 112 (1990): 879-80
-Not all side effects for enalapril may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Predisposing risk factors for hypotension after enalapril administration are decreased intravascular volume (angiotensin-dependency), hyponatremia, and concurrent use of a diuretic agent.
+Very common (10% or more): HypotensionCommon (1% to 10%): EdemaUncommon (0.1% to 1%): Angioedema
+Very common (10% or more): HeadacheCommon (1% to 10%): Vertigo, fatigue, peripheral paresthesias, insomnia, dizziness, syncope
+Enalapril, like other angiotensin converting enzyme inhibitors, may decrease serum aldosterone levels, resulting in mild to moderate hyperkalemia.  Diuretic use and advanced age increase the risk of renal impairment.  Enalapril reduced the risk of renal impairment compared to placebo in diabetic patients.  The concomitant use of beta blockers with enalapril has been shown to be renoprotective.Enalapril may worsen renal insufficiency, especially if the patient is hypovolemic or hypotensive.Patients with underlying congestive heart failure are predisposed to renal side effects associated with enalapril.
+Common (1% to 10%): Increased serum creatinine, uric acid, and potassium
+Rare case reports of enalapril-associated hepatitis, where liver function tests rose despite resolution of congestive heart failure, are reported.A 54-year-old woman with hypertension developed asymptomatic abnormal liver function tests associated with eosinophilia and relatively normal abdominal ultrasonography seven weeks after beginning enalapril.  An extensive work-up revealed no evidence of infection; liver biopsy revealed cellular degeneration, portal eosinophilic and mononuclear infiltration, and centrilobular necrosis.  The signs and symptoms of hepatitis resolved upon discontinuation of enalapril.An 80-year-old woman with hypertension and mild heart failure developed hepatomegaly and icterus accompanied by increased conjugated bilirubin, alkaline phosphatase, and aspartate aminotransferase thirty days after beginning enalapril treatment.  The patient had not been taking any other medications or herbal products.  Tests for hemochromatosis, Wilson's disease, and alpha-1 antitrypsin deficiency returned with normal results.  Serology for hepatitis A, B, C and autoimmune screen were negative.  Other infectious causes were ruled out.  Twenty days after admission, the patient developed grade III encephalopathy and severe coagulation disorders and died 30 days after admission.In patients with liver dysfunction, frequent monitoring of liver function tests during enalapril administration is recommended.
+Frequency not reported: Cholestatic jaundice, centrilobular necrosis, fulminant hepatic necrosis, death
+Uncommon (0.1% to 1%): Photosensitivity, urticariaFrequency not reported: Angioedema, obstructive laryngeal and glossal angioedema, intestinal angioedema, Henoch-Schonlein purpura
+Late-onset enalapril-induced angioedema (more than three months) is reported in at least one patient who had taken enalapril without incident for three years.  Patients with intestinal angioedema generally present with abdominal pain (with or without nausea or vomiting) and in some cases there was no prior history of facial angioedema, and C-1 esterase levels were normal.  These symptoms resolve after stopping the ACE inhibitor.
+Common (1% to 10%): Dry, nonproductive coughFrequency not reported: New bronchial hyperactivity, rhinorrhea, exacerbation of obstructive sleep apnea
+Rare case reports of asthma associated with some angiotensin converting enzyme inhibitors suggest that these drugs seem to play a role in the genesis and metabolism of bronchodilatory mediators.  For this reason, some experts recommend cautious use of enalapril in patients with preexisting asthma.A retrospective study has revealed a significantly higher incidence of discontinuation of angiotensin converting enzyme (ACE) inhibitor therapy due to cough among black patients compared with non-black patients (9.6% vs. 2.4%).Several agents have been studied for treating cough with ACE inhibitors.  No long term trials exist to allow a definitive treatment option.  Cromolyn has the most data showing some benefit.  Other agents studied include baclofen, theophylline, sulindac, and benzonatate.
+Rare, reversible cases of agranulocytosis associated with enalapril and other angiotensin converting enzyme (ACE) inhibitors have been reported.  ACE inhibitors have been used to treat post renal transplant erythrocytosis.  Data have shown that they may decrease circulating erythropoietin levels in these patients.
+Rare (less than 0.1%): Neutropenia, agranulocytosis
+Common (1% to 10%): Nausea, vomiting, diarrheaUncommon (0.1% to 1%): DysgeusiaFrequency not reported: Pancreatitis, acute small bowel mucosal edema
+A 56-year-old woman with hypertension and diabetes developed acute abdominal pain, nausea, and vomiting associated upper abdominal tenderness, hyperamylasemia, hyperlipasemia, and normal upper abdominal ultrasonography within 24 hours of starting enalapril.  The signs and symptoms of pancreatitis resolved over the next several days once the drug was discontinued.  No rechallenge was performed.A 65-year-old woman was diagnosed with acute pancreatitis by ultrasonography, CT scan, and serum amylase level of 980 units/L.  The patient had been receiving enalapril, HCTZ, and amiloride for one year.  The pancreatitis resolved over 7 days.  The patient upon rechallenge with enalapril developed severe upper abdominal pain, vomiting, and hypotension.  CT scan showed intrapancreatic necrosis and peripancreatic fluid.  Four weeks later a CT scan showed three pseudocysts that took 4 months to resolve.  The author of the report concluded that rechallenging patients who develop acute pancreatitis while on enalapril is not recommended.
+A 52-year-old Korean woman with hypertension experienced a generalized, erythematous, scaly rash associated with a positive Nikolsky sign and biopsy results consistent with pemphigus foliaceous within three weeks after beginning enalapril.  Direct immunofluorescence revealed intercellular IgG deposition.  The pemphigus remained active at least 12 months after enalapril was discontinued.A 35-year-old woman with hypertension developed alopecia during enalapril therapy, which resolved upon discontinuation of the drug, and recurred upon rechallenge.A 77-year-old man with heart failure developed a generalized morbilliform rash after starting enalapril.  Biopsy was consistent with toxic pustuloderma.
+Common (1% to 10%): Pruritic, maculopapular eruptionUncommon (0.1% to 1%): RashFrequency not reported: Alopecia, photosensitive lichenoid eruptions, erythema with vasculitis, bullous pemphigoid, pemphigus foliaceous, toxic pustuloderma
+Frequency not reported: Depression, acute psychosis
+A 52-year-old woman with hypertension and a history of depression associated with the use of beta-blockers, developed fatigue, malaise, and clinical signs and symptoms of depression, including suicidal ideation, within five weeks after starting enalapril.  The depression gradually resolved with substitution of a thiazide diuretic and a low sodium diet.  Rechallenge resulted in recurrent depression.A 41-year-old man with hypertension became agitated, anxious, depressed, and unable to sleep four weeks after starting enalapril.  The psychosis resolved when enalapril was stopped, and recurred upon rechallenge.
+Frequency not reported: Syndrome of inappropriate ADH secretion, gynecomastia
+A 69-year-old woman with diabetes mellitus and hypertension developed symptomatic hyponatremia associated with decreased plasma and increased urine osmolalities, normal thyroid and basal cortisol studies, and a positive water load test four months after beginning enalapril.  The syndrome resolved upon discontinuation of enalapril, and recurred upon rechallenge.
+Frequency not reported: Severe arthralgias and myalgias
+A 76-year-old woman with hypertension, on enalapril monotherapy for three weeks, developed progressive myalgias, asthenia, morning stiffness, and weakness associated with no abnormal laboratory values.  Due to the absence of other apparent causes, enalapril was discontinued, and the patient's myalgias disappeared.  In at least one other case, rechallenge resulted in recurrent symptoms.
+Frequency not reported: Positive fluorescent antinuclear antibody test
+Frequency not reported: Vulvovaginal pruritus, dysuria, incontinence
 Blurred vision
 confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 sweating
 unusual tiredness or weakness
-
-
 Chest pain
 cough producing mucus
 diarrhea
@@ -157,11 +40,6 @@ sneezing
 sore throat
 tightness in the chest
 vomiting
-
-
 Dizziness
-
-
 Lack or loss of strength
 rash
-

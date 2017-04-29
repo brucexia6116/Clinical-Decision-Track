@@ -1,26 +1,13 @@
-Generic Name: mirabegron
-Applies to mirabegron: oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by mirabegron (the active ingredient contained in Myrbetriq). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking mirabegron:
-Some of the side effects that can occur with mirabegron may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to mirabegron: oral tablet extended release
-Very common (10% or more): Hypertension (up to 11.3%)Common (1% to 10%): TachycardiaUncommon (0.1% to 1%): Atrial fibrillation, palpitations[Ref]
-Uncommon (0.1% to 1%): Urticaria, rash, pruritus, lip edema, macular rash, papular rashRare (less than 0.1%): Leukocytoclastic vasculitis, purpura, angioedema[Ref]
-Common (1% to 10%): Nausea, constipation, diarrhea, abdominal painUncommon (0.1% to 1%): Dyspepsia, gastritis, abdominal distensionRare (less than 0.1%): Lip edema[Ref]
-Common (1% to 10%): Urinary tract infectionUncommon (0.1% to 1%): Nephrolithiasis, bladder pain, cystitis, vaginal infection, vulvovaginal pruritusPostmarketing reports: Urinary retention[Ref]
-Common (1% to 10%): ArthralgiaUncommon (0.1% to 1%): Joint swelling[Ref]
-Common (1% to 10%): Headache, fatigue, dizziness[Ref]
-Uncommon (0.1% to 1%): Glaucoma, blurred vision, dry eyesRare (less than 0.1%): Eyelid edema[Ref]
-Rare (less than 0.1%): Prostate cancer[Ref]
-Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, sinusitis, rhinitis[Ref]
-Uncommon (0.1% to 1%): Increased ALT, AST, and GGT[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Pharmaceutical Society of Australia "APPGuide online. Australian prescription products guide online. Available from: URL: http://www.appco.com.au/appguide/default.asp."   ([2006]):
-3. "Product Information. Myrbetriq (mirabegron)." Astellas Pharma US, Inc, Deerfield, IL. 
-Not all side effects for Myrbetriq may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Hypertension (up to 11.3%)Common (1% to 10%): TachycardiaUncommon (0.1% to 1%): Atrial fibrillation, palpitations
+Uncommon (0.1% to 1%): Urticaria, rash, pruritus, lip edema, macular rash, papular rashRare (less than 0.1%): Leukocytoclastic vasculitis, purpura, angioedema
+Common (1% to 10%): Nausea, constipation, diarrhea, abdominal painUncommon (0.1% to 1%): Dyspepsia, gastritis, abdominal distensionRare (less than 0.1%): Lip edema
+Common (1% to 10%): Urinary tract infectionUncommon (0.1% to 1%): Nephrolithiasis, bladder pain, cystitis, vaginal infection, vulvovaginal pruritusPostmarketing reports: Urinary retention
+Common (1% to 10%): ArthralgiaUncommon (0.1% to 1%): Joint swelling
+Common (1% to 10%): Headache, fatigue, dizziness
+Uncommon (0.1% to 1%): Glaucoma, blurred vision, dry eyesRare (less than 0.1%): Eyelid edema
+Rare (less than 0.1%): Prostate cancer
+Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, sinusitis, rhinitis
+Uncommon (0.1% to 1%): Increased ALT, AST, and GGT
 Bladder pain
 bloody or cloudy urine
 blurred vision
@@ -32,8 +19,6 @@ lower back or side pain
 nervousness
 pounding in the ears
 slow, fast, or irregular heartbeat
-
-
 Blindness
 decrease in vision
 eye pain
@@ -41,8 +26,6 @@ lower abdominal or stomach pain
 nausea or vomiting
 pain in the groin or genitals
 tearing or eyes
-
-
 Blistering, peeling, or loosening of the skin
 chills
 cough
@@ -57,8 +40,6 @@ red, irritated eyes
 sore throat
 sores, ulcers, or white spots in the mouth or on the lips
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 back pain
 body aches or pain
@@ -73,8 +54,6 @@ muscle aches
 muscle stiffness
 sneezing
 stuffy or runny nose
-
-
 Acid or sour stomach
 belching
 burning feeling in the chest or stomach
@@ -93,4 +72,3 @@ stomach discomfort or upset
 swelling of the lips
 tenderness in the stomach area
 thick, white vaginal discharge with mild or no odor
-

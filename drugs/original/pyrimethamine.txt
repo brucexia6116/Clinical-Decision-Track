@@ -1,44 +1,15 @@
-Applies to pyrimethamine: oral tablet
 As well as its needed effects, pyrimethamine may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking pyrimethamine, check with your doctor immediately:
 Some pyrimethamine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to pyrimethamine: compounding powder, oral tablet
-Gastrointestinal side effects have included nausea, vomiting, diarrhea, glossitis, and atrophic glossitis, particularly with high doses.  Gastrointestinal intolerance may be minimized by administering pyrimethamine with food.[Ref]
-Hypersensitivity reactions have been reported when pyrimethamine is administered with a sulfonamide.  These reactions may be severe and include erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, Lyell's syndrome, hepatitis, anaphylaxis, and pulmonary reactions.  Fatal reactions have been estimated to occur in one of 11,000 to 25,000 patients treated.  Hypersensitivity reactions have also been reported with pyrimethamine/clindamycin combinations and are usually limited to maculopapular rashes.[Ref]
-Hematologic side effects have occurred, especially when large doses of pyrimethamine are administered.  Thrombocytopenia, megaloblastic anemia, leukopenia, pancytopenia, agranulocytosis, and fatalities have been reported.[Ref]
-Nervous system toxicity is problematic with higher dosages of pyrimethamine.  Ataxia, tremors, and seizures may occur.[Ref]
-Respiratory side effects have rarely included pulmonary eosinophilia.[Ref]
-Cardiovascular side effects have included arrhythmias, particularly with high doses.[Ref]
-Metabolic side effects have included hyperphenylalaninemia, particularly when pyrimethamine is given in combination with a sulfonamide.[Ref]
-Oncologic side effects have included two reports of malignancy; both were associated with pyrimethamine treatment for toxoplasmosis: 1 patient developed chronic granulocytic leukemia after 2 years of therapy and 1 patient developed reticulum cell sarcoma after 14 months of therapy.  Animal studies have revealed increased lung tumors with intraperitoneal administration.[Ref]
-1. "Product Information. Daraprim (pyrimethamine)." Glaxo Wellcome, Research Triangle Park, NC. 
-2. Davidson AC, Bateman C, Shovlin C, Marrinan M, Burton GH, Cameron IR "Pulmonary toxicity of malaria prophylaxis." BMJ 297 (1988): 1240-1
-3. Pang JA "Non-cardiogenic pulmonary oedema associated with pyrimethamine." Respir Med 83 (1989): 247-8
-4. Bamber MG, Elder AT, Gray JA, Minns RA "Fatal Stevens-Johnson syndrome associated with Fansidar and chloroquine." J Infect 13 (1986): 31-3
-5. Hornstein OP, Ruprecht KW "Fansidar-induced Stevens-Johnson Syndrome." N Engl J Med 307 (1982): 1529-30
-6. "Fansidar-associated fatal reaction in an HIV-infected man." MMWR Morb Mortal Wkly Rep 37 (1988): 571-2
-7. Whitfield D "Presumptive fatality due to pyrimethamine-sulfadoxine." Lancet 2 (1982): 1272
-8. Ortel B, Sivayathorn A, Honigsmann H "An unusual combination of phototoxicity and Stevens-Johnson syndrome due to antimalarial therapy." Dermatologica 178 (1989): 39-42
-9. Phillips-Howard PA, Behrens RH, Dunlop J "Stevens-Johnson syndrome due to pyrimethamine/sulfadoxine during presumptive self-therapy of malaria." Lancet 2 (1989): 803-4
-10. Zitelli BJ, Alexander J, Taylor S, Miller KD, Howrie DL, Kuritsky JN, Perez TH, Van Thiel DH "Fatal hepatic necrosis due to pyrimethamine-sulfadoxine (Fansidar)." Ann Intern Med 106 (1987): 393-5
-11. McCormack D, Morgan WK "Fansidar hypersensitivity pneumonitis." Br J Dis Chest 81 (1987): 194-6
-12. Jeffrey RF "Transient lupus anticoagulant and fansidar therapy." Postgrad Med J 62 (1986): 893-4
-13. Olsen VV, Loft S, Christensen KD "Serious reactions during malaria prophylaxis with pyrimethamine- sulfadoxine." Lancet 2 (1982): 994
-14. Selby CD, Ladusans EJ, Smith PG "Fatal multisystemic toxicity associated with prophylaxis with pyrimethamine and sulfadoxine (Fansidar)." Br Med J (Clin Res Ed) 290 (1985): 113-4
-15. Adams SJ, Broadbent J, Clayden LM, Ridley CM "Erythema multiforme (Stevens-Johnson) precipitated by Fansidar." Postgrad Med J 61 (1985): 263-4
-16. Phillips-Howard PA, West LJ "Serious adverse drug reactions to pyrimethamine-sulphadoxine pyrimethamine-dapsone and to amodiaquine in Britain." J R Soc Med 83 (1990): 82-5
-17. Svanbom M, Rombo L, Gustafsson L "Unusual pulmonary reaction during short term prophylaxis with pyrimethamine-sulfadoxine (Fansidar)." Br Med J (Clin Res Ed) 288 (1984): 1876
-18. Ward DJ, Krzeminska EC, Tanner NS "Treatment of toxic epidermal necrolysis and a review of six cases." Burns 16 (1990): 97-104
-19. Booth F, Barker LC, Barton CJ, Naik RB "Agranulocytosis during malaria prophylaxis with Maloprim (pyrimethamine and dapsone)." Postgrad Med J 60 (1984): 566-7
-20. Bowcock SJ, Linch DC, Machin SJ, Stewart JW "Pyrimethamine in the myeloproliferative disorders: a forgotten treatment?" Clin Lab Haematol 9 (1987): 129-36
-21. Iaccheri B,  Fiore T,  Papadaki T, et al. "Adverse drug reactions to treatments for ocular toxoplasmosis: A retrospective chart review." Clin Ther 30 (2008): 2069-74
-22. Ree GH "Chemoprophylaxis of malaria in Africa." Br Med J (Clin Res Ed) 286 (1983): 562
-23. Nicholls MD, Concannon AJ "Maloprim-induced agranulocytosis and red-cell aplasia." Med J Aust 2 (1982): 564-6
-24. Whitehead S "Agranulocytosis associated with maloprim." Br Med J (Clin Res Ed) 286 (1983): 1515
+Gastrointestinal side effects have included nausea, vomiting, diarrhea, glossitis, and atrophic glossitis, particularly with high doses.  Gastrointestinal intolerance may be minimized by administering pyrimethamine with food.
+Hypersensitivity reactions have been reported when pyrimethamine is administered with a sulfonamide.  These reactions may be severe and include erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, Lyell's syndrome, hepatitis, anaphylaxis, and pulmonary reactions.  Fatal reactions have been estimated to occur in one of 11,000 to 25,000 patients treated.  Hypersensitivity reactions have also been reported with pyrimethamine/clindamycin combinations and are usually limited to maculopapular rashes.
+Hematologic side effects have occurred, especially when large doses of pyrimethamine are administered.  Thrombocytopenia, megaloblastic anemia, leukopenia, pancytopenia, agranulocytosis, and fatalities have been reported.
+Nervous system toxicity is problematic with higher dosages of pyrimethamine.  Ataxia, tremors, and seizures may occur.
+Respiratory side effects have rarely included pulmonary eosinophilia.
+Cardiovascular side effects have included arrhythmias, particularly with high doses.
+Metabolic side effects have included hyperphenylalaninemia, particularly when pyrimethamine is given in combination with a sulfonamide.
+Oncologic side effects have included two reports of malignancy; both were associated with pyrimethamine treatment for toxoplasmosis: 1 patient developed chronic granulocytic leukemia after 2 years of therapy and 1 patient developed reticulum cell sarcoma after 14 months of therapy.  Animal studies have revealed increased lung tumors with intraperitoneal administration.
 It is possible that some side effects of pyrimethamine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Black, tarry stools
 blood in urine or stools
 cough or hoarseness
@@ -48,8 +19,6 @@ lower back or side pain
  painful or difficult urination
 pinpoint red spots on skin
 unusual bleeding or bruising
-
-
 Bleeding or crusting sores on lips
  chest pain or discomfort
 muscle cramps or pain
@@ -58,8 +27,6 @@ skin rash
 sores, ulcers, and/or white spots in mouth
 sore throat
  unusual tiredness or weakness
-
-
 Blood in urine
 diarrhea
 difficulty swallowing
@@ -81,16 +48,11 @@ swollen glands
 tightness in chest
 unexplained bleeding or bruising
 wheezing
-
-
 Abdominal or stomach pain
 convulsions (seizures)
 increased excitability
 vomiting (severe and continuing)
-
-
 Diarrhea
 loss of appetite
 nausea
 vomiting
-

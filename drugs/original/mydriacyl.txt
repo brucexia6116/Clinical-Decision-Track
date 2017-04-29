@@ -1,29 +1,17 @@
-Generic Name: tropicamide ophthalmic
-Applies to tropicamide ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by tropicamide ophthalmic (the active ingredient contained in Mydriacyl). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking tropicamide ophthalmic, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with tropicamide ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to tropicamide ophthalmic: compounding powder, ophthalmic solution
-Side effects reported with this drug have included transient stinging, blurred vision, photophobia and superficial punctate keratitis.  Some patients have experienced prolonged mydriasis.[Ref]
-Frequency not reported: Headache, drowsiness, somnolence, fatigue, trouble concentrating, central nervous system disturbances, dysphonia Postmarketing reports: Dizziness[Ref]
-Frequency not reported: Psychotic reaction, behavioral disturbance[Ref]
-Behavioral disturbances or psychotic reactions may be more common in children.[Ref]
-Frequency not reported: Headache, drowsiness, somnolence, fatigue, trouble concentrating, central nervous system disturbances, dysphonia Postmarketing reports: Dizziness[Ref]
-Transient bradycardia followed by tachycardia with palpitations and arrhythmias have been reported.[Ref]
-Frequency not reported: Tachycardia, bradycardia, arrhythmias, palpitationsPostmarketing reports: Hypotension, syncope[Ref]
-Frequency not reported: Allergic reaction, anaphylaxis[Ref]
-Frequency not reported: Dry mouth, thirst, dysphagia, nausea, vomiting, constipation[Ref]
-Frequency not reported: Rhinitis, reduced bronchial secretions, bronchospasmPostmarketing reports: Dryness of mucous membranes[Ref]
-Frequency not reported: Urinary retention, difficult micturition[Ref]
-Frequency not reported: Erythematous rash, pruritus, pallor, flushing, increased sweating, dry skin[Ref]
-Frequency not reported: Muscle rigidity[Ref]
-1. "Product Information. Tropicamide (tropicamide ophthalmic)." Bausch and Lomb, Rochester, NY. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Mydriacyl may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Side effects reported with this drug have included transient stinging, blurred vision, photophobia and superficial punctate keratitis.  Some patients have experienced prolonged mydriasis.
+Frequency not reported: Headache, drowsiness, somnolence, fatigue, trouble concentrating, central nervous system disturbances, dysphonia Postmarketing reports: Dizziness
+Frequency not reported: Psychotic reaction, behavioral disturbance
+Behavioral disturbances or psychotic reactions may be more common in children.
+Frequency not reported: Headache, drowsiness, somnolence, fatigue, trouble concentrating, central nervous system disturbances, dysphonia Postmarketing reports: Dizziness
+Transient bradycardia followed by tachycardia with palpitations and arrhythmias have been reported.
+Frequency not reported: Tachycardia, bradycardia, arrhythmias, palpitationsPostmarketing reports: Hypotension, syncope
+Frequency not reported: Allergic reaction, anaphylaxis
+Frequency not reported: Dry mouth, thirst, dysphagia, nausea, vomiting, constipation
+Frequency not reported: Rhinitis, reduced bronchial secretions, bronchospasmPostmarketing reports: Dryness of mucous membranes
+Frequency not reported: Urinary retention, difficult micturition
+Frequency not reported: Erythematous rash, pruritus, pallor, flushing, increased sweating, dry skin
+Frequency not reported: Muscle rigidity
 Clumsiness or unsteadiness
 confusion 
 fast heartbeat
@@ -35,10 +23,7 @@ slurred speech
 swollen stomach in infants 
 unusual behavior, especially in children
 unusual drowsiness, tiredness, or weakness
-
-
 Blurred vision
 headache
 sensitivity of eyes to light
 stinging of the eye when the medicine is applied
-

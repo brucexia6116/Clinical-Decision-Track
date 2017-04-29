@@ -1,52 +1,26 @@
-Generic Name: amphotericin b lipid complex
-Applies to amphotericin b lipid complex: powder for solution, suspension
-In addition to its needed effects, some unwanted effects may be caused by amphotericin b lipid complex (the active ingredient contained in Abelcet). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking amphotericin b lipid complex, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with amphotericin b lipid complex may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to amphotericin b lipid complex: intravenous suspension
-General side effects during infusions have included fever (15%), chills (15%), and shivering.  These symptoms usually begin 1 to 2 hours after the beginning of an amphotericin B lipid complex infusion, and are more common with the first few doses administered.Severe infusion-related side effects have been associated with conventional amphotericin B administration, and may be lessened by treatment with corticosteroids, acetaminophen, antihistamines, and meperidine.[Ref]
-Renal side effects have been reported less frequently with amphotericin B lipid complex than with conventional amphotericin B, and often included increased serum creatinine and BUN.  Renal failure occurred in about 5% of treated patients.  Decreased renal function, including oliguria, anuria, and renal tubular acidosis have also been reported.[Ref]
-Metabolic side effects have occurred less frequently with amphotericin B lipid complex than with conventional amphotericin B.  Hypokalemia and hypomagnesemia often accompany amphotericin-induced nephrotoxicity.  Hypocalcemia has also been reported in treated patients.[Ref]
-Gastrointestinal (GI) side effects, including nausea, vomiting, or diarrhea in 5% to 8% of patients, have been associated with amphotericin B lipid complex infusions.  GI hemorrhage, abdominal pain, anorexia, dyspepsia, epigastric pain, cramping, malaise, and weight loss have occurred less frequently.[Ref]
-Hematologic side effects have included thrombocytopenia, leukopenia, anemia, and less frequently, coagulation defects, blood dyscrasias, and leukocytosis.[Ref]
-Nervous system side effects have been reported rarely, except for headache, which occurred in about 4% of treated patients.  Less frequently, convulsions, peripheral neuropathy visual impairment, including diplopia, hearing loss, tinnitus, and transient vertigo have been reported.[Ref]
-Hypersensitivity side effects have been reported.  These may present as bronchospasm, wheezing, or anaphylactoid reactions.  Erythema multiforme has also been reported.[Ref]
-Cardiovascular side effects including cardiac arrest and hypotension have been reported in 6% to 8% of treated patients.  Hypertension, cardiac failure, cardiomyopathy, arrhythmias, and ventricular fibrillation have been uncommonly reported.[Ref]
-Respiratory side effects including respiratory failure, dyspnea, pneumonia, or other respiratory disorders have been reported in treated patients.[Ref]
-Dermatologic side effects have included maculopapular rash, pruritus, and exfoliative dermatitis.  Exanthema has been reported in a patient who was treated concomitantly with amphotericin B lipid complex and imipenem-cilastatin.  The exact cause is unknown.[Ref]
-Local side effects including thrombophlebitis and inflammation at the injection site have been reported.[Ref]
-Musculoskeletal side effects including generalized bone, joint, or muscle pain have been reported.[Ref]
-Hepatic side effects have been uncommonly reported.  These have included liver failure, jaundice, hepatitis, and increased AST, ALT, and alkaline phosphatase levels.[Ref]
-Genitourinary side effects have rarely included impotence.[Ref]
-1. Kline S, Larsen TA, Fieber L, Fishbach R, Greenwood M, Harris R, Kline MW, Tennican PO, Janoff EN "Limited toxicity of prolonged therapy with high doses of amphotericin b lipid complex." Clin Infect Dis 21 (1995): 1154-8
-2. Rapp RP, Gubbins PO, Evans ME "Amphotericin B lipid complex." Ann Pharmacother 31 (1997): 1174-86
-3. Oravcova E, Mistrik M, Sakalova A, Drgona L, Kollar T, Helpianska L, Ilavska I, Sorkovska D, Spanik S, Kukuckova E, Krcmery V "Amphotericin b lipid complex to treat invasive fungal infections in cancer patients: report of efficacy and safety in 20 patients." Chemotherapy 41 (1995): 473-6
-4. Sharkey PK, Graybill JR, Johnson ES, Hausrath SG, Pollard RB, Kolokathis A, Mildvan D, Fanhavard P, Eng RHK, Patterson TF, "Amphotericin b lipid complex compared with amphotericin b in the treatment of cryptococcal meningitis in patients with AIDS." Clin Infect Dis 22 (1996): 315-21
-5. Sundar S, Murray HW "Cure of antimony-unresponsive indian visceral leishmaniasis with amphotericin b lipid complex." J Infect Dis 173 (1996): 762-5
-6. "Product Information. Abelcet (amphotericin B)." Liposome Company Inc, The, Princeton, NJ. 
-7. Lopez-Velez R,  Videla S,  Marquez M, et al. "Amphotericin B lipid complex versus no treatment in the secondary prophylaxis of visceral leishmaniasis in HIV-infected patients." J Antimicrob Chemother 53 (2004): 540-3
-8. Gales MA, Gales BJ "Acute renal failure with amphotericin B in lipid emulsion." Ann Pharmacother 30 (1996): 1036
-9. Sorkin P, Nagar H, Weinbroum A, Setton A, Israitel E, Scarlatt A, Silbiger A, Rudick V, Kluger Y, Halpern P "Administration of amphotericin b in lipid emulsion decreases nephrotoxicity: results of a prospective, randomized, controlled study in critically ill patients." Crit Care Med 24 (1996): 1311-5
-10. Rowles DM, Fraser SL "Amphotericin B lipid complex (ABLC)-associated hypertension: Case report and review." Clin Infect Dis 29 (1999): 1564-5
-Not all side effects for Abelcet may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+General side effects during infusions have included fever (15%), chills (15%), and shivering.  These symptoms usually begin 1 to 2 hours after the beginning of an amphotericin B lipid complex infusion, and are more common with the first few doses administered.Severe infusion-related side effects have been associated with conventional amphotericin B administration, and may be lessened by treatment with corticosteroids, acetaminophen, antihistamines, and meperidine.
+Renal side effects have been reported less frequently with amphotericin B lipid complex than with conventional amphotericin B, and often included increased serum creatinine and BUN.  Renal failure occurred in about 5% of treated patients.  Decreased renal function, including oliguria, anuria, and renal tubular acidosis have also been reported.
+Metabolic side effects have occurred less frequently with amphotericin B lipid complex than with conventional amphotericin B.  Hypokalemia and hypomagnesemia often accompany amphotericin-induced nephrotoxicity.  Hypocalcemia has also been reported in treated patients.
+Gastrointestinal (GI) side effects, including nausea, vomiting, or diarrhea in 5% to 8% of patients, have been associated with amphotericin B lipid complex infusions.  GI hemorrhage, abdominal pain, anorexia, dyspepsia, epigastric pain, cramping, malaise, and weight loss have occurred less frequently.
+Hematologic side effects have included thrombocytopenia, leukopenia, anemia, and less frequently, coagulation defects, blood dyscrasias, and leukocytosis.
+Nervous system side effects have been reported rarely, except for headache, which occurred in about 4% of treated patients.  Less frequently, convulsions, peripheral neuropathy visual impairment, including diplopia, hearing loss, tinnitus, and transient vertigo have been reported.
+Hypersensitivity side effects have been reported.  These may present as bronchospasm, wheezing, or anaphylactoid reactions.  Erythema multiforme has also been reported.
+Cardiovascular side effects including cardiac arrest and hypotension have been reported in 6% to 8% of treated patients.  Hypertension, cardiac failure, cardiomyopathy, arrhythmias, and ventricular fibrillation have been uncommonly reported.
+Respiratory side effects including respiratory failure, dyspnea, pneumonia, or other respiratory disorders have been reported in treated patients.
+Dermatologic side effects have included maculopapular rash, pruritus, and exfoliative dermatitis.  Exanthema has been reported in a patient who was treated concomitantly with amphotericin B lipid complex and imipenem-cilastatin.  The exact cause is unknown.
+Local side effects including thrombophlebitis and inflammation at the injection site have been reported.
+Musculoskeletal side effects including generalized bone, joint, or muscle pain have been reported.
+Hepatic side effects have been uncommonly reported.  These have included liver failure, jaundice, hepatitis, and increased AST, ALT, and alkaline phosphatase levels.
+Genitourinary side effects have rarely included impotence.
 Chills and fever
 headache
 nausea and vomiting
-
-
 Difficulty in breathing
 sore throat and fever
 unusual bleeding or bruising
 unusual tiredness and weakness
-
-
 Increased or decreased urination
-
-
 Diarrhea
 loss of appetite
 stomach pain
-

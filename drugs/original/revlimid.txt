@@ -1,41 +1,28 @@
-Generic Name: lenalidomide
 Common side effects of Revlimid include: pneumonia, upper respiratory tract infection, urinary tract infection, neutropenia, thrombocytopenia, abdominal pain, anemia, arthralgia, asthenia, back pain, constipation, cough, diarrhea, dizziness, dyspnea, dyspnea on exertion, edema, epistaxis, fatigue, headache, hypokalemia, insomnia, limb pain, muscle cramps, nasopharyngitis, nausea, peripheral edema, pharyngitis, pruritus, skin rash, vomiting, anorexia, and xeroderma. Other side effects include: febrile neutropenia, cellulitis, chest pain, depression, dysuria, hypertension, hypoesthesia, hypomagnesemia, hypothyroidism, increased serum alanine aminotransferase, leukopenia, loose stools, myalgia, night sweats, pain, palpitations, peripheral neuropathy, rhinitis, upper abdominal pain, bruise, diaphoresis, dysgeusia, ecchymoses, erythema, and xerostomia.  See below for a comprehensive list of adverse effects.
-Applies to lenalidomide: oral capsule
 As well as its needed effects, lenalidomide (the active ingredient contained in Revlimid) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking lenalidomide, check with your doctor immediately:
 Some lenalidomide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to lenalidomide: oral capsule
-Hematologic side effects including thrombocytopenia (61.5%), neutropenia (58.8%), anemia (11.5%), leukopenia (8.1%), febrile neutropenia (5.4%), warm type hemolytic anemia, splenic infarction, bone marrow depression, coagulopathy, hemolysis, hemolytic anemia, pancytopenia, aggravated anemia, decreased hemoglobin, and refractory anemia have been reported.[Ref]
-Thrombotic or thromboembolic events, including deep vein thrombosis, pulmonary embolism, thrombosis, and intracranial venous sinus thrombosis were reported more frequently in patients treated with the lenalidomide/dexamethasone combination.  The number of patients experiencing a thrombotic event in the combination arm were 43/346 (12%) compared with those in the placebo/dexamethasone arm 14/345 (4%).[Ref]
-Gastrointestinal side effects including diarrhea (48.6%), constipation (23.6%), nausea (23.6%), abdominal pain (12.2%), vomiting (10.1%), upper abdominal pain (8.1%), dry mouth (6.8%), loose stools (6.1%), gastrointestinal hemorrhage, ischemic colitis, intestinal perforation, rectal hemorrhage, colonic polyp, diverticulitis, dysphagia, gastritis, gastroenteritis, gastroesophageal reflux disease, obstructive inguinal hernia, irritable bowel syndrome, melena, pancreatitis (due to biliary obstruction), pancreatitis (not otherwise specified), perirectal abscess, pseudomembranous colitis, peptic ulcer hemorrhage, oral infection, small intestinal obstruction, and upper gastrointestinal hemorrhage have been reported.[Ref]
-Rashes have been characterized as morbilliform, urticarial, dermatitic, acneform, and undefined.[Ref]
-Dermatologic side effects including pruritus (41.9%), rash (35.8%), dry skin (14.2%), contusion (8.1%), night sweats (8.1%), increased sweating (6.8%), ecchymosis (5.4%), erythema (5.4%), skin desquamation, erythema multiforme, and acute febrile neutrophilic dermatosis have been reported.  Twelve reports of Stevens-Johnson syndrome and one report of toxic epidermal necrolysis have also been reported.[Ref]
-General side effects including fatigue (31.1%), pyrexia (20.9%), peripheral edema (20.3%), asthenia (14.9%), edema (10.1%), pain (6.8%), rigors (6.1%), chest pain (5.4%), disease progression, fall, abnormal gait, intermittent pyrexia, nodule, rigors, and sudden death have been reported.[Ref]
-Respiratory side effects including nasopharyngitis (23.0%), cough (19.6%), dyspnea (16.9%), pharyngitis (15.5%), epistaxis (14.9%), upper respiratory tract infections (14,9%), pneumonia (11.5%), sinusitis (8.1%), exertional dyspnea (6.8%), rhinitis (6.8%), bronchitis (6.1%), acute sinusitis, exacerbated chronic obstructive airways disease, respiratory failure, exacerbated dyspnea, interstitial lung disease, lobar pneumonia, lung infiltration, wheezing, bronchopneumopathy, hypoxia, and sinusitis have been reported.[Ref]
-Musculoskeletal side effects including arthralgia (21.6%), back pain (20.9%), muscle cramps (18.2%), limb pain (10.8%), myalgia (8.8%), peripheral swelling (8.1%), femur fracture, femoral neck fracture, fractured pelvis, hip fracture, rib fracture, arthritis, aggravated arthritis, gouty arthritis, neck pain, cervical vertebral fracture, chondrocalcinosis pyrophosphate, steroid myopathy, myopathy, and spinal compression fracture have been reported.[Ref]
-Nervous system side effects including dizziness (19.6%), headache (19.6%), hypoesthesia (6.8%), dysgeusia (6.1%), peripheral neuropathy (5.4%), cerebrovascular accident, aphasia, cerebellar infarction, depressed level of consciousness, dysarthria, migraine, spinal cord compression, subarachnoid hemorrhage, transient ischemic attack, dizziness, memory impairment, brain edema, cerebral infarction, cerebral ischemia, cerebrovascular accident, encephalitis, intracranial hemorrhage, intracranial venous sinus thrombosis, leukoencephalopathy, somnolence, and tremor have been reported.[Ref]
-Renal side effects have included urinary tract infection (10.8%), dysuria (6.8%), increased blood creatinine, renal failure, hematuria, acute renal failure, azotemia, ureteric calculus, renal mass, Fanconi syndrome, renal tubular necrosis, urinary retention, and kidney infection.[Ref]
-Metabolic side effects including hypokalemia (10.8%), hypomagnesemia (6.1%), dehydration, gout, hypernatremia, diabetes mellitus, diabetes with hyperosmolarity, diabetic ketoacidosis, and hypoglycemia have been reported.[Ref]
-Other side effects have included anorexia (10.1%), cellulitis (5.4%), vertigo, infection, bacteremia, central line infection, clostridial infection, ear infection, Enterobacter sepsis, fungal infection, herpes viral infection, influenza, Klebsiella sepsis, localized infection, Pseudomonas infection, septic shock, Staphylococcal infection, urosepsis, transfusion reaction, post procedural hemorrhage, pelvic pain, and road traffic accident.[Ref]
-Psychiatric side effects including insomnia (10.1%), depression (5.4%), mental status changes, delirium, delusion, psychotic disorder, and confusional state have been reported.[Ref]
-Hepatic side effects including increased alanine aminotransferase (8.1%), hyperbilirubinemia, acute cholecystitis, cholecystitis, toxic hepatitis, hepatic failure, intrahepatic cholestasis, and abnormal liver function tests have been reported.  A case of severe hepatotoxicity has also been reported.[Ref]
-Endocrine side effects have included acquired hypothyroidism (6.8%), adrenal insufficiency, and Basedow's disease.[Ref]
-Cardiovascular side effects including hypertension (6.1%) palpitations (5.4%), congestive cardiac failure, atrial fibrillation, angina pectoris, cardiac arrest, thromboembolism, cardiac failure (not otherwise specified), cardiorespiratory arrest, atrial flutter, cardiomyopathy, myocardial infarction, myocardial ischemia, aggravated atrial fibrillation, bradycardia, cardiogenic shock, pulmonary edema, supraventricular arrhythmia, tachyarrhythmia, ventricular dysfunction, increased troponin I, deep vein thrombosis, hypotension, aortic disorder, ischemia, superficial thrombophlebitis, and thrombosis have been reported.[Ref]
-One study has reported that treatment of multiple myeloma with lenalidomide and high-dose dexamethasone is associated with an increased risk of venous thrombosis and that concomitant administration of erythropoietic agents may further increase the risk of thrombosis.[Ref]
-Hypersensitivity side effects have included hypersensitivity (not otherwise specified).[Ref]
-Oncologic side effects including acute leukemia, acute myeloid leukemia, bronchoalveolar carcinoma, lung cancer metastatic, lymphoma, and metastatic prostate cancer have been reported.[Ref]
-Ocular side effects including blindness have been reported.[Ref]
-1. "Product Information. Revlimid (lenalidomide)." Celgene Corporation, Summit, NJ. 
-2. Sviggum HP,  Davis MD,  Rajkumar SV,  Dispenzieri A "Dermatologic adverse effects of lenalidomide therapy for amyloidosis and multiple myeloma." Arch Dermatol 142 (2006): 1298-302
-3. Castaneda CP,  Brandenburg NA,  Bwire R,  Burton GH,  Zeldis JB "Erythema Multiforme/Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis in Lenalidomide-Treated Patients." J Clin Oncol  (2008):
-4. Hussain S,  Browne R,  Chen J,  Parekh S "Lenalidomide-induced severe hepatotoxicity." Blood 110 (2007): 3814
-5. Jena RK,  Swain TR,  Kansurkar SS,  Swain M "Lenalidomide induced intrahepatic cholestasis in newly diagnosed patients of multiple myeloma." Eur J Clin Pharmacol  (2011):
-6. Bennett CL,  Angelotta C,  Yarnold PR, et al. "Thalidomide- and lenalidomide-associated thromboembolism among patients with cancer." JAMA 296 (2006): 2558-60
-7. Knight R,  DeLap RJ,  Zeldis JB "Lenalidomide and venous thrombosis in multiple myeloma." N Engl J Med 354 (2006): 2079-80
+Hematologic side effects including thrombocytopenia (61.5%), neutropenia (58.8%), anemia (11.5%), leukopenia (8.1%), febrile neutropenia (5.4%), warm type hemolytic anemia, splenic infarction, bone marrow depression, coagulopathy, hemolysis, hemolytic anemia, pancytopenia, aggravated anemia, decreased hemoglobin, and refractory anemia have been reported.
+Thrombotic or thromboembolic events, including deep vein thrombosis, pulmonary embolism, thrombosis, and intracranial venous sinus thrombosis were reported more frequently in patients treated with the lenalidomide/dexamethasone combination.  The number of patients experiencing a thrombotic event in the combination arm were 43/346 (12%) compared with those in the placebo/dexamethasone arm 14/345 (4%).
+Gastrointestinal side effects including diarrhea (48.6%), constipation (23.6%), nausea (23.6%), abdominal pain (12.2%), vomiting (10.1%), upper abdominal pain (8.1%), dry mouth (6.8%), loose stools (6.1%), gastrointestinal hemorrhage, ischemic colitis, intestinal perforation, rectal hemorrhage, colonic polyp, diverticulitis, dysphagia, gastritis, gastroenteritis, gastroesophageal reflux disease, obstructive inguinal hernia, irritable bowel syndrome, melena, pancreatitis (due to biliary obstruction), pancreatitis (not otherwise specified), perirectal abscess, pseudomembranous colitis, peptic ulcer hemorrhage, oral infection, small intestinal obstruction, and upper gastrointestinal hemorrhage have been reported.
+Rashes have been characterized as morbilliform, urticarial, dermatitic, acneform, and undefined.
+Dermatologic side effects including pruritus (41.9%), rash (35.8%), dry skin (14.2%), contusion (8.1%), night sweats (8.1%), increased sweating (6.8%), ecchymosis (5.4%), erythema (5.4%), skin desquamation, erythema multiforme, and acute febrile neutrophilic dermatosis have been reported.  Twelve reports of Stevens-Johnson syndrome and one report of toxic epidermal necrolysis have also been reported.
+General side effects including fatigue (31.1%), pyrexia (20.9%), peripheral edema (20.3%), asthenia (14.9%), edema (10.1%), pain (6.8%), rigors (6.1%), chest pain (5.4%), disease progression, fall, abnormal gait, intermittent pyrexia, nodule, rigors, and sudden death have been reported.
+Respiratory side effects including nasopharyngitis (23.0%), cough (19.6%), dyspnea (16.9%), pharyngitis (15.5%), epistaxis (14.9%), upper respiratory tract infections (14,9%), pneumonia (11.5%), sinusitis (8.1%), exertional dyspnea (6.8%), rhinitis (6.8%), bronchitis (6.1%), acute sinusitis, exacerbated chronic obstructive airways disease, respiratory failure, exacerbated dyspnea, interstitial lung disease, lobar pneumonia, lung infiltration, wheezing, bronchopneumopathy, hypoxia, and sinusitis have been reported.
+Musculoskeletal side effects including arthralgia (21.6%), back pain (20.9%), muscle cramps (18.2%), limb pain (10.8%), myalgia (8.8%), peripheral swelling (8.1%), femur fracture, femoral neck fracture, fractured pelvis, hip fracture, rib fracture, arthritis, aggravated arthritis, gouty arthritis, neck pain, cervical vertebral fracture, chondrocalcinosis pyrophosphate, steroid myopathy, myopathy, and spinal compression fracture have been reported.
+Nervous system side effects including dizziness (19.6%), headache (19.6%), hypoesthesia (6.8%), dysgeusia (6.1%), peripheral neuropathy (5.4%), cerebrovascular accident, aphasia, cerebellar infarction, depressed level of consciousness, dysarthria, migraine, spinal cord compression, subarachnoid hemorrhage, transient ischemic attack, dizziness, memory impairment, brain edema, cerebral infarction, cerebral ischemia, cerebrovascular accident, encephalitis, intracranial hemorrhage, intracranial venous sinus thrombosis, leukoencephalopathy, somnolence, and tremor have been reported.
+Renal side effects have included urinary tract infection (10.8%), dysuria (6.8%), increased blood creatinine, renal failure, hematuria, acute renal failure, azotemia, ureteric calculus, renal mass, Fanconi syndrome, renal tubular necrosis, urinary retention, and kidney infection.
+Metabolic side effects including hypokalemia (10.8%), hypomagnesemia (6.1%), dehydration, gout, hypernatremia, diabetes mellitus, diabetes with hyperosmolarity, diabetic ketoacidosis, and hypoglycemia have been reported.
+Other side effects have included anorexia (10.1%), cellulitis (5.4%), vertigo, infection, bacteremia, central line infection, clostridial infection, ear infection, Enterobacter sepsis, fungal infection, herpes viral infection, influenza, Klebsiella sepsis, localized infection, Pseudomonas infection, septic shock, Staphylococcal infection, urosepsis, transfusion reaction, post procedural hemorrhage, pelvic pain, and road traffic accident.
+Psychiatric side effects including insomnia (10.1%), depression (5.4%), mental status changes, delirium, delusion, psychotic disorder, and confusional state have been reported.
+Hepatic side effects including increased alanine aminotransferase (8.1%), hyperbilirubinemia, acute cholecystitis, cholecystitis, toxic hepatitis, hepatic failure, intrahepatic cholestasis, and abnormal liver function tests have been reported.  A case of severe hepatotoxicity has also been reported.
+Endocrine side effects have included acquired hypothyroidism (6.8%), adrenal insufficiency, and Basedow's disease.
+Cardiovascular side effects including hypertension (6.1%) palpitations (5.4%), congestive cardiac failure, atrial fibrillation, angina pectoris, cardiac arrest, thromboembolism, cardiac failure (not otherwise specified), cardiorespiratory arrest, atrial flutter, cardiomyopathy, myocardial infarction, myocardial ischemia, aggravated atrial fibrillation, bradycardia, cardiogenic shock, pulmonary edema, supraventricular arrhythmia, tachyarrhythmia, ventricular dysfunction, increased troponin I, deep vein thrombosis, hypotension, aortic disorder, ischemia, superficial thrombophlebitis, and thrombosis have been reported.
+One study has reported that treatment of multiple myeloma with lenalidomide and high-dose dexamethasone is associated with an increased risk of venous thrombosis and that concomitant administration of erythropoietic agents may further increase the risk of thrombosis.
+Hypersensitivity side effects have included hypersensitivity (not otherwise specified).
+Oncologic side effects including acute leukemia, acute myeloid leukemia, bronchoalveolar carcinoma, lung cancer metastatic, lymphoma, and metastatic prostate cancer have been reported.
+Ocular side effects including blindness have been reported.
 It is possible that some side effects of Revlimid may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
@@ -64,8 +51,6 @@ swollen glands
 tightness in the chest
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Chest discomfort
 confusion
 difficulty with speaking
@@ -76,8 +61,6 @@ inability to speak
 pain or discomfort in the arms, jaw, back or neck
 slow speech
 sweating
-
-
 Anxiety
 blistering, peeling, or loosening of the skin
 clay-colored stools
@@ -110,8 +93,6 @@ unpleasant breath odor
 vomiting of blood
 weight gain or loss
 yellow eyes or skin
-
-
 Abnormal or decreased touch sensation
 bloody nose
 blurred vision
@@ -145,4 +126,3 @@ unsteadiness or awkwardness
 upper abdomen or stomach pain
 voice changes
 weakness in the arms, hands, legs, or feet
-

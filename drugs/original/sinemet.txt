@@ -1,45 +1,30 @@
-Generic Name: carbidopa / levodopa
-Applies to carbidopa / levodopa: oral capsule extended release, oral tablet, oral tablet disintegrating, oral tablet extended release
 Other dosage forms:
 As well as its needed effects, carbidopa / levodopa may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking carbidopa / levodopa, check with your doctor immediately:
 Some carbidopa / levodopa side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to carbidopa / levodopa: enteral suspension, oral capsule extended release, oral tablet, oral tablet disintegrating, oral tablet extended release
-The most common adverse reactions reported include nausea, dizziness, headache, insomnia, abnormal dreams, dry mouth, dyskinesia, anxiety, constipation, vomiting, and orthostatic hypotension.[Ref]
-Very common (10% or more): Headache (up to 17%), dyskinesia (up to 16.5%), dizziness (up to 12%)Common (1% to 10%): Confusion, dystonia, on-off phenomena, hypoesthesia, polyneuropathy, tremor, dysgeusia, bradykinesiaUncommon (0.1% to 1%): Paresthesia, ataxia, gait disturbance, convulsionRare (less than 0.1%): Malignant, neuroleptic syndromeFrequency not reported: Chorea, somnolence, memory impairment, sense of stimulationPostmarketing reports: Polyneuropathy[Ref]
-Very common (10% or more): Anxiety, insomnia, depression (up to 11%)Common (1% to 10%): Hallucinations, psychosis, abnormal dreams, sleep disorder, agitation, impulsive behavior, sleep attacksUncommon (0.1% to 1%): Suicide, dementia, disorientation, euphoric mood, fearRare (less than 0.1%): Abnormal thinkingPostmarketing: Suicide attempt, suicidal ideation[Ref]
-Very common (10% or more): Nausea (up to 30%), constipation (up to 22%)Common (1% to 10%): Dry mouth, constipation, vomiting, hiatal hernia, postoperative ileus, diarrhea, dyspepsia, abdominal distension, dysphagia, flatulence, bitter tasteUncommon (0.1% to 1%): Salivary hypersecretionRare (less than 0.1%): Bruxism, saliva discoloration, glossodynia, hiccups, trismus, burning tongue sensationFrequency not reported: Heartburn[Ref]
-Common (1% to 10%): Ischemic events, orthostatic hypotension, peripheral edema, hypertension, syncope, irregular heart rate, hypotensionUncommon (0.1% to 1%): Palpitations, phlebitisFrequency not reported: Chest pain, myocardial infarction[Ref]
-Cardiovascular ischemic events occurred in 2.4% (7 of 289) patients receiving carbidopa-levodopa extended-release capsules compared to 1.1% (1 of 92) of patients receiving placebo in early Parkinson's disease clinical trials.  In advanced Parkinson's disease, 0.7 % (3 of 450) patients experienced cardiovascular ischemic events.  These patients had a previous history of ischemic heart disease or risk factors for ischemic heart disease.[Ref]
-Common (1% to 10%): Excessive granulation tissue, rash, contact dermatitis, hyperhidrosis, pruritus Uncommon (0.1% to 1%): Alopecia, erythema, urticariaRare (less than 0.1%): Sweat discoloration, angioedemaPostmarketing reports: Henoch-Schonlein purpura[Ref]
-Insertion site complication was reported in 57% of patients who received this drug compared with 44% of patients who received a PEG-J tube without receiving treatment.  The most common adverse reactions associated with naso-jejunal (NJ) insertion were oropharyngeal pain, abdominal distention, abdominal pain, abdominal discomfort, pain, throat irritation, gastrointestinal injury, esophageal hemorrhage, anxiety, dysphagia, and vomiting.  The most common adverse reactions associated with PEG-J insertion included upper abdominal pain, duodenal ulcer, duodenal ulcer hemorrhage, erosive duodenitis, erosive gastritis, gastrointestinal hemorrhage, intussusception, peritonitis, post-operative abscess, and small intestine ulcer.[Ref]
-Very common (10% or more): Insertion site complication, incision site erythema (19%), post-operative wound infectionCommon (1% to 10%): Incision site cellulitis, post procedural infection, device dislocation, device occlusionUncommon (0.1% to 1%): Postoperative abscess, bezoar, ischemic colitisPostmarketing reports: Gastric perforation, gastrointestinal perforation, small intestinal ischemia, small intestinal perforation[Ref]
-Postmarketing reports: Anaphylactic reaction, bullous lesions[Ref]
-Common (1% to 10%): Upper respiratory tract infection, atelectasis, dyspnea, aspiration pneumonia, oropharyngeal painUncommon (0.1% to 1%): Dysphonia, hoarsenessRare (less than 0.1%): Abnormal respirationFrequency not reported: Bizarre breathing pattern[Ref]
-Frequency not reported: Elevated alkaline phosphatases, AST, ALT, LDH, and bilirubin[Ref]
-Frequency not reported: Elevated serum urea and creatinine[Ref]
-Very common (10% or more): Asthenia, fatigueCommon (1% to 10%): Pyrexia, malaiseFrequency not reported: Hot flashes[Ref]
-Common (1% to 10%): Urinary tract infection, urinary incontinence, urinary retentionUncommon (0.1% to 1%): Urinary frequencyRare (less than 0.1%): Priapism[Ref]
-Common (1% to 10%): AnemiaUncommon (0.1% to 1%): Leukopenia, thrombocytopeniaRare (less than 0.1%): Hemolytic anemiaVery rare (less than 0.01%): AgranulocytosisFrequency not reported: Positive Coombs test, reduced hemoglobin and hematocrit[Ref]
-Very common (10% or more): Decreased weightCommon (1% to 10%): Anorexia, increased weight, vitamin B6 deficiency, vitamin B12 deficiency Frequency not reported: Elevated blood sugarPostmarketing reports: Folic acid deficiency[Ref]
-Common (1% to 10%): Back pain, shoulder painUncommon (0.1% to 1%): Muscle cramps, neck painFrequency not reported: Muscle twitching, leg pain[Ref]
-Uncommon (0.1% to 1%): Blepharospasm, diplopia, optic ischemic neuropathy, blurred visionRare (less than 0.1%): Mydriasis, oculogyric crisis, activation of a latent Horner's syndrome[Ref]
-Rare (less than 0.1%): Malignant melanoma[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Sinemet (carbidopa-levodopa)." DuPont Pharmaceuticals, Wilmington, DE. 
-4. "Product Information. Parcopa (carbidopa-levodopa)." Schwarz Pharma, Mequon, WI. 
-5. "Product Information. Duopa (carbidopa-levodopa)." AbbVie US LLC, North Chicago, IL. 
-6. "Product Information. Rytary (carbidopa-levodopa)." Impax Pharmaceuticals, Hayward, CA. 
-7. "Product Information. Sinemet CR (carbidopa-levodopa)." Dupont Pharmaceuticals, Wilmington, DE. 
+The most common adverse reactions reported include nausea, dizziness, headache, insomnia, abnormal dreams, dry mouth, dyskinesia, anxiety, constipation, vomiting, and orthostatic hypotension.
+Very common (10% or more): Headache (up to 17%), dyskinesia (up to 16.5%), dizziness (up to 12%)Common (1% to 10%): Confusion, dystonia, on-off phenomena, hypoesthesia, polyneuropathy, tremor, dysgeusia, bradykinesiaUncommon (0.1% to 1%): Paresthesia, ataxia, gait disturbance, convulsionRare (less than 0.1%): Malignant, neuroleptic syndromeFrequency not reported: Chorea, somnolence, memory impairment, sense of stimulationPostmarketing reports: Polyneuropathy
+Very common (10% or more): Anxiety, insomnia, depression (up to 11%)Common (1% to 10%): Hallucinations, psychosis, abnormal dreams, sleep disorder, agitation, impulsive behavior, sleep attacksUncommon (0.1% to 1%): Suicide, dementia, disorientation, euphoric mood, fearRare (less than 0.1%): Abnormal thinkingPostmarketing: Suicide attempt, suicidal ideation
+Very common (10% or more): Nausea (up to 30%), constipation (up to 22%)Common (1% to 10%): Dry mouth, constipation, vomiting, hiatal hernia, postoperative ileus, diarrhea, dyspepsia, abdominal distension, dysphagia, flatulence, bitter tasteUncommon (0.1% to 1%): Salivary hypersecretionRare (less than 0.1%): Bruxism, saliva discoloration, glossodynia, hiccups, trismus, burning tongue sensationFrequency not reported: Heartburn
+Common (1% to 10%): Ischemic events, orthostatic hypotension, peripheral edema, hypertension, syncope, irregular heart rate, hypotensionUncommon (0.1% to 1%): Palpitations, phlebitisFrequency not reported: Chest pain, myocardial infarction
+Cardiovascular ischemic events occurred in 2.4% (7 of 289) patients receiving carbidopa-levodopa extended-release capsules compared to 1.1% (1 of 92) of patients receiving placebo in early Parkinson's disease clinical trials.  In advanced Parkinson's disease, 0.7 % (3 of 450) patients experienced cardiovascular ischemic events.  These patients had a previous history of ischemic heart disease or risk factors for ischemic heart disease.
+Common (1% to 10%): Excessive granulation tissue, rash, contact dermatitis, hyperhidrosis, pruritus Uncommon (0.1% to 1%): Alopecia, erythema, urticariaRare (less than 0.1%): Sweat discoloration, angioedemaPostmarketing reports: Henoch-Schonlein purpura
+Insertion site complication was reported in 57% of patients who received this drug compared with 44% of patients who received a PEG-J tube without receiving treatment.  The most common adverse reactions associated with naso-jejunal (NJ) insertion were oropharyngeal pain, abdominal distention, abdominal pain, abdominal discomfort, pain, throat irritation, gastrointestinal injury, esophageal hemorrhage, anxiety, dysphagia, and vomiting.  The most common adverse reactions associated with PEG-J insertion included upper abdominal pain, duodenal ulcer, duodenal ulcer hemorrhage, erosive duodenitis, erosive gastritis, gastrointestinal hemorrhage, intussusception, peritonitis, post-operative abscess, and small intestine ulcer.
+Very common (10% or more): Insertion site complication, incision site erythema (19%), post-operative wound infectionCommon (1% to 10%): Incision site cellulitis, post procedural infection, device dislocation, device occlusionUncommon (0.1% to 1%): Postoperative abscess, bezoar, ischemic colitisPostmarketing reports: Gastric perforation, gastrointestinal perforation, small intestinal ischemia, small intestinal perforation
+Postmarketing reports: Anaphylactic reaction, bullous lesions
+Common (1% to 10%): Upper respiratory tract infection, atelectasis, dyspnea, aspiration pneumonia, oropharyngeal painUncommon (0.1% to 1%): Dysphonia, hoarsenessRare (less than 0.1%): Abnormal respirationFrequency not reported: Bizarre breathing pattern
+Frequency not reported: Elevated alkaline phosphatases, AST, ALT, LDH, and bilirubin
+Frequency not reported: Elevated serum urea and creatinine
+Very common (10% or more): Asthenia, fatigueCommon (1% to 10%): Pyrexia, malaiseFrequency not reported: Hot flashes
+Common (1% to 10%): Urinary tract infection, urinary incontinence, urinary retentionUncommon (0.1% to 1%): Urinary frequencyRare (less than 0.1%): Priapism
+Common (1% to 10%): AnemiaUncommon (0.1% to 1%): Leukopenia, thrombocytopeniaRare (less than 0.1%): Hemolytic anemiaVery rare (less than 0.01%): AgranulocytosisFrequency not reported: Positive Coombs test, reduced hemoglobin and hematocrit
+Very common (10% or more): Decreased weightCommon (1% to 10%): Anorexia, increased weight, vitamin B6 deficiency, vitamin B12 deficiency Frequency not reported: Elevated blood sugarPostmarketing reports: Folic acid deficiency
+Common (1% to 10%): Back pain, shoulder painUncommon (0.1% to 1%): Muscle cramps, neck painFrequency not reported: Muscle twitching, leg pain
+Uncommon (0.1% to 1%): Blepharospasm, diplopia, optic ischemic neuropathy, blurred visionRare (less than 0.1%): Mydriasis, oculogyric crisis, activation of a latent Horner's syndrome
+Rare (less than 0.1%): Malignant melanoma
 It is possible that some side effects of Sinemet may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 route not applicable suspension
-
 Twitching, twisting, uncontrolled repetitive movements of the tongue, lips, face, arms, or legs
-
-
 Bladder pain
 bloody or cloudy urine
 chest pain
@@ -62,8 +47,6 @@ trouble in breathing, speaking, or swallowing
 trouble sleeping
 uncontrolled twisting movements of the neck, trunk, arms, or legs
 unusual facial expressions
-
-
 Anxiety
 black, tarry stools
 bluish color
@@ -105,8 +88,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 unusually pale skin
 vomiting
-
-
 Acid or sour stomach
 back or shoulder pain
 belching
@@ -126,8 +107,6 @@ sneezing
 stomach discomfort, upset, or pain
 unusual dreams
 weight loss
-
-
 Abdominal or stomach distress
 bad, unusual, or unpleasant (after) taste
 belching
@@ -141,4 +120,3 @@ lack or loss of strength
 redness of the face, neck, arms, and occasionally, upper chest
 seeing double
 skin rash, hives or welts, itching
-

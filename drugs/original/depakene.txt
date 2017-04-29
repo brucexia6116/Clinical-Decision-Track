@@ -1,91 +1,33 @@
-Generic Name: valproic acid
 Common side effects of Depakene include: congenital anomalies, infection, abdominal pain, alopecia, asthenia, drowsiness, nausea, thrombocytopenia, tremor, vomiting, and anorexia. Other side effects include: dyspnea, nystagmus, pharyngitis, tinnitus, depression, fever, peripheral edema, and weight gain.  See below for a comprehensive list of adverse effects.
-Applies to valproic acid: oral capsule delayed release, oral capsule liquid filled, oral syrup, oral tablet delayed release, oral tablet enteric coated, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by valproic acid (the active ingredient contained in Depakene). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking valproic acid:
-
 If any of the following symptoms of overdose occur while taking valproic acid, get emergency help immediately:
-
-Some of the side effects that can occur with valproic acid may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to valproic acid: injectable solution, intravenous solution, oral capsule, oral delayed release capsule, oral syrup
-The most commonly reported side effects at the start of therapy include nausea, vomiting, and indigestion; these effects are usually transient.  Sedative effects occur most often in patients receiving combination therapy.[Ref]
-Very common (10% or more): Abdominal pain, diarrhea, dyspepsia, gingival disorder, nausea, vomitingCommon (1% to 10%): Constipation, dry mouth, eructation, fecal incontinence, flatulence, gastralgia, gastroenteritis, glossitis, periodontal abscess, hematemesis, stomatitisUncommon (0.1% to 1%): Pancreatitis (life-threatening)[Ref]
-Severe nausea, emesis, and anorexia may be due to valproate-induced hyperammonemia or hepatitis.  Adverse gastrointestinal effects may be attenuated by administering doses with food, or through the use of delayed-release valproic acid.[Ref]
-Common (1% to 10%): Increased liver enzymes (particularly early in treatment), liver injury, SGOT increased, SGPT increased Frequency not reported: Severe liver damage (including hepatic failure sometimes resulting in death), increased serum bilirubin, abnormal changes in other liver function tests[Ref]
-Prompt withdrawal of valproic acid is recommended if significant hepatic dysfunction occurs.  Mild elevations in transaminases and amylase may be managed by dose reductions.Risk factors for valproic acid-associated hepatitis are young age (particularly age less than 2 years old), poor nutritional status, mental retardation, underlying metabolic disease, and concomitant use of other anticonvulsant medications.  Characteristic pathological features include microvesicular steatosis.[Ref]
-Loss of seizure control may indicate associated hepatitis.  Rarely, encephalopathy with or without fever has developed shortly after the introduction of valproate monotherapy without evidence of hepatic dysfunction or inappropriately high plasma valproate levels.  There have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders.Rare cases of lethargy occasionally progressing to stupor, sometimes with associated hallucinations or convulsions have been reported.  Encephalopathy and coma have very rarely been observed.  These cases have often been associated with too high a starting dose or too rapid a dose escalation or concomitant use of other anticonvulsants, e.g., phenobarbital or topiramate.  They have usually been reversible on withdrawal of treatment or reduction of dosage.[Ref]
-Very common (10% or more): Dizziness, headache, somnolence, tremorCommon (1% to 10%): Abnormal gait, amnesia, catatonic reaction, convulsion, disturbance in attention, dysarthria, extrapyramidal disorder, hypertonia, hypokinesia, incoordination, increased reflexes, memory impairment, nystagmus, paresthesia, speech disorder, stupor, tardive dyskinesia, taste perversionUncommon (0.1% to 1%): Ataxia, coma, encephalopathy, lethargy, reversible parkinsonismRare (less than 0.1%): Cognitive disorder, reversible dementia associated with reversible cerebral atrophyFrequency not reported: Cerebral atrophy, dementia[Ref]
-Common (1% to 10%): Edema, hypertension, hypotension, palpitations, postural hypotension, peripheral edema, tachycardia, vasodilationFrequency not reported: Bradycardia, cutaneous vasculitis, hematoma formation[Ref]
-Valproic acid has been associated with stomatitis and cutaneous leukoclastic vasculitis.  A case of psoriasiform eruption has been reported in a patient receiving valproic acid (the active ingredient contained in Depakene) The mechanism of valproic acid induced alopecia is believed to be telogen shedding.  This is believed to appear within three months of the initiation of valproic acid therapy.  Alopecia does not appear to be dose related.  Limited data have reported that supplements with a zinc and selenium-containing vitamin may be useful in the prevention of valproic acid associated alopecia.  Hair regrowth normally begins within 6 months, although the hair may become curlier than previously.Serious skin reactions have been reported with concomitant administration of lamotrigine and valproate.[Ref]
-Very common (10% or more): AlopeciaCommon (1% to 10%): Discoid lupus erythematosus, dry skin, ecchymosis, furunculosis, maculopapular rash, petechia, pruritus, rash, seborrheaUncommon (0.1% to 1%): Abnormal hair texture, abnormal hair growth, hair color changes, sweatingRare (0.01% to 0.1%): Drug rash with eosinophilia and systemic symptoms (DRESS) syndrome, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysisVery rare (less than 0.01%): Acne, hirsutismFrequency not reported: Angioedema, generalized pruritus, photosensitivity[Ref]
-Uncommon (0.1% to 1%): Hyperandrogenism, syndrome of inappropriate ADH secretionRare (less than 0.1%): HypothyroidismFrequency not reported: Abnormal thyroid function tests, elevated serum testosterone concentrations, parotid gland swelling[Ref]
-One study has suggested that 80% of women treated with valproic acid before the age of 20 have polycystic ovaries or hyperandrogenism.[Ref]
-Common (1% to 10%): Amenorrhea, cystitis, dysmenorrhea, dysuria, enuresis, metrorrhagia, urinary incontinence, urinary frequency, vaginal hemorrhage, vaginitisVery rare (less than 0.01%): GynecomastiaFrequency not reported: Breast enlargement, galactorrhea, polycystic ovary disease[Ref]
-Very common (10% or more): ThrombocytopeniaCommon (1% to 10%): Anemia, hemorrhageUncommon (0.1% to 1%): Leucopenia, pancytopeniaRare (less than 0.1%): Abnormal coagulation tests (e.g., prolonged prothrombin time, prolonged activated partial thromboplastin time, prolonged thrombin time, prolonged INR), agranulocytosis, bone marrow failure, decreased coagulation factors, including pure red cell aplasia, macrocytosisFrequency not reported: Aplastic anemia, bone marrow suppression, bruising, eosinophilia, frank hemorrhage, hypofibrinogenemia, anemia including macrocytic with or without folate deficiency, relative lymphocytosis[Ref]
-Some clinicians recommend monitoring complete blood counts (including platelet counts) at baseline, then monthly for three months, and every three months thereafter.Data from a study of 265 patients strongly suggests a causal relationship between rising plasma valproic acid levels and reduced platelet counts, with additional risk factors including female gender and lower baseline platelet counts.Isolated findings of a reduction in blood fibrinogen and/or an increase in prothrombin time have been reported, particularly with high doses.  Spontaneous bruising or bleeding is an indication for withdrawal of medication pending investigations.[Ref]
-Frequency not reported: Allergic reaction, anaphylaxis, hypersensitivity[Ref]
-Common (1% to 10%): Injection site pain, injection site reactionUncommon (0.1% to 1%): Injection site inflammation[Ref]
-Very common (10% or more): AnorexiaCommon (1% to 10%): Weight loss/gain, increased appetite, hyponatremiaRare (less than 0.1%): HyperammonemiaFrequency not reported: Acute intermittent porphyria, minor elevations of LDH (dose related), decreased carnitine concentrations, hyperglycinemia[Ref]
-Cases of isolated and moderate hyperammonemia without change in liver function tests may occur, are usually transient and should not cause treatment discontinuation.  However, they may present clinically as vomiting, ataxia, and increasing clouding of consciousness.  Valproate should be discontinued if these symptoms occur.[Ref]
-Common (1% to 10%): Arthralgia, arthrosis, leg cramps, myalgia, myasthenia, twitchingUncommon (0.1% to 1%): Decreased bone mineral density, osteopenia, osteoporosis and fractures on long term therapyRare (less than 0.1%): Rhabdomyolysis, systemic lupus erythematosus Frequency not reported: Bone pain[Ref]
-Very common (10% or more): Amblyopia/blurred vision, diplopiaCommon (1% to 10%): Abnormal vision, conjunctivitis, diplopia, dry eyes, eye pain[Ref]
-Rare (less than 0.1%): Myelodysplastic syndrome[Ref]
-Aggression, agitation, disturbance in attention, abnormal behavior, psychomotor hyperactivity, and learning disorder has been primarily observed in the pediatric population.In offspring of women exposed to valproate during pregnancy there have been reports of developmental delay, autism and/or autism spectrum disorder.[Ref]
-Very common (10% or more): NervousnessCommon (1% to 10%): Abnormal dreams, agitation, anxiety, aggression, confusion, depression, emotional lability, hallucinations, insomnia, personality disorder, thinking abnormalitiesRare (less than 0.1%): Abnormal behavior, learning disorder, psychomotor hyperactivityFrequency not reported: Behavioral deterioration, hostility, psychosis[Ref]
-Valproate-induced Fanconi's syndrome has been reported more often in children than in adults.[Ref]
-Rare (less than 0.1%): Reversible Fanconi's syndrome, tubulointerstitial nephritis[Ref]
-Very common (10% or more): Flu syndrome, respiratory infectionCommon (1% to 10%): Bronchitis, dyspnea, epistaxis, increased cough, pharyngitis, pneumonia, rhinitis, sinusitis Uncommon (0.1% to 1%): Pleural effusion[Ref]
-Very common (10% or more): AstheniaCommon (1% to 10%): Back pain, chills, deafness, ear disorder, ear pain, face edema, fever, malaise, otitis media, tinnitus, vertigoFrequency not reported: Hypothermia, weakness[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Stavzor (valproic acid)." Noven Pharmaceuticals, Inc., New York, NY. 
-3. "Product Information. Depakene (valproic acid)." Abbott Pharmaceutical, Abbott Park, IL. 
-4. Asconape JJ, Penry JK, Dreifuss FE, Riela A, Mirza W "Valproate-associated pancreatitis." Epilepsia 34 (1993): 177-83
-5. Wilder BJ, Karas BJ, Penry JK, Asconape J "Gastrointestinal tolerance of divalproex sodium." Neurology 33 (1983): 808-11
-6. Caparros-Lefebvre D, Lecomte-Houcke M, Pruvot FR, Declerck N, Paris JC, Petit H "Unusual electronmicroscopic changes in valproate-associated liver failure." Lancet 341 (1993): 1604
-7. Binek J, Hany A, Heer M "Valproic-acid-induced pancreatitis: case report and review of the literature." J Clin Gastroenterol 13 (1991): 690-3
-8. Bruni J, Albright P "Valproic acid therapy for complex partial seizures." Arch Neurol 40 (1983): 135-7
-9. Marini AM, Zaret BS, Beckner RR "Hepatic and renal contributions to valproic acid-induced hyperammonemia." Neurology 38 (1988): 365-71
-10. Powell-Jackson PR, Tredger JM, Williams R "Hepatotoxicity to sodium valproate: a review." Gut 25 (1984): 673-81
-11. Palm R, Silseth C, Alvan G "Phenytoin intoxication as the first symptom of fatal liver damage induced by sodium valproate." Br J Clin Pharmacol 17 (1984): 597-9
-12. Kondo T, Kaneko S, Otani K, et al "Associations between risk factors for valproate hepatotoxicity and altered valproate metabolism." Epilepsia 33 (1992): 172-7
-13. Itoh S, Yamaba Y, Matsuo S, et al "Sodium valproate-induced liver injury." Am J Gastroenterol 77 (1982): 875-9
-14. Tennison MB, Miles MV, Pollack GM, et al "Valproate metabolites and hepatotoxicity in an epileptic population." Epilepsia 29 (1988): 543-7
-15. Anderson GD, Acheampong AA, Wilensky AJ, Levy RH "Effect of valproate dose on formation of hepatotoxic metabolites." Epilepsia 33 (1992): 736-42
-16. Bach N, Thung S, Schaffner F, Tobias H "Exaggerated cholestasis and hepatic fibrosis following simultaneous administration of chlorpromazine and sodium valproate." Dig Dis Sci 34 (1989): 1303-7
-17. Sasso E, Delsoldato S, Negrotti A, Mancia D "Reversible valproate-induced extrapyramidal disorders." Epilepsia 35 (1994): 391-3
-18. Jones GL, Matsuo F, Baringer JR, Reichert WH "Valproic acid-associated encephalopathy." West J Med 153 (1990): 199-202
-19. Raja M,  Azzoni A "Valproate-induced hyperammonaemia." J Clin Psychopharmacol 22 (2002): 631-3
-20. Triggs WJ, Bohan TP, Lin S-N, Wilmore J "Valproate-induced coma with ketosis and carnitine insufficiency." Arch Neurol 47 (1990): 1131-3
-21. Cysique LA,  Maruff P,  Brew BJ "Valproic acid is associated with cognitive decline in HIV-infected individuals: a clinical observational study." BMC Neurol 6 (2006): 42
-22. Kulick SK, Kramer DA "Hyperammonemia secondary to valproic acid as a cause of lethargy in a postictal patient." Ann Emerg Med 22 (1993): 610-2
-23. Karas BJ, Wilder BJ, Hammond EJ, Bauman AW "Valproate tremors." Neurology 32 (1982): 428-32
-24. Zaret BS, Backner RR, Marini AM, et al "Sodium valproate-induced hyperammonemia without clinical hepatic dysfunction." Neurology 32 (1982): 206-8
-25. Trehan R, Clark CF "Valproic acid-induced truncal weakness and respiratory failure." Am J Psychiatry 150 (1993): 1271
-26. Armon C, Brown E, Carwile S, et al "Sensorineural hearing loss: a reversible effect of valproic acid." Neurology 40 (1990): 1896-8
-27. Duarte J, Macias S, Coria F, Fernandez E, Claveria LE "Valproate-induced coma: case report and literature review." Ann Pharmacother 27 (1993): 582-3
-28. Lancman ME, Asconape JJ, Penry JK "Choreiform movements associated with the use of valproate." Arch Neurol 51 (1994): 702-4
-29. Gerstner T,  Lipinski C,  Longin E,  Konig S "Valproate-induced change in hair color." J Am Acad Dermatol 58(2 Suppl) (2008): S63-4
-30. Brenner S, Wolf R, Landau M, Politi Y "Psoriasiform eruption induced by anticonvulsants." Isr J Med Sci 30 (1994): 283-6
-31. Roujeau JC, Kelly JP, Naldi L, et al. "Medication use and the risk of Stevens-Johnson syndrome or toxic epidermal necrolysis." N Engl J Med 333 (1995): 1600-7
-32. Wilting I,  van Laarhoven JH,  de Koning-Verest IF,  Egberts AC "Valproic Acid-induced Hair-texture Changes in a White Woman." Epilepsia 48 (2007): 400-1
-33. Kamper AM, Valentijn RM, Stricker BH, Purcell PM "Cutaneous vasculitis induced by sodium valproate." Lancet 337 (1991): 497-8
-34. Gautam M "Alopecia due to psychotropic medications." Ann Pharmacother 33 (1999): 631-7
-35. Russo LS, Jr "Valproate-induced stomatitis." Neurology 31 (1981): 329-31
-36. Isojarvi JIT, Laatikainen TJ, Pakarinen AJ, Juntunen KTS, Myllyla VV "Polycystic ovaries and hyperandrogenism in women taking valproate for epilepsy." N Engl J Med 329 (1993): 1383-8
-37. Brichard B, Vermylen C, Scheiff JM, Ninane J, Cornu G "Haematological disturbances during long-term valproate therapy." Eur J Pediatr 153 (1994): 378-80
-38. Morris N, Barr Rd, Pai KR, Kelton JG "Valproic acid and thrombocytopenia." Can Med Assoc J 125 (1981): 63-4
-39. Nasreddine W,  Beydoun A "Valproate-induced thrombocytopenia: a prospective monotherapy study." Epilepsia 49 (2007): 438-45
-40. Smith FR, Boots M "Sodium valproate and bone marrow suppression." Ann Neurol 8 (1980): 197-9
-41. Kaya IS, Dilmen U, Toppare M, Senses DA, Prentice HG "Valproic-acid-induced pancytopenia and Coombs test positivity." Lancet 337 (1991): 1227
-42. Roepke S,  Treudler R,  Anghelescu I,  Orfanos CE,  Tebbe B "Valproic Acid and Hypersensitivity Syndrome." Am J Psychiatry 161 (2004): 579
-43. Sato Y,  Kondo I,  Ishida S, et al. "Decreased bone mass and increased bone turnover with valproate therapy in adults with epilepsy." Neurology 57 (2001): 445-9
-44. Lande MB, Kim MS, Bartlett C, Guay-Woodford LM "Reversible Fanconi syndrome associated with valproate therapy." J Pediatr 123 (1993): 320-2
-45. Kaufman J, Oshaughnessy IM "Eosinophilic pleural effusion associated with valproic acid administration." South Med J 88 (1995): 881-2
-46. Pavese N, Baracchini G, Bonuccelli U "Valproate-withdrawal induced migraine." Headache 34 (1994): 445
-Not all side effects for Depakene may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects at the start of therapy include nausea, vomiting, and indigestion; these effects are usually transient.  Sedative effects occur most often in patients receiving combination therapy.
+Very common (10% or more): Abdominal pain, diarrhea, dyspepsia, gingival disorder, nausea, vomitingCommon (1% to 10%): Constipation, dry mouth, eructation, fecal incontinence, flatulence, gastralgia, gastroenteritis, glossitis, periodontal abscess, hematemesis, stomatitisUncommon (0.1% to 1%): Pancreatitis (life-threatening)
+Severe nausea, emesis, and anorexia may be due to valproate-induced hyperammonemia or hepatitis.  Adverse gastrointestinal effects may be attenuated by administering doses with food, or through the use of delayed-release valproic acid.
+Common (1% to 10%): Increased liver enzymes (particularly early in treatment), liver injury, SGOT increased, SGPT increased Frequency not reported: Severe liver damage (including hepatic failure sometimes resulting in death), increased serum bilirubin, abnormal changes in other liver function tests
+Prompt withdrawal of valproic acid is recommended if significant hepatic dysfunction occurs.  Mild elevations in transaminases and amylase may be managed by dose reductions.Risk factors for valproic acid-associated hepatitis are young age (particularly age less than 2 years old), poor nutritional status, mental retardation, underlying metabolic disease, and concomitant use of other anticonvulsant medications.  Characteristic pathological features include microvesicular steatosis.
+Loss of seizure control may indicate associated hepatitis.  Rarely, encephalopathy with or without fever has developed shortly after the introduction of valproate monotherapy without evidence of hepatic dysfunction or inappropriately high plasma valproate levels.  There have been fatalities in patients with hyperammonemic encephalopathy, particularly in patients with underlying urea cycle disorders.Rare cases of lethargy occasionally progressing to stupor, sometimes with associated hallucinations or convulsions have been reported.  Encephalopathy and coma have very rarely been observed.  These cases have often been associated with too high a starting dose or too rapid a dose escalation or concomitant use of other anticonvulsants, e.g., phenobarbital or topiramate.  They have usually been reversible on withdrawal of treatment or reduction of dosage.
+Very common (10% or more): Dizziness, headache, somnolence, tremorCommon (1% to 10%): Abnormal gait, amnesia, catatonic reaction, convulsion, disturbance in attention, dysarthria, extrapyramidal disorder, hypertonia, hypokinesia, incoordination, increased reflexes, memory impairment, nystagmus, paresthesia, speech disorder, stupor, tardive dyskinesia, taste perversionUncommon (0.1% to 1%): Ataxia, coma, encephalopathy, lethargy, reversible parkinsonismRare (less than 0.1%): Cognitive disorder, reversible dementia associated with reversible cerebral atrophyFrequency not reported: Cerebral atrophy, dementia
+Common (1% to 10%): Edema, hypertension, hypotension, palpitations, postural hypotension, peripheral edema, tachycardia, vasodilationFrequency not reported: Bradycardia, cutaneous vasculitis, hematoma formation
+Valproic acid has been associated with stomatitis and cutaneous leukoclastic vasculitis.  A case of psoriasiform eruption has been reported in a patient receiving valproic acid (the active ingredient contained in Depakene) The mechanism of valproic acid induced alopecia is believed to be telogen shedding.  This is believed to appear within three months of the initiation of valproic acid therapy.  Alopecia does not appear to be dose related.  Limited data have reported that supplements with a zinc and selenium-containing vitamin may be useful in the prevention of valproic acid associated alopecia.  Hair regrowth normally begins within 6 months, although the hair may become curlier than previously.Serious skin reactions have been reported with concomitant administration of lamotrigine and valproate.
+Very common (10% or more): AlopeciaCommon (1% to 10%): Discoid lupus erythematosus, dry skin, ecchymosis, furunculosis, maculopapular rash, petechia, pruritus, rash, seborrheaUncommon (0.1% to 1%): Abnormal hair texture, abnormal hair growth, hair color changes, sweatingRare (0.01% to 0.1%): Drug rash with eosinophilia and systemic symptoms (DRESS) syndrome, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysisVery rare (less than 0.01%): Acne, hirsutismFrequency not reported: Angioedema, generalized pruritus, photosensitivity
+Uncommon (0.1% to 1%): Hyperandrogenism, syndrome of inappropriate ADH secretionRare (less than 0.1%): HypothyroidismFrequency not reported: Abnormal thyroid function tests, elevated serum testosterone concentrations, parotid gland swelling
+One study has suggested that 80% of women treated with valproic acid before the age of 20 have polycystic ovaries or hyperandrogenism.
+Common (1% to 10%): Amenorrhea, cystitis, dysmenorrhea, dysuria, enuresis, metrorrhagia, urinary incontinence, urinary frequency, vaginal hemorrhage, vaginitisVery rare (less than 0.01%): GynecomastiaFrequency not reported: Breast enlargement, galactorrhea, polycystic ovary disease
+Very common (10% or more): ThrombocytopeniaCommon (1% to 10%): Anemia, hemorrhageUncommon (0.1% to 1%): Leucopenia, pancytopeniaRare (less than 0.1%): Abnormal coagulation tests (e.g., prolonged prothrombin time, prolonged activated partial thromboplastin time, prolonged thrombin time, prolonged INR), agranulocytosis, bone marrow failure, decreased coagulation factors, including pure red cell aplasia, macrocytosisFrequency not reported: Aplastic anemia, bone marrow suppression, bruising, eosinophilia, frank hemorrhage, hypofibrinogenemia, anemia including macrocytic with or without folate deficiency, relative lymphocytosis
+Some clinicians recommend monitoring complete blood counts (including platelet counts) at baseline, then monthly for three months, and every three months thereafter.Data from a study of 265 patients strongly suggests a causal relationship between rising plasma valproic acid levels and reduced platelet counts, with additional risk factors including female gender and lower baseline platelet counts.Isolated findings of a reduction in blood fibrinogen and/or an increase in prothrombin time have been reported, particularly with high doses.  Spontaneous bruising or bleeding is an indication for withdrawal of medication pending investigations.
+Frequency not reported: Allergic reaction, anaphylaxis, hypersensitivity
+Common (1% to 10%): Injection site pain, injection site reactionUncommon (0.1% to 1%): Injection site inflammation
+Very common (10% or more): AnorexiaCommon (1% to 10%): Weight loss/gain, increased appetite, hyponatremiaRare (less than 0.1%): HyperammonemiaFrequency not reported: Acute intermittent porphyria, minor elevations of LDH (dose related), decreased carnitine concentrations, hyperglycinemia
+Cases of isolated and moderate hyperammonemia without change in liver function tests may occur, are usually transient and should not cause treatment discontinuation.  However, they may present clinically as vomiting, ataxia, and increasing clouding of consciousness.  Valproate should be discontinued if these symptoms occur.
+Common (1% to 10%): Arthralgia, arthrosis, leg cramps, myalgia, myasthenia, twitchingUncommon (0.1% to 1%): Decreased bone mineral density, osteopenia, osteoporosis and fractures on long term therapyRare (less than 0.1%): Rhabdomyolysis, systemic lupus erythematosus Frequency not reported: Bone pain
+Very common (10% or more): Amblyopia/blurred vision, diplopiaCommon (1% to 10%): Abnormal vision, conjunctivitis, diplopia, dry eyes, eye pain
+Rare (less than 0.1%): Myelodysplastic syndrome
+Aggression, agitation, disturbance in attention, abnormal behavior, psychomotor hyperactivity, and learning disorder has been primarily observed in the pediatric population.In offspring of women exposed to valproate during pregnancy there have been reports of developmental delay, autism and/or autism spectrum disorder.
+Very common (10% or more): NervousnessCommon (1% to 10%): Abnormal dreams, agitation, anxiety, aggression, confusion, depression, emotional lability, hallucinations, insomnia, personality disorder, thinking abnormalitiesRare (less than 0.1%): Abnormal behavior, learning disorder, psychomotor hyperactivityFrequency not reported: Behavioral deterioration, hostility, psychosis
+Valproate-induced Fanconi's syndrome has been reported more often in children than in adults.
+Rare (less than 0.1%): Reversible Fanconi's syndrome, tubulointerstitial nephritis
+Very common (10% or more): Flu syndrome, respiratory infectionCommon (1% to 10%): Bronchitis, dyspnea, epistaxis, increased cough, pharyngitis, pneumonia, rhinitis, sinusitis Uncommon (0.1% to 1%): Pleural effusion
+Very common (10% or more): AstheniaCommon (1% to 10%): Back pain, chills, deafness, ear disorder, ear pain, face edema, fever, malaise, otitis media, tinnitus, vertigoFrequency not reported: Hypothermia, weakness
 Black, tarry stools
 bleeding gums
 bloating or swelling of the face, arms, hands, lower legs, or feet
@@ -130,8 +72,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 unusual weight gain or loss
 vomiting
-
-
 Abnormal dreams
 absence of or decrease in body movement
 anxiety
@@ -201,14 +141,10 @@ uncontrolled movements of the arms and legs
 unsteadiness, trembling, or other problems with muscle control or coordination
 vomiting of blood or material that looks like coffee grounds
 yellow eyes or skin
-
-
 Change in consciousness
 fainting
 loss of consciousness
 slow or irregular heartbeat
-
-
 Acid or sour stomach
 belching
 body aches or pain
@@ -230,8 +166,6 @@ uncontrolled eye movements
 voice changes
 weight gain
 weight loss
-
-
 Absent, missed, or irregular menstrual periods
 back pain
 burning, dry, or itching eyes
@@ -267,4 +201,3 @@ sneezing
 stiff neck
 stopping of menstrual bleeding
 thick, white vaginal discharge with no odor or with a mild odor
-

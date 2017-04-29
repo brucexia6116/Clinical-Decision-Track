@@ -1,125 +1,27 @@
-Generic Name: indinavir
 Common side effects of Crixivan include: nephrolithiasis and urolithiasis.  See below for a comprehensive list of adverse effects.
-Applies to indinavir: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by indinavir (the active ingredient contained in Crixivan). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking indinavir:
-Some of the side effects that can occur with indinavir may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to indinavir: oral capsule, oral tablet
-Renal side effects have included nephrolithiasis/urolithiasis, characterized by renal colic and flank pain with or without hematuria, in 12.4% (ranging from 4.7% to 34.4% in individual studies) of patients receiving indinavir (the active ingredient contained in Crixivan) at the usual dose during clinical trials; 2.8% of these developed hydronephrosis and 4.5% underwent stent placements.  Increased creatinine greater than 3 times ULN occurred in 0.2% of patients receiving indinavir combined with zidovudine plus lamivudine.  Capillary necrosis and pyuria have also been reported.  Nephrolithiasis/urolithiasis (sometimes resulting in renal insufficiency or acute renal failure), interstitial nephritis (occasionally with indinavir crystal deposits), pyelonephritis (with or without bacteremia), renal insufficiency, and renal failure have been reported during postmarketing experience.[Ref]
-The incidence of nephrolithiasis/urolithiasis is increased with doses greater than 2.4 g/day.According to the manufacturer, indinavir was identified as a component of the kidney stones from 8 of 12 patients in whom nephrolithiasis developed.  It is not known whether an additional risk is incurred with the concomitant use of crystalluria-inducing medications such as sulfonamides.During postmarketing experience, the interstitial nephritis continued in some patients after stopping indinavir.[Ref]
-Hepatic side effects have included asymptomatic hyperbilirubinemia (total bilirubin greater than or equal to 2.5 mg/dL) in 14% of patients and frequency was increased at doses greater than 2.4 g/day.  Less than 1% of these patients had concomitant elevations in ALT or AST.  Elevated ALT greater than 5 times ULN (5%), AST greater than 5 times ULN (3.7%), total serum bilirubin greater than 2.5 times ULN (11.9%), and serum amylase greater than 2 times ULN (2.1%) have also been reported.  Hepatitis, hepatic failure, hepatic cytolysis, pancreatitis (including at least one case with lactic acidosis), jaundice, liver function abnormalities, increased serum triglycerides, and cirrhosis have been reported during postmarketing experience.[Ref]
-Gastrointestinal side effects have included nausea (12%), diarrhea (3.3%), vomiting (8.4%), acid regurgitation (3%), anorexia (3%), increased appetite (2.1%), dyspepsia (1.5%), jaundice (1.5%), and dry mouth/lips.  Nausea and vomiting may increase substantially (up to 32%) when combined with zidovudine and other nucleoside analog reverse transcriptase inhibitors.  Abdominal distention and dyspepsia have been reported during postmarketing experience.[Ref]
-Dermatologic side effects have included rash (1.2%), pruritus (4.2%), dry skin, and leukocytoclastic vasculitis.  Rash (including Stevens-Johnson syndrome and erythema multiforme), nail and skin hyperpigmentation, ingrown toenails and/or paronychia, pruritus, and alopecia have been reported during postmarketing experience.[Ref]
-Genitourinary side effects have included nephrolithiasis/urolithiasis (including renal colic and flank pain with and without hematuria; 8.7%), dysuria (1.5%), hematuria, nocturia, proteinuria, urinary frequency, and urinary tract infection.  Indinavir-induced neuropathy may result in erectile dysfunction.  Leukocyturia, crystalluria, and dysuria have been reported during postmarketing experience.[Ref]
-Cases of acute spontaneous bleeding in hemophiliacs may be associated with protease inhibitors in general.[Ref]
-Hematologic side effects have included decreased hemoglobin (0.6%), anemia, (0.6%), decreased platelets (0.9%), decreased neutrophils (2.4%), and increased platelets.  Lymphadenopathy, spleen disorder, and hemolytic anemia have also been reported but rarely.  Increased spontaneous bleeding in hemophiliacs and acute hemolytic anemia have been reported during postmarketing experience.[Ref]
-In a 1997 postmarketing report, the average time to onset of protease inhibitor (PI)-related hyperglycemic event was 76 days.  However, some cases occurred as early as 4 days after the initiation of therapy.  The disorder was serious in 32 out of 83 cases, which included 27 hospitalizations and 5 incidents of diabetic ketoacidosis.The underlying mechanism for the development of PI-related hyperglycemia has not been identified.  It has been proposed that since PIs are peptidomimetic inhibitors, they may inhibit the conversion of proinsulin to insulin via the calcium-dependent endopeptidases.  Peripheral insulin resistance may be involved, since impaired glucose tolerance has been reported in PI-treated subjects in one study.  Patients receiving PI therapy should have blood glucose levels measured periodically.[Ref]
-Metabolic side effects have included increased blood glucose (0.9%) and insulin resistance.  Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving protease inhibitors, including indinavir; however, a causal relationship has not been established.  New-onset diabetes mellitus, hyperglycemia, exacerbation of existing diabetes, and increased serum cholesterol have been reported during postmarketing experience.[Ref]
-Indinavir deposition in synovial fluid may have resulted in monoarthritis in a patient.  Intraarticular indinavir (the active ingredient contained in Crixivan) levels of 1.36 mcg/mL were measured in the patient's knee joint.[Ref]
-Musculoskeletal side effects have included back pain (8.4%), acute monoarthritis, enthesopathies, adhesive capsulitis, myalgia, muscle cramps, muscle weakness, stiffness, and muscle pain.  Arthralgia has been reported during postmarketing experience.[Ref]
-Nervous system side effects have included headache (5.4%), dizziness (3%), and somnolence (2.4%).  Agitation, bruxism, dream abnormality, dysesthesia, fasciculation, hypesthesia, neuralgia, peripheral neuropathy, tremor, vertigo, epidural lipomatosis, sensory loss, syncope, and peripheral paresthesia have also been reported.  Oral paresthesia has been reported during postmarketing experience.[Ref]
-Respiratory side effects have included cough (1.5%), dyspnea, halitosis, pharyngitis, rales/rhonchi, respiratory distress, and upper respiratory infections.[Ref]
+Renal side effects have included nephrolithiasis/urolithiasis, characterized by renal colic and flank pain with or without hematuria, in 12.4% (ranging from 4.7% to 34.4% in individual studies) of patients receiving indinavir (the active ingredient contained in Crixivan) at the usual dose during clinical trials; 2.8% of these developed hydronephrosis and 4.5% underwent stent placements.  Increased creatinine greater than 3 times ULN occurred in 0.2% of patients receiving indinavir combined with zidovudine plus lamivudine.  Capillary necrosis and pyuria have also been reported.  Nephrolithiasis/urolithiasis (sometimes resulting in renal insufficiency or acute renal failure), interstitial nephritis (occasionally with indinavir crystal deposits), pyelonephritis (with or without bacteremia), renal insufficiency, and renal failure have been reported during postmarketing experience.
+The incidence of nephrolithiasis/urolithiasis is increased with doses greater than 2.4 g/day.According to the manufacturer, indinavir was identified as a component of the kidney stones from 8 of 12 patients in whom nephrolithiasis developed.  It is not known whether an additional risk is incurred with the concomitant use of crystalluria-inducing medications such as sulfonamides.During postmarketing experience, the interstitial nephritis continued in some patients after stopping indinavir.
+Hepatic side effects have included asymptomatic hyperbilirubinemia (total bilirubin greater than or equal to 2.5 mg/dL) in 14% of patients and frequency was increased at doses greater than 2.4 g/day.  Less than 1% of these patients had concomitant elevations in ALT or AST.  Elevated ALT greater than 5 times ULN (5%), AST greater than 5 times ULN (3.7%), total serum bilirubin greater than 2.5 times ULN (11.9%), and serum amylase greater than 2 times ULN (2.1%) have also been reported.  Hepatitis, hepatic failure, hepatic cytolysis, pancreatitis (including at least one case with lactic acidosis), jaundice, liver function abnormalities, increased serum triglycerides, and cirrhosis have been reported during postmarketing experience.
+Gastrointestinal side effects have included nausea (12%), diarrhea (3.3%), vomiting (8.4%), acid regurgitation (3%), anorexia (3%), increased appetite (2.1%), dyspepsia (1.5%), jaundice (1.5%), and dry mouth/lips.  Nausea and vomiting may increase substantially (up to 32%) when combined with zidovudine and other nucleoside analog reverse transcriptase inhibitors.  Abdominal distention and dyspepsia have been reported during postmarketing experience.
+Dermatologic side effects have included rash (1.2%), pruritus (4.2%), dry skin, and leukocytoclastic vasculitis.  Rash (including Stevens-Johnson syndrome and erythema multiforme), nail and skin hyperpigmentation, ingrown toenails and/or paronychia, pruritus, and alopecia have been reported during postmarketing experience.
+Genitourinary side effects have included nephrolithiasis/urolithiasis (including renal colic and flank pain with and without hematuria; 8.7%), dysuria (1.5%), hematuria, nocturia, proteinuria, urinary frequency, and urinary tract infection.  Indinavir-induced neuropathy may result in erectile dysfunction.  Leukocyturia, crystalluria, and dysuria have been reported during postmarketing experience.
+Cases of acute spontaneous bleeding in hemophiliacs may be associated with protease inhibitors in general.
+Hematologic side effects have included decreased hemoglobin (0.6%), anemia, (0.6%), decreased platelets (0.9%), decreased neutrophils (2.4%), and increased platelets.  Lymphadenopathy, spleen disorder, and hemolytic anemia have also been reported but rarely.  Increased spontaneous bleeding in hemophiliacs and acute hemolytic anemia have been reported during postmarketing experience.
+In a 1997 postmarketing report, the average time to onset of protease inhibitor (PI)-related hyperglycemic event was 76 days.  However, some cases occurred as early as 4 days after the initiation of therapy.  The disorder was serious in 32 out of 83 cases, which included 27 hospitalizations and 5 incidents of diabetic ketoacidosis.The underlying mechanism for the development of PI-related hyperglycemia has not been identified.  It has been proposed that since PIs are peptidomimetic inhibitors, they may inhibit the conversion of proinsulin to insulin via the calcium-dependent endopeptidases.  Peripheral insulin resistance may be involved, since impaired glucose tolerance has been reported in PI-treated subjects in one study.  Patients receiving PI therapy should have blood glucose levels measured periodically.
+Metabolic side effects have included increased blood glucose (0.9%) and insulin resistance.  Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving protease inhibitors, including indinavir; however, a causal relationship has not been established.  New-onset diabetes mellitus, hyperglycemia, exacerbation of existing diabetes, and increased serum cholesterol have been reported during postmarketing experience.
+Indinavir deposition in synovial fluid may have resulted in monoarthritis in a patient.  Intraarticular indinavir (the active ingredient contained in Crixivan) levels of 1.36 mcg/mL were measured in the patient's knee joint.
+Musculoskeletal side effects have included back pain (8.4%), acute monoarthritis, enthesopathies, adhesive capsulitis, myalgia, muscle cramps, muscle weakness, stiffness, and muscle pain.  Arthralgia has been reported during postmarketing experience.
+Nervous system side effects have included headache (5.4%), dizziness (3%), and somnolence (2.4%).  Agitation, bruxism, dream abnormality, dysesthesia, fasciculation, hypesthesia, neuralgia, peripheral neuropathy, tremor, vertigo, epidural lipomatosis, sensory loss, syncope, and peripheral paresthesia have also been reported.  Oral paresthesia has been reported during postmarketing experience.
+Respiratory side effects have included cough (1.5%), dyspnea, halitosis, pharyngitis, rales/rhonchi, respiratory distress, and upper respiratory infections.
 Immunologic side effects have included immune reconstitution syndrome.  Autoimmune disorders (e.g., Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
-Cardiovascular side effects have included myocardial infarction, angina pectoris, hypertension, and cerebrovascular disorder during postmarketing experience.[Ref]
-Hypersensitivity side effects have included anaphylactoid reactions, urticaria, and vasculitis during postmarketing experience.[Ref]
-Psychiatric side effects have included anxiety and neurosis.  Depression has been reported during postmarketing experience.[Ref]
-Other side effects have included abdominal pain (17%), taste perversion (2.7%), asthenia/fatigue (2.1%), fever (1.5%), and malaise (2.1%).  Angiolipomatosis has been reported during postmarketing experience.[Ref]
-Ocular side effects have included blurred vision, eye pain, eye swelling, and orbital edema.[Ref]
-Endocrine side effects have included galactorrhea and hyperprolactinemia.[Ref]
-1. Nuesch R,  Srasuebkul P,  Ananworanich J,  Ruxrungtham K,  Phanuphak P,  Duncombe C "Monitoring the toxicity of antiretroviral therapy in resource limited settings: a prospective clinical trial cohort in Thailand." J Antimicrob Chemother 58 (2006): 637-44
-2. Dieleman JP, vanderFeltz M, Bangma CH, Stricker BHC, vanderEnde ME "Papillary necrosis associated with the HIV protease inhibitor indinavir." Infection 29 (2001): 232-3
-3. Warnke D,  Barreto J,  Temesgen Z "Antiretroviral drugs." J Clin Pharmacol 47 (2007): 1570-9
-4. Famularo G, Di Toro S, Moretti S, De Simone C "Symptomatic crystalluria associated with indinavir." Ann Pharmacother 34 (2000): 1414-8
-5. "Drugs for HIV infection." Med Lett Drugs Ther 43 (2001): 103-8
-6. Anderson PL "Pharmacologic perspectives for once-daily antiretroviral therapy." Ann Pharmacother 38 (2004): 1969-70
-7. Piacenti FJ "An update and review of antiretroviral therapy." Pharmacotherapy 26 (2006): 1111-33
-8. Perazella MA "Drug-induced renal failure: update on new medications and unique mechanisms of nephrotoxicity." Am J Med Sci 325 (2003): 349-62
-9. HHS Panel on Antiretroviral Guidelines for Adults
-and Adolescents – A Working Group of the Office of AIDS Research
-Advisory Council (OARAC). NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Available from: URL: http://aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf."   ([2011 Oct 14]):
-10. Ghosn J,  Lamotte C,  Ait-Mohand H, et al. "Efficacy of a twice-daily antiretroviral regimen containing 100 mg ritonavir/400 mg indinavir in HIV-infected patients." AIDS 17 (2003): 209-14
-11. Rhame FS,  Rawlins SL,  Petruschke RA, et al. "Pharmacokinetics of indinavir and ritonavir administered at 667 and 100 milligrams, respectively, every 12 hours compared with indinavir administered at 800 milligrams every 8 hours in human immunodeficiency virus-infected patients." Antimicrob Agents Chemother 48 (2004): 4200-8
-12. Barbour TD,  Furlong TJ,  Finlayson RJ "Efavirenz-associated podocyte damage." AIDS 21 (2007): 257-258
-13. Csajka C,  Marzolini C,  Fattinger K, et al. "Population pharmacokinetics of indinavir in patients infected with human immunodeficiency virus." Antimicrob Agents Chemother 48 (2004): 3226-32
-14. Izzedine H,  Launay-Vacher V,  Deray G "Antiviral drug-induced nephrotoxicity." Am J Kidney Dis 45 (2005): 804-17
-15. Roling J,  Schmid H,  Fischereder M,  Draenert R,  Goebel FD "HIV-Associated Renal Diseases and Highly Active Antiretroviral Therapy-Induced Nephropathy." Clin Infect Dis 42 (2006): 1488-95
-16. Gagnon RF,  Alli AI,  Edwardes MD,  Watters AK,  Tsoukas CM "Low urine pH is associated with reduced indinavir crystalluria in indinavir-treated HIV-infected individuals." Clin Nephrol 65 (2006): 13-21
-17. Collin F,  Chene G,  Retout S, et al. "Indinavir Trough Concentration as a Determinant of Early Nephrolithiasis in HIV-1-Infected Adults." Ther Drug Monit 29 (2007): 164-170
-18. Boyd MA,  Siangphoe U,  Ruxrungtham K, et al. "The use of pharmacokinetically guided indinavir dose reductions in the management of indinavir-associated renal toxicity." J Antimicrob Chemother 57 (2006): 1161-7
-19. Szczech LA "Hypertension and medication-related renal dysfunction in the HIV-infected patient." Semin Nephrol 21 (2001): 386-93
-20. Pacanowski J,  Poirier JM,  Petit I,  Meynard JL,  Girard PM "Atazanavir urinary stones in an HIV-infected patient." AIDS 20 (2006): 2131
-21. Glesby MJ,  Aberg JA,  Kendall MA, et al. "Pharmacokinetic interactions between indinavir plus ritonavir and calcium channel blockers." Clin Pharmacol Ther 78 (2005): 143-153
-22. Wasmuth JC,  Lambertz I,  Voigt E, et al. "Maintenance of indinavir by dose adjustment in HIV-1-infected patients with indinavir-related toxicity." Eur J Clin Pharmacol 63 (2007): 901-8
-23. Sarcletti M, Petter A, Romani N, Lhotta K, K&ouml,nig P, Maier H, Zangerle R "Pyuria in patients treated with indinavir is associated with renal dysfunction." Clin Nephrol 54 (2000): 261-70
-24. Unadkat JD,  Wara DW,  Hughes MD, et al. "Pharmacokinetics and safety of indinavir in human immunodeficiency virus-infected pregnant women." Antimicrob Agents Chemother 51 (2007): 783-6
-25. "Drugs for HIV infection." Treat Guidel Med Lett 7 (2009): 11-22
-26. Panel on Antiretroviral Therapy and Medical Management of HIV-Infected Children. NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in pediatric HIV infection. Available from: URL: http://aidsinfo.nih.gov/guidelines/html/2/pediatric-treatment-guidelines/0"   ([2012 Nov 5]):
-27. Carr A "HIV protease inhibitor-related lipodystrophy syndrome." Clin Infect Dis 30 (2000): s135-42
-28. Grases F,  Garcia-Gonzalez R,  Redondo E, et al. "Effects of escin on indinavir crystallization time in the urine of patients with HIV-I infection: a multicenter, randomized, open-label, controlled, four-period crossover trial." Clin Ther 26 (2004): 2045-55
-29. Boubaker K, Sudre P, Bally F, Vogel G, Meuwly JY, Glauser MP, Telenti A "Changes in renal function associated with indinavir." AIDS 12 (1998): f249-54
-30. "Product Information. Crixivan (indinavir)." Merck & Co, Inc, West Point, PA. 
-31. Salahuddin S,  Kok DJ,  Buchholz NN "Influence of body temperature on indinavir crystallization under loop of Henle conditions." J Antimicrob Chemother 59 (2006): 114-7
-32. Gagnon RF,  Alli AI,  Watters AK,  Tsoukas CM "Indinavir crystalluria." Kidney Int 70 (2006): 2047
-33. Salahuddin S, Hsu YS, Buchholz NP, Dieleman JP, Gyssens IC, Kok DJ "Is indinavir crystalluria an indicator for indinavir stone formation?." Aids 15 (2001): 1079-80
-34. Tashima KT, Horowitz JD, Rosen S "Indinavir nephropathy." N Engl J Med 336 (1997): 138-40
-35. Goujard C,  Legrand M,  Panhard X, et al. "High Variability of Indinavir and Nelfinavir Pharmacokinetics in HIV-Infected Patients with a Sustained Virological Response on Highly Active Antiretroviral Therapy." Clin Pharmacokinet 44 (2005): 1267-78
-36. Ter Hofstede HJ,  Koopmans PP,  Burger DM "Stavudine plasma concentrations and lipoatrophy." J Antimicrob Chemother 61 (2008): 933-8
-37. Soriano V,  Puoti M,  Sulkowski M, et al. "Care of patients coinfected with HIV and hepatitis C virus: 2007 updated recommendations from the HCV-HIV International Panel." AIDS 21 (2007): 1073-89
-38. Struble K, Piscitelli SC "Syndromes of abnormal fat redistribution and metabolic complications in HIV-infected patients." Am J Health Syst Pharm 56 (1999): 2343-8
-39. Tozzi V "Pharmacogenetics of antiretrovirals." Antiviral Res 85 (2010): 190-200
-40. Qaqish RB, Fisher E, Rublein J, Wohl DA "HIV-associated lipodystrophy syndrome." Pharmacotherapy 20 (2000): 13-22
-41. Puro V,  Soldani F,  De Carli G,  Lazarevic Z,  Mattioli F,  Ippolito G "Drug-induced aminotransferase alterations during antiretroviral HIV post-exposure prophylaxis." AIDS 17 (2003): 1988-90
-42. Henry K,  Kitch D,  Dube M, et al. "C-Reactive protein levels over time and cardiovascular risk in HIV-infected individuals suppressed on an indinavir-based regimen: AIDS Clinical Trials Group 5056s." AIDS 18 (2004): 2434-2437
-43. Rotger M,  Taffe P,  Bleiber G, et al. "Gilbert syndrome and the development of antiretroviral therapy-associated hyperbilirubinemia." J Infect Dis 192 (2005): 1381-6
-44. Mills E,  Wilson K,  Clarke M, et al. "Milk thistle and indinavir: a randomized controlled pharmacokinetics study and meta-analysis." Eur J Clin Pharmacol 61 (2005): 1-7
-45. Isaac A,  Taylor S,  Cane P, et al. "Lopinavir/ritonavir combined with twice-daily 400 mg indinavir: pharmacokinetics and pharmacodynamics in blood, CSF and semen." J Antimicrob Chemother 54 (2004): 498-502
-46. Kang-Birken SL, Prichard JG "Paronychia of the great toes associated with protease inhibitors." Am J Health Syst Pharm 56 (1999): 1674-5
-47. Gajewski LK, Grimone AJ, Melbourne KM, Vanscoy GJ "Characterization of rash with indinavir in a national patient cohort." Ann Pharmacother 33 (1999): 17-21
-48. Fung HB, Pecini RA, Brown ST, Gropper CA "Indinavir-associated maculopapular eruption." Pharmacotherapy 19 (1999): 1328-30
-49. d'Arminio Monforte A, Testa L, Gianotto M, Gori A, Franzetti F, Sollima S, Bini T, Moroni M "Indinavir-related alopecia." AIDS 12 (1998): 328
-50. Lee D,  Benson CA,  Lewis CE,  Grunfeld C,  Scherzer R "Prevalence and factors associated with dry skin in HIV infection: the FRAM study." AIDS 21 (2007): 2051-2057
-51. Ginarte M,  Losada E,  Prieto A,  Lorenzo-Zuniga V,  Toribio J "Generalized hair loss induced by indinavir plus ritonavir therapy." AIDS 16 (2002): 1695-6
-52. Bouscarat F, Bouchard C, Bouhour D "Paronychia and pyogenic granuloma of the great toes in patients treated with indinavir." N Engl J Med 338 (1998): 1776-7
-53. Rachline A, Lariven S, Descamps V, Grossin M, Bouvet E "Leucocytoclastic vasculitis and indinavir." Br J Dermatol 143 (2000): 1112-3
-54. Colson AE, Sax PE, Keller MJ, Turk BK, Pettus PT, Platt R, Choo PW "Paronychia in association with indinavir treatment." Clin Infect Dis 32 (2001): 140-3
-55. Domingo P,  Barcelo M "Efavirenz-induced leukocytoclastic vasculitis." Arch Intern Med 162 (2002): 355-6
-56. Terheggen F,  Frissen J,  Weigel H,  Schouten I,  Brinkman K "Nail, hair and skin hyperpigmentation associated with indinavir therapy." AIDS 18 (2004): 1612
-57. Kopp JB, Miller KD, Mican JA, et al. "Crystalluria and urinary tract abnormalities associated with indinavir." Ann Intern Med 127 (1997): 119-25
-58. Sollima S,  Osio M,  Muscia F, et al. "Protease inhibitors and erectile dysfunction." AIDS 15 (2001): 2331-3
-59. Schrooten W,  Colebunders R,  Youle M, et al. "Sexual dysfunction associated with protease inhibitor containing highly active antiretroviral treatment." AIDS 15 (2001): 1019-23
-60. Gentle DL, Stoller ML, Jarrett TW, Ward JF, Geib KS, Wood AF "Protease inhibitor-induced urolithiasis." Urology 50 (1997): 508-11
-61. Maness LJ, Blair DC, Newman N, Coyle TE "Elevation of platelet counts associated with indinavir treatment in human immunodeficiency virus-infected patients." Clin Infect Dis 26 (1998): 207-8
-62. Tozzi V, Narcisco P, Sebastiani G, Frigiotti D, DAmato C "Effects of indinavir treatment on platelet and neutrophil counts in patients with advanced HIV disease." AIDS 11 (1997): 1067-8
-63. MorrisonGriffiths S, Newman M, OMahony C, Pirmohamed M "Adverse drug reaction of the month - Haemolytic anaemia associated with indinavir." Postgrad Med J 75 (1999): 313-5
-64. Shankar SS,  Dube MP,  Gorski JC,  Klaunig JE,  Steinberg HO "Indinavir impairs endothelial function in healthy HIV-negative men." Am Heart J 150 (2005): 933
-65. Brambilla AM,  Novati R,  Calori G, et al. "Stavudine or indinavir-containing regimens are associated with an increased risk of diabetes mellitus in HIV-infected individuals." AIDS 17 (2003): 1993-5
-66. Dube MP "Disorders of glucose metabolism in patients infected with human immunodeficiency virus." Clin Infect Dis 31 (2000): 1467-75
-67. Pujol RM, Domingo P, XavierMatiasGuiu, Francia E, Sanbeat MA, Alomar A, Vazquez G "HIV-1 protease inhibitor-associated partial lipodystrophy: Clinicopathologic review of 14 cases." J Am Acad Dermatol 42 (2000): 193-8
-68. Bergersen BM "Cardiovascular Risk in Patients with HIV Infection : Impact of Antiretroviral Therapy." Drugs 66 (2006): 1971-87
-69. Fantoni M,  Del Borgo C,  Autore C "Evaluation and management of metabolic and coagulative disorders in HIV-infected patients receiving highly active antiretroviral therapy." AIDS 17 Suppl 1 (2003): S162-9
-70. Noor MA, Lo JC, Mulligan K, Schwarz JM, Halvorsen RA, Schambelan M, Grunfeld C "Metabolic effects of indinavir in healthy HIV-seronegative men." Aids 15 (2001): f11-8
-71. Brooks JI, Gallicano K, Garber G, Angel JB "Acute monoarthritis complicating therapy with indinavir." Aids 14 (2000): 2064-5
-72. Grasland A, Ziza JM, Raguin G, Pouchot J, Vinceneux P "Adhesive capsulitis of shoulder and treatment with protease inhibitors in patients with human immunodeficiency virus infection: Report of 8 cases." J Rheumatol 27 (2000): 2642-6
-73. Cersosimo MG,  Lasala B,  Folgar S,  Micheli F "Epidural Lipomatosis Secondary to Indinavir in an HIV-Positive Patient." Clin Neuropharmacol 25 (2002): 51-4
-74. Flynn TE, Bricker LA "Myocardial infarction in HIV-infected men receiving protease inhibitors." Ann Intern Med 131 (1999): 548
-75. Cattelan AM, Trevenzoli M, Sasset L, Rinaldi L, Balasso V, Cadrobbi P "Indinavir and systemic hypertension." Aids 15 (2001): 805-7
-76. Worm SW,  Sabin C,  Weber R, et al. "Risk of myocardial infarction in patients with HIV infection exposed to specific individual antiretroviral drugs from the 3 major drug classes: The Data Collection on Adverse Events of Anti-HIV Drugs (D:A:D) Study." J Infect Dis 201 (2009): 318-30
-77. Karmochkine M, Raguin G "Severe coronary artery disease in a young HIV-infected man with no cardiovascular risk factor who was treated with indinavir." AIDS 12 (1998): 2499
-78. Manfredi R, Calza L, Chiodo F "Gynecomastia associated with highly antiretroviral therapy." Ann Pharmacother 35 (2001): 438-9
-79. Rodwell GEJ, Maurer TA, Barger TG "Fat redistribution in HIV disease." J Am Acad Dermatol 42 (2000): 727-30
-80. Martinez E, Mocroft A, GarciaViejo MA, PerezCuevas JB, Blanco JL, Mallolas J, Bianchi L, Conget I, Blanch J, Phillips A, Gatell "Risk of lipodystrophy in HIV-1-infected patients treated with protease inhibitors: a prospective cohort study." Lancet 357 (2001): 592-8
-81. Lichtenstein KA,  Ward DJ,  Moorman AC, et al. "Clinical assessment of HIV-associated lipodystrophy in an ambulatory population." AIDS 15 (2001): 1389-98
-82. Lui A, Karter D, Turett G "Another case of breast hypertrophy in a patient treated with indinavir." Clin Infect Dis 26 (1998): 1482
-83. Herry I, Bernard L, de Truchis P, Perronne C "Hypertrophy of the breasts in a patient treated with indinavir." Clin Infect Dis 25 (1997): 937-8
-84. Hutchinson A, Murphy M, Harries R, Skinner CJ "Galactorrhoea and hyperprolactinaemia associated with protease-inhibitors." Lancet 356 (2000): 1003-4
-Not all side effects for Crixivan may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects have included myocardial infarction, angina pectoris, hypertension, and cerebrovascular disorder during postmarketing experience.
+Hypersensitivity side effects have included anaphylactoid reactions, urticaria, and vasculitis during postmarketing experience.
+Psychiatric side effects have included anxiety and neurosis.  Depression has been reported during postmarketing experience.
+Other side effects have included abdominal pain (17%), taste perversion (2.7%), asthenia/fatigue (2.1%), fever (1.5%), and malaise (2.1%).  Angiolipomatosis has been reported during postmarketing experience.
+Ocular side effects have included blurred vision, eye pain, eye swelling, and orbital edema.
+Endocrine side effects have included galactorrhea and hyperprolactinemia.
 Blood in the urine
 sharp back pain just below the ribs
-
-
 Abdominal or stomach pain
 chills
 clay-colored stools
@@ -135,8 +37,6 @@ unpleasant breath odor
 unusual tiredness or weakness
 vomiting of blood
 yellow eyes or skin
-
-
 Confusion
 dehydration
 dry or itchy skin
@@ -150,14 +50,10 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting
 weight loss
-
-
 Change in sense of taste
 diarrhea
 difficulty with sleeping
 generalized weakness
-
-
 Acid or sour stomach
 acid regurgitation
 belching
@@ -167,4 +63,3 @@ heartburn
 increase in appetite
 indigestion
 sleepiness
-

@@ -1,21 +1,12 @@
-Generic Name: chlorzoxazone
-Applies to chlorzoxazone: oral capsule, oral tablet
 As well as its needed effects, chlorzoxazone (the active ingredient contained in Parafon Forte DSC) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking chlorzoxazone, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking chlorzoxazone, get emergency help immediately:
-
 Some chlorzoxazone side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to chlorzoxazone: compounding powder, oral tablet
-Gastrointestinal side effects of chlorzoxazone (the active ingredient contained in Parafon Forte DSC) have rarely included gastrointestinal bleeding.[Ref]
-Nervous system side effects have included drowsiness, dizziness, light-headedness, malaise, and overstimulation.[Ref]
-Hypersensitivity side effects have rarely included skin rashes, petechiae, angioneurotic edema, anaphylactic reactions, and ecchymoses.[Ref]
-Renal side effects attributed to a phenolic metabolite have rarely included urine discoloration.[Ref]
-1. "Product Information. Parafon Forte (chlorzoxazone)." Ortho McNeol Pharmceutical, Raritan, NJ. 
+Gastrointestinal side effects of chlorzoxazone (the active ingredient contained in Parafon Forte DSC) have rarely included gastrointestinal bleeding.
+Nervous system side effects have included drowsiness, dizziness, light-headedness, malaise, and overstimulation.
+Hypersensitivity side effects have rarely included skin rashes, petechiae, angioneurotic edema, anaphylactic reactions, and ecchymoses.
+Renal side effects attributed to a phenolic metabolite have rarely included urine discoloration.
 It is possible that some side effects of Parafon Forte DSC may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bloody or black, tarry stools
 clay-colored stools
 constipation
@@ -42,8 +33,6 @@ unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 wheezing
 yellow eyes or skin
-
-
 Diarrhea
 difficult or troubled breathing
 drowsiness
@@ -55,9 +44,6 @@ nausea
 pale or blue lips, fingernails, or skin
 sluggishness
 vomiting
-
-
 Bruising
 large, flat, blue, or purplish patches in the skin
 small red or purple spots on the skin
-

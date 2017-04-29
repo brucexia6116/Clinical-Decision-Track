@@ -1,30 +1,17 @@
-Generic Name: beclomethasone
-Applies to beclomethasone: inhalation aerosol liquid, inhalation aerosol powder, inhalation capsule, inhalation spray
-In addition to its needed effects, some unwanted effects may be caused by beclomethasone (the active ingredient contained in Beclovent). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking beclomethasone:
-Some of the side effects that can occur with beclomethasone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to beclomethasone: compounding powder, inhalation aerosol, inhalation aerosol with adapter
-The most commonly reported adverse reactions have included headache, pharyngitis, rhinitis, inhalation site and taste sensation.[Ref]
-Oral therapy: Following 4 weeks of oral therapy for ulcerative colitis, a reduction of plasma cortisol levels has been observed in up to 25% of patients; HPA-axis function recovery is expected to be transient, however follow up data is lacking.[Ref]
-Common (1% to 10%): DysmenorrheaUncommon (0.1% to 1%): MenorrhagiaVery rare (less than 0.01%): Adrenal suppression, Cushing syndrome, cushingoid features[Ref]
-Very common (10% or more): Pharyngitis (up to 27%)Common (1% to 10%): Rhinitis, hoarseness, throat irritation, upper respiratory tract infection, dysphoniaUncommon (0.1% to 1%): Bronchitis, coughing, epistaxisRare (0.01% to 0.1%): Acute asthma episode, hemoptysis, respiratory disorder, sinusitisVery rare (less than 0.01%): Paradoxical bronchospasm with wheezingFrequency not reported: Eosinophilic pneumonia[Ref]
-Common (1% to 10%): Oral candidiasis of mouth and throat Uncommon (0.1% to 1%): Abdominal pain, constipationRare (0.01% to 0.1%): Dyspepsia, unspecified gastrointestinal disorders, nausea, tongue discoloration, toothache[Ref]
-Uncommon (0.1% to 1%): Hypersensitivity reactions including rashes, urticaria, pruritus, erythemaVery rare (less than 0.01%): Hypersensitivity reactions including edema of the eyes, face, lips, and throat (angioedema), anaphylaxis and anaphylactoid reactions[Ref]
-Frequency not reported: Glaucoma, cataracts[Ref]
-Uncommon (0.1% to 1%): AnxietyRare (0.01% to 0.1%): Depression, insomnia, sleep disorders, hyperactivity, aggression, irritability (mostly in children)Postmarketing reports: Suicidal ideation[Ref]
-Very common (10% or more): Headache (up to 25%)Uncommon (0.1% to 1%): Dizziness, dysphonia, migraine Rare (0.01% to 0.1%): Neuropathy, tremor, vertigo[Ref]
-Uncommon (0.1% to 1%): Rash, purpuraRare (0.01% to 0.1%): Photosensitivity reaction, skin disorder, urticariaFrequency not reported: Easy bruising, skin thinning[Ref]
-Uncommon (0.1% to 1%): Myalgia, muscle cramps, back painVery rare (less than 0.01%): Growth retardation, decrease in bone mineral density[Ref]
-Uncommon (0.1% to 1%): Chest pain, edemaRare (0.01% to 0.1%): Hypertension, palpitations, angina pectoris[Ref]
-Common (1% to 10%): Inhalation site sensation and taste sensation[Ref]
-Uncommon (0.1% to 1%): Increased weight[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Qvar (beclomethasone)." Teva Pharmaceuticals USA, North Wales, PA. 
-Not all side effects for Beclovent may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported adverse reactions have included headache, pharyngitis, rhinitis, inhalation site and taste sensation.
+Oral therapy: Following 4 weeks of oral therapy for ulcerative colitis, a reduction of plasma cortisol levels has been observed in up to 25% of patients; HPA-axis function recovery is expected to be transient, however follow up data is lacking.
+Common (1% to 10%): DysmenorrheaUncommon (0.1% to 1%): MenorrhagiaVery rare (less than 0.01%): Adrenal suppression, Cushing syndrome, cushingoid features
+Very common (10% or more): Pharyngitis (up to 27%)Common (1% to 10%): Rhinitis, hoarseness, throat irritation, upper respiratory tract infection, dysphoniaUncommon (0.1% to 1%): Bronchitis, coughing, epistaxisRare (0.01% to 0.1%): Acute asthma episode, hemoptysis, respiratory disorder, sinusitisVery rare (less than 0.01%): Paradoxical bronchospasm with wheezingFrequency not reported: Eosinophilic pneumonia
+Common (1% to 10%): Oral candidiasis of mouth and throat Uncommon (0.1% to 1%): Abdominal pain, constipationRare (0.01% to 0.1%): Dyspepsia, unspecified gastrointestinal disorders, nausea, tongue discoloration, toothache
+Uncommon (0.1% to 1%): Hypersensitivity reactions including rashes, urticaria, pruritus, erythemaVery rare (less than 0.01%): Hypersensitivity reactions including edema of the eyes, face, lips, and throat (angioedema), anaphylaxis and anaphylactoid reactions
+Frequency not reported: Glaucoma, cataracts
+Uncommon (0.1% to 1%): AnxietyRare (0.01% to 0.1%): Depression, insomnia, sleep disorders, hyperactivity, aggression, irritability (mostly in children)Postmarketing reports: Suicidal ideation
+Very common (10% or more): Headache (up to 25%)Uncommon (0.1% to 1%): Dizziness, dysphonia, migraine Rare (0.01% to 0.1%): Neuropathy, tremor, vertigo
+Uncommon (0.1% to 1%): Rash, purpuraRare (0.01% to 0.1%): Photosensitivity reaction, skin disorder, urticariaFrequency not reported: Easy bruising, skin thinning
+Uncommon (0.1% to 1%): Myalgia, muscle cramps, back painVery rare (less than 0.01%): Growth retardation, decrease in bone mineral density
+Uncommon (0.1% to 1%): Chest pain, edemaRare (0.01% to 0.1%): Hypertension, palpitations, angina pectoris
+Common (1% to 10%): Inhalation site sensation and taste sensation
+Uncommon (0.1% to 1%): Increased weight
 Body aches or pain
 congestion
 cough
@@ -36,8 +23,6 @@ runny nose
 tender, swollen glands in the neck
 trouble swallowing
 voice changes
-
-
 Attack, assault, or force
 blindness
 blurred vision
@@ -61,12 +46,9 @@ tearing
 thoughts of killing oneself
 unusual tiredness or weakness
 white patches in the mouth or on the tongue
-
-
 Cramps
 heavy bleeding
 pain
 pain or tenderness around the eyes and cheekbones
 stuffy or runny nose
 tightness of the chest
-

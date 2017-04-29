@@ -1,28 +1,17 @@
-Generic Name: flunisolide
-Applies to flunisolide: inhalation aerosol liquid, inhalation aerosol powder
-In addition to its needed effects, some unwanted effects may be caused by flunisolide (the active ingredient contained in Aerospan HFA). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking flunisolide:
-Some of the side effects that can occur with flunisolide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to flunisolide: compounding powder, inhalation aerosol, inhalation aerosol with adapter
-The most commonly reported adverse reactions include pharyngitis, rhinitis, headache, sinusitis, and increased cough.[Ref]
-Very common (10% or more): Pharyngitis (up to 17.5%), rhinitis (up to 15.7%)Common (1% to 10%): Increased cough, sinusitis, epistaxis, bronchitis, laryngitis, voice alteration, cold symptoms, nasal congestion, sinus drainage, sinus infection, sneezing, sputum, wheezing, bronchospasm, dyspnea, head stuffiness, nasal irritation, sinus discomfort, sore throat, dry throat[Ref]
-Common (1% to 10%): Vomiting, dyspepsia, abdominal pain, diarrhea, gastroenteritis, nausea, oral moniliasis, upset stomach, heartburn, constipation, gas, abdominal fullness, glossitis, mouth irritation, phlegm[Ref]
-Very common (10% or more): Headache (up to 13.8%)Common (1% to 10%): Migraine, taste perversion, weakness, numbness, hyperactivity[Ref]
-Common (1% to 10%): Neck pain, myalgiaFrequency not reported: Decreased bone mineral density; reduction in growth velocity[Ref]
-Common (1% to 10%): Blurred vision, eye discomfort, eye infectionFrequency not reported: Glaucoma, increased intraocular pressure, cataracts[Ref]
+The most commonly reported adverse reactions include pharyngitis, rhinitis, headache, sinusitis, and increased cough.
+Very common (10% or more): Pharyngitis (up to 17.5%), rhinitis (up to 15.7%)Common (1% to 10%): Increased cough, sinusitis, epistaxis, bronchitis, laryngitis, voice alteration, cold symptoms, nasal congestion, sinus drainage, sinus infection, sneezing, sputum, wheezing, bronchospasm, dyspnea, head stuffiness, nasal irritation, sinus discomfort, sore throat, dry throat
+Common (1% to 10%): Vomiting, dyspepsia, abdominal pain, diarrhea, gastroenteritis, nausea, oral moniliasis, upset stomach, heartburn, constipation, gas, abdominal fullness, glossitis, mouth irritation, phlegm
+Very common (10% or more): Headache (up to 13.8%)Common (1% to 10%): Migraine, taste perversion, weakness, numbness, hyperactivity
+Common (1% to 10%): Neck pain, myalgiaFrequency not reported: Decreased bone mineral density; reduction in growth velocity
+Common (1% to 10%): Blurred vision, eye discomfort, eye infectionFrequency not reported: Glaucoma, increased intraocular pressure, cataracts
 Common (1% to 10%): Erythema multiforme, sweating, eczema, pruritus, acne, urticaria
-Common (1% to 10%): Chest pain, edema, palpitations, tachycardia, hypertension[Ref]
-Common (1% to 10%): Urinary tract infection, dysmenorrhea, vaginitis[Ref]
-Common (1% to 10%): Enlarged lymph nodes, capillary fragility[Ref]
-Common (1% to 10%): Allergic reaction[Ref]
-Common (1% to 10%): Decreased appetite, increased appetite, weight gain[Ref]
-Common (1% to 10%): Ear pain, chills, malaise, vertigo, fatigue, loss of smell, ear infection[Ref]
-Common (1% to 10%): Insomnia, irritability, shakiness, anxiety, depression, moodiness, hypoactivity[Ref]
-1. "Product Information. Aerospan (flunisolide)." Meda Pharmaceuticals, Somerset, NJ. 
-Not all side effects for Aerospan HFA may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Chest pain, edema, palpitations, tachycardia, hypertension
+Common (1% to 10%): Urinary tract infection, dysmenorrhea, vaginitis
+Common (1% to 10%): Enlarged lymph nodes, capillary fragility
+Common (1% to 10%): Allergic reaction
+Common (1% to 10%): Decreased appetite, increased appetite, weight gain
+Common (1% to 10%): Ear pain, chills, malaise, vertigo, fatigue, loss of smell, ear infection
+Common (1% to 10%): Insomnia, irritability, shakiness, anxiety, depression, moodiness, hypoactivity
 Body aches or pain
 congestion
 cough
@@ -38,8 +27,6 @@ tender, swollen glands in the neck
 tightness of the chest or wheezing
 trouble with swallowing
 voice changes
-
-
 Bladder pain
 blistering, peeling, or loosening of the skin
 bloating or swelling of the face, arms, hands, lower legs, or feet
@@ -73,8 +60,6 @@ swelling
 tingling of the hands or feet
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Creamy white, curd-like patches in the mouth or throat
 darkening of the skin
 discouragement
@@ -90,8 +75,6 @@ pain when eating or swallowing
 trouble concentrating
 trouble sleeping
 vomiting
-
-
 Abdominal or stomach fullness
 acid or sour stomach
 appetite changes
@@ -132,4 +115,3 @@ thick, white vaginal discharge with no odor or with a mild odor
 trouble sitting still
 trouble sleeping
 upset stomach
-

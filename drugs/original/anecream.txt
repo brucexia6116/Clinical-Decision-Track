@@ -1,34 +1,16 @@
-Generic Name: lidocaine topical
-Applies to lidocaine topical: topical application aerosol liquid, topical application cream, topical application dressing, topical application foam, topical application gel/jelly, topical application lotion, topical application ointment, topical application pad, topical application patch extended release, topical application powder, topical application solution, topical application spray
-In addition to its needed effects, some unwanted effects may be caused by lidocaine topical (the active ingredient contained in AneCream). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking lidocaine topical:
-Some of the side effects that can occur with lidocaine topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to lidocaine topical: intradermal device, mucous membrane solution, mucous membrane spray, topical cream, topical film, topical gel, topical gel with applicator, topical kit, topical liquid, topical lotion, topical ointment, topical solution, topical spray, topical stick
-The most common adverse events were administration site reactions: burning, dermatitis, erythema, pruritus, rash, skin irritation, and vesicles.[Ref]
-Very common (10% or more): Erythema (up to 67.3%), petechiae (up to 46.4%)Common (1% to 10%): Pruritus, rashUncommon (0.1% to 1%): Skin lesion, skin injuryFrequency not reported: Flushing, cutaneous lesions, urticaria, dermatitis[Ref]
-Very common (10% or more): Administration site reactionsCommon (1% to 10%): Irritation, redness, itching, application site erythema, application site burning, application site pain, application site pruritus, edemaUncommon (0.1% to 1%): Venipuncture site hemorrhage, burning sensationFrequency not reported: Locus of abnormal sensation, paleness (pallor or blanching), alteration in temperature sensation, blisters, bruising, depigmentation, dermatitis, discoloration, exfoliation, papules, petechiae, vesicles, application site dermatitis, application site vesicles, skin irritation[Ref]
-Common (1% to 10%): HeadacheUncommon (0.1% to 1%): DizzinessFrequency not reported: Lightheadedness, nervousness, apprehension, euphoria, confusion, drowsiness, tinnitus, nystagmus, headache, nausea, vomiting, sensations of heat, cold or numbness, twitching, tremors, paraesthesia, convulsions, unconsciousness, respiratory depression and arrest, pain and/or dysesthesia in the buttocks or legs, unconsciousness Postmarketing reports: Headache, hyperesthesia, hypoesthesia, lightheadedness, metallic taste, somnolence, taste alteration[Ref]
-Common (1% to 10%): Nausea, vomiting[Ref]
-Common (1% to 10%): Nasopharyngitis[Ref]
-Very rare (less than 0.01%): Anaphylactic reaction, hypersensitivityFrequency not reported: Anaphylactoid reactions, anaphylactic shock, angioedema, bronchospasm, shock, dyspnea, laryngospasm[Ref]
-Frequency not reported: Bradycardia, hypotension, arrhythmia, cardiovascular collapse, cardiac arrest, AV block, myocardial depression[Ref]
-Frequency not reported: Methemoglobinemia[Ref]
-Frequency not reported: Corneal irritation, blurred or double visionPostmarketing reports: Visual disturbances[Ref]
-Rare (less than 0.1%): Endotracheal tube occlusionFrequency not reported: Sore throat, hoarseness, loss of voice[Ref]
-Frequency not reported: Confusion, psychosis, disorientation, dizziness[Ref]
-Postmarketing reports: Open wound, asthenia, pain exacerbated[Ref]
-1. "Product Information. LMX 4 (lidocaine topical)." Ferndale Laboratories Inc, Ferndale, MI. 
-2. "Product Information. Zingo (lidocaine topical)." Sagent Pharmaceuticals, Inc., Schaumberg, IL. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
-5. "Product Information. Lidoderm (lidocaine topical)." Endo Laboratories LLC, Chaddsford, PA. 
-6. Gammaitoni AR,  Davis MW "Pharmacokinetics and tolerability of lidocaine patch 5% with extended dosing." Ann Pharmacother 36 (2002): 236-40
-7. Gammaitoni AR,  Alvarez NA,  Galer BS "Pharmacokinetics and safety of continuously applied lidocaine patches 5%." Am J Health Syst Pharm 59 (2002): 2215-20
-8. "Product Information. Xylocaine 2% jelly (lidocaine topical)" Astra-Zeneca Pharmaceuticals, Wilmington, DE. 
-Not all side effects for AneCream may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse events were administration site reactions: burning, dermatitis, erythema, pruritus, rash, skin irritation, and vesicles.
+Very common (10% or more): Erythema (up to 67.3%), petechiae (up to 46.4%)Common (1% to 10%): Pruritus, rashUncommon (0.1% to 1%): Skin lesion, skin injuryFrequency not reported: Flushing, cutaneous lesions, urticaria, dermatitis
+Very common (10% or more): Administration site reactionsCommon (1% to 10%): Irritation, redness, itching, application site erythema, application site burning, application site pain, application site pruritus, edemaUncommon (0.1% to 1%): Venipuncture site hemorrhage, burning sensationFrequency not reported: Locus of abnormal sensation, paleness (pallor or blanching), alteration in temperature sensation, blisters, bruising, depigmentation, dermatitis, discoloration, exfoliation, papules, petechiae, vesicles, application site dermatitis, application site vesicles, skin irritation
+Common (1% to 10%): HeadacheUncommon (0.1% to 1%): DizzinessFrequency not reported: Lightheadedness, nervousness, apprehension, euphoria, confusion, drowsiness, tinnitus, nystagmus, headache, nausea, vomiting, sensations of heat, cold or numbness, twitching, tremors, paraesthesia, convulsions, unconsciousness, respiratory depression and arrest, pain and/or dysesthesia in the buttocks or legs, unconsciousness Postmarketing reports: Headache, hyperesthesia, hypoesthesia, lightheadedness, metallic taste, somnolence, taste alteration
+Common (1% to 10%): Nausea, vomiting
+Common (1% to 10%): Nasopharyngitis
+Very rare (less than 0.01%): Anaphylactic reaction, hypersensitivityFrequency not reported: Anaphylactoid reactions, anaphylactic shock, angioedema, bronchospasm, shock, dyspnea, laryngospasm
+Frequency not reported: Bradycardia, hypotension, arrhythmia, cardiovascular collapse, cardiac arrest, AV block, myocardial depression
+Frequency not reported: Methemoglobinemia
+Frequency not reported: Corneal irritation, blurred or double visionPostmarketing reports: Visual disturbances
+Rare (less than 0.1%): Endotracheal tube occlusionFrequency not reported: Sore throat, hoarseness, loss of voice
+Frequency not reported: Confusion, psychosis, disorientation, dizziness
+Postmarketing reports: Open wound, asthenia, pain exacerbated
 Blistering, crusting, irritation, itching, or reddening of the skin
 cough
 cracked, dry, or scaly skin
@@ -43,8 +25,6 @@ noisy breathing
 swelling of the eyelids, face, lips, hands, or feet
 tightness in the chest
 troubled breathing or swallowing
-
-
 Blistering, bruising, burning, discoloration, itching, redness, or swelling at the application site
 blurred vision
 chest pain or discomfort
@@ -69,8 +49,6 @@ twitching
 unconsciousness
 unusual tiredness or weakness
 weakness
-
-
 Bad, unusual, or unpleasant (after) taste
 change in taste
 cold or numbness
@@ -83,4 +61,3 @@ heat sensation
 lack or loss of strength
 metallic taste
 sleepiness or unusual drowsiness
-

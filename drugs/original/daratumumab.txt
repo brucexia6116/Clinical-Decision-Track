@@ -1,24 +1,13 @@
-Applies to daratumumab: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by daratumumab. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking daratumumab, check with your doctor or nurse immediately:
-Some of the side effects that can occur with daratumumab may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to daratumumab: intravenous solution
-Very common (10% or more): Hypertension (10%)[Ref]
-Very common (10% or more): Nausea (27%), diarrhea (16%), constipation (15%), vomiting (14%)[Ref]
-Very common (10% or more): Lymphopenia (72%), neutropenia (60%), thrombocytopenia (48%), anemia (45%)[Ref]
-Common (1% to 10%): Pneumonia (e.g., streptococcal pneumonia, lobar pneumonia), herpes zoster reactivation[Ref]
-Very common (10% or more): Infusion reaction (48%)[Ref]
-Very common (10% or more): Decreased appetite (15%)[Ref]
-Very common (10% or more): Back pain (23%), arthralgia (17%), pain in extremity (15%), musculoskeletal chest pain (12%)[Ref]
-Very common (10% or more): Headache (12%)[Ref]
-Very common (10% or more): Cough (21%), upper respiratory tract infection (20%), nasal congestion (17%), dyspnea (15%), nasopharyngitis (15%), vomiting (14%)Common (1% to 10%): Bronchospasm, dyspnea, hypoxia Uncommon (0.1% to 1%): Allergic rhinitis allergic, throat irritation[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Darzalex (daratumumab)." Janssen Biotech, Inc., Horsham, PA, PA. 
-Not all side effects for daratumumab may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Hypertension (10%)
+Very common (10% or more): Nausea (27%), diarrhea (16%), constipation (15%), vomiting (14%)
+Very common (10% or more): Lymphopenia (72%), neutropenia (60%), thrombocytopenia (48%), anemia (45%)
+Common (1% to 10%): Pneumonia (e.g., streptococcal pneumonia, lobar pneumonia), herpes zoster reactivation
+Very common (10% or more): Infusion reaction (48%)
+Very common (10% or more): Decreased appetite (15%)
+Very common (10% or more): Back pain (23%), arthralgia (17%), pain in extremity (15%), musculoskeletal chest pain (12%)
+Very common (10% or more): Headache (12%)
+Very common (10% or more): Cough (21%), upper respiratory tract infection (20%), nasal congestion (17%), dyspnea (15%), nasopharyngitis (15%), vomiting (14%)Common (1% to 10%): Bronchospasm, dyspnea, hypoxia Uncommon (0.1% to 1%): Allergic rhinitis allergic, throat irritation
 Blurred vision
 body aches or pain
 chest pain or tightness
@@ -37,16 +26,12 @@ sneezing
 sore throat
 stuffy or runny nose
 trouble breathing
-
-
 Confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 painful blisters on the trunk of body
 skin rash, hives, or itching
 sweating
 unusual tiredness or weakness
-
-
 Back pain
 constipation
 cough
@@ -58,4 +43,3 @@ muscle pain or stiffness
 nausea
 pain in the arms or legs
 vomiting
-

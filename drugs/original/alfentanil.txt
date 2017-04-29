@@ -1,17 +1,10 @@
-Applies to alfentanil: injectable solution
-Gastrointestinal side effects have included nausea (28%) and vomiting (18%).[Ref]
-Cardiovascular side effects have included hypertension (18%), chest wall rigidity (17%), arrhythmias (14%), bradycardia (14%), tachycardia (12%), and hypotension (10%).  Rare cardiovascular reactions have included asystole and sinus arrest.[Ref]
-Musculoskeletal side effects have included skeletal muscle movements (3% to 9%), and truncal rigidity, particularly of the neck and extremities (less than 1%).[Ref]
-Respiratory side effects have included apnea (3% to 9%), postoperative respiratory depression (less than 1%), bronchospasm, hypercarbia, and laryngospasm (less than 1%).[Ref]
-Respiratory depression has been reversed with the opioid antagonist naloxone.[Ref]
-Nervous system side effects have included dizziness (3% to 9%), headache, myoclonic and dystonic movements, confusion, euphoria, and shivering (less than 1%).[Ref]
-Hypersensitivity side effects including anaphylaxis have been reported rarely .[Ref]
-Dermatologic side effects have included pruritus and urticaria (less than 1%).  Pruritus may occur with greater frequency in patients receiving epidural alfentanil (up to 60% in one study).[Ref]
-Pruritus during epidural infusions has been described as segmental (occurring on the chest) versus the face and arms, which is often seen with morphine.Diphenhydramine is effective in relieving pruritus associated with opioids.[Ref]
-Local side effects, such as injection site pain (less than 1%) have been reported.[Ref]
-1. "Product Information. Alfenta (alfentanil)." Janssen Pharmaceutica, Titusville, NJ. 
-2. Hudson RJ "Apnoea and unconsciousness after apparent recovery from alfentanil- supplemented anaesthesia." Can J Anaesth 37 (1990): 255-7
-3. Mets B "Acute dystonia after alfentanil in untreated Parkinson's disease." Anesth Analg 72 (1991): 557-8
-4. Strong WE, Matson M "Probable seizure after alfentanil." Anesth Analg 68 (1989): 692-3
-5. Hill DA, Mccarthy G, Bali IM "Epidural infusion of alfentanil or diamorphine with bupivacaine in labour - a dose finding study." Anaesthesia 50 (1995): 415-9
-Not all side effects for alfentanil may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Gastrointestinal side effects have included nausea (28%) and vomiting (18%).
+Cardiovascular side effects have included hypertension (18%), chest wall rigidity (17%), arrhythmias (14%), bradycardia (14%), tachycardia (12%), and hypotension (10%).  Rare cardiovascular reactions have included asystole and sinus arrest.
+Musculoskeletal side effects have included skeletal muscle movements (3% to 9%), and truncal rigidity, particularly of the neck and extremities (less than 1%).
+Respiratory side effects have included apnea (3% to 9%), postoperative respiratory depression (less than 1%), bronchospasm, hypercarbia, and laryngospasm (less than 1%).
+Respiratory depression has been reversed with the opioid antagonist naloxone.
+Nervous system side effects have included dizziness (3% to 9%), headache, myoclonic and dystonic movements, confusion, euphoria, and shivering (less than 1%).
+Hypersensitivity side effects including anaphylaxis have been reported rarely .
+Dermatologic side effects have included pruritus and urticaria (less than 1%).  Pruritus may occur with greater frequency in patients receiving epidural alfentanil (up to 60% in one study).
+Pruritus during epidural infusions has been described as segmental (occurring on the chest) versus the face and arms, which is often seen with morphine.Diphenhydramine is effective in relieving pruritus associated with opioids.
+Local side effects, such as injection site pain (less than 1%) have been reported.

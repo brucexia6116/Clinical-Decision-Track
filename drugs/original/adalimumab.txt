@@ -1,50 +1,27 @@
 Commonly reported side effects of adalimumab include: upper respiratory tract infection, headache, injection site reaction, skin rash, antibody development, sinusitis, and pain at injection site. Other side effects include: urinary tract infection, abdominal pain, and flu-like symptoms.  See below for a comprehensive list of adverse effects.
-Applies to adalimumab: subcutaneous solution
-In addition to its needed effects, some unwanted effects may be caused by adalimumab. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking adalimumab:
-Some of the side effects that can occur with adalimumab may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to adalimumab: subcutaneous kit, subcutaneous solution
-The most serious adverse reactions have been serious infections, neurologic events, and malignancies.[Ref]
-Very common (10% or more): Accidental injury (10%) Uncommon (0.1% to 1%): Pain in extremity, thorax painRare (less than 0.1%): PyrexiaFrequency not reported: Sepsis, pain in thorax, opportunistic infections, tuberculosis, histoplasmosis, abscess, joint infection, wound infection, superficial fungal infections[Ref]
-Most of the tuberculosis cases occurred within the first 8 months of therapy and included miliary, lymphatic, peritoneal, and pulmonary types.  Opportunistic infections were due to histoplasma, aspergillus, and nocardia.[Ref]
-Very common (10% or more): Headache (12%)Uncommon (0.1% to 1%): Confusion, paresthesia, subdural hematoma, tremor, demyelinating disorders (e.g., optic neuritis, Guillain-Barre syndrome), cerebrovascular accident, multiple sclerosis, Very rare (less than 0.01%): Hypertrophic pachymeningitis[Ref]
-Uncommon (0.1% to 1%): Adenoma, Merkel Cell Carcinoma (neuroendocrine carcinoma of the skin)Rare (less than 0.1%): Skin papilloma, carcinomas (breast, gastrointestinal, skin, testicular), lymphoma, melanoma, cancer of the white blood cells (known as Hepatosplenic T-Cell Lymphoma or HSTCL), mostly in adolescents and young adults[Ref]
-During the controlled portions of adalimumab trials in patients with moderately to severely active rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis, malignancies (other than lymphoma and non-melanoma skin cancer) were observed at a rate of 0.7 per 100 patient-years among adalimumab-treated patients versus a rate of 0.3 per 100 patient-years among control patients.  The median duration of treatment was 5.7 months for adalimumab-treated patients and 5.5 months for control-treated patients.  During the controlled portions of adalimumab rheumatoid arthritis trials, the rate of non-melanoma skin cancers was 0.9 per 100 patient-years among adalimumab-treated patients and 0.2 per 100 patient-years among control patients.More cases of malignancies have been observed among patients receiving TNF blockers, including adalimumab, compared to controls.  Patients with rheumatoid arthritis, particularly those with highly active disease, are at a higher risk for the development of lymphoma.A meta-analysis has reported that there is dose-dependent increased risk of malignancies in patients with rheumatoid arthritis treated with anti-TNF antibody therapy.[Ref]
-Positive ANA titers were observed at week 24 in 12% of patients (vs 7% with placebo).  One patient (0.04%) developed symptoms of new-onset lupus-like syndrome and recovered after discontinuation of adalimumab.  Low-titer antibodies to adalimumab have been observed at least once during treatment in 5% of patients (n=1062).  Antibodies developed in 12% of patients on adalimumab monotherapy and in 1% of patients on concurrent methotrexate.  During monotherapy, the ACR20 (American College of Rheumatology criteria) response was lower in antibody-positive patients.A meta-analysis has reported that there is evidence of an increased risk of serious infections in patients with rheumatoid arthritis treated with anti-TNF antibody therapy.[Ref]
-Common (1% to 10%): Flu syndromeUncommon (0.1% to 1%): SarcoidosisFrequency not reported: Development of autoantibodies[Ref]
-Common (1% to 10%): Back painUncommon (0.1% to 1%): Arthritis, bone disorder, bone fracture (not spontaneous), bone necrosis, joint disorder, muscle cramps, myasthenia, pyogenic arthritis, synovitis, tendon disorder, pelvic painRare (less than 0.1%): Rhabdomyolysis[Ref]
-Very common (10% or more): Upper respiratory infection (17%), sinusitis (11%), pneumonia, pharyngitis, nasopharyngitisUncommon (0.1% to 1%): Asthma, bronchospasm, dyspnea, lung function decreased, pleural effusion, interstitial lung disease (including pulmonary fibrosis), pulmonary embolismFrequency not reported: Cough, upper respiratory infection, pharyngeal edema, nasal congestion, pulmonary edema, pleural effusion, pleurisy[Ref]
-Common (1% to 10%): Diarrhea, nausea, abdominal pain, vomiting, stomatitis, mouth ulcerationUncommon (0.1% to 1%): Cholecystitis, cholelithiasis, gastroenteritis, gastrointestinal hemorrhage, gastritis, dyspepsia, gastrointestinal disorder, gastrointestinal hemorrhage, rectal hemorrhage, abdominal bloatingRare (less than 0.1%): Esophagitis, intestinal stenosis, colitis, enteritisFrequency not reported: Diverticulitis, large bowel perforations including perforations associated with diverticulitis and appendiceal perforations associated with appendicitis, pancreatitis[Ref]
-Common (1% to 10%): Hypercholesterolemia, hyperlipidemiaUncommon (0.1% to 1%): Dehydration, ketosis, paraproteinemia, increased alkaline phosphatase, paraproteinemia[Ref]
-Common (1% to 10%): Urinary tract infection, hematuriaUncommon (0.1% to 1%): Cystitis, kidney calculus, menstrual disorder, pyelonephritis[Ref]
-Very common (10% or more): Injection site pain (12%)Common (1% to 10%): Injection site reaction[Ref]
-Very common (10% or more): Rash (12%)Common (1% to 10%): Dermatitis, eczema, pruritus, cellulitis, urticaria, psoriasis, ecchymosis, increased bruising, purpura, erysipelas, cutaneous vasculitis, herpes zosterPostmarketing reports: Stevens Johnson Syndrome, cutaneous vasculitis, erythema multiforme, new or worsening psoriasis (all subtypes including pustular and palmoplantar), alopecia, erythema multiforme, panniculitis[Ref]
-Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF blockers, including adalimumab.  In clinical studies of another TNF blocker, a higher rate of serious CHF-related adverse events was observed.[Ref]
-Common (1% to 10%): HypertensionUncommon (0.1% to 1%): Arrhythmia, atrial fibrillation, chest pain, coronary artery disorder, heart arrest, hypertensive encephalopathy, myocardial infarct, palpitation, pericardial effusion, pericarditis, syncope, tachycardia, congestive heart failure, peripheral edema, systemic vasculitis, deep vein thrombosisRare (less than 0.1%): Vascular occlusion, aortic stenosis, thrombophlebitis, aortic aneurysm[Ref]
-Uncommon (0.1% to 1%): Parathyroid disorder[Ref]
-Common (1% to 10%): Lymphopenia, agranulocytosis, granulocytopenia, leucopenia, thrombocytopenia, anemia, lymphadenopathy, leucocytosis Rare (less than 0.1%): Pancytopenia, polycythemia, idiopathic thrombocytopenia purpura, lymphoma-like reaction, leg thrombosis, hypertriglyceridemia[Ref]
-Uncommon (0.1% to 1%): Cataract[Ref]
-Frequency not reported: Anaphylaxis, angioneurotic[Ref]
-Uncommon (0.1% to 1%): Liver failure, hepatitisRare (less than 0.1%): Hepatic enzymes increased, hepatic necrosisPostmarketing reports: Hepatic failure[Ref]
-Frequency not reported: Renal pain, renal impairment[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. von Mehren M,  Schilder RJ,  Cheng JD, et al. "A phase I study of the safety and pharmacokinetics of trabectedin in combination  with pegylated liposomal doxorubicin in patients with advanced malignancies." Ann Oncol 19 (2008): 1802-9
-3. "Product Information. Humira (adalimumab)." Abbott Pharmaceutical, Abbott Park, IL. 
-4. Pharmaceutical Society of Australia "APPGuide online. Australian prescription products guide online. Available from: URL: http://www.appco.com.au/appguide/default.asp."   ([2006]):
-5. Camacho ID,  Valencia I,  Rivas MP,  Burdick AE "Type 1 leprosy reaction manifesting after discontinuation of adalimumab therapy." Arch Dermatol 145 (2009): 349-51
-6. Furst DE,  Schiff MH,  Fleischmann RM, et al. "Adalimumab, a fully human anti tumor necrosis factor-alpha monoclonal antibody, and concomitant standard antirheumatic therapy for the treatment of rheumatoid arthritis: results of STAR (Safety Trial of Adalimumab in Rheumatoid Arthritis)." J Rheumatol 30 (2003): 2563-71
-7. Ahmed M,  Luggen M,  Herman JH, et al. "Hypertrophic pachymeningitis in rheumatoid arthritis after adalimumab administration." J Rheumatol 33 (2006): 2344-6
-8. Bensouda-Grimaldi L,  Mulleman D,  Valat JP,  Autret-Leca E "Adalimumab-associated multiple sclerosis." J Rheumatol 34 (2007): 239
-9. Bongartz T,  Sutton AJ,  Sweeting MJ,  Buchan I,  Matteson EL,  Montori V "Anti-TNF antibody therapy in rheumatoid arthritis and the risk of serious infections and malignancies: systematic review and meta-analysis of rare harmful effects in randomized controlled trials." JAMA 295 (2006): 2275-85
-10. Saba NS,  Kosseifi SG,  Charaf EA,  Hammad AN "Adalimumab-induced acute myelogenic leukemia." South Med J 101 (2008): 1261-2
-11. Hinojosa J,  Borras-Blasco J,  Maroto N,  Rosique-Robles JD,  Alos R,  Castera ME "Severe myalgia associated with adalimumab treatment in a patient with Crohn's disease." Ann Pharmacother 42 (2008): 1130-3
-12. Garcia Bartels N,  Lee HH,  Worm M,  Burmester GR,  Sterry W,  Blume-Peytavi U "Development of alopecia areata universalis in a patient receiving adalimumab." Arch Dermatol 142 (2006): 1654-3
-13. Orpin SD,  Majmudar VB,  Soon C,  Azam NA,  Salim A "Adalimumab causing vasculitis." Br J Dermatol 154 (2006): 998-9
-14. Stinco G,  Piccirillo F,  Patrone P "Hypertriglyceridaemia during treatment with adalimumab in psoriatic arthritis." Br J Dermatol 157 (2007): 1273-4
-Not all side effects for adalimumab may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most serious adverse reactions have been serious infections, neurologic events, and malignancies.
+Very common (10% or more): Accidental injury (10%) Uncommon (0.1% to 1%): Pain in extremity, thorax painRare (less than 0.1%): PyrexiaFrequency not reported: Sepsis, pain in thorax, opportunistic infections, tuberculosis, histoplasmosis, abscess, joint infection, wound infection, superficial fungal infections
+Most of the tuberculosis cases occurred within the first 8 months of therapy and included miliary, lymphatic, peritoneal, and pulmonary types.  Opportunistic infections were due to histoplasma, aspergillus, and nocardia.
+Very common (10% or more): Headache (12%)Uncommon (0.1% to 1%): Confusion, paresthesia, subdural hematoma, tremor, demyelinating disorders (e.g., optic neuritis, Guillain-Barre syndrome), cerebrovascular accident, multiple sclerosis, Very rare (less than 0.01%): Hypertrophic pachymeningitis
+Uncommon (0.1% to 1%): Adenoma, Merkel Cell Carcinoma (neuroendocrine carcinoma of the skin)Rare (less than 0.1%): Skin papilloma, carcinomas (breast, gastrointestinal, skin, testicular), lymphoma, melanoma, cancer of the white blood cells (known as Hepatosplenic T-Cell Lymphoma or HSTCL), mostly in adolescents and young adults
+During the controlled portions of adalimumab trials in patients with moderately to severely active rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis, malignancies (other than lymphoma and non-melanoma skin cancer) were observed at a rate of 0.7 per 100 patient-years among adalimumab-treated patients versus a rate of 0.3 per 100 patient-years among control patients.  The median duration of treatment was 5.7 months for adalimumab-treated patients and 5.5 months for control-treated patients.  During the controlled portions of adalimumab rheumatoid arthritis trials, the rate of non-melanoma skin cancers was 0.9 per 100 patient-years among adalimumab-treated patients and 0.2 per 100 patient-years among control patients.More cases of malignancies have been observed among patients receiving TNF blockers, including adalimumab, compared to controls.  Patients with rheumatoid arthritis, particularly those with highly active disease, are at a higher risk for the development of lymphoma.A meta-analysis has reported that there is dose-dependent increased risk of malignancies in patients with rheumatoid arthritis treated with anti-TNF antibody therapy.
+Positive ANA titers were observed at week 24 in 12% of patients (vs 7% with placebo).  One patient (0.04%) developed symptoms of new-onset lupus-like syndrome and recovered after discontinuation of adalimumab.  Low-titer antibodies to adalimumab have been observed at least once during treatment in 5% of patients (n=1062).  Antibodies developed in 12% of patients on adalimumab monotherapy and in 1% of patients on concurrent methotrexate.  During monotherapy, the ACR20 (American College of Rheumatology criteria) response was lower in antibody-positive patients.A meta-analysis has reported that there is evidence of an increased risk of serious infections in patients with rheumatoid arthritis treated with anti-TNF antibody therapy.
+Common (1% to 10%): Flu syndromeUncommon (0.1% to 1%): SarcoidosisFrequency not reported: Development of autoantibodies
+Common (1% to 10%): Back painUncommon (0.1% to 1%): Arthritis, bone disorder, bone fracture (not spontaneous), bone necrosis, joint disorder, muscle cramps, myasthenia, pyogenic arthritis, synovitis, tendon disorder, pelvic painRare (less than 0.1%): Rhabdomyolysis
+Very common (10% or more): Upper respiratory infection (17%), sinusitis (11%), pneumonia, pharyngitis, nasopharyngitisUncommon (0.1% to 1%): Asthma, bronchospasm, dyspnea, lung function decreased, pleural effusion, interstitial lung disease (including pulmonary fibrosis), pulmonary embolismFrequency not reported: Cough, upper respiratory infection, pharyngeal edema, nasal congestion, pulmonary edema, pleural effusion, pleurisy
+Common (1% to 10%): Diarrhea, nausea, abdominal pain, vomiting, stomatitis, mouth ulcerationUncommon (0.1% to 1%): Cholecystitis, cholelithiasis, gastroenteritis, gastrointestinal hemorrhage, gastritis, dyspepsia, gastrointestinal disorder, gastrointestinal hemorrhage, rectal hemorrhage, abdominal bloatingRare (less than 0.1%): Esophagitis, intestinal stenosis, colitis, enteritisFrequency not reported: Diverticulitis, large bowel perforations including perforations associated with diverticulitis and appendiceal perforations associated with appendicitis, pancreatitis
+Common (1% to 10%): Hypercholesterolemia, hyperlipidemiaUncommon (0.1% to 1%): Dehydration, ketosis, paraproteinemia, increased alkaline phosphatase, paraproteinemia
+Common (1% to 10%): Urinary tract infection, hematuriaUncommon (0.1% to 1%): Cystitis, kidney calculus, menstrual disorder, pyelonephritis
+Very common (10% or more): Injection site pain (12%)Common (1% to 10%): Injection site reaction
+Very common (10% or more): Rash (12%)Common (1% to 10%): Dermatitis, eczema, pruritus, cellulitis, urticaria, psoriasis, ecchymosis, increased bruising, purpura, erysipelas, cutaneous vasculitis, herpes zosterPostmarketing reports: Stevens Johnson Syndrome, cutaneous vasculitis, erythema multiforme, new or worsening psoriasis (all subtypes including pustular and palmoplantar), alopecia, erythema multiforme, panniculitis
+Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF blockers, including adalimumab.  In clinical studies of another TNF blocker, a higher rate of serious CHF-related adverse events was observed.
+Common (1% to 10%): HypertensionUncommon (0.1% to 1%): Arrhythmia, atrial fibrillation, chest pain, coronary artery disorder, heart arrest, hypertensive encephalopathy, myocardial infarct, palpitation, pericardial effusion, pericarditis, syncope, tachycardia, congestive heart failure, peripheral edema, systemic vasculitis, deep vein thrombosisRare (less than 0.1%): Vascular occlusion, aortic stenosis, thrombophlebitis, aortic aneurysm
+Uncommon (0.1% to 1%): Parathyroid disorder
+Common (1% to 10%): Lymphopenia, agranulocytosis, granulocytopenia, leucopenia, thrombocytopenia, anemia, lymphadenopathy, leucocytosis Rare (less than 0.1%): Pancytopenia, polycythemia, idiopathic thrombocytopenia purpura, lymphoma-like reaction, leg thrombosis, hypertriglyceridemia
+Uncommon (0.1% to 1%): Cataract
+Frequency not reported: Anaphylaxis, angioneurotic
+Uncommon (0.1% to 1%): Liver failure, hepatitisRare (less than 0.1%): Hepatic enzymes increased, hepatic necrosisPostmarketing reports: Hepatic failure
+Frequency not reported: Renal pain, renal impairment
 Body aches or pain
 chills
 cough
@@ -69,8 +46,6 @@ tightness of the chest or trouble breathing
 trouble sleeping
 unusual tiredness or weakness
 vomiting
-
-
 Abdominal or stomach pain
 bleeding from the gums or nose
 bloating or swelling of the face, arms, hands, lower legs, or feet
@@ -89,8 +64,6 @@ sores, ulcers, or white spots on the lips or in the mouth
 tingling of the hands or feet
 unusual bleeding or bruising
 unusual weight gain or loss
-
-
 Blindness
 blistering, peeling, loosening of the skin
 blue-yellow color blindness
@@ -108,11 +81,6 @@ red, irritated eyes
 red, scaling, or crusted skin
 stomach pain, continuing
 yellow eyes or skin
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 rash
-
-
 Hair loss or thinning of the hair
-

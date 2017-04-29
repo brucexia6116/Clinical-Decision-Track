@@ -1,38 +1,24 @@
 Commonly reported side effects of amlodipine include: edema. Other side effects include: fatigue, palpitations, and flushing.  See below for a comprehensive list of adverse effects.
-Applies to amlodipine: oral tablet, oral tablet disintegrating
-In addition to its needed effects, some unwanted effects may be caused by amlodipine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking amlodipine:
-Some of the side effects that can occur with amlodipine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to amlodipine: oral tablet, oral tablet disintegrating
-The most commonly reported side effects include headache, edema, rash, fatigue, and dizziness.[Ref]
-Myocardial infarction, chest pain, and arrhythmia (e.g., bradycardia, ventricular tachycardia, atrial fibrillation) cannot be distinguished from the natural history of the underlying disease.Edema occurred in 14.6% of female patients given this drug compared to 5.6% of male patients, and was more likely to occur in patients given the 10 mg dose (compared to the 5 and 2.5 mg doses).[Ref]
-Very common (10% or more): Edema (up to 14.6%)Common (1% to 10%): Palpitations, ankle edemaUncommon (0.1% to 1%): Hypotension, chest painVery rare (less than 0.01%): Myocardial infarction, arrhythmia (including bradycardia, ventricular tachycardia, atrial fibrillation), vasculitis, cardiac failure, pulse irregularity, extrasystoles, hot flushFrequency not reported: Tachycardia, peripheral ischemia, postural hypotension[Ref]
-Common (1% to 10%): Somnolence, dizziness, headacheUncommon (0.1% to 1%): Tremor, taste perversion/dysgeusia, syncope, hypoesthesia, paresthesiaVery rare (less than 0.01%): Hypertonia, peripheral neuropathy, ataxia, migraine, amnesia, parosmiaFrequency not reported: Extrapyramidal syndrome, postural dizziness, vertigo[Ref]
-Headache occurred commonly during clinical trials, especially at the beginning of treatment.Extrapyramidal syndrome may be associated with this drug.[Ref]
-Common (1% to 10%): Abdominal pain, nauseaUncommon (0.1% to 1%): Vomiting, dyspepsia, altered bowel habits (including diarrhea and constipation), dry mouthVery rare (less than 0.01%): Pancreatitis, gastritis, gingival hyperplasia, loose stoolsFrequency not reported: Dysphagia, flatulence[Ref]
-Common (1% to 10%): FlushingUncommon (0.1% to 1%): Alopecia, skin discoloration, increased sweating/hyperhidrosis, pruritus, rash, exanthemaVery rare (less than 0.01%): Erythema multiforme, urticaria, exfoliative dermatitis, Stevens-Johnson syndrome, Quincke edema, photosensitivity, skin dryness, cold and clammy skin, dermatitis[Ref]
-Common (1% to 10%): FatigueUncommon (0.1% to 1%): Tinnitus, asthenia, pain, malaiseFrequency not reported: Rigors, thirst[Ref]
-Uncommon (0.1% to 1%): Micturition disorder, nocturia, increased urinary frequency, impotenceVery rare (less than 0.01%): Dysuria, polyuriaFrequency not reported: Male/female sexual dysfunction[Ref]
-Uncommon (0.1% to 1%): Arthralgia, myalgia, muscle cramps, back painVery rare (less than 0.01%): Muscle weaknessFrequency not reported: Arthrosis, twitching[Ref]
-Uncommon (0.1% to 1%): Insomnia, mood changes (including anxiety), depressionRare (0.01% to 0.1%): ConfusionFrequency not reported: Abnormal dreams, depersonalization, nervousness, apathy, agitation[Ref]
-Uncommon (0.1% to 1%): Dyspnea, rhinitisVery rare (less than 0.01%): CoughFrequency not reported: Epistaxis[Ref]
-Uncommon (0.1% to 1%): Visual disturbance (including diplopia)Very rare (less than 0.01%): Abnormal visual accommodation, xerophthalmiaFrequency not reported: Abnormal vision, conjunctivitis, eye pain[Ref]
-Uncommon (0.1% to 1%): Weight increase/decreaseVery rare (less than 0.01%): Hyperglycemia, increased appetiteFrequency not reported: Anorexia[Ref]
-Uncommon (0.1% to 1%): PurpuraVery rare (less than 0.01%): Leukopenia, thrombocytopenia[Ref]
-Uncommon (0.1% to 1%): Gynecomastia[Ref]
-Very rare (less than 0.01%): Hepatitis, jaundice, hepatic enzymes increased[Ref]
-Increased hepatic enzymes were mostly consistent with cholestasis.Some cases of hepatitis, jaundice, and/or hepatic enzyme elevations were severe enough to require hospitalization; however, the association with this drug was uncertain in most cases.[Ref]
-Very rare (less than 0.01%): Allergic reactions, angioedema[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Norvasc (amlodipine)." Pfizer US Pharmaceuticals, New York, NY. 
-Not all side effects for amlodipine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects include headache, edema, rash, fatigue, and dizziness.
+Myocardial infarction, chest pain, and arrhythmia (e.g., bradycardia, ventricular tachycardia, atrial fibrillation) cannot be distinguished from the natural history of the underlying disease.Edema occurred in 14.6% of female patients given this drug compared to 5.6% of male patients, and was more likely to occur in patients given the 10 mg dose (compared to the 5 and 2.5 mg doses).
+Very common (10% or more): Edema (up to 14.6%)Common (1% to 10%): Palpitations, ankle edemaUncommon (0.1% to 1%): Hypotension, chest painVery rare (less than 0.01%): Myocardial infarction, arrhythmia (including bradycardia, ventricular tachycardia, atrial fibrillation), vasculitis, cardiac failure, pulse irregularity, extrasystoles, hot flushFrequency not reported: Tachycardia, peripheral ischemia, postural hypotension
+Common (1% to 10%): Somnolence, dizziness, headacheUncommon (0.1% to 1%): Tremor, taste perversion/dysgeusia, syncope, hypoesthesia, paresthesiaVery rare (less than 0.01%): Hypertonia, peripheral neuropathy, ataxia, migraine, amnesia, parosmiaFrequency not reported: Extrapyramidal syndrome, postural dizziness, vertigo
+Headache occurred commonly during clinical trials, especially at the beginning of treatment.Extrapyramidal syndrome may be associated with this drug.
+Common (1% to 10%): Abdominal pain, nauseaUncommon (0.1% to 1%): Vomiting, dyspepsia, altered bowel habits (including diarrhea and constipation), dry mouthVery rare (less than 0.01%): Pancreatitis, gastritis, gingival hyperplasia, loose stoolsFrequency not reported: Dysphagia, flatulence
+Common (1% to 10%): FlushingUncommon (0.1% to 1%): Alopecia, skin discoloration, increased sweating/hyperhidrosis, pruritus, rash, exanthemaVery rare (less than 0.01%): Erythema multiforme, urticaria, exfoliative dermatitis, Stevens-Johnson syndrome, Quincke edema, photosensitivity, skin dryness, cold and clammy skin, dermatitis
+Common (1% to 10%): FatigueUncommon (0.1% to 1%): Tinnitus, asthenia, pain, malaiseFrequency not reported: Rigors, thirst
+Uncommon (0.1% to 1%): Micturition disorder, nocturia, increased urinary frequency, impotenceVery rare (less than 0.01%): Dysuria, polyuriaFrequency not reported: Male/female sexual dysfunction
+Uncommon (0.1% to 1%): Arthralgia, myalgia, muscle cramps, back painVery rare (less than 0.01%): Muscle weaknessFrequency not reported: Arthrosis, twitching
+Uncommon (0.1% to 1%): Insomnia, mood changes (including anxiety), depressionRare (0.01% to 0.1%): ConfusionFrequency not reported: Abnormal dreams, depersonalization, nervousness, apathy, agitation
+Uncommon (0.1% to 1%): Dyspnea, rhinitisVery rare (less than 0.01%): CoughFrequency not reported: Epistaxis
+Uncommon (0.1% to 1%): Visual disturbance (including diplopia)Very rare (less than 0.01%): Abnormal visual accommodation, xerophthalmiaFrequency not reported: Abnormal vision, conjunctivitis, eye pain
+Uncommon (0.1% to 1%): Weight increase/decreaseVery rare (less than 0.01%): Hyperglycemia, increased appetiteFrequency not reported: Anorexia
+Uncommon (0.1% to 1%): PurpuraVery rare (less than 0.01%): Leukopenia, thrombocytopenia
+Uncommon (0.1% to 1%): Gynecomastia
+Very rare (less than 0.01%): Hepatitis, jaundice, hepatic enzymes increased
+Increased hepatic enzymes were mostly consistent with cholestasis.Some cases of hepatitis, jaundice, and/or hepatic enzyme elevations were severe enough to require hospitalization; however, the association with this drug was uncertain in most cases.
+Very rare (less than 0.01%): Allergic reactions, angioedema
 Swelling of the ankles or feet
-
-
 Difficult or labored breathing
 dizziness
 fast, irregular, pounding, or racing heartbeat or pulse
@@ -41,8 +27,6 @@ redness of the face, neck, arms, and occasionally, upper chest
 shortness of breath
 tightness in the chest
 wheezing
-
-
 Black, tarry stools
 bleeding gums
 blistering, peeling, or loosening of the skin
@@ -91,8 +75,6 @@ weak or absent pulses in the legs
 weakness in the arms, hands, legs, or feet
 weight gain
 yellow eyes or skin
-
-
 Abdominal or stomach pain
 clay-colored stools
 diarrhea
@@ -103,8 +85,6 @@ rash
 unpleasant breath odor
 vomiting of blood
 yellow eyes or skin
-
-
 Acid or sour stomach
 belching
 heartburn
@@ -113,8 +93,6 @@ lack or loss of strength
 muscle cramps
 sleepiness or unusual drowsiness
 stomach discomfort, upset, or pain
-
-
 Abnormal dreams
 anxiety
 back pain
@@ -199,7 +177,4 @@ unexplained weight loss
 unsteadiness, trembling, or other problems with muscle control or coordination
 waking to urinate at night
 weight loss
-
-
 Swelling of the breasts or breast soreness in both females and males
-

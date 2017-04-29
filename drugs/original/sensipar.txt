@@ -1,31 +1,21 @@
-Generic Name: cinacalcet
 Common side effects of Sensipar include: decreased plasma testosterone, diarrhea, dizziness, myalgia, nausea, vomiting, and hypoparathyroidism. Other side effects include: dialysis access infection, asthenia, chest pain, hypertension, hypotension, and anorexia.  See below for a comprehensive list of adverse effects.
-Applies to cinacalcet: oral tablet
 As well as its needed effects, cinacalcet (the active ingredient contained in Sensipar) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking cinacalcet, check with your doctor immediately:
 Some cinacalcet side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to cinacalcet: oral tablet
-Very common (10% or more): Hypotension (11.6%)Common (1% to 10%): HypertensionFrequency not reported: Worsening heart failure, QT prolongation and ventricular arrhythmia secondary to hypocalcemia[Ref]
-Very common (10% or more): Nausea (31%), vomiting (27%), diarrhea (21%), dyspepsia (13%), abdominal pain (10.9%)Common (1% to 10%): Upper abdominal pain, dyspepsia, anorexia, constipation[Ref]
-Common (1% to 10%): Hypersensitivity reactionsPostmarketing reports: Rash, angioedema, urticaria[Ref]
-Common (1% to 10%): Access site infection[Ref]
-Very common (10% or more): Paresthesia (14 to 29%)Very rare (less than 0.01%): Leukocytoclastic vasculitis with palpable purpura on both upper and lower extremities[Ref]
-Common (1% to 10%): Anemia[Ref]
-Very common (10% or more): Hypocalcemia (11.2%)Common (1% to 10%): Hyperkalemia, dehydration[Ref]
-Very common (10% or more): Cough (11.7%), upper respiratory infection (11%)Common (1% to 10%): Dyspnea[Ref]
-Common (1% to 10%): Reduced testosterone levels[Ref]
-Very common (10% or more): Myalgia (15%), muscle spasms (11%)Common (1% to 10%): Limb pain, back pain, fracture, arthralgia, noncardiac chest pain[Ref]
-Very common (10% or more): Paresthesia (up to 29%), headache (11.5%), dizziness (10%) Common (1% to 10%): Fatigue, seizures[Ref]
-Common (1% to 10%): Asthenia[Ref]
-Common (1% to 10%): Dialysis access site infection[Ref]
-1. "Product Information. Sensipar (cinacalcet)." Amgen USA, Thousand Oaks, CA. 
-2. Giannikopoulos G,  Zorzou MP,  Stamoulis I, et al. "Cinacalcet-induced leukocytoclastic vasculitis." Am J Kidney Dis 54 (2009): e5-e8
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
+Very common (10% or more): Hypotension (11.6%)Common (1% to 10%): HypertensionFrequency not reported: Worsening heart failure, QT prolongation and ventricular arrhythmia secondary to hypocalcemia
+Very common (10% or more): Nausea (31%), vomiting (27%), diarrhea (21%), dyspepsia (13%), abdominal pain (10.9%)Common (1% to 10%): Upper abdominal pain, dyspepsia, anorexia, constipation
+Common (1% to 10%): Hypersensitivity reactionsPostmarketing reports: Rash, angioedema, urticaria
+Common (1% to 10%): Access site infection
+Very common (10% or more): Paresthesia (14 to 29%)Very rare (less than 0.01%): Leukocytoclastic vasculitis with palpable purpura on both upper and lower extremities
+Common (1% to 10%): Anemia
+Very common (10% or more): Hypocalcemia (11.2%)Common (1% to 10%): Hyperkalemia, dehydration
+Very common (10% or more): Cough (11.7%), upper respiratory infection (11%)Common (1% to 10%): Dyspnea
+Common (1% to 10%): Reduced testosterone levels
+Very common (10% or more): Myalgia (15%), muscle spasms (11%)Common (1% to 10%): Limb pain, back pain, fracture, arthralgia, noncardiac chest pain
+Very common (10% or more): Paresthesia (up to 29%), headache (11.5%), dizziness (10%) Common (1% to 10%): Fatigue, seizures
+Common (1% to 10%): Asthenia
+Common (1% to 10%): Dialysis access site infection
 It is possible that some side effects of Sensipar may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blurred vision
 chest pain
 dizziness
@@ -33,8 +23,6 @@ headache
 nervousness
 pounding in the ears
 slow or fast heartbeat
-
-
 Convulsions
 cough or hoarseness
 fever or chills
@@ -43,8 +31,6 @@ lower back or side pain
 muscle spasm or jerking of all extremities
 painful or difficult urination
 sudden loss of consciousness
-
-
 Abdominal or stomach cramps
 confusion
 decreased urine output
@@ -72,16 +58,11 @@ tremor
 troubled breathing
 unusual tiredness or weakness
 weight gain
-
-
 Diarrhea
 lack or loss of strength
 loss of appetite
 nausea
 vomiting
 weight loss
-
-
 Hives or welts, itching, rash
 redness of the skin
-

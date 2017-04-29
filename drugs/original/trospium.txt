@@ -1,27 +1,19 @@
 Commonly reported side effects of trospium include: constipation and xerostomia. Other side effects include: constipation, headache, xerophthalmia, and dry nose.  See below for a comprehensive list of adverse effects.
-Applies to trospium: oral capsule extended release, oral tablet
 As well as its needed effects, trospium may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking trospium, check with your doctor immediately:
 Some trospium side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to trospium: oral capsule extended release, oral tablet
-Cardiovascular side effects including palpitations, supraventricular tachycardia, chest pain, and hypertensive crisis have been reported during postmarketing experience.[Ref]
-Gastrointestinal side effects most commonly reported have included dry mouth (20.1% to 21.8%), constipation (9.5% to 9.6%), and abdominal pain (3.1%).  Abdominal distention, dry throat, upper abdominal pain, aggravated constipation, dyspepsia, vomiting, dysgeusia, and flatulence have been reported in less than 2% of patients.  Gastritis has been reported during postmarketing experience.  At least one case of abdominal cramps has also been reported.[Ref]
-Nervous system side effects have included headache (4.2%).  Nervous system side effects reported postmarketing have included dizziness, confusion, hallucinations, and somnolence.[Ref]
-Renal side effects have included urinary retention.[Ref]
-Ocular side effects have included dry eyes and blurred vision.  Abnormal vision has been reported during postmarketing experience.[Ref]
-Psychiatric side effects including hallucinations and delirium have been reported during postmarketing experience.[Ref]
-Other side effects have included fatigue.[Ref]
-Dermatologic side effects have included dry skin.  Rash has been reported during postmarketing experience.[Ref]
-Hypersensitivity side effects including anaphylactic reaction have been reported during postmarketing experience.[Ref]
-Metabolic side effects including rhabdomyolysis have been reported during postmarketing experience.[Ref]
-Immunologic side effects including Stevens-Johnson syndrome have been reported during postmarketing experience.[Ref]
-1. "Product Information. Sanctura (trospium chloride)." Odyssey Pharmaceutical, East Hanover, NJ. 
-2. Lopez Pereira P,  Miguelez C,  Caffarati J,  Estornell F,  Anguera A "Trospium chloride for the treatment of detrusor instability in children." J Urol 170 (2003): 1978-81
-3. Epstein BJ,  Gums JG,  Molina E "Newer agents for the management of overactive bladder." Am Fam Physician 74 (2006): 2061-8
+Cardiovascular side effects including palpitations, supraventricular tachycardia, chest pain, and hypertensive crisis have been reported during postmarketing experience.
+Gastrointestinal side effects most commonly reported have included dry mouth (20.1% to 21.8%), constipation (9.5% to 9.6%), and abdominal pain (3.1%).  Abdominal distention, dry throat, upper abdominal pain, aggravated constipation, dyspepsia, vomiting, dysgeusia, and flatulence have been reported in less than 2% of patients.  Gastritis has been reported during postmarketing experience.  At least one case of abdominal cramps has also been reported.
+Nervous system side effects have included headache (4.2%).  Nervous system side effects reported postmarketing have included dizziness, confusion, hallucinations, and somnolence.
+Renal side effects have included urinary retention.
+Ocular side effects have included dry eyes and blurred vision.  Abnormal vision has been reported during postmarketing experience.
+Psychiatric side effects including hallucinations and delirium have been reported during postmarketing experience.
+Other side effects have included fatigue.
+Dermatologic side effects have included dry skin.  Rash has been reported during postmarketing experience.
+Hypersensitivity side effects including anaphylactic reaction have been reported during postmarketing experience.
+Metabolic side effects including rhabdomyolysis have been reported during postmarketing experience.
+Immunologic side effects including Stevens-Johnson syndrome have been reported during postmarketing experience.
 It is possible that some side effects of trospium may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bladder pain
 bloody or cloudy urine
 decrease in the frequency of urination
@@ -31,8 +23,6 @@ difficulty in passing urine (dribbling)
 frequent urge to urinate
 lower back or side pain
 painful urination
-
-
 Chills
 cough
 diarrhea
@@ -51,8 +41,6 @@ sweating
 trouble sleeping
 unusual tiredness or weakness
 vomiting
-
-
 Blistering, peeling, or loosening of the skin
 changes in vision
 clammy skin
@@ -84,16 +72,12 @@ stiff or sore neck
 tightness in the chest
 unusual excitement, nervousness, or restlessness
 wheezing
-
-
 Back pain
 blurred vision
 difficulty having a bowel movement (stool)
 dry mouth
 dry skin
 sleepiness or unusual drowsiness
-
-
 Acid or sour stomach
 belching
 bloated or full feeling
@@ -107,8 +91,6 @@ stuffy nose
 trouble with urinating
 unable to have a bowel movement (stool)
 upper stomach pain
-
-
 Burning feeling in the chest or stomach
 change in taste
 dry throat
@@ -116,4 +98,3 @@ indigestion
 loss of taste
 swelling of the abdomen or stomach area
 tenderness in the stomach area
-

@@ -1,29 +1,17 @@
-Generic Name: influenza virus vaccine, live, trivalent
-Applies to influenza virus vaccine, live, trivalent: nasal solution, nasal spray
 In 1976, a number of people who received the “swine flu” influenza vaccine developed Guillain-Barré syndrome (GBS), which is a disease that may cause paralysis. Most of these people were over 25 years of age. Although only 10 out of every one million people who received the vaccine actually developed GBS, this number was 6 times higher than would normally have been expected. Most of the people who got GBS recovered completely.
 It is assumed that the “swine flu” virus included in the 1976 vaccine caused the problem, but this has not been proven. Since that time, the “swine flu” virus has not been used in influenza vaccines, and there has been no recurrence of GBS that was associated with influenza vaccinations.
-In addition to its needed effects, some unwanted effects may be caused by influenza virus vaccine, live, trivalent (the active ingredient contained in FluMist Quadrivalent). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking influenza virus vaccine, live, trivalent, check with your doctor or nurse immediately:
-Some of the side effects that can occur with influenza virus vaccine, live, trivalent may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to influenza virus vaccine, live, trivalent: nasal spray
-The most common adverse events were nasal congestion, headache, sore throat, and tiredness.[Ref]
-Very common (10% or more): Runny nose/nasal congestion (58%), sore throat (28%), cough (14%)Common (1% to 10%): Wheezing, sinusitis, sneezingUncommon (0.1% to 1%): Epistaxis[Ref]
-In a clinical trial, among children 6 to 23 months of age, wheezing requiring bronchodilator therapy or with significant respiratory symptoms occurred in 5.9% of FluMist recipients compared to 3.8% of active control (injectable influenza vaccine made by Sanofi Pasteur Inc) recipients (Relative Risk 1.5, 95% CI: 1.2, 2.1).  Wheezing was not increased in children 24 months of age and older.[Ref]
-Very common (10% or more): Headache (44%), decreased activity/lethargy (18%)Postmarketing reports: Exacerbation of symptoms of mitochondrial encephalomyopathy (Leigh syndrome), Guillain-Barre syndrome, Bell's Palsy, meningitis, eosinophilic meningitis, vaccine-associated meningitis[Ref]
-Very common (10% or more): Tiredness/weakness (26%), fever (16%)Common (1% to 10%): Hospitalizations, otitis media[Ref]
-Very common (10% or more): Muscle aches (17%), abdominal pain (12%)Common (1% to 10%): Chills[Ref]
-Very common (10% or more): Decreased appetite (21%)[Ref]
-Uncommon (0.1% to 1%): Hypersensitivity reactions (including anaphylactic reaction, facial edema, and urticaria)[Ref]
-Postmarketing reports: Nausea, vomiting, diarrhea[Ref]
-Postmarketing reports: Rash[Ref]
-Postmarketing reports: Pericarditis[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. FluMist (influenza virus vaccine, live, trivalent)." Medimmune Inc, Gaithersburg, MD. 
-Not all side effects for FluMist Quadrivalent may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse events were nasal congestion, headache, sore throat, and tiredness.
+Very common (10% or more): Runny nose/nasal congestion (58%), sore throat (28%), cough (14%)Common (1% to 10%): Wheezing, sinusitis, sneezingUncommon (0.1% to 1%): Epistaxis
+In a clinical trial, among children 6 to 23 months of age, wheezing requiring bronchodilator therapy or with significant respiratory symptoms occurred in 5.9% of FluMist recipients compared to 3.8% of active control (injectable influenza vaccine made by Sanofi Pasteur Inc) recipients (Relative Risk 1.5, 95% CI: 1.2, 2.1).  Wheezing was not increased in children 24 months of age and older.
+Very common (10% or more): Headache (44%), decreased activity/lethargy (18%)Postmarketing reports: Exacerbation of symptoms of mitochondrial encephalomyopathy (Leigh syndrome), Guillain-Barre syndrome, Bell's Palsy, meningitis, eosinophilic meningitis, vaccine-associated meningitis
+Very common (10% or more): Tiredness/weakness (26%), fever (16%)Common (1% to 10%): Hospitalizations, otitis media
+Very common (10% or more): Muscle aches (17%), abdominal pain (12%)Common (1% to 10%): Chills
+Very common (10% or more): Decreased appetite (21%)
+Uncommon (0.1% to 1%): Hypersensitivity reactions (including anaphylactic reaction, facial edema, and urticaria)
+Postmarketing reports: Nausea, vomiting, diarrhea
+Postmarketing reports: Rash
+Postmarketing reports: Pericarditis
 Chills
 cough
 decreased appetite
@@ -33,24 +21,18 @@ muscle aches
 sore throat
 stuffy or runny nose
 tiredness or weakness
-
-
 Earache
 pain or tenderness around the eyes and cheekbones
 redness or swelling in the ear
 shortness of breath or troubled breathing
 sneezing
 tightness of the chest or wheezing
-
-
 Difficulty with breathing or swallowing
 hives
 itching, especially of the feet or hands
 reddening of the skin, especially around the ears
 swelling of the eyes, face, or inside of the nose
 unusual tiredness or weakness (sudden and severe)
-
-
 Anxiety
 bloody nose
 blue or pale skin
@@ -77,12 +59,7 @@ unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 unusual tiredness or weakness
 vomiting
 weakness of the muscles in your face
-
-
 Abdominal or stomach pain
 irritability
 loss of appetite
-
-
 Welts
-

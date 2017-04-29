@@ -1,29 +1,8 @@
-Generic Name: triamcinolone nasal
-Applies to triamcinolone nasal: nasal aerosol powder, nasal spray
-In addition to its needed effects, some unwanted effects may be caused by triamcinolone nasal (the active ingredient contained in Allernaze). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking triamcinolone nasal:
-Some of the side effects that can occur with triamcinolone nasal may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to triamcinolone nasal: nasal aerosol, nasal aerosol with adapter, nasal spray
-Triamcinolone nasal (the active ingredient contained in Allernaze) has been generally well tolerated and, due to the nature of its administration, has not been inclined to produce the systemic adverse effects generally associated with the use of corticosteroids.[Ref]
-The central nervous system side effect of headache has been reported in 18% of patients.[Ref]
-Respiratory side effects have included nasal irritation, pharyngitis, dry mucous membranes, burning and stinging, congestion, epistaxis, sneezing, and rarely, nasal septal perforations.[Ref]
-Endocrine side effects have included rare reports of suppression of the hypothalamus-pituitary-adrenal axis.  The risk of adrenal suppression is less than that associated with systemic corticosteroids and is generally only of concern when using higher than recommended doses or in patients who may be particularly sensitive.[Ref]
-Ocular adverse effects are more commonly seen with systemic administration of corticosteroids.  However, posterior capsular cataracts have been occasionally reported with triamcinolone, especially with long-term use.  In addition, prolonged use of high-dose inhaled corticosteroids ( >= 440 mcg of triamcinolone nasal (the active ingredient contained in Allernaze)  may be associated with increased risk of ocular hypertension and open angle glaucoma.[Ref]
-1. Kobayashi RH, Beaucher WN, Koepke JW, Luskin A, Ransom JH, Rosen JP, Sullivan MJ, Alderfer VB, Simpson B, Smith JA "Triamcinolone acetonide aqueous nasal spray for the treatment of patients with perennial allergic rhinitis: a multicenter, randomized, double-blind, placebo-controlled study." Clin Ther 17 (1995): 503-13
-2. "Product Information. Nasacort (triamcinolone nasal)." Rhone-Poulenc Rorer, Collegeville, PA. 
-3. "Intranasal triamcinolone for allergic rhinitis." Med Lett Drugs Ther 33 (1991): 116-7
-4. Bernstein DI, Creticos PS, Busse WW, Cohen R, Graft DF, Howland WC, Lumry WR, Pedinoff AJ, Ratner PH, Lim J, Stokes A, M "Comparison of triamcinolone acetonide nasal inhaler with astemizole in the treatment of ragweed-induced allergic rhinitis." J Allergy Clin Immunol 97 (1996): 749-55
-5. Banov CH, Silvers WS, Green AV, Vanbavel JH, Winder JA, Feiss G, Simpson B, Furst JA, Smith JA "Placebo-controlled, double-blind study of the efficacy and safety of triamcinolone acetonide aerosol nasal inhaler in pediatric patients with seasonal allergic rhinitis." Clin Ther 18 (1996): 265-72
-6. Munk ZM, Laforce C, Furst JA, Simpson B, Feiss G, Smith JA "Efficacy and safety of triamcinolone acetonide aqueous nasal spray in patients with seasonal allergic rhinitis." Ann Allergy Asthma Immunol 77 (1996): 277-81
-7. Settipane G, Korenblat PE, Winder J, Lumry W, Murphree J, Alderfer VB, Simpson B, Smith JA "Triamcinolone acetonide aqueous nasal spray in patients with seasonal ragweed allergic rhinitis: a placebo-controlled, double-blind study." Clin Ther 17 (1995): 252-63
-8. Howland WC, Dockhorn R, Gillman S, Gross GN, Hille D, Simpson B, Furst JA, Feiss G, Smith JA "A comparison of effects of triamcinolone acetonide aqueous nasal spray, oral prednisone, and placebo on adrenocortical function in male patients with allergic rhinitis." J Allergy Clin Immunol 98 (1996): 32-8
-9. Wilson AM, McFarlane LC, Lipworth BJ "Effects of repeated once daily dosing of three intranasal corticosteroids on basal and dynamic measures of hypothalamic-pituitary-adrenal-axis activity." J Allergy Clin Immunol 101 (1998): 470-4
-10. Spaeth GL, Rodrigues MM, Weinreb S "Steroid-induced glaucoma: A. Persistent elevation of intraocular pressure B. Histopathological aspects." Trans Am Ophthalmol Soc 75 (1977): 353-81
-11. Cumming RG, Mitchell P, Leeder SR "Use of inhaled corticosteroids and the risk of cataracts." N Engl J Med 337 (1997): 8-14
-Not all side effects for Allernaze may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Triamcinolone nasal (the active ingredient contained in Allernaze) has been generally well tolerated and, due to the nature of its administration, has not been inclined to produce the systemic adverse effects generally associated with the use of corticosteroids.
+The central nervous system side effect of headache has been reported in 18% of patients.
+Respiratory side effects have included nasal irritation, pharyngitis, dry mucous membranes, burning and stinging, congestion, epistaxis, sneezing, and rarely, nasal septal perforations.
+Endocrine side effects have included rare reports of suppression of the hypothalamus-pituitary-adrenal axis.  The risk of adrenal suppression is less than that associated with systemic corticosteroids and is generally only of concern when using higher than recommended doses or in patients who may be particularly sensitive.
+Ocular adverse effects are more commonly seen with systemic administration of corticosteroids.  However, posterior capsular cataracts have been occasionally reported with triamcinolone, especially with long-term use.  In addition, prolonged use of high-dose inhaled corticosteroids ( >= 440 mcg of triamcinolone nasal (the active ingredient contained in Allernaze)  may be associated with increased risk of ocular hypertension and open angle glaucoma.
 Body aches or pain
 chills
 congestion
@@ -48,15 +27,11 @@ unexplained nosebleeds
 unusual tiredness or weakness
 voice changes
 vomiting
-
-
 Cough producing mucus
 difficulty with breathing
 noisy breathing
 shortness of breath
 tightness in the chest
-
-
 Blindness
 bloody mucus
 blurred vision
@@ -81,8 +56,6 @@ swelling of the eyelids, face, lips, hands, or feet
 tearing
 trouble healing
 white patches in the throat
-
-
 Acid or sour stomach
 belching
 heartburn
@@ -90,7 +63,4 @@ indigestion
 stomach discomfort, upset, or pain
 tooth problems
 upper abdominal or stomach pain
-
-
 Change in sense of smell or taste
-

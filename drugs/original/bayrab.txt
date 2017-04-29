@@ -1,37 +1,18 @@
-Generic Name: rabies immune globulin, human
-Applies to rabies immune globulin, human: intramuscular solution
-In addition to its needed effects, some unwanted effects may be caused by rabies immune globulin, human (the active ingredient contained in Bayrab). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking rabies immune globulin, human:
-Some of the side effects that can occur with rabies immune globulin, human may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to rabies immune globulin, human: intramuscular solution
-The most common adverse events were injection site and skin reactions.[Ref]
-Rare (less than 0.1%): Injection site: swelling, pain, erythema, induration, warmth, pruritus, rashFrequency not reported: Discomfort at injection site, soreness at injection site[Ref]
-Rare (less than 0.1%): Skin reaction, erythema, pruritus, skin rashFrequency not reported: Angioneurotic edema, bruising[Ref]
-Rare (less than 0.1%): Hypersensitivity, anaphylactic shock, allergic type reactions[Ref]
-Rare (less than 0.1%): Fever, malaise, chill, fatigue, influenza like illnessFrequency not reported: Mild temperature elevations, disabling pain that limited motion[Ref]
-Rare (less than 0.1%): Nephrotic syndrome[Ref]
-Rare (less than 0.1%): Tachycardia, hypotension[Ref]
-Rare (less than 0.1%): ArthralgiaFrequency not reported: Compartment syndrome, infiltration of wounds[Ref]
-Rare (less than 0.1%): Nausea, vomiting[Ref]
-Rare (less than 0.1%): Headache[Ref]
-Frequency not reported: Sensitization to repeated injections[Ref]
-1. "Product Information. Imogam Rabies-HT (rabies immune globulin, human)." sanofi pasteur, Swiftwater, PA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Hyperrab S/D (rabies immune globulin, human)." Grifols Therapeutics, Clayton, NC. 
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Bayrab may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse events were injection site and skin reactions.
+Rare (less than 0.1%): Injection site: swelling, pain, erythema, induration, warmth, pruritus, rashFrequency not reported: Discomfort at injection site, soreness at injection site
+Rare (less than 0.1%): Skin reaction, erythema, pruritus, skin rashFrequency not reported: Angioneurotic edema, bruising
+Rare (less than 0.1%): Hypersensitivity, anaphylactic shock, allergic type reactions
+Rare (less than 0.1%): Fever, malaise, chill, fatigue, influenza like illnessFrequency not reported: Mild temperature elevations, disabling pain that limited motion
+Rare (less than 0.1%): Nephrotic syndrome
+Rare (less than 0.1%): Tachycardia, hypotension
+Rare (less than 0.1%): ArthralgiaFrequency not reported: Compartment syndrome, infiltration of wounds
+Rare (less than 0.1%): Nausea, vomiting
+Rare (less than 0.1%): Headache
+Frequency not reported: Sensitization to repeated injections
 Cloudy or bloody urine
 high blood pressure
 large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
 swelling of the face, feet, or lower legs
-
-
 Fever
 pain, soreness, tenderness, or stiffness at the injection site
-
-
 Skin rash
-

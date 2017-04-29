@@ -1,39 +1,21 @@
-Generic Name: epinephrine
-Applies to epinephrine: injection injectable, injection solution
-In addition to its needed effects, some unwanted effects may be caused by epinephrine (the active ingredient contained in Adrenalin Chloride). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking epinephrine:
-
 If any of the following symptoms of overdose occur while taking epinephrine, get emergency help immediately:
-
-
-
-Applies to epinephrine: compounding powder, inhalation aerosol, inhalation solution, injectable kit, injectable solution, intravenous solution, subcutaneous suspension
-Due to the lack of randomized, controlled clinical trials for the treatment of anaphylaxis, the true incidence of adverse reactions associated with the systemic use of this drug is difficult to determine.  The most commonly reported adverse reactions include anxiety, apprehensiveness, restlessness, tremor, weakness, dizziness, sweating, palpitations, pallor, nausea and vomiting, headache, and/or respiratory difficulties.[Ref]
-Frequency not reported: Tachycardia, supraventricular tachycardia, ventricular arrhythmias, myocardial ischemia, myocardial infarction, limb/peripheral ischemia, palpitations, angina, arrhythmias, hypertension, vasoconstriction, ventricular ectopy, ventricular fibrillation, cold extremities, electrocardiogram changes, stress cardiomyopathy[Ref]
-Frequency not reported: Headache, paresthesia, tremor, stroke, central nervous system bleeding, dizziness, cerebral hemorrhage, memory impaired, lightheadedness, psychomotor agitation, tingling, Parkinsonism aggravated, syncope, convulsions, subarachnoid hemorrhage, hemiplegia[Ref]
-Frequency not reported: Nervousness, excitability, anxiety, apprehension, restlessness, disorientation, panic, hallucinations, psychosis, fear, sleeplessness/insomnia, tenseness, confusion, irritability[Ref]
-Frequency not reported: Extravasation, injection site pallor, coldness at injection site, hypoesthesia at injection site, injury at injection site, local ischemic necrosis[Ref]
-Frequency not reported: Diaphoresis, pallor, piloerection, skin blanching, skin necrosis with extravasation, necrotizing fasciitis, flushing/redness of skin and face, hyperhidrosis[Ref]
-Frequency not reported: Hypoglycemia, hyperglycemia, insulin resistance, hypokalemia, lactic acidosis, insulin secretion inhibited, metabolic acidosis, anorexia[Ref]
-Frequency not reported: Pulmonary edema, rales, respiratory difficulty, dyspnea, bronchospasm, hypoxia of mucosa[Ref]
-Frequency not reported: Renal insufficiency[Ref]
+Due to the lack of randomized, controlled clinical trials for the treatment of anaphylaxis, the true incidence of adverse reactions associated with the systemic use of this drug is difficult to determine.  The most commonly reported adverse reactions include anxiety, apprehensiveness, restlessness, tremor, weakness, dizziness, sweating, palpitations, pallor, nausea and vomiting, headache, and/or respiratory difficulties.
+Frequency not reported: Tachycardia, supraventricular tachycardia, ventricular arrhythmias, myocardial ischemia, myocardial infarction, limb/peripheral ischemia, palpitations, angina, arrhythmias, hypertension, vasoconstriction, ventricular ectopy, ventricular fibrillation, cold extremities, electrocardiogram changes, stress cardiomyopathy
+Frequency not reported: Headache, paresthesia, tremor, stroke, central nervous system bleeding, dizziness, cerebral hemorrhage, memory impaired, lightheadedness, psychomotor agitation, tingling, Parkinsonism aggravated, syncope, convulsions, subarachnoid hemorrhage, hemiplegia
+Frequency not reported: Nervousness, excitability, anxiety, apprehension, restlessness, disorientation, panic, hallucinations, psychosis, fear, sleeplessness/insomnia, tenseness, confusion, irritability
+Frequency not reported: Extravasation, injection site pallor, coldness at injection site, hypoesthesia at injection site, injury at injection site, local ischemic necrosis
+Frequency not reported: Diaphoresis, pallor, piloerection, skin blanching, skin necrosis with extravasation, necrotizing fasciitis, flushing/redness of skin and face, hyperhidrosis
+Frequency not reported: Hypoglycemia, hyperglycemia, insulin resistance, hypokalemia, lactic acidosis, insulin secretion inhibited, metabolic acidosis, anorexia
+Frequency not reported: Pulmonary edema, rales, respiratory difficulty, dyspnea, bronchospasm, hypoxia of mucosa
+Frequency not reported: Renal insufficiency
 Hypersensitivity side effects have been extremely unusual.  Contact dermatitis has been associated with ocularly applied epinephrine (the active ingredient contained in Adrenalin Chloride)  These reactions have typically presented with lid edema and a thick yellow discharge.
-Frequency not reported: Nausea, vomiting, bowel necrosis, hypersalivation[Ref]
-Frequency not reported: Urinary retention, difficult micturition[Ref]
-Frequency not reported: Thrombocytosis[Ref]
-Frequency not reported: Myonecrosis[Ref]
-Frequency not reported: Chest pain, weakness, gas gangrene, asthenia[Ref]
-Frequency not reported: Corneal endothelial damage[Ref]
-Frequency not reported: Growth hormone secretion stimulated[Ref]
-1. "Product Information. Epinephrine (EPINEPHrine)." Physicians Total Care, Tulsa, OK. 
-2. "Product Information. Auvi-Q (EPINEPHrine)." sanofi-aventis, Bridgewater, NJ. 
-3. "Product Information. EpiPen (EPINEPHrine)." Dey Laboratories, Napa, CA. 
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
-5. "Product Information. Adrenalin (EPINEPHrine)." A-S Medication Solutions, Chicago, IL. 
-6. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-7. "Product Information. Adrenaclick Two-Pack (EPINEPHrine)." Amedra Pharmaceuticals LLC, Middlesex, NJ. 
-Not all side effects for Adrenalin Chloride may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Nausea, vomiting, bowel necrosis, hypersalivation
+Frequency not reported: Urinary retention, difficult micturition
+Frequency not reported: Thrombocytosis
+Frequency not reported: Myonecrosis
+Frequency not reported: Chest pain, weakness, gas gangrene, asthenia
+Frequency not reported: Corneal endothelial damage
+Frequency not reported: Growth hormone secretion stimulated
 Abnormal or decreased touch sensation
 arm, back, or jaw pain
 bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
@@ -56,8 +38,6 @@ sweating
 trembling or shaking of the hands or feet
 troubled breathing
 unusual tiredness or weakness
-
-
 Agitation
 coldness of the skin
 coma
@@ -77,4 +57,3 @@ seizures
 stomach cramps
 stupor
 swelling of the face, ankles, or hands
-

@@ -1,32 +1,14 @@
-Generic Name: capsaicin topical
-Applies to capsaicin topical: topical cream, topical film, topical gel/jelly, topical liquid, topical lotion, topical ointment, topical pad, topical patch extended release, topical solution, topical stick
-In addition to its needed effects, some unwanted effects may be caused by capsaicin topical (the active ingredient contained in Capzasin-HP). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking capsaicin topical:
-Some of the side effects that can occur with capsaicin topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to capsaicin topical: compounding powder, topical cream, topical film, topical gel, topical kit, topical liquid, topical lotion, topical stick
-The most commonly reported side effects were application site erythema and application site pain.[Ref]
-Very common (10% or more): Application site erythema (63%), application site pain (42%)Common (1% to 10%): Application site pruritus, application site papules, application site edema, application site swelling, application site drynessUncommon (0.1% to 1%): Application site urticaria, application site paresthesia, application site dermatitis, application site hyperesthesia, application site excoriation, application site warmth, application site anesthesia, application site bruising, application site inflammation, application site exfoliation[Ref]
-Common (1% to 10%): HypertensionUncommon (0.1% to 1%): First degree atrio-ventricular (AV) block, tachycardia, palpitations, increased blood pressure[Ref]
-Uncommon (0.1% to 1%): Herpes zoster, pruritusFrequency not reported: Abnormal skin odor, second degree burns[Ref]
-Common (1% to 10%): Nasopharyngitis, bronchitis, sinusitisUncommon (0.1% to 1%): Cough, throat irritationFrequency not reported: Sneezing, dyspnea, wheezing, exacerbation of asthma, irritation of the mucous membranes of the respiratory tract (such as nasal and throat irritation)[Ref]
-Common (1% to 10%): Nausea[Ref]
-Uncommon (0.1% to 1%): Pain in extremity, muscle spasms[Ref]
-Uncommon (0.1% to 1%): Dysgeusia, hypoesthesia, burning sensationFrequency not reported: Headache, peripheral sensory neuropathy, dizziness, dysgeusia, hyperesthesia[Ref]
-Uncommon (0.1% to 1%): Eye irritationFrequency not reported: Irritation of the mucous membranes of the eyes, runny eyes[Ref]
-Frequency not reported: Peripheral edema[Ref]
-1. "Product Information. Zostrix-HP (capsaicin topical)." Medicis Pharmaceutical Corporation, Scottsdale, AZ. 
-2. "Product Information. Qutenza (capsaicin topical)." NeurogesX Inc, San Mateo, CA. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
-5. "Product Information. Zostrix (capsaicin topical)." Southwood Pharmaceuticals Inc, Lake Forest, CA. 
-6. "Product Information. Axsain (capsaicin topical)." Rodlen Laboratories, Vernon Hills, IL. 
-Not all side effects for Capzasin-HP may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were application site erythema and application site pain.
+Very common (10% or more): Application site erythema (63%), application site pain (42%)Common (1% to 10%): Application site pruritus, application site papules, application site edema, application site swelling, application site drynessUncommon (0.1% to 1%): Application site urticaria, application site paresthesia, application site dermatitis, application site hyperesthesia, application site excoriation, application site warmth, application site anesthesia, application site bruising, application site inflammation, application site exfoliation
+Common (1% to 10%): HypertensionUncommon (0.1% to 1%): First degree atrio-ventricular (AV) block, tachycardia, palpitations, increased blood pressure
+Uncommon (0.1% to 1%): Herpes zoster, pruritusFrequency not reported: Abnormal skin odor, second degree burns
+Common (1% to 10%): Nasopharyngitis, bronchitis, sinusitisUncommon (0.1% to 1%): Cough, throat irritationFrequency not reported: Sneezing, dyspnea, wheezing, exacerbation of asthma, irritation of the mucous membranes of the respiratory tract (such as nasal and throat irritation)
+Common (1% to 10%): Nausea
+Uncommon (0.1% to 1%): Pain in extremity, muscle spasms
+Uncommon (0.1% to 1%): Dysgeusia, hypoesthesia, burning sensationFrequency not reported: Headache, peripheral sensory neuropathy, dizziness, dysgeusia, hyperesthesia
+Uncommon (0.1% to 1%): Eye irritationFrequency not reported: Irritation of the mucous membranes of the eyes, runny eyes
+Frequency not reported: Peripheral edema
 Burning, itching, dryness, pain, redness, swelling, or soreness at the application site
-
-
 Cough
 cough-producing mucus
 difficulty with breathing
@@ -34,16 +16,12 @@ shortness of breath or troubled breathing
 sore throat
 stuffy or runny nose
 tightness in the chest or wheezing
-
-
 Blurred vision
 dizziness
 headache
 nervousness
 pounding in the ears
 slow or fast heartbeat
-
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 increased sensitivity to pain
 increased sensitivity to touch
@@ -52,17 +30,12 @@ tingling in the hands and feet
 unsteadiness or awkwardness
 unusual weight gain or loss
 weakness in the arms, hands, legs, or feet
-
-
 Fever
 muscle aches
 nausea
 pain or tenderness around the eyes and cheekbones
 unusual tiredness or weakness
 vomiting
-
-
 Abnormal skin color
 change in taste
 loss of taste
-

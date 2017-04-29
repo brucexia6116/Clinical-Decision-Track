@@ -1,29 +1,22 @@
-Generic Name: osimertinib
 Common side effects of Tagrisso include: cough.  See below for a comprehensive list of adverse effects.
-Applies to osimertinib: oral tablet
 As well as its needed effects, osimertinib (the active ingredient contained in Tagrisso) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking osimertinib, check with your doctor immediately:
 Some osimertinib side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to osimertinib: oral tablet
--The most common (more than 30%) adverse reactions were lymphopenia, thrombocytopenia, anemia, diarrhea, rash, neutropenia, and dry skin.-1% or less of patients developed fatal adverse reactions of interstitial lung disease (ILD)/pneumonitis, pneumonia, and cerebrovascular accident (CVA)/cerebral hemorrhage.[Ref]
-Very common (10% or more): Lymphopenia (63%), thrombocytopenia (54%), anemia (44%), neutropenia (33%)[Ref]
-Very common (10% or more): Diarrhea (42%), nausea (17%), decreased appetite (16%), constipation (15%), stomatitis (12%)[Ref]
-Very common (10% or more): Rash (41%), dry skin (31%), nail toxicity (25%), pruritus (14%)[Ref]
--Rash cases included various types of rash (generalized, erythematous, macular, maculo-papular, papular, pustular), erythema, folliculitis, acne, dermatitis, and acneform dermatitis.  -Dry skin included eczema, skin fissures, and xerosis.-Nail toxicity included nail and nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail dystrophy, nail infection, nail ridging, onychoclasis, onycholysis, onychomadesis, and paronychia.[Ref]
-Very common (10% or more): Hyponatremia (26%), hypermagnesemia (20%)[Ref]
-Eye disorders included dry eye, blurred vision, keratitis, cataract, eye irritation, blepharitis, eye pain, increased lacrimation, and vitreous floaters.[Ref]
-Very common (10% or more): Eye disorders (18%)Uncommon (0.1% to 1%): Other ocular toxicities[Ref]
-Very common (10% or more): Cough (14%)Common (1% to 10%): ILD/pneumonitis, pneumonia[Ref]
-Venous thromboembolism included cases of deep vein thrombosis, jugular venous thrombosis, and pulmonary embolism.[Ref]
-Very common (10% or more): Fatigue (14%)Common (1% to 10%): Venous thromboembolism[Ref]
-Very common (10% or more): Back pain (13%)[Ref]
-Very common (10% or more): Headache (10%)Common (1% to 10%): CVA/cerebral hemorrhage[Ref]
-Common (1% to 10%): CardiomyopathyFrequency not reported: QTc interval prolongation[Ref]
-1. "Product Information. Tagrisso (osimertinib)." Astra-Zeneca Pharmaceuticals, Wilmington, DE. 
+-The most common (more than 30%) adverse reactions were lymphopenia, thrombocytopenia, anemia, diarrhea, rash, neutropenia, and dry skin.-1% or less of patients developed fatal adverse reactions of interstitial lung disease (ILD)/pneumonitis, pneumonia, and cerebrovascular accident (CVA)/cerebral hemorrhage.
+Very common (10% or more): Lymphopenia (63%), thrombocytopenia (54%), anemia (44%), neutropenia (33%)
+Very common (10% or more): Diarrhea (42%), nausea (17%), decreased appetite (16%), constipation (15%), stomatitis (12%)
+Very common (10% or more): Rash (41%), dry skin (31%), nail toxicity (25%), pruritus (14%)
+-Rash cases included various types of rash (generalized, erythematous, macular, maculo-papular, papular, pustular), erythema, folliculitis, acne, dermatitis, and acneform dermatitis.  -Dry skin included eczema, skin fissures, and xerosis.-Nail toxicity included nail and nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail dystrophy, nail infection, nail ridging, onychoclasis, onycholysis, onychomadesis, and paronychia.
+Very common (10% or more): Hyponatremia (26%), hypermagnesemia (20%)
+Eye disorders included dry eye, blurred vision, keratitis, cataract, eye irritation, blepharitis, eye pain, increased lacrimation, and vitreous floaters.
+Very common (10% or more): Eye disorders (18%)Uncommon (0.1% to 1%): Other ocular toxicities
+Very common (10% or more): Cough (14%)Common (1% to 10%): ILD/pneumonitis, pneumonia
+Venous thromboembolism included cases of deep vein thrombosis, jugular venous thrombosis, and pulmonary embolism.
+Very common (10% or more): Fatigue (14%)Common (1% to 10%): Venous thromboembolism
+Very common (10% or more): Back pain (13%)
+Very common (10% or more): Headache (10%)Common (1% to 10%): CVA/cerebral hemorrhage
+Common (1% to 10%): CardiomyopathyFrequency not reported: QTc interval prolongation
 It is possible that some side effects of Tagrisso may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Anxiety
 cough
 dizziness, lightheadedness, or fainting
@@ -36,8 +29,6 @@ slurred speech
 sudden loss of coordination
 sudden, severe headache
 sudden, severe weakness or numbness in the arm or leg
-
-
 Blurred vision
 fever or chills
 general feeling of discomfort or illness
@@ -48,8 +39,6 @@ sore throat
 sudden, severe weakness on one side of the body
 temporary blindness
 thickening of bronchial secretions
-
-
 Back pain
 changes in the fingernails or toenails, including brittleness, inflammation, pain, redness, tenderness, separation from nail bed, or shedding of nails
 constipation
@@ -60,4 +49,3 @@ nausea
 skin rash, dryness, or itching
 swelling or inflammation of the mouth
 unusual tiredness or weakness
-

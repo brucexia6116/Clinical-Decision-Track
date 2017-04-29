@@ -1,41 +1,24 @@
-Generic Name: chlorhexidine topical
-Applies to chlorhexidine topical: topical application cream, topical application dressing, topical application gel/jelly, topical application liquid, topical application lotion, topical application pad, topical application solution, topical application sponge
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by chlorhexidine topical (the active ingredient contained in Hibiclens). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking chlorhexidine topical:
-
-
-Applies to chlorhexidine topical: compounding liquid, mucous membrane insert, mucous membrane liquid, topical dressing, topical liquid, topical pad, topical soap, topical solution, topical sponge
-The most commonly reported side effects include toothache, tongue coating, skin irritation and hypersensitivity reactions.[Ref]
-Very common (10% or more): Toothache (up to 50.7%)Common (1% to 10%): Dry mouth, glossodynia, oral paresthesia, dyspepsia, ulcerative stomatitis, gum hyperplasiaFrequency not reported: Mouth irritation, coated tongue, desquamation/superficial desquamation/oral mucosa swelling, parotid gland swelling, burning sensation of the tongue, increased dental calculus formation, aphthous ulcer, gingivitis/grossly obvious gingivitis, geographic tongue, tooth disorder, dental/gingival/mouth pain, broken/cracked/fractured teeth, mobile teeth, lost bridges/crowns/fillings, discoloration of the teeth, gums, and dorsum of the tonguePostmarketing reports: Stomatitis, glossitis, ulcer, glossal edema, sialadenitis/inflammation of the salivary glands[Ref]
-Toothache occurred most often in patients receiving the periodontal chip, and included dental/gingival/mouth pain, tenderness, aching, throbbing, soreness, discomfort, or sensitivity.Tooth disorder occurred most often in patients receiving the periodontal chip, and included broken/cracked/fractured teeth, mobile teeth, and lost bridges/crowns/fillings.[Ref]
-Very common (10% or more): Upper respiratory tract infection (up to 28.4%), sinusitis (up to 13.8%)Common (1% to 10%): Bronchitis, pharyngitisFrequency not reported: Bronchospasm, rhinitis, coughing, dyspnea[Ref]
-Bronchospasm occurred with hypersensitivity reactions.Upper respiratory tract infection and sinusitis have occurred most commonly in patients receiving the periodontal chip.[Ref]
-Common (1% to 10%): Ageusia/dysgeusia, hypoesthesiaFrequency not reported: Transient dysgeusia, headache, loss of consciousnessPostmarketing reports: Hypesthesia, paresthesia[Ref]
-Common (1% to 10%): Arthrosis, tendinitisFrequency not reported: Back pain, myalgia, arthralgia[Ref]
-Frequency not reported: Ulceration, desquamation, keratinization, mucocele, short frenum, pain, tenderness, aching, throbbing, soreness, discomfort, sensitivityPostmarketing reports: Minor irritation[Ref]
-Frequency not reported: Rash, erythema/generalized erythema, urticaria, dermatitis, pruritus, eczema, skin irritation, blisters, cold sweat, irritative or allergic skin reactions[Ref]
-Rash, erythema, and urticaria occurred with hypersensitivity reactions.Dermatitis, pruritus, erythema, eczema, rash, urticaria, skin irritation, and blisters occurred with allergic skin reactions.[Ref]
-Frequency not reported: Chemical burns in neonates, trauma, abscess, influenza-like symptoms, deafness, sensitive tissue irritation[Ref]
-Frequency not reported: Cardiac arrest, circulatory collapse, hypotension, tachycardia, hypertension[Ref]
-Cardiac arrest, circulatory collapse, hypotension, and tachycardia occurred as hypersensitivity reactions.[Ref]
-Frequency not reported: Anaphylactic shock, anaphylactoid reactions/fatal anaphylactic reactionsPostmarketing reports: Hypersensitivity and anaphylaxis[Ref]
-Frequency not reported: Irreversible corneal damage, irritation to the conjunctiva[Ref]
-Exposure of the eye to chlorhexidine cleanser, generally during preparation for facial surgery, has resulted in eye pain, edema of the epithelium, keratitis, inflammation of the conjunctiva, corneal epithelial cell loss, chronic corneal ulcers, and opacification.  Corneal transplantation to correct permanent damage has been required in some patients.Allergic conjunctivitis is rarely associated with the use of contact lens solutions which contain low concentrations of chlorhexidine as a preservative.[Ref]
-Hematuria occurred after bladder irrigation.[Ref]
-Frequency not reported: Dysmenorrhea, hematuria[Ref]
-Frequency not reported: Allergy[Ref]
-1. "Product Information. Chlorhexidine Gluconate (chlorhexidine topical)." A-S Medication Solutions, Chicago, IL. 
-2. "Product Information. Peridex (chlorhexidine)." Procter and Gamble Pharmaceuticals, Cincinnati, OH. 
-3. "Product Information. Biopatch (chlorhexidine topical)." Johnson and Johnson Medical Inc, Arlington, TX. 
-4. "Product Information. Periochip (chlorhexidine topical)." Astra USA, Westborough, MA. 
-5. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-6. Cerner Multum,  Inc. "Australian Product Information." O 0
-7. "Product Information. Hibiclens (chlorhexidine topical)." Astra-Zeneca Pharmaceuticals, Wilmington, DE. 
-Not all side effects for Hibiclens may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most commonly reported side effects include toothache, tongue coating, skin irritation and hypersensitivity reactions.
+Very common (10% or more): Toothache (up to 50.7%)Common (1% to 10%): Dry mouth, glossodynia, oral paresthesia, dyspepsia, ulcerative stomatitis, gum hyperplasiaFrequency not reported: Mouth irritation, coated tongue, desquamation/superficial desquamation/oral mucosa swelling, parotid gland swelling, burning sensation of the tongue, increased dental calculus formation, aphthous ulcer, gingivitis/grossly obvious gingivitis, geographic tongue, tooth disorder, dental/gingival/mouth pain, broken/cracked/fractured teeth, mobile teeth, lost bridges/crowns/fillings, discoloration of the teeth, gums, and dorsum of the tonguePostmarketing reports: Stomatitis, glossitis, ulcer, glossal edema, sialadenitis/inflammation of the salivary glands
+Toothache occurred most often in patients receiving the periodontal chip, and included dental/gingival/mouth pain, tenderness, aching, throbbing, soreness, discomfort, or sensitivity.Tooth disorder occurred most often in patients receiving the periodontal chip, and included broken/cracked/fractured teeth, mobile teeth, and lost bridges/crowns/fillings.
+Very common (10% or more): Upper respiratory tract infection (up to 28.4%), sinusitis (up to 13.8%)Common (1% to 10%): Bronchitis, pharyngitisFrequency not reported: Bronchospasm, rhinitis, coughing, dyspnea
+Bronchospasm occurred with hypersensitivity reactions.Upper respiratory tract infection and sinusitis have occurred most commonly in patients receiving the periodontal chip.
+Common (1% to 10%): Ageusia/dysgeusia, hypoesthesiaFrequency not reported: Transient dysgeusia, headache, loss of consciousnessPostmarketing reports: Hypesthesia, paresthesia
+Common (1% to 10%): Arthrosis, tendinitisFrequency not reported: Back pain, myalgia, arthralgia
+Frequency not reported: Ulceration, desquamation, keratinization, mucocele, short frenum, pain, tenderness, aching, throbbing, soreness, discomfort, sensitivityPostmarketing reports: Minor irritation
+Frequency not reported: Rash, erythema/generalized erythema, urticaria, dermatitis, pruritus, eczema, skin irritation, blisters, cold sweat, irritative or allergic skin reactions
+Rash, erythema, and urticaria occurred with hypersensitivity reactions.Dermatitis, pruritus, erythema, eczema, rash, urticaria, skin irritation, and blisters occurred with allergic skin reactions.
+Frequency not reported: Chemical burns in neonates, trauma, abscess, influenza-like symptoms, deafness, sensitive tissue irritation
+Frequency not reported: Cardiac arrest, circulatory collapse, hypotension, tachycardia, hypertension
+Cardiac arrest, circulatory collapse, hypotension, and tachycardia occurred as hypersensitivity reactions.
+Frequency not reported: Anaphylactic shock, anaphylactoid reactions/fatal anaphylactic reactionsPostmarketing reports: Hypersensitivity and anaphylaxis
+Frequency not reported: Irreversible corneal damage, irritation to the conjunctiva
+Exposure of the eye to chlorhexidine cleanser, generally during preparation for facial surgery, has resulted in eye pain, edema of the epithelium, keratitis, inflammation of the conjunctiva, corneal epithelial cell loss, chronic corneal ulcers, and opacification.  Corneal transplantation to correct permanent damage has been required in some patients.Allergic conjunctivitis is rarely associated with the use of contact lens solutions which contain low concentrations of chlorhexidine as a preservative.
+Hematuria occurred after bladder irrigation.
+Frequency not reported: Dysmenorrhea, hematuria
+Frequency not reported: Allergy
 oral liquid, oral solution
-
 Blistering, burning, itching, peeling, skin rash, redness, swelling, or other signs of irritation on the skin
 swelling of the face, hands, or feet
 trouble breathing
-

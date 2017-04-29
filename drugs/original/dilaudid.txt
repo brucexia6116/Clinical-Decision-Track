@@ -1,40 +1,23 @@
-Generic Name: hydromorphone
-Applies to hydromorphone: oral capsule extended release, oral liquid, oral solution, oral tablet, oral tablet extended release
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by hydromorphone (the active ingredient contained in Dilaudid). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking hydromorphone:
-
 If any of the following symptoms of overdose occur while taking hydromorphone, get emergency help immediately:
-
-Some of the side effects that can occur with hydromorphone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to hydromorphone: compounding powder, injectable powder for injection, injectable solution, intravenous solution, oral capsule extended release, oral liquid, oral tablet, oral tablet extended release, rectal suppository
-The most common adverse effects are lightheadedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.[Ref]
-Very common (10% or more): Constipation (up to 31%), nausea (up to 28%), vomiting (up to 14%), Common (1% to 10%): Dry mouth, dry mouth, abdominal pain, diarrhea, dyspepsiaUncommon (0.1% to 1%): Ileus, cramps, taste alteration, gastritis, diverticulitisRare (less than 0.1%): Anal fissure, bezoar, duodenitis, impaired gastric emptying, painful defecationFrequency not reported: Flatulence, dysphagia, hematochezia, abdominal distension, hemorrhoids, abnormal feces, intestinal obstruction, eructation, diverticulum, gastrointestinal motility disorder, large intestine perforationPostmarketing reports: Oropharyngeal swelling[Ref]
-Very common (10% or more): Somnolence (up to 15%), headache (up to 12%), dizziness (up to 11%)Common (1% to 10%): Lightheadedness, sedation, memory impairment, hypoesthesia, paresthesiaUncommon (0.1% to 1%): Tremor, nystagmus, increased intracranial pressure, taste alteration, involuntary muscle contractionsRare (less than 0.1%): Hyperreflexia Frequency not reported: Balance disorder, encephalopathy Postmarketing reports: Convulsions, drowsiness, dyskinesia, hyperalgesia, myoclonus[Ref]
-Common (1% to 10%): Dysphoria, euphoria, insomnia, anxiety, depression, nervousness, nightmares, mood swingsUncommon (0.1% to 1%): Agitation, altered mood, hallucination, disorientation, abnormal dreamsFrequency not reported: Floating feelings, dreams, apprehension, panic attack, suicide ideation, aggression Postmarketing reports: Confusional state[Ref]
-Postmarketing reports: Anaphylactic reactions, hypersensitivity reactions[Ref]
-Common (1% to 10%): DyspneaUncommon (0.1% to 1%): Bronchospasm, laryngospasmFrequency not reported: Respiratory depression, apnea, respiratory arrest, rhinorrhea, respiratory distress, hypoxia, sneezing, hyperventilationPostmarketing reports: Dyspnea[Ref]
-Common (1% to 10%): Flushing, hypotension, peripheral edema, chest painUncommon (0.1% to 1%): Tachycardia, bradycardia, palpitations, syncope, presyncope, hypertensionFrequency not reported: Circulatory depression, cardiac arrest, shock, extrasystolesPostmarketing reports: Peripheral edema[Ref]
-Common (1% to 10%): Sweating, pruritus, hyperhidrosis, rashUncommon (0.1% to 1%): Urticaria, diaphoresisFrequency not reported: ErythemaPostmarketing reports: Angioedema[Ref]
-Uncommon (0.1% to 1%): Injection site urticariaPostmarketing reports: Injection site reactions[Ref]
-Common (1% to 10%): Urinary retention, urinary hesitancyPostmarketing reports: Erectile dysfunction[Ref]
-Uncommon (0.1% to 1%): Biliary tract spasmRare (less than 0.1%): Biliary colicPostmarketing reports: Hepatic enzyme increased[Ref]
-Common (1% to 10%): Asthenia (up to 11%), pain, pyrexia, fallUncommon (0.1% to 1%): Weakness, abnormal feeling, chillsRare (less than 0.1%): Feeling drunkFrequency not reported: Neonatal withdrawal syndrome, addiction, abuse, misuse, overdose, drug withdrawal syndrome, vertigo, tinnitus, malaisePostmarketing reports: Fatigue, lethargy[Ref]
-Common (1% to 10%): Anorexia/decreased appetite, decreased weight, dehydration Uncommon (0.1% to 1%): Fluid retention, increased appetite, hyperuricemia[Ref]
-Common (1% to 10%): Arthralgia, muscle spasms, back pain, extremity painUncommon (0.1% to 1%): Muscle rigidityFrequency not reported: Myalgia[Ref]
-Uncommon (0.1% to 1%): Blurred vision, diplopia, miosis, visual impairmentFrequency not reported: Dry eye[Ref]
-Uncommon (0.1% to 1%): Antidiuretic effects[Ref]
-Uncommon (0.1% to 1%): Decreased libido, sexual dysfunctionRare (less than 0.1%): Hypogonadism,[Ref]
-1. "Product Information. Dilaudid (hydromorphone)." Knoll Pharmaceutical Company, Whippany, NJ. 
-2. "Multum Information Services, Inc. Expert Review Panel"  
-3. "Product Information. Exalgo (hydromorphone)." Covidien, Mansfield, MA. 
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-5. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Dilaudid may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most common adverse effects are lightheadedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
+Very common (10% or more): Constipation (up to 31%), nausea (up to 28%), vomiting (up to 14%), Common (1% to 10%): Dry mouth, dry mouth, abdominal pain, diarrhea, dyspepsiaUncommon (0.1% to 1%): Ileus, cramps, taste alteration, gastritis, diverticulitisRare (less than 0.1%): Anal fissure, bezoar, duodenitis, impaired gastric emptying, painful defecationFrequency not reported: Flatulence, dysphagia, hematochezia, abdominal distension, hemorrhoids, abnormal feces, intestinal obstruction, eructation, diverticulum, gastrointestinal motility disorder, large intestine perforationPostmarketing reports: Oropharyngeal swelling
+Very common (10% or more): Somnolence (up to 15%), headache (up to 12%), dizziness (up to 11%)Common (1% to 10%): Lightheadedness, sedation, memory impairment, hypoesthesia, paresthesiaUncommon (0.1% to 1%): Tremor, nystagmus, increased intracranial pressure, taste alteration, involuntary muscle contractionsRare (less than 0.1%): Hyperreflexia Frequency not reported: Balance disorder, encephalopathy Postmarketing reports: Convulsions, drowsiness, dyskinesia, hyperalgesia, myoclonus
+Common (1% to 10%): Dysphoria, euphoria, insomnia, anxiety, depression, nervousness, nightmares, mood swingsUncommon (0.1% to 1%): Agitation, altered mood, hallucination, disorientation, abnormal dreamsFrequency not reported: Floating feelings, dreams, apprehension, panic attack, suicide ideation, aggression Postmarketing reports: Confusional state
+Postmarketing reports: Anaphylactic reactions, hypersensitivity reactions
+Common (1% to 10%): DyspneaUncommon (0.1% to 1%): Bronchospasm, laryngospasmFrequency not reported: Respiratory depression, apnea, respiratory arrest, rhinorrhea, respiratory distress, hypoxia, sneezing, hyperventilationPostmarketing reports: Dyspnea
+Common (1% to 10%): Flushing, hypotension, peripheral edema, chest painUncommon (0.1% to 1%): Tachycardia, bradycardia, palpitations, syncope, presyncope, hypertensionFrequency not reported: Circulatory depression, cardiac arrest, shock, extrasystolesPostmarketing reports: Peripheral edema
+Common (1% to 10%): Sweating, pruritus, hyperhidrosis, rashUncommon (0.1% to 1%): Urticaria, diaphoresisFrequency not reported: ErythemaPostmarketing reports: Angioedema
+Uncommon (0.1% to 1%): Injection site urticariaPostmarketing reports: Injection site reactions
+Common (1% to 10%): Urinary retention, urinary hesitancyPostmarketing reports: Erectile dysfunction
+Uncommon (0.1% to 1%): Biliary tract spasmRare (less than 0.1%): Biliary colicPostmarketing reports: Hepatic enzyme increased
+Common (1% to 10%): Asthenia (up to 11%), pain, pyrexia, fallUncommon (0.1% to 1%): Weakness, abnormal feeling, chillsRare (less than 0.1%): Feeling drunkFrequency not reported: Neonatal withdrawal syndrome, addiction, abuse, misuse, overdose, drug withdrawal syndrome, vertigo, tinnitus, malaisePostmarketing reports: Fatigue, lethargy
+Common (1% to 10%): Anorexia/decreased appetite, decreased weight, dehydration Uncommon (0.1% to 1%): Fluid retention, increased appetite, hyperuricemia
+Common (1% to 10%): Arthralgia, muscle spasms, back pain, extremity painUncommon (0.1% to 1%): Muscle rigidityFrequency not reported: Myalgia
+Uncommon (0.1% to 1%): Blurred vision, diplopia, miosis, visual impairmentFrequency not reported: Dry eye
+Uncommon (0.1% to 1%): Antidiuretic effects
+Uncommon (0.1% to 1%): Decreased libido, sexual dysfunctionRare (less than 0.1%): Hypogonadism,
 injection powder for solution, injection solution
-
 Agitation
 bloody, black, or tarry stools
 blurred vision
@@ -55,8 +38,6 @@ trouble breathing
 unusual tiredness
 vomiting of material that looks like coffee grounds, severe and continuing
 wrinkled skin
-
-
 Bluish lips or skin
 change in the ability to see colors, especially blue or yellow
 cold, clammy skin
@@ -75,23 +56,17 @@ pale or blue lips, fingernails, or skin
 sweating
 tightness in the chest
 trouble sleeping
-
-
 Cold, clammy skin
 convulsions (seizures)
 drowsiness that is so severe you are not able to answer when spoken to or, if asleep, cannot be awakened
 pinpoint (small) pupils in the eyes
 slow heartbeat
 very slow or troubled breathing
-
-
 Difficulty having a bowel movement (stool)
 difficulty with moving
 joint pain
 muscle pain or stiffness
 nausea
-
-
 Acid or sour stomach
 back pain
 belching
@@ -109,8 +84,6 @@ stomach discomfort, upset, or pain
 tingling of the hands or feet
 trouble concentrating
 unusual weight gain or loss
-
-
 Being forgetful
 bleeding after defecation
 clumsiness
@@ -140,8 +113,6 @@ slurred speech
 sneezing
 swelling of the feet or lower legs
 trouble with speaking
-
-
 Bad, unusual or unpleasant (after) taste
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 chills
@@ -161,4 +132,3 @@ relaxed and calm feeling
 shaking
 uncontrolled eye movements
 upper stomach pain
-

@@ -1,11 +1,6 @@
-Generic Name: dexrazoxane
-Applies to dexrazoxane: intravenous powder for solution
 As well as its needed effects, dexrazoxane (the active ingredient contained in Zinecard) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking dexrazoxane, check with your doctor immediately:
 Some dexrazoxane side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to dexrazoxane: intravenous powder for injection
 Gastrointestinal side effects including nausea (43%), vomiting (19%), diarrhea (11%), abdominal pain (6%), and constipation (6%) have been reported.
 General side effects including pyrexia (21%), postoperative infection (16%), fatigue (13%), peripheral edema (10%), chest pain, chest discomfort, decreased drug effect, hyperpyrexia, and decreased therapeutic response have been reported.
 Local side effects including injection site pain (16%) and injection site phlebitis (6%) have been reported.
@@ -19,7 +14,6 @@ Hematologic side effects including anemia (6%), decreased WBC, decreased neutrop
 Hepatic side effects including increased bilirubin, increased AST, increased ALT, increased alkaline phosphatase, and increased LDH have been reported
 Metabolic side effects including increased creatinine, decreased sodium, and increased total calcium have been reported.
 It is possible that some side effects of Zinecard may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bluish color
 changes in skin color
 chest pain
@@ -41,15 +35,11 @@ troubled breathing
 unusual bleeding or bruising
 unusual tiredness or weakness
 wheezing
-
-
 Black, tarry stools
 chest discomfort
 fast, irregular, or pounding heartbeat
 pain at place of injection
 ulcers, sores, or white spots in mouth
-
-
 Diarrhea
 difficulty having a bowel movement (stool)
 discouragement
@@ -67,4 +57,3 @@ trouble concentrating
 trouble sleeping
 vomiting
 weight loss
-

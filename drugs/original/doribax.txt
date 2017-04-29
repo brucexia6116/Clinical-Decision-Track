@@ -1,39 +1,22 @@
-Generic Name: doripenem
-Applies to doripenem: intravenous powder for suspension
-In addition to its needed effects, some unwanted effects may be caused by doripenem (the active ingredient contained in Doribax). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking doripenem, check with your doctor or nurse immediately:
-Some of the side effects that can occur with doripenem may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to doripenem: intravenous powder for injection
-In 5 clinical trials, 1338 adult patients received this drug.  The most common side effects were anemia, headache, nausea, diarrhea, rash, elevated hepatic enzymes, and phlebitis.  During clinical studies, this drug was discontinued due to side effects in 4.1% of patients.[Ref]
-Very common (10% or more): Headache (up to 16%)Frequency not reported: DizzinessPostmarketing reports: Seizure[Ref]
-Very common (10% or more): Nausea (up to 12%), diarrhea (up to 12%)Common (1% to 10%): Oral candidiasisUncommon (0.1% to 1%): Clostridium difficile colitisFrequency not reported: Constipation, abdominal pain, dyspepsia[Ref]
-Frequency not reported: Hypersensitivity reactionsPostmarketing reports: Anaphylaxis[Ref]
-Serious and sometimes fatal hypersensitivity (anaphylactic) reactions have been reported with beta-lactams.[Ref]
-Common (1% to 10%): AnemiaPostmarketing reports: Neutropenia, leukopenia, thrombocytopenia[Ref]
-Common (1% to 10%): PhlebitisFrequency not reported: Atrial fibrillation, atrial flutter, hypertension, hypotension[Ref]
-Elevated hepatic enzymes also included ALT or AST at or below the upper limit of normal (ULN) at baseline increasing to greater than 5 times ULN at end of therapy.[Ref]
-Common (1% to 10%): Elevated hepatic enzymes (includes elevated ALT, elevated AST, elevated transaminases)Frequency not reported: Cholestasis[Ref]
-Common (1% to 10%): Rash, pruritusFrequency not reported: Erythema, macular/papular eruptions, bullous dermatitis, urticaria, erythema multiforme, allergic dermatitis, decubitus ulcerPostmarketing reports: Stevens-Johnson syndrome, toxic epidermal necrolysis[Ref]
-The incidence of rash was higher in patients receiving doses greater than the approved dose compared to those receiving the approved dose.  The rash resolved within 10 days after this drug was stopped.Serious skin reactions have been reported with beta-lactams.[Ref]
-Common (1% to 10%): Vulvomycotic infectionFrequency not reported: Urinary tract infection, asymptomatic bacteriuria[Ref]
-Frequency not reported: Pneumonitis, pneumonia, pleural effusion, dyspneaPostmarketing reports: Interstitial pneumonia[Ref]
-Pneumonitis has been reported when this drug was administered via inhalation.[Ref]
-Postmarketing reports: Renal impairment/renal failure[Ref]
-Frequency not reported: Hypokalemia[Ref]
-Frequency not reported: Pyrexia, peripheral edema[Ref]
-Frequency not reported: Insomnia, anxiety[Ref]
-1. "Doripenem (Doribax)--a new parenteral carbapenem." Med Lett Drugs Ther 50 (2008): 5-7
-2. Chastre J,  Wunderink R,  Prokocimer P,  Lee M,  Kaniga K,  Friedland I "Efficacy and safety of intravenous infusion of doripenem versus imipenem in ventilator-associated pneumonia: a multicenter, randomized study." Crit Care Med 36 (2008): 1089-96
-3. "Product Information. Doribax (doripenem)." Ortho McNeil Pharmaceutical, Raritan, NJ. 
-4. "Doripenem (doribax)--a new parenteral carbapenem." Obstet Gynecol 111 (2008): 1206-7
-5. Cerner Multum,  Inc "Malaysia product information." O 0 (2015):
-6. Cerner Multum,  Inc. "Australian Product Information." O 0
-7. EMEA. European Medicines Agency "EPARs. European Union Public Assessment Reports. Available from: URL: http://www.ema.europa.eu/ema/index.jsp?curl=pages/includes/medicines/medicines_landingpage.jsp&mid."  
-Not all side effects for Doribax may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+In 5 clinical trials, 1338 adult patients received this drug.  The most common side effects were anemia, headache, nausea, diarrhea, rash, elevated hepatic enzymes, and phlebitis.  During clinical studies, this drug was discontinued due to side effects in 4.1% of patients.
+Very common (10% or more): Headache (up to 16%)Frequency not reported: DizzinessPostmarketing reports: Seizure
+Very common (10% or more): Nausea (up to 12%), diarrhea (up to 12%)Common (1% to 10%): Oral candidiasisUncommon (0.1% to 1%): Clostridium difficile colitisFrequency not reported: Constipation, abdominal pain, dyspepsia
+Frequency not reported: Hypersensitivity reactionsPostmarketing reports: Anaphylaxis
+Serious and sometimes fatal hypersensitivity (anaphylactic) reactions have been reported with beta-lactams.
+Common (1% to 10%): AnemiaPostmarketing reports: Neutropenia, leukopenia, thrombocytopenia
+Common (1% to 10%): PhlebitisFrequency not reported: Atrial fibrillation, atrial flutter, hypertension, hypotension
+Elevated hepatic enzymes also included ALT or AST at or below the upper limit of normal (ULN) at baseline increasing to greater than 5 times ULN at end of therapy.
+Common (1% to 10%): Elevated hepatic enzymes (includes elevated ALT, elevated AST, elevated transaminases)Frequency not reported: Cholestasis
+Common (1% to 10%): Rash, pruritusFrequency not reported: Erythema, macular/papular eruptions, bullous dermatitis, urticaria, erythema multiforme, allergic dermatitis, decubitus ulcerPostmarketing reports: Stevens-Johnson syndrome, toxic epidermal necrolysis
+The incidence of rash was higher in patients receiving doses greater than the approved dose compared to those receiving the approved dose.  The rash resolved within 10 days after this drug was stopped.Serious skin reactions have been reported with beta-lactams.
+Common (1% to 10%): Vulvomycotic infectionFrequency not reported: Urinary tract infection, asymptomatic bacteriuria
+Frequency not reported: Pneumonitis, pneumonia, pleural effusion, dyspneaPostmarketing reports: Interstitial pneumonia
+Pneumonitis has been reported when this drug was administered via inhalation.
+Postmarketing reports: Renal impairment/renal failure
+Frequency not reported: Hypokalemia
+Frequency not reported: Pyrexia, peripheral edema
+Frequency not reported: Insomnia, anxiety
 Bluish color
 diarrhea
 pain, tenderness, or swelling of the foot or leg
@@ -41,8 +24,6 @@ pale skin
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abdominal or stomach cramps, pain, or tenderness
 bloody urine
 decreased frequency or amount of urine
@@ -60,8 +41,6 @@ troubled breathing
 watery and severe diarrhea, which may also be bloody
 weight gain
 white patches in the mouth or on the tongue
-
-
 Blistering, peeling, or loosening of the skin
 chills
 cough
@@ -79,7 +58,4 @@ skin rash or hives
 sores, ulcers, or white spots in the mouth or on the lips
 sudden loss of consciousness
 tightness in the chest
-
-
 Headache
-

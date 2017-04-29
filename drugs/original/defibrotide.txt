@@ -1,28 +1,17 @@
-Applies to defibrotide: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by defibrotide. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking defibrotide, check with your doctor or nurse immediately:
-Some of the side effects that can occur with defibrotide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to defibrotide: intravenous solution
-The most common adverse reactions were hypotension, diarrhea, vomiting, nausea, and epistaxis.  The most common adverse reactions considered to be life-threatening or fatal were hypotension (7%) and pulmonary alveolar hemorrhage (7%).  Hemorrhage events of any type and any grade were reported for 104 (59%) of the patients, and the events were considered life-threatening or fatal in 35 (20%).[Ref]
-Very common (10% or more): Hypotension (37%)[Ref]
-Very common (10% or more): Diarrhea (24%), vomiting (18%), nausea (16%)Common (1% to 10%): Gastrointestinal hemorrhageUncommon (0.1% to 1%): Hematemesis, melena, mouth hemorrhage[Ref]
-Very common (10% or more): Epistaxis (14%)Common (1% to 10%): Pulmonary alveolar hemorrhage, lung infiltration, pneumonia, pulmonary hemorrhageUncommon (0.1% to 1%): Hemothorax[Ref]
-Common (1% to 10%): Sepsis, graft versus host disease, infectionUncommon (0.1% to 1%): Hypersensitivity, anaphylactic reaction[Ref]
-Common (1% to 10%): Hemorrhage intracranial, cerebral hemorrhageUncommon (0.1% to 1%): Cerebral hematoma[Ref]
-Common (1% to 10%): Coagulopathy, hemorrhage[Ref]
-Common (1% to 10%): Catheter site hemorrhageUncommon (0.1% to 1%): Injection site hemorrhage[Ref]
-Common (1% to 10%): Hyperuricemia[Ref]
-Common (1% to 10%): Hematuria[Ref]
-Uncommon (0.1% to 1%): Ecchymosis, petechiae, rash, pruritus[Ref]
-Uncommon (0.1% to 1%): Conjunctival hemorrhage[Ref]
-Uncommon (0.1% to 1%): Pyrexia[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Defitelio (defibrotide)." Jazz Pharmaceuticals, Palo Alto, CA. 
-Not all side effects for defibrotide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions were hypotension, diarrhea, vomiting, nausea, and epistaxis.  The most common adverse reactions considered to be life-threatening or fatal were hypotension (7%) and pulmonary alveolar hemorrhage (7%).  Hemorrhage events of any type and any grade were reported for 104 (59%) of the patients, and the events were considered life-threatening or fatal in 35 (20%).
+Very common (10% or more): Hypotension (37%)
+Very common (10% or more): Diarrhea (24%), vomiting (18%), nausea (16%)Common (1% to 10%): Gastrointestinal hemorrhageUncommon (0.1% to 1%): Hematemesis, melena, mouth hemorrhage
+Very common (10% or more): Epistaxis (14%)Common (1% to 10%): Pulmonary alveolar hemorrhage, lung infiltration, pneumonia, pulmonary hemorrhageUncommon (0.1% to 1%): Hemothorax
+Common (1% to 10%): Sepsis, graft versus host disease, infectionUncommon (0.1% to 1%): Hypersensitivity, anaphylactic reaction
+Common (1% to 10%): Hemorrhage intracranial, cerebral hemorrhageUncommon (0.1% to 1%): Cerebral hematoma
+Common (1% to 10%): Coagulopathy, hemorrhage
+Common (1% to 10%): Catheter site hemorrhageUncommon (0.1% to 1%): Injection site hemorrhage
+Common (1% to 10%): Hyperuricemia
+Common (1% to 10%): Hematuria
+Uncommon (0.1% to 1%): Ecchymosis, petechiae, rash, pruritus
+Uncommon (0.1% to 1%): Conjunctival hemorrhage
+Uncommon (0.1% to 1%): Pyrexia
 Black, tarry stools
 bloody nose
 bloody stools
@@ -39,8 +28,6 @@ rapid, shallow breathing
 sweating
 unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
-
-
 Chest pain
 cough or hoarseness
 lower back or side pain
@@ -49,14 +36,10 @@ sneezing
 sore throat
 tightness in the chest
 troubled breathing
-
-
 Difficulty with swallowing
 hives, itching, or skin rash
 large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
-
-
 Bleeding gums
 coughing up blood
 headache
@@ -66,9 +49,6 @@ paralysis
 prolonged bleeding from cuts
 red or black, tarry stools
 red or dark brown urine
-
-
 Diarrhea
 nausea
 vomiting
-

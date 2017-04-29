@@ -1,30 +1,20 @@
-Applies to secukinumab: subcutaneous powder for solution, subcutaneous solution
 As well as its needed effects, secukinumab may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking secukinumab, check with your doctor immediately:
-
-
-Applies to secukinumab: subcutaneous powder for injection, subcutaneous solution
-Uncommon (0.1% to 1%): Tinea pedis, urticaria[Ref]
-Common (1% to 10%): Diarrhea, oral herpesUncommon (0.1% to 1%): Oral candidiasisFrequency not reported: Exacerbation of inflammatory bowel disease (IBD)[Ref]
-Rare (less than 0.1%): Anaphylaxis[Ref]
-Uncommon (0.1% to 1%): ImmunogenicityFrequency not reported: Candida infections, herpes viral infections, staphylococcal skin infections, infections requiring treatment (increased as serum concentration of this drug is increased), neutropenia[Ref]
-Very common (10% or more): Nasopharyngitis (up to 12.3%) Common (1% to 10%): Upper respiratory tract infection, rhinitis, pharyngitis, rhinorrhea[Ref]
-Uncommon (0.1% to 1%): Neutropenia[Ref]
-Uncommon (0.1% to 1%): Conjunctivitis[Ref]
-Uncommon (0.1% to 1%): Otitis externa[Ref]
-1. "Product Information. Cosentyx (secukinumab)." Novartis Pharmaceuticals, East Hanover, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
+Uncommon (0.1% to 1%): Tinea pedis, urticaria
+Common (1% to 10%): Diarrhea, oral herpesUncommon (0.1% to 1%): Oral candidiasisFrequency not reported: Exacerbation of inflammatory bowel disease (IBD)
+Rare (less than 0.1%): Anaphylaxis
+Uncommon (0.1% to 1%): ImmunogenicityFrequency not reported: Candida infections, herpes viral infections, staphylococcal skin infections, infections requiring treatment (increased as serum concentration of this drug is increased), neutropenia
+Very common (10% or more): Nasopharyngitis (up to 12.3%) Common (1% to 10%): Upper respiratory tract infection, rhinitis, pharyngitis, rhinorrhea
+Uncommon (0.1% to 1%): Neutropenia
+Uncommon (0.1% to 1%): Conjunctivitis
+Uncommon (0.1% to 1%): Otitis externa
 It is possible that some side effects of secukinumab may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Fever
 headache
 muscle aches
 sore throat
 stuffy or runny nose
 unusual tiredness or weakness
-
-
 Body aches or pain
 chills
 cough
@@ -33,8 +23,6 @@ ear congestion
 hives or welts, itching, or skin rash
 loss of voice
 redness of the skin
-
-
 Diarrhea
 difficulty with swallowing
 dizziness
@@ -45,4 +33,3 @@ severe diarrhea
 severe stomach pain
 tightness in the chest
 weight loss
-

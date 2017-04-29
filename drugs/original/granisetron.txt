@@ -1,43 +1,21 @@
 Commonly reported side effects of granisetron include: asthenia, constipation, and headache. Other side effects include: diarrhea, abdominal pain, and dyspepsia.  See below for a comprehensive list of adverse effects.
-Applies to granisetron: intravenous solution
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by granisetron. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking granisetron, check with your doctor or nurse immediately:
-Some of the side effects that can occur with granisetron may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to granisetron: intravenous solution, oral solution, oral tablet, subcutaneous suspension extended release, transdermal film extended release
-Nervous system side effects have been reported the most frequently.  These have included headache (up to 15% to 52.2%), dizziness (5% to 26.1%), insomnia (5%), anxiety (2%), somnolence (1%), asthenia, agitation, and stimulation.  Headache (0.7%) has been reported in patients using the granisetron transdermal system.  One case compatible with, but not diagnostic of, extrapyramidal symptoms has been reported.[Ref]
-Granisetron-induced headache is generally mild.  In clinical trials, headache typically resolved spontaneously or was relieved by analgesics.[Ref]
-Gastrointestinal side effects have included nausea (20%), constipation (3% to 50%), vomiting (12%), diarrhea (4% to 9%), abdominal pain (4% to 6%), dyspepsia (4% to 6%), flatulence, dry mouth, and taste disturbances.  Constipation (5.4%) has been reported in patients using the granisetron transdermal system.[Ref]
-Constipation appears to be dose related.  In dose-finding studies, constipation occurred in up to 50% of patients treated with single doses of granisetron 300 mcg/kg.  If necessary, constipation may be alleviated by the use of laxatives.[Ref]
-Hepatic side effects have been reported rarely.  These have included elevations in serum transaminases (two times normal values).  Causality is unknown.  Acute pancreatitis has also been reported.[Ref]
-Cardiovascular side effects have included hypertension in 1% of patients.  Atrial fibrillation, angina pectoris, and syncope have been reported rarely.  Hypotension, sinus bradycardia, A-V block, ventricular ectopy, QT prolongation, and ECG changes have been reported as well, although causality is unknown.[Ref]
-Results of a review of the cardiovascular effects of the drug class 5-hydroxytryptamine 3 receptor antagonists in the literature reported that electrocardiographic (ECG) changes were so small to be considered clinically insignificant.  ECG changes were most noticeable between 1 to 2 hours after a dose of granisetron and returned to baseline within 24 hours.  To date, no serious cardiac side effects (including torsades de pointes) triggered by  ECG interval changes have been connected with the use of 5-HT 3 receptor antagonists.[Ref]
-Hypersensitivity side effects have been reported rarely.  These have included skin rashes, facial flushing, anaphylactoid reactions, shortness of breath, hypotension, and urticaria.  One report suggests hypersensitivity reactions with 5-HT 3-antagonists may be a class effect and cross-reactive.[Ref]
-Other side effects including asthenia (5% to 18%) and fever (up to 8%) have been reported.[Ref]
-1. Abali H,  Celik I "Tropisetron, Ondansetron, and Granisetron for Control of Chemotherapy-Induced Emesis in Turkish Cancer Patients: A Comparison of Efficacy, Side-Effect Profile, and Cost." Cancer Invest 25 (2007): 135-139
-2. Dilly S "Granisetron (kytril) clinical safety and tolerance." Semin Oncol 21(3 Suppl) (1994): 10-4
-3. Plosker GL, Goa KL "Granisetron. A review of its pharmacological properties and therapeutic use as an antiemetic." Drugs 42 (1991): 805-24
-4. Diehl V, Marty M "Efficacy and safety of antiemetics." Cancer Treat Rev 20 (1994): 379-92
-5. "Product Information. Kytril (granisetron)." SmithKline Beecham, Philadelphia, PA. 
-6. Joss RA, Dott CS "Clinical studies with granisetron, a new 5-HT3 receptor antagonist for the treatment of cancer chemotherapy-induced emesis. The Granisetron Study Group." Eur J Cancer 29A (1993): S22-9
-7. Pintens H "Granisetron (BRL 43694) in the treatment of cytostatic drug-induced emesis: a summary." Cancer Treat Rev 17 (1990): 307-10
-8. Watanabe H, Hasegawa A, Shinozaki T, Arita S, Chigira M "Possible cardiac side effects of granisetron, an antiemetic agent, in patients with bone and soft-tissue sarcomas receiving cytotoxic chemotherapy." Cancer Chemother Pharmacol 35 (1995): 278-82
-9. Navari RM,  Koeller JM "Electrocardiographic and cardiovascular effects of the 5-hydroxytryptamine(3) receptor antagonists." Ann Pharmacother 37 (2003): 1276-86
-10. Kataja V, Debruijn KM "Hypersensitivity reactions associated with 5-hydroxytryptamine(3)-receptor antagonists: a class effect?" Lancet 347 (1996): 584-5
-11. Kaufman MB "Adverse effects associated with dexamethasone, lorazepam, and granisetron." Ann Pharmacother 28 (1994): 1306-7
-Not all side effects for granisetron may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Nervous system side effects have been reported the most frequently.  These have included headache (up to 15% to 52.2%), dizziness (5% to 26.1%), insomnia (5%), anxiety (2%), somnolence (1%), asthenia, agitation, and stimulation.  Headache (0.7%) has been reported in patients using the granisetron transdermal system.  One case compatible with, but not diagnostic of, extrapyramidal symptoms has been reported.
+Granisetron-induced headache is generally mild.  In clinical trials, headache typically resolved spontaneously or was relieved by analgesics.
+Gastrointestinal side effects have included nausea (20%), constipation (3% to 50%), vomiting (12%), diarrhea (4% to 9%), abdominal pain (4% to 6%), dyspepsia (4% to 6%), flatulence, dry mouth, and taste disturbances.  Constipation (5.4%) has been reported in patients using the granisetron transdermal system.
+Constipation appears to be dose related.  In dose-finding studies, constipation occurred in up to 50% of patients treated with single doses of granisetron 300 mcg/kg.  If necessary, constipation may be alleviated by the use of laxatives.
+Hepatic side effects have been reported rarely.  These have included elevations in serum transaminases (two times normal values).  Causality is unknown.  Acute pancreatitis has also been reported.
+Cardiovascular side effects have included hypertension in 1% of patients.  Atrial fibrillation, angina pectoris, and syncope have been reported rarely.  Hypotension, sinus bradycardia, A-V block, ventricular ectopy, QT prolongation, and ECG changes have been reported as well, although causality is unknown.
+Results of a review of the cardiovascular effects of the drug class 5-hydroxytryptamine 3 receptor antagonists in the literature reported that electrocardiographic (ECG) changes were so small to be considered clinically insignificant.  ECG changes were most noticeable between 1 to 2 hours after a dose of granisetron and returned to baseline within 24 hours.  To date, no serious cardiac side effects (including torsades de pointes) triggered by  ECG interval changes have been connected with the use of 5-HT 3 receptor antagonists.
+Hypersensitivity side effects have been reported rarely.  These have included skin rashes, facial flushing, anaphylactoid reactions, shortness of breath, hypotension, and urticaria.  One report suggests hypersensitivity reactions with 5-HT 3-antagonists may be a class effect and cross-reactive.
+Other side effects including asthenia (5% to 18%) and fever (up to 8%) have been reported.
 transdermal patch extended release
-
 Blurred vision
 fever
 nervousness
 pounding in the ears
 slow or fast heartbeat
-
-
 Arm, back, or jaw pain
 chest pain or discomfort
 chest tightness or heaviness
@@ -49,8 +27,6 @@ nausea
 shortness of breath
 skin rash, hives, and itching
 sweating
-
-
 Abdominal or stomach pain
 diarrhea
 difficulty having a bowel movement (stool)
@@ -58,8 +34,6 @@ headache
 lack or loss of strength
 unusual tiredness or weakness
 vomiting
-
-
 Agitation
 dizziness
 drowsiness
@@ -70,4 +44,3 @@ sleepiness or unusual drowsiness
 sour stomach
 trouble with sleeping
 unusual taste in the mouth
-

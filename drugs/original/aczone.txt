@@ -1,24 +1,13 @@
-Generic Name: dapsone topical
-Applies to dapsone topical: topical gel/jelly
-In addition to its needed effects, some unwanted effects may be caused by dapsone topical (the active ingredient contained in Aczone). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dapsone topical:
-Some of the side effects that can occur with dapsone topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dapsone topical: topical gel
-The most commonly reported side effects were application site reaction not otherwise specified, application site dryness, application site erythema, and oiliness/peeling.[Ref]
-Frequency not reported: Agranulocytosis, hemolytic anemiaPostmarketing reports: Methemoglobinemia[Ref]
-Frequency not reported: Toxic epidermal necrolysis, erythema multiforme, morbilliform and scarlatiniform reactions, bullous and exfoliative dermatitis, erythema nodosum, urticaria[Ref]
-Very common (10% or more): Application site reaction not otherwise specified (18%), application site dryness (16%), application site erythema (13%), oiliness/peeling (up to 13%)Common (1% to 10%): Application site pruritus[Ref]
-Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection not otherwise specified, sinusitis not otherwise specified, influenza, pharyngitis, cough[Ref]
-Common (1% to 10%): PyrexiaVery rare (less than 0.01%): Facial swelling[Ref]
-Common (1% to 10%): Joint sprain[Ref]
-Common (1% to 10%): Headache not otherwise specifiedFrequency not reported: Tonic clonic movements, peripheral neuropathy (motor loss and muscle weakness)[Ref]
-Very rare (less than 0.01%): Depression, psychosisFrequency not reported: Suicide attempt[Ref]
-Frequency not reported: Abdominal pain, severe vomiting, pancreatitis[Ref]
-1. "Product Information. Aczone (dapsone topical)." QLT USA, Inc, Fort Collins, CO. 
-Not all side effects for Aczone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were application site reaction not otherwise specified, application site dryness, application site erythema, and oiliness/peeling.
+Frequency not reported: Agranulocytosis, hemolytic anemiaPostmarketing reports: Methemoglobinemia
+Frequency not reported: Toxic epidermal necrolysis, erythema multiforme, morbilliform and scarlatiniform reactions, bullous and exfoliative dermatitis, erythema nodosum, urticaria
+Very common (10% or more): Application site reaction not otherwise specified (18%), application site dryness (16%), application site erythema (13%), oiliness/peeling (up to 13%)Common (1% to 10%): Application site pruritus
+Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection not otherwise specified, sinusitis not otherwise specified, influenza, pharyngitis, cough
+Common (1% to 10%): PyrexiaVery rare (less than 0.01%): Facial swelling
+Common (1% to 10%): Joint sprain
+Common (1% to 10%): Headache not otherwise specifiedFrequency not reported: Tonic clonic movements, peripheral neuropathy (motor loss and muscle weakness)
+Very rare (less than 0.01%): Depression, psychosisFrequency not reported: Suicide attempt
+Frequency not reported: Abdominal pain, severe vomiting, pancreatitis
 Bluish-colored lips, fingernails, or palms
 dark urine
 difficult breathing
@@ -30,7 +19,4 @@ rapid heart rate
 sore throat
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Dryness, redness, oiliness, or peeling at the application site
-

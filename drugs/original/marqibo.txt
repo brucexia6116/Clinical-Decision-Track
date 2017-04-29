@@ -1,26 +1,15 @@
-Generic Name: vincristine liposome
 Common side effects of Marqibo include: anemia, constipation, neutropenia, and thrombocytopenia. Other side effects include: asthenia, increased serum aspartate aminotransferase, and intestinal obstruction.  See below for a comprehensive list of adverse effects.
-Applies to vincristine liposome: intravenous solution, intravenous suspension
-In addition to its needed effects, some unwanted effects may be caused by vincristine liposome (the active ingredient contained in Marqibo). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking vincristine liposome, check with your doctor or nurse immediately:
-Some of the side effects that can occur with vincristine liposome may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to vincristine liposome: intravenous kit
-Frequency not reported: Hypotension, cardiac arrest[Ref]
-Very common (10% or more): Constipation (57%), nausea (52%), diarrhea (37%), decreased appetite (33%)Frequency not reported: Abdominal pain, ileus/colonic pseudo-obstruction[Ref]
-Side effects that have resulted in non-leukemia related deaths: Brain infarct, intracerebral hemorrhage, liver failure, multisystem organ failure, pneumonia and septic shock, respiratory failure, pulmonary hemorrhage, sudden cardiac death[Ref]
-Very common (10% or more): Febrile neutropenia (38%), neutropenia (31.3%), anemia (34%), thrombocytopenia (16.9%)Frequency not reported: Neutropenia, thrombocytopenia, Tumor lysis syndrome[Ref]
-Frequency not reported: Increased aspartate aminotransferase[Ref]
-Frequency not reported: Asthenia, muscular weakness, musculoskeletal pain[Ref]
-Very common (10% or more): Peripheral neuropathy (39%), insomnia (32%)Frequency not reported: Peripheral sensory and motor neuropathy, decreased vibratory sense, facial palsy, hyporeflexia[Ref]
-Very common (10% or more): Pyrexia (43%), fatigue (41%)Frequency not reported: Pain, septic shock, staphylococcal bacteremia[Ref]
-Frequency not reported: Mental status changes[Ref]
-Frequency not reported: Pneumonia, respiratory distress, respiratory failure[Ref]
-1. "Product Information. Marqibo (vinCRIStine liposome)." Talon Therapeutics Inc, South San Francisco,, CA. 
-Not all side effects for Marqibo may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Hypotension, cardiac arrest
+Very common (10% or more): Constipation (57%), nausea (52%), diarrhea (37%), decreased appetite (33%)Frequency not reported: Abdominal pain, ileus/colonic pseudo-obstruction
+Side effects that have resulted in non-leukemia related deaths: Brain infarct, intracerebral hemorrhage, liver failure, multisystem organ failure, pneumonia and septic shock, respiratory failure, pulmonary hemorrhage, sudden cardiac death
+Very common (10% or more): Febrile neutropenia (38%), neutropenia (31.3%), anemia (34%), thrombocytopenia (16.9%)Frequency not reported: Neutropenia, thrombocytopenia, Tumor lysis syndrome
+Frequency not reported: Increased aspartate aminotransferase
+Frequency not reported: Asthenia, muscular weakness, musculoskeletal pain
+Very common (10% or more): Peripheral neuropathy (39%), insomnia (32%)Frequency not reported: Peripheral sensory and motor neuropathy, decreased vibratory sense, facial palsy, hyporeflexia
+Very common (10% or more): Pyrexia (43%), fatigue (41%)Frequency not reported: Pain, septic shock, staphylococcal bacteremia
+Frequency not reported: Mental status changes
+Frequency not reported: Pneumonia, respiratory distress, respiratory failure
 Abdominal or stomach pain
 black, tarry stools
 bleeding gums
@@ -56,12 +45,8 @@ ulcers, sores, or white spots in the mouth
 unsteadiness or awkwardness
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Blue lips, fingernails, or skin
 irregular, fast or slow, or shallow breathing
-
-
 Abdominal or stomach tenderness
 clay colored stools
 dark urine
@@ -74,13 +59,8 @@ nausea and vomiting
 skin rash
 swelling of the feet or lower legs
 yellow eyes or skin
-
-
 Lack or loss of strength
 mental depression or anxiety
 muscle weakness
 nightmares or unusually vivid dreams
-
-
 Redness, pain, or swelling at the injection site
-

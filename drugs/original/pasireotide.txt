@@ -1,28 +1,20 @@
 Commonly reported side effects of pasireotide include: asthenia, cholelithiasis, fatigue, hypoglycemia, increased serum alanine aminotransferase, nausea, and vomiting. Other side effects include: adrenocortical insufficiency, hypotension, and increased serum glucose.  See below for a comprehensive list of adverse effects.
-Applies to pasireotide: powder for suspension, solution
 As well as its needed effects, pasireotide may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking pasireotide, check with your doctor immediately:
 Some pasireotide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to pasireotide: intramuscular powder for injection extended release, subcutaneous solution
-Very common (10% or more): Hypertension (10%) Common (1% to 10%): Hypotension (7%), prolonged QT (6%), sinus bradycardia (6%)[Ref]
-Very common (10% or more): Alopecia (12%)Common (1% to 10%): Pruritus (8%), dry skin (6%)[Ref]
-Common (1% to 10%): Adrenal insufficiency (6%)[Ref]
-Very common (10% or more): Diarrhea (58%), nausea (52%), abdominal pain (24%), upper abdominal pain (10%)Common (1% to 10%): Constipation (7%), vomiting (7%), abdominal distention (6%)[Ref]
-Very common (10% or more): Asthenia (11%), peripheral edema (10%), decreased appetite (10%)[Ref]
-Very common (10% or more): Elevated PTT (47%), elevated PT (33%)Common (1% to 10%): Anemia[Ref]
-Very common (10% or more): Cholelithiasis (30%), alanine aminotransferase increased (10%), gamma-glutamyl transferase increased (10%)Common (1% to 10%): Aspartate aminotransferase increased (6%)[Ref]
-Very common (10% or more): Injection site reactions (17%)[Ref]
-Very common (10% or more): Hyperglycemia (40%), diabetes mellitus (18%), glycosylated hemoglobin increased (11%), hypercholesterolemia (10%)Common (1% to 10%): Hypoglycemia (9%), Type 2 diabetes mellitus (9%), lipase increased (7%), hypokalemia (6%), blood glucose increased (6%), blood amylase increased (2%)[Ref]
-Common (1% to 10%): Myalgia (9%), arthralgia (8%), back pain (6%), pain in extremity (6%)[Ref]
-Very common (10% or more): Headache (28%), fatigue (19%)Common (1% to 10%): Dizziness (9%), anxiety (9%), insomnia (9%), vertigo (6%)[Ref]
-Very common (10% or more): Nasopharyngitis (13%)Common (1% to 10%): Influenza (9%)[Ref]
-1. "Product Information. Signifor (pasireotide)." Novartis Pharmaceuticals, East Hanover, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
+Very common (10% or more): Hypertension (10%) Common (1% to 10%): Hypotension (7%), prolonged QT (6%), sinus bradycardia (6%)
+Very common (10% or more): Alopecia (12%)Common (1% to 10%): Pruritus (8%), dry skin (6%)
+Common (1% to 10%): Adrenal insufficiency (6%)
+Very common (10% or more): Diarrhea (58%), nausea (52%), abdominal pain (24%), upper abdominal pain (10%)Common (1% to 10%): Constipation (7%), vomiting (7%), abdominal distention (6%)
+Very common (10% or more): Asthenia (11%), peripheral edema (10%), decreased appetite (10%)
+Very common (10% or more): Elevated PTT (47%), elevated PT (33%)Common (1% to 10%): Anemia
+Very common (10% or more): Cholelithiasis (30%), alanine aminotransferase increased (10%), gamma-glutamyl transferase increased (10%)Common (1% to 10%): Aspartate aminotransferase increased (6%)
+Very common (10% or more): Injection site reactions (17%)
+Very common (10% or more): Hyperglycemia (40%), diabetes mellitus (18%), glycosylated hemoglobin increased (11%), hypercholesterolemia (10%)Common (1% to 10%): Hypoglycemia (9%), Type 2 diabetes mellitus (9%), lipase increased (7%), hypokalemia (6%), blood glucose increased (6%), blood amylase increased (2%)
+Common (1% to 10%): Myalgia (9%), arthralgia (8%), back pain (6%), pain in extremity (6%)
+Very common (10% or more): Headache (28%), fatigue (19%)Common (1% to 10%): Dizziness (9%), anxiety (9%), insomnia (9%), vertigo (6%)
+Very common (10% or more): Nasopharyngitis (13%)Common (1% to 10%): Influenza (9%)
 It is possible that some side effects of pasireotide may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Abdominal or stomach pain or fullness
 anxiety
 bloating or swelling of the face, arms, hands, lower legs, or feet
@@ -70,8 +62,6 @@ unexplained weight loss
 unusual tiredness or weakness
 unusual weight gain or loss
 yellow eyes or skin
-
-
 Clay-colored stools
 constipation
 darkened urine
@@ -88,8 +78,6 @@ pains in the stomach, side, or abdomen, possibly radiating to the back
 unpleasant breath odor
 vomiting of blood
 weight gain
-
-
 Back pain
 bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 cough
@@ -109,4 +97,3 @@ swelling of the abdominal or stomach area
 swollen joints
 trouble sleeping
 upper abdominal or stomach pain
-

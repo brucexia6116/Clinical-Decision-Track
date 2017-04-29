@@ -1,48 +1,37 @@
 Commonly reported side effects of nabumetone include: abdominal pain, diarrhea, and dyspepsia. Other side effects include: constipation, dizziness, edema, headache, heme positive stools, nausea, pruritus, skin rash, tinnitus, and flatulence.  See below for a comprehensive list of adverse effects.
-Applies to nabumetone: oral tablet
 As well as its needed effects, nabumetone may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking nabumetone, check with your doctor immediately:
 Some nabumetone side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to nabumetone: oral tablet
-Very common (10% or more): Diarrhea (14%), dyspepsia (13%), abdominal pain (12%)Common (1% to 10%): Constipation, flatulence, nausea, positive stool guaiac, dry mouth, gastritis, stomatitis, vomitingUncommon (0.1% to 1%): Duodenal ulcer, GI bleeding, gastric ulcer, GI disorder, melena, stomatitisVery rare (less than 0.01%): PancreatitisFrequency not reported: Anorexia, dysphagia, gastroenteritis, duodenitis, eructation, glossitis, rectal bleeding[Ref]
-Uncommon (0.1% to 1%): Elevated liver function testsVery rare (less than 0.01%): Hepatic failure, jaundiceFrequency not reported: Liver function abnormalities, gallstones[Ref]
-Very rare (less than 0.01%): Renal failure, nephrotic syndromeFrequency not reported: Albuminuria, azotemia, interstitial nephritis, renal stones[Ref]
-Common (1% to 10%): Sweating increased, pruritus, rashUncommon (0.1% to 1%): Photosensitivity, urticariaVery rare (less than 0.01%): Bullous eruptions, pseudoporphyria cutanea tarda, acne, alopecia, toxic epidermal necrolysis, erythema multiforme, Stevens-Johnson syndrome, angioedemaFrequency not reported: Purpura[Ref]
-Very rare (less than 0.01%): ThrombocytopeniaFrequency not reported: Anemia, leukopenia, granulocytopenia, neutropenia, agranulocytosis, aplastic anemia, hemolytic anemia[Ref]
-Very rare (less than 0.01%): Anaphylactoid reaction, anaphylaxis[Ref]
-Common (1% to 10%): Dizziness, headache, somnolenceUncommon (0.1% to 1%): ParesthesiaFrequency not reported: Tremor, syncope, drowsiness[Ref]
-Common (1% to 10%): Insomnia, nervousnessUncommon (0.1% to 1%): Confusion, anxietyFrequency not reported: Agitation, depression, nightmares, hallucinations[Ref]
-Common (1% to 10%): Hypertension/blood pressure increasedFrequency not reported: Vasculitis, angina, arrhythmia, myocardial infarction, palpitations, thrombophlebitis, cardiac failure[Ref]
-Uncommon (0.1% to 1%): Dyspnea, respiratory disorder, epistaxisVery rare (less than 0.01%): Interstitial pneumonitisFrequency not reported: Asthma, cough, aggravated asthma, bronchospasmPostmarketing reports: Eosinophilic pneumonia, hypersensitivity pneumonitis, idiopathic interstitial pneumonitis[Ref]
-Common (1% to 10%): Fatigue, tinnitus, edema, ear disorderUncommon (0.1% to 1%): Asthenia, fatigueFrequency not reported: Malaise, vertigo, weight gain, gingivitis, taste disorder, fever, chills, weight loss, aseptic meningitis[Ref]
-Cases of aseptic meningitis have been reported, especially in patients with autoimmune disorders, such as systemic lupus erythematosus or mixed connective tissue disease.  Symptoms have included stiff neck, headache, nausea, vomiting, fever, and disorientation.[Ref]
-Uncommon (0.1% to 1%): Urinary tract disorderVery rare (less than 0.01%): MenorrhagiaFrequency not reported: Bilirubinuria, dysuria, hematuria, impotencePostmarketing reports: Vaginal bleeding[Ref]
-Frequency not reported: Appetite increased, hyperglycemia, hypokalemiaPostmarketing reports: Hyperuricemia[Ref]
-The most frequently reported adverse effects were gastrointestinal (GI) in nature and included diarrhea, dyspepsia, and abdominal pain.[Ref]
-Uncommon (0.1% to 1%): Myopathy[Ref]
-Uncommon (0.1% to 1%): Abnormal vision, eye disorderFrequency not reported: Optic neuritis[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Relafen (nabumetone)." SmithKline Beecham, Philadelphia, PA. 
+Very common (10% or more): Diarrhea (14%), dyspepsia (13%), abdominal pain (12%)Common (1% to 10%): Constipation, flatulence, nausea, positive stool guaiac, dry mouth, gastritis, stomatitis, vomitingUncommon (0.1% to 1%): Duodenal ulcer, GI bleeding, gastric ulcer, GI disorder, melena, stomatitisVery rare (less than 0.01%): PancreatitisFrequency not reported: Anorexia, dysphagia, gastroenteritis, duodenitis, eructation, glossitis, rectal bleeding
+Uncommon (0.1% to 1%): Elevated liver function testsVery rare (less than 0.01%): Hepatic failure, jaundiceFrequency not reported: Liver function abnormalities, gallstones
+Very rare (less than 0.01%): Renal failure, nephrotic syndromeFrequency not reported: Albuminuria, azotemia, interstitial nephritis, renal stones
+Common (1% to 10%): Sweating increased, pruritus, rashUncommon (0.1% to 1%): Photosensitivity, urticariaVery rare (less than 0.01%): Bullous eruptions, pseudoporphyria cutanea tarda, acne, alopecia, toxic epidermal necrolysis, erythema multiforme, Stevens-Johnson syndrome, angioedemaFrequency not reported: Purpura
+Very rare (less than 0.01%): ThrombocytopeniaFrequency not reported: Anemia, leukopenia, granulocytopenia, neutropenia, agranulocytosis, aplastic anemia, hemolytic anemia
+Very rare (less than 0.01%): Anaphylactoid reaction, anaphylaxis
+Common (1% to 10%): Dizziness, headache, somnolenceUncommon (0.1% to 1%): ParesthesiaFrequency not reported: Tremor, syncope, drowsiness
+Common (1% to 10%): Insomnia, nervousnessUncommon (0.1% to 1%): Confusion, anxietyFrequency not reported: Agitation, depression, nightmares, hallucinations
+Common (1% to 10%): Hypertension/blood pressure increasedFrequency not reported: Vasculitis, angina, arrhythmia, myocardial infarction, palpitations, thrombophlebitis, cardiac failure
+Uncommon (0.1% to 1%): Dyspnea, respiratory disorder, epistaxisVery rare (less than 0.01%): Interstitial pneumonitisFrequency not reported: Asthma, cough, aggravated asthma, bronchospasmPostmarketing reports: Eosinophilic pneumonia, hypersensitivity pneumonitis, idiopathic interstitial pneumonitis
+Common (1% to 10%): Fatigue, tinnitus, edema, ear disorderUncommon (0.1% to 1%): Asthenia, fatigueFrequency not reported: Malaise, vertigo, weight gain, gingivitis, taste disorder, fever, chills, weight loss, aseptic meningitis
+Cases of aseptic meningitis have been reported, especially in patients with autoimmune disorders, such as systemic lupus erythematosus or mixed connective tissue disease.  Symptoms have included stiff neck, headache, nausea, vomiting, fever, and disorientation.
+Uncommon (0.1% to 1%): Urinary tract disorderVery rare (less than 0.01%): MenorrhagiaFrequency not reported: Bilirubinuria, dysuria, hematuria, impotencePostmarketing reports: Vaginal bleeding
+Frequency not reported: Appetite increased, hyperglycemia, hypokalemiaPostmarketing reports: Hyperuricemia
+The most frequently reported adverse effects were gastrointestinal (GI) in nature and included diarrhea, dyspepsia, and abdominal pain.
+Uncommon (0.1% to 1%): Myopathy
+Uncommon (0.1% to 1%): Abnormal vision, eye disorderFrequency not reported: Optic neuritis
 It is possible that some side effects of nabumetone may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Headache
 itching skin
 nausea
 rash
 stomach pain
 swelling
-
-
 Burning feeling in chest or stomach
 indigestion
 stomach upset
 swelling or inflammation of the mouth
 tenderness in stomach area
 vomiting
-
-
 Bleeding gums
 blistering, peeling, loosening of skin
 bloody or black, tarry stools
@@ -99,8 +88,6 @@ vomiting of blood or material that looks like coffee grounds
 weight gain or loss
 wheezing
 yellow eyes or skin
-
-
 Agitation
 blurred vision
 coma
@@ -119,8 +106,6 @@ severe stomach pain
 slow heartbeat
 stupor
 unusual drowsiness, dullness, or feeling of sluggishness
-
-
 Acid or sour stomach
 belching
 bloated full feeling
@@ -130,15 +115,11 @@ hearing loss
 indigestion
 mild diarrhea
 passing gas
-
-
 Increased sweating
 sleepiness or unusual drowsiness
 sleeplessness
 trouble sleeping
 unable to sleep
-
-
 Anxiety
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 feeling of constant movement of self or surroundings
@@ -149,4 +130,3 @@ lightheadedness
 sensation of spinning
 shakiness in legs, arms, hands, feet
 trembling or shaking of hands or feet
-

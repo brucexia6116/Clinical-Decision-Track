@@ -1,41 +1,27 @@
-Generic Name: diclofenac
-Applies to diclofenac: oral capsule, oral capsule liquid filled, oral powder for solution, oral tablet, oral tablet enteric coated, oral tablet extended release
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by diclofenac (the active ingredient contained in Dyloject). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking diclofenac:
-
 If any of the following symptoms of overdose occur while taking diclofenac, get emergency help immediately:
-
-Some of the side effects that can occur with diclofenac may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to diclofenac: compounding powder, intravenous solution, oral capsule, oral delayed release tablet, oral powder for reconstitution, oral tablet, oral tablet extended release
-Very common (10% or more): Nausea (up to 24%), constipation (up to 13%) Common (1% to 10%): Abdominal pain, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, gastric and duodenal ulcers, vomitingRare (less than 0.1%): Colitis, eructation, pancreatitisFrequency not reported: Dry mouth, esophagitis, gastritis, glossitis, hematemesis, stomatitis[Ref]
-NSAIDs including this drug, can cause serious gastrointestinal (GI) events which can occur at any time, with or without warning.  For patients who develop a serious upper GI event, only about 20% were symptomatic.  Upper GI ulcers, gross bleeding, or perforation occurred in approximately 1% of patients treated with NSAIDs for 3 to 6 months and 2% to 4% of patients treated for 1 year.  Patients with a prior history of peptic ulcer disease and/or GI bleeding had a greater than 10-fold increased risk for developing a GI bleed than patients with neither of these risk factors.[Ref]
-Borderline elevations of 1 or more liver tests to less than 3 times the upper limit of the normal (3 x ULN) or greater elevations in transaminases occurred in about 15% of patients treated with this drug.  Elevations to greater than 3 x ULN of AST occurred in about 2% (n=5700) of patients at some point during treatment.  In an open-labeled trial among patients receiving NSAIDs, a higher incidence of transaminase elevations were observed in patients receiving diclofenac (the active ingredient contained in Dyloject) compared with other NSAIDs.[Ref]
-Common (1% to 10%): Elevated liver enzymesRare (less than 0.1%): Hepatitis, jaundice, liver disorderVery rare (less than 0.01%): Fulminant hepatitis, hepatic necrosis, hepatic failurePostmarketing reports: Drug-induced hepatotoxicity[Ref]
-Common (1% to 10%): Abnormal renal function, increased serum creatinineRare (less than 0.1%): Nephrotic syndrome, interstitial nephritis, renal papillary necrosis, acute renal failure, urinary frequency, nocturia, proteinuria, and hematuria[Ref]
-Common (1% to 10%): Pruritus, rashesRare (less than 0.1%): Angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticariaVery rare (less than 0.01%): Bullous eruptions, eczema, erythema, erythema multiforme, toxic epidermal necrolysis (Lyell's syndrome), dermatitis exfoliative, loss of hair, photosensitivity reactionFrequency not reported: Increased sweating[Ref]
-NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.  Unlike aspirin, the NSAID effect on platelet function is quantitatively less, of shorter duration, and reversible.[Ref]
-Common (1% to 10%): Anemia, increased bleeding timeRare (less than 0.1%): Agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopeniaVery rare (less than 0.01%): Thrombocytopenia, leukopenia, positive Coombs' testFrequency not reported: Ecchymosis, eosinophilia, melena, purpura, rectal bleeding[Ref]
-Uncommon (0.1% to 1%): Urticaria, rash, angioedema, bronchospasm Rare (less than 0.1%): Anaphylactic reactionsVery rare (less than 0.01%): Angioneurotic edema (including facial edema)[Ref]
-Rare (less than 0.1%): Changes in appetite, hyperglycemiaFrequency not reported: Weight changes[Ref]
-Common (1% to 10%): Dizziness, headachesRare (less than 0.1%): MeningitisVery rare (less than 0.01%): Memory impairmentFrequency not reported: Confusion, drowsiness, insomnia, paresthesia, tremors[Ref]
-Clinical trials of several cyclooxygenase (COX)-2 selective and nonselective NSAIDs of up to 3 years duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.  All NSAIDs appear to have a similar risk.  There is no consistent evidence that concurrent use of aspirin mitigates this increased risk and may be associated with an increased risk of serious gastrointestinal events.Pharmacoepidemiological data reveal an increased risk of arteriothrombotic events associated with diclofenac (the active ingredient contained in Dyloject) use, particularly at a high dose and during long-term treatment.  In a meta-analysis of long-term treatment with diclofenac 150 mg/day, compared with placebo use of this drug resulted in approximately 3 additional major vascular events per 1000 participants.[Ref]
-Common (1% to 10%): EdemaUncommon (0.1% to 1%): Cardiac failure, chest painRare (less than 0.1%): Arrhythmia, hypotension, myocardial infarction, palpitations Very rare (less than 0.01%): VasculitisFrequency not reported: Congestive heart failure, tachycardia, syncope, hypertension[Ref]
-Rare (less than 0.1%): HallucinationsVery rare (less than 0.01%): Disorientation, depression, nightmare, irritability, psychotic disorderFrequency not reported: Anxiety, nervousness[Ref]
-Common (1% to 10%): Tinnitus, Rare (less than 0.1%): Hearing impairmentFrequency not reported: Fever, asthenia, vertigo[Ref]
+Very common (10% or more): Nausea (up to 24%), constipation (up to 13%) Common (1% to 10%): Abdominal pain, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, gastric and duodenal ulcers, vomitingRare (less than 0.1%): Colitis, eructation, pancreatitisFrequency not reported: Dry mouth, esophagitis, gastritis, glossitis, hematemesis, stomatitis
+NSAIDs including this drug, can cause serious gastrointestinal (GI) events which can occur at any time, with or without warning.  For patients who develop a serious upper GI event, only about 20% were symptomatic.  Upper GI ulcers, gross bleeding, or perforation occurred in approximately 1% of patients treated with NSAIDs for 3 to 6 months and 2% to 4% of patients treated for 1 year.  Patients with a prior history of peptic ulcer disease and/or GI bleeding had a greater than 10-fold increased risk for developing a GI bleed than patients with neither of these risk factors.
+Borderline elevations of 1 or more liver tests to less than 3 times the upper limit of the normal (3 x ULN) or greater elevations in transaminases occurred in about 15% of patients treated with this drug.  Elevations to greater than 3 x ULN of AST occurred in about 2% (n=5700) of patients at some point during treatment.  In an open-labeled trial among patients receiving NSAIDs, a higher incidence of transaminase elevations were observed in patients receiving diclofenac (the active ingredient contained in Dyloject) compared with other NSAIDs.
+Common (1% to 10%): Elevated liver enzymesRare (less than 0.1%): Hepatitis, jaundice, liver disorderVery rare (less than 0.01%): Fulminant hepatitis, hepatic necrosis, hepatic failurePostmarketing reports: Drug-induced hepatotoxicity
+Common (1% to 10%): Abnormal renal function, increased serum creatinineRare (less than 0.1%): Nephrotic syndrome, interstitial nephritis, renal papillary necrosis, acute renal failure, urinary frequency, nocturia, proteinuria, and hematuria
+Common (1% to 10%): Pruritus, rashesRare (less than 0.1%): Angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticariaVery rare (less than 0.01%): Bullous eruptions, eczema, erythema, erythema multiforme, toxic epidermal necrolysis (Lyell's syndrome), dermatitis exfoliative, loss of hair, photosensitivity reactionFrequency not reported: Increased sweating
+NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.  Unlike aspirin, the NSAID effect on platelet function is quantitatively less, of shorter duration, and reversible.
+Common (1% to 10%): Anemia, increased bleeding timeRare (less than 0.1%): Agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopeniaVery rare (less than 0.01%): Thrombocytopenia, leukopenia, positive Coombs' testFrequency not reported: Ecchymosis, eosinophilia, melena, purpura, rectal bleeding
+Uncommon (0.1% to 1%): Urticaria, rash, angioedema, bronchospasm Rare (less than 0.1%): Anaphylactic reactionsVery rare (less than 0.01%): Angioneurotic edema (including facial edema)
+Rare (less than 0.1%): Changes in appetite, hyperglycemiaFrequency not reported: Weight changes
+Common (1% to 10%): Dizziness, headachesRare (less than 0.1%): MeningitisVery rare (less than 0.01%): Memory impairmentFrequency not reported: Confusion, drowsiness, insomnia, paresthesia, tremors
+Clinical trials of several cyclooxygenase (COX)-2 selective and nonselective NSAIDs of up to 3 years duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.  All NSAIDs appear to have a similar risk.  There is no consistent evidence that concurrent use of aspirin mitigates this increased risk and may be associated with an increased risk of serious gastrointestinal events.Pharmacoepidemiological data reveal an increased risk of arteriothrombotic events associated with diclofenac (the active ingredient contained in Dyloject) use, particularly at a high dose and during long-term treatment.  In a meta-analysis of long-term treatment with diclofenac 150 mg/day, compared with placebo use of this drug resulted in approximately 3 additional major vascular events per 1000 participants.
+Common (1% to 10%): EdemaUncommon (0.1% to 1%): Cardiac failure, chest painRare (less than 0.1%): Arrhythmia, hypotension, myocardial infarction, palpitations Very rare (less than 0.01%): VasculitisFrequency not reported: Congestive heart failure, tachycardia, syncope, hypertension
+Rare (less than 0.1%): HallucinationsVery rare (less than 0.01%): Disorientation, depression, nightmare, irritability, psychotic disorderFrequency not reported: Anxiety, nervousness
+Common (1% to 10%): Tinnitus, Rare (less than 0.1%): Hearing impairmentFrequency not reported: Fever, asthenia, vertigo
 Rare (less than 0.1%): ConjunctivitisVery rare (less than 0.01%): Blurred vision, visual disturbance, diplopiaFrequency not reported: Optic neuritis
 The most common adverse reactions among patients treated with this drug included; gastrointestinal events of abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding,/perforation, heartburn, nausea, gastric and duodenal ulcers, and vomiting; abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes, and tinnitus.
 Common (1% to 10%): Urinary tract infectionFrequency not reported: Cystitis, dysuria, hematuria, interstitial nephritis, oliguria/polyuria
 Frequency not reported: Infection, sepsis
 Common (1% to 10%): Local reactions such as itching, burning, and increased bowel movement with suppository use Very rare (less than 0.01%): Exacerbation of hemorrhoids with suppository use
 Common (1% to 10%): Sinusitis, upper respiratory infection, nasopharyngitis, bronchitisRare (less than 0.1%): Pneumonia Frequency not reported: Asthma, dyspnea
-1. "Product Information. Voltaren (diclofenac)." Novartis Pharmaceuticals, East Hanover, NJ. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Dyloject may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
 intravenous solution
-
 Abdominal or stomach bloating, burning, cramping, or pain
 belching
 bloody or black, tarry stools
@@ -59,8 +45,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 weight loss
-
-
 Agitation
 blurred vision
 change in consciousness
@@ -87,11 +71,8 @@ swelling of the face, ankles, or hands
 tightness in the chest
 trouble sleeping
 unusual drowsiness, dullness, or feeling of sluggishness
-
-
 Continuing ringing or buzzing or other unexplained noise in the ears
 excess air or gas in the stomach or intestines
 hearing loss
 lack or loss of strength
 passing gas
-

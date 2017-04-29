@@ -1,21 +1,11 @@
-Applies to metaxalone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by metaxalone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking metaxalone:
-Some of the side effects that can occur with metaxalone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to metaxalone: oral tablet
-Common (1% to 10%): Nausea, vomiting, gastrointestinal upset[Ref]
-Common (1% to 10%): Drowsiness, dizziness, headache[Ref]
-Frequency not reported: Leukopenia, hemolytic anemia[Ref]
-Rare (less than 0.1%): Anaphylactoid reaction, hypersensitivity reaction, rash (with or without pruritus)[Ref]
-Frequency not reported: Jaundice[Ref]
-Frequency not reported: False-positive Benedict's tests (due to an unknown reducing substance)[Ref]
-A glucose-specific test may be used to differentiate findings.[Ref]
-Common (1% to 10%): Nervousness, irritability[Ref]
-1. "Product Information. Skelaxin (metaxalone)." Carnrick Laboratories Inc, Cedar Knolls, NJ. 
-Not all side effects for metaxalone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Nausea, vomiting, gastrointestinal upset
+Common (1% to 10%): Drowsiness, dizziness, headache
+Frequency not reported: Leukopenia, hemolytic anemia
+Rare (less than 0.1%): Anaphylactoid reaction, hypersensitivity reaction, rash (with or without pruritus)
+Frequency not reported: Jaundice
+Frequency not reported: False-positive Benedict's tests (due to an unknown reducing substance)
+A glucose-specific test may be used to differentiate findings.
+Common (1% to 10%): Nervousness, irritability
 Abdominal or stomach pain
 back or leg pains
 black, tarry stools
@@ -48,17 +38,12 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting of blood
 yellowing of the eyes or skin
-
-
 Hives
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 tightness in the chest
 wheezing
-
-
 Diarrhea
 drowsiness
 irritability
 stomach cramps
 vomiting
-

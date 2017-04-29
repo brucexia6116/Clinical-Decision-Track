@@ -1,40 +1,30 @@
-Generic Name: ondansetron
-Applies to ondansetron: film, solution, tablet, tablet disintegrating
 Other dosage forms:
 As well as its needed effects, ondansetron (the active ingredient contained in Zuplenz) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking ondansetron, check with your doctor immediately:
 Some ondansetron side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to ondansetron: injectable solution, intravenous solution, oral disintegrating strip, oral solution, oral tablet, oral tablet disintegrating
-The most frequently reported side effects are headache, constipation, and diarrhea.[Ref]
-Dizziness occurred during rapid IV administration.Headache occurred more often in the oral dissolving tablet formulation when taken with water.[Ref]
-Very common (10% or more): Headache (up to 27%), drowsiness/sedation (up to 23%)Common (1% to 10%): Dizziness, paresthesiaUncommon (0.1% to 1%): Seizures, movement disorders/extrapyramidal reactions (oculogyric crisis/dystonic reactions, dyskinesia)Rare (0.01% to 0.1%): Grand mal seizures[Ref]
-Wound problems occurred at the surgical site in patients given this drug for the treatment of postoperative nausea and vomiting.[Ref]
-Very common (10% or more): Wound problem (up to 28%), malaise/fatigue (up to 13%)Common (1% to 10%): Shivers, pyrexia/fever, cold sensationFrequency not reported: Pain, ear disorder[Ref]
-Localized anal/rectal burning occurred after insertion of the suppository formulation.[Ref]
-Very common (10% or more): Diarrhea (up to 16%), constipation (up to 11%)Common (1% to 10%): Xerostomia, nausea, vomiting, localized anal/rectal burning sensationUncommon (0.1% to 1%): Throat disorderFrequency not reported: Gastric symptoms, abdominal pain, flatulence[Ref]
-Very common (10% or more): Eye disorder (up to 19%)Common (1% to 10%): Visual disturbance/transient visual disturbances (e.g., blurred vision)Uncommon (0.1% to 1%): Oculogyric crisisVery rare (less than 0.01%): Transient blindnessFrequency not reported: Swollen periocular area[Ref]
-Oculogyric crisis occurred alone and in combination with other dystonic reactions.Transient visual disturbances, blurred vision, and transient blindness occurred predominantly during rapid IV administration.  Many of the cases of blindness resolved from within a few minutes to approximately 28 hours.  Most patients were receiving concomitant chemotherapy with cisplatin.[Ref]
-Cardiopulmonary arrest and shock occurred during allergic reactions in patients given the IV formulation.[Ref]
-Common (1% to 10%): Sensation of warmth/flushing, bradycardia, hypotension, arrhythmiasUncommon (0.1% to 1%): Chest pain with/without ST segment depressionRare (0.01% to 0.1%): Transient ECG changes including QT interval prolongation (Torsade de Pointes), angina/chest pain, vascular occlusive events, tachycardiaFrequency not reported: HemorrhagePostmarketing reports: Cardiopulmonary arrest, shock[Ref]
-Common (1% to 10%): Hypoxia, lower respiratory tract disease, expectoration, coughUncommon (0.1% to 1%): HiccupsRare (0.01% to 0.1%): Bronchospasm/asthmaPostmarketing reports: Shortness of breath, laryngeal edema, stridor, laryngospasm[Ref]
-Laryngospasm occurred during allergic reactions in patients given the IV formulation.[Ref]
-Common (1% to 10%): Anxiety/agitation, disturbance in behavior/conduct, sleep disturbance[Ref]
-Common (1% to 10%): Gynecological disorder, urinary retention, urinary tract infection/dysuria[Ref]
-Common (1% to 10%): Rash, pruritusVery rare (less than 0.01%): Toxic skin eruption, toxic epidermal necrolysis[Ref]
-Transient, asymptomatic increases in AST/ALT 2 times the upper limit of normal commonly occurred in patients receiving chemotherapy with cisplatin, and did not appear to be related to dose/duration of treatment.Liver failure and death have been reported in patients with cancer receiving potentially hepatotoxic/cytotoxic chemotherapy and antibiotics; however, the etiology of liver failure is unknown.[Ref]
-Common (1% to 10%): Asymptomatic increases in AST/ALTPostmarketing reports: Liver failure and death[Ref]
-Common (1% to 10%): Injection site reactions[Ref]
-Rare (0.01% to 0.1%): Immediate hypersensitivity reactions (sometimes severe), anaphylaxis/anaphylactoid reactionsPostmarketing reports: Angioedema[Ref]
-Rare (0.01% to 0.1%): HypokalemiaFrequency not reported: Poor oral intake[Ref]
-1. "Product Information. Zofran (ondansetron)." Cerenex Pharmaceuticals, Research Triangle Pk, NC. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Product Information. Zuplenz (ondansetron)." Strativa  Pharmaceuticals, a Division of Par Pharmaceuticals, Inc., Woodcliff Lake, NJ. 
+The most frequently reported side effects are headache, constipation, and diarrhea.
+Dizziness occurred during rapid IV administration.Headache occurred more often in the oral dissolving tablet formulation when taken with water.
+Very common (10% or more): Headache (up to 27%), drowsiness/sedation (up to 23%)Common (1% to 10%): Dizziness, paresthesiaUncommon (0.1% to 1%): Seizures, movement disorders/extrapyramidal reactions (oculogyric crisis/dystonic reactions, dyskinesia)Rare (0.01% to 0.1%): Grand mal seizures
+Wound problems occurred at the surgical site in patients given this drug for the treatment of postoperative nausea and vomiting.
+Very common (10% or more): Wound problem (up to 28%), malaise/fatigue (up to 13%)Common (1% to 10%): Shivers, pyrexia/fever, cold sensationFrequency not reported: Pain, ear disorder
+Localized anal/rectal burning occurred after insertion of the suppository formulation.
+Very common (10% or more): Diarrhea (up to 16%), constipation (up to 11%)Common (1% to 10%): Xerostomia, nausea, vomiting, localized anal/rectal burning sensationUncommon (0.1% to 1%): Throat disorderFrequency not reported: Gastric symptoms, abdominal pain, flatulence
+Very common (10% or more): Eye disorder (up to 19%)Common (1% to 10%): Visual disturbance/transient visual disturbances (e.g., blurred vision)Uncommon (0.1% to 1%): Oculogyric crisisVery rare (less than 0.01%): Transient blindnessFrequency not reported: Swollen periocular area
+Oculogyric crisis occurred alone and in combination with other dystonic reactions.Transient visual disturbances, blurred vision, and transient blindness occurred predominantly during rapid IV administration.  Many of the cases of blindness resolved from within a few minutes to approximately 28 hours.  Most patients were receiving concomitant chemotherapy with cisplatin.
+Cardiopulmonary arrest and shock occurred during allergic reactions in patients given the IV formulation.
+Common (1% to 10%): Sensation of warmth/flushing, bradycardia, hypotension, arrhythmiasUncommon (0.1% to 1%): Chest pain with/without ST segment depressionRare (0.01% to 0.1%): Transient ECG changes including QT interval prolongation (Torsade de Pointes), angina/chest pain, vascular occlusive events, tachycardiaFrequency not reported: HemorrhagePostmarketing reports: Cardiopulmonary arrest, shock
+Common (1% to 10%): Hypoxia, lower respiratory tract disease, expectoration, coughUncommon (0.1% to 1%): HiccupsRare (0.01% to 0.1%): Bronchospasm/asthmaPostmarketing reports: Shortness of breath, laryngeal edema, stridor, laryngospasm
+Laryngospasm occurred during allergic reactions in patients given the IV formulation.
+Common (1% to 10%): Anxiety/agitation, disturbance in behavior/conduct, sleep disturbance
+Common (1% to 10%): Gynecological disorder, urinary retention, urinary tract infection/dysuria
+Common (1% to 10%): Rash, pruritusVery rare (less than 0.01%): Toxic skin eruption, toxic epidermal necrolysis
+Transient, asymptomatic increases in AST/ALT 2 times the upper limit of normal commonly occurred in patients receiving chemotherapy with cisplatin, and did not appear to be related to dose/duration of treatment.Liver failure and death have been reported in patients with cancer receiving potentially hepatotoxic/cytotoxic chemotherapy and antibiotics; however, the etiology of liver failure is unknown.
+Common (1% to 10%): Asymptomatic increases in AST/ALTPostmarketing reports: Liver failure and death
+Common (1% to 10%): Injection site reactions
+Rare (0.01% to 0.1%): Immediate hypersensitivity reactions (sometimes severe), anaphylaxis/anaphylactoid reactionsPostmarketing reports: Angioedema
+Rare (0.01% to 0.1%): HypokalemiaFrequency not reported: Poor oral intake
 It is possible that some side effects of Zuplenz may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 injection solution
-
 Confusion
 dizziness
 fast heartbeat
@@ -42,14 +32,10 @@ fever
 headache
 shortness of breath
 weakness
-
-
 Decrease in the frequency of urination
 decrease in the urine volume
 difficulty with passing urine (dribbling)
 painful urination
-
-
 Arm, back, or jaw pain
 chest pain or discomfort
 chest tightness or heaviness
@@ -76,8 +62,6 @@ tightness in the chest
 total body jerking
 unusual tiredness or weakness
 wheezing
-
-
 Blurred vision
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 fixed position of the eye
@@ -97,8 +81,6 @@ trouble with speaking
 unconscious
 uncontrolled twisting movements of the neck, trunk, arms, or legs
 unusual facial expressions
-
-
 Anxiety
 difficulty having a bowel movement (stool)
 dry mouth
@@ -108,8 +90,6 @@ irritability
 restlessness
 shaking
 trouble sleeping
-
-
 Difficulty with speaking
 drooling
 loss of balance control
@@ -118,11 +98,8 @@ shuffling walk
 stiffness of the limbs
 twisting movements of the body
 uncontrolled movements, especially of the face, neck, and back
-
-
 Feeling of warmth
 hiccups
 redness of the face, neck, arms, and occasionally, upper chest
 redness of the skin
 welts
-

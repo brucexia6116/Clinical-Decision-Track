@@ -1,27 +1,15 @@
-Applies to metipranolol ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by metipranolol ophthalmic. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking metipranolol ophthalmic:
-
 If any of the following symptoms of overdose occur while taking metipranolol ophthalmic, get emergency help immediately:
-
-Some of the side effects that can occur with metipranolol ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to metipranolol ophthalmic: ophthalmic solution
-The most commonly reported side effects were abnormal vision, blurred vision, conjunctivitis, and tearing.[Ref]
-Frequency not reported: Abnormal vision, blepharitis, blurred vision, browache, conjunctivitis, edema, eyelid dermatitis, photophobia, tearing, uveitis, eye discomfort[Ref]
-Frequency not reported: Angina, atrial fibrillation, bradycardia, hypertension, palpitation, myocardial infarct[Ref]
-Frequency not reported: Bronchitis, coughing, dyspnea, epistaxis, rhinitis[Ref]
-Frequency not reported: Dizziness, headache, nervousness, somnolence[Ref]
-Frequency not reported: Allergic reaction[Ref]
-Frequency not reported: Anxiety, depression[Ref]
-Frequency not reported: Arthritis, myalgia[Ref]
-Frequency not reported: Asthenia[Ref]
-Frequency not reported: Nausea[Ref]
-Frequency not reported: Rash[Ref]
-1. "Product Information. OptiPranolol (metipranolol)." Bausch and Lomb, Tampa, FL. 
-Not all side effects for metipranolol ophthalmic may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were abnormal vision, blurred vision, conjunctivitis, and tearing.
+Frequency not reported: Abnormal vision, blepharitis, blurred vision, browache, conjunctivitis, edema, eyelid dermatitis, photophobia, tearing, uveitis, eye discomfort
+Frequency not reported: Angina, atrial fibrillation, bradycardia, hypertension, palpitation, myocardial infarct
+Frequency not reported: Bronchitis, coughing, dyspnea, epistaxis, rhinitis
+Frequency not reported: Dizziness, headache, nervousness, somnolence
+Frequency not reported: Allergic reaction
+Frequency not reported: Anxiety, depression
+Frequency not reported: Arthritis, myalgia
+Frequency not reported: Asthenia
+Frequency not reported: Nausea
+Frequency not reported: Rash
 Bloody nose
 blurred vision
 burning, dry, or itching eyes
@@ -55,8 +43,6 @@ tightness in chest
 unusual tiredness or weakness
 wheezing
 vomiting
-
-
 Confusion
 dilated neck veins
 dizziness, faintness, or lightheadedness when getting up from a lying or sitting position suddenly
@@ -64,8 +50,6 @@ extreme fatigue
 irregular breathing
 swelling of face, fingers, feet, or lower legs
 weight gain
-
-
 Discouragement
 feeling sad or empty
 irritability
@@ -80,4 +64,3 @@ stuffy nose
 tiredness
 trouble concentrating
 trouble sleeping
-

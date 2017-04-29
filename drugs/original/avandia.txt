@@ -1,33 +1,21 @@
-Generic Name: rosiglitazone
 Common side effects of Avandia include: headache. Other side effects include: edema and nausea.  See below for a comprehensive list of adverse effects.
-Applies to rosiglitazone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by rosiglitazone (the active ingredient contained in Avandia). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking rosiglitazone:
-Some of the side effects that can occur with rosiglitazone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to rosiglitazone: oral tablet
-The most commonly reported adverse reports included upper respiratory tract infections, injury, and headache.[Ref]
-Major Adverse Cardiovascular Events:Overall data from long-term rosiglitazone (the active ingredient contained in Avandia) trials including the RECORD, ADOPT, and DREAM trials (rosiglitazone n=6311; control n=7756) showed no difference in overall mortality or major adverse cardiovascular events; however, a meta-analysis of shorter-term trials suggests and increased risk for myocardial infarction with rosiglitazone compared with placebo.  The RECORD trial (Rosiglitazone evaluated for Cardiac Outcomes and Regulation of Glycemia in Diabetes) revealed no significant difference in cardiovascular hospitalization or cardiovascular death (primary outcome) among patients with type 2 diabetes receiving rosiglitazone add-on therapy (n=2220) compared with active control (n=2227); however, there was a significant difference in the incidence of CHF (secondary endpoint).  Patients randomized were those who had failed metformin or sulfonylurea monotherapy; mean age: 58 years; 52% male.  Following randomization to add-on rosiglitazone or active control (add-on metformin for those inadequately controlled on sulfonylurea or add-on sulfonylurea for those inadequately controlled on metformin) patients were treated to a target glycosylated hemoglobin (HbA1c) of 7% or less.  Heart failure was reported in 61 patients receiving add-on rosiglitazone and 29 patients receiving active control.  In a retrospective analysis of 42 clinical trials (mean duration 6 months), rosiglitazone was associated with an increased risk of myocardial ischemia compared with combined active or placebo control (2% versus 1.53%).  These events included angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, and coronary artery disorder.  There was an increased risk with combination insulin therapy and in patients receiving nitrates for known coronary heart disease.  Cardiovascular Events in Patients with NYHA Class I and II Heart Failure:An increased risk of cardiovascular events was observed in a 52-week trial in patients with NYHA Class I and II Heart Failure who were receiving rosiglitazone (n=110) compared with placebo (n=114).  These events included: cardiovascular deaths (5% vs 4%), worsening CHF (6% vs 4%), new or worsening edema (25% vs 9%), new or worsening dyspnea (26% vs 17%), increases in CHF medication (33% vs 18%), and cardiovascular hospitalization (19% vs 13%).  Edema: -Dose-related edema was reported in rosiglitazone clinical trials.  In patients receiving rosiglitazone 8 mg in combination with a sulfonylurea, the incidence of edema was 12.4%.  In rosiglitazone monotherapy trials, edema was reported in 4.8% of patients (dose not specified).  Healthy volunteers receiving rosiglitazone 8 mg once daily for 8 weeks experienced a statistically significant increase in median plasma volume compared with placebo.  Concomitant Administration with Insulin:-Edema was reported with higher frequency in the rosiglitazone plus insulin combination trials (insulin, 5.4%; and rosiglitazone with insulin 14.7%).  Reports of new onset or exacerbation of CHF occurred at a rate of 1% for insulin alone, 2% (4 mg) and 3% (8 mg) for insulin in combination with rosiglitazone.  The coadministration of rosiglitazone and insulin is not recommended.[Ref]
-Common (1% to 10%): Edema, hypertension, Frequency not reported: Cardiovascular deaths, congestive heart failure (CHF), myocardial infarction, angina, angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, coronary artery disorder[Ref]
-Anemia was reported in 1.9% of patients receiving rosiglitazone (the active ingredient contained in Avandia) as monotherapy.  In combination therapy with metformin, a sulfonylurea, or metformin plus a sulfonylurea, the incidence of anemia was 7.1%, 2.3%, and 6.7%, respectively.  Laboratory findings have shown dose-related decreases in hemoglobin and hematocrit; mean decreases in hemoglobin were 1 g/dL and up to 3.3% in hematocrit.  These changes primarily occurred during the first 3 months or following a dose increase.  They may be related to increased plasma volume.[Ref]
-Common (1% to 10%): AnemiaFrequency not reported: Decrease in WBC counts[Ref]
-Uncommon (0.1% to 1%): Hyperbilirubinemia, ALT elevationsPostmarketing reports: Hepatitis, hepatic enzyme elevations greater than 3 times the upper limit of normal, hepatic failure[Ref]
-Common (1% to 10%): Hyperglycemia, hypoglycemia, hypocholesterolemiaUncommon (0.1% to 1%): Weight gainFrequency not reported: Increases in waist and hip circumference[Ref]
-The mechanism of weight gain is unclear, although it probably is due to a combination of fluid retention and fat accumulation.  In the ADOPT monotherapy trial, median weight change at 4 years was plus 3.5 kg.[Ref]
-Frequency not reported: Resumption of ovulation in premenopausal, anovulatory women, hormonal imbalance[Ref]
-Postmarketing reports: Anaphylactic reaction, urticaria, angioedema[Ref]
-Postmarketing reports: Rash, pruritus, urticaria, angioedema, Stevens-Johnson syndrome[Ref]
-Postmarketing reports: Diabetic macular edema with decreased visual acuity[Ref]
-Common (1% to 10%): Upper respiratory tract infection, sinusitisFrequency not reported: DyspneaPostmarketing reports: Pulmonary edema, pleural effusions[Ref]
-Common (1% to 10%): Back painFrequency not reported: Fractures[Ref]
-Long-term clinical trials have shown an increased incidence of bone fracture in patients receiving drug compared with glyburide or metformin.  This increased incidence appeared after the first year and persisted during the trials.  The majority of fractures were observed in women and occurred in the upper arm, hand, and foot.[Ref]
-Common (1% to 10%): Diarrhea[Ref]
-Common (1% to 10%): Injury, fatigue[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Avandia (rosiglitazone)" SmithKline Beecham, Philadelphia, PA. 
-Not all side effects for Avandia may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported adverse reports included upper respiratory tract infections, injury, and headache.
+Major Adverse Cardiovascular Events:Overall data from long-term rosiglitazone (the active ingredient contained in Avandia) trials including the RECORD, ADOPT, and DREAM trials (rosiglitazone n=6311; control n=7756) showed no difference in overall mortality or major adverse cardiovascular events; however, a meta-analysis of shorter-term trials suggests and increased risk for myocardial infarction with rosiglitazone compared with placebo.  The RECORD trial (Rosiglitazone evaluated for Cardiac Outcomes and Regulation of Glycemia in Diabetes) revealed no significant difference in cardiovascular hospitalization or cardiovascular death (primary outcome) among patients with type 2 diabetes receiving rosiglitazone add-on therapy (n=2220) compared with active control (n=2227); however, there was a significant difference in the incidence of CHF (secondary endpoint).  Patients randomized were those who had failed metformin or sulfonylurea monotherapy; mean age: 58 years; 52% male.  Following randomization to add-on rosiglitazone or active control (add-on metformin for those inadequately controlled on sulfonylurea or add-on sulfonylurea for those inadequately controlled on metformin) patients were treated to a target glycosylated hemoglobin (HbA1c) of 7% or less.  Heart failure was reported in 61 patients receiving add-on rosiglitazone and 29 patients receiving active control.  In a retrospective analysis of 42 clinical trials (mean duration 6 months), rosiglitazone was associated with an increased risk of myocardial ischemia compared with combined active or placebo control (2% versus 1.53%).  These events included angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, and coronary artery disorder.  There was an increased risk with combination insulin therapy and in patients receiving nitrates for known coronary heart disease.  Cardiovascular Events in Patients with NYHA Class I and II Heart Failure:An increased risk of cardiovascular events was observed in a 52-week trial in patients with NYHA Class I and II Heart Failure who were receiving rosiglitazone (n=110) compared with placebo (n=114).  These events included: cardiovascular deaths (5% vs 4%), worsening CHF (6% vs 4%), new or worsening edema (25% vs 9%), new or worsening dyspnea (26% vs 17%), increases in CHF medication (33% vs 18%), and cardiovascular hospitalization (19% vs 13%).  Edema: -Dose-related edema was reported in rosiglitazone clinical trials.  In patients receiving rosiglitazone 8 mg in combination with a sulfonylurea, the incidence of edema was 12.4%.  In rosiglitazone monotherapy trials, edema was reported in 4.8% of patients (dose not specified).  Healthy volunteers receiving rosiglitazone 8 mg once daily for 8 weeks experienced a statistically significant increase in median plasma volume compared with placebo.  Concomitant Administration with Insulin:-Edema was reported with higher frequency in the rosiglitazone plus insulin combination trials (insulin, 5.4%; and rosiglitazone with insulin 14.7%).  Reports of new onset or exacerbation of CHF occurred at a rate of 1% for insulin alone, 2% (4 mg) and 3% (8 mg) for insulin in combination with rosiglitazone.  The coadministration of rosiglitazone and insulin is not recommended.
+Common (1% to 10%): Edema, hypertension, Frequency not reported: Cardiovascular deaths, congestive heart failure (CHF), myocardial infarction, angina, angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, coronary artery disorder
+Anemia was reported in 1.9% of patients receiving rosiglitazone (the active ingredient contained in Avandia) as monotherapy.  In combination therapy with metformin, a sulfonylurea, or metformin plus a sulfonylurea, the incidence of anemia was 7.1%, 2.3%, and 6.7%, respectively.  Laboratory findings have shown dose-related decreases in hemoglobin and hematocrit; mean decreases in hemoglobin were 1 g/dL and up to 3.3% in hematocrit.  These changes primarily occurred during the first 3 months or following a dose increase.  They may be related to increased plasma volume.
+Common (1% to 10%): AnemiaFrequency not reported: Decrease in WBC counts
+Uncommon (0.1% to 1%): Hyperbilirubinemia, ALT elevationsPostmarketing reports: Hepatitis, hepatic enzyme elevations greater than 3 times the upper limit of normal, hepatic failure
+Common (1% to 10%): Hyperglycemia, hypoglycemia, hypocholesterolemiaUncommon (0.1% to 1%): Weight gainFrequency not reported: Increases in waist and hip circumference
+The mechanism of weight gain is unclear, although it probably is due to a combination of fluid retention and fat accumulation.  In the ADOPT monotherapy trial, median weight change at 4 years was plus 3.5 kg.
+Frequency not reported: Resumption of ovulation in premenopausal, anovulatory women, hormonal imbalance
+Postmarketing reports: Anaphylactic reaction, urticaria, angioedema
+Postmarketing reports: Rash, pruritus, urticaria, angioedema, Stevens-Johnson syndrome
+Postmarketing reports: Diabetic macular edema with decreased visual acuity
+Common (1% to 10%): Upper respiratory tract infection, sinusitisFrequency not reported: DyspneaPostmarketing reports: Pulmonary edema, pleural effusions
+Common (1% to 10%): Back painFrequency not reported: Fractures
+Long-term clinical trials have shown an increased incidence of bone fracture in patients receiving drug compared with glyburide or metformin.  This increased incidence appeared after the first year and persisted during the trials.  The majority of fractures were observed in women and occurred in the upper arm, hand, and foot.
+Common (1% to 10%): Diarrhea
+Common (1% to 10%): Injury, fatigue
 Abdominal or stomach pain
 blurred vision
 chest pain or discomfort
@@ -51,8 +39,6 @@ unexplained weight loss
 unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting
-
-
 Anxiety
 chills
 cold sweats
@@ -68,8 +54,6 @@ nightmares
 seizures
 shakiness
 slurred speech
-
-
 Blue lips and fingernails
 changes in vision
 coughing that sometimes produces a pink frothy sputum
@@ -78,8 +62,6 @@ itching or skin rash
 light-colored stools
 redness of the skin
 yellow eyes or skin
-
-
 Ear congestion
 fever
 general feeling of discomfort or illness
@@ -92,11 +74,8 @@ shivering
 sneezing
 sore throat
 trouble sleeping
-
-
 Back pain
 cough
 diarrhea
 lightheadedness
 pain or tenderness around the eyes and cheekbones
-

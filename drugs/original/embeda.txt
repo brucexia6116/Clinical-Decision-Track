@@ -1,42 +1,31 @@
-Generic Name: morphine / naltrexone
-Applies to morphine / naltrexone: oral capsule extended release
-In addition to its needed effects, some unwanted effects may be caused by morphine / naltrexone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking morphine / naltrexone:
-Some of the side effects that can occur with morphine / naltrexone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to morphine / naltrexone: oral capsule extended release
-The most common adverse events included constipation, nausea, and somnolence.[Ref]
-Common (1% to 10%): Insomnia, anxiety, depression, restlessness, irritabilityFrequency not reported: Disorientation, abnormal thinking, mental status changes, confusional state, euphoric mood, hallucination, abnormal dreams, mood swings, nervousness[Ref]
-Disorientation, abnormal thinking, mental status changes, confusional state, euphoric mood, hallucination, abnormal dreams, mood swings, and nervousness, were reported in less than 1% of patients.[Ref]
-Depressed level of consciousness, mental impairment, memory impairment, disturbance in attention stupor, paresthesia, and abnormal coordination, were reported in less than 1% of patients.[Ref]
-Very common (10% or more): Somnolence (14%), Common (1% to 10%): Dizziness, headache, tremorFrequency not reported: Depressed level of consciousness, mental impairment, memory impairment, disturbance in attention stupor, paresthesia, abnormal coordination[Ref]
-Very common (10% or more): Constipation (up to 31%), nausea (up to 22%)Common (1% to 10%): Vomiting, dry mouth, diarrhea, abdominal pain upper, abdominal pain, dyspepsia, flatulence, stomach discomfortFrequency not reported: Abdominal distension, pancreatitis, fecaloma, abdominal tenderness[Ref]
-Abdominal distension, pancreatitis, fecaloma, abdominal tenderness, were reported in less than 1% of patients.[Ref]
-Common (1% to 10%): Flushing, peripheral edemaFrequency not reported: Orthostatic hypotension[Ref]
-Orthostatic hypotension was reported in less than 1% of patients.[Ref]
-RespiratoryFrequency not reported: Dyspnea, rhinorrhea[Ref]
-Dyspnea and rhinorrhea were reported in less than 1% of patients.[Ref]
-Cholecystitis, ALT and AST increases were reported in less than 1% of patients.[Ref]
-Frequency not reported: Cholecystitis, ALT and AST increases[Ref]
-Common (1% to 10%): Anorexia, decreased appetite[Ref]
-Rash, piloerection, cold sweat, and night sweats were reported in less than 1% of patients.[Ref]
-Common (1% to 10%): Hyperhidrosis, pruritusFrequency not reported: Rash, piloerection, cold sweat, night sweats[Ref]
-Common (1% to 10%): Muscle spasms, arthralgiaFrequency not reported: Myalgia, muscle weakness[Ref]
-Myalgia and muscle weakness were reported in less than 1% of patients.[Ref]
-Frequency not reported: Blurred vision[Ref]
-Blurred vision was reported in less than 1% of patients.[Ref]
-Frequency not reported: Urinary retention, dysuria[Ref]
-Urinary retention and dysuria were reported in less than 1% of patients.[Ref]
-Frequency not reported: Erectile dysfunction[Ref]
-Erectile dysfunction was reported in less than 1% of patients[Ref]
-Anaphylaxis has been reported with ingredients contained in this product.[Ref]
-Frequency not reported: Anaphylaxis[Ref]
-Common (1% to 10%): Fatigue, chills, lethargy Frequency not reported: Malaise, asthenia, drug withdrawal syndrome[Ref]
-Malaise, asthenia, and drug withdrawal syndrome, were reported in less than 1% of patients.[Ref]
-1. "Product Information. Embeda (morphine-naltrexone)." King Pharmaceuticals Inc, Bristol, TN. 
-Not all side effects for Embeda may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse events included constipation, nausea, and somnolence.
+Common (1% to 10%): Insomnia, anxiety, depression, restlessness, irritabilityFrequency not reported: Disorientation, abnormal thinking, mental status changes, confusional state, euphoric mood, hallucination, abnormal dreams, mood swings, nervousness
+Disorientation, abnormal thinking, mental status changes, confusional state, euphoric mood, hallucination, abnormal dreams, mood swings, and nervousness, were reported in less than 1% of patients.
+Depressed level of consciousness, mental impairment, memory impairment, disturbance in attention stupor, paresthesia, and abnormal coordination, were reported in less than 1% of patients.
+Very common (10% or more): Somnolence (14%), Common (1% to 10%): Dizziness, headache, tremorFrequency not reported: Depressed level of consciousness, mental impairment, memory impairment, disturbance in attention stupor, paresthesia, abnormal coordination
+Very common (10% or more): Constipation (up to 31%), nausea (up to 22%)Common (1% to 10%): Vomiting, dry mouth, diarrhea, abdominal pain upper, abdominal pain, dyspepsia, flatulence, stomach discomfortFrequency not reported: Abdominal distension, pancreatitis, fecaloma, abdominal tenderness
+Abdominal distension, pancreatitis, fecaloma, abdominal tenderness, were reported in less than 1% of patients.
+Common (1% to 10%): Flushing, peripheral edemaFrequency not reported: Orthostatic hypotension
+Orthostatic hypotension was reported in less than 1% of patients.
+RespiratoryFrequency not reported: Dyspnea, rhinorrhea
+Dyspnea and rhinorrhea were reported in less than 1% of patients.
+Cholecystitis, ALT and AST increases were reported in less than 1% of patients.
+Frequency not reported: Cholecystitis, ALT and AST increases
+Common (1% to 10%): Anorexia, decreased appetite
+Rash, piloerection, cold sweat, and night sweats were reported in less than 1% of patients.
+Common (1% to 10%): Hyperhidrosis, pruritusFrequency not reported: Rash, piloerection, cold sweat, night sweats
+Common (1% to 10%): Muscle spasms, arthralgiaFrequency not reported: Myalgia, muscle weakness
+Myalgia and muscle weakness were reported in less than 1% of patients.
+Frequency not reported: Blurred vision
+Blurred vision was reported in less than 1% of patients.
+Frequency not reported: Urinary retention, dysuria
+Urinary retention and dysuria were reported in less than 1% of patients.
+Frequency not reported: Erectile dysfunction
+Erectile dysfunction was reported in less than 1% of patients
+Anaphylaxis has been reported with ingredients contained in this product.
+Frequency not reported: Anaphylaxis
+Common (1% to 10%): Fatigue, chills, lethargy Frequency not reported: Malaise, asthenia, drug withdrawal syndrome
+Malaise, asthenia, and drug withdrawal syndrome, were reported in less than 1% of patients.
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 chills
 confusion
@@ -54,8 +43,6 @@ sudden sweating
 tingling of the hands or feet
 trembling or shaking of the hands or feet
 unusual weight gain or loss
-
-
 Abnormal dreams
 being forgetful
 blurred vision
@@ -87,8 +74,6 @@ tightness in the chest
 unusual tiredness or weakness
 vomiting
 yellow eyes or skin
-
-
 Acid or sour stomach
 anxiety
 belching
@@ -106,8 +91,6 @@ sleepiness or unusual drowsiness
 stomach discomfort or upset
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 weight loss
-
-
 Cold sweats
 dizziness
 dry mouth
@@ -124,4 +107,3 @@ stomach tenderness
 swelling of the stomach area
 trouble sleeping
 upper abdominal or stomach pain
-

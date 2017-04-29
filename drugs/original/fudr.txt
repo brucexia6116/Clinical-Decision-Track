@@ -1,35 +1,20 @@
-Generic Name: floxuridine
-Applies to floxuridine: injection powder for solution
-In addition to its needed effects, some unwanted effects may be caused by floxuridine (the active ingredient contained in FUDR). In the event that any of these side effects do occur, they may require medical attention.
 Also, because of the way these medicines act on the body, there is a chance that they might cause other unwanted effects that may not occur until months or years after the medicine is used. These delayed effects may include certain types of cancer, such as leukemia. Discuss these possible effects with your doctor.
-You should check with your doctor immediately if any of these side effects occur when taking floxuridine:
-Some of the side effects that can occur with floxuridine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
 This medicine sometimes causes temporary thinning of hair. After treatment with floxuridine has ended, normal hair growth should return.
-
-
-Applies to floxuridine: injectable powder for injection
-Frequency not reported: Fever, lethargy, malaise, weakness-Adverse reactions to the arterial infusion of this drug are generally related to the procedural complications of regional arterial infusion.  The complications include arterial aneurysm, arterial ischemia, arterial thrombosis, embolism, fibromyositis, thrombophlebitis, hepatic necrosis, abscesses, infection at the catheter site, bleeding at the catheter site and/or a blocked, leaking, or displaced catheter.-Laboratory abnormalities include BSP, prothrombin, total proteins, sedimentation rate and thrombocytopenia.[Ref]
-Frequency not reported: Stomatitis, esophagopharyngitis (at the first visible sign), nausea, vomiting, diarrhea, enteritis, stomatitis, duodenal ulcer, duodenitis, gastritis, bleeding, gastroenteritis, glossitis, pharyngitis, anorexia, cramps, abdominal pain, possible intra- and extrahepatic biliary sclerosis, acalculous cholecystitis[Ref]
-Frequency not reported: Leukopenia (WBC under 3500) or a rapidly falling white blood count, anemia, leukopenia, thrombocytopenia, hemorrhage (from any site)[Ref]
-Frequency not reported: Elevations of alkaline phosphatase, serum transaminase, serum bilirubin, and lactic dehydrogenase[Ref]
-Frequency not reported: Alopecia, dermatitis, nonspecific skin toxicity, rash[Ref]
-Frequency not reported: Myocardial ischemia[Ref]
+Frequency not reported: Fever, lethargy, malaise, weakness-Adverse reactions to the arterial infusion of this drug are generally related to the procedural complications of regional arterial infusion.  The complications include arterial aneurysm, arterial ischemia, arterial thrombosis, embolism, fibromyositis, thrombophlebitis, hepatic necrosis, abscesses, infection at the catheter site, bleeding at the catheter site and/or a blocked, leaking, or displaced catheter.-Laboratory abnormalities include BSP, prothrombin, total proteins, sedimentation rate and thrombocytopenia.
+Frequency not reported: Stomatitis, esophagopharyngitis (at the first visible sign), nausea, vomiting, diarrhea, enteritis, stomatitis, duodenal ulcer, duodenitis, gastritis, bleeding, gastroenteritis, glossitis, pharyngitis, anorexia, cramps, abdominal pain, possible intra- and extrahepatic biliary sclerosis, acalculous cholecystitis
+Frequency not reported: Leukopenia (WBC under 3500) or a rapidly falling white blood count, anemia, leukopenia, thrombocytopenia, hemorrhage (from any site)
+Frequency not reported: Elevations of alkaline phosphatase, serum transaminase, serum bilirubin, and lactic dehydrogenase
+Frequency not reported: Alopecia, dermatitis, nonspecific skin toxicity, rash
+Frequency not reported: Myocardial ischemia
 Frequency not reported: Neurotoxicity
-1. "Product Information. FUDR Sterile (floxuridine)." Roche Laboratories, Nutley, NJ. 
-Not all side effects for FUDR may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Diarrhea
 sores in mouth and on lips 
 stomach pain or cramps
-
-
 Black, tarry stools
 heartburn
 nausea and vomiting
 scaling or redness of hands or feet
 swelling or soreness of the tongue 
-
-
 Blood in urine or stools
 cough or hoarseness 
 fever or chills
@@ -39,8 +24,5 @@ pinpoint red spots on skin
  trouble in walking
 unusual bleeding or bruising 
 yellow eyes or skin
-
-
 Loss of appetite
 skin rash or itching 
-

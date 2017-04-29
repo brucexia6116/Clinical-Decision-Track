@@ -1,32 +1,19 @@
 Commonly reported side effects of acebutolol include: fatigue. Other side effects include: constipation, diarrhea, dizziness, dyspepsia, and nausea.  See below for a comprehensive list of adverse effects.
-Applies to acebutolol: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by acebutolol. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking acebutolol:
-
 If any of the following symptoms of overdose occur while taking acebutolol, get emergency help immediately:
-
-Some of the side effects that can occur with acebutolol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to acebutolol: compounding powder, oral capsule
-The most common adverse reactions were fatigue and gastrointestinal disorders.[Ref]
-Very common (10% or more): Fatigue (11%)Common (1% to 10%): Chest pain, edemaFrequency not reported: Lactate dehydrogenase (LDH) increased, alkaline phosphatase increased, fever, malaise, withdrawal syndrome[Ref]
-Common (1% to 10%): Constipation, diarrhea, dyspepsia, flatulence, nauseaFrequency not reported: Vomiting, abdominal pain[Ref]
-Common (1% to 10%): Depression, insomnia, abnormal dreamsFrequency not reported: Anxiety, psychoses, hallucination, confusion, loss of libido, sleep disorder[Ref]
-Common (1% to 10%): Cough, dyspnea, rhinitisFrequency not reported: Pharyngitis, wheezing, pneumonitis, lung infiltration[Ref]
-Common (1% to 10%): Arthralgia, myalgiaUncommon (0.1% to 1%): Lupus like syndromeFrequency not reported: Back pain, joint pain, systemic lupus erythematosus[Ref]
-Common (1% to 10%): Dizziness, headacheFrequency not reported: Hyper/hypoesthesia, paresthesia[Ref]
-Common (1% to 10%): Micturition frequencyFrequency not reported: Impotence, dysuria, nocturia, dark urine[Ref]
-Common (1% to 10%): Abnormal visionFrequency not reported: Conjunctivitis, dry eye, eye pain[Ref]
-Common (1% to 10%): RashFrequency not reported: Pruritus[Ref]
-Frequency not reported: Hypotension, bradycardia, heart failure, first degree atrioventricular block, existing atrioventricular block increased, intermittent claudication, Raynaud's syndrome, cyanosis peripheral, peripheral coldness[Ref]
-Frequency not reported: Serum glutamic oxaloacetic transaminase (SGOT) increased, serum glutamic pyruvic transaminase (SGPT) increased, bilirubin increased, hepatic enzymes increased, liver injury[Ref]
-Frequency not reported: Antinuclear antibody[Ref]
-Frequency not reported: Anorexia[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Sectral (acebutolol)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-Not all side effects for acebutolol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions were fatigue and gastrointestinal disorders.
+Very common (10% or more): Fatigue (11%)Common (1% to 10%): Chest pain, edemaFrequency not reported: Lactate dehydrogenase (LDH) increased, alkaline phosphatase increased, fever, malaise, withdrawal syndrome
+Common (1% to 10%): Constipation, diarrhea, dyspepsia, flatulence, nauseaFrequency not reported: Vomiting, abdominal pain
+Common (1% to 10%): Depression, insomnia, abnormal dreamsFrequency not reported: Anxiety, psychoses, hallucination, confusion, loss of libido, sleep disorder
+Common (1% to 10%): Cough, dyspnea, rhinitisFrequency not reported: Pharyngitis, wheezing, pneumonitis, lung infiltration
+Common (1% to 10%): Arthralgia, myalgiaUncommon (0.1% to 1%): Lupus like syndromeFrequency not reported: Back pain, joint pain, systemic lupus erythematosus
+Common (1% to 10%): Dizziness, headacheFrequency not reported: Hyper/hypoesthesia, paresthesia
+Common (1% to 10%): Micturition frequencyFrequency not reported: Impotence, dysuria, nocturia, dark urine
+Common (1% to 10%): Abnormal visionFrequency not reported: Conjunctivitis, dry eye, eye pain
+Common (1% to 10%): RashFrequency not reported: Pruritus
+Frequency not reported: Hypotension, bradycardia, heart failure, first degree atrioventricular block, existing atrioventricular block increased, intermittent claudication, Raynaud's syndrome, cyanosis peripheral, peripheral coldness
+Frequency not reported: Serum glutamic oxaloacetic transaminase (SGOT) increased, serum glutamic pyruvic transaminase (SGPT) increased, bilirubin increased, hepatic enzymes increased, liver injury
+Frequency not reported: Antinuclear antibody
+Frequency not reported: Anorexia
 Changes in vision
 chest pain
 difficult or labored breathing
@@ -34,8 +21,6 @@ shortness of breath
 swelling of face, fingers, feet, or lower legs
 tightness in chest
 wheezing
-
-
 Anxiety
 blurred vision
 chest discomfort
@@ -69,8 +54,6 @@ sweating
 troubled breathing
 unusual tiredness or weakness
 weight gain
-
-
 Acid or sour stomach
 belching
 bloated
@@ -100,4 +83,3 @@ trouble concentrating
 trouble sleeping
 unable to sleep
 unusual dreams
-

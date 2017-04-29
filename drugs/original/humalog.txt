@@ -1,36 +1,24 @@
-Generic Name: insulin lispro
-Applies to insulin lispro: suspension
-In addition to its needed effects, some unwanted effects may be caused by insulin lispro (the active ingredient contained in Humalog). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking insulin lispro:
-Some of the side effects that can occur with insulin lispro may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to insulin lispro: subcutaneous solution
-Adverse reactions observed have included hypoglycemia, allergic reactions, local injection site reactions, lipodystrophy, rash, and pruritus.[Ref]
-Weight gain has been reported with insulin therapy and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.[Ref]
-Very common (10% or more): HypoglycemiaFrequency not reported: Weight gain[Ref]
-Frequency not reported: Allergic reactions including anaphylaxis[Ref]
-Hypersensitivity side effects have included both local and systemic reactions.  Anaphylaxis has been reported.  Local reactions have presented as erythema, local edema, and pruritus at the injection site.  Most minor reactions to insulin at the injection site resolve in a few days to a few weeks.  Generalized allergy to insulin may present as a whole body rash, dyspnea, wheezing, hypotension, tachycardia, or diaphoresis.  In clinical trials, pruritus (with or without rash) was seen in 17 patients receiving human insulin (n=2969) and 30 patients receiving insulin lispro (n=2944).[Ref]
-Common (1% to 10%): Infusion site reactions Rare (less than 0.1%): Catheter occlusions/month[Ref]
-Rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder and worsening of diabetic retinopathy.  However, long-term glycemic control decreases the risk of diabetic retinopathy.[Ref]
-Uncommon (0.1% to 1%): Refraction disorder, worsening of diabetic retinopathy[Ref]
-Very common (10% or more): Headache (up to 29.6%)Rare (less than 0.1%): Painful peripheral neuropathy[Ref]
-Rapid improvement in glucose control has been associated with a transitory, reversible acute painful peripheral neuropathy.  However, long-term glycemic control decreases the risk.[Ref]
-The clinical significance of the development of these antibody titers is unknown.[Ref]
-Very common (10% or more): Flu syndrome (up to 34.6%), infection (up to 13.6%)Frequency not reported: Anti-insulin antibody titers[Ref]
-Frequency not reported: Peripheral edema[Ref]
-Insulin may cause sodium retention and edema, especially as metabolic control is improving.[Ref]
-Long-term use of insulin may cause lipodystrophy at the site of repeated injection.  Lipodystrophy includes lipohypertrophy, a thickening of adipose tissue, and lipoatrophy, thinning of adipose tissue.[Ref]
-Uncommon (0.1% to 1%): Urticaria, rash Frequency not reported: Lipodystrophy including lipohypertrophy and lipoatrophy[Ref]
-Common (1% to 10%): Nausea, diarrhea, abdominal pain[Ref]
-Common (1% to 10%): Urinary tract infection, dysmenorrhea[Ref]
-Common (1% to 10%): Myalgia[Ref]
-Very common (10% or more): Pain (up to 19.8%)Common (1% to 10%): Fever[Ref]
-Very common (10% or more): Pharyngitis (up to 33.3%), rhinitis (up to 24.7%), increased cough (up to 17.3%)Common (1% to 10%): Sinusitis, bronchitis[Ref]
-1. "Product Information. Humalog (insulin lispro)." Lilly, Eli and Company, Indianapolis, IN. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Humalog may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Adverse reactions observed have included hypoglycemia, allergic reactions, local injection site reactions, lipodystrophy, rash, and pruritus.
+Weight gain has been reported with insulin therapy and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
+Very common (10% or more): HypoglycemiaFrequency not reported: Weight gain
+Frequency not reported: Allergic reactions including anaphylaxis
+Hypersensitivity side effects have included both local and systemic reactions.  Anaphylaxis has been reported.  Local reactions have presented as erythema, local edema, and pruritus at the injection site.  Most minor reactions to insulin at the injection site resolve in a few days to a few weeks.  Generalized allergy to insulin may present as a whole body rash, dyspnea, wheezing, hypotension, tachycardia, or diaphoresis.  In clinical trials, pruritus (with or without rash) was seen in 17 patients receiving human insulin (n=2969) and 30 patients receiving insulin lispro (n=2944).
+Common (1% to 10%): Infusion site reactions Rare (less than 0.1%): Catheter occlusions/month
+Rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder and worsening of diabetic retinopathy.  However, long-term glycemic control decreases the risk of diabetic retinopathy.
+Uncommon (0.1% to 1%): Refraction disorder, worsening of diabetic retinopathy
+Very common (10% or more): Headache (up to 29.6%)Rare (less than 0.1%): Painful peripheral neuropathy
+Rapid improvement in glucose control has been associated with a transitory, reversible acute painful peripheral neuropathy.  However, long-term glycemic control decreases the risk.
+The clinical significance of the development of these antibody titers is unknown.
+Very common (10% or more): Flu syndrome (up to 34.6%), infection (up to 13.6%)Frequency not reported: Anti-insulin antibody titers
+Frequency not reported: Peripheral edema
+Insulin may cause sodium retention and edema, especially as metabolic control is improving.
+Long-term use of insulin may cause lipodystrophy at the site of repeated injection.  Lipodystrophy includes lipohypertrophy, a thickening of adipose tissue, and lipoatrophy, thinning of adipose tissue.
+Uncommon (0.1% to 1%): Urticaria, rash Frequency not reported: Lipodystrophy including lipohypertrophy and lipoatrophy
+Common (1% to 10%): Nausea, diarrhea, abdominal pain
+Common (1% to 10%): Urinary tract infection, dysmenorrhea
+Common (1% to 10%): Myalgia
+Very common (10% or more): Pain (up to 19.8%)Common (1% to 10%): Fever
+Very common (10% or more): Pharyngitis (up to 33.3%), rhinitis (up to 24.7%), increased cough (up to 17.3%)Common (1% to 10%): Sinusitis, bronchitis
 Anxious or nervous feeling
 behavior change similar to being drunk
 blurred vision
@@ -52,11 +40,7 @@ restless sleep
 shakiness
 slurred speech
 tingling in the hands, feet, lips, or tongue
-
-
 Dry, red, hot, or irritated skin
-
-
 Depression of the skin at the injection site
 dryness of the mouth
 fast or weak pulse
@@ -68,8 +52,6 @@ sweating
 thickening of the skin at the injection site
 trouble breathing
 unusual tiredness or weakness
-
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 decreased urine
 difficulty with swallowing
@@ -80,8 +62,6 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 redistribution or accumulation of body fat
 tightness in the chest
 unusual weight gain or loss
-
-
 Body aches or pain
 congestion
 runny nose
@@ -89,7 +69,4 @@ sneezing
 stuffy nose
 tender, swollen glands in the neck
 voice changes
-
-
 Redness, swelling, or itching at the injection site
-

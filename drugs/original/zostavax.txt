@@ -1,24 +1,18 @@
-Generic Name: zoster vaccine live
-Applies to zoster vaccine live: parenteral for injection for sub-q use
 Side effects include:
 Injection site reactions (erythema, pain/tenderness, swelling, pruritus, warmth, hematoma, induration), headache, extremity pain.  
-Applies to zoster vaccine live: subcutaneous powder for injection
-The most common adverse events were headache and injection site reactions.[Ref]
-Very common (10% or more): Injection site pain (up to 53.9%), injection site erythema (48.1%), injection site swelling (40.4%), pruritus (11.3%)Common (1% to 10%): Warmth, hematoma, indurationPostmarketing reports: Injection site rash, injection site urticaria, transient injection site lymphadenopathy[Ref]
-Common (1% to 10%): Headache, asthenia[Ref]
-Common (1% to 10%): Death, fever, asthenia[Ref]
-The most common reported cause of death was cardiovascular disease (10 in the vaccine group, 8 in the placebo group).  The overall incidence of death occurring at any time during the study was similar between groups: 793 deaths (4.1%) in the vaccine group and 795 deaths (4.1%) in the placebo group.[Ref]
-Common (1% to 10%): Congestive heart failure or pulmonary edema[Ref]
-Congestive heart failure or pulmonary edema occurred in 1.5% of patients receiving the vaccine versus 1.2% of patients receiving placebo in the AE monitoring substudy.[Ref]
-Common (1% to 10%): Respiratory infection, flu syndrome, rhinitis, respiratory disorderVery rare (less than 0.01%): Asthma exacerbation[Ref]
-Common (1% to 10%): DiarrheaPostmarketing reports: Nausea[Ref]
-Common (1% to 10%): Skin disorderRare (less than 0.1%): Non-injection site varicella-type rash, non-injection site zoster-like rashPostmarketing reports: Rash[Ref]
-Common (1% to 10%): Pain in extremityVery rare (less than 0.01%): Polymyalgia rheumaticaPostmarketing reports: Arthralgia, myalgia[Ref]
-Very rare (less than 0.01%): Anaphylactic reactionPostmarketing reports: Hypersensitivity reactions including anaphylactic reactions[Ref]
-Very rare (less than 0.01%): VaricellaPostmarketing reports: Herpes zoster (vaccine strain)[Ref]
-Frequency not reported: Lymphadenopathy[Ref]
-Postmarketing reports: Necrotizing retinitis (patients on immunosuppressive therapy)[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Zostavax (zoster vaccine live)." Merck & Company Inc, West Point, PA. 
+The most common adverse events were headache and injection site reactions.
+Very common (10% or more): Injection site pain (up to 53.9%), injection site erythema (48.1%), injection site swelling (40.4%), pruritus (11.3%)Common (1% to 10%): Warmth, hematoma, indurationPostmarketing reports: Injection site rash, injection site urticaria, transient injection site lymphadenopathy
+Common (1% to 10%): Headache, asthenia
+Common (1% to 10%): Death, fever, asthenia
+The most common reported cause of death was cardiovascular disease (10 in the vaccine group, 8 in the placebo group).  The overall incidence of death occurring at any time during the study was similar between groups: 793 deaths (4.1%) in the vaccine group and 795 deaths (4.1%) in the placebo group.
+Common (1% to 10%): Congestive heart failure or pulmonary edema
+Congestive heart failure or pulmonary edema occurred in 1.5% of patients receiving the vaccine versus 1.2% of patients receiving placebo in the AE monitoring substudy.
+Common (1% to 10%): Respiratory infection, flu syndrome, rhinitis, respiratory disorderVery rare (less than 0.01%): Asthma exacerbation
+Common (1% to 10%): DiarrheaPostmarketing reports: Nausea
+Common (1% to 10%): Skin disorderRare (less than 0.1%): Non-injection site varicella-type rash, non-injection site zoster-like rashPostmarketing reports: Rash
+Common (1% to 10%): Pain in extremityVery rare (less than 0.01%): Polymyalgia rheumaticaPostmarketing reports: Arthralgia, myalgia
+Very rare (less than 0.01%): Anaphylactic reactionPostmarketing reports: Hypersensitivity reactions including anaphylactic reactions
+Very rare (less than 0.01%): VaricellaPostmarketing reports: Herpes zoster (vaccine strain)
+Frequency not reported: Lymphadenopathy
+Postmarketing reports: Necrotizing retinitis (patients on immunosuppressive therapy)
 It is possible that some side effects of Zostavax may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

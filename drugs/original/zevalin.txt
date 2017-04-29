@@ -1,28 +1,20 @@
-Generic Name: ibritumomab
-Applies to ibritumomab: intravenous solution
 As well as its needed effects, ibritumomab (the active ingredient contained in Zevalin) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking ibritumomab, check with your doctor or nurse immediately:
 Some ibritumomab side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 For several months after receiving this therapy, it may still produce some side effects that need attention. During this period of time check with your doctor immediately if you notice any of the following:
-
-
-Applies to ibritumomab: intravenous kit
-Common (1% to 10%): Hypertension[Ref]
-Common (1% to 10%): Night sweats, petechiae, pruritus, rashPostmarketing reports: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, bullous dermatitis, exfoliative dermatitis[Ref]
-Very common (10% or more): Nausea, abdominal pain, diarrhea[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-Very common (10% or more): Thrombocytopenia, neutropenia, anemia, leukopenia, lymphopeniaCommon (1% to 10%): EcchymosisFrequency not reported: Cytopenias[Ref]
-Postmarketing reports: Infusion site erythema, ulceration following extravasation[Ref]
-Common (1% to 10%): Anorexia[Ref]
-Very common (10% or more): Myalgia[Ref]
-Common (1% to 10%): Dizziness[Ref]
-Frequency not reported: Secondary malignancy[Ref]
-Very common (10% or more): Fatigue, asthenia, pyrexia, serious and life threatening infectionsCommon (1% to 10%): Influenza-like illnessUncommon (0.1% to 1%): Antibody formationPostmarketing reports: Radiation injury[Ref]
-Very common (10% or more): Nasopharyngitis, coughCommon (1% to 10%): Pharyngolaryngeal pain, epistaxis, bronchitis, rhinitis, sinusitis[Ref]
-1. "Product Information. In-111 Zevalin (ibritumomab)." IDEC Pharmaceuticals Corporation, San Diego, CA. 
+Common (1% to 10%): Hypertension
+Common (1% to 10%): Night sweats, petechiae, pruritus, rashPostmarketing reports: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, bullous dermatitis, exfoliative dermatitis
+Very common (10% or more): Nausea, abdominal pain, diarrhea
+Common (1% to 10%): Urinary tract infection
+Very common (10% or more): Thrombocytopenia, neutropenia, anemia, leukopenia, lymphopeniaCommon (1% to 10%): EcchymosisFrequency not reported: Cytopenias
+Postmarketing reports: Infusion site erythema, ulceration following extravasation
+Common (1% to 10%): Anorexia
+Very common (10% or more): Myalgia
+Common (1% to 10%): Dizziness
+Frequency not reported: Secondary malignancy
+Very common (10% or more): Fatigue, asthenia, pyrexia, serious and life threatening infectionsCommon (1% to 10%): Influenza-like illnessUncommon (0.1% to 1%): Antibody formationPostmarketing reports: Radiation injury
+Very common (10% or more): Nasopharyngitis, coughCommon (1% to 10%): Pharyngolaryngeal pain, epistaxis, bronchitis, rhinitis, sinusitis
 It is possible that some side effects of Zevalin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
@@ -53,8 +45,6 @@ troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
 wheezing
-
-
 Bloody nose that does not stop after pinching the nose together and holding it for 5 to 10 minutes
 bluish lips or skin
 chest pain or discomfort
@@ -71,8 +61,6 @@ skin rash
 small red or purple spots on the skin
 unusual vaginal bleeding
 vomiting blood or material that looks like coffee grounds
-
-
 Agitation
 anxiety
 back pain
@@ -95,8 +83,6 @@ temporary blindness
 vomiting
 weakness in the arm or leg on one side of the body, sudden and severe
 welts
-
-
 Blistering, peeling, or loosening of the skin
 cracks in the skin
 joint or muscle pain
@@ -106,8 +92,6 @@ red, irritated eyes
 red, swollen skin
 scaly skin
 skin blisters
-
-
 Abdominal or stomach pain
 bruising
 constipation
@@ -139,16 +123,12 @@ throat irritation
 trouble with sleeping
 unable to sleep
 weight loss
-
-
 Acid or sour stomach
 belching
 heartburn
 indigestion
 stomach discomfort, upset, or pain
 swelling or redness in the joints
-
-
 Bleeding gums
 bone pain
 headache, sudden and severe
@@ -157,4 +137,3 @@ increased menstrual flow or vaginal bleeding
 red or black, tarry stools
 red or dark brown urine
 temporary blindness
-

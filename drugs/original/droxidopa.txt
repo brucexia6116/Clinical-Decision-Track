@@ -1,19 +1,9 @@
 More frequently reported side effects include: hypertension.  See below for a comprehensive list of adverse effects.
-Applies to droxidopa: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by droxidopa. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking droxidopa:
-Some of the side effects that can occur with droxidopa may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to droxidopa: oral capsule
-Common (1% to 10%): Hypertension (greater than 5%)Frequency not reported: Supine hypertension, exacerbation of existing heart disease, arrhythmias, and congestive heart failure[Ref]
-Common (1% to 10%): Nausea[Ref]
-Very common (10% or more): Urinary tract infections (15% in the elderly)[Ref]
-Very common (10% or more): Falls (24% in the elderly)[Ref]
-Very common (10% or more): Headache (up to 15%), syncope (13% in the elderly), dizziness (up to 11%)[Ref]
-1. "Product Information. Northera (droxidopa)." Chelsea Therapeutics Inc, Charlotte, NC. 
-Not all side effects for droxidopa may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Hypertension (greater than 5%)Frequency not reported: Supine hypertension, exacerbation of existing heart disease, arrhythmias, and congestive heart failure
+Common (1% to 10%): Nausea
+Very common (10% or more): Urinary tract infections (15% in the elderly)
+Very common (10% or more): Falls (24% in the elderly)
+Very common (10% or more): Headache (up to 15%), syncope (13% in the elderly), dizziness (up to 11%)
 Bladder pain
 bloody or cloudy urine
 blurred vision
@@ -25,8 +15,5 @@ lower back or side pain
 nervousness
 pounding in the ears
 slow or fast heartbeat
-
-
 Headache
 nausea
-

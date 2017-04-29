@@ -1,35 +1,17 @@
-Generic Name: fluticasone topical
-Applies to fluticasone topical: topical application cream, topical application lotion, topical application ointment
-In addition to its needed effects, some unwanted effects may be caused by fluticasone topical (the active ingredient contained in Cutivate). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking fluticasone topical:
-Some of the side effects that can occur with fluticasone topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fluticasone topical: topical cream, topical lotion, topical ointment
-Common (1% to 10 %): Erythema, burning, stinging[Ref]
-Very rare (less than 0.01%): Hypothalamic-pituitary-adrenal (HPA) axis suppression, Increased weight, obesity, delayed weight gain, growth retardation in children, cushingoid features (e.g.  moon face, central obesity), decreased endogenous cortisol levels[Ref]
-Frequency not reported: Intracranial hypertension (including bulging fontanelles, headaches, bilateral papilledema)[Ref]
-Common (1% to 10%): Erythematous rash, facial telangiectasia, non-facial telangiectasia, urticaria, pruritusUncommon (0.1% to 1%): Skin infection, infected eczema, impetigo, atopic dermatitis, eczema, skin irritation, folliculitis, blisters, dryness of skin, local skin burningFrequency not reported: Irritation, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, hypertrichosis, miliaria, pustular psoriasis[Ref]
-Very rare (less than 0.01%): Hypertension[Ref]
-Very rare (less than 0.01%): Osteoporosis[Ref]
-Very rare (less than 0.01%): Cataract, glaucoma[Ref]
-Uncommon (0.1% to 1%): Viral warts, herpes simplexVery rare (less than 0.01%): Opportunistic infections[Ref]
-Very rare (less than 0.01%): Hypersensitivity[Ref]
-The most commonly reported side effects were erythema, burning, and stinging.[Ref]
-1. "Product Information. Flovent (fluticasone)." Glaxo Wellcome, Research Triangle Park, NC. 
-2. "Product Information. Flonase (fluticasone)." Glaxo Wellcome, Research Triangle Park, NC. 
-3. "Product Information. Cutivate (fluticasone)." Glaxo Wellcome, Research Triangle Park, NC. 
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Cutivate may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10 %): Erythema, burning, stinging
+Very rare (less than 0.01%): Hypothalamic-pituitary-adrenal (HPA) axis suppression, Increased weight, obesity, delayed weight gain, growth retardation in children, cushingoid features (e.g.  moon face, central obesity), decreased endogenous cortisol levels
+Frequency not reported: Intracranial hypertension (including bulging fontanelles, headaches, bilateral papilledema)
+Common (1% to 10%): Erythematous rash, facial telangiectasia, non-facial telangiectasia, urticaria, pruritusUncommon (0.1% to 1%): Skin infection, infected eczema, impetigo, atopic dermatitis, eczema, skin irritation, folliculitis, blisters, dryness of skin, local skin burningFrequency not reported: Irritation, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, hypertrichosis, miliaria, pustular psoriasis
+Very rare (less than 0.01%): Hypertension
+Very rare (less than 0.01%): Osteoporosis
+Very rare (less than 0.01%): Cataract, glaucoma
+Uncommon (0.1% to 1%): Viral warts, herpes simplexVery rare (less than 0.01%): Opportunistic infections
+Very rare (less than 0.01%): Hypersensitivity
+The most commonly reported side effects were erythema, burning, and stinging.
 Burning, itching, redness, or stinging of the skin
 hives or welts, skin rash
 raised, dark red, wart-like spots on the skin, especially when used on the face
-
-
 Burning, itching, and pain in hairy areas, pus at the root of the hair
-
-
 Darkening of the skin
 diarrhea
 dizziness
@@ -40,8 +22,6 @@ nausea
 thinning of the skin with easy bruising, especially when used on the face or where the skin folds together (eg, between the fingers)
 unusual tiredness or weakness
 vomiting
-
-
 Body aches or pain
 change in hearing
 chills
@@ -61,4 +41,3 @@ nasal congestion
 runny nose
 sneezing
 sore throat
-

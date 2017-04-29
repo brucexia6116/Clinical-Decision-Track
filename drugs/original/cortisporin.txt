@@ -1,16 +1,8 @@
-Generic Name: bacitracin / hydrocortisone / neomycin / polymyxin b topical
-Applies to bacitracin / hydrocortisone / neomycin / polymyxin b topical: ointment
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Burning, dryness, or itching of skin; worsening of condition.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); hearing or kidney problems; second infection.
-
-
-Applies to bacitracin / hydrocortisone / neomycin / polymyxin b topical: topical ointment
-Hypersensitivity side effects associated with neomycin have included contact sensitization characterized by itching and swelling in 0.9% to 1% of patients.[Ref]
-Nervous system side effects associated with neomycin have included ototoxicity.[Ref]
-Renal side effects associated with neomycin have included nephrotoxicity.[Ref]
-Dermatologic side effects associated with the use of topical corticosteroids have included burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria.  These reactions are more likely with the use of occlusive dressings or with use over prolonged periods of time.[Ref]
-Endocrine side effects of topical corticosteroids are rare.  Glucose intolerance and hyperglycemia may be induced by corticosteroids.  These drugs can rarely suppress the hypothalamic-pituitary-adrenal axis.  This suppression is more likely when higher potency topical steroids are used over extensive areas and when occlusive dressings are used.[Ref]
-1. "Product Information. Cortisporin Topical (hydrocortisone/neomycin/polymyxin B topical)." Monarch Pharmaceuticals Inc, Bristol, TN. 
-2. "Product Information. Cortisporin (bacitracin/HC/neomycin/polymyxin B topical)." Monarch Pharmaceuticals Inc, Bristol, TN. 
-Not all side effects for Cortisporin Ointment may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Hypersensitivity side effects associated with neomycin have included contact sensitization characterized by itching and swelling in 0.9% to 1% of patients.
+Nervous system side effects associated with neomycin have included ototoxicity.
+Renal side effects associated with neomycin have included nephrotoxicity.
+Dermatologic side effects associated with the use of topical corticosteroids have included burning, itching, irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae, and miliaria.  These reactions are more likely with the use of occlusive dressings or with use over prolonged periods of time.
+Endocrine side effects of topical corticosteroids are rare.  Glucose intolerance and hyperglycemia may be induced by corticosteroids.  These drugs can rarely suppress the hypothalamic-pituitary-adrenal axis.  This suppression is more likely when higher potency topical steroids are used over extensive areas and when occlusive dressings are used.

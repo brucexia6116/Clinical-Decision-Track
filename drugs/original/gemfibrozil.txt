@@ -1,32 +1,20 @@
 Commonly reported side effects of gemfibrozil include: malignant neoplasm, pancreatitis, dyspepsia, and cholelithiasis. Other side effects include: abdominal pain.  See below for a comprehensive list of adverse effects.
-Applies to gemfibrozil: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by gemfibrozil. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking gemfibrozil:
-Some of the side effects that can occur with gemfibrozil may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to gemfibrozil: compounding powder, oral tablet
-The most frequently reported side effects were gastrointestinal reactions and included dyspepsia, abdominal pain, diarrhea, nausea, vomiting, acute appendicitis, constipation, and flatulence.[Ref]
-Very common (10% or more): Dyspepsia (19.6%)Common (1% to 10%): Abdominal pain, acute appendicitis, diarrhea, nausea, vomiting, constipation, flatulenceRare (less than 0.1%): PancreatitisFrequency not reported: Colitis[Ref]
-Common (1% to 10%): HeadacheRare (less than 0.1%): Peripheral neuropathy, paresthesia, dizziness, somnolenceFrequency not reported: Peripheral neuritis, convulsions, syncope, hyperesthesia, taste perversion, intracerebral hemorrhage[Ref]
-Rare (less than 0.1%): Hepatitis, cholestatic jaundice, cholelithiasis, cholecystitis, hepatic function abnormalFrequency not reported: ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased[Ref]
-Uncommon (0.1% to 1%): Atrial fibrillationFrequency not reported: Extrasystoles, vasculitis, peripheral vascular disease[Ref]
-Common (1% to 10%): Eczema, rashRare (less than 0.1%): Angioedema, urticaria, exfoliative dermatitis, dermatitis, pruritus, alopecia, photosensitivity reaction[Ref]
-Common (1% to 10%): Fatigue, vertigoRare (less than 0.1%): Creatine phosphokinase increasedFrequency not reported: Weight loss, viral infections, bacterial infections[Ref]
-Rare (less than 0.1%): Myopathy, myalgia, painful extremities, arthralgia, synovitis, rhabdomyolysis, myositis, muscular weaknessFrequency not reported: Lupus-like syndrome, myasthenia[Ref]
-Rare (less than 0.1%): Bone marrow failure, severe anemia, thrombocytopenia, leukopenia, eosinophilia, hemoglobin decreased, hematocrit decreased, WBC decreasedFrequency not reported: Anemia, bone marrow hypoplasia[Ref]
-Rare (less than 0.1%): Blurred visionFrequency not reported: Retinal edema, cataracts[Ref]
-Rare (less than 0.1%): Erectile dysfunctionFrequency not reported: Impotence, male fertility decreased[Ref]
-Rare (less than 0.1%): Libido decreased, depressionFrequency not reported: Confusion[Ref]
-Rare (less than 0.1%): Laryngeal edema[Ref]
-Frequency not reported: Renal dysfunction, renal failure[Ref]
-Frequency not reported: Hepatoma[Ref]
-Frequency not reported: Positive antinuclear antibody, anaphylaxis[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Lopid (gemfibrozil)." Parke-Davis, Morris Plains, NJ. 
-Not all side effects for gemfibrozil may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects were gastrointestinal reactions and included dyspepsia, abdominal pain, diarrhea, nausea, vomiting, acute appendicitis, constipation, and flatulence.
+Very common (10% or more): Dyspepsia (19.6%)Common (1% to 10%): Abdominal pain, acute appendicitis, diarrhea, nausea, vomiting, constipation, flatulenceRare (less than 0.1%): PancreatitisFrequency not reported: Colitis
+Common (1% to 10%): HeadacheRare (less than 0.1%): Peripheral neuropathy, paresthesia, dizziness, somnolenceFrequency not reported: Peripheral neuritis, convulsions, syncope, hyperesthesia, taste perversion, intracerebral hemorrhage
+Rare (less than 0.1%): Hepatitis, cholestatic jaundice, cholelithiasis, cholecystitis, hepatic function abnormalFrequency not reported: ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased
+Uncommon (0.1% to 1%): Atrial fibrillationFrequency not reported: Extrasystoles, vasculitis, peripheral vascular disease
+Common (1% to 10%): Eczema, rashRare (less than 0.1%): Angioedema, urticaria, exfoliative dermatitis, dermatitis, pruritus, alopecia, photosensitivity reaction
+Common (1% to 10%): Fatigue, vertigoRare (less than 0.1%): Creatine phosphokinase increasedFrequency not reported: Weight loss, viral infections, bacterial infections
+Rare (less than 0.1%): Myopathy, myalgia, painful extremities, arthralgia, synovitis, rhabdomyolysis, myositis, muscular weaknessFrequency not reported: Lupus-like syndrome, myasthenia
+Rare (less than 0.1%): Bone marrow failure, severe anemia, thrombocytopenia, leukopenia, eosinophilia, hemoglobin decreased, hematocrit decreased, WBC decreasedFrequency not reported: Anemia, bone marrow hypoplasia
+Rare (less than 0.1%): Blurred visionFrequency not reported: Retinal edema, cataracts
+Rare (less than 0.1%): Erectile dysfunctionFrequency not reported: Impotence, male fertility decreased
+Rare (less than 0.1%): Libido decreased, depressionFrequency not reported: Confusion
+Rare (less than 0.1%): Laryngeal edema
+Frequency not reported: Renal dysfunction, renal failure
+Frequency not reported: Hepatoma
+Frequency not reported: Positive antinuclear antibody, anaphylaxis
 Bladder pain
 bloody or cloudy urine
 cough or hoarseness
@@ -34,8 +22,6 @@ difficult, burning, or painful urination
 fever or chills
 frequent urge to urinate
 lower back or side pain
-
-
 Black, tarry stools
 chest pain
 dark-colored urine
@@ -54,8 +40,6 @@ swollen glands
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Acid or sour stomach
 bad, unusual, or unpleasant (after) taste
 belching
@@ -64,8 +48,6 @@ change in taste
 diarrhea
 heartburn
 stomach discomfort or upset
-
-
 Difficulty having a bowel movement (stool)
 dizziness or lightheadedness
 feeling of constant movement of self or surroundings
@@ -74,4 +56,3 @@ nausea
 sensation of spinning
 skin rash, encrusted, scaly and oozing
 vomiting
-

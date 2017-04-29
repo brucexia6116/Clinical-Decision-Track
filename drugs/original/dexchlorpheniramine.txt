@@ -1,20 +1,13 @@
-Applies to dexchlorpheniramine: controlled-release tablets, syrup
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Constipation; diarrhea; dizziness; drowsiness; dry mouth, nose, or throat; excitability; headache; loss of appetite; nausea; nervousness or anxiety; trouble sleeping; upset stomach; vomiting; weakness.
 Severe allergic reactions (rash; hives; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); difficulty urinating or inability to urinate; fast or irregular heartbeat; hallucinations; seizures; severe dizziness, lightheadedness, or headache; tremor; trouble sleeping; vision changes.
-
-
-Applies to dexchlorpheniramine: compounding powder, oral syrup, oral tablet, oral tablet extended release
-Gastrointestinal side effects have included dryness of mouth and throat, epigastric distress, anorexia, nausea, vomiting, diarrhea, and constipation.[Ref]
-Genitourinary side effects have included urinary frequency, difficult urination, urinary frequency, and early menses.[Ref]
-Hypersensitivity reactions have included drug rash, anaphylactic shock, and photosensitivity.[Ref]
-Dermatologic side effects have included urticaria.[Ref]
-General side effects have included excessive perspiration, chills, and dryness of nose.[Ref]
-Hematologic side effects have included hemolytic anemia, thrombocytopenia, and agranulocytosis.[Ref]
-Nervous system side effects have included sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesias, hysteria, neuritis, and convulsions.[Ref]
-Ocular side effects have included blurred vision and diplopia.[Ref]
-Otic side effects have included vertigo, tinnitus, and acute labyrinthitis.[Ref]
-Respiratory side effects have included thickening of bronchial secretions, tightness of chest, wheezing, and nasal stiffness.[Ref]
-1. "Product Information. Polaramine (dexchlorpheniramine)." Schering-Plough Corporation, Kenilworth, NJ. 
-2. Theunissen EL,  Vermeeren A,  Ramaekers JG "Repeated-dose effects of mequitazine, cetirizine and dexchlorpheniramine on driving and psychomotor performance." Br J Clin Pharmacol 61 (2006): 79-86
-Not all side effects for dexchlorpheniramine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Gastrointestinal side effects have included dryness of mouth and throat, epigastric distress, anorexia, nausea, vomiting, diarrhea, and constipation.
+Genitourinary side effects have included urinary frequency, difficult urination, urinary frequency, and early menses.
+Hypersensitivity reactions have included drug rash, anaphylactic shock, and photosensitivity.
+Dermatologic side effects have included urticaria.
+General side effects have included excessive perspiration, chills, and dryness of nose.
+Hematologic side effects have included hemolytic anemia, thrombocytopenia, and agranulocytosis.
+Nervous system side effects have included sedation, sleepiness, dizziness, disturbed coordination, fatigue, confusion, restlessness, excitation, nervousness, tremor, irritability, insomnia, euphoria, paresthesias, hysteria, neuritis, and convulsions.
+Ocular side effects have included blurred vision and diplopia.
+Otic side effects have included vertigo, tinnitus, and acute labyrinthitis.
+Respiratory side effects have included thickening of bronchial secretions, tightness of chest, wheezing, and nasal stiffness.

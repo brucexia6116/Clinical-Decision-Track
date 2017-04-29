@@ -1,27 +1,16 @@
-Generic Name: glutamine
-Applies to glutamine: oral capsule, oral packet, oral powder, oral powder for solution, oral powder for suspension, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by glutamine (the active ingredient contained in GlutaSolve). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking glutamine:
-Some of the side effects that can occur with glutamine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to glutamine: compounding powder, oral capsule, oral powder for reconstitution, oral tablet
-Cardiovascular side effects have included chest pain (19%) and vascular disorder (11%).[Ref]
-Gastrointestinal side effects have included nausea (13% to 31%), vomiting (11% to 19%), abdominal pain (11% to 25%), tenesmus (6% to 33%), flatulence (22% to 25%), hemorrhoids (6% to 11%), dry mouth (6% to 11%), pancreatitis (6% to 11%), constipation (11%), aggravated Crohn's disease (11%), gastric ulcer (11%), and gastrointestinal fistula (11%).[Ref]
-Musculoskeletal side effects have included back pain (6% to 11%), arthralgia (31% to 44%), and myalgia (11% to 13%).[Ref]
-Respiratory side effects have included rhinitis (7% to 19%), laryngitis (11%), and pharyngitis (11%).[Ref]
-Psychiatric side effects have included depression (11% to 22%).[Ref]
-Other side effects have included peripheral edema (11% to 81%), facial edema (44% to 50%), generalized edema (13%), enlarged abdomen (11%), pain (6% to 19%), vascular disorder (11%), female breast pain (6% to 11%), vaginal fungal infection (11%), increased sweating (13%) and ear or hearing symptoms (13%).[Ref]
-Immunologic side effects have included fever (6% to 22%), chills (11%), malaise (13%), flu-like disorder (6% to 11%), viral or bacterial infection (6% to 19%), sepsis (6% to 20%), and moniliasis (13%).[Ref]
-Metabolic side effects have included dehydration (11% to 19%), and thirst (11%).[Ref]
-Dermatologic side effects have included rash (7% to 11%) and skin and appendage disorders (11% to 13%).[Ref]
-Local side effects have included injection site pain and/or injection site reaction (11% to 31%).[Ref]
-Central nervous system side effects have included dizziness (6% to 13%), hypoesthesia (6% to 11%), insomnia (11%) and headache (6% to 11%).[Ref]
-Genitourinary side effects have included pyelonephritis (11%) and renal calculus (11%).[Ref]
-Hepatic side effects have included abnormal hepatic function (11%).[Ref]
-1. "Product Information. NutreStore (glutamine)." Emmaus Medical Inc, Torrance, CA. 
-Not all side effects for GlutaSolve may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects have included chest pain (19%) and vascular disorder (11%).
+Gastrointestinal side effects have included nausea (13% to 31%), vomiting (11% to 19%), abdominal pain (11% to 25%), tenesmus (6% to 33%), flatulence (22% to 25%), hemorrhoids (6% to 11%), dry mouth (6% to 11%), pancreatitis (6% to 11%), constipation (11%), aggravated Crohn's disease (11%), gastric ulcer (11%), and gastrointestinal fistula (11%).
+Musculoskeletal side effects have included back pain (6% to 11%), arthralgia (31% to 44%), and myalgia (11% to 13%).
+Respiratory side effects have included rhinitis (7% to 19%), laryngitis (11%), and pharyngitis (11%).
+Psychiatric side effects have included depression (11% to 22%).
+Other side effects have included peripheral edema (11% to 81%), facial edema (44% to 50%), generalized edema (13%), enlarged abdomen (11%), pain (6% to 19%), vascular disorder (11%), female breast pain (6% to 11%), vaginal fungal infection (11%), increased sweating (13%) and ear or hearing symptoms (13%).
+Immunologic side effects have included fever (6% to 22%), chills (11%), malaise (13%), flu-like disorder (6% to 11%), viral or bacterial infection (6% to 19%), sepsis (6% to 20%), and moniliasis (13%).
+Metabolic side effects have included dehydration (11% to 19%), and thirst (11%).
+Dermatologic side effects have included rash (7% to 11%) and skin and appendage disorders (11% to 13%).
+Local side effects have included injection site pain and/or injection site reaction (11% to 31%).
+Central nervous system side effects have included dizziness (6% to 13%), hypoesthesia (6% to 11%), insomnia (11%) and headache (6% to 11%).
+Genitourinary side effects have included pyelonephritis (11%) and renal calculus (11%).
+Hepatic side effects have included abnormal hepatic function (11%).
 Blood in urine
 changes in skin color 
 chills
@@ -49,13 +38,9 @@ sudden decrease in amount of urine
  tightness in chest
 unusual tiredness or weakness 
 wheezing
-
-
 Cough or hoarseness
 frequent urge to defecate
 straining while passing stool
-
-
 Abnormal or decreased touch sensation
  back pain
 bacterial infection
@@ -131,4 +116,3 @@ vomiting of blood
 weight loss
 wrinkled skin
 yellow eyes or skin
-

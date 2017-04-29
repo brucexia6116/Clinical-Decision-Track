@@ -1,23 +1,12 @@
-Generic Name: indacaterol
 More frequent side effects include: headache and nasopharyngitis.  See below for a comprehensive list of adverse effects.
-Applies to indacaterol: inhalation capsule
-In addition to its needed effects, some unwanted effects may be caused by indacaterol (the active ingredient contained in Arcapta). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking indacaterol:
-Some of the side effects that can occur with indacaterol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to indacaterol: inhalation capsule
-Frequency not reported: Peripheral edemaPostmarketing reports: Tachycardia/heart rate increase/palpitations[Ref]
-Common (1% to 10%): Cough (6.5%), nasopharyngitis (5.3%), oropharyngeal pain (2.2%)Frequency not reported: Sinusitis, upper respiratory tract infectionPostmarketing reports: Paradoxical bronchospasm[Ref]
-Frequency not reported: Diabetes mellitus, hyperglycemia[Ref]
-Common (1% to 10%): Headache (5.1%)Postmarketing reports: Dizziness[Ref]
-Common (1% to 10%): Nausea (2.4%)[Ref]
-Postmarketing reports: Pruritus/rash[Ref]
+Frequency not reported: Peripheral edemaPostmarketing reports: Tachycardia/heart rate increase/palpitations
+Common (1% to 10%): Cough (6.5%), nasopharyngitis (5.3%), oropharyngeal pain (2.2%)Frequency not reported: Sinusitis, upper respiratory tract infectionPostmarketing reports: Paradoxical bronchospasm
+Frequency not reported: Diabetes mellitus, hyperglycemia
+Common (1% to 10%): Headache (5.1%)Postmarketing reports: Dizziness
+Common (1% to 10%): Nausea (2.4%)
+Postmarketing reports: Pruritus/rash
 Postmarketing reports: Hypersensitivity reactions
-Frequency not reported: Muscle spasm, musculoskeletal pain[Ref]
-1. "Product Information. Arcapta Neohaler (indacaterol)." Novartis Pharmaceuticals, East Hanover, NJ. 
-Not all side effects for Arcapta may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Muscle spasm, musculoskeletal pain
 Arm, back, or jaw pain
 chest pain or discomfort
 chest tightness or heaviness
@@ -34,8 +23,6 @@ sweating
 tightness in the chest
 troubled breathing
 wheezing
-
-
 Abdominal or stomach pain
 bloating or swelling of the face, arms, hands, lower legs, or feet
 blurred vision
@@ -60,16 +47,9 @@ unexplained weight loss
 unusual tiredness or weakness
 unusual weight gain or loss
 vomiting
-
-
 Fast, irregular, pounding, or racing heartbeat or pulse
-
-
 Muscle or bone pain
 muscle spasm
 pain or tenderness around the eyes and cheekbones
-
-
 Itching skin
 rash
-

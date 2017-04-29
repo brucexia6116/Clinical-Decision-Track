@@ -1,38 +1,14 @@
-Generic Name: pirbuterol
-Applies to pirbuterol: inhalation aerosol powder
-In addition to its needed effects, some unwanted effects may be caused by pirbuterol (the active ingredient contained in Maxair). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking pirbuterol:
-
 If any of the following symptoms of overdose occur while taking pirbuterol, get emergency help immediately:
-
-Some of the side effects that can occur with pirbuterol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to pirbuterol: inhalation aerosol
-Cardiovascular side effects have included palpitations and peripheral vasodilation, commonly resulting in reflex tachycardia.  Blood pressure may increase or decrease.  Higher doses may rarely aggravate angina, myocardial ischemia, or cause atrial or ventricular arrhythmias.[Ref]
-Although most studies have not revealed a significant effect of pirbuterol on blood pressure or heart rate, anecdotally significant increases have been noted.  Aggravation of angina may be due to tachycardia produced by pirbuterol.  Supraventricular premature beats and ventricular tachycardia have also been reported.  Higher doses of pirbuterol should be used with caution in patients with cardiac disease, arrhythmias, or hypertension.  All of these effects are dose-related and lower doses may be tolerated.[Ref]
-Musculoskeletal side effects have included tremors, especially at higher doses.[Ref]
-Gastrointestinal side effects have included nausea, dry mouth, and diarrhea.[Ref]
-Metabolic side effects have included hypokalemia and, less commonly, hyperglycemia.[Ref]
-Nervous system side effects have included nervousness, dizziness, insomnia, and headache.[Ref]
-Respiratory side effects have included cough.  Rare instances of paradoxical bronchoconstriction have been associated with the use of pirbuterol (the active ingredient contained in Maxair) [Ref]
-1. "Product Information. Maxair (pirbuterol)." 3M Pharmaceuticals, St. Paul, MN. 
-2. Chodosh S, Crooks LA, Tuck J "Comparative effects of pirbuterol acetate, metaproterenol, and placebo aerosols on pulmonary function and incidence of cardiac ectopy." J Asthma 26 (1989): 309-15
-3. Richards DM, Brogden RN "Pirbuterol. A preliminary review of its pharmacological properties and therapeutic efficacy in reversible bronchospastic disease." Drugs 30 (1985): 6-21
-4. Beumer HM "Pirbuterol versus orciprenaline aerosols in the treatment of bronchial asthma." Int J Clin Pharmacol Ther Toxicol 21 (1983): 147-66
-5. Beumer HM "Long-term treatment of bronchial asthma with pirbuterol aerosol." Int J Clin Pharmacol Ther Toxicol 21 (1983): 172-5
-6. Littner MR, Tashkin DP, Calvarese B, Bautista M "Acute bronchial and cardiovascular effects of increasing doses of pirbuterol acetate aerosol in asthma." Ann Allergy 48 (1982): 14-20
-7. Tinkelman DG, Brandon ML, Grieco M, Hudson L, Rosenthal RR, Spector SL, Tashkin D, Votteri B "Comparison of safety and efficacy of inhaled pirbuterol with metaproterenol." Ann Allergy 64 (1990): 202-6
-8. Windom H, Grainger J, Burgess C, Crane J, Pearce N, Beasley R "A comparison of the haemodynamic and hypokalaemic effects of inhaled pirbuterol and salbutamol." N Z Med J 103 (1990): 259-61
-Not all side effects for Maxair may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects have included palpitations and peripheral vasodilation, commonly resulting in reflex tachycardia.  Blood pressure may increase or decrease.  Higher doses may rarely aggravate angina, myocardial ischemia, or cause atrial or ventricular arrhythmias.
+Although most studies have not revealed a significant effect of pirbuterol on blood pressure or heart rate, anecdotally significant increases have been noted.  Aggravation of angina may be due to tachycardia produced by pirbuterol.  Supraventricular premature beats and ventricular tachycardia have also been reported.  Higher doses of pirbuterol should be used with caution in patients with cardiac disease, arrhythmias, or hypertension.  All of these effects are dose-related and lower doses may be tolerated.
+Musculoskeletal side effects have included tremors, especially at higher doses.
+Gastrointestinal side effects have included nausea, dry mouth, and diarrhea.
+Metabolic side effects have included hypokalemia and, less commonly, hyperglycemia.
+Nervous system side effects have included nervousness, dizziness, insomnia, and headache.
+Respiratory side effects have included cough.  Rare instances of paradoxical bronchoconstriction have been associated with the use of pirbuterol (the active ingredient contained in Maxair) 
 Shakiness in the legs, arms, hands, or feet
 trembling or shaking of the hands or feet
-
-
 Fast, pounding, or irregular heartbeat or pulse
-
-
 Blurred vision
 bruising
 chest pain
@@ -45,8 +21,6 @@ redness of the face, neck, arms, and occasionally, upper chest
 sweating
 swelling
 unusual tiredness or weakness
-
-
 Arm, back, or jaw pain
 chest tightness or heaviness
 confusion
@@ -68,12 +42,8 @@ sleeplessness
 slow or fast heartbeat
 trouble sleeping
 unable to sleep
-
-
 Cough
 dizziness
-
-
 Abdominal or stomach cramps
 anxiety
 bad, unusual, or unpleasant (after) taste
@@ -88,4 +58,3 @@ thinning of the hair
 weakness
 weight gain
 weight loss
-

@@ -1,30 +1,18 @@
 Commonly reported side effects of levetiracetam include: infection, psychoneurosis, drowsiness, asthenia, headache, nasopharyngitis, nervousness, abnormal behavior, aggressive behavior, agitation, anxiety, apathy, depersonalization, depression, fatigue, hostility, hyperkinesia, mental disorders, outbursts of anger, personality disorder, emotional lability, irritability, laceration, and mood changes. Other side effects include: tonic clonic epilepsy, dizziness, vertigo, abnormal behavior, decreased neutrophils, depressed mood, influenza, nasopharyngitis, neck pain, and pain.  See below for a comprehensive list of adverse effects.
-Applies to levetiracetam: oral solution, oral tablet, oral tablet for suspension, oral tablet extended release
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by levetiracetam. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking levetiracetam:
-Some of the side effects that can occur with levetiracetam may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to levetiracetam: intravenous solution, oral solution, oral tablet, oral tablet dispersible, oral tablet extended release
-Very common (10% or more): Headache (14%), somnolence (14%)Common (1% to 10%): Dizziness, ataxia, vertigo, paresthesiaPostmarketing reports: Choreoathetosis, dyskinesia[Ref]
-Common (1% to 10%): Pharyngitis, rhinitis, increased cough, sinusitis[Ref]
-Common (1% to 10%): Depression, nervousness, amnesia, anxiety, hostility, emotional lability, irritability, mood swings, hypersomnia, insomnia, apathy, tearfulness, negativismFrequency not reported: Suicidal ideation, delusional behavior[Ref]
-Common (1% to 10%): DiarrheaUncommon (0.1% to 1%): NauseaPostmarketing reports: Pancreatitis[Ref]
-Common (1% to 10%): Diplopia[Ref]
-Frequency not reported: Leukopenia, neutropenia, pancytopenia (with bone marrow suppression identified in some of these cases), thrombocytopenia, decreases in total mean RBC count (0.03 x 1,000,000/mm2), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%)[Ref]
-Very common (10% or more): Increased blood pressure in patients 1 month to less than 4 years of age (up to 17%)[Ref]
-Postmarketing reports: Abnormal liver function tests, hepatic failure, hepatitis[Ref]
-Common (1% to 10%): Neck pain[Ref]
-Very common (10% or more): Infection (13%)Common (1% to 10%): Influenza[Ref]
-Common (1% to 10%): AnorexiaPostmarketing reports: Weight loss[Ref]
-Very common (10% or more): Asthenia (15%), fatigue (10%)Common (1% to 10%): Pain, vertigo[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Pharmaceutical Society of Australia "APPGuide online. Australian prescription products guide online. Available from: URL: http://www.appco.com.au/appguide/default.asp."   ([2006]):
-3. "Product Information. Keppra (levetiracetam)" UCB Pharma Inc, Smyrna, GA. 
-Not all side effects for levetiracetam may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Very common (10% or more): Headache (14%), somnolence (14%)Common (1% to 10%): Dizziness, ataxia, vertigo, paresthesiaPostmarketing reports: Choreoathetosis, dyskinesia
+Common (1% to 10%): Pharyngitis, rhinitis, increased cough, sinusitis
+Common (1% to 10%): Depression, nervousness, amnesia, anxiety, hostility, emotional lability, irritability, mood swings, hypersomnia, insomnia, apathy, tearfulness, negativismFrequency not reported: Suicidal ideation, delusional behavior
+Common (1% to 10%): DiarrheaUncommon (0.1% to 1%): NauseaPostmarketing reports: Pancreatitis
+Common (1% to 10%): Diplopia
+Frequency not reported: Leukopenia, neutropenia, pancytopenia (with bone marrow suppression identified in some of these cases), thrombocytopenia, decreases in total mean RBC count (0.03 x 1,000,000/mm2), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%)
+Very common (10% or more): Increased blood pressure in patients 1 month to less than 4 years of age (up to 17%)
+Postmarketing reports: Abnormal liver function tests, hepatic failure, hepatitis
+Common (1% to 10%): Neck pain
+Very common (10% or more): Infection (13%)Common (1% to 10%): Influenza
+Common (1% to 10%): AnorexiaPostmarketing reports: Weight loss
+Very common (10% or more): Asthenia (15%), fatigue (10%)Common (1% to 10%): Pain, vertigo
 intravenous solution
-
 Aggressive or angry
 anxiety
 change in personality
@@ -62,8 +50,6 @@ sweating
 trouble sleeping
 unusual tiredness or weakness
 vomiting
-
-
 Bloody nose
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 clumsiness or unsteadiness
@@ -90,8 +76,6 @@ tiredness
 trembling or shaking of the hands or feet
 trouble concentrating
 unsteadiness, trembling, or other problems with muscle control or coordination
-
-
 Attempts at killing oneself
 being forgetful
 bleeding gums
@@ -134,8 +118,6 @@ unusual bleeding or bruising
 upper right abdominal or stomach pain
 weight loss
 yellow eyes or skin
-
-
 Loss of strength or energy
 muscle pain or weakness
 pain
@@ -143,8 +125,6 @@ tender, swollen glands in the neck
 trouble swallowing
 unusual weak feeling
 voice changes
-
-
 Body aches or pain
 burning, dry, or itching eyes
 change in the color of the skin
@@ -152,8 +132,5 @@ congestion
 cough increased
 rash
 sneezing
-
-
 Hair loss or thinning of the hair
 skin rash, encrusted, scaly, and oozing
-

@@ -1,52 +1,25 @@
-Applies to etravirine: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by etravirine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking etravirine:
-Some of the side effects that can occur with etravirine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to etravirine: oral tablet
-The safety report of etravirine is based on 599 HIV-1-infected, treatment-experienced patients receiving 200 mg twice daily in combination with background regimen (BR).  The median exposure was 52.3 weeks.  Discontinuation due to side effects occurred in 5.2% of patients using etravirine.  The most common side effects of moderate to severe intensity reported with etravirine and BR, regardless of causality, were peripheral neuropathy and rash.  A total of 2.2% of HIV-1-infected patients in Phase 3 trials receiving etravirine discontinued due to rash.[Ref]
-Very common (10% or more): Rash (all intensities: 16.9%; at least moderate intensity: 10%)Common (1% to 10%): Less than 2% (at least moderate intensity): Dry skin, face swelling, hyperhidrosis, lipohypertrophy, night sweats, prurigoUncommon (0.1% to 1%): Erythema multiforme (at least moderate intensity: up to 0.5%)Rare (less than 0.1%): Stevens-Johnson syndrome, erythema multiformeFrequency not reported: Contact dermatitis, erythema, pruritusPostmarketing reports: Toxic epidermal necrolysis (fatal cases)[Ref]
-During clinical trials, rash generally was mild to moderate, occurred chiefly in the second week of therapy, and was infrequent after the fourth week.  Rash usually resolved within 1 to 2 weeks on continued use of the drug.  The incidence of rash was higher in women taking etravirine (at least moderate severity: 15%) compared to men (at least moderate severity: 9.5%).  Discontinuation due to rash occurred in 5% of women compared to 1.9% of men.  Patients with a history of nonnucleoside reverse transcriptase inhibitor-related rash did not appear to be at increased risk.Erythema multiforme has been reported in no more than 0.5% of patients in other trials.[Ref]
-Common (1% to 10%): Elevated pancreatic amylase (Grade 2: 7%; Grade 3: 7%; Grade 4: 2%), elevated lipase (Grade 2: 4%; Grade 3: 2%; Grade 4: 1%); Less than 2% (at least moderate intensity): Abdominal distension, constipation, dry mouth, flatulence, gastritis, gastroesophageal reflux disease, hematemesis, pancreatitis, retching, stomatitisFrequency not reported: Nausea, diarrhea, abdominal pain, vomiting[Ref]
-Common (1% to 10%): Peripheral neuropathy (at least moderate intensity: 4%); Less than 2% (at least moderate intensity): Amnesia, convulsion, disturbance in attention, hypersomnia, hypoesthesia, paresthesia, somnolence, syncope, tremor, vertigoFrequency not reported: Headache[Ref]
-Common (1% to 10%): Drug hypersensitivity (at least moderate intensity: less than 2%)Postmarketing reports: Severe hypersensitivity reactions (including drug rash with eosinophilia and systemic symptoms [DRESS] and cases of hepatic failure)[Ref]
-Common (1% to 10%): Less than 2% (at least moderate intensity): Angina pectoris, atrial fibrillation, myocardial infarctionUncommon (0.1% to 1%): Angioneurotic edema (at least moderate intensity: up to 0.5%), hemorrhagic stroke (at least moderate intensity: up to 0.5%)Frequency not reported: Hypertension, mild atrioventricular block[Ref]
-Angioneurotic edema and hemorrhagic stroke have been reported in no more than 0.5% of patients in other trials.[Ref]
-Very common (10% or more): Elevated total cholesterol (Grade 2: 20%), elevated glucose levels (Grade 2: 15%), elevated low density lipoprotein (Grade 2: 13%)Common (1% to 10%): Elevated triglycerides (Grade 2: 9%; Grade 3: 6%; Grade 4: 4%), elevated total cholesterol (Grade 3: 8%), elevated low density lipoprotein (Grade 3: 7%), elevated glucose levels (Grade 3: 4%); Less than 2% (at least moderate intensity): Anorexia, diabetes mellitus, dyslipidemiaUncommon (0.1% to 1%): Acquired lipodystrophy (at least moderate intensity: up to 0.5%)[Ref]
-Acquired lipodystrophy has been reported in no more than 0.5% of patients in other trials.[Ref]
-Very common (10% or more): Worsening from baseline of AST (at least moderate intensity: 27.8% coinfected patients), worsening from baseline of ALT (at least moderate intensity: 25% coinfected patients)Common (1% to 10%): Worsening from baseline of ALT (at least moderate intensity: 7.5% non-coinfected patients), worsening from baseline of total bilirubin (at least moderate intensity: 7.1% coinfected patients), worsening from baseline of AST (at least moderate intensity: 6.7% non-coinfected patients), elevated ALT (Grade 2: 6%; Grade 3: 3%; Grade 4: 1%), elevated AST (Grade 2: 6%; Grade 3: 3%), worsening from baseline of total bilirubin (at least moderate intensity: 1.8% non-coinfected patients); Less than 2% (at least moderate intensity): Cytolytic hepatitis, hepatic steatosis, hepatitis, hepatic failure, hepatomegalyUncommon (0.1% to 1%): Elevated AST (Grade 4: less than 1%)[Ref]
-Grade 2 or higher abnormalities representing a worsening from baseline of AST, ALT, and total bilirubin have been reported in 27.8%, 25%, and 7.1%, respectively, in patients coinfected with hepatitis B and/or C virus as compared to 6.7%, 7.5%, and 1.8% reported in non-coinfected patients.[Ref]
-Common (1% to 10%): Decreased neutrophils (Grade 2: 5%; Grade 3: 4%; Grade 4: 2%), decreased platelet count (Grade 2: 3%; Grade 3: 1%), decreased hemoglobin (Grade 2: 2%), decreased white blood cell count (Grade 2: 2%; Grade 3: 1%; Grade 4: 1%), hemolytic anemia (at least moderate intensity: less than 2%)Uncommon (0.1% to 1%): Decreased hemoglobin (Grade 3: less than 1%; Grade 4: less than 1%), decreased platelet count (Grade 4: less than 1%)Frequency not reported: Anemia[Ref]
-Common (1% to 10%): Elevated creatinine (Grade 2: 6%; Grade 3: 2%), acute renal failure (at least moderate intensity: less than 2%)[Ref]
-Common (1% to 10%): Sluggishness (at least moderate intensity: less than 2%)Frequency not reported: Fatigue, pyrexia[Ref]
-Common (1% to 10%): Immune reconstitution syndrome (at least moderate intensity: less than 2%)Frequency not reported: Autoimmune disorders in the setting of immune reconstitution (e.g., Graves' disease, polymyositis, Guillain-Barre syndrome)[Ref]
-Common (1% to 10%): Bronchospasm (at least moderate intensity: less than 2%), exertional dyspnea (at least moderate intensity: less than 2%)[Ref]
-Common (1% to 10%): Less than 2% (at least moderate intensity): Abnormal dreams, anxiety, confusional state, disorientation, nervousness, nightmares, sleep disordersFrequency not reported: Insomnia[Ref]
-Common (1% to 10%): Gynecomastia (at least moderate intensity: less than 2%)[Ref]
-Common (1% to 10%): Blurred vision (at least moderate intensity: less than 2%)[Ref]
-Rare (less than 0.1%): Severe myopathy (including articular pain, muscular pain, weakness, stiffness, increased creatine kinase; at least 1 case)Postmarketing reports: Rhabdomyolysis[Ref]
-1. "Drugs for HIV infection." Treat Guidel Med Lett 7 (2009): 11-22
-2. "Etravirine: R165335, TMC 125, TMC-125, TMC125." Drugs R D 7 (2006): 367-73
-3. Panel on Antiretroviral Therapy and Medical Management of HIV-Infected Children. NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in pediatric HIV infection. Available from: URL: http://aidsinfo.nih.gov/guidelines/html/2/pediatric-treatment-guidelines/0"   ([2012 Nov 5]):
-4. HHS Panel on Antiretroviral Guidelines for Adults
-and Adolescents – A Working Group of the Office of AIDS Research
-Advisory Council (OARAC). NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Available from: URL: http://aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf."   ([2011 Oct 14]):
-5. Johnson LB,  Saravolatz LD "Etravirine, a Next-Generation Nonnucleoside Reverse-Transcriptase Inhbitor." Clin Infect Dis  (2009):
-6. "Etravirine(Intelence) for HIV infection." Med Lett Drugs Ther 50 (2008): 47-8
-7. "Anti-HIV agents. Effectiveness of etravirine in treatment-experienced PHAs." TreatmentUpdate 19 (2007): 3-5
-8. "Product Information. Intelence (etravirine)." Ortho Biotech Inc, Bridgewater, NJ. 
-9. Cohen CJ,  Berger DS,  Blick G, et al. "Efficacy and safety of etravirine (TMC125) in treatment-experienced HIV-1-infected patients: 48-week results of a phase IIb trial." AIDS 23 (2009): 423-6
-10. Peeters M,  Janssen K,  Kakuda TN, et al. "Etravirine Has No Effect on QT and Corrected QT Interval in HIV-Negative Volunteers (June)." Ann Pharmacother  (2008):
-11. Borras-Blasco J,  Navarro-Ruiz A,  Borras C,  Castera E "Adverse cutaneous reactions associated with the newest antiretroviral drugs in patients with human immunodeficiency virus infection." J Antimicrob Chemother 62 (2008): 879-88
-12. Gruzdev B,  Rakhmanova A,  Doubovskaya E, et al. "A randomized, double-blind, placebo-controlled trial of TMC125 as 7-day monotherapy in antiretroviral naive, HIV-1 infected subjects." AIDS 17 (2003): 2487-94
-13. "Anti-HIV agents. Brain side effects not common with etravirine." TreatmentUpdate 19 (2007): 6-7
-14. Tommasi C,  Tempestilli M,  Fezza R, et al. "A rare case of severe myopathy associated with etravirine use." AIDS 24 (2010): 1088-90
-Not all side effects for etravirine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The safety report of etravirine is based on 599 HIV-1-infected, treatment-experienced patients receiving 200 mg twice daily in combination with background regimen (BR).  The median exposure was 52.3 weeks.  Discontinuation due to side effects occurred in 5.2% of patients using etravirine.  The most common side effects of moderate to severe intensity reported with etravirine and BR, regardless of causality, were peripheral neuropathy and rash.  A total of 2.2% of HIV-1-infected patients in Phase 3 trials receiving etravirine discontinued due to rash.
+Very common (10% or more): Rash (all intensities: 16.9%; at least moderate intensity: 10%)Common (1% to 10%): Less than 2% (at least moderate intensity): Dry skin, face swelling, hyperhidrosis, lipohypertrophy, night sweats, prurigoUncommon (0.1% to 1%): Erythema multiforme (at least moderate intensity: up to 0.5%)Rare (less than 0.1%): Stevens-Johnson syndrome, erythema multiformeFrequency not reported: Contact dermatitis, erythema, pruritusPostmarketing reports: Toxic epidermal necrolysis (fatal cases)
+During clinical trials, rash generally was mild to moderate, occurred chiefly in the second week of therapy, and was infrequent after the fourth week.  Rash usually resolved within 1 to 2 weeks on continued use of the drug.  The incidence of rash was higher in women taking etravirine (at least moderate severity: 15%) compared to men (at least moderate severity: 9.5%).  Discontinuation due to rash occurred in 5% of women compared to 1.9% of men.  Patients with a history of nonnucleoside reverse transcriptase inhibitor-related rash did not appear to be at increased risk.Erythema multiforme has been reported in no more than 0.5% of patients in other trials.
+Common (1% to 10%): Elevated pancreatic amylase (Grade 2: 7%; Grade 3: 7%; Grade 4: 2%), elevated lipase (Grade 2: 4%; Grade 3: 2%; Grade 4: 1%); Less than 2% (at least moderate intensity): Abdominal distension, constipation, dry mouth, flatulence, gastritis, gastroesophageal reflux disease, hematemesis, pancreatitis, retching, stomatitisFrequency not reported: Nausea, diarrhea, abdominal pain, vomiting
+Common (1% to 10%): Peripheral neuropathy (at least moderate intensity: 4%); Less than 2% (at least moderate intensity): Amnesia, convulsion, disturbance in attention, hypersomnia, hypoesthesia, paresthesia, somnolence, syncope, tremor, vertigoFrequency not reported: Headache
+Common (1% to 10%): Drug hypersensitivity (at least moderate intensity: less than 2%)Postmarketing reports: Severe hypersensitivity reactions (including drug rash with eosinophilia and systemic symptoms [DRESS] and cases of hepatic failure)
+Common (1% to 10%): Less than 2% (at least moderate intensity): Angina pectoris, atrial fibrillation, myocardial infarctionUncommon (0.1% to 1%): Angioneurotic edema (at least moderate intensity: up to 0.5%), hemorrhagic stroke (at least moderate intensity: up to 0.5%)Frequency not reported: Hypertension, mild atrioventricular block
+Angioneurotic edema and hemorrhagic stroke have been reported in no more than 0.5% of patients in other trials.
+Very common (10% or more): Elevated total cholesterol (Grade 2: 20%), elevated glucose levels (Grade 2: 15%), elevated low density lipoprotein (Grade 2: 13%)Common (1% to 10%): Elevated triglycerides (Grade 2: 9%; Grade 3: 6%; Grade 4: 4%), elevated total cholesterol (Grade 3: 8%), elevated low density lipoprotein (Grade 3: 7%), elevated glucose levels (Grade 3: 4%); Less than 2% (at least moderate intensity): Anorexia, diabetes mellitus, dyslipidemiaUncommon (0.1% to 1%): Acquired lipodystrophy (at least moderate intensity: up to 0.5%)
+Acquired lipodystrophy has been reported in no more than 0.5% of patients in other trials.
+Very common (10% or more): Worsening from baseline of AST (at least moderate intensity: 27.8% coinfected patients), worsening from baseline of ALT (at least moderate intensity: 25% coinfected patients)Common (1% to 10%): Worsening from baseline of ALT (at least moderate intensity: 7.5% non-coinfected patients), worsening from baseline of total bilirubin (at least moderate intensity: 7.1% coinfected patients), worsening from baseline of AST (at least moderate intensity: 6.7% non-coinfected patients), elevated ALT (Grade 2: 6%; Grade 3: 3%; Grade 4: 1%), elevated AST (Grade 2: 6%; Grade 3: 3%), worsening from baseline of total bilirubin (at least moderate intensity: 1.8% non-coinfected patients); Less than 2% (at least moderate intensity): Cytolytic hepatitis, hepatic steatosis, hepatitis, hepatic failure, hepatomegalyUncommon (0.1% to 1%): Elevated AST (Grade 4: less than 1%)
+Grade 2 or higher abnormalities representing a worsening from baseline of AST, ALT, and total bilirubin have been reported in 27.8%, 25%, and 7.1%, respectively, in patients coinfected with hepatitis B and/or C virus as compared to 6.7%, 7.5%, and 1.8% reported in non-coinfected patients.
+Common (1% to 10%): Decreased neutrophils (Grade 2: 5%; Grade 3: 4%; Grade 4: 2%), decreased platelet count (Grade 2: 3%; Grade 3: 1%), decreased hemoglobin (Grade 2: 2%), decreased white blood cell count (Grade 2: 2%; Grade 3: 1%; Grade 4: 1%), hemolytic anemia (at least moderate intensity: less than 2%)Uncommon (0.1% to 1%): Decreased hemoglobin (Grade 3: less than 1%; Grade 4: less than 1%), decreased platelet count (Grade 4: less than 1%)Frequency not reported: Anemia
+Common (1% to 10%): Elevated creatinine (Grade 2: 6%; Grade 3: 2%), acute renal failure (at least moderate intensity: less than 2%)
+Common (1% to 10%): Sluggishness (at least moderate intensity: less than 2%)Frequency not reported: Fatigue, pyrexia
+Common (1% to 10%): Immune reconstitution syndrome (at least moderate intensity: less than 2%)Frequency not reported: Autoimmune disorders in the setting of immune reconstitution (e.g., Graves' disease, polymyositis, Guillain-Barre syndrome)
+Common (1% to 10%): Bronchospasm (at least moderate intensity: less than 2%), exertional dyspnea (at least moderate intensity: less than 2%)
+Common (1% to 10%): Less than 2% (at least moderate intensity): Abnormal dreams, anxiety, confusional state, disorientation, nervousness, nightmares, sleep disordersFrequency not reported: Insomnia
+Common (1% to 10%): Gynecomastia (at least moderate intensity: less than 2%)
+Common (1% to 10%): Blurred vision (at least moderate intensity: less than 2%)
+Rare (less than 0.1%): Severe myopathy (including articular pain, muscular pain, weakness, stiffness, increased creatine kinase; at least 1 case)Postmarketing reports: Rhabdomyolysis
 Rash
-
-
 Blurred vision
 burning, numbness, tingling, or painful sensations
 dizziness
@@ -56,8 +29,6 @@ pounding in the ears
 slow or fast heartbeat
 unsteadiness or awkwardness
 weakness in the arms, hands, legs, or feet
-
-
 Blistering, peeling, or loosening of the skin
 chills
 cough
@@ -80,11 +51,6 @@ tightness in the chest
 trouble with breathing or swallowing
 unusual tiredness or weakness
 wheezing
-
-
 Nausea
-
-
 Stomach pain
 vomiting
-

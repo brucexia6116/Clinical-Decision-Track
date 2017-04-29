@@ -1,18 +1,14 @@
-Applies to cytomegalovirus immune globulin: parenteral injection for iv infusion
 Side effects include:
 Flushing,     chills,   muscle cramps,    back pain,     fever,  nausea,   vomiting,  arthralgia,   wheezing/shortness of breath/chest tightness.    
-Applies to cytomegalovirus immune globulin: intravenous solution
-The most frequent side effects have included minor reactions such as flushing, chills, muscle cramps, back pain, fever, nausea, vomiting, arthralgia, and wheezing in < 6.0% of all infusions.  These reactions were most often related to the infusion rate.  A decrease in blood pressure was observed in 1 of 1039 infusions in clinical trials.  If a minor reaction occurs, the infusion should be slowed or temporarily interrupted.[Ref]
-Renal side effects have included increases in serum creatinine and blood urea nitrogen (BUN) within 1 to 2 days after IGIV infusion, oliguria or anuria requiring dialysis, acute renal failure, acute tubular necrosis, proximal tubular nephropathy, and osmotic nephrosis.[Ref]
-Cardiovascular side effects have included cardiac arrest, thromboembolism, vascular collapse, and hypotension.[Ref]
-Dermatologic side effects have included Stevens-Johnson syndrome, epidermolysis, erythema multiforme, and bullous dermatitis.[Ref]
-Gastrointestinal side effects have included abdominal pain.[Ref]
-Hematologic side effects have included pancytopenia, leukopenia, hemolysis, and positive direct antiglobulin (Coombs) test.[Ref]
-Hepatic side effects have included hepatic dysfunction.[Ref]
-Hypersensitivity reactions including angioneurotic edema and anaphylactic shock may occur.  Clinical anaphylaxis may occur even when the patient is not known to be sensitized to immune globulin products.  A reaction may be related to the rate of infusion.[Ref]
-Musculoskeletal side effects have included back pain.[Ref]
-Nervous system side effects have included coma, loss of consciousness, seizures, and tremor.[Ref]
-Respiratory side effects have included apnea, acute respiratory distress syndrome (ARDS), transfusion associated lung injury (TRALI), cyanosis, hypoxemia, pulmonary edema, dyspnea, and bronchospasm.[Ref]
-Other side effects have included pyrexia and rigors.[Ref]
-1. "Product Information. Cytogam (cytomegalovirus immune globulin)." Medimmune Inc, Gaithersburg, MD. 
-Not all side effects for cytomegalovirus immune globulin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most frequent side effects have included minor reactions such as flushing, chills, muscle cramps, back pain, fever, nausea, vomiting, arthralgia, and wheezing in < 6.0% of all infusions.  These reactions were most often related to the infusion rate.  A decrease in blood pressure was observed in 1 of 1039 infusions in clinical trials.  If a minor reaction occurs, the infusion should be slowed or temporarily interrupted.
+Renal side effects have included increases in serum creatinine and blood urea nitrogen (BUN) within 1 to 2 days after IGIV infusion, oliguria or anuria requiring dialysis, acute renal failure, acute tubular necrosis, proximal tubular nephropathy, and osmotic nephrosis.
+Cardiovascular side effects have included cardiac arrest, thromboembolism, vascular collapse, and hypotension.
+Dermatologic side effects have included Stevens-Johnson syndrome, epidermolysis, erythema multiforme, and bullous dermatitis.
+Gastrointestinal side effects have included abdominal pain.
+Hematologic side effects have included pancytopenia, leukopenia, hemolysis, and positive direct antiglobulin (Coombs) test.
+Hepatic side effects have included hepatic dysfunction.
+Hypersensitivity reactions including angioneurotic edema and anaphylactic shock may occur.  Clinical anaphylaxis may occur even when the patient is not known to be sensitized to immune globulin products.  A reaction may be related to the rate of infusion.
+Musculoskeletal side effects have included back pain.
+Nervous system side effects have included coma, loss of consciousness, seizures, and tremor.
+Respiratory side effects have included apnea, acute respiratory distress syndrome (ARDS), transfusion associated lung injury (TRALI), cyanosis, hypoxemia, pulmonary edema, dyspnea, and bronchospasm.
+Other side effects have included pyrexia and rigors.

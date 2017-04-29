@@ -1,32 +1,22 @@
-Generic Name: sevelamer
-Applies to sevelamer: oral capsule, oral powder for suspension, oral tablet
 As well as its needed effects, sevelamer (the active ingredient contained in Renvela) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking sevelamer, check with your doctor immediately:
 Some sevelamer side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to sevelamer: oral capsule, oral powder for reconstitution, oral tablet
-The most frequently occurring adverse reactions included nausea, vomiting, diarrhea, dyspepsia, abdominal pain, flatulence, and constipation.[Ref]
-Gastrointestinal events are the most common adverse reactions reported with this drug.  Based on studies of 8 to 52 weeks, the most common reason for drug withdrawal are gastrointestinal adverse reactions (3% to 16%).[Ref]
-Very common (10% or more): Vomiting (22%), nausea (20%), diarrhea (19%), dyspepsia (16%)Common (1% to 10%): Abdominal pain, flatulence, constipation, gastrointestinal reflux diseaseFrequency not reported: Dysphagia, diverticulitisPostmarketing reports: Fecal impaction, ileus, intestinal obstruction, intestinal perforation[Ref]
-Common (1% to 10%): Peritonitis[Ref]
-A clinical study in patients receiving peritoneal dialysis (n=143) found the most frequently occurring treatment emergent serious adverse reaction was peritonitis.  Peritonitis occurred in 8 patients receiving sevelamer and 2 patients on active control.[Ref]
-Common (1% to 10%): AnorexiaUncommon (0.1% to 1%): Acidosis, increased serum chloride levels, decreased carbon dioxide[Ref]
-Postmarketing reports: Hypersensitivity[Ref]
-Very common (10% or more): Nasopharyngitis, bronchitisCommon (1% to 10%): Cough, upper respiratory tract infection, dyspnea[Ref]
-Postmarketing reports: Pruritus, rash[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-Common (1% to 10%): Hypertension[Ref]
-Common (1% to 10%): Arteriovenous fistula site complication, arteriovenous fistula site hemorrhage, arteriovenous fistula thrombosis[Ref]
-Common (1% to 10%): Dizziness, headache[Ref]
-Common (1% to 10%): Fatigue, fever[Ref]
-Common (1% to 10%): Arthralgia, muscle spasms, extremity pain[Ref]
-1. "Product Information. Renagel (sevelamer)." Genzyme Corporation, Cambridge, MA. 
-2. "Product Information. Renvela (sevelamer)." Genzyme Corporation, Cambridge, MA. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
+The most frequently occurring adverse reactions included nausea, vomiting, diarrhea, dyspepsia, abdominal pain, flatulence, and constipation.
+Gastrointestinal events are the most common adverse reactions reported with this drug.  Based on studies of 8 to 52 weeks, the most common reason for drug withdrawal are gastrointestinal adverse reactions (3% to 16%).
+Very common (10% or more): Vomiting (22%), nausea (20%), diarrhea (19%), dyspepsia (16%)Common (1% to 10%): Abdominal pain, flatulence, constipation, gastrointestinal reflux diseaseFrequency not reported: Dysphagia, diverticulitisPostmarketing reports: Fecal impaction, ileus, intestinal obstruction, intestinal perforation
+Common (1% to 10%): Peritonitis
+A clinical study in patients receiving peritoneal dialysis (n=143) found the most frequently occurring treatment emergent serious adverse reaction was peritonitis.  Peritonitis occurred in 8 patients receiving sevelamer and 2 patients on active control.
+Common (1% to 10%): AnorexiaUncommon (0.1% to 1%): Acidosis, increased serum chloride levels, decreased carbon dioxide
+Postmarketing reports: Hypersensitivity
+Very common (10% or more): Nasopharyngitis, bronchitisCommon (1% to 10%): Cough, upper respiratory tract infection, dyspnea
+Postmarketing reports: Pruritus, rash
+Common (1% to 10%): Urinary tract infection
+Common (1% to 10%): Hypertension
+Common (1% to 10%): Arteriovenous fistula site complication, arteriovenous fistula site hemorrhage, arteriovenous fistula thrombosis
+Common (1% to 10%): Dizziness, headache
+Common (1% to 10%): Fatigue, fever
+Common (1% to 10%): Arthralgia, muscle spasms, extremity pain
 It is possible that some side effects of Renvela may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bloody, black, or tarry stools
 heartburn
 indigestion
@@ -37,8 +27,6 @@ severe vomiting
 trouble with breathing
 vomiting
 vomiting of material that looks like coffee grounds, severe and continuing
-
-
 Acid or sour stomach
 belching
 bloating
@@ -48,8 +36,5 @@ excess air or gas in the stomach or intestines
 full feeling
 passing gas
 stomach discomfort or upset
-
-
 Itching skin
 rash
-

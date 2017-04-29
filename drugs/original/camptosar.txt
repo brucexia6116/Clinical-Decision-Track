@@ -1,38 +1,21 @@
-Generic Name: irinotecan
-Applies to irinotecan: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by irinotecan (the active ingredient contained in Camptosar). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking irinotecan, check with your doctor or nurse immediately:
-Some of the side effects that can occur with irinotecan may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to irinotecan: intravenous solution
-"Early" diarrhea usually occurs during or shortly after dosage administration.  It may appear as a component of early cholinergic syndrome and may be preceded by complaints of diaphoresis and abdominal cramping.  Symptoms may usually be quickly ameliorated by atropine.Late diarrhea can be prolonged, may lead to dehydration and electrolyte imbalance and can be life threatening.  Late diarrhea should be treated promptly with aggressive high dose loperamide therapy.  The patient may be treated with 4 mg at the first loose stool or increase in frequency of bowel movements and every 2 hours until the patient is diarrhea-free for 12 hours.  Patients with severe diarrhea should be carefully monitored and given fluid and electrolyte replacement if they become dehydrated.  Administration of irinotecan (the active ingredient contained in Camptosar) should be interrupted if severe diarrhea occurs and the dose may need to be reduced.Ulcerative and ischemic colitis can be complicated by ulceration, bleeding, ileus, obstruction, and infection, including typhlitis.  Patients experiencing ileus should receive prompt antibiotic support.[Ref]
-Gastrointestinal side effects including "early" diarrhea occurring within 24 hours of the administration of irinotecan (50.7%) and "late" diarrhea occurring over 24 hours after dosage administration (87.8%) have been reported.  Nausea (86.2%), vomiting (66.8%), anorexia (54.9%), constipation (29.9%), flatulence (12.2%), stomatitis (11.8%) and dyspepsia (10.5%) have also been reported.  Cases of ulcerative and ischemic colitis have been reported infrequently.  Intestinal perforation, symptomatic pancreatitis, and asymptomatic elevated pancreatic enzymes have also been reported rarely.  Cases of megacolon have been reported in post-marketing experience.[Ref]
-Hematologic side effects including leukopenia (63.2%), anemia (60.5%) and neutropenia (53.9%) have been reported.[Ref]
-Reduction in neutrophils has been the predominant clinically relevant hematologic effect.  The median time to nadir for hematologic values ranges from 14 days for platelets to 21 days for hemoglobin, neutrophils and leukocytes.  The median time to nadir for platelets has been reported to have decreased as the starting dose increased.[Ref]
-General side effects including asthenia (75.7%), abdominal cramping/pain (56.9%), fever (45.4%), pain (23.7%), headache (16.8%), back pain (14.5%), chills (13.8%), minor infections (14.5%), edema (10.2%) and abdominal enlargement (10.2%) have been reported.  Hiccups have been reported in post-marketing experience.[Ref]
-Minor infections consisted primarily of upper respiratory infections.[Ref]
-Metabolic side effects including loss of body weight (30.3%), dehydration (14.8%), increased alkaline phosphatase (13.2%), and increased SGOT (10.5%) have been reported.  Rare cases of hyponatremia (mostly related with diarrhea and vomiting) have also been reported.[Ref]
-Dermatologic side effects including alopecia (60.5%), sweating (16.4%), rash (12.8%), and paresthesias have been reported.  A case of skin toxicity has also been reported.[Ref]
-Interstitial pulmonary disease can be fatal.  Risk factors include pre-existing lung disease, use of pneumotoxic drugs, radiation therapy, and colony stimulating factors.  Patients with risk factors should be closely monitored for respiratory symptoms before and during irinotecan (the active ingredient contained in Camptosar) therapy.[Ref]
-Respiratory side effects including dyspnea (22%), increased coughing (17.4%) and rhinitis (15.5%) have been reported.  Interstitial pulmonary disease presenting as pulmonary infiltrates has been uncommon during irinotecan therapy.  A case of interstitial pneumonia has also been reported.[Ref]
-Neurologic side effects including insomnia (19.4%) and dizziness (14.8%) have been reported.[Ref]
-Cardiovascular side effects including vasodilation (11.2%) have been reported.  Myocardial ischemic events have been observed following irinotecan (the active ingredient contained in Camptosar) therapy in post-marketing experience.[Ref]
-Hepatic side effects including elevation of hepatic transaminases (8%) have been reported.  Transient increase of amylase and occasionally transient increase of lipase have been reported in post-marketing experience.[Ref]
-Other side effects including a case of dysarthria have been reported.[Ref]
+"Early" diarrhea usually occurs during or shortly after dosage administration.  It may appear as a component of early cholinergic syndrome and may be preceded by complaints of diaphoresis and abdominal cramping.  Symptoms may usually be quickly ameliorated by atropine.Late diarrhea can be prolonged, may lead to dehydration and electrolyte imbalance and can be life threatening.  Late diarrhea should be treated promptly with aggressive high dose loperamide therapy.  The patient may be treated with 4 mg at the first loose stool or increase in frequency of bowel movements and every 2 hours until the patient is diarrhea-free for 12 hours.  Patients with severe diarrhea should be carefully monitored and given fluid and electrolyte replacement if they become dehydrated.  Administration of irinotecan (the active ingredient contained in Camptosar) should be interrupted if severe diarrhea occurs and the dose may need to be reduced.Ulcerative and ischemic colitis can be complicated by ulceration, bleeding, ileus, obstruction, and infection, including typhlitis.  Patients experiencing ileus should receive prompt antibiotic support.
+Gastrointestinal side effects including "early" diarrhea occurring within 24 hours of the administration of irinotecan (50.7%) and "late" diarrhea occurring over 24 hours after dosage administration (87.8%) have been reported.  Nausea (86.2%), vomiting (66.8%), anorexia (54.9%), constipation (29.9%), flatulence (12.2%), stomatitis (11.8%) and dyspepsia (10.5%) have also been reported.  Cases of ulcerative and ischemic colitis have been reported infrequently.  Intestinal perforation, symptomatic pancreatitis, and asymptomatic elevated pancreatic enzymes have also been reported rarely.  Cases of megacolon have been reported in post-marketing experience.
+Hematologic side effects including leukopenia (63.2%), anemia (60.5%) and neutropenia (53.9%) have been reported.
+Reduction in neutrophils has been the predominant clinically relevant hematologic effect.  The median time to nadir for hematologic values ranges from 14 days for platelets to 21 days for hemoglobin, neutrophils and leukocytes.  The median time to nadir for platelets has been reported to have decreased as the starting dose increased.
+General side effects including asthenia (75.7%), abdominal cramping/pain (56.9%), fever (45.4%), pain (23.7%), headache (16.8%), back pain (14.5%), chills (13.8%), minor infections (14.5%), edema (10.2%) and abdominal enlargement (10.2%) have been reported.  Hiccups have been reported in post-marketing experience.
+Minor infections consisted primarily of upper respiratory infections.
+Metabolic side effects including loss of body weight (30.3%), dehydration (14.8%), increased alkaline phosphatase (13.2%), and increased SGOT (10.5%) have been reported.  Rare cases of hyponatremia (mostly related with diarrhea and vomiting) have also been reported.
+Dermatologic side effects including alopecia (60.5%), sweating (16.4%), rash (12.8%), and paresthesias have been reported.  A case of skin toxicity has also been reported.
+Interstitial pulmonary disease can be fatal.  Risk factors include pre-existing lung disease, use of pneumotoxic drugs, radiation therapy, and colony stimulating factors.  Patients with risk factors should be closely monitored for respiratory symptoms before and during irinotecan (the active ingredient contained in Camptosar) therapy.
+Respiratory side effects including dyspnea (22%), increased coughing (17.4%) and rhinitis (15.5%) have been reported.  Interstitial pulmonary disease presenting as pulmonary infiltrates has been uncommon during irinotecan therapy.  A case of interstitial pneumonia has also been reported.
+Neurologic side effects including insomnia (19.4%) and dizziness (14.8%) have been reported.
+Cardiovascular side effects including vasodilation (11.2%) have been reported.  Myocardial ischemic events have been observed following irinotecan (the active ingredient contained in Camptosar) therapy in post-marketing experience.
+Hepatic side effects including elevation of hepatic transaminases (8%) have been reported.  Transient increase of amylase and occasionally transient increase of lipase have been reported in post-marketing experience.
+Other side effects including a case of dysarthria have been reported.
 Hypersensitivity side effects including severe anaphylactic or anaphylactoid reactions have been reported.
 Renal side effects have been reported.  Infrequent cases of renal insufficiency including acute renal failure, hypotension, or circulatory failure have been observed in patients who experienced episodes of dehydration associated with sepsis, diarrhea, and/or vomiting.
 Musculoskeletal side effects including muscular contractions and cramps have been reported.
-1. "Product Information. Camptosar (irinotecan)." Pharmacia and Upjohn, Kalamazoo, MI. 
-2. Abigerges D, Chabot GG, Armand JP, Herait P, Gouyette A, Gandia D "Phase I and pharmacologic studies of the camptothecin analog irinotecan administered every 3 weeks in cancer patients." J Clin Oncol 13 (1995): 210-21
-3. Abigerges D, Armand JP, Chabot GG, Da Costa L, Fadel E, Cote C, Herait P, Gandia D "Irinotecan (CPT-11) high-dose escalation using intensive high-dose loperamide to control diarrhea." J Natl Cancer Inst 86 (1994): 446-9
-4. Rougier P, Culine S, Bugat R, Brunet P, Douillard JY, Ychou M, Marty M, Bonneterre J, Ganem G, Seitz JF, et al "Multicentric Phase II study of first line CPT-11 (irinotecan) in advanced colorectal cancer (CRC): preliminary results (Meeting abstract)." Proc Annu Meet Am Soc Clin Oncol 13 (1994): a5851994
-5. Hagipantelli R, Saliba F, Misset JL, Giacchetti S, Brain E, Bertheault-Cvitkovic F, Vassal G, Bonnay M, Bastian G, Cote C, et al "Pathophysiology and therapy of irinotecan (CPT-11) induced delayed onset diarrhea (DD): a prospective assessment (Meeting abstract)." Proc Annu Meet Am Soc Clin Oncol 14 (1995): a14991995
-6. Michielin O,  Udry E,  Periard D,  Matzinger O,  Lobrinus J,  Stupp R "Irinotecan-induced interstitial pneumonia." Lancet Oncol 5 (2004): 322-324
-7. Baz DV,  Bofill JS,  Nogueira JA "Irinotecan-induced dysarthria." J Natl Cancer Inst 93 (2001): 1419-20
-Not all side effects for Camptosar may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Anxiety
 black, tarry stools
 blood in the urine or stools
@@ -96,8 +79,6 @@ unusual tiredness or weakness
 vomiting of blood
 warm, red feeling over the body
 yellow eyes or skin
-
-
 Bleeding gums
 coughing up blood
 decreased urination
@@ -111,8 +92,6 @@ prolonged bleeding from cuts
 sneezing
 wheezing
 wrinkled skin
-
-
 Decreased amount of urine
 decreased frequency of urination
 fast, irregular, or troubled breathing
@@ -120,8 +99,6 @@ hives
 increased blood pressure
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 rapid weight gain
-
-
 Abdominal or stomach pain and tenderness
 agitation
 bloated or full feeling
@@ -145,8 +122,6 @@ swelling of the face, lower legs, ankles, fingers, or hands
 tightness in the chest
 unusual tiredness or weakness
 vomiting of material that looks like coffee grounds
-
-
 Acid or sour stomach
 belching
 blistering, peeling, redness, or swelling of the palms of hands or bottoms of the feet
@@ -163,7 +138,4 @@ stomach discomfort, upset, or pain
 trouble sleeping
 unable to sleep
 weight loss
-
-
 Hiccups
-

@@ -1,12 +1,8 @@
-Generic Name: plasma protein fraction
-Applies to plasma protein fraction: parenteral solution for injection
 Side effects include:
 Flushing,  urticaria,  nausea,  headache,  back pain. 
-Applies to plasma protein fraction: intravenous solution
-Frequency not reported: Hypotension, flushing[Ref]
-Frequency not reported: Urticaria[Ref]
-Frequency not reported: Nausea[Ref]
-Frequency not reported: Back pain[Ref]
-Frequency not reported: Headache[Ref]
-1. "Product Information. Plasmanate (plasma protein fraction)." Bayer Pharmaceutical Inc, West Haven, CT. 
+Frequency not reported: Hypotension, flushing
+Frequency not reported: Urticaria
+Frequency not reported: Nausea
+Frequency not reported: Back pain
+Frequency not reported: Headache
 It is possible that some side effects of Octaplas may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

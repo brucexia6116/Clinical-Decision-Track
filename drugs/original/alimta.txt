@@ -1,32 +1,19 @@
-Generic Name: pemetrexed
 Common side effects of Alimta include: anemia, chest pain, constipation, depression, desquamation, diarrhea, dyspnea, fatigue, fever, increased serum creatinine, infection without neutropenia, leukopenia, nausea, neuropathy, neutropenia, pharyngitis, skin rash, stomatitis, thrombocytopenia, vomiting, anorexia, and mood changes. Other side effects include: embolism, thrombosis, dehydration, dysphagia, esophagitis, and odynophagia.  See below for a comprehensive list of adverse effects.
-Applies to pemetrexed: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by pemetrexed (the active ingredient contained in Alimta). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking pemetrexed, check with your doctor or nurse immediately:
-Some of the side effects that can occur with pemetrexed may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to pemetrexed: intravenous powder for injection
-Uncommon (0.1% to 1%): Myocardial infarction, angina pectoris, cerebrovascular accident, transient ischemic attack, peripheral ischemia (sometimes leading to extremity necrosis), supraventricular arrhythmia, ventricular tachycardia, syncope, arrhythmia[Ref]
-Very common (10% or more): Rash/desquamation (up to 16%), alopecia (up to 11%)Common (1% to 10%): Pruritus, urticariaRare (less than 0.1%): Radiation recall, bullous conditions (including Stevens-Johnson syndrome and toxic epidermal necrolysis) which in some cases were fatal[Ref]
-Very common (10% or more): Nausea (up to 82%), vomiting (up to 57%), stomatitis/pharyngitis (up to 23%), anorexia (up to 20%), diarrhea (up to 17%), constipation (up to 12%)Common (1% to 10%): Dyspepsia/heartburnUncommon (0.1% to 1%): Colitis (including intestinal and rectal bleeding, sometimes fatal, intestinal perforation, intestinal necrosis, neutropenic enterocolitis), esophagitis/radiation esophagitis, GI obstruction[Ref]
-Very common (10% or more): Neutropenia (up to 56%), granulocytopenia (up to 56%), leukopenia (up to 53%), hemoglobinemia (up to 26%), platelets decreased (up to 23%), thrombocytopenia (up to 10%)Common (1% to 10%):Uncommon (0.1% to 1%): PancytopeniaRare (0.01% to 0.1%): Immune mediated hemolytic anemia[Ref]
-Uncommon (0.1% to 1%): Allergic reaction/hypersensitivityRare (0.01% to 0.1%): Anaphylactic shock[Ref]
-Common (1% to 10%): SGPT (ALT) elevation, SGOT (AST) elevation[Ref]
-Common (1% to 10%): Sepsis (sometimes fatal), infection[Ref]
-Common (1% to 10%): DehydrationUncommon (0.1% to 1%): Edema, increased gamma-glutamyl transpeptidase (GGT)[Ref]
-Very common (10% or more): Sensory neuropathy (up to 10%)Common (1% to 10%): Taste disturbanceUncommon (0.1% to 1%): Motor neuropathy[Ref]
-Very common (10% or more): Fatigue (up to 48%), painCommon (1% to 10%): Fever, chest pain[Ref]
-Uncommon (0.1% to 1%): Depression[Ref]
-Common (1% to 10%): Conjunctivitis[Ref]
-Common (1% to 10%): Renal disorders (including increased serum/blood creatinine, decreased glomerular filtration rate, renal failure, renal/genitourinary- other)Uncommon (0.1% to 1%): Acute renal failure[Ref]
-Uncommon (0.1% to 1%): Interstitial pneumonitis with respiratory insufficiency (sometimes fatal), radiation pneumonitis, pulmonary embolism[Ref]
-1. "Product Information. Alimta (pemetrexed)." Lilly, Eli and Company, Indianapolis, IN. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Pharmaceutical Society of Australia "APPGuide online. Australian prescription products guide online. Available from: URL: http://www.appco.com.au/appguide/default.asp."   ([2006]):
-Not all side effects for Alimta may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Uncommon (0.1% to 1%): Myocardial infarction, angina pectoris, cerebrovascular accident, transient ischemic attack, peripheral ischemia (sometimes leading to extremity necrosis), supraventricular arrhythmia, ventricular tachycardia, syncope, arrhythmia
+Very common (10% or more): Rash/desquamation (up to 16%), alopecia (up to 11%)Common (1% to 10%): Pruritus, urticariaRare (less than 0.1%): Radiation recall, bullous conditions (including Stevens-Johnson syndrome and toxic epidermal necrolysis) which in some cases were fatal
+Very common (10% or more): Nausea (up to 82%), vomiting (up to 57%), stomatitis/pharyngitis (up to 23%), anorexia (up to 20%), diarrhea (up to 17%), constipation (up to 12%)Common (1% to 10%): Dyspepsia/heartburnUncommon (0.1% to 1%): Colitis (including intestinal and rectal bleeding, sometimes fatal, intestinal perforation, intestinal necrosis, neutropenic enterocolitis), esophagitis/radiation esophagitis, GI obstruction
+Very common (10% or more): Neutropenia (up to 56%), granulocytopenia (up to 56%), leukopenia (up to 53%), hemoglobinemia (up to 26%), platelets decreased (up to 23%), thrombocytopenia (up to 10%)Common (1% to 10%):Uncommon (0.1% to 1%): PancytopeniaRare (0.01% to 0.1%): Immune mediated hemolytic anemia
+Uncommon (0.1% to 1%): Allergic reaction/hypersensitivityRare (0.01% to 0.1%): Anaphylactic shock
+Common (1% to 10%): SGPT (ALT) elevation, SGOT (AST) elevation
+Common (1% to 10%): Sepsis (sometimes fatal), infection
+Common (1% to 10%): DehydrationUncommon (0.1% to 1%): Edema, increased gamma-glutamyl transpeptidase (GGT)
+Very common (10% or more): Sensory neuropathy (up to 10%)Common (1% to 10%): Taste disturbanceUncommon (0.1% to 1%): Motor neuropathy
+Very common (10% or more): Fatigue (up to 48%), painCommon (1% to 10%): Fever, chest pain
+Uncommon (0.1% to 1%): Depression
+Common (1% to 10%): Conjunctivitis
+Common (1% to 10%): Renal disorders (including increased serum/blood creatinine, decreased glomerular filtration rate, renal failure, renal/genitourinary- other)Uncommon (0.1% to 1%): Acute renal failure
+Uncommon (0.1% to 1%): Interstitial pneumonitis with respiratory insufficiency (sometimes fatal), radiation pneumonitis, pulmonary embolism
 Black, tarry stools
 bleeding gums
 chest pain
@@ -49,8 +36,6 @@ troubled breathing
 ulcers, sores, or white spots in the mouth
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Bloody urine or bloody stools
 decreased frequency or amount of urine
 fainting or loss of consciousness
@@ -66,8 +51,6 @@ swelling of the face, fingers, or lower legs
 tightness in the chest or wheezing
 vomiting
 weight gain
-
-
 Blistering, peeling, or loosening of the skin
 joint or muscle pain
 pain and redness of the skin in the area of earlier radiation treatment
@@ -75,8 +58,6 @@ red skin lesions, often with a purple center
 red, irritated eyes
 stomach cramps, tenderness, or pain
 watery diarrhea
-
-
 Burning, tingling, numbness, or pain in the hands, arms, feet, or legs
 confusion
 cough or hoarseness
@@ -117,4 +98,3 @@ trouble sleeping
 weight loss
 wheezing
 wrinkled skin
-

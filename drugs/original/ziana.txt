@@ -1,37 +1,25 @@
-Generic Name: clindamycin / tretinoin topical
-Applies to clindamycin / tretinoin topical: topical application gel/jelly
 As well as its needed effects, clindamycin / tretinoin topical may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking clindamycin / tretinoin topical, check with your doctor immediately:
 Some clindamycin / tretinoin topical side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to clindamycin / tretinoin topical: topical gel
-The most commonly reported side effects were erythema, dryness, and itching.[Ref]
-Very common (10% or more): Erythema, drynessCommon (1% to 10%): Sunburn, scaling, burning, itchingUncommon (0.1% to 1%): Acne, dry skin, seborrhea, photosensitivity reaction, pruritus, rash, exfoliative rash, skin exfoliationRare (less than 0.1%): Dermatitis, herpes simplex, rash macular, skin bleeding, skin depigmentation, skin irritation[Ref]
-Common (1% to 10%): Application site dryness, application site irritation, application site exfoliation, application site erythema, application site pruritus, application site dermatitisUncommon (0.1% to 1%): Application site reaction, application site burningRare (less than 0.1%): Application site swelling, application site erosion, application site discoloration, application site desquamation[Ref]
-Rare (less than 0.1%): Feeling hot, pain[Ref]
-Rare (less than 0.1%): Hypothyroidism[Ref]
-Rare (less than 0.1%): Gastroenteritis, nausea[Ref]
-Rare (less than 0.1%): Hypersensitivity[Ref]
-Rare (less than 0.1%): Headache[Ref]
-Rare (less than 0.1%): Eye irritation[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Ziana (clindamycin-tretinoin topical)." Medicis Pharmaceutical Corporation, Scottsdale, AZ. 
+The most commonly reported side effects were erythema, dryness, and itching.
+Very common (10% or more): Erythema, drynessCommon (1% to 10%): Sunburn, scaling, burning, itchingUncommon (0.1% to 1%): Acne, dry skin, seborrhea, photosensitivity reaction, pruritus, rash, exfoliative rash, skin exfoliationRare (less than 0.1%): Dermatitis, herpes simplex, rash macular, skin bleeding, skin depigmentation, skin irritation
+Common (1% to 10%): Application site dryness, application site irritation, application site exfoliation, application site erythema, application site pruritus, application site dermatitisUncommon (0.1% to 1%): Application site reaction, application site burningRare (less than 0.1%): Application site swelling, application site erosion, application site discoloration, application site desquamation
+Rare (less than 0.1%): Feeling hot, pain
+Rare (less than 0.1%): Hypothyroidism
+Rare (less than 0.1%): Gastroenteritis, nausea
+Rare (less than 0.1%): Hypersensitivity
+Rare (less than 0.1%): Headache
+Rare (less than 0.1%): Eye irritation
 It is possible that some side effects of Ziana may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Dryness and peeling of the skin
 flushing or redness of the skin
 itching
 unusually warm skin
-
-
 Burning or stinging at the site of application
 changes in the color of the skin
 fever
 stomach cramps, tenderness, or pain
 watery or bloody diarrhea
-
-
 Cough
 dry skin
 headaches
@@ -42,4 +30,3 @@ sore throat
 stuffy or runny nose
 tightness of the chest or wheezing
 unusual tiredness or weakness
-

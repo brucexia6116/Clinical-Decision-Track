@@ -1,30 +1,19 @@
-Applies to ferumoxytol: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by ferumoxytol. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking ferumoxytol, check with your doctor or nurse immediately:
-Some of the side effects that can occur with ferumoxytol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ferumoxytol: intravenous solution
-The most common adverse events were injection site reactions, gastrointestinal symptoms, headache, dizziness, and hypotension.[Ref]
-Common (1% to 10%): Injection site reactions (infusion/injection site bruising, pain, reaction, swelling, warmth, hemorrhage, irritation, rash)[Ref]
-Common (1% to 10%): Nausea, vomiting, abdominal pain (abdominal distension, abdominal pain upper, abdominal discomfort)Uncommon (0.1% to 1%): Diarrhea, constipation, feces discoloredRare (less than 0.1%): Dry mouth, dyspepsia, glossodyniaFrequency not reported: Lip swelling, swollen tongue[Ref]
-Common (1% to 10%): Hypotension (hypotension, blood pressure decreased) Uncommon (0.1% to 1%): Flushing (flushing, hot flush), hypertension (hypertension, accelerated hypertension)Rare (less than 0.1%): Cardiac arrest, cardio-respiratory arrest, myocardial events, congestive heart failureFrequency not reported: Tachycardia/arrhythmia, myocardial infarction, vasodilation, pulse absentPostmarketing reports: Cyanosis[Ref]
-Common (1% to 10%): Dizziness, headacheUncommon (0.1% to 1%): Dysgeusia, somnolence, burning sensationRare (less than 0.1%): ParesthesiaFrequency not reported: Syncope, unresponsiveness, loss of consciousness[Ref]
-Common (1% to 10%): Pruritus (pruritus generalized), rash (rash, rash generalized, rash pruritic, urticaria)Uncommon (0.1% to 1%): Ecchymosis, sweating (hyperhidrosis, night sweats), skin hyperpigmentation, skin reactionFrequency not reported: Angioedema[Ref]
-Common (1% to 10%): Cough, dyspneaRare (less than 0.1%): EpistaxisFrequency not reported: Bronchospasm, hyperventilation, hypoxia, laryngeal edema, pharyngeal edema, respiratory arrest, respiratory failure, throat irritation, throat tightness, wheezing[Ref]
-Common (1% to 10%): Back pain, muscle spasmsUncommon (0.1% to 1%): Muscle/joint pain or stiffness (arthralgia, myalgia, muscular weakness, musculoskeletal stiffness)[Ref]
-Common (1% to 10%): EdemaUncommon (0.1% to 1%): Decreased appetite, increased appetiteRare (less than 0.1%): Dehydration, gout, hyperkalemia, blood glucose decreasedFrequency not reported: Oxygen saturation decreased[Ref]
-Uncommon (0.1% to 1%): Hypersensitivity (including anaphylaxis)Postmarketing reports: Life-threatening anaphylactic/anaphylactoid reactions[Ref]
-Rare (less than 0.1%): Eosinophilia[Ref]
-Rare (less than 0.1%): Hepatic function abnormal[Ref]
-Common (1% to 10%): Peripheral edema, chest pain (chest discomfort, chest pain), fever (feeling hot, pyrexia)Uncommon (0.1% to 1%): Fatigue (asthenia, fatigue), chills, serum ferritin increased, contusion[Ref]
-Rare (less than 0.1%): Lacrimation increased, vision blurred[Ref]
-Frequency not reported: Chronic renal failure[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Feraheme (ferumoxytol)." Alza Pharmaceuticals, Mountain View, CA. 
-Not all side effects for ferumoxytol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse events were injection site reactions, gastrointestinal symptoms, headache, dizziness, and hypotension.
+Common (1% to 10%): Injection site reactions (infusion/injection site bruising, pain, reaction, swelling, warmth, hemorrhage, irritation, rash)
+Common (1% to 10%): Nausea, vomiting, abdominal pain (abdominal distension, abdominal pain upper, abdominal discomfort)Uncommon (0.1% to 1%): Diarrhea, constipation, feces discoloredRare (less than 0.1%): Dry mouth, dyspepsia, glossodyniaFrequency not reported: Lip swelling, swollen tongue
+Common (1% to 10%): Hypotension (hypotension, blood pressure decreased) Uncommon (0.1% to 1%): Flushing (flushing, hot flush), hypertension (hypertension, accelerated hypertension)Rare (less than 0.1%): Cardiac arrest, cardio-respiratory arrest, myocardial events, congestive heart failureFrequency not reported: Tachycardia/arrhythmia, myocardial infarction, vasodilation, pulse absentPostmarketing reports: Cyanosis
+Common (1% to 10%): Dizziness, headacheUncommon (0.1% to 1%): Dysgeusia, somnolence, burning sensationRare (less than 0.1%): ParesthesiaFrequency not reported: Syncope, unresponsiveness, loss of consciousness
+Common (1% to 10%): Pruritus (pruritus generalized), rash (rash, rash generalized, rash pruritic, urticaria)Uncommon (0.1% to 1%): Ecchymosis, sweating (hyperhidrosis, night sweats), skin hyperpigmentation, skin reactionFrequency not reported: Angioedema
+Common (1% to 10%): Cough, dyspneaRare (less than 0.1%): EpistaxisFrequency not reported: Bronchospasm, hyperventilation, hypoxia, laryngeal edema, pharyngeal edema, respiratory arrest, respiratory failure, throat irritation, throat tightness, wheezing
+Common (1% to 10%): Back pain, muscle spasmsUncommon (0.1% to 1%): Muscle/joint pain or stiffness (arthralgia, myalgia, muscular weakness, musculoskeletal stiffness)
+Common (1% to 10%): EdemaUncommon (0.1% to 1%): Decreased appetite, increased appetiteRare (less than 0.1%): Dehydration, gout, hyperkalemia, blood glucose decreasedFrequency not reported: Oxygen saturation decreased
+Uncommon (0.1% to 1%): Hypersensitivity (including anaphylaxis)Postmarketing reports: Life-threatening anaphylactic/anaphylactoid reactions
+Rare (less than 0.1%): Eosinophilia
+Rare (less than 0.1%): Hepatic function abnormal
+Common (1% to 10%): Peripheral edema, chest pain (chest discomfort, chest pain), fever (feeling hot, pyrexia)Uncommon (0.1% to 1%): Fatigue (asthenia, fatigue), chills, serum ferritin increased, contusion
+Rare (less than 0.1%): Lacrimation increased, vision blurred
+Frequency not reported: Chronic renal failure
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 blurred vision
 chest pain
@@ -38,8 +27,6 @@ tightness in the chest
 tingling of the hands or feet
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Bluish color of the fingernails, lips, skin, palms, or nail beds
 chest discomfort
 cough
@@ -63,10 +50,7 @@ swelling of the face, fingers, feet, or lower legs
 unconsciousness
 unresponsiveness
 weight gain
-
-
 Abdominal or stomach pain
 back pain
 headache
 muscle spasms
-

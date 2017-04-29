@@ -1,70 +1,26 @@
-Generic Name: terbutaline
-Applies to terbutaline: oral elixir, oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by terbutaline (the active ingredient contained in Brethine). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking terbutaline:
-
 If any of the following symptoms of overdose occur while taking terbutaline, get emergency help immediately:
-
-Some of the side effects that can occur with terbutaline may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to terbutaline: compounding powder, inhalation aerosol, inhalation aerosol with adapter, injectable solution, oral tablet
-Terbutaline has usually been well tolerated and adverse effects seen have been consistent with its pharmacological action.  In general, the severity of these adverse effects have been dependent on dose and the route of administration.  Administration by metered dose inhaler (MDI) has been associated with less systemic effects than administration of higher doses by nebulizer or orally.  Tolerance to the adverse effects of terbutaline (the active ingredient contained in Brethine) has occurred.[Ref]
-Changes in heart rate of approximately 30% may be observed following 5 mg of terbutaline (the active ingredient contained in Brethine) given orally.  Aggravation of angina may be due to the tachycardia induced by terbutaline. Prolongation of the QT interval occurred in ten healthy males given a bolus injection of 0.25 mg terbutaline followed by an infusion of 5 mcg/min.  Supraventricular ectopic beats and ventricular tachycardia have also been reported.  Higher dosages of terbutaline should be used with caution in patients with cardiac disease, arrhythmias, or hypertension.  All of these effects are dose-related and lower doses may be tolerated.In one case-control study a positive association was found between the use of oral terbutaline for longer than 9 days and peripartum cardiomyopathy.  Further study is needed to determine if a causative relationship exists.[Ref]
-Cardiovascular side effects have included palpitations and peripheral vasodilation, commonly resulting in reflex tachycardia.  Changes in blood pressure, both increases and decreases, have been reported.  Higher dosages have rarely aggravated angina and myocardial ischemia or caused atrial or ventricular arrhythmias.  Rarely, peripartum cardiomyopathy has been reported with oral therapy.  Pulmonary edema has occurred in pregnant patients receiving intravenous terbutaline.[Ref]
-Musculoskeletal side effects have included tremors, especially at higher doses.  Tolerance has developed to the tremorogenic effects.  Severe muscle cramping has been rarely reported.[Ref]
-Metabolic side effects have included hypokalemia, hypomagnesemia, and less commonly hyperglycemia.[Ref]
-Infusions of terbutaline, 25 mcg/min, in women in premature labor has caused decreases in serum potassium of up to 1.6 to 2 mEq/L.  Another study in ten healthy males produced a mean decrease in serum potassium of 0.9 mEq/L following a bolus injection of 0.25 mg terbutaline, followed by an infusion of 5 mcg/min.  A decrease in magnesium of 0.08 mmol/L was produced in these same patients.This fall in potassium is presumably due to an intracellular shift of potassium secondary to hyperglycemia and hyperinsulinemia.[Ref]
-Nervous system side effects have included headache, restlessness, anxiety, nervousness, irritability, and insomnia.[Ref]
-Other side effects have included the development of tachyphylaxis to the bronchodilating effects of terbutaline (the active ingredient contained in Brethine)   Although conflicting data exist, the development of complete tolerance has not been reported.[Ref]
-1. Larsson S, Svedmyr N "Bronchodilating effect and side effects of beta2- adrenoceptor stimulants by different modes of administration (tablets, metered aerosol, and combinations thereof). A study with salbutamol inasthmatics." Am Rev Respir Dis 116 (1977): 861-9
-2. "Adverse effects and complications of treatment with beta-adrenergic agonist drugs. Committee on drugs, the American Academy of Allergy and Immunology." J Allergy Clin Immunol 75 (1985): 443-9
-3. Hudgens DR, Conradi SE "Sudden death associated with terbutaline sulfate administration." Am J Obstet Gynecol 169 (1993): 120-1
-4. Tveskov C, Djurhuus MS, Klitgaard NAH, Egstrup K "Potassium and magnesium distribution, ECG changes, and ventricular ectopic beats during beta(2)-adrenergic stimulation with terbutaline in healthy subjects." Chest 106 (1994): 1654-9
-5. Kinney EL, Trautlein JJ, Harbaugh CV, Lambert D, Zelis RF "Ventricular tachycardia after terbutaline." JAMA 240 (1978): 2247
-6. Al-Hillawi AH, Hayward R, Johnson NM "Incidence of cardiac arrhythmias in patients taking slow release salbutamol and slow release terbutaline for asthma." Br Med J (Clin Res Ed) 288 (1984): 367
-7. Wagner JM, Morton MJ, Johnson KA, O'Grady JP, Speroff L "Terbutaline and maternal cardiac function." JAMA 246 (1981): 2697-701
-8. Trautlein J, Allegra J, Gillin M "Aerosolized terbutaline sulfate--an evalution of efficacy and side effects in patients with reversible airway disease." J Clin Pharmacol 17 (1977): 76-80
-9. Bengtsson B, Fagerstrom PO "Extrapulmonary effects of terbutaline during prolonged administration." Clin Pharmacol Ther 31 (1982): 726-32
-10. Braden GL, vonOeyen PT, Germain MJ, Watson DJ, Haag BL "Ritodrine- and terbutaline-induced hypokalemia in preterm labor: Mechanisms and consequences." Kidney Int 51 (1997): 1867-75
-11. Katz M, Robertson PA, Creasy RK "Cardiovascular complications associated with terbutaline treatment for preterm labor." Am J Obstet Gynecol 139 (1981): 605-8
-12. Brogden RN, Speight TM, Avery GS "Terbutaline: a preliminary report of its pharmacological properties and therapeutic efficacy in asthma." Drugs 6 (1973): 324-32
-13. Braden GL, Germain MJ, Mulhern JG, Hafer JG, Bria WF "Hemodynamic, cardiac, and electrolyte effects of low-dose aerosolized terbutaline sulfate in asthmatic patients." Chest 114 (1998): 380-7
-14. Whitsett TL, Manion CV, Wilson MF "Cardiac, pulmonary and neuromuscular effects of clenbuterol and terbutaline compared with placebo." Br J Clin Pharmacol 12 (1981): 195-200
-15. Lampert MB, Hibbard J, Weinert L, Briller J, Lindheimer M, Lang RM "Peripartum heart failure associated with prolonged tocolytic therapy." Am J Obstet Gynecol 168 (1993): 493-5
-16. Hibbard JU "Chronic terbutaline therapy and peripartum cardiomyopathy: a case-control study." Hypertens Pregnancy 15 (1996): 183-91
-17. Zelman S "Terbutaline and muscular symptoms." JAMA 239 (1978): 930
-18. Hurlbert BJ, Edelman JD, David K "Serum potassium levels during and after terbutaline." Anesth Analg 60 (1981): 723-5
-19. Gross TL, Sokol RJ "Severe hypokalemia and acidosis: a potential complication of beta- adrenergic treatment." Am J Obstet Gynecol 138 (1980): 1225-6
-20. Herskowitz A,  Herskowitz B "Acute paraparesis due to terbutaline sulfate." South Med J 95 (2002): 275-6
-21. Drazen JM, Israel E, Boushey HA, et al. "Comparisons of regularly scheduled with as-needed use of albuterol in mild asthma." N Engl J Med 335 (1996): 841-7
-22. Cockcroft DW, Swystun VA "Functional antagonism: tolerance produced by inhaled beta(2) agonists." Thorax 51 (1996): 1051-6
-23. van Schayck CP, Dompeling E, van Herwaarden CL, et al. "Bronchodilator treatment in moderate asthma or chronic bronchitis: continuous or on demand? A randomised controlled study." BMJ 303 (1991): 1426-31
-24. Svedmyr N, Lofdahl CG "The use of beta(2)-adrenoceptor agonists in the treatment of bronchial asthma." Pharmacol Toxicol 78 (1996): 3-11
-25. Lipworth BJ, Struthers AD, McDevitt DG "Tachyphylaxis to systemic but not to airway responses during prolonged therapy with high dose inhaled salbutamol in asthmatics." Am Rev Respir Dis 140 (1989): 586-92
-26. Sears MR, Taylor DR, Print CG, et al. "Regular inhaled beta-agonist treatment in bronchial asthma." Lancet 336 (1990): 1391-5
-Not all side effects for Brethine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Terbutaline has usually been well tolerated and adverse effects seen have been consistent with its pharmacological action.  In general, the severity of these adverse effects have been dependent on dose and the route of administration.  Administration by metered dose inhaler (MDI) has been associated with less systemic effects than administration of higher doses by nebulizer or orally.  Tolerance to the adverse effects of terbutaline (the active ingredient contained in Brethine) has occurred.
+Changes in heart rate of approximately 30% may be observed following 5 mg of terbutaline (the active ingredient contained in Brethine) given orally.  Aggravation of angina may be due to the tachycardia induced by terbutaline. Prolongation of the QT interval occurred in ten healthy males given a bolus injection of 0.25 mg terbutaline followed by an infusion of 5 mcg/min.  Supraventricular ectopic beats and ventricular tachycardia have also been reported.  Higher dosages of terbutaline should be used with caution in patients with cardiac disease, arrhythmias, or hypertension.  All of these effects are dose-related and lower doses may be tolerated.In one case-control study a positive association was found between the use of oral terbutaline for longer than 9 days and peripartum cardiomyopathy.  Further study is needed to determine if a causative relationship exists.
+Cardiovascular side effects have included palpitations and peripheral vasodilation, commonly resulting in reflex tachycardia.  Changes in blood pressure, both increases and decreases, have been reported.  Higher dosages have rarely aggravated angina and myocardial ischemia or caused atrial or ventricular arrhythmias.  Rarely, peripartum cardiomyopathy has been reported with oral therapy.  Pulmonary edema has occurred in pregnant patients receiving intravenous terbutaline.
+Musculoskeletal side effects have included tremors, especially at higher doses.  Tolerance has developed to the tremorogenic effects.  Severe muscle cramping has been rarely reported.
+Metabolic side effects have included hypokalemia, hypomagnesemia, and less commonly hyperglycemia.
+Infusions of terbutaline, 25 mcg/min, in women in premature labor has caused decreases in serum potassium of up to 1.6 to 2 mEq/L.  Another study in ten healthy males produced a mean decrease in serum potassium of 0.9 mEq/L following a bolus injection of 0.25 mg terbutaline, followed by an infusion of 5 mcg/min.  A decrease in magnesium of 0.08 mmol/L was produced in these same patients.This fall in potassium is presumably due to an intracellular shift of potassium secondary to hyperglycemia and hyperinsulinemia.
+Nervous system side effects have included headache, restlessness, anxiety, nervousness, irritability, and insomnia.
+Other side effects have included the development of tachyphylaxis to the bronchodilating effects of terbutaline (the active ingredient contained in Brethine)   Although conflicting data exist, the development of complete tolerance has not been reported.
 subcutaneous solution
-
 Shakiness in the legs, arms, hands, or feet
 trembling or shaking of the hands or feet
-
-
 Extra heartbeat
 feeling faint, dizzy, or lightheadedness
 feeling of warmth or heat
 flushing or redness of the skin, especially on the face and neck
 headache
 sweating
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 excessive muscle tone
 muscle stiffness
 muscle tension or tightness
-
-
 Arm, back, or jaw pain
 blurred vision
 chest pain or discomfort
@@ -93,18 +49,11 @@ slow or fast heartbeat
 trouble sleeping
 unable to sleep
 unusual tiredness or weakness
-
-
 Sleepiness or unusual drowsiness
-
-
 Anxiety
 lack or loss of strength
-
-
 Fever
 rash
 redness, soreness, or itching skin
 seeing, hearing, or feeling things that are not there
 sores, welting, or blisters
-

@@ -1,24 +1,16 @@
-Generic Name: chlorpheniramine / hydrocodone
-Applies to chlorpheniramine / hydrocodone: oral capsule extended release, oral suspension extended release
 Other dosage forms:
 As well as its needed effects, chlorpheniramine / hydrocodone may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking chlorpheniramine / hydrocodone, check with your doctor immediately:
 Some chlorpheniramine / hydrocodone side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to chlorpheniramine / hydrocodone: oral capsule extended release, oral liquid, oral suspension extended release
-Nervous system side effects have included sedation, drowsiness, mental clouding, lethargy, impairment of mental performance, anxiety, fear, dysphoria, euphoria, dizziness, psychic dependence, and mood changes.[Ref]
-Dermatologic side effects have included rash and pruritus.[Ref]
-Gastrointestinal side effects have included nausea, vomiting, and constipation.[Ref]
-Genitourinary side effects have included ureteral spasm, spasm of versicle sphincters, and urinary retention.[Ref]
-Respiratory side effects have included respiratory depression, dryness of the pharynx, and occasional tightness of the chest.[Ref]
-The long-acting hydrocodone-containing cough product (marketed as Tussionex Pennkinetic Extended-Release Suspension) may produce dose-related respiratory depression by acting directly on brain stem respiratory centers.  Its use of been associated with fatal respiratory depression.[Ref]
-General side effects have included impairment of physical performance.[Ref]
-1. "Product Information. HyTan (chlorpheniramine-hydrocodone)." Prasco Laboratories, Cincinnati, OH. 
-2. "Product Information. Tussionex PennKinetic (chlorpheniramine-hydrocodone)." Aventis Pharmaceuticals, Bridgewater, NJ. 
+Nervous system side effects have included sedation, drowsiness, mental clouding, lethargy, impairment of mental performance, anxiety, fear, dysphoria, euphoria, dizziness, psychic dependence, and mood changes.
+Dermatologic side effects have included rash and pruritus.
+Gastrointestinal side effects have included nausea, vomiting, and constipation.
+Genitourinary side effects have included ureteral spasm, spasm of versicle sphincters, and urinary retention.
+Respiratory side effects have included respiratory depression, dryness of the pharynx, and occasional tightness of the chest.
+The long-acting hydrocodone-containing cough product (marketed as Tussionex Pennkinetic Extended-Release Suspension) may produce dose-related respiratory depression by acting directly on brain stem respiratory centers.  Its use of been associated with fatal respiratory depression.
+General side effects have included impairment of physical performance.
 It is possible that some side effects of Vituz may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 oral liquid, oral solution
-
 Decrease in frequency of urination
 decrease in urine volume
 difficult, painful, or troubled breathing
@@ -26,8 +18,6 @@ difficulty in passing urine (dribbling)
 irregular, fast or slow, or shallow breathing
 pale or blue lips, fingernails, or skin
 tightness in the chest
-
-
 Drowsiness
 false or unusual sense of well-being
 fear or nervousness
@@ -36,4 +26,3 @@ nausea
 sleepiness
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 vomiting
-

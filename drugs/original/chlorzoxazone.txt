@@ -1,20 +1,8 @@
-Applies to chlorzoxazone: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by chlorzoxazone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking chlorzoxazone:
-
 If any of the following symptoms of overdose occur while taking chlorzoxazone, get emergency help immediately:
-
-Some of the side effects that can occur with chlorzoxazone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to chlorzoxazone: compounding powder, oral tablet
-Gastrointestinal side effects of chlorzoxazone have rarely included gastrointestinal bleeding.[Ref]
-Nervous system side effects have included drowsiness, dizziness, light-headedness, malaise, and overstimulation.[Ref]
-Hypersensitivity side effects have rarely included skin rashes, petechiae, angioneurotic edema, anaphylactic reactions, and ecchymoses.[Ref]
-Renal side effects attributed to a phenolic metabolite have rarely included urine discoloration.[Ref]
-1. "Product Information. Parafon Forte (chlorzoxazone)." Ortho McNeol Pharmceutical, Raritan, NJ. 
-Not all side effects for chlorzoxazone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal side effects of chlorzoxazone have rarely included gastrointestinal bleeding.
+Nervous system side effects have included drowsiness, dizziness, light-headedness, malaise, and overstimulation.
+Hypersensitivity side effects have rarely included skin rashes, petechiae, angioneurotic edema, anaphylactic reactions, and ecchymoses.
+Renal side effects attributed to a phenolic metabolite have rarely included urine discoloration.
 Bloody or black, tarry stools
 clay-colored stools
 constipation
@@ -41,8 +29,6 @@ unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 wheezing
 yellow eyes or skin
-
-
 Diarrhea
 difficult or troubled breathing
 drowsiness
@@ -54,9 +40,6 @@ nausea
 pale or blue lips, fingernails, or skin
 sluggishness
 vomiting
-
-
 Bruising
 large, flat, blue, or purplish patches in the skin
 small red or purple spots on the skin
-

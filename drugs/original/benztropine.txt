@@ -1,29 +1,16 @@
-Applies to benztropine: oral solution, oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by benztropine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking benztropine:
-
 If any of the following symptoms of overdose occur while taking benztropine, get emergency help immediately:
-
-Some of the side effects that can occur with benztropine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to benztropine: compounding powder, injectable solution, oral tablet
-Adverse reactions are anticholinergic in nature and include dry mouth, constipation, tachycardia, and blurred vision.[Ref]
-Frequency not reported: Numbness of fingers[Ref]
-Frequency not reported: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations, exacerbation of preexisting psychotic symptoms, nervousness, depression[Ref]
-Frequency not reported: Constipation, dry mouth, nausea, vomiting, paralytic ileus[Ref]
-Frequency not reported: Blurred vision, dilated pupils[Ref]
-Frequency not reported: Tachycardia[Ref]
-Frequency not reported: Urinary retention, dysuria[Ref]
-Frequency not reported: Allergic reaction[Ref]
-Frequency not reported: Heatstroke, hyperthermia, fever[Ref]
-Frequency not reported: Skin rash[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Cogentin (benztropine)." Merck & Co, Inc, West Point, PA. 
-Not all side effects for benztropine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Adverse reactions are anticholinergic in nature and include dry mouth, constipation, tachycardia, and blurred vision.
+Frequency not reported: Numbness of fingers
+Frequency not reported: Toxic psychosis, including confusion, disorientation, memory impairment, visual hallucinations, exacerbation of preexisting psychotic symptoms, nervousness, depression
+Frequency not reported: Constipation, dry mouth, nausea, vomiting, paralytic ileus
+Frequency not reported: Blurred vision, dilated pupils
+Frequency not reported: Tachycardia
+Frequency not reported: Urinary retention, dysuria
+Frequency not reported: Allergic reaction
+Frequency not reported: Heatstroke, hyperthermia, fever
+Frequency not reported: Skin rash
 injection solution
-
 Abdominal or stomach cramps or pain
 aggressive and violent behavior
 being forgetful
@@ -66,8 +53,6 @@ tiredness
 trouble concentrating
 trouble with sleeping
 vomiting
-
-
 Blindness
 blurred vision
 change in consciousness
@@ -90,10 +75,7 @@ unsteadiness, trembling, or other problems with muscle control or coordination
 unusual excitement, nervousness, or restlessness
 vision problems
 wheezing
-
-
 Enlarged pupils
 loss of appetite
 skin rash
 weight loss
-

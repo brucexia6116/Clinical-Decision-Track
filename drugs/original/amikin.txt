@@ -1,50 +1,18 @@
-Generic Name: amikacin
-Applies to amikacin: injection solution
-In addition to its needed effects, some unwanted effects may be caused by amikacin (the active ingredient contained in Amikin). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking amikacin, check with your doctor or nurse immediately:
-Some of the side effects that can occur with amikacin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to amikacin: compounding powder, injectable solution, intravenous solution
-All aminoglycosides have the potential to cause auditory, vestibular, and renal toxicity and neuromuscular blockade.  Such side effects occurred more often in patients with current or past history of renal impairment, of treatment with other ototoxic or nephrotoxic agents, and in patients treated for longer periods and/or with higher doses than recommended.[Ref]
-Frequency not reported: Nephrotoxicity, elevated serum creatinine, albuminuria, presence of red and white cells, casts, azotemia, oliguria[Ref]
-Such renal function changes were usually reversible when the drug was discontinued.Predisposing factors have included advanced age, preexisting renal insufficiency, dehydration, and concomitant use of other potentially nephrotoxic drugs.  One study has shown that hyperbilirubinemia in patients with biliary obstruction may also be a predisposing factor to aminoglycoside nephrotoxicity.In one prospective, nonrandomized study, patients developed nephrotoxicity in 25% of amikacin courses.[Ref]
-Rare (less than 0.1%): Headache, paresthesia, tremorFrequency not reported: Neurotoxicity, ototoxicity (including vestibular and permanent bilateral auditory ototoxicity), neuromuscular blockade, toxic effects on the eighth cranial nerve, hearing loss, loss of balance, cochlear damage, high frequency deafness, total or partial irreversible bilateral deafness, acute muscular paralysis due to neuromuscular blockade, numbness, skin tingling, muscle twitching, convulsions, dizziness, vertigo, tinnitus, roaring in the ears[Ref]
-Ototoxicity may be irreversible and usually includes loss of auditory function secondary to cochlear hair cell damage.  Damage may also be vestibular.High frequency deafness usually occurs before hearing loss can be detected.  Hearing loss may be permanent.Rare neurologic side effects have included neuromuscular blockade, particularly in patients who are predisposed, including patients with myasthenia gravis, hypocalcemia, and patients on concomitant neuromuscular blocking agents.A case of irreversible sensorineural hearing loss has been reported in a patient with diabetic end stage renal disease, after using an amikacin-heparin lock for 16 weeks (25 mg amikacin three times a week).[Ref]
-Frequency not reported: Respiratory paralysis/apnea due to neuromuscular blockade[Ref]
-Rare (less than 0.1%): Arthralgia[Ref]
-Rare (less than 0.1%): Nausea, vomiting[Ref]
-Rare (less than 0.1%): Anemia, eosinophilia[Ref]
-Rare (less than 0.1%): HypotensionFrequency not reported: Hypersensitivity myocarditis[Ref]
-Rare (less than 0.1%): Skin rash, pruritus, exfoliative dermatitis[Ref]
-Rare (less than 0.1%): Fever, drug fever[Ref]
-Rare (less than 0.1%): Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome (at least 1 case)[Ref]
-Frequency not reported: Elevations in liver function tests (clinical significance unknown)[Ref]
-1. Peloquin CA,  Berning SE,  Nitta AT, et al. "Aminoglycoside Toxicity: Daily versus Thrice-Weekly Dosing for Treatment of Mycobacterial Diseases." Clin Infect Dis 38 (2004): 1538-44
-2. "Product Information. Amikin (amikacin)." Bristol-Myers Squibb, Princeton, NJ. 
-3. Noone M, Pomeroy L, Sage R, Noone P "Prospective study of amikacin versus netilmicin in the treatment of severe infection in hospitalized patients." Am J Med 86 (1989): 809-13
-4. Barza M, Ioannidis JP, Cappelleri JC, Lau J "Single or multiple daily doses of aminoglycosides: a meta-analysis." BMJ 312 (1996): 338-45
-5. Lee JT "Three-year experience with amikacin sulfate as an exclusive surgical aminoglycoside in a large acute-care hospital." Am J Med 79 (1985): 37-42
-6. Bock BV, Edelstein PH, Meyer RD "Prospective comparative study of efficacy and toxicity of netilmicin and amikacin." Antimicrob Agents Chemother 17 (1980): 217-25
-7. Plaut ME, Schentag JJ, Jusko WJ "Aminoglycoside nephrotoxicity: comparative assessment in critically ill patients." J Med 10 (1979): 257-66
-8. Ramakrishnan K,  Scheid DC "Diagnosis and management of acute pyelonephritis in adults." Am Fam Physician 71 (2005): 933-42
-9. Emanuelli G, Anfossi G, Calcamuggi G, Marcarino C, Lanzio M "Urinary enzyme release following aminoglycoside administration in single low dose." Enzyme 39 (1988): 119-22
-10. Desai TK, Tsang TK "Aminoglycoside nephrotoxicity in obstructive jaundice." Am J Med 85 (1988): 47-50
-11. Lerner SA, Schmitt BA, Seligsohn R, Matz G "Comparative study of ototoxicity and nephrotoxicity in patients randomly assigned to treatment with amikacin or gentamicin." Am J Med 80 Suppl 6 (1986): 98-104
-12. Williams PJ, Hull JH, Sarubbi FA, Rogers JF, WArgin WA "Factors associated with nephrotoxicity and clinical outcome in patients receiving amikacin." J Clin Pharmacol 26 (1986): 79-86
-13. Contreras AM, Gamba G, Cortes J, et al "Serial trough and peak amikacin levels in plasma as predictors of nephrotoxicity." Antimicrob Agents Chemother 33 (1989): 973-6
-14. Saxena AK,  Panhotra BR,  Naguib M "Sudden irreversible sensory-neural hearing loss in a patient with diabetes receiving amikacin as an antibiotic-heparin lock." Pharmacotherapy 22 (2002): 105-8
-15. Barza M, Lauermann MW, Tally FP, Gorbach SL "Prospective, randomized trial of netilmicin and amikacin, with emphasis on eighth-nerve toxicity." Antimicrob Agents Chemother 17 (1980): 707-14
-16. Danhauer FJ, Fortner CL, Schimpff SC, DeJongh CA, Wesley MN, Wiernik PH "Ototoxicity and pharmacokinetically determined dosages of amikacin in granulocytopenic cancer patients." Clin Pharm 1 (1982): 539-43
-17. Ariano RE,  Zelenitsky SA,  Kassum DA "Aminoglycoside-induced vestibular injury: maintaining a sense of balance." Ann Pharmacother 42 (2008): 1282-9
-18. Uziel A "Non-genetic factors affecting hearing development." Acta Otolaryngol (Stockh) 421 (1985): 57-61
-19. Kounis GN,  Kouni SA,  Chiladakis JA,  Kounis NG "Comment: Mesalamine-Associated Hypersensitivity Myocarditis in Ulcerative Colitis and the Kounis Syndrome (February)." Ann Pharmacother 43 (2009): 393-4
-20. Holdiness MR "Adverse cutaneous reactions to antituberculosis drugs." Int J Dermatol 24 (1985): 280-5
-21. Bensaid B,  Rozieres A,  Nosbaum A,  Nicolas JF,  Berard F "Amikacin-induced drug reaction with eosinophilia and systemic symptoms syndrome:  delayed skin test and ELISPOT assay results allow the identification of the culprit drug." J Allergy Clin Immunol 130 (2012): 1413-4
-22. Mor F, Leibovici L, Cohen O, Wysenbeek AJ "Prospective evaluation of liver function tests in patients treated with aminoglycosides." DICP 24 (1990): 135-7
-Not all side effects for Amikin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+All aminoglycosides have the potential to cause auditory, vestibular, and renal toxicity and neuromuscular blockade.  Such side effects occurred more often in patients with current or past history of renal impairment, of treatment with other ototoxic or nephrotoxic agents, and in patients treated for longer periods and/or with higher doses than recommended.
+Frequency not reported: Nephrotoxicity, elevated serum creatinine, albuminuria, presence of red and white cells, casts, azotemia, oliguria
+Such renal function changes were usually reversible when the drug was discontinued.Predisposing factors have included advanced age, preexisting renal insufficiency, dehydration, and concomitant use of other potentially nephrotoxic drugs.  One study has shown that hyperbilirubinemia in patients with biliary obstruction may also be a predisposing factor to aminoglycoside nephrotoxicity.In one prospective, nonrandomized study, patients developed nephrotoxicity in 25% of amikacin courses.
+Rare (less than 0.1%): Headache, paresthesia, tremorFrequency not reported: Neurotoxicity, ototoxicity (including vestibular and permanent bilateral auditory ototoxicity), neuromuscular blockade, toxic effects on the eighth cranial nerve, hearing loss, loss of balance, cochlear damage, high frequency deafness, total or partial irreversible bilateral deafness, acute muscular paralysis due to neuromuscular blockade, numbness, skin tingling, muscle twitching, convulsions, dizziness, vertigo, tinnitus, roaring in the ears
+Ototoxicity may be irreversible and usually includes loss of auditory function secondary to cochlear hair cell damage.  Damage may also be vestibular.High frequency deafness usually occurs before hearing loss can be detected.  Hearing loss may be permanent.Rare neurologic side effects have included neuromuscular blockade, particularly in patients who are predisposed, including patients with myasthenia gravis, hypocalcemia, and patients on concomitant neuromuscular blocking agents.A case of irreversible sensorineural hearing loss has been reported in a patient with diabetic end stage renal disease, after using an amikacin-heparin lock for 16 weeks (25 mg amikacin three times a week).
+Frequency not reported: Respiratory paralysis/apnea due to neuromuscular blockade
+Rare (less than 0.1%): Arthralgia
+Rare (less than 0.1%): Nausea, vomiting
+Rare (less than 0.1%): Anemia, eosinophilia
+Rare (less than 0.1%): HypotensionFrequency not reported: Hypersensitivity myocarditis
+Rare (less than 0.1%): Skin rash, pruritus, exfoliative dermatitis
+Rare (less than 0.1%): Fever, drug fever
+Rare (less than 0.1%): Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome (at least 1 case)
+Frequency not reported: Elevations in liver function tests (clinical significance unknown)
 Agitation
 black, tarry stools
 bloody or cloudy urine
@@ -98,8 +66,5 @@ trouble with hearing
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Skin rash
 vomiting
-

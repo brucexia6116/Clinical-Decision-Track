@@ -1,46 +1,16 @@
-Applies to droperidol: injection injectable, injection solution
-In addition to its needed effects, some unwanted effects may be caused by droperidol. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking droperidol, check with your doctor or nurse immediately:
-Some of the side effects that can occur with droperidol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to droperidol: compounding powder, injectable solution
-Frequency not reported: Hypotension, irregular cardiac rhythm, mild or moderate tachycardia, QT prolongation, serious arrhythmias (e.g., torsades de pointes), ventricular tachycardia, cardiac arrest, death (some of these side effects occurred in patients with no known risk factors, and some were associated with droperidol doses at or below recommended doses)[Ref]
-Unexplained fever, alteration of consciousness, extrapyramidal dysfunction, autonomic instability and elevated creatine kinase are all symptoms associated with neuroleptic agents.  If these symptoms develop in patients receiving droperidol therapy, immediate discontinuation of the drug is warranted.Extrapyramidal symptoms such as acute dystonia, parkinsonism, akathisia, and oculogyric crisis have been reported in patients receiving droperidol in doses as low as 0.65 mg.  In addition, cases of akathisia have been reported in patients during epidural anesthesia.[Ref]
-Frequency not reported: Dysphoria, drowsiness, restlessness, hyperactivity, anxiety, hallucinations, dizziness, extrapyramidal symptoms, neuroleptic malignant syndrome, confusion, nervousness, paresthesia, somnolence, tremor, akathisia, oculogyric crisis, unexplained fever, alteration of consciousness, autonomic instability[Ref]
-Frequency not reported: pharyngitis, rhinitis, bronchospasm, laryngospasm (reported as rare)[Ref]
-Frequency not reported: Anaphylaxis (uncommon)[Ref]
-Frequency not reported : Injection site pain[Ref]
-Frequency not reported: Chills and/or shivering, tongue-swelling, sweating[Ref]
-1. "Product Information. Droperidol (droperidol)." Abbott Pharmaceutical, Abbott Park, IL. 
-2. "Product Information. Inapsine (droperidol)." Janssen Pharmaceutica, Titusville, NJ. 
-3. Vice President,  Medical Affairs and Worldwide Drug Safety "Important drug warning letter. Available from: URL: http://www.fda.gov/medwatch/SAFETY/2001/inapsine.htm."   ([2001 Dec 4]):
-4. Miyai N,  Kawasaki T,  Sugihara H,  Kayo R "Coronary artery spasm as a cause of droperidol-induced ventricular fibrillation." Anesth Analg 103 (2006): 1602-3
-5. Merridew GC, Keefe PA "Presence of extrapyramidal side-effects from droperidol in low dose." Anaesth Intensive Care 22 (1994): 319-20
-6. Athanassiadis C, Karamanis A "Akathisia after long-term epidural use of droperidol: a case report." Pain 50 (1992): 203-4
-7. Arrowsmith J, Gams RA "Dystonia with droperidol therapy." N Engl J Med 305 (1981): 227
-8. Szuba MP, Bergman KS, Baxter LR Jr, Guze BH, Reynolds CA, Pelletier LR "Safety and efficacy of high-dose droperidol in agitated patients." J Clin Psychopharmacol 12 (1992): 144-6
-9. Foster PN, Stickle BR, Laurence AS "Akathisia following low-dose droperidol for antiemesis in day-case patients." Anaesthesia 51 (1996): 491-4
-10. Patton CM Jr. "Rapid induction of acute dyskinesia by droperidol." Anesthesiology 43 (1975): 126-7
-11. Patel P, Bristow G "Postoperative neuroleptic malignant syndrome. A case report." Can J Anaesth 34 (1987): 515-8
-12. Ward NG "Akathisia associated with droperidol during epidural anesthesia." Anesthesiology 71 (1989): 786-7
-13. Ratan DA, Smith AH "Neuroleptic malignant syndrome secondary to droperidol." Biol Psychiatry 34 (1993): 421-2
-14. Chambers RA, Druss BG "Droperidol: Efficacy and side effects in psychiatric emergencies." J Clin Psychiatry 60 (1999): 664-7
-15. Bamrah JS "Neuroleptic-induced pyrexia. A benign variant." J Nerv Ment Dis 176 (1988): 741-3
-16. Silberstein SD,  Young WB,  Mendizabal JE,  Rothrock JF,  Alam AS "Acute migraine treatment with droperidol: A randomized, double-blind, placebo-controlled trial." Neurology 60 (2003): 315-21
-17. Melnick BM "Extrapyramidal reactions to low-dose droperidol." Anesthesiology 69 (1988): 424-6
-18. Holmes VF, Adams F, Fernandez F "Respiratory dyskinesia due to antiemetic therapy in a cancer patient." Cancer Treat Rep 71 (1987): 415-6
-19. Clark RJ "Tongue-swelling with droperidol." Anaesth Intensive Care 21 (1993): 898
-Not all side effects for droperidol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Hypotension, irregular cardiac rhythm, mild or moderate tachycardia, QT prolongation, serious arrhythmias (e.g., torsades de pointes), ventricular tachycardia, cardiac arrest, death (some of these side effects occurred in patients with no known risk factors, and some were associated with droperidol doses at or below recommended doses)
+Unexplained fever, alteration of consciousness, extrapyramidal dysfunction, autonomic instability and elevated creatine kinase are all symptoms associated with neuroleptic agents.  If these symptoms develop in patients receiving droperidol therapy, immediate discontinuation of the drug is warranted.Extrapyramidal symptoms such as acute dystonia, parkinsonism, akathisia, and oculogyric crisis have been reported in patients receiving droperidol in doses as low as 0.65 mg.  In addition, cases of akathisia have been reported in patients during epidural anesthesia.
+Frequency not reported: Dysphoria, drowsiness, restlessness, hyperactivity, anxiety, hallucinations, dizziness, extrapyramidal symptoms, neuroleptic malignant syndrome, confusion, nervousness, paresthesia, somnolence, tremor, akathisia, oculogyric crisis, unexplained fever, alteration of consciousness, autonomic instability
+Frequency not reported: pharyngitis, rhinitis, bronchospasm, laryngospasm (reported as rare)
+Frequency not reported: Anaphylaxis (uncommon)
+Frequency not reported : Injection site pain
+Frequency not reported: Chills and/or shivering, tongue-swelling, sweating
 Blurred vision
 confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 sweating
 unusual tiredness or weakness
-
-
 Chills
 cough
 difficulty with breathing
@@ -51,22 +21,16 @@ noisy breathing
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 skin rash, hives, or itching
 tightness in the chest
-
-
 Chest pain or discomfort
 fainting
 fast, pounding, or irregular heartbeat or pulse
 irregular or slow heart rate
 low blood pressure or pulse
 severe confusion or loss of consciousness
-
-
 Anxiety
 drowsiness
 restlessness
 trouble sitting still
-
-
 Difficulty with speaking
 drooling
 loss of balance control
@@ -76,4 +40,3 @@ shuffling walk
 stiffness of the limbs
 twisting movements of the body
 uncontrolled movements, especially of the face, neck, and back
-

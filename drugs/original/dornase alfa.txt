@@ -1,23 +1,10 @@
 Commonly reported side effects of dornase alfa include: transient skin rash and voice disorder. Other side effects include: laryngitis.  See below for a comprehensive list of adverse effects.
-Applies to dornase alfa: inhalation solution
-In addition to its needed effects, some unwanted effects may be caused by dornase alfa. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dornase alfa:
-Some of the side effects that can occur with dornase alfa may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dornase alfa: inhalation solution
-Dornase alfa has been generally well tolerated.  Dose ranging studies employing daily dosages as high as 40 mg revealed no significant adverse effects.  The most common adverse reactions have been respiratory in nature and included pharyngitis (36% to 40% versus 33% with placebo, n=968), voice alteration or hoarseness (12% to 16% versus 7%), laryngitis (3% to 4% versus 1%), dyspnea and increase in cough.  Rash has also occurred frequently (10% to 12% versus 7%).[Ref]
-Many of these adverse reactions have been difficult to distinguish from symptoms of the underlying disease.  Hoarseness and pharyngitis have been shown to be dose-related in one study.  The hoarseness was transient and regressed after a 3 week period.  Withdrawal rates in clinical trials have been similar between active and placebo groups.[Ref]
-Cardiovascular side effects have included chest pain, which has been reported in 18% to 21% of patients receiving dornase alfa versus 16% with placebo.[Ref]
-Ocular side effects have included conjunctivitis which has been reported in 4% to 5% of patients receiving dornase alfa versus 2% with placebo.[Ref]
-Hypersensitivity side effects have included a small percentage of patients who developed serum antibodies to the drug, but no anaphylaxis or severe allergic reactions have been reported.  The clinical relevance of the rhDNase antibodies is presently unknown.  No immunoglobulin E antibodies have been detected. exposed to the drug during clinical trials[Ref]
-Special face masks are not needed for caregivers involved with the administration of dornase alfa.  Studies have shown that the passive airborne exposure is well below the clinical dose during administration and nondetectable 15 to 45 minutes after treatment.[Ref]
-1. "Product Information. Pulmozyme (dornase alfa)." Genentech, South San Francisco, CA. 
-2. Bryson HM, Sorkin EM "Dornase alfa. A review of its pharmacological properties and therapeutic potential in cystic fibrosis." Drugs 48 (1994): 894-906
-3. Fuchs HJ, Borowitz DS, Christiansen DH, et al. "Effect of aerosolized recombinant human DNase on exacerbations of respiratory symptoms and on pulmonary function in patients with cystic fibrosis." N Engl J Med 331 (1994): 637-42
-4. Witt DM, Anderson L "Dornase alfa: a new option in the management of cystic fibrosis." Pharmacotherapy 16 (1996): 40-8
-Not all side effects for dornase alfa may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Dornase alfa has been generally well tolerated.  Dose ranging studies employing daily dosages as high as 40 mg revealed no significant adverse effects.  The most common adverse reactions have been respiratory in nature and included pharyngitis (36% to 40% versus 33% with placebo, n=968), voice alteration or hoarseness (12% to 16% versus 7%), laryngitis (3% to 4% versus 1%), dyspnea and increase in cough.  Rash has also occurred frequently (10% to 12% versus 7%).
+Many of these adverse reactions have been difficult to distinguish from symptoms of the underlying disease.  Hoarseness and pharyngitis have been shown to be dose-related in one study.  The hoarseness was transient and regressed after a 3 week period.  Withdrawal rates in clinical trials have been similar between active and placebo groups.
+Cardiovascular side effects have included chest pain, which has been reported in 18% to 21% of patients receiving dornase alfa versus 16% with placebo.
+Ocular side effects have included conjunctivitis which has been reported in 4% to 5% of patients receiving dornase alfa versus 2% with placebo.
+Hypersensitivity side effects have included a small percentage of patients who developed serum antibodies to the drug, but no anaphylaxis or severe allergic reactions have been reported.  The clinical relevance of the rhDNase antibodies is presently unknown.  No immunoglobulin E antibodies have been detected. exposed to the drug during clinical trials
+Special face masks are not needed for caregivers involved with the administration of dornase alfa.  Studies have shown that the passive airborne exposure is well below the clinical dose during administration and nondetectable 15 to 45 minutes after treatment.
 Body aches or pain
 chest pain
 congestion
@@ -30,8 +17,6 @@ tender, swollen glands in the neck
 trouble breathing
 trouble swallowing
 voice changes
-
-
 Acid or sour stomach
 belching
 heartburn
@@ -40,9 +25,6 @@ rash
 sneezing
 stomach discomfort, upset, or pain
 stuffy nose
-
-
 Burning, dry, or itching eyes
 discharge or excessive tearing
 redness, pain, or swelling of the eye, eyelid, or inner lining of the eyelid
-

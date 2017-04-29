@@ -1,27 +1,21 @@
 Commonly reported side effects of olaparib include: upper respiratory tract infection, anemia, decreased hemoglobin, increased mcv, increased serum creatinine, nasopharyngitis, nausea, pharyngitis, vomiting, cough, and dyspnea.  See below for a comprehensive list of adverse effects.
-Applies to olaparib: oral capsule
 As well as its needed effects, olaparib may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking olaparib, check with your doctor immediately:
 Some olaparib side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to olaparib: oral capsule
-Uncommon (0.1% to 1%): Myelodysplastic syndrome/Acute Myeloid Leukemia[Ref]
-Very common (10% or more): Decreased hemoglobin (up to 90%), elevated mean corpuscular volume (up to 85%), decreased lymphocytes (up to 56%), anemia (up to 34%), decreased absolute neutrophil count (up to 32%), decreased platelets (up to 30%) Common (1% to 10%): Leukopenia[Ref]
-Very common (10% or more): Nasopharyngitis/pharyngitis/upper respiratory infection (up to 43%), cough (up to 21%), dyspneaCommon (1% to 10%): Pulmonary embolismUncommon (0.1% to 1%): Pneumonitis[Ref]
-Very common (10% or more): Nausea (up to 75%), abdominal pain/discomfort (up to 47%), vomiting (up to 43%), diarrhea (up to 31%), dyspepsia (up to 25%), constipationCommon (1% to 10%): Stomatitis[Ref]
-Very common (10% or more): Fatigue/asthenia/lethargy (up to 68%), peripheral edemaCommon (1% to 10%): Pyrexia[Ref]
-Very common (10% or more): Increased creatinine (up to 30%)[Ref]
-Very common (10% or more): Arthralgia/musculoskeletal pain (up to 32%), myalgia (up to 25%), back pain (up to 25%)[Ref]
-Common (1% to 10%): Hypertension, hot flush, venous thrombosis[Ref]
-Very common (10% or more): Dermatitis/rash (up to 25%)Common (1% to 10%): Dry skin, eczema, pruritus[Ref]
-Very common (10% or more): Urinary tract infectionCommon (1% to 10%): Dysuria, urinary incontinence, vulvovaginal disorder[Ref]
-Very common (10% or more): Decreased appetite (up to 25%)Common (1% to 10%): Hypomagnesemia, hyperglycemia[Ref]
-Very common (10% or more): Headache (up to 25%), dysgeusia (up to 21%), dizzinessCommon (1% to 10%): Peripheral neuropathy[Ref]
-Common (1% to 10%): Anxiety, depression, insomnia[Ref]
-1. "Product Information. Lynparza (olaparib)." Astra-Zeneca Pharmaceuticals, Wilmington, DE. 
+Uncommon (0.1% to 1%): Myelodysplastic syndrome/Acute Myeloid Leukemia
+Very common (10% or more): Decreased hemoglobin (up to 90%), elevated mean corpuscular volume (up to 85%), decreased lymphocytes (up to 56%), anemia (up to 34%), decreased absolute neutrophil count (up to 32%), decreased platelets (up to 30%) Common (1% to 10%): Leukopenia
+Very common (10% or more): Nasopharyngitis/pharyngitis/upper respiratory infection (up to 43%), cough (up to 21%), dyspneaCommon (1% to 10%): Pulmonary embolismUncommon (0.1% to 1%): Pneumonitis
+Very common (10% or more): Nausea (up to 75%), abdominal pain/discomfort (up to 47%), vomiting (up to 43%), diarrhea (up to 31%), dyspepsia (up to 25%), constipationCommon (1% to 10%): Stomatitis
+Very common (10% or more): Fatigue/asthenia/lethargy (up to 68%), peripheral edemaCommon (1% to 10%): Pyrexia
+Very common (10% or more): Increased creatinine (up to 30%)
+Very common (10% or more): Arthralgia/musculoskeletal pain (up to 32%), myalgia (up to 25%), back pain (up to 25%)
+Common (1% to 10%): Hypertension, hot flush, venous thrombosis
+Very common (10% or more): Dermatitis/rash (up to 25%)Common (1% to 10%): Dry skin, eczema, pruritus
+Very common (10% or more): Urinary tract infectionCommon (1% to 10%): Dysuria, urinary incontinence, vulvovaginal disorder
+Very common (10% or more): Decreased appetite (up to 25%)Common (1% to 10%): Hypomagnesemia, hyperglycemia
+Very common (10% or more): Headache (up to 25%), dysgeusia (up to 21%), dizzinessCommon (1% to 10%): Peripheral neuropathy
+Common (1% to 10%): Anxiety, depression, insomnia
 It is possible that some side effects of olaparib may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Chest pain
 chills
 cough
@@ -37,14 +31,10 @@ sore throat
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Lower back or side pain
 painful or difficult urination
 sores, ulcers, or white spots on lips or in the mouth
 swollen glands
-
-
 Acid or sour stomach
 back pain
 belching
@@ -77,4 +67,3 @@ trouble sleeping
 unexplained weight loss
 unsteadiness or awkwardness
 weakness in the arms, hands, legs, or feet
-

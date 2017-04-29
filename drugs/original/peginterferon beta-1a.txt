@@ -1,27 +1,21 @@
 Commonly reported side effects of peginterferon beta-1a include: arthralgia, asthenia, fever, flu-like symptoms, headache, myalgia, chills, erythema at injection site, pain at injection site, and swelling at injection site. Other side effects include: suicidal ideation, hyperthermia, increased serum alanine aminotransferase, pruritus, vomiting, decreased white blood cell count, depression, increased serum aspartate aminotransferase, and increased body temperature.  See below for a comprehensive list of adverse effects.
-Applies to peginterferon beta-1a: subcutaneous solution
 As well as its needed effects, peginterferon beta-1a may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking peginterferon beta-1a, check with your doctor immediately:
 Some peginterferon beta-1a side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to peginterferon beta-1a: subcutaneous kit, subcutaneous solution
-Frequency not reported: Congestive heart failure[Ref]
-Common (1% to 10%): Pruritus[Ref]
-Common (1% to 10%): Nausea, vomiting[Ref]
-The most common side effects were injection site erythema, influenza-like illness, pyrexia, headache, myalgia, chills, injection site pain, asthenia, injection site pruritus, and arthralgia.The most commonly reported adverse event leading to discontinuation was influenza-like illness (in less than 1% of patients).[Ref]
-Frequency not reported: Decreased peripheral blood counts[Ref]
-Common (1% to 10%): Increased ALT, increased AST, increased GGT (gamma-glutamyl-transferase)Frequency not reported: hepatic injury[Ref]
-Frequency not reported: Anaphylaxis allergic reactions[Ref]
-Frequency not reported: Autoimmune disorders[Ref]
-Very common (10% or more): Injection site erythema (up to 62%), influenza like illness (up to 47%), pyrexia (up to 45%), chills (up to 17%), injection site pain (up to 15%), injection site pruritus (up to 13%)Common (1% to 10%): Injection site edema, injection site warmth, injection site hematoma, injection site rash[Ref]
-Very common (10% or more): Myalgia (up to 19%), arthralgia (up to 11%)[Ref]
-Very common (10% or more): Headache (up to 44%)Frequency not reported: Seizures[Ref]
-Very common: Asthenia (13%)Common (1% to 10%): Increased body temperature, hyperthermia, pain[Ref]
-Frequency not reported: Depression, suicide[Ref]
-1. "Product Information. Plegridy (peginterferon beta-1a)." Biogen Idec Inc, Cambridge, MA. 
+Frequency not reported: Congestive heart failure
+Common (1% to 10%): Pruritus
+Common (1% to 10%): Nausea, vomiting
+The most common side effects were injection site erythema, influenza-like illness, pyrexia, headache, myalgia, chills, injection site pain, asthenia, injection site pruritus, and arthralgia.The most commonly reported adverse event leading to discontinuation was influenza-like illness (in less than 1% of patients).
+Frequency not reported: Decreased peripheral blood counts
+Common (1% to 10%): Increased ALT, increased AST, increased GGT (gamma-glutamyl-transferase)Frequency not reported: hepatic injury
+Frequency not reported: Anaphylaxis allergic reactions
+Frequency not reported: Autoimmune disorders
+Very common (10% or more): Injection site erythema (up to 62%), influenza like illness (up to 47%), pyrexia (up to 45%), chills (up to 17%), injection site pain (up to 15%), injection site pruritus (up to 13%)Common (1% to 10%): Injection site edema, injection site warmth, injection site hematoma, injection site rash
+Very common (10% or more): Myalgia (up to 19%), arthralgia (up to 11%)
+Very common (10% or more): Headache (up to 44%)Frequency not reported: Seizures
+Very common: Asthenia (13%)Common (1% to 10%): Increased body temperature, hyperthermia, pain
+Frequency not reported: Depression, suicide
 It is possible that some side effects of peginterferon beta-1a may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blue-green to black skin discoloration
 chills
 cough or sore throat
@@ -43,8 +37,6 @@ thirst
 trouble sleeping
 unusual tiredness or weakness
 vomiting
-
-
 Dark urine
 decreased appetite
 general feeling of tiredness or weakness
@@ -52,8 +44,6 @@ itching skin
 light-colored stools
 stomach or abdominal pain
 yellow eyes or skin
-
-
 Difficulty with swallowing
 hives or welts
 large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
@@ -61,11 +51,8 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 redness of the skin
 skin rash
 tightness in the chest
-
-
 Difficulty with moving
 itching, rash, redness, soreness, swelling, or warmth at the injection site
 lack or loss of strength
 muscle stiffness
 pain, redness, or sloughing of skin at the injection site
-

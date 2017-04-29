@@ -1,71 +1,17 @@
-Generic Name: acetaminophen / pseudoephedrine
-Applies to acetaminophen / pseudoephedrine: capsules, tablets
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Constipation; diarrhea; dizziness; drowsiness; excitability; headache; loss of appetite; nausea; nervousness or anxiety; trouble sleeping; upset stomach; vomiting; weakness.
 Severe allergic reactions (rash; hives; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); difficulty urinating or inability to urinate; fast or irregular heartbeat; hallucinations; mood or mental changes; seizures; severe dizziness, lightheadedness, or headache; severe drowsiness; stomach pain; tremor; vision changes; yellowing of skin or eyes.
-
-
-Applies to acetaminophen / pseudoephedrine: oral capsule, oral liquid, oral tablet, oral tablet chewable
-Cardiovascular adverse effects of pseudoephedrine have included significant rises in heart rate.  Hypertension and arrhythmias have been problematic in susceptible patients.[Ref]
-Pseudoephedrine causes vasoconstriction which generally does not produce hypertension, but may be problematic for patients with preexisting hypertension.  Arrhythmias may be produced in predisposed patients.  Rarely, pseudoephedrine has been reported to cause coronary artery spasm and chest pain.[Ref]
-Nervous system side effects of  pseudoephedrine have included nervous system stimulation, resulting in tremor, anxiety, and nervousness.  Insomnia has been reported in up to 30% of pseudoephedrine-treated patients.  Headache has also occurred in patients receiving pseudoephedrine.[Ref]
-Hepatic side effects of acetaminophen have been rare, except in alcoholics and after overdose.  In these settings, severe and sometimes fatal (3% to 4%) dose-dependent hepatitis has been reported.  Several cases of hepatotoxicity from chronic acetaminophen therapy at therapeutic doses have also been reported despite a lack of risk factors for toxicity[Ref]
-Alcoholic patients may develop hepatotoxicity after even modest doses of acetaminophen.  In healthy patients, approximately 15 grams of acetaminophen is necessary to deplete liver glutathione stores by 70% in a 70 kg person, although hepatotoxicity has been reported with smaller doses.  Glutathione concentrations may be repleted by the antidote N-acetylcysteine.  One case report has suggested that hypothermia may also be beneficial in decreasing liver damage during overdose.In a recent retrospective study of 306 patients admitted for acetaminophen overdose, 6.9% had severe liver injury but all recovered.  None of the 306 patients died.A 19-year-old female developed hepatotoxicity, reactive plasmacytosis and agranulocytosis followed by a leukemoid reaction after acute acetaminophen toxicity.[Ref]
-One study has suggested that acetaminophen may precipitate acute biliary pain and cholestasis.  The mechanism for this side effect may be related to inhibition of prostaglandin and alterations in the regulation of the sphincter of oddi.[Ref]
-Gastrointestinal side effects of acetaminophen are rare, except in alcoholics and after overdose.  Cases of acute pancreatitis have been reported rarely with acetaminophen use.Gastrointestinal side effects of pseudoephedrine have included anorexia and gastric irritation in approximately 5% of patients.  Dry mouth, nose, or throat has occurred in up to 15% of patients.[Ref]
-Renal side effects of acetaminophen have been rare and included acute tubular necrosis and interstitial nephritis.  Adverse renal effects were most often observed after overdose, after chronic abuse (often with multiple analgesics), or in association with acetaminophen-related hepatotoxicity.[Ref]
-Acute tubular necrosis usually occurs in conjunction with liver failure, but has been observed as an isolated finding in rare cases.[Ref]
-Hematologic side effects have included rare cases of thrombocytopenia associated with acetaminophen.  Acute thrombocytopenia has also been reported as having been caused by sensitivity to acetaminophen glucuronide, the major metabolite of acetaminophen.  Methemoglobinemia with resulting cyanosis has also been observed in the setting of acute overdose.[Ref]
-Hypersensitivity reactions to pseudoephedrine have included fixed drug eruptions.[Ref]
-Dermatologic side effects have included rare reports of general erythematous skin rashes associated with acetaminophen.  A rare case of bullous erythema associated with acetaminophen has been reported.  Acetaminophen has been associated with a risk of rare but potentially fatal serious skin reactions known as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP).[Ref]
+Cardiovascular adverse effects of pseudoephedrine have included significant rises in heart rate.  Hypertension and arrhythmias have been problematic in susceptible patients.
+Pseudoephedrine causes vasoconstriction which generally does not produce hypertension, but may be problematic for patients with preexisting hypertension.  Arrhythmias may be produced in predisposed patients.  Rarely, pseudoephedrine has been reported to cause coronary artery spasm and chest pain.
+Nervous system side effects of  pseudoephedrine have included nervous system stimulation, resulting in tremor, anxiety, and nervousness.  Insomnia has been reported in up to 30% of pseudoephedrine-treated patients.  Headache has also occurred in patients receiving pseudoephedrine.
+Hepatic side effects of acetaminophen have been rare, except in alcoholics and after overdose.  In these settings, severe and sometimes fatal (3% to 4%) dose-dependent hepatitis has been reported.  Several cases of hepatotoxicity from chronic acetaminophen therapy at therapeutic doses have also been reported despite a lack of risk factors for toxicity
+Alcoholic patients may develop hepatotoxicity after even modest doses of acetaminophen.  In healthy patients, approximately 15 grams of acetaminophen is necessary to deplete liver glutathione stores by 70% in a 70 kg person, although hepatotoxicity has been reported with smaller doses.  Glutathione concentrations may be repleted by the antidote N-acetylcysteine.  One case report has suggested that hypothermia may also be beneficial in decreasing liver damage during overdose.In a recent retrospective study of 306 patients admitted for acetaminophen overdose, 6.9% had severe liver injury but all recovered.  None of the 306 patients died.A 19-year-old female developed hepatotoxicity, reactive plasmacytosis and agranulocytosis followed by a leukemoid reaction after acute acetaminophen toxicity.
+One study has suggested that acetaminophen may precipitate acute biliary pain and cholestasis.  The mechanism for this side effect may be related to inhibition of prostaglandin and alterations in the regulation of the sphincter of oddi.
+Gastrointestinal side effects of acetaminophen are rare, except in alcoholics and after overdose.  Cases of acute pancreatitis have been reported rarely with acetaminophen use.Gastrointestinal side effects of pseudoephedrine have included anorexia and gastric irritation in approximately 5% of patients.  Dry mouth, nose, or throat has occurred in up to 15% of patients.
+Renal side effects of acetaminophen have been rare and included acute tubular necrosis and interstitial nephritis.  Adverse renal effects were most often observed after overdose, after chronic abuse (often with multiple analgesics), or in association with acetaminophen-related hepatotoxicity.
+Acute tubular necrosis usually occurs in conjunction with liver failure, but has been observed as an isolated finding in rare cases.
+Hematologic side effects have included rare cases of thrombocytopenia associated with acetaminophen.  Acute thrombocytopenia has also been reported as having been caused by sensitivity to acetaminophen glucuronide, the major metabolite of acetaminophen.  Methemoglobinemia with resulting cyanosis has also been observed in the setting of acute overdose.
+Hypersensitivity reactions to pseudoephedrine have included fixed drug eruptions.
+Dermatologic side effects have included rare reports of general erythematous skin rashes associated with acetaminophen.  A rare case of bullous erythema associated with acetaminophen has been reported.  Acetaminophen has been associated with a risk of rare but potentially fatal serious skin reactions known as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and acute generalized exanthematous pustulosis (AGEP).
 Metabolic side effects including metabolic acidosis have been reported following a massive overdose of acetaminophen.
 In the case of metabolic acidosis, causality is uncertain as more than one drug was ingested.  The case of metabolic acidosis followed the ingestion of 75 grams of acetaminophen, 1.95 grams of aspirin, and a small amount of a liquid household cleaner.  The patient also had a history of seizures which the authors reported may have contributed to an increased lactate level indicative of metabolic acidosis.
-1. Rosen RA "Angina associated with pseudoephedrine ." Ann Emerg Med 10 (1981): 230-1
-2. Covington TR, Lawson LC, Young LL, eds. "Handbook of Nonprescription Drugs. 10th ed." Washington, DC: American Pharmaceutical Association  (1993):
-3. Mariani PJ "Pseudoephedrine-induced hypertensive emergency: treatment with labetalol." Am J Emerg Med 4 (1986): 141-2
-4. Wiener I, Tilkian AG, Palazzolo M "Coronary artery spasm and myocardial infarction in a patient with normal coronary arteries: temporal relationship to pseudoephedrine ingestion." Cathet Cardiovasc Diagn 20 (1990): 51-3
-5. Stroh JE, Jr  Ayars GH, Bernstein IL, Kemp JP, Podleski WK, Prenner BM, Schoenwetter WF, Salzmann JK "A comparative tolerance study of terfenadine-pseudoephedrine combination tablets and pseudoephedrine tablets in patients with allergic or vasomotor rhinitis." J Int Med Res 16 (1988): 420-7
-6. Gordon RD, Ballantine DM, Bachmann AW "Effects of repeated doses of pseudoephedrine on blood pressure and plasma catecholamines in normal subjects and in patients with phaeochromocytoma." Clin Exp Pharmacol Physiol 19 (1992): 287-90
-7. Dickerson J, Perrier D, Mayersohn M, Bressler R "Dose tolerance and pharmacokinetic studies of L (+) pseudoephedrine capsules in man." Eur J Clin Pharmacol 14 (1978): 253-9
-8. Loizou LA, Hamilton JG, Tsementzis SA "Intracranial haemorrhage in association with pseudoephedrine overdose." J Neurol Neurosurg Psychiatry 45 (1982): 471-2
-9. Mofenson HC, Caraccio TR, Nawaz H, Steckler G "Acetaminophen induced pancreatitis." Clin Toxicol 29 (1991): 223-30
-10. Kaysen GA, Pond SM, Roper MH, Menke DJ, Marrama MA "Combined hepatic and renal injury in alcoholics during therapeutic use of acetaminophen." Arch Intern Med 145 (1985): 2019-23
-11. Keays R, Harrison PM, Wendon JA, et al "Intravenous acetylcysteine in paracetamol induced fulminant hepatic failure: a prospective controlled trial." BMJ 303 (1991): 1026-9
-12. Block R, Jankowski JA, Lacoux P, Pennington CR "Does hypothermia protect against the development of hepatitis in paracetamol overdose?" Anaesthesia 47 (1992): 789-91
-13. Kumar S, Rex DK "Failure of physicians to recognize acetaminophen hepatotoxicity in chronic alcoholics." Arch Intern Med 151 (1991): 1189-91
-14. McJunkin B, Barwick KW, Little WC, Winfield JB "Fatal massive hepatic necrosis following acetaminophen overdose." JAMA 236 (1976): 1874-5
-15. Rumore MM, Blaiklock RG "Influence of age-dependent pharmacokinetics and metabolism on acetaminophen hepatotoxicity." J Pharm Sci 81 (1992): 203-7
-16. Minton NA, Henry JA, Frankel RJ "Fatal paracetamol poisoning in an epileptic." Hum Toxicol 7 (1988): 33-4
-17. Lee WM "Acute liver failure." Am J Med 96 (1994): 3-9
-18. Bray GP "Liver failure induced by paracetamol." BMJ 306 (1993): 157-8
-19. Block R "Liver failure induced by paracetamol." BMJ 306 (1993): 457
-20. Bonkovsky HL, Kane RE, Jones DP, Galinsky RE, Banner B "Acute hepatic and renal toxicity from low doses of acetaminophen in the absence of alcohol abuse or malnutrition - evidence for increased susceptibility to drug toxicity due to cardiopulmonary and renal insufficiency." Hepatology 19 (1994): 1141-8
-21. O'Dell JR, Zetterman RK, Burnett DA "Centrilobular hepatic fibrosis following acetaminophen-induced hepatic necrosis in an alcoholic." JAMA 255 (1986): 2636-7
-22. Wong V, Daly M, Boon A, Heatley V "Paracetamol and acute biliary pain with cholestasis." Lancet 342 (1993): 869
-23. Seeff LB, Cuccherini BA, Zimmerman HJ, Adler E, Benjamin SB "Acetaminophen hepatotoxicity in alcoholics." Ann Intern Med 104 (1986): 399-404
-24. Shriner K, Goetz MB "Severe hepatotoxicity in a patient receiving both acetaminophen and zidovudine." Am J Med 93 (1992): 94-6
-25. Brotodihardjo AE, Batey RG, Farrell GC, Byth K "Hepatotoxicity from paracetamol self-poisoning in Western Sydney: a continuing challenge." Med J Aust 157 (1992): 382-5
-26. Johnson GK, Tolman KG "Chronic liver disease and acetaminophen." Ann Intern Med 87 (1977): 302-4
-27. Keaton MR "Acute renal failure in an alcoholic during therapeutic acetaminophen ingestion." South Med J 81 (1988): 1163-6
-28. Goldberg M "Analgesic nephropathy in 1981: which drug is responsible?" JAMA 247 (1982): 64-5
-29. Vanchieri C "Australian study links certain analgesics to renal cancers." J Natl Cancer Inst 85 (1993): 262-3
-30. McCredie M, Stewart JH, Day NE "Different roles for phenacetin and paracetamol in cancer of the kidney and renal pelvis." Int J Cancer 53 (1993): 245-9
-31. Boyer TD, Rouff SL "Acetaminophen-induced hepatic necrosis and renal failure." JAMA 218 (1971): 440-1
-32. Duchene A, Chadenas D, Marneffe-Lebrequier H "Insuffisance renale aigue isolee apres intoxication volontaire par le paracetamol." Presse Med 20 (1991): 1684-5
-33. Segasothy M, Suleiman AB, Puvaneswary M, Rohana A "Paracetamol: a cause for analgesic nephropathy and end-stage renal disease." Nephron 50 (1988): 50-4
-34. Kleinman JG, Breitenfield RV, Roth DA "Transient cholestatic hepatitis in a neonate associated with carbamazepine exposure during pregnancy and breast-feeding." Clin Nephrol 14 (1980): 201-5
-35. Curry RW, Robinson JD, Sughrue MJ "Acute renal failure after acetaminophen ingestion." JAMA 247 (1982): 1012-4
-36. Bougie DW,  Benito AI,  Sanchez-Abarca LI,  Torres R,  Birenbaum J,  Aster RH "Acute thrombocytopenia caused by sensitivity to the glucuronide conjugate of acetaminophen." Blood 109 (2007): 3608-9
-37. Shoenfeld Y, Shaklai M, Livni E, Pinkhas J "Thrombocytopenia from acetaminophen." N Engl J Med 303 (1980): 47
-38. Shelley WB, Shelley ED "Nonpigmenting fixed drug eruption as a distinctive reaction pattern: examples caused by sensitivity to pseudoephedrine hydrochloride and tetrahydrozoline." J Am Acad Dermatol 17 (1987): 403-7
-39. Settipane RA, Stevenson DD "Cross sensitivity with acetaminophen in aspirin-sensitive subjects with asthma." J Allergy Clin Immunol 84 (1989): 26-33
-40. Kalyoncu AF "Acetaminophen hypersensitivity and other analgesics." Ann Allergy 72 (1994): 285
-41. Tomb RR, Lepoittevin JP, Espinassouze F, Heid E, Foussereau J "Systemic contact dermatitis from pseudoephedrine." Contact Dermatitis 24 (1991): 86-8
-42. Camisa C "Fixed drug eruption due to pseudoephedrine." Cutis 41 (1988): 339-40
-43. Doan T, Greenberger PA "Nearly fatal episodes of hypotension, flushing, and dyspnea in a 47- year-old woman." Ann Allergy 70 (1993): 439-44
-44. Van Diem L, Grilliat JP "Anaphylactic shock induced by paracetamol." Eur J Clin Pharmacol 38 (1990): 389-90
-45. Doan T "Acetaminophen hypersensitivity and other analgesics - response." Ann Allergy 72 (1994): 285
-46. Leung R, Plomley R, Czarny D "Paracetamol anaphylaxis." Clin Exp Allergy 22 (1992): 831-3
-47. Thomas RH, Munro DD "Fixed drug eruption due to paracetamol." Br J Dermatol 115 (1986): 357-9
-48. Guccione JL, Zemtsov A, Cobos E, Neldner KH "Acquired purpura fulminans induced by alcohol and acetaminophen - successful treatment with heparin and vitamin-k." Arch Dermatol 129 (1993): 1267-9
-Not all side effects for Benadryl Allergy Sinus Headache may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.

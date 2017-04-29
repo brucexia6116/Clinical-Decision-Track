@@ -1,27 +1,14 @@
-Generic Name: chlordiazepoxide / clidinium
-Applies to chlordiazepoxide / clidinium: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by chlordiazepoxide / clidinium. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking chlordiazepoxide / clidinium:
-
 If any of the following symptoms of overdose occur while taking chlordiazepoxide / clidinium, get emergency help immediately:
-
-Some of the side effects that can occur with chlordiazepoxide / clidinium may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to chlordiazepoxide / clidinium: oral capsule
-The elderly and debilitated may be more susceptible to the side effects of chlordiazepoxide-clidinium.  Drowsiness, ataxia, and confusion have occasionally been reported at the lower dosage ranges.[Ref]
-Nervous system side effects have included drowsiness, ataxia, confusion, and extrapyramidal symptoms.  Chlordiazepoxide-clidinium may impair the psychomotor skills necessary for driving.  Changes in electroencephalogram (EEG) patterns (low-voltage fast activity) have been reported during and after chlordiazepoxide treatment.[Ref]
-Gastrointestinal side effects have included nausea, constipation, and dryness of the mouth.[Ref]
-Hematologic side effects have included blood dyscrasias (including agranulocytosis).[Ref]
-Hepatic side effects have included jaundice and hepatic dysfunction.[Ref]
-Other side effects have included increased and decreased libido, edema, and withdrawal symptoms.  Rarely, syncope has been reported.[Ref]
-Withdrawal symptoms after abrupt cessation of chlordiazepoxide-clidinium may include dysphoria, insomnia, convulsions, tremor, abdominal and muscle cramps, vomiting, sweating, agitation, restlessness, and anxiety.[Ref]
-Ocular side effects have included blurring of vision.[Ref]
-Genitourinary side effects have included minor menstrual irregularities and urinary hesitancy.[Ref]
-Dermatologic side effects have included skin eruptions.[Ref]
-1. "Product Information. Librax (chlordiazepoxide-clidinium)." Valeant Pharmaceuticals, Costa Mesa, CA. 
-Not all side effects for Librax may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The elderly and debilitated may be more susceptible to the side effects of chlordiazepoxide-clidinium.  Drowsiness, ataxia, and confusion have occasionally been reported at the lower dosage ranges.
+Nervous system side effects have included drowsiness, ataxia, confusion, and extrapyramidal symptoms.  Chlordiazepoxide-clidinium may impair the psychomotor skills necessary for driving.  Changes in electroencephalogram (EEG) patterns (low-voltage fast activity) have been reported during and after chlordiazepoxide treatment.
+Gastrointestinal side effects have included nausea, constipation, and dryness of the mouth.
+Hematologic side effects have included blood dyscrasias (including agranulocytosis).
+Hepatic side effects have included jaundice and hepatic dysfunction.
+Other side effects have included increased and decreased libido, edema, and withdrawal symptoms.  Rarely, syncope has been reported.
+Withdrawal symptoms after abrupt cessation of chlordiazepoxide-clidinium may include dysphoria, insomnia, convulsions, tremor, abdominal and muscle cramps, vomiting, sweating, agitation, restlessness, and anxiety.
+Ocular side effects have included blurring of vision.
+Genitourinary side effects have included minor menstrual irregularities and urinary hesitancy.
+Dermatologic side effects have included skin eruptions.
 Abdominal or stomach pain
 chills
 clay-colored stools
@@ -60,8 +47,6 @@ unusual bruising or bleeding
 unusual tiredness or weakness
 vomiting of blood
 yellow eyes or skin
-
-
 Blurred vision
 change in consciousness
 difficulty having a bowel movement (stool)
@@ -69,11 +54,8 @@ dry mouth
 lack of coordination
 loss of consciousness
 sleepiness or unusual drowsiness
-
-
 Inability to have or keep an erection
 increase or loss in sexual ability, desire, drive, or performance
 increased or decreased interest in sexual intercourse
 menstrual changes
 skin blisters
-

@@ -1,26 +1,14 @@
 Commonly reported side effects of methylnaltrexone include: abdominal pain, nausea, and flatulence.  See below for a comprehensive list of adverse effects.
-Applies to methylnaltrexone: oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by methylnaltrexone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking methylnaltrexone:
-Some of the side effects that can occur with methylnaltrexone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to methylnaltrexone: oral tablet, subcutaneous kit, subcutaneous solution
-Very common (10% or more): Abdominal pain (up to 29%), flatulence (up to 13%), nausea (up to 12%) Common (1% to 10%): Diarrhea, Postmarketing reports: Perforation, cramping, vomiting[Ref]
-Common (1% to 10%): Dizziness, tremor[Ref]
-Common (1% to 10%): Hyperhidrosis, flushing[Ref]
-Common (1% to 10%): Chills Postmarketing reports: Malaise, pain, cases of opioid withdrawal[Ref]
-In an open-label, uncontrolled study (n=1034), 4 myocardial infarctions (1 fatal), 1 stroke (fatal), 1 fatal cardiac arrest, and 1 sudden death were reported.  It is not possible to establish a relationship between these events and use of this drug.[Ref]
-Frequency not reported: Myocardial infarctions[Ref]
-The most common adverse reactions included abdominal pain, nausea, diarrhea, hyperhidrosis, hot flush, tremor, and chills.[Ref]
-Common (1% to 10%): Injection site reactions including stinging, burning, pain, redness, and edema[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Relistor (methylnaltrexone)." Wyeth Laboratories, Philadelphia, PA. 
-Not all side effects for methylnaltrexone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Very common (10% or more): Abdominal pain (up to 29%), flatulence (up to 13%), nausea (up to 12%) Common (1% to 10%): Diarrhea, Postmarketing reports: Perforation, cramping, vomiting
+Common (1% to 10%): Dizziness, tremor
+Common (1% to 10%): Hyperhidrosis, flushing
+Common (1% to 10%): Chills Postmarketing reports: Malaise, pain, cases of opioid withdrawal
+In an open-label, uncontrolled study (n=1034), 4 myocardial infarctions (1 fatal), 1 stroke (fatal), 1 fatal cardiac arrest, and 1 sudden death were reported.  It is not possible to establish a relationship between these events and use of this drug.
+Frequency not reported: Myocardial infarctions
+The most common adverse reactions included abdominal pain, nausea, diarrhea, hyperhidrosis, hot flush, tremor, and chills.
+Common (1% to 10%): Injection site reactions including stinging, burning, pain, redness, and edema
 subcutaneous solution
-
 Chills
 diarrhea
 fear or nervousness
@@ -28,8 +16,6 @@ increased sweating
 severe abdominal or stomach pain
 severe or persistent diarrhea
 yawning
-
-
 Full or bloated feeling
 headache
 muscle spasms
@@ -37,4 +23,3 @@ pressure in the stomach
 runny nose
 swelling of abdominal or stomach area
 vomiting
-

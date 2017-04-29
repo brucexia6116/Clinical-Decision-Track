@@ -1,30 +1,17 @@
-Generic Name: tesamorelin
 Common side effects of Egrifta include: injection site reaction, erythema at injection site, bruising at injection site, irritation at injection site, and pain at injection site. Other side effects include: limb pain, myalgia, peripheral edema, and decreased glucose tolerance.  See below for a comprehensive list of adverse effects.
-Applies to tesamorelin: subcutaneous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by tesamorelin (the active ingredient contained in Egrifta). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking tesamorelin:
-Some of the side effects that can occur with tesamorelin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to tesamorelin: subcutaneous powder for injection
-Hypersensitivity side effects have included pruritus, erythema, flushing, urticaria, and other rash.[Ref]
-Musculoskeletal side effects have included arthralgia, carpal tunnel syndrome, pain in extremity, myalgia, musculoskeletal pain, musculoskeletal stiffness, joint stiffness, muscle spasms, and joint swelling.[Ref]
-Local side effects have included injection site reactions (erythema, pruritus, pain, urticaria, irritation, swelling, and hemorrhage).[Ref]
-Nervous system side effects have included paresthesia, hypoesthesia and peripheral neuropathy.[Ref]
-Gastrointestinal side effects have included nausea, vomiting, dyspepsia, and upper abdominal pain.[Ref]
-Metabolic side effects have included hyperglycemia.[Ref]
-Cardiovascular side effects have included palpitations, hypertension, hot flush and peripheral edema.[Ref]
-Psychiatric side effects have included depression and insomnia.[Ref]
-Dermatologic side effects have included rash, pruritus and night sweats.[Ref]
-1. "Product Information. Egrifta (tesamorelin)." EMD Serono Inc, Rockland, MA. 
-Not all side effects for Egrifta may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hypersensitivity side effects have included pruritus, erythema, flushing, urticaria, and other rash.
+Musculoskeletal side effects have included arthralgia, carpal tunnel syndrome, pain in extremity, myalgia, musculoskeletal pain, musculoskeletal stiffness, joint stiffness, muscle spasms, and joint swelling.
+Local side effects have included injection site reactions (erythema, pruritus, pain, urticaria, irritation, swelling, and hemorrhage).
+Nervous system side effects have included paresthesia, hypoesthesia and peripheral neuropathy.
+Gastrointestinal side effects have included nausea, vomiting, dyspepsia, and upper abdominal pain.
+Metabolic side effects have included hyperglycemia.
+Cardiovascular side effects have included palpitations, hypertension, hot flush and peripheral edema.
+Psychiatric side effects have included depression and insomnia.
+Dermatologic side effects have included rash, pruritus and night sweats.
 Difficulty with moving
 muscle pain or stiffness
 pain in the arms or legs
 pain in the joints
-
-
 Blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 burning, numbness, pain, or tingling in all fingers except the smallest finger
@@ -38,12 +25,8 @@ slow or fast heartbeat
 swelling of the joints
 unsteadiness or awkwardness
 weakness in the arms, hands, legs, or feet
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at injection site
 muscle aching or cramping
-
-
 Acid or sour stomach
 belching
 bone pain
@@ -72,4 +55,3 @@ trouble sleeping
 unable to sleep
 upper abdominal or stomach pain
 vomiting
-

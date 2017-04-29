@@ -1,40 +1,30 @@
-Generic Name: zolmitriptan
 Common side effects of Zomig include: dysgeusia. Other side effects include: dizziness, drowsiness, hyperesthesia, jaw pain, nausea, neck pain, paresthesia, sore throat, flushing sensation, local pain, and sensation of cold.  See below for a comprehensive list of adverse effects.
-Applies to zolmitriptan: oral tablet, oral tablet disintegrating
 Other dosage forms:
 As well as its needed effects, zolmitriptan (the active ingredient contained in Zomig) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking zolmitriptan, check with your doctor immediately:
 Some zolmitriptan side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to zolmitriptan: nasal spray, oral tablet, oral tablet disintegrating
-Common (1% to 10%): Chest pain/tightness/pressure and/or heaviness, neck/throat/jaw pain/tightness/pressure, palpitationsUncommon (0.1% to 1%): Arrhythmias, hypertension, syncope, tachycardia Rare (less than 0.1%): Angina pectoris, myocardial infarct, coronary vasospasm, QT prolongation, thrombophlebitis[Ref]
-Rare reports of serious cardiac adverse events have been reported including acute myocardial infarction within a few hours following administration of this drug.  Chest pain/tightness/pressure and/or heaviness appear to be dose-related occurring in 2%, 3%, and 4% of patients receiving 1 mg, 2.5 mg, and 5 mg, respectively.  Neck/throat/jaw pain/tightness/pressure occurred in 4%, 7%, and 10% of patients, respectively.[Ref]
-Very Common (greater than 10%): Taste disturbances (up to 21%, inhaler)Common (1% to 10%): Paresthesia, somnolence, dizziness, hyperesthesiaRare (less than 0.1%): Cerebral ischemia, amnesia, convulsions, ataxia, dystonia, hyperkinesia, hypotonia, hypertoniaFrequency not reported: Serotonin syndrome[Ref]
-Paresthesia appears to be a dose-related adverse event occurring in 5%, 7%, and 9% of patients receiving 1 mg, 2.5 mg, and 5 mg, respectively.[Ref]
-Common (1% to 10%): Warm/cold sensation, heaviness other than chest or neck, pressure/tightness/heaviness, vertigo, asthenia, chillsUncommon (0.1% to 1%): Tinnitus, hyperacusis, ear pain[Ref]
-Common (1% to 10%): Nausea, dry mouth, dysphagia, dyspepsia, abdominal pain, vomitingUncommon (0.1% to 1%): Gastroenteritis, increased thirstRare (less than 0.1%): Stomatitis, constipation, hematemesis, pancreatitis, melena, ulcer Very rare (less than 0.01%): Bloody diarrhea, gastrointestinal infarction or necrosis, gastrointestinal ischemic events, ischemic colitis, splenic infarction[Ref]
-The most common adverse reactions included neck, throat, jaw pain; dizziness; paresthesia; asthenia; somnolence; warm and cold sensation; nausea; heaviness sensation; and dry mouth.  In adolescents treated with the nasal spray, the more commonly reported adverse reactions included dysgeusia, nasal discomfort, dizziness, oropharyngeal pain, and nausea.[Ref]
-Uncommon (0.1% to 1%): ecchymosisRare (less than 0.1%): Thrombocytopenia, eosinophilia, leucopenia[Ref]
-Uncommon (0.1% to 1%): Increased appetite, thirstRare (less than 0.1%): Anorexia, hyperglycemia[Ref]
-Common (1% to 10%): Arthralgia, myalgia, muscle weakness Uncommon (0.1% to 1%): Back pain, leg cramps, tenosynovitisRare (less than 0.1%): Arthritis, tetanus, twitching[Ref]
-Common (1% to 10%): Disorder/discomfort of nasal cavity, throat pain, throat tightness, oropharyngeal painUncommon (0.1% to 1%): Pharyngitis, rhinitis, dyspnea, sinusitis, bronchitis, increased cough, epistaxis, laryngeal edema, hiccup, laryngitis, yawnRare (less than 0.1%): Apnea, voice alteration[Ref]
-Uncommon (0.1% to 1%): Allergic reactionsPostmarketing reports: Hypersensitivity reactions including angioedema, anaphylactic reactions and anaphylactic shock[Ref]
-Rare (less than 0.1%): Diplopia, dry eyes, lacrimation, conjunctivitis, eye pain, visual field defect[Ref]
-Uncommon (0.1% to 1%): Polyuria, urinary urgency, cystitis, hematuria Rare (less than 0.1%): Urinary frequency, miscarriage, dysmenorrhea[Ref]
-Common (1% to 10%): Sweating, facial edemaUncommon (0.1% to 1%): Urticaria, pruritus, rash, photosensitivity reactionRare (less than 0.1%): Angioedema[Ref]
+Common (1% to 10%): Chest pain/tightness/pressure and/or heaviness, neck/throat/jaw pain/tightness/pressure, palpitationsUncommon (0.1% to 1%): Arrhythmias, hypertension, syncope, tachycardia Rare (less than 0.1%): Angina pectoris, myocardial infarct, coronary vasospasm, QT prolongation, thrombophlebitis
+Rare reports of serious cardiac adverse events have been reported including acute myocardial infarction within a few hours following administration of this drug.  Chest pain/tightness/pressure and/or heaviness appear to be dose-related occurring in 2%, 3%, and 4% of patients receiving 1 mg, 2.5 mg, and 5 mg, respectively.  Neck/throat/jaw pain/tightness/pressure occurred in 4%, 7%, and 10% of patients, respectively.
+Very Common (greater than 10%): Taste disturbances (up to 21%, inhaler)Common (1% to 10%): Paresthesia, somnolence, dizziness, hyperesthesiaRare (less than 0.1%): Cerebral ischemia, amnesia, convulsions, ataxia, dystonia, hyperkinesia, hypotonia, hypertoniaFrequency not reported: Serotonin syndrome
+Paresthesia appears to be a dose-related adverse event occurring in 5%, 7%, and 9% of patients receiving 1 mg, 2.5 mg, and 5 mg, respectively.
+Common (1% to 10%): Warm/cold sensation, heaviness other than chest or neck, pressure/tightness/heaviness, vertigo, asthenia, chillsUncommon (0.1% to 1%): Tinnitus, hyperacusis, ear pain
+Common (1% to 10%): Nausea, dry mouth, dysphagia, dyspepsia, abdominal pain, vomitingUncommon (0.1% to 1%): Gastroenteritis, increased thirstRare (less than 0.1%): Stomatitis, constipation, hematemesis, pancreatitis, melena, ulcer Very rare (less than 0.01%): Bloody diarrhea, gastrointestinal infarction or necrosis, gastrointestinal ischemic events, ischemic colitis, splenic infarction
+The most common adverse reactions included neck, throat, jaw pain; dizziness; paresthesia; asthenia; somnolence; warm and cold sensation; nausea; heaviness sensation; and dry mouth.  In adolescents treated with the nasal spray, the more commonly reported adverse reactions included dysgeusia, nasal discomfort, dizziness, oropharyngeal pain, and nausea.
+Uncommon (0.1% to 1%): ecchymosisRare (less than 0.1%): Thrombocytopenia, eosinophilia, leucopenia
+Uncommon (0.1% to 1%): Increased appetite, thirstRare (less than 0.1%): Anorexia, hyperglycemia
+Common (1% to 10%): Arthralgia, myalgia, muscle weakness Uncommon (0.1% to 1%): Back pain, leg cramps, tenosynovitisRare (less than 0.1%): Arthritis, tetanus, twitching
+Common (1% to 10%): Disorder/discomfort of nasal cavity, throat pain, throat tightness, oropharyngeal painUncommon (0.1% to 1%): Pharyngitis, rhinitis, dyspnea, sinusitis, bronchitis, increased cough, epistaxis, laryngeal edema, hiccup, laryngitis, yawnRare (less than 0.1%): Apnea, voice alteration
+Uncommon (0.1% to 1%): Allergic reactionsPostmarketing reports: Hypersensitivity reactions including angioedema, anaphylactic reactions and anaphylactic shock
+Rare (less than 0.1%): Diplopia, dry eyes, lacrimation, conjunctivitis, eye pain, visual field defect
+Uncommon (0.1% to 1%): Polyuria, urinary urgency, cystitis, hematuria Rare (less than 0.1%): Urinary frequency, miscarriage, dysmenorrhea
+Common (1% to 10%): Sweating, facial edemaUncommon (0.1% to 1%): Urticaria, pruritus, rash, photosensitivity reactionRare (less than 0.1%): Angioedema
 Common (1% to 10%): Local irritation or soreness at the site of administration of nasal spray
 In clinical trials using the nasal spray approximately 3% (n=460) patients reported local irritation or soreness at the site of administration.  Effects were severe in about 1% of patients and approximately 57% resolved in 1 hour.  Nasopharyngeal examinations of a subset of patients failed to demonstrate any clinically significant changes with repeated use of the nasal spray.
-1. "Product Information. Zomig (zolmitriptan)." Zeneca Pharmaceuticals, Wilmington, DE. 
-2. Alonso-Navarro H,  Jimenez-Jimenez FJ "Myalgia and Cramps Associated With Zolmitriptan." Clin Neuropharmacol 28 (2005): 241-242
 It is possible that some side effects of Zomig may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 nasal spray
-
 Chest pain (severe)
 heaviness, tightness, or pressure in the chest or neck
 sensation of burning, warmth, heat, numbness, tightness, or tingling
-
-
 Abdominal or stomach pain (severe)
 changes in facial skin color
 cough or hoarseness
@@ -51,8 +41,6 @@ puffiness or swelling of the eyelids or around the eyes, face, or lips
 tightness in the chest
 trouble breathing
 weakness
-
-
 Blurred vision
 confusion
 difficulty swallowing
@@ -66,22 +54,14 @@ pounding in the ears
 severe numbness, especially on one side of the face or body
 slow heartbeat
 unusual tiredness or weakness
-
-
 Large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
-
-
 Lack or loss of strength
 sleepiness or unusual drowsiness
 warm or cold sensation
-
-
 Dizziness or lightheadedness
 dry mouth
 feeling of constant movement of self or surroundings
 sensation of spinning
-
-
 Anxiety
 crying
 depersonalization
@@ -100,4 +80,3 @@ seeing, hearing, or feeling things that are not there
 shaking
 trouble sleeping
 welts
-

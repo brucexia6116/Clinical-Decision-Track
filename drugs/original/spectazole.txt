@@ -1,23 +1,11 @@
-Generic Name: econazole topical
-Applies to econazole topical: topical cream, topical foam, topical powder, topical solution
 As well as its needed effects, econazole topical (the active ingredient contained in Spectazole) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking econazole topical, check with your doctor immediately:
-
-
-Applies to econazole topical: compounding powder, topical cream, topical foam
-Topical Cream:-Common (1% to 10%): Pruritus/itching, skin burning sensation/burning, erythema-Frequency not reported: Pruritic rash-Postmarketing reports: Angioedema, contact dermatitis, rash, urticaria, blister, skin exfoliationVaginal Cream and Pessaries:-Common (1% to 10%): Pruritus, skin burning sensation-Uncommon (0.1% to 1%): Rash-Rare (0.01% to 0.1%): Erythema-Postmarketing reports: Angioedema, urticaria, contact dermatitis, skin exfoliation[Ref]
-Topical Cream:-Common (1% to 10%): Pain/stinging-Uncommon (0.1% to 1%): Discomfort, swelling[Ref]
-Vaginal Cream and Pessaries:-Uncommon (0.1% to 1%): Vulvovaginal burning sensation[Ref]
-One patient developed erythematous, edematous, urticarial-like lesions with vesiculation at the site of drug application.  Sensitivity to this drug was confirmed by patch testing.[Ref]
-Topical Cream:-Frequency not reported: Lesions with vesiculation at site of applicationTopical Foam:-Uncommon (0.1% to 1%): Application site reactionsVaginal Cream and Pessaries:-Postmarketing reports: Application site pain, application site irritation, application site swelling[Ref]
-Topical Cream:-Frequency not reported: Drug sensitivity-Postmarketing reports: HypersensitivityVaginal Cream and Pessaries:-Postmarketing reports: Hypersensitivity[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Spectazole (econazole)." Ortho Pharmaceutical Corporation, Raritan, NJ. 
-3. Millikan LE, Galen WK, Gewirtzman GB, Horwitz SN, Landow RK, Nesbitt LT Jr, Roth HL, Sefton J, Day RM "Naftifine cream 1% versus econazole cream 1% in the treatment of tinea cruris and tinea corporis." J Am Acad Dermatol 18 (1988): 52-6
-4. Valsecchi R, Tornaghi A, Tribbia G, Cainelli T "Contact dermatitis from econazole." Contact Dermatitis 8 (1982): 422
-5. Heel RC, Brogden RN, Speight TM, Avery GS "Econazole: a review of its antifungal activity and therapeutic efficacy." Drugs 16 (1978): 177-201
+Topical Cream:-Common (1% to 10%): Pruritus/itching, skin burning sensation/burning, erythema-Frequency not reported: Pruritic rash-Postmarketing reports: Angioedema, contact dermatitis, rash, urticaria, blister, skin exfoliationVaginal Cream and Pessaries:-Common (1% to 10%): Pruritus, skin burning sensation-Uncommon (0.1% to 1%): Rash-Rare (0.01% to 0.1%): Erythema-Postmarketing reports: Angioedema, urticaria, contact dermatitis, skin exfoliation
+Topical Cream:-Common (1% to 10%): Pain/stinging-Uncommon (0.1% to 1%): Discomfort, swelling
+Vaginal Cream and Pessaries:-Uncommon (0.1% to 1%): Vulvovaginal burning sensation
+One patient developed erythematous, edematous, urticarial-like lesions with vesiculation at the site of drug application.  Sensitivity to this drug was confirmed by patch testing.
+Topical Cream:-Frequency not reported: Lesions with vesiculation at site of applicationTopical Foam:-Uncommon (0.1% to 1%): Application site reactionsVaginal Cream and Pessaries:-Postmarketing reports: Application site pain, application site irritation, application site swelling
+Topical Cream:-Frequency not reported: Drug sensitivity-Postmarketing reports: HypersensitivityVaginal Cream and Pessaries:-Postmarketing reports: Hypersensitivity
 It is possible that some side effects of Spectazole may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Burning, itching, stinging, redness, or other sign of irritation at the application site
 rash
-

@@ -1,20 +1,9 @@
-Generic Name: protein c
-Applies to protein c: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by protein c (the active ingredient contained in Ceprotin). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking protein c, check with your doctor or nurse immediately:
-Some of the side effects that can occur with protein c may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to protein c: intravenous powder for injection
-Immunologic side effects have included hypersensitivity or allergic reactions (itching and rash) and lightheadedness.[Ref]
-Respiratory side effects have included hemothorax.[Ref]
-Nervous system side effects have included fever and restlessness.[Ref]
-Cardiovascular side effects have included hypotension.[Ref]
-Metabolic side effects have included hyperhidrosis.[Ref]
-1. "Product Information. Ceprotin (protein C)." Baxter Healthcare Corporation, Deerfield, IL. 
-Not all side effects for Ceprotin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Immunologic side effects have included hypersensitivity or allergic reactions (itching and rash) and lightheadedness.
+Respiratory side effects have included hemothorax.
+Nervous system side effects have included fever and restlessness.
+Cardiovascular side effects have included hypotension.
+Metabolic side effects have included hyperhidrosis.
 Fainting or loss of consciousness
 fast or irregular breathing
 itching
@@ -23,16 +12,11 @@ skin rash
 swelling of eyes or eyelids
 tightness in chest and/or wheezing
 trouble with breathing
-
-
 Blurred vision
 confusion
 dizziness, faintness, or lightheadedness when getting up from a lying or sitting position suddenly
 fever
 sweating
 unusual tiredness or weakness
-
-
 Increased sweating
 restlessness
-

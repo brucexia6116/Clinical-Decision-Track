@@ -1,35 +1,20 @@
-Generic Name: dronedarone
 More frequent side effects include: abdominal pain, allergic dermatitis, diarrhea, eczema, nausea, pruritus, and skin rash.  See below for a comprehensive list of adverse effects.
-Applies to dronedarone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by dronedarone (the active ingredient contained in Multaq). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dronedarone:
-Some of the side effects that can occur with dronedarone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dronedarone: oral tablet
-Very common (10% or more): QT prolongation (28%)Common (1% to 10%): BradycardiaVery rare (less than 0.01%): New or worsening heart failure, atrial flutter with 1:1 atrioventricular conduction[Ref]
-Frequency not reported: Hypokalemia and hypomagnesemia with potassium-depleting diuretics, serum creatinine increased 10% or more within 5 days after treatment initiation[Ref]
-Common (1% to 10%): Diarrhea, nausea, abdominal pain, vomiting, dyspeptic symptomsFrequency not reported: Dysgeusia, ageusia[Ref]
-Common (1% to 10%): Rashes (generalized, macular, maculopapular, erythematous), pruritus, eczema, dermatitis, allergic dermatitisUncommon (0.1% to 1%): Photosensitivity[Ref]
-Common (1% to 10%): Asthenia, fatigue[Ref]
+Very common (10% or more): QT prolongation (28%)Common (1% to 10%): BradycardiaVery rare (less than 0.01%): New or worsening heart failure, atrial flutter with 1:1 atrioventricular conduction
+Frequency not reported: Hypokalemia and hypomagnesemia with potassium-depleting diuretics, serum creatinine increased 10% or more within 5 days after treatment initiation
+Common (1% to 10%): Diarrhea, nausea, abdominal pain, vomiting, dyspeptic symptomsFrequency not reported: Dysgeusia, ageusia
+Common (1% to 10%): Rashes (generalized, macular, maculopapular, erythematous), pruritus, eczema, dermatitis, allergic dermatitisUncommon (0.1% to 1%): Photosensitivity
+Common (1% to 10%): Asthenia, fatigue
 Frequency not reported: Liver injury, including acute liver failure requiring transplant, serum hepatic enzymes, serum bilirubin increase
 Frequency not reported: Dyspnea, nonproductive cough Postmarketing reports: Interstitial lung disease including pneumonitis and pulmonary fibrosis
 Common (1% to 10%): Urinary tract infection
 Postmarketing reports: Vasculitis, including leukocytoclastic vasculitis
 Postmarketing reports: Anaphylactic reactions including angioedema
-Frequency not reported: Increased serum creatinine[Ref]
-1. "Product Information. Multaq (dronedarone)." sanofi-aventis , Bridgewater, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Multaq may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Increased serum creatinine
 Chest pain or discomfort
 lightheadedness, dizziness, or fainting
 shortness of breath
 slow or irregular heartbeat
 unusual tiredness
-
-
 Abdominal or stomach pain, severe
 chills
 cough
@@ -41,12 +26,8 @@ nausea or vomiting
 thickening of bronchial secretions
 unusual tiredness or weakness
 yellow eyes or skin
-
-
 Diarrhea
 lack or loss of strength
-
-
 Acid or sour stomach
 belching
 blistering, crusting, irritation, itching, or reddening of the skin
@@ -60,10 +41,7 @@ skin rash, encrusted, scaly, and oozing
 skin rash, hives, itching, or redness
 stomach discomfort, upset, or pain
 swelling
-
-
 Change in taste
 increased sensitivity of the skin to sunlight
 loss of taste
 severe sunburn
-

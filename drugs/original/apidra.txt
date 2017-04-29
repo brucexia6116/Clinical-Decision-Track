@@ -1,30 +1,17 @@
-Generic Name: insulin glulisine
-Applies to insulin glulisine: subcutaneous solution
-In addition to its needed effects, some unwanted effects may be caused by insulin glulisine (the active ingredient contained in Apidra). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking insulin glulisine:
-Some of the side effects that can occur with insulin glulisine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to insulin glulisine: subcutaneous solution
-The most common adverse reactions reported include hypoglycemia, allergic reactions, injection site reactions, lipodystrophy, pruritus, and rash.[Ref]
-Common (1% to 10%): Hypoglycemia, hypoglycemic seizureFrequency not reported: Weight gain[Ref]
-In clinical trials of ups to 12 months duration, potential systemic allergic reactions were reported in 4.3% (79 of 1833) patients receiving insulin glulisine (the active ingredient contained in Apidra) compared with 3.8% (58 of 1524) patients receiving comparator short-acting insulins.  Permanent discontinuation occurred in 1 patient receiving insulin glulisine.[Ref]
-Common (1% to 10%): Local hypersensitivity reactions (redness, swelling, and itching at injection site) Uncommon (0.1% to 1%): Systemic allergic reactions including urticaria, chest tightness, dyspnea, allergic dermatitis, and pruritus Frequency not reported: Anaphylaxis[Ref]
-Among patients using continuous subcutaneous insulin infusion pumps, the rates of catheter occlusions and infusion site reactions were similar with insulin glulisine (the active ingredient contained in Apidra) compared with insulin aspart.[Ref]
-Common (1% to 10%): Infusion site reactions Very rare (less than 0.01%): Catheter occlusions[Ref]
-Common (1% to 10%): Peripheral edema, hypertension[Ref]
-Common (1% to 10%): Diarrhea, pharyngitis, vomiting, nausea[Ref]
-Rare (less than 0.1%): Lipodystrophy[Ref]
-Common (1% to 10%): Influenza[Ref]
-Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, sinusitis, bronchitis[Ref]
-Common (1% to 10%): Arthralgia, back pain[Ref]
-Common (1% to 10%): Headache[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Apidra (insulin glulisine)." Aventis Pharmaceuticals, Bridgewater, NJ. 
-Not all side effects for Apidra may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions reported include hypoglycemia, allergic reactions, injection site reactions, lipodystrophy, pruritus, and rash.
+Common (1% to 10%): Hypoglycemia, hypoglycemic seizureFrequency not reported: Weight gain
+In clinical trials of ups to 12 months duration, potential systemic allergic reactions were reported in 4.3% (79 of 1833) patients receiving insulin glulisine (the active ingredient contained in Apidra) compared with 3.8% (58 of 1524) patients receiving comparator short-acting insulins.  Permanent discontinuation occurred in 1 patient receiving insulin glulisine.
+Common (1% to 10%): Local hypersensitivity reactions (redness, swelling, and itching at injection site) Uncommon (0.1% to 1%): Systemic allergic reactions including urticaria, chest tightness, dyspnea, allergic dermatitis, and pruritus Frequency not reported: Anaphylaxis
+Among patients using continuous subcutaneous insulin infusion pumps, the rates of catheter occlusions and infusion site reactions were similar with insulin glulisine (the active ingredient contained in Apidra) compared with insulin aspart.
+Common (1% to 10%): Infusion site reactions Very rare (less than 0.01%): Catheter occlusions
+Common (1% to 10%): Peripheral edema, hypertension
+Common (1% to 10%): Diarrhea, pharyngitis, vomiting, nausea
+Rare (less than 0.1%): Lipodystrophy
+Common (1% to 10%): Influenza
+Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, sinusitis, bronchitis
+Common (1% to 10%): Arthralgia, back pain
+Common (1% to 10%): Headache
+Common (1% to 10%): Urinary tract infection
 Anxiety
 blurred vision
 body aches or pain
@@ -51,12 +38,8 @@ sneezing
 sore throat
 unconsciousness
 unusual tiredness or weakness
-
-
 Pounding in the ears
 slow or fast heartbeat
-
-
 Difficulty with swallowing
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 fast, pounding, or irregular heartbeat or pulse
@@ -66,8 +49,6 @@ itching
 puffiness or swelling of the eyelids or around the eyes, face, lips or tongue
 skin rash
 tightness in the chest
-
-
 Difficulty with moving
 dry, red, hot, or irritated skin
 ear congestion
@@ -75,8 +56,5 @@ loss of voice
 muscle aches
 muscle pain or stiffness
 pain in the joints
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 redistribution or accumulation of body fat
-

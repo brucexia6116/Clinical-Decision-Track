@@ -1,47 +1,30 @@
-Generic Name: rosuvastatin
 Common side effects of Crestor include: myalgia. Other side effects include: asthenia.  See below for a comprehensive list of adverse effects.
-Applies to rosuvastatin: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by rosuvastatin (the active ingredient contained in Crestor). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking rosuvastatin:
-Some of the side effects that can occur with rosuvastatin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to rosuvastatin: oral tablet
-The most frequently reported side effects included headache, myalgia, abdominal pain, asthenia, and nausea.[Ref]
-Very common (10% or more): Myalgia (up to 12.7%), arthralgia (10.1%)Rare (less than 0.1%): Myopathy, rhabdomyolysis, myositisFrequency not reported: Immune-mediated necrotizing myopathy, tendon disorders, creatine phosphokinase increased[Ref]
-Common (1% to 10%): Abdominal pain, nausea, constipationRare (less than 0.1%): PancreatitisFrequency not reported: Diarrhea[Ref]
-Common (1% to 10%): Headache, dizzinessVery rare (less than 0.01%): Polyneuropathy, memory lossPostmarketing reports: Cognitive impairment, forgetfulness, amnesia, memory impairment, peripheral neuropathy[Ref]
-Rare (0.01% to 0.1%): Hepatic transaminases/enzymes increasedVery rare (less than 0.01%): Jaundice, hepatitisFrequency not reported: Bilirubin increasedPostmarketing reports: Fatal hepatic failure, nonfatal hepatic failure[Ref]
-Uncommon (0.1% to 1%): Rash, pruritus, urticariaRare (less than 0.1%): AngioedemaFrequency not reported: Stevens-Johnson syndrome[Ref]
-Frequency not reported: Acute renal failure[Ref]
-Very rare (less than 0.01%): HematuriaFrequency not reported: Proteinuria, myoglobinuria, sexual dysfunction[Ref]
-Common (1% to 10%): AstheniaFrequency not reported: Edema, glutamyl transpeptidase increased, alkaline phosphatase increased[Ref]
-Frequency not reported: Cough, dyspnea, interstitial lung disease[Ref]
-Frequency not reported: Confusion, depression, insomnia, nightmares, sleep disorders/disturbances[Ref]
-Very rare (less than 0.01%): GynecomastiaFrequency not reported: Thyroid function abnormalities[Ref]
-Common (1% to 10%): Diabetes mellitusFrequency not reported: Glucose elevated, HbA1c increased[Ref]
-Rare (less than 0.1%): Thrombocytopenia[Ref]
-Rare (less than 0.1%): Hypersensitivity reaction[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Crestor (rosuvastatin)." AstraZeneca Pharma Inc, Mississauga, ON. 
-Not all side effects for Crestor may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects included headache, myalgia, abdominal pain, asthenia, and nausea.
+Very common (10% or more): Myalgia (up to 12.7%), arthralgia (10.1%)Rare (less than 0.1%): Myopathy, rhabdomyolysis, myositisFrequency not reported: Immune-mediated necrotizing myopathy, tendon disorders, creatine phosphokinase increased
+Common (1% to 10%): Abdominal pain, nausea, constipationRare (less than 0.1%): PancreatitisFrequency not reported: Diarrhea
+Common (1% to 10%): Headache, dizzinessVery rare (less than 0.01%): Polyneuropathy, memory lossPostmarketing reports: Cognitive impairment, forgetfulness, amnesia, memory impairment, peripheral neuropathy
+Rare (0.01% to 0.1%): Hepatic transaminases/enzymes increasedVery rare (less than 0.01%): Jaundice, hepatitisFrequency not reported: Bilirubin increasedPostmarketing reports: Fatal hepatic failure, nonfatal hepatic failure
+Uncommon (0.1% to 1%): Rash, pruritus, urticariaRare (less than 0.1%): AngioedemaFrequency not reported: Stevens-Johnson syndrome
+Frequency not reported: Acute renal failure
+Very rare (less than 0.01%): HematuriaFrequency not reported: Proteinuria, myoglobinuria, sexual dysfunction
+Common (1% to 10%): AstheniaFrequency not reported: Edema, glutamyl transpeptidase increased, alkaline phosphatase increased
+Frequency not reported: Cough, dyspnea, interstitial lung disease
+Frequency not reported: Confusion, depression, insomnia, nightmares, sleep disorders/disturbances
+Very rare (less than 0.01%): GynecomastiaFrequency not reported: Thyroid function abnormalities
+Common (1% to 10%): Diabetes mellitusFrequency not reported: Glucose elevated, HbA1c increased
+Rare (less than 0.1%): Thrombocytopenia
+Rare (less than 0.1%): Hypersensitivity reaction
 Dark-colored urine
 fever
 muscle cramps or spasms
 muscle pain, stiffness, tenderness, wasting, or weakness
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 clay-colored stools
 skin rash
 unpleasant breath odor
 vomiting of blood
 yellow eyes or skin
-
-
 Body aches or pain
 congestion
 cough
@@ -54,8 +37,6 @@ runny nose
 tender, swollen glands in the neck
 trouble swallowing
 voice changes
-
-
 Accidental injury
 accumulation of pus, swollen, red, or tender area of infection near a tooth
 acid or sour stomach
@@ -126,4 +107,3 @@ trouble sleeping
 unexplained weight loss
 unusual bleeding or bruising
 vomiting
-

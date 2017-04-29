@@ -1,24 +1,15 @@
-Generic Name: budesonide / formoterol
 Common side effects of Symbicort include: nasopharyngitis and headache. Other side effects include: oral candidiasis, lower respiratory tract infection, pneumonia, pulmonary infection, sinusitis, bronchitis, and subcapsular posterior cataract.  See below for a comprehensive list of adverse effects.
-Applies to budesonide / formoterol: inhalation aerosol liquid, inhalation powder
 As well as its needed effects, budesonide / formoterol may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking budesonide / formoterol, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking budesonide / formoterol, get emergency help immediately:
-
 Some budesonide / formoterol side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to budesonide / formoterol: inhalation aerosol
-Respiratory side effects have included nasopharyngitis, upper and lower respiratory tract infection, sinusitis, nasal and sinus congestion, pharyngitis, allergic rhinitis,acute bronchitis, asthma,and pharyngolaryngeal pain.[Ref]
-Gastrointestinal side effects have included stomach discomfort, vomiting, nausea, viral gastroenteritis, dyspepsia, upper abdominal pain, and diarrhea.[Ref]
-Musculoskeletal side effects have included back pain, muscle spasms, arthralgia, myalgia, and pain in the extremities.[Ref]
-Genitourinary side effects have included urinary tract infections.[Ref]
-Nervous system side effects have included tension headache, dizziness, sinus headache and migraine.[Ref]
-General side effects have included oral candidiasis, dysphonia, and pyrexia.[Ref]
-1. "Product Information. Symbicort (budesonide-formoterol)." Astra-Zeneca Pharmaceuticals, Wilmington, DE. 
+Respiratory side effects have included nasopharyngitis, upper and lower respiratory tract infection, sinusitis, nasal and sinus congestion, pharyngitis, allergic rhinitis,acute bronchitis, asthma,and pharyngolaryngeal pain.
+Gastrointestinal side effects have included stomach discomfort, vomiting, nausea, viral gastroenteritis, dyspepsia, upper abdominal pain, and diarrhea.
+Musculoskeletal side effects have included back pain, muscle spasms, arthralgia, myalgia, and pain in the extremities.
+Genitourinary side effects have included urinary tract infections.
+Nervous system side effects have included tension headache, dizziness, sinus headache and migraine.
+General side effects have included oral candidiasis, dysphonia, and pyrexia.
 It is possible that some side effects of Symbicort may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Body aches or pain
 chills
 cough, fever, sneezing, or sore throat
@@ -33,8 +24,6 @@ shortness of breath or troubled breathing
 stuffy or runny nose
 tightness of the chest or wheezing
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 bladder pain
 bloody or cloudy urine
@@ -63,8 +52,6 @@ trouble with sleeping
 voice changes
 vomiting
 white patches in the mouth or on the tongue
-
-
 Blurred vision
 confusion
 decreased urine
@@ -91,15 +78,11 @@ severe headache
 slow, fast, pounding, or irregular heartbeat or pulse
 stiff or sore neck
 unexplained weight loss
-
-
 Blindness
 decreased vision
 eye pain
 puffiness or swelling of the eyelids or around the eyes, face, lips or tongue
 tearing
-
-
 Arm, back, or jaw pain
 chest pain or discomfort
 darkening of the skin
@@ -111,11 +94,7 @@ skin rash
 sleeplessness
 stomach cramps
 unable to sleep
-
-
 Stomach discomfort
-
-
 Acid or sour stomach
 belching
 difficulty with moving
@@ -125,8 +104,6 @@ muscle spasms or stiffness
 pain in the arms or legs
 stomach upset
 swollen joints
-
-
 Bad, unusual, or unpleasant (after) taste
 change in taste
 deep or fast breathing with dizziness, numbness to feet, hands, and around the mouth
@@ -136,4 +113,3 @@ irritability
 itching skin
 large, flat, blue, or purplish patches in the skin
 redness of the skin
-

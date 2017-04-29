@@ -1,68 +1,33 @@
 Commonly reported side effects of oseltamivir include: nausea and vomiting. Other side effects include: abdominal pain.  See below for a comprehensive list of adverse effects.
-Applies to oseltamivir: oral capsule, oral powder for suspension
 As well as its needed effects, oseltamivir may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking oseltamivir, check with your doctor immediately:
 Some oseltamivir side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to oseltamivir: oral capsule, oral powder for reconstitution
-The most common side effects were nausea and vomiting.The most common side effects reported with this drug during studies for the treatment of influenza were nausea, vomiting, headache, bronchitis, insomnia, and vertigo.  Nausea and vomiting were generally mild to moderate in severity and usually occurred on the first 2 days of therapy.  Less than 1% of patients discontinued this drug early due to nausea and vomiting.Side effects in prophylaxis studies were similar to those in treatment studies, most commonly nausea, vomiting, headache, and pain.  Side effects that occurred more frequently than in treatment studies were aches and pains, rhinorrhea, dyspepsia, and upper respiratory tract infections.[Ref]
-Very common (10% or more): Headache (up to 18%)Common (1% to 10%): Dizziness, vertigoFrequency not reported: DrowsinessPostmarketing reports: Seizure/convulsion[Ref]
-Side effects with similar or higher incidence among placebo patients included dizziness and vertigo.[Ref]
-Very common (10% or more): NauseaCommon (1% to 10%): Nausea (without vomiting), vomiting, diarrhea, abdominal pain, upper abdominal pain, dyspepsiaFrequency not reported: Pseudomembranous colitisPostmarketing reports: Gastrointestinal bleeding, hemorrhagic colitis[Ref]
-Side effects with similar or higher incidence among placebo patients included diarrhea, abdominal pain, upper abdominal pain, and dyspepsia.[Ref]
-Common (1% to 10%): Nasal congestion, cough, sore throat, bronchitis, nasopharyngitis, upper respiratory tract infections, influenza, rhinorrhea, sinusitisFrequency not reported: Pneumonia, peritonsillar abscess, congestion, rhinitis, dry sore throat, epistaxis, asthma, aggravated asthma[Ref]
-Side effects with similar or higher incidence among placebo patients included cough, nasal congestion, sore throat, rhinorrhea, bronchitis, sinusitis, nasopharyngitis, upper respiratory tract infections, and influenza.[Ref]
-Common (1% to 10%): InsomniaFrequency not reported: ManiaPostmarketing reports: Abnormal behavior, delirium, altered level of consciousness, confusion, delusions, hallucinations, agitation, anxiety, nightmares, self-injury[Ref]
-Influenza can be associated with various neurologic and behavioral symptoms (including hallucinations, delirium, abnormal behavior), with fatal outcomes in some cases; such events may occur with encephalitis or encephalopathy but can occur without obvious severe disease.  There are postmarketing reports (mostly in Japan) of delirium and abnormal behavior leading to injury, with fatal outcomes in some cases, in influenza patients using this drug.  Although frequency is unknown, based on usage, these events appear uncommon.  These events were primarily reported in pediatric patients, often with abrupt onset and rapid resolution.  The contribution of this drug to such events has not been established.Side effects with similar or higher incidence among placebo patients included insomnia.[Ref]
-Side effects with similar or higher incidence among placebo patients included fatigue, pyrexia, influenza-like illness, and pain in limb.[Ref]
-Common (1% to 10%): Fatigue, pain, pyrexia, influenza-like illness, pain in limb, otitis media, earacheUncommon (0.1% to 1%): Tympanic membrane disorderFrequency not reported: Humerus fracture, malaise, sepsis, facial edema, ear disorder, accidental injuryPostmarketing reports: Hypothermia[Ref]
-Side effects with similar or higher incidence among placebo patients included herpes simplex.[Ref]
-Common (1% to 10%): Herpes simplexUncommon (0.1% to 1%): Dermatitis (including allergic and atopic dermatitis)Rare (less than 0.1%): Angioneurotic edemaPostmarketing reports: Rash, urticaria, eczema, serious skin reactions, toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme[Ref]
-Common (1% to 10%): Back pain, arthralgia, myalgia[Ref]
-Side effects with similar or higher incidence among placebo patients included back pain, arthralgia, and myalgia.[Ref]
+The most common side effects were nausea and vomiting.The most common side effects reported with this drug during studies for the treatment of influenza were nausea, vomiting, headache, bronchitis, insomnia, and vertigo.  Nausea and vomiting were generally mild to moderate in severity and usually occurred on the first 2 days of therapy.  Less than 1% of patients discontinued this drug early due to nausea and vomiting.Side effects in prophylaxis studies were similar to those in treatment studies, most commonly nausea, vomiting, headache, and pain.  Side effects that occurred more frequently than in treatment studies were aches and pains, rhinorrhea, dyspepsia, and upper respiratory tract infections.
+Very common (10% or more): Headache (up to 18%)Common (1% to 10%): Dizziness, vertigoFrequency not reported: DrowsinessPostmarketing reports: Seizure/convulsion
+Side effects with similar or higher incidence among placebo patients included dizziness and vertigo.
+Very common (10% or more): NauseaCommon (1% to 10%): Nausea (without vomiting), vomiting, diarrhea, abdominal pain, upper abdominal pain, dyspepsiaFrequency not reported: Pseudomembranous colitisPostmarketing reports: Gastrointestinal bleeding, hemorrhagic colitis
+Side effects with similar or higher incidence among placebo patients included diarrhea, abdominal pain, upper abdominal pain, and dyspepsia.
+Common (1% to 10%): Nasal congestion, cough, sore throat, bronchitis, nasopharyngitis, upper respiratory tract infections, influenza, rhinorrhea, sinusitisFrequency not reported: Pneumonia, peritonsillar abscess, congestion, rhinitis, dry sore throat, epistaxis, asthma, aggravated asthma
+Side effects with similar or higher incidence among placebo patients included cough, nasal congestion, sore throat, rhinorrhea, bronchitis, sinusitis, nasopharyngitis, upper respiratory tract infections, and influenza.
+Common (1% to 10%): InsomniaFrequency not reported: ManiaPostmarketing reports: Abnormal behavior, delirium, altered level of consciousness, confusion, delusions, hallucinations, agitation, anxiety, nightmares, self-injury
+Influenza can be associated with various neurologic and behavioral symptoms (including hallucinations, delirium, abnormal behavior), with fatal outcomes in some cases; such events may occur with encephalitis or encephalopathy but can occur without obvious severe disease.  There are postmarketing reports (mostly in Japan) of delirium and abnormal behavior leading to injury, with fatal outcomes in some cases, in influenza patients using this drug.  Although frequency is unknown, based on usage, these events appear uncommon.  These events were primarily reported in pediatric patients, often with abrupt onset and rapid resolution.  The contribution of this drug to such events has not been established.Side effects with similar or higher incidence among placebo patients included insomnia.
+Side effects with similar or higher incidence among placebo patients included fatigue, pyrexia, influenza-like illness, and pain in limb.
+Common (1% to 10%): Fatigue, pain, pyrexia, influenza-like illness, pain in limb, otitis media, earacheUncommon (0.1% to 1%): Tympanic membrane disorderFrequency not reported: Humerus fracture, malaise, sepsis, facial edema, ear disorder, accidental injuryPostmarketing reports: Hypothermia
+Side effects with similar or higher incidence among placebo patients included herpes simplex.
+Common (1% to 10%): Herpes simplexUncommon (0.1% to 1%): Dermatitis (including allergic and atopic dermatitis)Rare (less than 0.1%): Angioneurotic edemaPostmarketing reports: Rash, urticaria, eczema, serious skin reactions, toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme
+Common (1% to 10%): Back pain, arthralgia, myalgia
+Side effects with similar or higher incidence among placebo patients included back pain, arthralgia, and myalgia.
 Side effects with similar or higher incidence among placebo patients included dysmenorrhea.
 Common (1% to 10%): Dysmenorrhea
-Common (1% to 10%): Conjunctivitis (including red eyes, eye discharge, eye pain)Rare (less than 0.1%): Visual disturbances[Ref]
-Uncommon (0.1% to 1%): Elevated liver enzymesRare (less than 0.1%): Hepatic failure, fulminant hepatitis (including fatalities)Frequency not reported: Hepatic function disorder, jaundicePostmarketing reports: Hepatitis, abnormal liver function tests[Ref]
-Postmarketing reports: Hypersensitivity reactions (e.g., allergic skin reactions), allergy, anaphylactic/anaphylactoid reactions, swelling of the face or tongue[Ref]
-Frequency not reported: Unstable angina, sudden cardiopulmonary arrestPostmarketing reports: Cardiac arrhythmia[Ref]
-Frequency not reported: HyperglycemiaPostmarketing reports: Aggravation of diabetes[Ref]
-Frequency not reported: Anemia, pancytopenia, lymphadenopathyPostmarketing reports: Thrombocytopenia[Ref]
-1. Moscona A "Neuraminidase inhibitors for influenza." N Engl J Med 353 (2005): 1363-73
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Montalto NJ, Gum KD, Ashley JV "Updated treatment for influenza A and B." Am Fam Physician 62 (2000): 2467-76
-4. "Antiviral drugs prophylaxis and treatment of influenza." Med Lett Drugs Ther 48 (2006): 87-8
-5. Hayden FG, Atmar RL, Schilling M, et al. "Use of selective oral neura minidase inhibitor oseltamivir to prevent influenza." N Engl J Med 341 (1999): 1336-43
-6. Nicholson KG, Aoki FY, Osterhaus AD, et al. "Efficacy and safety of oseltamivir in treatment of acute influenza: a randomised controlled trial." Lancet 355 (2000): 1845-50
-7. Dreitlein WB, Maratos J, Brocavich J "Zanamivir and oseltamivir: Two new options for the treatment and prevention of influenza." Clin Ther 23 (2001): 327-55
-8. McNicholl IR,  McNicholl JJ "Neuraminidase inhibitors: zanamivir and oseltamivir." Ann Pharmacother 35 (2001): 57-70
-9. Treanor JJ, Hayden FG, Vrooman PS, et al. "Efficacy and safety of the oral neuramidase inhibitor oseltamivir in treating acute influenza: a randomized controlled trial." JAMA 283 (2000): 1016-24
-10. Welliver R, Monto AS, Carewicz O, et al. "Effectiveness of oseltamivir in preventing influenza in household contacts." JAMA 285 (2001): 748-54
-11. Cox NJ, Hughes JM "New options for the prevention of influenza." N Engl J Med 341 (1999): 1387-8
-12. McClellan K, Perry CM "Oseltamivir: a review of its use in influenza." Drugs 61 (2001): 263-83
-13. Snell P,  Dave N,  Wilson K, et al. "Lack of effect of moderate hepatic impairment on the pharmacokinetics of oral oseltamivir and its metabolite oseltamivir carboxylate." Br J Clin Pharmacol 59 (2005): 598-601
-14. Bardsley-Elliot A, Noble S "Oseltamivir." Drugs 58 (1999): 851-60
-15. He G, Massarella J, Ward P "Clinical pharmacokinetics of the prodrug oseltamivir and its active metabolite Ro 64-0802." Clin Pharmacokinet 37 (1999): 471-84
-16. "Product Information. Tamiflu (oseltamivir)" RocheLaboratories, Nutley, NJ. 
-17. Jefferson T,  Demicheli V,  Rivetti D,  Jones M,  Di Pietrantonj C,  Rivetti A "Antivirals for influenza in healthy adults: systematic review." Lancet 367 (2006): 303-13
-18. Anekthananon T,  Pukritayakamee S,  Ratanasuwan W, et al. "Oseltamivir and inhaled zanamivir as influenza prophylaxis in Thai health workers: a randomized, double-blind, placebo-controlled safety trial over 16 weeks." J Antimicrob Chemother 68 (2013): 697-707
-19. "Antiviral drugs for influenza 2012-2013." Med Lett Drugs Ther 54 (2012): 97-8
-20. "New concerns about oseltamivir." Lancet 369 (2007): 1056
-21. "Antiviral drugs for influenza." Med Lett Drugs Ther 54 (2012): 1-3
-22. Jefferson T,  Jones M,  Doshi P,  Del Mar C "Possible harms of oseltamivir-a call for urgent action." Lancet 374 (2009): 1312-3
-23. Strong M,  Burrows J,  Redgrave P "A/H1N1 pandemic. Oseltamivir's adverse events." BMJ 339 (2009): b3249
-24. Hama R "Oseltamivir's adverse reactions: Fifty sudden deaths may be related to central suppression." BMJ 335 (2007): 59
-25. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-26. Ho LN,  Chung JP,  Choy KL "Oseltamivir-induced mania in a patient with H1N1." Am J Psychiatry 167 (2010): 350
-27. Abe M,  Smith J,  Urae A,  Barrett J,  Kinoshita H,  Rayner CR "Pharmacokinetics of Oseltamivir in Young and Very Elderly Subjects (October)." Ann Pharmacother  (2006):
-28. Hankey GJ "Clopidogrel and thrombotic thrombocytopenic purpura." Lancet 356 (2000): 269-70
+Common (1% to 10%): Conjunctivitis (including red eyes, eye discharge, eye pain)Rare (less than 0.1%): Visual disturbances
+Uncommon (0.1% to 1%): Elevated liver enzymesRare (less than 0.1%): Hepatic failure, fulminant hepatitis (including fatalities)Frequency not reported: Hepatic function disorder, jaundicePostmarketing reports: Hepatitis, abnormal liver function tests
+Postmarketing reports: Hypersensitivity reactions (e.g., allergic skin reactions), allergy, anaphylactic/anaphylactoid reactions, swelling of the face or tongue
+Frequency not reported: Unstable angina, sudden cardiopulmonary arrestPostmarketing reports: Cardiac arrhythmia
+Frequency not reported: HyperglycemiaPostmarketing reports: Aggravation of diabetes
+Frequency not reported: Anemia, pancytopenia, lymphadenopathyPostmarketing reports: Thrombocytopenia
 It is possible that some side effects of oseltamivir may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Phlegm-producing cough
 wheezing
-
-
 Abdominal or stomach cramps or tenderness
 arm, back, or jaw pain
 bloating
@@ -76,8 +41,6 @@ increased thirst
 pain
 shortness of breath
 unusual weight loss
-
-
 Blistering, peeling, or loosening of the skin
 convulsions (seizures)
 dark urine
@@ -98,13 +61,9 @@ sores, ulcers, or white spots in the mouth or on the lips
 sweating
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Diarrhea
 nausea
 vomiting
-
-
 Abdominal or stomach pain
 bloody nose or unexplained nosebleeds (occurs mainly in children)
 burning, dry, or itching eyes (mainly in children)
@@ -113,17 +72,12 @@ ear disorder (occurs mainly in children)
 excessive tearing of the eyes (mainly in children)
 redness, pain, or swelling of the eye or eyelid (mainly in children)
 trouble with sleeping
-
-
 Pale skin
 troubled breathing
 unusual bleeding or bruising
-
-
 blurred vision
 cracked, dry, or scaly skin
 dry mouth
 flushed, dry skin
 mood or mental changes
 skin rash that is encrusted, scaly, and oozing
-

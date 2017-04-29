@@ -1,49 +1,19 @@
-Applies to miconazole: buccal mucosa tablet
-In addition to its needed effects, some unwanted effects may be caused by miconazole. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking miconazole:
-Some of the side effects that can occur with miconazole may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to miconazole: buccal tablet, intravenous solution
-The overall safety of miconazole buccal tablets was assessed in 480 adult subjects, including 315 HIV-infected subjects, 147 subjects with head and neck cancer, and 18 healthy subjects.  Discontinuation due to side effects occurred in 0.6% of subjects overall.Although intravenous miconazole has been discontinued in the U.S., side effects associated with this formulation have been included.[Ref]
-Local side effects have included oral discomfort, oral burning, oral pain, gingival pain, gingival swelling, gingival pruritus, tongue ulceration, mouth ulceration, glossodynia, dry mouth, application site pain or discomfort, toothache, loss of taste, and altered taste in 12.1% of HIV-infected patients.  Oral discomfort, oral pain, dry mouth, glossodynia, loss of taste, altered taste, tongue ulceration, mouth ulceration, tooth disorder, and application site discomfort or pain have been reported in 9.5% of patients with head and neck cancer.  Phlebitis has been reported in at least one-third of patients treated with intravenous miconazole.[Ref]
-Gastrointestinal side effects have included diarrhea (up to 9%), nausea (up to 6.6%), vomiting (up to 3.8%), dry mouth (2.8%), oral discomfort (2.7%), upper abdominal pain (up to 2.5%), and gastroenteritis (1.4%).  Nausea, vomiting, anorexia, and diarrhea have been reported with intravenous miconazole.[Ref]
-Nervous system side effects have included headache (up to 7.6%), dysgeusia (up to 4.1%), and ageusia (2.4%).  Dizziness has been reported with intravenous miconazole.[Ref]
-Respiratory side effects have included cough (2.8%), upper respiratory infection (2.1%), and pharyngeal pain (0.7%).[Ref]
-Hematologic side effects have included anemia (2.8%), lymphopenia (1.7%), and neutropenia (0.7%).  Transient decreases in hematocrit, thrombocytosis, thrombocytopenia, and erythrocyte aggregation have been reported with intravenous miconazole.[Ref]
-Other side effects have included fatigue (2.8%) and pain (1%).  Fever and chills have been reported with intravenous miconazole.[Ref]
-Dermatologic side effects have included pruritus (2%).  Pruritus (which may have been accompanied by maculopapular rash) has been reported with intravenous miconazole, and in some cases, severe pruritus developed after weeks of therapy or after therapy was completed.[Ref]
-Hepatic side effects have included elevated gamma glutamyltransferase (1%).[Ref]
-Hypersensitivity side effects have included allergic reaction (including anaphylactic reactions and hypersensitivity).  Contact dermatitis has been reported when intravenous miconazole was used topically.  Anaphylaxis has been reported rarely with intravenous miconazole.[Ref]
-Increases in cholesterol and triglycerides reported in patients receiving intravenous miconazole were due to its vehicle, and were reversible upon discontinuation of the drug.  Hyperlipidemia due to Cremophor EL had the atypical appearance of gamma-2 globulin.Hyponatremia associated with intravenous miconazole therapy resulted in a mean decrease in sodium of 10 mEq/L, but usually was not a reason to discontinue therapy.  Miconazole was usually administered in normal saline solution to help minimize decreases in sodium.[Ref]
-Metabolic side effects associated with intravenous miconazole have included hyperlipidemia, which was associated with the vehicle of miconazole (Cremophor EL [polyethoxylated castor oil]), and hyponatremia.[Ref]
-Cardiovascular side effects associated with intravenous miconazole have included cardiac arrhythmias, tachycardia, and cardiac arrest.  These effects may have been associated with rapid infusion of miconazole and due to the Cremophor EL vehicle.[Ref]
+The overall safety of miconazole buccal tablets was assessed in 480 adult subjects, including 315 HIV-infected subjects, 147 subjects with head and neck cancer, and 18 healthy subjects.  Discontinuation due to side effects occurred in 0.6% of subjects overall.Although intravenous miconazole has been discontinued in the U.S., side effects associated with this formulation have been included.
+Local side effects have included oral discomfort, oral burning, oral pain, gingival pain, gingival swelling, gingival pruritus, tongue ulceration, mouth ulceration, glossodynia, dry mouth, application site pain or discomfort, toothache, loss of taste, and altered taste in 12.1% of HIV-infected patients.  Oral discomfort, oral pain, dry mouth, glossodynia, loss of taste, altered taste, tongue ulceration, mouth ulceration, tooth disorder, and application site discomfort or pain have been reported in 9.5% of patients with head and neck cancer.  Phlebitis has been reported in at least one-third of patients treated with intravenous miconazole.
+Gastrointestinal side effects have included diarrhea (up to 9%), nausea (up to 6.6%), vomiting (up to 3.8%), dry mouth (2.8%), oral discomfort (2.7%), upper abdominal pain (up to 2.5%), and gastroenteritis (1.4%).  Nausea, vomiting, anorexia, and diarrhea have been reported with intravenous miconazole.
+Nervous system side effects have included headache (up to 7.6%), dysgeusia (up to 4.1%), and ageusia (2.4%).  Dizziness has been reported with intravenous miconazole.
+Respiratory side effects have included cough (2.8%), upper respiratory infection (2.1%), and pharyngeal pain (0.7%).
+Hematologic side effects have included anemia (2.8%), lymphopenia (1.7%), and neutropenia (0.7%).  Transient decreases in hematocrit, thrombocytosis, thrombocytopenia, and erythrocyte aggregation have been reported with intravenous miconazole.
+Other side effects have included fatigue (2.8%) and pain (1%).  Fever and chills have been reported with intravenous miconazole.
+Dermatologic side effects have included pruritus (2%).  Pruritus (which may have been accompanied by maculopapular rash) has been reported with intravenous miconazole, and in some cases, severe pruritus developed after weeks of therapy or after therapy was completed.
+Hepatic side effects have included elevated gamma glutamyltransferase (1%).
+Hypersensitivity side effects have included allergic reaction (including anaphylactic reactions and hypersensitivity).  Contact dermatitis has been reported when intravenous miconazole was used topically.  Anaphylaxis has been reported rarely with intravenous miconazole.
+Increases in cholesterol and triglycerides reported in patients receiving intravenous miconazole were due to its vehicle, and were reversible upon discontinuation of the drug.  Hyperlipidemia due to Cremophor EL had the atypical appearance of gamma-2 globulin.Hyponatremia associated with intravenous miconazole therapy resulted in a mean decrease in sodium of 10 mEq/L, but usually was not a reason to discontinue therapy.  Miconazole was usually administered in normal saline solution to help minimize decreases in sodium.
+Metabolic side effects associated with intravenous miconazole have included hyperlipidemia, which was associated with the vehicle of miconazole (Cremophor EL [polyethoxylated castor oil]), and hyponatremia.
+Cardiovascular side effects associated with intravenous miconazole have included cardiac arrhythmias, tachycardia, and cardiac arrest.  These effects may have been associated with rapid infusion of miconazole and due to the Cremophor EL vehicle.
 Ocular side effects associated with intravenous miconazole have included blurred vision.
 Psychiatric side effects associated with intravenous miconazole have included euphoria.
-Renal side effects have included acute renal failure, possibly due to intravenous miconazole administration, in one patient with a renal allograft.[Ref]
-1. Stevens D "Miconazole in the treatment of systemic fungal infections." Am Rev Respir Dis 116 (1977): 801-6
-2. "Product Information. ORAVIG (miconazole)." Strativa  Pharmaceuticals, a Division of Par Pharmaceuticals, Inc., Woodcliff Lake, NJ. 
-3. Heel RC, Brogden RN, Pakes GE, Speight TM, Avery GS "Miconazole: a preliminary review of its therapeutic efficacy in systemic fungal infections." Drugs 19 (1980): 7-30
-4. Fischer TJ, Klein RB, Kershnar HE, Borut TC, Stiehm ER "Miconazole in the treatment of chronic mucocutaneous candidiasis: a preliminary report." J Pediatr 91 (1977): 815-9
-5. Bodey GP "Topical and systemic antifungal agents." Med Clin North Am 72 (1988): 637-59
-6. Wade TR, Jones HE, Chanda JJ "Intravenous miconazole therapy of mycotic infections." Arch Intern Med 139 (1979): 784-6
-7. "Product Information. Monistat (miconazole)." Ortho Pharmaceutical Corporation, Raritan, NJ. 
-8. Marmion LC, Desser KB, Lilly RB, Stevens DA "Reversible thrombocytosis and anemia due to miconazole therapy." Antimicrob Agents Chemother 10 (1976): 447-9
-9. Barr RJ, Fujita WH, Graham JH "Eruptive xanthomas associated with intravenous miconazole therapy." Arch Dermatol 114 (1978): 1544-5
-10. Degreef H, Verhoeve L "Contact dermatitis to miconazole nitrate." Contact Dermatitis 1 (1975): 269-70
-11. Fernandez L, Maquiera E, Rodriguez F, Picans I, Duque S "Systemic contact dermatitis from miconazole." Contact Dermatitis 34 (1996): 217
-12. Fainstein V, Bodey GP "Cardiorespiratory toxicity due to miconazole." Ann Intern Med 93 (1980): 432-3
-13. Baes H "Contact sensitivity to miconazole with ortho-chloro cross-sensitivity to other imidazoles." Contact Dermatitis 24 (1991): 89-93
-14. Raulin C, Frosch PJ "Contact allergy to imidazole antimycotics." Contact Dermatitis 18 (1988): 76-80
-15. Perret CM, Happle R "Contact allergy to miconazole." Contact Dermatitis 19 (1988): 75
-16. Wade TR, Jones HE, Artis WA "Irritant and allergic reactions to topically applied Micatin cream." Contact Dermatitis 5 (1979): 168-70
-17. Rose HD, Roth DA, Barboriak JJ "Hyperlipidemia related to miconazole therapy." Ann Intern Med 91 (1979): 491-2
-18. Bagnarello AG, Lewis LA, McHenry MC, Weinstein AJ, Naito HK, McCullough AJ, Lederman RJ, Gavan TL "Unusual serum lipoprotein abnormality induced by the vehicle of miconazole." N Engl J Med 296 (1977): 497-9
-19. Naito HK, McHenry MC, Lewis LA "Drug-induced dyslipoproteinemia: a report of two cases." Clin Chem 26 (1980): 163-8
-20. Coley KC, Crain JL "Miconazole-induced fatal dysrhythmia." Pharmacotherapy 17 (1997): 379-82
-21. Lai KN, Newton M, Seymour A, Pugsley D, Jones T "Miconazole treatment after renal transplantation." Lancet 4 (1981): 48-9
-Not all side effects for miconazole may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Renal side effects have included acute renal failure, possibly due to intravenous miconazole administration, in one patient with a renal allograft.
 Body aches or pain
 cough
 difficulty with breathing
@@ -61,14 +31,10 @@ sore throat
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Black, tarry stools
 pale skin
 shortness of breath
 ulcers, sores, or white spots in the mouth
-
-
 Change in taste
 diarrhea
 dry mouth
@@ -79,11 +45,8 @@ nausea
 pain, redness, and swelling of the gums
 sores on the tongue
 toothache
-
-
 Abdominal or stomach pain
 loss of appetite
 pain
 upper abdominal or stomach pain
 weakness
-

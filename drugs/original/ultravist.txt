@@ -1,30 +1,22 @@
-Generic Name: iopromide
-Applies to iopromide: injection solution
 As well as its needed effects, iopromide (the active ingredient contained in Ultravist) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking iopromide, check with your doctor or nurse immediately:
 Some iopromide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to iopromide: injectable solution
-Cardiovascular side effects have included vasodilation (2.6%), chest pain (1.6%), complete atrioventricular block (less than 1%), bradycardia (less than 1%), ventricular extrasystole (less than 1%), coronary artery thrombosis (less than 1%), flushing (less than 1%), hypertension (less than 1%), hypotension (less than 1%), peripheral vascular disorder (less than 1%), syncope (less than 1%), and vascular anomaly (less than 1%).  Postmarketing reports have included cardiac arrest, ventricular fibrillation, atrial fibrillation, tachycardia, palpitations, congestive heart failure, myocardial infarction, angina pectoris and vasospasm.[Ref]
-Dermatologic side effects have included erythema (less than 1%), pruritus (less than 1%), rash (less than 1%), urticaria (less than 1%), and fixed eruptions.  Postmarketing reports have included Stevens-Johnson Syndrome and skin discoloration.[Ref]
-Endocrine side effects have included postmarketing reports of hyperthyroidism, thyrotoxic crisis, and hypothyroidism.[Ref]
-Gastrointestinal side effects have included nausea (3.7%), vomiting (1.9%), abdominal discomfort (less than 1%), abdominal pain (less than 1%), upper abdominal pain (less than 1%), constipation (less than 1%), diarrhea (less than 1%), dry mouth (less than 1%), dyspepsia (less than 1%), gastrointestinal disorder (less than 1%), gastrointestinal pain (less than 1%), increased salivation (less than 1%), stomach discomfort (less than 1%), and rectal tenesmus (less than 1%).  Postmarketing reports have included dysphagia and swelling of salivary glands.[Ref]
-General side effects have included pain (1.4%), asthenia (less than 1%), chest discomfort (less than 1%), chills (less than 1%), excessive thirst (less than 1%), feeling hot (less than 1%), hyperhidrosis (less than 1%), malaise (less than 1%), peripheral edema (less than 1%), and pyrexia (less than 1%).[Ref]
-Genitourinary side effects have included urinary urgency (1.8%), dysuria (less than 1%), urinary retention (less than 1%) and postmarketing reports of hematuria.[Ref]
-Hypersensitivity reactions have included facial edema (less than 1%).  Postmarketing reports have included anaphylactoid reaction (including fatal cases), respiratory arrest, anaphylactoid shock, angioedema, laryngeal edema, laryngospasm, bronchospasm, and hypersensitivity.[Ref]
-Local side effects have included injection site and infusion site reactions (hemorrhage, hematoma, pain, edema, erythema, rash) (3.7%) and extravasation (less than 1%).[Ref]
-Metabolic side effects have included diabetes insipidus.Laboratory abnormalities have included increased blood lactate dehydrogenase (less than 1%), increased blood urea (less than 1%), increased hemoglobin (less than 1%), and increased white blood cell count (less than 1%).[Ref]
-Musculoskeletal side effects have included back pain (1.9%), arthralgia (less than 1%), musculoskeletal pain (less than 1%), myasthenia (less than 1%), neck pain (less than 1%), pain in extremity (less than 1%), joint disorder (effusion), muscle cramps, and postmarketing reports of compartment syndrome in case of extravasation.[Ref]
-Nervous system side effects have included headache (4%), dysgeusia (1.3%), agitation (less than 1%), confusion (less than 1%), convulsion (less than 1%), dizziness (less than 1%), hypertonia (less than 1%), hypesthesia (less than 1%), incoordination (less than 1%), neuropathy (less than 1%), somnolence (less than 1%), speech disorder (less than 1%), tremor (less than 1%), paresthesia (less than 1%), visual field defect (less than 1%), migraine, and brain edema.  Postmarketing reports have included vertigo, tinnitus cerebral ischemia/infarction, paralysis, paresis, transient cortical blindness, aphasia, coma, unconsciousness, amnesia, hypotonia, and aggravation of myasthenia gravis symptoms.[Ref]
-Ocular side effects have included abnormal vision (1.1%) and conjunctivitis.  Postmarketing reports have included mydriasis and lacrimation disorder.[Ref]
-Psychiatric side effects have included anxiety (less than 1%).[Ref]
-Renal side effects have included renal pain (less than 1%) and postmarketing reports of renal failure.[Ref]
-Respiratory side effects have included asthma (less than 1%), apnea (less than 1%), increased cough (less than 1%), dyspnea (less than 1%), hypoxia (less than 1%), pharyngeal edema (less than 1%), pharyngitis (less than 1%), pleural effusion (less than 1%), pulmonary hypertension (less than 1%), respiratory disorder (less than 1%), sore throat (less than 1%), and epistaxis.  Postmarketing reports have included pulmonary edema, acute respiratory distress syndrome, and asthma.[Ref]
-1. "Product Information. Ultravist (iopromide)." Berlex, Richmond, CA. 
+Cardiovascular side effects have included vasodilation (2.6%), chest pain (1.6%), complete atrioventricular block (less than 1%), bradycardia (less than 1%), ventricular extrasystole (less than 1%), coronary artery thrombosis (less than 1%), flushing (less than 1%), hypertension (less than 1%), hypotension (less than 1%), peripheral vascular disorder (less than 1%), syncope (less than 1%), and vascular anomaly (less than 1%).  Postmarketing reports have included cardiac arrest, ventricular fibrillation, atrial fibrillation, tachycardia, palpitations, congestive heart failure, myocardial infarction, angina pectoris and vasospasm.
+Dermatologic side effects have included erythema (less than 1%), pruritus (less than 1%), rash (less than 1%), urticaria (less than 1%), and fixed eruptions.  Postmarketing reports have included Stevens-Johnson Syndrome and skin discoloration.
+Endocrine side effects have included postmarketing reports of hyperthyroidism, thyrotoxic crisis, and hypothyroidism.
+Gastrointestinal side effects have included nausea (3.7%), vomiting (1.9%), abdominal discomfort (less than 1%), abdominal pain (less than 1%), upper abdominal pain (less than 1%), constipation (less than 1%), diarrhea (less than 1%), dry mouth (less than 1%), dyspepsia (less than 1%), gastrointestinal disorder (less than 1%), gastrointestinal pain (less than 1%), increased salivation (less than 1%), stomach discomfort (less than 1%), and rectal tenesmus (less than 1%).  Postmarketing reports have included dysphagia and swelling of salivary glands.
+General side effects have included pain (1.4%), asthenia (less than 1%), chest discomfort (less than 1%), chills (less than 1%), excessive thirst (less than 1%), feeling hot (less than 1%), hyperhidrosis (less than 1%), malaise (less than 1%), peripheral edema (less than 1%), and pyrexia (less than 1%).
+Genitourinary side effects have included urinary urgency (1.8%), dysuria (less than 1%), urinary retention (less than 1%) and postmarketing reports of hematuria.
+Hypersensitivity reactions have included facial edema (less than 1%).  Postmarketing reports have included anaphylactoid reaction (including fatal cases), respiratory arrest, anaphylactoid shock, angioedema, laryngeal edema, laryngospasm, bronchospasm, and hypersensitivity.
+Local side effects have included injection site and infusion site reactions (hemorrhage, hematoma, pain, edema, erythema, rash) (3.7%) and extravasation (less than 1%).
+Metabolic side effects have included diabetes insipidus.Laboratory abnormalities have included increased blood lactate dehydrogenase (less than 1%), increased blood urea (less than 1%), increased hemoglobin (less than 1%), and increased white blood cell count (less than 1%).
+Musculoskeletal side effects have included back pain (1.9%), arthralgia (less than 1%), musculoskeletal pain (less than 1%), myasthenia (less than 1%), neck pain (less than 1%), pain in extremity (less than 1%), joint disorder (effusion), muscle cramps, and postmarketing reports of compartment syndrome in case of extravasation.
+Nervous system side effects have included headache (4%), dysgeusia (1.3%), agitation (less than 1%), confusion (less than 1%), convulsion (less than 1%), dizziness (less than 1%), hypertonia (less than 1%), hypesthesia (less than 1%), incoordination (less than 1%), neuropathy (less than 1%), somnolence (less than 1%), speech disorder (less than 1%), tremor (less than 1%), paresthesia (less than 1%), visual field defect (less than 1%), migraine, and brain edema.  Postmarketing reports have included vertigo, tinnitus cerebral ischemia/infarction, paralysis, paresis, transient cortical blindness, aphasia, coma, unconsciousness, amnesia, hypotonia, and aggravation of myasthenia gravis symptoms.
+Ocular side effects have included abnormal vision (1.1%) and conjunctivitis.  Postmarketing reports have included mydriasis and lacrimation disorder.
+Psychiatric side effects have included anxiety (less than 1%).
+Renal side effects have included renal pain (less than 1%) and postmarketing reports of renal failure.
+Respiratory side effects have included asthma (less than 1%), apnea (less than 1%), increased cough (less than 1%), dyspnea (less than 1%), hypoxia (less than 1%), pharyngeal edema (less than 1%), pharyngitis (less than 1%), pleural effusion (less than 1%), pulmonary hypertension (less than 1%), respiratory disorder (less than 1%), sore throat (less than 1%), and epistaxis.  Postmarketing reports have included pulmonary edema, acute respiratory distress syndrome, and asthma.
 It is possible that some side effects of Ultravist may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 chest pain
 feeling faint, dizzy, or lightheadedness
@@ -33,8 +25,6 @@ flushing or redness of the skin, especially on the face and neck
 frequent strong or increased urge to urinate
 headache
 sweating
-
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 bluish lips or skin
 chest discomfort or tightness
@@ -53,8 +43,6 @@ irregular heartbeat
 tingling of the hands or feet
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Blistering, peeling, or loosening of the skin
 bloody urine
 blue lips and fingernails
@@ -77,13 +65,9 @@ skin rash, hives, or itching
 sores, ulcers, or white spots in the mouth or on the lips
 swelling of the face, fingers, feet, or lower legs
 trouble sleeping
-
-
 Change in taste
 changes in vision
 loss of taste
-
-
 Abdominal or stomach discomfort or pain
 acid or sour stomach
 agitation
@@ -100,8 +84,6 @@ muscle tension or tightness
 sleepiness or unusual drowsiness
 tender, swollen glands in the neck
 voice changes
-
-
 Bigger, dilated, or enlarged pupils (black part of the eye)
 burning, dry, or itching eyes
 continuing ringing or buzzing or other unexplained noise in the ears
@@ -112,4 +94,3 @@ hearing loss
 increased sensitivity of the eyes to light
 redness, pain, or swelling of the eye, eyelid, or inner lining of the eyelid
 sensation of spinning
-

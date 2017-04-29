@@ -1,35 +1,13 @@
-Generic Name: guaifenesin / hydrocodone
-Applies to guaifenesin / hydrocodone: oral capsule, oral liquid, oral solution, oral syrup, oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by guaifenesin / hydrocodone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking guaifenesin / hydrocodone:
-Some of the side effects that can occur with guaifenesin / hydrocodone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to guaifenesin / hydrocodone: oral capsule, oral liquid, oral syrup, oral tablet, oral tablet extended release
-One study has suggested that the respiratory depression caused by hydrocodone may be of benefit in the treatment of dyspnea related to chronic obstructive pulmonary disease and restrictive lung disease.  However, the potential for the precipitation of respiratory insufficiency makes such use of hydrocodone hazardous and such use should be undertaken, if at all, only with extreme caution.[Ref]
-Nervous system side effects of guaifenesin have included dizziness and headache.  Central nervous system adverse effects of hydrocodone have included mental depression, dizziness, lightheadedness, respiratory depression (which is sometimes fatal), stupor, delirium, somnolence, agitation, and dysphoria.[Ref]
-Other side effects of hydrocodone have included withdrawal symptoms, such as agitation, restlessness, anxiety, insomnia, tremor, abdominal cramps, blurred vision, vomiting and sweating, after either abrupt cessation or fast tapering of narcotic analgesics.[Ref]
-Gastrointestinal side effects of guaifenesin have included upset stomach and vomiting with higher than recommended doses.  Doses recommended for expectoration are rarely associated with gastrointestinal upset.  Gastrointestinal side effects of hydrocodone have included nausea, vomiting, constipation, and dry mouth.[Ref]
-Genitourinary side effects of hydrocodone have included ureteral spasm, spasm of vesicle sphincters, and urinary retention.[Ref]
-Dermatologic side effects of guaifenesin have included rash. Narcotic-induced rash has also been reported.[Ref]
-1. Morrow PL, Faris EC "Death associated with inadvertent hydrocodone overdose in a child with a respiratory tract infection." Am J Forensic Med Pathol 8 (1987): 60-3
-2. Turturro MA, Paris PM, Yealy DM, Menegazzi JJ "Hydrocodone versus codeine in acute musculoskeletal pain." Ann Emerg Med 20 (1991): 1100-3
-3. Sackner MA "Effects of hydrocodone bitartrate on breathing pattern of patients with chronic obstructive pulmonary disease and restrictive lung disease." Mt Sinai J Med 51 (1984): 222-6
-4. "Product Information. Vicodin Tuss (guaifenesin-hydrocodone)" Knoll Pharmaceutical Company, Mount Olive, NJ. 
-5. Covington TR, Lawson LC, Young LL, eds. "Handbook of Nonprescription Drugs. 10th ed." Washington, DC: American Pharmaceutical Association  (1993):
-6. "Product Information. Robitussin (guaifenesin)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-7. Fricke J, Halladay SC, Bynum L, Francisco CA "Pain relief after dental impaction surgery using ketorolac, hydrocodone plus acetaminophen, or placebo." Clin Ther 15 (1993): 500-9
-8. Cohen J, Tattersfield H, Lloyd D, Cantopher T "A request for a strong analgesic." Practitioner 234 (1990): 691-4
-9. Sorensen JL, Hargreaves WA, Weinberg JA "Heroin addict responses to six weeks of detoxification with LAAM." Drug Alcohol Depend 9 (1982): 79-87
-10. Morrison AB "Toxicity and abuse of hydrocodone bitartrate." Can Med Assoc J 120 (1979): 1338
-Not all side effects for CodiCLEAR DH may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+One study has suggested that the respiratory depression caused by hydrocodone may be of benefit in the treatment of dyspnea related to chronic obstructive pulmonary disease and restrictive lung disease.  However, the potential for the precipitation of respiratory insufficiency makes such use of hydrocodone hazardous and such use should be undertaken, if at all, only with extreme caution.
+Nervous system side effects of guaifenesin have included dizziness and headache.  Central nervous system adverse effects of hydrocodone have included mental depression, dizziness, lightheadedness, respiratory depression (which is sometimes fatal), stupor, delirium, somnolence, agitation, and dysphoria.
+Other side effects of hydrocodone have included withdrawal symptoms, such as agitation, restlessness, anxiety, insomnia, tremor, abdominal cramps, blurred vision, vomiting and sweating, after either abrupt cessation or fast tapering of narcotic analgesics.
+Gastrointestinal side effects of guaifenesin have included upset stomach and vomiting with higher than recommended doses.  Doses recommended for expectoration are rarely associated with gastrointestinal upset.  Gastrointestinal side effects of hydrocodone have included nausea, vomiting, constipation, and dry mouth.
+Genitourinary side effects of hydrocodone have included ureteral spasm, spasm of vesicle sphincters, and urinary retention.
+Dermatologic side effects of guaifenesin have included rash. Narcotic-induced rash has also been reported.
 Difficult or troubled breathing
 irregular, fast or slow, or shallow breathing
 pale or blue lips, fingernails, or skin
 shortness of breath
-
-
 Diarrhea
 dizziness
 feeling of warmth
@@ -38,4 +16,3 @@ nausea
 redness of the face, neck, arms, and occasionally, upper chest
 sleepiness or unusual drowsiness
 sudden sweating
-

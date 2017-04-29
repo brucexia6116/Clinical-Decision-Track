@@ -1,27 +1,17 @@
 Commonly reported side effects of mitotane include: lethargy and vertigo.  See below for a comprehensive list of adverse effects.
-Applies to mitotane: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by mitotane. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking mitotane:
-Some of the side effects that can occur with mitotane may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to mitotane: oral tablet
-Very common (10% or more): Adrenal insufficiency, gynecomastiaFrequency not reported: Thyroid impairment, lowered protein-bound iodine (PBI)Postmarketing reports: Growth retardation, hypothyroidism[Ref]
-Very common (10% or more): CNS effects (up to 40%; primarily depression as manifested by lethargy and somnolence 25%, and dizziness or vertigo 15%), ataxia, paresthesia, sleepinessCommon (1% to 10%): Mental impairment, polyneuropathy, movement disorder, headacheFrequency not reported: Balance disorders, dysgeusia, memory defects, central vestibular syndrome, Parkinson's syndrome, encephalopathyPostmarketing reports: Neuropsychological disturbance, dysarthria[Ref]
-Very common (10% or more): Prolonged bleeding time (up to 90%), leukopenia/neutropenia (up to 12%)Common (1% to 10%): Anemia, thrombocytopenia[Ref]
-Very common (10% or more): Elevated liver enzymes (gamma-GT, aminotransferase, alkaline phosphatase) Common (1% to 10%): Autoimmune hepatitisFrequency not reported: Liver damage Postmarketing reports: Hepatitis[Ref]
-Very common (10% or more): GI disturbances (up to 80%; anorexia, nausea, vomiting, diarrhea), mucositis, epigastric discomfortFrequency not reported: Salivary hypersecretion, dyspepsia[Ref]
-Frequency not reported: Hypertension, orthostatic hypotension, flushing[Ref]
-Very common (10% or more): Skin toxicity/skin rash (up to 25%)[Ref]
-Frequency not reported: Hematuria, hemorrhagic cystitis, albuminuria, proteinuria[Ref]
-Very common (10% or more): Increased plasma cholesterol/hypercholesterolemia, increased plasma triglycerides/hypertriglyceridemiaPostmarketing reports: Decreased blood uric acid/hypouricemia[Ref]
-Very common (10% or more): Myasthenia[Ref]
-Frequency not reported: Blurred vision, diplopia, lens opacity, toxic retinopathy, visual impairmentPostmarketing reports: Maculopathy[Ref]
-Very common (10% or more): AstheniaFrequency not reported: Generalized aching, hyperpyrexia, opportunistic mycosis[Ref]
-Very common (10% or more): ConfusionFrequency not reported: Aggressiveness[Ref]
-1. "Product Information. Lysodren (mitotane)." Bristol-Myers Squibb, Princeton, NJ. 
-Not all side effects for mitotane may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Adrenal insufficiency, gynecomastiaFrequency not reported: Thyroid impairment, lowered protein-bound iodine (PBI)Postmarketing reports: Growth retardation, hypothyroidism
+Very common (10% or more): CNS effects (up to 40%; primarily depression as manifested by lethargy and somnolence 25%, and dizziness or vertigo 15%), ataxia, paresthesia, sleepinessCommon (1% to 10%): Mental impairment, polyneuropathy, movement disorder, headacheFrequency not reported: Balance disorders, dysgeusia, memory defects, central vestibular syndrome, Parkinson's syndrome, encephalopathyPostmarketing reports: Neuropsychological disturbance, dysarthria
+Very common (10% or more): Prolonged bleeding time (up to 90%), leukopenia/neutropenia (up to 12%)Common (1% to 10%): Anemia, thrombocytopenia
+Very common (10% or more): Elevated liver enzymes (gamma-GT, aminotransferase, alkaline phosphatase) Common (1% to 10%): Autoimmune hepatitisFrequency not reported: Liver damage Postmarketing reports: Hepatitis
+Very common (10% or more): GI disturbances (up to 80%; anorexia, nausea, vomiting, diarrhea), mucositis, epigastric discomfortFrequency not reported: Salivary hypersecretion, dyspepsia
+Frequency not reported: Hypertension, orthostatic hypotension, flushing
+Very common (10% or more): Skin toxicity/skin rash (up to 25%)
+Frequency not reported: Hematuria, hemorrhagic cystitis, albuminuria, proteinuria
+Very common (10% or more): Increased plasma cholesterol/hypercholesterolemia, increased plasma triglycerides/hypertriglyceridemiaPostmarketing reports: Decreased blood uric acid/hypouricemia
+Very common (10% or more): Myasthenia
+Frequency not reported: Blurred vision, diplopia, lens opacity, toxic retinopathy, visual impairmentPostmarketing reports: Maculopathy
+Very common (10% or more): AstheniaFrequency not reported: Generalized aching, hyperpyrexia, opportunistic mycosis
+Very common (10% or more): ConfusionFrequency not reported: Aggressiveness
 Darkening of the skin
 diarrhea
 dizziness or lightheadedness
@@ -31,16 +21,10 @@ mental depression
 nausea or vomiting
 skin rash
 unusual tiredness or weakness
-
-
 Blood in the urine
 blurred vision
 double vision
-
-
 Shortness of breath
-
-
 Chills
 cloudy urine
 cold sweats
@@ -58,8 +42,6 @@ redness of the face, neck, arms, and occasionally, upper chest
 slow or fast heartbeat
 vision changes
 white area over the eye
-
-
 Feeling of constant movement of self or surroundings
 indigestion
 passing of gas
@@ -67,9 +49,6 @@ sensation of spinning
 sleepiness
 stomach pain, fullness, or discomfort
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
-
-
 Aching muscles
 flushing or redness of the skin
 muscle twitching
-

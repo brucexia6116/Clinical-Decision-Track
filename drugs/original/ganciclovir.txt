@@ -1,82 +1,36 @@
 Commonly reported side effects of ganciclovir include: severe neutropenia, severe thrombocytopenia, anemia, leukopenia, neutropenia, and decreased creatinine clearance. Other side effects include: severe anemia.  See below for a comprehensive list of adverse effects.
-Applies to ganciclovir: capsule, powder for solution
-In addition to its needed effects, some unwanted effects may be caused by ganciclovir. In the event that any of these side effects do occur, they may require medical attention.
 Medicines like ganciclovir can sometimes cause serious side effects such as blood problems; these are described below. Discuss these possible effects with your doctor.
-You should check with your doctor immediately if any of these side effects occur when taking ganciclovir:
-Some of the side effects that can occur with ganciclovir may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ganciclovir: intravenous powder for injection, oral capsule
-In phase 3 clinical trials, ganciclovir was discontinued due to adverse effects in 9% of patients receiving maintenance treatment for CMV retinitis.  Ganciclovir was discontinued 19.5% of AIDS patients receiving CMV prophylaxis due to adverse events, new or worsening intercurrent disease, or laboratory abnormalities (compared to 16% receiving placebo).[Ref]
-Hematologic side effects have included neutropenia, anemia, and thrombocytopenia and are the major toxicity of ganciclovir.  Leukopenia, pancytopenia, hemolytic anemia, hemolytic uremic syndrome, pure red blood cell aplasia, eosinophilia, and neutrophil dysplasia (with evidence of bone marrow hypoplasia) have also been reported.  Coagulation disorder has been reported in pediatric patients.[Ref]
-Bone marrow suppression is dose-related and usually occurs before a total dose of 200 mg/kg is reached.  Sargramostim (GM-CSF) or filgrastim (G-CSF) have been used for the management of neutropenia due to ganciclovir.[Ref]
-Gastrointestinal side effects have included diarrhea (41% to 48%), anorexia (14% to 19%), vomiting (13% to 14%), nausea, flatulence, abdominal pain, aphthous stomatitis, constipation, dyspepsia, eructation, intestinal ulceration, gastrointestinal perforation, pancreatitis, dysphasia, and cholelithiasis.[Ref]
-Renal side effects have included increased serum creatinine, kidney failure, abnormal kidney function, and renal tubular disorder.  Abnormal kidney function has also been reported in pediatric patients.[Ref]
-Genitourinary side effects have included urinary frequency, infertility, and testicular hypotrophy.[Ref]
-Hypersensitivity side effects have included allergic reaction, anaphylactic reaction, exfoliative dermatitis, and Stevens-Johnson syndrome.[Ref]
-Ocular side effects have included retinal detachment (8% to 11%) in patients with CMV retinitis, both before and after initiation of treatment.  Abnormal vision, dry eyes, vitreous disorder, cataracts, and oculomotor nerve paralysis have also been reported.[Ref]
-Cases of ventricular tachycardia associated with ganciclovir infusions in patients with AIDS have been reported, although it is known that HIV infection is associated with myocarditis, decreased left ventricular function, and in some cases, nonsustained ventricular tachycardia.[Ref]
-Cardiovascular side effects have included hypertension, phlebitis, edema, vasodilatation, cardiac arrest, cardiac conduction abnormality, vasculitis, stroke, torsades de pointes, and ventricular tachycardia.  Hypertension has been reported in pediatric patients.[Ref]
-Dermatologic side effects have included pruritus (5% to 10%), alopecia, and dry skin.  Interstitial granulomatous drug reaction has been reported in at least one patient.[Ref]
-Rare cases of hepatitis associated with ganciclovir have been reported, but in most cases, other potentially hepatotoxic drugs were coadministered.[Ref]
-Hepatic side effects have included increased SGOT and SGPT, cholestasis, hepatic failure, and hepatitis.[Ref]
-Seizures, psychosis, nightmares, anxiety, ataxia, and somnolence have been reported, but are rare and difficult to attribute to ganciclovir therapy since the patients are otherwise very ill and receiving other medications.[Ref]
-Nervous system side effects have included neuropathy (8% to 21%), abnormal dreams, anxiety, confusion, depression, dizziness, dry mouth, insomnia, seizures, somnolence, abnormal thinking, tremor, agitation, delirium, dysesthesia, encephalopathy, extrapyramidal reaction, facial palsy, hallucinations, intracranial hypertension, irritability, loss of memory, and myelopathy.[Ref]
-Endocrine side effects have included sweating (11% to 14%).[Ref]
-Local side effects have included catheter infection (4% to 9%), catheter sepsis (1% to 8%), and injection site inflammation.[Ref]
-Metabolic side effects have included weight loss, acidosis, elevated triglyceride levels, hypercalcemia, hyponatremia, and inappropriate serum ADH.  Hypokalemia has been reported in pediatric patients.[Ref]
-Musculoskeletal side effects have included arthralgia, leg cramps, myalgia, myasthenia, arthritis, and rhabdomyolysis.[Ref]
-Respiratory side effects have included increased cough, dyspnea, bronchospasm, and pulmonary fibrosis.  Pneumonia has been reported in pediatric patients.[Ref]
-Other side effects have included fever (35% to 48%), infection (8% to 13%), chills (7% to 10%), sepsis (3% to 15%), abdominal enlargement, asthenia, chest pain, edema, headache, malaise, multiple organ failure, pain, taste perversion, tinnitus, loss of sense of smell, and peripheral ischemia.[Ref]
-Immunologic side effects have included immune system disorder in pediatric patients.[Ref]
-1. "Product Information. Cytovene (ganciclovir)." Syntex Laboratories Inc, Palo Alto, CA. 
-2. Wiltshire H,  Paya CV,  Pescovitz MD, et al. "Pharmacodynamics of Oral Ganciclovir and Valganciclovir in Solid Organ Transplant Recipients." Transplantation 79 (2005): 1477-1483
-3. Slifkin M,  Doron S,  Snydman DR "Viral prophylaxis in organ transplant patients." Drugs 64 (2004): 2763-92
-4. Sulecki M, Rosenfeld CS, Przepiorka D, et al "Treatment of ganciclovir-induced neutropenia with recombinant human GM-CSF." Am J Med 90 (1991): 401-2
-5. Tomonari A,  Takahashi S,  Ooi J, et al. "Preemptive therapy with ganciclovir 5 mg/kg once daily for cytomegalovirus infection after unrelated cord blood transplantation." Bone Marrow Transplant  (2007):
-6. Reischig T,  Jindra P,  Mares J, et al. "Valacyclovir for Cytomegalovirus Prophylaxis Reduces the Risk of Acute Renal Allograft Rejection." Transplantation 79 (2005): 317-324
-7. Whitely RJ "Ganciclovir: have we established clinical value in the treatment of cytomegalovirus infections?" Ann Intern Med 108 (1988): 452-4
-8. Salzberger B, Bowden RA, Hackman RC, Davis C, Boeckh M "Neutropenia in allogeneic marrow transplant recipients receiving ganciclovir for prevention of cytomegalovirus disease: risk factor and outcome." Blood 90 (1997): 2502-8
-9. Asano-Mori Y,  Kanda Y,  Oshima K, et al. "Pharmacokinetics of ganciclovir in haematopoietic stem cell transplantation recipients with or without renal impairment." J Antimicrob Chemother 57 (2006): 1004-7
-10. Hayashi K,  Mori J,  Saito H,  Hayashi T "Antiviral targets of a chromene derivative from Sargassum micracanthum in the replication of human cytomegalovirus." Biol Pharm Bull 29 (2006): 1843-7
-11. Goodrich JM, Mori M, Gleaves CA, et al "Early treatment with ganciclovir to prevent cytomegalovirus disease after allogeneic bone marrow transplantation." N Engl J Med 325 (1991): 1601-7
-12. SOCA Reseach Group, et al "Mortality in patients with the acquired immunodeficiency syndrome treated with either foscarnet or ganciclovir for cytomegalovirus retinitis." N Engl J Med 326 (1992): 213-20
-13. Schmidt GM, Horak DA, Niland JC, et al "A randomized, controlled trial of prophylactic ganciclovir for cytomegalovirus pulmonary infection in recipients of allogeneic bone marrow transplants." N Engl J Med 324 (1991): 1005-12
-14. Faulds D, Heel RC "Ganciclovir: a review of its antiviral activity, pharmacokinetic properties and therapeutic efficacy in cytomegalovirus infections." Drugs 39 (1990): 597-638
-15. Takami A,  Mochizuki K,  Ito S, et al. "Safety and efficacy of foscarnet for preemptive therapy against cytomegalovirus reactivation after unrelated cord blood transplantation." Transplant Proc 39 (2007): 237-9
-16. Taegtmeyer AB,  Halil O,  Bell AD,  Carby M,  Cummins D,  Banner NR "Neutrophil dysplasia (acquired pseudo-pelger anomaly) caused by ganciclovir." Transplantation 80 (2005): 127-30
-17. Reed EC, Wolford JL, Kopecky KJ, et al "Ganciclovir for the treatment of cytomegalovirus gastroenteritis in bone marrow transplant patients." Ann Intern Med 112 (1990): 505-10
-18. Keven K,  Basu A,  Tan HP, et al. "Cytomegalovirus prophylaxis using oral ganciclovir or valganciclovir in kidney and pancreas-kidney transplantation under antibody preconditioning." Transplant Proc 36 (2004): 3107-12
-19. Cochrane AB "Antiviral dosing and efficacy for prophylaxis of cytomegalovirus disease in solid organ transplant recipients." Am J Health Syst Pharm 63(19 Suppl 5) (2006): S17-21
-20. Jabs DA "The ganciclovir implant plus oral ganciclovir versus parenteral cidofovir for the treatment of cytomegalovirus retinitis in patients with acquired immunodeficiency syndrome: The ganciclovir cidofovir cytomegalovirus retinitis trial." Am J Ophthalmol 131 (2001): 457-67
-21. Figge HL, Bailie GR, Briceland LL, Kowalsky SF "Possible ganciclovir-induced hepatotoxicity in patients with aids." Clin Pharm 11 (1992): 432-4
-22. Izzedine H,  Launay-Vacher V,  Deray G "Antiviral drug-induced nephrotoxicity." Am J Kidney Dis 45 (2005): 804-17
-23. Cochereau-Massin I, Lehoang P, Lautier-Frau M, et al "Efficacy and tolerance of intravitreal ganciclovir in cytomegalovirus retinitis in aids." Ophthalmology 98 (1991): 1348-55
-24. Cohen AJ, Weiser B, Afzal Q, Fuhrer J "Ventricular tachycardia in two patients with aids receiving ganciclovir (DHPG)." AIDS 4 (1990): 807-9
-25. Marcollo Pini A,  Kerl K,  Kamarachev J,  French LE,  Hofbauer GF "Interstitial granulomatous drug reaction following intravenous ganciclovir." Br J Dermatol 158 (2008): 1391-3
-26. Ernst ME, Franey RJ "Acyclovir- and ganciclovir-induced neurotoxicity." Ann Pharmacother 32 (1998): 111-3
-27. Hansen BA, Greenberg KS, Richter JA "Ganciclovir-induced psychosis." N Engl J Med 335 (1996): 1397
-28. Davis CL, Springmeyer S, Gmerek BJ "Central nervous system side effects of ganciclovir." N Engl J Med 322 (1990): 933-4
-29. Schiff HB "More on ganciclovir-induced "psychosis"." N Engl J Med 336 (1997): 1190
-30. Georgiev OP, Lal SM, Gupta N, Ross G "Ganciclovir-associated hypercalcemia in a renal transplant patient." Int J Artif Organs 21 (1998): 702-4
-Not all side effects for ganciclovir may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+In phase 3 clinical trials, ganciclovir was discontinued due to adverse effects in 9% of patients receiving maintenance treatment for CMV retinitis.  Ganciclovir was discontinued 19.5% of AIDS patients receiving CMV prophylaxis due to adverse events, new or worsening intercurrent disease, or laboratory abnormalities (compared to 16% receiving placebo).
+Hematologic side effects have included neutropenia, anemia, and thrombocytopenia and are the major toxicity of ganciclovir.  Leukopenia, pancytopenia, hemolytic anemia, hemolytic uremic syndrome, pure red blood cell aplasia, eosinophilia, and neutrophil dysplasia (with evidence of bone marrow hypoplasia) have also been reported.  Coagulation disorder has been reported in pediatric patients.
+Bone marrow suppression is dose-related and usually occurs before a total dose of 200 mg/kg is reached.  Sargramostim (GM-CSF) or filgrastim (G-CSF) have been used for the management of neutropenia due to ganciclovir.
+Gastrointestinal side effects have included diarrhea (41% to 48%), anorexia (14% to 19%), vomiting (13% to 14%), nausea, flatulence, abdominal pain, aphthous stomatitis, constipation, dyspepsia, eructation, intestinal ulceration, gastrointestinal perforation, pancreatitis, dysphasia, and cholelithiasis.
+Renal side effects have included increased serum creatinine, kidney failure, abnormal kidney function, and renal tubular disorder.  Abnormal kidney function has also been reported in pediatric patients.
+Genitourinary side effects have included urinary frequency, infertility, and testicular hypotrophy.
+Hypersensitivity side effects have included allergic reaction, anaphylactic reaction, exfoliative dermatitis, and Stevens-Johnson syndrome.
+Ocular side effects have included retinal detachment (8% to 11%) in patients with CMV retinitis, both before and after initiation of treatment.  Abnormal vision, dry eyes, vitreous disorder, cataracts, and oculomotor nerve paralysis have also been reported.
+Cases of ventricular tachycardia associated with ganciclovir infusions in patients with AIDS have been reported, although it is known that HIV infection is associated with myocarditis, decreased left ventricular function, and in some cases, nonsustained ventricular tachycardia.
+Cardiovascular side effects have included hypertension, phlebitis, edema, vasodilatation, cardiac arrest, cardiac conduction abnormality, vasculitis, stroke, torsades de pointes, and ventricular tachycardia.  Hypertension has been reported in pediatric patients.
+Dermatologic side effects have included pruritus (5% to 10%), alopecia, and dry skin.  Interstitial granulomatous drug reaction has been reported in at least one patient.
+Rare cases of hepatitis associated with ganciclovir have been reported, but in most cases, other potentially hepatotoxic drugs were coadministered.
+Hepatic side effects have included increased SGOT and SGPT, cholestasis, hepatic failure, and hepatitis.
+Seizures, psychosis, nightmares, anxiety, ataxia, and somnolence have been reported, but are rare and difficult to attribute to ganciclovir therapy since the patients are otherwise very ill and receiving other medications.
+Nervous system side effects have included neuropathy (8% to 21%), abnormal dreams, anxiety, confusion, depression, dizziness, dry mouth, insomnia, seizures, somnolence, abnormal thinking, tremor, agitation, delirium, dysesthesia, encephalopathy, extrapyramidal reaction, facial palsy, hallucinations, intracranial hypertension, irritability, loss of memory, and myelopathy.
+Endocrine side effects have included sweating (11% to 14%).
+Local side effects have included catheter infection (4% to 9%), catheter sepsis (1% to 8%), and injection site inflammation.
+Metabolic side effects have included weight loss, acidosis, elevated triglyceride levels, hypercalcemia, hyponatremia, and inappropriate serum ADH.  Hypokalemia has been reported in pediatric patients.
+Musculoskeletal side effects have included arthralgia, leg cramps, myalgia, myasthenia, arthritis, and rhabdomyolysis.
+Respiratory side effects have included increased cough, dyspnea, bronchospasm, and pulmonary fibrosis.  Pneumonia has been reported in pediatric patients.
+Other side effects have included fever (35% to 48%), infection (8% to 13%), chills (7% to 10%), sepsis (3% to 15%), abdominal enlargement, asthenia, chest pain, edema, headache, malaise, multiple organ failure, pain, taste perversion, tinnitus, loss of sense of smell, and peripheral ischemia.
+Immunologic side effects have included immune system disorder in pediatric patients.
 Sore throat and fever
 unusual bleeding or bruising
-
-
 Mood or other mental changes
 nervousness 
 pain at place of injection
  skin rash
 tremor
 unusual tiredness and weakness
-
-
 Decreased vision or any change in vision
-
-
 Abdominal or stomach pain
 loss of appetite 
 nausea and vomiting
-

@@ -1,29 +1,18 @@
 More frequently reported side effects include: upper respiratory tract infection.  See below for a comprehensive list of adverse effects.
-Applies to ezetimibe: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by ezetimibe. In the event that any of these side effects do occur, they may require medical attention.
-Some of the side effects that can occur with ezetimibe may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ezetimibe: oral tablet
-The most frequently reported side effects were upper respiratory tract infection, diarrhea, arthralgia, sinusitis, and pain in extremity.[Ref]
-Common (1% to 10%): Abdominal pain, diarrhea, flatulenceUncommon (0.1% to 1%): Dyspepsia, gastroesophageal reflux disease, nauseaPostmarketing reports: Pancreatitis, constipation[Ref]
-Postmarketing reports: Anaphylaxis[Ref]
-Common (1% to 10%): Arthralgia, pain in extremityUncommon (0.1% to 1%): Muscle spasms, neck painPostmarketing reports: Myalgia, myopathy, rhabdomyolysis[Ref]
-Common (1% to 10%): Upper respiratory tract infection, sinusitisUncommon (0.1% to 1%): CoughPostmarketing reports: Dyspnea[Ref]
-Postmarketing reports: Hypersensitivity reaction[Ref]
-Uncommon (0.1% to 1%): Gamma-glutamyltransferase increased, liver function test abnormal, AST/ALT increasedPostmarketing reports: Hepatitis, liver transaminases increased, cholelithiasis, cholecystitis[Ref]
-Postmarketing reports: Thrombocytopenia[Ref]
-Uncommon (0.1% to 1%): DizzinessPostmarketing reports: Paresthesia, headache[Ref]
-Postmarketing reports: Depression[Ref]
-Uncommon (0.1% to 1%): Hot flush, hypertension[Ref]
-Postmarketing reports: Angioedema, rash, urticaria, erythema multiforme[Ref]
-Uncommon (0.1% to 1%): Appetite decreased[Ref]
-Common (1% to 10%): Fatigue, influenzaUncommon (0.1% to 1%): Chest pain, pain, creatine phosphokinase increasedPostmarketing reports: Asthenia[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Zetia (ezetimibe)." Schering-Plough Corporation, Kenilworth, NJ. 
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for ezetimibe may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects were upper respiratory tract infection, diarrhea, arthralgia, sinusitis, and pain in extremity.
+Common (1% to 10%): Abdominal pain, diarrhea, flatulenceUncommon (0.1% to 1%): Dyspepsia, gastroesophageal reflux disease, nauseaPostmarketing reports: Pancreatitis, constipation
+Postmarketing reports: Anaphylaxis
+Common (1% to 10%): Arthralgia, pain in extremityUncommon (0.1% to 1%): Muscle spasms, neck painPostmarketing reports: Myalgia, myopathy, rhabdomyolysis
+Common (1% to 10%): Upper respiratory tract infection, sinusitisUncommon (0.1% to 1%): CoughPostmarketing reports: Dyspnea
+Postmarketing reports: Hypersensitivity reaction
+Uncommon (0.1% to 1%): Gamma-glutamyltransferase increased, liver function test abnormal, AST/ALT increasedPostmarketing reports: Hepatitis, liver transaminases increased, cholelithiasis, cholecystitis
+Postmarketing reports: Thrombocytopenia
+Uncommon (0.1% to 1%): DizzinessPostmarketing reports: Paresthesia, headache
+Postmarketing reports: Depression
+Uncommon (0.1% to 1%): Hot flush, hypertension
+Postmarketing reports: Angioedema, rash, urticaria, erythema multiforme
+Uncommon (0.1% to 1%): Appetite decreased
+Common (1% to 10%): Fatigue, influenzaUncommon (0.1% to 1%): Chest pain, pain, creatine phosphokinase increasedPostmarketing reports: Asthenia
 Abdominal fullness
 black tarry stools
 bleeding gums
@@ -52,15 +41,11 @@ unusual bleeding or bruising
 upper right abdominal pain
 vomiting
  yellow eyes or skin
-
-
 Fever
 headache
  muscle pain
 runny nose
  sore throat
-
-
 Back pain
 body aches or pain
 chest pain
@@ -84,4 +69,3 @@ tightness of chest or wheezing
 trouble in swallowing
 unusual tiredness or weakness
 voice changes
-

@@ -1,28 +1,9 @@
-Generic Name: guaifenesin / pseudoephedrine
-Applies to guaifenesin / pseudoephedrine: controlled-release capsules, sustained-release capsules, sustained-release tablets, tablets
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Dizziness; excitability; headache; nausea; nervousness or anxiety; trouble sleeping; weakness.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); difficulty urinating; fast or irregular heartbeat; hallucinations; seizures; severe dizziness, lightheadedness, or headache; tremor.
-
-
-Applies to guaifenesin / pseudoephedrine: oral capsule, oral capsule extended release, oral liquid, oral syrup, oral tablet, oral tablet chewable, oral tablet extended release
-Cardiovascular side effects have included significant increases in heart rate.  Hypertension and arrhythmias have also been problematic in susceptible patients.[Ref]
-Pseudoephedrine may cause vasoconstriction which generally does not produce hypertension, but may be problematic for patients with preexisting hypertension.  Arrhythmias may be produced in predisposed patients.  Rarely, pseudoephedrine has been reported to cause coronary artery spasm and chest pain.[Ref]
-Nervous system side effects of pseudoephedrine have included stimulation, resulting in tremor, anxiety, and nervousness.  Insomnia has been reported in up to 30% of pseudoephedrine-treated patients.  Headache has also been reported in patients receiving pseudoephedrine.  Guaifenesin has occasionally caused dizziness and headache.[Ref]
-Gastrointestinal side effects associated with pseudoephedrine have included anorexia and gastric irritation in approximately 5% of patients.  Dry mouth, nose, or throat has occurred in up to 15% of patients.  Gastrointestinal upset and vomiting have been reported with higher than recommended doses of guaifenesin.  Doses recommended for expectoration have rarely been associated with gastrointestinal upset.[Ref]
-Hypersensitivity side effects have included fixed drug eruptions secondary to pseudoephedrine.[Ref]
-Dermatologic side effects have included rare reports of rash.[Ref]
-1. Gordon RD, Ballantine DM, Bachmann AW "Effects of repeated doses of pseudoephedrine on blood pressure and plasma catecholamines in normal subjects and in patients with phaeochromocytoma." Clin Exp Pharmacol Physiol 19 (1992): 287-90
-2. Dickerson J, Perrier D, Mayersohn M, Bressler R "Dose tolerance and pharmacokinetic studies of L (+) pseudoephedrine capsules in man." Eur J Clin Pharmacol 14 (1978): 253-9
-3. Rosen RA "Angina associated with pseudoephedrine ." Ann Emerg Med 10 (1981): 230-1
-4. Wiener I, Tilkian AG, Palazzolo M "Coronary artery spasm and myocardial infarction in a patient with normal coronary arteries: temporal relationship to pseudoephedrine ingestion." Cathet Cardiovasc Diagn 20 (1990): 51-3
-5. Mariani PJ "Pseudoephedrine-induced hypertensive emergency: treatment with labetalol." Am J Emerg Med 4 (1986): 141-2
-6. Covington TR, Lawson LC, Young LL, eds. "Handbook of Nonprescription Drugs. 10th ed." Washington, DC: American Pharmaceutical Association  (1993):
-7. Stroh JE, Jr  Ayars GH, Bernstein IL, Kemp JP, Podleski WK, Prenner BM, Schoenwetter WF, Salzmann JK "A comparative tolerance study of terfenadine-pseudoephedrine combination tablets and pseudoephedrine tablets in patients with allergic or vasomotor rhinitis." J Int Med Res 16 (1988): 420-7
-8. "Product Information. Robitussin (guaifenesin)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-9. Loizou LA, Hamilton JG, Tsementzis SA "Intracranial haemorrhage in association with pseudoephedrine overdose." J Neurol Neurosurg Psychiatry 45 (1982): 471-2
-10. Quan MB, Chow WC "Nonpigmenting fixed drug eruption after pseudoephedrine." Int J Dermatol 35 (1996): 367-70
-11. Camisa C "Fixed drug eruption due to pseudoephedrine." Cutis 41 (1988): 339-40
-12. Tomb RR, Lepoittevin JP, Espinassouze F, Heid E, Foussereau J "Systemic contact dermatitis from pseudoephedrine." Contact Dermatitis 24 (1991): 86-8
-13. Shelley WB, Shelley ED "Nonpigmenting fixed drug eruption as a distinctive reaction pattern: examples caused by sensitivity to pseudoephedrine hydrochloride and tetrahydrozoline." J Am Acad Dermatol 17 (1987): 403-7
-Not all side effects for Maxifed may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Cardiovascular side effects have included significant increases in heart rate.  Hypertension and arrhythmias have also been problematic in susceptible patients.
+Pseudoephedrine may cause vasoconstriction which generally does not produce hypertension, but may be problematic for patients with preexisting hypertension.  Arrhythmias may be produced in predisposed patients.  Rarely, pseudoephedrine has been reported to cause coronary artery spasm and chest pain.
+Nervous system side effects of pseudoephedrine have included stimulation, resulting in tremor, anxiety, and nervousness.  Insomnia has been reported in up to 30% of pseudoephedrine-treated patients.  Headache has also been reported in patients receiving pseudoephedrine.  Guaifenesin has occasionally caused dizziness and headache.
+Gastrointestinal side effects associated with pseudoephedrine have included anorexia and gastric irritation in approximately 5% of patients.  Dry mouth, nose, or throat has occurred in up to 15% of patients.  Gastrointestinal upset and vomiting have been reported with higher than recommended doses of guaifenesin.  Doses recommended for expectoration have rarely been associated with gastrointestinal upset.
+Hypersensitivity side effects have included fixed drug eruptions secondary to pseudoephedrine.
+Dermatologic side effects have included rare reports of rash.

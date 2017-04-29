@@ -1,17 +1,9 @@
 Commonly reported side effects of miglitol include: abdominal pain, diarrhea, gastrointestinal symptoms, and flatulence. Other side effects include: decreased serum iron, and skin rash.  See below for a comprehensive list of adverse effects.
-Applies to miglitol: oral tablet
-Some of the side effects that can occur with miglitol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to miglitol: oral tablet
 The most commonly reported adverse reactions include gastrointestinal symptoms; they tend to diminish in frequency and intensity with time.
-Very common (10% or more): Flatulence (41.5%), diarrhea (28.7%), abdominal pain (11.7%)Postmarketing reports: Pneumatosis cystoides intestinalis (may present with symptoms of diarrhea, mucus discharge, rectal bleeding, and constipation), ileus (including paralytic ileus), subileus, gastrointestinal pain, nausea, abdominal distention.[Ref]
-The severity of gastrointestinal symptoms may be decreased by dosage reduction and avoiding high gas-producing foods and sucrose.  Some studies have demonstrated a decrease in the severity of gastrointestinal effects over time with continued administration.[Ref]
-Common (1% to 10%): Skin rash[Ref]
-Common (1% to 10%): Low serum iron[Ref]
-1. "Product Information. Glyset (miglitol)." Bayer, West Haven, CT. 
-Not all side effects for miglitol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Flatulence (41.5%), diarrhea (28.7%), abdominal pain (11.7%)Postmarketing reports: Pneumatosis cystoides intestinalis (may present with symptoms of diarrhea, mucus discharge, rectal bleeding, and constipation), ileus (including paralytic ileus), subileus, gastrointestinal pain, nausea, abdominal distention.
+The severity of gastrointestinal symptoms may be decreased by dosage reduction and avoiding high gas-producing foods and sucrose.  Some studies have demonstrated a decrease in the severity of gastrointestinal effects over time with continued administration.
+Common (1% to 10%): Skin rash
+Common (1% to 10%): Low serum iron
 Bloated full feeling
 excess air or gas in stomach or intestines
 increase in bowel movements 
@@ -19,7 +11,4 @@ loose stools
 passing gas
 soft stools
 stomach or abdomen pain
-
-
 Skin rash
-

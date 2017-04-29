@@ -1,33 +1,13 @@
-Applies to magnesium chloride: sustained-release tablets
 Other dosage forms:
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Diarrhea.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); nausea; slow reflexes.
-
-
-Applies to magnesium chloride: compounding powder, injectable solution, oral tablet extended release
-Other side effects have resulted from toxicity (hypermagnesemia).  Mild hypermagnesemia is generally well-tolerated.  Moderate or severe hypermagnesemia primarily affects the nervous and cardiovascular systems.  The effects of hypermagnesemia may be worsened by the presence of hypocalcemia, especially in patients with uremia.[Ref]
-Gastrointestinal side effects have included diarrhea.  Magnesium toxicity has been associated with nausea (magnesium levels of 4 to 5 mEq/L) and rare cases of paralytic ileus (magnesium levels greater than 5 mEq/L).[Ref]
-Nervous system side effects have resulted from the suppression of neuromuscular transmission in the CNS and at the neuromuscular junction by magnesium (antagonized by calcium).  The degree of severity of these side effects has been dependent on the serum magnesium level.  Clinically, if serum magnesium (Mg) levels increase to 4 to 7 mEq/L, there may be a decrease in tendon reflexes, muscle weakness and/or mental confusion/sedation.  At levels of 7 to 10 mEq/L the respiratory rate slows and the blood pressure falls.  At levels  of 10 to 15 mEq/L there is usually profound mental depression, areflexia, coma and respiratory paralysis.  Magnesium also has a curare-like effect at the neuromuscular junction at serum levels above 10 mEq/L.  Death is not uncommon when serum magnesium levels rise to 15 mEq/L.[Ref]
-The cardiovascular consequences of hypermagnesemia are due to peripheral vasodilation.  Hypotension may be observed when serum magnesium levels rise to 7 to 10 mEq/L, becoming severe when serum magnesium levels rise above 10 mEq/L.  Magnesium can also depress myocardial conductivity at levels greater than 10 mEq/L.  This can result in bradyarrhythmias.  While some patients are inexplicably able to tolerate extraordinary magnesium levels, there is a significant risk of asystole when levels rise to 25 mEq/L.  The risk of cardiotoxicity from hypermagnesemia is increased in the presence of hypocalcemia, hyperkalemia, acidosis, digitalis therapy, and renal insufficiency.[Ref]
-Cardiovascular side effects have included hypotension, depressed myocardial conductivity and asystole.[Ref]
-Acute hypermagnesemia may cause hypocalcemia due to suppression of the release of parathyroid hormone (PTH) and competition for renal tubular reabsorption between calcium (Ca) and magnesium.  The latter can lead to decreased Ca reabsorption and hypercalciuria, which aggravates the hypocalcemia produced by decreased release of PTH.[Ref]
-Metabolic side effects have included hypocalcemia.[Ref]
-Magnesium chloride is generally well tolerated.[Ref]
-1. "Product Information. Slow-Mag (magnesium chloride)." Searle, Skokie, IL. 
-2. Fung MC, Weintraub M, Bowen DL "Hypermagnesemia: elderly over-the-counter drug users at risk." Arch Fam Med 4 (1995): 718-23
-3. Golzarian J, Scott HW, Richards WO "Hypermagnesemia-induced paralytic ileus." Dig Dis Sci 39 (1994): 1138-42
-4. Bashir Y, Sneddon JF, Staunton HA, Haywood GA, Simpson IA, McKenna WJ, Camm AJ "Effects of long-term oral magnesium chloride replacement in congestive heart failure secondary to coronary artery disease." Am J Cardiol 72 (1993): 1156-62
-5. Ricci JM, Hariharan S, Helfgott A, Reed K, O'Sullivan MJ "Oral tocolysis with magnesium chloride: a randomized controlled prospective clinical trial." Am J Obstet Gynecol 165 (1991): 603-10
-6. Ridgway LE 3d, Muise K, Wright JW, Patterson RM, Newton ER "A prospective randomized comparison of oral terbutaline and magnesium oxide for the maintenance of tocolysis." Am J Obstet Gynecol 163 (1990): 879-82
-7. Wilson J, Braunwald E, Isselbacher K, Petersdorf R, Martin J, Fauci A, Root R "Harrison's Principles of Internal Medicine, 12th Edition." McGraw-Hill, Inc., Health Professions Division, New York 1 (1991): 1938
-8. Jenny DB, Goris GB, Urwiller RD, Brian BA "Hypermagnesemia following irrigation of renal pelvis. Cause of respiratory depression." JAMA 240 (1978): 1378-9
-9. Alison LH, Bulugahapitiya D "Laxative induced magnesium poisoning in a 6 week old infant." BMJ 300 (1990): 125
-10. Schrier RW, Gottschalk CW, Eds. "Diseases of the Kidney, 5th Edition." Boston, MA: Little, Brown and Company 1-3 (1993): 183-2653
-11. Feldstedt M, Boesgaard S, Bouchelouche P, Svenningsen A, Brooks L, Lech Y, Aldershvile J, Skagen K, Godtfredsen J "Magnesium substitution in acute ischaemic heart syndromes." Eur Heart J 12 (1991): 1215-8
-12. Kelepouris E, Kasama R, Agus ZS "Effects of intracellular magnesium on calcium, potassium and chloride channels." Miner Electrolyte Metab 19 (1993): 277-81
-13. Neumann L, Jensen BG "Osteomalacia from Al and Mg antacids. Report of a case of bilateral hip fracture." Acta Orthop Scand 60 (1989): 361-2
-14. Cumming WA, Thomas VJ "Hypermagnesemia: a cause of abnormal metaphyses in the neonate." AJR Am J Roentgenol 152 (1989): 1071-2
-15. Lembcke B, Fuchs C "Magnesium load induced by ingestion of magnesium-containing antacids." Contrib Nephrol 38 (1984): 185-94
-Not all side effects for magnesium chloride may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Other side effects have resulted from toxicity (hypermagnesemia).  Mild hypermagnesemia is generally well-tolerated.  Moderate or severe hypermagnesemia primarily affects the nervous and cardiovascular systems.  The effects of hypermagnesemia may be worsened by the presence of hypocalcemia, especially in patients with uremia.
+Gastrointestinal side effects have included diarrhea.  Magnesium toxicity has been associated with nausea (magnesium levels of 4 to 5 mEq/L) and rare cases of paralytic ileus (magnesium levels greater than 5 mEq/L).
+Nervous system side effects have resulted from the suppression of neuromuscular transmission in the CNS and at the neuromuscular junction by magnesium (antagonized by calcium).  The degree of severity of these side effects has been dependent on the serum magnesium level.  Clinically, if serum magnesium (Mg) levels increase to 4 to 7 mEq/L, there may be a decrease in tendon reflexes, muscle weakness and/or mental confusion/sedation.  At levels of 7 to 10 mEq/L the respiratory rate slows and the blood pressure falls.  At levels  of 10 to 15 mEq/L there is usually profound mental depression, areflexia, coma and respiratory paralysis.  Magnesium also has a curare-like effect at the neuromuscular junction at serum levels above 10 mEq/L.  Death is not uncommon when serum magnesium levels rise to 15 mEq/L.
+The cardiovascular consequences of hypermagnesemia are due to peripheral vasodilation.  Hypotension may be observed when serum magnesium levels rise to 7 to 10 mEq/L, becoming severe when serum magnesium levels rise above 10 mEq/L.  Magnesium can also depress myocardial conductivity at levels greater than 10 mEq/L.  This can result in bradyarrhythmias.  While some patients are inexplicably able to tolerate extraordinary magnesium levels, there is a significant risk of asystole when levels rise to 25 mEq/L.  The risk of cardiotoxicity from hypermagnesemia is increased in the presence of hypocalcemia, hyperkalemia, acidosis, digitalis therapy, and renal insufficiency.
+Cardiovascular side effects have included hypotension, depressed myocardial conductivity and asystole.
+Acute hypermagnesemia may cause hypocalcemia due to suppression of the release of parathyroid hormone (PTH) and competition for renal tubular reabsorption between calcium (Ca) and magnesium.  The latter can lead to decreased Ca reabsorption and hypercalciuria, which aggravates the hypocalcemia produced by decreased release of PTH.
+Metabolic side effects have included hypocalcemia.
+Magnesium chloride is generally well tolerated.
 capsules, tablets

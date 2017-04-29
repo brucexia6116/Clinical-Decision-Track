@@ -1,31 +1,21 @@
-Generic Name: ethacrynic acid
-Applies to ethacrynic acid: oral tablet
 Other dosage forms:
 As well as its needed effects, ethacrynic acid (the active ingredient contained in Sodium Edecrin) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking ethacrynic acid, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking ethacrynic acid, get emergency help immediately:
-
 Some ethacrynic acid side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to ethacrynic acid: intravenous powder for injection, oral tablet
-Frequency not reported: Anorexia, reversible hyperuricemia, hyperglycemia, acute gout, acute symptomatic hypoglycemia with convulsions, blood glucose increased, glucose tolerance test altered[Ref]
-Frequency not reported: Abdominal discomfort or pain, dysphagia, nausea, vomiting, diarrhea, watery profuse diarrhea, gastrointestinal bleeding, acute pancreatitis[Ref]
-Frequency not reported: Deafness, tinnitus, vertigo with fullness in the ears, headache[Ref]
-Frequency not reported: Malaise, fatigue, fever, chills[Ref]
-Frequency not reported: Agranulocytosis, severe neutropenia, thrombocytopenia[Ref]
-Frequency not reported: Henoch Schonlein purpura, rash[Ref]
-Frequency not reported: Urinary urate excretion decreased, hematuria[Ref]
-Frequency not reported: Jaundice, abnormal liver function tests[Ref]
-Frequency not reported: Apprehension, confusion[Ref]
-Frequency not reported: Local irritation, local pain[Ref]
-Frequency not reported: Blurred vision[Ref]
-1. "Product Information. Edecrin (ethacrynic acid)." Merck & Co, Inc, West Point, PA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
+Frequency not reported: Anorexia, reversible hyperuricemia, hyperglycemia, acute gout, acute symptomatic hypoglycemia with convulsions, blood glucose increased, glucose tolerance test altered
+Frequency not reported: Abdominal discomfort or pain, dysphagia, nausea, vomiting, diarrhea, watery profuse diarrhea, gastrointestinal bleeding, acute pancreatitis
+Frequency not reported: Deafness, tinnitus, vertigo with fullness in the ears, headache
+Frequency not reported: Malaise, fatigue, fever, chills
+Frequency not reported: Agranulocytosis, severe neutropenia, thrombocytopenia
+Frequency not reported: Henoch Schonlein purpura, rash
+Frequency not reported: Urinary urate excretion decreased, hematuria
+Frequency not reported: Jaundice, abnormal liver function tests
+Frequency not reported: Apprehension, confusion
+Frequency not reported: Local irritation, local pain
+Frequency not reported: Blurred vision
 It is possible that some side effects of Sodium Edecrin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 intravenous powder for solution
-
 Bleeding gums
 bloating
 clay-colored stools
@@ -44,8 +34,6 @@ skin rash
 unpleasant breath odor
 vomiting of blood
 yellow eyes or skin
-
-
 Anxiety
 black, tarry stools
 blood in urine
@@ -88,8 +76,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting
 watery and severe diarrhea
-
-
 Confusion
 decreased urination
 dizziness, faintness, or lightheadedness when getting up from a lying or sitting position suddenly
@@ -103,8 +89,6 @@ thirst
 trembling
 weakness and heaviness of the legs
 wrinkled skin
-
-
 Continuing ringing or buzzing or other unexplained noise in ears
 difficulty swallowing
 fear
@@ -116,4 +100,3 @@ mild diarrhea
 sensation of spinning
 stomach soreness or discomfort
 weight loss
-

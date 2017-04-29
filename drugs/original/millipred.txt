@@ -1,43 +1,27 @@
-Generic Name: prednisolone
-Applies to prednisolone: oral liquid, oral solution, oral suspension, oral syrup, oral tablet, oral tablet disintegrating
-In addition to its needed effects, some unwanted effects may be caused by prednisolone (the active ingredient contained in Millipred). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking prednisolone:
-Some of the side effects that can occur with prednisolone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to prednisolone: compounding powder, injectable solution, injectable suspension, oral liquid, oral suspension, oral syrup, oral tablet, oral tablet disintegrating
-The most commonly occurring side effects have included fluid retention, alteration in glucose tolerance, increased blood pressure, behavioral and mood changes, increased appetite, and weight gain; the incidence often correlates with dosage, timing of administration, and duration of treatment.[Ref]
-Calciphylaxis has been reported rarely with corticosteroid use, most commonly in patients with ESRD; although some patients have had minimal or no renal impairment with normal calcium, phosphate, and parathyroid hormone levels.[Ref]
-Common (1% to 10%): Alteration in glucose tolerance, increased appetite, weight gainRare (0.01% to 0.1%): CalciphylaxisFrequency not reported: Potassium losses, hypokalemia alkalosis, sodium retention, negative nitrogen balance due to protein catabolism, manifestation of latent diabetes mellitus, increases in total cholesterol, low density lipoproteins, and triglycerides, obesity, dyslipidemia, calciphylaxis[Ref]
-Common (1% to 10%): Fluid retention, blood pressure elevationsFrequency not reported: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension or aggravation of hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis, edema[Ref]
-Frequency not reported: Hirsutism, development of cushingoid state, hyperthyroidism, hypothyroidism, moon face, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress as in trauma, surgery, or illness)[Ref]
-Frequency not reported: Abdominal distention, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, ulcerative esophagitis, esophageal candidiasis, dyspepsia, abdominal pain, diarrhea, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), vomiting[Ref]
-Frequency not reported: Opportunistic infections (bacterial, viral, fungal and parasitic infections), recurrence of dormant tuberculosis, suppressed response to skin tests[Ref]
-Corticosteroid myopathy presents as weakness and wasting of the proximal limb and girdle muscles and is generally reversible following cessation of therapy.Corticosteroids inhibit intestinal calcium absorption and increase urinary calcium excretion leading to bone resorption and bone loss.  Bone loss of 3% over one year has been demonstrated with prednisolone (the active ingredient contained in Millipred) 10 mg per day.  Postmenopausal females are particularly at risk for loss of bone density.  Sixteen percent of elderly patients treated with corticosteroids for 5 years may experience vertebral compression fractures.  One author reported measurable bone loss over two years in women on concomitant therapy with prednisolone 7.5 mg per day and tamoxifen.[Ref]
-Frequency not reported: Aseptic necrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, steroid myopathy, tendon rupture (particularly of the Achilles tendon), vertebral compression fractures, growth suppression in pediatric patients (infancy, childhood and adolescence), proximal myopathy, vertebral and long bone fractures, avascular osteonecrosis, tendinopathies, myalgia[Ref]
-In renal transplant patients maintained on prednisolone (the active ingredient contained in Millipred) 10 mg per day, 33% developed posterior subcapsular cataracts.  Mean time to cataract development is 26 months.  Increased intraocular pressure has occurred in 5% of patients.[Ref]
-Frequency not reported: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, nuclear cataracts (particularly in children), corneal or scleral thinning, exacerbation of ophthalmic viral or fungal disease[Ref]
-Common (1% to 10%): Behavioral changes, mood changes, irritability, suicidal thoughts, psychotic reactions, mania, delusions, hallucinations, aggravation of schizophrenia, anxiety, sleep disorders, amnesiaFrequency not reported: Depression, emotional instability, euphoria, insomnia, mood swings, personality changes, euphoria, psychological dependence[Ref]
-A wide range of psychiatric reactions have been commonly reported in both adults and children.  The frequency of severe reactions has been estimated at around 5% to 6%.  Psychological effects have been reported on withdrawal of corticosteroids, the frequency of this is unknown.[Ref]
-Frequency not reported: Leucocytosis[Ref]
-Frequency not reported: Acne, allergic dermatitis, cutaneous and subcutaneous fat atrophy, dry scalp, edema, facial erythema, hyper or hypo pigmentation, impaired wound healing, increased sweating, petechiae, ecchymosis, rash, sterile abscess, striae, suppressed reactions to skin tests, thinning of skin, thinning scalp hair, urticaria, hirsutism, bruising, telangiectasia, rash, perineal irritation[Ref]
-Frequency not reported: Amenorrhea, postmenopausal bleeding or menstrual irregularities, increased or decreased motility and number of spermatozoa[Ref]
-Frequency not reported: Elevation in serum liver enzyme levels, hepatomegaly[Ref]
-Frequency not reported: Anaphylactoid reaction, anaphylaxis, angioedema[Ref]
-Frequency not reported: Arachnoiditis, convulsions, headache, increased intracranial hypertension with papilledema (pseudotumour cerebri) usually following discontinuation of therapy, meningitis, neuritis, neuropathy, paraparesis/paraplegia, paraesthesia, sensory disturbances, aggravation of epilepsy, clinical signs of evolving stroke, EEG abnormalities, increased motor activity, ischemic neuropathy, severe tiredness, weakness[Ref]
-A steroid withdrawal syndrome unrelated to adrenocortical insufficiency has been reported following discontinuation.  The syndrome includes symptoms such as anorexia, nausea, vomiting, lethargy, headache, fever, joint pain, desquamation, myalgia, arthralgia, rhinitis, conjunctivitis, painful itchy skin nodules, weight loss, and/or hypotension.  These effects may be due to the sudden change in glucocorticosteroid concentrations rather than to low corticosteroid levels.[Ref]
-Frequency not reported: Malaise, vertigo, fatigue, impaired healing, steroid withdrawal syndrome[Ref]
-Frequency not reported: Pulmonary edema, hiccups[Ref]
-Frequency not reported: Kaposi's sarcoma[Ref]
-Kaposi's sarcoma has been reported among patients receiving corticosteroid therapy; discontinuation may result in clinical remission.[Ref]
-1. "Product Information. Prelone (prednisoLONE)." *Muro Pharmaceuticals Inc, Tewksbury, MA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. "Product Information. Orapred ODT (prednisoLONE)." Concordia Pharmaceuticals, LaVergne, TN. 
-5. "Product Information. Pediapred (prednisoLONE sodium phosphate)." Allscripts Healthcare Solutions, Libertyville, IL. 
-6. "Product Information. PrednisoLONE (prednisoLONE)." Watson Pharmaceuticals, Parsippany, NJ. 
-Not all side effects for Millipred may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly occurring side effects have included fluid retention, alteration in glucose tolerance, increased blood pressure, behavioral and mood changes, increased appetite, and weight gain; the incidence often correlates with dosage, timing of administration, and duration of treatment.
+Calciphylaxis has been reported rarely with corticosteroid use, most commonly in patients with ESRD; although some patients have had minimal or no renal impairment with normal calcium, phosphate, and parathyroid hormone levels.
+Common (1% to 10%): Alteration in glucose tolerance, increased appetite, weight gainRare (0.01% to 0.1%): CalciphylaxisFrequency not reported: Potassium losses, hypokalemia alkalosis, sodium retention, negative nitrogen balance due to protein catabolism, manifestation of latent diabetes mellitus, increases in total cholesterol, low density lipoproteins, and triglycerides, obesity, dyslipidemia, calciphylaxis
+Common (1% to 10%): Fluid retention, blood pressure elevationsFrequency not reported: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension or aggravation of hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis, edema
+Frequency not reported: Hirsutism, development of cushingoid state, hyperthyroidism, hypothyroidism, moon face, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress as in trauma, surgery, or illness)
+Frequency not reported: Abdominal distention, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, ulcerative esophagitis, esophageal candidiasis, dyspepsia, abdominal pain, diarrhea, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), vomiting
+Frequency not reported: Opportunistic infections (bacterial, viral, fungal and parasitic infections), recurrence of dormant tuberculosis, suppressed response to skin tests
+Corticosteroid myopathy presents as weakness and wasting of the proximal limb and girdle muscles and is generally reversible following cessation of therapy.Corticosteroids inhibit intestinal calcium absorption and increase urinary calcium excretion leading to bone resorption and bone loss.  Bone loss of 3% over one year has been demonstrated with prednisolone (the active ingredient contained in Millipred) 10 mg per day.  Postmenopausal females are particularly at risk for loss of bone density.  Sixteen percent of elderly patients treated with corticosteroids for 5 years may experience vertebral compression fractures.  One author reported measurable bone loss over two years in women on concomitant therapy with prednisolone 7.5 mg per day and tamoxifen.
+Frequency not reported: Aseptic necrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, steroid myopathy, tendon rupture (particularly of the Achilles tendon), vertebral compression fractures, growth suppression in pediatric patients (infancy, childhood and adolescence), proximal myopathy, vertebral and long bone fractures, avascular osteonecrosis, tendinopathies, myalgia
+In renal transplant patients maintained on prednisolone (the active ingredient contained in Millipred) 10 mg per day, 33% developed posterior subcapsular cataracts.  Mean time to cataract development is 26 months.  Increased intraocular pressure has occurred in 5% of patients.
+Frequency not reported: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, nuclear cataracts (particularly in children), corneal or scleral thinning, exacerbation of ophthalmic viral or fungal disease
+Common (1% to 10%): Behavioral changes, mood changes, irritability, suicidal thoughts, psychotic reactions, mania, delusions, hallucinations, aggravation of schizophrenia, anxiety, sleep disorders, amnesiaFrequency not reported: Depression, emotional instability, euphoria, insomnia, mood swings, personality changes, euphoria, psychological dependence
+A wide range of psychiatric reactions have been commonly reported in both adults and children.  The frequency of severe reactions has been estimated at around 5% to 6%.  Psychological effects have been reported on withdrawal of corticosteroids, the frequency of this is unknown.
+Frequency not reported: Leucocytosis
+Frequency not reported: Acne, allergic dermatitis, cutaneous and subcutaneous fat atrophy, dry scalp, edema, facial erythema, hyper or hypo pigmentation, impaired wound healing, increased sweating, petechiae, ecchymosis, rash, sterile abscess, striae, suppressed reactions to skin tests, thinning of skin, thinning scalp hair, urticaria, hirsutism, bruising, telangiectasia, rash, perineal irritation
+Frequency not reported: Amenorrhea, postmenopausal bleeding or menstrual irregularities, increased or decreased motility and number of spermatozoa
+Frequency not reported: Elevation in serum liver enzyme levels, hepatomegaly
+Frequency not reported: Anaphylactoid reaction, anaphylaxis, angioedema
+Frequency not reported: Arachnoiditis, convulsions, headache, increased intracranial hypertension with papilledema (pseudotumour cerebri) usually following discontinuation of therapy, meningitis, neuritis, neuropathy, paraparesis/paraplegia, paraesthesia, sensory disturbances, aggravation of epilepsy, clinical signs of evolving stroke, EEG abnormalities, increased motor activity, ischemic neuropathy, severe tiredness, weakness
+A steroid withdrawal syndrome unrelated to adrenocortical insufficiency has been reported following discontinuation.  The syndrome includes symptoms such as anorexia, nausea, vomiting, lethargy, headache, fever, joint pain, desquamation, myalgia, arthralgia, rhinitis, conjunctivitis, painful itchy skin nodules, weight loss, and/or hypotension.  These effects may be due to the sudden change in glucocorticosteroid concentrations rather than to low corticosteroid levels.
+Frequency not reported: Malaise, vertigo, fatigue, impaired healing, steroid withdrawal syndrome
+Frequency not reported: Pulmonary edema, hiccups
+Frequency not reported: Kaposi's sarcoma
+Kaposi's sarcoma has been reported among patients receiving corticosteroid therapy; discontinuation may result in clinical remission.
 Aggression
 agitation
 anxiety
@@ -58,8 +42,6 @@ swelling of the fingers, hands, feet, or lower legs
 trouble thinking, speaking, or walking
 troubled breathing at rest
 weight gain
-
-
 Abdominal cramping and/or burning (severe)
 abdominal pain
 backache
@@ -103,11 +85,7 @@ unusual tiredness or weakness
 vision changes
 vomiting
 vomiting of material that looks like coffee grounds
-
-
 Increased appetite
-
-
 Abnormal fat deposits on the face, neck, and trunk
 acne
 dry scalp
@@ -116,4 +94,3 @@ red face
 reddish purple lines on the arms, face, legs, trunk, or groin
 swelling of the stomach area
 thinning of the scalp hair
-

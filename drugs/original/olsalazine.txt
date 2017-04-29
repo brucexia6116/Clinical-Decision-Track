@@ -1,51 +1,31 @@
-Applies to olsalazine: oral capsule
 As well as its needed effects, olsalazine may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking olsalazine, check with your doctor or nurse as soon as possible:
 Some olsalazine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to olsalazine: oral capsule
 During clinical trials, olsalazine was discontinued due to side effects in 10.4% of patients compared to 6.7% of patients receiving placebo.  The side effects leading to treatment withdrawal included diarrhea/loose stools (5.9%), abdominal pain (1.1%), and rash/itching (1.1%).  Side effects leading to olsalazine withdrawal in less than 1% of patients included nausea, headache, heartburn, rectal bleeding, insomnia, dizziness, anorexia, lightheadedness, and depression.
-Diarrhea may be minimized by initiating therapy with lower doses and gradually increasing therapy as tolerated.  Administration of smaller doses more frequently may also minimize diarrhea.  Diarrhea induced by olsalazine differs from diarrhea due to colitis because of the absence of blood.[Ref]
-Gastrointestinal side effects have included diarrhea (11.1% to 17%), abdominal pain/cramps (10.1%), nausea (5%), dyspepsia (4.0%), bloating (1.5%), vomiting (1%), and stomatitis (1.0%).  Heartburn, upper abdominal pain, diarrhea with dehydration, dry mouth, epigastric discomfort, flare in symptoms, flatulence, pancreatitis, increased blood in stool, rectal bleeding, and rectal discomfort have been reported.[Ref]
-Nervous system side effects have included headache (5%), vertigo/dizziness (1%), lightheadedness, insomnia, tinnitus, paresthesia, and tremors.  Paresthesia and peripheral neuropathy have been reported during postmarketing experience of products containing or metabolized to mesalamine.[Ref]
+Diarrhea may be minimized by initiating therapy with lower doses and gradually increasing therapy as tolerated.  Administration of smaller doses more frequently may also minimize diarrhea.  Diarrhea induced by olsalazine differs from diarrhea due to colitis because of the absence of blood.
+Gastrointestinal side effects have included diarrhea (11.1% to 17%), abdominal pain/cramps (10.1%), nausea (5%), dyspepsia (4.0%), bloating (1.5%), vomiting (1%), and stomatitis (1.0%).  Heartburn, upper abdominal pain, diarrhea with dehydration, dry mouth, epigastric discomfort, flare in symptoms, flatulence, pancreatitis, increased blood in stool, rectal bleeding, and rectal discomfort have been reported.
+Nervous system side effects have included headache (5%), vertigo/dizziness (1%), lightheadedness, insomnia, tinnitus, paresthesia, and tremors.  Paresthesia and peripheral neuropathy have been reported during postmarketing experience of products containing or metabolized to mesalamine.
 A patient who developed thyroid disease 9 days after starting olsalazine was given propranolol and radioactive iodine and subsequently developed shortness of breath and nausea.  Five days later, the patient died with signs and symptoms of acute diffuse myocarditis.
 Cardiovascular side effects have included chest pains, second degree heart block, myocarditis, palpitations, pericarditis, peripheral edema, shortness of breath, tachycardia, hypertension, and orthostatic hypotension.
-Musculoskeletal side effects have included arthralgia/joint pain (4%), muscle cramps, muscle stiffness, and weakness.  Myalgia has been reported during postmarketing experience of products containing or metabolized to mesalamine.[Ref]
-Dermatologic side effects have included rash (2.3%), itching (1.3%), alopecia, erythema, and photosensitivity reaction.  Angioneurotic edema has been reported during postmarketing experience of products containing or metabolized to mesalamine.[Ref]
+Musculoskeletal side effects have included arthralgia/joint pain (4%), muscle cramps, muscle stiffness, and weakness.  Myalgia has been reported during postmarketing experience of products containing or metabolized to mesalamine.
+Dermatologic side effects have included rash (2.3%), itching (1.3%), alopecia, erythema, and photosensitivity reaction.  Angioneurotic edema has been reported during postmarketing experience of products containing or metabolized to mesalamine.
 Other side effects have included fatigue/drowsiness/lethargy (1.8%), fever chills, hot flashes, irritability, and rigors.  Pyrexia has been reported during postmarketing experience of products containing or metabolized to mesalamine.
 Respiratory side effects have included upper respiratory infection (1.5%).  Dyspnea and interstitial lung disease have been reported during postmarketing experience of products containing or metabolized to mesalamine.
-Hepatic side effects have included granulomatous hepatitis (rare), nonspecific reactive hepatitis (rare), elevated ALT (SGPT) and AST (SGOT), and at least one case of cholestatic hepatitis.  Increased hepatic enzymes, increased bilirubin, hepatitis, reports of hepatotoxicity, including elevated liver function tests (SGOT/AST, SGPT/ALT, GGT, LDH, alkaline phosphatase, bilirubin), jaundice, cholestatic jaundice, cirrhosis, and possible hepatocellular damage including liver necrosis and liver failure have been reported during postmarketing experience of products containing or metabolized to mesalamine.  Some of these cases were fatal.  At least one case of Kawasaki-like syndrome, which included hepatic function changes, was also reported during postmarketing experience of products containing or metabolized to mesalamine.[Ref]
-Cholestatic hepatitis has been reported in one patient.  Olsalazine was confirmed as the causative agent by rechallenge.  Liver function abnormalities returned to normal within 2 to 8 weeks after discontinuation of the drug.[Ref]
-Hematologic side effects have included anemia, hemolysis, thrombocytopenia, eosinophilia, hemolytic anemia, interstitial pulmonary disease, leukopenia, lymphopenia, neutropenia, and reticulocytosis.  Aplastic anemia and pancytopenia have been reported during postmarketing experience of products containing or metabolized to mesalamine.[Ref]
-Renal side effects have included nephrotic syndrome.  Renal toxicity, elevated BUN, and elevated creatinine have been reported with mesalamine.[Ref]
-Renal toxicity findings due to mesalamine have been similar to NSAID-induced renal disease, and included proteinuria, elevated BUN and creatinine, oliguria, polyuria, polydipsia, and rarely ocular symptoms.[Ref]
+Hepatic side effects have included granulomatous hepatitis (rare), nonspecific reactive hepatitis (rare), elevated ALT (SGPT) and AST (SGOT), and at least one case of cholestatic hepatitis.  Increased hepatic enzymes, increased bilirubin, hepatitis, reports of hepatotoxicity, including elevated liver function tests (SGOT/AST, SGPT/ALT, GGT, LDH, alkaline phosphatase, bilirubin), jaundice, cholestatic jaundice, cirrhosis, and possible hepatocellular damage including liver necrosis and liver failure have been reported during postmarketing experience of products containing or metabolized to mesalamine.  Some of these cases were fatal.  At least one case of Kawasaki-like syndrome, which included hepatic function changes, was also reported during postmarketing experience of products containing or metabolized to mesalamine.
+Cholestatic hepatitis has been reported in one patient.  Olsalazine was confirmed as the causative agent by rechallenge.  Liver function abnormalities returned to normal within 2 to 8 weeks after discontinuation of the drug.
+Hematologic side effects have included anemia, hemolysis, thrombocytopenia, eosinophilia, hemolytic anemia, interstitial pulmonary disease, leukopenia, lymphopenia, neutropenia, and reticulocytosis.  Aplastic anemia and pancytopenia have been reported during postmarketing experience of products containing or metabolized to mesalamine.
+Renal side effects have included nephrotic syndrome.  Renal toxicity, elevated BUN, and elevated creatinine have been reported with mesalamine.
+Renal toxicity findings due to mesalamine have been similar to NSAID-induced renal disease, and included proteinuria, elevated BUN and creatinine, oliguria, polyuria, polydipsia, and rarely ocular symptoms.
 Immunologic side effects have included bronchospasm and erythema nodosum.
 Genitourinary side effects have included dysuria, hematuria, interstitial nephritis, proteinuria, urinary frequency, impotence, and menorrhagia.  Oliguria and polyuria have been reported with mesalamine.  Interstitial nephritis has been reported during postmarketing experience of products containing or metabolized to mesalamine.
 Renal toxicity findings due to mesalamine have been similar to NSAID-induced renal disease, and included proteinuria, elevated BUN and creatinine, oliguria, polyuria, polydipsia, and rarely ocular symptoms.A 71-year-old man who had received olsalazine 250 mg orally two times a day for 8 months for treatment of colitis developed fever and transient blindness in the left eye.  Percutaneous renal biopsy revealed severe interstitial nephritis.  After discontinuation of the olsalazine, the fever and blindness resolved.
 Psychiatric side effects have included depression (1.5%) and mood swings.
 Metabolic side effects have included anorexia (1.3%).  Polydipsia has been reported with mesalamine.
-Ocular side effects have included dry eyes, blurred vision, watery eyes, and transient blindness.  Ocular symptoms have been reported with mesalamine.[Ref]
-A case of blurred vision resolved with olsalazine discontinuation and recurred on rechallenge.[Ref]
-Hypersensitivity side effects have included cross-reactivity to sulfasalazine.[Ref]
-Many patients who are allergic to or intolerant of sulfasalazine are able to tolerate olsalazine, although some cross-reactivity has been reported.[Ref]
-1. Kiilerich S, Ladefoged K, Rannem T, Ranlov PJ "Prophylactic effects of olsalazine v sulphasalazine during 12 months maintenance treatment of ulcerative colitis. The Danish Olsalazine Study Group." Gut 33 (1992): 252-5
-2. Garau P, Orenstein SR, Neigut DA, Kocoshis SA "Pancreatitis associated with olsalazine and sulfasalazine in children with ulcerative colitis." J Pediatr Gastroenterol Nutr 18 (1994): 481-5
-3. Wright JP, O'Keefe EA, Cuming L, Jaskiewicz K "Olsalazine in maintenance of clinical remission in patients with ulcerative colitis." Dig Dis Sci 38 (1993): 1837-42
-4. Jarnerot G "Clinical tolerance of olsalazine." Scand J Gastroenterol Suppl 148 (1988): 21-3
-5. Loftus EV,  Kane SV,  Bjorkman D "Safety of 5-aminosalicylic acid agents in the treatment of ulcerative colitis: a systematic review." Am J Gastroenterol 98(9S) (2003): S249
-6. Ewe K, Eckardt V, Kanzler G "Treatment of ulcerative colitis with olsalazine and sulphasalazine: efficacy and side-effects." Scand J Gastroenterol Suppl 148 (1988): 70-5
-7. Feurle GE, Theuer D, Velasco S, Barry BA, Wordehoff D, Sommer A, Jantschek G, Kruis W "Olsalazine versus placebo in the treatment of mild to moderate ulcerative colitis: a randomised double blind trial." Gut 30 (1989): 1354-61
-8. "Product Information. Dipentum (olsalazine)." Pharmacia and Upjohn, Kalamazoo, MI. 
-9. Meyers S, Sachar DB, Present DH, Janowitz HD "Olsalazine sodium in the treatment of ulcerative colitis among patients intolerant of sulfasalazine. A prospective, randomized, placebo-controlled, double-blind, dose-ranging clinical trial." Gastroenterology 93 (1987): 1255-62
-10. Wadworth AN, Fitton A "Olsalazine. A review of its pharmacodynamic and pharmacokinetic properties, and therapeutic potential in inflammatory bowel disease." Drugs 41 (1991): 647-64
-11. Eland IA,  van Puijenbroek EP,  Sturkenboom MJ,  Wilson JH,  Stricker BH "Drug-associated acute pancreatitis: twenty-one years of spontaneous reporting in  The Netherlands." Am J Gastroenterol 94 (1999): 2417-22
-12. Ireland A, Mason CH, Jewell DP "Controlled trial comparing olsalazine and sulphasalazine for the maintenance treatment of ulcerative colitis." Gut 29 (1988): 835-7
-13. Mulder H, Gratama S "Azodisalicylate (Dipentum)-induced hepatitis?" J Clin Gastroenterol 11 (1989): 708-11
-14. Wilcox GM, Reynolds JR, Galvanek EG "Nephrotoxicity associated with olsalazine." Am J Med 100 (1996): 238-40
-15. Doman DB, Baum MD "Olsalazine sodium can cause myopia that can be clinically confused with the uveitis of inflammatory bowel disease." Am J Gastroenterol 87 (1992): 1684-5
+Ocular side effects have included dry eyes, blurred vision, watery eyes, and transient blindness.  Ocular symptoms have been reported with mesalamine.
+A case of blurred vision resolved with olsalazine discontinuation and recurred on rechallenge.
+Hypersensitivity side effects have included cross-reactivity to sulfasalazine.
+Many patients who are allergic to or intolerant of sulfasalazine are able to tolerate olsalazine, although some cross-reactivity has been reported.
 It is possible that some side effects of olsalazine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Back or stomach pain (severe)
 bloody diarrhea
 fast heartbeat
@@ -54,17 +34,12 @@ nausea or vomiting
  skin rash
 swelling of the stomach
 yellow eyes or skin
-
-
 Abdominal or stomach pain or upset
  diarrhea
 loss of appetite
-
-
 Aching joints and muscles
 acne
 anxiety or depression
 dizziness or drowsiness
 headache
 trouble in sleeping
-

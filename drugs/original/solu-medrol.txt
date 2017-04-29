@@ -1,42 +1,30 @@
-Generic Name: methylprednisolone
-Applies to methylprednisolone: oral tablet
 Other dosage forms:
 As well as its needed effects, methylprednisolone (the active ingredient contained in Solu-Medrol) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking methylprednisolone, check with your doctor immediately:
 Some methylprednisolone side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to methylprednisolone: compounding powder, injectable powder for injection, injectable suspension, oral tablet
-The most commonly occurring side effects have included fluid retention, alteration in glucose tolerance, increased blood pressure, behavioral and mood changes, increased appetite, and weight gain; the incidence generally correlates with dosage, timing of administration, and duration of treatment.[Ref]
-Frequency not reported: Allergic or hypersensitivity reactions; anaphylactoid reaction, anaphylaxis, angioedema[Ref]
-Frequency not reported: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis, edema, hypotension[Ref]
-Frequency not reported: Cushingoid state, hirsutism, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress, as in trauma, surgery, or illness), moon face[Ref]
-Frequency not reported: Abdominal distention, nausea, pancreatitis, peptic ulcer, perforation of the small and large intestine, ulcerative esophagitis, gastric hemorrhage, vomiting, abdominal pain, diarrhea, dyspepsia, nausea[Ref]
-Frequency not reported: Hepatomegaly, elevation in liver enzymes, toxic hepatitis[Ref]
-Reversible transaminase elevations (AST, ALT) have been observed following corticosteroid therapy.  These changes have generally been small and not associated with any clinical syndrome.  Toxic hepatitis has been reported with high doses of cyclically pulsed IV therapy, onset has been several weeks or longer.  Resolution has been reported with discontinuation; however, recurrence has been reported with rechallenge.[Ref]
-Frequency not reported: Decreased carbohydrate and glucose tolerance, manifestations of latent diabetes, hypokalemic alkalosis, potassium loss, sodium retention, increased appetite, negative nitrogen balance due to protein catabolism, weight gain, metabolic acidosis, dyslipidemia, lipomatosis[Ref]
-Frequency not reported: Suppression of growth in pediatric patients, aseptic necrosis of femoral and humeral heads, calcinosis, Charcot-like atrophy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, postinjection flare, steroid myopathy, tendon rupture, particularly of the Achilles tendon, vertebral compression fractures, myalgia, muscle atrophy, osteonecrosis, neuropathic arthralgia, growth retardation[Ref]
-Frequency not reported: Leucocytosis[Ref]
-Frequency not reported: Opportunistic infection[Ref]
-Blindness has been reported with corticosteroid injection to scalp, tonsillar fauces, sphenopalatine ganglion.[Ref]
-Frequency not reported: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, blindness, chorioretinopathy[Ref]
-Frequency not reported: Depression, emotional instability, euphoria, insomnia, mood swings, personality changes, psychic disorders, confusional states, anxiety, abnormal behavior, irritability[Ref]
-Frequency not reported: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scaly skin, ecchymosis, petechiae, erythema, hyperpigmentation, hypopigmentation, impaired wound healing, increased sweating, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria, hypertrichosis, angioedema, skin atrophy, hyperhidrosis, pruritus[Ref]
-Frequency not reported: Injection site infections, injection site reactions[Ref]
-Frequency not reported: Convulsions, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, neuritis, neuropathy, paresthesia, amnesia, dizziness[Ref]
-Frequency not reported: Vertigo, abnormal fat deposits, malaise, sterile abscess, impaired healing, fatigue[Ref]
-Frequency not reported: Kaposi's sarcoma[Ref]
-Frequency not reported: Pulmonary edema, pulmonary embolism, hiccups[Ref]
-Frequency not reported: Menstrual irregularities, increased or decreased motility and number of spermatozoa, increased urine calcium, glycosuria[Ref]
-1. "Product Information. Solu-Medrol (methylPREDNISolone sodium succinate)." Pfizer U.S. Pharmaceuticals Group, New York, NY. 
-2. "Product Information. Solu-Medrol (methylprednisolone)." Pharmacia & Upjohn, Kalamazoo, MI. 
-3. "Product Information. Medrol (methylprednisolone)." Pharmacia and Upjohn, Kalamazoo, MI. 
-4. "Product Information. Depo-Medrol (methylPREDNISolone acetate)." Pfizer U.S. Pharmaceuticals Group, New York, NY. 
-5. Cerner Multum,  Inc. "Australian Product Information." O 0
-6. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+The most commonly occurring side effects have included fluid retention, alteration in glucose tolerance, increased blood pressure, behavioral and mood changes, increased appetite, and weight gain; the incidence generally correlates with dosage, timing of administration, and duration of treatment.
+Frequency not reported: Allergic or hypersensitivity reactions; anaphylactoid reaction, anaphylaxis, angioedema
+Frequency not reported: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis, edema, hypotension
+Frequency not reported: Cushingoid state, hirsutism, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress, as in trauma, surgery, or illness), moon face
+Frequency not reported: Abdominal distention, nausea, pancreatitis, peptic ulcer, perforation of the small and large intestine, ulcerative esophagitis, gastric hemorrhage, vomiting, abdominal pain, diarrhea, dyspepsia, nausea
+Frequency not reported: Hepatomegaly, elevation in liver enzymes, toxic hepatitis
+Reversible transaminase elevations (AST, ALT) have been observed following corticosteroid therapy.  These changes have generally been small and not associated with any clinical syndrome.  Toxic hepatitis has been reported with high doses of cyclically pulsed IV therapy, onset has been several weeks or longer.  Resolution has been reported with discontinuation; however, recurrence has been reported with rechallenge.
+Frequency not reported: Decreased carbohydrate and glucose tolerance, manifestations of latent diabetes, hypokalemic alkalosis, potassium loss, sodium retention, increased appetite, negative nitrogen balance due to protein catabolism, weight gain, metabolic acidosis, dyslipidemia, lipomatosis
+Frequency not reported: Suppression of growth in pediatric patients, aseptic necrosis of femoral and humeral heads, calcinosis, Charcot-like atrophy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, postinjection flare, steroid myopathy, tendon rupture, particularly of the Achilles tendon, vertebral compression fractures, myalgia, muscle atrophy, osteonecrosis, neuropathic arthralgia, growth retardation
+Frequency not reported: Leucocytosis
+Frequency not reported: Opportunistic infection
+Blindness has been reported with corticosteroid injection to scalp, tonsillar fauces, sphenopalatine ganglion.
+Frequency not reported: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, blindness, chorioretinopathy
+Frequency not reported: Depression, emotional instability, euphoria, insomnia, mood swings, personality changes, psychic disorders, confusional states, anxiety, abnormal behavior, irritability
+Frequency not reported: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scaly skin, ecchymosis, petechiae, erythema, hyperpigmentation, hypopigmentation, impaired wound healing, increased sweating, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria, hypertrichosis, angioedema, skin atrophy, hyperhidrosis, pruritus
+Frequency not reported: Injection site infections, injection site reactions
+Frequency not reported: Convulsions, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, neuritis, neuropathy, paresthesia, amnesia, dizziness
+Frequency not reported: Vertigo, abnormal fat deposits, malaise, sterile abscess, impaired healing, fatigue
+Frequency not reported: Kaposi's sarcoma
+Frequency not reported: Pulmonary edema, pulmonary embolism, hiccups
+Frequency not reported: Menstrual irregularities, increased or decreased motility and number of spermatozoa, increased urine calcium, glycosuria
 It is possible that some side effects of Solu-Medrol may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 injection powder for solution, injection suspension
-
 Aggression
 agitation
 anxiety
@@ -57,8 +45,6 @@ swelling of the fingers, hands, feet, or lower legs
 trouble thinking, speaking, or walking
 troubled breathing at rest
 weight gain
-
-
 Abdominal cramping and/or burning (severe)
 abdominal pain
 backache
@@ -102,11 +88,7 @@ unusual tiredness or weakness
 vision changes
 vomiting
 vomiting of material that looks like coffee grounds
-
-
 Increased appetite
-
-
 Abnormal fat deposits on the face, neck, and trunk
 acne
 dry scalp
@@ -115,4 +97,3 @@ red face
 reddish purple lines on the arms, face, legs, trunk, or groin
 swelling of the stomach area
 thinning of the scalp hair
-

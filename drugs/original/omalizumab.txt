@@ -1,39 +1,30 @@
 More frequently reported side effects include: lower leg pain.  See below for a comprehensive list of adverse effects.
-Applies to omalizumab: subcutaneous powder for solution
 As well as its needed effects, omalizumab may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking omalizumab, check with your doctor or nurse immediately:
 Some omalizumab side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to omalizumab: subcutaneous powder for injection
-The more commonly reported side effects included injection site reactions, headache, and nasopharyngitis.[Ref]
-In clinical trials, any injection site reaction occurred in 45% and 43% of patients given this drug and placebo, respectively; severe reactions occurred in 12% and 9%, respectively.[Ref]
-Very common (10% or more): Any injection site reaction, including pain, swelling, itching, redness, bruising, bleeding, induration, or mass (up to 45%), severe injection site reaction (up to 12%)Uncommon (0.1% to 1%): Arm swelling[Ref]
-Very common (10% or more): Viral infection (up to 37%)Uncommon (0.1% to 1%): Moniliasis, parasitic infectionRare (0.01% to 0.1%): Anti-omalizumab antibody developmentPostmarketing reports: Serum sickness, allergic granulomatous angiitis (Churg-Strauss syndrome), lymphadenopathy[Ref]
-In clinical studies, viral infection occurred in 37% and 39% or patients given this drug or placebo, respectively.  Increased parasitic infections, compared to placebo, were not statistically significant.[Ref]
-Very common (10% or more): Headache (up to 27%)Common (1% to 10%): DizzinessUncommon (0.1% to 1%): Syncope, vasovagal syncope, somnolence, paresthesiaFrequency not reported: Migraine, sinus headache[Ref]
-In clinical trials, headache occurred in 37% of patients given either this drug (n=716) or placebo (n=694); headache occurred very commonly in patients 6 to 12 years old.[Ref]
-Very common (10% or more): Back pain (up to 13%)Common (1% to 10%): Arthralgia, myalgia, sprains, strains, extremity pain, fracturePostmarketing reports: Joint swelling[Ref]
-In clinical trials with chronic idiopathic urticarial, patients reported nasopharyngitis 9.1%, 6.6%, and 7% in 150 mg, 300 mg, and placebo, respectively; sinusitis (1.1%, 4.9%, 2.1%), cough (1.1%, 2.2%,1.2%), and upper respiratory infection (11.1%, 3.4%, 2.1%) were also reported by patients, respectively.[Ref]
-Common (1% to 10%): Nasopharyngitis, sinusitis, viral upper respiratory infection (URI), URIUncommon (0.1% to 1%): Pharyngitis, cough, allergic bronchospasmRare (0.01% to 0.1%): LaryngoedemaFrequency not reported: Asthma, oropharyngeal pain[Ref]
-Common (1% to 10%): Dermatitis, pruritusUncommon (0.1% to 1%): Skin rashes, flushing, photosensitivityPostmarketing reports: Alopecia, hair loss[Ref]
-Common (1% to 10%): Fever, earacheUncommon (0.1% to 1%): Fatigue, post-injection phenomena[Ref]
-In clinical trials, fever occurred very commonly in patients 6 to 12 years old.[Ref]
-In clinical trials, upper abdominal pain was very common in patients 6 to 12 years old.  In clinical trials with chronic idiopathic urticarial, patients reported nausea 1.1%, 2.7%, and 2.5% of the time with 150 mg, 300 mg, and placebo, respectively.[Ref]
-Common (1% to 10%): Upper abdominal pain, nauseaUncommon (0.1% to 1%): Diarrhea, dyspepsia, gastroenteritisFrequency not reported: Toothache[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-Uncommon (0.1% to 1%): UrticariaRare (0.01% to 0.1%): Anaphylactic reactions, angioedemaPostmarketing reports: Anaphylactoid reactions[Ref]
-Uncommon (0.1% to 1%): Postural hypotensionFrequency not reported: Peripheral edema, arterial thrombotic events (including transient ischemic attack, myocardial infarction, unstable angina, and cardiovascular death)Postmarketing reports: Hypotension, chest tightness[Ref]
-Uncommon (0.1% to 1%): Asymptomatic platelet decreasesPostmarketing reports: Idiopathic severe thrombocytopenia, eosinophilic conditions[Ref]
-In clinical trials, 0.6% of patients developed decreased platelet counts below the normal laboratory range; these patients did not have associated bleeding episodes or decreased hemoglobin.[Ref]
-Uncommon (0.1% to 1%): Weight increases[Ref]
-Frequency not reported: Anxiety[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Xolair (omalizumab)." Genentech, South San Francisco, CA. 
+The more commonly reported side effects included injection site reactions, headache, and nasopharyngitis.
+In clinical trials, any injection site reaction occurred in 45% and 43% of patients given this drug and placebo, respectively; severe reactions occurred in 12% and 9%, respectively.
+Very common (10% or more): Any injection site reaction, including pain, swelling, itching, redness, bruising, bleeding, induration, or mass (up to 45%), severe injection site reaction (up to 12%)Uncommon (0.1% to 1%): Arm swelling
+Very common (10% or more): Viral infection (up to 37%)Uncommon (0.1% to 1%): Moniliasis, parasitic infectionRare (0.01% to 0.1%): Anti-omalizumab antibody developmentPostmarketing reports: Serum sickness, allergic granulomatous angiitis (Churg-Strauss syndrome), lymphadenopathy
+In clinical studies, viral infection occurred in 37% and 39% or patients given this drug or placebo, respectively.  Increased parasitic infections, compared to placebo, were not statistically significant.
+Very common (10% or more): Headache (up to 27%)Common (1% to 10%): DizzinessUncommon (0.1% to 1%): Syncope, vasovagal syncope, somnolence, paresthesiaFrequency not reported: Migraine, sinus headache
+In clinical trials, headache occurred in 37% of patients given either this drug (n=716) or placebo (n=694); headache occurred very commonly in patients 6 to 12 years old.
+Very common (10% or more): Back pain (up to 13%)Common (1% to 10%): Arthralgia, myalgia, sprains, strains, extremity pain, fracturePostmarketing reports: Joint swelling
+In clinical trials with chronic idiopathic urticarial, patients reported nasopharyngitis 9.1%, 6.6%, and 7% in 150 mg, 300 mg, and placebo, respectively; sinusitis (1.1%, 4.9%, 2.1%), cough (1.1%, 2.2%,1.2%), and upper respiratory infection (11.1%, 3.4%, 2.1%) were also reported by patients, respectively.
+Common (1% to 10%): Nasopharyngitis, sinusitis, viral upper respiratory infection (URI), URIUncommon (0.1% to 1%): Pharyngitis, cough, allergic bronchospasmRare (0.01% to 0.1%): LaryngoedemaFrequency not reported: Asthma, oropharyngeal pain
+Common (1% to 10%): Dermatitis, pruritusUncommon (0.1% to 1%): Skin rashes, flushing, photosensitivityPostmarketing reports: Alopecia, hair loss
+Common (1% to 10%): Fever, earacheUncommon (0.1% to 1%): Fatigue, post-injection phenomena
+In clinical trials, fever occurred very commonly in patients 6 to 12 years old.
+In clinical trials, upper abdominal pain was very common in patients 6 to 12 years old.  In clinical trials with chronic idiopathic urticarial, patients reported nausea 1.1%, 2.7%, and 2.5% of the time with 150 mg, 300 mg, and placebo, respectively.
+Common (1% to 10%): Upper abdominal pain, nauseaUncommon (0.1% to 1%): Diarrhea, dyspepsia, gastroenteritisFrequency not reported: Toothache
+Common (1% to 10%): Urinary tract infection
+Uncommon (0.1% to 1%): UrticariaRare (0.01% to 0.1%): Anaphylactic reactions, angioedemaPostmarketing reports: Anaphylactoid reactions
+Uncommon (0.1% to 1%): Postural hypotensionFrequency not reported: Peripheral edema, arterial thrombotic events (including transient ischemic attack, myocardial infarction, unstable angina, and cardiovascular death)Postmarketing reports: Hypotension, chest tightness
+Uncommon (0.1% to 1%): Asymptomatic platelet decreasesPostmarketing reports: Idiopathic severe thrombocytopenia, eosinophilic conditions
+In clinical trials, 0.6% of patients developed decreased platelet counts below the normal laboratory range; these patients did not have associated bleeding episodes or decreased hemoglobin.
+Uncommon (0.1% to 1%): Weight increases
+Frequency not reported: Anxiety
 It is possible that some side effects of omalizumab may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Cough
 difficulty with swallowing
 dizziness
@@ -43,8 +34,6 @@ malignant tumor
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 tightness in the chest
 unusual tiredness or weakness
-
-
 Bleeding
 blistering
 body aches or pain
@@ -80,12 +69,9 @@ tingling
 ulceration
 voice changes
 warmth
-
-
 Arm pain
 blistering, crusting, irritation, itching, or reddening of the skin
 body produces substance that can bind to drug making it less effective or cause side effects
 cracked, dry, or scaly skin
 earache
 itching skin
-

@@ -1,11 +1,5 @@
-Generic Name: acetylcholine ophthalmic
-Applies to acetylcholine ophthalmic: compounding powder, intraocular powder for reconstitution
-The most commonly reported side effects were corneal edema, corneal clouding, and corneal decompensation.[Ref]
-Rare (less than 0.1%): Bradycardia, hypotension, flushing[Ref]
-Uncommon (0.1% to 1%): Corneal edema, corneal clouding, corneal decompensation[Ref]
-Rare (less than 0.1%): Breathing difficulties[Ref]
-Rare (less than 0.1%): Sweating[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Miochol (acetylcholine chloride, intraocular)." Ciba Vision Ophthalmics, Duluth, GA. 
-Not all side effects for Miochol-E may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most commonly reported side effects were corneal edema, corneal clouding, and corneal decompensation.
+Rare (less than 0.1%): Bradycardia, hypotension, flushing
+Uncommon (0.1% to 1%): Corneal edema, corneal clouding, corneal decompensation
+Rare (less than 0.1%): Breathing difficulties
+Rare (less than 0.1%): Sweating

@@ -1,175 +1,21 @@
-Applies to heparin: injectable, solution
-In addition to its needed effects, some unwanted effects may be caused by heparin. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking heparin, check with your doctor or nurse immediately:
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention. If you notice any of the following side effects check with your doctor immediately:
-
-
-Applies to heparin: injectable kit, injectable solution, intravenous solution
-Hematologic side effects including hemorrhage at any site have been reported the most frequently.  These have included hematomas, melena, hematuria, and less frequently, ecchymoses, epistaxis, and hematemesis.  Compression neuropathy and nerve paralysis from local bleeding and/or hematoma, fatal rectal sheath hematomas, intracranial hemorrhage, and other serious bleeding events have been reported.  Adrenal hemorrhage, ovarian hemorrhage, and retroperitoneal hemorrhage have been reported.  Thrombocytopenia has been reported in up to 30% of patients.  Heparin-induced thrombocytopenia (HIT), heparin-induced thrombocytopenia and thrombosis (HITT), and delayed onset HIT and HITT have been reported.[Ref]
-The risk of bleeding has been reported to be increased in women over 60 years of age.  Other risk factors have included administration by intermittent intravenous injection, a serious comorbid condition or history of alcohol abuse, concomitant use of aspirin, or advanced age.  In addition, patients previously exposed to unfractionated heparin or a low-molecular-weight heparin appear to be more susceptible to developing heparin-induced thrombocytopenia (HIT) and HIT-related thromboembolic complications (e.g., transient ischemic attack, stroke) than those who were never exposed.There are two types of heparin-induced thrombocytopenia (HIT).  Type I, sometimes called heparin-associated thrombocytopenia, occurs in approximately 10% to 20% of patients treated with heparin and is a nonimmunogenic response to heparin.  Type I is not progressive, not associated with bleeding or thrombosis, and does not require special treatment.  Platelet counts usually recover within a few days even if heparin therapy is continued.  Type II HIT is an immune-mediated, prothrombotic reaction that occurs in 0.5% to 5% of patients treated with unfractionated heparin and in less than 1% of patients treated with a low molecular weight heparin (LMWH).  An overall mortality of 20% to 30% has been reported in patients who develop HIT type II.  The decrease in platelet count associated with HIT usually begins 5 to 14 days after starting heparin.  However, patients with a previous exposure (within past 100 days) to heparin may still have HIT antibodies circulating which can result in an abrupt (within 30 minutes of an IV bolus) decrease in platelets upon restarting heparin.  Another phenomenon known as delayed-onset HIT can also occur 9 to 40 days after heparin is stopped.  This typically occurs in patients exposed to heparin in the recent past (previous 2 weeks).  Patients with LMWH-induced HIT exhibit a longer delay in the onset of symptoms compared with those who have heparin-induced HIT.  Following discontinuation, platelet counts begin to recover within 4 days, but may take more than 2 weeks in patients with high-titer HIT antibodies.  Thrombocytopenia is caused by heparin-dependent IgG antibodies that bind to a specific platelet protein, platelet factor 4 (PF4).  The heparin-PF4-IgG immune complex binds to platelets causing platelet activation.  The activated platelets cause release of platelet-derived procoagulant microparticles, which accelerate coagulation reactions and generates thrombin.  LMWHs have a high cross-reactivity with circulating heparin-PF4-IgG immune complex.  Complications associated with HIT include exacerbation of venous thromboembolism, arterial or venous thrombosis, limb gangrene, stroke, and skin necrosis.  Approximately 50% to 75% of patients with HIT develop symptomatic thrombosis.  The risk of HIT-associated thrombosis correlates with the magnitude of decrease in platelet count.  Other factors associated with a higher risk for developing HIT-associated thrombosis include women, nonwhites, and lower body weight.  In approximately 20% of HIT patients, thrombosis occurs 1 to 3 days before thrombocytopenia is detected.  If HIT is suspected, treatment with the offending agent (e.g., heparin, LMWH, including heparin flushes) should be discontinued immediately and the patient should be given an alternative anticoagulant such as a direct thrombin inhibitor (i.e., argatroban, bivalirudin, lepirudin) or fondaparinux.  Use of a vitamin K antagonist (i.e., warfarin) should be delayed until the platelet count returns to normal.  The antibodies that cause HIT will usually disappear after approximately 3 months; therefore, use of heparin may be considered in a patient with a history of HIT if the antibody test is negative.There are data which support an increased risk of thrombocytopenia with bovine heparin.[Ref]
-Cardiovascular side effects have included new or recurrent arterial and venous thrombosis in association with thrombocytopenia.  This paradoxical effect, known as the "white clot syndrome", has resulted in cerebral vascular accident, pulmonary embolism, myocardial infarction, loss of limbs, and may be fatal.  Gangrene of the limbs, fulminant hepatic failure following liver transplantation, and cutaneous necrosis, some fatal, have been reported.  Constrictive pericarditis following heparin induced hemopericardium and fatal cardiac tamponade have been reported.  Hypotension associated with heparin administration in patients undergoing cardiac surgery has been reported.[Ref]
-Dermatologic side effects have included extensive skin necrosis, necrotic lesions at subcutaneous injection sites, erythematous, indurated, nonnecrotic plaques at injection sites, as well as eczema and generalized pruritic, erythematous rash.  Cutaneous necrosis has often been preceded by a burning sensation, localized erythema, and bullae formation.  Alopecia has been reported.[Ref]
-Hypersensitivity side effects have included pruritic, inflammatory, papular, and vesicular lesions, urticaria, drug fever, asthma, rhinitis, and anaphylaxis.  Eosinophilia and delayed type hypersensitivity have also been reported.  Hypersensitivity is thought to play a role in the pathogenesis of Type II heparin induced thrombocytopenia and thrombosis as well as skin necrosis.  A case of adult respiratory distress syndrome in which hypersensitivity was suspected has been reported.[Ref]
-Hepatic side effects reported in up to 60% of patients have included elevations in liver function enzymes.[Ref]
-In one study of 86 patients, elevations in alanine aminotransferase (ALT) and aspartate aminotransferase (AST) occurred in 59.3% and 26.7% of patients, respectively.  The average maximum increase was 3.6 times baseline for ALT and 3.1 times baseline for AST.  Lactate dehydrogenase abnormalities were observed in 35.7% of patients.  Isoenzyme determinations in seven patients showed elevated hepatic fractions.  In no case was there clinical evidence of hepatotoxicity.[Ref]
-Endocrine side effects have included increased free thyroxine levels.  Acute adrenal insufficiency caused by heparin induced adrenal hemorrhage has been reported.  Hypoaldosteronism has been reported.[Ref]
-The mechanism for increased free thyroxine levels appears to be displacement of thyroxine from binding sites by free fatty acids and may be more significant in patients with hypertriglyceridemia.[Ref]
-Metabolic side effects have included hyperkalemia, hyponatremia, and hypertriglyceridemia.[Ref]
-Musculoskeletal side effects have included osteoporosis.[Ref]
-A study of 39 women given prophylactic heparin therapy during pregnancy revealed an almost 5% reduction in trabecular bone mass during treatment.  Although limited data are available, the osteoporotic effects of heparin are believed to be reversible.In a study involving pregnant women (n=120) requiring thromboprophylaxis, clinically significant bone loss (i.e., 10% or greater) in the femur occurred in approximately 2% to 2.5% of patients regardless if they received enoxaparin (68.4 mg/day) or unfractionated heparin (17,380 units/day) for approximately 26 to 27 weeks.[Ref]
-Renal side effects have been reported rarely.  A case of hemolytic uremic syndrome has been reported.[Ref]
-Genitourinary side effects have been reported rarely.  Several cases of priapism have been reported.[Ref]
-Local side effects have included injection site irritation, erythema, mild pain, hematoma, or ulceration.[Ref]
-General side effects have been reported the most frequently.  These have included bleeding or hemorrhage at any site.[Ref]
-1. Spinler SA "Managing heparin-induced thrombocytopenia: preventing life- and limb-threatening thrombosis. Introduction." Am J Health Syst Pharm 60 Suppl 5 (2003): S2-4
-2. Warkentin TE,  Roberts RS,  Hirsh J,  Kelton JG "Heparin-induced skin lesions and other unusual sequelae of the heparin-induced thrombocytopenia syndrome: a nested cohort study." Chest 127 (2005): 1857-61
-3. Sandler RM, Seifer DB, Morgan K, Pockros PJ, Wypych J, Weiss LM, Schiffman S "Heparin-induced thrombocytopenia and thrombosis: detection and specificity of a platelet-aggregating IgG." Am J Clin Pathol 83 (1985): 760-4
-4. Kleinschmidt S, Seyfert UT "Heparin-associated thrombocytopenia (HAT) - still a diagnostic and therapeutical problem in clinical practice." Angiology 46 (1995): 37-44
-5. Levine RL,  McCollum D,  Hursting MJ "How frequently is venous thromboembolism in heparin-treated patients associated with heparin-induced thrombocytopenia?" Chest 130 (2006): 681-7
-6. Krumholz HM, Hennen J, Ridker PM, Murillo JE, Wang Y, Vaccarino V, Ellerbeck EF, Radford MJ "Use and effectiveness of intravenous heparin therapy for treatment of acute myocardial infarction in the elderly." J Am Coll Cardiol 31 (1998): 973-9
-7. Cines DB, Kaywin P, Bina M, et al "Heparin-associated thrombocytopenia." N Engl J Med 303 (1980): 788-95
-8. Gottschling LL, Alaniz C "Thrombosis resulting from heparin therapy." Pharmacotherapy 16 (1996): 469-72
-9. Greinacher A "Treatment options for heparin-induced thrombocytopenia." Am J Health Syst Pharm 60 Suppl 5 (2003): S12-8
-10. Hachwunderle V, Kainer K, Krug B, Mullerberghaus G, Potzsch B "Heparin-associated thrombosis despite normal platelet counts." Lancet 344 (1994): 469-70
-11. Oates JA, Wood AJJ "Heparin." N Engl J Med 324 (1991): 1565-74
-12. Warkentin TE, Hayward CP, Smith CA, et al "Determinants of donor platelet variability when testing for heparin-induced thrombocytopenia." J Lab Clin Med 120 (1992): 371-9
-13. Gruel Y, Lang M, Darnige L, Pacouret G, Dreyfus X, Leroy J, Charbonnier B "Fatal effect of re-exposure to heparin after previous heparin- associated thrombocytopenia and thrombosis ." Lancet 336 (1990): 1077-8
-14. Hirsh J, Fuster V "Guide to anticoagulant therapy. 1. Heparin." Circulation 89 (1994): 1449-68
-15. Foo SY,  Everett BM,  Yeh RW, et al. "Prevalence of heparin-induced thrombocytopenia in patients undergoing cardiac catheterization." Am Heart J 152 (2006): 290.e1-7
-16. Lubenow N,  Kempf R,  Eichner A,  Eichler P,  Carlsson LE,  Greinacher A "Heparin-induced thrombocytopenia(*) : temporal pattern of thrombocytopenia in relation to initial use or reexposure to heparin." Chest 122 (2002): 37-42
-17. Warkentin TE "Heparin-induced thrombocytopenia: diagnosis and management." Circulation 110 (2004): e454-8
-18. Dittberner T,  Schottler E,  Ranze O,  Greinacher A,  Knobler R "Heparin-induced thrombocytopenia: A complication in extracorporeal photochemotherapy (photopheresis)." J Am Acad Dermatol 47 (2002): 452-3
-19. Ahmed I,  Majeed A,  Powell R "Heparin induced thrombocytopenia: diagnosis and management update." Postgrad Med J 83 (2007): 575-82
-20. Kadidal VV, Mayo DJ, Horne MK "Heparin-induced thrombocytopenia (HIT) due to heparin flushes: a report of three cases." J Intern Med 246 (1999): 325-9
-21. Levy JH,  Tanaka KA,  Hursting MJ "Reducing thrombotic complications in the perioperative setting: an update on heparin-induced thrombocytopenia." Anesth Analg 105 (2007): 570-82
-22. Burnett B,  Bracket E,  Larsen J,  et al "Health care guideline: deep vein thrombosis (DVT) diagnosis algorithm. Available from: URL: http://www.icsi.org/display_file.asp?FileId=187&title=Venous%20Thromboembolism."   ([2006 Feb]):
-23. Menajovsky LB "Heparin-induced thrombocytopenia: clinical manifestations and management strategies." Am J Med 118(Suppl 8A) (2005): 21-30
-24. Arepally GM,  Ortel TL "Clinical practice. Heparin-induced thrombocytopenia." N Engl J Med 355 (2006): 809-17
-25. Tezcan AZ, Tezcan H, Gastineau DA, Armitage JO, Haire WD "Heparin-induced thrombocytopenia after bone marrow transplantation: report of two cases." Bone Marrow Transplant 14 (1994): 487-90
-26. Levine RL,  Hursting MJ,  Drexler A,  Lewis BE,  Francis JL "Heparin-induced thrombocytopenia in the emergency department." Ann Emerg Med 44 (2004): 511-5
-27. Rice L "Heparin-induced thrombocytopenia: myths and misconceptions (that will cause trouble for you and your patient)." Arch Intern Med 164 (2004): 1961-4
-28. Kelton JG, Sheridan D, Santos A, et al "Heparin-induced thrombocytopenia: laboratory studies." Blood 72 (1988): 925-30
-29. Bomzer CA "Heparin-induced thrombocytopenia." N Engl J Med 345 (2001): 619; discussion 619-20
-30. Dager WE,  White RH "Treatment of heparin-induced thrombocytopenia." Ann Pharmacother 36 (2002): 489-503
-31. Force RW "Heparin-induced thrombocytopenia." Am J Health Syst Pharm 52 (1995): 2528
-32. Puechal X, Liote F, Kuntz D "Bilateral femoral neuropathy caused by iliacus hematomas during anticoagulation after cardiac catheterization." Am Heart J 123 (1992): 262-3
-33. Lewis BE,  Wallis DE,  Hursting MJ,  Levine RL,  Leya F "Effects of argatroban therapy, demographic variables, and platelet count on thrombotic risks in heparin-induced thrombocytopenia." Chest 129 (2006): 1407-16
-34. Berkowitz N, Beckman J "Heparin-induced thrombocytopenia." N Engl J Med 333 (1995): 1006
-35. Marinella MA "Heparin-induced thrombocytopenia presenting as otalgia." South Med J 100 (2007): 1057
-36. Lewis BE,  Wallis DE,  Leya F,  Hursting MJ,  Kelton JG "Argatroban anticoagulation in patients with heparin-induced thrombocytopenia." Arch Intern Med 163 (2003): 1849-56
-37. Smythe MA,  Stephens JL,  Mattson JC "Delayed-onset heparin-induced thrombocytopenia." Ann Emerg Med 45 (2005): 417-9
-38. Warkentin TE,  Greinacher A "Heparin-induced thrombocytopenia: recognition, treatment, and prevention: the Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy." Chest 126(3 Suppl) (2004): 311S-337S
-39. Amiral J "Antigens involved in heparin-induced thrombocytopenia." Semin Hematol 36 (1999): 7-11
-40. Warkentin TE, Hirsh J, Kelton JG "Heparin-induced thrombocytopenia." N Engl J Med 333 (1995): 1007
-41. Prandoni P,  Siragusa S,  Girolami B,  Fabris F "The incidence of heparin-induced thrombocytopenia in medical patients treated with low molecular weight heparin." Blood 106 (2005): 3049-54
-42. Rehner M, Rohner HG, Schepp W "Comparison of pantoprazole versus omeprazole in the treatment of acute duodenal ulceration--a multicentre study." Aliment Pharmacol Ther 9 (1995): 411-6
-43. The Platelet Receptor Inhibition in Ischemic Syndrome Management (PRISM) Study Investigators "A comparison of aspirin plus tirofiban with aspirin plus heparin for unstable angina." N Engl J Med 338 (1998): 1498-505
-44. Chong BH "Heparin-induced thrombocytopenia." Aust N Z J Med 22 (1992): 145-52
-45. Fung KC,  Chandar S,  Brieger D "Heparin-induced thrombocytopenia." N Engl J Med 345 (2001): 619; discussion 619-20
-46. Baroletti SA,  Goldhaber SZ "Heparin-induced thrombocytopenia." Circulation 114 (2006): e355-6
-47. Das P,  Ziada K,  Steinhubl SR, et al. "Heparin-induced thrombocytopenia and cardiovascular diseases." Am Heart J 152 (2006): 19-26
-48. Hougardy N, Machiels JP, Ravoet C "Heparin-induced thrombocytopenia." N Engl J Med 333 (1995): 1007
-49. Verma AK,  Levine M,  Shalansky SJ,  Carter CJ,  Kelton JG "Frequency of heparin-induced thrombocytopenia in critical care patients." Pharmacotherapy 23 (2003): 745-53
-50. Gupta AK, Kovacs MJ, Sauder DN "Heparin-induced thrombocytopenia." Ann Pharmacother 32 (1998): 55-9
-51. Koch A, Bouges S, Ziegler S, Dinkel H, Caures JP, Victor N "Low molecular weight heparin and unfractionated heparin in thrombosis prophylaxis after major surgical intervention: update of previous meta-analyses." Br J Surg 84 (1997): 750-9
-52. De Palma JR "Delayed-onset heparin-induced thrombocytopenia." Ann Intern Med 139 (2003): 790; author reply 790-1
-53. Munver R, Schulman IC, Wolf DJ, Rosengart TK "Heparin-induced thrombocytopenia and thrombosis: presentation after cardiopulmonary bypass." Ann Thorac Surg 58 (1994): 1764-6
-54. Kleiman NS, Lincoff AM, Kereiakes DJ, Miller DP, Aguirre FV, Anderson KM, Weisman HF, Califf RM, Topol EJ "Diabetes mellitus, glycoprotein IIb/IIIa blockade, and heparin: Evidence for a complex interaction in a multicenter trial." Circulation 97 (1998): 1912-20
-55. Leizorovicz A "Comparison of the efficacy and safety of low molecular weight heparins and unfractionated heparin in the initial treatment of deep venous thrombosis - an updated meta-analysis." Drugs 52 Suppl (1996): 30-7
-56. Rice P, Dace S, Mcmullin MF, Clements WDB "Heparin induced thrombocytopenia causing life-threatening postoperative haemorrhage." Br J Clin Pract 50 (1996): 404-5
-57. Begelman SM,  Hursting MJ,  Aghababian RV,  McCollum D "Heparin-induced thrombocytopenia from venous thromboembolism treatment." J Intern Med 258 (2005): 563-72
-58. Kane R "Delayed-onset heparin-induced thrombocytopenia." Ann Intern Med 139 (2003): 790
-59. Arnold DM,  Kelton JG "Heparin-induced thrombocytopenia: an iceberg rising." Mayo Clin Proc 80 (2005): 988-90
-60. Metz BK, White HD, Granger CB, Simes RJ, Armstrong PW, Hirsh J, Fuster V, MacAulay CM, Califf RM, Topol EJ "Randomized comparison of direct thrombin inhibition versus heparin in conjunction with fibrinolytic therapy for acute myocardial infarction: Results from the GUSTO-IIb trial." J Am Coll Cardiol 31 (1998): 1493-8
-61. Dang CH,  Durkalski VL,  Nappi JM "Evaluation of treatment with direct thrombin inhibitors in patients with heparin-induced thrombocytopenia." Pharmacotherapy 26 (2006): 461-8
-62. Selleng K,  Warkentin TE,  Greinacher A "Heparin-induced thrombocytopenia in intensive care patients." Crit Care Med 35 (2007): 1165-76
-63. Peters FPJ, Doevendans PAFM, Erdkamp FLG, Vanderent FWC, Deheer F "Low molecular weight heparin-induced thrombocytopenia and thrombosis." Eur J Haematol 56 (1996): 329-30
-64. Whitmore SE, Horn HD "Cutaneous necrosis: heparin necrosis." Arch Dermatol 132 (1996): 341
-65. Yamamoto S, Koide M, Matsuo M, Suzuki S, Ohtaka M, Saika S, Matsuo T "Heparin-induced thrombocytopenia in hemodialysis patients." Am J Kidney Dis 28 (1996): 82-5
-66. Bell WR, Royall RM "Heparin-associated thrombocytopenia: a comparison of three heparin preparations." N Engl J Med 303 (1980): 902-7
-67. Spinler SA,  Dager W "Overview of heparin-induced thrombocytopenia." Am J Health Syst Pharm 60 Suppl 5 (2003): S5-11
-68. Warkentin TE "Drug-induced immune-mediated thrombocytopenia--from purpura to thrombosis." N Engl J Med 356 (2007): 891-3
-69. Betrosian AP,  Theodossiades G,  Lambroulis G, et al. "Heparin-induced thrombocytopenia with pulmonary embolism and disseminated intravascular coagulation associated with low-molecular-weight heparin." Am J Med Sci 325 (2003): 45-7
-70. Hirsh J "Heparin and low-molecular-weight heparin: Mechanism of action, pharmacokinetics, dosing considerations, monitoring, efficacy, and safety (Vol 114, pg 495S, 1998)." Chest 115 (1999): 1760
-71. Shumate MJ "Heparin-induced thrombocytopenia." N Engl J Med 333 (1995): 1006-7
-72. Geerts WH, Jay RM, Code KI, et al. "A comparison of low-dose heparin with low-molecular-weight heparin as prophylaxis against venous thromboembolism after major trauma." N Engl J Med 335 (1996): 701-7
-73. Marymont JH,  Murphy GS,  Gilbert HC "Intraoperative heparin and heparin-induced thrombocytopenia." Anesth Analg 102 (2006): 328
-74. Campbell NRC, Hull RD, Brant R, Hogan DB, Pineo GF, Raskob GE "Aging and heparin-related bleeding." Arch Intern Med 156 (1996): 857-60
-75. "Product Information. Heparin Sodium (heparin)." Lilly, Eli and Company, Indianapolis, IN. 
-76. Warkentin TE,  Kelton JG "Delayed-Onset Heparin-Induced Thrombocytopenia and Thrombosis." Ann Intern Med 135 (2001): 502-506
-77. Warkentin TE,  Bernstein RA "Delayed-onset heparin-induced thrombocytopenia and cerebral thrombosis after a single administration of unfractionated heparin." N Engl J Med 348 (2003): 1067-9
-78. Schiele F, Vuillemenot A, Kramarz P, Kieffer Y, Anguenot T, Bernard Y, Bassand JP "Use of recombinant hirudin as antithrombotic treatment in patients with heparin-induced thrombocytopenia." Am J Hematol 50 (1995): 20-5
-79. Hawkins KA, Schwartz MJ "Heparin-related thrombosis after myocardial infarction." Am Heart J 108 (1984): 1543-4
-80. Andreescu AC, Possidente C, Hsieh M, Cushman M "Evaluation of a pharmacy-based surveillance program for heparin-induced thrombocytopenia." Pharmacotherapy 20 (2000): 974-80
-81. Leung WH, Lau CP, Wong CK, Leung CY "Fatal cardiac tamponade in systemic lupus erythematosus--a hazard of anticoagulation." Am Heart J 119 (1990): 422-3
-82. Broughan TA, Kottkemarchant K, Vogt DP "The ''white clot syndrome'' in hepatic transplantation." Transplantation 61 (1996): 982-4
-83. Tanner JR, Downs AR "White clot syndrome: a rare complication of heparin therapy." Can J Surg 29 (1986): 122-4
-84. Phelan BK "Heparin-associated thrombosis without thrombocytopenia." Ann Intern Med 99 (1983): 637-8
-85. Karim AH, Salomon J "Constrictive pericarditis after myocardial infarction. Sequela of anticoagulant-induced hemopericardium." Am J Med 79 (1985): 389-90
-86. Slaughter TF, Mark JB "Heparin-mediated hypotension associated with cardiac surgery." Anesth Analg 91 (2000): 766-7
-87. Newman PM, Chong BH "Heparin-induced thrombocytopenia: new evidence for the dynamic binding of purified anti-PF4-heparin antibodies to platelets and the resultant platelet activation." Blood 96 (2000): 182-7
-88. Humphries JE, Kaplan DM, Bolton WK "Heparin skin necrosis: delayed occurrence in a patient on hemodialysis." Am J Kidney Dis 17 (1991): 233-6
-89. Stricker H, Lammle B, Furlan M, Sulzer I "Heparin-dependent in vitro aggregation of normal platelets by plasma of a patient with heparin-induced skin necrosis: specific diagnostic test for a rare side effect." Am J Med 85 (1988): 721-4
-90. Levine LE, Bernstein JE, Soltani K, Medenica MM, Yung CW "Heparin-induced cutaneous necrosis unrelated to injection sites. A sign of potentially lethal complications." Arch Dermatol 119 (1983): 400-3
-91. Tuneu A, Moreno A, de Moragas JM "Cutaneous reactions secondary to heparin injections." J Am Acad Dermatol 12 (1985): 1072-7
-92. Warkentin TE "Heparin-induced skin lesions." Br J Haematol 92 (1996): 494-7
-93. O'Toole RD "Letter: Heparin: adverse reaction." Ann Intern Med 79 (1973): 759
-94. White PW, Sadd JR, Nensel RE "Thrombotic complications of heparin therapy: including six cases of heparin--induced skin necrosis." Ann Surg 190 (1979): 595-608
-95. Platell CF, Tan EG "Hypersensitivity reactions to heparin: delayed onset thrombocytopenia and necrotizing skin lesions." Aust N Z J Surg 56 (1986): 621-3
-96. Desai SN "Extensive skin necrosis following anticoagulant therapy." Br J Plast Surg 20 (1967): 325-31
-97. Patrizi A, Di Lernia V, Patrone P "Generalized reaction to subcutaneous heparin." Contact Dermatitis 20 (1989): 309-10
-98. Ojukwu C, Jenkinson SD, Obeid D "Deep vein thrombosis in pregnancy and heparin hypersensitivity." Br J Obstet Gynaecol 103 (1996): 934-6
-99. Leblanc M, Roy LF, Legault L, Dufresne LR, Morin C, Thuot C "Severe skin necrosis associated with heparin in hemodialysis." Nephron 68 (1994): 133-7
-100. Korstanje MJ, Bessems PJ, Hardy E, van de Staak WJ "Delayed-type hypersensitivity reaction to heparin." Contact Dermatitis 20 (1989): 383-4
-101. Asimacopoulos PJ, Athanasiadis I, Mccarthy JJ, Shade RJ, Teague RB "Can heparin cause adult respiratory distress syndrome by a similar mechanism as heparin-associated thrombocytopenia." Chest 105 (1994): 1266-8
-102. Ansell JE, Clark WP, Jr  Compton CC "Fatal reactions associated with intravenous heparin ." Drug Intell Clin Pharm 20 (1986): 74-5
-103. Giustolisi R, Guglielmo P, Diraimondo F, Cacciola E, Stagno F "Hypereosinophilia and subcutaneous heparin." Lancet 342 (1993): 1371
-104. Sanders MN, Bernhiselbroadbent J, Staker LV "Delayed hypersensitivity reaction to heparin in a pregnant woman." Int J Dermatol 34 (1995): 443-4
-105. Valsecchi R, Rozzoni M, Cainelli T "Allergy to subcutaneous heparin." Contact Dermatitis 26 (1992): 129-30
-106. Forni AL, Murray HW "Drug fever induced by heparin." Am J Med 92 (1992): 107
-107. Bircher AJ, Itin PH, Buchner SA "Skin lesions, hypereosinophilia, and subcutaneous heparin." Lancet 343 (1994): 861
-108. Odonnell BF, Tan CY "Delayed hypersensitivity reaction to heparin." Br J Dermatol 129 (1993): 634-6
-109. Rivers JK, Gianoutsos MP "Delayed hypersensitivity reaction to subcutaneous heparin." Aust N Z J Surg 61 (1991): 865-8
-110. Stein EA,  Amerena J,  Ballantyne CM, et al. "Long-Term Efficacy and Safety of Rosuvastatin 40 mg in Patients With Severe Hypercholesterolemia." Am J Cardiol 100 (2007): 1387-96
-111. Manfredini R, Boari B, Regoli F, Gallerani M "Cholestatic liver reaction and heparin therapy." Arch Intern Med 160 (2000): 3166
-112. Dukes GE, Jr  Sanders SW, Russo J, Jr  Swenson E, Burnakis TG, Saffle JR, Warden GD "Transaminase elevations in patients receiving bovine or porcine heparin." Ann Intern Med 100 (1984): 646-50
-113. Olsson R, Leonhardt T "Cholestatic liver reaction during heparin therapy." J Intern Med 229 (1991): 471-3
-114. Monreal M, Lafoz E, Salvador R, Roncales J, Navarro A "Adverse effects of three different forms of heparin therapy: thrombocytopenia, increased transaminases, and hyperkalaemia." Eur J Clin Pharmacol 37 (1989): 415-8
-115. Saffle JR, Russo J, Jr  Dukes GE, Jr  Warden GD "The effect of low-dose heparin therapy on serum platelet and transaminase levels." J Surg Res 28 (1980): 297-305
-116. Manfredini R,  Boari B,  Gallerani M "Drug-induced hepatotoxicity." N Engl J Med 349 (2003): 1974-6; author reply 1974-6
-117. Edes TE, Sunderrajan EV "Heparin-induced hyperkalemia." Arch Intern Med 145 (1985): 1070-2
-118. Surks MI, Sievert R "Drugs and thyroid function." N Engl J Med 333 (1995): 1688-94
-119. Bleasel JF, Rasko JE, Rickard KA, Richards G "Acute adrenal insufficiency secondary to heparin-induced thrombocytopenia-thrombosis syndrome." Med J Aust 157 (1992): 192-3
-120. Portnay GI, Vagenakis AG, Braverman LE, Cervi-Skinner SI "Letter: Anticoagulant therapy and acute adrenal insufficiency." Ann Intern Med 81 (1974): 115
-121. Ponce SP, Jennings AE, Madias NE, Harrington JT "Drug-induced hyperkalemia." Medicine (Baltimore) 64 (1985): 357-70
-122. Oster JR, Singer I, Fishman LM "Heparin-induced aldosterone suppression and hyperkalemia." Am J Med 98 (1995): 575-86
-123. Dahlman TC, Sjoberg HE, Ringertz H "Bone mineral density during long-term prophylaxis with heparin in pregnancy." Am J Obstet Gynecol 170 (1994): 1315-20
-124. Leehey D, Gantt C, Lim V "Heparin-induced hypoaldosteronism. Report of a case." JAMA 246 (1981): 2189-90
-125. Hardwicke MB, Kisly A "Prophylactic subcutaneous heparin therapy as a cause of bilateral adrenal hemorrhage." Arch Intern Med 152 (1992): 845-7
-126. Gonzalez-Martin G, Diaz-Molinas MS, Martinez AM, Ortiz M "Heparin-induced hyperkalemia: a prospective study." Int J Clin Pharmacol Ther Toxicol 29 (1991): 446-50
-127. O'Kelly R, Magee F, McKenna TJ "Routine heparin therapy inhibits adrenal aldosterone production." J Clin Endocrinol Metab 56 (1983): 108-12
-128. Watts GF, Cameron J, Henderson A, Richmond W "Lipoprotein lipase deficiency due to long-term heparinization presenting as severe hypertriglyceridaemia in pregnancy." Postgrad Med J 67 (1991): 1062-4
-129. Wittnich C, Dewar ML, Chiu RC "Myocardial protection: heparin-induced free fatty acid elevation during cardiopulmonary bypass and its prevention." J Surg Res 36 (1984): 527-31
-130. Henann NE "Heparin-induced hyperlipidemia in a patient with pre-existing dysbetalipoproteinemia." Clin Pharm 5 (1986): 761-4
-131. Brohee D, Neve P "Heparin side effects ." Arch Intern Med 144 (1984): 1693
-132. Busch EH, Ventura HO, Lavie CJ "Heparin-induced hyperkalemia." South Med J 80 (1987): 1450-1
-133. Camsari T, Cavdar C, Ozture H, Onvural B, Semin I, Celik A, Kavukcu S "Effects of conventional heparin and low-molecular-weight heparin treatment on lipid metabolism during a single hemodialysis session." Nephron 82 (1999): 286-8
-134. Sherman DS, Kass CL, Fish DN "Fludrocortisone for the treatment of heparin-induced hyperkalemia." Ann Pharmacother 34 (2000): 606-10
-135. Norman NE,  Sneed AM,  Brown C,  Ellis CA,  Minard G,  Brown RO "Heparin-induced hyponatremia." Ann Pharmacother 38 (2004): 404-7
-136. Monreal M, Lafoz E, Urrutia AI, Roncales J, Galimany R, Biosca C, Corominas A "Effects of long-term therapy with either heparin or low-molecular-weight heparin on serum lipid levels - a prospective study." Haemostasis 25 (1995): 283-7
-137. Casele H,  Haney EI,  James A,  Rosene-Montella K,  Carson M "Bone density changes in women who receive thromboprophylaxis in pregnancy." Am J Obstet Gynecol 195 (2006): 1109-13
-138. Nieuwenhuis HK, Albada J, Banga JD, Sixma JJ "Identification of risk factors for bleeding during treatment of acute venous thromboembolism with heparin or low molecular weight heparin." Blood 78 (1991): 2337-43
-139. Salam AA "Brachial plexus paralysis: an unusual complication of anticoagulant therapy." Am Surg 38 (1972): 454-5
-140. So W, Hugenholtz H, Richard MT "Complications of anticoagulant therapy in patients with known central nervous system lesions." Can J Surg 26 (1983): 181-3
-141. Walker AM, Jick H "Predictors of bleeding during heparin therapy." JAMA 244 (1980): 1209-12
-142. Bone RS, Jay SJ, Reynolds RC, Johanson WG, Jr. "Massive pulmonary hemorrhage: a rare complication of heparin therapy." Am J Med Sci 272 (1976): 197-9
-143. Susens GP, Hendrickson CG, Mulder MJ, Sams B "Femoral nerve entrapment secondary to a heparin hematoma." Ann Intern Med 69 (1968): 575-9
-144. Ducatman BS, Ludwig J, Hurt RD "Fatal rectus sheath hematoma." JAMA 249 (1983): 924-5
-145. Hill J, Caprini JA, Robbins JL "An unusual complication of minidose heparin therapy." Clin Orthop 118 (1976): 130-2
-146. Hyers TM "Heparin therapy. Regimens and treatment considerations." Drugs 44 (1992): 738-49
-Not all side effects for heparin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hematologic side effects including hemorrhage at any site have been reported the most frequently.  These have included hematomas, melena, hematuria, and less frequently, ecchymoses, epistaxis, and hematemesis.  Compression neuropathy and nerve paralysis from local bleeding and/or hematoma, fatal rectal sheath hematomas, intracranial hemorrhage, and other serious bleeding events have been reported.  Adrenal hemorrhage, ovarian hemorrhage, and retroperitoneal hemorrhage have been reported.  Thrombocytopenia has been reported in up to 30% of patients.  Heparin-induced thrombocytopenia (HIT), heparin-induced thrombocytopenia and thrombosis (HITT), and delayed onset HIT and HITT have been reported.
+The risk of bleeding has been reported to be increased in women over 60 years of age.  Other risk factors have included administration by intermittent intravenous injection, a serious comorbid condition or history of alcohol abuse, concomitant use of aspirin, or advanced age.  In addition, patients previously exposed to unfractionated heparin or a low-molecular-weight heparin appear to be more susceptible to developing heparin-induced thrombocytopenia (HIT) and HIT-related thromboembolic complications (e.g., transient ischemic attack, stroke) than those who were never exposed.There are two types of heparin-induced thrombocytopenia (HIT).  Type I, sometimes called heparin-associated thrombocytopenia, occurs in approximately 10% to 20% of patients treated with heparin and is a nonimmunogenic response to heparin.  Type I is not progressive, not associated with bleeding or thrombosis, and does not require special treatment.  Platelet counts usually recover within a few days even if heparin therapy is continued.  Type II HIT is an immune-mediated, prothrombotic reaction that occurs in 0.5% to 5% of patients treated with unfractionated heparin and in less than 1% of patients treated with a low molecular weight heparin (LMWH).  An overall mortality of 20% to 30% has been reported in patients who develop HIT type II.  The decrease in platelet count associated with HIT usually begins 5 to 14 days after starting heparin.  However, patients with a previous exposure (within past 100 days) to heparin may still have HIT antibodies circulating which can result in an abrupt (within 30 minutes of an IV bolus) decrease in platelets upon restarting heparin.  Another phenomenon known as delayed-onset HIT can also occur 9 to 40 days after heparin is stopped.  This typically occurs in patients exposed to heparin in the recent past (previous 2 weeks).  Patients with LMWH-induced HIT exhibit a longer delay in the onset of symptoms compared with those who have heparin-induced HIT.  Following discontinuation, platelet counts begin to recover within 4 days, but may take more than 2 weeks in patients with high-titer HIT antibodies.  Thrombocytopenia is caused by heparin-dependent IgG antibodies that bind to a specific platelet protein, platelet factor 4 (PF4).  The heparin-PF4-IgG immune complex binds to platelets causing platelet activation.  The activated platelets cause release of platelet-derived procoagulant microparticles, which accelerate coagulation reactions and generates thrombin.  LMWHs have a high cross-reactivity with circulating heparin-PF4-IgG immune complex.  Complications associated with HIT include exacerbation of venous thromboembolism, arterial or venous thrombosis, limb gangrene, stroke, and skin necrosis.  Approximately 50% to 75% of patients with HIT develop symptomatic thrombosis.  The risk of HIT-associated thrombosis correlates with the magnitude of decrease in platelet count.  Other factors associated with a higher risk for developing HIT-associated thrombosis include women, nonwhites, and lower body weight.  In approximately 20% of HIT patients, thrombosis occurs 1 to 3 days before thrombocytopenia is detected.  If HIT is suspected, treatment with the offending agent (e.g., heparin, LMWH, including heparin flushes) should be discontinued immediately and the patient should be given an alternative anticoagulant such as a direct thrombin inhibitor (i.e., argatroban, bivalirudin, lepirudin) or fondaparinux.  Use of a vitamin K antagonist (i.e., warfarin) should be delayed until the platelet count returns to normal.  The antibodies that cause HIT will usually disappear after approximately 3 months; therefore, use of heparin may be considered in a patient with a history of HIT if the antibody test is negative.There are data which support an increased risk of thrombocytopenia with bovine heparin.
+Cardiovascular side effects have included new or recurrent arterial and venous thrombosis in association with thrombocytopenia.  This paradoxical effect, known as the "white clot syndrome", has resulted in cerebral vascular accident, pulmonary embolism, myocardial infarction, loss of limbs, and may be fatal.  Gangrene of the limbs, fulminant hepatic failure following liver transplantation, and cutaneous necrosis, some fatal, have been reported.  Constrictive pericarditis following heparin induced hemopericardium and fatal cardiac tamponade have been reported.  Hypotension associated with heparin administration in patients undergoing cardiac surgery has been reported.
+Dermatologic side effects have included extensive skin necrosis, necrotic lesions at subcutaneous injection sites, erythematous, indurated, nonnecrotic plaques at injection sites, as well as eczema and generalized pruritic, erythematous rash.  Cutaneous necrosis has often been preceded by a burning sensation, localized erythema, and bullae formation.  Alopecia has been reported.
+Hypersensitivity side effects have included pruritic, inflammatory, papular, and vesicular lesions, urticaria, drug fever, asthma, rhinitis, and anaphylaxis.  Eosinophilia and delayed type hypersensitivity have also been reported.  Hypersensitivity is thought to play a role in the pathogenesis of Type II heparin induced thrombocytopenia and thrombosis as well as skin necrosis.  A case of adult respiratory distress syndrome in which hypersensitivity was suspected has been reported.
+Hepatic side effects reported in up to 60% of patients have included elevations in liver function enzymes.
+In one study of 86 patients, elevations in alanine aminotransferase (ALT) and aspartate aminotransferase (AST) occurred in 59.3% and 26.7% of patients, respectively.  The average maximum increase was 3.6 times baseline for ALT and 3.1 times baseline for AST.  Lactate dehydrogenase abnormalities were observed in 35.7% of patients.  Isoenzyme determinations in seven patients showed elevated hepatic fractions.  In no case was there clinical evidence of hepatotoxicity.
+Endocrine side effects have included increased free thyroxine levels.  Acute adrenal insufficiency caused by heparin induced adrenal hemorrhage has been reported.  Hypoaldosteronism has been reported.
+The mechanism for increased free thyroxine levels appears to be displacement of thyroxine from binding sites by free fatty acids and may be more significant in patients with hypertriglyceridemia.
+Metabolic side effects have included hyperkalemia, hyponatremia, and hypertriglyceridemia.
+Musculoskeletal side effects have included osteoporosis.
+A study of 39 women given prophylactic heparin therapy during pregnancy revealed an almost 5% reduction in trabecular bone mass during treatment.  Although limited data are available, the osteoporotic effects of heparin are believed to be reversible.In a study involving pregnant women (n=120) requiring thromboprophylaxis, clinically significant bone loss (i.e., 10% or greater) in the femur occurred in approximately 2% to 2.5% of patients regardless if they received enoxaparin (68.4 mg/day) or unfractionated heparin (17,380 units/day) for approximately 26 to 27 weeks.
+Renal side effects have been reported rarely.  A case of hemolytic uremic syndrome has been reported.
+Genitourinary side effects have been reported rarely.  Several cases of priapism have been reported.
+Local side effects have included injection site irritation, erythema, mild pain, hematoma, or ulceration.
+General side effects have been reported the most frequently.  These have included bleeding or hemorrhage at any site.
 Abdominal or stomach pain or swelling
 back pain or backaches
 bleeding from the gums when brushing teeth
@@ -184,8 +30,6 @@ menstrual bleeding, unexpected or unusually heavy
 unexplained bruising or purplish areas on the skin
 unexplained nosebleeds
 vomiting of blood or material that looks like coffee grounds
-
-
 Blood under the skin (blood blister) at the place of injection
 chest pain
 chills or fever
@@ -204,8 +48,6 @@ tearing of the eyes
 tightness in the chest
 trouble with breathing
 wheezing
-
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
@@ -217,4 +59,3 @@ sudden shortness of breath for no apparent reason
 sudden slurred speech
 sudden vision changes
 unusual bleeding or bruising
-

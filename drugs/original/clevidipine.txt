@@ -1,22 +1,12 @@
-Applies to clevidipine: intravenous emulsion
-In addition to its needed effects, some unwanted effects may be caused by clevidipine. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking clevidipine, check with your doctor or nurse immediately:
-
-
-Applies to clevidipine: intravenous emulsion
-Cardiovascular side effects have included atrial fibrillation (up to 21%), myocardial infarction (less than 1%), cardiac arrest (less than 1%), systemic hypotension, and reflex tachycardia.  Hypotension and reflex tachycardia have been reported during postmarketing experience.[Ref]
-Gastrointestinal side effects have included nausea (up to 21%) and vomiting (3.2%).  Ileus and nausea have been reported during postmarketing experience.[Ref]
-Renal side effects have included acute renal failure (up to 9%).[Ref]
-Nervous system side effects have included headache (6.3%) and syncope (less than 1%).[Ref]
-Respiratory side effects have included dyspnea (less than 1%).[Ref]
+Cardiovascular side effects have included atrial fibrillation (up to 21%), myocardial infarction (less than 1%), cardiac arrest (less than 1%), systemic hypotension, and reflex tachycardia.  Hypotension and reflex tachycardia have been reported during postmarketing experience.
+Gastrointestinal side effects have included nausea (up to 21%) and vomiting (3.2%).  Ileus and nausea have been reported during postmarketing experience.
+Renal side effects have included acute renal failure (up to 9%).
+Nervous system side effects have included headache (6.3%) and syncope (less than 1%).
+Respiratory side effects have included dyspnea (less than 1%).
 Other side effects have included decreased oxygen saturation (possible pulmonary shunting) during postmarketing experience.
 Metabolic side effects have included increased blood triglycerides during postmarketing experience.
 Hypersensitivity side effects have included hypersensitivity during postmarketing experience.
-1. "Clevidipine (Cleviprex) for IV treatment of severe hypertension." Med Lett Drugs Ther 50 (2008): 73-4
-2. "Product Information. Cleviprex (clevidipine)." The Medicines Company, Parsippany, NJ. 
-Not all side effects for clevidipine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Agitation
 confusion
 decreased urine output
@@ -36,8 +26,6 @@ seizures (convulsions)
 stupor
 swelling of the face, ankles, or hands
 unusual tiredness or weakness
-
-
 Chest pain or discomfort
 difficult or labored breathing
 pain or discomfort in the arms, jaw, back, or neck
@@ -49,4 +37,3 @@ unconsciousness
 very low blood pressure or pulse
 vomiting
 wheezing
-

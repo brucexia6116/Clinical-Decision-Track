@@ -1,42 +1,27 @@
-Generic Name: etanercept
 Common side effects of Enbrel include: infection and injection site reaction.  See below for a comprehensive list of adverse effects.
-Applies to etanercept: subcutaneous powder for solution, subcutaneous solution
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by etanercept (the active ingredient contained in Enbrel). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking etanercept:
-Some of the side effects that can occur with etanercept may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to etanercept: subcutaneous kit, subcutaneous solution
-Very common (10% or more): Non-upper respiratory infection (38%), upper respiratory infection (29%), rhinitis (12%)Common (1% to 10%): Pharyngitis, cough, respiratory disorder, sinusitisUncommon (0.1% to 1%): Interstitial lung disease (including pneumonitis and pulmonary fibrosis)[Ref]
-Very common (10% or more): Infections (including upper respiratory tract infections, bronchitis, cystitis, skin infections)Uncommon (0.1% to 1%): Serious infections (including pneumonia, cellulitis, septic arthritis, sepsis, parasitic infection)Rare (less than 0.1%): Tuberculosis, opportunistic infections (including invasive fungal, protozoal, bacterial, atypical mycobacterial, viral infections, Legionella), subacute cutaneous lupus erythematosus, discoid lupus erythematosus, lupus-like syndromeFrequency not reported: Listeria, hepatitis B reactivationPostmarketing reports: Macrophage activation syndrome, systemic vasculitis, sarcoidosis[Ref]
-Very common (10% or more): Headache (17%)Common (1% to 10%): DizzinessRare (less than 0.1%): Seizures, CNS demyelinating events suggestive of multiple sclerosis or localized demyelinating conditions, such as optic neuritis and transverse myelitisVery rare (less than 0.01%): Peripheral demyelinating events (including Guillain-Barre syndrome, chronic inflammatory demyelinating polyneuropathy, demyelinating polyneuropathy, multifocal motor neuropathy) Postmarketing reports: Paresthesias[Ref]
-Common (1% to 10%): Abdominal pain, dyspepsia, diarrhea, nausea, vomiting, mouth ulcers, altered sense of taste, esophagitis, gastritisUncommon (0.1% to 1%): Dry mouthRare (less than 0.1%): AnorexiaFrequency not reported: Intestinal perforationPostmarketing reports: Inflammatory bowel disease (IBD)[Ref]
-Rare (less than 0.1%): Worsening of congestive heart failure Postmarketing reports: Chest pain[Ref]
-Common (1% to 10%): Pruritus, rashUncommon (0.1% to 1%): Angioedema, urticaria, rash, psoriasiform rash, psoriasis (including new onset or worsening and pustular, primarily palms and soles) Rare (less than 0.1%): Cutaneous vasculitis (including leukocytoclastic vasculitis), Stevens-Johnson syndrome, erythema multiforme Very rare (less than 0.01%): Toxic epidermal necrolysisPostmarketing reports: Angioedema[Ref]
-Very common (10% or more): Injection site reactions (including bleeding, bruising, erythema, itching, pain, swelling)[Ref]
-Uncommon (0.1% to 1%): ThrombocytopeniaRare (less than 0.1%): Anemia, leukopenia, neutropenia, pancytopeniaVery rare (less than 0.01%): Aplastic anemiaPostmarketing reports: Lymphadenopathy[Ref]
-Uncommon (0.1% to 1%): Uveitis, scleritisRare (less than 0.1%): Inflammation, dry eyes[Ref]
-Common (1% to 10%): Allergic reactions, autoantibody formationUncommon (0.1% to 1%): Systemic vasculitis (including anti-neutrophilic cytoplasmic antibody positive vasculitis)Rare (less than 0.1%): Serious allergic/anaphylactic reactions (including angioedema, bronchospasm), sarcoidosisFrequency not reported: Macrophage activation syndrome, worsening of symptoms of dermatomyositis[Ref]
-Uncommon (0.1% to 1%): Non-melanoma skin cancersRare (less than 0.1%): Lymphoma, melanoma Frequency not reported: Leukemia, Merkel cell carcinoma, leukemia[Ref]
-Rare (less than 0.1%): Elevated liver enzymes, autoimmune hepatitisPostmarketing reports: Hepatitis B reactivation[Ref]
-Frequency not reported: Urinary tract infection[Ref]
+Very common (10% or more): Non-upper respiratory infection (38%), upper respiratory infection (29%), rhinitis (12%)Common (1% to 10%): Pharyngitis, cough, respiratory disorder, sinusitisUncommon (0.1% to 1%): Interstitial lung disease (including pneumonitis and pulmonary fibrosis)
+Very common (10% or more): Infections (including upper respiratory tract infections, bronchitis, cystitis, skin infections)Uncommon (0.1% to 1%): Serious infections (including pneumonia, cellulitis, septic arthritis, sepsis, parasitic infection)Rare (less than 0.1%): Tuberculosis, opportunistic infections (including invasive fungal, protozoal, bacterial, atypical mycobacterial, viral infections, Legionella), subacute cutaneous lupus erythematosus, discoid lupus erythematosus, lupus-like syndromeFrequency not reported: Listeria, hepatitis B reactivationPostmarketing reports: Macrophage activation syndrome, systemic vasculitis, sarcoidosis
+Very common (10% or more): Headache (17%)Common (1% to 10%): DizzinessRare (less than 0.1%): Seizures, CNS demyelinating events suggestive of multiple sclerosis or localized demyelinating conditions, such as optic neuritis and transverse myelitisVery rare (less than 0.01%): Peripheral demyelinating events (including Guillain-Barre syndrome, chronic inflammatory demyelinating polyneuropathy, demyelinating polyneuropathy, multifocal motor neuropathy) Postmarketing reports: Paresthesias
+Common (1% to 10%): Abdominal pain, dyspepsia, diarrhea, nausea, vomiting, mouth ulcers, altered sense of taste, esophagitis, gastritisUncommon (0.1% to 1%): Dry mouthRare (less than 0.1%): AnorexiaFrequency not reported: Intestinal perforationPostmarketing reports: Inflammatory bowel disease (IBD)
+Rare (less than 0.1%): Worsening of congestive heart failure Postmarketing reports: Chest pain
+Common (1% to 10%): Pruritus, rashUncommon (0.1% to 1%): Angioedema, urticaria, rash, psoriasiform rash, psoriasis (including new onset or worsening and pustular, primarily palms and soles) Rare (less than 0.1%): Cutaneous vasculitis (including leukocytoclastic vasculitis), Stevens-Johnson syndrome, erythema multiforme Very rare (less than 0.01%): Toxic epidermal necrolysisPostmarketing reports: Angioedema
+Very common (10% or more): Injection site reactions (including bleeding, bruising, erythema, itching, pain, swelling)
+Uncommon (0.1% to 1%): ThrombocytopeniaRare (less than 0.1%): Anemia, leukopenia, neutropenia, pancytopeniaVery rare (less than 0.01%): Aplastic anemiaPostmarketing reports: Lymphadenopathy
+Uncommon (0.1% to 1%): Uveitis, scleritisRare (less than 0.1%): Inflammation, dry eyes
+Common (1% to 10%): Allergic reactions, autoantibody formationUncommon (0.1% to 1%): Systemic vasculitis (including anti-neutrophilic cytoplasmic antibody positive vasculitis)Rare (less than 0.1%): Serious allergic/anaphylactic reactions (including angioedema, bronchospasm), sarcoidosisFrequency not reported: Macrophage activation syndrome, worsening of symptoms of dermatomyositis
+Uncommon (0.1% to 1%): Non-melanoma skin cancersRare (less than 0.1%): Lymphoma, melanoma Frequency not reported: Leukemia, Merkel cell carcinoma, leukemia
+Rare (less than 0.1%): Elevated liver enzymes, autoimmune hepatitisPostmarketing reports: Hepatitis B reactivation
+Frequency not reported: Urinary tract infection
 Renal side effects including pyelonephritis have been reported.  At least one case of necrotizing crescentic glomerulonephritis has been reported, in addition to a case of proliferative lupus nephritis.
-Common (1% to 10%): Fever, asthenia[Ref]
-The most commonly reported adverse reactions are injection site reactions (such as pain, swelling, itching, reddening and bleeding at the puncture site), infections (such as upper respiratory infections, bronchitis, bladder infections and skin infections), allergic reactions, development of autoantibodies, itching, and fever.[Ref]
-1. Pharmaceutical Society of Australia "APPGuide online. Australian prescription products guide online. Available from: URL: http://www.appco.com.au/appguide/default.asp."   ([2006]):
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Enbrel (etanercept)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-Not all side effects for Enbrel may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Common (1% to 10%): Fever, asthenia
+The most commonly reported adverse reactions are injection site reactions (such as pain, swelling, itching, reddening and bleeding at the puncture site), infections (such as upper respiratory infections, bronchitis, bladder infections and skin infections), allergic reactions, development of autoantibodies, itching, and fever.
 subcutaneous solution
-
 Chills
 cough
 fever
 sneezing
 sore throat
-
-
 Congestion in the chest
 depression
 fast heartbeat
@@ -45,8 +30,6 @@ itching, pain, redness, or swelling on the skin
 joint or muscle stiffness, tightness, or rigidity
 shortness of breath
 stomach discomfort or pain
-
-
 bladder pain
 blistering, peeling, or loosening of the skin
 bloody, black, or tarry stools
@@ -100,16 +83,12 @@ vomiting of blood or material that looks like coffee grounds
 weight loss
 wheezing
 yellow eyes or skin
-
-
 Abdominal or stomach pain
 loss of energy or weakness
 nausea and vomiting
 pain or burning in the throat
 redness or itching, pain, or swelling at the site of injection (under the skin)
 runny or stuffy nose
-
-
 Bumps below the skin
 depression
 dry eyes
@@ -119,8 +98,6 @@ heartburn
 irritation or soreness of the mouth
 itching, redness, or tearing of the eye
 skin rash
-
-
 Altered sense of taste
 burning, crawling, itching, numb, prickling, “pins and needles”, or tingling feelings
 feeling faint, dizzy, or lightheaded
@@ -129,4 +106,3 @@ flushing or redness of the skin, especially on the face and neck
 loss of appetite
 sweating
 weight gain
-

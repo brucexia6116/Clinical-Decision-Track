@@ -1,123 +1,37 @@
-Generic Name: carbamazepine
-Applies to carbamazepine: oral capsule extended release, oral suspension, oral tablet, oral tablet chewable, oral tablet extended release
 Other dosage forms:
 As well as its needed effects, carbamazepine (the active ingredient contained in Tegretol) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking carbamazepine, check with your doctor immediately:
 Some carbamazepine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to carbamazepine: compounding powder, intravenous solution, oral capsule extended release, oral suspension, oral tablet, oral tablet chewable, oral tablet extended release
-Very common (10% or more): Nausea (29%), vomiting (18%), constipation (10%)Very rare (less than 0.01%): Colitis, glossitis, stomatitis, pancreatitisFrequency not reported: Dryness of the mouth, with suppositories occasional rectal irritation may occur, diarrhea, oral ulcerationPostmarketing reports: Gastric distress, abdominal pain, anorexia[Ref]
-A single case of chemical pancreatitis has been reported in association with carbamazepine intoxication.[Ref]
-Carbamazepine increases the rate of T4 and T3 metabolism and may lead to hypothyroidism in patients with hypothyroidism who are being treated with T4.  Carbamazepine may also cause a 20% to 40% decrease in serum total and free T4 concentrations and a smaller decrease in serum total and free T3 concentrations in patients who have no thyroid disease.Chronic administration of carbamazepine (the active ingredient contained in Tegretol) may increase total cholesterol and HDL cholesterol levels.  Carbamazepine may also transiently increase serum triglyceride and LDL cholesterol levels.  One study has suggested that demeclocycline may be useful in prophylaxis of carbamazepine-induced hyponatremia.[Ref]
-Very rare (less than 0.01%): Increase in prolactin (with or without symptoms such as gynecomastia or galactorrhea), impaired male fertility and/or abnormal spermatogenesis, abnormal thyroid function tests (e.g., decreased L-thyroxine [FT4, T4, T3] and increased TSH)Frequency not reported: Hyponatremia, pancreatitis, lower serum testosterone, lower free androgen indexes, increased cerebrospinal fluid thyrotropin-releasing hormone levels[Ref]
-Very common (10% or more): LeucopeniaCommon (1% to 10%): Eosinophilia, thrombocytopenia, neutropeniaRare (0.01% to 0.1%): Leukocytosis, lymphadenopathy, folic acid deficiencyVery rare (less than 0.01%): Agranulocytosis, aplastic anemia, pure red cell aplasia, megaloblastic anemia, acute intermittent porphyria, reticulocytosis, hemolytic anemiaFrequency not reported: Aplastic anemia, pancytopenia, bone marrow depression, leukopenia, thrombophlebitis, thromboembolism, adenopathy[Ref]
-Thrombocytopenia is the most common hematologic effect of carbamazepine and may be either mild and transient or severe.  Significant decreases in white blood cell counts may occur although the values may still be within the normal range.  Often counts will return to baseline during continued therapy, and therefore, discontinuation of carbamazepine may not be necessary.  Dose reductions may also result in normalization of white blood cell counts.  Aplastic anemia has been reported (although many of the reported cases had confounding exposures to other medications).  The manufacturer reports an incidence of 2 per 1,000,000 patients for aplastic anemia and 6 per 1,000,000 patients for agranulocytosis.  Cases of reticulocytosis have been reported rarely in association with carbamazepine therapy as well.  In addition, cases of hemolytic anemia and erythroid arrest have been reported.Both humoral and nonimmune mechanisms have been implicated in the etiology of carbamazepine-induced bone marrow suppression.[Ref]
-Rare (0.01% to 0.1%): Disturbances of cardiac conductionVery rare (less than 0.01%): Bradycardia, arrhythmias, AV-block with syncope, collapse, congestive heart failure, hypertension or hypotension, aggravation of coronary artery disease, thrombophlebitis, thromboembolism[Ref]
-Most of the cases of cardiovascular effects reported have occurred in patients receiving carbamazepine for trigeminal neuralgia.  The reported effects included congestive heart failure, edema, hypotension, syncope and arrhythmias.  In general, the doses were titrated quickly because of severe pain.  Many of the doses were higher than those used to treat epilepsy.  Many of the reported cardiovascular effects resolved after discontinuation of carbamazepine.Increased sympathetic activity in the setting of seizure-induced hypoxia could predispose a patient to sudden unexpected death in epilepsy (SUDEP).[Ref]
-Very common (10% or more): Dizziness (44%), somnolence (32%), ataxia (15%) Common (1% to 10%): Headache, tremor, vertigoUncommon (0.1% to 1%): Abnormal involuntary movements (tremor, asterixis, dystonia, tics)Rare (less than 0.1%): Choreoathetotic disorders, orofacial dyskinesia, oculomotor disturbances, speech disorders (e.g., dysarthria or slurred speech), peripheral neuritis, paresthesia, paretic symptoms, neuroleptic malignant syndromeFrequency not reported: Drowsiness, fatigue, fever and chills[Ref]
-Rigidity and oculogyric crises have been reported.  Euphoria has also been reported and has led to abuse of carbamazepine in some patients.  Impairment of psychomotor function has been noted in association with use of the liquid suspension of carbamazepine.  Additionally, impaired cognition, exacerbations of focal seizures and asterixis have been reported in association with carbamazepine treatment.  One case of a lingual-facial-buccal extrapyramidal reaction has also been described.One study has suggested that gradual withdrawal of carbamazepine over ten days results in significantly fewer generalized tonic-clonic seizures compared to rapid withdrawal over four days.One study has suggested that the epoxide metabolite of carbamazepine may be responsible for the occasional occurrence of seizure exacerbations in patients receiving carbamazepine.[Ref]
-Rare (0.01% to 0.1%): A delayed multi-organ hypersensitivity disorder (of serum sickness type) with fever, skin rashes, vasculitis, lymphadenopathy, disorders mimicking lymphoma, arthralgia, leucopenia, eosinophilia, hepato-splenomegaly and abnormal liver function tests, occurring in various combinations, other organs may also be affected (e.g., lungs, kidneys, pancreas, myocardium, colon)Very rare (less than 0.01%): Aseptic meningitis (with myoclonus and peripheral eosinophilia), anaphylactic reaction, angioedemaFrequency not reported: Multiorgan hypersensitivity reactions occurring days, weeks, or months after initiating treatment[Ref]
-Rash and pruritus often resolve after discontinuation of carbamazepine therapy.  Both cases of lupus-like syndrome resolved after discontinuation of carbamazepine.  Stevens-Johnson syndrome, erythema multiforme, and a mononucleosis-like syndrome have also been reported.[Ref]
-Very common (10% or more): Elevated gamma-GT (due to hepatic enzyme induction) usually not clinically relevantCommon (1% to 10%): Elevated alkaline phosphataseUncommon (0.1% to 1%): Elevated transaminasesRare (0.01% to 0.1%): Cholestatic and hepatocellular jaundice, hepatitis of cholestatic, parenchymal (hepatocellular), or mixed typeVery rare (less than 0.01%): Granulomatous hepatitis, hepatic failureFrequency not reported: Liver function test abnormalities, variegate porphyria, porphyria cutanea tarda[Ref]
-Alterations in liver function tests may progress to hepatotoxicity including cholangitis, granuloma formation, fever and hepatocellular necrosis.  Discontinuation of carbamazepine often results in improvement in laboratory abnormalities and liver injury.[Ref]
-Very rare (less than 0.01%): Interstitial nephritis, renal failure, renal dysfunction (including albuminuria, hematuria, oliguria, and elevated BUN/azotemia)[Ref]
-Very rare (less than 0.01%): Pulmonary hypersensitivity (characterized by fever, dyspnea, pneumonitis or pneumonia), pulmonary embolism[Ref]
-Very common (10% or more): Allergic skin reactions, urticariaCommon (1% to 10%): Pruritus, rash, paresthesiaUncommon (0.1% to 1%): Exfoliative dermatitis, erythrodermaRare (0.01% to 0.1%): Systemic lupus erythematosus-like syndromeVery rare (less than 0.01%): Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), photosensitivity, erythema multiforme, erythema nodosum, alterations in skin pigmentation, purpura, acne, sweating, alopecia, hirsutism, unusual bruising, pruritic and erythematous rashes, diaphoresis, onychomycosis, dermatitisFrequency not reported: Psoriasiform eruption[Ref]
-Dangerous, sometimes fatal skin reactions (Stevens Johnson syndrome and toxic epidermal necrolysis), that can be caused by carbamazepine therapy are significantly more common in patients with the human leukocyte antigen (HLA) allele, HLA-B 1502.  This allele occurs almost exclusively in patients with ancestry across broad areas of Asia, including South Asian Indians.  Patients with ancestry from areas in which HLA-B 1502 is present should be screened for the HLA-B 1502 allele before starting treatment with carbamazepine.  If these individuals test positive, carbamazepine should not be started unless the expected benefit clearly outweighs the increased risk of serious skin reactions.  Patients who have been taking carbamazepine for more than a few months without developing skin reactions are at low risk of these events ever developing from carbamazepine.  This is true for patients of any ethnicity or genotype, including patients who test positive for HLA-B 1502.[Ref]
-Common (1% to 10%): Diplopia, accommodation disorders (blurred vision)Very rare (less than 0.01%): Lens opacities, conjunctivitisPostmarketing reports: Diplopia, oculomotor disturbances, nystagmus, photosensitivity, visual hallucinations, scattered punctate cortical lens opacities, overall impairment of the chromatic and achromatic systems, increased intraocular pressure[Ref]
-Frequency not reported: Disorders mimicking lymphoma[Ref]
-Frequency not reported: Antibody deficiencyPostmarketing reports: Aseptic meningitis (with myoclonus and peripheral eosinophilia)[Ref]
-Common (1% to 10%): Abnormal thinkingRare (0.01% to 0.1%): Hallucinations (visual or acoustic), depression, loss of appetite, restlessness, aggressive behavior, agitation, confusion, talkativenessVery rare (less than 0.01%): Activation of psychosis, rebound mania following discontinuation of therapy[Ref]
-Very rare (less than 0.01%): Sexual disturbances/impotence, abnormal spermatogenesis (with decreased sperm count and/or motility)Frequency not reported: Urinary frequency, acute urinary retention, oliguria with elevated blood pressure, azotemia, albuminuria, glycosuria, elevated BUN, microscopic deposits in the urine[Ref]
-Common (1% to 10%): Hyponatremia, fluid retention, edema, weight gain, reduced plasma osmolarity due to an antidiuretic hormone (ADH)-like effect (leading in rare cases to water intoxication accompanied by lethargy)Very rare (less than 0.01%): Disturbances of bone metabolism (decrease in plasma calcium and 25-OH-cholecalciferol) leading to osteomalacia, elevated cholesterol (including HDL cholesterol), elevated triglycerides[Ref]
-Rare (0.01% to 0.1%): Muscle weaknessVery rare (less than 0.01%): ArthralgiaPostmarketing reports: Leg cramps[Ref]
-Very rare (less than 0.01%): Taste disturbances, tinnitus, hyperacusis, hypoacusis, changes in pitch perception[Ref]
-1. Pellock JM "Carbamazepine side effects in children and adults." Epilepsia 28 (1987): s64-70
-2. Hebert AA, Ralston JP "Cutaneous reactions to anticonvulsant medications." J Clin Psychiatry 62 (2001): 22-6
-3. Soman M, Swenson C "A possible case of carbamazepine-induced pancreatitis." Drug Intell Clin Pharm 19 (1985): 925-7
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
-5. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-6. "Product Information. Tegretol (carbamazepine)." Basel Pharmaceuticals, Summit, NJ. 
-7. Tsao CY, Wright FS "Acute chemical pancreatitis associated with carbamazepine intoxication." Epilepsia 34 (1993): 174-6
-8. Kalff R, Houtkooper MA, Meyer JW, et al "Carbamazepine and serum sodium levels." Epilepsia 24 (1984): 390-7
-9. Tormey WP "Mechanisms of carbamazepine-induced antidiuresis." J Neurol Neurosurg Psychiatry 56 (1993): 567
-10. Delzompo M, Bocchetta A, Loviselli A, Martino E, Post RM, Ketter TA "Thyroid function during carbamazepine." Biol Psychiatry 36 (1994): 135-6
-11. Kuz GM,  Manssourian A "Carbamazepine-induced hyponatremia: assessment of risk factors." Ann Pharmacother 39 (2005): 1943-6
-12. Brewerton TD, Jackson CW "Prophylaxis of carbamazepine-induced hyponatremia by demeclocycline in 6 patients." J Clin Psychiatry 55 (1994): 249-51
-13. Gandelman MS "Review of carbamazepine-induced hyponatremia." Prog Neuropsychopharmacol Biol Psychiatry 18 (1994): 211-33
-14. Otto C, Richter WO "Syndrome of inappropriate antidiuretic hormone secretion induced by different drugs." Ann Pharmacother 28 (1994): 1199-200
-15. Marangell LB, George MS, Bissette G, Pazzaglia P, Huggins T, Post RM "Carbamazepine increases cerebrospinal fluid thyrotropin-releasing hormone levels in affectively ill patients." Arch Gen Psychiatry 51 (1994): 625-8
-16. Verrotti A,  Basciani F,  Morresi S,  Morgese G,  Chiarelli F "Thyroid hormones in epileptic children receiving carbamazepine and valproic acid." Pediatr Neurol 25 (2001): 43-6
-17. Kamiyama T, Iseki K, Kawazoe N, Takishita S, Fukiyama K "Carbamazepine-induced hyponatremia in a patient with partial central diabetes insipidus." Nephron 64 (1993): 142-5
-18. Uhde TW, Post RM "Effects of carbamazepine on serum electrolytes: clinical and theoretical implications." J Clin Psychopharmacol 3 (1983): 103-6
-19. Lofgren E,  Tapanainen JS,  Koivunen R,  Pakarinen A,  Isojarvi JI "Effects of carbamazepine and oxcarbazepine on the reproductive endocrine function in women with epilepsy." Epilepsia 47 (2006): 1441-6
-20. Isojarvi JI, Airaksinen KE, Repo M, Pakarinen AJ, Salmela P, Myllyla VV "Carbamazepine, serum thyroid hormones and myocardial function in epileptic patients." J Neurol Neurosurg Psychiatry 56 (1993): 710-2
-21. Isojarvi JIT, Pakarinen AJ, Rautio A, Pelkonen O, Myllyla VV "Liver enzyme induction and serum lipid levels after replacement of carbamazepine with oxcarbazepine." Epilepsia 35 (1994): 1217-20
-22. Strandjord RE, AAnderud S, Myking OL, Johannessen SI "Influence of carbamazepine on serum thyroxine and triiodothyronine in patients with epilepsy." Acta Neurol Scand 63 (1981): 111-21
-23. Hawson GA, Bain BJ, Whyte I "Agranulocytosis after administration of carbamazepine." Med J Aust Jan (1980): 82-3
-24. Terao T "Reticulocyte increase and carbamazepine." Am J Psychiatry 150 (1993): 1271-2
-25. Sobotka JL, Alexander B, Cook BL "A review of carbamazepine's hematologic reactions and monitoring recommendations." DICP 24 (1990): 1214-9
-26. Tohen M, Castillo J, Cole JO, et al "Thrombocytopenia associated with carbamazepine: a case series." J Clin Psychiatry 52 (1991): 496-8
-27. Stroink AR, Skillrud DM, Kiely JM, Sundt TM Jr "Carbamazepine-induced hemolytic anemia." Acta Haematol 72 (1984): 346-8
-28. Terao T "Transient thrombocytopenia while continuing carbamazepine." Am J Psychiatry 150 (1993): 1750-1
-29. Ponte CD "Carbamazepine-induced thrombocytopenia, rash, and hepatic dysfunction." Drug Intell Clin Pharm 17 (1983): 642-4
-30. Rush JA, Beran RG "Leucopenia as an adverse reaction to carbamazepine therapy." Med J Aust 140 (1984): 426-8
-31. Baciewicz G, Yerevanian BI "Thrombocytopenia associated with carbamazepine: case report and review." J Clin Psychiatry 45 (1984): 315-6
-32. Shoenfeld Y, Ben Baruch N, Livni E, et al "Carbamazepine (tegretol)-induced thrombocytopenia." Acta Haematol 68 (1982): 74
-33. Medberry CA, Pappas AA, Ackerman BH "Carbamazepine and erythroid arrest." Drug Intell Clin Pharm 21 (1987): 439-41
-34. Schweiger FJ, Kelton JG, Messner H, et al "Anticonvulsant-induced marrow suppression and immune thrombocytopenia." Acta Haematol 80 (1988): 54-8
-35. Kenneback G, Bergfeldt L, Vallin H, et al "Electrophysiologic effects and clinical hazards of carbamazepine treatment for neurologic disorders in patients with abnormalities of thecardiac conduction system." Am Heart J 121 (1991): 1421-9
-36. Verma SP, Yunis N, Lekos A, Crausman RS "Carbamazepine-induced systemic lupus erythematosus presenting as cardiac tamponade." Chest 117 (2000): 597-8
-37. Boesen F, Andersen EB, Jensen EK, Ladefoged SD "Cardiac conduction disturbances during carbamazepine therapy." Acta Neurol Scand 68 (1983): 49-52
-38. Hennessy MJ,  Tighe MG,  Binnie CD,  Nashef L "Sudden withdrawal of carbamazepine increases cardiac sympathetic activity in sleep." Neurology 57 (2001): 1650-4
-39. Weig SG, Pollack P "Carbamazepine-induced heart block in a child with tuberous sclerosis and cardiac rhabdomyoma - implications for evaluation and follow-up." Ann Neurol 34 (1993): 617-9
-40. Levander HG "Granulomatous hepatitis in a patient receiving carbamazepine." Acta Med Scand 208 (1980): 333-5
-41. Steckler TL "Lithium- and carbamazepine-associated sinus node dysfunction: nine-year experience in a psychiatric hospital." J Clin Psychopharmacol 14 (1994): 336-9
-42. Pulliainen V, Jokelainen M "Effects of phenytoin and carbamazepine on cognitive functions in newly diagnosed epileptic patients." Acta Neurol Scand 89 (1994): 81-6
-43. Smith KR, Goulding PM, Wilderman D, Goldfader PR, Holtermanhommes P, Wei FF "Neurobehavioral effects of phenytoin and carbamazepine in patients recovering from brain trauma: a comparative study." Arch Neurol 51 (1994): 653-60
-44. Wildin JD, Pleuvry BJ, Mawer GE "Impairment of psychomotor function at modest plasma concentrations of carbamazepine after administration of the liquid suspension to naive subjects." Br J Clin Pharmacol 35 (1993): 14-9
-45. Malow BA, Blaxton TA, Stertz B, Theodore WH "Carbamazepine withdrawal - effects of taper rate on seizure frequency." Neurology 43 (1993): 2280-4
-46. Neufeld MY "Exacerbation of focal seizures due to carbamazepine treatment in an adult patient." Clin Neuropharmacol 16 (1993): 359-61
-47. Joyce RP, Gunderson CH "Carbamazepine-induced orofacial dyskinesia." Neurology 30 (1980): 1333-4
-48. So EL, Ruggles KH, Cascino GD, Ahmann PA, Weatherford KW "Seizure exacerbation and status epilepticus related to carbamazepine-10,11-epoxide." Ann Neurol 35 (1994): 743-6
-49. Ambrosetto G, Riva R, Baruzzi A "Hyperammonemia in asterixis induced by carbamazepine: two case reports." Acta Neurol Scand 69 (1984): 186-9
-50. Stuppaeck CH, Whitworth AB, Fleischhacker WW "Abuse potential of carbamazepine." J Nerv Ment Dis 181 (1993): 519-20
-51. Parha S, Garoufi A, Yiallouros P, Theodoridis C, Karpathios T "Carbamazepine hypersensitivity and rickettsiosis mimicking kawasaki disease." Eur J Pediatr 152 (1993): 1040-1
-52. Roujeau JC, Kelly JP, Naldi L, et al. "Medication use and the risk of Stevens-Johnson syndrome or toxic epidermal necrolysis." N Engl J Med 333 (1995): 1600-7
-53. De Giorgio CM, Rabinowicz AL, Olivas RD "Carbamazepine-induced antinuclear antibodies and systemic lupus erythematosus-like syndrome." Epilepsia 32 (1991): 128-9
-54. Richens A, Davidson DLW, Cartlidge NEF, Easter DJ "A multicentre comparative trial of sodium valproate and carbamazepine in adult onset epilepsy." J Neurol Neurosurg Psychiatry 57 (1994): 682-7
-55. Roberts DL, Marks R "Skin reactions to carbamazepine." Arch Dermatol 117 (1981): 273-5
-56. Suzuki Y,  Fukuda M,  Tohyama M,  Ishikawa M,  Yasukawa M,  Ishii E "Carbamazepine-induced drug-induced hypersensitivity syndrome in a 14-year-old Japanese boy." Epilepsia 49 (2008): 2118-21
-57. Meisel S, North CQ "Carbamazepine-associated erythema multiforme with extreme eosinophilia." Clin Pharm 3 (1984): 15-9
-58. Merino N, Duran JA, Jimenez MC, Ravella R "Multisystem hypersensitivity reaction to carbamazepine." Ann Pharmacother 28 (1994): 402-3
-59. Fsadni C,  Fsadni P,  Piscopo T,  Mallia Azzopardi C "Carbamazepine-induced drug reaction with eosinophilia and systemic symptoms syndrome in a 35-year-old man with epilepsy." Clin Neuropharmacol 31 (2008): 295-8
-60. Bateman DE "Carbamazepine induced systemic lupus erythematosus: case report." Br Med J 291 (1985): 632-3
-61. Takahashi N, Aizawa H, Takata S, Matsumoto K, Koto H, Inoue H, Hara N "Acute interstitial pneumonitis induced by carbamazepine." Eur Respir J 6 (1993): 1409-11
-62. Hopen G, Nesthus I, Laerum OD "Fatal carbamazepine-associated hepatitis." Acta Med Scand 210 (1981): 333-5
-63. Sheridan WP, King RW, Gerstman M "Fever as an adverse reaction to carbamazepine." Aust N Z J Med 12 (1982): 520-2
-64. Soffer EE, Taylor RJ, Bertram PD, et al "Carbamazepine-induced liver injury." South Med J 76 (1983): 681-3
-65. Larrey D, Hadengue A, Pessayre D, et al "Carbamazepine-induced acute cholangitis." Dig Dis Sci 32 (1987): 554-7
-66. Laspina I, Secchi P, Grampa G, Uccellini D, Porazzi D "Acute cholangitis induced by carbamazepine." Epilepsia 35 (1994): 1029-31
-67. Levy M, Goodman MW, Van Dyne BJ, Sumner HW "Granulomatous hepatitis secondary to carbamazepine." Ann Intern Med 95 (1981): 64-5
-68. Swinburn BA, Croxson MS, Miller MV, Crawford KB "Carbamazepine induced granulomatous hepatitis." N Z Med J Mar (1986): 167
-69. Horowitz S, Patwardhan R, Marcus E "Hepatotoxic reactions associated with carbamazepine therapy." Epilepsia 29 (1988): 149-54
-70. Hogg RJ, Sawyer M, Hecox K, Eigenbrodt E "Carbamazepine-induced acute tubulointerstitial nephritis." J Pediatr 98 (1981): 830-2
-71. Jubert P, Almirall J, Casanovas A, Garcia M "Carbamazepine-induced acute renal failure." Nephron 66 (1994): 121
-72. Hegbrant J, Kurkus J, Oqvist B "Carbamazepine-related acute renal failure." Neurology 43 (1993): 446-7
-73. King GG, Barnes DJ, Hayes MJ "Carbamazepine-induced pneumonitis." Med J Aust 160 (1994): 126-7
-74. Brenner S, Wolf R, Landau M, Politi Y "Psoriasiform eruption induced by anticonvulsants." Isr J Med Sci 30 (1994): 283-6
-75. Mecarelli O, Rinalduzzi S, Accornero N "Changes in color vision after a single dose of vigabatrin or carbamazepine in healthy volunteers." Clin Neuropharmacol 24 (2001): 23-6
-76. DiLernia V, Viglio A, Cattania M, Paulli M "Carbamazepine-induced, CD30(+), primary, cutaneous, anaplastic large-cell lymphoma." Arch Dermatol 137 (2001): 675-6
-77. Hayman G,  Bansal A "Antibody deficiency associated with carbamazepine." BMJ 325 (2002): 1213
-78. Sanacora G,  Kendell SF,  Fenton L,  Coric V,  Krystal JH "Riluzole augmentation for treatment-resistant depression." Am J Psychiatry 161 (2004): 2132
+Very common (10% or more): Nausea (29%), vomiting (18%), constipation (10%)Very rare (less than 0.01%): Colitis, glossitis, stomatitis, pancreatitisFrequency not reported: Dryness of the mouth, with suppositories occasional rectal irritation may occur, diarrhea, oral ulcerationPostmarketing reports: Gastric distress, abdominal pain, anorexia
+A single case of chemical pancreatitis has been reported in association with carbamazepine intoxication.
+Carbamazepine increases the rate of T4 and T3 metabolism and may lead to hypothyroidism in patients with hypothyroidism who are being treated with T4.  Carbamazepine may also cause a 20% to 40% decrease in serum total and free T4 concentrations and a smaller decrease in serum total and free T3 concentrations in patients who have no thyroid disease.Chronic administration of carbamazepine (the active ingredient contained in Tegretol) may increase total cholesterol and HDL cholesterol levels.  Carbamazepine may also transiently increase serum triglyceride and LDL cholesterol levels.  One study has suggested that demeclocycline may be useful in prophylaxis of carbamazepine-induced hyponatremia.
+Very rare (less than 0.01%): Increase in prolactin (with or without symptoms such as gynecomastia or galactorrhea), impaired male fertility and/or abnormal spermatogenesis, abnormal thyroid function tests (e.g., decreased L-thyroxine [FT4, T4, T3] and increased TSH)Frequency not reported: Hyponatremia, pancreatitis, lower serum testosterone, lower free androgen indexes, increased cerebrospinal fluid thyrotropin-releasing hormone levels
+Very common (10% or more): LeucopeniaCommon (1% to 10%): Eosinophilia, thrombocytopenia, neutropeniaRare (0.01% to 0.1%): Leukocytosis, lymphadenopathy, folic acid deficiencyVery rare (less than 0.01%): Agranulocytosis, aplastic anemia, pure red cell aplasia, megaloblastic anemia, acute intermittent porphyria, reticulocytosis, hemolytic anemiaFrequency not reported: Aplastic anemia, pancytopenia, bone marrow depression, leukopenia, thrombophlebitis, thromboembolism, adenopathy
+Thrombocytopenia is the most common hematologic effect of carbamazepine and may be either mild and transient or severe.  Significant decreases in white blood cell counts may occur although the values may still be within the normal range.  Often counts will return to baseline during continued therapy, and therefore, discontinuation of carbamazepine may not be necessary.  Dose reductions may also result in normalization of white blood cell counts.  Aplastic anemia has been reported (although many of the reported cases had confounding exposures to other medications).  The manufacturer reports an incidence of 2 per 1,000,000 patients for aplastic anemia and 6 per 1,000,000 patients for agranulocytosis.  Cases of reticulocytosis have been reported rarely in association with carbamazepine therapy as well.  In addition, cases of hemolytic anemia and erythroid arrest have been reported.Both humoral and nonimmune mechanisms have been implicated in the etiology of carbamazepine-induced bone marrow suppression.
+Rare (0.01% to 0.1%): Disturbances of cardiac conductionVery rare (less than 0.01%): Bradycardia, arrhythmias, AV-block with syncope, collapse, congestive heart failure, hypertension or hypotension, aggravation of coronary artery disease, thrombophlebitis, thromboembolism
+Most of the cases of cardiovascular effects reported have occurred in patients receiving carbamazepine for trigeminal neuralgia.  The reported effects included congestive heart failure, edema, hypotension, syncope and arrhythmias.  In general, the doses were titrated quickly because of severe pain.  Many of the doses were higher than those used to treat epilepsy.  Many of the reported cardiovascular effects resolved after discontinuation of carbamazepine.Increased sympathetic activity in the setting of seizure-induced hypoxia could predispose a patient to sudden unexpected death in epilepsy (SUDEP).
+Very common (10% or more): Dizziness (44%), somnolence (32%), ataxia (15%) Common (1% to 10%): Headache, tremor, vertigoUncommon (0.1% to 1%): Abnormal involuntary movements (tremor, asterixis, dystonia, tics)Rare (less than 0.1%): Choreoathetotic disorders, orofacial dyskinesia, oculomotor disturbances, speech disorders (e.g., dysarthria or slurred speech), peripheral neuritis, paresthesia, paretic symptoms, neuroleptic malignant syndromeFrequency not reported: Drowsiness, fatigue, fever and chills
+Rigidity and oculogyric crises have been reported.  Euphoria has also been reported and has led to abuse of carbamazepine in some patients.  Impairment of psychomotor function has been noted in association with use of the liquid suspension of carbamazepine.  Additionally, impaired cognition, exacerbations of focal seizures and asterixis have been reported in association with carbamazepine treatment.  One case of a lingual-facial-buccal extrapyramidal reaction has also been described.One study has suggested that gradual withdrawal of carbamazepine over ten days results in significantly fewer generalized tonic-clonic seizures compared to rapid withdrawal over four days.One study has suggested that the epoxide metabolite of carbamazepine may be responsible for the occasional occurrence of seizure exacerbations in patients receiving carbamazepine.
+Rare (0.01% to 0.1%): A delayed multi-organ hypersensitivity disorder (of serum sickness type) with fever, skin rashes, vasculitis, lymphadenopathy, disorders mimicking lymphoma, arthralgia, leucopenia, eosinophilia, hepato-splenomegaly and abnormal liver function tests, occurring in various combinations, other organs may also be affected (e.g., lungs, kidneys, pancreas, myocardium, colon)Very rare (less than 0.01%): Aseptic meningitis (with myoclonus and peripheral eosinophilia), anaphylactic reaction, angioedemaFrequency not reported: Multiorgan hypersensitivity reactions occurring days, weeks, or months after initiating treatment
+Rash and pruritus often resolve after discontinuation of carbamazepine therapy.  Both cases of lupus-like syndrome resolved after discontinuation of carbamazepine.  Stevens-Johnson syndrome, erythema multiforme, and a mononucleosis-like syndrome have also been reported.
+Very common (10% or more): Elevated gamma-GT (due to hepatic enzyme induction) usually not clinically relevantCommon (1% to 10%): Elevated alkaline phosphataseUncommon (0.1% to 1%): Elevated transaminasesRare (0.01% to 0.1%): Cholestatic and hepatocellular jaundice, hepatitis of cholestatic, parenchymal (hepatocellular), or mixed typeVery rare (less than 0.01%): Granulomatous hepatitis, hepatic failureFrequency not reported: Liver function test abnormalities, variegate porphyria, porphyria cutanea tarda
+Alterations in liver function tests may progress to hepatotoxicity including cholangitis, granuloma formation, fever and hepatocellular necrosis.  Discontinuation of carbamazepine often results in improvement in laboratory abnormalities and liver injury.
+Very rare (less than 0.01%): Interstitial nephritis, renal failure, renal dysfunction (including albuminuria, hematuria, oliguria, and elevated BUN/azotemia)
+Very rare (less than 0.01%): Pulmonary hypersensitivity (characterized by fever, dyspnea, pneumonitis or pneumonia), pulmonary embolism
+Very common (10% or more): Allergic skin reactions, urticariaCommon (1% to 10%): Pruritus, rash, paresthesiaUncommon (0.1% to 1%): Exfoliative dermatitis, erythrodermaRare (0.01% to 0.1%): Systemic lupus erythematosus-like syndromeVery rare (less than 0.01%): Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), photosensitivity, erythema multiforme, erythema nodosum, alterations in skin pigmentation, purpura, acne, sweating, alopecia, hirsutism, unusual bruising, pruritic and erythematous rashes, diaphoresis, onychomycosis, dermatitisFrequency not reported: Psoriasiform eruption
+Dangerous, sometimes fatal skin reactions (Stevens Johnson syndrome and toxic epidermal necrolysis), that can be caused by carbamazepine therapy are significantly more common in patients with the human leukocyte antigen (HLA) allele, HLA-B 1502.  This allele occurs almost exclusively in patients with ancestry across broad areas of Asia, including South Asian Indians.  Patients with ancestry from areas in which HLA-B 1502 is present should be screened for the HLA-B 1502 allele before starting treatment with carbamazepine.  If these individuals test positive, carbamazepine should not be started unless the expected benefit clearly outweighs the increased risk of serious skin reactions.  Patients who have been taking carbamazepine for more than a few months without developing skin reactions are at low risk of these events ever developing from carbamazepine.  This is true for patients of any ethnicity or genotype, including patients who test positive for HLA-B 1502.
+Common (1% to 10%): Diplopia, accommodation disorders (blurred vision)Very rare (less than 0.01%): Lens opacities, conjunctivitisPostmarketing reports: Diplopia, oculomotor disturbances, nystagmus, photosensitivity, visual hallucinations, scattered punctate cortical lens opacities, overall impairment of the chromatic and achromatic systems, increased intraocular pressure
+Frequency not reported: Disorders mimicking lymphoma
+Frequency not reported: Antibody deficiencyPostmarketing reports: Aseptic meningitis (with myoclonus and peripheral eosinophilia)
+Common (1% to 10%): Abnormal thinkingRare (0.01% to 0.1%): Hallucinations (visual or acoustic), depression, loss of appetite, restlessness, aggressive behavior, agitation, confusion, talkativenessVery rare (less than 0.01%): Activation of psychosis, rebound mania following discontinuation of therapy
+Very rare (less than 0.01%): Sexual disturbances/impotence, abnormal spermatogenesis (with decreased sperm count and/or motility)Frequency not reported: Urinary frequency, acute urinary retention, oliguria with elevated blood pressure, azotemia, albuminuria, glycosuria, elevated BUN, microscopic deposits in the urine
+Common (1% to 10%): Hyponatremia, fluid retention, edema, weight gain, reduced plasma osmolarity due to an antidiuretic hormone (ADH)-like effect (leading in rare cases to water intoxication accompanied by lethargy)Very rare (less than 0.01%): Disturbances of bone metabolism (decrease in plasma calcium and 25-OH-cholecalciferol) leading to osteomalacia, elevated cholesterol (including HDL cholesterol), elevated triglycerides
+Rare (0.01% to 0.1%): Muscle weaknessVery rare (less than 0.01%): ArthralgiaPostmarketing reports: Leg cramps
+Very rare (less than 0.01%): Taste disturbances, tinnitus, hyperacusis, hypoacusis, changes in pitch perception
 It is possible that some side effects of Tegretol may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 intravenous solution
-
 Blurred vision or double vision
 continuous back-and-forth eye movements
-
-
 Actions that are out of control
 behavioral changes (especially in children)
 confusion, agitation, or hostility (especially in the elderly)
@@ -149,8 +63,6 @@ trouble sleeping
 twisting movements of the body
 uncontrolled movements, especially of the face, neck, and back
 unusual drowsiness
-
-
 Black, tarry stools
 blood in the urine or stools
 bone or joint pain
@@ -186,14 +98,10 @@ uncontrolled body movements
 unusual tiredness or weakness
 visual hallucinations (seeing things that are not there)
 yellow eyes or skin
-
-
 Dizziness (mild)
 drowsiness (mild)
 lightheadedness
 nausea or vomiting (mild)
-
-
 Accidental injury
 aching joints or muscles
 acid or sour stomach
@@ -215,4 +123,3 @@ problems with memory
 sexual problems in males
 sleepiness
 stomach pain, upset, or discomfort
-

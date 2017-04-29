@@ -1,31 +1,18 @@
-Generic Name: warfarin
-Applies to warfarin: oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by warfarin (the active ingredient contained in Coumadin). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking warfarin:
-Some of the side effects that can occur with warfarin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to warfarin: compounding powder, intravenous powder for injection, oral tablet
-The most common adverse reactions were fatal and nonfatal hemorrhage from any tissue or organ.[Ref]
-Frequency not reported: Hemorrhage, purple toes syndrome, infarction, systemic cholesterol microembolization, vasculitis, systemic atheroemboli[Ref]
-Frequency not reported: Cerebral hemorrhage, cerebral subdural hematoma, lethargy, headache, dizziness, taste perversion, paresthesia[Ref]
-Frequency not reported: Gastrointestinal hemorrhage, rectal hemorrhage, hematemesis, pancreatitis, diarrhea, nausea, vomiting, melena, abdominal pain, cramping, flatulence, bloating[Ref]
-Frequency not reported: Rash, alopecia, purpura, erythematous swollen skin patches, ecchymosis, skin necrosis, dermatitis, bullous eruptions, urticaria, pruritus[Ref]
-Frequency not reported: Tissue necrosis, chills[Ref]
-Frequency not reported: Calciphylaxis, edema[Ref]
-Frequency not reported: Hemothorax, epistaxis, tracheal or tracheobronchial calcification[Ref]
-Frequency not reported: Hematuria[Ref]
-Frequency not reported: Unexplained decrease in hematocrit, hemoglobin decreased[Ref]
-Frequency not reported: Jaundice, hepatic dysfunction, hepatitis, cholestatic hepatic injury, liver enzymes elevated[Ref]
-Frequency not reported: Hypersensitivity, allergic reactions, anaphylactic reactions[Ref]
-Frequency not reported: Fever, fatigue, malaise, asthenia, pain, cold intolerance, feeling cold[Ref]
-1. "Product Information. Coumadin (warfarin)." DuPont Pharmaceuticals, Wilmington, DE. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Coumadin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most common adverse reactions were fatal and nonfatal hemorrhage from any tissue or organ.
+Frequency not reported: Hemorrhage, purple toes syndrome, infarction, systemic cholesterol microembolization, vasculitis, systemic atheroemboli
+Frequency not reported: Cerebral hemorrhage, cerebral subdural hematoma, lethargy, headache, dizziness, taste perversion, paresthesia
+Frequency not reported: Gastrointestinal hemorrhage, rectal hemorrhage, hematemesis, pancreatitis, diarrhea, nausea, vomiting, melena, abdominal pain, cramping, flatulence, bloating
+Frequency not reported: Rash, alopecia, purpura, erythematous swollen skin patches, ecchymosis, skin necrosis, dermatitis, bullous eruptions, urticaria, pruritus
+Frequency not reported: Tissue necrosis, chills
+Frequency not reported: Calciphylaxis, edema
+Frequency not reported: Hemothorax, epistaxis, tracheal or tracheobronchial calcification
+Frequency not reported: Hematuria
+Frequency not reported: Unexplained decrease in hematocrit, hemoglobin decreased
+Frequency not reported: Jaundice, hepatic dysfunction, hepatitis, cholestatic hepatic injury, liver enzymes elevated
+Frequency not reported: Hypersensitivity, allergic reactions, anaphylactic reactions
+Frequency not reported: Fever, fatigue, malaise, asthenia, pain, cold intolerance, feeling cold
 intravenous powder for solution
-
 Abdominal or stomach pain with cramping
 bleeding gums
 blood in the urine
@@ -49,8 +36,6 @@ red or dark brown urine
 sweating
 unexplained swelling
 unusual tiredness or weakness
-
-
 Arm, back, or jaw pain
 blue-green to black skin discoloration
 blue or purple toes
@@ -83,12 +68,8 @@ unusual bleeding or bruising
 upper right abdominal or stomach pain
 vomiting of blood
 yellow eyes and skin
-
-
 Joint pain
 muscle pain
-
-
 Bloated
 change in taste, or bad, unusual, or unpleasant (after) taste
 cold intolerance
@@ -103,4 +84,3 @@ passing gas
 red, sore, or itching skin
 sores, welting, or blisters
 unusual drowsiness, dullness, or feeling of sluggishness
-

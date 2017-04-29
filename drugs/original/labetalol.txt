@@ -1,36 +1,22 @@
 Commonly reported side effects of labetalol include: symptomatic orthostatic hypotension.  See below for a comprehensive list of adverse effects.
-Applies to labetalol: oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by labetalol. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking labetalol:
-
 If any of the following symptoms of overdose occur while taking labetalol, get emergency help immediately:
-
-Some of the side effects that can occur with labetalol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to labetalol: compounding powder, intravenous solution, oral tablet
-Common (1% to 10%): Edema, postural hypotensionFrequency not reported: Bradycardia, heart block, heart failure, hypotension, ankle edema, increase of an existing intermittent claudication, postural hypotension, cold or cyanotic extremities, Raynaud's phenomenon, paresthesia of the extremities, syncope[Ref]
-Uncommon (0.1% to 1%): Increased sweatingFrequency not reported: Systemic lupus erythematosus, rashes (e.g., generalized maculopapular, lichenoid, urticarial, bullous lichen planus, psoriaform, facial erythema, Peyronie's disease, reversible alopecia)[Ref]
-Frequency not reported: Masking of the normal response to hypoglycemia (sweating and tachycardia); this may be important in some patients with diabetes mellitus[Ref]
-Common (1% to 10%): Nausea, dyspepsia, vomitingUncommon (0.1% to 1%): DiarrheaFrequency not reported: Epigastric pain[Ref]
-Common (1% to 10%): Ejaculation failure, impotenceFrequency not reported: Difficulty in micturition (including acute urinary bladder retention)[Ref]
-Common (1% to 10%): Transient elevations of liver function testsFrequency not reported: Hepatic necrosis, hepatitis, cholestatic jaundice[Ref]
-Rare (less than 0.1%): Hypersensitivity (e.g., rash, urticaria, pruritus, angioedema, dyspnea), anaphylactoid reactions[Ref]
-Frequency not reported: Antimitochondrial antibodies[Ref]
-Very rare (less than 0.01%): Hyperkalemia[Ref]
-Frequency not reported: Muscle cramps, toxic myopathy[Ref]
-Very common (10% or more): Dizziness (11%)Common (1% to 10%): Headache, taste distortion, vertigo, paresthesia, scalp tinglingUncommon (0.1% to 1%): DrowsinessFrequency not reported: Tremor[Ref]
-Common (1% to 10%): Vision abnormalityFrequency not reported: Dry eyesPostmarketing reports: Intraoperative Floppy Iris Syndrome (IFIS) observed during cataract surgery[Ref]
-Common (1% to 10%): Nasal stuffiness, dyspneaFrequency not reported: Bronchospasm, interstitial lung disease[Ref]
-Common (1% to 10%): Fatigue, astheniaFrequency not reported: Positive antinuclear factor[Ref]
-Frequency not reported: Depressed mood and lethargy, hallucinations, psychoses, confusion, sleep disturbances, nightmares[Ref]
-1. "Product Information. Labetalol Hydrochloride (labetalol)." Watson Pharmaceuticals, Parsippany, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for labetalol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Common (1% to 10%): Edema, postural hypotensionFrequency not reported: Bradycardia, heart block, heart failure, hypotension, ankle edema, increase of an existing intermittent claudication, postural hypotension, cold or cyanotic extremities, Raynaud's phenomenon, paresthesia of the extremities, syncope
+Uncommon (0.1% to 1%): Increased sweatingFrequency not reported: Systemic lupus erythematosus, rashes (e.g., generalized maculopapular, lichenoid, urticarial, bullous lichen planus, psoriaform, facial erythema, Peyronie's disease, reversible alopecia)
+Frequency not reported: Masking of the normal response to hypoglycemia (sweating and tachycardia); this may be important in some patients with diabetes mellitus
+Common (1% to 10%): Nausea, dyspepsia, vomitingUncommon (0.1% to 1%): DiarrheaFrequency not reported: Epigastric pain
+Common (1% to 10%): Ejaculation failure, impotenceFrequency not reported: Difficulty in micturition (including acute urinary bladder retention)
+Common (1% to 10%): Transient elevations of liver function testsFrequency not reported: Hepatic necrosis, hepatitis, cholestatic jaundice
+Rare (less than 0.1%): Hypersensitivity (e.g., rash, urticaria, pruritus, angioedema, dyspnea), anaphylactoid reactions
+Frequency not reported: Antimitochondrial antibodies
+Very rare (less than 0.01%): Hyperkalemia
+Frequency not reported: Muscle cramps, toxic myopathy
+Very common (10% or more): Dizziness (11%)Common (1% to 10%): Headache, taste distortion, vertigo, paresthesia, scalp tinglingUncommon (0.1% to 1%): DrowsinessFrequency not reported: Tremor
+Common (1% to 10%): Vision abnormalityFrequency not reported: Dry eyesPostmarketing reports: Intraoperative Floppy Iris Syndrome (IFIS) observed during cataract surgery
+Common (1% to 10%): Nasal stuffiness, dyspneaFrequency not reported: Bronchospasm, interstitial lung disease
+Common (1% to 10%): Fatigue, astheniaFrequency not reported: Positive antinuclear factor
+Frequency not reported: Depressed mood and lethargy, hallucinations, psychoses, confusion, sleep disturbances, nightmares
 intravenous solution
-
 Blurred vision or other changes in vision
 chills
 cold sweats
@@ -41,18 +27,12 @@ shortness of breath
 swelling of face, fingers, feet, or lower legs
 tightness in chest
 wheezing
-
-
 Chest pain or discomfort
 lightheadedness, dizziness, or fainting
 slow or irregular heartbeat
 sweating
 unusual tiredness or weakness
-
-
 Nausea
-
-
 Acid or sour stomach
 belching
 change in taste or bad, unusual, or unpleasant (after) taste
@@ -69,10 +49,7 @@ rash
 sensation of spinning
 stomach discomfort, upset, or pain
 stuffy nose
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 diarrhea
 increased sweating
 vomiting
-

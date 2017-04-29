@@ -1,19 +1,8 @@
-Generic Name: chenodeoxycholic acid
 Common side effects of Chenodal include: increased serum alanine aminotransferase.  See below for a comprehensive list of adverse effects.
-Applies to chenodeoxycholic acid: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by chenodeoxycholic acid (the active ingredient contained in Chenodal). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking chenodeoxycholic acid:
-Some of the side effects that can occur with chenodeoxycholic acid may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to chenodeoxycholic acid: oral tablet
-Hepatic side effects have included dose-related serum aminotransferase (mainly SGPT) elevations, usually not accompanied byrises in alkaline phosphatase or bilirubin, occurring in 30% or more of patients treated with the recommended dose of chenodeoxycholic acid (the active ingredient contained in Chenodal)   In most cases, these elevations were minor (1½ to 3 times the upper limit of laboratory normal) andtransient, returning to within the normal range within six months despite continued administration of the drug.Morphologic studies of liver biopsies taken before and after 9 and 24 months of treatment with chenodeoxycholic acid have shown that 63% of the patients prior to chenodiol treatment had evidence of intrahepatic cholestasis.  Almost all pretreatment patients had electron microscopic abnormalities.  By the ninth month of treatment, reexamination of two-thirds of the patients showed an 89% incidence of the signs of intrahepatic cholestasis.  Two of 89 patients at the ninth month had lithocholate-like lesions in the canalicular membrane, although there were not clinical enzyme abnormalities in the face of continued treatment and no change in Type 2 light microscopic parameters.[Ref]
-Gastrointestinal side effects have included diarrhea in 30% to 40% of patients and may occur at any time during treatment, but is most commonly encountered when treatment is initiated.  Usually, the diarrhea is mild, translucent, well-tolerated and does notinterfere with therapy.  Other less frequent, gastrointestinal side effects reported include urgency, cramps, heartburn, constipation, nausea and vomiting, anorexia, epigastric distress, dyspepsia, flatulence and nonspecific abdominal pain.[Ref]
-Hematologic side effects have included decreases in white cell count but the drug was continued in all patients without incident.[Ref]
-Metabolic side effects have included serum total cholesterol and low-density lipoprotein (LDL) cholesterol increases of 10% or more during drug administration; no change has been seen in the high-density lipoprotein (HDL) fraction; small decreases in serum triglyceride levels for females have been reported.[Ref]
-1. "Product Information. Chenodal (chenodeoxycholic acid)." Manchester Pharmaceutical, Fort Collins, CO. 
-Not all side effects for Chenodal may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hepatic side effects have included dose-related serum aminotransferase (mainly SGPT) elevations, usually not accompanied byrises in alkaline phosphatase or bilirubin, occurring in 30% or more of patients treated with the recommended dose of chenodeoxycholic acid (the active ingredient contained in Chenodal)   In most cases, these elevations were minor (1½ to 3 times the upper limit of laboratory normal) andtransient, returning to within the normal range within six months despite continued administration of the drug.Morphologic studies of liver biopsies taken before and after 9 and 24 months of treatment with chenodeoxycholic acid have shown that 63% of the patients prior to chenodiol treatment had evidence of intrahepatic cholestasis.  Almost all pretreatment patients had electron microscopic abnormalities.  By the ninth month of treatment, reexamination of two-thirds of the patients showed an 89% incidence of the signs of intrahepatic cholestasis.  Two of 89 patients at the ninth month had lithocholate-like lesions in the canalicular membrane, although there were not clinical enzyme abnormalities in the face of continued treatment and no change in Type 2 light microscopic parameters.
+Gastrointestinal side effects have included diarrhea in 30% to 40% of patients and may occur at any time during treatment, but is most commonly encountered when treatment is initiated.  Usually, the diarrhea is mild, translucent, well-tolerated and does notinterfere with therapy.  Other less frequent, gastrointestinal side effects reported include urgency, cramps, heartburn, constipation, nausea and vomiting, anorexia, epigastric distress, dyspepsia, flatulence and nonspecific abdominal pain.
+Hematologic side effects have included decreases in white cell count but the drug was continued in all patients without incident.
+Metabolic side effects have included serum total cholesterol and low-density lipoprotein (LDL) cholesterol increases of 10% or more during drug administration; no change has been seen in the high-density lipoprotein (HDL) fraction; small decreases in serum triglyceride levels for females have been reported.
 Black, tarry stools
 chest pain
 chills
@@ -26,11 +15,7 @@ sores, ulcers, or white spots on the lips or in the mouth
 swollen glands
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Diarrhea
-
-
 Abdominal or stomach pain
 acid or sour stomach
 belching
@@ -48,4 +33,3 @@ pain or discomfort in chest, upper stomach, or throat
 passing gas
 stomach discomfort or upset
 weight loss
-

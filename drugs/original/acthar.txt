@@ -1,25 +1,14 @@
-Generic Name: corticotropin
-Applies to corticotropin: injection gel/jelly
-In addition to its needed effects, some unwanted effects may be caused by corticotropin (the active ingredient contained in Acthar). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking corticotropin:
-Some of the side effects that can occur with corticotropin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to corticotropin: injectable powder for injection, injectable solution
-Very Common (10% or more): HypertensionCommon (1% to 10%): Cardiac hypertrophyFrequency not reported: Fluid retentionPostmarketing reports: Necrotizing angitis (adults only), congestive heart failure[Ref]
-Very common (10% or more): AcneCommon (1% to 10%): RashPostmarketing reports: Skin thinning (adults only), facial erythema, increased sweating (adults only)[Ref]
-Very common (10% or more): CushingoidCommon (1% to 10%): CushingoidPostmarketing reports: Decreased carbohydrate tolerance (infants only), hirsutism[Ref]
-Very common (10% or more): DiarrheaCommon (1% to 10%): Constipation, diarrhea, vomitingPostmarketing reports: Pancreatitis (adults only), abdominal distention, ulcerative esophagitis[Ref]
-Postmarketing reports: Allergic responses presenting as dizziness, nausea, and shock (adult only).[Ref]
-Common (1% to 10%): Increased appetite, decreased appetite, weight gainFrequency not reported: Alteration in glucose tolerancePostmarketing reports: Hypokalemic alkalosis (infants only)[Ref]
-Postmarketing reports: Muscle weakness, vertebral compression fractures (infants only)[Ref]
-Very Common (10% to more): ConvulsionsCommon (1% to 10%): ConvulsionsPostmarketing reports: Headache (adults only), vertigo (adults only), subdural hematoma, intracranial hemorrhage (adults only), reversible brain shrinkage (secondary to hypertension in infants only)[Ref]
-Very Common (10% or more): InfectionCommon (1% or 10%): Pyrexia, candidiasis, otitis media[Ref]
-Very common (10% or more): IrritabilityCommon (1% to 10%): IrritabilityFrequency not reported: Behavioral and mood changes[Ref]
-Common (1% or 10%): Nasal congestion, pneumonia, upper respiratory infections.[Ref]
-1. "Product Information. Acthar (corticotropin)." Rhone-Poulenc Rorer, Collegeville, PA. 
-Not all side effects for Acthar may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very Common (10% or more): HypertensionCommon (1% to 10%): Cardiac hypertrophyFrequency not reported: Fluid retentionPostmarketing reports: Necrotizing angitis (adults only), congestive heart failure
+Very common (10% or more): AcneCommon (1% to 10%): RashPostmarketing reports: Skin thinning (adults only), facial erythema, increased sweating (adults only)
+Very common (10% or more): CushingoidCommon (1% to 10%): CushingoidPostmarketing reports: Decreased carbohydrate tolerance (infants only), hirsutism
+Very common (10% or more): DiarrheaCommon (1% to 10%): Constipation, diarrhea, vomitingPostmarketing reports: Pancreatitis (adults only), abdominal distention, ulcerative esophagitis
+Postmarketing reports: Allergic responses presenting as dizziness, nausea, and shock (adult only).
+Common (1% to 10%): Increased appetite, decreased appetite, weight gainFrequency not reported: Alteration in glucose tolerancePostmarketing reports: Hypokalemic alkalosis (infants only)
+Postmarketing reports: Muscle weakness, vertebral compression fractures (infants only)
+Very Common (10% to more): ConvulsionsCommon (1% to 10%): ConvulsionsPostmarketing reports: Headache (adults only), vertigo (adults only), subdural hematoma, intracranial hemorrhage (adults only), reversible brain shrinkage (secondary to hypertension in infants only)
+Very Common (10% or more): InfectionCommon (1% or 10%): Pyrexia, candidiasis, otitis media
+Very common (10% or more): IrritabilityCommon (1% to 10%): IrritabilityFrequency not reported: Behavioral and mood changes
+Common (1% or 10%): Nasal congestion, pneumonia, upper respiratory infections.
 Backache
 blurred vision
 body aches or pain
@@ -55,11 +44,7 @@ unusual tiredness or weakness
 wheezing
 white patches in the mouth or throat or on the tongue
 white patches with diaper rash
-
-
 Convulsions (seizures)
-
-
 Accumulation of pus
 bruising
 bulging soft spot on the head of an infant
@@ -93,8 +78,6 @@ swollen, red, or tender area of infection
 trouble healing
 weight gain
 wheezing
-
-
 Bloating
 chills
 confusion
@@ -115,27 +98,16 @@ skin rash
 unusual weight loss
 weakness
 yellow eyes or skin
-
-
 Decreased carbohydrate tolerance
 hypokalemic alkalosis
 reversible brain shrinkage
-
-
 Blemishes on the skin
 diarrhea
 pimples
-
-
 Increased or decreased appetite
-
-
 Increased hair growth, especially on the face
 menstrual changes
 muscle weakness
-
-
 Feeling of constant movement of self or surroundings
 sensation of spinning
 thinning of the skin
-

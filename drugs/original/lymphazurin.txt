@@ -1,18 +1,7 @@
-Generic Name: isosulfan blue
-Applies to isosulfan blue: subcutaneous solution
-In addition to its needed effects, some unwanted effects may be caused by isosulfan blue (the active ingredient contained in Lymphazurin). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking isosulfan blue, check with your doctor or nurse immediately:
-Some of the side effects that can occur with isosulfan blue may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to isosulfan blue: injectable solution
-Hypersensitivity side effects have included life-threatening anaphylactic reactions in up to 2% of patients.  Symptoms may include shock, angioedema, urticaria, pruritus, and respiratory distress and occur most often in patients with a personal or family history of bronchial asthma, significant allergies, drug reactions, or previous reactions to triphenylmethane dyes.[Ref]
-The patient should be closely monitored for at least 60 minutes after administration of isosulfan blue.  Trained personnel should be available to administer emergency care, including resuscitation.[Ref]
-Dermatologic side effects have included pruritus, urticaria, angioedema, and transient or long-term blue coloration (tattooing) of the skin.[Ref]
-1. "Product Information. Lymphazurin (isosulfan blue)." Hirsch Industries Inc, Norwalk, CT. 
-Not all side effects for Lymphazurin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hypersensitivity side effects have included life-threatening anaphylactic reactions in up to 2% of patients.  Symptoms may include shock, angioedema, urticaria, pruritus, and respiratory distress and occur most often in patients with a personal or family history of bronchial asthma, significant allergies, drug reactions, or previous reactions to triphenylmethane dyes.
+The patient should be closely monitored for at least 60 minutes after administration of isosulfan blue.  Trained personnel should be available to administer emergency care, including resuscitation.
+Dermatologic side effects have included pruritus, urticaria, angioedema, and transient or long-term blue coloration (tattooing) of the skin.
 Cold, clammy skin
 confusion
 cough
@@ -33,7 +22,4 @@ tightness in the chest
 troubled breathing
 unusual tiredness or weakness
 wheezing
-
-
 Blue discoloration of the skin
-

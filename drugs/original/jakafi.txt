@@ -1,27 +1,14 @@
-Generic Name: ruxolitinib
 Common side effects of Jakafi include: anemia, dizziness, equilibrium disturbance, headache, labyrinthitis, meniere's disease, neutropenia, thrombocytopenia, vertigo, and orthostatic dizziness. Other side effects include: weight gain, and flatulence.  See below for a comprehensive list of adverse effects.
-Applies to ruxolitinib: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by ruxolitinib (the active ingredient contained in Jakafi). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking ruxolitinib:
-Some of the side effects that can occur with ruxolitinib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ruxolitinib: oral tablet
-Very common (10% or more): Bruising (up to 23.2%)Common (1% to 10%): Herpes zoster[Ref]
-Common (1% to 10%): Flatulence, gastrointestinal bleeding[Ref]
-Very common (10% or more): Urinary tract infection (up to 14.4%)[Ref]
-Very common (10% or more): Anemia (up to 96.1%), thrombocytopenia (up to 69.8%), neutropenia (up to 18.7%)[Ref]
-Common (1% to 10%): Tuberculosis Frequency not reported: Progressive multifocal leukoencephalopathy[Ref]
-Very common (10% or more): Hypercholesterolemia (up to 17.4%), weight gain (up to 10%)[Ref]
-Very common (10% or more): Dizziness (up to 18.1%), headache (up to 14.8%)Common (1% to 10%): Intracranial bleeding[Ref]
-The most common adverse reactions were anemia, thrombocytopenia, bruising, dizziness, and headache.[Ref]
-Very common (10% or more): Bleeding (up to 32.6%)[Ref]
-Very common (10% or more): ALT increased (up to 27.1%), AST increased (up to 19.3%)[Ref]
-1. "Product Information. Jakafi (ruxolitinib)." Incyte Corporation, Wilmington, DE. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Jakafi may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Bruising (up to 23.2%)Common (1% to 10%): Herpes zoster
+Common (1% to 10%): Flatulence, gastrointestinal bleeding
+Very common (10% or more): Urinary tract infection (up to 14.4%)
+Very common (10% or more): Anemia (up to 96.1%), thrombocytopenia (up to 69.8%), neutropenia (up to 18.7%)
+Common (1% to 10%): Tuberculosis Frequency not reported: Progressive multifocal leukoencephalopathy
+Very common (10% or more): Hypercholesterolemia (up to 17.4%), weight gain (up to 10%)
+Very common (10% or more): Dizziness (up to 18.1%), headache (up to 14.8%)Common (1% to 10%): Intracranial bleeding
+The most common adverse reactions were anemia, thrombocytopenia, bruising, dizziness, and headache.
+Very common (10% or more): Bleeding (up to 32.6%)
+Very common (10% or more): ALT increased (up to 27.1%), AST increased (up to 19.3%)
 Black, tarry stools
 bladder pain
 bleeding gums
@@ -49,11 +36,7 @@ troubled breathing with exertion
 ulcers, sores, or white spots in the mouth
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Painful blisters on the trunk of the body
-
-
 Bloated or full feeling
 dizziness or lightheadedness
 excess air or gas in the stomach or intestines
@@ -62,4 +45,3 @@ headache
 passing gas
 sensation of spinning
 weight gain
-

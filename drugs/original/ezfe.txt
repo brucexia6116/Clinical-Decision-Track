@@ -1,18 +1,9 @@
-Generic Name: iron polysaccharide
-Applies to iron polysaccharide: capsules and tablets
 Other dosage forms:
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Constipation; dark or green stools; diarrhea; loss of appetite; nausea; stomach cramps, pain, or upset; vomiting.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); black, tarry stools; blood or streaks of blood in the stool; fever; severe or persistent nausea, stomach pain, or vomiting; vomit that looks like blood or coffee grounds.
-
-Applies to iron polysaccharide: oral capsule, oral elixir, oral liquid, oral tablet
-Gastrointestinal side effects have been reported the most frequently.  They have included nausea, vomiting, diarrhea, constipation, abdominal pain, flatulence, and heartburn.[Ref]
-Constipation may be relieved by administering docusate sodium 100 mg to 200 mg per day in addition to increasing the intake of oral fluids, such as water.[Ref]
-Other side effects have included iron overload (hemosiderosis).  Secondary hemochromatosis due to prolonged iron ingestion has been reported rarely.[Ref]
-Iron overload (i.e., hemosiderosis) has been reported in patients genetically predisposed, or have underlying disorders, that augment the absorption of iron.  It has also occurred following administration of excessive parenteral iron therapy, combination of oral and parenteral iron, or in patients with hemoglobinopathies that were erroneously diagnosed as iron deficiency anemia.  Hemosiderosis is treated with repeated phlebotomy or long-term administration of deferoxamine.  The liver is particularly susceptible to toxicity in iron-overload states.[Ref]
-1. Wingard RL, Parker RA, Ismail N, Hakim RM "Efficacy of oral iron therapy in patients receiving recombinant human erythropoietin." Am J Kidney Dis 25 (1995): 433-9
-2. KleinSchwartz W "Toxicity of polysaccharid-iron complex exposures reported to poison control centers." Ann Pharmacother 34 (2000): 165-9
-3. Glassman E "Oral iron therapy with ferrous fumarate and polysaccharide iron complex." ANNA J 19 (1992): 277-8,323
-4. "Multum Information Services, Inc. Expert Review Panel"  
-Not all side effects for Ezfe may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Gastrointestinal side effects have been reported the most frequently.  They have included nausea, vomiting, diarrhea, constipation, abdominal pain, flatulence, and heartburn.
+Constipation may be relieved by administering docusate sodium 100 mg to 200 mg per day in addition to increasing the intake of oral fluids, such as water.
+Other side effects have included iron overload (hemosiderosis).  Secondary hemochromatosis due to prolonged iron ingestion has been reported rarely.
+Iron overload (i.e., hemosiderosis) has been reported in patients genetically predisposed, or have underlying disorders, that augment the absorption of iron.  It has also occurred following administration of excessive parenteral iron therapy, combination of oral and parenteral iron, or in patients with hemoglobinopathies that were erroneously diagnosed as iron deficiency anemia.  Hemosiderosis is treated with repeated phlebotomy or long-term administration of deferoxamine.  The liver is particularly susceptible to toxicity in iron-overload states.
 elixir

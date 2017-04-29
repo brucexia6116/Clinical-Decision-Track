@@ -1,8 +1,2 @@
-Generic Name: dihydrotachysterol
-Applies to dihydrotachysterol: oral capsule, oral concentrate, oral tablet
-Early signs and symptoms of hypercalcemia include headache, anorexia, nausea, vomiting, metallic taste, constipation, abdominal cramps, dry mouth, weakness, fatigue, muscle, and bone pain, ataxia, tinnitus, and vertigo.  Later hypercalcemia may result in pruritus, mental confusion, coma, hypertension, cardiac arrhythmias, seizures, metastatic calcification, and renal insufficiency manifested by polyuria, nocturia, polydipsia, and proteinuria.The effects of dihydrotachysterol (the active ingredient contained in DHT Intensol) can persist for up to one month after discontinuation of the drug.[Ref]
-Metabolic side effects have included hypercalcemia.[Ref]
-1. Miller SM "New perspectives on vitamin D." Am J Med Technol 49 (1983): 27-37
-2. "Product Information. DHT (dihydrotachysterol)." Roxane Laboratories Inc, Columbus, OH. 
-3. Araugo OE, Flowers FP, Brown K "Vitamin D therapy in psoriasis." DICP 25 (1991): 835-9
-Not all side effects for DHT Intensol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Early signs and symptoms of hypercalcemia include headache, anorexia, nausea, vomiting, metallic taste, constipation, abdominal cramps, dry mouth, weakness, fatigue, muscle, and bone pain, ataxia, tinnitus, and vertigo.  Later hypercalcemia may result in pruritus, mental confusion, coma, hypertension, cardiac arrhythmias, seizures, metastatic calcification, and renal insufficiency manifested by polyuria, nocturia, polydipsia, and proteinuria.The effects of dihydrotachysterol (the active ingredient contained in DHT Intensol) can persist for up to one month after discontinuation of the drug.
+Metabolic side effects have included hypercalcemia.

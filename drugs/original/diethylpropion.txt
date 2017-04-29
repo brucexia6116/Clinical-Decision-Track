@@ -1,33 +1,19 @@
-Applies to diethylpropion: oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by diethylpropion. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking diethylpropion:
-
 If any of the following symptoms of overdose occur while taking diethylpropion, get emergency help immediately:
-
-Some of the side effects that can occur with diethylpropion may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to diethylpropion: oral tablet, oral tablet extended release
-Very rare (less than 0.01%): ValvulopathyFrequency not reported: Precordial pain, arrhythmia (including ventricular), ECG changes, tachycardia, blood pressure elevation, palpitation, valvular heart disease[Ref]
-Rare (less than 0.1%): Pulmonary hypertensionFrequency not reported: Dyspnea[Ref]
-Rare (less than 0.1%): Psychotic episodesFrequency not reported: Insomnia, anxiety, euphoria, depression, dysphoria, tremor[Ref]
-Frequency not reported: Convulsive episodes, dyskinesia, overstimulation, nervousness, restlessness, dizziness, jitteriness, somnolence, headache, cerebrovascular accident[Ref]
-Frequency not reported: Urticaria, rash, ecchymosis, erythema, hair loss, increased sweating[Ref]
-Frequency not reported: Impotence, libido changes, gynecomastia, menstrual upset[Ref]
-Frequency not reported: Vomiting, diarrhea, abdominal discomfort, dry mouth, unpleasant taste, nausea, constipation, other GI disturbances[Ref]
-Frequency not reported: Dysuria, polyuria[Ref]
-Frequency not reported: Bone marrow depression, agranulocytosis, leukopenia[Ref]
-Frequency not reported: Muscle pain[Ref]
-Frequency not reported: Blurred vision, mydriasis[Ref]
-Frequency not reported: Malaise[Ref]
-1. "Product Information. Tenuate (diethylpropion)" Aventis Pharmaceuticals, Swiftwater, PA. 
-Not all side effects for diethylpropion may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very rare (less than 0.01%): ValvulopathyFrequency not reported: Precordial pain, arrhythmia (including ventricular), ECG changes, tachycardia, blood pressure elevation, palpitation, valvular heart disease
+Rare (less than 0.1%): Pulmonary hypertensionFrequency not reported: Dyspnea
+Rare (less than 0.1%): Psychotic episodesFrequency not reported: Insomnia, anxiety, euphoria, depression, dysphoria, tremor
+Frequency not reported: Convulsive episodes, dyskinesia, overstimulation, nervousness, restlessness, dizziness, jitteriness, somnolence, headache, cerebrovascular accident
+Frequency not reported: Urticaria, rash, ecchymosis, erythema, hair loss, increased sweating
+Frequency not reported: Impotence, libido changes, gynecomastia, menstrual upset
+Frequency not reported: Vomiting, diarrhea, abdominal discomfort, dry mouth, unpleasant taste, nausea, constipation, other GI disturbances
+Frequency not reported: Dysuria, polyuria
+Frequency not reported: Bone marrow depression, agranulocytosis, leukopenia
+Frequency not reported: Muscle pain
+Frequency not reported: Blurred vision, mydriasis
+Frequency not reported: Malaise
 Seeing, hearing, or feeling things that are not there
 severe mental changes
 shortness of breath
-
-
 Black, tarry stools
 blurred vision
 burning while urinating
@@ -71,8 +57,6 @@ unusual tiredness or weakness
 vision problems
 weakness in the arm or leg on one side of the body, sudden and severe
 wheezing
-
-
 Abdominal or stomach cramps
 bigger, dilated, or enlarged pupils (black part of the eye)
 change in consciousness
@@ -89,8 +73,6 @@ restlessness
 sweating
 violent actions
 vomiting
-
-
 Abdominal or stomach discomfort
 bruising
 difficulty having a bowel movement (stool)
@@ -113,4 +95,3 @@ stomach fullness or discomfort
 trouble sleeping
 unable to sleep
 unpleasant taste
-

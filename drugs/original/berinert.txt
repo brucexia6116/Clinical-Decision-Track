@@ -1,22 +1,10 @@
-Generic Name: C1 esterase inhibitor (human)
 Common side effects of Berinert include: headache. Other side effects include: abdominal pain, nausea, vomiting, and muscle spasm.  See below for a comprehensive list of adverse effects.
-Applies to C1 esterase inhibitor (human): intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by C1 esterase inhibitor (human). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking C1 esterase inhibitor (human), check with your doctor or nurse immediately:
-Some of the side effects that can occur with C1 esterase inhibitor (human) may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to C1 esterase inhibitor (human): intravenous kit, intravenous powder for injection
-Respiratory side effects have included sinusitis, bronchitis, upper respiratory tract infection, and viral upper respiratory tract infection.[Ref]
-Nervous system side effects have included headache.[Ref]
-Musculoskeletal side effects have included limb injury, back pain, and pain in extremity.[Ref]
-Dermatologic side effects have included pruritus.[Ref]
-Cardiovascular side effects have included postmarketing reports of thrombotic events including deep vein thrombosis, myocardial infarction, and transient ischemic attack.[Ref]
-1. "Product Information. Cinryze (complement C1 esterase inhibitor)." ViroPharma Incorporated, Exton, PA. 
-2. Gandhi PK,  Gentry WM,  Bottorff MB "Thrombotic events associated with C1 esterase inhibitor products in patients with hereditary angioedema: investigation from the United States Food and Drug Administration adverse event reporting system database." Pharmacotherapy 32 (2012): 902-9
-Not all side effects for Berinert may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Respiratory side effects have included sinusitis, bronchitis, upper respiratory tract infection, and viral upper respiratory tract infection.
+Nervous system side effects have included headache.
+Musculoskeletal side effects have included limb injury, back pain, and pain in extremity.
+Dermatologic side effects have included pruritus.
+Cardiovascular side effects have included postmarketing reports of thrombotic events including deep vein thrombosis, myocardial infarction, and transient ischemic attack.
 Chest pain
 head congestion
 hoarseness or other voice changes
@@ -26,13 +14,9 @@ rash
 sore throat
 tightness of the chest
 trouble breathing
-
-
 Flushing or redness of the skin
 itching
 unusually warm skin
-
-
 Confusion
 difficulty with speaking
 difficulty with swallowing
@@ -47,15 +31,10 @@ pain, redness, or swelling in the arm or leg
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 slow speech
 trouble speaking, thinking, or walking
-
-
 Abdominal or stomach pain
 diarrhea
 headache
 pain
-
-
 Change in taste
 loss of taste
 pain at the catheter site
-

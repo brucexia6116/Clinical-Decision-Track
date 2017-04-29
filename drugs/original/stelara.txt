@@ -1,21 +1,15 @@
-Generic Name: ustekinumab
-Applies to ustekinumab: parenteral injection
 Side effects include:
 Patients with psoriasis: Nasopharyngitis,  upper respiratory tract infection,  headache,  fatigue,  diarrhea,  back pain,  dizziness,  pharyngolaryngeal pain,  pruritus,  injection site erythema,  myalgia,  depression. 
 Patients with psoriatic arthritis: Arthralgia,  nausea,  dental infections. 
-Applies to ustekinumab: intravenous solution, subcutaneous solution
-Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, oropharyngeal painUncommon (0.1% to 1%): Nasal congestion[Ref]
-Common (1% to 10%): Headache, dizzinessUncommon (0.1% to 1%): Facial palsy[Ref]
-Common (1% to 10%): Fatigue[Ref]
-Common (1% to 10%): Diarrhea, nausea[Ref]
-Common (1% to 10%): Back pain, myalgia, arthralgia[Ref]
-Common (1% to 10%): Injection site erythema, pain, bruising, irritationUncommon (0.1% to 1%): Injection site reactions (including hemorrhage, hematoma, induration, swelling, and pruritus)[Ref]
-Common (1% to 10%): PruritusUncommon (0.1% to 1%): Pustular psoriasis, skin exfoliationRare (less than 0.1%): Exfoliative dermatitisPostmarketing reports: Erythrodermic psoriasis[Ref]
-Common (1% to 10%): Depression[Ref]
-Common (1% to 10%): Malignancies (1.7%)Postmarketing reports: Rapidly appearing, multiple cutaneous squamous cell carcinomas[Ref]
-Uncommon (0.1% to 1%): Hypersensitivity reactions (including rash, urticaria)Rare (less than 0.1%): Serious hypersensitivity reactions (including anaphylaxis and angioedema)[Ref]
-Very common (10% or more): Infections (up to 27%)Common (1% to 10%): About 6% of patients developed antibodies to this drug, dental infectionsUncommon (0.1% to 1%): Cellulitis, herpes zoster, viral upper respiratory tract infection[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Stelara (ustekinumab)." Centocor Inc, Malvern, PA. 
+Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, oropharyngeal painUncommon (0.1% to 1%): Nasal congestion
+Common (1% to 10%): Headache, dizzinessUncommon (0.1% to 1%): Facial palsy
+Common (1% to 10%): Fatigue
+Common (1% to 10%): Diarrhea, nausea
+Common (1% to 10%): Back pain, myalgia, arthralgia
+Common (1% to 10%): Injection site erythema, pain, bruising, irritationUncommon (0.1% to 1%): Injection site reactions (including hemorrhage, hematoma, induration, swelling, and pruritus)
+Common (1% to 10%): PruritusUncommon (0.1% to 1%): Pustular psoriasis, skin exfoliationRare (less than 0.1%): Exfoliative dermatitisPostmarketing reports: Erythrodermic psoriasis
+Common (1% to 10%): Depression
+Common (1% to 10%): Malignancies (1.7%)Postmarketing reports: Rapidly appearing, multiple cutaneous squamous cell carcinomas
+Uncommon (0.1% to 1%): Hypersensitivity reactions (including rash, urticaria)Rare (less than 0.1%): Serious hypersensitivity reactions (including anaphylaxis and angioedema)
+Very common (10% or more): Infections (up to 27%)Common (1% to 10%): About 6% of patients developed antibodies to this drug, dental infectionsUncommon (0.1% to 1%): Cellulitis, herpes zoster, viral upper respiratory tract infection
 It is possible that some side effects of Stelara may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

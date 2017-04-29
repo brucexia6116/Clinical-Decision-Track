@@ -1,28 +1,20 @@
-Generic Name: silver sulfadiazine topical
-Applies to silver sulfadiazine topical: topical cream
 As well as its needed effects, silver sulfadiazine topical (the active ingredient contained in SSD) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking silver sulfadiazine topical, check with your doctor or nurse as soon as possible:
 Some silver sulfadiazine topical side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to silver sulfadiazine topical: compounding powder, topical cream
-The serum sulfa levels have approached adult therapeutic levels (8 mg% to 12 mg%) when the drug was used on extensive areas of the body.  Although rare, side effects associated with sulfonamides may occur, such as blood dyscrasias (including agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, and hemolytic anemia), dermatologic and allergic reactions (including life-threatening cutaneous reactions [Stevens-Johnson syndrome, toxic epidermal necrolysis, and exfoliative dermatitis]), gastrointestinal reactions, hepatitis, hepatocellular necrosis, CNS reactions, and toxic nephrosis.[Ref]
-Rare (less than 0.1%): Blood dyscrasias (including agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, hemolytic anemia)Frequency not reported: Transient leukopenia (several cases)[Ref]
-Leukopenia associated with silver sulfadiazine topical was primarily characterized by decreased neutrophil count.  Maximal white blood cell depression occurred within 2 to 4 days of starting therapy.  Rebound to normal leukocyte levels followed onset within 2 to 3 days.  Recovery was not affected by continuation of silver sulfadiazine topical.Hemolytic anemia has been reported in patients with glucose-6-phosphate deficiency.[Ref]
-Rare (less than 0.1%): Skin necrosis, erythema multiforme, skin discoloration, rashes, dermatologic reactions (including life-threatening cutaneous reactions [Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis])[Ref]
-Rare (less than 0.1%): Interstitial nephritis, toxic nephrosis[Ref]
+The serum sulfa levels have approached adult therapeutic levels (8 mg% to 12 mg%) when the drug was used on extensive areas of the body.  Although rare, side effects associated with sulfonamides may occur, such as blood dyscrasias (including agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, and hemolytic anemia), dermatologic and allergic reactions (including life-threatening cutaneous reactions [Stevens-Johnson syndrome, toxic epidermal necrolysis, and exfoliative dermatitis]), gastrointestinal reactions, hepatitis, hepatocellular necrosis, CNS reactions, and toxic nephrosis.
+Rare (less than 0.1%): Blood dyscrasias (including agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, hemolytic anemia)Frequency not reported: Transient leukopenia (several cases)
+Leukopenia associated with silver sulfadiazine topical was primarily characterized by decreased neutrophil count.  Maximal white blood cell depression occurred within 2 to 4 days of starting therapy.  Rebound to normal leukocyte levels followed onset within 2 to 3 days.  Recovery was not affected by continuation of silver sulfadiazine topical.Hemolytic anemia has been reported in patients with glucose-6-phosphate deficiency.
+Rare (less than 0.1%): Skin necrosis, erythema multiforme, skin discoloration, rashes, dermatologic reactions (including life-threatening cutaneous reactions [Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis])
+Rare (less than 0.1%): Interstitial nephritis, toxic nephrosis
 Rare (less than 0.1%): Sulfa crystals in urine
 Sulfa crystals have been reported following the use of silver sulfadiazine topical on extensive areas of the body.
-Rare (less than 0.1%): Allergic reactionsFrequency not reported: Possibility of cross-hypersensitivity[Ref]
-Rare (less than 0.1%): Hepatitis, hepatocellular necrosis[Ref]
-Frequency not reported: Changes in serum osmolality that may affect laboratory test interpretation, increased possibility of kernicterus, delayed separation[Ref]
-Changes in serum osmolality (which can interfere with some laboratory test results) have been reported.  This was attributed to the amount of propylene glycol vehicle absorbed following use on extensive areas of the body.Reduction in bacterial growth after use of topical antibacterial agents has been reported to permit spontaneous healing of deep partial-thickness burns by preventing conversion of the partial thickness to full thickness by sepsis.  However, reduction in bacterial colonization has caused delayed separation, in some cases necessitating escharotomy in order to prevent contracture.[Ref]
+Rare (less than 0.1%): Allergic reactionsFrequency not reported: Possibility of cross-hypersensitivity
+Rare (less than 0.1%): Hepatitis, hepatocellular necrosis
+Frequency not reported: Changes in serum osmolality that may affect laboratory test interpretation, increased possibility of kernicterus, delayed separation
+Changes in serum osmolality (which can interfere with some laboratory test results) have been reported.  This was attributed to the amount of propylene glycol vehicle absorbed following use on extensive areas of the body.Reduction in bacterial growth after use of topical antibacterial agents has been reported to permit spontaneous healing of deep partial-thickness burns by preventing conversion of the partial thickness to full thickness by sepsis.  However, reduction in bacterial colonization has caused delayed separation, in some cases necessitating escharotomy in order to prevent contracture.
 Rare (less than 0.1%): Burning sensation, CNS reactions
 Rare (less than 0.1%): Gastrointestinal reactions
-1. "Product Information. SSD (silver sulfADIAZINE topical)." Dr. Reddy's Laboratories Inc, Upper Saddle River, NJ. 
-2. "Product Information. SSD AF (silver sulfADIAZINE topical)." Par Pharmaceutical Inc, Spring Valley, NY. 
 It is possible that some side effects of SSD may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Back, leg, or stomach pains
 blistering, peeling, or loosening of the skin
 blue-green to black skin discoloration
@@ -44,8 +36,5 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Brownish-gray skin discoloration
 burning feeling on treated areas
-

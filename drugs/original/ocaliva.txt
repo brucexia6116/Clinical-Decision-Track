@@ -1,36 +1,27 @@
-Generic Name: obeticholic acid
 Common side effects of Ocaliva include: severe pruritus, eye pruritus, pruritic rash, pruritus, pruritus ani, skin rash, vulvovaginal pruritus, decreased hdl cholesterol, macular eruption, maculopapular rash, miliaria, papular rash, urticaria, and pruritus of ear.  See below for a comprehensive list of adverse effects.
-Applies to obeticholic acid: oral tablet
 As well as its needed effects, obeticholic acid (the active ingredient contained in Ocaliva) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking obeticholic acid, check with your doctor immediately:
 Some obeticholic acid side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to obeticholic acid: oral tablet
-The most commonly reported side effects include pruritus, fatigue, and abdominal pain/discomfort.[Ref]
-Pruritus occurred most frequently in patients given 10 mg than in patients titrated to 10 mg and in those given placebo; these patients were more likely to develop pruritus within the first month.  Discontinuation due to pruritus was also more common in patients given 10 mg.Severe pruritus includes skin eruptions, prurigo, pruritus, pruritus generalized, eye pruritus, ear pruritus, anal pruritus, vulvovaginal pruritus, and rash pruritus.Rash includes urticaria, rash, rash macular/papular/maculopapular, heat rash, and urticaria cholinergic.[Ref]
-Very common (10% or more): Severe pruritus (up to 70%), rash (up to 10%)Common (1% to 10%): EczemaFrequency not reported: Skin eruptions, prurigo, pruritus generalized, rash pruritus, urticaria, rash macular/papular/maculopapular, heat rash, cholinergic urticaria[Ref]
-Very common (10% or more): Fatigue (up to 25%)Common (1% to 10%): PyrexiaFrequency not reported: Tiredness, asthenia, ear pruritus[Ref]
-Fatigue includes fatigue, tiredness, and asthenia.[Ref]
-Very common (10% or more): HDL-C reduction (up to 20%)[Ref]
-Very common (10% or more): Abdominal pain/discomfort (up to 19%)Common (1% to 10%): Oropharyngeal pain, constipationFrequency not reported: Ascites, variceal bleeding, upper/lower abdominal pain, abdominal tenderness, gastrointestinal pain, anal pruritus[Ref]
-Abdominal pain/discomfort includes upper/lower abdominal pain, abdominal pain, abdominal discomfort, abdominal tenderness, and gastrointestinal pain.[Ref]
-Common (1% to 10%): Peripheral edema, palpitations[Ref]
-Dizziness includes dizziness, syncope, and presyncope.[Ref]
-Common (1% to 10%): DizzinessFrequency not reported: Hepatic encephalopathy, syncope, presyncope[Ref]
-Common (1% to 10%): Thyroid function abnormalityFrequency not reported: Decreased free thyroxine, increased blood thyroid stimulating hormone, hypothyroidism[Ref]
-Thyroid function abnormality includes thyroxine free decreased, blood thyroid stimulating hormone increased, and hypothyroidism.[Ref]
-Common (1% to 10%): Arthralgia[Ref]
-Frequency not reported: Liver-related adverse reactions (ascites, hepatic encephalopathy, variceal bleeding)[Ref]
-Frequency not reported: Vulvovaginal pruritus[Ref]
-Frequency not reported: Eye pruritus[Ref]
-1. "Product Information. Ocaliva (obeticholic acid)." Intercept Pharmaceuticals, Inc., New York, NY. 
+The most commonly reported side effects include pruritus, fatigue, and abdominal pain/discomfort.
+Pruritus occurred most frequently in patients given 10 mg than in patients titrated to 10 mg and in those given placebo; these patients were more likely to develop pruritus within the first month.  Discontinuation due to pruritus was also more common in patients given 10 mg.Severe pruritus includes skin eruptions, prurigo, pruritus, pruritus generalized, eye pruritus, ear pruritus, anal pruritus, vulvovaginal pruritus, and rash pruritus.Rash includes urticaria, rash, rash macular/papular/maculopapular, heat rash, and urticaria cholinergic.
+Very common (10% or more): Severe pruritus (up to 70%), rash (up to 10%)Common (1% to 10%): EczemaFrequency not reported: Skin eruptions, prurigo, pruritus generalized, rash pruritus, urticaria, rash macular/papular/maculopapular, heat rash, cholinergic urticaria
+Very common (10% or more): Fatigue (up to 25%)Common (1% to 10%): PyrexiaFrequency not reported: Tiredness, asthenia, ear pruritus
+Fatigue includes fatigue, tiredness, and asthenia.
+Very common (10% or more): HDL-C reduction (up to 20%)
+Very common (10% or more): Abdominal pain/discomfort (up to 19%)Common (1% to 10%): Oropharyngeal pain, constipationFrequency not reported: Ascites, variceal bleeding, upper/lower abdominal pain, abdominal tenderness, gastrointestinal pain, anal pruritus
+Abdominal pain/discomfort includes upper/lower abdominal pain, abdominal pain, abdominal discomfort, abdominal tenderness, and gastrointestinal pain.
+Common (1% to 10%): Peripheral edema, palpitations
+Dizziness includes dizziness, syncope, and presyncope.
+Common (1% to 10%): DizzinessFrequency not reported: Hepatic encephalopathy, syncope, presyncope
+Common (1% to 10%): Thyroid function abnormalityFrequency not reported: Decreased free thyroxine, increased blood thyroid stimulating hormone, hypothyroidism
+Thyroid function abnormality includes thyroxine free decreased, blood thyroid stimulating hormone increased, and hypothyroidism.
+Common (1% to 10%): Arthralgia
+Frequency not reported: Liver-related adverse reactions (ascites, hepatic encephalopathy, variceal bleeding)
+Frequency not reported: Vulvovaginal pruritus
+Frequency not reported: Eye pruritus
 It is possible that some side effects of Ocaliva may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Fever
 severe itching skin
-
-
 Abdominal or stomach pain
 chills
 clay-colored stools
@@ -45,8 +36,6 @@ unpleasant breath odor
 unusual tiredness or weakness
 vomiting of blood
 yellow eyes or skin
-
-
 Abdominal or stomach discomfort
 bloating or swelling of the face, arms, hands, lower legs, or feet
 difficulty having a bowel movement (stool)
@@ -58,7 +47,4 @@ rapid weight gain
 sore throat
 tingling of the hands or feet
 unusual weight gain or loss
-
-
 Skin rash, encrusted, scaly and oozing
-

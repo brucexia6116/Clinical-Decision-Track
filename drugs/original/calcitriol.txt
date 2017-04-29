@@ -1,30 +1,23 @@
 Commonly reported side effects of calcitriol include: hypercalcemia, hypercalciuria, and increased serum creatinine.  See below for a comprehensive list of adverse effects.
-Applies to calcitriol: oral capsules, oral solution, parenteral injection
 Side effects include:
 Excessive vitamin D intake (early manifestations): weakness,   headache,    somnolence,   nausea,   dry mouth,   constipation,   muscle or bone pain,   metallic taste.  
 Excessive vitamin D intake (late manifestations): polyuria,   polydipsia,   anorexia,   weight loss,   nocturia,   calcific conjunctivitis,   pancreatitis,   photophobia,   rhinorrhea,   pruritus,   hyperthermia,   decreased libido,   elevated BUN,   albuminuria,   hypercholesterolemia,   elevated AST,   elevated ALT,   ectopic calcification,   nephrocalcinosis,   hypertension,   cardiac arrhythmias,   dystrophy,   sensory disturbances,   dehydration,   apathy,   arrested growth, urinary tract infections.  
-Applies to calcitriol: injectable solution, oral capsule, oral liquid
-Early signs of excessive vitamin D intake include weakness, headache, somnolence, nausea, vomiting, dry mouth, constipation, muscle pain, bone pain, metallic taste, anorexia, abdominal pain, or stomach ache.  Late signs include polyuria, polydipsia, anorexia, weight loss, nocturia, conjunctivitis (calcific), pancreatitis, photophobia, rhinorrhea, pruritus, hyperthermia, decreased libido, elevated BUN, albuminuria, hypercholesterolemia, elevated AST and ALT, ectopic calcification, nephrocalcinosis, hypertension, cardiac arrhythmias, dystrophy, sensory disturbances, dehydration, apathy, arrested growth, urinary tract infections, and rarely, overt psychosis.[Ref]
-Adverse events were similar to those of excessive vitamin D intake, hypercalcemia syndrome or calcium intoxication.[Ref]
-Very common (10% or more): HypercalcemiaUncommon (0.1% to 1%): Decreased appetite Frequency not reported: Polydipsia, dehydration, weight loss, thirst, hyperphosphatemia, anorexia, hypercholesterolemia[Ref]
-Common (1% to 10%): Hypercalciuria, urinary tract infectionFrequency not reported: Polyuria, nocturia, albuminuria[Ref]
-Common (1% to 10%): HeadacheFrequency not reported: Sensory disturbance, somnolence, metallic tastePostmarketing reports: Seizure[Ref]
-Frequency not reported: Allergic reaction, hypersensitivity (including rash, erythema, pruritus, and urticaria)Postmarketing reports: Anaphylaxis[Ref]
-Common (1% to 10%): Abdominal pain, nauseaUncommon (0.1% to 1%): VomitingFrequency not reported: Constipation, abdominal pain upper, paralytic ileus, dry mouth, pancreatitis, epigastric discomfort, diarrhea[Ref]
-Common (1% to 10%): RashFrequency not reported: Urticaria, erythema, pruritus, erythema multiforme[Ref]
-Frequency not reported: Cardiac arrhythmias, cardiac arrest, hypertension[Ref]
-Frequency not reported: Elevated AST, elevated ALT[Ref]
-Frequency not reported: Calcinosis, pyrexia, weakness, hyperthermia, ectopic calcification, dystrophyPostmarketing reports: Chest pain[Ref]
-Uncommon (0.1% to 1%): Blood creatinine increasedFrequency not reported: Elevated BUN, nephrocalcinosis, impairment of renal function[Ref]
-Frequency not reported: Muscular weakness, growth retardation, muscle pain, bone pain[Ref]
-Frequency not reported: Apathy, psychiatric disturbances, decreased libido, overt psychosis[Ref]
-Frequency not reported: Pain on injectionPostmarketing reports: Bleeding at the venipuncture site[Ref]
-Postmarketing reports: Hemolysis[Ref]
-Postmarketing reports: Brown tumor, non-malignant tumor on the ribs[Ref]
-Frequency not reported: Conjunctivitis (calcific), photophobia[Ref]
-Frequency not reported: Rhinorrhea[Ref]
-1. "Product Information. Calcijex (calcitriol)." Abbott Pharmaceutical, Abbott Park, IL. 
-2. "Product Information. Rocaltrol (calcitriol)." Roche Laboratories, Nutley, NJ. 
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for calcitriol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Early signs of excessive vitamin D intake include weakness, headache, somnolence, nausea, vomiting, dry mouth, constipation, muscle pain, bone pain, metallic taste, anorexia, abdominal pain, or stomach ache.  Late signs include polyuria, polydipsia, anorexia, weight loss, nocturia, conjunctivitis (calcific), pancreatitis, photophobia, rhinorrhea, pruritus, hyperthermia, decreased libido, elevated BUN, albuminuria, hypercholesterolemia, elevated AST and ALT, ectopic calcification, nephrocalcinosis, hypertension, cardiac arrhythmias, dystrophy, sensory disturbances, dehydration, apathy, arrested growth, urinary tract infections, and rarely, overt psychosis.
+Adverse events were similar to those of excessive vitamin D intake, hypercalcemia syndrome or calcium intoxication.
+Very common (10% or more): HypercalcemiaUncommon (0.1% to 1%): Decreased appetite Frequency not reported: Polydipsia, dehydration, weight loss, thirst, hyperphosphatemia, anorexia, hypercholesterolemia
+Common (1% to 10%): Hypercalciuria, urinary tract infectionFrequency not reported: Polyuria, nocturia, albuminuria
+Common (1% to 10%): HeadacheFrequency not reported: Sensory disturbance, somnolence, metallic tastePostmarketing reports: Seizure
+Frequency not reported: Allergic reaction, hypersensitivity (including rash, erythema, pruritus, and urticaria)Postmarketing reports: Anaphylaxis
+Common (1% to 10%): Abdominal pain, nauseaUncommon (0.1% to 1%): VomitingFrequency not reported: Constipation, abdominal pain upper, paralytic ileus, dry mouth, pancreatitis, epigastric discomfort, diarrhea
+Common (1% to 10%): RashFrequency not reported: Urticaria, erythema, pruritus, erythema multiforme
+Frequency not reported: Cardiac arrhythmias, cardiac arrest, hypertension
+Frequency not reported: Elevated AST, elevated ALT
+Frequency not reported: Calcinosis, pyrexia, weakness, hyperthermia, ectopic calcification, dystrophyPostmarketing reports: Chest pain
+Uncommon (0.1% to 1%): Blood creatinine increasedFrequency not reported: Elevated BUN, nephrocalcinosis, impairment of renal function
+Frequency not reported: Muscular weakness, growth retardation, muscle pain, bone pain
+Frequency not reported: Apathy, psychiatric disturbances, decreased libido, overt psychosis
+Frequency not reported: Pain on injectionPostmarketing reports: Bleeding at the venipuncture site
+Postmarketing reports: Hemolysis
+Postmarketing reports: Brown tumor, non-malignant tumor on the ribs
+Frequency not reported: Conjunctivitis (calcific), photophobia
+Frequency not reported: Rhinorrhea

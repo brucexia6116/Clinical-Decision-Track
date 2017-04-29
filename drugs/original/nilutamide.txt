@@ -1,30 +1,23 @@
 Commonly reported side effects of nilutamide include: nausea, nocturnal amblyopia, and decreased libido. Other side effects include: hemeralopia, visual disturbance, chromatopsia, and loss of body hair.  See below for a comprehensive list of adverse effects.
-Applies to nilutamide: oral tablet
 As well as its needed effects, nilutamide may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking nilutamide, check with your doctor immediately:
 Some nilutamide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to nilutamide: oral tablet
-Very common (10% or more): Dyspnea (up to 10.5%)Common (1% to 10%): Interstitial pneumonitis, lung disorder, upper respiratory infection, pneumonia, increased cough, rhinitisPostmarketing reports: Interstitial or alveolo-interstitial changes (e.g.  pulmonary fibrosis)[Ref]
-Very common (10% or more): Increased AST (up to 12.9%)Common (1% to 10%): Increased ALT, increased alkaline phosphatase, increased BUN, increased creatinineUncommon (0.1% to 1%): HepatitisRare (less than 0.1%): Mixed hepatocellular-fulminant hepatitis[Ref]
-Very common (10% or more): Impaired adaptation to dark (up to 57%)Common (1% to 10%): Chromatopsia, impaired adaptation to light, abnormal vision, cataract, photophobia[Ref]
-Common (1% to 10%): Hypertension, angina, heart failureFrequency not reported: QT prolongation[Ref]
-Common (1% to 10%): Anemia, hematuria, melena, increased haptoglobin, leukopeniaRare (less than 0.1%): Aplastic anemia[Ref]
-The most common adverse events (especially nausea, alcohol intolerance, impairment of dark or light adaptation and dizziness) occur early during treatment and usually lessen after one month following dose reduction.[Ref]
-Very common (10% or more): Hot flushes (up to 66.5%), impotence (up to 11%), decreased libido (up to 11%), gynecomastia (up to 10.5%)Common (1% to 10%): Sweating, body hair loss[Ref]
-Very common (10% or more): Testicular atrophy (up to 16.3%)Common (1% to 10%): Urinary tract infection, urinary tract disorder, nocturia[Ref]
-Very common (10% or more): Pain (up to 26.8%), asthenia (up to 19.1%), peripheral edema (up to 12.4%), alcohol intolerance (up to 10%)Common (1% to 10%): Chest pain, fever, flu syndrome, malaise, syncope[Ref]
-Very common (10% or more): Headache (up to 13.9%), dizziness (up to 10%)Common (1% to 10%): Hypesthesia, paresthesia, nervousness[Ref]
-Very common (10% or more): Anorexia (up to 11%)Common (1% to 10%): Weight loss, hyperglycemia[Ref]
-Very common (10% or more): Back pain (up to 11.5%)Common (1% to 10%): Bone pain, arthritis[Ref]
-Very common (10% or more): Insomnia (up to 16.3%)Common (1% to 10%): Depression[Ref]
-Very common (10% or more): Nausea (up to 23.9%), constipation (up to 19.6%), abdominal pain (up to 10%)Common (1% to 10%): Dyspepsia, vomiting, diarrhea, gastrointestinal disorder, gastrointestinal hemorrhage, dry mouth[Ref]
-Common (1% to 10%): Dry skin, rash, pruritus[Ref]
-1. "Product Information. Nilandron (nilutamide)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
+Very common (10% or more): Dyspnea (up to 10.5%)Common (1% to 10%): Interstitial pneumonitis, lung disorder, upper respiratory infection, pneumonia, increased cough, rhinitisPostmarketing reports: Interstitial or alveolo-interstitial changes (e.g.  pulmonary fibrosis)
+Very common (10% or more): Increased AST (up to 12.9%)Common (1% to 10%): Increased ALT, increased alkaline phosphatase, increased BUN, increased creatinineUncommon (0.1% to 1%): HepatitisRare (less than 0.1%): Mixed hepatocellular-fulminant hepatitis
+Very common (10% or more): Impaired adaptation to dark (up to 57%)Common (1% to 10%): Chromatopsia, impaired adaptation to light, abnormal vision, cataract, photophobia
+Common (1% to 10%): Hypertension, angina, heart failureFrequency not reported: QT prolongation
+Common (1% to 10%): Anemia, hematuria, melena, increased haptoglobin, leukopeniaRare (less than 0.1%): Aplastic anemia
+The most common adverse events (especially nausea, alcohol intolerance, impairment of dark or light adaptation and dizziness) occur early during treatment and usually lessen after one month following dose reduction.
+Very common (10% or more): Hot flushes (up to 66.5%), impotence (up to 11%), decreased libido (up to 11%), gynecomastia (up to 10.5%)Common (1% to 10%): Sweating, body hair loss
+Very common (10% or more): Testicular atrophy (up to 16.3%)Common (1% to 10%): Urinary tract infection, urinary tract disorder, nocturia
+Very common (10% or more): Pain (up to 26.8%), asthenia (up to 19.1%), peripheral edema (up to 12.4%), alcohol intolerance (up to 10%)Common (1% to 10%): Chest pain, fever, flu syndrome, malaise, syncope
+Very common (10% or more): Headache (up to 13.9%), dizziness (up to 10%)Common (1% to 10%): Hypesthesia, paresthesia, nervousness
+Very common (10% or more): Anorexia (up to 11%)Common (1% to 10%): Weight loss, hyperglycemia
+Very common (10% or more): Back pain (up to 11.5%)Common (1% to 10%): Bone pain, arthritis
+Very common (10% or more): Insomnia (up to 16.3%)Common (1% to 10%): Depression
+Very common (10% or more): Nausea (up to 23.9%), constipation (up to 19.6%), abdominal pain (up to 10%)Common (1% to 10%): Dyspepsia, vomiting, diarrhea, gastrointestinal disorder, gastrointestinal hemorrhage, dry mouth
+Common (1% to 10%): Dry skin, rash, pruritus
 It is possible that some side effects of nilutamide may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blood in the urine
 blurred vision
 chest pain
@@ -57,8 +50,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting
 wheezing
-
-
 Arm, back, or jaw pain
 blindness
 bloody, black, or tarry stools
@@ -75,8 +66,6 @@ irregular breathing
 swelling of the face, fingers, feet, or lower legs
 vomiting of blood or material that looks like coffee grounds
 weight gain or loss
-
-
 Acid or sour stomach
 belching
 body hair loss
@@ -103,8 +92,6 @@ stomach discomfort, upset, or pain
 sudden sweating
 unable to sleep
 waking to urinate at night
-
-
 Difficulty with moving
 dry mouth
 general feeling of discomfort or illness
@@ -112,4 +99,3 @@ itching
 muscle pain or stiffness
 pain, swelling, or redness in the joints
 passing of gas
-

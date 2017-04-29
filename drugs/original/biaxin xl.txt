@@ -1,89 +1,40 @@
-Generic Name: clarithromycin
 Common side effects of Biaxin XL include: dysgeusia.  See below for a comprehensive list of adverse effects.
-Applies to clarithromycin: oral powder for suspension, oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by clarithromycin (the active ingredient contained in Biaxin XL). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking clarithromycin:
-Some of the side effects that can occur with clarithromycin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to clarithromycin: oral powder for reconstitution, oral tablet, oral tablet extended release
-The most common side effects were abdominal pain/discomfort, diarrhea, nausea, vomiting, and dysgeusia/taste perversion.In immunocompromised patients treated with higher doses of this drug (1 to 2 g/day), the most common side effects were nausea, vomiting, taste perversion, abdominal pain, diarrhea, rash, flatulence, headache, constipation, hearing disturbance, increased AST, and increased ALT.[Ref]
-Deafness was reported mainly in elderly women and was usually reversible.[Ref]
-Very common (10% or more): Dysgeusia/taste perversion (up to 16%)Common (1% to 10%): Headache, dizzinessUncommon (0.1% to 1%): Loss of consciousness, dyskinesia, somnolence, hearing impaired, tinnitus, tremor, vertigoFrequency not reported: New onset of symptoms of myasthenic syndrome, exacerbation of symptoms of myasthenia gravis, hearing disturbance, muzzinessPostmarketing reports: Convulsions, ageusia, parosmia/smell perversion, anosmia, paresthesia, deafness, hyperkinesia[Ref]
-Very common (10% or more): Nausea (up to 12.3%)Common (1% to 10%): Diarrhea, vomiting, abdominal pain/discomfort, dyspepsia/heartburn, flatulence, oral candidiasis/moniliasis, constipationUncommon (0.1% to 1%): Glossitis, stomatitis, esophagitis, gastroesophageal reflux disease, gastritis, proctalgia, abdominal distension, dry mouth, eructation, gastroenteritis, gastrointestinal hemorrhage, bleeding gums, bloodstained stoolsFrequency not reported: Clostridium difficile-associated diarrhea (ranging from mild diarrhea to fatal colitis), pancreatitisPostmarketing reports: Acute pancreatitis, tongue discoloration, tooth discoloration, pseudomembranous colitis, enteritis[Ref]
-The incidence of dry mouth was similar for patients treated with 1 to 2 g/day, but was generally about 3 to 4 times as frequent for those treated with 4 g/day.Severity of pseudomembranous colitis has ranged from mild to life-threatening.Tooth discoloration was usually reversible with professional dental cleaning after the drug was stopped.[Ref]
+The most common side effects were abdominal pain/discomfort, diarrhea, nausea, vomiting, and dysgeusia/taste perversion.In immunocompromised patients treated with higher doses of this drug (1 to 2 g/day), the most common side effects were nausea, vomiting, taste perversion, abdominal pain, diarrhea, rash, flatulence, headache, constipation, hearing disturbance, increased AST, and increased ALT.
+Deafness was reported mainly in elderly women and was usually reversible.
+Very common (10% or more): Dysgeusia/taste perversion (up to 16%)Common (1% to 10%): Headache, dizzinessUncommon (0.1% to 1%): Loss of consciousness, dyskinesia, somnolence, hearing impaired, tinnitus, tremor, vertigoFrequency not reported: New onset of symptoms of myasthenic syndrome, exacerbation of symptoms of myasthenia gravis, hearing disturbance, muzzinessPostmarketing reports: Convulsions, ageusia, parosmia/smell perversion, anosmia, paresthesia, deafness, hyperkinesia
+Very common (10% or more): Nausea (up to 12.3%)Common (1% to 10%): Diarrhea, vomiting, abdominal pain/discomfort, dyspepsia/heartburn, flatulence, oral candidiasis/moniliasis, constipationUncommon (0.1% to 1%): Glossitis, stomatitis, esophagitis, gastroesophageal reflux disease, gastritis, proctalgia, abdominal distension, dry mouth, eructation, gastroenteritis, gastrointestinal hemorrhage, bleeding gums, bloodstained stoolsFrequency not reported: Clostridium difficile-associated diarrhea (ranging from mild diarrhea to fatal colitis), pancreatitisPostmarketing reports: Acute pancreatitis, tongue discoloration, tooth discoloration, pseudomembranous colitis, enteritis
+The incidence of dry mouth was similar for patients treated with 1 to 2 g/day, but was generally about 3 to 4 times as frequent for those treated with 4 g/day.Severity of pseudomembranous colitis has ranged from mild to life-threatening.Tooth discoloration was usually reversible with professional dental cleaning after the drug was stopped.
 These side effects are specific to the IV formulation.
 Very common (10% or more): Injection site phlebitisCommon (1% to 10%): Injection site pain, injection site inflammation, tenderness at site of administrationFrequency not reported: Vessel puncture site pain
-Common (1% to 10%): Elevated AST, elevated ALT, abnormal liver function testUncommon (0.1% to 1%): Cholestasis, hepatitis (symptoms included anorexia, jaundice, dark urine, pruritus, tender abdomen), increased blood bilirubin, elevated GGT, elevated direct bilirubin, hepatic dysfunction (including increased liver enzymes), hepatitis and cholestasis with or without jaundiceFrequency not reported: Hepatocellular and/or cholestatic hepatitis (with or without jaundice), drug-induced hepatotoxicity, fulminant hepatic failurePostmarketing reports: Hepatic failure, hepatocellular jaundice, adverse reactions related to hepatic dysfunction, abnormal hepatic function, liver abnormalities[Ref]
-Elevated AST (greater than 5 times the upper limit of normal [5 x ULN]) and ALT (greater than 5 x ULN) were reported in up to 4% and up to 3% of patients, respectively.Hepatic dysfunction (sometimes severe and usually reversible), including increased liver enzymes, and hepatocellular and/or cholestatic hepatitis, with or without jaundice have been reported.  In some instances, hepatic failure with fatal outcome has been reported and generally has been associated with serious underlying diseases (e.g., preexisting liver disease) and/or concomitant medications (e.g., hepatotoxic agents).Drug-induced hepatotoxicity was rare and typically associated with higher doses (1 to 2 g/day) and high serum drug levels.  The enzyme elevation pattern was usually cholestatic with minimal elevations of AST and ALT.[Ref]
-Common (1% to 10%): Anaphylactoid reactionUncommon (0.1% to 1%): Hypersensitivity, allergic reactionsPostmarketing reports: Anaphylactic reaction, angioedema[Ref]
-Allergic reactions have ranged from urticaria and mild skin eruptions to rare cases of anaphylaxis.A 92-year-old female admitted for heart failure and a right upper lobe infiltrate was started on clarithromycin 500 mg.  The following day, this drug was discontinued and IV antibiotics were initiated due to persisting fever.  She received only 1 dose of this drug.  On day 6 of the hospitalization, the patient was afebrile, IV antibiotics were stopped, and this drug was again started.  Two hours after the dose, the patient developed swelling in her lips, jaw, tongue, mouth, and face.  The patient was given diphenhydramine and the clarithromycin was discontinued.  She was discharged the following day.[Ref]
-Common (1% to 10%): Vasodilation, phlebitisUncommon (0.1% to 1%): ECG QT prolonged, cardiac arrest, atrial fibrillation, extrasystoles, palpitationsRare (0.01% to 0.1%): ArrhythmiaFrequency not reported: QT interval prolongationPostmarketing reports: Ventricular arrhythmia, ventricular tachycardia, torsades de pointes, hemorrhage[Ref]
-Decreased WBC (less than 1 x 10[9]/L), platelet count (less than 50 x 10[9]/L), and hemoglobin (less than 8 g/dL) were reported in up to 4%, up to 4%, and 3% of patients, respectively.[Ref]
-Common (1% to 10%): Decreased WBC, decreased platelet count, decreased hemoglobinUncommon (0.1% to 1%): Leukopenia, neutropenia, thrombocythemia, eosinophilia, increased prothrombin timeFrequency not reported: Granulocytopenia, reduction in prothrombin timePostmarketing reports: Thrombocytopenia, agranulocytosis, prolonged prothrombin time, decreased WBC count, increased INR[Ref]
-Common (1% to 10%): Rash, hyperhidrosis, pruritusUncommon (0.1% to 1%): Urticaria, dermatitis bullous, maculopapular rash, cellulitis, pustular rash (non-urticarial), stained fingernailsPostmarketing reports: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS), Henoch-Schonlein purpura, acne, erysipelas, erythrasma[Ref]
-Common (1% to 10%): Infection, candidiasis, pyrexia/fever, astheniaUncommon (0.1% to 1%): Malaise, chest pain, chills, fatigue, thirst, abnormal albumin globulin ratio, body aches and pains, flushing, accidental injury, flu syndromePostmarketing reports: Otitis media, extended-release tablets in the stool, colchicine toxicity[Ref]
-Many reports of extended-release tablets in the stool occurred in patients with anatomic (including ileostomy or colostomy) or functional gastrointestinal disorders with shortened gastrointestinal transit times.  In several reports, tablet residues occurred in the context of diarrhea.Colchicine toxicity has been reported with concomitant use of this drug and colchicine, especially in the elderly; some occurred in patients with renal dysfunction.  Death occurred in some such patients.[Ref]
-The incidence of insomnia was similar for patients treated with 1 to 2 g/day, but was generally about 3 to 4 times as frequent for those treated with 4 g/day.Psychotic disorder, confusional state, depersonalization, depression, disorientation, manic behavior, hallucination, abnormal behavior, and/or abnormal dreams usually resolved after the drug was stopped.[Ref]
-Common (1% to 10%): InsomniaUncommon (0.1% to 1%): Anxiety, nervousness, screaming, depression, sleep disturbanceFrequency not reported: Behavioral changes, nightmares, psychosisPostmarketing reports: Psychotic disorder, confusional state, depersonalization, disorientation, hallucination, depression, manic behavior, abnormal behavior, abnormal dreams[Ref]
-Increased alkaline phosphatase (greater than 5 x ULN) was reported in up to 2% of patients.Hypoglycemia has been reported in patients receiving oral hypoglycemic agents or insulin.[Ref]
-Common (1% to 10%): Increased alkaline phosphataseUncommon (0.1% to 1%): Anorexia, decreased appetite, increased blood LDHPostmarketing reports: Hypoglycemia[Ref]
-The incidence of dyspnea was similar for patients treated with 1 to 2 g/day, but was generally about 3 to 4 times as frequent for those treated with 4 g/day.[Ref]
-Common (1% to 10%): Dyspnea, rhinitis, increased cough, pharyngitis, asthmaUncommon (0.1% to 1%): Epistaxis, pulmonary embolismFrequency not reported: Laryngismus[Ref]
-Common (1% to 10%): ConjunctivitisUncommon (0.1% to 1%): PhotophobiaVery rare (less than 0.01%): UveitisFrequency not reported: Corneal opacities[Ref]
-Uveitis was reported primarily in patients treated with concomitant rifabutin; most cases were reversible.A case of corneal opacities was reported in a patient with AIDS and Mycobacterium avium complex bacteremia.  The patient's ocular signs and symptoms resolved upon substitution with azithromycin.[Ref]
-Uncommon (0.1% to 1%): Elevated BUN, elevated serum creatinine, increased blood urea, increased blood creatinineFrequency not reported: Acute renal failurePostmarketing reports: Interstitial nephritis, renal failure[Ref]
-Elevated BUN (greater than 50 mg/dL) was reported in less than 1% of patients.[Ref]
+Common (1% to 10%): Elevated AST, elevated ALT, abnormal liver function testUncommon (0.1% to 1%): Cholestasis, hepatitis (symptoms included anorexia, jaundice, dark urine, pruritus, tender abdomen), increased blood bilirubin, elevated GGT, elevated direct bilirubin, hepatic dysfunction (including increased liver enzymes), hepatitis and cholestasis with or without jaundiceFrequency not reported: Hepatocellular and/or cholestatic hepatitis (with or without jaundice), drug-induced hepatotoxicity, fulminant hepatic failurePostmarketing reports: Hepatic failure, hepatocellular jaundice, adverse reactions related to hepatic dysfunction, abnormal hepatic function, liver abnormalities
+Elevated AST (greater than 5 times the upper limit of normal [5 x ULN]) and ALT (greater than 5 x ULN) were reported in up to 4% and up to 3% of patients, respectively.Hepatic dysfunction (sometimes severe and usually reversible), including increased liver enzymes, and hepatocellular and/or cholestatic hepatitis, with or without jaundice have been reported.  In some instances, hepatic failure with fatal outcome has been reported and generally has been associated with serious underlying diseases (e.g., preexisting liver disease) and/or concomitant medications (e.g., hepatotoxic agents).Drug-induced hepatotoxicity was rare and typically associated with higher doses (1 to 2 g/day) and high serum drug levels.  The enzyme elevation pattern was usually cholestatic with minimal elevations of AST and ALT.
+Common (1% to 10%): Anaphylactoid reactionUncommon (0.1% to 1%): Hypersensitivity, allergic reactionsPostmarketing reports: Anaphylactic reaction, angioedema
+Allergic reactions have ranged from urticaria and mild skin eruptions to rare cases of anaphylaxis.A 92-year-old female admitted for heart failure and a right upper lobe infiltrate was started on clarithromycin 500 mg.  The following day, this drug was discontinued and IV antibiotics were initiated due to persisting fever.  She received only 1 dose of this drug.  On day 6 of the hospitalization, the patient was afebrile, IV antibiotics were stopped, and this drug was again started.  Two hours after the dose, the patient developed swelling in her lips, jaw, tongue, mouth, and face.  The patient was given diphenhydramine and the clarithromycin was discontinued.  She was discharged the following day.
+Common (1% to 10%): Vasodilation, phlebitisUncommon (0.1% to 1%): ECG QT prolonged, cardiac arrest, atrial fibrillation, extrasystoles, palpitationsRare (0.01% to 0.1%): ArrhythmiaFrequency not reported: QT interval prolongationPostmarketing reports: Ventricular arrhythmia, ventricular tachycardia, torsades de pointes, hemorrhage
+Decreased WBC (less than 1 x 10[9]/L), platelet count (less than 50 x 10[9]/L), and hemoglobin (less than 8 g/dL) were reported in up to 4%, up to 4%, and 3% of patients, respectively.
+Common (1% to 10%): Decreased WBC, decreased platelet count, decreased hemoglobinUncommon (0.1% to 1%): Leukopenia, neutropenia, thrombocythemia, eosinophilia, increased prothrombin timeFrequency not reported: Granulocytopenia, reduction in prothrombin timePostmarketing reports: Thrombocytopenia, agranulocytosis, prolonged prothrombin time, decreased WBC count, increased INR
+Common (1% to 10%): Rash, hyperhidrosis, pruritusUncommon (0.1% to 1%): Urticaria, dermatitis bullous, maculopapular rash, cellulitis, pustular rash (non-urticarial), stained fingernailsPostmarketing reports: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS), Henoch-Schonlein purpura, acne, erysipelas, erythrasma
+Common (1% to 10%): Infection, candidiasis, pyrexia/fever, astheniaUncommon (0.1% to 1%): Malaise, chest pain, chills, fatigue, thirst, abnormal albumin globulin ratio, body aches and pains, flushing, accidental injury, flu syndromePostmarketing reports: Otitis media, extended-release tablets in the stool, colchicine toxicity
+Many reports of extended-release tablets in the stool occurred in patients with anatomic (including ileostomy or colostomy) or functional gastrointestinal disorders with shortened gastrointestinal transit times.  In several reports, tablet residues occurred in the context of diarrhea.Colchicine toxicity has been reported with concomitant use of this drug and colchicine, especially in the elderly; some occurred in patients with renal dysfunction.  Death occurred in some such patients.
+The incidence of insomnia was similar for patients treated with 1 to 2 g/day, but was generally about 3 to 4 times as frequent for those treated with 4 g/day.Psychotic disorder, confusional state, depersonalization, depression, disorientation, manic behavior, hallucination, abnormal behavior, and/or abnormal dreams usually resolved after the drug was stopped.
+Common (1% to 10%): InsomniaUncommon (0.1% to 1%): Anxiety, nervousness, screaming, depression, sleep disturbanceFrequency not reported: Behavioral changes, nightmares, psychosisPostmarketing reports: Psychotic disorder, confusional state, depersonalization, disorientation, hallucination, depression, manic behavior, abnormal behavior, abnormal dreams
+Increased alkaline phosphatase (greater than 5 x ULN) was reported in up to 2% of patients.Hypoglycemia has been reported in patients receiving oral hypoglycemic agents or insulin.
+Common (1% to 10%): Increased alkaline phosphataseUncommon (0.1% to 1%): Anorexia, decreased appetite, increased blood LDHPostmarketing reports: Hypoglycemia
+The incidence of dyspnea was similar for patients treated with 1 to 2 g/day, but was generally about 3 to 4 times as frequent for those treated with 4 g/day.
+Common (1% to 10%): Dyspnea, rhinitis, increased cough, pharyngitis, asthmaUncommon (0.1% to 1%): Epistaxis, pulmonary embolismFrequency not reported: Laryngismus
+Common (1% to 10%): ConjunctivitisUncommon (0.1% to 1%): PhotophobiaVery rare (less than 0.01%): UveitisFrequency not reported: Corneal opacities
+Uveitis was reported primarily in patients treated with concomitant rifabutin; most cases were reversible.A case of corneal opacities was reported in a patient with AIDS and Mycobacterium avium complex bacteremia.  The patient's ocular signs and symptoms resolved upon substitution with azithromycin.
+Uncommon (0.1% to 1%): Elevated BUN, elevated serum creatinine, increased blood urea, increased blood creatinineFrequency not reported: Acute renal failurePostmarketing reports: Interstitial nephritis, renal failure
+Elevated BUN (greater than 50 mg/dL) was reported in less than 1% of patients.
 Uncommon (0.1% to 1%): Myalgia, muscle spasms, nuchal rigidity, musculoskeletal stiffness, arthralgia, back painPostmarketing reports: Myopathy, rhabdomyolysis
 In some cases of rhabdomyolysis, this drug was coadministered with statins, fibrates, colchicine, or allopurinol.
-Uncommon (0.1% to 1%): Vaginal infectionPostmarketing reports: Abnormal urine color (associated with hepatic failure), dysuria[Ref]
-Rare (0.01% to 0.1%): Leukocytoclastic vasculitis[Ref]
-1. "Multum Information Services, Inc. Expert Review Panel"  
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. Karma P, Pukander J, Penttila M, et al "The comparative efficacy and safety of clarithromycin and amoxycillin in the treatment of outpatients with acute maxillary sinusitis." J Antimicrob Chemother 27 (1991): 83-90
-5. Pijpers E, Vanrijswijk REN, Takxkohlen B, Schrey G "A clarithromycin-induced myasthenic syndrome." Clin Infect Dis 22 (1996): 175-6
-6. Zuckerman JM, Kaye KM "The newer macrolides: azithromycin and clarithromycin." Infect Dis Clin North Am 9 (1995): 731-45
-7. Anderson G, Esmonde T, Coles S, et al "A comparative safety and efficacy study of clarithromycin and erythromycin stearate in community-acquired pneumonia." J Antimicrob Chemother 27 (1991): 117-24
-8. Nightingale SD, Koster FT, Mertz GJ, Loss SD "Clarithromycin-induced mania in two patients with AIDS." Clin Infect Dis 20 (1995): 1563-4
-9. Fong IW, Laforge J, Dubois J, Small D, Grossman R, Zakhari R, Thomas PT, Hoffstein V, Bourbeau J, Macdonald GF, Mclellan PA, "Clarithromycin versus cefaclor in lower respiratory tract infections." Clin Invest Med 18 (1995): 131-8
-10. Peters D, Clissold S "Clarithromycin: a review of its antimicrobial activity, pharmacokinetic properties and therapeutic potential." Drugs 44 (1992): 117-64
-11. "Product Information. Biaxin (clarithromycin)." Abbott Pharmaceutical, Abbott Park, IL. 
-12. Wood M "The tolerance and toxicity of clarithromycin." J Hosp Infect 19 (1991): 39-46
-13. Dautzenberg B, Piperno D, Diot P, Truffotpernot C, Chauvin JP "Clarithromycin in the treatment of mycobacterium avium lung infections in patients without AIDS." Chest 107 (1995): 1035-40
-14. Hamedani P, Ali J, Hafeez S, et al "The safety and efficacy of clarithromycin in patients with legionella pneumonia." Chest 100 (1991): 1503-6
-15. Dorrell L, Ellerton C, Cottrell DG, Snow MH "Toxicity of clarithromycin in the treatment of mycobacterium avium complex infection in a patient with AIDS." J Antimicrob Chemother 34 (1994): 605-6
-16. Hardy D, Guay D, Jones R "Clarithromycin, a unique macrolide." Diagn Microbiol Infect Dis 15 (1992): 39-53
-17. Straneo G, Scarpazza G "Efficacy and safety of clarithromycin versus josamycin in the treatment of hospitalized patients with bacterial pneumonia." J Int Med Res 18 (1990): 164-70
-18. Guay D, Craft J "Comparative safety and efficacy of clarithromycin and ampicillin in the treatment of out-patients with acute bacterial exacerbation of chronic bronchitis." J Intern Med 231 (1992): 295-301
-19. Macfarlane JT, Prewitt J, Gard P, Guion A "Comparison of amoxycillin and clarithromycin as initial treatment of community-acquired lower respiratory tract infections." Br J Gen Pract 46 (1996): 357-60
-20. Marchi E "Comparative efficacy and tolerability of clarithromycin and amoxycillin in the treatment of out-patients with acute maxillary sinusitis." Curr Med Res Opin 12 (1990): 19-24
-21. Liviu L, Yair L, Yehuda S "Pancreatitis induced by clarithromycin." Ann Intern Med 125 (1996): 701
-22. Fraschini F "Clinical efficacy and tolerance of two new macrolides, clarithromycin and josamycin, in the treatment of patients with acute exacerbations of chronic bronchitis." J Int Med Res 18 (1990): 171-76
-23. de Campora E, Camaioni A, Leonardi M, et al "Comparative efficacy and safety of roxithromycin and clarithromycin in upper respiratory tract infections." Diagn Microbiol Infect Dis 15 (1992): s119-22
-24. Baylor P, Williams K "Interstitial nephritis, thrombocytopenia, hepatitis, and elevated serum amylase levels in a patient receiving clarithromycin therapy." Clin Infect Dis 29 (1999): 1350-1
-25. Liviu L, Yair L "Pancreatitis induced by clarithromycin." Ann Intern Med 125 (1996): 701
-26. Brown BA, Wallace RJ, Griffith DE, Girard W "Clarithromycin-induced hepatotoxicity." Clin Infect Dis 20 (1995): 1073-4
-27. Shaheen N, Grimm IS "Fulminant hepatic failure associated with clarithromycin." Am J Gastroenterol 91 (1996): 394-5
-28. Vangala R, Cernek PK "Hypersensitivity reaction to clarithromycin." Ann Pharmacother 30 (1996): 300
-29. Kundu S, Williams SR, Nordt SP, Clark RF "Clarithromycin-induced ventricular tachycardia." Ann Emerg Med 30 (1997): 542-4
-30. Lee KL, Jim MH, Tang SC, Tai YT "QT prolongation and Torsades de pointes associated with clarithromycin." Am J Med 104 (1998): 395-6
-31. Geiderman JM "Central nervous system disturbances following clarithromycin ingestion." Clin Infect Dis 29 (1999): 464-5
-32. GomezGil E, Garcia F, Pintor L, Martinez JA, Mensa J, dePablo J "Clarithromycin-induced acute psychoses in peptic ulcer disease." Eur J Clin Microbiol Infect D 18 (1999): 70-1
-33. Abouesh A, Hobbs WR "Clarithromycin-induced mania." Am J Psychiatry 155 (1998): 1626
-34. Cone LA, Sneider RA, Nazemi R, Dietrich EJ "Mania due to clarithromycin therapy in a patient who was not infected with human immunodeficiency virus." Clin Infect Dis 22 (1996): 595-6
-35. Mermelstein HT "Clarithromycin-induced delirium in a general hospital." Psychosomatics 39 (1998): 540-2
-36. "WHO system finds 13 drugs with AEs not in PDR, Martindale." F-D-C Reports -- "The Pink Sheet" 60 (1998): 16
-37. Gavura SR, Nusinowitz S "Leukocytoclastic vasculitis associated with clarithromycin." Ann Pharmacother 32 (1998): 543-5
-Not all side effects for Biaxin XL may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Uncommon (0.1% to 1%): Vaginal infectionPostmarketing reports: Abnormal urine color (associated with hepatic failure), dysuria
+Rare (0.01% to 0.1%): Leukocytoclastic vasculitis
 Cough
 fever or chills
 hoarseness
 lower back or side pain
 painful or difficult urination
-
-
 Abdominal or stomach tenderness
 fever with or without chills
 nausea and vomiting
@@ -93,8 +44,6 @@ skin rash and itching
 unusual bleeding or bruising
 watery and severe diarrhea, which may also be bloody
 yellow eyes or skin
-
-
 Abdominal or stomach pain
 anxiety
 black, tarry stools
@@ -142,8 +91,6 @@ unusual behavior
 unusual tiredness or weakness
 vomiting of blood
 wheezing
-
-
 Acid or sour stomach
 belching
 bloated or full feeling
@@ -155,8 +102,6 @@ heartburn
 indigestion
 passing gas
 stomach discomfort, upset, or pain
-
-
 Alterations of sense of smell
 continuing ringing or buzzing or other unexplained noise in the ears
 feeling of constant movement of self or surroundings
@@ -176,4 +121,3 @@ tooth discoloration
 trouble sleeping
 unable to sleep
 weight loss
-

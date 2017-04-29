@@ -1,24 +1,10 @@
-Generic Name: fluorometholone ophthalmic
-Applies to fluorometholone ophthalmic: ophthalmic ointment, ophthalmic suspension
-In addition to its needed effects, some unwanted effects may be caused by fluorometholone ophthalmic (the active ingredient contained in FML Liquifilm). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking fluorometholone ophthalmic:
-Some of the side effects that can occur with fluorometholone ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fluorometholone ophthalmic: compounding powder, ophthalmic ointment, ophthalmic suspension
-Common (1% to 10%): Increased intraocular pressure Very rare (less than 0.01%): Corneal calcification (in association with the use of phosphate containing eye drops in some patients with significantly damaged corneas)Frequency not reported: Eye irritation, conjunctival/ocular hyperemia, eye pain, visual disturbance, foreign body sensation in eyes, eyelid edema, blurred vision, eye discharge, eye pruritus, increased lacrimation, eye edema/eye swelling, mydriasis, cataract (including subcapsular), ulcerative keratitis, ocular infection (including bacterial, fungal, and viral infections), visual field defect, punctate keratitis, acute anterior uveitis, perforation of the globe, conjunctivitis, corneal ulcers, loss of accommodation, ptosis, ocular irritation, blurry vision[Ref]
-Frequency not reported: Dysgeusia[Ref]
-Rare (less than 0.1%): Systemic hypercorticoidism[Ref]
-Frequency not reported: Rash[Ref]
-Frequency not reported: Hypersensitivity[Ref]
-Frequency not reported: Taste perversion[Ref]
-The most commonly reported side effect was increased intraocular pressure.[Ref]
-1. "Product Information. FML Ophthalmic Suspension (fluoromethalone ophthalmic)." Allergan Inc, Irvine, CA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Product Information. Flarex (fluorometholone ophthalmic)." A-S Medication Solutions, Chicago, IL. 
-Not all side effects for FML Liquifilm may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Increased intraocular pressure Very rare (less than 0.01%): Corneal calcification (in association with the use of phosphate containing eye drops in some patients with significantly damaged corneas)Frequency not reported: Eye irritation, conjunctival/ocular hyperemia, eye pain, visual disturbance, foreign body sensation in eyes, eyelid edema, blurred vision, eye discharge, eye pruritus, increased lacrimation, eye edema/eye swelling, mydriasis, cataract (including subcapsular), ulcerative keratitis, ocular infection (including bacterial, fungal, and viral infections), visual field defect, punctate keratitis, acute anterior uveitis, perforation of the globe, conjunctivitis, corneal ulcers, loss of accommodation, ptosis, ocular irritation, blurry vision
+Frequency not reported: Dysgeusia
+Rare (less than 0.1%): Systemic hypercorticoidism
+Frequency not reported: Rash
+Frequency not reported: Hypersensitivity
+Frequency not reported: Taste perversion
+The most commonly reported side effect was increased intraocular pressure.
 Bigger, dilated, or enlarged pupils (black part of the eye)
 blurred vision or other change in vision
 burning, dry, or itching eyes
@@ -30,9 +16,6 @@ increased sensitivity of the eyes to light
 nausea or vomiting
 redness, pain, swelling of the eye, eyelid, or inner lining of the eyelid
 tearing
-
-
 Burning and stinging sensation when medicine is applied
 drooping upper eyelids
 feeling of having something in the eye
-

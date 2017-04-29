@@ -1,38 +1,24 @@
-Generic Name: nepafenac ophthalmic
-Applies to nepafenac ophthalmic: ophthalmic suspension
 As well as its needed effects, nepafenac ophthalmic (the active ingredient contained in Nevanac) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking nepafenac ophthalmic, check with your doctor immediately:
 Some nepafenac ophthalmic side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to nepafenac ophthalmic: ophthalmic suspension
-Common (1% to 10%): Capsular opacity, reduced visual acuity, foreign body sensation in the eyes, increased intraocular pressure, sticky sensation, conjunctival edema, corneal edema, dry eye, ocular discomfort, photophobia, vitreous detachmentUncommon (0.1% to 1%): Keratitis, punctate keratitis, corneal epithelium defect, eyelid margin crustingRare (less than 0.1%): Iritis, choroidal effusion, corneal deposits, eye pain, ocular hyperemia, blepharitis, eye pruritus, eye discharge, allergic conjunctivitis, increased lacrimation, conjunctival hyperemiaFrequency not reported: Corneal perforation, impaired healing (cornea), corneal opacity, corneal scar, eye irritation, eye swelling, ulcerative keratitis, corneal thinning, blurred vision[Ref]
-Common (1% to 10%): Hypertension[Ref]
-Common (1% to 10%): Nausea, vomiting[Ref]
-Common (1% to 10%): Sinusitis[Ref]
-Rare (less than 0.1%): Cutis laxa (dermatochalasis), allergic dermatitis[Ref]
-The most commonly reported side effects were capsular opacity, decreased visual acuity, foreign body sensation, increased intraocular pressure, and sticky sensation.[Ref]
-Rare (less than 0.1%): Hypersensitivity[Ref]
-Rare (less than 0.1%): Dizziness[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Nevanac (nepafenac ophthalmic)." Alcon Laboratories Inc, Fort Worth, TX. 
+Common (1% to 10%): Capsular opacity, reduced visual acuity, foreign body sensation in the eyes, increased intraocular pressure, sticky sensation, conjunctival edema, corneal edema, dry eye, ocular discomfort, photophobia, vitreous detachmentUncommon (0.1% to 1%): Keratitis, punctate keratitis, corneal epithelium defect, eyelid margin crustingRare (less than 0.1%): Iritis, choroidal effusion, corneal deposits, eye pain, ocular hyperemia, blepharitis, eye pruritus, eye discharge, allergic conjunctivitis, increased lacrimation, conjunctival hyperemiaFrequency not reported: Corneal perforation, impaired healing (cornea), corneal opacity, corneal scar, eye irritation, eye swelling, ulcerative keratitis, corneal thinning, blurred vision
+Common (1% to 10%): Hypertension
+Common (1% to 10%): Nausea, vomiting
+Common (1% to 10%): Sinusitis
+Rare (less than 0.1%): Cutis laxa (dermatochalasis), allergic dermatitis
+The most commonly reported side effects were capsular opacity, decreased visual acuity, foreign body sensation, increased intraocular pressure, and sticky sensation.
+Rare (less than 0.1%): Hypersensitivity
+Rare (less than 0.1%): Dizziness
 It is possible that some side effects of Nevanac may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blurred vision
 change in vision
 decrease in vision
 loss of vision
-
-
 Eye pain
 itching of the eye
 swelling and/or redness of the eye and lining of the eyelid
-
-
 Feeling of having something in the eye
 sticky sensation of the eyelids
-
-
 Change in color vision
 cough
 crusting in the corner of the eye
@@ -52,4 +38,3 @@ stuffy or runny nose
 tenderness around the eyes and cheekbones
 tightness of the chest or wheezing
 troubled breathing
-

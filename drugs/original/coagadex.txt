@@ -1,16 +1,5 @@
-Generic Name: coagulation factor x
-Applies to coagulation factor x: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by coagulation factor x (the active ingredient contained in Coagadex). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking coagulation factor x, check with your doctor or nurse immediately:
-Some of the side effects that can occur with coagulation factor x may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to coagulation factor x: intravenous powder for injection
-The most common adverse reactions were infusion site erythema, infusion site pain, fatigue, and back pain.[Ref]
-1. "Product Information. Coagadex (coagulation factor X)." Bio Products Laboratory, Raleigh, NC. 
-Not all side effects for Coagadex may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions were infusion site erythema, infusion site pain, fatigue, and back pain.
 Blurred vision
 burning, stinging, redness, pain, or swelling at the infusion site
 chills
@@ -34,7 +23,4 @@ trouble breathing
 unusual drowsiness, dullness, tiredness, or weakness or feeling of sluggishness
 unusual tiredness or weakness
 vomiting
-
-
 Back pain
-

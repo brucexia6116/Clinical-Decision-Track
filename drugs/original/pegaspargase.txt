@@ -1,20 +1,16 @@
 Commonly reported side effects of pegaspargase include: hypersensitivity reaction. Other side effects include: blood coagulation disorder.  See below for a comprehensive list of adverse effects.
-Applies to pegaspargase: solution
 As well as its needed effects, pegaspargase may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking pegaspargase, check with your doctor or nurse as soon as possible:
 Some pegaspargase side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Applies to pegaspargase: injectable solution
-The most commonly reported side effects were elevated transaminases and clinical allergic reactions to asparaginase (including bronchospasm, hypotension, laryngeal edema, local erythema or swelling, systemic rash, and urticaria).[Ref]
+The most commonly reported side effects were elevated transaminases and clinical allergic reactions to asparaginase (including bronchospasm, hypotension, laryngeal edema, local erythema or swelling, systemic rash, and urticaria).
 Very common (10% or more): Clinical allergic reactions to asparaginase, including bronchospasm, hypotension, laryngeal edema, local erythema or swelling, systemic rash, and urticaria (non-hypersensitive patients up to 10%; previously hypersensitive patients up to 32%)
 Common (1% to 10%): Central nervous system thrombosis/hemorrhage
-Common (1% to 10%): Thrombosis[Ref]
-Common (1% to 10%): Pancreatitis[Ref]
-Common (1% to 10%): Coagulopathy (prolonged prothrombin time or partial thromboplastin time; or hypofibrinogenemia)[Ref]
-Very common (10% or more): Elevated transaminases (up to 11%)Common (1% to 10%): HyperbilirubinemiaFrequency not reported: Hepatotoxicity, abnormal liver function[Ref]
+Common (1% to 10%): Thrombosis
+Common (1% to 10%): Pancreatitis
+Common (1% to 10%): Coagulopathy (prolonged prothrombin time or partial thromboplastin time; or hypofibrinogenemia)
+Very common (10% or more): Elevated transaminases (up to 11%)Common (1% to 10%): HyperbilirubinemiaFrequency not reported: Hepatotoxicity, abnormal liver function
 Common (1% to 10%): Hyperglycemia (requiring insulin therapy)Frequency not reported: Glucose intolerance
-1. "Product Information. Oncaspar (pegaspargase)." Rhone-Poulenc Rorer, Collegeville, PA. 
 It is possible that some side effects of pegaspargase may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Abdominal or stomach pain
 blurry vision 
 constipation
@@ -32,8 +28,6 @@ troubled breathing
 unexplained weight loss
 unusual bleeding or bruising
 vomiting
-
-
 Bloating
 chest pain
 confusion
@@ -58,19 +52,13 @@ tightness in chest
 unusual tiredness or weakness (sudden and severe)
 wheezing
 yellow eyes or skin
-
-
 Black, tarry stools
 blood in urine 
 hoarseness
 lower back or side pain
 painful or difficult urination
 pinpoint red spots on skin
-
-
 General feeling of discomfort or illness
-
-
 Anxiety
 behavior change similar to drunkenness
 blurred vision
@@ -87,4 +75,3 @@ pain in joints or muscles
 restless sleep
 shakiness
 slurred speech
-

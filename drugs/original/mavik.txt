@@ -1,35 +1,22 @@
-Generic Name: trandolapril
 Common side effects of Mavik include: cough, dizziness, and hypotension. Other side effects include: cardiogenic shock, syncope, hyperkalemia, increased serum creatinine, and increased blood urea nitrogen.  See below for a comprehensive list of adverse effects.
-Applies to trandolapril: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by trandolapril (the active ingredient contained in Mavik). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking trandolapril:
-Some of the side effects that can occur with trandolapril may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to trandolapril: oral tablet
-The most frequently reported side effects were dizziness and a dry, nonproductive cough.[Ref]
-Very common (10% or more): Cough (up to 35%)Common (1% to 10%): Bronchitis, upper respiratory tract infections, rhinitisUncommon (0.1% to 1%): Dyspnea, sore throat, hoarseness, epistaxis, throat inflammationVery rare (less than 0.01%): Bronchospasm, sinusitis, lung infiltration, allergic alveolitis, eosinophilic pneumonia[Ref]
-Very common (10% or more): Dizziness (up to 23%)Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Paresthesia, vertigo, taste disturbances, sleep disturbance, insomnia, transient ischemic attacks, drowsiness, cerebral hemorrhage, somnolenceRare (less than 0.1%): Muscle convulsions, disturbance of balance[Ref]
-Very common (10% or more): Hypotension (up to 11%)Common (1% to 10%): Orthostatic effects, syncope, bradycardia, cardiogenic shock, intermittent claudication, stroke, percutaneous transluminal coronary angioplasty, coronary artery bypass graft surgery Uncommon (0.1% to 1%): Myocardial infarction, cerebrovascular accident, palpitations, tachycardia, Raynaud's phenomenon, chest pain, arrhythmias, angina pectoris, cerebral hemorrhage, AV first degree block, edema, flushingFrequency not reported: VasculitisPostmarketing reports: Myocardial ischemia, cardiac failure, ventricular tachycardia[Ref]
-Common (1% to 10%): Renal dysfunction, elevated BUN, increased creatinineUncommon (0.1% to 1%): Deterioration of renal function, acute renal failureRare (0.01% to 0.1%): UremiaVery rare (less than 0.01%): Bacterial interstitial nephritis[Ref]
-Common (1% to 10%): RashUncommon (0.1% to 1%): Pruritus, angioedema, pemphigus, non-specific skin disorderRare (0.01% to 0.1%): Hypersensitivity/angioneurotic edema, urticaria, alopecia, psoriasisVery rare (less than 0.01%): Diaphoresis, toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, photosensitivity, blushing, onycholysis[Ref]
-Common (1% to 10%): Diarrhea, vomiting, dyspepsia, gastritis, gastrointestinal painUncommon (0.1% to 1%): Nausea, abdominal pain, indigestion, anorexia, gastrointestinal disorder, constipation, dry mouth, abdominal distention, abdominal crampsRare (0.01% to 0.1%): Loss of appetiteVery rare (less than 0.01%): Pancreatitis, intestinal angioedema, stomatitis, glossitis[Ref]
-Very common (10% or more): Increased serum uric acid (15%)Common (1% to 10%): Hyperkalemia, hypocalcemiaUncommon (0.1% to 1%): Increased blood urea, goutRare (0.01% to 0.1%): HyponatremiaVery rare (less than 0.01%): Hypoglycemia[Ref]
-Uncommon (0.1% to 1%): Decreased leukocytes, decreased neutrophils Rare (0.01% to 0.1%): Decreased hemoglobin, decreased hematocritVery rare (less than 0.01%): Bone marrow depression, anemia, thrombocytopenia, leukopenia, neutropenia, eosinophilia, agranulocytosis, hemolytic anemia, lymphadenopathy, autoimmune diseaseFrequency not reported: Elevated red blood cell sedimentation rate (ESR), leukocytosis Postmarketing reports: Pancytopenia, decreased platelets[Ref]
-Common (1% to 10%): MyalgiaUncommon (0.1% to 1%): Muscle cramps, pain in extremitiesFrequency not reported: Arthralgia, arthritis[Ref]
-Common (1% to 10%): Urinary infectionUncommon (0.1% to 1%): Impotence, decreased libidoRare (0.01% to 0.1%): ProteinuriaVery rare (less than 0.01%): Oliguria, anuria[Ref]
-Uncommon (0.1% to 1%): Increased liver enzymesRare (0.01% to 0.1%): Increased serum bilirubin Very rare (less than 0.01%): Hepatocellular or cholestatic hepatitis, jaundice[Ref]
-Postmarketing reports: Allergic hypersensitivity reactions (including pruritus and rash)[Ref]
-Common (1% to 10%): Fatigue, influenza-like syndrome, asthenia, malaiseUncommon (0.1% to 1%): Abnormal feelingRare (less than 0.1%): TinnitusPostmarketing reports: Fever[Ref]
-Uncommon (0.1% to 1%): Mood alterations, anxiety, depressionRare (less than 0.1%): Mental confusion, nervousnessPostmarketing reports: Hallucinations[Ref]
-Rare (less than 0.1%): Gynecomastia[Ref]
-Rare (less than 0.1%): Blurred vision[Ref]
-Frequency not reported: Positive antinuclear antibodies (ANA)[Ref]
-1. "Product Information. Mavik (trandolapril)." Knoll Pharmaceutical Company, Whippany, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Mavik may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects were dizziness and a dry, nonproductive cough.
+Very common (10% or more): Cough (up to 35%)Common (1% to 10%): Bronchitis, upper respiratory tract infections, rhinitisUncommon (0.1% to 1%): Dyspnea, sore throat, hoarseness, epistaxis, throat inflammationVery rare (less than 0.01%): Bronchospasm, sinusitis, lung infiltration, allergic alveolitis, eosinophilic pneumonia
+Very common (10% or more): Dizziness (up to 23%)Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Paresthesia, vertigo, taste disturbances, sleep disturbance, insomnia, transient ischemic attacks, drowsiness, cerebral hemorrhage, somnolenceRare (less than 0.1%): Muscle convulsions, disturbance of balance
+Very common (10% or more): Hypotension (up to 11%)Common (1% to 10%): Orthostatic effects, syncope, bradycardia, cardiogenic shock, intermittent claudication, stroke, percutaneous transluminal coronary angioplasty, coronary artery bypass graft surgery Uncommon (0.1% to 1%): Myocardial infarction, cerebrovascular accident, palpitations, tachycardia, Raynaud's phenomenon, chest pain, arrhythmias, angina pectoris, cerebral hemorrhage, AV first degree block, edema, flushingFrequency not reported: VasculitisPostmarketing reports: Myocardial ischemia, cardiac failure, ventricular tachycardia
+Common (1% to 10%): Renal dysfunction, elevated BUN, increased creatinineUncommon (0.1% to 1%): Deterioration of renal function, acute renal failureRare (0.01% to 0.1%): UremiaVery rare (less than 0.01%): Bacterial interstitial nephritis
+Common (1% to 10%): RashUncommon (0.1% to 1%): Pruritus, angioedema, pemphigus, non-specific skin disorderRare (0.01% to 0.1%): Hypersensitivity/angioneurotic edema, urticaria, alopecia, psoriasisVery rare (less than 0.01%): Diaphoresis, toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, photosensitivity, blushing, onycholysis
+Common (1% to 10%): Diarrhea, vomiting, dyspepsia, gastritis, gastrointestinal painUncommon (0.1% to 1%): Nausea, abdominal pain, indigestion, anorexia, gastrointestinal disorder, constipation, dry mouth, abdominal distention, abdominal crampsRare (0.01% to 0.1%): Loss of appetiteVery rare (less than 0.01%): Pancreatitis, intestinal angioedema, stomatitis, glossitis
+Very common (10% or more): Increased serum uric acid (15%)Common (1% to 10%): Hyperkalemia, hypocalcemiaUncommon (0.1% to 1%): Increased blood urea, goutRare (0.01% to 0.1%): HyponatremiaVery rare (less than 0.01%): Hypoglycemia
+Uncommon (0.1% to 1%): Decreased leukocytes, decreased neutrophils Rare (0.01% to 0.1%): Decreased hemoglobin, decreased hematocritVery rare (less than 0.01%): Bone marrow depression, anemia, thrombocytopenia, leukopenia, neutropenia, eosinophilia, agranulocytosis, hemolytic anemia, lymphadenopathy, autoimmune diseaseFrequency not reported: Elevated red blood cell sedimentation rate (ESR), leukocytosis Postmarketing reports: Pancytopenia, decreased platelets
+Common (1% to 10%): MyalgiaUncommon (0.1% to 1%): Muscle cramps, pain in extremitiesFrequency not reported: Arthralgia, arthritis
+Common (1% to 10%): Urinary infectionUncommon (0.1% to 1%): Impotence, decreased libidoRare (0.01% to 0.1%): ProteinuriaVery rare (less than 0.01%): Oliguria, anuria
+Uncommon (0.1% to 1%): Increased liver enzymesRare (0.01% to 0.1%): Increased serum bilirubin Very rare (less than 0.01%): Hepatocellular or cholestatic hepatitis, jaundice
+Postmarketing reports: Allergic hypersensitivity reactions (including pruritus and rash)
+Common (1% to 10%): Fatigue, influenza-like syndrome, asthenia, malaiseUncommon (0.1% to 1%): Abnormal feelingRare (less than 0.1%): TinnitusPostmarketing reports: Fever
+Uncommon (0.1% to 1%): Mood alterations, anxiety, depressionRare (less than 0.1%): Mental confusion, nervousnessPostmarketing reports: Hallucinations
+Rare (less than 0.1%): Gynecomastia
+Rare (less than 0.1%): Blurred vision
+Frequency not reported: Positive antinuclear antibodies (ANA)
 Abdominal or stomach pain
 blurred vision
 confusion
@@ -43,8 +30,6 @@ numbness or tingling in the hands, feet, or lips
 sweating
 unusual tiredness or weakness
 weakness or heaviness of the legs
-
-
 Abdominal or stomach cramps
 chest pain or discomfort
 cool, sweaty skin
@@ -56,20 +41,15 @@ numbness and tingling around the mouth
 seizures
 slow heartbeat
 tremor
-
-
 Acid or sour stomach
 belching
 cough
 heartburn
 indigestion
 stomach discomfort or upset
-
-
 Burning feeling in the chest or stomach
 difficulty with moving
 joint pain
 muscle aches, pain, or stiffness
 swollen joints
 tenderness in the stomach area
-

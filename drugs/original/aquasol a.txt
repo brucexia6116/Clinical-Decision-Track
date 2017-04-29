@@ -1,12 +1,4 @@
-Generic Name: vitamin a
-Applies to vitamin a: capsule, capsule liquid filled, liquid, solution, tablet, tablet chewable
-In addition to its needed effects, some unwanted effects may be caused by vitamin a (the active ingredient contained in Aquasol A). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking vitamin a:
 If any of the following side effects occur while taking vitamin a, check with your doctor or nurse as soon as possible:
-
-
-Not all side effects for Aquasol A may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Bleeding from gums or sore mouth
 bulging soft spot on head (in babies)
 confusion or unusual excitement
@@ -17,8 +9,6 @@ double vision
 irritability (severe)
 peeling of skin, especially on lips and palms
  vomiting (severe)
-
-
 Bone or joint pain
 convulsions (seizures) 
 drying or cracking of skin or lips
@@ -35,4 +25,3 @@ stomach pain
 unusual tiredness
 vomiting
 yellow-orange patches on soles of feet, palms of hands, or skin around nose and lips
-

@@ -1,30 +1,19 @@
-Generic Name: elotuzumab
 More frequent side effects include: fever.  See below for a comprehensive list of adverse effects.
-Applies to elotuzumab: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by elotuzumab (the active ingredient contained in Empliciti). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking elotuzumab, check with your doctor or nurse immediately:
-Some of the side effects that can occur with elotuzumab may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to elotuzumab: intravenous powder for injection
-Common (1% to 10%): Night sweats[Ref]
-Very common (10% or more): Diarrhea (47%), constipation (36%), vomiting (15%), oropharyngeal pain (10%)[Ref]
-Very common (10% or more): Lymphopenia (13%)Frequency not reported: Leukopenia, thrombocytopenia[Ref]
-Frequency not reported: Hypoalbuminemia, elevated alkaline phosphatase[Ref]
-Common (1% to 10%): Hypersensitivity[Ref]
-Very common (10% or more): Decreased appetite (21%), weight loss (14%)Frequency not reported: Hyperglycemia, hypocalcemia, low bicarbonate, hyperkalemia[Ref]
-Very common (10% or more): Pain in extremities (16%)Common (1% to 10%): Chest pain[Ref]
-Very common (10% or more): Peripheral neuropathy (27%), headache (15%)Common (1% to 10%): Hypoesthesia[Ref]
-Very common (10% or more): Cataracts (12%)[Ref]
-Common (1% to 10%): Invasive second primary malignancies (SPM)[Ref]
-Very common (10% or more): Fatigue (62%), pyrexia (37%)[Ref]
-Common (1% to 10%): Altered mood[Ref]
-Common (1% to 10%): Acute renal failure[Ref]
-Very common (10% or more): Cough (34%), nasopharyngitis (25%), upper respiratory tract infection (23%), pneumonia (20%)Common (1% to 10%): Respiratory tract infection, pulmonary embolism[Ref]
-1. "Product Information. Empliciti (elotuzumab)." Bristol-Myers Squibb, Princeton, NJ. 
-Not all side effects for Empliciti may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Night sweats
+Very common (10% or more): Diarrhea (47%), constipation (36%), vomiting (15%), oropharyngeal pain (10%)
+Very common (10% or more): Lymphopenia (13%)Frequency not reported: Leukopenia, thrombocytopenia
+Frequency not reported: Hypoalbuminemia, elevated alkaline phosphatase
+Common (1% to 10%): Hypersensitivity
+Very common (10% or more): Decreased appetite (21%), weight loss (14%)Frequency not reported: Hyperglycemia, hypocalcemia, low bicarbonate, hyperkalemia
+Very common (10% or more): Pain in extremities (16%)Common (1% to 10%): Chest pain
+Very common (10% or more): Peripheral neuropathy (27%), headache (15%)Common (1% to 10%): Hypoesthesia
+Very common (10% or more): Cataracts (12%)
+Common (1% to 10%): Invasive second primary malignancies (SPM)
+Very common (10% or more): Fatigue (62%), pyrexia (37%)
+Common (1% to 10%): Altered mood
+Common (1% to 10%): Acute renal failure
+Very common (10% or more): Cough (34%), nasopharyngitis (25%), upper respiratory tract infection (23%), pneumonia (20%)Common (1% to 10%): Respiratory tract infection, pulmonary embolism
 Blurred vision
 body aches or pain
 chest pain
@@ -57,8 +46,6 @@ swelling of the eyelids, face, lips, hands, or feet
 tightness in the chest
 troubled breathing or swallowing
 unusual tiredness or weakness
-
-
 Abdominal pain or tenderness
 clay-colored stools
 dark urine
@@ -70,8 +57,6 @@ shiny skin bump
 swelling of the feet or lower legs
 white, yellow or waxy scar-like area on the skin
 yellow eyes or skin
-
-
 Blindness
 burning, numbness, tingling, or painful sensations
 decreased appetite
@@ -84,4 +69,3 @@ night sweats
 pain in the arms or legs
 unsteadiness or awkwardness
 weakness in the arms, hands, legs, or feet
-

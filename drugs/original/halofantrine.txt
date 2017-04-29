@@ -1,47 +1,19 @@
-Applies to halofantrine: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by halofantrine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking halofantrine:
-Some of the side effects that can occur with halofantrine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to halofantrine: oral tablet
-Cardiovascular side effects have included QT interval prolongation, torsades de pointes, ventricular arrhythmias, and death.  Chest pain and palpitations have been reported less than 1% of patients in clinical trials, and orthostatic hypotension has been reported in less than 1% to 33% of patients.  Hypertensive crisis (1/933) and cerebrovascular accident (1/933) have been reported, although causality was not clearly established.  Quinidine-like electrocardiographic changes have also been reported.[Ref]
-Higher risk may be associated with larger than recommended doses, previous or concurrent mefloquine treatment, preexisting QT interval prolongation, or concurrent administration of other QT interval-prolonging drugs.  Prolonged QTc interval has been reported in up to 81% of adults treated with standard halofantrine doses and in 100% of patients treated with high doses (72 mg/kg).  Prolonged QTc interval has been reported in 50% of children and prolonged PR interval has been reported in 38% of children (n=21).  Females may have a higher risk of adverse cardiovascular effects.It has been proposed that halofantrine prolongs repolarization by blocking HERG potassium channels.[Ref]
-Gastrointestinal (GI) side effects have included abdominal pain (8.5%), diarrhea (6%), vomiting (4.3%), and nausea (3.4%), although these symptoms may also occur with a malarial infection.  Abdominal distention, anorexia, constipation, dyspepsia, and stomatitis have been reported in less than 1% of patients.  GI upset has also been reported.[Ref]
-Hematologic side effects have included decreased hematocrit, decreased or increased white blood cells, decreased platelet counts, hemolysis, and hemolytic anemia.  These reactions may also occur with a malaria infection.[Ref]
-Hypersensitivity side effects have included allergic and anaphylactic reactions including facial edema and urticaria.[Ref]
-Dermatologic side effects have included pruritus (2.6%) and rash (less than 1%).[Ref]
-Musculoskeletal side effects have included rigors (1.7%), myalgia (1.3%), arthralgia (less than 1%), and back pain (less than 1%).[Ref]
-Nervous system side effects have included dizziness (4.5%) and headache (3%).  Asthenia, confusion, convulsions, depression, paresthesia, and sleep disorder have been reported in less than 1% of patients.[Ref]
-Genitourinary side effects have included urinary frequency (less than 1%).[Ref]
-Ocular side effects have included abnormal vision (less than 1%).[Ref]
-Respiratory side effects have included cough (3%).  Pulmonary edema has been reported (1/933); however, causality was not determined.[Ref]
-Other side effects have included fatigue, malaise, and tinnitus in less than 1% of patients.[Ref]
-Hepatic side effects have included increased hepatic transaminases, which returned to normal within 2 to 3 weeks.[Ref]
-Renal side effects have included blackwater fever (acute intravascular hemolysis with acute renal failure and hemoglobinuria) requiring hemodialysis patients taking halofantrine for Plasmodium falciparum infections (n=2).  Causality was not clearly established.  One patient had a positive Coombs test.[Ref]
-1. Toivonen L,  Viitasalo M,  Siikamaki H,  Raatikka M,  Pohjola-Sintonen S "Provocation of ventricular tachycardia by antimalarial drug halofantrine in congenital long QT syndrome." Clin Cardiol 17 (1994): 403-4
-2. Abernethy DR,  Wesche DL,  Barbey JT, et al. "Stereoselective halofantrine disposition and effect: concentration-related QTc prolongation." Br J Clin Pharmacol 51 (2001): 231-7
-3. Nosten F,  ter Kuile FO,  Luxemburger C,  et al "Cardiac effects of antimalarial treatment with halofantrine." Lancet 341 (1993): 1054-6
-4. "From the Centers for Disease Control and Prevention. Sudden death in a traveler following halofantrine administration--Togo, 2000." JAMA 285 (2001): 1836
-5. Touze JE,  Heno P,  Fourcade L, et al. "The effects of antimalarial drugs on ventricular repolarization." Am J Trop Med Hyg 67 (2002): 54-60
-6. "Product Information. Lariam (mefloquine)." Roche Laboratories, Nutley, NJ. 
-7. Piippo K,  Holmstrom S,  Swan H, et al. "Effect of the antimalarial drug halofantrine in the long QT syndrome due to a mutation of the cardiac sodium channel gene SCN5A." Am J Cardiol 87 (2001): 909-11
-8. Mbai M,  Rajamani S,  January CT "The anti-malarial drug halofantrine and its metabolite N-desbutylhalofantrine block HERG potassium channels." Cardiovasc Res 55 (2002): 799-805
-9. "Sudden death in a traveler following halofantrine administration--Togo, 2000." MMWR Morb Mortal Wkly Rep 50 (2001): 169-70, 179
-10. "Product Information. Halfan (halofantrine)." GlaxoSmithKline, Philadelphia, PA. 
-11. Karbwang J,  Na Bangchang K "Clinical pharmacokinetics of halofantrine." Clin Pharmacokinet 27 (1994): 104-19
-12. Sowunmi A,  Fehintola FA,  Ogundahunsi OA,  Ofi AB,  Happi TC,  Oduola AM "Comparative cardiac effects of halofantrine and chloroquine plus chlorpheniramine in children with acute uncomplicated falciparum malaria." Trans R Soc Trop Med Hyg 93 (1999): 78-83
-13. White NJ,  Pukrittayakamee S "Clinical malaria in the tropics." Med J Aust 159 (1993): 197-203
-14. Sahr F,  Willoughby VR,  Gbakima AA,  Bockarie MJ "Apparent drug failure following artesunate treatment of Plasmodium falciparum malaria in Freetown, Sierra Leone: four case reports." Ann Trop Med Parasitol 95 (2001): 445-9
-15. Winstanley P "Malaria: treatment." J R Coll Physicians Lond 32 (1998): 203-7
-16. Ezeamuzie IC,  Igbigbi PS,  Ambakederemo AW,  Abila B,  Nwaejike IN "Halofantrine-induced pruritus amongst subjects who itch to chloroquine." J Trop Med Hyg 94 (1991): 184-8
-17. Vachon F,  Fajac I,  Gachot B,  Coulaud JP,  Charmot G "Halofantrine and acute intravascular haemolysis." Lancet 340 (1992): 909-10
-Not all side effects for halofantrine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects have included QT interval prolongation, torsades de pointes, ventricular arrhythmias, and death.  Chest pain and palpitations have been reported less than 1% of patients in clinical trials, and orthostatic hypotension has been reported in less than 1% to 33% of patients.  Hypertensive crisis (1/933) and cerebrovascular accident (1/933) have been reported, although causality was not clearly established.  Quinidine-like electrocardiographic changes have also been reported.
+Higher risk may be associated with larger than recommended doses, previous or concurrent mefloquine treatment, preexisting QT interval prolongation, or concurrent administration of other QT interval-prolonging drugs.  Prolonged QTc interval has been reported in up to 81% of adults treated with standard halofantrine doses and in 100% of patients treated with high doses (72 mg/kg).  Prolonged QTc interval has been reported in 50% of children and prolonged PR interval has been reported in 38% of children (n=21).  Females may have a higher risk of adverse cardiovascular effects.It has been proposed that halofantrine prolongs repolarization by blocking HERG potassium channels.
+Gastrointestinal (GI) side effects have included abdominal pain (8.5%), diarrhea (6%), vomiting (4.3%), and nausea (3.4%), although these symptoms may also occur with a malarial infection.  Abdominal distention, anorexia, constipation, dyspepsia, and stomatitis have been reported in less than 1% of patients.  GI upset has also been reported.
+Hematologic side effects have included decreased hematocrit, decreased or increased white blood cells, decreased platelet counts, hemolysis, and hemolytic anemia.  These reactions may also occur with a malaria infection.
+Hypersensitivity side effects have included allergic and anaphylactic reactions including facial edema and urticaria.
+Dermatologic side effects have included pruritus (2.6%) and rash (less than 1%).
+Musculoskeletal side effects have included rigors (1.7%), myalgia (1.3%), arthralgia (less than 1%), and back pain (less than 1%).
+Nervous system side effects have included dizziness (4.5%) and headache (3%).  Asthenia, confusion, convulsions, depression, paresthesia, and sleep disorder have been reported in less than 1% of patients.
+Genitourinary side effects have included urinary frequency (less than 1%).
+Ocular side effects have included abnormal vision (less than 1%).
+Respiratory side effects have included cough (3%).  Pulmonary edema has been reported (1/933); however, causality was not determined.
+Other side effects have included fatigue, malaise, and tinnitus in less than 1% of patients.
+Hepatic side effects have included increased hepatic transaminases, which returned to normal within 2 to 3 weeks.
+Renal side effects have included blackwater fever (acute intravascular hemolysis with acute renal failure and hemoglobinuria) requiring hemodialysis patients taking halofantrine for Plasmodium falciparum infections (n=2).  Causality was not clearly established.  One patient had a positive Coombs test.
 Coughing
 noisy, rattling, or troubled breathing
-
-
 Abdominal pain
 chest pain
 confusion
@@ -56,15 +28,10 @@ reddening of skin, especially around ears
 swelling of eyes, face or inside of nose
 unusual tiredness or weakness
 vomiting
-
-
 Headache
-
-
 Aches and pain in joints
 constipation
 frequent urination
 indigestion
 loss of appetite
 skin itching or rash
-

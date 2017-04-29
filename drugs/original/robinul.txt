@@ -1,36 +1,22 @@
-Generic Name: glycopyrrolate
-Applies to glycopyrrolate: oral solution, oral tablet
 Other dosage forms:
 As well as its needed effects, glycopyrrolate (the active ingredient contained in Robinul) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking glycopyrrolate, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking glycopyrrolate, get emergency help immediately:
-
 Some glycopyrrolate side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to glycopyrrolate: inhalation capsule, injectable solution, oral solution, oral tablet
-Nervous system side effects have included headache, nervousness, drowsiness, dizziness, insomnia, and mental confusion.  The elderly appear to be more prone to the anticholinergic effects of glycopyrrolate (the active ingredient contained in Robinul) on the CNS.  Seizures have been reported from postmarketing experience.[Ref]
-Cardiovascular side effects have included tachycardia and palpitations.  In addition, cardiac arrhythmias, cardiac arrest, hypertension, and hypotension have been reported from postmarketing experience.[Ref]
-Gastrointestinal side effects have included dry mouth, nausea, vomiting, constipation, and feeling bloated.[Ref]
-Genitourinary side effects have included urinary hesitancy, urinary retention, and impotence.[Ref]
-Ocular side effects have included blurred vision, increased ocular tension, cycloplegia, and dilatation of the pupil.[Ref]
-Endocrine side effects have included suppression of lactation.[Ref]
-Dermatologic side effects have included dry mucous membranes and decreased sweating.[Ref]
-General side effects have included weakness, hyperpyrexia, and a loss of taste.[Ref]
-Hypersensitivity side effects have included urticaria and other dermal manifestations.[Ref]
-Immunologic side effects have included anaphylaxis.[Ref]
-Local side effects have included pruritus, edema, erythema, and pain at the injection site.[Ref]
-Respiratory side effects have included nasal congestion, nasal dryness, and sinusitis.[Ref]
-1. "Product Information. Glycopyrrolate (glycopyrrolate)." American Regent Laboratories Inc, Shirley, NY. 
-2. Grum DF,  Osborne LR "Central anticholinergic syndrome following glycopyrrolate." Anesthesiology 74 (1991): 191-3
-3. Shamsai J "Central anticholinergic syndrome: does it exist?" Anesthesiology 74 (1991): 1158
-4. Wingard DW "Glycopyrrolate and the central anticholinergic syndrome." Anesthesiology 75 (1991): 1125-6
-5. Madan V,  Beck MH "Urinary retention caused by topical glycopyrrolate for hyperhidrosis." Br J Dermatol 155 (2006): 634-5
-6. "Product Information. Cuvposa (glycopyrrolate)." Shionogi USA Inc, Florham Park, NJ. 
+Nervous system side effects have included headache, nervousness, drowsiness, dizziness, insomnia, and mental confusion.  The elderly appear to be more prone to the anticholinergic effects of glycopyrrolate (the active ingredient contained in Robinul) on the CNS.  Seizures have been reported from postmarketing experience.
+Cardiovascular side effects have included tachycardia and palpitations.  In addition, cardiac arrhythmias, cardiac arrest, hypertension, and hypotension have been reported from postmarketing experience.
+Gastrointestinal side effects have included dry mouth, nausea, vomiting, constipation, and feeling bloated.
+Genitourinary side effects have included urinary hesitancy, urinary retention, and impotence.
+Ocular side effects have included blurred vision, increased ocular tension, cycloplegia, and dilatation of the pupil.
+Endocrine side effects have included suppression of lactation.
+Dermatologic side effects have included dry mucous membranes and decreased sweating.
+General side effects have included weakness, hyperpyrexia, and a loss of taste.
+Hypersensitivity side effects have included urticaria and other dermal manifestations.
+Immunologic side effects have included anaphylaxis.
+Local side effects have included pruritus, edema, erythema, and pain at the injection site.
+Respiratory side effects have included nasal congestion, nasal dryness, and sinusitis.
 It is possible that some side effects of Robinul may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 inhalation capsule
-
 Body aches or pain
 chills
 constipation
@@ -51,8 +37,6 @@ runny nose
 sneezing
 sore throat
 unusual tiredness or weakness
-
-
 Abdominal or stomach discomfort or pain
 abdominal or stomach distension
 chest pain
@@ -74,13 +58,9 @@ tightness in the chest
 vomiting
 wheezing
 wrinkled skin
-
-
 low blood pressure
 muscle weakness
 trouble breathing
-
-
 Altered mood
 anxiety
 attack, assault, or force
@@ -106,4 +86,3 @@ restlessness
 shaking
 trouble with sleeping
 uncontrolled eye movements
-

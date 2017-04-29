@@ -1,42 +1,16 @@
-Generic Name: metolazone
-Applies to metolazone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by metolazone (the active ingredient contained in Mykrox). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking metolazone:
-
 If any of the following symptoms of overdose occur while taking metolazone, get emergency help immediately:
-
-Some of the side effects that can occur with metolazone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to metolazone: oral tablet
-A rare case of hyperosmolar nonketotic hyperglycemia is associated with metolazone (the active ingredient contained in Mykrox) [Ref]
-Metabolic side effects are the most common and profound.  The rapid onset of hyponatremia or hypokalemia is often sudden and may be profound, particularly if metolazone is given with a loop diuretic.  Hypokalemia may be important in patients with underlying cardiac arrhythmias.  Metolazone may increase serum calcium and uric acid levels and lower serum magnesium and phosphate levels.  Glucose intolerance is reported in rare cases.[Ref]
-Cardiovascular side effects are uncommon.  Postural hypotension is reported in less than 5% of patients.  Rare cases of venous thrombosis are reported, thought to be due to metolazone-induced hypovolemia and increased serum concentrations of clotting factors.  Rare cardiovascular side effects also include palpitations, hypovolemia, and chest pain.[Ref]
-Renal insufficiency, manifest as a rise in serum creatinine and BUN, may occur, although, in most cases, creatinine clearance increases as a result of metolazone (the active ingredient contained in Mykrox) therapy.[Ref]
-Nervous system side effects include headache, dizziness, and fatigue.  Two cases of syncope and seizures are reported.  Metolazone-induced hypovolemia and electrolyte changes may induce hepatic encephalopathy in some patients.[Ref]
-It is not clear whether the patients who developed syncope and seizure activity were hypotensive or hypovolemic at the time of the seizures or that metolazone can definitively be implicated.  In one case the patient was also taking theophylline and had hypomagnesemia, which may be a complication of metolazone therapy.[Ref]
-Hypersensitivity reactions include rare case reports of necrotizing vasculitis, angiitis, and pruritic rashes.[Ref]
-A case of cutaneous hypersensitivity angiitis has been reported in a patient who had previously tolerated thiazide diuretics, indicating that, despite the chemical similarity between thiazides and metolazone, there is not necessarily cross-reactivity.[Ref]
-Hematologic abnormalities are rare.  Cases of reversible hypoplastic anemia, aplastic anemia, agranulocytosis, and mild leukopenia are reported.[Ref]
-Gastrointestinal side effects are rare, and include a case of acute pancreatitis.  Nausea, vomiting, anorexia, and abdominal bloating are also rare.[Ref]
-Hepatic side effects include a rare case of cholestatic jaundice.[Ref]
-Musculoskeletal cramps are associated with metolazone (the active ingredient contained in Mykrox) therapy, as with other diuretics, and may be associated with electrolyte disorders and rapid intravascular volume shifts.[Ref]
-1. Bennett WM, Porter GA "Efficacy and safety of metolazone in renal failure and the nephrotic syndrome." J Clin Pharmacol 13 (1973): 357-64
-2. "Product Information. Zaroxolyn (metolazone)." Rhone-Poulenc Rorer, Collegeville, PA. 
-3. Black W, Shiner P, Roman J "Severe electrolyte disturbances associated with metolazone and furosemide." South Med J 71 (1978): 381
-4. Fitzgerald M, Brennan N "Muscle cramps, collapse, and seizures in two patients taking metolazone." Br Med J 1 (1976): 1381-2
-5. Rowe P, Mather H "Hyperosmolar non-ketotic diabetes mellitus associated with metolazone." Br Med J 291 (1985): 25-6
-6. Craswell PW, Ezzat E, Kopstein J, Varghese Z, Moorhead JF "Use of metolazone, a new diuretic, in patients with renal disease." Nephron 12 (1974): 63-73
-7. Anderson PE, Ellis GG, Austin SM "Case report: metolazone-associated hypercalcemia and acute pancreatitis." Am J Med Sci 302 (1991): 235-7
-8. Stern A "Metolazone, a diuretic agent." Am Heart J 91 (1976): 262-3
-9. Pickkers P, Schachter M, Hughes AD, Feher MD, Sever PS "Thiazide-induced hyperglycaemia: a role for calcium-activated potassium channels?" Diabetologia 39 (1996): 861-4
-10. Nichols T "Initial experience with metolazone." Minn Med 60 (1977): 549-53
-11. Cox N, Hodkin P "Vasculitis due to metolazone." Postgrad Med J 67 (1991): 860
-12. Weinrauch L, Belok S, Gauvin G, D'Elia J "Palpable acute necrotizing arteritis secondary to metolazone." Cutis 30 (1982): 83-4
-13. Suh K "Hypoplastic anemia associated with metolazone." JAMA 242 (1979): 139-40
-14. Donovan K "Neutropenia and metolazone." Br Med J 299 (1989): 981
-Not all side effects for Mykrox may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+A rare case of hyperosmolar nonketotic hyperglycemia is associated with metolazone (the active ingredient contained in Mykrox) 
+Metabolic side effects are the most common and profound.  The rapid onset of hyponatremia or hypokalemia is often sudden and may be profound, particularly if metolazone is given with a loop diuretic.  Hypokalemia may be important in patients with underlying cardiac arrhythmias.  Metolazone may increase serum calcium and uric acid levels and lower serum magnesium and phosphate levels.  Glucose intolerance is reported in rare cases.
+Cardiovascular side effects are uncommon.  Postural hypotension is reported in less than 5% of patients.  Rare cases of venous thrombosis are reported, thought to be due to metolazone-induced hypovolemia and increased serum concentrations of clotting factors.  Rare cardiovascular side effects also include palpitations, hypovolemia, and chest pain.
+Renal insufficiency, manifest as a rise in serum creatinine and BUN, may occur, although, in most cases, creatinine clearance increases as a result of metolazone (the active ingredient contained in Mykrox) therapy.
+Nervous system side effects include headache, dizziness, and fatigue.  Two cases of syncope and seizures are reported.  Metolazone-induced hypovolemia and electrolyte changes may induce hepatic encephalopathy in some patients.
+It is not clear whether the patients who developed syncope and seizure activity were hypotensive or hypovolemic at the time of the seizures or that metolazone can definitively be implicated.  In one case the patient was also taking theophylline and had hypomagnesemia, which may be a complication of metolazone therapy.
+Hypersensitivity reactions include rare case reports of necrotizing vasculitis, angiitis, and pruritic rashes.
+A case of cutaneous hypersensitivity angiitis has been reported in a patient who had previously tolerated thiazide diuretics, indicating that, despite the chemical similarity between thiazides and metolazone, there is not necessarily cross-reactivity.
+Hematologic abnormalities are rare.  Cases of reversible hypoplastic anemia, aplastic anemia, agranulocytosis, and mild leukopenia are reported.
+Gastrointestinal side effects are rare, and include a case of acute pancreatitis.  Nausea, vomiting, anorexia, and abdominal bloating are also rare.
+Hepatic side effects include a rare case of cholestatic jaundice.
+Musculoskeletal cramps are associated with metolazone (the active ingredient contained in Mykrox) therapy, as with other diuretics, and may be associated with electrolyte disorders and rapid intravascular volume shifts.
 Black, tarry stools
 bleeding gums
 blistering, peeling, or loosening of skin
@@ -107,15 +81,11 @@ vomiting of blood
 weak pulse
 wheezing
 yellow eyes and skin
-
-
 Fainting
 irregular, fast or slow, or shallow breathing
 pale or blue lips, fingernails, or skin
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 weakness and heaviness of legs
-
-
 Blue-green to black skin discoloration
 burning, tingling, numbness, or pain in the hands, arms, feet, or legs
 cracked, dry, or scaly skin
@@ -129,4 +99,3 @@ restlessness
 sensation of pins and needles
 sensation of spinning
 stabbing pain
-

@@ -1,22 +1,16 @@
-Generic Name: tositumomab
-Applies to tositumomab: parenteral iodine i 131 tositumomab injection, parenteral tositumomab injection
 Side effects include:
 Neutropenia, thrombocytopenia, anemia, asthenia,    infection,  fever,  nausea.  
-Applies to tositumomab: intravenous kit
-Common (1% to 10%): Hypotension, vasodilation[Ref]
-Very common (10% or more): Rash, pruritusCommon (1% to 10%): Sweating[Ref]
-Common (1% to 10%): Hypothyroidism[Ref]
-Very common (10% or more): Abdominal pain, nausea, vomiting, diarrhea, anorexiaCommon (1% to 10%): Constipation, dyspepsia[Ref]
-Very common (10% or more): Neutropenia, thrombocytopenia, anemia[Ref]
-Common (1% to 10%): Allergic (hypersensitivity) reactions (allergic reaction, facial edema, injection site hypersensitivity, anaphylactic reaction, laryngismus, serum sickness)Postmarketing reports: Hypersensitivity reactions including fatal anaphylaxis[Ref]
-Very common (10% or more): Positive serology for human anti-mouse antibodies (HAMA)[Ref]
-Frequency not reported: Infusion reactions[Ref]
-Common (1% to 10%): Peripheral edema, weight loss[Ref]
-Very common (10% or more): Myalgia, arthralgiaCommon (1% to 10%): Back pain, neck pain[Ref]
-Common (1% to 10%): Dizziness, somnolencePostmarketing reports: Axonal neuropathy leading to quadriparesis[Ref]
-Common (1% to 10%): Secondary malignancies (non-melanoma skin, colorectal, head and neck, breast, lung, bladder, melanoma, gastric)Frequency not reported: Secondary leukemia, myelodysplastic syndrome[Ref]
-Very common (10% or more): Asthenia, fever, infections, pain, chills, headacheCommon (1% to 10%): Chest pain, serious infections (pneumonia, bacteremia, septicemia, bronchitis, skin infections)[Ref]
-Very common (10% or more): Cough, pharyngitis, dyspnea, rhinitisCommon (1% to 10%): Pneumonia[Ref]
-1. "Product Information. Bexxar I 131 Therapeutic (iodine I 131 tositumomab)." GlaxoSmithKline, Research Triangle Park, NC. 
-2. "Product Information. BexxarTherapy (tositumomab)." GlaxoSmithKline Inc, Oakville, IA. 
-Not all side effects for Bexxar Dosimetric may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Common (1% to 10%): Hypotension, vasodilation
+Very common (10% or more): Rash, pruritusCommon (1% to 10%): Sweating
+Common (1% to 10%): Hypothyroidism
+Very common (10% or more): Abdominal pain, nausea, vomiting, diarrhea, anorexiaCommon (1% to 10%): Constipation, dyspepsia
+Very common (10% or more): Neutropenia, thrombocytopenia, anemia
+Common (1% to 10%): Allergic (hypersensitivity) reactions (allergic reaction, facial edema, injection site hypersensitivity, anaphylactic reaction, laryngismus, serum sickness)Postmarketing reports: Hypersensitivity reactions including fatal anaphylaxis
+Very common (10% or more): Positive serology for human anti-mouse antibodies (HAMA)
+Frequency not reported: Infusion reactions
+Common (1% to 10%): Peripheral edema, weight loss
+Very common (10% or more): Myalgia, arthralgiaCommon (1% to 10%): Back pain, neck pain
+Common (1% to 10%): Dizziness, somnolencePostmarketing reports: Axonal neuropathy leading to quadriparesis
+Common (1% to 10%): Secondary malignancies (non-melanoma skin, colorectal, head and neck, breast, lung, bladder, melanoma, gastric)Frequency not reported: Secondary leukemia, myelodysplastic syndrome
+Very common (10% or more): Asthenia, fever, infections, pain, chills, headacheCommon (1% to 10%): Chest pain, serious infections (pneumonia, bacteremia, septicemia, bronchitis, skin infections)
+Very common (10% or more): Cough, pharyngitis, dyspnea, rhinitisCommon (1% to 10%): Pneumonia

@@ -1,28 +1,18 @@
-Applies to fenoldopam: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by fenoldopam. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking fenoldopam, check with your doctor or nurse immediately:
-Some of the side effects that can occur with fenoldopam may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fenoldopam: intravenous solution
-The most common adverse reactions were headache, cutaneous dilation (flushing), nausea, and hypotension.[Ref]
-Very common (10% or more): Headache (24%)Frequency not reported: Dizziness[Ref]
-Very common (10% or more): Nausea (12%)Common (1% to 10%): VomitingFrequency not reported: Abdominal pain, abdominal distention[Ref]
-Common (1% to 10%): Injection site reaction[Ref]
-Common (1% to 10%): ECG T wave inversionFrequency not reported: Extrasystoles, palpitations, cardiac failure, ischemic heart disease, myocardial infarction, angina pectoris, tachycardiaPostmarketing reports: Cardiogenic shock, hypotension, ECG ST segment depression[Ref]
-Frequency not reported: Chest pain, pyrexia, blood lactate dehydrogenase increased[Ref]
-Frequency not reported: Hypokalemia, blood glucose increasedPostmarketing reports: Oxygen saturation decreased[Ref]
-Frequency not reported: Nervousness/anxiety, insomnia[Ref]
-Frequency not reported: Blood urea increased, blood creatinine increased[Ref]
-Frequency not reported: Hyperhidrosis[Ref]
-Frequency not reported: Oliguria[Ref]
-Frequency not reported: Transaminases increased[Ref]
-Frequency not reported: Muscle spasms[Ref]
-Frequency not reported: Intraocular pressure increased[Ref]
-1. "Product Information. Corlopam (fenoldopam)." Neurex, Menlo Park, CA. 
-Not all side effects for fenoldopam may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions were headache, cutaneous dilation (flushing), nausea, and hypotension.
+Very common (10% or more): Headache (24%)Frequency not reported: Dizziness
+Very common (10% or more): Nausea (12%)Common (1% to 10%): VomitingFrequency not reported: Abdominal pain, abdominal distention
+Common (1% to 10%): Injection site reaction
+Common (1% to 10%): ECG T wave inversionFrequency not reported: Extrasystoles, palpitations, cardiac failure, ischemic heart disease, myocardial infarction, angina pectoris, tachycardiaPostmarketing reports: Cardiogenic shock, hypotension, ECG ST segment depression
+Frequency not reported: Chest pain, pyrexia, blood lactate dehydrogenase increased
+Frequency not reported: Hypokalemia, blood glucose increasedPostmarketing reports: Oxygen saturation decreased
+Frequency not reported: Nervousness/anxiety, insomnia
+Frequency not reported: Blood urea increased, blood creatinine increased
+Frequency not reported: Hyperhidrosis
+Frequency not reported: Oliguria
+Frequency not reported: Transaminases increased
+Frequency not reported: Muscle spasms
+Frequency not reported: Intraocular pressure increased
 Chest pain or discomfort
 convulsions
 decrease in the amount of urine
@@ -42,21 +32,14 @@ shortness of breath
 swelling of the face, fingers, feet, or lower legs
 unusual tiredness or weakness
 weight gain
-
-
 Blurred vision
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 sweating
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 headache
-
-
 Abdominal or stomach pain
 anxiety
 dizziness
 increased sweating
 muscle spasms
 trouble sleeping
-

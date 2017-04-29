@@ -1,34 +1,21 @@
 More frequently reported side effects include: constipation, headache, and hypertension.  See below for a comprehensive list of adverse effects.
-Applies to memantine: oral capsule extended release, oral solution, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by memantine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking memantine:
-Some of the side effects that can occur with memantine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to memantine: oral capsule extended release, oral kit, oral solution, oral tablet
-The most common adverse reactions (frequency of at least 5% and higher than placebo) were dizziness, headache, confusion, constipation, and diarrhea.[Ref]
-Common (1% to 10%): Hypertension, hypotension, bradycardia, angina pectoris, phlebitis, deep thrombophlebitis, cardiac arrestUncommon (0.1% to 1%): Cardiac failure, venous thrombosis/thromboembolismFrequency not reported: Postural hypotension, rhythm and rate disturbance (e.g., atrial fibrillation), QTc prolongation, ischemic event and sudden death (e.g., myocardial infarction), embolism, venous thrombosis/thromboembolism[Ref]
-Common (1% to 10%): Purpura, rash, basal cell carcinomaFrequency not reported: Dermatitis, skin disorder, skin ulceration, bullous eruption, pruritus, increased sweatingPostmarketing reports: Stevens Johnson syndrome[Ref]
-Common (1% to 10%): Hyperglycemia, diabetes mellitusFrequency not reported: Aggravated diabetes mellitus[Ref]
-Common (1% to 10%): Constipation, diarrhea, abdominal pain, vomiting, nausea, gastroenteritisFrequency not reported: Diverticulitis, dyspepsia, hemorrhoids, gastric ulcer, ileusPostmarketing reports: Pancreatitis[Ref]
-Common (1% to 10%): Urinary incontinence, fecal incontinence, urinary tract infection, hyperuricemia, micturition frequencyFrequency not reported: Cystitis, pyuria, hematuria[Ref]
-Common (1% to 10%): Increased ALT, increased AST, increased gamma-glutamyl transferase (GGT), increased phosphatase alkaline, elevated liver function testPostmarketing reports: Hepatitis, bilirubinemia[Ref]
-Common (1% to 10%): Drug hypersensitivity[Ref]
-Common (1% to 10%): Increased weight, decreased weight, anorexia, dehydration, hypokalemiaFrequency not reported: Increased appetite, hypernatremia, hyponatremia[Ref]
-Common (1% to 10%): Back pain, arthralgia, leg pain, hypertonia, arthrosis, muscle weakness, myalgia, skeletal pain[Ref]
-Common (1% to 10%): Dizziness, headache, somnolence, balance disorders, abnormal gait, syncope, comaUncommon (0.1% to 1%): SeizuresFrequency not reported: Aphasia, speech disorder, hyperkinesia, dyskinesia, dementia, partial epileptic seizure, convulsions, tremor, extrapyramidal disorder, transient ischemic attack, vertigo, numbness, paresthesia, stupor, cerebrovascular disorder, intracranial hemorrhage[Ref]
-Common (1% to 10%): Cataract, conjunctivitis[Ref]
-Common (1% to 10%): Fatigue, peripheral edema, pain, influenza, inflicted injury, fall, dependent edema, tooth ache, tooth caries, edema, abrasionUncommon (0.1% to 1%): Fungal infectionsFrequency not reported: Fever, asthenia, tiredness, chest pain, menstrual disorder[Ref]
-Common (1% to 10%): Confusion, hallucination, anxiety, depression, aggression, agitation, insomnia, delusion, sleep disorder, abnormal cryingFrequency not reported: Increased libido, mental status changes, nervousness, excitation/mania, suicide attempt, psychotic reactionsPostmarketing reports: Suicidal ideation, suicide, psychotic reactions[Ref]
-Common (1% to 10%): Coughing, dyspnea, bronchitis, pneumonia, upper respiratory tract infection, apnea, rhinitisFrequency not reported: Atelectasis[Ref]
-Frequency not reported: AnemiaPostmarketing reports: Agranulocytosis, leukopenia (including neutropenia), pancytopenia, thrombocytopenia, thrombotic thrombocytopenic purpura, increased erythrocyte sedimentation rate (ESR), leucocytosis[Ref]
-Frequency not reported: Abnormal renal function, renal calculusPostmarketing reports: Acute renal failure (including increased creatinine, renal insufficiency)[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Namenda XR (memantine)." Forest Pharmaceuticals, St. Louis, MO. 
-3. "Product Information. Namenda (memantine)." Forest Pharmaceuticals, St. Louis, MO. 
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for memantine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions (frequency of at least 5% and higher than placebo) were dizziness, headache, confusion, constipation, and diarrhea.
+Common (1% to 10%): Hypertension, hypotension, bradycardia, angina pectoris, phlebitis, deep thrombophlebitis, cardiac arrestUncommon (0.1% to 1%): Cardiac failure, venous thrombosis/thromboembolismFrequency not reported: Postural hypotension, rhythm and rate disturbance (e.g., atrial fibrillation), QTc prolongation, ischemic event and sudden death (e.g., myocardial infarction), embolism, venous thrombosis/thromboembolism
+Common (1% to 10%): Purpura, rash, basal cell carcinomaFrequency not reported: Dermatitis, skin disorder, skin ulceration, bullous eruption, pruritus, increased sweatingPostmarketing reports: Stevens Johnson syndrome
+Common (1% to 10%): Hyperglycemia, diabetes mellitusFrequency not reported: Aggravated diabetes mellitus
+Common (1% to 10%): Constipation, diarrhea, abdominal pain, vomiting, nausea, gastroenteritisFrequency not reported: Diverticulitis, dyspepsia, hemorrhoids, gastric ulcer, ileusPostmarketing reports: Pancreatitis
+Common (1% to 10%): Urinary incontinence, fecal incontinence, urinary tract infection, hyperuricemia, micturition frequencyFrequency not reported: Cystitis, pyuria, hematuria
+Common (1% to 10%): Increased ALT, increased AST, increased gamma-glutamyl transferase (GGT), increased phosphatase alkaline, elevated liver function testPostmarketing reports: Hepatitis, bilirubinemia
+Common (1% to 10%): Drug hypersensitivity
+Common (1% to 10%): Increased weight, decreased weight, anorexia, dehydration, hypokalemiaFrequency not reported: Increased appetite, hypernatremia, hyponatremia
+Common (1% to 10%): Back pain, arthralgia, leg pain, hypertonia, arthrosis, muscle weakness, myalgia, skeletal pain
+Common (1% to 10%): Dizziness, headache, somnolence, balance disorders, abnormal gait, syncope, comaUncommon (0.1% to 1%): SeizuresFrequency not reported: Aphasia, speech disorder, hyperkinesia, dyskinesia, dementia, partial epileptic seizure, convulsions, tremor, extrapyramidal disorder, transient ischemic attack, vertigo, numbness, paresthesia, stupor, cerebrovascular disorder, intracranial hemorrhage
+Common (1% to 10%): Cataract, conjunctivitis
+Common (1% to 10%): Fatigue, peripheral edema, pain, influenza, inflicted injury, fall, dependent edema, tooth ache, tooth caries, edema, abrasionUncommon (0.1% to 1%): Fungal infectionsFrequency not reported: Fever, asthenia, tiredness, chest pain, menstrual disorder
+Common (1% to 10%): Confusion, hallucination, anxiety, depression, aggression, agitation, insomnia, delusion, sleep disorder, abnormal cryingFrequency not reported: Increased libido, mental status changes, nervousness, excitation/mania, suicide attempt, psychotic reactionsPostmarketing reports: Suicidal ideation, suicide, psychotic reactions
+Common (1% to 10%): Coughing, dyspnea, bronchitis, pneumonia, upper respiratory tract infection, apnea, rhinitisFrequency not reported: Atelectasis
+Frequency not reported: AnemiaPostmarketing reports: Agranulocytosis, leukopenia (including neutropenia), pancytopenia, thrombocytopenia, thrombotic thrombocytopenic purpura, increased erythrocyte sedimentation rate (ESR), leucocytosis
+Frequency not reported: Abnormal renal function, renal calculusPostmarketing reports: Acute renal failure (including increased creatinine, renal insufficiency)
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 blurred vision
 dizziness
@@ -39,8 +26,6 @@ rapid weight gain
 slow or fast heartbeat
 tingling of the hands or feet
 unusual weight gain or loss
-
-
 Abdominal or stomach pain
 agitation
 black, tarry stools
@@ -103,11 +88,7 @@ unusual bleeding or bruising
 unusually pale skin
 vomiting
 yellow eyes and skin
-
-
 Confusion
-
-
 Anxiety
 back pain
 bladder pain
@@ -153,8 +134,6 @@ trouble with sleeping
 unusual tiredness or weakness
 vomiting
 wheezing
-
-
 Burning feeling in the chest or stomach
 burning, numbness, pain, or tingling in all fingers except smallest finger
 cold sweats
@@ -174,4 +153,3 @@ stomach cramps
 stomach upset
 tenderness in the stomach area
 watery or bloody diarrhea
-

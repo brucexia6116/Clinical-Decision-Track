@@ -1,19 +1,6 @@
-Generic Name: lactulose
-Applies to lactulose: oral powder and solution
 Side effects include:
 Gaseous distention,  belching,  flatulence,   borborygmi,  abdominal discomfort (e.g., cramping).   Dehydration and hyponatremia in infants. 
-Applies to lactulose: compounding solution, oral powder for reconstitution, oral syrup, oral and rectal liquid
-Diarrhea is an indication of overdose.  Severe diarrhea may lead to hypovolemia, hypokalemia, and hypernatremia, especially in elderly or acutely ill patients.  If diarrhea develops, the dosage should be reduced.Pneumatosis cystoides intestinalis may occur with lactulose (the active ingredient contained in Generlac) therapy as a result of increased intracolonic pressure caused by ammonia sequestration in the bowel, and particularly when there is a concomitant breach of intestinal mucosal integrity.[Ref]
-Gastrointestinal side effects have included abdominal cramps, gaseous distention, flatulence, belching, bowel distention, cramping, nausea and vomiting, and with excessive doses, diarrhea.  Colonic dilatation has been reported in elderly patients.  Rare cases of pneumatosis cystoides intestinalis have been reported.[Ref]
-Metabolic side effects have included hypernatremia, hypokalemia and hyperchloremic metabolic acidosis.  An isolated case of severe and intractable lactic acidosis has been reported.[Ref]
-Fluid and electrolyte disturbances, including severe hypokalemia, hypernatremia and hyperchloremic metabolic acidosis, typically occur as a result of severe diarrhea and subsequent fluid loss.  A case of fatal lactulose-induced lactic acidosis in the absence of diarrhea has also been reported.  Elderly and/or acutely ill patients may be at increased risk for adverse metabolic effects with lactulose.[Ref]
-1. "Product Information. Cephulac (lactulose)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-2. Avery GS, Davies EF, Brogden RN "Lactulose: a review of its therapeutic and pharmacological properties with particular reference to ammonia metabolism and its mode of action of portal systemic encephalopathy." Drugs 4 (1972): 7-48
-3. Kot TV, Pettit-Young NA "Lactulose in the management of constipation: a current review." Ann Pharmacother 26 (1992): 1277-82
-4. "Product Information. Chronulac (lactulose)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-5. "Product Information. Duphalac (lactulose)." Solvay Pharmaceuticals Inc, Marietta, GA. 
-6. Janssen DA, Kalayoglu M, Sollinger HW "Pneumatosis cystoides intestinalis following lactulose and steroid treatment in a liver transplant patient with an intermittently enlarged scrotum." Transplant Proc 19 (1987): 2949-52
-7. Kaupke C, Sprague T, Gitnick GL "Hypernatremia after the administration of lactulose ." Ann Intern Med 86 (1977): 745-6
-8. Mann NS, Russman HB, Mann SK, Tsai MF "Lactulose and severe lactic acidosis ." Ann Intern Med 103 (1985): 637
-9. Nelson DC, McGrew WR, Jr  Hoyumpa AM, Jr "Hypernatremia and lactulose therapy." JAMA 249 (1983): 1295-8
-Not all side effects for Generlac may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Diarrhea is an indication of overdose.  Severe diarrhea may lead to hypovolemia, hypokalemia, and hypernatremia, especially in elderly or acutely ill patients.  If diarrhea develops, the dosage should be reduced.Pneumatosis cystoides intestinalis may occur with lactulose (the active ingredient contained in Generlac) therapy as a result of increased intracolonic pressure caused by ammonia sequestration in the bowel, and particularly when there is a concomitant breach of intestinal mucosal integrity.
+Gastrointestinal side effects have included abdominal cramps, gaseous distention, flatulence, belching, bowel distention, cramping, nausea and vomiting, and with excessive doses, diarrhea.  Colonic dilatation has been reported in elderly patients.  Rare cases of pneumatosis cystoides intestinalis have been reported.
+Metabolic side effects have included hypernatremia, hypokalemia and hyperchloremic metabolic acidosis.  An isolated case of severe and intractable lactic acidosis has been reported.
+Fluid and electrolyte disturbances, including severe hypokalemia, hypernatremia and hyperchloremic metabolic acidosis, typically occur as a result of severe diarrhea and subsequent fluid loss.  A case of fatal lactulose-induced lactic acidosis in the absence of diarrhea has also been reported.  Elderly and/or acutely ill patients may be at increased risk for adverse metabolic effects with lactulose.

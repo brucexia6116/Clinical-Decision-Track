@@ -1,32 +1,23 @@
-Generic Name: solifenacin
 Common side effects of VESIcare include: constipation and xerostomia. Other side effects include: urinary tract infection and blurred vision.  See below for a comprehensive list of adverse effects.
-Applies to solifenacin: oral tablet
 As well as its needed effects, solifenacin (the active ingredient contained in VESIcare) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking solifenacin, check with your doctor immediately:
 Some solifenacin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to solifenacin: oral tablet
-Very common (10% or more): Dry mouth (up to 28%), constipation (up to 13%)Common (1% to 10%): Nausea, dyspepsia, upper abdominal pain, vomitingUncommon (0.1% to 1%): Gastroesophageal reflux disease, dry throat, flatulence, throat irritation, eructation, thirstRare (less than 0.1%): Colonic obstruction, fecal impaction Postmarketing reports: Ileus[Ref]
-Common (1% to 10%): Pharyngitis, cough, sinusitis, bronchitisUncommon (0.1% to 1%): Nasal dryness Postmarketing reports: Dysphonia[Ref]
-Common (1% to 10%): DepressionPostmarketing reports: Confusion, hallucinations, delirium, somnolence[Ref]
-Common (1% to 10%): Blurred vision, dry eyesVery rare (less than 0.01%): Glaucoma[Ref]
-Common (1% to 10%): Urinary tract infection, urinary retentionUncommon (0.1% to 1%): Cystitis, suprapubic pain, bladder pain, micturition urgency[Ref]
-Common (1% to 10%): Lower limb edema, hypertensionUncommon (0.1% to 1%): Syncope, chest tightness, hot flushesPostmarketing reports: Peripheral edema, QT prolongation, Torsade de Pointes, atrial fibrillation, tachycardia, palpitations, atrial fibrillation[Ref]
-Uncommon (0.1% to 1%): Dry skinRare (0.01% to 0.1%): Pruritus, rash Very rare (less than 0.01%): Erythema multiforme, urticaria, angioedema, exfoliative dermatitis[Ref]
-Common (1% to 10%): Influenza[Ref]
-Very rare (less than 0.01%): Decreased appetite, hyperkalemia[Ref]
-Very rare (less than 0.01%): Hypersensitivity reactions (including angioedema with airway obstruction, rash, pruritus, urticaria, and anaphylactic reaction)[Ref]
-Common (1% to 10%): Fatigue[Ref]
-Very rare (less than 0.01%): Renal impairment[Ref]
-Postmarketing reports: Abnormal liver function tests, AST (aspartate aminotransferase), ALT (alanine aminotransferase), GGT (gamma-glutamyl transferase)[Ref]
-Common (1% to 10%): Arthralgia, back painUncommon (0.1% to 1%): Neck painPostmarketing reports: Muscular weakness[Ref]
-Common (1% to 10%): Dizziness, insomniaUncommon (0.1% to 1%): DysgeusiaRare (0.01% to 0.1%): Headache Postmarketing reports: Headache, tremors[Ref]
-1. "Product Information. VESIcare (solifenacin)." GlaxoSmithKline, Research Triangle Park, NC. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
+Very common (10% or more): Dry mouth (up to 28%), constipation (up to 13%)Common (1% to 10%): Nausea, dyspepsia, upper abdominal pain, vomitingUncommon (0.1% to 1%): Gastroesophageal reflux disease, dry throat, flatulence, throat irritation, eructation, thirstRare (less than 0.1%): Colonic obstruction, fecal impaction Postmarketing reports: Ileus
+Common (1% to 10%): Pharyngitis, cough, sinusitis, bronchitisUncommon (0.1% to 1%): Nasal dryness Postmarketing reports: Dysphonia
+Common (1% to 10%): DepressionPostmarketing reports: Confusion, hallucinations, delirium, somnolence
+Common (1% to 10%): Blurred vision, dry eyesVery rare (less than 0.01%): Glaucoma
+Common (1% to 10%): Urinary tract infection, urinary retentionUncommon (0.1% to 1%): Cystitis, suprapubic pain, bladder pain, micturition urgency
+Common (1% to 10%): Lower limb edema, hypertensionUncommon (0.1% to 1%): Syncope, chest tightness, hot flushesPostmarketing reports: Peripheral edema, QT prolongation, Torsade de Pointes, atrial fibrillation, tachycardia, palpitations, atrial fibrillation
+Uncommon (0.1% to 1%): Dry skinRare (0.01% to 0.1%): Pruritus, rash Very rare (less than 0.01%): Erythema multiforme, urticaria, angioedema, exfoliative dermatitis
+Common (1% to 10%): Influenza
+Very rare (less than 0.01%): Decreased appetite, hyperkalemia
+Very rare (less than 0.01%): Hypersensitivity reactions (including angioedema with airway obstruction, rash, pruritus, urticaria, and anaphylactic reaction)
+Common (1% to 10%): Fatigue
+Very rare (less than 0.01%): Renal impairment
+Postmarketing reports: Abnormal liver function tests, AST (aspartate aminotransferase), ALT (alanine aminotransferase), GGT (gamma-glutamyl transferase)
+Common (1% to 10%): Arthralgia, back painUncommon (0.1% to 1%): Neck painPostmarketing reports: Muscular weakness
+Common (1% to 10%): Dizziness, insomniaUncommon (0.1% to 1%): DysgeusiaRare (0.01% to 0.1%): Headache Postmarketing reports: Headache, tremors
 It is possible that some side effects of VESIcare may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bladder pain
 bloody or cloudy urine
 chills
@@ -39,8 +30,6 @@ frequent urge to urinate
 painful urination
 swelling of the lower legs
 unusual tiredness or weakness
-
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 chest pain or discomfort
 fainting
@@ -51,8 +40,6 @@ rapid weight gain
 shortness of breath
 tingling of the hands or feet
 unusual weight gain or loss
-
-
 Acid or sour stomach
 belching
 body aches or pain
@@ -87,10 +74,7 @@ trouble with sleeping
 trouble with swallowing
 upper abdominal or stomach pain
 voice changes
-
-
 Hives or welts
 itching
 redness of the skin
 skin rash
-

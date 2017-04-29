@@ -1,35 +1,21 @@
-Generic Name: mequinol / tretinoin topical
-Applies to mequinol / tretinoin topical: topical solution
 In some animal studies, mequinol and tretinoin has been shown to cause skin tumors to develop faster when the treated area is exposed to ultraviolet light (sunlight or artificial sunlight from a sunlamp). Other studies have not shown the same result and more studies need to be done. It is not known if mequinol and tretinoin topical solution causes skin tumors to develop faster in humans.
 As well as its needed effects, mequinol / tretinoin topical may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking mequinol / tretinoin topical, check with your doctor or nurse as soon as possible:
 Some mequinol / tretinoin topical side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to mequinol / tretinoin topical: topical solution
-In general, topical adverse reactions have been primarily mild to moderate in intensity, and occurred in 66% and 30% of patients, respectively.  The majority of these reactions were limited to the skin.  Approximately 6% of patients discontinued study participation due to adverse reactions.[Ref]
-Dermatological side effects have included skin reactions in 64% of patients within 8 weeks of therapy.  The most frequently reported side effects have included erythema (49%), burning, stinging, or tingling (26%), desquamation (14%), pruritus (12%), and skin irritation (5%).  Temporary hypopigmentation of treated lesions or of the skin surrounding treated lesions in 5% and 7% of patients, respectively have been reported.  Halo hypopigmentation, dry skin, rash, crusting, vesicular bullae rash, dermatitis, skin discomfort, and irritant dermatitis have been reported in greater than 1% of patients.  Rare cases of depigmentation have also been reported in postmarketing experience.  Mequinol-tretinoin topical may induce photosensitivity in some individuals, as well as an increased susceptibility to irritation from wind, cold, and dryness.[Ref]
-Resolution of hypopigmentation occurred in 89% of patients following discontinuation of treatment to the lesion.  Another 8% of patients with hypopigmentation had resolution of symptoms in within 120 days after the end of treatment.  Persistence of hypopigmentation occurred in 2.8% of patients beyond 120 days.[Ref]
-Hepatic side effects to mequinol-tretinoin topical have not been reported.  However, reversible, clinically insignificant changes in liver function tests have been reported following both oral and topical administration of tretinoin.  These abnormalities have included elevations in serum bilirubin, alkaline phosphatase, glutamic-oxaloacetic transaminase, and glutamic-pyruvic transaminase.[Ref]
-Nervous system side effects have included at least one case of neurotoxicity in a patient who received tretinoin topical therapy.[Ref]
-A patient with liver disease developed neurological side effects following 4 weeks of tretinoin therapy.  Symptoms included headache, memory loss, truncal ataxia, and dysarthria, all of which improved upon temporary discontinuation of medication and recurred when the patient resumed usage.  Upon withdrawal of medication a second time, the symptoms resolved within 4 weeks.[Ref]
-Ocular side effects to topical tretinoin have included ectropions which have developed infrequently and were reversible.  In addition, a transient and harmless stinging of the eye has occurred when tretinoin was applied onto the surrounding skin, and has generally lasted about 30 to 60 seconds.[Ref]
-1. "Product Information. Solag (mequinol-tretinoin topical)" Westwood Squibb Pharmaceutical Corp, Buffalo, NY. 
-2. Heel RC, Brogden RN, Speight TM, Avery GS "Vitamin A acid: a review of its pharmacological properties and therapeutic use in the topical treatment of acne vulgaris." Drugs 14 (1977): 401-19
-3. Bernstein AL, Leventhal-Rochon JL "Neurotoxicity related to the use of topical tretinoin (Retin-A)." Ann Intern Med 124 (1996): 227-8
-4. Brodell LP, Asselin D, Brodell RT "Reversible ectropion after long-term use of topical tretinoin on photodamaged skin." J Am Acad Dermatol 27 (1992): 621-2
+In general, topical adverse reactions have been primarily mild to moderate in intensity, and occurred in 66% and 30% of patients, respectively.  The majority of these reactions were limited to the skin.  Approximately 6% of patients discontinued study participation due to adverse reactions.
+Dermatological side effects have included skin reactions in 64% of patients within 8 weeks of therapy.  The most frequently reported side effects have included erythema (49%), burning, stinging, or tingling (26%), desquamation (14%), pruritus (12%), and skin irritation (5%).  Temporary hypopigmentation of treated lesions or of the skin surrounding treated lesions in 5% and 7% of patients, respectively have been reported.  Halo hypopigmentation, dry skin, rash, crusting, vesicular bullae rash, dermatitis, skin discomfort, and irritant dermatitis have been reported in greater than 1% of patients.  Rare cases of depigmentation have also been reported in postmarketing experience.  Mequinol-tretinoin topical may induce photosensitivity in some individuals, as well as an increased susceptibility to irritation from wind, cold, and dryness.
+Resolution of hypopigmentation occurred in 89% of patients following discontinuation of treatment to the lesion.  Another 8% of patients with hypopigmentation had resolution of symptoms in within 120 days after the end of treatment.  Persistence of hypopigmentation occurred in 2.8% of patients beyond 120 days.
+Hepatic side effects to mequinol-tretinoin topical have not been reported.  However, reversible, clinically insignificant changes in liver function tests have been reported following both oral and topical administration of tretinoin.  These abnormalities have included elevations in serum bilirubin, alkaline phosphatase, glutamic-oxaloacetic transaminase, and glutamic-pyruvic transaminase.
+Nervous system side effects have included at least one case of neurotoxicity in a patient who received tretinoin topical therapy.
+A patient with liver disease developed neurological side effects following 4 weeks of tretinoin therapy.  Symptoms included headache, memory loss, truncal ataxia, and dysarthria, all of which improved upon temporary discontinuation of medication and recurred when the patient resumed usage.  Upon withdrawal of medication a second time, the symptoms resolved within 4 weeks.
+Ocular side effects to topical tretinoin have included ectropions which have developed infrequently and were reversible.  In addition, a transient and harmless stinging of the eye has occurred when tretinoin was applied onto the surrounding skin, and has generally lasted about 30 to 60 seconds.
 It is possible that some side effects of Solage may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Burning feeling or stinging skin (severe)
  itching (severe)
 peeling of skin (severe)
 redness of skin (severe)
-
-
 Allergic reaction
 large blisters on the skin
-
-
 Burning feeling, stinging, or tingling of skin (mild)—lasting for a short time after first applying the medicine
  itching (mild)
 chapping or slight peeling of skin (mild)
@@ -38,9 +24,6 @@ lightening of skin on treated area
  redness of skin (mild)
 skin irritation
 unusually warm skin (mild)
-
-
 Crusting of skin
 dry skin
 skin rash
-

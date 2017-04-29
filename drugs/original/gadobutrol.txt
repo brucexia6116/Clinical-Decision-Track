@@ -1,26 +1,14 @@
-Applies to gadobutrol: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by gadobutrol. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking gadobutrol, check with your doctor or nurse immediately:
-Some of the side effects that can occur with gadobutrol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to gadobutrol: intravenous solution
-Uncommon (0.1% to 1%): Hypersensitivity/anaphylactoid reaction[Ref]
-Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Dizziness, paresthesia, dysgeusia Rare (less than 0.1%): Loss of consciousness, convulsion, parosmia[Ref]
-Common (1% to 10%): NauseaUncommon (0.1% to 1%): VomitingRare (less than 0.1%): Dry mouth[Ref]
-Common (1% to 10%): NauseaUncommon (0.1% to 1%): VomitingRare (less than 0.1%): Dry mouth[Ref]
-Rare (less than 0.1%): Tachycardia, palpitation, pallor Postmarketing reports: Cardiac arrest[Ref]
-Respiratory side effects have included dyspnea.[Ref]
-Uncommon (0.1% to 1%): Injection site reactions[Ref]
-Very rare (less than 0.01%): Eyelid edema[Ref]
-Uncommon (0.1% to 1%): Feeling hotRare (less than 0.1%): Malaise, feeling cold[Ref]
-The most common adverse reactions were headache, nausea, and dizziness.[Ref]
-1. "Product Information. Gadavist (gadobutrol)." Bayer Pharmaceutical Inc, West Haven, CT. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for gadobutrol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Uncommon (0.1% to 1%): Hypersensitivity/anaphylactoid reaction
+Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Dizziness, paresthesia, dysgeusia Rare (less than 0.1%): Loss of consciousness, convulsion, parosmia
+Common (1% to 10%): NauseaUncommon (0.1% to 1%): VomitingRare (less than 0.1%): Dry mouth
+Common (1% to 10%): NauseaUncommon (0.1% to 1%): VomitingRare (less than 0.1%): Dry mouth
+Rare (less than 0.1%): Tachycardia, palpitation, pallor Postmarketing reports: Cardiac arrest
+Respiratory side effects have included dyspnea.
+Uncommon (0.1% to 1%): Injection site reactions
+Very rare (less than 0.01%): Eyelid edema
+Uncommon (0.1% to 1%): Feeling hotRare (less than 0.1%): Malaise, feeling cold
+The most common adverse reactions were headache, nausea, and dizziness.
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -39,8 +27,6 @@ redness of the skin
 sweating
 tightness in the chest
 unusual tiredness or weakness
-
-
 Bluish color of the fingernails, lips, skin, palms, or nail beds
 burning sensation
 burning, dry, or itching eyes
@@ -64,12 +50,8 @@ stiff joints or trouble moving
 stopping of the heart
 swelling of the mouth or throat
 unconsciousness
-
-
 Headache
 nausea
-
-
 Change in sense of smell
 change in taste
 dizziness
@@ -78,4 +60,3 @@ feeling hot or cold
 loss of taste
 unusually warm skin
 vomiting
-

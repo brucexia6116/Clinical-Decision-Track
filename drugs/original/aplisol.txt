@@ -1,13 +1,4 @@
-Generic Name: tuberculin purified protein derivative
-Applies to tuberculin purified protein derivative: intradermal solution
-In addition to its needed effects, some unwanted effects may be caused by tuberculin purified protein derivative (the active ingredient contained in Aplisol). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking tuberculin purified protein derivative, check with your doctor or nurse immediately:
-Some of the side effects that can occur with tuberculin purified protein derivative may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Not all side effects for Aplisol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Bleeding at the injection site (occurring up to 3 days after the skin test)
 blistering, crusting, or scabbing at the injection site
 cough
@@ -25,8 +16,5 @@ noisy breathing
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 scar at the injection site
 unusual tiredness or weakness
-
-
 Pain, discomfort, or itching at the injection site
 redness or rash at the injection site (occurring within 12 hours after skin test)
-

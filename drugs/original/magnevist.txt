@@ -1,26 +1,13 @@
-Generic Name: gadopentetate dimeglumine
-Applies to gadopentetate dimeglumine: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by gadopentetate dimeglumine (the active ingredient contained in Magnevist). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking gadopentetate dimeglumine, check with your doctor or nurse immediately:
-Some of the side effects that can occur with gadopentetate dimeglumine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to gadopentetate dimeglumine: injectable solution
-Cardiovascular side effects have included hypotension, hypertension, arrhythmia, tachycardia, syncope, vasodilation, pallor, nonspecific ECG changes, angina pectoris, death related to myocardial infarction, phlebitis, thrombophlebitis, deep venous thrombophlebitis, and compartment syndrome requiring surgery.[Ref]
-Gastrointestinal side effects have included gastrointestinal distress, stomach pain, increased salivation, abdominal pain, vomiting, constipation, thirst, anorexia, dry mouth, and diarrhea.[Ref]
-Nervous system side effects have included agitation, anxiety, migraine, nystagmus, drowsiness, stupor, paresthesia, and convulsions.[Ref]
-Ocular side effects have included diplopia, conjunctivitis, visual field defect, lacrimation disorder, eye irritation, and eye pain.[Ref]
-Respiratory side effects have included throat irritation, rhinorrhea, sneezing, dyspnea, wheezing, laryngismus, cough, and respiratory complaints.[Ref]
-Dermatologic side effects have included rash, sweating, pruritus, urticaria, facial edema, erythema multiforme, epidural necrolysis, and pustules.[Ref]
-Local side effects have included pain, localized warmth, and burning sensation at the injection site.[Ref]
-Hypersensitivity side effects have included substernal chest pain, back pain, fever, weakness, generalized coldness, generalized warmth, localized edema, tiredness, chest tightness, trembling, shivering, tension in the extremities, regional lymphangitis, pelvis pain, and anaphylactoid reactions.[Ref]
-Other side effects have included tinnitus and taste abnormalities.[Ref]
-1. "Product Information. Magnevist (gadopentetate dimeglumine)." Berlex Laboratories, Wayne, NJ. 
-2. Garcia N,  Ramon E,  Gonzalez del Valle L,  Ruano M,  Jimenez E "Importance of a previous allergy to an iodinated contrast agent in the administration of gadopentetate dimeglumine." Ann Pharmacother 31 (1997): 374
-3. Tardy B,  Guy C,  Barral G,  Page Y,  Ollagnier M,  Bertrand JC "Anaphylactic shock induced by intravenous gadopentetate dimeglumine." Lancet 339 (1992): 494
-Not all side effects for Magnevist may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects have included hypotension, hypertension, arrhythmia, tachycardia, syncope, vasodilation, pallor, nonspecific ECG changes, angina pectoris, death related to myocardial infarction, phlebitis, thrombophlebitis, deep venous thrombophlebitis, and compartment syndrome requiring surgery.
+Gastrointestinal side effects have included gastrointestinal distress, stomach pain, increased salivation, abdominal pain, vomiting, constipation, thirst, anorexia, dry mouth, and diarrhea.
+Nervous system side effects have included agitation, anxiety, migraine, nystagmus, drowsiness, stupor, paresthesia, and convulsions.
+Ocular side effects have included diplopia, conjunctivitis, visual field defect, lacrimation disorder, eye irritation, and eye pain.
+Respiratory side effects have included throat irritation, rhinorrhea, sneezing, dyspnea, wheezing, laryngismus, cough, and respiratory complaints.
+Dermatologic side effects have included rash, sweating, pruritus, urticaria, facial edema, erythema multiforme, epidural necrolysis, and pustules.
+Local side effects have included pain, localized warmth, and burning sensation at the injection site.
+Hypersensitivity side effects have included substernal chest pain, back pain, fever, weakness, generalized coldness, generalized warmth, localized edema, tiredness, chest tightness, trembling, shivering, tension in the extremities, regional lymphangitis, pelvis pain, and anaphylactoid reactions.
+Other side effects have included tinnitus and taste abnormalities.
 Arm, back, or jaw pain
 bluish color
 blurred vision
@@ -69,8 +56,6 @@ tenderness
 total body jerking
 unusual tiredness or weakness
 wheezing
-
-
 Agitation
 blistering, peeling, or loosening of the skin
 bluish color of the fingernails, lips, skin, palms, or nail beds
@@ -113,11 +98,7 @@ tightness in the chest
 trembling or shaking of the hands or feet
 troubled breathing
 unconsciousness
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
-
-
 Abdominal or stomach discomfort or pain
 bad, unusual, or unpleasant (after) taste
 burning, dry, or itching eyes
@@ -150,8 +131,6 @@ trouble sleeping
 uncontrolled eye movements
 vomiting
 weight loss
-
-
 Blurred or loss of vision
 change in sense of smell
 difficulty with moving
@@ -163,4 +142,3 @@ night blindness
 overbright appearance of lights
 poor hearing
 tunnel vision
-

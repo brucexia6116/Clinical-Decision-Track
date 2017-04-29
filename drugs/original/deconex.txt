@@ -1,19 +1,11 @@
-Generic Name: guaifenesin / phenylephrine
-Applies to guaifenesin / phenylephrine: controlled-release tablets, liquid, solution, suspension, sustained-release capsules, sustained-release tablets (12 hour), syrup, tablets
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Dizziness; excitability; headache; nausea; nervousness or anxiety; trouble sleeping; weakness.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); difficulty urinating; fast or irregular heartbeat; hallucinations; seizures; severe dizziness, lightheadedness, or headache; tremor.
-
-
-Applies to guaifenesin / phenylephrine: oral capsule, oral capsule extended release, oral drops, oral liquid, oral suspension, oral syrup, oral tablet, oral tablet extended release
-Cardiovascular side effects have included tachycardia, palpitations, arrhythmias, and cardiovascular collapse with hypotension.[Ref]
-Nervous system side effects have included central nervous system depression, tremor, headache, dizziness, restlessness, insomnia, and convulsions.[Ref]
-Psychiatric side effects have included fear, nervousness, anxiety, and hallucinations.[Ref]
-Gastrointestinal side effects have included nausea and vomiting.[Ref]
-Respiratory side effects have included breathing difficulty.[Ref]
-Genitourinary side effects have included dysuria.[Ref]
-Dermatologic side effects have included pallor.[Ref]
-General side effects have included weakness.[Ref]
-1. "Product Information. Duratuss GP (guaifenesin-phenylephrine)." Victory Pharma, San Diego, CA. 
-2. "Product Information. Duratuss (guaifenesin-phenylephrine)." Victory Pharma, San Diego, CA. 
-Not all side effects for Deconex may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Cardiovascular side effects have included tachycardia, palpitations, arrhythmias, and cardiovascular collapse with hypotension.
+Nervous system side effects have included central nervous system depression, tremor, headache, dizziness, restlessness, insomnia, and convulsions.
+Psychiatric side effects have included fear, nervousness, anxiety, and hallucinations.
+Gastrointestinal side effects have included nausea and vomiting.
+Respiratory side effects have included breathing difficulty.
+Genitourinary side effects have included dysuria.
+Dermatologic side effects have included pallor.
+General side effects have included weakness.

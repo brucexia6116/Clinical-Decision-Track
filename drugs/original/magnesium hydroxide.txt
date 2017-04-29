@@ -1,17 +1,7 @@
-Applies to magnesium hydroxide: chewable tablets, suspension, tablets
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Diarrhea.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); loss of appetite; muscle weakness; nausea; slow reflexes; vomiting.
-
-
-Applies to magnesium hydroxide: compounding powder, oral concentrate, oral suspension, oral tablet chewable
-Diarrhea may occur and is occasionally severe enough to cause dehydration and electrolyte abnormalities.[Ref]
-Gastrointestinal side effects have included diarrhea and minor gastrointestinal discomfort.[Ref]
-General side effects have included signs and symptoms of hypermagnesemia.  These have included hypotension, nausea, vomiting, EKG changes, respiratory depression, mental depression and coma.[Ref]
-Magnesium may be systemically absorbed following administration of magnesium hydroxide.  In patients with normal renal function, increased magnesium elimination in the urine occurs and no significant changes in serum magnesium levels would be expected.  However, magnesium may accumulate in patients with renal insufficiency.[Ref]
-1. Emmett M "A comparison of clinically useful phosphorus binders for patients with chronic kidney failure." Kidney Int 66 Suppl 90 (2004): S25-32
-2. Johansson G, Backman U, Danielson BG, Fellstrom B, Ljunghall S, Wikstrom B "Biochemical and clinical effects of the prophylactic treatment of renal calcium stones with magnesium hydroxide." J Urol 124 (1980): 770-4
-3. Bardhan KD, Hunter JO, Miller JP, Thomson AB, Graham DY, Russell RI, Sontag S, Hines C, Martin T, Gaussen L, et al "Antacid maintenance therapy in the prevention of duodenal ulcer relapse." Gut 29 (1988): 1748-54
-4. Johansson G, Backman U, Danielson BG, Fellstrom B, Ljunghall S, Wikstrom B "Magnesium metabolism in renal stone formers. Effects of therapy with magnesium hydroxide." Scand J Urol Nephrol Suppl 53 (1980): 125-34
-5. Fung MC, Weintraub M, Bowen DL "Hypermagnesemia: elderly over-the-counter drug users at risk." Arch Fam Med 4 (1995): 718-23
-Not all side effects for magnesium hydroxide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Diarrhea may occur and is occasionally severe enough to cause dehydration and electrolyte abnormalities.
+Gastrointestinal side effects have included diarrhea and minor gastrointestinal discomfort.
+General side effects have included signs and symptoms of hypermagnesemia.  These have included hypotension, nausea, vomiting, EKG changes, respiratory depression, mental depression and coma.
+Magnesium may be systemically absorbed following administration of magnesium hydroxide.  In patients with normal renal function, increased magnesium elimination in the urine occurs and no significant changes in serum magnesium levels would be expected.  However, magnesium may accumulate in patients with renal insufficiency.

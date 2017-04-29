@@ -1,21 +1,7 @@
-Applies to sorbitol: solution
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Anal irritation; diarrhea; gas; nausea; stomach cramps.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); continuing constipation; dizziness; rectal bleeding; sudden weight gain; unusual swelling; vomiting; weakness.
-
-
-Applies to sorbitol: compounding powder, irrigation solution, oral liquid
-Gastrointestinal side effects have included sudden severe abdominal bloating, abdominal cramping, vomiting, and osmotic diarrhea.[Ref]
-Metabolic side effects have included reports of hypernatremia.  These reports have primarily been associated with multiple administrations of activated charcoal sorbitol preparations.[Ref]
-One case study describes a 37-year-old patient who presented with phencyclidine intoxication.  The patient was given four doses of activated charcoal in sorbitol and 1 dose of magnesium citrate over a 12-hour period of time.  Lab results showed an increase in the serum sodium from 138 mmol/L to 165 mmol/L.  The hypernatremia continued to worsen after the magnesium citrate was discontinued.  It was felt that the increase was due to the repeated sorbitol administration.  Other adult cases of hypernatremia secondary to activated charcoal-sorbitol regimens have been reported in the literature.[Ref]
-1. Henley E "Sorbitol-based elixirs, diarrhea and enteral tube feeding [letter]." Am Fam Physician 55 (1997): 2084,2086
-2. Breitenbach RA "'Halloween diarrhea'. An unexpected trick of sorbitol-containing candy." Postgrad Med 92 (1992): 63-6
-3. Payne ML, Craig WJ, Williams AC "Sorbitol is a possible risk factor for diarrhea in young children [published erratum appears in J Am Diet Assoc 1997 Oct;97(10):1090." J Am Diet Assoc 97 (1997): 532-4
-4. Kneepkens CM, Hoekstra JH "Fruit juice and chronic nonspecific diarrhea [letter; comment]." J Pediatr 122 (1993): 499
-5. Krenzelok E "Sorbitol--a safe and effective cathartic [letter]." Ann Emerg Med 16 (1987): 729-30
-6. James LP, Nichols MH, King WD "A comparison of cathartics in pediatric ingestions." Pediatrics 96 (1995): 235-8
-7. Johnston KR, Govel LA, Andritz MH "Gastrointestinal effects of sorbitol as an additive in liquid medications." Am J Med 97 (1994): 185-91
-8. McNamara RM, Aaron CK, Gemborys M, Davidheiser S "Sorbitol catharsis does not enhance efficacy of charcoal in a simulated acetaminophen overdose." Ann Emerg Med 17 (1988): 243-6
-9. Wax PM, Wang RY, Hoffman RS, Mercurio M, Howland MA, Goldfrank LR "Prevalence of sorbitol in multiple-dose activated charcoal regimens in emergency departments." Ann Emerg Med 22 (1993): 1807-12
-10. Jessen LM, Barone JA "Ready-mix charcoal/sorbitol [letter; comment]." Ann Emerg Med 21 (1992): 110-1
+Gastrointestinal side effects have included sudden severe abdominal bloating, abdominal cramping, vomiting, and osmotic diarrhea.
+Metabolic side effects have included reports of hypernatremia.  These reports have primarily been associated with multiple administrations of activated charcoal sorbitol preparations.
+One case study describes a 37-year-old patient who presented with phencyclidine intoxication.  The patient was given four doses of activated charcoal in sorbitol and 1 dose of magnesium citrate over a 12-hour period of time.  Lab results showed an increase in the serum sodium from 138 mmol/L to 165 mmol/L.  The hypernatremia continued to worsen after the magnesium citrate was discontinued.  It was felt that the increase was due to the repeated sorbitol administration.  Other adult cases of hypernatremia secondary to activated charcoal-sorbitol regimens have been reported in the literature.
 It is possible that some side effects of sorbitol may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

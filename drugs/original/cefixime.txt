@@ -1,40 +1,18 @@
-Applies to cefixime: oral capsule, oral powder for suspension, oral tablet, oral tablet chewable
-In addition to its needed effects, some unwanted effects may be caused by cefixime. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking cefixime:
-Some of the side effects that can occur with cefixime may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cefixime: oral capsule, oral powder for reconstitution, oral tablet, oral tablet chewable
-Cefixime is generally well-tolerated.[Ref]
-Pseudomembranous colitis may occur during or after treatment with cefixime.[Ref]
-Gastrointestinal side effects have included diarrhea (16%), nausea (7%), loose or frequent stools (6%), flatulence (4%), abdominal pain (3%), dyspepsia (3%), vomiting, and pseudomembranous colitis.[Ref]
-Hypersensitivity reactions have included urticaria, rash, pruritus, drug fever, angioedema, facial edema, erythema multiforme, Stevens-Johnson syndrome, serum sickness-like reactions, and toxic epidermal necrolysis.  Anaphylactic and anaphylactoid reactions, including shock and fatalities, have also been reported.[Ref]
-A case of occupational contact dermatitis due to cephalosporin allergy has been reported in a nurse who prepared cephalosporin solutions for administration to patients.  The dermatitis resolved after the nurse stopped preparing the solutions.[Ref]
-Nervous system side effects have included headache, dizziness, somnolence, and seizures.  At least one case of encephalopathy has been reported.[Ref]
-Renal side effects have included transient rises in serum BUN and creatinine, and acute renal failure.  Cephalosporin class antibiotics have been associated with renal dysfunction and toxic nephropathy.[Ref]
-Interstitial nephritis has been reported rarely in association with other cephalosporins.  Fever, azotemia, pyuria, and eosinophiluria are the hallmarks of this disorder.[Ref]
-Hematologic side effects have included transient thrombocytopenia, eosinophilia, leukopenia, neutropenia, and prothrombin time prolongation.  Cephalosporin class antibiotics have been associated with aplastic anemia, hemolytic anemia, hemorrhage, positive direct Coombs test, pancytopenia, and agranulocytosis.[Ref]
-Hepatic side effects have included hepatitis, jaundice, and transient increases in SGPT, SGOT, and alkaline phosphatase.  Cephalosporin class antibiotics have been associated with hepatic dysfunction including cholestasis.[Ref]
-Metabolic side effects have included hyperbilirubinemia.  Cephalosporin class antibiotics have been associated with increases in LDH.[Ref]
-Genitourinary side effects have included genital pruritus, vaginitis, and candidiasis.[Ref]
-Cephalosporin class antibiotics have been associated with superinfection.[Ref]
-1. Gooch WM, Philips A, Rhoades R, Rosenberg R, Schaten R, Starobin S "Comparison of the efficacy, safety and acceptability of cefixime and amoxicillin/clavulanate in acute otitis media." Pediatr Infect Dis J 16 Suppl 2 (1997): s21-4
-2. Shah PM, Troster K "Safety profile of cefixime: results of a german postmarketing surveillance study of 6361 patients." Curr Ther Res Clin Exp 55 (1994): 57-62
-3. "Product Information. Suprax (cefixime)." Lupin Pharmaceuticals Inc, Baltimore, MD. 
-4. Iravani A, Richard GA, Johnson D, Bryant A "A double-blind, multicenter, comparative study of the safety and efficacy of cefixime versus amoxicillin in the treatment of acute urinary tract infections in adult." Am J Med 85 (1988): 17-23
-5. Tally FP, Desjardins RE, McCarthy EF, Cartwright K "Safety profile of cefixime." Pediatr Infect Dis J 6 (1987): 976-80
-6. Filipe P, Almeida RSLS, Rodrigo FG "Occupational allergic contact dermatitis from cephalosporins." Contact Dermatitis 34 (1996): 226
-7. Handsfield HH, McCormack WM, Hook EW, et al "A comparison of single-dose cefixime with ceftriaxone as treatment for uncomplicated gonorrhea." N Engl J Med 325 (1991): 1337-41
-8. Romano A, Mayorga C, Torres MJ, Artesani MC, Suau R, Sanchez F, Perez E, Venuti A, Blanca M "Immediate allergic reactions to cephalosporins: Cross-reactivity and selective responses." J Allerg Clin Immunol 106 (2000): 1177-83
-9. Capparelli FJ,  Diaz MF,  Hlavnika A,  Wainsztein NA,  Leiguarda R,  Del Castillo ME "Cefepime- and cefixime-induced encephalopathy in a patient with normal renal function." Neurology 65 (2005): 1840
-10. Toll LL, Lee M, Sharifi R "Cefoxitin-induced interstitial nephritis." South Med J 80 (1987): 274-5
-11. Hausen T, Weidlich G, Schmitt J "Safety and efficacy of cefixime in treatment of respiratory tract infections in germany." Infection 23 Suppl (1995): s65-9
-Not all side effects for cefixime may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cefixime is generally well-tolerated.
+Pseudomembranous colitis may occur during or after treatment with cefixime.
+Gastrointestinal side effects have included diarrhea (16%), nausea (7%), loose or frequent stools (6%), flatulence (4%), abdominal pain (3%), dyspepsia (3%), vomiting, and pseudomembranous colitis.
+Hypersensitivity reactions have included urticaria, rash, pruritus, drug fever, angioedema, facial edema, erythema multiforme, Stevens-Johnson syndrome, serum sickness-like reactions, and toxic epidermal necrolysis.  Anaphylactic and anaphylactoid reactions, including shock and fatalities, have also been reported.
+A case of occupational contact dermatitis due to cephalosporin allergy has been reported in a nurse who prepared cephalosporin solutions for administration to patients.  The dermatitis resolved after the nurse stopped preparing the solutions.
+Nervous system side effects have included headache, dizziness, somnolence, and seizures.  At least one case of encephalopathy has been reported.
+Renal side effects have included transient rises in serum BUN and creatinine, and acute renal failure.  Cephalosporin class antibiotics have been associated with renal dysfunction and toxic nephropathy.
+Interstitial nephritis has been reported rarely in association with other cephalosporins.  Fever, azotemia, pyuria, and eosinophiluria are the hallmarks of this disorder.
+Hematologic side effects have included transient thrombocytopenia, eosinophilia, leukopenia, neutropenia, and prothrombin time prolongation.  Cephalosporin class antibiotics have been associated with aplastic anemia, hemolytic anemia, hemorrhage, positive direct Coombs test, pancytopenia, and agranulocytosis.
+Hepatic side effects have included hepatitis, jaundice, and transient increases in SGPT, SGOT, and alkaline phosphatase.  Cephalosporin class antibiotics have been associated with hepatic dysfunction including cholestasis.
+Metabolic side effects have included hyperbilirubinemia.  Cephalosporin class antibiotics have been associated with increases in LDH.
+Genitourinary side effects have included genital pruritus, vaginitis, and candidiasis.
+Cephalosporin class antibiotics have been associated with superinfection.
 Diarrhea
 loose or frequent stools
-
-
 Abdominal or stomach pain
 agitation
 black, tarry stools
@@ -91,8 +69,6 @@ unusual tiredness or weakness
 upper right abdominal or stomach pain
 vomiting of blood
 yellow eyes or skin
-
-
 Abdominal or stomach cramps or tenderness
 back, leg, or stomach pains
 cough or hoarseness
@@ -109,8 +85,6 @@ red or dark brown urine
 sudden decrease in the amount of urine
 unpleasant breath odor
 unusual weight loss
-
-
 Acid or sour stomach
 belching
 bloated
@@ -127,4 +101,3 @@ stomach discomfort, upset, or pain
 thick, white vaginal discharge with no odor or with a mild odor
 white patches in the mouth or throat or on the tongue
 white patches with diaper rash
-

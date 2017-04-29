@@ -1,35 +1,24 @@
-Generic Name: caffeine
-Applies to caffeine: oral capsule, oral capsule extended release, oral packet, oral powder for suspension, oral solution, oral tablet, oral tablet chewable, oral tablet enteric coated, oral tablet extended release
 Other dosage forms:
 As well as its needed effects, caffeine (the active ingredient contained in Stay Awake) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking caffeine, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking caffeine, get emergency help immediately:
-
 Some caffeine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to caffeine: compounding powder, intravenous solution, oral gum, oral liquid, oral tablet, oral tablet dispersible, oral tablet extended release
-Very common (10% or more): Constipation (up to 17.4%)Common (1% to 10%): Necrotizing enterocolitis, gastritis, GI hemorrhage, gastroesophageal reflux, dilated bowel loopsFrequency not reported: Increased gastric aspirate, GI intolerance, vomiting, regurgitation[Ref]
-Long-term follow-up studies have not shown caffeine (the active ingredient contained in Stay Awake) to adversely affect neurological development or growth parameters.[Ref]
-Common (1% to 10%): Hemorrhage, tachycardiaUncommon (0.1% to 1%): ArrhythmiaFrequency not reported: Increased left ventricular output, increased stroke volume, hypertension[Ref]
-Common (1% to 10%): Rash, dry skin, skin breakdown[Ref]
-Common (1% to 10%): Disseminated intravascular coagulation, anemiaFrequency not reported: Decreased hemoglobin[Ref]
-Common (1% to 10%): Kidney failure[Ref]
-Common (1% to 10%): Acidosis, hyperglycemiaFrequency not reported: Hypoglycemia, temporary reduced weight gain, decreased thyroxine[Ref]
-Common (1% to 10%): Cerebral hemorrhageUncommon (0.1% to 1%): Convulsions/seizuresFrequency not reported: Irritability, restlessness, jitteriness, tremors, brain injury[Ref]
-Common (1% to 10%): Retinopathy of prematurity[Ref]
-Common (1% to 10%): Perinatal disorder (trace aspirates, feeding intolerances), injection site reaction, sepsis, accidental injury, abnormal healing, infusion site phlebitis and inflammationFrequency not reported: Failure to thrive, deafness[Ref]
-Common (1% to 10%): Dyspnea, lung edemaFrequency not reported: Tachypnea[Ref]
-Rare (less than 0.1%): Hypersensitivity reaction[Ref]
-Frequency not reported: Increased urine flow rate, increased creatinine clearance, increased sodium and calcium excretion[Ref]
-1. "Product Information. Cafcit (caffeine)" Roxane Laboratories Inc, Columbus, OH. 
+Very common (10% or more): Constipation (up to 17.4%)Common (1% to 10%): Necrotizing enterocolitis, gastritis, GI hemorrhage, gastroesophageal reflux, dilated bowel loopsFrequency not reported: Increased gastric aspirate, GI intolerance, vomiting, regurgitation
+Long-term follow-up studies have not shown caffeine (the active ingredient contained in Stay Awake) to adversely affect neurological development or growth parameters.
+Common (1% to 10%): Hemorrhage, tachycardiaUncommon (0.1% to 1%): ArrhythmiaFrequency not reported: Increased left ventricular output, increased stroke volume, hypertension
+Common (1% to 10%): Rash, dry skin, skin breakdown
+Common (1% to 10%): Disseminated intravascular coagulation, anemiaFrequency not reported: Decreased hemoglobin
+Common (1% to 10%): Kidney failure
+Common (1% to 10%): Acidosis, hyperglycemiaFrequency not reported: Hypoglycemia, temporary reduced weight gain, decreased thyroxine
+Common (1% to 10%): Cerebral hemorrhageUncommon (0.1% to 1%): Convulsions/seizuresFrequency not reported: Irritability, restlessness, jitteriness, tremors, brain injury
+Common (1% to 10%): Retinopathy of prematurity
+Common (1% to 10%): Perinatal disorder (trace aspirates, feeding intolerances), injection site reaction, sepsis, accidental injury, abnormal healing, infusion site phlebitis and inflammationFrequency not reported: Failure to thrive, deafness
+Common (1% to 10%): Dyspnea, lung edemaFrequency not reported: Tachypnea
+Rare (less than 0.1%): Hypersensitivity reaction
+Frequency not reported: Increased urine flow rate, increased creatinine clearance, increased sodium and calcium excretion
 It is possible that some side effects of Stay Awake may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 intravenous solution
-
 Feeding intolerance
-
-
 Agitation
 black, tarry stools
 blood in the stools or urine
@@ -66,16 +55,9 @@ trouble breathing
 unusual tiredness or weakness
 vomiting
 vomiting of blood or material that looks like coffee grounds
-
-
 Irritability
 nervousness
 rapid heartbeat
 trouble sleeping
-
-
 Rash
-
-
 Dry skin
-

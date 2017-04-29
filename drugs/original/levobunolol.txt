@@ -1,33 +1,20 @@
 Commonly reported side effects of levobunolol ophthalmic include: burning sensation of eyes.  See below for a comprehensive list of adverse effects.
-Applies to levobunolol ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by levobunolol ophthalmic. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking levobunolol ophthalmic:
-Some of the side effects that can occur with levobunolol ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to levobunolol ophthalmic: ophthalmic solution
-The most commonly reported side effects were ocular burning/stinging, blepharoconjunctivitis, eye irritation, and eye pain.[Ref]
-Very common (10% or more): Eye irritation, eye painCommon (1% to 10%): Blepharitis, conjunctivitisRare (less than 0.1%): IridocyclitisFrequency not reported: Conjunctival/ocular hyperemia, allergic conjunctivitis, decreased corneal reflex, keratitis, blurred vision, punctate keratitis, eye/eyelids pruritus, eye/eyelid edema, eye discharge, increased lacrimation, dry eye, choroidal detachment following filtration surgery, corneal erosion, diplopia, ptosis, corneal calcification, decreased corneal sensitivity, blepharoptosis[Ref]
-Frequency not reported: Asthma, dyspnea, throat irritation, nasal discomfort, bronchospasm (predominantly in patients with pre-existing bronchospastic disease), cough, respiratory failure, nasal congestion[Ref]
-Frequency not reported: Raynaud's phenomenon, syncope, bradycardia, atrioventricular block, palpitations, hypotension, arrhythmia, cardiac arrest, cardiac failure, chest pain, congestive heart failure, cold hands and feet[Ref]
-Frequency not reported: Anaphylactic reaction, systemic allergic reactions including angioedema[Ref]
-Rare (less than 0.1%): Transient ataxiaFrequency not reported: Confusion, dizziness, somnolence, lethargy, headache, memory loss, cerebral ischemia, cerebrovascular accident, increases in signs and symptoms of myasthenia gravis, paresthesia, dysgeusia[Ref]
-Frequency not reported: Nausea, abdominal pain, diarrhea, dry mouth, dyspepsia, vomiting[Ref]
-Frequency not reported: Decreased libido, sexual dysfunction, impotence[Ref]
-Frequency not reported: Myalgia[Ref]
-Frequency not reported: Depression, insomnia, nightmares[Ref]
-Frequency not reported: Edema, fatigue, asthenia[Ref]
-Frequency not reported: Stevens-Johnson syndrome, urticaria, contact dermatitis (including allergic contact dermatitis), rash, skin exfoliation, lichenoid keratosis, pruritus, erythema of eyelid, eyelid eczema, alopecia, psoriasiform rash, exacerbation of psoriasis[Ref]
-Frequency not reported: Hypoglycemia, masked symptoms of hypoglycemia in insulin-dependent diabetics[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Betagan Liquifilm (levobunolol)." Allergan Inc, Irvine, CA. 
-Not all side effects for levobunolol ophthalmic may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were ocular burning/stinging, blepharoconjunctivitis, eye irritation, and eye pain.
+Very common (10% or more): Eye irritation, eye painCommon (1% to 10%): Blepharitis, conjunctivitisRare (less than 0.1%): IridocyclitisFrequency not reported: Conjunctival/ocular hyperemia, allergic conjunctivitis, decreased corneal reflex, keratitis, blurred vision, punctate keratitis, eye/eyelids pruritus, eye/eyelid edema, eye discharge, increased lacrimation, dry eye, choroidal detachment following filtration surgery, corneal erosion, diplopia, ptosis, corneal calcification, decreased corneal sensitivity, blepharoptosis
+Frequency not reported: Asthma, dyspnea, throat irritation, nasal discomfort, bronchospasm (predominantly in patients with pre-existing bronchospastic disease), cough, respiratory failure, nasal congestion
+Frequency not reported: Raynaud's phenomenon, syncope, bradycardia, atrioventricular block, palpitations, hypotension, arrhythmia, cardiac arrest, cardiac failure, chest pain, congestive heart failure, cold hands and feet
+Frequency not reported: Anaphylactic reaction, systemic allergic reactions including angioedema
+Rare (less than 0.1%): Transient ataxiaFrequency not reported: Confusion, dizziness, somnolence, lethargy, headache, memory loss, cerebral ischemia, cerebrovascular accident, increases in signs and symptoms of myasthenia gravis, paresthesia, dysgeusia
+Frequency not reported: Nausea, abdominal pain, diarrhea, dry mouth, dyspepsia, vomiting
+Frequency not reported: Decreased libido, sexual dysfunction, impotence
+Frequency not reported: Myalgia
+Frequency not reported: Depression, insomnia, nightmares
+Frequency not reported: Edema, fatigue, asthenia
+Frequency not reported: Stevens-Johnson syndrome, urticaria, contact dermatitis (including allergic contact dermatitis), rash, skin exfoliation, lichenoid keratosis, pruritus, erythema of eyelid, eyelid eczema, alopecia, psoriasiform rash, exacerbation of psoriasis
+Frequency not reported: Hypoglycemia, masked symptoms of hypoglycemia in insulin-dependent diabetics
 Burning or stinging in eye
 drainage from the eye
 redness, swelling, and/or itching of eye and eyelid
-
-
 Blurred vision
 chest pain or discomfort
 confusion
@@ -36,8 +23,6 @@ shortness of breath
 slow or irregular heartbeat
 sweating
 unusual tiredness or weakness
-
-
 Eye pain
 headache
 hives or welts
@@ -48,8 +33,6 @@ skin rash
 tearing
 unsteadiness, trembling, or other problems with muscle control or coordination
 unusual drowsiness, dullness, or feeling of sluggishness
-
-
 Blistering, peeling, loosening of skin
 blue lips, fingernails, or skin
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -97,8 +80,6 @@ unconsciousness
 weakness in arm and/or leg on one side of the body, sudden and severe
 weight gain
 wheezing
-
-
 Decreased interest in sexual intercourse
 discouragement
 feeling sad or empty
@@ -113,4 +94,3 @@ stuffy nose
 tiredness
 trouble concentrating
 trouble sleeping
-

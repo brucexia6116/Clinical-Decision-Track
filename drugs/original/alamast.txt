@@ -1,20 +1,10 @@
-Generic Name: pemirolast ophthalmic
-Applies to pemirolast ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by pemirolast ophthalmic (the active ingredient contained in Alamast). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking pemirolast ophthalmic, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with pemirolast ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to pemirolast ophthalmic: ophthalmic solution
-Respiratory side effects have included rhinitis and cold or flu symptoms in 10% to 25% of patients.  Less common side effects that have occurred in less than 5% of patients have included bronchitis, cough, sinusitis, sneezing, and nasal congestion.[Ref]
-Nervous system side effects have included headache in 10% to 25% of patients.[Ref]
-Ocular side effects have included burning, dry eye, foreign body sensation, and ocular discomfort in less than 5% of patients.[Ref]
-Hypersensitivity reactions have been reported in less than 5% of patients.[Ref]
-Genitourinary side effects have included dysmenorrhea (less than 5%).[Ref]
-Musculoskeletal side effects have included backache in less than 5% of patients.[Ref]
-1. "Product Information. Alamast (pemirolast ophthalmic)" Santen Inc, Napa, CA. 
-Not all side effects for Alamast may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Respiratory side effects have included rhinitis and cold or flu symptoms in 10% to 25% of patients.  Less common side effects that have occurred in less than 5% of patients have included bronchitis, cough, sinusitis, sneezing, and nasal congestion.
+Nervous system side effects have included headache in 10% to 25% of patients.
+Ocular side effects have included burning, dry eye, foreign body sensation, and ocular discomfort in less than 5% of patients.
+Hypersensitivity reactions have been reported in less than 5% of patients.
+Genitourinary side effects have included dysmenorrhea (less than 5%).
+Musculoskeletal side effects have included backache in less than 5% of patients.
 Cough (mucus-producing)
 headache (severe) 
 stomach pain and cramping
@@ -23,15 +13,11 @@ stomach pain and cramping
 runny or stuffy nose 
 tightness in chest
 troubled breathing
-
-
 Chills
 cough
  fever
 sneezing
 sore throat 
-
-
 Back pain
 burning feeling in eye
 eyelid swelling
@@ -40,4 +26,3 @@ foreign body feeling in eye
 general feeling of eye discomfort
 increased itching of the eye
 redness of the eye
-

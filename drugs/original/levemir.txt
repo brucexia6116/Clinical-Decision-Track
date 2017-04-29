@@ -1,38 +1,24 @@
-Generic Name: insulin detemir
 Common side effects of Levemir include: severe hypoglycemia.  See below for a comprehensive list of adverse effects.
-Applies to insulin detemir: subcutaneous solution
-In addition to its needed effects, some unwanted effects may be caused by insulin detemir (the active ingredient contained in Levemir). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking insulin detemir:
-Some of the side effects that can occur with insulin detemir may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to insulin detemir: subcutaneous solution
-Adverse reactions associated with insulin detemir (the active ingredient contained in Levemir) include hypoglycemia, allergic reactions, injection site reactions, lipodystrophy, rash, and pruritus.[Ref]
-Severe hypoglycemia defined as third party intervention, occurred in approximately 6% of patients receiving insulin detemir (the active ingredient contained in Levemir) in clinical trials.  Weight gain has been reported with insulin therapy and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.[Ref]
-Very common (10% or more): HypoglycemiaFrequency not reported: Weight gain[Ref]
-Injection site reactions seem to occur more frequently with insulin detemir (the active ingredient contained in Levemir) than with human insulin products.  Reactions have included pain, redness, hives, inflammation, bruising, swelling, and itching at the injection site.  Most injection site reactions have been minor and transitory, disappearing in a few days to a few weeks, even with continued treatment.[Ref]
-Common (1% to 10%): Injection site reactionsUncommon (0.1% to 1%): Injection site pain[Ref]
-Hypersensitivity side effects have included both local and systemic reactions.  Anaphylaxis has been reported.  Local reactions have presented as erythema, local edema, and pruritus at the injection site.  Most minor reactions to insulin at the injection site resolve in a few days to a few weeks.  Allergic reactions and potentially allergic reactions were reported more frequently in 3 clinical studies with subjects receiving combination oral antidiabetic agents compared with the frequency across all studies (2.2% versus 0.1% to 1%).[Ref]
-Uncommon (0.1% to 1%): Allergic reactions[Ref]
-Uncommon (0.1% to 1%): Peripheral edema[Ref]
-Insulin may cause sodium retention and edema, especially as metabolic control is improving.[Ref]
-Frequency not reported: Refraction disorder, worsening of diabetic retinopathy[Ref]
-Rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder and worsening of diabetic retinopathy.  However, long-term glycemic control decreases the risk of diabetic retinopathy.[Ref]
-Common (1% to 10%): LipohypertrophyUncommon (0.1% to 1%): LipoatrophyPostmarketing reports: Rash urticaria[Ref]
-In phase 3 trials, antibody development with no apparent impact on glycemic control was observed.[Ref]
-Very common (10% or more): Influenza-like illness (up to 13%)Common (1% to 10%): Viral infectionFrequency not reported: Antibody development[Ref]
-Common (1% to 10%): Pyrexia, fatigue[Ref]
-Very common (10% or more): Gastroenteritis (up to 16%), abdominal pain (up to 13%)	Common (1% to 10%): Nausea, vomiting, toothache[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-Rapid improvement in glucose control has been associated with a transitory, reversible acute painful peripheral neuropathy.  However, long-term glycemic control decreases the risk.[Ref]
-Very common (10% or more): Headache (up to 31%) Common (1% to 10%): Migraine, dizzinessRare (less than 0.1%): Painful peripheral neuropathy[Ref]
-Very common (10% or more): Upper respiratory tract infection (up to 35%), pharyngitis (up to 17%)Common (1% to 10%): Bronchitis, cough, rhinitis, sinusitis[Ref]
-1. "Product Information. Levemir (insulin detemir)." Novo Nordisk Pharmaceuticals Inc, Princeton, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Multum Information Services, Inc. Expert Review Panel"  
-Not all side effects for Levemir may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Adverse reactions associated with insulin detemir (the active ingredient contained in Levemir) include hypoglycemia, allergic reactions, injection site reactions, lipodystrophy, rash, and pruritus.
+Severe hypoglycemia defined as third party intervention, occurred in approximately 6% of patients receiving insulin detemir (the active ingredient contained in Levemir) in clinical trials.  Weight gain has been reported with insulin therapy and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
+Very common (10% or more): HypoglycemiaFrequency not reported: Weight gain
+Injection site reactions seem to occur more frequently with insulin detemir (the active ingredient contained in Levemir) than with human insulin products.  Reactions have included pain, redness, hives, inflammation, bruising, swelling, and itching at the injection site.  Most injection site reactions have been minor and transitory, disappearing in a few days to a few weeks, even with continued treatment.
+Common (1% to 10%): Injection site reactionsUncommon (0.1% to 1%): Injection site pain
+Hypersensitivity side effects have included both local and systemic reactions.  Anaphylaxis has been reported.  Local reactions have presented as erythema, local edema, and pruritus at the injection site.  Most minor reactions to insulin at the injection site resolve in a few days to a few weeks.  Allergic reactions and potentially allergic reactions were reported more frequently in 3 clinical studies with subjects receiving combination oral antidiabetic agents compared with the frequency across all studies (2.2% versus 0.1% to 1%).
+Uncommon (0.1% to 1%): Allergic reactions
+Uncommon (0.1% to 1%): Peripheral edema
+Insulin may cause sodium retention and edema, especially as metabolic control is improving.
+Frequency not reported: Refraction disorder, worsening of diabetic retinopathy
+Rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder and worsening of diabetic retinopathy.  However, long-term glycemic control decreases the risk of diabetic retinopathy.
+Common (1% to 10%): LipohypertrophyUncommon (0.1% to 1%): LipoatrophyPostmarketing reports: Rash urticaria
+In phase 3 trials, antibody development with no apparent impact on glycemic control was observed.
+Very common (10% or more): Influenza-like illness (up to 13%)Common (1% to 10%): Viral infectionFrequency not reported: Antibody development
+Common (1% to 10%): Pyrexia, fatigue
+Very common (10% or more): Gastroenteritis (up to 16%), abdominal pain (up to 13%)	Common (1% to 10%): Nausea, vomiting, toothache
+Common (1% to 10%): Urinary tract infection
+Rapid improvement in glucose control has been associated with a transitory, reversible acute painful peripheral neuropathy.  However, long-term glycemic control decreases the risk.
+Very common (10% or more): Headache (up to 31%) Common (1% to 10%): Migraine, dizzinessRare (less than 0.1%): Painful peripheral neuropathy
+Very common (10% or more): Upper respiratory tract infection (up to 35%), pharyngitis (up to 17%)Common (1% to 10%): Bronchitis, cough, rhinitis, sinusitis
 Anxiety
 blurred vision
 chills
@@ -65,8 +51,6 @@ swelling of the eyelids, face, lips, hands, or feet
 tightness in the chest
 trouble breathing
 unusual tiredness or weakness
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 decrease in the amount of urine
 noisy, rattling breathing
@@ -74,4 +58,3 @@ redistribution or accumulation of body fat
 swelling of the fingers, hands, feet, or lower legs
 trouble breathing at rest
 weight gain
-

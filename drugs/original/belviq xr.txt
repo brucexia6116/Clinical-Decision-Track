@@ -1,33 +1,20 @@
-Generic Name: lorcaserin
-Applies to lorcaserin: oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by lorcaserin (the active ingredient contained in Belviq XR). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking lorcaserin:
-
 If any of the following symptoms of overdose occur while taking lorcaserin, get emergency help immediately:
-
-Some of the side effects that can occur with lorcaserin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to lorcaserin: oral tablet, oral tablet extended release
-Very common (10% or more): Headache (up to 16.8%) Common (1% to 10%): Dizziness, impaired attention/memoryUncommon (0.1% to 1%): Tremor, confusion, disorientationVery rare (less than 0.01%): Serotonergic excessFrequency not reported: Neuroleptic Malignant Syndrome/serotonin syndrome, somnolence[Ref]
-Common (1% to 10%): HypertensionUncommon (0.1% to 1%): Regurgitant cardiac valvular heart disease, bradycardia[Ref]
-Common (1% to 10%): Anxiety, insomnia, stress, depression/mood problemsUncommon (0.1% to 1%): Euphoria, suicidal ideationFrequency not reported: Hallucination, dissociation[Ref]
-Very common (10% or more): Decreased lymphocyte count (up to 12.2%), decreased hemoglobin (up to 10.4%)Common (1% to 10%): Decreased red blood cell count, decreased neutrophil countUncommon (0.1% to 1%): Decreased white blood cell count[Ref]
-Very common (10% or more): Hypoglycemia (up to 29.3%)Common (1% to 10%): Worsening of diabetes mellitus, elevated prolactin[Ref]
-Very common (10% or more): Upper respiratory tract infection (up to 13.7%), nasopharyngitis (up to 13%)Common (1% to 10%): Cough, oropharyngeal pain, sinus congestion[Ref]
-Common (1% to 10%): Fatigue, peripheral edema, chills[Ref]
-The most common adverse reactions for non-diabetic patients were headache, dizziness, fatigue, nausea, dry mouth, and constipation.  For diabetic patients, the most common adverse reactions were hypoglycemia, headache, back pain, cough, and fatigue.[Ref]
-Common (1% to 10%): RashUncommon (0.1% to 1%): Hyperhidrosis[Ref]
-Common (1% to 10%): Nausea, diarrhea, constipation, dry mouth, vomiting, toothache, gastroenteritis[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-Common (1% to 10%): Seasonal allergy[Ref]
-Common (1% to 10%): Decreased appetite[Ref]
-Very common (10% or more): Back pain (up to 11.7%)Common (1% to 10%): Musculoskeletal pain, muscle spasms[Ref]
-Non-diabetic patients experienced events of blurred vision, dry eye, and visual impairment.  Diabetic patients experienced visual disorders, conjunctival infections, irritations and inflammations, ocular sensation disorders, and cataract conditions.[Ref]
-Common (1% to 10%): Eye disorder[Ref]
-1. "Product Information. Belviq (lorcaserin)." Eisai Inc, Teaneck, NJ. 
-Not all side effects for Belviq XR may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Headache (up to 16.8%) Common (1% to 10%): Dizziness, impaired attention/memoryUncommon (0.1% to 1%): Tremor, confusion, disorientationVery rare (less than 0.01%): Serotonergic excessFrequency not reported: Neuroleptic Malignant Syndrome/serotonin syndrome, somnolence
+Common (1% to 10%): HypertensionUncommon (0.1% to 1%): Regurgitant cardiac valvular heart disease, bradycardia
+Common (1% to 10%): Anxiety, insomnia, stress, depression/mood problemsUncommon (0.1% to 1%): Euphoria, suicidal ideationFrequency not reported: Hallucination, dissociation
+Very common (10% or more): Decreased lymphocyte count (up to 12.2%), decreased hemoglobin (up to 10.4%)Common (1% to 10%): Decreased red blood cell count, decreased neutrophil countUncommon (0.1% to 1%): Decreased white blood cell count
+Very common (10% or more): Hypoglycemia (up to 29.3%)Common (1% to 10%): Worsening of diabetes mellitus, elevated prolactin
+Very common (10% or more): Upper respiratory tract infection (up to 13.7%), nasopharyngitis (up to 13%)Common (1% to 10%): Cough, oropharyngeal pain, sinus congestion
+Common (1% to 10%): Fatigue, peripheral edema, chills
+The most common adverse reactions for non-diabetic patients were headache, dizziness, fatigue, nausea, dry mouth, and constipation.  For diabetic patients, the most common adverse reactions were hypoglycemia, headache, back pain, cough, and fatigue.
+Common (1% to 10%): RashUncommon (0.1% to 1%): Hyperhidrosis
+Common (1% to 10%): Nausea, diarrhea, constipation, dry mouth, vomiting, toothache, gastroenteritis
+Common (1% to 10%): Urinary tract infection
+Common (1% to 10%): Seasonal allergy
+Common (1% to 10%): Decreased appetite
+Very common (10% or more): Back pain (up to 11.7%)Common (1% to 10%): Musculoskeletal pain, muscle spasms
+Non-diabetic patients experienced events of blurred vision, dry eye, and visual impairment.  Diabetic patients experienced visual disorders, conjunctival infections, irritations and inflammations, ocular sensation disorders, and cataract conditions.
+Common (1% to 10%): Eye disorder
 Anxiety
 bladder pain
 bloody or cloudy urine
@@ -65,8 +52,6 @@ sore throat
 swelling of the breasts or breast soreness in both females and males
 unexpected or excess milk flow from the breasts
 unusual tiredness or weakness
-
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 decreased ability to exercise
 dry mouth
@@ -91,8 +76,6 @@ unexplained weight loss
 unusual weight gain or loss
 vomiting
 watering of the eyes
-
-
 Black, tarry, stools
 chest pain
 cough or hoarseness
@@ -100,8 +83,6 @@ pale skin
 sores, ulcers, or white spots on the lips or in the mouth
 swollen glands
 unusual bleeding or bruising
-
-
 Agitation
 confusion
 convulsions
@@ -119,18 +100,12 @@ talking or acting with excitement you cannot control
 trembling or shaking
 twitching
 unusually pale skin
-
-
 Abdominal or stomach discomfort
 false or unusual sense of well-being
 seeing, hearing, or feeling things that are not there
-
-
 Back pain
 difficulty having a bowel movement (stool)
 muscle aches
-
-
 Decreased appetite
 difficulty with concentration
 dry eyes
@@ -142,4 +117,3 @@ sleeplessness
 stress
 toothache
 trouble seeing
-

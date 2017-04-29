@@ -1,34 +1,24 @@
-Generic Name: iodixanol
-Applies to iodixanol: injection solution
 As well as its needed effects, iodixanol (the active ingredient contained in Visipaque) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking iodixanol, check with your doctor or nurse immediately:
 Some iodixanol side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to iodixanol: injectable solution
-Serious reactions as well as fatalities are only seen on very rare occasions.  Serious adverse reactions may include acute/chronic renal failure, anaphylactic or anaphylactoid shock, hypersensitivity reaction followed by cardiac reactions (Kounis' syndrome), cardiac or cardio-respiratory arrest and myocardial infarction.[Ref]
-Very common (10% or more): Vaginal hemorrhage (intrathecal)Uncommon (0.1% to 1%): Hematuria[Ref]
-Common (1% to 10%): Angina pectoris, chest painUncommon (0.1% to 1%): Arrhythmias, cardiac failure, conduction abnormalities, hypotension, myocardial infarction, flushing, peripheral ischemia.Rare (0.01% to 0.1%): HypotensionVery rare (less than 0.01%): Hypertension, ischemiaFrequency not reported: Ventricular hypokinesia, myocardial ischemia, arterial spasm, thrombosis, thrombophlebitis, thrombocytopenia, cardiorespiratory arrest, spasm of coronary arteries, shock[Ref]
-Common (1% to 10%): Nonurticarial rash, erythema, pruritus, rash, urticariaUncommon (0.1% to 1%): Hematoma, increased sweatingVery rare (less than 0.01%): AngioedemaFrequency not reported: Severe pustular or bullous skin reactions, Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms, drug eruption, dermatitis allergic, skin exfoliation[Ref]
-Common (1% to 10%): NauseaUncommon (0.1% to 1%): Diarrhea, vomiting, dyspepsiaVery rare (less than 0.01%): Abdominal pain, abdominal discomfortFrequency not reported: Acute pancreatitis, pancreatitis aggravated, salivary gland enlargement[Ref]
-Common (1% to 10%): Injection site pain[Ref]
-Common (1% to 10%): Headache, migraine, paresthesiaUncommon (0.1% to 1%): Nervousness, dizziness, sensory disturbance, syncope, parosmia, cerebral vascular disorder, convulsions, hypoesthesia, stuporVery rare (less than 0.01%): Cerebrovascular accident, amnesiaFrequency not reported: Disturbances in consciousness, coma, motor dysfunction, transient contrast induced encephalopathy (including hallucination), tremorPostmarketing reports: Dyskinesia[Ref]
-Common (1% to 10%): ScotomaUncommon (0.1% to 1%): Abnormal visionFrequency not reported: Transient blindness[Ref]
-Common (1% to 10%): VertigoUncommon (0.1% to 1%): Edema, fatigue, malaise, tinnitus, feeling hotRare (0.01% to 0.1%): Pain, pyrexia, shivering (chills), administration site reactions includingextravasationVery rare (less than 0.01%): Feeling cold, asthenic conditionsFrequency not reported: Iodism[Ref]
-Hypersensitivity reactions usually present as respiratory or cutaneous symptoms like dyspnea, rash, erythema, urticaria, pruritus, skin reaction, angioneurotic edema, hypotension, fever, laryngeal edema, bronchospasm or pulmonary edema.  They may appear either immediately after the injection or up to a few days later.Hypersensitivity reactions may occur irrespectively of the dose and mode of administration and mild symptoms may represent the first signs of a serious anaphylactoid reaction/shock.[Ref]
-Uncommon (0.1% to 1%): Pharyngeal edemaFrequency not reported: Anaphylactoid reaction, anaphylactoid shock[Ref]
-Uncommon (0.1% to 1%): Agitation, anxiety, insomnia, confusion[Ref]
-Uncommon (0.1% to 1%): Abnormal renal function, acute renal failure[Ref]
-Uncommon (0.1% to 1%): Asthma, bronchitis, dyspnea, pulmonary edema, rhinitisRare (less than 0.1%): CoughFrequency not reported: Non-cardiogenic pulmonary edema, respiratory arrest, respiratory failurePostmarketing reports: Pulmonary embolism, respiratory depression[Ref]
-Rare (less than 0.1%): Back painFrequency not reported: ArthralgiaPostmarketing reports: Polymyalgia rheumatica[Ref]
-Postmarketing reports: Hemorrhage[Ref]
-Postmarketing reports: Hypoglycemia[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Visipaque (iodixanol)." Nycomed Inc, Princeton, NJ. 
+Serious reactions as well as fatalities are only seen on very rare occasions.  Serious adverse reactions may include acute/chronic renal failure, anaphylactic or anaphylactoid shock, hypersensitivity reaction followed by cardiac reactions (Kounis' syndrome), cardiac or cardio-respiratory arrest and myocardial infarction.
+Very common (10% or more): Vaginal hemorrhage (intrathecal)Uncommon (0.1% to 1%): Hematuria
+Common (1% to 10%): Angina pectoris, chest painUncommon (0.1% to 1%): Arrhythmias, cardiac failure, conduction abnormalities, hypotension, myocardial infarction, flushing, peripheral ischemia.Rare (0.01% to 0.1%): HypotensionVery rare (less than 0.01%): Hypertension, ischemiaFrequency not reported: Ventricular hypokinesia, myocardial ischemia, arterial spasm, thrombosis, thrombophlebitis, thrombocytopenia, cardiorespiratory arrest, spasm of coronary arteries, shock
+Common (1% to 10%): Nonurticarial rash, erythema, pruritus, rash, urticariaUncommon (0.1% to 1%): Hematoma, increased sweatingVery rare (less than 0.01%): AngioedemaFrequency not reported: Severe pustular or bullous skin reactions, Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms, drug eruption, dermatitis allergic, skin exfoliation
+Common (1% to 10%): NauseaUncommon (0.1% to 1%): Diarrhea, vomiting, dyspepsiaVery rare (less than 0.01%): Abdominal pain, abdominal discomfortFrequency not reported: Acute pancreatitis, pancreatitis aggravated, salivary gland enlargement
+Common (1% to 10%): Injection site pain
+Common (1% to 10%): Headache, migraine, paresthesiaUncommon (0.1% to 1%): Nervousness, dizziness, sensory disturbance, syncope, parosmia, cerebral vascular disorder, convulsions, hypoesthesia, stuporVery rare (less than 0.01%): Cerebrovascular accident, amnesiaFrequency not reported: Disturbances in consciousness, coma, motor dysfunction, transient contrast induced encephalopathy (including hallucination), tremorPostmarketing reports: Dyskinesia
+Common (1% to 10%): ScotomaUncommon (0.1% to 1%): Abnormal visionFrequency not reported: Transient blindness
+Common (1% to 10%): VertigoUncommon (0.1% to 1%): Edema, fatigue, malaise, tinnitus, feeling hotRare (0.01% to 0.1%): Pain, pyrexia, shivering (chills), administration site reactions includingextravasationVery rare (less than 0.01%): Feeling cold, asthenic conditionsFrequency not reported: Iodism
+Hypersensitivity reactions usually present as respiratory or cutaneous symptoms like dyspnea, rash, erythema, urticaria, pruritus, skin reaction, angioneurotic edema, hypotension, fever, laryngeal edema, bronchospasm or pulmonary edema.  They may appear either immediately after the injection or up to a few days later.Hypersensitivity reactions may occur irrespectively of the dose and mode of administration and mild symptoms may represent the first signs of a serious anaphylactoid reaction/shock.
+Uncommon (0.1% to 1%): Pharyngeal edemaFrequency not reported: Anaphylactoid reaction, anaphylactoid shock
+Uncommon (0.1% to 1%): Agitation, anxiety, insomnia, confusion
+Uncommon (0.1% to 1%): Abnormal renal function, acute renal failure
+Uncommon (0.1% to 1%): Asthma, bronchitis, dyspnea, pulmonary edema, rhinitisRare (less than 0.1%): CoughFrequency not reported: Non-cardiogenic pulmonary edema, respiratory arrest, respiratory failurePostmarketing reports: Pulmonary embolism, respiratory depression
+Rare (less than 0.1%): Back painFrequency not reported: ArthralgiaPostmarketing reports: Polymyalgia rheumatica
+Postmarketing reports: Hemorrhage
+Postmarketing reports: Hypoglycemia
 It is possible that some side effects of Visipaque may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Arm, back, or jaw pain
 chest pain or discomfort
 chest tightness or heaviness
@@ -37,8 +27,6 @@ fast or irregular heartbeat
 nausea
 shortness of breath
 sweating
-
-
 Agitation
 blurred vision
 chest pain or discomfort
@@ -73,8 +61,6 @@ swelling of the face, ankles, or hands
 swelling of the fingers, feet, or lower legs
 vomiting
 weight gain
-
-
 Bad, unusual, or unpleasant (after) taste
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 change in taste
@@ -83,8 +69,6 @@ dizziness or lightheadedness
 feeling of constant movement of self or surroundings
 itching or skin rash
 sensation of spinning
-
-
 Acid or sour stomach
 anxiety
 back pain
@@ -105,4 +89,3 @@ shaking
 stomach discomfort, upset, or pain
 transient, mild, pleasant aromatic odor
 trouble sleeping
-

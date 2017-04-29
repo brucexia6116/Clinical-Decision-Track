@@ -1,28 +1,15 @@
-Generic Name: azelastine nasal
 Common side effects of Astelin include: drowsiness, bitter taste, and dysgeusia. Other side effects include: epistaxis.  See below for a comprehensive list of adverse effects.
-Applies to azelastine nasal: nasal spray
-In addition to its needed effects, some unwanted effects may be caused by azelastine nasal (the active ingredient contained in Astelin). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking azelastine nasal:
-Some of the side effects that can occur with azelastine nasal may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to azelastine nasal: nasal spray
-The most commonly reported adverse reactions were headache, bitter taste, sinusitis, and epistaxis.[Ref]
-Common (1% to 10%): Epistaxis, nasal discomfort, upper respiratory infection, sneezing, nasal mucosal ulceration, sinusitisPostmarketing reports: Nasal burning, throat irritation, dyspnea, paroxysmal sneezing[Ref]
-Postmarketing reports: Anaphylactoid reaction[Ref]
-Postmarketing reports: Application site irritation[Ref]
-Very common (10% or more): Bitter taste (10%)Common (1% to 10%): Headache, somnolence, dysgeusiaPostmarketing reports: Sweet taste, confusion, dizziness, nervousness, paraesthesia, parosmia, involuntary muscle contractions, disturbance or loss of sense of smell and/or taste[Ref]
-Postmarketing reports: Atrial fibrillation, chest pain, hypertension, palpitations, tachycardia[Ref]
-Very rare (less than 0.01%): Urticaria, pruritus, rash[Ref]
-Postmarketing reports: Abdominal pain, nausea[Ref]
-Common (1% to 10%): FatiguePostmarketing reports: Facial edema, tolerance[Ref]
-Postmarketing reports: Blurred vision, xerophthalmia[Ref]
-Postmarketing reports: Urinary retention[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Astelin (azelastine)." Carter Products, Cranbury, NJ. 
-3. "Product Information. Astepro (azelastine nasal)." Meda Pharmaceuticals, Somerset, NJ. 
-Not all side effects for Astelin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported adverse reactions were headache, bitter taste, sinusitis, and epistaxis.
+Common (1% to 10%): Epistaxis, nasal discomfort, upper respiratory infection, sneezing, nasal mucosal ulceration, sinusitisPostmarketing reports: Nasal burning, throat irritation, dyspnea, paroxysmal sneezing
+Postmarketing reports: Anaphylactoid reaction
+Postmarketing reports: Application site irritation
+Very common (10% or more): Bitter taste (10%)Common (1% to 10%): Headache, somnolence, dysgeusiaPostmarketing reports: Sweet taste, confusion, dizziness, nervousness, paraesthesia, parosmia, involuntary muscle contractions, disturbance or loss of sense of smell and/or taste
+Postmarketing reports: Atrial fibrillation, chest pain, hypertension, palpitations, tachycardia
+Very rare (less than 0.01%): Urticaria, pruritus, rash
+Postmarketing reports: Abdominal pain, nausea
+Common (1% to 10%): FatiguePostmarketing reports: Facial edema, tolerance
+Postmarketing reports: Blurred vision, xerophthalmia
+Postmarketing reports: Urinary retention
 Blood in the urine
 blurred vision or other change in vision
 cough
@@ -33,12 +20,8 @@ rapid heartbeat
 sores in the mouth or on the lips
 tightness in the chest
 troubled breathing
-
-
 Bitter taste in the mouth
 drowsiness or sleepiness
-
-
 Bloody mucus or unexplained nosebleeds
 burning inside the nose
 dizziness
@@ -50,4 +33,3 @@ sore throat
 sudden outbursts of sneezing
 unusual tiredness or weakness
 weight gain
-

@@ -1,40 +1,24 @@
-Generic Name: telithromycin
-Applies to telithromycin: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by telithromycin (the active ingredient contained in Ketek Pak). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking telithromycin:
-Some of the side effects that can occur with telithromycin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to telithromycin: oral tablet
-Severe liver injury and acute liver failure (in some cases fatal) have been reported.  Such hepatic reactions were observed during or immediately after therapy and included fulminant hepatitis and hepatic necrosis leading to liver transplant.  In some cases, liver injury progressed rapidly and occurred after a few doses of this drug were administered.  Less severe liver dysfunction (associated with reversible hepatitis, elevated liver enzymes, and sometimes jaundice) has been reported.Drug-related hepatotoxicity was reported in a 46-year-old man receiving treatment for an ear and sinus infection.  The patient presented with a 4-day history of malaise, dark urine, jaundice, mild pruritus, and anorexia.  The patient denied toxin exposure, IV drug abuse, or hepatic injury.  ALT 948 units/L, AST 200 units/L, total bilirubin 65 mmol/L, and alkaline phosphatase 291 units/L were observed.  These values warranted withdrawal of this drug and within 2 weeks the ALT decreased to 450 units/L and his jaundice resolved.  After 8 weeks, the patient's liver tests had normalized.[Ref]
-Common (1% to 10%): Increased liver enzymes (AST, ALT, alkaline phosphatase, GGT)Uncommon (0.1% to 1%): Hepatitis (with or without jaundice)Rare (0.01% to 0.1%): Cholestatic jaundiceFrequency not reported: Abnormal liver function tests, increased transaminases (ALT, AST), elevated blood bilirubin, increased ALT (at least 3 times the upper limit of normal), hepatocellular and/or cholestatic hepatitis (with or without jaundice), severe liver toxicity, hepatotoxicity (including acute liver failure, severe liver injury)Postmarketing reports: Hepatic dysfunction, fulminant hepatitis, hepatic necrosis, hepatic failure, severe hepatitis[Ref]
-Very common (10% or more): Diarrhea (10.8%)Common (1% to 10%): Nausea, vomiting, gastrointestinal pain, flatulenceUncommon (0.1% to 1%): Constipation, oral candidiasis, stomatitisVery rare (less than 0.01%): Pseudomembranous colitisFrequency not reported: Abdominal distension, dry mouth, dyspepsia, gastrointestinal upset, gastroenteritis, gastritis, glossitis, Clostridium difficile-associated diarrhea, loose stools, watery stoolsPostmarketing reports: Pancreatitis[Ref]
-Pseudomembranous colitis has also been reported during postmarketing experience.[Ref]
-Exacerbations of myasthenia gravis (including fatal and life-threatening acute respiratory failure) have been reported.  Rapid onset was observed in some cases, occurring within a few hours after the first dose.[Ref]
-Common (1% to 10%): Headache, dizziness (excluding vertigo), taste disturbance/dysgeusiaUncommon (0.1% to 1%): Somnolence, vertigoRare (0.01% to 0.1%): Paresthesia, transient loss of consciousnessVery rare (less than 0.01%): ParosmiaPostmarketing reports: Loss of consciousness (in some cases associated with vagal syndrome), exacerbation of myasthenia gravis, tremors, convulsions, taste/smell perversion, ageusia, anosmia, hearing loss[Ref]
-Fatal and life-threatening acute respiratory failure has been reported in patients with myasthenia gravis.[Ref]
-Frequency not reported: Acute respiratory failure, rhinitis, upper respiratory infectionPostmarketing reports: Dyspnea[Ref]
-Common (1% to 10%): Vaginal candidiasisFrequency not reported: Vaginitis, fungal vaginosisPostmarketing reports: Chromaturia[Ref]
-Uncommon (0.1% to 1%): Flush/flushing, palpitationsRare (0.01% to 0.1%): Atrial arrhythmia, hypotension, bradycardiaFrequency not reported: Increased QTc intervalPostmarketing reports: QT/QTc interval prolongation, ventricular arrhythmias (including ventricular tachycardia, torsades de pointes) with potential fatal outcome, ischemic cardiac events (in the context of hypersensitivity reactions)[Ref]
-Ventricular arrhythmias (including ventricular tachycardia, torsades de pointes) have sometimes occurred within a few hours after the first dose.Atrial arrhythmias and palpitation have also been reported during postmarketing experience.[Ref]
-Visual disturbances (some severe) most often included blurred vision, difficulty focusing, or diplopia; some patients stopped therapy due to these effects.  Most visual side effects were reported after the first or second dose, lasted several hours, and recurred with subsequent doses in some patients.  Symptoms continued throughout the entire course of therapy in some patients and resolved spontaneously during therapy in others.  Females and patients up to 40 years of age had a higher rate of these side effects (females up to 40 years: 2.1%; females older than 40 years: 1%; males up to 40 years: 1.2%; males older than 40 years: 0.27%).[Ref]
-Uncommon (0.1% to 1%): Blurred visionRare (0.01% to 0.1%): DiplopiaFrequency not reported: Visual disturbances (including blurred vision, difficulty focusing, diplopia)[Ref]
-Uncommon (0.1% to 1%): Rash, pruritus, urticariaRare (0.01% to 0.1%): EczemaVery rare (less than 0.01%): Erythema multiformeFrequency not reported: Increased sweatingPostmarketing reports: Angioneurotic edema[Ref]
-Uncommon (0.1% to 1%): EosinophiliaFrequency not reported: Increased platelet count, increased eosinophil count[Ref]
-Uncommon (0.1% to 1%): AnorexiaFrequency not reported: Increased blood alkaline phosphatase[Ref]
+Severe liver injury and acute liver failure (in some cases fatal) have been reported.  Such hepatic reactions were observed during or immediately after therapy and included fulminant hepatitis and hepatic necrosis leading to liver transplant.  In some cases, liver injury progressed rapidly and occurred after a few doses of this drug were administered.  Less severe liver dysfunction (associated with reversible hepatitis, elevated liver enzymes, and sometimes jaundice) has been reported.Drug-related hepatotoxicity was reported in a 46-year-old man receiving treatment for an ear and sinus infection.  The patient presented with a 4-day history of malaise, dark urine, jaundice, mild pruritus, and anorexia.  The patient denied toxin exposure, IV drug abuse, or hepatic injury.  ALT 948 units/L, AST 200 units/L, total bilirubin 65 mmol/L, and alkaline phosphatase 291 units/L were observed.  These values warranted withdrawal of this drug and within 2 weeks the ALT decreased to 450 units/L and his jaundice resolved.  After 8 weeks, the patient's liver tests had normalized.
+Common (1% to 10%): Increased liver enzymes (AST, ALT, alkaline phosphatase, GGT)Uncommon (0.1% to 1%): Hepatitis (with or without jaundice)Rare (0.01% to 0.1%): Cholestatic jaundiceFrequency not reported: Abnormal liver function tests, increased transaminases (ALT, AST), elevated blood bilirubin, increased ALT (at least 3 times the upper limit of normal), hepatocellular and/or cholestatic hepatitis (with or without jaundice), severe liver toxicity, hepatotoxicity (including acute liver failure, severe liver injury)Postmarketing reports: Hepatic dysfunction, fulminant hepatitis, hepatic necrosis, hepatic failure, severe hepatitis
+Very common (10% or more): Diarrhea (10.8%)Common (1% to 10%): Nausea, vomiting, gastrointestinal pain, flatulenceUncommon (0.1% to 1%): Constipation, oral candidiasis, stomatitisVery rare (less than 0.01%): Pseudomembranous colitisFrequency not reported: Abdominal distension, dry mouth, dyspepsia, gastrointestinal upset, gastroenteritis, gastritis, glossitis, Clostridium difficile-associated diarrhea, loose stools, watery stoolsPostmarketing reports: Pancreatitis
+Pseudomembranous colitis has also been reported during postmarketing experience.
+Exacerbations of myasthenia gravis (including fatal and life-threatening acute respiratory failure) have been reported.  Rapid onset was observed in some cases, occurring within a few hours after the first dose.
+Common (1% to 10%): Headache, dizziness (excluding vertigo), taste disturbance/dysgeusiaUncommon (0.1% to 1%): Somnolence, vertigoRare (0.01% to 0.1%): Paresthesia, transient loss of consciousnessVery rare (less than 0.01%): ParosmiaPostmarketing reports: Loss of consciousness (in some cases associated with vagal syndrome), exacerbation of myasthenia gravis, tremors, convulsions, taste/smell perversion, ageusia, anosmia, hearing loss
+Fatal and life-threatening acute respiratory failure has been reported in patients with myasthenia gravis.
+Frequency not reported: Acute respiratory failure, rhinitis, upper respiratory infectionPostmarketing reports: Dyspnea
+Common (1% to 10%): Vaginal candidiasisFrequency not reported: Vaginitis, fungal vaginosisPostmarketing reports: Chromaturia
+Uncommon (0.1% to 1%): Flush/flushing, palpitationsRare (0.01% to 0.1%): Atrial arrhythmia, hypotension, bradycardiaFrequency not reported: Increased QTc intervalPostmarketing reports: QT/QTc interval prolongation, ventricular arrhythmias (including ventricular tachycardia, torsades de pointes) with potential fatal outcome, ischemic cardiac events (in the context of hypersensitivity reactions)
+Ventricular arrhythmias (including ventricular tachycardia, torsades de pointes) have sometimes occurred within a few hours after the first dose.Atrial arrhythmias and palpitation have also been reported during postmarketing experience.
+Visual disturbances (some severe) most often included blurred vision, difficulty focusing, or diplopia; some patients stopped therapy due to these effects.  Most visual side effects were reported after the first or second dose, lasted several hours, and recurred with subsequent doses in some patients.  Symptoms continued throughout the entire course of therapy in some patients and resolved spontaneously during therapy in others.  Females and patients up to 40 years of age had a higher rate of these side effects (females up to 40 years: 2.1%; females older than 40 years: 1%; males up to 40 years: 1.2%; males older than 40 years: 0.27%).
+Uncommon (0.1% to 1%): Blurred visionRare (0.01% to 0.1%): DiplopiaFrequency not reported: Visual disturbances (including blurred vision, difficulty focusing, diplopia)
+Uncommon (0.1% to 1%): Rash, pruritus, urticariaRare (0.01% to 0.1%): EczemaVery rare (less than 0.01%): Erythema multiformeFrequency not reported: Increased sweatingPostmarketing reports: Angioneurotic edema
+Uncommon (0.1% to 1%): EosinophiliaFrequency not reported: Increased platelet count, increased eosinophil count
+Uncommon (0.1% to 1%): AnorexiaFrequency not reported: Increased blood alkaline phosphatase
 Uncommon (0.1% to 1%): Insomnia, nervousnessFrequency not reported: AnxietyPostmarketing reports: Confusion, hallucinations (mostly visual)
-Muscle cramps have also been reported during postmarketing experience.[Ref]
-Very rare (less than 0.01%): Muscle crampsPostmarketing reports: Arthralgia, myalgia[Ref]
-Postmarketing reports: Severe allergic reactions (including angioedema, anaphylaxis), anaphylactic reactions (including anaphylactic shock), hypersensitivity[Ref]
+Muscle cramps have also been reported during postmarketing experience.
+Very rare (less than 0.01%): Muscle crampsPostmarketing reports: Arthralgia, myalgia
+Postmarketing reports: Severe allergic reactions (including angioedema, anaphylaxis), anaphylactic reactions (including anaphylactic shock), hypersensitivity
 Frequency not reported: Abdominal pain, fatigue, upper abdominal painPostmarketing reports: Face edema
-1. Onur O,  Guneysel O,  Denizbasi A,  Celikel C "Acute hepatitis attack after exposure to telithromycin." Clin Ther 29 (2007): 1725-1729
-2. Clay KD,  Hanson JS,  Pope SD,  Rissmiller RW,  Purdum PP 3rd,  Banks MD "Brief Communication: Severe hepatotoxicity of telithromycin: three case reports and literature review. Available from: URL: http://www.acponline.org/journals/annals/hepatotoxicity.htm."   ([2006 Mar 21]):
-3. Clay KD,  Hanson JS,  Pope SD,  Rissmiller RW,  Purdum PP 3rd,  Banks PM "Brief communication: severe hepatotoxicity of telithromycin: three case reports and literature review." Ann Intern Med 144 (2006): E1-E6
-4. "Product Information. Ketek (telithromycin)." Aventis Pharmaceuticals, Bridgewater, NJ. 
-5. Owens RC Jr,  Nolin TD "Antimicrobial-Associated QT Interval Prolongation: Pointes of Interest." Clin Infect Dis 43 (2006): 1603-1611
-6. Nieman RB,  Sharma K,  Edelberg H,  Caffe SE "Telithromycin and myasthenia gravis." Clin Infect Dis 37 (2003): 1579
-Not all side effects for Ketek Pak may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Abdominal or stomach pain
 blistering, peeling, or loosening of the skin
 blurred vision
@@ -80,8 +64,6 @@ watery or bloody diarrhea
 weakness or heaviness of the legs
 wheezing
 yellow eyes and skin
-
-
 Black, tarry stools
 clay-colored stools
 continuous vomiting
@@ -91,11 +73,7 @@ general feeling of tiredness or weakness
 swelling of the feet or lower legs
 unpleasant breath odor
 vomiting of blood
-
-
 Diarrhea
-
-
 Abnormal dreams
 acid or sour stomach
 belching
@@ -144,4 +122,3 @@ tooth discoloration
 trouble sleeping
 weight loss
 white patches in the mouth and on the tongue
-

@@ -1,38 +1,21 @@
-Generic Name: human papillomavirus vaccine
-Applies to human papillomavirus vaccine: intramuscular suspension
-In addition to its needed effects, some unwanted effects may be caused by human papillomavirus vaccine (the active ingredient contained in Gardasil). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking human papillomavirus vaccine, check with your doctor or nurse immediately:
-Some of the side effects that can occur with human papillomavirus vaccine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to human papillomavirus vaccine: intramuscular suspension
-The most common adverse events were injection site reactions, fatigue, headache, and myalgia.[Ref]
-Very common (10% or more): Injection site pain (91.9%), injection site swelling (49%), injection site erythema (48.4%)Common (1% to 10%): Injection site pruritus, injection site hematoma, injection site induration, injection site hemorrhage, injection site warmth, injection site mass, injection site reactionPostmarketing reports: Injection site cellulitis[Ref]
-Very common (10% or more): Fatigue (54.6%), headache (53.4%), pyrexia (13%), fever of 99.5F or higher (12.9%)Common (1% to 10%): Chlamydia infection, malaiseUncommon (0.1% to 1%): DeathPostmarketing reports: Asthenia, chills[Ref]
-Deaths occurred during clinical trials which were generally assessed as not vaccine related: car accidents, suicides, acute lymphocytic leukemia, hypovolemic septic shock, airplane crash, cerebral hemorrhage, gunshot wound, stomach adenocarcinoma, pulmonary embolus/deep vein thrombosis, sepsis, pancreatic cancer, arrhythmia, pulmonary tuberculosis, hyperthyroidism, post-operative pulmonary embolism and acute renal failure, traumatic brain injury/cardiac arrest, systemic lupus erythematosus, cerebrovascular accident, breast cancer, nasopharyngeal cancer, autoimmune disease, infectious disease, homicide, and 1 unexplained sudden death 678 days following the last vaccine dose.[Ref]
-Very common (10% or more): Myalgia (48.8%), arthralgia (20.7%)Common (1% to 10%): Back painPostmarketing reports: Pain in extremity[Ref]
-Common (1% to 10%): Nausea, diarrhea, vomiting, abdominal pain upper, toothacheRare (less than 0.1%): Appendicitis, gastroenteritisPostmarketing reports: Pancreatitis[Ref]
-Common (1% to 10%): Nasopharyngitis, oropharyngeal pain, influenza, cough, nasal congestion, upper respiratory tract infection, pharyngitisRare (0.01% to 0.1%): Pneumonia, pulmonary embolism, asthmaVery rare (less than 0.01%): BronchospasmFrequency not reported: Asthmatic crisisPostmarketing reports: Pulmonary embolus[Ref]
-Common (1% to 10%): Dizziness, migrainePostmarketing reports: Acute disseminated encephalomyelitis, Guillain-Barre syndrome, motor neuron disease, paralysis, seizures, syncope (including syncope associated with tonic-clonic movements and other seizure-like activity) sometimes resulting in falling with injury, transverse myelitis[Ref]
-New medical conditions potentially indicative of systemic autoimmune disorders included: arthralgia/arthritis/arthropathy, autoimmune thyroiditis, celiac disease, diabetes mellitus insulin dependent, erythema nodosum, hyperthyroidism, hypothyroidism, inflammatory bowel disease, multiple sclerosis, nephritis, optic neuritis, pigmentation disorder, psoriasis, Raynaud's phenomenon, rheumatoid arthritis, scleroderma/morphea, Stevens-Johnson syndrome, systemic lupus erythematosus, uveitis, alopecia areata, ankylosing spondylitis, autoimmune thrombocytopenia, myocarditis, proteinuria, skin depigmentation, dermatomyositis, vasculitis, and vitiligo.[Ref]
-Common (1% to 10%): New medical conditions potentially indicative of systemic autoimmune disordersPostmarketing reports: Autoimmune diseases[Ref]
-Common (1% to 10%): Injection site hypersensitivityFrequency not reported: Allergy to vaccinePostmarketing reports: Hypersensitivity reactions (including anaphylactic/anaphylactoid reactions, bronchospasm, and urticaria)[Ref]
-Uncommon (0.1% to 1%): LymphadenopathyPostmarketing reports: Autoimmune hemolytic anemia, idiopathic thrombocytopenic purpura[Ref]
-Common (1% to 10%): Insomnia[Ref]
-Common (1% to 10%): Dysmenorrhea, vaginal infection, urinary tract infectionRare (less than 0.1%): Pelvic inflammatory disease, pyelonephritis[Ref]
-Common (1% to 10%): Rash, urticaria, itching/pruritusPostmarketing reports: Cellulitis, angioedema, erythema multiforme[Ref]
-Postmarketing reports: Deep vein thrombosis[Ref]
-1. "Product Information. Cervarix (human papillomavirus vaccine)." GlaxoSmithKline, Research Triangle Park, NC. 
-2. "Product Information. Gardasil (human papillomavirus vaccine)." Merck & Company Inc, West Point, PA. 
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Product Information. Gardasil 9 (human papillomavirus vaccine)." Merck & Company Inc, Whitehouse Station, NJ. 
-5. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Gardasil may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse events were injection site reactions, fatigue, headache, and myalgia.
+Very common (10% or more): Injection site pain (91.9%), injection site swelling (49%), injection site erythema (48.4%)Common (1% to 10%): Injection site pruritus, injection site hematoma, injection site induration, injection site hemorrhage, injection site warmth, injection site mass, injection site reactionPostmarketing reports: Injection site cellulitis
+Very common (10% or more): Fatigue (54.6%), headache (53.4%), pyrexia (13%), fever of 99.5F or higher (12.9%)Common (1% to 10%): Chlamydia infection, malaiseUncommon (0.1% to 1%): DeathPostmarketing reports: Asthenia, chills
+Deaths occurred during clinical trials which were generally assessed as not vaccine related: car accidents, suicides, acute lymphocytic leukemia, hypovolemic septic shock, airplane crash, cerebral hemorrhage, gunshot wound, stomach adenocarcinoma, pulmonary embolus/deep vein thrombosis, sepsis, pancreatic cancer, arrhythmia, pulmonary tuberculosis, hyperthyroidism, post-operative pulmonary embolism and acute renal failure, traumatic brain injury/cardiac arrest, systemic lupus erythematosus, cerebrovascular accident, breast cancer, nasopharyngeal cancer, autoimmune disease, infectious disease, homicide, and 1 unexplained sudden death 678 days following the last vaccine dose.
+Very common (10% or more): Myalgia (48.8%), arthralgia (20.7%)Common (1% to 10%): Back painPostmarketing reports: Pain in extremity
+Common (1% to 10%): Nausea, diarrhea, vomiting, abdominal pain upper, toothacheRare (less than 0.1%): Appendicitis, gastroenteritisPostmarketing reports: Pancreatitis
+Common (1% to 10%): Nasopharyngitis, oropharyngeal pain, influenza, cough, nasal congestion, upper respiratory tract infection, pharyngitisRare (0.01% to 0.1%): Pneumonia, pulmonary embolism, asthmaVery rare (less than 0.01%): BronchospasmFrequency not reported: Asthmatic crisisPostmarketing reports: Pulmonary embolus
+Common (1% to 10%): Dizziness, migrainePostmarketing reports: Acute disseminated encephalomyelitis, Guillain-Barre syndrome, motor neuron disease, paralysis, seizures, syncope (including syncope associated with tonic-clonic movements and other seizure-like activity) sometimes resulting in falling with injury, transverse myelitis
+New medical conditions potentially indicative of systemic autoimmune disorders included: arthralgia/arthritis/arthropathy, autoimmune thyroiditis, celiac disease, diabetes mellitus insulin dependent, erythema nodosum, hyperthyroidism, hypothyroidism, inflammatory bowel disease, multiple sclerosis, nephritis, optic neuritis, pigmentation disorder, psoriasis, Raynaud's phenomenon, rheumatoid arthritis, scleroderma/morphea, Stevens-Johnson syndrome, systemic lupus erythematosus, uveitis, alopecia areata, ankylosing spondylitis, autoimmune thrombocytopenia, myocarditis, proteinuria, skin depigmentation, dermatomyositis, vasculitis, and vitiligo.
+Common (1% to 10%): New medical conditions potentially indicative of systemic autoimmune disordersPostmarketing reports: Autoimmune diseases
+Common (1% to 10%): Injection site hypersensitivityFrequency not reported: Allergy to vaccinePostmarketing reports: Hypersensitivity reactions (including anaphylactic/anaphylactoid reactions, bronchospasm, and urticaria)
+Uncommon (0.1% to 1%): LymphadenopathyPostmarketing reports: Autoimmune hemolytic anemia, idiopathic thrombocytopenic purpura
+Common (1% to 10%): Insomnia
+Common (1% to 10%): Dysmenorrhea, vaginal infection, urinary tract infectionRare (less than 0.1%): Pelvic inflammatory disease, pyelonephritis
+Common (1% to 10%): Rash, urticaria, itching/pruritusPostmarketing reports: Cellulitis, angioedema, erythema multiforme
+Postmarketing reports: Deep vein thrombosis
 Fever
-
-
 Anxiety
 back, leg, or stomach pains
 bleeding gums
@@ -62,11 +45,7 @@ tenderness, pain, swelling, warmth, skin discoloration, and prominent superficia
 tightness in the chest
 unusual tiredness or weakness
 yellowing of the eyes or skin
-
-
 Headache
-
-
 Diarrhea
 difficulty with moving
 joint pain
@@ -75,16 +54,12 @@ muscle pains or stiffness
 sore throat
 swollen joints
 upper abdominal or stomach pain
-
-
 Body aches or pain
 ear congestion
 loss of voice
 nasal congestion
 runny nose
 sneezing
-
-
 Bloating
 constipation
 darkened urine
@@ -95,4 +70,3 @@ loss of appetite
 muscle pain or stiffness
 pain in the joints pain, swelling, or redness at the injection site
 pains in the stomach, side, or abdomen, possibly radiating to the back
-

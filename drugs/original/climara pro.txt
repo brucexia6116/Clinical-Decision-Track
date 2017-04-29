@@ -1,25 +1,14 @@
-Generic Name: estradiol / levonorgestrel
-Applies to estradiol / levonorgestrel: transdermal patch extended release
-In addition to its needed effects, some unwanted effects may be caused by estradiol / levonorgestrel. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking estradiol / levonorgestrel:
-Some of the side effects that can occur with estradiol / levonorgestrel may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to estradiol / levonorgestrel: transdermal film extended release
-Cardiovascular side effects have included myocardial infarction and stroke as well as venous thrombosis and pulmonary embolism.  Hypertension has been reported in 3.3% of patients in one study.[Ref]
-Dermatologic side effects have included application site reactions (40.6%) and rash (2.4%).[Ref]
-Gastrointestinal side effects have included flatulence (3.8%).[Ref]
-Genitourinary side effects have included urinary tract infection (3.3%), vaginal bleeding (36.8%), breast pain (18.9%), and vaginitis (1.9%).[Ref]
-Musculoskeletal side effects have included back pain (6.1%) and arthralgia (4.2%).[Ref]
-Oncologic side effects have included endometrial and breast cancer.[Ref]
-Psychiatric side effects have included depression (5.7%) and headache (5.2%).[Ref]
-Respiratory side effects have included bronchitis (4.2%), sinusitis (3.8%), and upper respiratory infection (13.2%).[Ref]
-Metabolic side effects have included edema (3.8%) and weight gain (2.8%)[Ref]
-General side effects have included infection (3.3%), abdominal pain (4.2%), flu syndrome (4.7%), pain (5.2%), and accidental injury (3.3%).[Ref]
-Hypersensitivity side effects have included urticaria, angioedema, and anaphylactoid/anaphylactic reactions.[Ref]
-1. "Product Information. Climara Pro (estradiol-levonorgestrel)." Berlex Laboratories, Wayne, NJ. 
-Not all side effects for Climara Pro may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects have included myocardial infarction and stroke as well as venous thrombosis and pulmonary embolism.  Hypertension has been reported in 3.3% of patients in one study.
+Dermatologic side effects have included application site reactions (40.6%) and rash (2.4%).
+Gastrointestinal side effects have included flatulence (3.8%).
+Genitourinary side effects have included urinary tract infection (3.3%), vaginal bleeding (36.8%), breast pain (18.9%), and vaginitis (1.9%).
+Musculoskeletal side effects have included back pain (6.1%) and arthralgia (4.2%).
+Oncologic side effects have included endometrial and breast cancer.
+Psychiatric side effects have included depression (5.7%) and headache (5.2%).
+Respiratory side effects have included bronchitis (4.2%), sinusitis (3.8%), and upper respiratory infection (13.2%).
+Metabolic side effects have included edema (3.8%) and weight gain (2.8%)
+General side effects have included infection (3.3%), abdominal pain (4.2%), flu syndrome (4.7%), pain (5.2%), and accidental injury (3.3%).
+Hypersensitivity side effects have included urticaria, angioedema, and anaphylactoid/anaphylactic reactions.
 Acid or sour stomach
 anxiety
 backache
@@ -63,8 +52,6 @@ tightness in the chest
 unusual tiredness or weakness
 vaginal bleeding
 vomiting
-
-
 Back pain
 body aches or pain
 breast pain
@@ -85,8 +72,6 @@ sore throat
 tiredness
 trouble concentrating
 trouble sleeping
-
-
 Bladder pain
 bloody or cloudy urine
 blurred vision
@@ -111,9 +96,6 @@ shivering
 slow or fast heartbeat
 sweating
 weight gain
-
-
 Hair loss or thinning of the hair
 pressure in the stomach
 swelling of the abdominal or stomach area
-

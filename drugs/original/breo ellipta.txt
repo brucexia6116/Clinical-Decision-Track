@@ -1,27 +1,12 @@
-Generic Name: fluticasone / vilanterol
-Applies to fluticasone / vilanterol: inhalation powder
-In addition to its needed effects, some unwanted effects may be caused by fluticasone / vilanterol. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking fluticasone / vilanterol:
-
 If any of the following symptoms of overdose occur while taking fluticasone / vilanterol, get emergency help immediately:
-
-Some of the side effects that can occur with fluticasone / vilanterol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fluticasone / vilanterol: inhalation powder
-The most common adverse reactions are nasopharyngitis, upper respiratory tract infection, headache, and oral candidiasis.[Ref]
-Common (1% to 10%): HypertensionUncommon (0.1% to 1%): Extrasystoles[Ref]
-Common (1% to 10%): Diarrhea, oral candidiasis, abdominal pain[Ref]
-Common (1% to 10%): Back pain, arthralgia, fracturesPostmarketing reports: Muscle spasm[Ref]
-Common (1% to 10%): Headache, tremor[Ref]
-Common (1% to 10%): Influenza, pyrexia, peripheral edema[Ref]
-Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, oropharyngeal candidiasis, chronic obstructive pulmonary disease (COPD), pneumonia, bronchitis, sinusitis, cough, oropharyngeal pain, pharyngitis, oropharyngitis fungal[Ref]
-Postmarketing reports: Hypersensitivity reactions including anaphylaxis, angioedema, rash, and urticaria[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Breo Ellipta (fluticasone-vilanterol)." GlaxoSmithKline, Research Triangle Park, NC. 
-Not all side effects for Breo Ellipta may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions are nasopharyngitis, upper respiratory tract infection, headache, and oral candidiasis.
+Common (1% to 10%): HypertensionUncommon (0.1% to 1%): Extrasystoles
+Common (1% to 10%): Diarrhea, oral candidiasis, abdominal pain
+Common (1% to 10%): Back pain, arthralgia, fracturesPostmarketing reports: Muscle spasm
+Common (1% to 10%): Headache, tremor
+Common (1% to 10%): Influenza, pyrexia, peripheral edema
+Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, oropharyngeal candidiasis, chronic obstructive pulmonary disease (COPD), pneumonia, bronchitis, sinusitis, cough, oropharyngeal pain, pharyngitis, oropharyngitis fungal
+Postmarketing reports: Hypersensitivity reactions including anaphylaxis, angioedema, rash, and urticaria
 Body aches or pain
 chills, fever
 cough
@@ -34,8 +19,6 @@ sneezing
 sore throat
 stuffy or runny nose
 unusual tiredness or weakness
-
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 blurred vision
 chest pain
@@ -55,8 +38,6 @@ tingling of the hands or feet
 trouble sleeping
 troubled breathing
 unusual weight gain or loss
-
-
 Abdominal or stomach pain
 arm, back, or jaw pain
 chest discomfort
@@ -79,10 +60,7 @@ restlessness
 shakiness in the legs, arms, hands, or feet
 stomach cramps
 unexplained weight loss
-
-
 Creamy white, curd-like patches in the mouth or throat
 difficulty with moving
 muscle stiffness
 pain when eating or swallowing
-

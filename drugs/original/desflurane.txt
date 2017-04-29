@@ -1,25 +1,15 @@
-Applies to desflurane: inhalation liquid, inhalation solution
-In addition to its needed effects, some unwanted effects may be caused by desflurane. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking desflurane, check with your doctor or nurse immediately:
-Some of the side effects that can occur with desflurane may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to desflurane: inhalation liquid
-Respiratory side effects including coughing (34%), breathholding (up to 30%), apnea (15%), increased secretions, laryngospasm, oxyhemoglobin desaturation, pharyngitis, increased cough, dyspnea, respiratory arrest, respiratory failure, respiratory distress, bronchospasm, hemoptysis, and hypoxia have been reported.[Ref]
-Gastrointestinal side effects including nausea (27%), vomiting (16%), acute pancreatitis, and abdominal pain have been reported.[Ref]
-Cardiovascular side effects including bradycardia, hypertension, nodal arrhythmia, tachycardia, arrhythmia, bigeminy, abnormal electrocardiogram, myocardial ischemia, vasodilation, hemorrhage, cardiac arrest, Torsade de pointes, ventricular failure, ventricular hypokinesia, malignant hypertension, hypotension,and myocardial infarct have been reported.[Ref]
-Nervous system side effects including increased salivation, agitation, convulsion, and dizziness have been reported.[Ref]
+Respiratory side effects including coughing (34%), breathholding (up to 30%), apnea (15%), increased secretions, laryngospasm, oxyhemoglobin desaturation, pharyngitis, increased cough, dyspnea, respiratory arrest, respiratory failure, respiratory distress, bronchospasm, hemoptysis, and hypoxia have been reported.
+Gastrointestinal side effects including nausea (27%), vomiting (16%), acute pancreatitis, and abdominal pain have been reported.
+Cardiovascular side effects including bradycardia, hypertension, nodal arrhythmia, tachycardia, arrhythmia, bigeminy, abnormal electrocardiogram, myocardial ischemia, vasodilation, hemorrhage, cardiac arrest, Torsade de pointes, ventricular failure, ventricular hypokinesia, malignant hypertension, hypotension,and myocardial infarct have been reported.
+Nervous system side effects including increased salivation, agitation, convulsion, and dizziness have been reported.
 Hepatic side effects including hepatitis, hepatic failure, hepatic necrosis, cytolytic hepatitis, cholestasis, jaundice, abnormal hepatic function, liver disorder, increased transaminases, increased alanine aminotransferase, and increased aspartate aminotransferase  have been reported.
-General side effects including shock, malignant hyperthermia, asthenia, malaise, headache, and fever have been reported.[Ref]
-Ocular side effects including conjunctivitis (conjunctival hyperemia) and ocular icterus have been reported.[Ref]
-Metabolic side effects including hyperkalemia, hypokalemia, metabolic acidosis, and increased creatinine phosphokinase have been reported.[Ref]
-Musculoskeletal side effects including myalgia and rhabdomyolysis have been reported.[Ref]
-Dermatologic side effects including urticaria, erythema, and pruritus have been reported.[Ref]
+General side effects including shock, malignant hyperthermia, asthenia, malaise, headache, and fever have been reported.
+Ocular side effects including conjunctivitis (conjunctival hyperemia) and ocular icterus have been reported.
+Metabolic side effects including hyperkalemia, hypokalemia, metabolic acidosis, and increased creatinine phosphokinase have been reported.
+Musculoskeletal side effects including myalgia and rhabdomyolysis have been reported.
+Dermatologic side effects including urticaria, erythema, and pruritus have been reported.
 Hematologic side effects including coagulopathy have been reported.
-1. "Product Information. Suprane (desflurane)." Baxter Pharmaceutical Products, Inc, New Providence, NJ. 
-Not all side effects for desflurane may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Bluish lips or skin
 body aches or pain
 congestion
@@ -34,8 +24,6 @@ tightness in the chest
 trouble breathing
 trouble swallowing
 voice changes
-
-
 Blurred vision
 chest pain or discomfort
 dizziness
@@ -46,8 +34,6 @@ nervousness
 pounding in the ears
 slow or irregular heartbeat
 unusual tiredness
-
-
 Dark urine
 difficulty with moving
 feeling of warmth or heat
@@ -64,8 +50,6 @@ sweating
 swollen joints
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Abdominal or stomach pain
 confusion
 convulsions
@@ -78,12 +62,8 @@ numbness or tingling in the hands, feet, or lips
 stopping of heart
 unconsciousness
 weakness or heaviness of the legs
-
-
 Increased watering of the mouth
 redness of the white part of the eyes or inside of the eyelids
-
-
 Anxiety
 hyperventilation
 irritability
@@ -91,4 +71,3 @@ itching skin
 restlessness
 shaking
 trouble sleeping
-

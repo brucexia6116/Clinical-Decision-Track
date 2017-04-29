@@ -1,69 +1,21 @@
-Applies to gentamicin: injection injectable, injection solution
-In addition to its needed effects, some unwanted effects may be caused by gentamicin. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking gentamicin, check with your doctor or nurse immediately:
-Some of the side effects that can occur with gentamicin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to gentamicin: compounding powder, injectable solution, intravenous solution
-The most frequently reported adverse effects associated with gentamicin therapy are ototoxicity and nephrotoxicity.  These forms of toxicity occur more frequently in patients who experience prolonged exposure to serum gentamicin trough concentrations of greater than 2 mcg/mL.  Patients with renal insufficiency are at an increased risk of developing toxicity.[Ref]
-Acute renal failure due to gentamicin is usually nonoliguric with an average rise in serum creatinine of 1 to 3 mg/dL.  Renal function generally returns to baseline in 7 to 14 days.  Rarely, gentamicin produces renal tubular acidosis and renal potassium and magnesium wasting.  There is no relationship between acute renal failure and the daily dose of gentamicin, however, an increased incidence has been associated with a serum trough gentamicin concentration greater than 2 mcg/mL.  It has been suggested that there is a correlation between the higher peak concentrations associated with once-daily dosing and a higher incidence of nephrotoxicity.  Other predisposing factors include advanced age, preexisting renal insufficiency, dehydration, and concomitant use of other potentially nephrotoxic drugs.[Ref]
-Renal side effects associated with gentamicin use have included nephrotoxicity.  The overall incidence of aminoglycoside nephrotoxicity is 2% to 10%.  Gentamicin nephrotoxicity occurs in two forms: acute renal failure (ARF), and a more gradual, transient, and reversible azotemia.  Fanconi syndrome and Bartter-like syndrome have been reported.[Ref]
-The onset of ototoxicity may be asymptomatic or may manifest as dizziness, vertigo, ataxia, tinnitus, and roaring in the ears.  High tone hearing loss is often an early symptom of auditory toxicity.  It has been suggested that once-daily dosing of gentamicin is associated with a higher incidence of ototoxicity.Other side effects possibly related to gentamicin have included lethargy, confusion, depression, headache, pseudotumor cerebri, and acute organic brain syndrome.[Ref]
-Nervous system side effects have included ototoxicity, which generally presents as loss of vestibular function secondary to hair cell damage, but may also be auditory.  Ototoxicity is closely related to the development of renal impairment, and may be irreversible.  Peripheral neuropathy or encephalopathy with numbness, skin tingling, muscle twitching, seizures, and myasthenia gravis-like syndrome have also been reported.Intraventricular and intrathecal administration of gentamicin has rarely been associated with aseptic meningitis, transient hearing loss, and seizures.  Neuromuscular side effects including ataxia, paresis and incontinence have been reported after large intrathecal doses (40 mg to 160 mg) of preservative-containing gentamicin.  Concurrent administration of parenteral and intrathecal gentamicin has been associated with eighth nerve dysfunction, fever, convulsions, leg cramps, and increases in cerebrospinal fluid protein.[Ref]
-Musculoskeletal side effects have rarely included neuromuscular blockade, which occurs most commonly in patients who are predisposed including patients with myasthenia gravis, hypocalcemia, and those receiving a concomitant neuromuscular blocking agent.  Tetany and muscle weakness may be associated with gentamicin-induced hypomagnesemia, hypocalcemia, and hypokalemia.  Joint pain has also been reported.[Ref]
-Respiratory side effects have included case reports of respiratory depression and respiratory arrest.  Gentamicin has also been possibly associated with pulmonary fibrosis.[Ref]
-Hypersensitivity reactions possibly associated with gentamicin have included anaphylactoid reactions and laryngeal edema.  Suspected allergic reactions against gentamicin with sodium metabisulfite preservative have been reported.[Ref]
-Local reactions have occasionally included pain at the injection site, and rarely subcutaneous atrophy or fat necrosis at the injection site.  Reactions associated with intrathecal injections have included arachnoiditis and burning at the injection site.[Ref]
-Dermatologic side effects possibly associated with gentamicin have included rash, itching, urticaria, generalized burning, and alopecia.[Ref]
-Hematologic side effects possibly related to gentamicin use have included anemia, leukopenia, granulocytopenia, transient agranulocytosis, eosinophilia, increased and decreased reticulocyte counts, thrombocytopenia, immunologic thrombocytopenia, and purpura.[Ref]
-Hepatic side effects possibly related to gentamicin use have included transient hepatomegaly, and increases in serum transaminase, serum LDH, and bilirubin.[Ref]
-Cardiovascular side effects possibly related to gentamicin have included hypotension and hypertension.[Ref]
-Gastrointestinal side effects possibly related to gentamicin have included nausea, vomiting, weight loss, decreased appetite, increased salivation, and stomatitis.[Ref]
-Ocular side effects have included case reports of retinal ischemia resulting in loss of visual acuity after inadvertent intraocular injection of massive doses of gentamicin.[Ref]
-Other side effects possibly related to gentamicin have included transient splenomegaly and fever.[Ref]
-Pyrogenic reactions with symptoms of shaking, chills, fever, rigors, tachycardia, and/or hypotension have been reported with intravenous gentamicin.  These reactions generally occurred within 3 hours of administration and were believed to be due to once-daily gentamicin doses delivering sufficient endotoxin over one hour to be pyrogenic.[Ref]
-1. Minor LB "Gentamicin-induced bilateral vestibular hypofunction." JAMA 279 (1998): 541-4
-2. Barza M, Ioannidis JP, Cappelleri JC, Lau J "Single or multiple daily doses of aminoglycosides: a meta-analysis." BMJ 312 (1996): 338-45
-3. Dahlgren JG, Anderson ET, Hewitt WL "Gentamicin blood levels: a guide to nephrotoxicity." Antimicrob Agents Chemother 8 (1975): 58-62
-4. "Product Information. Garamycin (gentamicin)." Schering-Plough Corporation, Kenilworth, NJ. 
-5. Gendeh BS, Said H, Gibb AG, Aziz NS, Kong N, Zahir ZM "Gentamicin ototoxicity in continuous ambulatory peritoneal dialysis." J Laryngol Otol 107 (1993): 681-5
-6. Esterhai JL, Bednar J, Kimmelman CP "Gentamicin-induced ototoxicity complicating treatment of chronic osteomyelitis." Clin Orthop Aug (1986): 185-6
-7. Ristuccia AM, Cunha BA "The aminoglycosides." Med Clin North Am 66 (1982): 303-12
-8. ElBakri F, Pallett A, Smith AG, Duncombe AS "Ototoxicity induced by once-daily gentamicin." Lancet 351 (1998): 1407-8
-9. Gailiunas P, Dominguez-Moreno M, Lazarus JM, et al "Vestibular toxicity of gentamicin: incidence in patients receiving long-term hemodialysis therapy." Arch Intern Med 138 (1978): 1621-4
-10. Federspil P, Schatzle W, Tiesler E "Pharmacokinetics and ototoxicity of gentamicin, tobramycin and amikacin." J Infect Dis 134 (1976): s200-5
-11. Ghiculescu RA,  Kubler PA "Aminoglycoside-associated Fanconi syndrome." Am J Kidney Dis 48 (2006): e89-93
-12. Falagas ME,  Matthaiou DK,  Bliziotis IA "The role of aminoglycosides in combination with a beta-lactam for the treatment of bacterial endocarditis: a meta-analysis of comparative trials." J Antimicrob Chemother 57 (2006): 639-47
-13. Mwengee W,  Butler T,  Mgema S, et al. "Treatment of plague with gentamicin or doxycycline in a randomized clinical trial in Tanzania." Clin Infect Dis 42 (2006): 614-21
-14. Chou CL,  Chen YH,  Chau T,  Lin SH "Acquired bartter-like syndrome associated with gentamicin administration." Am J Med Sci 329 (2005): 144-9
-15. Beauchamp D, Gourde P, Theriault G, Bergeron MG "Age-dependent gentamicin experimental nephrotoxicity." J Pharmacol Exp Ther 260 (1992): 444-9
-16. Graham AC,  Mercier RC,  Achusim LE,  Pai MP "Extended-interval aminoglycoside dosing for treatment of enterococcal and staphylococcal osteomyelitis." Ann Pharmacother 38 (2004): 982-5
-17. Dovas S,  Liakopoulos V,  Papatheodorou L, et al. "Acute renal failure after antibiotic-impregnated bone cement treatment of an infected total knee arthroplasty." Clin Nephrol 69 (2008): 207-12
-18. Trollfors B, Alestig K, Krantz I, Norrby R "Quantitative nephrotoxicity of gentamicin in nontoxic doses." J Infect Dis 141 (1980): 306-9
-19. Fanning WL, Gump D, Jick H "Gentamicin and cephalothin-associated rises in blood urea nitrogen." Antimicrob Agents Chemother 10 (1976): 80-2
-20. Nanji AA, Denegri JF "Hypomagnesemia associated with gentamicin therapy." Drug Intell Clin Pharm 18 (1984): 596-8
-21. Mawer GE, Ahmad R, Dobbs SM, McGough JG "Prescribing aids for gentamicin." Br J Clin Pharmacol 1 (1974): 45-50
-22. Morgan MG "Gentamicin twice daily: the case for." J Antimicrob Chemother 47 (2001): 121-2
-23. Chan AL,  Wang HY,  Leung HW "Incorporation of a gentamicin dosage calculator into a computerized prescriber-order-entry system." Am J Health Syst Pharm 63 (2006): 1344-5
-24. Chen YS,  Fang HC,  Chou KR, et al. "Gentamicin-induced Bartter-like Syndrome." Am J Kidney Dis 54 (2009): 1158-61
-25. Dang L,  Duffull S "Development of a semimechanistic model to describe the pharmacokinetics of gentamicin in patients receiving hemodialysis." J Clin Pharmacol 46 (2006): 662-73
-26. Kirkpatrick CM,  Duffull SB,  Begg EJ,  Frampton C "The use of a change in gentamicin clearance as an early predictor of gentamicin-induced nephrotoxicity." Ther Drug Monit 25 (2003): 623-30
-27. Ramakrishnan K,  Scheid DC "Diagnosis and management of acute pyelonephritis in adults." Am Fam Physician 71 (2005): 933-42
-28. Mulheran M,  Degg C,  Burr S,  Morgan DW,  Stableforth DE "Occurrence and risk of cochleotoxicity in cystic fibrosis patients receiving repeated high-dose aminoglycoside therapy." Antimicrob Agents Chemother 45 (2001): 2502-9
-29. Haase KK, Lapointe M, Haines SJ "Aseptic meningitis after intraventricular administration of gentamicin." Pharmacotherapy 21 (2001): 103-7
-30. Ariano RE,  Zelenitsky SA,  Kassum DA "Aminoglycoside-induced vestibular injury: maintaining a sense of balance." Ann Pharmacother 42 (2008): 1282-9
-31. Deryke CA,  Sutherland C,  Zhang B,  Nicolau DP,  Kuti JL "Serum Bactericidal Activities of High-Dose Daptomycin with and without Coadministration of Gentamicin against Isolates of Staphylococcus aureus and Enterococcus species." Antimicrob Agents Chemother 50 (2006): 3529-34
-32. Duncan R, Melville ID "Severe rombergism due to gentamicin toxicity." Br Med J 295 (1987): 1141
-33. Brownsberger RJ, Morrelli HF "Neuromuscular blockade due to gentamicin sulfate." West J Med 148 (1988): 215
-34. Deziel-Evans LM, Hussey WC "Possible sulfite sensitivity with gentamicin infusion." Drug Intell Clin Pharm 23 (1989): 1032-3
-35. Chen JH, Wiener L, Distenfeld A "Immunologic thrombocytopenia: induced by gentamicin." N Y State J Med 80 (1980): 1134-5
-36. Hasanjani Roushan MR,  Mohraz M,  Hajiahmadi M,  Ramzani A,  Valayati AA "Efficacy of Gentamicin plus Doxycycline versus Streptomycin plus Doxycycline in the Treatment of Brucellosis in Humans." Clin Infect Dis 42 (2006): 1075-80
-37. McDonald HR, Schatz H, Allen AW, et al "Retinal toxicity secondary to intraocular gentamicin injection." Ophthalmology 93 (1986): 871-7
-38. Lucas KH, Schliesser SH, ONeil MG "Shaking, chills, and rigors with once-daily gentamicin." Pharmacotherapy 19 (1999): 1102-4
-39. "Endotoxin reactions reported with once-daily gentamicin." Am J Health Syst Pharm 55 (1998): 2593-4
-Not all side effects for gentamicin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported adverse effects associated with gentamicin therapy are ototoxicity and nephrotoxicity.  These forms of toxicity occur more frequently in patients who experience prolonged exposure to serum gentamicin trough concentrations of greater than 2 mcg/mL.  Patients with renal insufficiency are at an increased risk of developing toxicity.
+Acute renal failure due to gentamicin is usually nonoliguric with an average rise in serum creatinine of 1 to 3 mg/dL.  Renal function generally returns to baseline in 7 to 14 days.  Rarely, gentamicin produces renal tubular acidosis and renal potassium and magnesium wasting.  There is no relationship between acute renal failure and the daily dose of gentamicin, however, an increased incidence has been associated with a serum trough gentamicin concentration greater than 2 mcg/mL.  It has been suggested that there is a correlation between the higher peak concentrations associated with once-daily dosing and a higher incidence of nephrotoxicity.  Other predisposing factors include advanced age, preexisting renal insufficiency, dehydration, and concomitant use of other potentially nephrotoxic drugs.
+Renal side effects associated with gentamicin use have included nephrotoxicity.  The overall incidence of aminoglycoside nephrotoxicity is 2% to 10%.  Gentamicin nephrotoxicity occurs in two forms: acute renal failure (ARF), and a more gradual, transient, and reversible azotemia.  Fanconi syndrome and Bartter-like syndrome have been reported.
+The onset of ototoxicity may be asymptomatic or may manifest as dizziness, vertigo, ataxia, tinnitus, and roaring in the ears.  High tone hearing loss is often an early symptom of auditory toxicity.  It has been suggested that once-daily dosing of gentamicin is associated with a higher incidence of ototoxicity.Other side effects possibly related to gentamicin have included lethargy, confusion, depression, headache, pseudotumor cerebri, and acute organic brain syndrome.
+Nervous system side effects have included ototoxicity, which generally presents as loss of vestibular function secondary to hair cell damage, but may also be auditory.  Ototoxicity is closely related to the development of renal impairment, and may be irreversible.  Peripheral neuropathy or encephalopathy with numbness, skin tingling, muscle twitching, seizures, and myasthenia gravis-like syndrome have also been reported.Intraventricular and intrathecal administration of gentamicin has rarely been associated with aseptic meningitis, transient hearing loss, and seizures.  Neuromuscular side effects including ataxia, paresis and incontinence have been reported after large intrathecal doses (40 mg to 160 mg) of preservative-containing gentamicin.  Concurrent administration of parenteral and intrathecal gentamicin has been associated with eighth nerve dysfunction, fever, convulsions, leg cramps, and increases in cerebrospinal fluid protein.
+Musculoskeletal side effects have rarely included neuromuscular blockade, which occurs most commonly in patients who are predisposed including patients with myasthenia gravis, hypocalcemia, and those receiving a concomitant neuromuscular blocking agent.  Tetany and muscle weakness may be associated with gentamicin-induced hypomagnesemia, hypocalcemia, and hypokalemia.  Joint pain has also been reported.
+Respiratory side effects have included case reports of respiratory depression and respiratory arrest.  Gentamicin has also been possibly associated with pulmonary fibrosis.
+Hypersensitivity reactions possibly associated with gentamicin have included anaphylactoid reactions and laryngeal edema.  Suspected allergic reactions against gentamicin with sodium metabisulfite preservative have been reported.
+Local reactions have occasionally included pain at the injection site, and rarely subcutaneous atrophy or fat necrosis at the injection site.  Reactions associated with intrathecal injections have included arachnoiditis and burning at the injection site.
+Dermatologic side effects possibly associated with gentamicin have included rash, itching, urticaria, generalized burning, and alopecia.
+Hematologic side effects possibly related to gentamicin use have included anemia, leukopenia, granulocytopenia, transient agranulocytosis, eosinophilia, increased and decreased reticulocyte counts, thrombocytopenia, immunologic thrombocytopenia, and purpura.
+Hepatic side effects possibly related to gentamicin use have included transient hepatomegaly, and increases in serum transaminase, serum LDH, and bilirubin.
+Cardiovascular side effects possibly related to gentamicin have included hypotension and hypertension.
+Gastrointestinal side effects possibly related to gentamicin have included nausea, vomiting, weight loss, decreased appetite, increased salivation, and stomatitis.
+Ocular side effects have included case reports of retinal ischemia resulting in loss of visual acuity after inadvertent intraocular injection of massive doses of gentamicin.
+Other side effects possibly related to gentamicin have included transient splenomegaly and fever.
+Pyrogenic reactions with symptoms of shaking, chills, fever, rigors, tachycardia, and/or hypotension have been reported with intravenous gentamicin.  These reactions generally occurred within 3 hours of administration and were believed to be due to once-daily gentamicin doses delivering sufficient endotoxin over one hour to be pyrogenic.
 Abdominal or stomach cramps or pain
 agitation
 back pain
@@ -128,8 +80,6 @@ unusual tiredness or weakness
 weight chest discomfort
 weight loss
 wheezing
-
-
 Blurred or loss of vision
 decreased appetite
 depression
@@ -146,4 +96,3 @@ redness of the skin
 swelling or inflammation of the mouth
 tunnel vision
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
-

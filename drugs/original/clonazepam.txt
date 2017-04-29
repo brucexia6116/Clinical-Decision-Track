@@ -1,33 +1,21 @@
 Commonly reported side effects of clonazepam include: upper respiratory tract infection, ataxia, dizziness, and drowsiness. Other side effects include: depression, dysarthria, fatigue, hypersensitivity reaction, increased cough, myalgia, nervousness, rhinitis, sinusitis, vaginitis, and reduced intellectual ability.  See below for a comprehensive list of adverse effects.
-Applies to clonazepam: oral solution, oral tablet, oral tablet disintegrating
-In addition to its needed effects, some unwanted effects may be caused by clonazepam. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking clonazepam:
-Some of the side effects that can occur with clonazepam may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to clonazepam: oral tablet, oral tablet disintegrating
-The most commonly reported side effects were drowsiness, ataxia, and behavioral problems.[Ref]
-Common (1% to 10%): Depression, emotional lability, confusionFrequency not reported: Hallucinations, hysteria, insomnia, psychosis, excitability, irritability, aggressive behavior, agitation, hostility, anxiety, vivid dreams, hyperactivity, hypoesthesia, organic disinhibition, depersonalization, apathy, excitement, feeling mad, illusion, nightmares, sleep disorders, suicide ideation[Ref]
-Very common (10% or more): Somnolence (up to 50%), Dizziness (up to 12%)Common (1% to 10%): Nervousness, ataxia, reduced intellectual ability, abnormal coordination, dysarthria, memory disturbanceFrequency not reported: Aphonia, choreiform movements, coma, dysdiadochokinesis, "glassy-eyed" appearance, headache, hemiparesis, hypotonia, nystagmus, slurred speech, tremor, vertigo, taste loss, migraine, paresthesia[Ref]
-Common (1% to 10%): Allergic Reaction[Ref]
-Frequency not reported: Hepatomegaly, transient elevations of serum transaminases and alkaline phosphatase[Ref]
-Common (1% to 10%): FatigueFrequency not reported: Ankle edema, facial edema, periorbital edema, general deterioration, fever, wound, shivering, malaise, pain, localized inflammation, earache, motion sickness[Ref]
-Common (1% to 10%): Decreased libido, increased libido, urinary tract infection, dysmenorrhea, colpitis, impotence, delayed ejaculation Frequency not reported: Dysuria, enuresis, nocturia, urinary retention, breast pain, menstrual irregularity, dysuria, cystitis, polyuria, urinary incontinence, bladder dysfunction, urinary tract bleeding, urine discoloration[Ref]
-Frequency not reported: Lymphadenopathy, anemia, leukopenia, thrombocytopenia, eosinophilia, dermal bleeding[Ref]
-Common (1% to 10%): Constipation, decreased appetite, abdominal painFrequency not reported: Coated tongue, diarrhea, dry mouth, encopresis, gastritis, increased appetite, nausea, sore gum, abdominal discomfort, gastrointestinal inflammation, stomach upset, toothache, flatulence, pyrosis, increased saliva, tooth disorder, frequent bowel movements, pelvic pain, dyspepsia, hemorrhoids, hypersalivation[Ref]
-Very common (10% or more): Upper respiratory tract infection (10%)Common (1% to 10%): Sinusitis, rhinitis, coughing, pharyngitis, bronchitis, influenzaFrequency not reported: Respiratory depression, chest congestion, rhinorrhea, hypersecretion in upper respiratory passages, excessive sneezing, asthmatic attack, dyspnea, nosebleed, pneumonia, pleurisy[Ref]
-Frequency not reported: Hair loss, hirsutism, skin rash, cellulitis, acne flare, alopecia, xeroderma, contact dermatitis, pruritus, pustular reaction, skin burns, skin disorder[Ref]
-Common (1% to 10%): Blurred visionFrequency not reported: Diplopia, eye irritation, visual disturbance, eye twitching, styes, visual field defect, xerophthalmia[Ref]
-Frequency not reported: Anorexia, dehydration, weight loss/gain, thirst, gout[Ref]
-Frequency not reported: Palpitations, chest pain, postural hypotension, heart rate and rhythm disorders, flushing, leg thrombophlebitis[Ref]
-Frequency not reported: Reversible development of premature secondary sex characteristics in children (incomplete precocious puberty)[Ref]
-Frequency not reported: Mycotic infection, viral infection, streptococcal infection, herpes simplex infection, infectious mononucleosis, moniliasis[Ref]
-Common (1% to 10%): MyalgiaFrequency not reported: Muscle weakness, back pain, traumatic fracture, sprains/ strains, leg pain, neck pain, muscle cramps, leg cramps, ankle pain, shoulder pain, tendinitis, arthralgia, hypertonia, lumbago, feet pain, jaw pain, knee pain, knee swelling[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Klonopin (clonazepam)." Roche Laboratories, Nutley, NJ. 
-Not all side effects for clonazepam may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were drowsiness, ataxia, and behavioral problems.
+Common (1% to 10%): Depression, emotional lability, confusionFrequency not reported: Hallucinations, hysteria, insomnia, psychosis, excitability, irritability, aggressive behavior, agitation, hostility, anxiety, vivid dreams, hyperactivity, hypoesthesia, organic disinhibition, depersonalization, apathy, excitement, feeling mad, illusion, nightmares, sleep disorders, suicide ideation
+Very common (10% or more): Somnolence (up to 50%), Dizziness (up to 12%)Common (1% to 10%): Nervousness, ataxia, reduced intellectual ability, abnormal coordination, dysarthria, memory disturbanceFrequency not reported: Aphonia, choreiform movements, coma, dysdiadochokinesis, "glassy-eyed" appearance, headache, hemiparesis, hypotonia, nystagmus, slurred speech, tremor, vertigo, taste loss, migraine, paresthesia
+Common (1% to 10%): Allergic Reaction
+Frequency not reported: Hepatomegaly, transient elevations of serum transaminases and alkaline phosphatase
+Common (1% to 10%): FatigueFrequency not reported: Ankle edema, facial edema, periorbital edema, general deterioration, fever, wound, shivering, malaise, pain, localized inflammation, earache, motion sickness
+Common (1% to 10%): Decreased libido, increased libido, urinary tract infection, dysmenorrhea, colpitis, impotence, delayed ejaculation Frequency not reported: Dysuria, enuresis, nocturia, urinary retention, breast pain, menstrual irregularity, dysuria, cystitis, polyuria, urinary incontinence, bladder dysfunction, urinary tract bleeding, urine discoloration
+Frequency not reported: Lymphadenopathy, anemia, leukopenia, thrombocytopenia, eosinophilia, dermal bleeding
+Common (1% to 10%): Constipation, decreased appetite, abdominal painFrequency not reported: Coated tongue, diarrhea, dry mouth, encopresis, gastritis, increased appetite, nausea, sore gum, abdominal discomfort, gastrointestinal inflammation, stomach upset, toothache, flatulence, pyrosis, increased saliva, tooth disorder, frequent bowel movements, pelvic pain, dyspepsia, hemorrhoids, hypersalivation
+Very common (10% or more): Upper respiratory tract infection (10%)Common (1% to 10%): Sinusitis, rhinitis, coughing, pharyngitis, bronchitis, influenzaFrequency not reported: Respiratory depression, chest congestion, rhinorrhea, hypersecretion in upper respiratory passages, excessive sneezing, asthmatic attack, dyspnea, nosebleed, pneumonia, pleurisy
+Frequency not reported: Hair loss, hirsutism, skin rash, cellulitis, acne flare, alopecia, xeroderma, contact dermatitis, pruritus, pustular reaction, skin burns, skin disorder
+Common (1% to 10%): Blurred visionFrequency not reported: Diplopia, eye irritation, visual disturbance, eye twitching, styes, visual field defect, xerophthalmia
+Frequency not reported: Anorexia, dehydration, weight loss/gain, thirst, gout
+Frequency not reported: Palpitations, chest pain, postural hypotension, heart rate and rhythm disorders, flushing, leg thrombophlebitis
+Frequency not reported: Reversible development of premature secondary sex characteristics in children (incomplete precocious puberty)
+Frequency not reported: Mycotic infection, viral infection, streptococcal infection, herpes simplex infection, infectious mononucleosis, moniliasis
+Common (1% to 10%): MyalgiaFrequency not reported: Muscle weakness, back pain, traumatic fracture, sprains/ strains, leg pain, neck pain, muscle cramps, leg cramps, ankle pain, shoulder pain, tendinitis, arthralgia, hypertonia, lumbago, feet pain, jaw pain, knee pain, knee swelling
 Body aches or pain
 chills
 cough
@@ -54,8 +42,6 @@ trouble concentrating
 trouble sleeping
 unsteadiness, trembling, or other problems with muscle control or coordination
 unusual tiredness or weakness
-
-
 Being forgetful
 bladder pain
 bloody or cloudy urine
@@ -78,8 +64,6 @@ sore throat
 sweating
 trouble speaking
 vomiting
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 changes in skin color
 chest pain or discomfort
@@ -118,8 +102,6 @@ tightness in the chest
 trembling or shaking of the hands or feet
 uncaring
 vision changes
-
-
 Abdominal pain or fullness
 anxiety
 black, tarry stools
@@ -156,8 +138,6 @@ unusual bleeding or bruising
 unusual weakness
 vivid dreams
 weight loss or gain
-
-
 Decreased interest in sexual intercourse
 difficulty with swallowing
 dryness or soreness of the throat
@@ -169,8 +149,6 @@ loss in sexual ability, desire, drive, or performance
 pain or tenderness around the eyes and cheekbones
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 voice changes
-
-
 Acid or sour stomach
 ankle, knee, or great toe joint pain
 belching
@@ -223,8 +201,6 @@ tunnel vision
 twitching of the eyes
 uncomfortable swelling around the anus
 worsening of acne
-
-
 Burning feeling in the chest or stomach
 difficulty having a bowel movement (stool)
 increased appetite
@@ -233,4 +209,3 @@ increased in sexual ability, desire, drive, or performance
 increased interest in sexual intercourse
 sore gums
 tenderness in the stomach area
-

@@ -1,35 +1,22 @@
-Generic Name: nitroglycerin
-Applies to nitroglycerin: capsule extended release, packet, spray, tablet, tablet extended release
 Other dosage forms:
 As well as its needed effects, nitroglycerin (the active ingredient contained in Nitro-Bid) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking nitroglycerin, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking nitroglycerin, get emergency help immediately:
-
 Some nitroglycerin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to nitroglycerin: buccal tablet extended release, intravenous solution, oral capsule extended release, rectal ointment, sublingual powder, sublingual spray, sublingual tablet, transdermal film extended release, transdermal ointment
-The most common side effect is headache.[Ref]
-Very common (10% or more): Headache (up to 64%)Common (1% to 10%): Dizziness, lightheadedness, syncope, vertigo, drowsinessRare (0.1% to 0.01%): Severe and prolonged headacheVery rare (less than 0.01%): Cerebral ischemiaFrequency not reported: Faintness, somnolence[Ref]
-Common (1% to 10%): Hypotension, angina increased, paradoxical bradycardia, tachycardia, orthostatic hypotension, blood pressure decreased, facial flushingUncommon (0.1 to 1%): Circulatory collapseRare (less than 0.1%): Bradycardia, cyanosis, flushing, heart rate increaseFrequency not reported: Crescendo angina, rebound hypertension, palpitations, hypertension, decreased arterial oxygen tension, severe arterial hypotension with bradycardia, transient flushing[Ref]
-Common (1% to 10%): Nausea, vomitingRare (0.01% to 0.1%): Dry mouthVery rare (less than 0.01%): Heartburn, halitosisFrequency not reported: Abdominal pain, retching, lip and tongue swelling[Ref]
-Uncommon (0.1% to 1%): Dermatitis contact, erythema, pruritus, burning, irritation, eczema, urticariaRare (0.01 to 0.1%): Allergic skin reactions, rashVery rare (less than 0.01%): Exfoliative dermatitis, drug rashFrequency not reported: Cutaneous flushing, diaphoresis, angioedemaPostmarketing reports: Rash generalized[Ref]
-Common (1% to 10%): Asthenia, weaknessFrequency not reported: Retrosternal discomfort[Ref]
-Rare (less than 0.1%): Hypersensitivity reactions, anaphylaxisFrequency not reported: Allergic reaction, anaphylactoid reaction[Ref]
-Common (1% to 10%): RestlessnessFrequency not reported: Apprehension[Ref]
-Very rare (less than 0.01%): Impairment of respirationFrequency not reported: Hypoxemia, dyspnea[Ref]
-Very rare (less than 0.01%): Methemoglobinemia[Ref]
-Rare (less than 0.1%): Blurred visionFrequency not reported: Increased ocular pressure[Ref]
-Frequency not reported: Muscle twitching[Ref]
-1. "Product Information. Nitrolingual (nitroglycerin)." First Horizon Pharmaceutical Corporation, Alpharetta, GA. 
-2. "Product Information. Nitrostat (nitroglycerin)." Parke-Davis, Morris Plains, NJ. 
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-5. "Product Information. Tridil (nitroglycerin)." DuPont Pharmaceuticals, Wilmington, DE. 
+The most common side effect is headache.
+Very common (10% or more): Headache (up to 64%)Common (1% to 10%): Dizziness, lightheadedness, syncope, vertigo, drowsinessRare (0.1% to 0.01%): Severe and prolonged headacheVery rare (less than 0.01%): Cerebral ischemiaFrequency not reported: Faintness, somnolence
+Common (1% to 10%): Hypotension, angina increased, paradoxical bradycardia, tachycardia, orthostatic hypotension, blood pressure decreased, facial flushingUncommon (0.1 to 1%): Circulatory collapseRare (less than 0.1%): Bradycardia, cyanosis, flushing, heart rate increaseFrequency not reported: Crescendo angina, rebound hypertension, palpitations, hypertension, decreased arterial oxygen tension, severe arterial hypotension with bradycardia, transient flushing
+Common (1% to 10%): Nausea, vomitingRare (0.01% to 0.1%): Dry mouthVery rare (less than 0.01%): Heartburn, halitosisFrequency not reported: Abdominal pain, retching, lip and tongue swelling
+Uncommon (0.1% to 1%): Dermatitis contact, erythema, pruritus, burning, irritation, eczema, urticariaRare (0.01 to 0.1%): Allergic skin reactions, rashVery rare (less than 0.01%): Exfoliative dermatitis, drug rashFrequency not reported: Cutaneous flushing, diaphoresis, angioedemaPostmarketing reports: Rash generalized
+Common (1% to 10%): Asthenia, weaknessFrequency not reported: Retrosternal discomfort
+Rare (less than 0.1%): Hypersensitivity reactions, anaphylaxisFrequency not reported: Allergic reaction, anaphylactoid reaction
+Common (1% to 10%): RestlessnessFrequency not reported: Apprehension
+Very rare (less than 0.01%): Impairment of respirationFrequency not reported: Hypoxemia, dyspnea
+Very rare (less than 0.01%): Methemoglobinemia
+Rare (less than 0.1%): Blurred visionFrequency not reported: Increased ocular pressure
+Frequency not reported: Muscle twitching
 It is possible that some side effects of Nitro-Bid may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 intravenous injectable, intravenous kit, intravenous solutionrectal ointmenttransdermal ointment, transdermal patch extended release
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 difficult or labored breathing
@@ -42,8 +29,6 @@ sweating
 tightness in the chest
 tingling of the hands or feet
 unusual weight gain or loss
-
-
 Bluish-colored lips, fingernails, or palms
 dark urine
 fever
@@ -52,8 +37,6 @@ rapid heart rate
 sore throat
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Arm, back, or jaw pain
 blurred vision
 chest pain or discomfort
@@ -77,8 +60,6 @@ redness of the face, neck, arms, and occasionally, upper chest
 scaly skin
 sensation of spinning
 weakness
-
-
 Bluish-colored lips, fingernails, or palms
 blurred or loss of vision
 bulging soft spot on the head of an infant
@@ -106,8 +87,6 @@ sore throat
 tunnel vision
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 body aches or pain
 congestion
@@ -118,4 +97,3 @@ sneezing
 stuffy nose
 tender, swollen glands in the neck
 voice changes
-

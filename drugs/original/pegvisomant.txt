@@ -1,27 +1,19 @@
-Applies to pegvisomant: subcutaneous powder for solution
 As well as its needed effects, pegvisomant may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking pegvisomant, check with your doctor immediately:
 Some pegvisomant side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to pegvisomant: subcutaneous powder for injection
-During premarketing clinical studies two patients (0.8%) had elevations of serum concentrations of alanine aminotransferase and aspartate aminotransferase greater than 10 times the upper limit of normal.  In both patients, the transaminase elevations normalized after discontinuation of the drug.  In other studies, up to 12% of patients experienced abnormal liver function tests.[Ref]
-Hepatic side effects have included abnormal liver function tests (elevations of serum concentrations of alanine aminotransferase and aspartate aminotransferase) in up to 12% of patients treated.[Ref]
-Immunologic side effects have included the development of low titer non-neutralizing antigrowth hormone antibodies.[Ref]
-General side effects have included infection (23 to 33%), pain (8 to 23%), flu syndrome (12 to 21%), and accidental injury (8 to 18%).[Ref]
-Musculoskeletal side effects have included back pain (8%) and chest pain (4%).[Ref]
-Respiratory side effects have included sinusitis (8%).[Ref]
-Gastrointestinal side effects have included diarrhea (4%) and nausea (8%).[Ref]
-Nervous system side effects have included headache (26%), dizziness (8%) and paresthesias (7%).[Ref]
-Cardiovascular side effects have included hypertension (8%) and peripheral edema (8%).[Ref]
-Local side effects have included injection site reactions (11%).[Ref]
-Metabolic side effects have included hypercholesterolemia (14%).  Lipohypertrophy has been reported in less than 5% of patients following pegvisomant administration.[Ref]
+During premarketing clinical studies two patients (0.8%) had elevations of serum concentrations of alanine aminotransferase and aspartate aminotransferase greater than 10 times the upper limit of normal.  In both patients, the transaminase elevations normalized after discontinuation of the drug.  In other studies, up to 12% of patients experienced abnormal liver function tests.
+Hepatic side effects have included abnormal liver function tests (elevations of serum concentrations of alanine aminotransferase and aspartate aminotransferase) in up to 12% of patients treated.
+Immunologic side effects have included the development of low titer non-neutralizing antigrowth hormone antibodies.
+General side effects have included infection (23 to 33%), pain (8 to 23%), flu syndrome (12 to 21%), and accidental injury (8 to 18%).
+Musculoskeletal side effects have included back pain (8%) and chest pain (4%).
+Respiratory side effects have included sinusitis (8%).
+Gastrointestinal side effects have included diarrhea (4%) and nausea (8%).
+Nervous system side effects have included headache (26%), dizziness (8%) and paresthesias (7%).
+Cardiovascular side effects have included hypertension (8%) and peripheral edema (8%).
+Local side effects have included injection site reactions (11%).
+Metabolic side effects have included hypercholesterolemia (14%).  Lipohypertrophy has been reported in less than 5% of patients following pegvisomant administration.
 Hypersensitivity reactions have included postmarketing reports of systemic hypersensitivity reactions including anaphylactic reactions, laryngospasm, angioedema, and generalized skin reactions (rash, erythema, pruritus, and urticaria).
-1. van der Lely AJ,  Hutson RK,  Trainer PJ, et al. "Long-term treatment of acromegaly with pegvisomant, a growth hormone receptor antagonist." Lancet 358 (2001): 1754-9
-2. "Product Information. Somavert (pegvisomant)." Pharmacia and Upjohn, Kalamazoo, MI. 
-3. Stewart PM "Pegvisomant: an advance in clinical efficacy in acromegaly." Eur J Endocrinol 148 Suppl 2 (2003): S027-32
 It is possible that some side effects of pegvisomant may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bleeding, blistering, burning, coldness, or discoloration of skin at site of injection
 bloating or swelling of face, arms, hands, lower legs, or feet
 blurred vision
@@ -43,11 +35,7 @@ rapid weight gain
 slow or fast heartbeat
 tingling of hands or feet
 unusual weight gain or loss
-
-
 Thickening of the skin
-
-
 Abdominal pain or tenderness
 clay colored stools
 dark urine
@@ -59,8 +47,6 @@ nausea and vomiting
 skin rash
 unusual tiredness or weakness
 yellow eyes or skin
-
-
 Accidental injury
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 diarrhea
@@ -76,4 +62,3 @@ sore throat
 sweating
 tightness of chest or wheezing
 trouble sleeping
-

@@ -1,25 +1,13 @@
-Applies to ethosuximide: oral capsule liquid filled, oral syrup
-In addition to its needed effects, some unwanted effects may be caused by ethosuximide. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking ethosuximide:
-
 If any of the following symptoms of overdose occur while taking ethosuximide, get emergency help immediately:
-
-Some of the side effects that can occur with ethosuximide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ethosuximide: oral capsule, oral syrup
-Gastrointestinal side effects have frequently included anorexia, vague gastric upset, nausea, vomiting, cramps, epigastric and abdominal pain, weight loss, and diarrhea.  Gum hypertrophy and swelling of the tongue have also been reported.[Ref]
-Hematologic side effects have included leukopenia, agranulocytosis, pancytopenia (with or without bone marrow suppression), and eosinophilia.[Ref]
-Nervous system side effects have included drowsiness, headache, dizziness, euphoria, hiccups, irritability, hyperactivity, lethargy, fatigue, and ataxia.[Ref]
-The manufacturer reports psychiatric side effects associated with ethosuximide therapy may be more frequent in patients who have previously exhibited psychosocial abnormalities.[Ref]
-Psychiatric side effects have included sleep disturbances, night terrors, inability to concentrate, and aggressiveness.  Paranoid psychosis, increased libido, and increased state of depression with overt suicidal intentions have been reported rarely.[Ref]
-Dermatologic side effects have included urticaria, Stevens-Johnson syndrome (SJS), systemic lupus erythematosus, pruritic erythematous rashes, and hirsutism.  SJS symptoms usually manifest within 28 days, but may occur later and can be fatal.[Ref]
-Ocular side effects have included myopia.[Ref]
-Genitourinary side effects have included vaginal bleeding and microscopic hematuria.[Ref]
+Gastrointestinal side effects have frequently included anorexia, vague gastric upset, nausea, vomiting, cramps, epigastric and abdominal pain, weight loss, and diarrhea.  Gum hypertrophy and swelling of the tongue have also been reported.
+Hematologic side effects have included leukopenia, agranulocytosis, pancytopenia (with or without bone marrow suppression), and eosinophilia.
+Nervous system side effects have included drowsiness, headache, dizziness, euphoria, hiccups, irritability, hyperactivity, lethargy, fatigue, and ataxia.
+The manufacturer reports psychiatric side effects associated with ethosuximide therapy may be more frequent in patients who have previously exhibited psychosocial abnormalities.
+Psychiatric side effects have included sleep disturbances, night terrors, inability to concentrate, and aggressiveness.  Paranoid psychosis, increased libido, and increased state of depression with overt suicidal intentions have been reported rarely.
+Dermatologic side effects have included urticaria, Stevens-Johnson syndrome (SJS), systemic lupus erythematosus, pruritic erythematous rashes, and hirsutism.  SJS symptoms usually manifest within 28 days, but may occur later and can be fatal.
+Ocular side effects have included myopia.
+Genitourinary side effects have included vaginal bleeding and microscopic hematuria.
 Other side effects reported postmarketing have included Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
-1. "Product Information. Zarontin (ethosuximide)." Parke-Davis, Morris Plains, NJ. 
-Not all side effects for ethosuximide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Changes in behavior
 discouragement
 feeling sad or empty
@@ -31,8 +19,6 @@ thoughts of killing oneself
 tiredness
 trouble with concentrating
 trouble with sleeping
-
-
 Attack, assault, or force
 blistering, peeling, or loosening of the skin
 blood in the urine
@@ -74,18 +60,12 @@ unusual tiredness or weakness
 vaginal bleeding
 vision changes
 yellow eyes or skin 
-
-
 Change in consciousness
 irregular, fast or slow, or shallow breathing
 loss of consciousness
 pale or blue lips, fingernails, or skin
-
-
 Increased in sexual ability, desire, drive, or performance
 increased interest in sexual intercourse
-
-
 Cramps
 dizziness
 drowsiness
@@ -99,4 +79,3 @@ pain or discomfort in the chest, upper stomach, or throat
 redness of the skin
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 weight loss
-

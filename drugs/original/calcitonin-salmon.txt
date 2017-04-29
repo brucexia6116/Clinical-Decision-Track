@@ -1,56 +1,23 @@
 Commonly reported side effects of calcitonin include: nausea, vomiting, and inflammation at injection site. Other side effects include: diarrhea, flushing of face and neck, flushing of hands and feet, gastrointestinal symptoms, stomach pain, flushing, irritation at injection site, pain at injection site, and swelling at injection site.  See below for a comprehensive list of adverse effects.
-Applies to calcitonin: injection injectable, injection solution
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by calcitonin. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking calcitonin:
-Some of the side effects that can occur with calcitonin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to calcitonin: injectable solution, nasal spray
-Side effects are often mild, but commonly occur in about 10% of patients and may occur in up to 30%.  About one third of treated patients discontinue the drug due to side effects.  Diminished adverse effects occur with the subcutaneous route versus the intramuscular route.  After injection, side effects generally occur within an hour.Calcitonin is a large, manufactured peptide.  A certain percentage of what is produced during manufacturing may be "error peptides" which may increase or change the side effects.[Ref]
-Nausea is the most common symptom and occurs in about 10% to 21% of patients.  Vomiting, diarrhea, anorexia, and abdominal discomfort are also common effects of calcitonin.  A metallic taste is reported.[Ref]
-A 71-year-old with Paget's disease was treated with 100 intl units of synthetic salmon calcitonin five times a week.  After each injection she experienced nausea, vomiting, and severe shivering.  Administration of the 5HT antagonist pizotifen eliminated the side effects.[Ref]
-Cardiovascular side effects including tingling of the hands and flushing of the palms, soles, face, or ears are common.  A feeling of pressure in the chest may occur.[Ref]
-Central nervous system side effects of shivering, chills, paresthesias, dizziness, headache, vertigo, migraine, neuralgia, agitation and tremor have been reported.  Tetany has been reported rarely.[Ref]
-Within 90 minutes of a subcutaneous injection of 100 intl units of synthetic salmon calcitonin, a 35-year-old woman developed widespread fine tremor which lasted an hour.  The reaction could be repeated with a different batch of the drug but not with placebo.[Ref]
-Local side effects including pain, wheals, and erythema at the injection site have been reported.  Local reactions are less likely after injection of synthetic human calcitonin than with the synthetic salmon preparation.[Ref]
-Respiratory side effects of shortness of breath and nasal congestion occur infrequently.  Rhinorrhea, mild nose bleeds, and nasal dryness may occur with nasal administration.[Ref]
-Antibodies may develop to extracted or synthetic calcitonin products after chronic use.  The time to antibody development is variable and patient dependent.  Antibodies have been reported with the salmon preparation, and rarely to the human product.  Antibody development will render a patient resistant to therapy.[Ref]
-A study of 20 postmenopausal women on calcitonin for osteoporosis for 6 months showed that about seven hours after administration of 100 intl units (intramuscularly) of synthetic salmon calcitonin a mild metabolic acidosis developed.[Ref]
-Hyperglycemia has been reported as a metabolic side effect in patients with Paget's disease.  Impaired glucose tolerance may occur in healthy volunteers.  Diabetics may lose control of blood sugar.Metabolic acidosis and hypocalcemia may occur.  Transient increases in water and sodium excretion may occur.[Ref]
-Renal side effects including polyuria and urinary frequency may occur in 5% to 10% of patients.  Abnormal urinary sediment (but not proteinuria or reduced creatinine clearance) is a rare side effect.[Ref]
-Dermatologic side effects including various rashes, urticaria, and flushing and itching of the palmar and plantar surfaces have been reported.  Flushing is a common effect.  A single case of disseminated granuloma annulare was temporarily related to synthetic salmon calcitonin use.  It is a rare effect.[Ref]
-A 66-year-old woman received a total of 5600 intl units of intranasal synthetic salmon calcitonin for treatment of osteoporosis.  Within one month she developed disseminated granuloma annulare (DGA).  The calcitonin was continued for one month after symptoms of DGA were recognized.  Lesions did not disappear immediately but continued for 10 months.  The relationship was temporal but could not be proved as causal.[Ref]
-A 58-year-old woman being treated for osteoporosis with 100 intl units of salmon calcitonin spray per nostril per day developed a progressive bilateral deformation of the alar nasal cartilages.  Two depresses, symmetric areas appeared after 4 months.  There was nasal septum deformation.  The relationship was temporal but could not be proven as causal.[Ref]
-Musculoskeletal side effects including a bilateral deformation of the alar nasal cartilages have been rarely reported after intranasal use.  Musculoskeletal weakness may occur.[Ref]
+Side effects are often mild, but commonly occur in about 10% of patients and may occur in up to 30%.  About one third of treated patients discontinue the drug due to side effects.  Diminished adverse effects occur with the subcutaneous route versus the intramuscular route.  After injection, side effects generally occur within an hour.Calcitonin is a large, manufactured peptide.  A certain percentage of what is produced during manufacturing may be "error peptides" which may increase or change the side effects.
+Nausea is the most common symptom and occurs in about 10% to 21% of patients.  Vomiting, diarrhea, anorexia, and abdominal discomfort are also common effects of calcitonin.  A metallic taste is reported.
+A 71-year-old with Paget's disease was treated with 100 intl units of synthetic salmon calcitonin five times a week.  After each injection she experienced nausea, vomiting, and severe shivering.  Administration of the 5HT antagonist pizotifen eliminated the side effects.
+Cardiovascular side effects including tingling of the hands and flushing of the palms, soles, face, or ears are common.  A feeling of pressure in the chest may occur.
+Central nervous system side effects of shivering, chills, paresthesias, dizziness, headache, vertigo, migraine, neuralgia, agitation and tremor have been reported.  Tetany has been reported rarely.
+Within 90 minutes of a subcutaneous injection of 100 intl units of synthetic salmon calcitonin, a 35-year-old woman developed widespread fine tremor which lasted an hour.  The reaction could be repeated with a different batch of the drug but not with placebo.
+Local side effects including pain, wheals, and erythema at the injection site have been reported.  Local reactions are less likely after injection of synthetic human calcitonin than with the synthetic salmon preparation.
+Respiratory side effects of shortness of breath and nasal congestion occur infrequently.  Rhinorrhea, mild nose bleeds, and nasal dryness may occur with nasal administration.
+Antibodies may develop to extracted or synthetic calcitonin products after chronic use.  The time to antibody development is variable and patient dependent.  Antibodies have been reported with the salmon preparation, and rarely to the human product.  Antibody development will render a patient resistant to therapy.
+A study of 20 postmenopausal women on calcitonin for osteoporosis for 6 months showed that about seven hours after administration of 100 intl units (intramuscularly) of synthetic salmon calcitonin a mild metabolic acidosis developed.
+Hyperglycemia has been reported as a metabolic side effect in patients with Paget's disease.  Impaired glucose tolerance may occur in healthy volunteers.  Diabetics may lose control of blood sugar.Metabolic acidosis and hypocalcemia may occur.  Transient increases in water and sodium excretion may occur.
+Renal side effects including polyuria and urinary frequency may occur in 5% to 10% of patients.  Abnormal urinary sediment (but not proteinuria or reduced creatinine clearance) is a rare side effect.
+Dermatologic side effects including various rashes, urticaria, and flushing and itching of the palmar and plantar surfaces have been reported.  Flushing is a common effect.  A single case of disseminated granuloma annulare was temporarily related to synthetic salmon calcitonin use.  It is a rare effect.
+A 66-year-old woman received a total of 5600 intl units of intranasal synthetic salmon calcitonin for treatment of osteoporosis.  Within one month she developed disseminated granuloma annulare (DGA).  The calcitonin was continued for one month after symptoms of DGA were recognized.  Lesions did not disappear immediately but continued for 10 months.  The relationship was temporal but could not be proved as causal.
+A 58-year-old woman being treated for osteoporosis with 100 intl units of salmon calcitonin spray per nostril per day developed a progressive bilateral deformation of the alar nasal cartilages.  Two depresses, symmetric areas appeared after 4 months.  There was nasal septum deformation.  The relationship was temporal but could not be proven as causal.
+Musculoskeletal side effects including a bilateral deformation of the alar nasal cartilages have been rarely reported after intranasal use.  Musculoskeletal weakness may occur.
 Hypersensitivity side effects have included a few cases of serious allergic-type reactions (e.g., bronchospasm, swelling of the tongue or throat, anaphylactic shock), including very rare reports of death attributed to anaphylaxis.
-1. Conget JI, Vendrell J, Halperin I, Esmatjes E "Widespread tremor after injection of sodium calcitonin." BMJ 298 (1989): 189
-2. Gennari C, Passeri M, Chierichetti SM, Piolini M "Side-effects of synthetic salmon and human calcitonin." Lancet 1 (1983): 594-5
-3. Grunstein HS, Clifton-Bligh P, Posen S "Paget's disease of bone: experiences with 100 patients treated with salmon calcitonin." Med J Aust 2 (1981): 278-80
-4. Wuster C, Schurr W, Scharla S, Raue F, Minne HW, Ziegler R "Superior local tolerability of human versus salmon calcitonin preparations in young healthy volunteers." Eur J Clin Pharmacol 41 (1991): 211-5
-5. Bangham DR, Zanelli JM "Side-effects of calcitonins." Lancet 1 (1983): 926-7
-6. Grunstein HS, Clifton-Bligh P, Posen S "Side effects of calcitonin therapy: a sex-related difference?." N Engl J Med 305 (1981): 286
-7. Siminoski K, Josse RG "Calcitonin in the treatment of osteoporosis." Can Med Assoc J 155 (1996): 962-5
-8. MacIntyre I, Evans IM, Hobitz HH, Joplin GF, Stevenson JC "Chemistry, physiology, and therapeutic applications of calcitonin." Arthritis Rheum 23 (1980): 1139-47
-9. Crisp AJ "Pizotifen to prevent side-effects of calcitonin." Lancet 1 (1981): 775
-10. Deftos LJ, First BP "Calcitonin as a drug." Ann Intern Med 95 (1981): 192-7
-11. Kreeger L, HuttonPotts J "The use of calcitonin in the treatment of metastatic bone pain." J Pain Symptom Manage 17 (1999): 2-5
-12. Cox TM, Fagan EA, Hillyard CJ, Allison DJ, Chadwick VS "Role of calcitonin in diarrhoea associated with medullary carcinoma of the thyroid." Gut 20 (1979): 629-33
-13. Singer FR "Clinical efficacy of salmon calcitonin in Paget's disease of bone." Calcif Tissue Int 49 Suppl2 (1991): s7-8
-14. "Human calcitonin for Paget's Disease." Med Lett Drugs Ther 29 (1987): 47-8
-15. Nagant de Deuxchaisnes C, Devogelaer JP, Huaux JP, Dufour JP, Esselinckx W, Engelbeen JP, Stasse P, Hermans P, de Buisseret JP "New modes of administration of salmon calcitonin in Paget's disease. Nasal spray and suppository." Clin Orthop 217 (1987): 56-71
-16. "Product Information. Miacalcin Nasal Spray (calcitonin nasal)." Novartis Pharmaceuticals, East Hanover, NJ. 
-17. Evans IM, Joplin GF, MacIntyre I "Hyperglycaemic effect of synthetic salmon calcitonin." Lancet 1 (1978): 280
-18. Thomas DW, Frewin DB, Jolley PT "Deterioration in diabetic control during calcitonin therapy." Med J Aust 2 (1979): 699-70
-19. Escanero JF, Elosegui LM, Cordova A, Pecondon A, Asin JJ, Beltran J, Otero W "Calcitonin and metabolic alkalosis." Biomed Pharmacother 45 (1991): 307-9
-20. Gattereau A, Bielmann P, Durivage J, Larochelle P "Hyperglycaemic effect of synthetic salmon calcitonin." Lancet 2 (1977): 1076-7
-21. Hantman DA, Donaldson CL, Hulley SB "Abnormal urinary sediment during therapy with synthetic salmon calcitonin." J Clin Endocrinol Metab 33 (1971): 564-6
-22. Kanis JA, Horn DB, Scott RD, Strong JA "Treatment of Paget's disease of bone with synthetic salmon calcitonin." Br Med J 3 (1974): 727-31
-23. Goihman-Yahr M "Disseminated granuloma annulare and intranasal calcitonin." Int J Dermatol 32 (1993): 150
-24. Strumia R, Mantovani L "May calcitonin spray cause nasal deformation?." Dermatology 185 (1992): 72
-Not all side effects for calcitonin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
 nasal spray
-
 Blurred vision
 chills or fever
 cough
@@ -75,20 +42,13 @@ trembling or shaking of the legs, arms, hands or feet
 trouble sleeping
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Red streaks on the skin
 swelling, tenderness, or pain at the injection site
-
-
 Feeling of warmth
 redness of the face, neck, arms, and occasionally, upper chest
-
-
 Abdominal or stomach pain
 changes in vision
 diarrhea
 pain in the eyes
 poor appetite
 waking to urinate at night
-

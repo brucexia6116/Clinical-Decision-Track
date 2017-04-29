@@ -1,25 +1,13 @@
-Applies to diphtheria toxoid / tetanus toxoid: intramuscular suspension
-In addition to its needed effects, some unwanted effects may be caused by diphtheria toxoid / tetanus toxoid. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking diphtheria toxoid / tetanus toxoid, check with your doctor or nurse immediately:
-Some of the side effects that can occur with diphtheria toxoid / tetanus toxoid may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to diphtheria toxoid / tetanus toxoid: intramuscular suspension
-Local side effects have included erythema, tenderness, induration, swelling, redness, warmth, cellulitis, and nodules at the injection site.[Ref]
-Hypersensitivity side effects have included allergic reactions (such as rash, urticaria, pruritus, and face edema) and anaphylactoid reactions.[Ref]
-General side effects have included malaise and temperature elevations, pyrexia, chills, pain, asthenia, fatigue, and peripheral edema.[Ref]
-Nervous system side effects have included headache, paresthesia, dizziness, syncope, and convulsions.[Ref]
-Gastrointestinal side effects have included nausea and vomiting.[Ref]
-Musculoskeletal side effects have included myalgia, arthralgia, pain in extremities, and musculoskeletal stiffness.[Ref]
-1. "Product Information. Decavac (tetanus-diphtheria toxoids)." Aventis Pasteur Inc, Swiftwater, PA. 
-Not all side effects for diphtheria toxoid / tetanus toxoid may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Local side effects have included erythema, tenderness, induration, swelling, redness, warmth, cellulitis, and nodules at the injection site.
+Hypersensitivity side effects have included allergic reactions (such as rash, urticaria, pruritus, and face edema) and anaphylactoid reactions.
+General side effects have included malaise and temperature elevations, pyrexia, chills, pain, asthenia, fatigue, and peripheral edema.
+Nervous system side effects have included headache, paresthesia, dizziness, syncope, and convulsions.
+Gastrointestinal side effects have included nausea and vomiting.
+Musculoskeletal side effects have included myalgia, arthralgia, pain in extremities, and musculoskeletal stiffness.
 Fever
 general feeling of discomfort or illness
 unusual tiredness or weakness
-
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 chills
@@ -41,14 +29,8 @@ tightness in the chest
 tingling of the hands or feet
 unusual weight gain or loss
 wheezing
-
-
 Hard lumps, redness, tenderness, or warmth at the injection site
-
-
 Headache
-
-
 Difficulty with moving
 joint pain
 lack or loss of strength
@@ -58,4 +40,3 @@ nausea
 pain in the arms or legs
 swollen joints
 vomiting
-

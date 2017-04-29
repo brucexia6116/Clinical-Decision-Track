@@ -1,29 +1,14 @@
-Generic Name: triamcinolone topical
-Applies to triamcinolone topical: topical application cream, topical application lotion, topical application ointment, topical application spray
-In addition to its needed effects, some unwanted effects may be caused by triamcinolone topical (the active ingredient contained in Kenalog in Orabase). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking triamcinolone topical:
-Some of the side effects that can occur with triamcinolone topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to triamcinolone topical: mucous membrane paste, topical cream, topical kit, topical lotion, topical ointment, topical spray
-The most commonly reported side effects were burning, itching, irritation, and dryness.[Ref]
-Frequency not reported: Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome[Ref]
-Frequency not reported: Burning, itching, irritation, dryness[Ref]
-Frequency not reported: Folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, blistering or peeling not present prior to therapy, perioral dermatitis, allergic contact dermatitis, maceration of the skin and oral mucosa, secondary infection, atrophy of the skin and oral mucosa, striae, and miliaria[Ref]
-Frequency not reported: Hyperglycemia, glucosuria[Ref]
-Frequency not reported: Intracranial hypertension (including bulging fontanelles, headaches, bilateral papilledema)[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Aristocort Topical (triamcinolone topical)." Fujisawa, Deerfield, IL. 
-3. "Product Information. Kenalog (triamcinolone topical)." Westwood Squibb Pharmaceutical Corporation, Buffalo, NY. 
-Not all side effects for Kenalog in Orabase may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were burning, itching, irritation, and dryness.
+Frequency not reported: Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome
+Frequency not reported: Burning, itching, irritation, dryness
+Frequency not reported: Folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, blistering or peeling not present prior to therapy, perioral dermatitis, allergic contact dermatitis, maceration of the skin and oral mucosa, secondary infection, atrophy of the skin and oral mucosa, striae, and miliaria
+Frequency not reported: Hyperglycemia, glucosuria
+Frequency not reported: Intracranial hypertension (including bulging fontanelles, headaches, bilateral papilledema)
 Blistering, burning, crusting, dryness, or flaking of the skin
 irritation
 itching, scaling, severe redness, soreness, or swelling of the skin
 redness and scaling around the mouth
 thinning of the skin with easy bruising, especially when used on the face or where the skin folds together (e.g. between the fingers)
-
-
 Acne or pimples
 burning and itching of the skin with pinhead-sized red blisters
 burning, itching, and pain in hairy areas, or pus at the root of the hair
@@ -32,4 +17,3 @@ lightening of normal skin color
 lightening of treated areas of dark skin
 reddish purple lines on the arms, face, legs, trunk, or groin
 softening of the skin
-

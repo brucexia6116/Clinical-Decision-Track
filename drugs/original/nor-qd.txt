@@ -1,31 +1,20 @@
-Generic Name: norethindrone
 Common side effects of Nor-QD include: ectopic pregnancy.  See below for a comprehensive list of adverse effects.
-Applies to norethindrone: oral tablet
 As well as its needed effects, norethindrone (the active ingredient contained in Nor-QD) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking norethindrone, check with your doctor immediately:
 Some norethindrone side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to norethindrone: compounding powder, oral tablet
-Genitourinary side effects have included breakthrough bleeding, spotting, change in menstrual flow, amenorrhea, changes in cervical erosion and secretion, and breast tenderness.  Changes in the cervical squamocolumnar junction and cervical secretions have also been reported.[Ref]
-Endocrine side effects have included increases in PBI, BEI levels, and a decrease in T3 uptake.[Ref]
-Hematologic side effects have included an increase in prothrombin time and clotting factors VII, VIII, IX, and X.[Ref]
-Hepatic side effects have included hepatic adenomas and cholestatic jaundice.[Ref]
-Dermatologic side effects have included acne, melasma, chloasma, and pruritus.[Ref]
-General side effects have included weight gain/loss and hirsutism.[Ref]
-The psychiatric side effects have included mental depression.[Ref]
-Cardiovascular side effects have included edema[Ref]
-Gastrointestinal side effects have included nausea.[Ref]
-Nervous system side effects have included insomnia, headache and dizziness.[Ref]
-1. "Product Information. Nor-QD (norethindrone)" Watson Laboratories Inc, Corona, CA. 
-2. "Product Information. Aygestin (norethindrone)." ESI Lederle Generics, Philadelphia, PA. 
-3. "Product Information. Micronor (norethindrone)" Ortho McNeil Pharmaceutical, Raritan, NJ. 
+Genitourinary side effects have included breakthrough bleeding, spotting, change in menstrual flow, amenorrhea, changes in cervical erosion and secretion, and breast tenderness.  Changes in the cervical squamocolumnar junction and cervical secretions have also been reported.
+Endocrine side effects have included increases in PBI, BEI levels, and a decrease in T3 uptake.
+Hematologic side effects have included an increase in prothrombin time and clotting factors VII, VIII, IX, and X.
+Hepatic side effects have included hepatic adenomas and cholestatic jaundice.
+Dermatologic side effects have included acne, melasma, chloasma, and pruritus.
+General side effects have included weight gain/loss and hirsutism.
+The psychiatric side effects have included mental depression.
+Cardiovascular side effects have included edema
+Gastrointestinal side effects have included nausea.
+Nervous system side effects have included insomnia, headache and dizziness.
 It is possible that some side effects of Nor-QD may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Frequent and irregular bleeding
 menstrual changes
-
-
 Abdominal or stomach pain
 blindness
 blue-yellow color blindness
@@ -71,18 +60,13 @@ unusual tiredness or weakness
 upper right abdominal or stomach pain
 vomiting of blood
 yellow eyes and skin
-
-
 Breast tenderness
 increased hair growth, especially on the face
 pimples
 weight gain
-
-
 Brown, blotchy spots on exposed skin
 enlarged breasts
 hair loss or thinning of the hair
 mood swings
 nervousness
 weight changes
-

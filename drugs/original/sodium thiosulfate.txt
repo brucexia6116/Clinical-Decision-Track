@@ -1,22 +1,15 @@
-Applies to sodium thiosulfate: intravenous solution
 As well as its needed effects, sodium thiosulfate may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking sodium thiosulfate, check with your doctor immediately:
-
-
-Applies to sodium thiosulfate: compounding powder, intravenous solution
-Frequency not reported: Nausea, vomiting, diarrhea, osmotic disturbances[Ref]
-Frequency not reported: Headache, disorientation, salty taste in mouth, warm sensation over body[Ref]
-Frequency not reported: Hypotension[Ref]
-Frequency not reported: Psychotic behavior including agitation, delusions, and hallucinations[Ref]
-Frequency not reported: Arthralgia, hyperreflexia, muscle cramps[Ref]
-Frequency not reported: Prolonged bleeding time[Ref]
-Frequency not reported: Tinnitus[Ref]
-Frequency not reported: Blurred vision[Ref]
-Frequency not reported: Diuretic effects[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Sodium Thiosulfate (sodium thiosulfate)." American Regent Laboratories Inc, Shirley, NY. 
+Frequency not reported: Nausea, vomiting, diarrhea, osmotic disturbances
+Frequency not reported: Headache, disorientation, salty taste in mouth, warm sensation over body
+Frequency not reported: Hypotension
+Frequency not reported: Psychotic behavior including agitation, delusions, and hallucinations
+Frequency not reported: Arthralgia, hyperreflexia, muscle cramps
+Frequency not reported: Prolonged bleeding time
+Frequency not reported: Tinnitus
+Frequency not reported: Blurred vision
+Frequency not reported: Diuretic effects
 It is possible that some side effects of sodium thiosulfate may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Agitation
 blurred vision
 hallucinations (seeing, hearing, or feeling things that are not there)
@@ -25,4 +18,3 @@ mental changes
 nausea and vomiting
 pain in the joints
 ringing in the ears 
-

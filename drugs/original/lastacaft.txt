@@ -1,24 +1,11 @@
-Generic Name: alcaftadine ophthalmic
-Applies to alcaftadine ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by alcaftadine ophthalmic (the active ingredient contained in Lastacaft). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking alcaftadine ophthalmic:
-Some of the side effects that can occur with alcaftadine ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to alcaftadine ophthalmic: ophthalmic solution
-The most commonly reported side effects were eye irritation, burning and/or stinging upon instillation, eye redness, and eye pruritus.[Ref]
-Postmarketing reports: Hypersensitivity reactions (including swelling of the face or allergic dermatitis)[Ref]
-Frequency not reported: Eye irritation, burning and/or stinging upon instillation, eye redness, eye pruritusPostmarketing reports: Eye discharge, eye swelling, erythema of eyelid, eyelid edema, increased lacrimation, blurred vision[Ref]
-Frequency not reported: HeadachePostmarketing reports: Somnolence[Ref]
-Frequency not reported: Nasopharyngitis[Ref]
-1. "Product Information. Lastacaft (alcaftadine ophthalmic)." Vistakon, div of Johnson and Johnson Optical, Jacksonville, FL. 
-Not all side effects for Lastacaft may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were eye irritation, burning and/or stinging upon instillation, eye redness, and eye pruritus.
+Postmarketing reports: Hypersensitivity reactions (including swelling of the face or allergic dermatitis)
+Frequency not reported: Eye irritation, burning and/or stinging upon instillation, eye redness, eye pruritusPostmarketing reports: Eye discharge, eye swelling, erythema of eyelid, eyelid edema, increased lacrimation, blurred vision
+Frequency not reported: HeadachePostmarketing reports: Somnolence
+Frequency not reported: Nasopharyngitis
 Burning or stinging sensation in the eye
 itching of the eyes
 red, sore eyes
-
-
 Chills
 cough
 diarrhea
@@ -37,4 +24,3 @@ sweating
 trouble sleeping
 unusual tiredness or weakness
 vomiting
-

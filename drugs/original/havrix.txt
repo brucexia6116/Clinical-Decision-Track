@@ -1,35 +1,21 @@
-Generic Name: hepatitis a adult vaccine
 More frequent side effects include: pain at injection site and tenderness at injection site.  See below for a comprehensive list of adverse effects.
-Applies to hepatitis a adult vaccine: intramuscular injectable, intramuscular solution, intramuscular suspension
-In addition to its needed effects, some unwanted effects may be caused by hepatitis a adult vaccine (the active ingredient contained in Havrix). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking hepatitis a adult vaccine, check with your doctor or nurse immediately:
-Some of the side effects that can occur with hepatitis a adult vaccine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to hepatitis a adult vaccine: intramuscular suspension
-Hepatitis A vaccine is generally well-tolerated.  Most side effects were mild, self-limiting, and of short duration (<= 24 hours).[Ref]
-Local side effects have included pain, tenderness, warmth, induration, erythema, swelling, ecchymosis, hematoma, and injection site pruritus and/or rash.[Ref]
-Cardiovascular side effects have included syncope.[Ref]
-Dermatologic side effects have included pruritus, rash, and urticaria.[Ref]
-Gastrointestinal side effects have included anorexia, nausea, abdominal pain, diarrhea, dysgeusia, gastroenteritis, and vomiting.[Ref]
-Genitourinary side effects have included menstruation disorder and isolated reports of increased urine protein.[Ref]
-Hematologic side effects have rarely included lymphadenopathy, thrombocytopenia, and eosinophilia.[Ref]
-Hepatic side effects have included isolated reports of elevated liver function tests.[Ref]
-Hypersensitivity reactions have included bronchial constriction, asthma, wheezing, edema/swelling, rash, generalized erythema, urticaria, pruritus, eye irritation/itching, and dermatitis.[Ref]
-Musculoskeletal side effects have included arthralgia, creatine phosphokinase elevations, myalgia, arm pain, back pain, and stiffness.[Ref]
-Nervous system side effects have included headache, hypertonic episode, insomnia, somnolence, photophobia, vertigo, Guillain-Barre syndrome, cerebellar ataxia.[Ref]
-Respiratory side effects have included pharyngitis, other upper respiratory tract infections, nasal congestion, and cough.[Ref]
-Other side effects have included asthenia, fatigue, fever, and malaise.[Ref]
-1. "Product Information. Vaqta (hepatitis A vaccine)." Merck & Company Inc, West Point, PA. 
-2. "Product Information. Havrix (hepatitis A vaccine)." SmithKline Beecham, Philadelphia, PA. 
-Not all side effects for Havrix may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hepatitis A vaccine is generally well-tolerated.  Most side effects were mild, self-limiting, and of short duration (<= 24 hours).
+Local side effects have included pain, tenderness, warmth, induration, erythema, swelling, ecchymosis, hematoma, and injection site pruritus and/or rash.
+Cardiovascular side effects have included syncope.
+Dermatologic side effects have included pruritus, rash, and urticaria.
+Gastrointestinal side effects have included anorexia, nausea, abdominal pain, diarrhea, dysgeusia, gastroenteritis, and vomiting.
+Genitourinary side effects have included menstruation disorder and isolated reports of increased urine protein.
+Hematologic side effects have rarely included lymphadenopathy, thrombocytopenia, and eosinophilia.
+Hepatic side effects have included isolated reports of elevated liver function tests.
+Hypersensitivity reactions have included bronchial constriction, asthma, wheezing, edema/swelling, rash, generalized erythema, urticaria, pruritus, eye irritation/itching, and dermatitis.
+Musculoskeletal side effects have included arthralgia, creatine phosphokinase elevations, myalgia, arm pain, back pain, and stiffness.
+Nervous system side effects have included headache, hypertonic episode, insomnia, somnolence, photophobia, vertigo, Guillain-Barre syndrome, cerebellar ataxia.
+Respiratory side effects have included pharyngitis, other upper respiratory tract infections, nasal congestion, and cough.
+Other side effects have included asthenia, fatigue, fever, and malaise.
 Fever more than 99.5 degrees F
 general feeling of discomfort or illness
 unusual tiredness or weakness
-
-
 Body aches or pain
 chills
 congestion
@@ -55,8 +41,6 @@ tightness in the chest
 unusual tiredness or weakness (sudden and severe)
 voice changes
 wheezing
-
-
 Abdominal or stomach pain
 agitation
 back pain
@@ -108,12 +92,8 @@ unsteadiness, trembling, or other problems with muscle control or coordination
 unusual bleeding or bruising
 vomiting of blood
 yellow eyes or skin
-
-
 Pain, redness, swelling, or lumps at the injection site
 weight loss
-
-
 Arm pain
 bleeding between periods
 change in the amount of bleeding during periods
@@ -121,8 +101,6 @@ change in the pattern of monthly periods
 lack or loss of strength
 tenderness or warmth at the injection site
 unusual stopping of menstrual bleeding
-
-
 Change in color vision
 change in taste
 collection of blood under the skin
@@ -140,8 +118,5 @@ sleeplessness
 trouble with sleeping
 unable to sleep
 welts
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 sleepiness or unusual drowsiness
-

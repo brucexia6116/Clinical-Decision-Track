@@ -1,34 +1,17 @@
-Generic Name: mebendazole
-Applies to mebendazole: oral suspension, oral tablet chewable
 As well as its needed effects, mebendazole (the active ingredient contained in Vermox) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking mebendazole, check with your doctor immediately:
 Some mebendazole side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to mebendazole: compounding powder, oral tablet chewable
-Since mebendazole (the active ingredient contained in Vermox) is not well absorbed, few systemic side effects are reported.  Side effects may be more likely and more severe in patients with underlying liver disease.[Ref]
-Gastrointestinal side effects have included nausea, vomiting, diarrhea, and abdominal pain, especially when the intestinal parasite burden is great.[Ref]
-Increased liver function tests have been associated with mebendazole (the active ingredient contained in Vermox) in patients with hepatic hydatid cysts.[Ref]
-Hepatic side effects have included transient changes in liver function tests and granulomatous hepatitis.  These side effects have been reported when mebendazole was taken for prolonged periods and at dosages substantially above those recommended.[Ref]
-Bone marrow biopsy results during mebendazole-associated leukopenia or pancytopenia have revealed hypocellularity.  These effects reverse upon drug discontinuation.[Ref]
-Hematologic side effects are unusual and reversible, but may be severe.  Profound leukopenia, often accompanied by anemia and thrombocytopenia, has been reported.  Pancytopenia and neutropenia have also been reported.[Ref]
-Dermatologic side effects have included rare reports of alopecia and angioedema.  Rash, pruritus, urticaria, and flushing have also been reported.[Ref]
-No evidence of hypersensitivity (eosinophilia, rash, leukocytosis) accompanied the rare reports of drug fever.  The fever may have been idiosyncratic or evidence of a reaction to drug-induced tissue necrosis in hydatid cysts.[Ref]
-Other side effects have included chills and drug fever.[Ref]
-Nervous system side effects have been reported rarely.  These have included weakness, drowsiness, and seizures.[Ref]
-1. Barrett-Connor E "Drugs for the treatment of parasitic infection." Med Clin North Am 66 (1982): 245-55
-2. Bekhti A, Pirotte J "Hepatotoxicity of mebendazole: relationship with serum concentrations of the drug." Gastroenterol Clin Biol 11 (1987): 701-3
-3. Witassek F, Bircher "Chemotherapy of larval echinococcosis with mebendazole: microsomal liver function and cholestasis as determinants of plasma drug level." Eur J Clin Pharmacol 25 (1983): 85-90
-4. Kammerer WS, Schantz PM "Long term follow-up of human hydatid disease (echinococcus granulosus) treated with a high-dose mebendazole regimen." Am J Trop Med Hyg 33 (1984): 132-7
-5. Miskovitz PF, Javitt NB "Leukopenia associated with mebendazole therapy of hydatid disease." Am J Trop Med Hyg 29 (1980): 1356-8
-6. Colle I, Naegels S, Hoorens A, Hautekeete M "Granulomatous hepatitis due to mebendazole." J Clin Gastroenterol 28 (1999): 44-5
-7. Levin MH, Weinstein RA, Axelrod JL, Schantz PM "Severe, reversible neutropenia during high-dose mebendazole therapy for echinococcosis." JAMA 249 (1983): 2929-31
-8. Braithwaite PA, Thomas RJ, Thompson RC "Hydatid disease, the alveolar variety in australia: a case report with comment on the toxicity of mebendazole." Aust N Z J Surg 55 (1985): 519-23
-9. Fernandez-Banares F, Gonzalez-Huix F, Xiol X, et al "Marrow aplasia during high dose mebendazole treatment." Am J Trop Med Hyg 35 (1986): 350-1
-10. Murray-Lyon IM, Reynolds KW "Complication of mebendazole treatment for hydatid disease." Br Med J 2 (1979): 1111-2
-11. "Multum Information Services, Inc. Expert Review Panel"  
+Since mebendazole (the active ingredient contained in Vermox) is not well absorbed, few systemic side effects are reported.  Side effects may be more likely and more severe in patients with underlying liver disease.
+Gastrointestinal side effects have included nausea, vomiting, diarrhea, and abdominal pain, especially when the intestinal parasite burden is great.
+Increased liver function tests have been associated with mebendazole (the active ingredient contained in Vermox) in patients with hepatic hydatid cysts.
+Hepatic side effects have included transient changes in liver function tests and granulomatous hepatitis.  These side effects have been reported when mebendazole was taken for prolonged periods and at dosages substantially above those recommended.
+Bone marrow biopsy results during mebendazole-associated leukopenia or pancytopenia have revealed hypocellularity.  These effects reverse upon drug discontinuation.
+Hematologic side effects are unusual and reversible, but may be severe.  Profound leukopenia, often accompanied by anemia and thrombocytopenia, has been reported.  Pancytopenia and neutropenia have also been reported.
+Dermatologic side effects have included rare reports of alopecia and angioedema.  Rash, pruritus, urticaria, and flushing have also been reported.
+No evidence of hypersensitivity (eosinophilia, rash, leukocytosis) accompanied the rare reports of drug fever.  The fever may have been idiosyncratic or evidence of a reaction to drug-induced tissue necrosis in hydatid cysts.
+Other side effects have included chills and drug fever.
+Nervous system side effects have been reported rarely.  These have included weakness, drowsiness, and seizures.
 It is possible that some side effects of Vermox may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Black, tarry stools
 chills
 convulsions
@@ -50,8 +33,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Blistering, peeling, or loosening of the skin
 diarrhea
 difficulty with swallowing
@@ -61,11 +42,7 @@ joint or muscle pain
 red skin lesions, often with a purple center
 red, irritated eyes
 tightness in the chest
-
-
 Abdominal or stomach pain or upset
-
-
 Bloated
 excess air or gas in the stomach or intestines
 full feeling
@@ -73,4 +50,3 @@ hair loss or thinning of the hair
 loss of appetite
 passing gas
 weight loss
-

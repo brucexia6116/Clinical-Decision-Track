@@ -1,42 +1,26 @@
-Generic Name: buprenorphine
 Common side effects of Butrans include: constipation, dizziness, drowsiness, headache, and nausea. Other side effects include: fatigue, vomiting, hyperhidrosis, and xerostomia.  See below for a comprehensive list of adverse effects.
-Applies to buprenorphine: film, tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by buprenorphine (the active ingredient contained in Butrans). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking buprenorphine:
-Some of the side effects that can occur with buprenorphine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to buprenorphine: buccal film, compounding powder, injectable solution, subcutaneous implant, sublingual tablet, transdermal film extended release
-The most common adverse reactions were headache, insomnia, pain, signs and symptoms of withdrawal, nausea, constipation, application site pruritus, application site erythema, vomiting, hyperhidrosis, dizziness, somnolence, dry mouth, and application site rash.[Ref]
-Very common (10% or more): Insomnia (up to 28%), withdrawal syndrome (up to 24%), anxiety (up to 14%), depression (up to 13%)Common (1% to 10%): Hostility, agitation, paranoid reaction, thinking abnormal, confusionUncommon (0.1% to 1%): Affect lability, depersonalization, libido decreased, nightmare, euphoric mood, psychosis, hallucination, euphoriaVery rare (less than 0.01%): Dependence, mood swingsFrequency not reported: DreamingPostmarketing reports: Neonatal withdrawal syndrome[Ref]
-Very common (10% or more): Rhinitis (up to 15%)Common (1% to 10%): Cough increased, pharyngitis, upper respiratory tract infection, influenza, sinusitis, bronchitis, dyspnea, pharyngolaryngeal pain, hypoventilation, yawningUncommon (0.1% to 1%): Asthma aggravated, hiccups, hyperventilation, hypoxia, wheezing, apneaRare (less than 0.1%): Respiratory depression, respiratory failurePostmarketing reports: Asphyxia[Ref]
-Very common (10% or more): Nausea (up to 23%), constipation (up to 14%), abdominal pain (11.7%), diarrhea (up to 10%)Common (1% to 10%): Vomiting, dyspepsia, dry mouth, stomach discomfort, upper abdominal pain, flatulenceRare (0.01% to 0.1%): Diverticulitis, dysphagia, ileus, heartburnVery rare (less than 0.01%): Retching[Ref]
-Very common (10% or more): Application site pruritus (up to 15%), sweating (up to 13%), application site erythema (up to 10%)Common (1% to 10%): Application site rash, application site irritation, hyperhidrosis, pruritus, rash, generalized pruritusUncommon (0.1% to 1%): Contact dermatitis, application site dermatitis, dry skin, facial edema, urticaria, pallorVery rare (less than 0.01%): Pustules, vesiclesFrequency not reported: Injection site reaction, angioedema, application site edema[Ref]
-Very common (10% or more): Back pain (up to 16%)Common (1% to 10%): Arthralgia, pain in extremity, muscle spasm, musculoskeletal pain, joint swelling, neck pain, myalgia, chest pain, leg cramps, bone pain, general spasm, muscle weaknessUncommon (0.1% to 1%): Muscle cramps, rigors, muscle spasmVery rare (less than 0.01%): Muscle fasciculation, ear pain[Ref]
-Very common (10% or more): Pain (up to 26%), asthenia (up to 16%)Common (1% to 10%): Chills, fever, accidental injury, fatigue, pyrexia, fall, malaise, tiredness, lethargyUncommon (0.1% to 1%): EdemaFrequency not reported: Death[Ref]
-Very common (10% or more): Infection (up to 22%), flu syndrome (up to 10%)Common (1% to 10%): Abscess[Ref]
-Very common (10% or more): Headache (up to 34%)Common (1% to 10%): Dizziness/vertigo, nervousness, somnolence, hypoesthesia, tremor, migraine, paresthesia, syncope, hypertonia, dysgeusia, exanthemaUncommon (0.1% to 1%): Tinnitus, concentration impairment, coordination abnormal, dysarthria, memory impairment, restlessness, sedation, sleep disorder, slurred speech, comaRare (less than 0.1%): Disequilibrium, numbnessFrequency not reported: ConvulsionsPostmarketing reports: Neonatal tremor, serotonin syndrome[Ref]
-Common (1% to 10%): Vasodilation, hypotension, peripheral edema, hypertension, palpitationsUncommon (0.1% to 1%): Orthostatic hypotension, tachycardia, angina pectoris, flushing, bradycardia, cyanosisFrequency not reported: Wenckebach block[Ref]
-Common (1% to 10%): Runny eyes, miosis, mydriasis, lacrimation disorderUncommon (0.1% to 1%): Dry eye, vision blurred, conjunctivitisRare (less than 0.1%): Eyelid edema, visual disturbanceFrequency not reported: Diplopia, visual abnormalities, amblyopia[Ref]
-Common (1% to 10%): Urinary tract infection, dysmenorrheaUncommon (0.1% to 1%): Urinary incontinence, urinary retentionRare (less than 0.1%): Urinary hesitation, decreased erection, sexual dysfunction[Ref]
-Common (1% to 10%): AnorexiaUncommon (0.1% to 1%): Dehydration, loss of appetite, weight decreasedPostmarketing reports: Neonatal feeding disorder[Ref]
+The most common adverse reactions were headache, insomnia, pain, signs and symptoms of withdrawal, nausea, constipation, application site pruritus, application site erythema, vomiting, hyperhidrosis, dizziness, somnolence, dry mouth, and application site rash.
+Very common (10% or more): Insomnia (up to 28%), withdrawal syndrome (up to 24%), anxiety (up to 14%), depression (up to 13%)Common (1% to 10%): Hostility, agitation, paranoid reaction, thinking abnormal, confusionUncommon (0.1% to 1%): Affect lability, depersonalization, libido decreased, nightmare, euphoric mood, psychosis, hallucination, euphoriaVery rare (less than 0.01%): Dependence, mood swingsFrequency not reported: DreamingPostmarketing reports: Neonatal withdrawal syndrome
+Very common (10% or more): Rhinitis (up to 15%)Common (1% to 10%): Cough increased, pharyngitis, upper respiratory tract infection, influenza, sinusitis, bronchitis, dyspnea, pharyngolaryngeal pain, hypoventilation, yawningUncommon (0.1% to 1%): Asthma aggravated, hiccups, hyperventilation, hypoxia, wheezing, apneaRare (less than 0.1%): Respiratory depression, respiratory failurePostmarketing reports: Asphyxia
+Very common (10% or more): Nausea (up to 23%), constipation (up to 14%), abdominal pain (11.7%), diarrhea (up to 10%)Common (1% to 10%): Vomiting, dyspepsia, dry mouth, stomach discomfort, upper abdominal pain, flatulenceRare (0.01% to 0.1%): Diverticulitis, dysphagia, ileus, heartburnVery rare (less than 0.01%): Retching
+Very common (10% or more): Application site pruritus (up to 15%), sweating (up to 13%), application site erythema (up to 10%)Common (1% to 10%): Application site rash, application site irritation, hyperhidrosis, pruritus, rash, generalized pruritusUncommon (0.1% to 1%): Contact dermatitis, application site dermatitis, dry skin, facial edema, urticaria, pallorVery rare (less than 0.01%): Pustules, vesiclesFrequency not reported: Injection site reaction, angioedema, application site edema
+Very common (10% or more): Back pain (up to 16%)Common (1% to 10%): Arthralgia, pain in extremity, muscle spasm, musculoskeletal pain, joint swelling, neck pain, myalgia, chest pain, leg cramps, bone pain, general spasm, muscle weaknessUncommon (0.1% to 1%): Muscle cramps, rigors, muscle spasmVery rare (less than 0.01%): Muscle fasciculation, ear pain
+Very common (10% or more): Pain (up to 26%), asthenia (up to 16%)Common (1% to 10%): Chills, fever, accidental injury, fatigue, pyrexia, fall, malaise, tiredness, lethargyUncommon (0.1% to 1%): EdemaFrequency not reported: Death
+Very common (10% or more): Infection (up to 22%), flu syndrome (up to 10%)Common (1% to 10%): Abscess
+Very common (10% or more): Headache (up to 34%)Common (1% to 10%): Dizziness/vertigo, nervousness, somnolence, hypoesthesia, tremor, migraine, paresthesia, syncope, hypertonia, dysgeusia, exanthemaUncommon (0.1% to 1%): Tinnitus, concentration impairment, coordination abnormal, dysarthria, memory impairment, restlessness, sedation, sleep disorder, slurred speech, comaRare (less than 0.1%): Disequilibrium, numbnessFrequency not reported: ConvulsionsPostmarketing reports: Neonatal tremor, serotonin syndrome
+Common (1% to 10%): Vasodilation, hypotension, peripheral edema, hypertension, palpitationsUncommon (0.1% to 1%): Orthostatic hypotension, tachycardia, angina pectoris, flushing, bradycardia, cyanosisFrequency not reported: Wenckebach block
+Common (1% to 10%): Runny eyes, miosis, mydriasis, lacrimation disorderUncommon (0.1% to 1%): Dry eye, vision blurred, conjunctivitisRare (less than 0.1%): Eyelid edema, visual disturbanceFrequency not reported: Diplopia, visual abnormalities, amblyopia
+Common (1% to 10%): Urinary tract infection, dysmenorrheaUncommon (0.1% to 1%): Urinary incontinence, urinary retentionRare (less than 0.1%): Urinary hesitation, decreased erection, sexual dysfunction
+Common (1% to 10%): AnorexiaUncommon (0.1% to 1%): Dehydration, loss of appetite, weight decreasedPostmarketing reports: Neonatal feeding disorder
 Common (1% to 10%): Lymphadenopathy
-Uncommon (0.1% to 1%): Allergic reactionRare (0.01% to 0.1%): Anaphylactic responsesVery rare (less than 0.01%): Serious allergic reactions[Ref]
-Anaphylaxis has been reported with ingredients contained in the implant.[Ref]
-Rare (less than 0.1%): Biliary colicFrequency not reported: Hepatitis, jaundice, hepatic failure, hepatic necrosis, hepatorenal syndrome, hepatic encephalopathy, transaminases increased[Ref]
-Very common (10% or more): Implant site pain (13%), implant site pruritus (12%), implant site erythema (10%) Common (1% to 10%): implant site hematoma, implant site hemorrhage, implant site edema[Ref]
-Postmarketing reports: Adrenal insufficiency, androgen deficiency[Ref]
-Cases of androgen deficiency have been reported with chronic use of opioids.  Adrenal insufficiency has been reported with opioid use, especially with use of 1 month or longer.[Ref]
-1. "Product Information. Butrans (buprenorphine)." Purdue Pharma LP, Stamford, CT. 
-2. "Product Information. Subutex (buprenorphine)." Reckitt and Colman Pharmaceuticals Inc, Richmond, VA. 
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-5. "Product Information. Buprenex (buprenorphine)." Reckitt and Colman Pharmaceutical, Richmond, VA. 
-6. "Product Information. Probuphine (buprenorphine)." Braeburn Pharmaceuticals, Princeton, NJ. 
-Not all side effects for Butrans may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Uncommon (0.1% to 1%): Allergic reactionRare (0.01% to 0.1%): Anaphylactic responsesVery rare (less than 0.01%): Serious allergic reactions
+Anaphylaxis has been reported with ingredients contained in the implant.
+Rare (less than 0.1%): Biliary colicFrequency not reported: Hepatitis, jaundice, hepatic failure, hepatic necrosis, hepatorenal syndrome, hepatic encephalopathy, transaminases increased
+Very common (10% or more): Implant site pain (13%), implant site pruritus (12%), implant site erythema (10%) Common (1% to 10%): implant site hematoma, implant site hemorrhage, implant site edema
+Postmarketing reports: Adrenal insufficiency, androgen deficiency
+Cases of androgen deficiency have been reported with chronic use of opioids.  Adrenal insufficiency has been reported with opioid use, especially with use of 1 month or longer.
 injection solutionintradermal implanttransdermal patch extended release
-
 Blurred vision
 confusion
 difficult or troubled breathing
@@ -48,8 +32,6 @@ pinpoint pupils
 relaxed and calm feeling
 sleepiness
 unusual tiredness or weakness
-
-
 Back pain
 cough or hoarseness
 difficulty having a bowel movement (stool)
@@ -64,12 +46,9 @@ stomach pain
 stuffy nose
 trouble sleeping
 vomiting
-
-
 Diarrhea
 feeling faint, dizzy, or lightheaded
 feeling of warmth or heat
 flushing or redness of the skin, especially on the face and neck
 lack or loss of strength
 sweating
-

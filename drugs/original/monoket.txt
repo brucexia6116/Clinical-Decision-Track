@@ -1,37 +1,22 @@
-Generic Name: isosorbide mononitrate
-Applies to isosorbide mononitrate: oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by isosorbide mononitrate (the active ingredient contained in Monoket). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking isosorbide mononitrate:
-
 If any of the following symptoms of overdose occur while taking isosorbide mononitrate, get emergency help immediately:
-
-Some of the side effects that can occur with isosorbide mononitrate may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to isosorbide mononitrate: oral tablet, oral tablet extended release
-The most common adverse effects are headache and dizziness.[Ref]
-Very common (10% or more): Headache (up to 57%), dizziness (up to 11%)Common (1% to 10%): Light-headednessFrequency not reported: Bitter taste, paresthesia, impaired concentration, tremor, hypoesthesia, migraine, neuritis, paresis, somnolence, fainting, drowsinessPostmarketing reports: Syncope[Ref]
-Common (1% to 10%): Cardiovascular disorder, flushing, hypotensionFrequency not reported: Acute myocardial infarction, apoplexy, arrhythmias, bradycardia, edema, hypertension, pallor, palpitations, tachycardia, hot flushes, cardiac failure, arrhythmia, arrhythmia atrial, atrial fibrillation, bundle branch block, extrasystole, ventricular tachycardia, angina pectoris aggravated, heart murmur, heart sound abnormal, myocardial infarction, Q wave abnormality, intermittent claudication, varicose vein, reflex tachycardia, collapse, bradyarrhythmia, paroxysmal bradycardia, orthostatic hypotension[Ref]
-Common (1% to 10%): Nausea, abdominal pain, diarrhea, gastrointestinal disturbancesFrequency not reported: Dry mouth, dyspepsia, vomiting, constipation, flatulence, gastric ulcer, gastritis, glossitis, hemorrhagic gastric ulcer, hemorrhoids, loose stools, melena, heartburn[Ref]
-Common (1% to 10%): Allergic reaction[Ref]
-Frequency not reported: Methemoglobinemia, thrombocytopenia, hypochromic anemia[Ref]
-Common (1% to 10%): Fatigue, pain, chest pain, tirednessFrequency not reported: Susurrus aurium, vertigo, asthenia, fever, flu-like symptoms, malaise, rigors, earache, tinnitus, tympanic membrane perforation, breast pain, feeling of weakness[Ref]
-Common (1% to 10%): Upper respiratory infection, increased coughFrequency not reported: Asthma, dyspnea, sinusitis, bronchitis, bronchospasm, coughing, increased sputum, nasal congestion, pharyngitis, pneumonia, pulmonary infiltration, rales, rhinitis, hypoxia[Ref]
-Common (1% to 10%): Rash, pruritusFrequency not reported: Sweating, purpura, acne, hair texture abnormal, increased sweating, skin nodule, leg ulcer, exfoliative dermatitis, excessive perspiration, allergic dermatitis, hyperhidrosis[Ref]
-Common (1% to 10%): Emotional lability, sleep disturbancesFrequency not reported: Anxiety, depression, insomnia, nervousness, nightmares, restlessness, confusion, decreased libido, paroniria[Ref]
-Very rare (less than 0.01%): MyalgiaFrequency not reported: Back pain, muscle cramps, neck pain, arthralgia, frozen shoulder, muscle weakness, musculoskeletal pain, myositis, tendon disorder, torticollis[Ref]
-Frequency not reported: Anorexia, thirst, decreased weight, hyperuricemia, hypokalemia, poor appetite[Ref]
-Frequency not reported: Prostatic disorder, impotence, atrophic vaginitis, polyuria, urinary tract infection[Ref]
-Frequency not reported: Amblyopia, ptosis, conjunctivitis, photophobia, vision abnormal[Ref]
-Frequency not reported: Bacterial infection, moniliasis, viral infection[Ref]
-Frequency not reported: Serum glutamic oxaloacetic transaminase (SGOT) increased, serum glutamate-pyruvate transaminase (SGPT) increased[Ref]
-Frequency not reported: Pituitary hemorrhage[Ref]
-Frequency not reported: Renal calculus[Ref]
-1. "Product Information. ISMO (isosorbide mononitrate)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Monoket may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse effects are headache and dizziness.
+Very common (10% or more): Headache (up to 57%), dizziness (up to 11%)Common (1% to 10%): Light-headednessFrequency not reported: Bitter taste, paresthesia, impaired concentration, tremor, hypoesthesia, migraine, neuritis, paresis, somnolence, fainting, drowsinessPostmarketing reports: Syncope
+Common (1% to 10%): Cardiovascular disorder, flushing, hypotensionFrequency not reported: Acute myocardial infarction, apoplexy, arrhythmias, bradycardia, edema, hypertension, pallor, palpitations, tachycardia, hot flushes, cardiac failure, arrhythmia, arrhythmia atrial, atrial fibrillation, bundle branch block, extrasystole, ventricular tachycardia, angina pectoris aggravated, heart murmur, heart sound abnormal, myocardial infarction, Q wave abnormality, intermittent claudication, varicose vein, reflex tachycardia, collapse, bradyarrhythmia, paroxysmal bradycardia, orthostatic hypotension
+Common (1% to 10%): Nausea, abdominal pain, diarrhea, gastrointestinal disturbancesFrequency not reported: Dry mouth, dyspepsia, vomiting, constipation, flatulence, gastric ulcer, gastritis, glossitis, hemorrhagic gastric ulcer, hemorrhoids, loose stools, melena, heartburn
+Common (1% to 10%): Allergic reaction
+Frequency not reported: Methemoglobinemia, thrombocytopenia, hypochromic anemia
+Common (1% to 10%): Fatigue, pain, chest pain, tirednessFrequency not reported: Susurrus aurium, vertigo, asthenia, fever, flu-like symptoms, malaise, rigors, earache, tinnitus, tympanic membrane perforation, breast pain, feeling of weakness
+Common (1% to 10%): Upper respiratory infection, increased coughFrequency not reported: Asthma, dyspnea, sinusitis, bronchitis, bronchospasm, coughing, increased sputum, nasal congestion, pharyngitis, pneumonia, pulmonary infiltration, rales, rhinitis, hypoxia
+Common (1% to 10%): Rash, pruritusFrequency not reported: Sweating, purpura, acne, hair texture abnormal, increased sweating, skin nodule, leg ulcer, exfoliative dermatitis, excessive perspiration, allergic dermatitis, hyperhidrosis
+Common (1% to 10%): Emotional lability, sleep disturbancesFrequency not reported: Anxiety, depression, insomnia, nervousness, nightmares, restlessness, confusion, decreased libido, paroniria
+Very rare (less than 0.01%): MyalgiaFrequency not reported: Back pain, muscle cramps, neck pain, arthralgia, frozen shoulder, muscle weakness, musculoskeletal pain, myositis, tendon disorder, torticollis
+Frequency not reported: Anorexia, thirst, decreased weight, hyperuricemia, hypokalemia, poor appetite
+Frequency not reported: Prostatic disorder, impotence, atrophic vaginitis, polyuria, urinary tract infection
+Frequency not reported: Amblyopia, ptosis, conjunctivitis, photophobia, vision abnormal
+Frequency not reported: Bacterial infection, moniliasis, viral infection
+Frequency not reported: Serum glutamic oxaloacetic transaminase (SGOT) increased, serum glutamate-pyruvate transaminase (SGPT) increased
+Frequency not reported: Pituitary hemorrhage
+Frequency not reported: Renal calculus
 Abnormal heart sound
 absence of or decrease in body movement
 arm, back, or jaw pain
@@ -115,14 +100,10 @@ unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 weakness
 weight gain
-
-
 Bluish-colored lips, fingernails, or palms
 dark urine
 pale skin
 rapid heart rate
-
-
 Blurred or loss of vision
 bulging soft spot on the head of an infant
 change in consciousness
@@ -139,8 +120,6 @@ overbright appearance of lights
 paralysis
 sensation of spinning
 tunnel vision
-
-
 Acid or sour stomach
 anxiety
 back pain
@@ -219,4 +198,3 @@ uncontrolled twisting movements of the neck
 voice changes
 weight loss
 white patches in the mouth,  tongue, or throat
-

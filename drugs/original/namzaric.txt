@@ -1,28 +1,21 @@
-Generic Name: donepezil / memantine
 Common side effects of Namzaric include: diarrhea. Other side effects include: dizziness, nausea, vomiting, anorexia, and ecchymoses.  See below for a comprehensive list of adverse effects.
-Applies to donepezil / memantine: oral capsule delayed release, oral capsule extended release
 As well as its needed effects, donepezil / memantine may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking donepezil / memantine, check with your doctor immediately:
 Some donepezil / memantine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to donepezil / memantine: oral capsule extended release, oral kit
-Memantine:Common (1% to 10%): Hypertension, hypotensionPostmarketing reports: Congestive cardiac failureDonepezil:Common (1% to 10%): Hypertension, hemorrhage, syncopePostmarketing reports: Heart block (all types)[Ref]
-Memantine:Common (1% to 10%): Headache, dizziness, somnolenceDonepezil:Common (1% to 10%): Headache, dizziness, somnolencePostmarketing reports: Convulsions, neuroleptic malignant syndrome[Ref]
-Memantine:Common (1% to 10%): Diarrhea, constipation, abdominal pain, vomitingPostmarketing reports: PancreatitisDonepezil:Very common (10% or more): Diarrhea (10%)Common (1% to 10%): Vomiting, anorexia, nauseaPostmarketing reports: Abdominal pain, pancreatitis[Ref]
-Memantine:Common (1% to 10%): Influenza[Ref]
-The most common adverse reactions in patients receiving memantine ER were headache, diarrhea, and dizziness.  The most common adverse reactions in patients receiving donepezil were diarrhea, anorexia, vomiting, nausea, and ecchymosis.[Ref]
-Memantine:Postmarketing reports: Stevens Johnson SyndromeDonepezil:Common (1% to 10%): EczemaPostmarketing reports: Rash[Ref]
-Memantine:Postmarketing reports: Agranulocytosis, leukopenia (including neutropenia), pancytopenia, thrombocytopenia, thrombotic thrombocytopenic purpuraDonepezil:Common (1% to 10%): EcchymosisPostmarketing reports: Hemolytic anemia[Ref]
-Memantine:Postmarketing reports: HepatitisDonepezil:Postmarketing reports: Cholecystitis, hepatitis[Ref]
-Donepezil:Common (1% to 10%): Increased creatinine phosphokinase, dehydration, hyperlipidemiaPostmarketing reports: Hyponatremia[Ref]
-Memantine:Common (1% to 10%): Back painDonepezil:Common (1% to 10%): Back pain[Ref]
-Memantine:Common (1% to 10%): Increased weightDonepezil:Very common (10% or more): Accident (13%), infection (11%)Common (1% to 10%): Fever, pain, chest pain[Ref]
-Memantine:Common (1% to 10%): Anxiety, depression, aggressionPostmarketing reports: Suicidal ideationDonepezil:Common (1% to 10%): Insomnia, nervousness, hallucinations, hostility, depression, confusion, emotional lability, personality disorderPostmarketing reports: Agitation, confusion, hallucinations[Ref]
-Memantine:Common (1% to 10%): Urinary incontinencePostmarketing reports: Acute renal failureDonepezil:Common (1% to 10%): Urinary incontinence[Ref]
-1. "Product Information. Namzaric (donepezil-memantine)." Forest Pharmaceuticals, St. Louis, MO. 
+Memantine:Common (1% to 10%): Hypertension, hypotensionPostmarketing reports: Congestive cardiac failureDonepezil:Common (1% to 10%): Hypertension, hemorrhage, syncopePostmarketing reports: Heart block (all types)
+Memantine:Common (1% to 10%): Headache, dizziness, somnolenceDonepezil:Common (1% to 10%): Headache, dizziness, somnolencePostmarketing reports: Convulsions, neuroleptic malignant syndrome
+Memantine:Common (1% to 10%): Diarrhea, constipation, abdominal pain, vomitingPostmarketing reports: PancreatitisDonepezil:Very common (10% or more): Diarrhea (10%)Common (1% to 10%): Vomiting, anorexia, nauseaPostmarketing reports: Abdominal pain, pancreatitis
+Memantine:Common (1% to 10%): Influenza
+The most common adverse reactions in patients receiving memantine ER were headache, diarrhea, and dizziness.  The most common adverse reactions in patients receiving donepezil were diarrhea, anorexia, vomiting, nausea, and ecchymosis.
+Memantine:Postmarketing reports: Stevens Johnson SyndromeDonepezil:Common (1% to 10%): EczemaPostmarketing reports: Rash
+Memantine:Postmarketing reports: Agranulocytosis, leukopenia (including neutropenia), pancytopenia, thrombocytopenia, thrombotic thrombocytopenic purpuraDonepezil:Common (1% to 10%): EcchymosisPostmarketing reports: Hemolytic anemia
+Memantine:Postmarketing reports: HepatitisDonepezil:Postmarketing reports: Cholecystitis, hepatitis
+Donepezil:Common (1% to 10%): Increased creatinine phosphokinase, dehydration, hyperlipidemiaPostmarketing reports: Hyponatremia
+Memantine:Common (1% to 10%): Back painDonepezil:Common (1% to 10%): Back pain
+Memantine:Common (1% to 10%): Increased weightDonepezil:Very common (10% or more): Accident (13%), infection (11%)Common (1% to 10%): Fever, pain, chest pain
+Memantine:Common (1% to 10%): Anxiety, depression, aggressionPostmarketing reports: Suicidal ideationDonepezil:Common (1% to 10%): Insomnia, nervousness, hallucinations, hostility, depression, confusion, emotional lability, personality disorderPostmarketing reports: Agitation, confusion, hallucinations
+Memantine:Common (1% to 10%): Urinary incontinencePostmarketing reports: Acute renal failureDonepezil:Common (1% to 10%): Urinary incontinence
 It is possible that some side effects of Namzaric may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bloody or black, tarry stools
 chest pain or discomfort
 decreased urination
@@ -35,11 +28,8 @@ sweating
 trouble breathing
 unusual tiredness
 vomiting of blood or material that looks like coffee grounds
-
-
 Constipation
 decreased appetite
 diarrhea
 nausea
 vomiting
-

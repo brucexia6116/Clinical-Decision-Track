@@ -1,41 +1,24 @@
-Applies to loracarbef: oral capsule, oral powder for suspension
-In addition to its needed effects, some unwanted effects may be caused by loracarbef. In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking loracarbef, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with loracarbef may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to loracarbef: oral capsule, oral powder for reconstitution
-Loracarbef is generally well tolerated.[Ref]
-Gastrointestinal side effects have included diarrhea (4.1%), nausea (1.9%), vomiting (1.4%), abdominal pain (1.4%), and anorexia.  The incidence of side effects increases with higher doses.  Pseudomembranous colitis has been reported in patients treated with beta-lactam antibiotics.[Ref]
-Nervous system side effects have included headache (2.9%), somnolence, insomnia, and dizziness.  Some beta-lactam antibiotics have been associated with seizures in renally impaired patients.[Ref]
-Hypersensitivity reactions have included rash (1.2%), urticaria, pruritus, and erythema multiforme.  Anaphylaxis, serum-sickness-like reactions, and Stevens-Johnson syndrome have been reported rarely.  Beta-lactam antibiotics have been associated with toxic epidermal necrolysis,[Ref]
-Respiratory side effects have included rhinitis (1.6%).[Ref]
-Hematologic side effects have included transient thrombocytopenia, leukopenia, and eosinophilia.  Beta-lactam antibiotics as a class have been associated with agranulocytosis, aplastic anemia, hemolytic anemia, hemorrhage, positive direct Coombs' test, pancytopenia, neutropenia, and prolonged prothrombin time.[Ref]
-Renal side effects have included transient elevations in serum creatinine and BUN.  Some beta-lactam antibiotics have been associated with toxic nephropathy.[Ref]
-Hepatic side effects have included transient elevations in AST (SGOT), ALT (SGPT), and alkaline phosphatase.  Hepatic dysfunction including cholestasis with or without jaundice has been rarely reported.  Some beta-lactam antibiotics have been associated with LDH elevations.[Ref]
-A 73-year-old man developed itching and jaundice, pale stools, and right upper quadrant pain two weeks after completion of a four week course of loracarbef for pneumonia.  Bilirubin, AST, ALT, alkaline phosphatase levels were elevated.  Liver biopsy showed widening of portal areas, pericellular fibrosis, and irregular fibrous bands in the parenchyma.  Swollen hepatocytes and cholestasis in the cytoplasma and canaliculi were observed.  Lab values returned to normal after 10 weeks.[Ref]
-Cardiovascular side effects have included vasodilatation.[Ref]
-Genitourinary side effects have included vaginitis (1.3%) and vaginal moniliasis (1.1%).[Ref]
-1. Therasse DG "The safety profile of loracarbef: clinical trials in respiratory, skin, and urinary tract infections." Am J Med 92 (1992): s20-5
-2. Brogden RN, McTavish D "Loracarbef. A review of its antimicrobial activity, pharmacokinetic properties and therapeutic efficacy." Drugs 45 (1993): 716-36
-3. "Product Information. Lorabid (loracarbef)." Lilly, Eli and Company, Indianapolis, IN. 
-4. Bjornsson E, Olsson R "Acute liver injury due to loracarbef." J Hepatol 26 (1997): 739-40
-Not all side effects for loracarbef may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Loracarbef is generally well tolerated.
+Gastrointestinal side effects have included diarrhea (4.1%), nausea (1.9%), vomiting (1.4%), abdominal pain (1.4%), and anorexia.  The incidence of side effects increases with higher doses.  Pseudomembranous colitis has been reported in patients treated with beta-lactam antibiotics.
+Nervous system side effects have included headache (2.9%), somnolence, insomnia, and dizziness.  Some beta-lactam antibiotics have been associated with seizures in renally impaired patients.
+Hypersensitivity reactions have included rash (1.2%), urticaria, pruritus, and erythema multiforme.  Anaphylaxis, serum-sickness-like reactions, and Stevens-Johnson syndrome have been reported rarely.  Beta-lactam antibiotics have been associated with toxic epidermal necrolysis,
+Respiratory side effects have included rhinitis (1.6%).
+Hematologic side effects have included transient thrombocytopenia, leukopenia, and eosinophilia.  Beta-lactam antibiotics as a class have been associated with agranulocytosis, aplastic anemia, hemolytic anemia, hemorrhage, positive direct Coombs' test, pancytopenia, neutropenia, and prolonged prothrombin time.
+Renal side effects have included transient elevations in serum creatinine and BUN.  Some beta-lactam antibiotics have been associated with toxic nephropathy.
+Hepatic side effects have included transient elevations in AST (SGOT), ALT (SGPT), and alkaline phosphatase.  Hepatic dysfunction including cholestasis with or without jaundice has been rarely reported.  Some beta-lactam antibiotics have been associated with LDH elevations.
+A 73-year-old man developed itching and jaundice, pale stools, and right upper quadrant pain two weeks after completion of a four week course of loracarbef for pneumonia.  Bilirubin, AST, ALT, alkaline phosphatase levels were elevated.  Liver biopsy showed widening of portal areas, pericellular fibrosis, and irregular fibrous bands in the parenchyma.  Swollen hepatocytes and cholestasis in the cytoplasma and canaliculi were observed.  Lab values returned to normal after 10 weeks.
+Cardiovascular side effects have included vasodilatation.
+Genitourinary side effects have included vaginitis (1.3%) and vaginal moniliasis (1.1%).
 Itching
 skin rash
-
-
 Diarrhea
 loss of appetite
 nausea and vomiting
 stomach pain
-
-
 Dizziness
 drowsiness
 headache
 itching or discharge from the vagina
 nervousness
  trouble in sleeping
-

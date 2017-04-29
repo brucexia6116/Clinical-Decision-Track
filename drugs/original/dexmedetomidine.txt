@@ -1,21 +1,15 @@
 Commonly reported side effects of dexmedetomidine include: bradycardia, hypotension, agitation, hypertension, nausea, and tachycardia. Other side effects include: vomiting, and xerostomia.  See below for a comprehensive list of adverse effects.
-Applies to dexmedetomidine: parenteral injection concentrate
 Side effects include:
 Hypotension,   hypertension,  nausea,  bradycardia,   fever,   vomiting,   hypoxia,  tachycardia,  anemia. 
-Applies to dexmedetomidine: intravenous solution
-Very common (10% or more): Hypotension (56%), bradycardia (42%), systolic hypertension (28%), hypotension requiring intervention (28%), tachycardia (25%), hypertension requiring intervention (19%), hypertension (16%), diastolic hypertension (12%), tachycardia requiring intervention (10%)Common (1% to 10%): Atrial fibrillation, sinus tachycardia, myocardial ischemia or infarction, bradycardia requiring interventionUncommon (0.1% to 1%): Ventricular tachycardia, atrioventricular block first degree, decreased cardiac outputFrequency not reported: Sinus arrestPostmarketing reports: Arrhythmia, cardiac arrest, cardiac disorder, extrasystoles, supraventricular tachycardia, ventricular arrhythmia, electrocardiogram T wave inversion, prolonged QT, blood pressure fluctuation, heart block[Ref]
-Very common (10% or more): Respiratory depression (37%)Common (1% to 10%): Atelectasis, hypoxia, pulmonary edema, pleural effusion, respiratory failure, acute respiratory distress syndrome, bradypnea, pneumonia, pharyngolaryngeal painUncommon (0.1% to 1%): Wheezing, dyspnea, apneaFrequency not reported: Decreased respiratory ratePostmarketing reports: Bronchospasm, hypercapnia, hypoventilation, pulmonary congestion, respiratory acidosis[Ref]
-Very common (10% or more): Nausea (11%)Common (1% to 10%): Dry mouth, vomiting, constipation, abdominal distension, abdominal pain, diarrhea[Ref]
-Common (1% to 10%): Decubitus ulcerUncommon (0.1% to 1%): RashPostmarketing reports: Hyperhidrosis[Ref]
-Common (1% to 10%): AnemiaUncommon (0.1% to 1%): Thrombocytopenia[Ref]
-Common (1% to 10%): Hypovolemia, hyperglycemia, hypoglycemia, hypocalcemia, acidosis, hypokalemia, hypomagnesemia, hypernatremia, hypophosphatemiaUncommon (0.1% to 1%): Metabolic acidosis, hypoalbuminemia, electrolyte imbalancePostmarketing reports: Hyperkalemia, acidosis[Ref]
-Common (1% to 10%): HeadachePostmarketing reports: Convulsion, dizziness, neuralgia, neuritis, speech disorder[Ref]
-Common (1% to 10%): Pyrexia, hyperthermia, chills, post-procedural hemorrhage, withdrawal event/syndrome, rigors, hyperpyrexia, pain, thirst, generalized edema, peripheral edema, sepsis, septic shockUncommon (0.1% to 1%): Ineffective drugFrequency not reported: Tolerance, tachyphylaxisPostmarketing reports: Light anesthesia[Ref]
-Common (1% to 10%): Agitation, anxietyUncommon (0.1% to 1%): HallucinationPostmarketing reports: Confusional state, delirium, illusion[Ref]
-Common (1% to 10%): Acute renal failure, decreased urine output, oliguriaPostmarketing reports: Increased blood urea, polyuria[Ref]
-Postmarketing reports: Abnormal hepatic function, hyperbilirubinemia, increased ALT, increased AST, increased blood alkaline phosphatase, increased gamma-glutamyl transferase[Ref]
-Frequency not reported: Reduced lacrimationPostmarketing reports: Photopsia, abnormal vision, visual impairment[Ref]
-1. "Product Information. Precedex (dexmedetomidine)" Abbott Pharmaceutical, Abbott Park, IL. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for dexmedetomidine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Very common (10% or more): Hypotension (56%), bradycardia (42%), systolic hypertension (28%), hypotension requiring intervention (28%), tachycardia (25%), hypertension requiring intervention (19%), hypertension (16%), diastolic hypertension (12%), tachycardia requiring intervention (10%)Common (1% to 10%): Atrial fibrillation, sinus tachycardia, myocardial ischemia or infarction, bradycardia requiring interventionUncommon (0.1% to 1%): Ventricular tachycardia, atrioventricular block first degree, decreased cardiac outputFrequency not reported: Sinus arrestPostmarketing reports: Arrhythmia, cardiac arrest, cardiac disorder, extrasystoles, supraventricular tachycardia, ventricular arrhythmia, electrocardiogram T wave inversion, prolonged QT, blood pressure fluctuation, heart block
+Very common (10% or more): Respiratory depression (37%)Common (1% to 10%): Atelectasis, hypoxia, pulmonary edema, pleural effusion, respiratory failure, acute respiratory distress syndrome, bradypnea, pneumonia, pharyngolaryngeal painUncommon (0.1% to 1%): Wheezing, dyspnea, apneaFrequency not reported: Decreased respiratory ratePostmarketing reports: Bronchospasm, hypercapnia, hypoventilation, pulmonary congestion, respiratory acidosis
+Very common (10% or more): Nausea (11%)Common (1% to 10%): Dry mouth, vomiting, constipation, abdominal distension, abdominal pain, diarrhea
+Common (1% to 10%): Decubitus ulcerUncommon (0.1% to 1%): RashPostmarketing reports: Hyperhidrosis
+Common (1% to 10%): AnemiaUncommon (0.1% to 1%): Thrombocytopenia
+Common (1% to 10%): Hypovolemia, hyperglycemia, hypoglycemia, hypocalcemia, acidosis, hypokalemia, hypomagnesemia, hypernatremia, hypophosphatemiaUncommon (0.1% to 1%): Metabolic acidosis, hypoalbuminemia, electrolyte imbalancePostmarketing reports: Hyperkalemia, acidosis
+Common (1% to 10%): HeadachePostmarketing reports: Convulsion, dizziness, neuralgia, neuritis, speech disorder
+Common (1% to 10%): Pyrexia, hyperthermia, chills, post-procedural hemorrhage, withdrawal event/syndrome, rigors, hyperpyrexia, pain, thirst, generalized edema, peripheral edema, sepsis, septic shockUncommon (0.1% to 1%): Ineffective drugFrequency not reported: Tolerance, tachyphylaxisPostmarketing reports: Light anesthesia
+Common (1% to 10%): Agitation, anxietyUncommon (0.1% to 1%): HallucinationPostmarketing reports: Confusional state, delirium, illusion
+Common (1% to 10%): Acute renal failure, decreased urine output, oliguriaPostmarketing reports: Increased blood urea, polyuria
+Postmarketing reports: Abnormal hepatic function, hyperbilirubinemia, increased ALT, increased AST, increased blood alkaline phosphatase, increased gamma-glutamyl transferase
+Frequency not reported: Reduced lacrimationPostmarketing reports: Photopsia, abnormal vision, visual impairment

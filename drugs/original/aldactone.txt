@@ -1,35 +1,20 @@
-Generic Name: spironolactone
-Applies to spironolactone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by spironolactone (the active ingredient contained in Aldactone). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking spironolactone:
-
 If any of the following symptoms of overdose occur while taking spironolactone, get emergency help immediately:
-
-Some of the side effects that can occur with spironolactone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to spironolactone: compounding powder, oral tablet
-The most common adverse effect was gynecomastia.[Ref]
-Very common (10% or more): Gynecomastia (13%)Frequency not reported: Breast disorders in women, slight androgenic effects, breast tenderness in women, voice deepening in women, breast pain[Ref]
-Common (1% to 10%): Hyperkalemia, hyponatremiaUncommon (0.1% to 1%): Acidosis in patients with liver problemsRare (less than 0.1%): Dehydration, porphyria, hyperuricemiaFrequency not reported: Reversible hyperchloremic metabolic acidosis in patients with decompensated hepatic cirrhosis, electrolyte disturbances[Ref]
-Common (1% to 10%): Changes in vaginal secretions, amenorrhea, postmenopausal bleedingFrequency not reported: Reproductive system disorders, erectile dysfunction, impotence, menstrual disorders[Ref]
-Common (1% to 10%): Lethargy in patients with cirrhosis, paresthesiaRare (less than 0.1%): Paralysis, paraplegia of the limbs due to hyperkalemiaFrequency not reported: Headache, drowsiness, dizziness, ataxia[Ref]
-Common (1% to 10%): Nausea, vomitingVery rare (less than 0.01%): Gastric inflammation, gastric ulcers, intestinal hemorrhage, crampsFrequency not reported: Digestive system disorders, diarrhea, indigestion, gastric bleeding[Ref]
-Common (1% to 10%): Libido reduced in womenUncommon (0.1% to 1%): ConfusionFrequency not reported: Libido reduced in men[Ref]
-Common (1% to 10%): MalaiseVery rare (less than 0.01%): Breast cancer[Ref]
-Common (1% to 10%): WeaknessFrequency not reported: Fatigue, fever[Ref]
-Uncommon (0.1% to 1%): Rash, urticaria, erythema, chloasma, pruritus, exanthemaRare (less than 0.1%): EczemaVery rare (less than 0.01%): Alopecia, erythema annulare centrifugum, hypertrichosisFrequency not reported: Hirsutism, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS), maculopapular or erythematous cutaneous eruptions[Ref]
-Uncommon (0.1% to 1%): Muscle spasms, leg crampsVery rare (less than 0.01%): Systemic lupus erythematosus, osteomalacia[Ref]
-Uncommon (0.1% to 1%): Serum creatinine elevatedRare (less than 0.1%): BUN increasedVery rare (less than 0.01%): Acute renal failureFrequency not reported: Renal dysfunction[Ref]
-Rare (less than 0.1%): Thrombocytopenia, eosinophilia, leukopeniaFrequency not reported: Agranulocytosis[Ref]
-Rare (less than 0.1%): HypersensitivityFrequency not reported: Anaphylactic reactions[Ref]
-Very rare (less than 0.01%): VasculitisFrequency not reported: Mild hypotension[Ref]
-Very rare (less than 0.01%): HepatitisFrequency not reported: Mixed cholestatic/hepatocellular toxicity[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Aldactone (spironolactone)." Searle, Skokie, IL. 
-Not all side effects for Aldactone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse effect was gynecomastia.
+Very common (10% or more): Gynecomastia (13%)Frequency not reported: Breast disorders in women, slight androgenic effects, breast tenderness in women, voice deepening in women, breast pain
+Common (1% to 10%): Hyperkalemia, hyponatremiaUncommon (0.1% to 1%): Acidosis in patients with liver problemsRare (less than 0.1%): Dehydration, porphyria, hyperuricemiaFrequency not reported: Reversible hyperchloremic metabolic acidosis in patients with decompensated hepatic cirrhosis, electrolyte disturbances
+Common (1% to 10%): Changes in vaginal secretions, amenorrhea, postmenopausal bleedingFrequency not reported: Reproductive system disorders, erectile dysfunction, impotence, menstrual disorders
+Common (1% to 10%): Lethargy in patients with cirrhosis, paresthesiaRare (less than 0.1%): Paralysis, paraplegia of the limbs due to hyperkalemiaFrequency not reported: Headache, drowsiness, dizziness, ataxia
+Common (1% to 10%): Nausea, vomitingVery rare (less than 0.01%): Gastric inflammation, gastric ulcers, intestinal hemorrhage, crampsFrequency not reported: Digestive system disorders, diarrhea, indigestion, gastric bleeding
+Common (1% to 10%): Libido reduced in womenUncommon (0.1% to 1%): ConfusionFrequency not reported: Libido reduced in men
+Common (1% to 10%): MalaiseVery rare (less than 0.01%): Breast cancer
+Common (1% to 10%): WeaknessFrequency not reported: Fatigue, fever
+Uncommon (0.1% to 1%): Rash, urticaria, erythema, chloasma, pruritus, exanthemaRare (less than 0.1%): EczemaVery rare (less than 0.01%): Alopecia, erythema annulare centrifugum, hypertrichosisFrequency not reported: Hirsutism, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS), maculopapular or erythematous cutaneous eruptions
+Uncommon (0.1% to 1%): Muscle spasms, leg crampsVery rare (less than 0.01%): Systemic lupus erythematosus, osteomalacia
+Uncommon (0.1% to 1%): Serum creatinine elevatedRare (less than 0.1%): BUN increasedVery rare (less than 0.01%): Acute renal failureFrequency not reported: Renal dysfunction
+Rare (less than 0.1%): Thrombocytopenia, eosinophilia, leukopeniaFrequency not reported: Agranulocytosis
+Rare (less than 0.1%): HypersensitivityFrequency not reported: Anaphylactic reactions
+Very rare (less than 0.01%): VasculitisFrequency not reported: Mild hypotension
+Very rare (less than 0.01%): HepatitisFrequency not reported: Mixed cholestatic/hepatocellular toxicity
 Abdominal or stomach cramping, burning, or tenderness
 bleeding gums
 bloody or black, tarry stools
@@ -89,16 +74,12 @@ unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 weight gain
 yellow eyes or skin
-
-
 Irregular heartbeat
 nervousness
 numbness or tingling in the hands, feet, or lips
 rash with flat lesions or small raised lesions on the skin
 reddened skin
 weakness or heaviness of the legs
-
-
 Burning feeling in the chest or stomach
 hair loss or thinning of the hair
 leg cramps
@@ -106,4 +87,3 @@ sores, welting, or blisters
 stomach upset
 swelling of the breasts or breast soreness in both females and males
 unusual dullness or feeling of sluggishness
-

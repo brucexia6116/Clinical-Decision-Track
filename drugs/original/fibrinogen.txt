@@ -1,20 +1,8 @@
-Applies to fibrinogen: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by fibrinogen. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking fibrinogen, check with your doctor or nurse immediately:
-Some of the side effects that can occur with fibrinogen may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fibrinogen: intravenous powder for injection
-Cardiovascular side effects have included thromboembolic episodes, including myocardial infarction, pulmonary embolism, deep vein thrombosis, and arterial thrombosis.[Ref]
-Hypersensitivity side effects have included allergic-anaphylactic reactions (including rash and dyspnea).[Ref]
-General side effects have included chills, fever, nausea, and vomiting.[Ref]
-1. "Product Information. RiaSTAP (fibrinogen)." CSL Behring, King of Prussia, PA. 
-Not all side effects for fibrinogen may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects have included thromboembolic episodes, including myocardial infarction, pulmonary embolism, deep vein thrombosis, and arterial thrombosis.
+Hypersensitivity side effects have included allergic-anaphylactic reactions (including rash and dyspnea).
+General side effects have included chills, fever, nausea, and vomiting.
 Fever
-
-
 Anxiety
 chest pain or discomfort
 chills
@@ -39,7 +27,4 @@ sweating
 tightness in the chest
 unusual tiredness or weakness
 vomiting
-
-
 Headache
-

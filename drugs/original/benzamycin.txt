@@ -1,15 +1,5 @@
-Generic Name: benzoyl peroxide / erythromycin topical
-Applies to benzoyl peroxide / erythromycin topical: topical gel/jelly
-In addition to its needed effects, some unwanted effects may be caused by benzoyl peroxide / erythromycin topical. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking benzoyl peroxide / erythromycin topical:
-
-
-Applies to benzoyl peroxide / erythromycin topical: topical gel
-Local effects are the most commonly reported adverse effects of benzoyl peroxide-erythromycin topical.  Transient drying occurs most often, followed by erythema, pruritus, burning, tenderness, and desquamation.  A single case of generalized urticarial reaction to erythromycin topical has been reported.[Ref]
-Allergic sensitization to benzoyl peroxide has been reported to occur in 1% to 5% of patients.[Ref]
-1. "Product Information. Benzamycin Topical Gel (benzoyl peroxide-erythromycin topical)" Dermik Laboratories, Collegeville, PA. 
-Not all side effects for Benzamycin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Local effects are the most commonly reported adverse effects of benzoyl peroxide-erythromycin topical.  Transient drying occurs most often, followed by erythema, pruritus, burning, tenderness, and desquamation.  A single case of generalized urticarial reaction to erythromycin topical has been reported.
+Allergic sensitization to benzoyl peroxide has been reported to occur in 1% to 5% of patients.
 Burning, blistering, crusting, itching, severe redness, or swelling of the skin
 dryness or peeling of the skin
 eye irritation
@@ -22,4 +12,3 @@ redness, swelling, or itching of the eyelid
 severe sunburn
 skin rash
 swelling of the eyes, face, and nose
-

@@ -1,62 +1,22 @@
-Generic Name: pyrimethamine / sulfadoxine
-Applies to pyrimethamine / sulfadoxine: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by pyrimethamine / sulfadoxine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking pyrimethamine / sulfadoxine:
-Some of the side effects that can occur with pyrimethamine / sulfadoxine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to pyrimethamine / sulfadoxine: oral tablet
-Hypersensitivity reactions have included erythema multiforme, Stevens-Johnson syndrome, generalized skin eruptions, toxic epidermal necrolysis, urticaria, serum sickness, pruritus, exfoliative dermatitis, anaphylactoid reactions, periorbital edema, conjunctival and scleral injection, photosensitization, arthralgia, and allergic pericarditis.  Fatalities due to severe hypersensitivity reactions have been reported.[Ref]
-Severe cutaneous reactions have occurred in patients who have taken as few as two doses of pyrimethamine-sulfadoxine.  The risk of fatal cutaneous reactions in patients receiving pyrimethamine-sulfadoxine has been estimated to range from 1 in 11,000 to 1 in 25,000.  In general, the use of sulfonamide antibiotics is associated with large increases in the risk of Stevens-Johnson syndrome or toxic epidermal necrolysis, although these phenomena are rare as a whole.[Ref]
-Dermatologic side effects have frequently included phototoxicity, rash, dermatitis, and hair loss.[Ref]
-Hematologic toxicity is more common with higher doses of pyrimethamine.Many cases of agranulocytosis have occurred during therapy with pyrimethamine-dapsone, although it has been reported in patients receiving pyrimethamine-sulfadoxine as well.[Ref]
-Hematologic side effects have included leucopenia (7%), agranulocytosis, aplastic anemia, megaloblastic anemia, thrombocytopenia, hemolytic anemia, purpura, hypoprothrombinemia, methemoglobinemia, and eosinophilia.  Macrocytic anemia has also been reported.  Fatalities have been reported.[Ref]
-Gastrointestinal side effects have included anorexia (5.5%), digestive intolerance (3%), diarrhea (2.74%), abdominal pain (2.74%), vomiting (2.74%), nausea, glossitis, stomatitis, and pancreatitis.[Ref]
-Hepatic side effects have included hepatitis (7%), hepatocellular necrosis, and liver enzyme elevations.[Ref]
-In many cases, the hepatitis has accompanied severe cutaneous reactions, fever, myalgias and arthralgias.  Granulomas and necrosis have been seen on biopsy.[Ref]
-Renal side effects have included renal failure, interstitial nephritis, toxic nephrosis with oliguria and anuria, crystalluria, and increases in BUN and serum creatinine.[Ref]
-Respiratory side effects have included cough (9.6%), pulmonary infiltrates and shortness of breath which may be due to pulmonary hypersensitivity reactions.  Frequently, the pulmonary reactions have accompanied other systemic symptoms.[Ref]
-Nervous system side effects have included headache (4.1%), peripheral neuritis, mental depression, convulsions, ataxia, hallucinations, tinnitus, vertigo, insomnia, apathy, fatigue, muscle weakness, nervousness, and polyneuritis.[Ref]
-Metabolic side effects associated with sulfonamides have included diuresis and hypoglycemia.  Sulfonamides are chemically similar to goitrogenic agents (i.e., diuretics and oral hypoglycemic agents).[Ref]
-Genitourinary side effects have included crystalluria.[Ref]
+Hypersensitivity reactions have included erythema multiforme, Stevens-Johnson syndrome, generalized skin eruptions, toxic epidermal necrolysis, urticaria, serum sickness, pruritus, exfoliative dermatitis, anaphylactoid reactions, periorbital edema, conjunctival and scleral injection, photosensitization, arthralgia, and allergic pericarditis.  Fatalities due to severe hypersensitivity reactions have been reported.
+Severe cutaneous reactions have occurred in patients who have taken as few as two doses of pyrimethamine-sulfadoxine.  The risk of fatal cutaneous reactions in patients receiving pyrimethamine-sulfadoxine has been estimated to range from 1 in 11,000 to 1 in 25,000.  In general, the use of sulfonamide antibiotics is associated with large increases in the risk of Stevens-Johnson syndrome or toxic epidermal necrolysis, although these phenomena are rare as a whole.
+Dermatologic side effects have frequently included phototoxicity, rash, dermatitis, and hair loss.
+Hematologic toxicity is more common with higher doses of pyrimethamine.Many cases of agranulocytosis have occurred during therapy with pyrimethamine-dapsone, although it has been reported in patients receiving pyrimethamine-sulfadoxine as well.
+Hematologic side effects have included leucopenia (7%), agranulocytosis, aplastic anemia, megaloblastic anemia, thrombocytopenia, hemolytic anemia, purpura, hypoprothrombinemia, methemoglobinemia, and eosinophilia.  Macrocytic anemia has also been reported.  Fatalities have been reported.
+Gastrointestinal side effects have included anorexia (5.5%), digestive intolerance (3%), diarrhea (2.74%), abdominal pain (2.74%), vomiting (2.74%), nausea, glossitis, stomatitis, and pancreatitis.
+Hepatic side effects have included hepatitis (7%), hepatocellular necrosis, and liver enzyme elevations.
+In many cases, the hepatitis has accompanied severe cutaneous reactions, fever, myalgias and arthralgias.  Granulomas and necrosis have been seen on biopsy.
+Renal side effects have included renal failure, interstitial nephritis, toxic nephrosis with oliguria and anuria, crystalluria, and increases in BUN and serum creatinine.
+Respiratory side effects have included cough (9.6%), pulmonary infiltrates and shortness of breath which may be due to pulmonary hypersensitivity reactions.  Frequently, the pulmonary reactions have accompanied other systemic symptoms.
+Nervous system side effects have included headache (4.1%), peripheral neuritis, mental depression, convulsions, ataxia, hallucinations, tinnitus, vertigo, insomnia, apathy, fatigue, muscle weakness, nervousness, and polyneuritis.
+Metabolic side effects associated with sulfonamides have included diuresis and hypoglycemia.  Sulfonamides are chemically similar to goitrogenic agents (i.e., diuretics and oral hypoglycemic agents).
+Genitourinary side effects have included crystalluria.
 Endocrine side effects including weight gain (1 kg or greater) have been reported in 53% of patients.
-Other side effects have included drug fever, chills, periarteritis nodosa, and lupus erythematosus phenomenon.[Ref]
-1. Roujeau JC, Kelly JP, Naldi L, et al. "Medication use and the risk of Stevens-Johnson syndrome or toxic epidermal necrolysis." N Engl J Med 333 (1995): 1600-7
-2. "Product Information. Fansidar (sulfadoxine-pyrimethamine)." Roche Laboratories, Nutley, NJ. 
-3. Murphy RL, Phair JP "Systemic reaction to pyrimethamine-sulfadoxine." J Fam Pract 22 (1986): 375-6
-4. Phillips-Howard PA, Behrens RH, Dunlop J "Stevens-Johnson syndrome due to pyrimethamine / sulfadoxine during presumptive self-therapy of malaria." Lancet 2 (1989): 803-4
-5. Whitfield D "Presumptive fatality due to pyrimethamine-sulfadoxine." Lancet 2 (1982): 1272
-6. Ortel B, Sivayathorn A, Honigsmann H "An unusual combination of phototoxicity and Stevens-Johnson syndrome due to antimalarial therapy." Dermatologica 178 (1989): 39-42
-7. Ward DJ, Krzeminska EC, Tanner NS "Treatment of toxic epidermal necrolysis and a review of six cases." Burns 16 (1990): 97-104
-8. Adams SJ, Broadbent J, Clayden LM, Ridley CM "Erythema multiforme (Stevens-Johnson) precipitated by Fansidar." Postgrad Med J 61 (1985): 263-4
-9. Bamber MG, Elder AT, Gray JA, Minns RA "Fatal Stevens-Johnson syndrome associated with Fansidar and chloroquine." J Infect 13 (1986): 31-3
-10. Olsen VV, Loft S, Christensen KD "Serious reactions during malaria prophylaxis with pyrimethamine- sulfadoxine." Lancet 2 (1982): 994
-11. Hornstein OP, Ruprecht KW "Fansidar-induced Stevens-Johnson Syndrome." N Engl J Med 307 (1982): 1529-30
-12. "Fansidar-associated fatal reaction in an HIV-infected man." MMWR Morb Mortal Wkly Rep 37 (1988): 571-2
-13. Jeffrey RF "Transient lupus anticoagulant and fansidar therapy." Postgrad Med J 62 (1986): 893-4
-14. Zitelli BJ, Alexander J, Taylor S, Miller KD, Howrie DL, Kuritsky JN, Perez TH, Van Thiel DH "Fatal hepatic necrosis due to pyrimethamine-sulfadoxine (Fansidar)." Ann Intern Med 106 (1987): 393-5
-15. Selby CD, Ladusans EJ, Smith PG "Fatal multisystemic toxicity associated with prophylaxis with pyrimethamine and sulfadoxine (Fansidar)." Br Med J (Clin Res Ed) 290 (1985): 113-4
-16. Phillips-Howard PA, West LJ "Serious adverse drug reactions to pyrimethamine-sulphadoxine pyrimethamine-dapsone and to amodiaquine in Britain." J R Soc Med 83 (1990): 82-5
-17. Nicholls MD, Concannon AJ "Maloprim-induced agranulocytosis and red-cell aplasia." Med J Aust 2 (1982): 564-6
-18. Ree GH "Chemoprophylaxis of malaria in Africa." Br Med J (Clin Res Ed) 286 (1983): 562
-19. Booth F, Barker LC, Barton CJ, Naik RB "Agranulocytosis during malaria prophylaxis with Maloprim (pyrimethamine and dapsone)." Postgrad Med J 60 (1984): 566-7
-20. Whitehead S "Agranulocytosis associated with maloprim." Br Med J (Clin Res Ed) 286 (1983): 1515
-21. Winstanley P "Malaria: treatment." J R Coll Physicians Lond 32 (1998): 203-7
-22. Bowcock SJ, Linch DC, Machin SJ, Stewart JW "Pyrimethamine in the myeloproliferative disorders: a forgotten treatment?" Clin Lab Haematol 9 (1987): 129-36
-23. Lazar HP, Murphy RL, Phair JP "Fansidar and hepatic granulomas." Ann Intern Med 102 (1985): 722
-24. Svanbom M, Rombo L, Gustafsson L "Unusual pulmonary reaction during short term prophylaxis with pyrimethamine-sulfadoxine (Fansidar)." Br Med J (Clin Res Ed) 288 (1984): 1876
-25. Pang JA "Non-cardiogenic pulmonary oedema associated with pyrimethamine." Respir Med 83 (1989): 247-8
-26. Davidson AC, Bateman C, Shovlin C, Marrinan M, Burton GH, Cameron IR "Pulmonary toxicity of malaria prophylaxis." BMJ 297 (1988): 1240-1
-27. McCormack D, Morgan WK "Fansidar hypersensitivity pneumonitis." Br J Dis Chest 81 (1987): 194-6
-28. Fish DR, Espir ML "Convulsions associated with prophylactic antimalarial drugs: implications for people with epilepsy." BMJ 297 (1988): 526-7
-Not all side effects for Fansidar may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Other side effects have included drug fever, chills, periarteritis nodosa, and lupus erythematosus phenomenon.
 Fever
 increased sensitivity of skin to sunlight
 irritation or soreness of tongue
 skin rash
-
-
 Black, tarry stools
 bleeding or crusting sores on lips
 blood in urine or stools
@@ -79,8 +39,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting 
 yellow eyes or skin
-
-
 Abdominal or stomach pain
 changes in facial skin color
 constipation
@@ -89,8 +47,6 @@ tenderness, itching, or burning of skin
 puffiness or swelling of the eyelids or around the eyes
 shortness of breath, troubled breathing, tightness in chest, and/or wheezing
  swelling of front part of neck
-
-
 Bleeding or bruising (severe)
 clumsiness or unsteadiness
 convulsions (seizures)
@@ -100,14 +56,9 @@ loss of appetite
 unusual tiredness or weakness
 trembling 
 vomiting (severe)
-
-
 Anxiety
 diarrhea
  drowsiness
 headache
 nervousness 
-
-
 Pain in joints
-

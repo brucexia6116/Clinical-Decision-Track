@@ -1,72 +1,20 @@
-Generic Name: isoniazid
-Applies to isoniazid: solution, syrup, tablet
 As well as its needed effects, isoniazid (the active ingredient contained in Nydrazid) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking isoniazid, check with your doctor immediately:
 Some isoniazid side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Dark urine and yellowing of the eyes or skin (signs of liver problems) are more likely to occur in patients over 50 years of age.
-
-
-Applies to isoniazid: intramuscular solution, oral syrup, oral tablet
-Overdose of isoniazid (the active ingredient contained in Nydrazid) has been associated with uncontrollable seizures.  Dialysis may be required to decrease isoniazid blood levels, thereby controlling seizures.  Seizures, lethargy, and confusion have also been reported in patients with chronic renal failure.  Other patients at risk for neurotoxicity include the malnourished and alcoholics.  Optic neuritis has also been reported in patients on hemodialysis.[Ref]
-Peripheral neuropathy has been observed and occurs frequently, especially at doses greater than 300 mg daily.  Neuropathy may be prevented or attenuated by coadministration of pyridoxine 50 to 100 mg daily.  Other neurologic reactions, although rare, have included visual disturbances, ataxia, and seizures.[Ref]
-Hepatitis has been reported in less than 5% of patients receiving isoniazid (the active ingredient contained in Nydrazid) alone.  Jaundice is usually preceded by a prodromal illness with fatigue, nausea, malaise, abdominal pain, and anorexia.  Asymptomatic increases in liver function tests may occur.  Isoniazid should be discontinued if hepatotoxicity occurs, usually defined as SGOT greater than four times normal.[Ref]
-The mechanism of hepatic injury is unknown but may be related to the acetyl metabolite of isoniazid.  Patients exhibiting hepatotoxicity are more likely to be fast acetylators of isoniazid.  Eight cases of severe hepatitis resulting in death or transplantation have been evaluated by the Department of Health of New York.  Duration of isoniazid use before onset of hepatitis ranged from 21 to 142 days, and seven patients continued use of isoniazid at least 10 days after onset of symptoms.  Massive hepatic necrosis was a common finding and cholestasis was present in two of five cases.The risk is age related with a greater occurrence reported in patients who are 35 years or older.  The risk of hepatitis is also increased in patients who consume alcohol daily, in women, and in minorities.  In a study of 2651 women beginning isoniazid preventive therapy during pregnancy or postpartum, 5 cases of isoniazid-induced hepatitis were identified, including two fatalities.  In another review of deaths due to isoniazid, eight of 21 women between 15 and 44 years old were within one year postpartum.  In general, death due to isoniazid hepatotoxicity occurs more frequently in women than men.Fulminate hepatitis, characterized by jaundice, disorders of consciousness and elevated serum transaminases up to 80 times the upper limit of normal, has occasionally occurred in patients receiving isoniazid with rifampin.  Rifampin, by virtue of its enzyme-inducing activity, likely increases the reactive metabolite of isoniazid thought to be responsible for the hepatotoxicity associated with isoniazid.Monthly monitoring and interviewing of patients should take place.  Patients should be fully informed regarding the risk of hepatotoxicity associated with isoniazid, educated about the signs and symptoms of liver damage, and instructed to contact their physician immediately if they develop signs or symptoms.[Ref]
-Hematologic abnormalities such as anemia have been reported.  Anemia is generally reversible following discontinuation of isoniazid (the active ingredient contained in Nydrazid)   Agranulocytosis, thrombocytopenia, and eosinophilia have rarely been reported.[Ref]
-Several cases have been reported of pure red cell aplasia attributable to isoniazid.  Abnormalities resolved following drug discontinuation.[Ref]
-Hypersensitivity reactions including drug fever, rash, lymphadenopathy, vasculitis, and urticaria have been reported but are rare.  These reactions generally subside following drug discontinuation.[Ref]
-Isoniazid-induced lupus-like reactions have been reported with an incidence of approximately 1%.  However, as many as 22% of patients on this drug may develop positive antinuclear antibodies.  Drug discontinuation is recommended if a lupus-like reaction occurs.[Ref]
-Psychosis, depression, and aggression have been rarely reported with isoniazid (the active ingredient contained in Nydrazid) therapy.  Some patients with preexisting schizophrenia have experienced exacerbations when isoniazid was started.[Ref]
-Gastrointestinal adverse effects have included nausea, vomiting, and epigastric distress.  A few cases of pancreatitis have been reported.[Ref]
-Metabolic side effects such as pyridoxine deficiency and pellagra have been reported.  Isoniazid (the active ingredient contained in Nydrazid) induced hypocalcemia and hypophosphatemia has been observed and may be due to altered vitamin D metabolism.[Ref]
-Local irritation has been observed at the site of intramuscular injection of isoniazid (the active ingredient contained in Nydrazid) [Ref]
-1. Bray PF "Isoniazid-induced acute toxic encephalopathy." Neurology 34 (1984): 703
-2. Dippenaar J, Jameson C, Dowse R "Side-effects of isoniazid." S Afr Med J 72 (1987): 89
-3. Siskind MS, Thienemann D, Kirlin L "Isoniazid-induced neurotoxicity in chronic dialysis patients: report of three cases and a review of the literature." Nephron 64 (1993): 303-6
-4. Ishii N, Nishihara Y "Pellagra encephalopathy among tuberculous patients: its relation to isoniazid therapy." J Neurol Neurosurg Psychiatry 48 (1985): 628-34
-5. Terman DS, Teitelbaum DT "Isoniazid self-poisoning." Neurology 20 (1970): 299-304
-6. Gonzalez-Gay MA, Sanchez-Andrade A, Aguero JJ, Alonso MD, Rodriguez E, Criado JR "Optic neuritis following treatment with isoniazid in a hemodialyzed patient." Nephron 63 (1993): 360
-7. Jimenez-Lucho VE, del Busto R, Odel J "Isoniazid and ethambutol as a cause of optic neuropathy." Eur J Respir Dis 71 (1987): 42-5
-8. Brown CV "Acute isoniazid poisoning." Am Rev Respir Dis 105 (1972): 206-16
-9. Cheung WC, Lo CY, Lo WK, Ip M, Cheng IK "Isoniazid induced encephalopathy in dialysis patients." Tuber Lung Dis 74 (1993): 136-9
-10. Dutt AK, Moers D, Stead WW "Undesirable side effects of isoniazid and rifampin in largely twice-weekly short-course chemotherapy for tuberculosis." Am Rev Respir Dis 128 (1983): 419-24
-11. Bartelink AK, Lenders JW, van Herwaarden CL, et al "Fatal hepatitis after treatment with isoniazid and rifampicin in a patient on anticonvulsant therapy." Tubercle 64 (1983): 125-8
-12. Franks AL, Binkin NJ, Snider DE, et al "Isoniazid hepatitis among pregnant and postpartum Hispanic patients." Public Health Rep 104 (1989): 151-5
-13. Nolan CM, Goldberg SV, Buskin SE "Hepatotoxicity associated with isoniazid preventive therapy: a 7-year survey from a public health tuberculosis clinic." JAMA 281 (1999): 1014-8
-14. Maddrey WC, Boitnott JK "Isoniazid hepatitis." Ann Intern Med 79 (1973): 1-12
-15. Dutt AK, Moers D, Stead WW "Short-course chemotherapy for extrapulmonary tuberculosis." Ann Intern Med 104 (1986): 7-12
-16. Stuart RL, Grayson ML "A review of isoniazid-related hepatotoxicity during chemoprophylaxis." Aust N Z J Med 29 (1999): 362-7
-17. Mitchell JR, Zimmerman HJ, Ishak KG, et al "Isoniazid liver injury: clinical spectrum, pathology, and probable pathogenesis." Ann Intern Med 84 (1976): 181-92
-18. U.S. Departmnet of Health and Human Services / Public Health Service "Severe isoniazid-associated hepatitis--New York, 1991-1993." MMWR Morb Mortal Wkly Rep 42 (1993): 545-7
-19. Moulding TS, Redeker AG, Kanel GC "Twenty isoniazid-associated deaths in one state." Am Rev Respir Dis 140 (1989): 700-5
-20. Maddrey WC "Drug-related acute and chronic hepatitis." Clin Gastroenterol 9 (1980): 213-24
-21. Yamamoto T, Suou T, Hirayama C "Elevated serum aminotransferase induced by isoniazid in relation to isoniazid acetylator phenotype." Hepatology 6 (1986): 295-8
-22. Yoshikawa TT, Nagami PH "Adverse drug reactions in TB therapy: risks and recommendations." Geriatrics 37 (1982): 61-8
-23. Snider DE, Caras GJ "Isoniazid-associated hepatitis deaths: a review of available information." Am Rev Respir Dis 145 (1992): 494-7
-24. Israel HL, Gottlieb JE, Maddrey WC "Perspective: preventive isoniazid therapy and the liver." Chest 101 (1992): 1298-301
-25. Maddrey WC "Isoniazid-induced liver disease." Semin Liver Dis 1 (1981): 129-33
-26. Johnsson R, Lommi J "A case of isoniazid-induced red cell aplasia." Respir Med 84 (1990): 171-4
-27. "Product Information. INH (isoniazid)." Ciba Pharmaceuticals, Summit, NJ. 
-28. Claiborne RA, Dutt AK "Isoniazid-induced pure red cell aplasia." Am Rev Respir Dis 131 (1985): 947-9
-29. Bottomley SS "Sideroblastic anemia." Clin Haematol 11 (1982): 389-409
-30. Lewis CR, Manoharan A "Pure red cell hypoplasia secondary to isoniazid." Postgrad Med J 63 (1987): 309-10
-31. Hoffman R, McPhedran P, Benz EG, Duffy TP "Isoniazid-induced pure red cell aplasia." Am J Med Sci 286 (1983): 2-9
-32. Gabrail NY "Severe febrile reaction to isoniazid." Chest 91 (1987): 620-1
-33. Rosin MA, King LE "Isoniazid-induced exfoliative dermatitis." South Med J 75 (1982): 81
-34. Yamasaki R, Yamasaki M, Kawasaki Y, Nagasako R "Generalized pustular dermatosis caused by isoniazid." Br J Dermatol 112 (1985): 504-6
-35. Henderson RP, Davis HL, Self TH "Spiking fever induced by isoniazid." Drug Intell Clin Pharm 17 (1983): 741-2
-36. Lopez-Contreras J, Ruiz D, Domingo P "Isoniazid-induced toxic fever." Rev Infect Dis 13 (1991): 775
-37. Cush JJ, Goldings EA "Southwestern internal medicine conference: drug-induced lupus: clinical spectrum and pathogenesis." Am J Med Sci 290 (1985): 36-45
-38. Harmon CE, Portanova JP "Drug-induced lupus: clinical and serological studies." Clin Rheum Dis 8 (1982): 121-35
-39. Shah AK, Tobiansky R, Bradley JJ "Psychosis and antituberculosis therapy." Lancet 2 (1989): 623
-40. Bernardo M, Gatell JM, Parellada E "Acute exacerbation of chronic schizophrenia in a patient treated with antituberculosis drugs." Am J Psychiatry 148 (1991): 1402
-41. van der Have JJ "Disturbance of the psychological balance during isoniazid preventative chemotherapy." Tubercle 72 (1991): 232
-42. Alao AO, Yolles JC "Isoniazid-induced psychosis." Ann Pharmacother 32 (1998): 889-91
-43. Ibrahim ZY, Menke JJ "Isoniazide-induced psychosis." Ann Pharmacother 28 (1994): 1311
-44. Pallone KA, Goldman MP, Fuller MA "Isoniazid-associated psychosis: case report and review of the literature." Ann Pharmacother 27 (1993): 167-70
-45. Rabassa AA, Trey G, Shukla U, Samo T, Anand BS "Isoniazid-induced acute pancreatitis." Ann Intern Med 121 (1994): 433-4
-46. Chan KL, Chan HS, Lui SF, Lai KN "Recurrent acute pancreatitis induced by isoniazid." Tuber Lung Dis 75 (1994): 383-5
+Overdose of isoniazid (the active ingredient contained in Nydrazid) has been associated with uncontrollable seizures.  Dialysis may be required to decrease isoniazid blood levels, thereby controlling seizures.  Seizures, lethargy, and confusion have also been reported in patients with chronic renal failure.  Other patients at risk for neurotoxicity include the malnourished and alcoholics.  Optic neuritis has also been reported in patients on hemodialysis.
+Peripheral neuropathy has been observed and occurs frequently, especially at doses greater than 300 mg daily.  Neuropathy may be prevented or attenuated by coadministration of pyridoxine 50 to 100 mg daily.  Other neurologic reactions, although rare, have included visual disturbances, ataxia, and seizures.
+Hepatitis has been reported in less than 5% of patients receiving isoniazid (the active ingredient contained in Nydrazid) alone.  Jaundice is usually preceded by a prodromal illness with fatigue, nausea, malaise, abdominal pain, and anorexia.  Asymptomatic increases in liver function tests may occur.  Isoniazid should be discontinued if hepatotoxicity occurs, usually defined as SGOT greater than four times normal.
+The mechanism of hepatic injury is unknown but may be related to the acetyl metabolite of isoniazid.  Patients exhibiting hepatotoxicity are more likely to be fast acetylators of isoniazid.  Eight cases of severe hepatitis resulting in death or transplantation have been evaluated by the Department of Health of New York.  Duration of isoniazid use before onset of hepatitis ranged from 21 to 142 days, and seven patients continued use of isoniazid at least 10 days after onset of symptoms.  Massive hepatic necrosis was a common finding and cholestasis was present in two of five cases.The risk is age related with a greater occurrence reported in patients who are 35 years or older.  The risk of hepatitis is also increased in patients who consume alcohol daily, in women, and in minorities.  In a study of 2651 women beginning isoniazid preventive therapy during pregnancy or postpartum, 5 cases of isoniazid-induced hepatitis were identified, including two fatalities.  In another review of deaths due to isoniazid, eight of 21 women between 15 and 44 years old were within one year postpartum.  In general, death due to isoniazid hepatotoxicity occurs more frequently in women than men.Fulminate hepatitis, characterized by jaundice, disorders of consciousness and elevated serum transaminases up to 80 times the upper limit of normal, has occasionally occurred in patients receiving isoniazid with rifampin.  Rifampin, by virtue of its enzyme-inducing activity, likely increases the reactive metabolite of isoniazid thought to be responsible for the hepatotoxicity associated with isoniazid.Monthly monitoring and interviewing of patients should take place.  Patients should be fully informed regarding the risk of hepatotoxicity associated with isoniazid, educated about the signs and symptoms of liver damage, and instructed to contact their physician immediately if they develop signs or symptoms.
+Hematologic abnormalities such as anemia have been reported.  Anemia is generally reversible following discontinuation of isoniazid (the active ingredient contained in Nydrazid)   Agranulocytosis, thrombocytopenia, and eosinophilia have rarely been reported.
+Several cases have been reported of pure red cell aplasia attributable to isoniazid.  Abnormalities resolved following drug discontinuation.
+Hypersensitivity reactions including drug fever, rash, lymphadenopathy, vasculitis, and urticaria have been reported but are rare.  These reactions generally subside following drug discontinuation.
+Isoniazid-induced lupus-like reactions have been reported with an incidence of approximately 1%.  However, as many as 22% of patients on this drug may develop positive antinuclear antibodies.  Drug discontinuation is recommended if a lupus-like reaction occurs.
+Psychosis, depression, and aggression have been rarely reported with isoniazid (the active ingredient contained in Nydrazid) therapy.  Some patients with preexisting schizophrenia have experienced exacerbations when isoniazid was started.
+Gastrointestinal adverse effects have included nausea, vomiting, and epigastric distress.  A few cases of pancreatitis have been reported.
+Metabolic side effects such as pyridoxine deficiency and pellagra have been reported.  Isoniazid (the active ingredient contained in Nydrazid) induced hypocalcemia and hypophosphatemia has been observed and may be due to altered vitamin D metabolism.
+Local irritation has been observed at the site of intramuscular injection of isoniazid (the active ingredient contained in Nydrazid) 
 It is possible that some side effects of Nydrazid may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Clumsiness or unsteadiness
 dark urine 
 loss of appetite
@@ -74,8 +22,6 @@ nausea or vomiting
 numbness, tingling, burning, or pain in hands and feet
 unusual tiredness or weakness 
 yellow eyes or skin
-
-
 Blurred vision or loss of vision, with or without eye pain
 convulsions (seizures)
 fever and sore throat
@@ -84,11 +30,6 @@ mental depression
 mood or other mental changes
 skin rash
 unusual bleeding or bruising 
-
-
 Diarrhea
 stomach pain
-
-
 Irritation at the place of injection
-

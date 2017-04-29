@@ -1,33 +1,18 @@
-Generic Name: amitriptyline
-Applies to amitriptyline: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by amitriptyline (the active ingredient contained in Elavil). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking amitriptyline:
-
 If any of the following symptoms of overdose occur while taking amitriptyline, get emergency help immediately:
-
-Some of the side effects that can occur with amitriptyline may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to amitriptyline: compounding powder, intramuscular solution, oral tablet
-Frequency not reported: Weakness, fatigue, hyperpyrexia, edema of face and tongue[Ref]
-Rare (less than 0.1%): Serotonin syndromeFrequency not reported: Coma, seizures, confusional states, disorientation, incoordination, ataxia, tremors, peripheral neuropathy, numbness, tingling and paresthesia of the extremities, extrapyramidal symptoms (including abnormal involuntary movements and tardive dyskinesia), dysarthria, disturbed concentration, restlessness, drowsiness, dizziness, headache, tinnitus, alteration in EEG patterns, irritability, sleep disturbance, ageusiaPostmarketing reports: Syndrome resembling neuroleptic malignant syndrome (NMS) including muscle rigidity, fever, mental status changes, diaphoresis, tachycardia[Ref]
-Frequency not reported: Myocardial infarction, stroke, nonspecific ECG changes and changes in AV conduction, heart block, arrhythmias, hypotension (particularly orthostatic hypotension), syncope, hypertension, tachycardia, palpitation[Ref]
-Rare (less than 0.1%): Mania/hypomaniaFrequency not reported: Hallucinations, delusions, excitement, anxiety, insomnia, nightmares, suicidal ideation/behaviors[Ref]
-Frequency not reported: Paralytic ileus, constipation, dry mouth, nausea, epigastric distress, vomiting, stomatitis, peculiar taste, diarrhea, parotid swelling, black tongue[Ref]
-The most commonly reported side effects were tremors, dizziness, headache, dry mouth, constipation, and nausea.[Ref]
-Frequency not reported: Urinary retention, dilatation of the urinary tract, testicular swelling, gynecomastia (male), breast enlargement, galactorrhea (female), increased or decreased libido, impotence, urinary frequency[Ref]
-Frequency not reported: Bone marrow depression (including agranulocytosis, leukopenia, thrombocytopenia), purpura, eosinophilia[Ref]
-Frequency not reported: Syndrome of inappropriate ADH (antidiuretic hormone) secretion[Ref]
-Rare (less than 0.1%): Hepatitis (including altered liver function, cholestasis and jaundice), hepatic failure, hepatic necrosis[Ref]
-Frequency not reported: Skin rash, urticaria, photosensitization, alopecia, increased perspiration[Ref]
-Frequency not reported: Lupus-like syndrome (migratory arthritis, positive ANA and rheumatoid factor)[Ref]
-Frequency not reported: Anorexia, elevation or lowering of blood sugar levels, weight gain or loss, hyponatremia, increased appetite[Ref]
-Frequency not reported: Blurred vision, disturbance of accommodation, increased ocular pressure, mydriasis[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Elavil (amitriptyline)." Stuart Pharmaceuticals, Wilmington, DE. 
-Not all side effects for Elavil may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Weakness, fatigue, hyperpyrexia, edema of face and tongue
+Rare (less than 0.1%): Serotonin syndromeFrequency not reported: Coma, seizures, confusional states, disorientation, incoordination, ataxia, tremors, peripheral neuropathy, numbness, tingling and paresthesia of the extremities, extrapyramidal symptoms (including abnormal involuntary movements and tardive dyskinesia), dysarthria, disturbed concentration, restlessness, drowsiness, dizziness, headache, tinnitus, alteration in EEG patterns, irritability, sleep disturbance, ageusiaPostmarketing reports: Syndrome resembling neuroleptic malignant syndrome (NMS) including muscle rigidity, fever, mental status changes, diaphoresis, tachycardia
+Frequency not reported: Myocardial infarction, stroke, nonspecific ECG changes and changes in AV conduction, heart block, arrhythmias, hypotension (particularly orthostatic hypotension), syncope, hypertension, tachycardia, palpitation
+Rare (less than 0.1%): Mania/hypomaniaFrequency not reported: Hallucinations, delusions, excitement, anxiety, insomnia, nightmares, suicidal ideation/behaviors
+Frequency not reported: Paralytic ileus, constipation, dry mouth, nausea, epigastric distress, vomiting, stomatitis, peculiar taste, diarrhea, parotid swelling, black tongue
+The most commonly reported side effects were tremors, dizziness, headache, dry mouth, constipation, and nausea.
+Frequency not reported: Urinary retention, dilatation of the urinary tract, testicular swelling, gynecomastia (male), breast enlargement, galactorrhea (female), increased or decreased libido, impotence, urinary frequency
+Frequency not reported: Bone marrow depression (including agranulocytosis, leukopenia, thrombocytopenia), purpura, eosinophilia
+Frequency not reported: Syndrome of inappropriate ADH (antidiuretic hormone) secretion
+Rare (less than 0.1%): Hepatitis (including altered liver function, cholestasis and jaundice), hepatic failure, hepatic necrosis
+Frequency not reported: Skin rash, urticaria, photosensitization, alopecia, increased perspiration
+Frequency not reported: Lupus-like syndrome (migratory arthritis, positive ANA and rheumatoid factor)
+Frequency not reported: Anorexia, elevation or lowering of blood sugar levels, weight gain or loss, hyponatremia, increased appetite
+Frequency not reported: Blurred vision, disturbance of accommodation, increased ocular pressure, mydriasis
 Abdominal or stomach pain
 agitation
 black, tarry stools
@@ -147,8 +132,6 @@ vomiting of blood
 weakness in arms, hands, legs, or feet
 weight gain or loss
 yellow eyes and skin
-
-
 Clumsiness
 drowsiness
 low body temperature
@@ -157,8 +140,6 @@ muscle weakness
 sleepiness
 tiredness
 weak or feeble pulse
-
-
 Bigger, dilated, or enlarged pupils (black part of eye)
 black tongue
 bloating
@@ -182,4 +163,3 @@ swelling of the breasts or breast soreness in males
 swelling of the parotid glands
 swelling or inflammation of the mouth
 unexpected or excess milk flow from breasts
-

@@ -1,26 +1,14 @@
-Generic Name: cetirizine / pseudoephedrine
-Applies to cetirizine / pseudoephedrine: oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by cetirizine / pseudoephedrine. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following symptoms of overdose occur while taking cetirizine / pseudoephedrine, get emergency help immediately:
-
 If any of the following side effects occur while taking cetirizine / pseudoephedrine, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with cetirizine / pseudoephedrine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cetirizine / pseudoephedrine: oral tablet extended release
-Dermatologic side effects have included maculopapular and urticarial eruptions.[Ref]
-Gastrointestinal side effects of cetirizine have included dry mouth (5.7%) and nausea or vomiting (2.2%).  Pharyngitis, dyspepsia, and increased appetite have occasionally been reported.Gastrointestinal adverse effects of pseudoephedrine have included anorexia and gastric irritation (5%).  Dry mouth, nose, or throat have occurred in up to 15% of patients.[Ref]
-Hepatic side effects have included rare liver function test abnormalities which resolved spontaneously following discontinuation of cetirizine therapy.[Ref]
-Cetirizine appears to be more sedating than terfenadine, astemizole, and loratadine.[Ref]
-Nervous system side effects of cetirizine administration have included headache (16%), fatigue (5.6%), and somnolence (5% to 20%).  Somnolence tends to be dose-related and generally occurs more frequently with doses higher than 10 mg per day.  Other nervous system side effects include dizziness (1.8%), insomnia (1.5%), and nervousness (1.1%).   Post marketing reports have included aggression reaction and convulsions.Nervous system side effects of pseudoephedrine have included insomnia in up to 30% of patients.  Tremor, anxiety, nervousness, and headache have also been reported.[Ref]
-Respiratory side effects have included wheezing, coughing, bronchitis, sinusitis, and asthma.[Ref]
-Hypersensitivity reactions have included fixed drug eruptions with pseudoephedrine use.[Ref]
-Cardiovascular side effects have included tachycardia.  Some patients have developed hypertension and/or arrhythmias.[Ref]
-General side effects have included epistaxis (1.1%) and accidental injury (1.1%).[Ref]
-1. "Product Information. Zyrtec (cetirizine)." Pfizer US Pharmaceuticals, New York, NY. 
-Not all side effects for Allergy Relief D may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Dermatologic side effects have included maculopapular and urticarial eruptions.
+Gastrointestinal side effects of cetirizine have included dry mouth (5.7%) and nausea or vomiting (2.2%).  Pharyngitis, dyspepsia, and increased appetite have occasionally been reported.Gastrointestinal adverse effects of pseudoephedrine have included anorexia and gastric irritation (5%).  Dry mouth, nose, or throat have occurred in up to 15% of patients.
+Hepatic side effects have included rare liver function test abnormalities which resolved spontaneously following discontinuation of cetirizine therapy.
+Cetirizine appears to be more sedating than terfenadine, astemizole, and loratadine.
+Nervous system side effects of cetirizine administration have included headache (16%), fatigue (5.6%), and somnolence (5% to 20%).  Somnolence tends to be dose-related and generally occurs more frequently with doses higher than 10 mg per day.  Other nervous system side effects include dizziness (1.8%), insomnia (1.5%), and nervousness (1.1%).   Post marketing reports have included aggression reaction and convulsions.Nervous system side effects of pseudoephedrine have included insomnia in up to 30% of patients.  Tremor, anxiety, nervousness, and headache have also been reported.
+Respiratory side effects have included wheezing, coughing, bronchitis, sinusitis, and asthma.
+Hypersensitivity reactions have included fixed drug eruptions with pseudoephedrine use.
+Cardiovascular side effects have included tachycardia.  Some patients have developed hypertension and/or arrhythmias.
+General side effects have included epistaxis (1.1%) and accidental injury (1.1%).
 Changes in mood, irrational behavior, depersonalization hallucinations 
 convulsions (seizures)
  extreme sleepiness or unusual drowsiness
@@ -36,8 +24,6 @@ shallow, irregular, fast, or slow breathing
 sleeplessness or trouble in sleeping 
 abdominal and/or chest pain
  thirst
-
-
  Breathing, troubled
 back, leg, or stomach pain
 blurred vision
@@ -56,15 +42,8 @@ sudden sweating
 vomiting blood, bleeding gums, nosebleeds, unusual bleeding or bruising
 pale or yellow eyes or skin 
 unusual tiredness or weakness
-
-
 Sleepiness or unusual drowsiness, extreme tiredness
-
-
 Dry mouth
 weakness
-
-
 Dizziness
 sore throat 
-

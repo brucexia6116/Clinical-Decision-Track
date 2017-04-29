@@ -1,29 +1,18 @@
 Commonly reported side effects of metformin/sitagliptin include: lactic acidosis. Other side effects include: nausea.  See below for a comprehensive list of adverse effects.
-Applies to metformin / sitagliptin: oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by metformin / sitagliptin. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking metformin / sitagliptin:
-Some of the side effects that can occur with metformin / sitagliptin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to metformin / sitagliptin: oral tablet, oral tablet extended release
-Metformin-sitagliptin:Very common (10% or more): Hypoglycemia (13.8% when combined with sulfonylurea; 10.9% when combined with insulin)Common (1% to 10%): Hypoglycemia, decrease levels of vitamin B12 without clinical manifestations and rarely associated with anemiaRare (less than 0.1%): Lactic acidosis due to metforminSitagliptin:Uncommon (0.1% to 1%): HypoglycemiaMetformin:Common (1% to 10%): Hypoglycemia (5% or more when combined with glyburide)Uncommon (0.1% to 1%): HypoglycemiaVery rare (less than 0.01%): Lactic acidosis, vitamin B12 deficiency[Ref]
-In metformin-treated patients, the incidence of lactic acidosis has been about 1.5 cases per 10,000 patient years.  The risk of lactic acidosis has been particularly high in patients with underlying renal insufficiency and rarely in patients with normal renal function.  Concomitant cardiovascular or liver disease, sepsis, and hypoxia have also increased the risk of lactic acidosis.Signs and symptoms of severe acidosis may include vomiting, abdominal pain, nausea, dyspnea, hypothermia, hypotension, and bradycardia.Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption.  Malabsorption of vitamin B12, due to intrinsic factor deficiency and possibly other mechanisms, in as many as 30% of treated patients, were reported.  Megaloblastic anemia has occurred.  Decreased levels of vitamin B12 appear to be reversible with discontinuation of metformin or vitamin B12 supplementation.[Ref]
-Common (1% to 10%): Diarrhea, nausea, flatulence, vomiting Uncommon (0.1% to 1%): Constipation, upper abdominal pain, dry mouthPostmarketing reports: Indigestion, abdominal discomfort, dyspepsia, abdominal pain, acute pancreatitis (including fatal and non-fatal hemorrhagic and necrotizing pancreatitis)Metformin: Very common (10% or more): Nausea, vomiting, diarrhea, abdominal pain, loss of appetite Sitagliptin:Rare (less than 0.1%): Pancreatitis[Ref]
-Metformin-sitagliptin:Common (1% to 10%): HeadacheUncommon (0.1% to 1%): SomnolenceFrequency not reported: AstheniaMetformin:Common (1% to 10%): metallic taste[Ref]
-Common (1% to 10%): Upper respiratory tract infections, nasopharyngitis, pharyngolaryngeal pain, bronchitis, sinusitis, influenzaPostmarketing reports: Interstitial lung disease[Ref]
-Frequency not reported: Hypersensitivity reactions including anaphylaxis[Ref]
+Metformin-sitagliptin:Very common (10% or more): Hypoglycemia (13.8% when combined with sulfonylurea; 10.9% when combined with insulin)Common (1% to 10%): Hypoglycemia, decrease levels of vitamin B12 without clinical manifestations and rarely associated with anemiaRare (less than 0.1%): Lactic acidosis due to metforminSitagliptin:Uncommon (0.1% to 1%): HypoglycemiaMetformin:Common (1% to 10%): Hypoglycemia (5% or more when combined with glyburide)Uncommon (0.1% to 1%): HypoglycemiaVery rare (less than 0.01%): Lactic acidosis, vitamin B12 deficiency
+In metformin-treated patients, the incidence of lactic acidosis has been about 1.5 cases per 10,000 patient years.  The risk of lactic acidosis has been particularly high in patients with underlying renal insufficiency and rarely in patients with normal renal function.  Concomitant cardiovascular or liver disease, sepsis, and hypoxia have also increased the risk of lactic acidosis.Signs and symptoms of severe acidosis may include vomiting, abdominal pain, nausea, dyspnea, hypothermia, hypotension, and bradycardia.Long-term treatment with metformin has been associated with a decrease in vitamin B12 absorption.  Malabsorption of vitamin B12, due to intrinsic factor deficiency and possibly other mechanisms, in as many as 30% of treated patients, were reported.  Megaloblastic anemia has occurred.  Decreased levels of vitamin B12 appear to be reversible with discontinuation of metformin or vitamin B12 supplementation.
+Common (1% to 10%): Diarrhea, nausea, flatulence, vomiting Uncommon (0.1% to 1%): Constipation, upper abdominal pain, dry mouthPostmarketing reports: Indigestion, abdominal discomfort, dyspepsia, abdominal pain, acute pancreatitis (including fatal and non-fatal hemorrhagic and necrotizing pancreatitis)Metformin: Very common (10% or more): Nausea, vomiting, diarrhea, abdominal pain, loss of appetite Sitagliptin:Rare (less than 0.1%): Pancreatitis
+Metformin-sitagliptin:Common (1% to 10%): HeadacheUncommon (0.1% to 1%): SomnolenceFrequency not reported: AstheniaMetformin:Common (1% to 10%): metallic taste
+Common (1% to 10%): Upper respiratory tract infections, nasopharyngitis, pharyngolaryngeal pain, bronchitis, sinusitis, influenzaPostmarketing reports: Interstitial lung disease
+Frequency not reported: Hypersensitivity reactions including anaphylaxis
 Metformin-sitagliptin:Postmarketing reports: Hepatic enzyme elevationMetformin:Very rare (less than 0.01%): Liver function disorders, hepatitis
 Frequency not reported: Impaired renal function, acute renal failure (sometimes requiring dialysis)
-Between October 2006 and December 2013, thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.  Each case involved the use of 1 or more dipeptidyl peptidase-4 (DPP-4) inhibitor.  In all cases, substantial reduction in prior activity level was reported, 10 patients were hospitalized due to disabling joint pain.  In 22 cases, symptoms appeared within 1 month of starting therapy, in 23 cases symptoms resolved less than 1 month after discontinuation.  A positive rechallenge was reported in 8 cases, with 6 cases involving use of a different DPP-4 inhibitor.  Sitagliptin had the greatest number of cases reported (n=28) followed by saxagliptin (n=5), linagliptin (n=2), alogliptin (n=1), and vildagliptin (n=2).[Ref]
-Common (1% to 10%): ArthralgiaPostmarketing reports: Myalgia, pain in extremities, back pain[Ref]
+Between October 2006 and December 2013, thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.  Each case involved the use of 1 or more dipeptidyl peptidase-4 (DPP-4) inhibitor.  In all cases, substantial reduction in prior activity level was reported, 10 patients were hospitalized due to disabling joint pain.  In 22 cases, symptoms appeared within 1 month of starting therapy, in 23 cases symptoms resolved less than 1 month after discontinuation.  A positive rechallenge was reported in 8 cases, with 6 cases involving use of a different DPP-4 inhibitor.  Sitagliptin had the greatest number of cases reported (n=28) followed by saxagliptin (n=5), linagliptin (n=2), alogliptin (n=1), and vildagliptin (n=2).
+Common (1% to 10%): ArthralgiaPostmarketing reports: Myalgia, pain in extremities, back pain
 Common (1% to 10%): Peripheral edema
 Postmarketing reports: Angioedema, rash, urticaria, pruritus, cutaneous vasculitis, exfoliative skin conditions including Steven-Johnson syndromeMetformin:Very rare (less than 0.01%): Urticaria, erythema, pruritus
-Rare (less than 0.1%): Megaloblastic anemia[Ref]
-Decreased serum vitamin B12 levels, without clinical manifestations (rarely megaloblastic anemia), has been reported in approximately 7% of patients.  The reduction in vitamin B12 levels may be due to interference with B12 absorption from the B12-intrinsic factor complex and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.[Ref]
-1. "Product Information. Janumet (metformin-sitagliptin)." Merck & Company Inc, West Point, PA. 
-2. US Food and Drug Administration "FDA Drug Safety Communication: FDA warns that DPP-4 inhibitors for type 2 diabetes may cause severe joint pain. Available from: URL: http://www.fda.gov/downloads/Drugs/DrugSafety/UCM460038.pdf."   ([2015, Aug 28]):
-Not all side effects for metformin / sitagliptin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Rare (less than 0.1%): Megaloblastic anemia
+Decreased serum vitamin B12 levels, without clinical manifestations (rarely megaloblastic anemia), has been reported in approximately 7% of patients.  The reduction in vitamin B12 levels may be due to interference with B12 absorption from the B12-intrinsic factor complex and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Anxiety
 blurred vision
 chills
@@ -44,8 +33,6 @@ seizures
 shakiness
 slurred speech
 unusual tiredness or weakness
-
-
 Abdominal or stomach discomfort
 decreased appetite
 diarrhea
@@ -54,8 +41,6 @@ general feeling of discomfort
 muscle pain or cramping
 shortness of breath
 sleepiness
-
-
 Blistering, peeling, or loosening of the skin
 darkened urine
 hives or welts, itching, or skin rash
@@ -68,8 +53,6 @@ severe joint pain
 sores, ulcers, or white spots in the mouth or on the lips
 vomiting
 yellow eyes or skin
-
-
 Bloated or full feeling
 excess air or gas in the stomach or intestines
 indigestion
@@ -79,4 +62,3 @@ passing gas
 sore throat
 stuffy or runny nose
 vomiting
-

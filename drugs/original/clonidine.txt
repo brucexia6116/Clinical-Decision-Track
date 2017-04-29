@@ -1,40 +1,24 @@
 Commonly reported side effects of clonidine include: drowsiness, fatigue, hypotension, lethargy, sedation, headache, and upper abdominal pain. Other side effects include: dizziness, and headache.  See below for a comprehensive list of adverse effects.
-Applies to clonidine: oral suspension extended release, oral tablet, oral tablet extended release
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by clonidine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking clonidine:
-
 If any of the following symptoms of overdose occur while taking clonidine, get emergency help immediately:
-
-Some of the side effects that can occur with clonidine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to clonidine: compounding powder, injectable solution, oral suspension extended release, oral tablet, oral tablet extended release, transdermal film extended release
-Very common (10% or more): Hypotension (45%), orthostatic hypotension (32%)Common (1% to 10%): Chest pain, tachycardiaUncommon (0.1% to 1%): Sinus bradycardia, Raynaud's phenomenon, palpitationsRare (0.01% to 0.1%): Atrioventricular block, palpitations, bradycardia, syncope, congestive heart failure, electrocardiographic abnormalities (i.e., sinus node arrest, high degree AV block), cerebrovascular accident Frequency not reported: Bradyarrhythmia, hypertension, rebound hypertension[Ref]
-Very common (10% or more): Contact dermatitis with the patch formulation (19%)Common (1% to 10%): SweatingUncommon (0.1% to 1%): Pruritus, rash (localized or generalized), urticaria, erythemaRare (0.01% to 0.1%): Alopecia, excoriation, burning Very rare (less than 0.01%): Papules, throbbing, blanching, generalized macular rash, facial/tongue angioedemaFrequency not reported: Hives, localized hypo or hyper pigmentation[Ref]
-Rare (0.01% to 0.1%): Gynecomastia[Ref]
-Very common (10% or more): Dry mouth (40%), upper abdominal pain (15%), nausea (13%), vomiting (10%)Common (1% to 10%): Constipation, parotid gland painUncommon (0.1% to 1%): Colonic pseudo-obstructionVery rare (less than 0.01%): Parotitis[Ref]
-Common (1% to 10%): Erectile dysfunctionFrequency not reported: Micturition difficulty, loss of libido, decreased sexual activity, nocturia, urinary retention[Ref]
-Most adverse effects are mild and diminish with continued therapy.  The most frequent (which appear to be dose-related) are dry mouth (40%), drowsiness (33%), dizziness (16%), constipation (10%), and sedation (10%).[Ref]
-Rare (0.01% to 0.1%): Peripheral blood flow disturbance, thrombocytopenia[Ref]
-Frequency not reported: Mild transient abnormalities of liver function tests, hepatitis[Ref]
-Rare (0.01% to 0.1%): Blood glucose increased, serum creatine phosphokinase increased Frequency not reported: Weight gain, anorexia[Ref]
-Frequency not reported: Muscle pain, joint pain, leg cramps[Ref]
-Very common (10% or more): Drowsiness (33%), dizziness (16%), somnolence (13%), sedation (10%)Common (1% to 10%): HeadacheUncommon (0.1% to 1%): ParesthesiaFrequency not reported: Headache, localized numbness[Ref]
-Rare (0.01% to 0.1%): Lacrimation decreased (dry eyes) Frequency not reported: Accommodation disorder, ocular burning, vision blurred[Ref]
-Common (1% to 10%): Fatigue, tinnitusUncommon (0.1% to 1%): MalaiseFrequency not reported: Fever, pallor, weakness, positive Coombs' test, increased sensitivity to alcohol[Ref]
-Very common (10% or more): Confusion (13%)Common (1% to 10%): Depression, tearfulness, sleep disorder, hallucinations (both visual and auditory), nervousness, agitationUncommon (0.1% to 1%):Rare (0.01% to 0.1%): Delusional perception, nightmare Frequency not reported: Libido decreased, restlessness, anxiety, irritability, behavior changes[Ref]
-Common (1% to 10%): HypoventilationRare (0.01% to 0.1%): Nasal dryness[Ref]
-1. "Product Information. CloNIDine Hydrochloride (cloNIDine)." Unichem Pharmaceuticals Inc, New Rochelle, NJ. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for clonidine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Very common (10% or more): Hypotension (45%), orthostatic hypotension (32%)Common (1% to 10%): Chest pain, tachycardiaUncommon (0.1% to 1%): Sinus bradycardia, Raynaud's phenomenon, palpitationsRare (0.01% to 0.1%): Atrioventricular block, palpitations, bradycardia, syncope, congestive heart failure, electrocardiographic abnormalities (i.e., sinus node arrest, high degree AV block), cerebrovascular accident Frequency not reported: Bradyarrhythmia, hypertension, rebound hypertension
+Very common (10% or more): Contact dermatitis with the patch formulation (19%)Common (1% to 10%): SweatingUncommon (0.1% to 1%): Pruritus, rash (localized or generalized), urticaria, erythemaRare (0.01% to 0.1%): Alopecia, excoriation, burning Very rare (less than 0.01%): Papules, throbbing, blanching, generalized macular rash, facial/tongue angioedemaFrequency not reported: Hives, localized hypo or hyper pigmentation
+Rare (0.01% to 0.1%): Gynecomastia
+Very common (10% or more): Dry mouth (40%), upper abdominal pain (15%), nausea (13%), vomiting (10%)Common (1% to 10%): Constipation, parotid gland painUncommon (0.1% to 1%): Colonic pseudo-obstructionVery rare (less than 0.01%): Parotitis
+Common (1% to 10%): Erectile dysfunctionFrequency not reported: Micturition difficulty, loss of libido, decreased sexual activity, nocturia, urinary retention
+Most adverse effects are mild and diminish with continued therapy.  The most frequent (which appear to be dose-related) are dry mouth (40%), drowsiness (33%), dizziness (16%), constipation (10%), and sedation (10%).
+Rare (0.01% to 0.1%): Peripheral blood flow disturbance, thrombocytopenia
+Frequency not reported: Mild transient abnormalities of liver function tests, hepatitis
+Rare (0.01% to 0.1%): Blood glucose increased, serum creatine phosphokinase increased Frequency not reported: Weight gain, anorexia
+Frequency not reported: Muscle pain, joint pain, leg cramps
+Very common (10% or more): Drowsiness (33%), dizziness (16%), somnolence (13%), sedation (10%)Common (1% to 10%): HeadacheUncommon (0.1% to 1%): ParesthesiaFrequency not reported: Headache, localized numbness
+Rare (0.01% to 0.1%): Lacrimation decreased (dry eyes) Frequency not reported: Accommodation disorder, ocular burning, vision blurred
+Common (1% to 10%): Fatigue, tinnitusUncommon (0.1% to 1%): MalaiseFrequency not reported: Fever, pallor, weakness, positive Coombs' test, increased sensitivity to alcohol
+Very common (10% or more): Confusion (13%)Common (1% to 10%): Depression, tearfulness, sleep disorder, hallucinations (both visual and auditory), nervousness, agitationUncommon (0.1% to 1%):Rare (0.01% to 0.1%): Delusional perception, nightmare Frequency not reported: Libido decreased, restlessness, anxiety, irritability, behavior changes
+Common (1% to 10%): HypoventilationRare (0.01% to 0.1%): Nasal dryness
 epidural injectable, epidural solutiontransdermal patch extended release
-
 Mental depression
 swelling of the feet and lower legs
-
-
 Anxiety
 blistering, burning, crusting, dryness, or flaking of the skin
 chest pain or discomfort
@@ -73,24 +57,16 @@ unusual tiredness or weakness
 vivid dreams or nightmares
 weight gain
 wheezing
-
-
 Dizziness (extreme) or faintness
 feeling cold
 pinpoint pupils of the eyes
 unusual tiredness or weakness (extreme)
-
-
 Constipation
-
-
 Darkening of the skin
 decreased sexual ability
 dry, itching, or burning eyes
 loss of appetite
 nausea or vomiting
-
-
 Blurred vision
 decreased interest in sexual intercourse
 hair loss or thinning of the hair
@@ -101,4 +77,3 @@ muscle or joint pain
 pale skin
 swelling of the breasts or breast soreness in both females and males
 weakness
-

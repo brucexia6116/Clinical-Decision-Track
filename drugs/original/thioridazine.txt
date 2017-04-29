@@ -1,28 +1,23 @@
 More frequently reported side effects include: syncope, akathisia, constipation, dizziness, drowsiness, epithelial keratopathy, increased serum prolactin, nasal congestion, retinitis pigmentosa, sedation, star-shaped cataract, urinary retention, visual disturbance, hypohidrosis, and xerostomia.  See below for a comprehensive list of adverse effects.
-Applies to thioridazine: tablets
 Other dosage forms:
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Agitation; constipation; diarrhea; dizziness; drowsiness; dry mouth; enlarged pupils; jitteriness; nausea; stuffy nose; vomiting.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest or throat; swelling of the mouth, face, lips, or tongue; unusual hoarseness; wheezing); chest pain; confusion; decreased coordination; drooling; fainting; fast, slow, or irregular heartbeat; mask-like face; muscle spasms of the face, neck, or back; muscle weakness; new or worsening mental or mood problems; numbness of an arm or leg; prolonged or painful erection; restlessness; seizures; severe or persistent constipation; severe or persistent dizziness, drowsiness, or headache; shuffling walk; sleeplessness; stiff or rigid muscles; sudden shortness of breath or vomiting; swelling of the hands, ankles, or feet; symptoms of infection (eg, fever, chills, persistent sore throat); symptoms of liver problems (eg, yellowing of the skin or eyes; dark urine; pale stools; severe or persistent nausea, stomach pain, or loss of appetite); tremor; trouble urinating; twisting or twitching movements; uncontrolled muscle movements (eg, twitching of the face or tongue; loss of balance; uncontrolled movements of arms or legs; trouble speaking, breathing, or swallowing); unusual bruising or bleeding; unusual eye movements or inability to move eyes; unusual or excessive sweating; unusual tiredness or weakness; unusually pale skin; vision changes (eg, blurred vision).
-
-
-Applies to thioridazine: oral concentrate, oral suspension, oral tablet
-Drowsiness has been reported to subside with continuation of therapy or a reduction in dosage.[Ref]
-Frequency not reported: Lethargy, drowsiness, pseudoparkinsonism, extrapyramidal symptoms, headache, hyperactivity, akathisia, motor restlessness, dystonic reactions, opisthotonos, tremor, akinesia, tardive dyskinesia, neuroleptic malignant syndrome[Ref]
-Frequency not reported: Pallor, peripheral edema, edema, dose-related QT prolongation, Torsades de pointes, arrhythmia, polymorphic ventricular tachycardia/fatal polymorphic ventricular tachycardia, hypotension, cardiac arrest, ECG changes, bifid T/U wave, depression and inversion of the T wave[Ref]
-ECG changes are predicted to be reversible and are likely due to altered repolarization.[Ref]
-Frequency not reported: Restlessness, nocturnal confusion, psychotic reactions, agitation, altered libido, excitement, bizarre dreams, aggravation of psychoses, toxic confusional states[Ref]
-Frequency not reported: Dermatitis, urticarial skin eruptions, urticaria, photosensitivity, erythema, exfoliative dermatitis, contact dermatitis, angioneurotic edema, progressive skin pigmentation[Ref]
-Frequency not reported: Dry mouth, constipation, nausea, vomiting, diarrhea, parotid swelling, obstipation, paralytic ileus[Ref]
-Frequency not reported: Galactorrhea, breast engorgement, lactation, menstrual abnormalities/amenorrhea, urinary retention, urinary incontinence, inhibition of ejaculationPostmarketing reports: Priapism[Ref]
-Frequency not reported: Agranulocytosis, leukopenia, eosinophilia, thrombocytopenia, anemia, aplastic anemia, pancytopenia[Ref]
-Frequency not reported: Blurred vision, miosis, oculogyric crises, progressive conjunctival pigmentation, discoloration of exposed sclera and cornea, stellate/irregular-shaped opacities of anterior lens and cornea[Ref]
-Frequency not reported: Sudden death, fever, hyperpyrexia, skin-eye syndrome[Ref]
-Frequency not reported: Trismus, torticollis, muscular rigidity, systemic lupus erythematosus-like syndrome[Ref]
-Frequency not reported: Nasal stuffiness, laryngeal edema, asthma[Ref]
-Frequency not reported: Jaundice, biliary stasis[Ref]
-Frequency not reported: Gynecomastia, false positive pregnancy tests[Ref]
-Frequency not reported: Anorexia, weight gain[Ref]
-1. "Product Information. Mellaril (thioridazine)." Sandoz Pharmaceuticals Corporation, East Hanover, NJ. 
+Drowsiness has been reported to subside with continuation of therapy or a reduction in dosage.
+Frequency not reported: Lethargy, drowsiness, pseudoparkinsonism, extrapyramidal symptoms, headache, hyperactivity, akathisia, motor restlessness, dystonic reactions, opisthotonos, tremor, akinesia, tardive dyskinesia, neuroleptic malignant syndrome
+Frequency not reported: Pallor, peripheral edema, edema, dose-related QT prolongation, Torsades de pointes, arrhythmia, polymorphic ventricular tachycardia/fatal polymorphic ventricular tachycardia, hypotension, cardiac arrest, ECG changes, bifid T/U wave, depression and inversion of the T wave
+ECG changes are predicted to be reversible and are likely due to altered repolarization.
+Frequency not reported: Restlessness, nocturnal confusion, psychotic reactions, agitation, altered libido, excitement, bizarre dreams, aggravation of psychoses, toxic confusional states
+Frequency not reported: Dermatitis, urticarial skin eruptions, urticaria, photosensitivity, erythema, exfoliative dermatitis, contact dermatitis, angioneurotic edema, progressive skin pigmentation
+Frequency not reported: Dry mouth, constipation, nausea, vomiting, diarrhea, parotid swelling, obstipation, paralytic ileus
+Frequency not reported: Galactorrhea, breast engorgement, lactation, menstrual abnormalities/amenorrhea, urinary retention, urinary incontinence, inhibition of ejaculationPostmarketing reports: Priapism
+Frequency not reported: Agranulocytosis, leukopenia, eosinophilia, thrombocytopenia, anemia, aplastic anemia, pancytopenia
+Frequency not reported: Blurred vision, miosis, oculogyric crises, progressive conjunctival pigmentation, discoloration of exposed sclera and cornea, stellate/irregular-shaped opacities of anterior lens and cornea
+Frequency not reported: Sudden death, fever, hyperpyrexia, skin-eye syndrome
+Frequency not reported: Trismus, torticollis, muscular rigidity, systemic lupus erythematosus-like syndrome
+Frequency not reported: Nasal stuffiness, laryngeal edema, asthma
+Frequency not reported: Jaundice, biliary stasis
+Frequency not reported: Gynecomastia, false positive pregnancy tests
+Frequency not reported: Anorexia, weight gain
 It is possible that some side effects of thioridazine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 oral concentrate

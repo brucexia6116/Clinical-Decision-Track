@@ -1,27 +1,20 @@
-Generic Name: respiratory syncytial virus immune globulin
-Applies to respiratory syncytial virus immune globulin: intravenous solution
 As well as its needed effects, respiratory syncytial virus immune globulin (the active ingredient contained in RespiGam) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking respiratory syncytial virus immune globulin, check with your doctor immediately:
-
-
-Applies to respiratory syncytial virus immune globulin: intravenous solution
-Renal side effects associated with sucrose-containing IGIV infusion have included increased serum creatinine, increased BUN level, oliguria, anuria, acute renal failure, acute tubular necrosis, proximal tubular nephropathy, and osmotic nephrosis.[Ref]
-Other side effects has included fever/pyrexia (6%) and overdose effect (1%).  Pallor, cold/clammy skin, gagging, and fluid overload have been reported rarely.Other side effects associated with other IGIV derivatives have included flushing.  This effect is often related to the rate of infusion.[Ref]
-Respiratory side effects have included respiratory distress (2%), wheezing (2%), rales (1%), tachypnea (1%), and hypoxia/hypoxemia (1%).  Cyanosis, cough, and rhinorrhea have been reported rarely.Respiratory side effects associated with other IGIV derivatives have included dyspnea.  This effect is often related to the rate of infusion.[Ref]
-Gastrointestinal side effects have included vomiting (2%), diarrhea (1%), and gastroenteritis (1%).Gastrointestinal side effects associated with other IGIV derivatives have included abdominal cramps.  This effect is often related to the rate of infusion.[Ref]
-The CARDIAC study reported an increase in frequency of cardiac surgery in children with left and right shunts.  All enrollees (n=429) had preexisting congenital heart disease of less than 48 months duration at time of enrollment.  The study also reported a greater frequency of severe and life-threatening side effects associated with the cardiac surgery.[Ref]
-Cardiovascular side effects reported in 1% of patients have included fluid overload, tachycardia, increased pulse rate, and hypertension.  Edema, hypotension, and heart murmur have been reported rarely.Cardiovascular side effects associated with other IGIV derivatives have included blood pressure changes, palpitations, and chest tightness.  These effects are usually related to the rate of infusion.[Ref]
-Dermatologic side effects have included rash (1%).  Eczema has been reported rarely.Dermatologic side effects associated with other IGIV derivatives have included pruritus.  This effect is usually related to the rate of infusion.[Ref]
-Local side effects have included inflammation at injection site.[Ref]
-Nervous system side effects have rarely included sleepiness.Nervous system side effects associated with other IGIV derivatives have included dizziness and anxiety.  These effects are often related to the rate of infusion.[Ref]
-Ocular side effects have rarely included conjunctival hemorrhage.[Ref]
-Musculoskeletal side effects associated with other IGIV derivatives have included myalgia and arthralgia.  These effects are often related to the rate of infusion.[Ref]
-Hypersensitivity side effects, including anaphylactic reactions, have been associated with other IGIV derivatives.[Ref]
-Aseptic meningitis syndrome has been associated with high doses (2 g/kg) of IGIV.Aseptic meningitis of unknown etiology has been reported in three pediatric patients during RSV-IGIV therapy in the PREVENT trial.  Subsequent findings reported one child to have a presumptive diagnosis of enteroviral infection, and another child to have an unconfirmed diagnosis of Herpes simplex meningitis related to treatment with acyclovir.  The third child developed fever, vomiting, and malaise associated with 21 cells per mm3 in the cerebrospinal fluid.[Ref]
-Immunologic side effects associated with other IGIV derivatives have rarely included aseptic meningitis syndrome.[Ref]
-1. "Product Information. Respigam (respiratory syncytial virus immune globulin)." Medimmune Inc, Gaithersburg, MD. 
+Renal side effects associated with sucrose-containing IGIV infusion have included increased serum creatinine, increased BUN level, oliguria, anuria, acute renal failure, acute tubular necrosis, proximal tubular nephropathy, and osmotic nephrosis.
+Other side effects has included fever/pyrexia (6%) and overdose effect (1%).  Pallor, cold/clammy skin, gagging, and fluid overload have been reported rarely.Other side effects associated with other IGIV derivatives have included flushing.  This effect is often related to the rate of infusion.
+Respiratory side effects have included respiratory distress (2%), wheezing (2%), rales (1%), tachypnea (1%), and hypoxia/hypoxemia (1%).  Cyanosis, cough, and rhinorrhea have been reported rarely.Respiratory side effects associated with other IGIV derivatives have included dyspnea.  This effect is often related to the rate of infusion.
+Gastrointestinal side effects have included vomiting (2%), diarrhea (1%), and gastroenteritis (1%).Gastrointestinal side effects associated with other IGIV derivatives have included abdominal cramps.  This effect is often related to the rate of infusion.
+The CARDIAC study reported an increase in frequency of cardiac surgery in children with left and right shunts.  All enrollees (n=429) had preexisting congenital heart disease of less than 48 months duration at time of enrollment.  The study also reported a greater frequency of severe and life-threatening side effects associated with the cardiac surgery.
+Cardiovascular side effects reported in 1% of patients have included fluid overload, tachycardia, increased pulse rate, and hypertension.  Edema, hypotension, and heart murmur have been reported rarely.Cardiovascular side effects associated with other IGIV derivatives have included blood pressure changes, palpitations, and chest tightness.  These effects are usually related to the rate of infusion.
+Dermatologic side effects have included rash (1%).  Eczema has been reported rarely.Dermatologic side effects associated with other IGIV derivatives have included pruritus.  This effect is usually related to the rate of infusion.
+Local side effects have included inflammation at injection site.
+Nervous system side effects have rarely included sleepiness.Nervous system side effects associated with other IGIV derivatives have included dizziness and anxiety.  These effects are often related to the rate of infusion.
+Ocular side effects have rarely included conjunctival hemorrhage.
+Musculoskeletal side effects associated with other IGIV derivatives have included myalgia and arthralgia.  These effects are often related to the rate of infusion.
+Hypersensitivity side effects, including anaphylactic reactions, have been associated with other IGIV derivatives.
+Aseptic meningitis syndrome has been associated with high doses (2 g/kg) of IGIV.Aseptic meningitis of unknown etiology has been reported in three pediatric patients during RSV-IGIV therapy in the PREVENT trial.  Subsequent findings reported one child to have a presumptive diagnosis of enteroviral infection, and another child to have an unconfirmed diagnosis of Herpes simplex meningitis related to treatment with acyclovir.  The third child developed fever, vomiting, and malaise associated with 21 cells per mm3 in the cerebrospinal fluid.
+Immunologic side effects associated with other IGIV derivatives have rarely included aseptic meningitis syndrome.
 It is possible that some side effects of RespiGam may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Difficulty in breathing and swallowing
  hives
 itching, especially of feet and hands
@@ -31,4 +24,3 @@ unusual tiredness or weakness, sudden and severe
 fever of 39.2 °C (102.6 °F) or higher
 increased heart rate
 vomiting
-

@@ -1,28 +1,15 @@
-Generic Name: tirofiban
-Applies to tirofiban: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by tirofiban (the active ingredient contained in Aggrastat). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking tirofiban, check with your doctor or nurse immediately:
-Some of the side effects that can occur with tirofiban may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to tirofiban: intravenous powder for injection, intravenous solution
-Bleeding is the most common adverse reaction.  Clinical trial adverse reactions were reported in patients taking this drug in addition to heparin.[Ref]
-Very common (10% or more): Thrombolysis in myocardial infarction (TIMI) minor bleeding (up to 10.5%)Common (1% to 10%): TIMI major bleeding, transfusions, platelets decreased to less than 90,000 cells/mm3Uncommon (0.1% to 1%): Platelets decreased to less than 50,000 cells/mm3Postmarketing reports: Platelets decreased to less than 10,000 cells/mm3, fatal bleeding[Ref]
-Common (1% to 10%): Vasovagal reaction, dizziness, headachePostmarketing reports: Intracranial bleeding[Ref]
-Common (1% to 10%): Bradycardia, coronary artery dissectionPostmarketing reports: Hemopericardium[Ref]
-Common (1% to 10%): NauseaPostmarketing reports: Retroperitoneal bleeding[Ref]
-Common (1% to 10%): Edema/swellingPostmarketing reports: Spinal epidural hematoma[Ref]
-Common (1% to 10%): Sweating[Ref]
-Common (1% to 10%): Pelvic pain[Ref]
-Common (1% to 10%): Leg pain[Ref]
-Postmarketing reports: Severe allergic reactions, anaphylactic reactions[Ref]
-Postmarketing reports: Pulmonary hemorrhage[Ref]
-1. "Product Information. Aggrastat (tirofiban)." Merck & Co, Inc, West Point, PA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Aggrastat may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Bleeding is the most common adverse reaction.  Clinical trial adverse reactions were reported in patients taking this drug in addition to heparin.
+Very common (10% or more): Thrombolysis in myocardial infarction (TIMI) minor bleeding (up to 10.5%)Common (1% to 10%): TIMI major bleeding, transfusions, platelets decreased to less than 90,000 cells/mm3Uncommon (0.1% to 1%): Platelets decreased to less than 50,000 cells/mm3Postmarketing reports: Platelets decreased to less than 10,000 cells/mm3, fatal bleeding
+Common (1% to 10%): Vasovagal reaction, dizziness, headachePostmarketing reports: Intracranial bleeding
+Common (1% to 10%): Bradycardia, coronary artery dissectionPostmarketing reports: Hemopericardium
+Common (1% to 10%): NauseaPostmarketing reports: Retroperitoneal bleeding
+Common (1% to 10%): Edema/swellingPostmarketing reports: Spinal epidural hematoma
+Common (1% to 10%): Sweating
+Common (1% to 10%): Pelvic pain
+Common (1% to 10%): Leg pain
+Postmarketing reports: Severe allergic reactions, anaphylactic reactions
+Postmarketing reports: Pulmonary hemorrhage
 Abdominal or stomach pain or swelling
 arm, back, or jaw pain
 black, tarry stools
@@ -38,27 +25,18 @@ headache
 joint pain or swelling
 nausea
 nosebleeds
-
-
 Bleeding gums
 lightheadedness or fainting
 pinpoint red spots on the skin
 severe, unusual tiredness or weakness
 slow heartbeat
 swelling of the hands, ankles, feet, or lower legs
-
-
 Chills or fever
 cough
 difficulty swallowing
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 skin rash, hives, or itching
 trouble breathing
-
-
 Pain in the legs or hips
-
-
 Dizziness
 sweating
-

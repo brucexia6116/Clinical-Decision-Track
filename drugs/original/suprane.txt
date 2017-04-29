@@ -1,26 +1,18 @@
-Generic Name: desflurane
-Applies to desflurane: inhalation liquid, inhalation solution
 As well as its needed effects, desflurane (the active ingredient contained in Suprane) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking desflurane, check with your doctor or nurse immediately:
 Some desflurane side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to desflurane: inhalation liquid
-Respiratory side effects including coughing (34%), breathholding (up to 30%), apnea (15%), increased secretions, laryngospasm, oxyhemoglobin desaturation, pharyngitis, increased cough, dyspnea, respiratory arrest, respiratory failure, respiratory distress, bronchospasm, hemoptysis, and hypoxia have been reported.[Ref]
-Gastrointestinal side effects including nausea (27%), vomiting (16%), acute pancreatitis, and abdominal pain have been reported.[Ref]
-Cardiovascular side effects including bradycardia, hypertension, nodal arrhythmia, tachycardia, arrhythmia, bigeminy, abnormal electrocardiogram, myocardial ischemia, vasodilation, hemorrhage, cardiac arrest, Torsade de pointes, ventricular failure, ventricular hypokinesia, malignant hypertension, hypotension,and myocardial infarct have been reported.[Ref]
-Nervous system side effects including increased salivation, agitation, convulsion, and dizziness have been reported.[Ref]
+Respiratory side effects including coughing (34%), breathholding (up to 30%), apnea (15%), increased secretions, laryngospasm, oxyhemoglobin desaturation, pharyngitis, increased cough, dyspnea, respiratory arrest, respiratory failure, respiratory distress, bronchospasm, hemoptysis, and hypoxia have been reported.
+Gastrointestinal side effects including nausea (27%), vomiting (16%), acute pancreatitis, and abdominal pain have been reported.
+Cardiovascular side effects including bradycardia, hypertension, nodal arrhythmia, tachycardia, arrhythmia, bigeminy, abnormal electrocardiogram, myocardial ischemia, vasodilation, hemorrhage, cardiac arrest, Torsade de pointes, ventricular failure, ventricular hypokinesia, malignant hypertension, hypotension,and myocardial infarct have been reported.
+Nervous system side effects including increased salivation, agitation, convulsion, and dizziness have been reported.
 Hepatic side effects including hepatitis, hepatic failure, hepatic necrosis, cytolytic hepatitis, cholestasis, jaundice, abnormal hepatic function, liver disorder, increased transaminases, increased alanine aminotransferase, and increased aspartate aminotransferase  have been reported.
-General side effects including shock, malignant hyperthermia, asthenia, malaise, headache, and fever have been reported.[Ref]
-Ocular side effects including conjunctivitis (conjunctival hyperemia) and ocular icterus have been reported.[Ref]
-Metabolic side effects including hyperkalemia, hypokalemia, metabolic acidosis, and increased creatinine phosphokinase have been reported.[Ref]
-Musculoskeletal side effects including myalgia and rhabdomyolysis have been reported.[Ref]
-Dermatologic side effects including urticaria, erythema, and pruritus have been reported.[Ref]
+General side effects including shock, malignant hyperthermia, asthenia, malaise, headache, and fever have been reported.
+Ocular side effects including conjunctivitis (conjunctival hyperemia) and ocular icterus have been reported.
+Metabolic side effects including hyperkalemia, hypokalemia, metabolic acidosis, and increased creatinine phosphokinase have been reported.
+Musculoskeletal side effects including myalgia and rhabdomyolysis have been reported.
+Dermatologic side effects including urticaria, erythema, and pruritus have been reported.
 Hematologic side effects including coagulopathy have been reported.
-1. "Product Information. Suprane (desflurane)." Baxter Pharmaceutical Products, Inc, New Providence, NJ. 
 It is possible that some side effects of Suprane may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bluish lips or skin
 body aches or pain
 congestion
@@ -35,8 +27,6 @@ tightness in the chest
 trouble breathing
 trouble swallowing
 voice changes
-
-
 Blurred vision
 chest pain or discomfort
 dizziness
@@ -47,8 +37,6 @@ nervousness
 pounding in the ears
 slow or irregular heartbeat
 unusual tiredness
-
-
 Dark urine
 difficulty with moving
 feeling of warmth or heat
@@ -65,8 +53,6 @@ sweating
 swollen joints
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Abdominal or stomach pain
 confusion
 convulsions
@@ -79,12 +65,8 @@ numbness or tingling in the hands, feet, or lips
 stopping of heart
 unconsciousness
 weakness or heaviness of the legs
-
-
 Increased watering of the mouth
 redness of the white part of the eyes or inside of the eyelids
-
-
 Anxiety
 hyperventilation
 irritability
@@ -92,4 +74,3 @@ itching skin
 restlessness
 shaking
 trouble sleeping
-

@@ -1,49 +1,28 @@
-Generic Name: verteporfin
-Applies to verteporfin: powder for solution
 As well as its needed effects, verteporfin (the active ingredient contained in Visudyne) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking verteporfin, check with your doctor immediately:
 Some verteporfin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to verteporfin: intravenous powder for injection
-Ocular side effects have included blurred vision, decreased visual acuity, visual field defects, blepharitis, cataracts, conjunctivitis, conjunctival injection, dry eyes, ocular itching, severe vision loss, lacrimation disorder, diplopia, mild stromal haze, and subconjunctival, subretinal, or vitreous hemorrhage.  Significant exudation associated with vision loss has also been reported.  Retinal detachment (nonhegmatogenous), retinal or choroidal vessel nonperfusion have been reported rarely.[Ref]
-Severe vision decrease has been reported in 1% to 5% of patients within 7 days of treatment.  Partial recovery occurred in many patients (percentage not given).An 82-year-old woman experienced a sudden decrease in vision acuity, measured as Snellen visual acuity of 20/200 in both eyes, within approximately 4 hours following ocular photodynamic therapy with verteporfin.  Further examination revealed a gross central serous retinal detachment and outlined the CNV within the choroid, and a focal area of hyperpermeability on the supertemporal margin of the CNV.  Within approximately 4 days visual acuity returned to 20/40 in both eyes, and examination reveled complete closure of the occult CNV, cessation of hyperpermeability and leakage, and resolution of the retinal detachment.  Visual acuity continued to improve and remained stable at 20/30 up to the last examination performed at 9 months after treatment.[Ref]
-The most frequent adverse effects associated with verteporfin (the active ingredient contained in Visudyne) have included headaches, injection site reactions, and visual disturbances in 10% to 30% of patients.[Ref]
-Cardiovascular side effects have included atrial fibrillation, hypertension, peripheral vascular disorder, varicose veins.  Paroxysmal atrial fibrillation and acute myocardial infarction have occurred rarely (single case report).[Ref]
-A case of paroxysmal atrial fibrillation and acute myocardial infarction occurred in a patient with no prior cardiac symptoms 3 hours after verteporfin administration.[Ref]
-Dermatologic side effects have included photosensitivity (sunburn after exposure to sunlight) and eczema.[Ref]
-Gastrointestinal side effects have included constipation, nausea, and gastrointestinal cancers.[Ref]
-Verteporfin (the active ingredient contained in Visudyne) infusion-associated pain may be related to transient neutropenia.  A small study described four patients who experienced infusion-related pain and whose average absolute neutrophil counts decreased from 4589/mm3 preinfusion to 1688/mm3 postinfusion.  Five control patients with no significant change in neutrophil counts experienced no pain during infusion.[Ref]
-Hematologic side effects have included anemia, increased or decreased WBC count, and transient neutropenia.[Ref]
-Hepatic side effects have included elevated liver function tests.[Ref]
-A 66-year-old female developed minimal change nephrotic syndrome (MCNS) characterized by general weakness, edema, proteinuria, hypoproteinemia, hypoalbuminemia, and increased serum cholesterol after 4 cycles of verteporfin (the active ingredient contained in Visudyne) photodynamic therapy.  A renal biopsy revealed effacement of visceral epithelial cell foot processes, which is consistent with MCNS.[Ref]
-Renal side effects have included albuminuria, increased creatinine, and nephrotic syndrome.[Ref]
-Musculoskeletal side effects have included arthralgia, arthrosis, and myasthenia.  Musculoskeletal pain during infusion has been reported rarely.[Ref]
-Nervous system side effects have included hypesthesia, sleep disorder, and vertigo.[Ref]
-Respiratory side effects have included cough, pharyngitis, and pneumonia.[Ref]
-Genitourinary side effects have included prostatic disorder.[Ref]
-Back pain associated with verteporfin (the active ingredient contained in Visudyne) infusion, usually in the lower back, has been reported in 2.2% of patients.  The pain may be severe and resolves 5 to 10 minutes after discontinuation of the infusion.  An anecdotal report of 3 patients describes beneficial effects of intravenous diphenhydramine in reducing back pain.[Ref]
-Side effects of the body as a whole have included asthenia, back pain, fever, and flu syndrome.  Noncardiac chest and neck pain, syncope, and shortness of breath during verteporfin infusion have been reported rarely.[Ref]
-Other side effects have included decreased hearing.[Ref]
-Hypersensitivity side effects have included severe hypersensitivity reactions, severe allergic reactions with dyspnea and flushing, and vaso-vagal reactions.  These effects have occurred primarily during infusion.[Ref]
-1. Do DV,  Bressler NM,  Bressler SB "Large submacular hemorrhages after verteporfin therapy." Am J Ophthalmol 137 (2004): 558-60
-2. Holz ER,  Linares L,  Mieler WF,  Weinberg DV "Exudative complications after photodynamic therapy." Arch Ophthalmol 121 (2003): 1649-52
-3. Yoon KC,  You IC,  Kang IS, et al. "Photodynamic therapy with verteporfin for corneal neovascularization." Am J Ophthalmol 144 (2007): 390-5
-4. "Product Information. Visudyne (verteporfin)" Ciba Vision Ophthalmics, Duluth, GA. 
-5. Mennel S,  Meyer CH "Transient visual disturbance after photodynamic therapy." Am J Ophthalmol 139 (2005): 748-9; author reply 749
-6. "Acute severe visual acuity decrease after photodynamic therapy with verteporfin: case reports from randomized clinical trials-TAP and VIP report no. 3." Am J Ophthalmol 137 (2004): 683-696
-7. Beaumont P,  Lim CS,  Chang A,  Kang K "Acute severe vision decrease immediately after photodynamic therapy." Arch Ophthalmol 122 (2004): 1546-7
-8. Axer-Siegel R,  Ehrlich R,  Rosenblatt I, et al. "Photodynamic therapy for occult choroidal neovascularization with pigment epithelium detachment in age-related macular degeneration." Arch Ophthalmol 122 (2004): 453-9
-9. Schattner A,  Pollack A "Verteporfin and myocardial infarction." Ann Pharmacother 38 (2004): 352
-10. Spaide RF,  Maranan L "Neutrophil margination as a possible mechanism for verteporfin infusion-associated pain." Am J Ophthalmol 135 (2003): 549-50
-11. Kang SW,  Kang SJ,  Kim HO,  Nam ES,  Lee JH,  Koh HJ "Photodynamic therapy using verteporfin-induced minimal change nephrotic syndrome." Am J Ophthalmol 134 (2002): 907-8
-12. Tornambe PE "Using intravenous diphenhydramine to minimize back pain associated with photodynamic therapy with verteporfin." Arch Ophthalmol 120 (2002): 872
-13. Cahill MT,  Smith BT,  Fekrat S "Adverse reaction characterized by chest pain, shortness of breath, and syncope associated with verteporfin (visudyne)." Am J Ophthalmol 134 (2002): 281-2
+Ocular side effects have included blurred vision, decreased visual acuity, visual field defects, blepharitis, cataracts, conjunctivitis, conjunctival injection, dry eyes, ocular itching, severe vision loss, lacrimation disorder, diplopia, mild stromal haze, and subconjunctival, subretinal, or vitreous hemorrhage.  Significant exudation associated with vision loss has also been reported.  Retinal detachment (nonhegmatogenous), retinal or choroidal vessel nonperfusion have been reported rarely.
+Severe vision decrease has been reported in 1% to 5% of patients within 7 days of treatment.  Partial recovery occurred in many patients (percentage not given).An 82-year-old woman experienced a sudden decrease in vision acuity, measured as Snellen visual acuity of 20/200 in both eyes, within approximately 4 hours following ocular photodynamic therapy with verteporfin.  Further examination revealed a gross central serous retinal detachment and outlined the CNV within the choroid, and a focal area of hyperpermeability on the supertemporal margin of the CNV.  Within approximately 4 days visual acuity returned to 20/40 in both eyes, and examination reveled complete closure of the occult CNV, cessation of hyperpermeability and leakage, and resolution of the retinal detachment.  Visual acuity continued to improve and remained stable at 20/30 up to the last examination performed at 9 months after treatment.
+The most frequent adverse effects associated with verteporfin (the active ingredient contained in Visudyne) have included headaches, injection site reactions, and visual disturbances in 10% to 30% of patients.
+Cardiovascular side effects have included atrial fibrillation, hypertension, peripheral vascular disorder, varicose veins.  Paroxysmal atrial fibrillation and acute myocardial infarction have occurred rarely (single case report).
+A case of paroxysmal atrial fibrillation and acute myocardial infarction occurred in a patient with no prior cardiac symptoms 3 hours after verteporfin administration.
+Dermatologic side effects have included photosensitivity (sunburn after exposure to sunlight) and eczema.
+Gastrointestinal side effects have included constipation, nausea, and gastrointestinal cancers.
+Verteporfin (the active ingredient contained in Visudyne) infusion-associated pain may be related to transient neutropenia.  A small study described four patients who experienced infusion-related pain and whose average absolute neutrophil counts decreased from 4589/mm3 preinfusion to 1688/mm3 postinfusion.  Five control patients with no significant change in neutrophil counts experienced no pain during infusion.
+Hematologic side effects have included anemia, increased or decreased WBC count, and transient neutropenia.
+Hepatic side effects have included elevated liver function tests.
+A 66-year-old female developed minimal change nephrotic syndrome (MCNS) characterized by general weakness, edema, proteinuria, hypoproteinemia, hypoalbuminemia, and increased serum cholesterol after 4 cycles of verteporfin (the active ingredient contained in Visudyne) photodynamic therapy.  A renal biopsy revealed effacement of visceral epithelial cell foot processes, which is consistent with MCNS.
+Renal side effects have included albuminuria, increased creatinine, and nephrotic syndrome.
+Musculoskeletal side effects have included arthralgia, arthrosis, and myasthenia.  Musculoskeletal pain during infusion has been reported rarely.
+Nervous system side effects have included hypesthesia, sleep disorder, and vertigo.
+Respiratory side effects have included cough, pharyngitis, and pneumonia.
+Genitourinary side effects have included prostatic disorder.
+Back pain associated with verteporfin (the active ingredient contained in Visudyne) infusion, usually in the lower back, has been reported in 2.2% of patients.  The pain may be severe and resolves 5 to 10 minutes after discontinuation of the infusion.  An anecdotal report of 3 patients describes beneficial effects of intravenous diphenhydramine in reducing back pain.
+Side effects of the body as a whole have included asthenia, back pain, fever, and flu syndrome.  Noncardiac chest and neck pain, syncope, and shortness of breath during verteporfin infusion have been reported rarely.
+Other side effects have included decreased hearing.
+Hypersensitivity side effects have included severe hypersensitivity reactions, severe allergic reactions with dyspnea and flushing, and vaso-vagal reactions.  These effects have occurred primarily during infusion.
 It is possible that some side effects of Visudyne may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blurred vision or other change in vision
-
-
 Decrease in vision, may be severe
  dizziness
 dull nervousness
@@ -56,12 +35,8 @@ pounding in the ears
 troubled breathing on exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Bleeding, blistering, burning, coldness, discoloration of skin, feeling of pressure, infection, itching, numbness, pain, rash, redness, scarring, stinging, swelling, tenderness, tingling, ulceration, and/or warmth at the injection site
 headache
-
-
 Back pain (during infusion of verteporfin)
  chills
 cloudy urine
@@ -103,4 +78,3 @@ trouble sleeping
 varicose veins
 voice changes
 vomiting
-

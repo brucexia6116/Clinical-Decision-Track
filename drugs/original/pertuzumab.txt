@@ -1,29 +1,20 @@
 Commonly reported side effects of pertuzumab include: anaphylaxis, cytokine release syndrome, hypersensitivity, and infusion related reaction.  See below for a comprehensive list of adverse effects.
-Applies to pertuzumab: intravenous solution
 As well as its needed effects, pertuzumab may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking pertuzumab, check with your doctor or nurse immediately:
 Some pertuzumab side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to pertuzumab: intravenous solution
-Common (1% to 10%): Left ventricular dysfunction (including congestive heart failure)[Ref]
-Very Common (10% or more): Alopecia (up to 61%), rash (up to 34%), nail disorder (up to 23%), pruritus (up to 14%)Common (1% to 10%): Dry skin, palmar-plantar erythrodysesthesia syndrome[Ref]
-Very common (10% or more): Diarrhea (up to 67%), nausea (up to 42%), mucositis/mucosal inflammation (up to 28%), constipation (up to 25%), vomiting (up to 24%), stomatitis (up to 19%), dyspepsia (up to 12%)[Ref]
-Very common (10% or more): Neutropenia (up to 53%), anemia (up to 23%), leucopenia (up to 20%), febrile neutropenia (up to 13%)[Ref]
-Very common (10% or more): Hypersensitivity/anaphylactic reaction, infusion reaction/cytokine release syndrome[Ref]
-Very common (10% or more): Decreased appetite (up to 29%)[Ref]
-Very common (10% or more): Myalgia (up to 24%), arthralgia (up to 15%), pain in extremity (up to 15%)[Ref]
-Very common (10% or more): Peripheral neuropathy (up to 21%), headache (up to 21%), dysgeusia (up to 18%), peripheral sensory neuropathy (up to 14%), dizziness (up to 13%)[Ref]
-Very common (10% or more): Increased lacrimation (up to 14%)[Ref]
-Very common (10% or more): Insomnia (up to 13%)[Ref]
-Very common (10% or more): Cough (up to 21%), upper respiratory tract infection (up to 17%), dyspnea (up to 16%), nasopharyngitis (up to 13%)Common (1% to 10%): Paronychia, pleural effusion, epistaxisUncommon (0.1% to 1%): Interstitial lung disease[Ref]
-Very common (10% or more): Fatigue (up to 38%), peripheral edema (up to 30%), asthenia (up to 30%), pyrexia (up to 19%), painCommon (1% to 10%): Chills[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Perjeta (pertuzumab)." Genentech, South San Francisco, CA. 
+Common (1% to 10%): Left ventricular dysfunction (including congestive heart failure)
+Very Common (10% or more): Alopecia (up to 61%), rash (up to 34%), nail disorder (up to 23%), pruritus (up to 14%)Common (1% to 10%): Dry skin, palmar-plantar erythrodysesthesia syndrome
+Very common (10% or more): Diarrhea (up to 67%), nausea (up to 42%), mucositis/mucosal inflammation (up to 28%), constipation (up to 25%), vomiting (up to 24%), stomatitis (up to 19%), dyspepsia (up to 12%)
+Very common (10% or more): Neutropenia (up to 53%), anemia (up to 23%), leucopenia (up to 20%), febrile neutropenia (up to 13%)
+Very common (10% or more): Hypersensitivity/anaphylactic reaction, infusion reaction/cytokine release syndrome
+Very common (10% or more): Decreased appetite (up to 29%)
+Very common (10% or more): Myalgia (up to 24%), arthralgia (up to 15%), pain in extremity (up to 15%)
+Very common (10% or more): Peripheral neuropathy (up to 21%), headache (up to 21%), dysgeusia (up to 18%), peripheral sensory neuropathy (up to 14%), dizziness (up to 13%)
+Very common (10% or more): Increased lacrimation (up to 14%)
+Very common (10% or more): Insomnia (up to 13%)
+Very common (10% or more): Cough (up to 21%), upper respiratory tract infection (up to 17%), dyspnea (up to 16%), nasopharyngitis (up to 13%)Common (1% to 10%): Paronychia, pleural effusion, epistaxisUncommon (0.1% to 1%): Interstitial lung disease
+Very common (10% or more): Fatigue (up to 38%), peripheral edema (up to 30%), asthenia (up to 30%), pyrexia (up to 19%), painCommon (1% to 10%): Chills
 It is possible that some side effects of pertuzumab may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Black, tarry stools
 burning, numbness, tingling, or painful sensations
 chills
@@ -46,8 +37,6 @@ unsteadiness or awkwardness
 unusual bleeding or bruising
 unusual tiredness or weakness
 weakness in the arms, hands, legs, or feet
-
-
 Body aches or pain
 change in taste
 cracked lips
@@ -68,4 +57,3 @@ runny nose
 sneezing
 vomiting
 watering of the eyes
-

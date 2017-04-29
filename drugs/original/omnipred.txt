@@ -1,19 +1,11 @@
-Generic Name: prednisolone ophthalmic
-Applies to prednisolone ophthalmic: ophthalmic ointment, ophthalmic solution, ophthalmic suspension
 Side effects include:
 Elevated IOP,          transient stinging or burning,     blurred vision,   ocular irritation,    foreign body sensation. 
-Applies to prednisolone ophthalmic: ophthalmic solution, ophthalmic suspension
-While the exact frequency of the reported side effects is unknown, the manufacturer reports the following in decreasing order of frequency: elevation of intraocular pressure with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing.[Ref]
-Rare (less than 0.1%): Filtering blebFrequency not reported: Intraocular pressure increased, glaucoma, optic nerve damage, posterior subcapsular cataract formation, acute anterior uveitis, perforation of globe, keratitis, conjunctivitis, corneal ulcer, mydriasis, conjunctival hyperemia, ptosis, loss of accommodation, secondary ocular infection developed, visual acuity defect, field defect, transient ocular discomfort, ocular hypertension, scleral/corneal perforation, foreign body sensation, burning, stinging, irritation, vision blurred/impaired, corneal calcification[Ref]
-Frequency not reported: Urticaria, pruritus, rash[Ref]
-Frequency not reported: Allergic reaction, anaphylaxis[Ref]
-Frequency not reported: Wound healing delayed[Ref]
-Frequency not reported: Headache[Ref]
-Frequency not reported: Systemic hypercorticoidism[Ref]
-Frequency not reported: Dysgeusia[Ref]
-1. "Product Information. Omnipred (prednisoLONE ophthalmic (prednisolone ophthalmic))." Alcon Laboratories Inc, Fort Worth, TX. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Product Information. Pred Mild (prednisoLONE ophthalmic (prednisolone ophthalmic))." Allergan Inc, Irvine, CA. 
-5. "Product Information. PrednisoLONE Sodium Phosphate Ophthalmic (prednisoLONE ophthalmic (prednisolone ophthalmic))." Bausch and Lomb, Rochester, NY. 
+While the exact frequency of the reported side effects is unknown, the manufacturer reports the following in decreasing order of frequency: elevation of intraocular pressure with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing.
+Rare (less than 0.1%): Filtering blebFrequency not reported: Intraocular pressure increased, glaucoma, optic nerve damage, posterior subcapsular cataract formation, acute anterior uveitis, perforation of globe, keratitis, conjunctivitis, corneal ulcer, mydriasis, conjunctival hyperemia, ptosis, loss of accommodation, secondary ocular infection developed, visual acuity defect, field defect, transient ocular discomfort, ocular hypertension, scleral/corneal perforation, foreign body sensation, burning, stinging, irritation, vision blurred/impaired, corneal calcification
+Frequency not reported: Urticaria, pruritus, rash
+Frequency not reported: Allergic reaction, anaphylaxis
+Frequency not reported: Wound healing delayed
+Frequency not reported: Headache
+Frequency not reported: Systemic hypercorticoidism
+Frequency not reported: Dysgeusia
 It is possible that some side effects of Omnipred may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

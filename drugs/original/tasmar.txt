@@ -1,36 +1,24 @@
-Generic Name: tolcapone
 Common side effects of Tasmar include: diarrhea, dyskinesia, insomnia, nausea, orthostatic hypotension, vomiting, confusion, dizziness, dystonia, headache, muscle cramps, anorexia, and increased dream activity. Other side effects include: syncope, abdominal pain, constipation, falling, fatigue, diaphoresis, urine discoloration, and xerostomia.  See below for a comprehensive list of adverse effects.
-Applies to tolcapone: oral tablet
 As well as its needed effects, tolcapone (the active ingredient contained in Tasmar) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking tolcapone, check with your doctor immediately:
 If any of the following side effects occur while taking tolcapone, check with your doctor or nurse as soon as possible:
 Some tolcapone side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention. If you notice any of the following side effects check with your doctor immediately:
-
-
-Applies to tolcapone: oral tablet
-In general, tolcapone (the active ingredient contained in Tasmar) was well tolerated in clinical trials with most adverse events being mild to moderate in severity.  Dyskinesia and other dopaminergic-related effects were the most frequently reported adverse events in patients with motor fluctuations.  Diarrhea was the most common nondopaminergic adverse event, occurring in up to 26% of patients who received tolcapone, and necessitating discontinuation of treatment in approximately 5% to 10% of patients.[Ref]
-Hepatic side effects have included severe liver damage, including fulminant liver failure resulting in death.  Three cases of fatal fulminant hepatic failure have been reported from more than 40,000 patient years of worldwide use.  Increased alanine aminotransferase (ALT) and aspartate aminotransferase (AST) have also been reported.[Ref]
-Gastrointestinal side effects have included nausea (30% to 35%), anorexia (19% to 23%), diarrhea (16% to 18%), vomiting (8% to 10%), constipation (6% to 8%), xerostomia (5% to 6%), abdominal pain (5% to 6%), dyspepsia (3% to 4%), flatulence (2% to 4%), and dry mouth.[Ref]
-Musculoskeletal side effects have included dystonia (19% to 22%), muscle cramps (17% to 18%), stiffness (2%), arthritis (1% to 2%), and hypertonia (1%).[Ref]
-Respiratory side effects have included upper respiratory tract infection (5% to 7%), dyspnea (3%), and sinus congestion (1% to 2%).[Ref]
-Genitourinary side effects have included urine discoloration (2% to 7%), urinary tract infection (5%), and micturition disorder (1% to 2%).[Ref]
-Cardiovascular side effects have included chest pain (1% to 3%), hypotension (2%), chest discomfort (1% to 2%), and orthostatic symptoms.[Ref]
-Dermatologic side effects have included dermal bleeding (1%), alopecia (1%), and increased sweating.  At least one case of vitiligo has also been reported.[Ref]
-A case report of vitiligo has been reported in a 50-year-old man with Parkinson's disease one week after the start of therapy with tolcapone 300 mg per day.[Ref]
-Oncologic side effects have included tumors of the skin (1%) and tumors of the uterus (1%).[Ref]
-Ocular side effects have included cataracts (1%) and inflamed eyes (1%).[Ref]
-Nervous system side effects have included dyskinesia (42% to 51%), sleep disorder (24% to 25%), excessive dreaming (16% to 21%), somnolence (14% to 18%), orthostatic complaints (17%), dizziness (6% to 13%), confusion (10% to 11%), headache (10% to 11%), hallucination (8% to 10%), syncope (4% to 5%), hyperkinesia (2% to 3%), paresthesia (1% to 3%), hypokinesia (1% to 3%), loss of balance (2% to 3%), mental deficiency (1%), agitation (1%), hyperactivity (1%), and neuroleptic malignant-like syndrome.  Akathisia, insomnia and sleep disturbances have also been reported.[Ref]
-The neuroleptic malignant-like syndrome was reported in an elderly patient.  It was caused by abrupt withdrawal of tolcapone.[Ref]
-Other side effects have included fatigue (3% to 7%), falling (4% to 6%), increased sweating (4% to 7%), influenza (3% to 4%), neck pain (2%), burning (1% to 2%), irritability (1%), malaise (1%), panic reaction (1%), euphoria (1%), and fever (1%).[Ref]
-1. Olanow CW,  Watkins PB "Tolcapone: An Efficacy and Safety Review (2007)." Clin Neuropharmacol 30 (2007): 287-294
-2. "Product Information. Tasmar (tolcapone)." Roche Laboratories, Nutley, NJ. 
-3. Dingemanse J "Issues important for rational COMT inhibition." Neurology 55(11 Suppl 4) (2000): S24-7; discussion S28-32
-4. Hanson MR,  Galvez-Jimenez N "Catechol-O-methyltransferase inhibitors in the management of Parkinson's disease." Semin Neurol 21 (2001): 15-22
-5. Sabate M, Bosch A, Pedros C, Figueras A "Vitiligo associated with tolcapone and levodopa in a patient with Parkinson's disease." Ann Pharmacother 33 (1999): 1228-9
-6. Iwuagwu CU, Riley D, Bonomo RA "Neuroleptic malignant-like syndrome in an elderly patient caused by abrupt withdrawal of tolcapone, a catechol-O-methyl transferase inhibitor." Am J Med 108 (2000): 517-8
+In general, tolcapone (the active ingredient contained in Tasmar) was well tolerated in clinical trials with most adverse events being mild to moderate in severity.  Dyskinesia and other dopaminergic-related effects were the most frequently reported adverse events in patients with motor fluctuations.  Diarrhea was the most common nondopaminergic adverse event, occurring in up to 26% of patients who received tolcapone, and necessitating discontinuation of treatment in approximately 5% to 10% of patients.
+Hepatic side effects have included severe liver damage, including fulminant liver failure resulting in death.  Three cases of fatal fulminant hepatic failure have been reported from more than 40,000 patient years of worldwide use.  Increased alanine aminotransferase (ALT) and aspartate aminotransferase (AST) have also been reported.
+Gastrointestinal side effects have included nausea (30% to 35%), anorexia (19% to 23%), diarrhea (16% to 18%), vomiting (8% to 10%), constipation (6% to 8%), xerostomia (5% to 6%), abdominal pain (5% to 6%), dyspepsia (3% to 4%), flatulence (2% to 4%), and dry mouth.
+Musculoskeletal side effects have included dystonia (19% to 22%), muscle cramps (17% to 18%), stiffness (2%), arthritis (1% to 2%), and hypertonia (1%).
+Respiratory side effects have included upper respiratory tract infection (5% to 7%), dyspnea (3%), and sinus congestion (1% to 2%).
+Genitourinary side effects have included urine discoloration (2% to 7%), urinary tract infection (5%), and micturition disorder (1% to 2%).
+Cardiovascular side effects have included chest pain (1% to 3%), hypotension (2%), chest discomfort (1% to 2%), and orthostatic symptoms.
+Dermatologic side effects have included dermal bleeding (1%), alopecia (1%), and increased sweating.  At least one case of vitiligo has also been reported.
+A case report of vitiligo has been reported in a 50-year-old man with Parkinson's disease one week after the start of therapy with tolcapone 300 mg per day.
+Oncologic side effects have included tumors of the skin (1%) and tumors of the uterus (1%).
+Ocular side effects have included cataracts (1%) and inflamed eyes (1%).
+Nervous system side effects have included dyskinesia (42% to 51%), sleep disorder (24% to 25%), excessive dreaming (16% to 21%), somnolence (14% to 18%), orthostatic complaints (17%), dizziness (6% to 13%), confusion (10% to 11%), headache (10% to 11%), hallucination (8% to 10%), syncope (4% to 5%), hyperkinesia (2% to 3%), paresthesia (1% to 3%), hypokinesia (1% to 3%), loss of balance (2% to 3%), mental deficiency (1%), agitation (1%), hyperactivity (1%), and neuroleptic malignant-like syndrome.  Akathisia, insomnia and sleep disturbances have also been reported.
+The neuroleptic malignant-like syndrome was reported in an elderly patient.  It was caused by abrupt withdrawal of tolcapone.
+Other side effects have included fatigue (3% to 7%), falling (4% to 6%), increased sweating (4% to 7%), influenza (3% to 4%), neck pain (2%), burning (1% to 2%), irritability (1%), malaise (1%), panic reaction (1%), euphoria (1%), and fever (1%).
 It is possible that some side effects of Tasmar may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Dark urine
 itching
 light-colored stools
@@ -40,8 +28,6 @@ tenderness in upper right part of abdomen
 unusual drowsiness, dullness, or feeling sluggish
 unusual tiredness or weakness 
 yellow eyes or skin
-
-
 Abdominal pain
 cough
 diarrhea
@@ -60,8 +46,6 @@ sore throat
 trouble in sleeping
 twitching, twisting, or other unusual body movements
 vomiting
-
-
 Absence of or decrease in body movement
 blood in urine
 chest pain
@@ -73,8 +57,6 @@ hyperactivity
 loss of balance control
 muscle pain
 troubled breathing
-
-
 Agitation
 bloody or cloudy urine
 burning of feet
@@ -89,14 +71,10 @@ low blood pressure
 muscle cramps
 neck pain
 stiffness
-
-
 Constipation
 dryness of mouth
 excessive dreaming
 increased sweating
-
-
 Bleeding
 difficulty in sleeping
 excessive muscle tone
@@ -106,9 +84,6 @@ gas
 muscle stiffness
 muscle tension or tightness
 trouble in holding or releasing urine
-
-
 Confusion
 fever
 muscle rigidity
-

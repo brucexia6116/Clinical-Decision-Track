@@ -1,25 +1,18 @@
-Generic Name: ciclesonide nasal
-Applies to ciclesonide nasal: nasal aerosol liquid, nasal spray
 As well as its needed effects, ciclesonide nasal (the active ingredient contained in Omnaris) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking ciclesonide nasal, check with your doctor immediately:
 Some ciclesonide nasal side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to ciclesonide nasal: nasal aerosol, nasal spray
-The most commonly reported side effects were headache, epistaxis, nasopharyngitis, and ear pain.[Ref]
-Frequency not reported: Hypothalamic-pituitary-adrenal (HPA) axis effects[Ref]
-Common (1% to 10%): InfluenzaFrequency not reported: Candida albicans infections, immunosuppression[Ref]
-Postmarketing reports: Hypersensitivity reactions (angioedema with swelling of the lips, tongue, and pharynx)[Ref]
-Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, pharyngolaryngeal pain, sinusitis, nasal discomfort, cough, bronchitis, epistaxisFrequency not reported: Nasal dryness, nasal mucosal/septum disorders, pharyngitis, streptococcal pharyngitis, tonsillitis, nasal septal perforationsPostmarketing reports: Nasal congestion, nasal ulcer[Ref]
-Postmarketing reports: Development or worsening of lens opacities, increase in intraocular pressure, worsening visual acuity[Ref]
-Common (1% to 10%): Ear painFrequency not reported: Impaired wound healing, ear infection[Ref]
-Common (1% to 10%): HeadacheFrequency not reported: Sinus headachePostmarketing reports: Dizziness[Ref]
-Common (1% to 10%): Back pain, muscle strain[Ref]
+The most commonly reported side effects were headache, epistaxis, nasopharyngitis, and ear pain.
+Frequency not reported: Hypothalamic-pituitary-adrenal (HPA) axis effects
+Common (1% to 10%): InfluenzaFrequency not reported: Candida albicans infections, immunosuppression
+Postmarketing reports: Hypersensitivity reactions (angioedema with swelling of the lips, tongue, and pharynx)
+Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, pharyngolaryngeal pain, sinusitis, nasal discomfort, cough, bronchitis, epistaxisFrequency not reported: Nasal dryness, nasal mucosal/septum disorders, pharyngitis, streptococcal pharyngitis, tonsillitis, nasal septal perforationsPostmarketing reports: Nasal congestion, nasal ulcer
+Postmarketing reports: Development or worsening of lens opacities, increase in intraocular pressure, worsening visual acuity
+Common (1% to 10%): Ear painFrequency not reported: Impaired wound healing, ear infection
+Common (1% to 10%): HeadacheFrequency not reported: Sinus headachePostmarketing reports: Dizziness
+Common (1% to 10%): Back pain, muscle strain
 Common (1% to 10%): Urinary tract infection
-Common (1% to 10%): Nausea[Ref]
-1. "Product Information. Omnaris (ciclesonide nasal)." Sepracor Inc, Marlborough, MA. 
+Common (1% to 10%): Nausea
 It is possible that some side effects of Omnaris may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bloody nose
 fever
 headache
@@ -28,8 +21,6 @@ nasal discomfort
 sore throat
 stuffy or runny nose
 unusual tiredness or weakness
-
-
 Acne or pimples
 blindness
 blistering, burning, crusting, dryness, or flaking of the skin
@@ -61,7 +52,4 @@ vomiting
 weight gain around the face, neck, and trunk
 wheezing
 white patches inside the nose or throat
-
-
 Ear pain
-

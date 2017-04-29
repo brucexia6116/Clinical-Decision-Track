@@ -1,40 +1,26 @@
-Generic Name: diltiazem
-Applies to diltiazem: oral capsule extended release, oral capsule extended release 12 hr, oral capsule extended release 24 hr, oral tablet, oral tablet extended release
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by diltiazem (the active ingredient contained in Cardizem). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking diltiazem:
-Some of the side effects that can occur with diltiazem may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to diltiazem: compounding powder, intravenous powder for injection, intravenous solution, oral capsule extended release, oral tablet, oral tablet extended release
-The most commonly reported side effects include edema, headache, and dizziness.[Ref]
-Very common (10% or more): Peripheral edema (up to 15%)Common (1% to 10%): Bradycardia, ECG abnormality, first degree atrioventricular (AV) block, bundle branch block, palpitations, edema, asymptomatic/symptomatic hypotension, flushing, vasodilation, extrasystole/ventricular extrasystole, arrhythmia (junctional rhythm/isorhythmic dissociation)Uncommon (0.1% to 1%): Orthostatic hypotensionFrequency not reported: Angina, AV block (second or third degree), development/aggravation of congestive heart failure, syncope, atrial flutter, sinus pause/arrest, sinus node dysfunction, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia/tachycardiaPostmarketing reports: Asystole/cardiac arrest, sinoatrial block, vasculitis, vasodilation symptoms (flushing, lower limb edema, sweating), myocardial infarction[Ref]
-A patient with Prinzmetal's angina developed asystole after a single, 60 mg dose.Myocardial infarction was not readily distinguishable from the natural history of the disease.Vasodilatory events (e.g., peripheral edema, headache, flushing) are dose-related and may be more common in elderly patients.First degree AV block and sinus bradycardia occurred more frequently with higher doses.[Ref]
-Common (1% to 10%): Asthenia, malaise, fatigue, infection, flu syndrome, painFrequency not reported: Malaise, tinnitus, thirst[Ref]
-Common (1% to 10%): Nausea, dyspepsia, gastric pain, abdominal enlargement, constipationUncommon (0.1% to 1%): Vomiting, diarrheaRare (0.01% to 0.1%): Dry mouthFrequency not reported: Gastrointestinal disorder, gingivitisPostmarketing reports: Gingival hyperplasia[Ref]
-Well-documented cases of rashes (as leukocytoclastic vasculitis) have been reported, but a definitive between these events and this drug have not been established.Lichenoid keratosis and hyperpigmentation occurred in skin exposed to the sun.[Ref]
-Common (1% to 10%): Flushing/hot flushes, rash, erythemaRare (0.01% to 0.1%): UrticariaFrequency not reported: Petechiae, photosensitivity (lichenoid keratosis), pruritus, hyperpigmentation, hyperhidrosis/sweatingPostmarketing reports: Alopecia, musculocutaneous reactions (simple erythema, desquamative erythema with/without fever), angioneurotic edema, erythema multiforme (Steven-Johnson's syndrome, toxic epidermal necrolysis), exfoliative dermatitis, leukocytoclastic vasculitis, allergic dermatitis, acute generalized exanthematous pustular dermatitis[Ref]
-Common (1% to 10%): Pharyngitis, increased cough, bronchitisFrequency not reported: Dyspnea, epistaxis, sinus/nasal congestion[Ref]
-Common (1% to 10%): MyalgiaFrequency not reported: Creatine phosphokinase (CPK) increase, muscle cramp, osteoarticular pain, myopathy, muscle pain, muscle weakness, neck rigidity[Ref]
-Dizziness occurred more frequently with higher doses.[Ref]
-Common (1% to 10%): MyalgiaFrequency not reported: Creatine phosphokinase (CPK) increase, muscle cramp, osteoarticular pain, myopathy, muscle pain, muscle weakness, neck rigidity[Ref]
-Common (1% to 10%): GoutFrequency not reported: Anorexia, weight increase, hyperglycemia, hyperuricemia[Ref]
-Common (1% to 10%): ImpotenceFrequency not reported: Nocturia, polyuria, sexual difficulties, albuminuria, crystalluria[Ref]
-Common (1% to 10%): ConjunctivitisFrequency not reported: Amblyopia, eye irritationPostmarketing reports: Retinopathy[Ref]
-Common (1% to 10%): Injection site reactions (e.g., itching, burning)[Ref]
-Uncommon (0.1% to 1%): Nervousness, insomniaFrequency not reported: Abnormal dreams, depression, hallucinations, personality changePostmarketing reports: Mood changes (including depression)[Ref]
-There were rare cases of clinical hepatitis that were reversible with discontinuation of this drug.[Ref]
-Uncommon (0.1% to 1%): Increased hepatic enzymes (AST, ALT, LDH, ALP)Frequency not reported: Clinical hepatitis/hepatitis[Ref]
-Postmarketing reports: Hemolytic anemia, increased bleeding time, leukopenia, purpura, thrombocytopenia, lymphadenopathy, eosinophilia[Ref]
-Postmarketing reports: Allergic reactions, angioedema (including facial/periorbital edema)[Ref]
-Postmarketing reports: Gynecomastia[Ref]
-1. "Product Information. Cardizem (diltiazem)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Product Information. Dilacor XR (diltiazem)." Aventis Pharmaceuticals, Bridgewater, NJ. 
-Not all side effects for Cardizem may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most commonly reported side effects include edema, headache, and dizziness.
+Very common (10% or more): Peripheral edema (up to 15%)Common (1% to 10%): Bradycardia, ECG abnormality, first degree atrioventricular (AV) block, bundle branch block, palpitations, edema, asymptomatic/symptomatic hypotension, flushing, vasodilation, extrasystole/ventricular extrasystole, arrhythmia (junctional rhythm/isorhythmic dissociation)Uncommon (0.1% to 1%): Orthostatic hypotensionFrequency not reported: Angina, AV block (second or third degree), development/aggravation of congestive heart failure, syncope, atrial flutter, sinus pause/arrest, sinus node dysfunction, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia/tachycardiaPostmarketing reports: Asystole/cardiac arrest, sinoatrial block, vasculitis, vasodilation symptoms (flushing, lower limb edema, sweating), myocardial infarction
+A patient with Prinzmetal's angina developed asystole after a single, 60 mg dose.Myocardial infarction was not readily distinguishable from the natural history of the disease.Vasodilatory events (e.g., peripheral edema, headache, flushing) are dose-related and may be more common in elderly patients.First degree AV block and sinus bradycardia occurred more frequently with higher doses.
+Common (1% to 10%): Asthenia, malaise, fatigue, infection, flu syndrome, painFrequency not reported: Malaise, tinnitus, thirst
+Common (1% to 10%): Nausea, dyspepsia, gastric pain, abdominal enlargement, constipationUncommon (0.1% to 1%): Vomiting, diarrheaRare (0.01% to 0.1%): Dry mouthFrequency not reported: Gastrointestinal disorder, gingivitisPostmarketing reports: Gingival hyperplasia
+Well-documented cases of rashes (as leukocytoclastic vasculitis) have been reported, but a definitive between these events and this drug have not been established.Lichenoid keratosis and hyperpigmentation occurred in skin exposed to the sun.
+Common (1% to 10%): Flushing/hot flushes, rash, erythemaRare (0.01% to 0.1%): UrticariaFrequency not reported: Petechiae, photosensitivity (lichenoid keratosis), pruritus, hyperpigmentation, hyperhidrosis/sweatingPostmarketing reports: Alopecia, musculocutaneous reactions (simple erythema, desquamative erythema with/without fever), angioneurotic edema, erythema multiforme (Steven-Johnson's syndrome, toxic epidermal necrolysis), exfoliative dermatitis, leukocytoclastic vasculitis, allergic dermatitis, acute generalized exanthematous pustular dermatitis
+Common (1% to 10%): Pharyngitis, increased cough, bronchitisFrequency not reported: Dyspnea, epistaxis, sinus/nasal congestion
+Common (1% to 10%): MyalgiaFrequency not reported: Creatine phosphokinase (CPK) increase, muscle cramp, osteoarticular pain, myopathy, muscle pain, muscle weakness, neck rigidity
+Dizziness occurred more frequently with higher doses.
+Common (1% to 10%): MyalgiaFrequency not reported: Creatine phosphokinase (CPK) increase, muscle cramp, osteoarticular pain, myopathy, muscle pain, muscle weakness, neck rigidity
+Common (1% to 10%): GoutFrequency not reported: Anorexia, weight increase, hyperglycemia, hyperuricemia
+Common (1% to 10%): ImpotenceFrequency not reported: Nocturia, polyuria, sexual difficulties, albuminuria, crystalluria
+Common (1% to 10%): ConjunctivitisFrequency not reported: Amblyopia, eye irritationPostmarketing reports: Retinopathy
+Common (1% to 10%): Injection site reactions (e.g., itching, burning)
+Uncommon (0.1% to 1%): Nervousness, insomniaFrequency not reported: Abnormal dreams, depression, hallucinations, personality changePostmarketing reports: Mood changes (including depression)
+There were rare cases of clinical hepatitis that were reversible with discontinuation of this drug.
+Uncommon (0.1% to 1%): Increased hepatic enzymes (AST, ALT, LDH, ALP)Frequency not reported: Clinical hepatitis/hepatitis
+Postmarketing reports: Hemolytic anemia, increased bleeding time, leukopenia, purpura, thrombocytopenia, lymphadenopathy, eosinophilia
+Postmarketing reports: Allergic reactions, angioedema (including facial/periorbital edema)
+Postmarketing reports: Gynecomastia
 intravenous powder for solution, intravenous solution
-
 Body aches or pain
 congestion
 cough
@@ -45,8 +31,6 @@ runny nose
 tender or swollen glands in the neck
 trouble swallowing
 voice changes
-
-
 Chest pain or discomfort
 chills
 diarrhea
@@ -68,8 +52,6 @@ tightness in the chest
 trouble sleeping
 unusual tiredness or weakness
 vomiting
-
-
 Blistering, peeling, or loosening of the skin
 itching
 large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
@@ -77,12 +59,8 @@ no heartbeat
 red skin lesions, often with a purple center
 red, irritated eyes
 sores, ulcers, or white spots in the mouth or on the lips
-
-
 Sneezing
 stuffy nose
-
-
 Acid or sour stomach
 belching
 constipation
@@ -99,7 +77,4 @@ pain or tenderness around the eyes and cheekbones
 rash
 stomach discomfort, upset, or pain
 swollen joints
-
-
 Hair loss or thinning of the hair
-

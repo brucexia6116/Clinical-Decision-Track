@@ -1,46 +1,27 @@
-Generic Name: tamsulosin
 Common side effects of Flomax include: dizziness, nasal congestion, rhinitis, rhinorrhea, sinus congestion, and seasonal allergic rhinitis. Other side effects include: drowsiness.  See below for a comprehensive list of adverse effects.
-Applies to tamsulosin: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by tamsulosin (the active ingredient contained in Flomax). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking tamsulosin:
-Some of the side effects that can occur with tamsulosin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to tamsulosin: oral capsule
-The most commonly reported side effects were abnormal ejaculation, influenza-like symptoms, headache, dizziness, and rhinitis.[Ref]
-Very common (10% or more): Infection (up to 10.8%)Uncommon (0.1% to 1%): Flu like symptomsRare (less than 0.1%): Angioedema[Ref]
-Common (1% to 10%): Chest painUncommon (0.1% to 1%): Orthostatic hypotensionPostmarketing reports: Palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia[Ref]
-Uncommon (0.1% to 1%): Rash, pruritus, urticariaPostmarketing reports: Stevens-Johnson syndrome, erythema multiforme, exfoliative dermatitis, skin desquamation[Ref]
-Very common (10% or more): Headache (up to 21.1%), dizziness (up to 17.1%)Common (1% to 10%): Somnolence, insomniaRare (less than 0.1%): SyncopeFrequency not reported: Vertigo[Ref]
-Very common (10% or more): Abnormal ejaculation (up to 18.1%)Common (1% to 10%): Ejaculation disorders, including retrograde ejaculation and ejaculation failureUncommon (0.1% to 1%): Semen volume reduced, ejaculation delayedPostmarketing reports: Priapism[Ref]
-Very common (10% or more): Rhinitis (up to 17.9%)Common (1% to 10%): Pharyngitis, Increased cough, sinusitisUncommon (0.1% to 1%): Nasal congestionPostmarketing reports: Dyspnea, epistaxis[Ref]
-Common (1% to 10%): Back pain[Ref]
-Common (1% to 10%): Diarrhea, nausea, tooth disorderUncommon (0.1% to 1%): Constipation, vomitingFrequency not reported: Dry mouth[Ref]
-Common (1% to 10%): Blurred visionPostmarketing reports: Visual impairment, intraoperative Floppy Iris Syndrome (IFIS)[Ref]
-Common (1% to 10%): Asthenia, decreased libidoUncommon (0.1% to 1%): Fatigue[Ref]
-Common (1% to 10%): Insomnia[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Flomax (tamsulosin)." Boehringer-Ingelheim, Ridgefield, CT. 
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Flomax may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were abnormal ejaculation, influenza-like symptoms, headache, dizziness, and rhinitis.
+Very common (10% or more): Infection (up to 10.8%)Uncommon (0.1% to 1%): Flu like symptomsRare (less than 0.1%): Angioedema
+Common (1% to 10%): Chest painUncommon (0.1% to 1%): Orthostatic hypotensionPostmarketing reports: Palpitations, hypotension, atrial fibrillation, arrhythmia, tachycardia
+Uncommon (0.1% to 1%): Rash, pruritus, urticariaPostmarketing reports: Stevens-Johnson syndrome, erythema multiforme, exfoliative dermatitis, skin desquamation
+Very common (10% or more): Headache (up to 21.1%), dizziness (up to 17.1%)Common (1% to 10%): Somnolence, insomniaRare (less than 0.1%): SyncopeFrequency not reported: Vertigo
+Very common (10% or more): Abnormal ejaculation (up to 18.1%)Common (1% to 10%): Ejaculation disorders, including retrograde ejaculation and ejaculation failureUncommon (0.1% to 1%): Semen volume reduced, ejaculation delayedPostmarketing reports: Priapism
+Very common (10% or more): Rhinitis (up to 17.9%)Common (1% to 10%): Pharyngitis, Increased cough, sinusitisUncommon (0.1% to 1%): Nasal congestionPostmarketing reports: Dyspnea, epistaxis
+Common (1% to 10%): Back pain
+Common (1% to 10%): Diarrhea, nausea, tooth disorderUncommon (0.1% to 1%): Constipation, vomitingFrequency not reported: Dry mouth
+Common (1% to 10%): Blurred visionPostmarketing reports: Visual impairment, intraoperative Floppy Iris Syndrome (IFIS)
+Common (1% to 10%): Asthenia, decreased libidoUncommon (0.1% to 1%): Fatigue
+Common (1% to 10%): Insomnia
 Cough or hoarseness
 fever or chills
 lower back or side pain
 painful or difficult urination
-
-
 Chest pain
-
-
 Dizziness or lightheadedness
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 fainting
 feeling of constant movement of self or surroundings
 painful or prolonged erection of the penis
 sensation of spinning
-
-
 Blistering, peeling, or loosening of the skin
 blurred vision
 confusion
@@ -57,8 +38,6 @@ sores, ulcers, or white spots in the mouth or on the lips
 sweating
 tightness of the chest
 unusual tiredness or weakness
-
-
 Abnormal ejaculation
 back pain
 body aches or pain
@@ -70,8 +49,6 @@ stuffy or runny nose
 tender, swollen glands in the neck
 trouble swallowing
 voice changes
-
-
 Decreased interest in sexual intercourse
 decreased sexual drive or performance
 drowsiness
@@ -83,10 +60,7 @@ pain or tenderness around the eyes and cheekbones
 sleepiness or unusual drowsiness
 tooth disorder
 trouble sleeping
-
-
 Constipation
 hives or welts, skin rash
 redness of the skin
 vomiting
-

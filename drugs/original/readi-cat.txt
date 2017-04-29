@@ -1,21 +1,12 @@
-Generic Name: barium sulfate
-Applies to barium sulfate: cream, enema, kit, liquid, paste, powder for suspension, suspension, tablet
 As well as its needed effects, barium sulfate (the active ingredient contained in Readi-Cat) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking barium sulfate, check with your doctor or nurse immediately:
 Some barium sulfate side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to barium sulfate: compounding powder, oral capsule, oral cream, oral paste, oral powder for reconstitution, oral suspension, oral tablet, oral and rectal powder for reconstitution, oral and rectal suspension, rectal powder for reconstitution, rectal suspension
-General side effects including severe reactions (approximately 1 in 1,000,000) and fatalities (approximately 1 in 10,000,000) have been reported.[Ref]
-Other side effects caused by procedural complications have been rare.  Procedural complications have included aspiration pneumonitis, barium impaction, granuloma formation, intravasation, embolization and peritonitis following intestinal perforation, vasovagal and syncopal episodes, and fatalities.[Ref]
-It is of the utmost importance to be completely prepared to treat any EKG changes.[Ref]
-Cardiovascular side effects including EKG changes have been reported following or during barium enema procedures.[Ref]
-Gastrointestinal side effects including nausea, vomiting, diarrhea, and abdominal cramping accompanying the use of barium sulfate (the active ingredient contained in Readi-Cat) formulations have been infrequent and usually mild.[Ref]
-1. "Product Information. Readi-Cat 2 (barium sulfate)." E-Z-EM Inc, Lake Success, NY. 
-2. "Product Information. E-Z-Cat (barium sulfate)." E-Z-EM Inc, Lake Success, NY. 
+General side effects including severe reactions (approximately 1 in 1,000,000) and fatalities (approximately 1 in 10,000,000) have been reported.
+Other side effects caused by procedural complications have been rare.  Procedural complications have included aspiration pneumonitis, barium impaction, granuloma formation, intravasation, embolization and peritonitis following intestinal perforation, vasovagal and syncopal episodes, and fatalities.
+It is of the utmost importance to be completely prepared to treat any EKG changes.
+Cardiovascular side effects including EKG changes have been reported following or during barium enema procedures.
+Gastrointestinal side effects including nausea, vomiting, diarrhea, and abdominal cramping accompanying the use of barium sulfate (the active ingredient contained in Readi-Cat) formulations have been infrequent and usually mild.
 It is possible that some side effects of Readi-Cat may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bloating
 constipation (severe, continuing)
 cramping (severe)
@@ -23,8 +14,6 @@ nausea or vomiting
 stomach pain
 tightness in the chest
 troubled breathing
-
-
 Anxiety
 blood in the stools
 blood in the urine
@@ -44,8 +33,5 @@ redness of the skin
 sudden shortness of breath or troubled breathing
 sweating
 unusual tiredness or weakness
-
-
 Constipation or diarrhea
 cramping
-

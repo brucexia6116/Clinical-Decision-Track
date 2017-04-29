@@ -1,23 +1,12 @@
-Generic Name: argatroban
-Applies to argatroban: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by argatroban (the active ingredient contained in Acova). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking argatroban, check with your doctor or nurse immediately:
-
-
-Applies to argatroban: intravenous solution
-Hematologic side effects including overt bleeding or hemorrhage are the most common complications of argatroban (the active ingredient contained in Acova) therapy.  Major hemorrhagic events reported by the manufacturer include gastrointestinal bleeding (2.3%), intracranial bleeding (about 1% in patients receiving both argatroban and thrombolytic therapy), genitourinary bleeding and hematuria (0.9%), decreases in hemoglobin/hematocrit (0.7%), multisystem hemorrhage/DIC (0.5% ), and limb/below the knee amputation (0.5%).  Minor hemorrhagic events reported by the manufacturer include gastrointestinal bleeding (14.4%), genitourinary bleeding and hematuria (11.6%), minor decreases in hemoglobin/hematocrit (10.4%), groin bleeding (5.4%), hemoptysis (2.9%), brachial bleeding (2.4%).[Ref]
-In a study of patients given argatroban for the treatment of heparin-induced thrombocytopenia or heparin-induced thrombocytopenia and thrombosis syndrome, one patient experienced intracranial hemorrhage 4 days after the discontinuation of argatroban therapy and following urokinase and oral anticoagulation therapy.[Ref]
-Cardiovascular side effects include hypotension (7.2%), cardiac arrest (5.8%), ventricular tachycardia (4.8%), atrial fibrillation (3.0%) and cerebrovascular disorder (2.3%).[Ref]
-Gastrointestinal side effects include diarrhea (6.2%), nausea (4.8%), vomiting (4.2%), and abdominal pain (2.6%).[Ref]
-Respiratory effects include dyspnea (8.1%), pneumonia (3.3%) and coughing (2.8%).[Ref]
-General side effects include fever (6.9%), sepsis (6.0%) and pain (4.6%).[Ref]
-Genitourinary side effects include urinary tract infection (4.6%).[Ref]
-Immunological side effects include infection (3.7%).[Ref]
-1. "Product Information. Acova (argatroban)" SmithKline Beecham, Philadelphia, PA. 
-2. Swan SK, St. Peter JV, Lambrecht LJ, Hursting MJ "Comparison of anticoagulant effects and safety of argatroban and heparin in healthy subjects." Pharmacotherapy 20 (2000): 756-70
-Not all side effects for Acova may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hematologic side effects including overt bleeding or hemorrhage are the most common complications of argatroban (the active ingredient contained in Acova) therapy.  Major hemorrhagic events reported by the manufacturer include gastrointestinal bleeding (2.3%), intracranial bleeding (about 1% in patients receiving both argatroban and thrombolytic therapy), genitourinary bleeding and hematuria (0.9%), decreases in hemoglobin/hematocrit (0.7%), multisystem hemorrhage/DIC (0.5% ), and limb/below the knee amputation (0.5%).  Minor hemorrhagic events reported by the manufacturer include gastrointestinal bleeding (14.4%), genitourinary bleeding and hematuria (11.6%), minor decreases in hemoglobin/hematocrit (10.4%), groin bleeding (5.4%), hemoptysis (2.9%), brachial bleeding (2.4%).
+In a study of patients given argatroban for the treatment of heparin-induced thrombocytopenia or heparin-induced thrombocytopenia and thrombosis syndrome, one patient experienced intracranial hemorrhage 4 days after the discontinuation of argatroban therapy and following urokinase and oral anticoagulation therapy.
+Cardiovascular side effects include hypotension (7.2%), cardiac arrest (5.8%), ventricular tachycardia (4.8%), atrial fibrillation (3.0%) and cerebrovascular disorder (2.3%).
+Gastrointestinal side effects include diarrhea (6.2%), nausea (4.8%), vomiting (4.2%), and abdominal pain (2.6%).
+Respiratory effects include dyspnea (8.1%), pneumonia (3.3%) and coughing (2.8%).
+General side effects include fever (6.9%), sepsis (6.0%) and pain (4.6%).
+Genitourinary side effects include urinary tract infection (4.6%).
+Immunological side effects include infection (3.7%).
 Bleeding from the bladder
 blood in the urine
 blurred vision
@@ -30,8 +19,6 @@ stopping of heart
 sweating
 unconsciousness
 unusual tiredness or weakness
-
-
 Arm, back, or jaw pain
 bloody or black, tarry stools
 chest tightness or heaviness
@@ -50,8 +37,6 @@ shortness of breath
 sweating
 vomiting
 vomiting of blood or material that looks like coffee grounds
-
-
 Abdominal pain or swelling
 back pain or backaches
 blue lips and fingernails
@@ -74,4 +59,3 @@ sudden onset of shortness of breath for no apparent reason
 sudden onset of slurred speech
 sudden vision changes
 swelling in the legs and ankles
-

@@ -1,35 +1,17 @@
 More frequently reported side effects include: nausea.  See below for a comprehensive list of adverse effects.
-Applies to ceftibuten: oral capsule, oral powder for suspension
-In addition to its needed effects, some unwanted effects may be caused by ceftibuten. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking ceftibuten:
-Some of the side effects that can occur with ceftibuten may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ceftibuten: oral capsule, oral powder for reconstitution
-Ceftibuten is generally well tolerated.  In clinical trials, 2% of patients discontinued medication due to adverse events, primarily diarrhea, nausea, or vomiting, and 0.3% discontinued due to rash or pruritus.[Ref]
-If diarrhea occurs and is unresponsive to discontinuation of the drug and/or standard therapy, pseudomembranous colitis should be considered.[Ref]
-Gastrointestinal side effects have included nausea (4%), diarrhea (3%), dyspepsia (2%), abdominal pain (1%) and vomiting (1%).  Anorexia, constipation, dry mouth, eructation, flatulence, loose stools and moniliasis have been reported in less than 1% of patients.  Melena has been reported during postmarketing experience.  Pseudomembranous colitis has been reported in patients treated with cephalosporins.[Ref]
-Nervous system side effects have included headache in 3% of patients and dizziness in 1%.  Somnolence, fatigue, agitation, hyperkinesia, irritability, insomnia, and paresthesia have been reported in less than 1% of patients.  Some cephalosporins have been associated with seizures in renally impaired patients.[Ref]
-Hypersensitivity side effects have included rash and pruritus in less than 1% of patients.  Serum sickness-like reactions, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported during postmarketing experience.  Cephalosporin class antibiotics have been associated with anaphylaxis, drug fever, Stevens-Johnson syndrome, and erythema multiforme.[Ref]
-Hematologic side effects have included increased eosinophils (3%), decreased hemoglobin (2%), increased or decreased platelets (less than 1%) and decreased leukocytes (less than 1%).  Cephalosporins as a class have been associated with aplastic anemia, hemolytic anemia, prolonged prothrombin time, hemorrhage, neutropenia, pancytopenia, and agranulocytosis.[Ref]
-Hepatic side effects have included increased ALT (1%), increased bilirubin (1%), increased alkaline phosphatase (less than 1%), and increased AST (less than 1%).  Jaundice and transient increases in LDH have been reported during postmarketing experience.  Cephalosporins as a class have been associated with hepatic dysfunction including cholestasis.[Ref]
-Renal side effects have included increased BUN (1%), increased creatinine (less than 1%), and dysuria (less than 1%).  Cephalosporins as a class have been associated with renal dysfunction and toxic nephropathy.[Ref]
-Genitourinary side effects have included dysuria, hematuria, and vaginitis in less than less than 1% of patients.[Ref]
-Other side effects have included taste perversion in less than 1% of patients.[Ref]
-Dermatologic side effects have included pruritus, rash, diaper rash, and urticaria in less than 1% of patients.[Ref]
-Respiratory side effects have included dyspnea and nasal congestion in less than 1% of patients.[Ref]
-Psychiatric side effects have included reports of psychosis during postmarketing experience.[Ref]
-1. "Product Information. Cedax (ceftibuten)." Schering-Plough, Liberty Corner, NJ. 
-2. McAdoo MA, Rice K, Gordon GR, Sahn SA "Comparison of ceftibuten once daily and amoxicillin-clavulanate three times daily in the treatment of acute exacerbations of chronic bronchitis." Clin Ther 20 (1998): 88-100
-3. Aubier MA "Comparison of ceftibuten versus amoxicillin/clavulanate in the treatment of acute exacerbations of chronic bronchitis." Chemotherapy 43 (1997): 297-302
-4. Owens RC, Nightingale CH, Nicolau DP "Ceftibuten: an overview." Pharmacotherapy 17 (1997): 707-20
-5. Sterkers O "Efficacy and tolerability of ceftibuten versus amoxicillin/clavulanate in the treatment of acute sinusitis." Chemotherapy 43 (1997): 352-7
-6. Schatz BS, Karavokiros KT, Taeubel MA, Itokazu GS "Comparison of cefprozil, cefpodoxime proxetil, loracarbef, cefixime, and ceftibuten." Ann Pharmacother 30 (1996): 258-68
-7. "Ceftibuten--a new oral cephalosporin." Med Lett Drugs Ther 38 (1996): 23-4
-8. David RP "Ceftibuten: a new expanded-spectrum oral cephalsporin." Ann Pharmacother 31 (1997): 1022-33
-9. Romano A, Mayorga C, Torres MJ, Artesani MC, Suau R, Sanchez F, Perez E, Venuti A, Blanca M "Immediate allergic reactions to cephalosporins: Cross-reactivity and selective responses." J Allerg Clin Immunol 106 (2000): 1177-83
-Not all side effects for ceftibuten may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Ceftibuten is generally well tolerated.  In clinical trials, 2% of patients discontinued medication due to adverse events, primarily diarrhea, nausea, or vomiting, and 0.3% discontinued due to rash or pruritus.
+If diarrhea occurs and is unresponsive to discontinuation of the drug and/or standard therapy, pseudomembranous colitis should be considered.
+Gastrointestinal side effects have included nausea (4%), diarrhea (3%), dyspepsia (2%), abdominal pain (1%) and vomiting (1%).  Anorexia, constipation, dry mouth, eructation, flatulence, loose stools and moniliasis have been reported in less than 1% of patients.  Melena has been reported during postmarketing experience.  Pseudomembranous colitis has been reported in patients treated with cephalosporins.
+Nervous system side effects have included headache in 3% of patients and dizziness in 1%.  Somnolence, fatigue, agitation, hyperkinesia, irritability, insomnia, and paresthesia have been reported in less than 1% of patients.  Some cephalosporins have been associated with seizures in renally impaired patients.
+Hypersensitivity side effects have included rash and pruritus in less than 1% of patients.  Serum sickness-like reactions, Stevens-Johnson syndrome, and toxic epidermal necrolysis have been reported during postmarketing experience.  Cephalosporin class antibiotics have been associated with anaphylaxis, drug fever, Stevens-Johnson syndrome, and erythema multiforme.
+Hematologic side effects have included increased eosinophils (3%), decreased hemoglobin (2%), increased or decreased platelets (less than 1%) and decreased leukocytes (less than 1%).  Cephalosporins as a class have been associated with aplastic anemia, hemolytic anemia, prolonged prothrombin time, hemorrhage, neutropenia, pancytopenia, and agranulocytosis.
+Hepatic side effects have included increased ALT (1%), increased bilirubin (1%), increased alkaline phosphatase (less than 1%), and increased AST (less than 1%).  Jaundice and transient increases in LDH have been reported during postmarketing experience.  Cephalosporins as a class have been associated with hepatic dysfunction including cholestasis.
+Renal side effects have included increased BUN (1%), increased creatinine (less than 1%), and dysuria (less than 1%).  Cephalosporins as a class have been associated with renal dysfunction and toxic nephropathy.
+Genitourinary side effects have included dysuria, hematuria, and vaginitis in less than less than 1% of patients.
+Other side effects have included taste perversion in less than 1% of patients.
+Dermatologic side effects have included pruritus, rash, diaper rash, and urticaria in less than 1% of patients.
+Respiratory side effects have included dyspnea and nasal congestion in less than 1% of patients.
+Psychiatric side effects have included reports of psychosis during postmarketing experience.
 Burning while urinating
 confusion
 decreased urination
@@ -49,8 +31,6 @@ tightness in the chest
 unusual tiredness or weakness
 wheezing
 wrinkled skin
-
-
 Abdominal or stomach cramps or tenderness
 back, leg, or stomach pains
 bleeding gums
@@ -115,16 +95,12 @@ unusual weight loss
 vomiting of blood
 wheezing
 yellowing of the eyes or skin 
-
-
 Acid or sour stomach
 belching
 heartburn
 indigestion
 loose stools
 stomach discomfort, upset, or pain
-
-
 Agitation
 bad, unusual, or unpleasant (after) taste
 bloated, full feeling
@@ -153,4 +129,3 @@ thick, white vaginal discharge with no odor or with a mild odor
 trouble with sleeping
 unable to sleep
 weight loss
-

@@ -1,41 +1,26 @@
-Generic Name: measles virus vaccine
-Applies to measles virus vaccine: subcutaneous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by measles virus vaccine (the active ingredient contained in Attenuvax). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking measles virus vaccine:
 If any of the following side effects occur while taking measles virus vaccine, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with measles virus vaccine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
 Fever or skin rash may occur from 5 to 12 days after vaccination and usually lasts several days.
-
-
-Applies to measles virus vaccine: subcutaneous powder for injection
-Local side effects have included injection site burning/stinging, wheal and flare, erythema, swelling, and vesiculation.[Ref]
-Hypersensitivity reactions have included anaphylaxis, anaphylactoid reactions, angioneurotic edema (including peripheral or facial edema), and bronchial spasm.[Ref]
-Cardiovascular side effects have included vasculitis.[Ref]
-Dermatologic side effects have included Stevens-Johnson Syndrome, erythema multiforme, urticaria, and rash.[Ref]
-Gastrointestinal side effects have included diarrhea.[Ref]
-Hematologic side effects have included thrombocytopenia, purpura, regional lymphadenopathy, and leukocytosis.[Ref]
-Musculoskeletal side effects have included arthralgia and/or arthritis (usually transient and rarely chronic), polyneuritis, myalgia, paresthesia, and rarely chronic arthritis; these symptoms may also occur with natural rubella.[Ref]
-Significant central nervous system reactions such as encephalitis and encephalopathy have been very rarely temporally associated with measles vaccine (occurring within 30 days after vaccination); however, causality has not been determined in any case.  A certain number of  encephalitis cases unrelated to vaccines is expected to occur in a large childhood population; however, there is the possibility that some of these cases may have been caused by measles vaccine.  The risk of measles vaccine-associated serious neurological disorders is much smaller than the risk for encephalitis and encephalopathy due to natural measles.Subacute sclerosing panencephalitis (SSPE) has been very rarely reported in children after measles vaccination.  Some of these cases may have been due to unrecognized measles during the first year of life or possibly due to the measles vaccination.  The results of a retrospective case-controlled study by the U.S. Centers for Disease Control and Prevention suggest that measles vaccine has had the overall effect of protecting against SSPE by preventing measles with its greater risk of SSPE.[Ref]
-Nervous system side effects have included measles inclusion body encephalitis (MIBE), encephalopathy, subacute sclerosing panencephalitis (SSPE), Guillain-Barré Syndrome (GBS), febrile convulsions, afebrile convulsions or seizures, ataxia, and ocular palsies.[Ref]
-Ocular side effects have included retinitis, optic neuritis, papillitis, retrobulbar neuritis, and conjunctivitis.[Ref]
-Otic side effects have included nerve deafness and otitis media.[Ref]
-Respiratory side effects have included pneumonitis, cough, and rhinitis.[Ref]
-A postmarketing surveillance study of measles/mumps/rubella vaccine in Finland during 1982 to 1993 with 1.5 million pediatric and adult vaccinees reported no deaths or permanent sequelae.[Ref]
-Other side effects have included panniculitis, atypical measles, fever, syncope, headache, dizziness, malaise, and irritability.  Fatalities have been reported with the polyvalent measles/mumps/rubella vaccine; however, causality has not been determined.Health care providers should report any allergic or unusual adverse reactions to the Vaccine Adverse Event Reporting System (VAERS) at 1-800-822-7967 (USA) and the manufacturer.[Ref]
-1. "Product Information. Attenuvax (measles virus vaccine, live, attenuated)." Merck & Co, Inc, West Point, PA. 
-Not all side effects for Attenuvax may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Local side effects have included injection site burning/stinging, wheal and flare, erythema, swelling, and vesiculation.
+Hypersensitivity reactions have included anaphylaxis, anaphylactoid reactions, angioneurotic edema (including peripheral or facial edema), and bronchial spasm.
+Cardiovascular side effects have included vasculitis.
+Dermatologic side effects have included Stevens-Johnson Syndrome, erythema multiforme, urticaria, and rash.
+Gastrointestinal side effects have included diarrhea.
+Hematologic side effects have included thrombocytopenia, purpura, regional lymphadenopathy, and leukocytosis.
+Musculoskeletal side effects have included arthralgia and/or arthritis (usually transient and rarely chronic), polyneuritis, myalgia, paresthesia, and rarely chronic arthritis; these symptoms may also occur with natural rubella.
+Significant central nervous system reactions such as encephalitis and encephalopathy have been very rarely temporally associated with measles vaccine (occurring within 30 days after vaccination); however, causality has not been determined in any case.  A certain number of  encephalitis cases unrelated to vaccines is expected to occur in a large childhood population; however, there is the possibility that some of these cases may have been caused by measles vaccine.  The risk of measles vaccine-associated serious neurological disorders is much smaller than the risk for encephalitis and encephalopathy due to natural measles.Subacute sclerosing panencephalitis (SSPE) has been very rarely reported in children after measles vaccination.  Some of these cases may have been due to unrecognized measles during the first year of life or possibly due to the measles vaccination.  The results of a retrospective case-controlled study by the U.S. Centers for Disease Control and Prevention suggest that measles vaccine has had the overall effect of protecting against SSPE by preventing measles with its greater risk of SSPE.
+Nervous system side effects have included measles inclusion body encephalitis (MIBE), encephalopathy, subacute sclerosing panencephalitis (SSPE), Guillain-Barré Syndrome (GBS), febrile convulsions, afebrile convulsions or seizures, ataxia, and ocular palsies.
+Ocular side effects have included retinitis, optic neuritis, papillitis, retrobulbar neuritis, and conjunctivitis.
+Otic side effects have included nerve deafness and otitis media.
+Respiratory side effects have included pneumonitis, cough, and rhinitis.
+A postmarketing surveillance study of measles/mumps/rubella vaccine in Finland during 1982 to 1993 with 1.5 million pediatric and adult vaccinees reported no deaths or permanent sequelae.
+Other side effects have included panniculitis, atypical measles, fever, syncope, headache, dizziness, malaise, and irritability.  Fatalities have been reported with the polyvalent measles/mumps/rubella vaccine; however, causality has not been determined.Health care providers should report any allergic or unusual adverse reactions to the Vaccine Adverse Event Reporting System (VAERS) at 1-800-822-7967 (USA) and the manufacturer.
 Difficulty in breathing or swallowing
  hives
 itching, especially of feet or hands
 reddening of skin, especially around ears
  swelling of eyes, face, or inside of nose
 unusual tiredness or weakness (sudden and severe)
-
-
 Fever over 103 °F (39.4 °C)
-
-
 Bruising or purple spots on skin
 confusion 
 double vision
@@ -45,13 +30,8 @@ stiff neck
 swelling, blistering or pain at place of injection 
 swelling of glands in neck
  vomiting
-
-
 Burning or stinging at place of injection
  fever of 100 °F (37.7 °C) or less
-
-
 Fever between 100 and 103 °F (37.7 and 39.4 °C)
 itching, swelling, redness, tenderness, or hard lump at place of injection
 skin rash
-

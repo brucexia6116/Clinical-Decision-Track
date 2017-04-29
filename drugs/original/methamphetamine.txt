@@ -1,25 +1,13 @@
-Applies to methamphetamine: oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by methamphetamine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking methamphetamine:
-Some of the side effects that can occur with methamphetamine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to methamphetamine: oral tablet, oral tablet extended release
-Frequency not reported: Elevated blood pressure, tachycardia, palpitation, fatal cardiorespiratory arrestPostmarketing reports: Peripheral vasculopathy[Ref]
-Frequency not reported: Rhabdomyolysis, growth suppression[Ref]
-Rare (less than 0.1%): Psychotic episodesFrequency not reported: Dysphoria, euphoria, insomnia, restlessness[Ref]
-Frequency not reported: Dizziness, overstimulation, tremor, headache, exacerbation of motor/phonic tics and Tourette's syndrome[Ref]
-Frequency not reported: Diarrhea, constipation, dry mouth, unpleasant taste, other GI disturbances[Ref]
-Frequency not reported: Impotence, libido changes, frequent or prolonged erections[Ref]
-Frequency not reported: Urticaria[Ref]
-1. "Product Information. Desoxyn (methamphetamine)" Abbott Pharmaceutical, Abbott Park, IL. 
-Not all side effects for methamphetamine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Elevated blood pressure, tachycardia, palpitation, fatal cardiorespiratory arrestPostmarketing reports: Peripheral vasculopathy
+Frequency not reported: Rhabdomyolysis, growth suppression
+Rare (less than 0.1%): Psychotic episodesFrequency not reported: Dysphoria, euphoria, insomnia, restlessness
+Frequency not reported: Dizziness, overstimulation, tremor, headache, exacerbation of motor/phonic tics and Tourette's syndrome
+Frequency not reported: Diarrhea, constipation, dry mouth, unpleasant taste, other GI disturbances
+Frequency not reported: Impotence, libido changes, frequent or prolonged erections
+Frequency not reported: Urticaria
 Agitation
 delusions
 hallucinations
-
-
 Blurred vision
 chest discomfort or pain
 dark-colored urine
@@ -41,8 +29,6 @@ trouble sleeping
 twitching, twisting, or uncontrolled repetitive movements of the tongue, lips, face, arms, or legs
 uncontrolled vocal outbursts and tics
 unusual tiredness or weakness
-
-
 Bad, unusual, or unpleasant (after) taste
 change in taste
 constipation
@@ -57,4 +43,3 @@ passing of gas
 redness of the skin
 skin rash
 weight loss
-

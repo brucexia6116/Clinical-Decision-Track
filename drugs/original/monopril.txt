@@ -1,32 +1,19 @@
-Generic Name: fosinopril
-Applies to fosinopril: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by fosinopril (the active ingredient contained in Monopril). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking fosinopril:
-Some of the side effects that can occur with fosinopril may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fosinopril: oral tablet
-Adverse events were generally mild and transient, and their frequency was not prominently related to dose within the recommended daily dosage range.[Ref]
-Common (1% to 10%): Rash, angioedema, dermatitisUncommon (0.1% to 1%): Urticaria, photosensitivity, pruritus, excessive sweating/hyperhidrosisRare (less than 0.1%): EcchymosisFrequency not reported: Bullous pemphigus, exfoliative dermatitis[Ref]
-Common (1% to 10%): Orthostatic hypotension, angina pectoris, hypotension, atrial/cardiac rhythm disturbances, tachycardia Uncommon (0.1% to 1%): Myocardial infarction, hypertensive crisis, palpitations, flushing, claudication, cardiorespiratory arrest, shock, non-anginal chest pain, hypertension, conduction disorder, bradycardia, cardiac arrest, conduction disturbances, transitory ischemia Rare (less than 0.1%): Hemorrhage, peripheral vascular diseaseFrequency not reported: Vasculitis[Ref]
-Very common (10% or more): Dizziness (up to 11.9%)Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Tremor, paresthesia, drowsiness, cerebrovascular accident, syncope, memory disturbance, taste disturbance/dysgeusia, cerebral infarction, transient ischemic attack (TIA), numbness, somnolence, strokeRare (less than 0.1%): Dysphasia[Ref]
-Common (1% to 10%): Cough, dyspnea, upper respiratory infectionUncommon (0.1% to 1%): Bronchospasm, pharyngitis, sinusitis, rhinitis, laryngitis/hoarseness, epistaxis, abnormal vocalization, sinus abnormality, abnormal breathing, pleuritic chest pain, tracheobronchitis Rare (less than 0.1%): Pneumonia, pulmonary congestionFrequency not reported: Eosinophilic pneumonitis[Ref]
-Common (1% to 10%): Nausea, vomiting, diarrhea, abdominal painUncommon (0.1% to 1%): Pancreatitis, dysphagia, abdominal distention, flatulence, constipation, heartburn, appetite changes, dry mouthRare (0.01% to 0.1%): Oral lesions, swollen tongueVery rare (less than 0.01%): Intestinal angioedema, sub-ileus[Ref]
-Common (1% to 10%): Elevated alkaline phosphatase, elevated lactate dehydrogenaseUncommon (0.1% to 1%): Gout, hyperkalemia, increased blood urea, decreased appetite, weight increaseRare (less than 0.1%): HyponatremiaFrequency not reported: Symptomatic hyponatremia[Ref]
-Uncommon (0.1% to 1%): Renal insufficiency, kidney pain, renal failure, increased serum creatinine Very rare (less than 0.01%): Acute renal failureFrequency not reported: Elevated BUN[Ref]
-Common (1% to 10%): Increased serum bilirubin, elevated transaminasesUncommon (0.1% to 1%): Hepatitis, hepatomegalyVery rare (less than 0.01%): Hepatic failureFrequency not reported: Hepatocellular jaundice, cholestatic jaundice[Ref]
-Common (1% to 10%): Sexual dysfunctionUncommon (0.1% to 1%): Urinary frequency, abnormal urination, proteinuria Rare (less than 0.1%): Prostatic disorders[Ref]
-Uncommon (0.1% to 1%): Lymphadenopathy, transient decreased hemoglobin, decreased hematocritRare (0.01% to 0.1%): Eosinophilia, leukopenia, neutropenia, thrombocytopenia, transient anemiaVery rare (less than 0.01%): AgranulocytosisFrequency not reported: pancytopenia, hemolytic anemia, aplastic anemia, leukocytosis, elevated erythrocyte sedimentation rate (ESR)[Ref]
-Common (1% to 10%): InsomniaUncommon (0.1% to 1%): Mood change, decreased libido, confusion, sleep disturbance, depression, behavior changeRare (less than 0.1%): Disorientation[Ref]
-Common (1% to 10%): Muscle cramp, musculoskeletal painUncommon (0.1% to 1%): Arthralgia, myalgia, muscle ache, weakness of an extremityRare (less than 0.1%): Arthritis[Ref]
-Uncommon (0.1% to 1%): Vision disturbance, eye irritation[Ref]
-Common (1% to 10%): Fatigue, edema, non-cardiac chest pain, weakness, viral infectionUncommon (0.1% to 1%): Vertigo, tinnitus, ear ache, fever, influenza-like syndrome, weight gain, sensation of cold, fall, pain, sudden death, lower extremity edema, swelling of extremity, peripheral edema, thoracic painRare (less than 0.1%): Weakness in one extremityFrequency not reported: Serositis[Ref]
-Frequency not reported: Anaphylactoid reactions, positive antinuclear antibodies (ANA)[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Monopril (fosinopril)." Bristol-Myers Squibb, Princeton, NJ. 
-Not all side effects for Monopril may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Adverse events were generally mild and transient, and their frequency was not prominently related to dose within the recommended daily dosage range.
+Common (1% to 10%): Rash, angioedema, dermatitisUncommon (0.1% to 1%): Urticaria, photosensitivity, pruritus, excessive sweating/hyperhidrosisRare (less than 0.1%): EcchymosisFrequency not reported: Bullous pemphigus, exfoliative dermatitis
+Common (1% to 10%): Orthostatic hypotension, angina pectoris, hypotension, atrial/cardiac rhythm disturbances, tachycardia Uncommon (0.1% to 1%): Myocardial infarction, hypertensive crisis, palpitations, flushing, claudication, cardiorespiratory arrest, shock, non-anginal chest pain, hypertension, conduction disorder, bradycardia, cardiac arrest, conduction disturbances, transitory ischemia Rare (less than 0.1%): Hemorrhage, peripheral vascular diseaseFrequency not reported: Vasculitis
+Very common (10% or more): Dizziness (up to 11.9%)Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Tremor, paresthesia, drowsiness, cerebrovascular accident, syncope, memory disturbance, taste disturbance/dysgeusia, cerebral infarction, transient ischemic attack (TIA), numbness, somnolence, strokeRare (less than 0.1%): Dysphasia
+Common (1% to 10%): Cough, dyspnea, upper respiratory infectionUncommon (0.1% to 1%): Bronchospasm, pharyngitis, sinusitis, rhinitis, laryngitis/hoarseness, epistaxis, abnormal vocalization, sinus abnormality, abnormal breathing, pleuritic chest pain, tracheobronchitis Rare (less than 0.1%): Pneumonia, pulmonary congestionFrequency not reported: Eosinophilic pneumonitis
+Common (1% to 10%): Nausea, vomiting, diarrhea, abdominal painUncommon (0.1% to 1%): Pancreatitis, dysphagia, abdominal distention, flatulence, constipation, heartburn, appetite changes, dry mouthRare (0.01% to 0.1%): Oral lesions, swollen tongueVery rare (less than 0.01%): Intestinal angioedema, sub-ileus
+Common (1% to 10%): Elevated alkaline phosphatase, elevated lactate dehydrogenaseUncommon (0.1% to 1%): Gout, hyperkalemia, increased blood urea, decreased appetite, weight increaseRare (less than 0.1%): HyponatremiaFrequency not reported: Symptomatic hyponatremia
+Uncommon (0.1% to 1%): Renal insufficiency, kidney pain, renal failure, increased serum creatinine Very rare (less than 0.01%): Acute renal failureFrequency not reported: Elevated BUN
+Common (1% to 10%): Increased serum bilirubin, elevated transaminasesUncommon (0.1% to 1%): Hepatitis, hepatomegalyVery rare (less than 0.01%): Hepatic failureFrequency not reported: Hepatocellular jaundice, cholestatic jaundice
+Common (1% to 10%): Sexual dysfunctionUncommon (0.1% to 1%): Urinary frequency, abnormal urination, proteinuria Rare (less than 0.1%): Prostatic disorders
+Uncommon (0.1% to 1%): Lymphadenopathy, transient decreased hemoglobin, decreased hematocritRare (0.01% to 0.1%): Eosinophilia, leukopenia, neutropenia, thrombocytopenia, transient anemiaVery rare (less than 0.01%): AgranulocytosisFrequency not reported: pancytopenia, hemolytic anemia, aplastic anemia, leukocytosis, elevated erythrocyte sedimentation rate (ESR)
+Common (1% to 10%): InsomniaUncommon (0.1% to 1%): Mood change, decreased libido, confusion, sleep disturbance, depression, behavior changeRare (less than 0.1%): Disorientation
+Common (1% to 10%): Muscle cramp, musculoskeletal painUncommon (0.1% to 1%): Arthralgia, myalgia, muscle ache, weakness of an extremityRare (less than 0.1%): Arthritis
+Uncommon (0.1% to 1%): Vision disturbance, eye irritation
+Common (1% to 10%): Fatigue, edema, non-cardiac chest pain, weakness, viral infectionUncommon (0.1% to 1%): Vertigo, tinnitus, ear ache, fever, influenza-like syndrome, weight gain, sensation of cold, fall, pain, sudden death, lower extremity edema, swelling of extremity, peripheral edema, thoracic painRare (less than 0.1%): Weakness in one extremityFrequency not reported: Serositis
+Frequency not reported: Anaphylactoid reactions, positive antinuclear antibodies (ANA)
 Blurred vision
 chest pain or discomfort
 chills
@@ -37,11 +24,7 @@ fast, slow, or irregular heartbeat
 pounding or rapid pulse
 sweating
 unusual tiredness or weakness
-
-
 Cough
-
-
 Body aches or pain
 diarrhea
 difficult breathing
@@ -56,4 +39,3 @@ runny nose
 sneezing
 sore throat
 weakness
-

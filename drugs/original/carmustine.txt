@@ -1,40 +1,23 @@
-Applies to carmustine: implantation implant
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by carmustine. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking carmustine, check with your doctor or nurse immediately:
-Some of the side effects that can occur with carmustine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to carmustine: implant device, intravenous powder for injection
-Most of the patients with respiratory toxicity received prolonged therapy with total doses greater than 1400 mg/m2, although respiratory problems have been reported in patients receiving as little as 600 mg/m2.Delayed onset pulmonary fibrosis occurring up to 17 years after treatment has been reported in one long-term study (n=17) on patients who received carmustine in childhood and early adolescence combined with cranial radiotherapy (for intracranial tumors).  Chest X-rays revealed pulmonary hypoplasia with upper zone contraction.  Thoracic CT scans showed an unusual pattern of upper zone fibrosis.  Some late reduction of pulmonary function was reported in all long-term survivors.  In this long-term study, 8 of 17 died of delayed pulmonary lung fibrosis, including all those initially treated (5 of 17) at less than 5 years old.[Ref]
-Respiratory side effects including pulmonary infiltrates and/or fibrosis have been reported to occur from 9 days to 43 months after treatment with carmustine and related nitrosoureas.  Cases of fatal respiratory toxicity have been reported.[Ref]
-Carmustine may produce cumulative myelosuppression.  Thrombocytopenia has generally been reported to occur approximately four weeks after administration.  Leukopenia has generally been reported to occur approximately five to six weeks after administration.  Both have been reported to persist for one to two weeks.Use of carmustine in combination with cimetidine has resulted in greater myelotoxicity (e.g., leucopenia, neutropenia).[Ref]
-Hematologic side effects including myelosuppression have been reported frequently.  Thrombocytopenia, leukopenia, and less frequently, anemia have also been reported.  Acute leukemia and bone marrow dysplasias have been reported following long-term nitrosourea therapy.[Ref]
-Nausea and vomiting generally appear within two hours of dosing and last for four to six hours.  Prior administration of antiemetics has been effective in diminishing and sometimes preventing these side effects.[Ref]
-Gastrointestinal side effects including nausea and vomiting have been reported frequently.[Ref]
-Hepatic side effects including increased transaminase, alkaline phosphatase, and bilirubin levels have been reported infrequently.[Ref]
-The increased levels are generally reversible.[Ref]
-Renal side effects including progressive azotemia, decrease in kidney size, and renal failure have been reported in patients after prolonged therapy and usually after large cumulative doses.[Ref]
-Cardiovascular side effects including hypotension and tachycardia have been reported.  Three cases of myocardial ischemia during and immediately after high-dose carmustine infusion have been reported.[Ref]
-Local side effects including burning and hyperpigmentation have been reported.[Ref]
-This effect usually has been reported to occur within two hours and last for approximately four hours.[Ref]
-Other side effects have included intensive flushing of the skin and suffusion of the conjunctiva following rapid intravenous infusion of carmustine.[Ref]
-Ocular side effects including neuroretinitis have been reported.[Ref]
-General side effects including chest pain and headache have been reported.[Ref]
-Oncologic side effects have included spontaneous reports of cyst formation after gliadel wafer implantation.  Carcinogenicity has been reported in animal studies.[Ref]
-Cyst formation occurred at varying time intervals postimplantation.  Cyst formation has also been reported in patients following resection of malignant glioma who have not had gliadel implanted.Carmustine has been reported in animal studies to produce a marked increase in tumor incidence at doses approximating clinical doses.[Ref]
-1. Lena H, Desrues B, Le Coz A, Quinquenel ML, Delaval P "Severe diffuse interstitial pneumonitis induced by carmustine (BCNU)." Chest 105 (1994): 1602-3
-2. O'Driscoll BR, Kalra S, Gattamaneni HR, Woodcock AA "Late carmustine lung fibrosis. Age at treatment may influence severity and survival." Chest 107 (1995): 1355-7
-3. "Multum Information Services, Inc. Expert Review Panel"  
-4. "Product Information. BiCNU (carmustine)." Bristol-Myers Squibb, Princeton, NJ. 
-5. Hasleton PS, O'Driscoll BR, Lynch P, Webster A, Kalra SJ, Gattamaneini HR, Woodcock AA, Poulter LW "Late BCNU lung: a light and ultrastructural study on the delayed effect of BCNU on the lung parenchyma." J Pathol 164 (1991): 31-6
-6. Kanj SS, Sharara AI, Shpall EJ, Jones RB, Peters WP "Myocardial ischemia associated with high-dose carmustine infusion." Cancer 68 (1991): 1910-2
-7. Mrozek-Orlowski M, Christie J, Flamme C, Novak J "Pain associated with peripheral infusion of carmustine." Oncol Nurs Forum 18 (1991): 942
-8. Wiencke JK, Wiemels J "Genotoxicity of 1,3-bis(2-chloroethyl)-1-nitrosourea (BCNU)." Mutat Res 339 (1995): 91-119
-Not all side effects for carmustine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Most of the patients with respiratory toxicity received prolonged therapy with total doses greater than 1400 mg/m2, although respiratory problems have been reported in patients receiving as little as 600 mg/m2.Delayed onset pulmonary fibrosis occurring up to 17 years after treatment has been reported in one long-term study (n=17) on patients who received carmustine in childhood and early adolescence combined with cranial radiotherapy (for intracranial tumors).  Chest X-rays revealed pulmonary hypoplasia with upper zone contraction.  Thoracic CT scans showed an unusual pattern of upper zone fibrosis.  Some late reduction of pulmonary function was reported in all long-term survivors.  In this long-term study, 8 of 17 died of delayed pulmonary lung fibrosis, including all those initially treated (5 of 17) at less than 5 years old.
+Respiratory side effects including pulmonary infiltrates and/or fibrosis have been reported to occur from 9 days to 43 months after treatment with carmustine and related nitrosoureas.  Cases of fatal respiratory toxicity have been reported.
+Carmustine may produce cumulative myelosuppression.  Thrombocytopenia has generally been reported to occur approximately four weeks after administration.  Leukopenia has generally been reported to occur approximately five to six weeks after administration.  Both have been reported to persist for one to two weeks.Use of carmustine in combination with cimetidine has resulted in greater myelotoxicity (e.g., leucopenia, neutropenia).
+Hematologic side effects including myelosuppression have been reported frequently.  Thrombocytopenia, leukopenia, and less frequently, anemia have also been reported.  Acute leukemia and bone marrow dysplasias have been reported following long-term nitrosourea therapy.
+Nausea and vomiting generally appear within two hours of dosing and last for four to six hours.  Prior administration of antiemetics has been effective in diminishing and sometimes preventing these side effects.
+Gastrointestinal side effects including nausea and vomiting have been reported frequently.
+Hepatic side effects including increased transaminase, alkaline phosphatase, and bilirubin levels have been reported infrequently.
+The increased levels are generally reversible.
+Renal side effects including progressive azotemia, decrease in kidney size, and renal failure have been reported in patients after prolonged therapy and usually after large cumulative doses.
+Cardiovascular side effects including hypotension and tachycardia have been reported.  Three cases of myocardial ischemia during and immediately after high-dose carmustine infusion have been reported.
+Local side effects including burning and hyperpigmentation have been reported.
+This effect usually has been reported to occur within two hours and last for approximately four hours.
+Other side effects have included intensive flushing of the skin and suffusion of the conjunctiva following rapid intravenous infusion of carmustine.
+Ocular side effects including neuroretinitis have been reported.
+General side effects including chest pain and headache have been reported.
+Oncologic side effects have included spontaneous reports of cyst formation after gliadel wafer implantation.  Carcinogenicity has been reported in animal studies.
+Cyst formation occurred at varying time intervals postimplantation.  Cyst formation has also been reported in patients following resection of malignant glioma who have not had gliadel implanted.Carmustine has been reported in animal studies to produce a marked increase in tumor incidence at doses approximating clinical doses.
 intravenous powder for solution
-
 Blurred vision
 change in ability to see colors, especially blue or yellow
 confusion
@@ -44,14 +27,10 @@ nausea and vomiting
 problems with movement, walking, or speech
 seizures
 trouble healing
-
-
 Drowsiness
 general feeling of illness
 severe headache
 stiff neck or back
-
-
 Abdominal or stomach pain
 back pain
 bladder pain
@@ -69,7 +48,4 @@ lower back or side pain
 tiredness
 trouble concentrating
 trouble sleeping
-
-
 Chest pain
-

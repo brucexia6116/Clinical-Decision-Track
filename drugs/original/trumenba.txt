@@ -1,5 +1,3 @@
-Generic Name: meningococcal group B vaccine
-Applies to meningococcal group B vaccine: intramuscular suspension
 Get emergency medical help if you have signs of an allergic reaction:  hives; difficult breathing; swelling of your face, lips, tongue, or throat.
 Keep track of any and all side effects you have after receiving this vaccine.  When you receive a booster dose, you will need to tell the doctor if the previous shot caused any side effects. 
 You should not receive a booster vaccine if you had a life-threatening allergic reaction after the first shot.
@@ -13,40 +11,22 @@ chills;
 nausea; or
 pain, redness, or a hard lump where the shot was given.
 This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. You may report vaccine side effects to the US Department of Health and Human Services at 1 800 822 7967.
-Applies to meningococcal group B vaccine: intramuscular suspension
-The most common adverse events were pain at the injection site, fatigue, erythema, myalgia, headache, and induration.[Ref]
-Very common (10% or more): Injection site pain (92.8%), erythema (50%), induration (32%), swelling (21.6%)Postmarketing reports: Blisters at or around injection site[Ref]
-Very common (10% or more): Fatigue (64.4%), headache (56.9%), sleepiness, unusual cryingUncommon (0.1% to 1%): Seizures (including febrile seizures)Postmarketing reports: Syncope, vasovagal responses to injection[Ref]
-Very common (10% or more): Myalgia (49%), chills (30.3%), arthralgia (21.6%)[Ref]
-Very common (10% or more): Nausea (19%), diarrhea (15.2%)Common (1% to 10%): Vomiting[Ref]
-Very common (10% or more): Irritability[Ref]
-Very common (10% or more): Eating disorders[Ref]
-Common (1% to 10%): Fever[Ref]
-Common (1% to 10%): RashUncommon (0.1% to 1%): EczemaRare (less than 0.1%): Urticaria[Ref]
-Uncommon (0.1% to 1%): Pallor (rare after booster)Rare (less than 0.1%): Kawasaki syndrome[Ref]
-Very rare (less than 0.01%): AnaphylaxisPostmarketing reports: Allergic reactions, rash, eye swelling[Ref]
-Frequency not reported: Nasopharyngitis[Ref]
-1. "Product Information. Trumenba (meningococcal group B vaccine)." Pfizer U.S. Pharmaceuticals Group, New York, NY. 
-2. "Product Information. Bexsero (meningococcal group B vaccine)." Novartis Vaccines & Diagnostics Inc, Cambridge, MA. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+The most common adverse events were pain at the injection site, fatigue, erythema, myalgia, headache, and induration.
+Very common (10% or more): Injection site pain (92.8%), erythema (50%), induration (32%), swelling (21.6%)Postmarketing reports: Blisters at or around injection site
+Very common (10% or more): Fatigue (64.4%), headache (56.9%), sleepiness, unusual cryingUncommon (0.1% to 1%): Seizures (including febrile seizures)Postmarketing reports: Syncope, vasovagal responses to injection
+Very common (10% or more): Myalgia (49%), chills (30.3%), arthralgia (21.6%)
+Very common (10% or more): Nausea (19%), diarrhea (15.2%)Common (1% to 10%): Vomiting
+Very common (10% or more): Irritability
+Very common (10% or more): Eating disorders
+Common (1% to 10%): Fever
+Common (1% to 10%): RashUncommon (0.1% to 1%): EczemaRare (less than 0.1%): Urticaria
+Uncommon (0.1% to 1%): Pallor (rare after booster)Rare (less than 0.1%): Kawasaki syndrome
+Very rare (less than 0.01%): AnaphylaxisPostmarketing reports: Allergic reactions, rash, eye swelling
+Frequency not reported: Nasopharyngitis
 It is possible that some side effects of Trumenba may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
-
 headache;
-
-
 feeling tired;
-
-
 muscle or joint pain; 
-
-
 chills;
-
-
 nausea; or
-
-
 pain, redness, or a hard lump where the shot was given.
-
-

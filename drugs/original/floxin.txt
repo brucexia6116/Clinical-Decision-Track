@@ -1,79 +1,34 @@
-Generic Name: ofloxacin
-Applies to ofloxacin: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by ofloxacin (the active ingredient contained in Floxin). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking ofloxacin:
-Some of the side effects that can occur with ofloxacin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ofloxacin: intravenous solution, oral tablet
-This drug was generally well tolerated, and side effects were mild in nature.  In clinical trials, 11% of patients experienced side effects.  Therapy was discontinued due to side effects in 4% of patients.[Ref]
-Common (1% to 10%): Nausea, diarrhea, vomiting, abdominal pain and cramps, dry mouth, flatulence, gastrointestinal distress, constipationUncommon (0.1% to 1%): Abdominal painRare (0.01% to 0.1%): Enterocolitis (sometimes hemorrhagic)Frequency not reported: DyspepsiaPostmarketing reports: Pseudomembranous colitis, gastrointestinal hemorrhage, intestinal perforation, hiccough, pyrosis, painful oral mucosa, pancreatitis, stomatitis[Ref]
-The onset of pseudomembranous colitis symptoms has been reported during or after antimicrobial therapy.Dyspepsia, flatulence, and constipation have also been reported during postmarketing experience.  According to some authorities, pseudomembranous colitis was reported very rarely.[Ref]
-Seizures were more likely to occur in elderly patients and in patients with renal dysfunction.Cases of sensory or sensorimotor axonal polyneuropathy (affecting small and/or large axons) resulting in paresthesias, hypoesthesias, dysesthesias, and weakness have been reported.A survey reported 6 cases of peripheral neuropathy associated with this drug.  In 1 case, a 49-year-old female developed diffuse numbness, "pins and needles" sensation, burning pain, memory loss, visual impairment, joint pain, palpitations, altered sense of smell, insomnia, tinnitus, and severe panic attacks, with some symptoms persisting after 3 years.Disturbances of taste, smell, hearing, and equilibrium were usually reversible after the drug was stopped.Syncope and tremor have also been reported during postmarketing experience.  According to some authorities, peripheral sensory neuropathy, peripheral sensory motor neuropathy, and convulsion were reported very rarely.[Ref]
-Common (1% to 10%): Headache, dizziness, dysgeusia, somnolenceUncommon (0.1% to 1%): VertigoRare (0.01% to 0.1%): Paresthesia, parosmiaVery rare (less than 0.01%): Extrapyramidal symptoms or other disorders of muscular coordination, tinnitus, hearing lossFrequency not reported: Seizures, cognitive change, syncope, tremor, decreased hearing acuity, sensory axonal polyneuropathy, sensorimotor axonal polyneuropathy, idiopathic intracranial hypertensionPostmarketing reports: Peripheral neuropathy (may be irreversible), peripheral sensory neuropathy, convulsion, peripheral sensory motor neuropathy, ataxia, incoordination, exacerbation of myasthenia gravis, exacerbation of extrapyramidal disorders, dysphasia, lightheadedness, taste disturbance, smell disturbance, hearing disturbance, equilibrium disturbance, dyskinesia, ageusia, hearing impaired[Ref]
-Common (1% to 10%): Increased serum creatinine, increased BUNVery rare (less than 0.01%): Acute renal failureFrequency not reported: Nephrogenic diabetic insipidusPostmarketing reports: Renal calculi, renal failure, interstitial nephritis, acute interstitial nephritis[Ref]
-Common (1% to 10%): Elevated AST, elevated ALTRare (0.01% to 0.1%): Elevated liver enzymes (ALT, AST, LDH, GGT, alkaline phosphatase), elevated blood bilirubinVery rare (less than 0.01%): Cholestatic jaundicePostmarketing reports: Hepatic dysfunction (including hepatic necrosis, jaundice [cholestatic or hepatocellular], hepatitis [including severe cases]), hepatic failure (including fatal cases), elevated liver function tests (including GGT, LDH, bilirubin), severe liver injury (including acute liver failure [sometimes fatal])[Ref]
-Severe liver injury (including cases of acute liver failure [sometimes fatal]) has been reported, primarily in patients with underlying liver disorders.[Ref]
-Anemia (including hemolytic), leukopenia, and thrombocytopenia have also been reported during postmarketing experience.[Ref]
-Common (1% to 10%): Anemia, leukopenia, leukocytosis, neutropenia, neutrophilia, increased band forms, lymphocytopenia, eosinophilia, lymphocytosis, thrombocytopenia, thrombocytosis, elevated erythrocyte sedimentation rateVery rare (less than 0.01%): Hemolytic anemiaPostmarketing reports: Aplastic anemia, hemorrhage, pancytopenia, agranulocytosis, reversible bone marrow depression, thrombotic thrombocytopenic purpura, petechiae, prothrombin time prolongation, ecchymosis/bruising, bone marrow failure[Ref]
-IV formulation:-Common (1% to 10%): Injection site reactions (including phlebitis, swelling, erythema, pain)[Ref]
-Rare (0.01% to 0.1%): TendinitisVery rare (less than 0.01%): Arthralgia, myalgia, tendon rupture (e.g., Achilles tendon)Postmarketing reports: Muscular weakness, rhabdomyolysis, myopathy, muscle tear, muscle rupture, ligament rupture, arthritis[Ref]
-Tendinitis and tendon rupture have also been reported during postmarketing experience.  Tendon rupture (sometimes bilateral) has been reported within 48 hours of starting therapy.[Ref]
-Torsades de pointes were reported primarily in patients with risk factors for QT prolongation.  This drug was associated with 2 cases of torsades de pointes reported to the US FDA between 1996 and 2001.Tachycardia has also been reported during postmarketing experience.  Tachycardia and hypotension have occurred during IV infusion (during postmarketing experience); in very rare cases, such a decrease in blood pressure has been severe.[Ref]
-Rare (0.01% to 0.1%): Tachycardia, hypotensionFrequency not reported: Cardiac arrest, hypertension, palpitations, vasodilationPostmarketing reports: Cerebral thrombosis, hypotension/shock, ventricular arrhythmias, ECG QT prolonged, torsades de pointes[Ref]
-According to some authorities, anaphylactic reaction and anaphylactoid reaction were reported rarely and anaphylactic shock and anaphylactoid shock were reported very rarely.[Ref]
-Postmarketing reports: Anaphylactic reactions/shock, anaphylactoid reactions/shock, serum sickness[Ref]
-Hematuria has also been reported during postmarketing experience.Crystalluria and cylindruria have been reported with other quinolones.[Ref]
-Common (1% to 10%): External genital pruritus in women, vaginitis, vaginal discharge, glucosuria, proteinuria, alkalinuria, hyposthenuria, hematuria, pyuriaFrequency not reported: Dysuria; urinary frequency; urinary retention; dysmenorrhea; menorrhagia; metrorrhagia; burning, irritation, pain, and rash of the female genitaliaPostmarketing reports: Vaginal candidiasis, albuminuria, candiduria, anuria, polyuriaQuinolones:-Frequency not reported: Crystalluria, cylindruria[Ref]
-Common (1% to 10%): Rash, pruritusRare (0.01% to 0.1%): Urticaria, hyperhidrosis, pustular rashVery rare (less than 0.01%): Erythema multiforme, toxic epidermal necrolysis, drug eruption, vascular purpura, vasculitis (sometimes leading to skin necrosis)Frequency not reported: Angioedema, diaphoresisPostmarketing reports: Hyperpigmentation, Stevens-Johnson syndrome, erythema nodosum, exfoliative dermatitis, photosensitivity/phototoxicity reaction, vesiculobullous eruption, purpura, acute generalized exanthematous pustulosis, drug rash[Ref]
-A 75-year-old male developed toxic epidermal necrolysis and died of complications after receiving a total of 23.6 g of this drug orally over 51 days.Angioedema, erythema multiforme, and toxic epidermal necrolysis have also been reported during postmarketing experience.  According to some authorities, angioedema was reported rarely and photosensitivity was reported very rarely.[Ref]
-Common (1% to 10%): Visual disturbancesUncommon (0.1% to 1%): Eye irritationFrequency not reported: PhotophobiaPostmarketing reports: Diplopia, nystagmus, blurred vision, conjunctivitis, uveitisQuinolones:-Frequency not reported: Ophthalmologic abnormalities (including cataracts, multiple punctate lenticular opacities)[Ref]
-Ophthalmologic abnormalities (including cataracts and multiple punctate lenticular opacities) have been reported with other quinolones.[Ref]
-Asthenia has also been reported during postmarketing experience.[Ref]
-Common (1% to 10%): Fatigue, chest pain, fever, trunk pain, elevated alkaline phosphataseUncommon (0.1% to 1%): Fungal infection, pathogen resistanceRare (0.01% to 0.1%): Hot flushesFrequency not reported: Asthenia, chills, malaise, edema, extremity pain, pain, thirst, weight lossPostmarketing reports: Elevated serum triglycerides, elevated serum cholesterol, elevated serum potassium, pyrexia, pain (including back, chest, extremities)[Ref]
-Dyspnea (including severe dyspnea) and bronchospasm have also been reported during postmarketing experience.[Ref]
-Common (1% to 10%): PharyngitisUncommon (0.1% to 1%): Cough, nasopharyngitisRare (0.01% to 0.1%): Dyspnea, bronchospasmFrequency not reported: Respiratory arrest, rhinorrhea, epistaxisPostmarketing reports: Allergic pneumonitis, pulmonary edema, stridor[Ref]
-Common (1% to 10%): Decreased appetite, hyperglycemia, hypoglycemiaRare (0.01% to 0.1%): AnorexiaPostmarketing reports: Acidosis, hypoglycemic coma, porphyria attacks[Ref]
-Hyperglycemia and hypoglycemia (especially in diabetic patients on insulin or oral hypoglycemic agents) have also been reported during postmarketing experience.  Attacks of porphyria have been reported in patients with porphyria.[Ref]
-In 1 patient, a psychotic reaction to this drug presented with irritability, restlessness, insomnia, and irrational fear.  The reaction was treated with haloperidol and resolved within 48 hours.  One study suggests that the central nervous system effects of quinolones may be due to an interaction with the benzodiazepine-gamma-aminobutyric acid receptor complex and may be controlled by benzodiazepine administration.Agitation, nervousness, psychotic reactions, and nightmares have also been reported during postmarketing experience.[Ref]
-Common (1% to 10%): Insomnia, nervousness, sleep disordersUncommon (0.1% to 1%): AgitationRare (0.01% to 0.1%): Anxiety, depression, confusional state, psychotic disorder/reactions (e.g., hallucination), nightmaresFrequency not reported: Dream abnormality, euphoria, hallucinationsPostmarketing reports: Restlessness, psychotic disorder and depression with self-endangering behavior (including suicidal ideation, suicide attempt), suicidal thoughts or acts, disorientation, paranoia, phobia, aggressiveness/hostility, manic reaction, emotional lability[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Floxin (ofloxacin)." Ortho Pharmaceutical Corporation, Raritan, NJ. 
-3. Guay DR, Opsahl JA, McMahon FG, Vargas R, Matzke GR, Flor S "Safety and pharmacokinetics of muliple doses of intravenous ofloxacin in healthy volunteers." Antimicrob Agents Chemother 36 (1992): 308-12
-4. Todd PA, Faulds D "Ofloxacin: a reappraisal of its antimicrobial activity, pharmacology, and therapeutic use." Drugs 42 (1991): 825-76
-5. Smith JT "Ofloxacin, a bactericidal antibacterial." Chemotherapy 37 (1991): 2-13
-6. Wendel GD, Cox SM, Bawdon RE, Theriot SK, Heard MC, Nobles BJ "A randomized trial of ofloxacin versus cefoxitin and doxycycline in the outpatients treatment of acute salpingitis." Am J Obstet Gynecol 164 (1991): 1390-6
-7. Basista MP "Randomized study to evaluate efficacy and safety of ofloxacin vs trimethoprim and sulfamethoxazole in treatment of uncomplicated urinary tract infection." Urology 37 (1991): 21-7
-8. Marchbanks CR, Dudley MN, Flor S, Beals B "Pharmacokinetics and safety of single rising doses of ofloxacin in healthy volunteers." Pharmacotherapy 12 (1992): 45-9
-9. Tack KJ, Smith JA "The safety profile of ofloxacin." Am J Med 87 (1989): s78-81
-10. Giamarellou H, Tsagarakis J "Efficacy and tolerance of oral ofloxacin in treating various infections." Drugs 34 (1987): 119-23
-11. Dan M, Samra Z "Clostridium difficile colitis associated with ofloxacin therapy." Am J Med 87 (1989): 479
-12. Fostini R, Girelli M, Dalle VP, Benedetti M, Recchia G "Safety profile of ofloxacin in elderly patients." Drugs Exp Clin Res 14 (1988): 393-5
-13. Kohler RB, Arkins N, Tack KJ "Accidental overdose of intravenous ofloxacin with benign outcome." Antimicrob Agents Chemother 35 (1991): 1239-40
-14. Walton GD, Hon JK, Mulpur TG "Ofloxacin-induced seizure." Ann Pharmacother 31 (1997): 1475-7
-15. Cohen JS "Peripheral neuropathy associated with fluoroquinolones." Ann Pharmacother 35 (2001): 1540-7
-16. Getenet JC, Croisile B, Vighetto A, et al. "Idiopathic intracranial hypertension after ofloxacin treatment." Acta Neurol Scand 87 (1993): 503-4
-17. Traeger SM, Bonfiglio MF, Wilson JA, Martin BR, Nackes NA "Seizures associated with ofloxacin therapy." Clin Infect Dis 21 (1995): 1504-6
-18. Fennig S, Mauas L "Ofloxacin-induced delirium." J Clin Psychiatry 53 (1992): 137-8
-19. Thomas RJ, Regan DR "Association of a tourette-like syndrome with ofloxacin." Ann Pharmacother 30 (1996): 138-41
-20. Unseld E, Ziegler G, Gemeinhardt A, Janssen U, Klotz U "Possible interaction of fluoroquinolones with benzodiazepine-GABA-receptorn complex." Br J Clin Pharmacol 30 (1990): 63-70
-21. Carro PG, Huidobro MLL, Zabala AP, Vicente EM "Fatal subfulminant hepatic failure with ofloxacin." Am J Gastroenterol 95 (2000): 1606
-22. Hofer T, Becker EW, Weigand K, Berg PA "Demonstration of sensititzed lymphocytes to trimethoprim/sulfamethoxazole and ofloxacin in a patient with cholestatic hepatitis." J Hepatol 15 (1992): 262-3
-23. Blum A "Ofloxacin-induced acute severe hepatitis." South Med J 84 (1991): 1158
-24. Huminer D, Cohen JD, Majadla R, Dux S "Hypersensitivity vasculitis due to ofloxacin." Br Med J 299 (1989): 303
-25. Pace JL, Gatt P "Fatal vasculitis associated with ofloxacin." BMJ 299 (1989): 658
-26. Khaliq Y,  Zhanel GG "Fluoroquinolone-Associated Tendinopathy: A Critical Review of the Literature." Clin Infect Dis 36 (2003): 1404-1410
-27. Baril L, Maisonobe T, JassonMolinier M, Haroche J, Bricaire F, Caumes E "Acute rhabdomyolysis during treatment with ofloxacin - A case report." Clin Infect Dis 29 (1999): 1598-9
-28. Frothingham R "Rates of torsades de pointes associated with ciprofloxacin, ofloxacin, levofloxacin, gatifloxacin, and moxifloxacin." Pharmacotherapy 21 (2001): 1468-72
-29. Owens RC Jr,  Ambrose PG "Torsades de pointes associated with fluoroquinolones." Pharmacotherapy 22 (2002): 663-8; discussion 668-72
-30. Berger RE "Rates of torsades de pointes associated with ciprofloxacin, ofloxacin, levofloxacin, gatifloxacin, and moxifloxacin." J Urol 174 (2005): 165
-31. Briasoulis A,  Agarwal V,  Pierce WJ "QT Prolongation and Torsade de Pointes Induced by Fluoroquinolones: Infrequent Side Effects from Commonly Used Medications." Cardiology 120 (2011): 103-110
-32. Tsuda S, Kato K, Karashima T, Inou YH, Sasai Y "Toxic pustuloderma induced by ofloxacin." Acta Derm Venereol 73 (1993): 382-4
-33. Melde SL "Ofloxacin: a probable cause of toxic epidermal necrolysis." Ann Pharmacother 35 (2001): 1388-90
-34. Maunz G, Conzett T, Zimmerli W "Cutaneous vasculitis associated with fluoroquinolones." Infection 37 (2009): 466-8
-35. Bharani A,  Kumar H "Diabetes inspidus induced by ofloxacin." BMJ 323 (2001): 547
-Not all side effects for Floxin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+This drug was generally well tolerated, and side effects were mild in nature.  In clinical trials, 11% of patients experienced side effects.  Therapy was discontinued due to side effects in 4% of patients.
+Common (1% to 10%): Nausea, diarrhea, vomiting, abdominal pain and cramps, dry mouth, flatulence, gastrointestinal distress, constipationUncommon (0.1% to 1%): Abdominal painRare (0.01% to 0.1%): Enterocolitis (sometimes hemorrhagic)Frequency not reported: DyspepsiaPostmarketing reports: Pseudomembranous colitis, gastrointestinal hemorrhage, intestinal perforation, hiccough, pyrosis, painful oral mucosa, pancreatitis, stomatitis
+The onset of pseudomembranous colitis symptoms has been reported during or after antimicrobial therapy.Dyspepsia, flatulence, and constipation have also been reported during postmarketing experience.  According to some authorities, pseudomembranous colitis was reported very rarely.
+Seizures were more likely to occur in elderly patients and in patients with renal dysfunction.Cases of sensory or sensorimotor axonal polyneuropathy (affecting small and/or large axons) resulting in paresthesias, hypoesthesias, dysesthesias, and weakness have been reported.A survey reported 6 cases of peripheral neuropathy associated with this drug.  In 1 case, a 49-year-old female developed diffuse numbness, "pins and needles" sensation, burning pain, memory loss, visual impairment, joint pain, palpitations, altered sense of smell, insomnia, tinnitus, and severe panic attacks, with some symptoms persisting after 3 years.Disturbances of taste, smell, hearing, and equilibrium were usually reversible after the drug was stopped.Syncope and tremor have also been reported during postmarketing experience.  According to some authorities, peripheral sensory neuropathy, peripheral sensory motor neuropathy, and convulsion were reported very rarely.
+Common (1% to 10%): Headache, dizziness, dysgeusia, somnolenceUncommon (0.1% to 1%): VertigoRare (0.01% to 0.1%): Paresthesia, parosmiaVery rare (less than 0.01%): Extrapyramidal symptoms or other disorders of muscular coordination, tinnitus, hearing lossFrequency not reported: Seizures, cognitive change, syncope, tremor, decreased hearing acuity, sensory axonal polyneuropathy, sensorimotor axonal polyneuropathy, idiopathic intracranial hypertensionPostmarketing reports: Peripheral neuropathy (may be irreversible), peripheral sensory neuropathy, convulsion, peripheral sensory motor neuropathy, ataxia, incoordination, exacerbation of myasthenia gravis, exacerbation of extrapyramidal disorders, dysphasia, lightheadedness, taste disturbance, smell disturbance, hearing disturbance, equilibrium disturbance, dyskinesia, ageusia, hearing impaired
+Common (1% to 10%): Increased serum creatinine, increased BUNVery rare (less than 0.01%): Acute renal failureFrequency not reported: Nephrogenic diabetic insipidusPostmarketing reports: Renal calculi, renal failure, interstitial nephritis, acute interstitial nephritis
+Common (1% to 10%): Elevated AST, elevated ALTRare (0.01% to 0.1%): Elevated liver enzymes (ALT, AST, LDH, GGT, alkaline phosphatase), elevated blood bilirubinVery rare (less than 0.01%): Cholestatic jaundicePostmarketing reports: Hepatic dysfunction (including hepatic necrosis, jaundice [cholestatic or hepatocellular], hepatitis [including severe cases]), hepatic failure (including fatal cases), elevated liver function tests (including GGT, LDH, bilirubin), severe liver injury (including acute liver failure [sometimes fatal])
+Severe liver injury (including cases of acute liver failure [sometimes fatal]) has been reported, primarily in patients with underlying liver disorders.
+Anemia (including hemolytic), leukopenia, and thrombocytopenia have also been reported during postmarketing experience.
+Common (1% to 10%): Anemia, leukopenia, leukocytosis, neutropenia, neutrophilia, increased band forms, lymphocytopenia, eosinophilia, lymphocytosis, thrombocytopenia, thrombocytosis, elevated erythrocyte sedimentation rateVery rare (less than 0.01%): Hemolytic anemiaPostmarketing reports: Aplastic anemia, hemorrhage, pancytopenia, agranulocytosis, reversible bone marrow depression, thrombotic thrombocytopenic purpura, petechiae, prothrombin time prolongation, ecchymosis/bruising, bone marrow failure
+IV formulation:-Common (1% to 10%): Injection site reactions (including phlebitis, swelling, erythema, pain)
+Rare (0.01% to 0.1%): TendinitisVery rare (less than 0.01%): Arthralgia, myalgia, tendon rupture (e.g., Achilles tendon)Postmarketing reports: Muscular weakness, rhabdomyolysis, myopathy, muscle tear, muscle rupture, ligament rupture, arthritis
+Tendinitis and tendon rupture have also been reported during postmarketing experience.  Tendon rupture (sometimes bilateral) has been reported within 48 hours of starting therapy.
+Torsades de pointes were reported primarily in patients with risk factors for QT prolongation.  This drug was associated with 2 cases of torsades de pointes reported to the US FDA between 1996 and 2001.Tachycardia has also been reported during postmarketing experience.  Tachycardia and hypotension have occurred during IV infusion (during postmarketing experience); in very rare cases, such a decrease in blood pressure has been severe.
+Rare (0.01% to 0.1%): Tachycardia, hypotensionFrequency not reported: Cardiac arrest, hypertension, palpitations, vasodilationPostmarketing reports: Cerebral thrombosis, hypotension/shock, ventricular arrhythmias, ECG QT prolonged, torsades de pointes
+According to some authorities, anaphylactic reaction and anaphylactoid reaction were reported rarely and anaphylactic shock and anaphylactoid shock were reported very rarely.
+Postmarketing reports: Anaphylactic reactions/shock, anaphylactoid reactions/shock, serum sickness
+Hematuria has also been reported during postmarketing experience.Crystalluria and cylindruria have been reported with other quinolones.
+Common (1% to 10%): External genital pruritus in women, vaginitis, vaginal discharge, glucosuria, proteinuria, alkalinuria, hyposthenuria, hematuria, pyuriaFrequency not reported: Dysuria; urinary frequency; urinary retention; dysmenorrhea; menorrhagia; metrorrhagia; burning, irritation, pain, and rash of the female genitaliaPostmarketing reports: Vaginal candidiasis, albuminuria, candiduria, anuria, polyuriaQuinolones:-Frequency not reported: Crystalluria, cylindruria
+Common (1% to 10%): Rash, pruritusRare (0.01% to 0.1%): Urticaria, hyperhidrosis, pustular rashVery rare (less than 0.01%): Erythema multiforme, toxic epidermal necrolysis, drug eruption, vascular purpura, vasculitis (sometimes leading to skin necrosis)Frequency not reported: Angioedema, diaphoresisPostmarketing reports: Hyperpigmentation, Stevens-Johnson syndrome, erythema nodosum, exfoliative dermatitis, photosensitivity/phototoxicity reaction, vesiculobullous eruption, purpura, acute generalized exanthematous pustulosis, drug rash
+A 75-year-old male developed toxic epidermal necrolysis and died of complications after receiving a total of 23.6 g of this drug orally over 51 days.Angioedema, erythema multiforme, and toxic epidermal necrolysis have also been reported during postmarketing experience.  According to some authorities, angioedema was reported rarely and photosensitivity was reported very rarely.
+Common (1% to 10%): Visual disturbancesUncommon (0.1% to 1%): Eye irritationFrequency not reported: PhotophobiaPostmarketing reports: Diplopia, nystagmus, blurred vision, conjunctivitis, uveitisQuinolones:-Frequency not reported: Ophthalmologic abnormalities (including cataracts, multiple punctate lenticular opacities)
+Ophthalmologic abnormalities (including cataracts and multiple punctate lenticular opacities) have been reported with other quinolones.
+Asthenia has also been reported during postmarketing experience.
+Common (1% to 10%): Fatigue, chest pain, fever, trunk pain, elevated alkaline phosphataseUncommon (0.1% to 1%): Fungal infection, pathogen resistanceRare (0.01% to 0.1%): Hot flushesFrequency not reported: Asthenia, chills, malaise, edema, extremity pain, pain, thirst, weight lossPostmarketing reports: Elevated serum triglycerides, elevated serum cholesterol, elevated serum potassium, pyrexia, pain (including back, chest, extremities)
+Dyspnea (including severe dyspnea) and bronchospasm have also been reported during postmarketing experience.
+Common (1% to 10%): PharyngitisUncommon (0.1% to 1%): Cough, nasopharyngitisRare (0.01% to 0.1%): Dyspnea, bronchospasmFrequency not reported: Respiratory arrest, rhinorrhea, epistaxisPostmarketing reports: Allergic pneumonitis, pulmonary edema, stridor
+Common (1% to 10%): Decreased appetite, hyperglycemia, hypoglycemiaRare (0.01% to 0.1%): AnorexiaPostmarketing reports: Acidosis, hypoglycemic coma, porphyria attacks
+Hyperglycemia and hypoglycemia (especially in diabetic patients on insulin or oral hypoglycemic agents) have also been reported during postmarketing experience.  Attacks of porphyria have been reported in patients with porphyria.
+In 1 patient, a psychotic reaction to this drug presented with irritability, restlessness, insomnia, and irrational fear.  The reaction was treated with haloperidol and resolved within 48 hours.  One study suggests that the central nervous system effects of quinolones may be due to an interaction with the benzodiazepine-gamma-aminobutyric acid receptor complex and may be controlled by benzodiazepine administration.Agitation, nervousness, psychotic reactions, and nightmares have also been reported during postmarketing experience.
+Common (1% to 10%): Insomnia, nervousness, sleep disordersUncommon (0.1% to 1%): AgitationRare (0.01% to 0.1%): Anxiety, depression, confusional state, psychotic disorder/reactions (e.g., hallucination), nightmaresFrequency not reported: Dream abnormality, euphoria, hallucinationsPostmarketing reports: Restlessness, psychotic disorder and depression with self-endangering behavior (including suicidal ideation, suicide attempt), suicidal thoughts or acts, disorientation, paranoia, phobia, aggressiveness/hostility, manic reaction, emotional lability
 Abdominal or stomach pain
 anxiety
 black, tarry stools
@@ -128,8 +83,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 voice changes
 vomiting
-
-
 Burning while urinating
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 change in color vision
@@ -183,8 +136,6 @@ trouble concentrating
 trouble performing routine tasks
 trouble sleeping
 unconsciousness
-
-
 Abdominal or stomach tenderness
 actions that are out of control
 back, leg, or stomach pains
@@ -277,12 +228,9 @@ vomiting of blood or material that looks like coffee grounds
 weakness in the arms, hands, legs, or feet
 weight gain
 yellowing of the eyes or skin
-
-
 Change in taste
 excess air or gas in the stomach or intestines
 full feeling
 loss of taste
 passing gas
 runny nose
-

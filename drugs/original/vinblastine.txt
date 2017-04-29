@@ -1,51 +1,33 @@
-Applies to vinblastine: intravenous powder for solution, intravenous solution
 Along with their needed effects, medicines like vinblastine can sometimes cause unwanted effects such as blood problems, loss of hair, and other side effects. These and other effects are described below. Also, because of the way these medicines act on the body, there is a chance that they might cause other unwanted effects that may not occur until months or years after the medicine is used. These delayed effects may include certain types of cancer, such as leukemia. Discuss these possible effects with your doctor.
 Although not all of these side effects may occur, if they do occur they may need medical attention.
 If any of the following side effects occur while taking vinblastine, check with your doctor immediately:
 If any of the following side effects occur while taking vinblastine, check with your doctor or nurse as soon as possible:
 Some vinblastine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 This medicine often causes a temporary loss of hair. After treatment with vinblastine has ended, or sometimes even during treatment, normal hair growth should return.
-
-
-Applies to vinblastine: intravenous powder for injection, intravenous solution
-Leukopenia, the most common adverse reaction, is usually the dose-limiting factor.  Septicemia associated with leukopenia has been reported.  Anemia and thrombocytopenia have been reported infrequently.[Ref]
-Another possible dose limiting adverse reaction is leukemia, which has been reported following radiation and vinblastine used in combination with agents known to intercalate with DNA.[Ref]
-A common dermatologic side effect is alopecia.  A case of light sensitivity has also been reported.[Ref]
-When alopecia has developed, it has frequently not been total.  In some cases, hair has regrown while maintenance therapy was continued.[Ref]
-The nausea and vomiting caused by vinblastine is usually easily controlled by antiemetic agents.[Ref]
-Gastrointestinal side effects including constipation, anorexia, nausea, vomiting, abdominal pain, ileus, stomatitis, vesiculation of the mouth, pharyngitis, diarrhea, hemorrhagic enterocolitis, bleeding from an old peptic ulcer, and rectal bleeding have been reported.[Ref]
-Nervous system side effects are dose related and are rare with standard dosages.  Side effects including paresthesias (generally of fingers), loss of deep tendon reflexes, peripheral neuritis, mental depression, headache, and convulsions have been reported.  Vestibular and auditory damage to the eighth cranial nerve has been reported rarely in patients treated with vinca alkaloids.  Manifestations include deafness and difficulties with balance including dizziness, nystagmus, and vertigo.  (Caution is advised if vinblastine is used in combination with other ototoxic agents.)[Ref]
-Myocardial infarction, cerebrovascular accidents and Raynaud's phenomenon have been reported in patients receiving combination chemotherapy (which also included bleomycin and cisplatin).  Orthostatic hypotension and pericarditis have also been reported.[Ref]
-Progressive dyspnea requiring chronic therapy may occur.[Ref]
-Pulmonary dysfunction including acute shortness of breath and severe bronchospasm have been reported following the administration of vinca alkaloids (most frequently when used in combination with mitomycin-c).  Pulmonary edema has rarely been reported.[Ref]
-Other effects including malaise, bone pain, weakness, pain in tumor-containing tissue, dizziness, jaw pain, myalgia, rhabdomyolysis, urinary retention, skin vesiculation, ototoxicity, and the syndrome of inappropriate secretion of antidiuretic hormone have been reported.  Amenorrhea and azoospermia have been reported in patients receiving combination chemotherapy (which also included an alkylating agent, procarbazine, and prednisone).[Ref]
-1. "Product Information. Velban (vinblastine)." Lilly, Eli and Company, Indianapolis, IN. 
-2. Young JA, Howell SB, Green MR "Pharmacokinetics and toxicity of 5-day continuous infusion of vinblastine." Cancer Chemother Pharmacol 12 (1984): 43-5
-3. Chong CD  Logothetis CJ  Savaraj N  Fritsche HA  Gietner AM  Samuels ML "The correlation of vinblastine pharmacokinetics to toxicity in  testicular cancer patients." J Clin Pharmacol 28 (1988): 714-8
-4. Neville AJ  Rand CA  Barr RD "Vinblastine-induced erythrocytotoxicity." Scand J Haematol 28 (1982): 32-8
-5. Moss PE, Hickman S, Harrison BR "Ototoxicity associated with vinblastine." Ann Pharmacother 33 (1999): 423-5
+Leukopenia, the most common adverse reaction, is usually the dose-limiting factor.  Septicemia associated with leukopenia has been reported.  Anemia and thrombocytopenia have been reported infrequently.
+Another possible dose limiting adverse reaction is leukemia, which has been reported following radiation and vinblastine used in combination with agents known to intercalate with DNA.
+A common dermatologic side effect is alopecia.  A case of light sensitivity has also been reported.
+When alopecia has developed, it has frequently not been total.  In some cases, hair has regrown while maintenance therapy was continued.
+The nausea and vomiting caused by vinblastine is usually easily controlled by antiemetic agents.
+Gastrointestinal side effects including constipation, anorexia, nausea, vomiting, abdominal pain, ileus, stomatitis, vesiculation of the mouth, pharyngitis, diarrhea, hemorrhagic enterocolitis, bleeding from an old peptic ulcer, and rectal bleeding have been reported.
+Nervous system side effects are dose related and are rare with standard dosages.  Side effects including paresthesias (generally of fingers), loss of deep tendon reflexes, peripheral neuritis, mental depression, headache, and convulsions have been reported.  Vestibular and auditory damage to the eighth cranial nerve has been reported rarely in patients treated with vinca alkaloids.  Manifestations include deafness and difficulties with balance including dizziness, nystagmus, and vertigo.  (Caution is advised if vinblastine is used in combination with other ototoxic agents.)
+Myocardial infarction, cerebrovascular accidents and Raynaud's phenomenon have been reported in patients receiving combination chemotherapy (which also included bleomycin and cisplatin).  Orthostatic hypotension and pericarditis have also been reported.
+Progressive dyspnea requiring chronic therapy may occur.
+Pulmonary dysfunction including acute shortness of breath and severe bronchospasm have been reported following the administration of vinca alkaloids (most frequently when used in combination with mitomycin-c).  Pulmonary edema has rarely been reported.
+Other effects including malaise, bone pain, weakness, pain in tumor-containing tissue, dizziness, jaw pain, myalgia, rhabdomyolysis, urinary retention, skin vesiculation, ototoxicity, and the syndrome of inappropriate secretion of antidiuretic hormone have been reported.  Amenorrhea and azoospermia have been reported in patients receiving combination chemotherapy (which also included an alkylating agent, procarbazine, and prednisone).
 It is possible that some side effects of vinblastine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Cough or hoarseness accompanied by fever or chills
 fever or chills
 lower back or side pain accompanied by fever or chills
 painful or difficult urination accompanied by fever or chills
-
-
 Blood in urine or stools
 pain or redness at place of injection
 pinpoint red spots on skin 
 unusual bleeding or bruising
-
-
 Black, tarry stools
-
-
 Joint pain
 sores in mouth and on lips 
 swelling of feet or lower legs
-
-
 Difficulty in walking
 dizziness
 double vision
@@ -57,8 +39,5 @@ numbness or tingling in fingers and toes
 pain in fingers and toes
 pain in testicles
 weakness
-
-
 Bone or muscle pain
 nausea and vomiting 
-

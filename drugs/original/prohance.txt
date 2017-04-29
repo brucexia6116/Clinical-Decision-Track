@@ -1,26 +1,18 @@
-Generic Name: gadoteridol
-Applies to gadoteridol: intravenous solution
 As well as its needed effects, gadoteridol (the active ingredient contained in Prohance) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking gadoteridol, check with your doctor or nurse immediately:
 Some gadoteridol side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to gadoteridol: injectable solution
-Cardiovascular side effects have included prolonged P-R Interval, hypotension, elevated heart rate, A-V nodal rhythm, cardiac arrest, bradycardia, hypertension, and death in association with pre-existing cardiovascular disorders.[Ref]
-Respiratory side effects have included dyspnea, rhinitis, cough, apnea, and wheezing.[Ref]
-Other side effects have included voice alteration; transitory deafness and tinnitus.[Ref]
-Nervous system side effects have included headache, anxiety, dizziness, paresthesia, mental status decline, loss of coordination in arm, staring episodes, seizure, syncope, stupor, tremor, tingling sensation in extremities and digits, and loss of consciousness.[Ref]
-Hypersensitivity side effects have included anaphylactoid reactions rarely resulting in death.[Ref]
-Dermatologic side effects have included pruritus, rash, macular papular rash, urticaria, hives, itching, sweating, and cyanosis.[Ref]
-Gastrointestinal side effects have included edematous and/or itching tongue, gingivitis dry mouth, loose bowel, vomiting, abdominal cramps, increased salivation, and dysphagia.[Ref]
-General side effects have included facial edema, neck rigidity, pain, chest pain, fever, tingling sensation in throat, laryngismus, flushed feeling, vasovagal reaction, and generalized edema.[Ref]
-Genitourinary side effects have included urinary incontinence.[Ref]
-Local side effects have included pain at injection site and injection site reaction.[Ref]
+Cardiovascular side effects have included prolonged P-R Interval, hypotension, elevated heart rate, A-V nodal rhythm, cardiac arrest, bradycardia, hypertension, and death in association with pre-existing cardiovascular disorders.
+Respiratory side effects have included dyspnea, rhinitis, cough, apnea, and wheezing.
+Other side effects have included voice alteration; transitory deafness and tinnitus.
+Nervous system side effects have included headache, anxiety, dizziness, paresthesia, mental status decline, loss of coordination in arm, staring episodes, seizure, syncope, stupor, tremor, tingling sensation in extremities and digits, and loss of consciousness.
+Hypersensitivity side effects have included anaphylactoid reactions rarely resulting in death.
+Dermatologic side effects have included pruritus, rash, macular papular rash, urticaria, hives, itching, sweating, and cyanosis.
+Gastrointestinal side effects have included edematous and/or itching tongue, gingivitis dry mouth, loose bowel, vomiting, abdominal cramps, increased salivation, and dysphagia.
+General side effects have included facial edema, neck rigidity, pain, chest pain, fever, tingling sensation in throat, laryngismus, flushed feeling, vasovagal reaction, and generalized edema.
+Genitourinary side effects have included urinary incontinence.
+Local side effects have included pain at injection site and injection site reaction.
 Ocular side effects have included watery eyes.
-1. "Product Information. ProHance (gadoteridol)." Bracco Diagnostics Inc, Plainsboro, NJ. 
 It is possible that some side effects of Prohance may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bluish color of the fingernails, lips, skin, palms, or nail beds
 blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -57,12 +49,8 @@ tightness in the chest
 trembling or shaking of the hands or feet
 unconsciousness
 unusual tiredness or weakness
-
-
 Bad, unusual, or unpleasant (after) taste
 nausea
-
-
 Abdominal or stomach cramps
 anxiety
 bleeding gums
@@ -83,4 +71,3 @@ tingling sensation in the throat
 voice changes
 vomiting
 watery eyes
-

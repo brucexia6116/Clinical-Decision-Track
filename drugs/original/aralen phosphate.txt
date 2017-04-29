@@ -1,97 +1,22 @@
-Generic Name: chloroquine
-Applies to chloroquine: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by chloroquine (the active ingredient contained in Aralen Phosphate). In the event that any of these side effects do occur, they may require medical attention. When this medicine is used for short periods of time, side effects usually are rare. However, when it is used for a long time and/or in high doses, side effects are more likely to occur and may be serious.
-In addition to its needed effects, some unwanted effects may be caused by chloroquine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking chloroquine:
-
 If any of the following symptoms of overdose occur while taking chloroquine, get emergency help immediately:
-
-Some of the side effects that can occur with chloroquine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to chloroquine: compounding powder, injectable solution, oral tablet
-Maculopathy and macular degeneration may be irreversible.Irreversible retinal damage has been reported in patients receiving long-term or high-dose 4-aminoquinoline therapy.  Retinopathy has been reported as dose related.[Ref]
-Frequency not reported: Maculopathy; macular degeneration; irreversible retinal damage; retinopathy; double vision; visual disturbances (blurred vision, focusing or accommodation difficulty); decreased visual acuity; color-vision defects; nyctalopia; scotomatous vision with field defects of paracentral, pericentral ring types, and typically temporal scotomas, (e.g., difficulty in reading with words tending to disappear, seeing half an object, misty vision, fog before the eyes); pigmentary retinopathy; corneal deposits; keratopathy; decreased corneal sensitivity; corneal edema; reversible corneal opacities[Ref]
-Rare (less than 0.1%): Exfoliative dermatitis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, similar desquamation-type events (including moist desquamation)Frequency not reported: Pruritus, rashes, pleomorphic skin eruptions, lichen planus-like eruptions, urticaria, generalized exanthematous pustulosis, hair loss, increased and decreased pigmentation of the skin and mucous membranes, bleaching of hair pigment, photosensitivity, exacerbation of psoriasis[Ref]
-Pruritus has been seen more commonly in Africans.  The onset was generally 6 to 48 hours after the first dose and antihistamines may or may not control the pruritus.Increased pigmentation of the skin and mucous membranes was generally of a bluish color; may not be reversible on discontinuation.Several cases of hypopigmentation of the skin have been reported.  Most of the patients described were African or of African descent with dark skin who had been exposed to the sun.  One was a Hispanic patient who developed vitiligo-like skin depigmentation after 1 month of chloroquine therapy for cutaneous lupus erythematosus.  The skin rapidly repigmented after discontinuation of chloroquine therapy.At least 2 cases of exacerbation of psoriasis requiring hospitalization have been reported.  Patients with psoriasis should be cautioned about the potential for exacerbation.Generalized exanthematous pustulosis occurred in a patient during combined chloroquine-proguanil therapy.A 12-year-old female developed moist desquamation coincident with chloroquine therapy.  She was diagnosed with a diffuse pontine glioma and considered for direct radiotherapy.  Before the administration of chloroquine, the patient had only a mild skin erythema in the irradiated area, which was consistent with the radiotherapy dose she had received.  On day 3 of chloroquine therapy, she developed localized brisk bullous eruptions in the irradiated area, which developed into a patch of fulminant moist desquamation.  After radiotherapy was withheld for 1 week, the moist desquamation had almost healed.  Chloroquine seemed to be the most probable cause for the adverse event.[Ref]
-Frequency not reported: Neuropsychiatric changes, psychosis, mania, delirium, anxiety, agitation, insomnia, confusion, personality changes, depression, other psychiatric and neurologic disturbances, development of extrapyramidal rigidity, paranoia, hallucinations[Ref]
-Mania has been reported in a patient taking chloroquine for malarial prophylaxis.  These symptoms resolved after discontinuation and recurred with rechallenge.[Ref]
-Frequency not reported: Nausea, vomiting, diarrhea, abdominal pain, abdominal cramps[Ref]
-Frequency not reported: Mild and transient headache, convulsive seizures, polyneuritis, dizziness, nerve type deafness, tinnitus, reduced hearing (in patients with preexisting auditory damage), acute extrapyramidal disorders (e.g., dystonia, dyskinesia, tongue protrusion, torticollis), nonconvulsive status epilepticus/seizures[Ref]
-Myopathies and myasthenia-like syndromes are often reversible following discontinuation or dose reduction.These side effects were seen most often in patients receiving large doses for treatment of lupus or rheumatoid arthritis; however, such reactions have been noted in patients taking therapeutic doses for short periods.  Symptoms often resolved over time with a reduction of the dose or discontinuation of chloroquine (the active ingredient contained in Aralen Phosphate) [Ref]
-Frequency not reported: Skeletal muscle myopathy or neuromyopathy leading to progressive weakness and atrophy of proximal muscle groups (may be associated with mild sensory changes, tendon reflex depression, abnormal nerve conduction), myopathies, myasthenia-like syndromes[Ref]
-Rare (less than 0.1%): Hypotension, cardiomyopathy, electrocardiographic change (particularly, inversion or depression of the T-wave with widening of the QRS complex)Frequency not reported: Cardiac hypertrophy, restrictive cardiomyopathy, congestive heart failure, complete heart block, conduction disorders[Ref]
-Electrocardiographic changes observed included prolongation of the QRS interval and, rarely, complete heart block.  Biopsies of cardiac tissue characteristically showed no inflammatory infiltrates, severe vacuolation, and myocytes containing myeloid bodies and lysosomes.[Ref]
+Maculopathy and macular degeneration may be irreversible.Irreversible retinal damage has been reported in patients receiving long-term or high-dose 4-aminoquinoline therapy.  Retinopathy has been reported as dose related.
+Frequency not reported: Maculopathy; macular degeneration; irreversible retinal damage; retinopathy; double vision; visual disturbances (blurred vision, focusing or accommodation difficulty); decreased visual acuity; color-vision defects; nyctalopia; scotomatous vision with field defects of paracentral, pericentral ring types, and typically temporal scotomas, (e.g., difficulty in reading with words tending to disappear, seeing half an object, misty vision, fog before the eyes); pigmentary retinopathy; corneal deposits; keratopathy; decreased corneal sensitivity; corneal edema; reversible corneal opacities
+Rare (less than 0.1%): Exfoliative dermatitis, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, similar desquamation-type events (including moist desquamation)Frequency not reported: Pruritus, rashes, pleomorphic skin eruptions, lichen planus-like eruptions, urticaria, generalized exanthematous pustulosis, hair loss, increased and decreased pigmentation of the skin and mucous membranes, bleaching of hair pigment, photosensitivity, exacerbation of psoriasis
+Pruritus has been seen more commonly in Africans.  The onset was generally 6 to 48 hours after the first dose and antihistamines may or may not control the pruritus.Increased pigmentation of the skin and mucous membranes was generally of a bluish color; may not be reversible on discontinuation.Several cases of hypopigmentation of the skin have been reported.  Most of the patients described were African or of African descent with dark skin who had been exposed to the sun.  One was a Hispanic patient who developed vitiligo-like skin depigmentation after 1 month of chloroquine therapy for cutaneous lupus erythematosus.  The skin rapidly repigmented after discontinuation of chloroquine therapy.At least 2 cases of exacerbation of psoriasis requiring hospitalization have been reported.  Patients with psoriasis should be cautioned about the potential for exacerbation.Generalized exanthematous pustulosis occurred in a patient during combined chloroquine-proguanil therapy.A 12-year-old female developed moist desquamation coincident with chloroquine therapy.  She was diagnosed with a diffuse pontine glioma and considered for direct radiotherapy.  Before the administration of chloroquine, the patient had only a mild skin erythema in the irradiated area, which was consistent with the radiotherapy dose she had received.  On day 3 of chloroquine therapy, she developed localized brisk bullous eruptions in the irradiated area, which developed into a patch of fulminant moist desquamation.  After radiotherapy was withheld for 1 week, the moist desquamation had almost healed.  Chloroquine seemed to be the most probable cause for the adverse event.
+Frequency not reported: Neuropsychiatric changes, psychosis, mania, delirium, anxiety, agitation, insomnia, confusion, personality changes, depression, other psychiatric and neurologic disturbances, development of extrapyramidal rigidity, paranoia, hallucinations
+Mania has been reported in a patient taking chloroquine for malarial prophylaxis.  These symptoms resolved after discontinuation and recurred with rechallenge.
+Frequency not reported: Nausea, vomiting, diarrhea, abdominal pain, abdominal cramps
+Frequency not reported: Mild and transient headache, convulsive seizures, polyneuritis, dizziness, nerve type deafness, tinnitus, reduced hearing (in patients with preexisting auditory damage), acute extrapyramidal disorders (e.g., dystonia, dyskinesia, tongue protrusion, torticollis), nonconvulsive status epilepticus/seizures
+Myopathies and myasthenia-like syndromes are often reversible following discontinuation or dose reduction.These side effects were seen most often in patients receiving large doses for treatment of lupus or rheumatoid arthritis; however, such reactions have been noted in patients taking therapeutic doses for short periods.  Symptoms often resolved over time with a reduction of the dose or discontinuation of chloroquine (the active ingredient contained in Aralen Phosphate) 
+Frequency not reported: Skeletal muscle myopathy or neuromyopathy leading to progressive weakness and atrophy of proximal muscle groups (may be associated with mild sensory changes, tendon reflex depression, abnormal nerve conduction), myopathies, myasthenia-like syndromes
+Rare (less than 0.1%): Hypotension, cardiomyopathy, electrocardiographic change (particularly, inversion or depression of the T-wave with widening of the QRS complex)Frequency not reported: Cardiac hypertrophy, restrictive cardiomyopathy, congestive heart failure, complete heart block, conduction disorders
+Electrocardiographic changes observed included prolongation of the QRS interval and, rarely, complete heart block.  Biopsies of cardiac tissue characteristically showed no inflammatory infiltrates, severe vacuolation, and myocytes containing myeloid bodies and lysosomes.
 Frequency not reported: Anaphylactic/anaphylactoid reaction (including angioedema), drug rash with eosinophilia and systemic symptoms (DRESS syndrome)
-Frequency not reported: Anorexia, hypokalemia associated with acute ingestion, hypercalcemia associated with sarcoidosis[Ref]
-The usefulness of hypokalemia as an indicator in the evaluation of chloroquine toxicity was studied in a retrospective series of 191 acute chloroquine poisonings.  Results indicated that the risk of severe poisoning and death are proportional to the degree of hypokalemia.Hypercalcemia associated with sarcoidosis has been corrected within days after the use of chloroquine.[Ref]
-Rare (less than 0.1%): Pancytopenia, aplastic anemia, reversible agranulocytosis, thrombocytopenia, neutropenia[Ref]
-Frequency not reported: Hepatitis, elevated liver enzymes, hepatotoxicity (in a patient with porphyria cutanea tarda)[Ref]
-Frequency not reported: Pain at site of IM injections which lasted 15 minutes to 2 hours[Ref]
-1. Ehrenfeld M, Nesher R, Merin S "Delayed-onset chloroquine retinopathy." Br J Ophthalmol 70 (1986): 281-3
-2. Freedman DO "Clinical practice. Malaria prevention in short-term travelers." N Engl J Med 359 (2008): 603-12
-3. Thorogood N,  Atwal S,  Mills W, et al. "The risk of antimalarials in patients with renal failure." Postgrad Med J 83 (2007): e8
-4. Sassani JW, Brucker AJ, Cobbs W, Campbell C "Progressive chloroquine retinopathy." Ann Ophthalmol 15 (1983): 19-22
-5. Frisk-Holmberg M, Bergkvist Y, Domeij-Nyberg B, et al "Chloroquine serum concentration and side effects: evidence for dose-dependent kinetics." Clin Pharmacol Ther 25 (1979): 345-50
-6. Craig GL, Buchanan WW "Antirheumatic drugs: clinical pharmacology and therapeutic use." Drugs 20 (1980): 453-84
-7. Puavilai S, Kunavisarut S, Vatanasuk M, Timpatanapong P, Sriwong ST, Janwitayanujit S, Nantiruj K, Totemchokchyakarn K, Ruangkanchana "Ocular toxicity of chloroquine among Thai patients." Int J Dermatol 38 (1999): 934-7
-8. Goldstein JH "Effects of drugs on cornea, conjunctiva, and lids." Int Ophthalmol Clin 11 (1971): 13-34
-9. Tonnesmann E,  Stroehmann I,  Kandolf R, et al. "Cardiomyopathy caused by longterm treatment with chloroquine: a rare disease, or  a rare diagnosis?" J Rheumatol 39 (2012): 1099-103
-10. Schlagenhauf P,  Tschopp A,  Johnson R, et al. "Tolerability of malaria chemoprophylaxis in non-immune travellers to sub-Saharan Africa: multicentre, randomised, double blind, four arm study." BMJ 327 (2003): 1078
-11. Okor RS "Onset of pruritogenicity of chloroquine and the implication for the timing of suppressive therapy." J Clin Pharm Ther 16 (1991): 463-5
-12. Rustogi A,  Munshi A,  Jalali R "Unexpected skin reaction induced by radiotherapy after chloroquine use." Lancet Oncol 7 (2006): 608-9
-13. Olatunde IA "Chloroquine concentrations in the skin of rabbits and man." Br J Clin Pharmacol 43 (1971): 335-40
-14. Van Weelden HV, Bolling HH, De La Faille HB, et al "Photosensitivity caused by chloroquine." Arch Dermatol 118 (1982): 290
-15. Spencer HC, Poulter NR, Lury JD, Poulter CJ "Chloroquine-associated pruritus in a European." Br Med J 285 (1982): 1703-4
-16. Janier M, Froidevaux D, LonsDanic D, Daniel F "Acute generalized exanthematous pustulosis due to the combination of chloroquine and proguanil." Dermatology 196 (1998): 271
-17. Martin-Garcia RF,  Camacho Ndel R,  Sanchez JL "Chloroquine-induced, vitiligo-like depigmentation." J Am Acad Dermatol 48 (2003): 981-3
-18. Selvaag E "Chloroquine-induced vitiligo - a case report and review of the literature." Acta Derm Venereol 76 (1996): 166-7
-19. Boffa MJ, Chalmers RJG "Toxic epidermal necrolysis due to chloroquine phosphate." Br J Dermatol 131 (1994): 444-5
-20. Mallett R "Risks and benefits of prophylactic antimalarial drugs." Br Med J 299 (1989): 1400
-21. Ajayi AA, Akinleye AO, Udoh SJ, et al "The effects of prednisolone and niacin on chloroquine-induced pruritis in malaria." Eur J Clin Pharmacol 41 (1991): 383-5
-22. Levy H "Chloroquine-induced pigmentation." S Afr Med J 62 (1982): 735-7
-23. Vestey JP, Savin JA "Psoriasis worsened by antimalarial prophylaxis." J Infect 24 (1992): 211-2
-24. Bakshi R,  Hermeling-Fritz I,  Gathmann I,  Alteri E "An integrated assessment of the clinical safety of artemether-lumefantrine: a new oral fixed-dose combination antimalarial drug." Trans R Soc Trop Med Hyg 94 (2000): 419-24
-25. Donovan JC,  Price VH "Images in clinical medicine. Chloroquine-induced hair hypopigmentation." N Engl J Med 363 (2010): 372
-26. Ezeamuzie IC,  Igbigbi PS,  Ambakederemo AW,  Abila B,  Nwaejike IN "Halofantrine-induced pruritus amongst subjects who itch to chloroquine." J Trop Med Hyg 94 (1991): 184-8
-27. Wilairatana P, Looareesuwan S, Riganti M, TejaIsavadharm P, Keeratithakul D, Eickmeyer S, Walsh DS "Pustular eruption in a malaria patient treated with chloroquine." Int J Dermatol 37 (1998): 713-4
-28. Olsen TG "Chloroquine and psoriasis." Ann Intern Med 94 (1981): 546-7
-29. Lovestone S "Chloroquine-induced mania." Br J Psychiatry 159 (1991): 164-5
-30. Telgt DS,  van der Ven AJ,  Schimmer B,  Droogleever-Fortuyn HA,  Sauerwein RW "Serious psychiatric symptoms after chloroquine treatment following experimental malaria infection." Ann Pharmacother 39 (2005): 551-4
-31. Akhtar S, Mukherjee S "Chloroquine induced mania." Int J Psychiatry Med 23 (1993): 349-56
-32. Singh RP, Sinha AK "Neuropsychiatric toxicity of chlorquine." J Indian Med Assoc 77 (1981): 133-4
-33. Mohan D, Mohandas E, Rajat R "Chloroquine psychosis: a chemical psychosis?" J Natl Med Assoc 73 (1981): 1073-6
-34. Cooper RG "Chloroquine should be used with care in mental health disorders." Indian J Physiol Pharmacol 52 (2008): 97-8
-35. Liu AC "Hepatotoxic reaction to chloroquine phosphate in a patient with previously unrecognized porphyria cutanea tarda." West J Med 162 (1995): 548-51
-36. Genovese MC,  Becker JC,  Schiff M, et al. "Abatacept for rheumatoid arthritis refractory to tumor necrosis factor alpha inhibition." N Engl J Med 353 (2005): 1114-23
-37. Bhasin DK, Chhina RS, Sachdeva JR "Endoscopic assessment of chloroquine phosphate-induced damage to esophageal, gastric, and duodenal mucosa." Am J Gastroenterol 86 (1991): 434-7
-38. Benbadis SR, Vanness PC "Chloroquine and nonconvulsive status epilepticus." Ann Intern Med 124 (1996): 614
-39. "Product Information. Aralen (chloroquine)." Sanofi Winthrop Pharmaceuticals, New York, NY. 
-40. Mulhauser P, Allemann Y "Chloroquine and nonconvulsive status epilepticus." Ann Intern Med 123 (1995): 76-7
-41. Robberecht W, Bednarik J, Bourgeois P, et al "Myasthenic syndrome caused by direct effect of chloroquine on neuromuscular junction." Arch Neurol 46 (1989): 464-8
-42. Wasay M, Wolfe GI, Herrold JM, Burns DK, Barohn RJ "Chloroquine myopathy and neuropathy with elevated CSF protein." Neurology 51 (1998): 1226-7
-43. Parodi A, Regesta G, Rebora A "Chloroquine-induced neuromyopathy." Dermatologica 171 (1985): 203-5
-44. Nucci A, Queiroz LS, Samara AM "Chloroquine neuromyopathy." Clin Neuropathol 15 (1996): 256-8
-45. Hearn J, Tiliakos NA "Myasthenia gravis caused by pencillamine and chloroquine therapy for rheumatoid arthritis." South Med J 79 (1986): 1185-6
-46. Avinazubieta JA, Johnson ES, Suarezalmazor ME, Russell AS "Incidence of myopathy in patients treated with antimalarials. a report of three cases and a review of the literature." Br J Rheumatol 34 (1995): 166-70
-47. Schirlanzoni A, Mantegazza R, Mora M, et al "Chloroquine myopathy and myasthenia-like syndrome." Muscle Nerve 11 (1988): 114-9
-48. Estes ML, Wing-Wilson D, Chou SM, et al "Chloroquine neuromyotoxicity." Am J Med 82 (1987): 447-55
-49. Costedoat-Chalumeau N,  Hulot JS,  Amoura Z, et al. "Cardiomyopathy Related to Antimalarial Therapy with Illustrative Case Report." Cardiology 107 (2006): 73-80
-50. McAllister HA Jr, Ferrans VJ, Hall RJ et al "Cholorquine-induced cardiomyopathy." Arch Pathol Lab Med 111 (1987): 953-6
-51. Looareesuwan S, White NJ, Chanthavanich P, et al "Cardiovascular toxicity and distribution kinetics of intravenous chloroquine." Br J Clin Pharmacol 22 (1986): 31-6
-52. Ratliff NB, Este ML, Myles JL, et al "Diagnosis of chloroquine cardiomyopathy by endomyocardial biopsy." N Engl J Med 316 (1987): 191-3
-53. Baguet JP, Tremel F, Fabre M "Chloroquine cardiomyopathy with conduction disorders." Heart 81 (1999): 221-3
-54. Iglesias Cubero G, Rodriguez Reguero JJ, Rojo Ortega JM "Restrictive cardiomyopathy caused by chloroquine." Br Heart J 69 (1993): 451-2
-55. Veinot JP, Mai KT, Zarychanski R "Chloroquine related cardiac toxicity." J Rheumatol 25 (1998): 1221-5
-56. ReussBorst M, Berner B, Wulf G, Muller GA "Complete heart block as a rare complication of treatment with chloroquine." J Rheumatol 26 (1999): 1394-5
-57. Buchanan N "Hypokalaemia and acute chloroquine ingestion." Lancet 347 (1996): 404
-58. Clemessy JL, Borron SW, Baud FJ "Hypokalaemia and acute chloroquine ingestion - reply." Lancet 347 (1996): 404-5
-59. Angel G, Berthelot PG, Rogier C "Hypokalaemia related to acute chloroquine poisoning." Lancet 346 (1995): 1625
-60. Adams JS,  Diz MM,  Sharma OP "Effective reduction in the serum 1,25-dihydroxyvitamin D and calcium concentration in sarcoidosis-associated hypercalcemia with short-course chloroquine therapy." Ann Intern Med 111 (1989): 437-8
-61. Winkelman RK, Merwin CF, Brunsting LA "Antimalarial therapy of lupus erythematosus." Ann Intern Med 55 (1961): 772-6
-62. Polano MK, Cats A, van Olden GAJ "Agranulocytosis following treatment with hydroxychloroquine sulphate." Lancet 1 (1965): 1275
-Not all side effects for Aralen Phosphate may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Anorexia, hypokalemia associated with acute ingestion, hypercalcemia associated with sarcoidosis
+The usefulness of hypokalemia as an indicator in the evaluation of chloroquine toxicity was studied in a retrospective series of 191 acute chloroquine poisonings.  Results indicated that the risk of severe poisoning and death are proportional to the degree of hypokalemia.Hypercalcemia associated with sarcoidosis has been corrected within days after the use of chloroquine.
+Rare (less than 0.1%): Pancytopenia, aplastic anemia, reversible agranulocytosis, thrombocytopenia, neutropenia
+Frequency not reported: Hepatitis, elevated liver enzymes, hepatotoxicity (in a patient with porphyria cutanea tarda)
+Frequency not reported: Pain at site of IM injections which lasted 15 minutes to 2 hours
 Black, tarry stools
 bleeding gums
 blistering, peeling, or loosening of the skin
@@ -125,8 +50,6 @@ swollen or painful glands
 tightness in the chest
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Blurred vision or any other change in vision
 change in near or distance vision
 continuing ringing or buzzing or other unexplained noise in the ears
@@ -158,8 +81,6 @@ twitching, twisting, or uncontrolled repetitive movements of the tongue, lips, f
 uncontrolled movements, especially of the face, neck, and back
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Chest discomfort
 cold clammy skin
 decreased urine
@@ -174,15 +95,10 @@ loss of appetite
 muscle pain or cramps
 numbness or tingling in the hands, feet, or lips
 sweating
-
-
 Change in hair color
 hair loss
 increased sensitivity of the skin to sunlight
 redness or other discoloration of the skin
 severe sunburn
-
-
 Abdominal or stomach cramps
 weight loss
-

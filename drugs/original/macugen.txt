@@ -1,26 +1,15 @@
-Generic Name: pegaptanib ophthalmic
-Applies to pegaptanib ophthalmic: intraocular solution
-In addition to its needed effects, some unwanted effects may be caused by pegaptanib ophthalmic (the active ingredient contained in Macugen). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking pegaptanib ophthalmic, check with your doctor or nurse immediately:
-Some of the side effects that can occur with pegaptanib ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to pegaptanib ophthalmic: intravitreal solution
-Very common (10% to 40%): Anterior chamber inflammation, blurred vision, cataract, conjunctival hemorrhage, corneal edema, eye discharge, eye irritation, eye pain, increased intraocular pressure, ocular discomfort, punctate keratitis, reduced visual acuity, visual disturbance, vitreous floaters, vitreous opacitiesCommon (1% to 10%): Blepharitis, conjunctivitis, photopsia, vitreous disorder, allergic conjunctivitis, conjunctival edema, corneal abrasion, corneal deposits, corneal epithelium disorder, endophthalmitis, eye inflammation, eye swelling, eyelid irritation, meibomianitis, mydriasis, periorbital hematoma, retinal edema, vitreous hemorrhageUncommon (0.1% to 1%): Retinal detachment, iatrogenic traumatic cataract, other adverse events related to the injection procedure[Ref]
-Very common (10% to 40%): HypertensionCommon (1% to 10%): Chest pain[Ref]
-Common (1% to 10%): Contact dermatitis, contusion[Ref]
-Common (1% to 10%): Diabetes mellitus[Ref]
-Common (1% to 10%): Diarrhea, nausea, dyspepsia, vomiting[Ref]
-Common (1% to 10%): Urinary tract infection, urinary retention[Ref]
-Common (1% to 10%): Arthritis, bone spur[Ref]
-Common (1% to 10%): Dizziness, headache, carotid artery occlusion, cerebrovascular accident, vertigo, transient ischemic attack[Ref]
-Common (1% to 10%): Hearing loss[Ref]
-Common (1% to 10%): Bronchitis, pleural effusion[Ref]
-Postmarketing reports: Angioedema and other anaphylaxis/anaphylactoid[Ref]
-1. "Product Information. Macugen (pegaptanib ophthalmic)." OSI Pharmaceuticals Inc, Melville, NY. 
-Not all side effects for Macugen may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% to 40%): Anterior chamber inflammation, blurred vision, cataract, conjunctival hemorrhage, corneal edema, eye discharge, eye irritation, eye pain, increased intraocular pressure, ocular discomfort, punctate keratitis, reduced visual acuity, visual disturbance, vitreous floaters, vitreous opacitiesCommon (1% to 10%): Blepharitis, conjunctivitis, photopsia, vitreous disorder, allergic conjunctivitis, conjunctival edema, corneal abrasion, corneal deposits, corneal epithelium disorder, endophthalmitis, eye inflammation, eye swelling, eyelid irritation, meibomianitis, mydriasis, periorbital hematoma, retinal edema, vitreous hemorrhageUncommon (0.1% to 1%): Retinal detachment, iatrogenic traumatic cataract, other adverse events related to the injection procedure
+Very common (10% to 40%): HypertensionCommon (1% to 10%): Chest pain
+Common (1% to 10%): Contact dermatitis, contusion
+Common (1% to 10%): Diabetes mellitus
+Common (1% to 10%): Diarrhea, nausea, dyspepsia, vomiting
+Common (1% to 10%): Urinary tract infection, urinary retention
+Common (1% to 10%): Arthritis, bone spur
+Common (1% to 10%): Dizziness, headache, carotid artery occlusion, cerebrovascular accident, vertigo, transient ischemic attack
+Common (1% to 10%): Hearing loss
+Common (1% to 10%): Bronchitis, pleural effusion
+Postmarketing reports: Angioedema and other anaphylaxis/anaphylactoid
 Bladder pain
 blindness
 bloody eye
@@ -56,8 +45,6 @@ tightness in chest
 tunnel vision
 vomiting
 wheezing
-
-
 Bigger, dilated, or enlarged pupils (black part of the eye)
 change in vision not present before treatment
 chest pain
@@ -93,8 +80,6 @@ trouble speaking, thinking, or walking
 troubled breathing
 unexplained weight loss
 weakness in arm and/or leg on one side of the body, sudden and severe
-
-
 Difficulty swallowing
 fast heartbeat
 hives
@@ -102,11 +87,7 @@ itching
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 skin rash
 unusual tiredness or weakness
-
-
 Diarrhea
-
-
 Acid or sour stomach
 belching
 blistering, burning, crusting, dryness, or flaking of skin
@@ -118,4 +99,3 @@ itching, scaling, severe redness, soreness, swelling of skin
 muscle pain or stiffness
 pain, swelling, or redness in joints
 stomach discomfort, upset, or pain
-

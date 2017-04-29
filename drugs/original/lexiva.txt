@@ -1,52 +1,19 @@
-Generic Name: fosamprenavir
 Common side effects of Lexiva include: skin rash.  See below for a comprehensive list of adverse effects.
-Applies to fosamprenavir: oral suspension, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by fosamprenavir (the active ingredient contained in Lexiva). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking fosamprenavir:
-Some of the side effects that can occur with fosamprenavir may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fosamprenavir: oral suspension, oral tablet
-Diarrhea, rash, nausea, vomiting, and headache were the most frequent moderate to severe side effects in clinical trials of fosamprenavir (the active ingredient contained in Lexiva)   Discontinuations due to side effects were 6.4% in patients receiving fosamprenavir compared to 5.9% in those receiving comparator therapies.  The most common side effects leading to fosamprenavir discontinuation (incidence of 1% or less) included diarrhea, nausea, vomiting, increased AST, increased ALT, and rash.[Ref]
-Dermatologic side effects of moderate to severe intensity have included rash (up to 8%) in patients treated with combination therapy.  Skin rash, regardless of causality, occurred in approximately 19% of patients treated with fosamprenavir (the active ingredient contained in Lexiva) in studies.  Rashes were generally maculopapular and of mild or moderate intensity, some with pruritus.  Severe or life-threatening skin reactions, including at least 1 case of Stevens-Johnson syndrome, have been reported during clinical trials.  Erythema multiforme has been reported in at least 1 patient receiving fosamprenavir with ritonavir, zidovudine, and lamivudine.  Angioedema has been reported during postmarketing experience.[Ref]
-Skin rash, regardless of causality, had a median onset and duration of 11 and 13 days, respectively, and led to discontinuation of fosamprenavir in less than 1% of patients.[Ref]
-Gastrointestinal side effects of moderate to severe intensity have included diarrhea (up to 13%), nausea (up to 7%), vomiting (up to 6%), and abdominal pain (up to 2%) in patients treated with combination therapy.[Ref]
-The mechanism and long-term consequences of body fat redistribution/accumulation are currently unknown and a causal relationship has not been established.[Ref]
-Metabolic side effects have included increased serum lipase (greater than 2 times ULN; up to 8%), triglycerides (greater than 750 mg/dL; up to 11%), glucose (greater than 251 mg/dL; 2%), and amylase.  Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance," have been observed in patients receiving antiretroviral therapy, including fosamprenavir.  Hypercholesterolemia has been reported during postmarketing experience.  New onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing experience in HIV-infected patients receiving protease inhibitor therapy; however, causality has not been established.[Ref]
-Hepatic side effects have included elevated ALT (greater than 5 times ULN; up to 8%) and AST (greater than 5 times ULN; up to 6%).  Liver toxicity has been reported in patients receiving fosamprenavir (the active ingredient contained in Lexiva) with ritonavir, zidovudine, and lamivudine.[Ref]
-Nervous system side effects of moderate to severe intensity have included headache (up to 4%) in patients treated with combination therapy.  Oral paresthesia has been reported during postmarketing experience.[Ref]
-Other side effects of moderate to severe intensity have included fatigue (up to 4%) in patients treated with combination therapy.  Elevated creatine kinase has been reported.[Ref]
-Hematologic side effects have included neutropenia (less than 750 cells/mm3; 3%).  Acute hemolytic anemia has been associated with amprenavir.  Hematologic side effects associated with protease inhibitors have included spontaneous bleeding in patients with hemophilia A and B.  In many of the reported cases, treatment with protease inhibitors was continued or restarted and some patients required additional factor VIII.  A causal relationship between protease inhibitor therapy and these episodes has not been established.[Ref]
-Psychiatric side effects have included depressive/mood disorders.[Ref]
-Cardiovascular side effects have included myocardial infarction during postmarketing experience.[Ref]
-Genitourinary side effects have included nephrolithiasis during postmarketing experience.[Ref]
-Immunologic side effects have included immune reconstitution syndrome.  Autoimmune disorders (e.g., Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.[Ref]
-1. HHS Panel on Antiretroviral Guidelines for Adults
-and Adolescents – A Working Group of the Office of AIDS Research
-Advisory Council (OARAC). NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Available from: URL: http://aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf."   ([2011 Oct 14]):
-2. Panel on Antiretroviral Therapy and Medical Management of HIV-Infected Children. NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in pediatric HIV infection. Available from: URL: http://aidsinfo.nih.gov/guidelines/html/2/pediatric-treatment-guidelines/0"   ([2012 Nov 5]):
-3. "Drugs for HIV infection." Treat Guidel Med Lett 7 (2009): 11-22
-4. Warnke D,  Barreto J,  Temesgen Z "Antiretroviral drugs." J Clin Pharmacol 47 (2007): 1570-9
-5. Borras-Blasco J,  Navarro-Ruiz A,  Borras C,  Castera E "Adverse cutaneous reactions associated with the newest antiretroviral drugs in patients with human immunodeficiency virus infection." J Antimicrob Chemother 62 (2008): 879-88
-6. Hester EK,  Chandler HV,  Sims KM "Fosamprenavir: drug development for adherence." Ann Pharmacother 40 (2006): 1301-10
-7. Eron J Jr,  Yeni P,  Gathe J Jr, et al. "The KLEAN study of fosamprenavir-ritonavir versus lopinavir-ritonavir, each in combination with abacavir-lamivudine, for initial treatment of HIV infection over 48 weeks: a randomised non-inferiority trial." Lancet 368 (2006): 476-82
-8. Ruane PJ,  Luber AD,  Wire MB, et al. "Plasma amprenavir pharmacokinetics and tolerability following administration of 1,400 milligrams fosamprenavir once daily in combination with either 100 OR 200 milligrams of ritonavir in healthy volunteers." Antimicrob Agents Chemother 51 (2006): 560-5
-9. Shelton MJ,  Wire MB,  Lou Y,  Adamkiewicz B,  Min SS "Pharmacokinetic and safety evaluation of high-dose combinations of fosamprenavir and ritonavir." Antimicrob Agents Chemother 50 (2006): 928-34
-10. Wire MB,  Baker KL,  Jones LS, et al. "Ritonavir Increases Plasma Amprenavir (APV) Exposure to a Similar Extent when Coadministered with either Fosamprenavir or APV." Antimicrob Agents Chemother 50 (2006): 1578-80
-11. "Product Information. Lexiva (fosamprenavir)." GlaxoSmithKline, Research Triangle Park, NC. 
-12. Pavel S,  Burty C,  Alcaraz I, et al. "Severe liver toxicity in postexposure prophylaxis for HIV infection with a zidovudine, lamivudine and fosamprenavir/ritonavir regimen." AIDS 21 (2007): 268-269
-13. Piacenti FJ "An update and review of antiretroviral therapy." Pharmacotherapy 26 (2006): 1111-33
-14. Gathe JC Jr,  Ive P,  Wood R, et al. "SOLO: 48-week efficacy and safety comparison of once-daily fosamprenavir /ritonavir versus twice-daily nelfinavir in naive HIV-1-infected patients." AIDS 18 (2004): 1529-1537
-15. Gathe JC Jr,  Wood R,  Sanne I, et al. "Long-Term (120-Week) antiviral efficacy and tolerability of fosamprenavir/ritonavir once daily in therapy-naive patients with HIV-1 infection: An uncontrolled, open-label, single-arm follow-on study." Clin Ther 28 (2006): 745-54
-16. Arvieux C,  Tribut O "Amprenavir or Fosamprenavir plus Ritonavir in HIV Infection: Pharmacology, Efficacy and Tolerability Profile." Drugs 65 (2005): 633-59
-17. Bergersen BM "Cardiovascular Risk in Patients with HIV Infection : Impact of Antiretroviral Therapy." Drugs 66 (2006): 1971-87
-18. Soriano V,  Puoti M,  Sulkowski M, et al. "Care of patients coinfected with HIV and hepatitis C virus: 2007 updated recommendations from the HCV-HIV International Panel." AIDS 21 (2007): 1073-89
-19. Calza L,  Manfredi R,  Verucchi G "Myocardial infarction risk in HIV-infected patients: epidemiology, pathogenesis,  and clinical management." AIDS 24 (2010): 789-802
-Not all side effects for Lexiva may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Diarrhea, rash, nausea, vomiting, and headache were the most frequent moderate to severe side effects in clinical trials of fosamprenavir (the active ingredient contained in Lexiva)   Discontinuations due to side effects were 6.4% in patients receiving fosamprenavir compared to 5.9% in those receiving comparator therapies.  The most common side effects leading to fosamprenavir discontinuation (incidence of 1% or less) included diarrhea, nausea, vomiting, increased AST, increased ALT, and rash.
+Dermatologic side effects of moderate to severe intensity have included rash (up to 8%) in patients treated with combination therapy.  Skin rash, regardless of causality, occurred in approximately 19% of patients treated with fosamprenavir (the active ingredient contained in Lexiva) in studies.  Rashes were generally maculopapular and of mild or moderate intensity, some with pruritus.  Severe or life-threatening skin reactions, including at least 1 case of Stevens-Johnson syndrome, have been reported during clinical trials.  Erythema multiforme has been reported in at least 1 patient receiving fosamprenavir with ritonavir, zidovudine, and lamivudine.  Angioedema has been reported during postmarketing experience.
+Skin rash, regardless of causality, had a median onset and duration of 11 and 13 days, respectively, and led to discontinuation of fosamprenavir in less than 1% of patients.
+Gastrointestinal side effects of moderate to severe intensity have included diarrhea (up to 13%), nausea (up to 7%), vomiting (up to 6%), and abdominal pain (up to 2%) in patients treated with combination therapy.
+The mechanism and long-term consequences of body fat redistribution/accumulation are currently unknown and a causal relationship has not been established.
+Metabolic side effects have included increased serum lipase (greater than 2 times ULN; up to 8%), triglycerides (greater than 750 mg/dL; up to 11%), glucose (greater than 251 mg/dL; 2%), and amylase.  Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance," have been observed in patients receiving antiretroviral therapy, including fosamprenavir.  Hypercholesterolemia has been reported during postmarketing experience.  New onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing experience in HIV-infected patients receiving protease inhibitor therapy; however, causality has not been established.
+Hepatic side effects have included elevated ALT (greater than 5 times ULN; up to 8%) and AST (greater than 5 times ULN; up to 6%).  Liver toxicity has been reported in patients receiving fosamprenavir (the active ingredient contained in Lexiva) with ritonavir, zidovudine, and lamivudine.
+Nervous system side effects of moderate to severe intensity have included headache (up to 4%) in patients treated with combination therapy.  Oral paresthesia has been reported during postmarketing experience.
+Other side effects of moderate to severe intensity have included fatigue (up to 4%) in patients treated with combination therapy.  Elevated creatine kinase has been reported.
+Hematologic side effects have included neutropenia (less than 750 cells/mm3; 3%).  Acute hemolytic anemia has been associated with amprenavir.  Hematologic side effects associated with protease inhibitors have included spontaneous bleeding in patients with hemophilia A and B.  In many of the reported cases, treatment with protease inhibitors was continued or restarted and some patients required additional factor VIII.  A causal relationship between protease inhibitor therapy and these episodes has not been established.
+Psychiatric side effects have included depressive/mood disorders.
+Cardiovascular side effects have included myocardial infarction during postmarketing experience.
+Genitourinary side effects have included nephrolithiasis during postmarketing experience.
+Immunologic side effects have included immune reconstitution syndrome.  Autoimmune disorders (e.g., Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
 Severe skin rash
-
-
 Abdominal or stomach pain
 blurred vision
 depression
@@ -63,8 +30,6 @@ troubled breathing
 unexplained weight loss
 unusual tiredness or weakness
 vomiting
-
-
 Back, leg, or stomach pains
 bleeding gums
 blistering, peeling, or loosening of the skin
@@ -85,20 +50,11 @@ red, irritated eyes
 sore throat
 sores, ulcers, or white spots in the mouth or on the lips
 yellowing of the eyes or skin
-
-
 Large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
-
-
 Mild or moderate rash
-
-
 Burning or prickling sensation around the mouth
 headache
-
-
 Breast enlargement
 buffalo hump
 increased fat deposits on the face, neck, and trunk
 obesity
-

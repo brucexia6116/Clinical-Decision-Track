@@ -1,29 +1,20 @@
-Generic Name: clorazepate
-Applies to clorazepate: oral capsule, oral tablet, oral tablet extended release
 As well as its needed effects, clorazepate (the active ingredient contained in Tranxene SD) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking clorazepate, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking clorazepate, get emergency help immediately:
-
 Some clorazepate side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to clorazepate: oral tablet
 The most commonly reported side effect was dizziness.
 Frequency not reported: Insomnia, suicidal ideation/behavior, irritability, depression
-Frequency not reported: Dizziness, nervousness, headache, mental confusion, tremor, slurred speech, ataxia[Ref]
+Frequency not reported: Dizziness, nervousness, headache, mental confusion, tremor, slurred speech, ataxia
 Frequency not reported: Abnormal liver function tests
 Frequency not reported: Abnormal kidney function tests
 Frequency not reported: Decreased hematocrit
-Frequency not reported: Fatigue[Ref]
+Frequency not reported: Fatigue
 Frequency not reported: Transient skin rash
 Frequency not reported: Decrease in systolic blood pressure
 Frequency not reported: Gastrointestinal complaints, dry mouth
 Frequency not reported: Genitourinary complaints
 Frequency not reported: Blurred vision, diplopia
-1. "Product Information. Tranxene (clorazepate)." Abbott Pharmaceutical, Abbott Park, IL. 
 It is possible that some side effects of Tranxene SD may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bladder pain
 bloody or cloudy urine
 difficult, burning, or painful urination
@@ -33,15 +24,11 @@ shakiness and unsteady walk
 slurred speech
 trembling or shaking of the hands or feet
 unsteadiness, trembling, or other problems with muscle control or coordination
-
-
 Change in consciousness
 drowsiness
 loss of consciousness
 relaxed and calm
 sleepiness
-
-
 Blurred vision
 diarrhea
 discouragement
@@ -66,4 +53,3 @@ trouble with concentrating
 trouble with sleeping
 unable to sleep
 unusual tiredness or weakness
-

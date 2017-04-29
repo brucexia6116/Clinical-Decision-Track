@@ -1,5 +1,3 @@
-Generic Name: digoxin immune fab
-Applies to digoxin immune fab: injectable powder for injection
 Get emergency medical help if you have any of these signs of an allergic reaction while taking digoxin immune fab (the active ingredient contained in DigiFab)   hives; difficult breathing; swelling of your face, lips, tongue, or throat.
 Call your doctor at once if you have:
 fever;
@@ -8,31 +6,16 @@ low potassium (confusion, uneven heart rate, extreme thirst, increased urination
 shortness of breath (even with mild exertion); or
 swelling, rapid weight gain.
 This is not a complete list of side effects and others may occur. Call your doctor for medical advice about side effects. 
-Applies to digoxin immune fab: injectable powder for injection, injectable solution
-Skin testing for allergy is rarely done, but may be beneficial in patients who have been exposed to or who are allergic to sheep proteins.[Ref]
-Hypersensitivity side effects have rarely included general febrile state, urticarial rash, facial swelling and redness, and frank anaphylaxis.  In cases of severe hypersensitivity side effects, prompt discontinuation of the drug is recommended.[Ref]
-Cardiovascular side effects may arise as the clinical effectiveness of digoxin wanes (upon binding to Fab).  Preexisting or new heart failure may require substitution of other inotropic agents and/or the addition of diuretics and/or vasodilators.  Patients with atrial fibrillation become at increased risk for a rapid ventricular response rate in the absence of therapeutic serum digoxin concentrations.Animal data have shown that decreased left ventricular contractility only slowly develops after digoxin immune Fab administration.  Cardiac glycosides should NOT be used to treat decreased cardiac output in patients with documented cardiac glycoside intoxication!While some inotropic agents may become necessary to maintain cardiac output, be cognizant that the catecholamine release associated with some drugs, such as dopamine or dobutamine, can exacerbate the significant risk of life-threatening arrhythmias associated with cardiac glycoside toxicity.[Ref]
-Cardiovascular side effects have included new or exacerbation of existing physical and electrical cardiac conditions.[Ref]
-A common metabolic problem associated with digoxin immune Fab therapy is the development of hypokalemia.  Reversal of digoxin-mediated inhibition of the ATP-ase Na+/K+ pump enables potassium to shift back to the intracellular space, promoting the risk of hypokalemia.  Patients with digoxin toxicity are usually total body potassium depleted, require close observation (serum potassium concentrations and ECG monitoring), and require cautious potassium replacement.  (Rapid potassium replenishment can induce arrhythmias and easily cause hyperkalemia in this situation.)[Ref]
-Metabolic side effects have included hypokalemia.[Ref]
-Other side effects have included interference with the standard radioimmunoassay for digoxin and digitoxin.[Ref]
-Accurate laboratory serum measurements of free, unbound, active digoxin may not be available for days in patients with normal renal function or for at least one week in patients with reduced renal function.[Ref]
-1. "Product Information. Digibind (digoxin immune FAB)." Glaxo Wellcome, Research Triangle Park, NC. 
-Not all side effects for DigiFab may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
-
+Skin testing for allergy is rarely done, but may be beneficial in patients who have been exposed to or who are allergic to sheep proteins.
+Hypersensitivity side effects have rarely included general febrile state, urticarial rash, facial swelling and redness, and frank anaphylaxis.  In cases of severe hypersensitivity side effects, prompt discontinuation of the drug is recommended.
+Cardiovascular side effects may arise as the clinical effectiveness of digoxin wanes (upon binding to Fab).  Preexisting or new heart failure may require substitution of other inotropic agents and/or the addition of diuretics and/or vasodilators.  Patients with atrial fibrillation become at increased risk for a rapid ventricular response rate in the absence of therapeutic serum digoxin concentrations.Animal data have shown that decreased left ventricular contractility only slowly develops after digoxin immune Fab administration.  Cardiac glycosides should NOT be used to treat decreased cardiac output in patients with documented cardiac glycoside intoxication!While some inotropic agents may become necessary to maintain cardiac output, be cognizant that the catecholamine release associated with some drugs, such as dopamine or dobutamine, can exacerbate the significant risk of life-threatening arrhythmias associated with cardiac glycoside toxicity.
+Cardiovascular side effects have included new or exacerbation of existing physical and electrical cardiac conditions.
+A common metabolic problem associated with digoxin immune Fab therapy is the development of hypokalemia.  Reversal of digoxin-mediated inhibition of the ATP-ase Na+/K+ pump enables potassium to shift back to the intracellular space, promoting the risk of hypokalemia.  Patients with digoxin toxicity are usually total body potassium depleted, require close observation (serum potassium concentrations and ECG monitoring), and require cautious potassium replacement.  (Rapid potassium replenishment can induce arrhythmias and easily cause hyperkalemia in this situation.)
+Metabolic side effects have included hypokalemia.
+Other side effects have included interference with the standard radioimmunoassay for digoxin and digitoxin.
+Accurate laboratory serum measurements of free, unbound, active digoxin may not be available for days in patients with normal renal function or for at least one week in patients with reduced renal function.
 fever;
-
-
 high potassium (slow heart rate, weak pulse, muscle weakness, tingly feeling);
-
-
 low potassium (confusion, uneven heart rate, extreme thirst, increased urination, leg discomfort, muscle weakness or limp feeling);
-
-
 shortness of breath (even with mild exertion); or
-
-
 swelling, rapid weight gain.
-
-

@@ -1,47 +1,30 @@
-Generic Name: dorzolamide ophthalmic
 Common side effects of Trusopt include: burning sensation of eyes, eye discomfort, eye pruritus, local ocular hypersensitivity reaction, stinging of eyes, superficial punctate keratitis, swelling of eye, bitter taste, eye irritation, and eye redness. Other side effects include: blurred vision, lacrimation, photophobia, and xerophthalmia.  See below for a comprehensive list of adverse effects.
-Applies to dorzolamide ophthalmic: ophthalmic solution
 As well as its needed effects, dorzolamide ophthalmic (the active ingredient contained in Trusopt) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking dorzolamide ophthalmic, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking dorzolamide ophthalmic, get emergency help immediately:
-
 Some dorzolamide ophthalmic side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to dorzolamide ophthalmic: ophthalmic solution
-The most commonly reported side effects were ocular burning, stinging, or discomfort, and bitter taste.[Ref]
-Very common (10% or more): Superficial punctate keratitis (up to 15%), burning/stingingCommon (1% to 10%): Tearing, conjunctivitis, eyelid inflammation, eye itching, eyelid irritation, blurred visionUncommon (0.1% to 1%): IridocyclitisRare (less than 0.1%): Irritation, pain, eyelid crusting, transient myopia, corneal edema, ocular hypotony, choroidal detachment following filtration surgery[Ref]
-Very common (10% or more): Ocular allergic reaction (10%)Rare (less than 0.1%): Signs and symptoms of local reactions (palpebral reactions) and systemic allergic reactions including angioedema, urticaria, pruritus, rash, shortness of breath, bronchospasm[Ref]
-Rare (less than 0.1%): Urolithiasis[Ref]
-Rare (less than 0.1%): EpistaxisFrequency not reported: Dyspnea[Ref]
-Uncommon (0.1% to 1%): Contact dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysisRare (less than 0.1%): Skin rash[Ref]
-Very common (10% or more): Biter taste (up to 25%)Frequency not reported: Headache[Ref]
-Common (1% to 10%): NauseaRare (less than 0.1%): Throat irritation, dry mouth[Ref]
-Common (1% to 10%): Asthenia/fatigue[Ref]
-1. "Product Information. Trusopt (dorzolamide ophthalmic)." Merck & Co, Inc, West Point, PA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
+The most commonly reported side effects were ocular burning, stinging, or discomfort, and bitter taste.
+Very common (10% or more): Superficial punctate keratitis (up to 15%), burning/stingingCommon (1% to 10%): Tearing, conjunctivitis, eyelid inflammation, eye itching, eyelid irritation, blurred visionUncommon (0.1% to 1%): IridocyclitisRare (less than 0.1%): Irritation, pain, eyelid crusting, transient myopia, corneal edema, ocular hypotony, choroidal detachment following filtration surgery
+Very common (10% or more): Ocular allergic reaction (10%)Rare (less than 0.1%): Signs and symptoms of local reactions (palpebral reactions) and systemic allergic reactions including angioedema, urticaria, pruritus, rash, shortness of breath, bronchospasm
+Rare (less than 0.1%): Urolithiasis
+Rare (less than 0.1%): EpistaxisFrequency not reported: Dyspnea
+Uncommon (0.1% to 1%): Contact dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysisRare (less than 0.1%): Skin rash
+Very common (10% or more): Biter taste (up to 25%)Frequency not reported: Headache
+Common (1% to 10%): NauseaRare (less than 0.1%): Throat irritation, dry mouth
+Common (1% to 10%): Asthenia/fatigue
 It is possible that some side effects of Trusopt may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Burning, stinging, or discomfort when medicine is applied
 itching, redness, swelling, or other sign of the eye or eyelid irritation
-
-
 Burning, dry, or itching eyes
 discharge from the eye
 excessive tearing
 redness, pain, or swelling of the eye, eyelid, or inner lining of the eyelid
-
-
 Blood in the urine
 blurred vision
 nausea or vomiting
 pain in the side, back, or abdomen
 skin rash
 tearing
-
-
 Blistering, burning, crusting, dryness, or flaking of the skin
 change in vision
 chills
@@ -60,8 +43,6 @@ sore throat
 sores, ulcers, or white spots in the mouth or on the lips
 tightness in the chest
 unusual tiredness or weakness
-
-
 Confusion
 irregular heartbeat
 muscle cramps or pain
@@ -69,20 +50,14 @@ numbness, tingling, pain, or weakness in the hands or feet
 seizures
 trembling
 weakness and heaviness of the legs
-
-
 Bitter taste
 feeling of something in the eye
-
-
 Changes in color vision
 difficulty seeing at night
 dryness of the eyes
 eyelid reactions
 headache
 increased sensitivity of the eyes to sunlight
-
-
 Bloody nose
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 change in distance vision
@@ -93,4 +68,3 @@ eyelid crusting
 lack or loss of strength
 scaling of the skin
 severe redness, soreness, or swelling of the skin
-

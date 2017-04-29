@@ -1,82 +1,28 @@
-Generic Name: ezetimibe / simvastatin
-Applies to ezetimibe / simvastatin: oral tablet
 As well as its needed effects, ezetimibe / simvastatin may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking ezetimibe / simvastatin, check with your doctor immediately:
 Some ezetimibe / simvastatin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to ezetimibe / simvastatin: oral tablet
-Ezetimibe:Common (1% to 10%): Diarrhea, abdominal pain, nauseaPostmarketing reports: PancreatitisSimvastatin:Common (1% to 10%): Constipation, nausea, flatulence, diarrhea, dyspepsia, abdominal pain, pancreatitis, anorexia, vomitingVery rare (less than 0.01%): Protein losing enteropathy[Ref]
-Very rare (less than 0.01%): Tendon rupture (one case)Ezetimibe:Common (1% to 10%): Back pain, arthralgiaPostmarketing reports: Myalgia, elevated creatine phosphokinase, rare reports of myopathy/rhabdomyolysisSimvastatin:Frequency not reported: Elevations in creatine kinase, myopathy, dermatomyositis, rhabdomyolysis, arthralgia, myalgia[Ref]
-Simvastatin has been associated with rare cases of severe myopathy and rhabdomyolysis.  This is accompanied by elevations in creatine kinase, myoglobinuria, and proteinuria, as well as renal failure.  Experience with HMG-CoA reductase inhibitors indicates that concomitant use with gemfibrozil, niacin, cyclosporine, or erythromycin may increase the incidence and the severity of musculoskeletal side effects.A case of spontaneous biceps tendon rupture developed in a patient after 4 months of treatment with ezetimibe-simvastatin.  Upon rechallenge 2 months later, the patient developed pain in the contralateral arm overlying the biceps tendon.  Following discontinuation of ezetimibe-simvastatin, pain resolved 2 weeks later.  Inhibition of matrix metalloproteinases has been suggested as the contributing factor in the development of tendon rupture.[Ref]
-Simvastatin:Frequency not reported: Myoglobinuria, acute renal failure secondary to rhabdomyolysis[Ref]
-Persistent elevations in liver function tests three times normal values are reported in up to 1.5% of patients on simvastatin in clinical trials.  In one study, this led to the discontinuation of simvastatin in 0.6% of patients.  In other patients, elevations in liver function tests were transient and returned to normal with continued simvastatin therapy.[Ref]
-Ezetimibe:Postmarketing reports: Elevations in liver transaminases, hepatitis, cholelithiasis, cholecystitisSimvastatin:Common (1% to 10%): Elevations in liver function testsFrequency not reported: Hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty changes in the liver, cirrhosis, fulminant hepatic necrosis Postmarketing reports: Hepatic failure[Ref]
-Simvastatin:Frequency not reported: Eczematous, pruritic rash, toxic epidermal necrolysis, photosensitivity, purpura, erythema multiforme, photosensitivity, purpura, alopecia[Ref]
-Frequency not reported: InfluenzaEzetimibe:Common (1% to 10%): Viral infectionSimvastatin:Very rare (less than 0.01%): Lupus-like syndromeFrequency not reported: Positive ANA, ESR increase, polymyalgia rheumatica, vasculitis[Ref]
-Frequency not reported: Upper respiratory tract infection, interstitial lung disease causing breathing problems including persistent cough and/or shortness of breath or feverEzetimibe:Common (1% to 10%): CoughingSimvastatin:Frequency not reported: Sinusitis, pharyngitis[Ref]
-Simvastatin:Common (1% to 10%): Angina[Ref]
-Simvastatin:Frequency not reported: Gynecomastia, thyroid function abnormalities, increases in HbA1c and fasting serum glucose levels[Ref]
-A patient who had taken lovastatin and pravastatin on different occasions developed reversible impotence.  The impotence resolved within 2 weeks after the HMG-CoA reductase inhibitor was discontinued.[Ref]
-Simvastatin:Frequency not reported: Erectile dysfunction, impotence[Ref]
-Postmarketing reports: Epistaxis in a 65-year-old maleEzetimibe:Postmarketing reports: ThrombocytopeniaSimvastatin:Frequency not reported: Hemolytic anemia, thrombocytopenia, leukopenia (possibly manifestations of a hypersensitivity reaction)[Ref]
-A 65-year-old male with hereditary hemorrhagic telangiectasia (HHT) who had a history of minimal epistaxis began to experience profuse epistaxis 8 to 10 weeks after starting ezetimibe-simvastatin, The patient had been treated with simvastatin 20 mg alone for 9 years without any adverse effects.  Two months after starting combination therapy with ezetimibe-simvastatin he noticed epistaxis that increased from a few drops every other day to profuse bleeding for 20 to 30 minutes daily.  The patient reported initiation of ezetimibe-simvastatin as the only change in his treatment regimen in the past year.  When he stopped ezetimibe-simvastatin, his epistaxis decreased.  After six weeks without ezetimibe-simvastatin, he had only one moderate nose bleed.  Four months later, the patient's hemoglobin was stable.  He then started simvastatin 40 mg monotherapy.  The profound epistaxis returned and the patient discontinued the medication.  It remains unclear whether the patient's accelerated epistaxis was due to the combination therapy or the double dosage of simvastatin.[Ref]
-Ezetimibe:Postmarketing reports: Angioedema, anaphylaxis, rash, urticariaSimvastatin:Rare (less than 0.1%): Erythema multiforme, Stevens-Johnson syndrome, anaphylaxis, angioedema, urticaria, fever, chills, flushing, malaise, dyspnea[Ref]
-Frequency not reported: Headache, confusion, fatigueEzetimibe:Postmarketing reports: Dizziness, paraesthesiaSimvastatin:Frequency not reported: Cranial nerve dysfunction, tremor, vertigo, memory loss, paraesthesias, peripheral neuropathy, peripheral nerve palsy[Ref]
-A case of memory loss possibly related to simvastatin use has been reported.  The patient developed gradual memory loss following 12 months of simvastatin therapy.  He was switched to pravastatin, and within a month his memory was intact.  Rechallenge with simvastatin was not performed.[Ref]
-Simvastatin:Frequency not reported: Progression of cataracts, ophthalmoplegia[Ref]
-Simvastatin:Frequency not reported: Liver, thyroid, and lung adenomas and carcinomas[Ref]
-Simvastatin:Frequency not reported: Depression, suicidal thoughts, delusions, paranoia, agitation, decreased libido, anxiety, insomnia[Ref]
-1. Plosker GL, Mctavish D "Simvastatin - a reappraisal of its pharmacology and therapeutic efficacy in hypercholesterolaemia." Drugs 50 (1995): 334-63
-2. Abernethy DR, Greenblatt DJ, Morse DS, Shader RI "Interaction of propoxyphene with diazepam, alprazolam and lorazepam." Br J Clin Pharmacol 19 (1985): 51-7
-3. Simons LA "Simvastatin in severe primary hypercholesterolemia: efficacy, safety, and tolerability in 595 patients over 18 weeks. The Principal Investigators." Clin Cardiol 16 (1993): 317-22
-4. Chagnon JP, Cerf M "Simvastatin-induced protein-losing enteropathy." Am J Gastroenterol 87 (1992): 257
-5. "Product Information. Zocor (simvastatin)." Merck & Co, Inc, West Point, PA. 
-6. Walker JF "Simvastatin: the clinical profile." Am J Med 87 (1989): s44-6
-7. "Product Information. Vytorin (ezetimibe-simvastatin)." Merck & Company Inc, West Point, PA. 
-8. "Product Information. Zetia (ezetimibe)." Schering-Plough Corporation, Kenilworth, NJ. 
-9. Federman DG,  Hussain F,  Walters AB "Fatal rhabdomyolysis caused by lipid-lowering therapy." South Med J 94 (2001): 1023-6
-10. Omar MA,  Wilson JP "FDA adverse event reports on statin-associated rhabdomyolysis." Ann Pharmacother 36 (2002): 288-95
-11. van Puijenbroek EP, Du Buf-Vereijken PW, Spooren PF, van Doormaal JJ "Possible increased risk of rhabdomyolysis during concomitant use of simvastatin and gemfibrozil." J Intern Med 240 (1996): 403-4
-12. Vanpuijenbroek EP, Dubufvereijken PWG, Spooren PFMJ, Vandoormaal JJ "Possible increased risk of rhabdomyolysis during concomitant use of simvastatin and gemfibrozil." J Intern Med 240 (1996): 403-4
-13. Itakura H,  Vaughn D,  Haller DG,  O'Dwyer PJ "Rhabdomyolysis from cytochrome p-450 interaction of ketoconazole and simvastatin in prostate cancer." J Urol 169 (2003): 613
-14. Weise WJ, Possidente CJ "Fatal rhabdomyolysis associated with simvastatin in a renal transplant patient." Am J Med 108 (2000): 351-2
-15. Meier CR, Schlienger RG, Kraenzlin ME, Schlegel B, Jick H "HMG-CoA reductase inhibitors and the risk of fractures." JAMA 283 (2000): 3205-10
-16. McDonagh J, Winocour P, Walker DJ "Musculoskeletal manifestations during simvastatin therapy." Br J Rheumatol 32 (1993): 647-8
-17. Havranek JM,  Wolfsen AR,  Warnke GA,  Phillips PS "Monotherapy with ezetimibe causing myopathy." Am J Med 119 (2006): 285-6
-18. Sinzinger H,  Wolfram R,  Peskar BA "Muscular side effects of statins." J Cardiovasc Pharmacol 40 (2002): 163-71
-19. Schumacher YO,  Zdebik A,  Huonker M,  Kreisel W "Sildenafil in HIV-related pulmonary hypertension." AIDS 15 (2001): 1747-8
-20. Davidson MH,  Maccubbin D,  Stepanavage M,  Strony J,  Musliner T "Striated muscle safety of ezetimibe / simvastatin (vytorin)." Am J Cardiol 97 (2006): 223-8
-21. Peces R,  Pobes A "Rhabdomyolysis associated with concurrent use of simvastatin and diltiazem." Nephron 89 (2001): 117-8
-22. Chariot P, Abadia R, Agnus D, Danan C, Charpentier C, Gherardi RK "Simvastatin-induced rhabdomyolysis followed by a MELAS syndrome." Am J Med 94 (1993): 109-10
-23. ChoquetKastylevsky G, Kanitakis J, Dumas V, Descotes J, Faure M, Claudy A "Eosinophilic fasciitis and simvastatin." Arch Intern Med 161 (2001): 1456-7
-24. Chan MH,  Mak TW,  Chiu RW,  Chow CC,  Chan IH,  Lam CW "Simvastatin increases serum osteocalcin concentration in patients treated for hypercholesterolaemia." J Clin Endocrinol Metab 86 (2001): 4556-9
-25. Pedersen TR, Berg K, Cook TJ, Faergeman O, Haghfelt T, Kjekshus J, Miettinen T, Musliner TA, Olsson AG, Pyorala K, Thorgeirsso "Safety and tolerability of cholesterol lowering with simvastatin during 5 years in the scandinavian simvastatin survival study." Arch Intern Med 156 (1996): 2085-92
-26. Maxa JL,  Melton LB,  Ogu CC,  Sills MN,  Limanni A "Rhabdomyolysis after concomitant use of cyclosporine, simvastatin, gemfibrozil, and itraconazole." Ann Pharmacother 36 (2002): 820-3
-27. Pullatt RC,  Gadarla MR,  Karas RH,  Alsheikh-Ali AA,  Thompson PD "Tendon rupture associated with simvastatin/ezetimibe therapy." Am J Cardiol 100 (2007): 152-3
-28. Alvarez JM, Rawdanowiz TJ, Goldstein J "Rhadbdomyolysis after coronary artery bypass grafting in a patient receiving simvastatin." J Thorac Cardiovasc Surg 116 (1998): 654-5
-29. Grundy SM "Can statins cause chronic low-grade myopathy?" Ann Intern Med 137 (2002): 617-8
-30. Yurdakok M, Gurakan B, Ergin H, Kirazli S "Plasma concentrations of granulocyte colony stimulating factor in preterm infants in the first few hours of life." Acta Paediatr 85 (1996): 1389-90
-31. "Summaries for patients. Muscle abnormalities in four patients taking statins to treat unfavorable cholesterol levels." Ann Intern Med 137 (2002): I45
-32. Khattak FH, Morris IM, Branford WA "Simvastatin-associated dermatomyositis." Br J Rheumatol 33 (1994): 199
-33. Mauro VF, MacDonald JL "Simvastatin: a review of its pharmacology and clinical use." DICP 25 (1991): 257-64
-34. Nakad A, Bataille L, Hamoir V, Sempoux C, Horsmans Y "Atorvastatin-induced acute hepatitis with absence of cross-toxicity with simvastatin." Lancet 353 (1999): 1763-4
-35. Krasovec M, Elsner P, Burg G "Generalized eczematous skin rash possibly due to HMG-CoA reductase inhibitors." Dermatology 186 (1993): 248-52
-36. Feldmann R, Mainetti C, Saurat JH "Skin lesions due to treatment with simvastatin (Zocor)." Dermatology 186 (1993): 272
-37. Rudski L, Rabinovitch MA, Danoff D "Systemic immune reactions to HMG-CoA reductase inhibitors - Report of 4 cases and review of the literature." Medicine 77 (1998): 378-83
-38. Bannwarth B, Miremont G, Papapietro PM "Lupuslike syndrome associated with simvastatin." Arch Intern Med 152 (1992): 1093
-39. Pedersen TR, Kjekshus J, Berg K, Haghfelt T, Faergeman O, Thorgeirsson G, Pyorala K, Miettinen T, Wilhelmsen L, Olsson AG, Wedel "Randomised trial of cholesterol lowering in 4444 patients with coronary heart disease: the Scandinavian Simvastatin Survival Study (4S)." Lancet 344 (1994): 1383-9
-40. Katznelson S "Effect of HMG-CoA reductase inhibitors on chronic allograft rejection." Kidney Int 56 (1999): s117-21
-41. Halkin A, Lossos IS, Mevorach D "HMG-CoA reductase inhibitor-induced impotence." Ann Pharmacother 30 (1996): 192
-42. Shah B,  McAllister A,  Davidson TM "Increased epistaxis with use of ezetimibe / simvastatin." Ann Pharmacother 43 (2009): 1545
-43. Phan T, Mcleod JG, Pollard JD, Peiris O, Rohan A, Halpern JP "Peripheral neuropathy associated with simvastatin." J Neurol Neurosurg Psychiatry 58 (1995): 625-8
-44. Gaist D,  Jeppesen U,  Andersen M,  Garcia Rodriguez LA,  Hallas J,  Sindrup SH "Statins and risk of polyneuropathy: a case-control study." Neurology 58 (2002): 1333-7
-45. Orsi A, Sherman O, Woldeselassie "Simvastatin-associated memory loss." Pharmacotherapy 21 (2001): 767-9
-46. Bjerre LM, LeLorier J "Do statins cause cancer? A meta-analysis of large randomized clinical trials." Am J Med 110 (2001): 716-23
-47. Newman TB, Hulley SB "Carcinogenicity of lipid-lowering drugs." JAMA 275 (1996): 55-60
-48. Duits N, Bos FM "Depressive symptoms and cholesterol-lowering drugs." Lancet 341 (1993): 114
+Ezetimibe:Common (1% to 10%): Diarrhea, abdominal pain, nauseaPostmarketing reports: PancreatitisSimvastatin:Common (1% to 10%): Constipation, nausea, flatulence, diarrhea, dyspepsia, abdominal pain, pancreatitis, anorexia, vomitingVery rare (less than 0.01%): Protein losing enteropathy
+Very rare (less than 0.01%): Tendon rupture (one case)Ezetimibe:Common (1% to 10%): Back pain, arthralgiaPostmarketing reports: Myalgia, elevated creatine phosphokinase, rare reports of myopathy/rhabdomyolysisSimvastatin:Frequency not reported: Elevations in creatine kinase, myopathy, dermatomyositis, rhabdomyolysis, arthralgia, myalgia
+Simvastatin has been associated with rare cases of severe myopathy and rhabdomyolysis.  This is accompanied by elevations in creatine kinase, myoglobinuria, and proteinuria, as well as renal failure.  Experience with HMG-CoA reductase inhibitors indicates that concomitant use with gemfibrozil, niacin, cyclosporine, or erythromycin may increase the incidence and the severity of musculoskeletal side effects.A case of spontaneous biceps tendon rupture developed in a patient after 4 months of treatment with ezetimibe-simvastatin.  Upon rechallenge 2 months later, the patient developed pain in the contralateral arm overlying the biceps tendon.  Following discontinuation of ezetimibe-simvastatin, pain resolved 2 weeks later.  Inhibition of matrix metalloproteinases has been suggested as the contributing factor in the development of tendon rupture.
+Simvastatin:Frequency not reported: Myoglobinuria, acute renal failure secondary to rhabdomyolysis
+Persistent elevations in liver function tests three times normal values are reported in up to 1.5% of patients on simvastatin in clinical trials.  In one study, this led to the discontinuation of simvastatin in 0.6% of patients.  In other patients, elevations in liver function tests were transient and returned to normal with continued simvastatin therapy.
+Ezetimibe:Postmarketing reports: Elevations in liver transaminases, hepatitis, cholelithiasis, cholecystitisSimvastatin:Common (1% to 10%): Elevations in liver function testsFrequency not reported: Hepatitis (including chronic active hepatitis), cholestatic jaundice, fatty changes in the liver, cirrhosis, fulminant hepatic necrosis Postmarketing reports: Hepatic failure
+Simvastatin:Frequency not reported: Eczematous, pruritic rash, toxic epidermal necrolysis, photosensitivity, purpura, erythema multiforme, photosensitivity, purpura, alopecia
+Frequency not reported: InfluenzaEzetimibe:Common (1% to 10%): Viral infectionSimvastatin:Very rare (less than 0.01%): Lupus-like syndromeFrequency not reported: Positive ANA, ESR increase, polymyalgia rheumatica, vasculitis
+Frequency not reported: Upper respiratory tract infection, interstitial lung disease causing breathing problems including persistent cough and/or shortness of breath or feverEzetimibe:Common (1% to 10%): CoughingSimvastatin:Frequency not reported: Sinusitis, pharyngitis
+Simvastatin:Common (1% to 10%): Angina
+Simvastatin:Frequency not reported: Gynecomastia, thyroid function abnormalities, increases in HbA1c and fasting serum glucose levels
+A patient who had taken lovastatin and pravastatin on different occasions developed reversible impotence.  The impotence resolved within 2 weeks after the HMG-CoA reductase inhibitor was discontinued.
+Simvastatin:Frequency not reported: Erectile dysfunction, impotence
+Postmarketing reports: Epistaxis in a 65-year-old maleEzetimibe:Postmarketing reports: ThrombocytopeniaSimvastatin:Frequency not reported: Hemolytic anemia, thrombocytopenia, leukopenia (possibly manifestations of a hypersensitivity reaction)
+A 65-year-old male with hereditary hemorrhagic telangiectasia (HHT) who had a history of minimal epistaxis began to experience profuse epistaxis 8 to 10 weeks after starting ezetimibe-simvastatin, The patient had been treated with simvastatin 20 mg alone for 9 years without any adverse effects.  Two months after starting combination therapy with ezetimibe-simvastatin he noticed epistaxis that increased from a few drops every other day to profuse bleeding for 20 to 30 minutes daily.  The patient reported initiation of ezetimibe-simvastatin as the only change in his treatment regimen in the past year.  When he stopped ezetimibe-simvastatin, his epistaxis decreased.  After six weeks without ezetimibe-simvastatin, he had only one moderate nose bleed.  Four months later, the patient's hemoglobin was stable.  He then started simvastatin 40 mg monotherapy.  The profound epistaxis returned and the patient discontinued the medication.  It remains unclear whether the patient's accelerated epistaxis was due to the combination therapy or the double dosage of simvastatin.
+Ezetimibe:Postmarketing reports: Angioedema, anaphylaxis, rash, urticariaSimvastatin:Rare (less than 0.1%): Erythema multiforme, Stevens-Johnson syndrome, anaphylaxis, angioedema, urticaria, fever, chills, flushing, malaise, dyspnea
+Frequency not reported: Headache, confusion, fatigueEzetimibe:Postmarketing reports: Dizziness, paraesthesiaSimvastatin:Frequency not reported: Cranial nerve dysfunction, tremor, vertigo, memory loss, paraesthesias, peripheral neuropathy, peripheral nerve palsy
+A case of memory loss possibly related to simvastatin use has been reported.  The patient developed gradual memory loss following 12 months of simvastatin therapy.  He was switched to pravastatin, and within a month his memory was intact.  Rechallenge with simvastatin was not performed.
+Simvastatin:Frequency not reported: Progression of cataracts, ophthalmoplegia
+Simvastatin:Frequency not reported: Liver, thyroid, and lung adenomas and carcinomas
+Simvastatin:Frequency not reported: Depression, suicidal thoughts, delusions, paranoia, agitation, decreased libido, anxiety, insomnia
 It is possible that some side effects of Vytorin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Abdominal or stomach fullness
 bloating
 chills
@@ -102,8 +48,6 @@ tightness in the chest
 trouble breathing or swallowing
 vomiting
 yellow eyes or skin
-
-
 Body aches or pain
 cough
 diarrhea
@@ -125,4 +69,3 @@ sweating
 swollen joints
 trouble sleeping
 unusual tiredness or weakness
-

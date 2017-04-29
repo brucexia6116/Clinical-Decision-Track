@@ -1,40 +1,30 @@
 Commonly reported side effects of ticagrelor include: dyspnea.  See below for a comprehensive list of adverse effects.
-Applies to ticagrelor: oral tablet
 As well as its needed effects, ticagrelor may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking ticagrelor, check with your doctor immediately:
 Some ticagrelor side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to ticagrelor: oral tablet
-The most commonly reported side effects were bleeding and dyspnea.[Ref]
-Very common (10% or more): Bleeding (12%)[Ref]
-In the PLATO study (PLATelet Inhibition and Patient Outcomes, n= 18,624), 9235 patients were treated with ticagrelor 90 mg orally twice a day.  Patients were evaluated for non-CABG related major or minor bleeds compared to clopidogrel (n=9186).  A minor bleed required medical intervention to stop or treat bleeding, whereas a major bleed included any of the following: fatal, intracranial, intrapericardial with cardiac tamponade, hypovolemic shock or severe hypotension requiring intervention, significantly disabling (e.g., intraocular with permanent vision loss), a decrease in hemoglobin of at least 3 g/dL (or a fall in hematocrit of at least 9%), or a transfusion of 2 or more units.  A major bleed that was fatal/life-threatening was any of the events described as a major bleed plus a decrease in hemoglobin of more than 5 g/dL, a fall in hematocrit of at least 15%, or a transfusion of 4 or more units.  A fatal bleed was a bleeding event that directly led to death within 7 days.  For ticagrelor, the incidence of major and minor bleeds was 7.7% (clopidogrel 6.2%).  These findings are broken down as followed: Major bleed (3.9%) major bleed fatal/life threatening (1.9%), fatal (0.2%), and intracranial hemorrhage fatal/life threatening (0.3%).  Approximately half of the non-CABG major bleeding events occurred in the first 30 days.  In the PLATO study, when antiplatelet therapy was stopped 5 days prior to CABG, major bleeding occurred in 75% and 79% of patients receiving ticagrelor or clopidogrel, respectively.[Ref]
-During the PLATO study, (PLATelet Inhibition and Patient Outcomes, n= 18,624), dyspnea was reported in 13.8% of ticagrelor-treated patients, it was usually mild to moderate in intensity and often resolved during continued treatment, however, drug discontinuation was required in 0.9% of patients.  In the PEGASUS study (n=21,162), 4.3% of patients taking ticagrelor 60 mg orally twice a day discontinued treatment due to dyspnea compared to 0.7% receiving aspirin alone.  In a substudy of PLATO, 199 subjects underwent pulmonary function testing irrespective of whether they reported dyspnea.  There was no indication of an adverse effect on pulmonary function assessed after one month or after at least 6 months of chronic treatment.[Ref]
-Very common (10% or more): Dyspnea (14%)Common (1% to 10%): Epistaxis, coughUncommon (0.1% to 1%): Hemoptysis[Ref]
-In a Holter substudy of approximately 3000 patients from the PLATelet Inhibition and Patient Outcomes study, (PLATO, n= 18,624), more patients had ventricular pauses 3 seconds or longer with ticagrelor (6%) than with clopidogrel (3.5%) in the acute phase and 2.2% and 1.6% respectively after 1 month.  Patients that were at an increased risk for bradycardic events were excluded from these studies.  Patients with congestive heart failure (CHF) who were taking ticagrelor experienced ventricular pauses at a higher rate (9.2%) than those without CHF (5.4).[Ref]
-Common (1% to 10%): Ventricular pauses, cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, bradycardia, cardiac failure, atrial fibrillation, peripheral edema, hypertension, hypotension, syncope, pre-syncopeUncommon (0.1% to 1%): Non-cardiac chest painPostmarketing reports: Atrioventricular block[Ref]
-During the PLATO study, (PLATelet Inhibition and Patient Outcomes, n= 18,624), serum creatinine levels increased by more than 50% in 7.4% of patients receiving ticagrelor 90 mg orally.  Levels did not continue to increase with ongoing treatment and often decreased with continued therapy.  Reversibility occurred upon discontinuation even in those patients with the greatest increase in levels during treatment.  Treatment groups did not differ for renal related serious adverse events (e.g.  acute renal failure, chronic renal failure, toxic nephropathy, or oliguria).[Ref]
-Common (1% to 10%): Serum creatinine elevations[Ref]
-Common (1% to 10%): Back painRare (0.01% to 0.1%): Hemarthrosis[Ref]
-Postmarketing reports: Hypersensitivity reactions including angioedema[Ref]
-Common (1% to 10%): Dizziness, loss of consciousnessUncommon (0.1% to 1%): Intracranial hemorrhage, paresthesia, headache[Ref]
-Common (1% to 10%): Abdominal pain, dyspepsia, gastrointestinal hemorrhage, nausea, diarrhea, constipation, vomitingUncommon (0.1% to 1%): Retroperitoneal hemorrhage, gastritis, hematemesis, gastrointestinal ulcer hemorrhage, hemorrhoidal hemorrhage, oral hemorrhage[Ref]
-Uncommon (0.1% to 1%): GoutRare (0.01% to 0.1%): Hyperuricemia[Ref]
-In the PLATelet Inhibition and Patient Outcomes Study (PLATO, n= 18,624) the serum uric acid levels of patients taking ticagrelor 90 mg orally twice a day increased approximately 0.6 mg/dL from baseline.  The difference disappeared within 30 days of stopping treatment.  Gout occurred in 0.6% of patients.[Ref]
-Common (1% to 10%): Urinary tract bleedingUncommon (0.1% to 1%): Vaginal bleeding[Ref]
-Common (1% to 10%): Rash, pruritus, subcutaneous or dermal bleeding, bruising[Ref]
-Uncommon (0.1% to 1%): Eye hemorrhage[Ref]
-Common (1% to 10%): Vertigo, post procedural hemorrhage, fatigue, pyrexiaUncommon (0.1% to 1%): Ear hemorrhage, wound hemorrhage, traumatic hemorrhage[Ref]
-Rare (0.01% to 0.1%): Confusion[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Brilinta (ticagrelor)." Astra-Zeneca Pharmaceuticals, Wilmington, DE. 
+The most commonly reported side effects were bleeding and dyspnea.
+Very common (10% or more): Bleeding (12%)
+In the PLATO study (PLATelet Inhibition and Patient Outcomes, n= 18,624), 9235 patients were treated with ticagrelor 90 mg orally twice a day.  Patients were evaluated for non-CABG related major or minor bleeds compared to clopidogrel (n=9186).  A minor bleed required medical intervention to stop or treat bleeding, whereas a major bleed included any of the following: fatal, intracranial, intrapericardial with cardiac tamponade, hypovolemic shock or severe hypotension requiring intervention, significantly disabling (e.g., intraocular with permanent vision loss), a decrease in hemoglobin of at least 3 g/dL (or a fall in hematocrit of at least 9%), or a transfusion of 2 or more units.  A major bleed that was fatal/life-threatening was any of the events described as a major bleed plus a decrease in hemoglobin of more than 5 g/dL, a fall in hematocrit of at least 15%, or a transfusion of 4 or more units.  A fatal bleed was a bleeding event that directly led to death within 7 days.  For ticagrelor, the incidence of major and minor bleeds was 7.7% (clopidogrel 6.2%).  These findings are broken down as followed: Major bleed (3.9%) major bleed fatal/life threatening (1.9%), fatal (0.2%), and intracranial hemorrhage fatal/life threatening (0.3%).  Approximately half of the non-CABG major bleeding events occurred in the first 30 days.  In the PLATO study, when antiplatelet therapy was stopped 5 days prior to CABG, major bleeding occurred in 75% and 79% of patients receiving ticagrelor or clopidogrel, respectively.
+During the PLATO study, (PLATelet Inhibition and Patient Outcomes, n= 18,624), dyspnea was reported in 13.8% of ticagrelor-treated patients, it was usually mild to moderate in intensity and often resolved during continued treatment, however, drug discontinuation was required in 0.9% of patients.  In the PEGASUS study (n=21,162), 4.3% of patients taking ticagrelor 60 mg orally twice a day discontinued treatment due to dyspnea compared to 0.7% receiving aspirin alone.  In a substudy of PLATO, 199 subjects underwent pulmonary function testing irrespective of whether they reported dyspnea.  There was no indication of an adverse effect on pulmonary function assessed after one month or after at least 6 months of chronic treatment.
+Very common (10% or more): Dyspnea (14%)Common (1% to 10%): Epistaxis, coughUncommon (0.1% to 1%): Hemoptysis
+In a Holter substudy of approximately 3000 patients from the PLATelet Inhibition and Patient Outcomes study, (PLATO, n= 18,624), more patients had ventricular pauses 3 seconds or longer with ticagrelor (6%) than with clopidogrel (3.5%) in the acute phase and 2.2% and 1.6% respectively after 1 month.  Patients that were at an increased risk for bradycardic events were excluded from these studies.  Patients with congestive heart failure (CHF) who were taking ticagrelor experienced ventricular pauses at a higher rate (9.2%) than those without CHF (5.4).
+Common (1% to 10%): Ventricular pauses, cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, bradycardia, cardiac failure, atrial fibrillation, peripheral edema, hypertension, hypotension, syncope, pre-syncopeUncommon (0.1% to 1%): Non-cardiac chest painPostmarketing reports: Atrioventricular block
+During the PLATO study, (PLATelet Inhibition and Patient Outcomes, n= 18,624), serum creatinine levels increased by more than 50% in 7.4% of patients receiving ticagrelor 90 mg orally.  Levels did not continue to increase with ongoing treatment and often decreased with continued therapy.  Reversibility occurred upon discontinuation even in those patients with the greatest increase in levels during treatment.  Treatment groups did not differ for renal related serious adverse events (e.g.  acute renal failure, chronic renal failure, toxic nephropathy, or oliguria).
+Common (1% to 10%): Serum creatinine elevations
+Common (1% to 10%): Back painRare (0.01% to 0.1%): Hemarthrosis
+Postmarketing reports: Hypersensitivity reactions including angioedema
+Common (1% to 10%): Dizziness, loss of consciousnessUncommon (0.1% to 1%): Intracranial hemorrhage, paresthesia, headache
+Common (1% to 10%): Abdominal pain, dyspepsia, gastrointestinal hemorrhage, nausea, diarrhea, constipation, vomitingUncommon (0.1% to 1%): Retroperitoneal hemorrhage, gastritis, hematemesis, gastrointestinal ulcer hemorrhage, hemorrhoidal hemorrhage, oral hemorrhage
+Uncommon (0.1% to 1%): GoutRare (0.01% to 0.1%): Hyperuricemia
+In the PLATelet Inhibition and Patient Outcomes Study (PLATO, n= 18,624) the serum uric acid levels of patients taking ticagrelor 90 mg orally twice a day increased approximately 0.6 mg/dL from baseline.  The difference disappeared within 30 days of stopping treatment.  Gout occurred in 0.6% of patients.
+Common (1% to 10%): Urinary tract bleedingUncommon (0.1% to 1%): Vaginal bleeding
+Common (1% to 10%): Rash, pruritus, subcutaneous or dermal bleeding, bruising
+Uncommon (0.1% to 1%): Eye hemorrhage
+Common (1% to 10%): Vertigo, post procedural hemorrhage, fatigue, pyrexiaUncommon (0.1% to 1%): Ear hemorrhage, wound hemorrhage, traumatic hemorrhage
+Rare (0.01% to 0.1%): Confusion
 It is possible that some side effects of ticagrelor may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Difficult or labored breathing
 tightness in the chest
-
-
 Blurred vision
 chest pain or discomfort
 confusion
@@ -50,8 +40,6 @@ pounding in the ears
 slow or fast heartbeat
 sweating
 unusual tiredness or weakness
-
-
 Bleeding gums
 bruising
 coughing up blood
@@ -67,12 +55,7 @@ rash
 red or black, tarry stools
 red or dark brown urine
 weakness
-
-
 Back pain
 cough
 diarrhea
-
-
 Swelling of the breasts or breast soreness in both females and males
-

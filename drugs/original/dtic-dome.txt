@@ -1,43 +1,23 @@
-Generic Name: dacarbazine
-Applies to dacarbazine: powder for solution, powder for suspension
-In addition to its needed effects, some unwanted effects may be caused by dacarbazine (the active ingredient contained in DTIC-Dome). In the event that any of these side effects do occur, they may require medical attention.
 Also, because of the way these medicines act on the body, there is a chance that they might cause other unwanted effects that may not occur until months or years after the medicine is used. These delayed effects may include certain types of cancer, such as leukemia. Discuss these possible effects with your doctor.
-You should check with your doctor immediately if any of these side effects occur when taking dacarbazine:
 If any of the following side effects occur while taking dacarbazine, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with dacarbazine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
 This medicine may cause a temporary loss of hair in some people. After treatment with dacarbazine has ended, normal hair growth should return.
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention. If you notice any of the following side effects check with your doctor immediately:
-
-
-Applies to dacarbazine: intravenous powder for injection
-Hematologic side effects may be delayed for 2 to 4 weeks after dosage administration.[Ref]
-Hematologic side effects including hematopoietic depression (involving primarily the leukocytes and platelets) are the most commonly reported toxicity.  Severe cases of leukopenia and thrombocytopenia resulting in fatality have been reported.  Anemia has also been reported.[Ref]
-Gastrointestinal side effects including anorexia, nausea, and vomiting have been reported frequently.  Diarrhea has rarely been reported.[Ref]
-Anorexia, nausea, and vomiting may begin within 1 to 12 hours of dosage administration.  Over 90% of patients are affected within the first few doses.  Intractable nausea and vomiting have rarely necessitated discontinuation of therapy.  Vomiting has been reported to last for 1 to 2 hours and be incompletely and unpredictably palliated with phenobarbital and/or prochlorperazine.  Some clinicians have recommended the use of serotonin receptor antagonist to control the nausea and vomiting.  The rapid toleration of nausea and vomiting may suggest a central nervous system mechanism.  Usually these symptoms subside after the first day or two.  In a trial of high-dose dacarbazine, of 28 dosages equal to or greater than 1,380 mg/m2, all caused nausea and vomiting.  At 1,380 mg/m2, 12 of 14 patients experienced diarrhea.  Of 13 dosages greater than 1,380 mg/m2, all caused diarrhea.[Ref]
-The manufacturer states that hepatic toxicity has occurred primarily when dacarbazine (the active ingredient contained in DTIC-Dome) has been administered concomitantly with other antineoplastic agents.In one study, fatal massive hepatic necrosis with widespread thrombotic occlusion of the small hepatic veins developed in two of 68 patients (3%).  The study notes 13 similar reactions in patients receiving dacarbazine as single agent therapy to have been reported in the literature.  Hepatic toxicity may be delayed.[Ref]
-Hepatic side effects including hepatic vein thrombosis and fatal hepatocellular necrosis have been reported (0.01%).[Ref]
-Because the hypotension was reversible by either stopping the infusion or administration of calcium chloride, it has been suggested that the citric acid preservative may have been the cause of the hypotension.[Ref]
-Cardiovascular side effects including dose-limiting hypotension have been reported during high dose therapy.[Ref]
-Hypersensitivity side effects including anaphylaxis have been reported.[Ref]
-Dermatologic side effects including erythematous and urticarial rashes, facial flushing, phototoxic dermatitis, facial paresthesia, alopecia, facial flushing, and photosensitivity have been reported.[Ref]
-Ten cases of photosensitivity have been reported.[Ref]
-The influenza-like syndrome usually occurs after large single doses, and may occur with successive treatments.  Onset may occur after approximately 7 days and symptoms generally resolve after 1 to 3 weeks.[Ref]
-Other side effects including an influenza-like syndrome (fever to 39 degrees Celsius, myalgias, and malaise) have been reported.  Metallic taste has also been reported.[Ref]
-Local side effects including extravasation of the drug subcutaneously during intravenous administration have been reported to have resulted in local pain (occasionally severe), burning sensation, irritation and tissue damage.[Ref]
-Oncologic side effects have been reported in animal studies.[Ref]
-1. Buesa JM, Gracia M, Valle M, Estrada E, Hidalgo OF, Lacave AJ "Phase I trial of intermittent high-dose dacarbazine." Cancer Treat Rep 68 (1984): 499-504
-2. "Multum Information Services, Inc. Expert Review Panel"  
-3. "Product Information. DTIC-Dome (dacarbazine)." Bayer, West Haven, CT. 
-4. Feaux de Lacroix W, Runne U, Hauk H, Doepfmer K, Groth W, Wacker D "Acute liver dystrophy with thrombosis of hepatic veins: a fatal complication of dacarbazine treatment." Cancer Treat Rep 67 (1983): 779-84
-5. Sutherland CM, Krementz ET "Hepatic toxicity of DTIC." Cancer Treat Rep 65 (1981): 321-2
-6. Marsh JC "Hepatic vascular toxicity of dacarbazine (DTIC): not a rare complication." Hepatology 9 (1989): 790-2
-7. Mudipalli A, Nadadur SS, Maccubbin AE, Gurtoo HL "Mutations induced by dacarbazine activated with cytochrome P-450." Mutat Res 327 (1995): 113-20
-8. Mudipalli A, Srikanth NS, Maccubbin AE, Gurtoo HL "Mutations induced by cytochrome P-450-activated dacarbazine (Meeting abstract)." Proc Annu Meet Am Assoc Cancer Res 35 (1994): a6811994
-Not all side effects for DTIC-Dome may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hematologic side effects may be delayed for 2 to 4 weeks after dosage administration.
+Hematologic side effects including hematopoietic depression (involving primarily the leukocytes and platelets) are the most commonly reported toxicity.  Severe cases of leukopenia and thrombocytopenia resulting in fatality have been reported.  Anemia has also been reported.
+Gastrointestinal side effects including anorexia, nausea, and vomiting have been reported frequently.  Diarrhea has rarely been reported.
+Anorexia, nausea, and vomiting may begin within 1 to 12 hours of dosage administration.  Over 90% of patients are affected within the first few doses.  Intractable nausea and vomiting have rarely necessitated discontinuation of therapy.  Vomiting has been reported to last for 1 to 2 hours and be incompletely and unpredictably palliated with phenobarbital and/or prochlorperazine.  Some clinicians have recommended the use of serotonin receptor antagonist to control the nausea and vomiting.  The rapid toleration of nausea and vomiting may suggest a central nervous system mechanism.  Usually these symptoms subside after the first day or two.  In a trial of high-dose dacarbazine, of 28 dosages equal to or greater than 1,380 mg/m2, all caused nausea and vomiting.  At 1,380 mg/m2, 12 of 14 patients experienced diarrhea.  Of 13 dosages greater than 1,380 mg/m2, all caused diarrhea.
+The manufacturer states that hepatic toxicity has occurred primarily when dacarbazine (the active ingredient contained in DTIC-Dome) has been administered concomitantly with other antineoplastic agents.In one study, fatal massive hepatic necrosis with widespread thrombotic occlusion of the small hepatic veins developed in two of 68 patients (3%).  The study notes 13 similar reactions in patients receiving dacarbazine as single agent therapy to have been reported in the literature.  Hepatic toxicity may be delayed.
+Hepatic side effects including hepatic vein thrombosis and fatal hepatocellular necrosis have been reported (0.01%).
+Because the hypotension was reversible by either stopping the infusion or administration of calcium chloride, it has been suggested that the citric acid preservative may have been the cause of the hypotension.
+Cardiovascular side effects including dose-limiting hypotension have been reported during high dose therapy.
+Hypersensitivity side effects including anaphylaxis have been reported.
+Dermatologic side effects including erythematous and urticarial rashes, facial flushing, phototoxic dermatitis, facial paresthesia, alopecia, facial flushing, and photosensitivity have been reported.
+Ten cases of photosensitivity have been reported.
+The influenza-like syndrome usually occurs after large single doses, and may occur with successive treatments.  Onset may occur after approximately 7 days and symptoms generally resolve after 1 to 3 weeks.
+Other side effects including an influenza-like syndrome (fever to 39 degrees Celsius, myalgias, and malaise) have been reported.  Metallic taste has also been reported.
+Local side effects including extravasation of the drug subcutaneously during intravenous administration have been reported to have resulted in local pain (occasionally severe), burning sensation, irritation and tissue damage.
+Oncologic side effects have been reported in animal studies.
 Redness, pain, or swelling at place of injection
-
-
 Black, tarry stools
 blood in urine or stools
 cough or hoarseness, accompanied by fever or chills
@@ -46,27 +26,17 @@ fever or chills
  painful or difficult urination, accompanied by fever or chills
 pinpoint red spots on skin
 unusual bleeding or bruising
-
-
 Shortness of breath
 stomach pain
 swelling of face
 yellow eyes or skin 
-
-
 Sores in mouth and on lips
-
-
 Loss of appetite
 nausea or vomiting (should lessen after 1 or 2 days)
-
-
 Feelings of uneasiness
 flushing of face
 muscle pain
 numbness of face
-
-
 Black, tarry stools
 blood in urine or stools
 cough or hoarseness, accompanied by fever or chills
@@ -75,4 +45,3 @@ fever or chills
  painful or difficult urination, accompanied by fever or chills
 pinpoint red spots on skin
 unusual bleeding or bruising
-

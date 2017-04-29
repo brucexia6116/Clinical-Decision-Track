@@ -1,40 +1,29 @@
-Generic Name: atenolol
 Common side effects of Tenormin include: cardiac failure, bradycardia, dizziness, fatigue, and cold extremities.  See below for a comprehensive list of adverse effects.
-Applies to atenolol: oral tablet
 Other dosage forms:
 As well as its needed effects, atenolol (the active ingredient contained in Tenormin) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking atenolol, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking atenolol, get emergency help immediately:
-
 Some atenolol side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to atenolol: compounding powder, injectable solution, oral tablet
-The more commonly reported side effects associated with this drug are hypotension, tiredness, and dizziness.[Ref]
-Bradycardia and hypotension were reported more frequently in patients following a myocardial infarction than among those receiving the drug for treatment of hypertension.  In a large study, after a myocardial infarction, patients were more likely to reduce the dosage or discontinue this drug due to bradycardia and hypotension.[Ref]
-Common (1% to 10%): Bradycardia, hypotension, cold extremities, heart failure deterioration, heart block precipitation, postural hypotension with or without syncopeRare (0.01% to 0.1%): Intermittent claudication exacerbation, Raynaud's phenomenon Frequency not reported: Left ventricular insufficiencyPostmarketing reports: Sick sinus syndrome[Ref]
-Very common (10% or more): Tiredness (up to 26%)Common (1% to 10%): FatigueFrequency not reported: Malaise, tinnitus[Ref]
-Very common (10% or more): Dizziness (up to 13%)Common (1% to 10%): Vertigo, lightheadedness, lethargy, drowsinessRare (0.01% to 0.1%): Headache, paresthesiaFrequency not reported: Ataxia[Ref]
-Very common (10% or more): Depression (up to 12%)Common (1% to 10%): DreamingUncommon (0.1% to 1%): Sleep disturbances, Rare (0.01% to 0.1%): Mood changes, nightmares, confusion, psychoses, hallucinationsFrequency not reported: Vivid dreams, insomnia[Ref]
-Common (1% to 10%): Wheezing, dyspnea, pulmonary emboliRare (0.01% to 0.1%): Bronchospasm Frequency not reported: Asthma, nasal congestion[Ref]
-Common (1% to 10%): Gastrointestinal disturbances, diarrhea, nauseaRare (0.01% to 0.1%): Dry mouthFrequency not reported: Indigestion, constipation[Ref]
-Common (1% to 10%): Leg pain[Ref]
-Uncommon (0.1% to 1%): Transaminase level elevationRare (0.01% to 0.1%): Hepatic toxicity including intrahepatic cholestasisPostmarketing reports: Elevated bilirubin[Ref]
-Uncommon (0.1% to 1%): Renal failureFrequency not reported: Increased blood urea, increased serum creatinine[Ref]
-Rare (0.01% to 0.1%): Purpura, alopecia, psoriasiform skin reactions, psoriasis exacerbations, skin rash[Ref]
-Rare (0.01% to 0.1%): ImpotencePostmarketing reports: Peyronie's disease[Ref]
-Rare (0.01% to 0.1%): Thrombocytopenia[Ref]
-Rare (0.01% to 0.1%): Dry eyes, visual disturbances[Ref]
-The clinical significance of elevated ANA levels is unknown.[Ref]
-Very rare (less than 0.01%): Increase in antinuclear antibodies (ANA)[Ref]
-Frequency not reported: Angioedema, urticaria[Ref]
-1. "Product Information. Tenormin (atenolol)." ICN Pharmaceuticals Inc, Cost Mesa, CA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+The more commonly reported side effects associated with this drug are hypotension, tiredness, and dizziness.
+Bradycardia and hypotension were reported more frequently in patients following a myocardial infarction than among those receiving the drug for treatment of hypertension.  In a large study, after a myocardial infarction, patients were more likely to reduce the dosage or discontinue this drug due to bradycardia and hypotension.
+Common (1% to 10%): Bradycardia, hypotension, cold extremities, heart failure deterioration, heart block precipitation, postural hypotension with or without syncopeRare (0.01% to 0.1%): Intermittent claudication exacerbation, Raynaud's phenomenon Frequency not reported: Left ventricular insufficiencyPostmarketing reports: Sick sinus syndrome
+Very common (10% or more): Tiredness (up to 26%)Common (1% to 10%): FatigueFrequency not reported: Malaise, tinnitus
+Very common (10% or more): Dizziness (up to 13%)Common (1% to 10%): Vertigo, lightheadedness, lethargy, drowsinessRare (0.01% to 0.1%): Headache, paresthesiaFrequency not reported: Ataxia
+Very common (10% or more): Depression (up to 12%)Common (1% to 10%): DreamingUncommon (0.1% to 1%): Sleep disturbances, Rare (0.01% to 0.1%): Mood changes, nightmares, confusion, psychoses, hallucinationsFrequency not reported: Vivid dreams, insomnia
+Common (1% to 10%): Wheezing, dyspnea, pulmonary emboliRare (0.01% to 0.1%): Bronchospasm Frequency not reported: Asthma, nasal congestion
+Common (1% to 10%): Gastrointestinal disturbances, diarrhea, nauseaRare (0.01% to 0.1%): Dry mouthFrequency not reported: Indigestion, constipation
+Common (1% to 10%): Leg pain
+Uncommon (0.1% to 1%): Transaminase level elevationRare (0.01% to 0.1%): Hepatic toxicity including intrahepatic cholestasisPostmarketing reports: Elevated bilirubin
+Uncommon (0.1% to 1%): Renal failureFrequency not reported: Increased blood urea, increased serum creatinine
+Rare (0.01% to 0.1%): Purpura, alopecia, psoriasiform skin reactions, psoriasis exacerbations, skin rash
+Rare (0.01% to 0.1%): ImpotencePostmarketing reports: Peyronie's disease
+Rare (0.01% to 0.1%): Thrombocytopenia
+Rare (0.01% to 0.1%): Dry eyes, visual disturbances
+The clinical significance of elevated ANA levels is unknown.
+Very rare (less than 0.01%): Increase in antinuclear antibodies (ANA)
+Frequency not reported: Angioedema, urticaria
 It is possible that some side effects of Tenormin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 intravenous solution
-
 Blurred vision
 cold hands or feet
 confusion
@@ -45,8 +34,6 @@ sweating
 tightness in chest
 unusual tiredness or weakness
 wheezing
-
-
 Anxiety
 chest pain or discomfort
 chills
@@ -59,8 +46,6 @@ leg pain
 noisy breathing
 slow or irregular heartbeat
 sudden shortness of breath or troubled breathing
-
-
 Bloody urine
 decreased frequency or amount of urine
 increased blood pressure
@@ -71,8 +56,6 @@ nausea
 swelling of face, fingers, or lower legs
 vomiting
 weight gain
-
-
 Black, tarry stools
 bleeding gums
 blood in urine or stools
@@ -98,8 +81,6 @@ tingling or pain in fingers or toes when exposed to cold
 tunnel vision
 unusual behavior
 unusual bleeding or bruising
-
-
 Anxiety
 coma
 cool, pale skin
@@ -115,8 +96,6 @@ seizures
 shakiness
 slurred speech
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
-
-
 Discouragement
 feeling sad or empty
 irritability
@@ -124,19 +103,14 @@ lack of appetite
 loss of interest or pleasure
 trouble concentrating
 trouble sleeping
-
-
 Diarrhea
 dream activity
 feeling of constant movement of self or surroundings
 sensation of spinning
 sleepiness
-
-
 Decreased interest in sexual intercourse
 dry mouth
 inability to have or keep an erection
 loss in sexual ability, desire, drive, or performance
 loss of hair, temporary
 pain of penis on erection
-

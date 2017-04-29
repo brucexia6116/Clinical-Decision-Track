@@ -1,18 +1,11 @@
-Generic Name: cholecalciferol
-Applies to cholecalciferol: oral capsule, oral capsule liquid filled, oral solution, oral tablet, oral tablet chewable, oral wafer
 As well as its needed effects, cholecalciferol (the active ingredient contained in Vitamin D3) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking cholecalciferol, check with your doctor immediately:
-
-
-Applies to cholecalciferol: compounding crystal, oral capsule, oral liquid, oral solution, oral tablet, oral tablet chewable, oral tablet disintegrating, oral wafer
-Metabolic side effects have included hypercalcemia.[Ref]
-Uncommon (0.1% to 1%): Hypercalciuria[Ref]
-Rare (less than 0.1%): Pruritus, rash, urticaria[Ref]
-Frequency not reported: Hypersensitivity reactions such as angioedema or laryngeal edema[Ref]
-Frequency not reported: Nausea, vomiting[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+Metabolic side effects have included hypercalcemia.
+Uncommon (0.1% to 1%): Hypercalciuria
+Rare (less than 0.1%): Pruritus, rash, urticaria
+Frequency not reported: Hypersensitivity reactions such as angioedema or laryngeal edema
+Frequency not reported: Nausea, vomiting
 It is possible that some side effects of Vitamin D3 may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Cough
 difficulty swallowing
 dizziness
@@ -22,4 +15,3 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 skin rash
 tightness in the chest
 unusual tiredness or weakness
-

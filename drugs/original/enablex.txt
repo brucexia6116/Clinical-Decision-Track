@@ -1,48 +1,29 @@
-Generic Name: darifenacin
 Common side effects of Enablex include: constipation and xerostomia. Other side effects include: dyspepsia.  See below for a comprehensive list of adverse effects.
-Applies to darifenacin: oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by darifenacin (the active ingredient contained in Enablex). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking darifenacin:
-
 If any of the following symptoms of overdose occur while taking darifenacin, get emergency help immediately:
-
-Some of the side effects that can occur with darifenacin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to darifenacin: oral tablet extended release
-A higher incidence of GI side effects has been reported with higher dosages.[Ref]
-Gastrointestinal (GI) side effects have been reported the most frequently.  These have included constipation (14.8% to 20.9% or greater), dry mouth (18.7% or greater), dyspepsia (2.7% to 4.5% or greater), and nausea (4.1% or greater).  Abdominal pain, vomiting, and diarrhea have been reported in greater than or equal to 2% of patients.[Ref]
-Genitourinary side effects have included urinary tract infection (3.7% or greater) and vaginitis.[Ref]
-Nervous system side effects have included headache (6.7%) and dizziness (2% or greater).  A variety of CNS anticholinergic effects have been reported, including headache, confusion, hallucinations and somnolence.  Patients should be monitored for signs of anticholinergic CNS effects, particularly after beginning treatment or increasing the dose.[Ref]
-Ocular side effects have included abnormal vision (2% or greater) and dry eyes.[Ref]
-General side effects have included flu syndrome (3%), asthenia (2% or greater), arthralgias, peripheral edema, and weight gain.[Ref]
-Dermatologic side effects have included dry skin, rash, and pruritus.  Dermatologic side effects reported postmarketing have included erythema multiforme and interstitial granuloma annulare.[Ref]
-Respiratory side effects have included bronchitis, pharyngitis, rhinitis, and sinusitis.[Ref]
-Cardiovascular side effects reported postmarketing have included heart palpitations.[Ref]
-Cardiovascular side effects have included hypertension.[Ref]
-Musculoskeletal side effects have included arthralgias.[Ref]
-Metabolic side effects have included weight gain and swelling (angioedema) of the face, lips, tongue, and/or throat which may result in airway obstruction..[Ref]
-Other side effects have included flu syndrome (3%) and accidental injury (3%).[Ref]
-Hypersensitivity side effects have included postmarketing reports of anaphylactic reaction.[Ref]
-1. "Product Information. Enablex (darifenacin)." Novartis Pharmaceuticals, East Hanover, NJ. 
-Not all side effects for Enablex may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+A higher incidence of GI side effects has been reported with higher dosages.
+Gastrointestinal (GI) side effects have been reported the most frequently.  These have included constipation (14.8% to 20.9% or greater), dry mouth (18.7% or greater), dyspepsia (2.7% to 4.5% or greater), and nausea (4.1% or greater).  Abdominal pain, vomiting, and diarrhea have been reported in greater than or equal to 2% of patients.
+Genitourinary side effects have included urinary tract infection (3.7% or greater) and vaginitis.
+Nervous system side effects have included headache (6.7%) and dizziness (2% or greater).  A variety of CNS anticholinergic effects have been reported, including headache, confusion, hallucinations and somnolence.  Patients should be monitored for signs of anticholinergic CNS effects, particularly after beginning treatment or increasing the dose.
+Ocular side effects have included abnormal vision (2% or greater) and dry eyes.
+General side effects have included flu syndrome (3%), asthenia (2% or greater), arthralgias, peripheral edema, and weight gain.
+Dermatologic side effects have included dry skin, rash, and pruritus.  Dermatologic side effects reported postmarketing have included erythema multiforme and interstitial granuloma annulare.
+Respiratory side effects have included bronchitis, pharyngitis, rhinitis, and sinusitis.
+Cardiovascular side effects reported postmarketing have included heart palpitations.
+Cardiovascular side effects have included hypertension.
+Musculoskeletal side effects have included arthralgias.
+Metabolic side effects have included weight gain and swelling (angioedema) of the face, lips, tongue, and/or throat which may result in airway obstruction..
+Other side effects have included flu syndrome (3%) and accidental injury (3%).
+Hypersensitivity side effects have included postmarketing reports of anaphylactic reaction.
 Bladder pain
 bloody or cloudy urine
 difficult, burning, or painful urination
 frequent urge to urinate
 lower back or side pain
-
-
 Decrease in the frequency of urination
 decrease in the urine volume
 difficulty in passing urine
 dribbling or painful urination
-
-
 Changes in vision
-
-
 Acid or sour stomach
 belching
 difficulty having a bowel movement (stool)
@@ -50,15 +31,11 @@ dry mouth
 heartburn
 indigestion
 stomach discomfort, upset, or pain
-
-
 Diarrhea
 dizziness
 dry eyes
 lack or loss of strength
 nausea
-
-
 Accidental injury
 bloating or swelling of the face, arms, hands, lower legs, or feet
 changes in vision
@@ -98,4 +75,3 @@ unusual weight gain or loss
 voice changes
 vomiting
 wheezing
-

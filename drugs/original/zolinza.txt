@@ -1,25 +1,18 @@
-Generic Name: vorinostat
 Common side effects of Zolinza include: anemia, diarrhea, nausea, thrombocytopenia, and vomiting. Other side effects include: pulmonary embolism.  See below for a comprehensive list of adverse effects.
-Applies to vorinostat: oral capsule
 As well as its needed effects, vorinostat (the active ingredient contained in Zolinza) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking vorinostat, check with your doctor immediately:
 Some vorinostat side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to vorinostat: oral capsule
-General side effects including fatigue (52.3%), decreased weight (20.9%), chills (16.3%), dizziness (15.1%), and pyrexia (10.5%) have been reported.  A case of syncope has also been reported.[Ref]
-Gastrointesinal side effects including diarrhea (52.3%), nausea (40.7%), dysgeusia (27.9%), anorexia (24.4%), dry mouth (16.3%), vomiting (15.1%), constipation (15.1%), and decreased appetite (14%) have been reported.  Cases of cholecystitis and gastrointestinal hemorrhage have also been reported.[Ref]
-Hematologic side effects including thrombocytopenia (25.6%), increased blood creatinine (16.3%), and anemia (up to 14.0%) have been reported.[Ref]
-Musculoskeletal side effects including muscle spasms (19.8%) have been reported.  A case of spinal cord injury has also been reported.[Ref]
-Dermatologic side effects including alopecia (18.6%) and pruritis (11.6%) have been reported.  A case of exfoliative dermatitis has also been reported.[Ref]
-Cardiovascular side effects including peripheral edema (12.8%) have been reported.  Cases of deep vein thrombosis, myocardial infarction, and ischemic stroke have also been reported.[Ref]
-Nervous system side effects including headache (11.6%) have been reported.[Ref]
-Respiratory side effects including upper respiratory infection (10.5%), cough (10.5%), and pulmonary embolism (4.7%) have been reported.  A case of lobar pneumonia has also been reported.[Ref]
-Oncologic side effects including squamous cell carcinoma (3.5%) have been reported.  A case of T-cell lymphoma has also been reported.[Ref]
-Other side effects have been reported including a case of a death from unknown causes.  Cases of enterococcal infection, infection, sepsis, and streptococcal bacteremia have also been reported.[Ref]
-1. "Product Information. Zolinza (vorinostat)." Merck & Company Inc, West Point, PA. 
+General side effects including fatigue (52.3%), decreased weight (20.9%), chills (16.3%), dizziness (15.1%), and pyrexia (10.5%) have been reported.  A case of syncope has also been reported.
+Gastrointesinal side effects including diarrhea (52.3%), nausea (40.7%), dysgeusia (27.9%), anorexia (24.4%), dry mouth (16.3%), vomiting (15.1%), constipation (15.1%), and decreased appetite (14%) have been reported.  Cases of cholecystitis and gastrointestinal hemorrhage have also been reported.
+Hematologic side effects including thrombocytopenia (25.6%), increased blood creatinine (16.3%), and anemia (up to 14.0%) have been reported.
+Musculoskeletal side effects including muscle spasms (19.8%) have been reported.  A case of spinal cord injury has also been reported.
+Dermatologic side effects including alopecia (18.6%) and pruritis (11.6%) have been reported.  A case of exfoliative dermatitis has also been reported.
+Cardiovascular side effects including peripheral edema (12.8%) have been reported.  Cases of deep vein thrombosis, myocardial infarction, and ischemic stroke have also been reported.
+Nervous system side effects including headache (11.6%) have been reported.
+Respiratory side effects including upper respiratory infection (10.5%), cough (10.5%), and pulmonary embolism (4.7%) have been reported.  A case of lobar pneumonia has also been reported.
+Oncologic side effects including squamous cell carcinoma (3.5%) have been reported.  A case of T-cell lymphoma has also been reported.
+Other side effects have been reported including a case of a death from unknown causes.  Cases of enterococcal infection, infection, sepsis, and streptococcal bacteremia have also been reported.
 It is possible that some side effects of Zolinza may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Anxiety
 black, tarry stools
 bleeding gums
@@ -71,15 +64,11 @@ troubled breathing with exertion
 unusual bleeding or bruising
 unusual drowsiness, dullness, or feeling of sluggishness
 unusual tiredness or weakness
-
-
 Persistent non-healing sore
 pink growth
 reddish patch or irritated area
 shiny bump
 white, yellow, or waxy scar-like area
-
-
 Chest discomfort
 general feeling of illness
 hoarseness
@@ -94,8 +83,6 @@ tightness in the chest
 vomiting of blood or material that looks like coffee grounds
 wheezing
 yellow skin and eyes
-
-
 Change in taste
 cracks in the skin
 difficulty having a bowel movement (stool)
@@ -107,4 +94,3 @@ loss of taste
 muscle spasm
 red, swollen skin
 scaly skin
-

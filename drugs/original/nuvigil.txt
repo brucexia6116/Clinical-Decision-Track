@@ -1,31 +1,22 @@
-Generic Name: armodafinil
 Common side effects of Nuvigil include: headache. Other side effects include: insomnia, nausea, skin rash, anxiety, and xerostomia.  See below for a comprehensive list of adverse effects.
-Applies to armodafinil: oral tablet
 As well as its needed effects, armodafinil (the active ingredient contained in Nuvigil) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking armodafinil, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking armodafinil, get emergency help immediately:
-
 Some armodafinil side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to armodafinil: oral tablet
-Common (1% to 10%): Rash, contact dermatitis, hyperhidrosis[Ref]
-Common (1% to 10%): Seasonal allergyFrequency not reported: Angioedema, anaphylaxis[Ref]
-Common (1% to 10%): Insomnia, anxiety, depression, agitation, depressed mood, disturbance in attention, nervousnessFrequency not reported: Irritability, suicidal ideation[Ref]
-Common (1% to 10%): Palpitations, increased heart rate, increased blood pressure[Ref]
-Common (1% to 10%): Nausea, diarrhea, dry mouth, dyspepsia, upper abdominal pain, constipation, vomiting, loose stools[Ref]
-The following reactions occurred more frequently with the 250 mg/day dose compared to the 150 mg/day dose: headache, rash, depression, dry mouth, insomnia, nausea.[Ref]
-Common (1% to 10%): Polyuria[Ref]
-Frequency not reported: Pancytopenia[Ref]
-Common (1% to 10%): Increased gamma-glutamyltransferase, increased alkaline phosphataseRare (less than 0.1%): Elevated AST and/or ALT[Ref]
-Common (1% to 10%): Anorexia, decreased appetite, Frequency not reported: Decreased serum uric acid[Ref]
-Very common (10% or more): Headache (17%)Common (1% to 10%): Dizziness, paresthesia, tremor, migraine[Ref]
-Common (1% to 10%): Fatigue, influenza-like illness, pain, pyrexia, thirst[Ref]
-Common (1% to 10%): Dyspnea[Ref]
-1. "Product Information. Nuvigil (armodafinil)." Cephalon Inc, West Chester, PA. 
+Common (1% to 10%): Rash, contact dermatitis, hyperhidrosis
+Common (1% to 10%): Seasonal allergyFrequency not reported: Angioedema, anaphylaxis
+Common (1% to 10%): Insomnia, anxiety, depression, agitation, depressed mood, disturbance in attention, nervousnessFrequency not reported: Irritability, suicidal ideation
+Common (1% to 10%): Palpitations, increased heart rate, increased blood pressure
+Common (1% to 10%): Nausea, diarrhea, dry mouth, dyspepsia, upper abdominal pain, constipation, vomiting, loose stools
+The following reactions occurred more frequently with the 250 mg/day dose compared to the 150 mg/day dose: headache, rash, depression, dry mouth, insomnia, nausea.
+Common (1% to 10%): Polyuria
+Frequency not reported: Pancytopenia
+Common (1% to 10%): Increased gamma-glutamyltransferase, increased alkaline phosphataseRare (less than 0.1%): Elevated AST and/or ALT
+Common (1% to 10%): Anorexia, decreased appetite, Frequency not reported: Decreased serum uric acid
+Very common (10% or more): Headache (17%)Common (1% to 10%): Dizziness, paresthesia, tremor, migraine
+Common (1% to 10%): Fatigue, influenza-like illness, pain, pyrexia, thirst
+Common (1% to 10%): Dyspnea
 It is possible that some side effects of Nuvigil may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blistering, burning, crusting, dryness, or flaking of the skin
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 difficult or labored breathing
@@ -41,8 +32,6 @@ shortness of breath
 tightness in the chest
 trembling or shaking of the hands or feet
 wheezing
-
-
 Anxiety
 blurred vision
 chest pain or discomfort
@@ -63,8 +52,6 @@ slow heartbeat
 trouble sleeping
 unable to sleep
 unusual tiredness or weakness
-
-
 Acid or sour stomach
 belching
 chills
@@ -91,4 +78,3 @@ tiredness
 trouble concentrating
 vomiting
 weight loss
-

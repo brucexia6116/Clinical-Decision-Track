@@ -1,27 +1,20 @@
-Generic Name: pilocarpine
 Common side effects of Salagen include: asthenia, dizziness, nausea, urinary frequency, headache, rhinitis, chills, diaphoresis, and flushing. Other side effects include: diarrhea, lacrimation, and vomiting.  See below for a comprehensive list of adverse effects.
-Applies to pilocarpine: oral tablet
 As well as its needed effects, pilocarpine (the active ingredient contained in Salagen) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking pilocarpine, check with your doctor or nurse as soon as possible:
 Some pilocarpine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to pilocarpine: compounding crystal, compounding powder, oral tablet
-Gastrointestinal side effects commonly reported have included nausea (6% to 15%), diarrhea (4% to 7%), dyspepsia (7%), abdominal pain (4%), and vomiting (4%).  Anorexia, increased appetite, cholelithiasis, flatulence, gastritis, gastroenteritis, gastrointestinal disorder, and tongue disorder have been reported rarely.[Ref]
-Respiratory side effects have included rhinitis (5% to 14%), sinusitis (4%), and pharyngitis (2%). Esophagitis, increased sputum, stridor, yawning, bronchitis, dyspnea, hiccup, laryngismus, laryngitis, and voice alteration have been reported infrequently.[Ref]
-Endocrine side effects have included sweating (29% to 68%), lacrimation (6%), and increased salivation (3%).[Ref]
-Cardiovascular side effects have included hypertension (3%), angina pectoris, arrhythmia, electrocardiogram abnormality, hypotension, myocardial infarction, tachycardia, bradycardia, palpitations, and syncope.[Ref]
-Nervous system side effects commonly reported have included asthenia (6% to 12%) and dizziness (5% to 12%).  Aphasia, confusion, abnormal dreams, hyperkinesia, hypesthesia, insomnia, myalgia, paresthesias, abnormal thinking, speech disorder, twitching, and tremor have been reported less frequently.[Ref]
-Ocular side effects have included amblyopia, cataract, conjunctivitis, dry eyes, blurred vision, eye disorder, eye pain, eye hemorrhage, glaucoma, retinal disorder, and abnormal vision.[Ref]
-Genitourinary side effects have included dysuria, metrorrhagia, urinary impairment, urinary incontinence, urinary tract infection, vaginitis, breast pain, mastitis, menorrhagia, ovarian disorder, pyuria, salpingitis, urethral pain, urinary urgency, vaginal hemorrhage, and vaginal moniliasis.[Ref]
-Psychiatric side effects have included anxiety, confusion, depression, abnormal dreams, somnolence, emotional lability, insomnia, and nervousness.[Ref]
-Hematologic side effects have included leukopenia, lymphadenopathy, hematuria, abnormal platelets, thrombocythemia, thrombocytopenia, thrombosis, and abnormal WBC.[Ref]
-Metabolic side effects have included hypoglycemia.[Ref]
-Dermatologic side effects have included seborrhea.[Ref]
-Other infrequently reported side effects have included cyst, neck pain, neck rigidity, photosensitivity reaction, body odor, taste loss, taste perversion, voice alteration, tongue disorder, tooth disorder, increased cough, fever, and lab test abnormalities.[Ref]
-1. "Product Information. Salagen Tablets (pilocarpine)." Boehringer-Ingelheim, Ridgefield, CT. 
+Gastrointestinal side effects commonly reported have included nausea (6% to 15%), diarrhea (4% to 7%), dyspepsia (7%), abdominal pain (4%), and vomiting (4%).  Anorexia, increased appetite, cholelithiasis, flatulence, gastritis, gastroenteritis, gastrointestinal disorder, and tongue disorder have been reported rarely.
+Respiratory side effects have included rhinitis (5% to 14%), sinusitis (4%), and pharyngitis (2%). Esophagitis, increased sputum, stridor, yawning, bronchitis, dyspnea, hiccup, laryngismus, laryngitis, and voice alteration have been reported infrequently.
+Endocrine side effects have included sweating (29% to 68%), lacrimation (6%), and increased salivation (3%).
+Cardiovascular side effects have included hypertension (3%), angina pectoris, arrhythmia, electrocardiogram abnormality, hypotension, myocardial infarction, tachycardia, bradycardia, palpitations, and syncope.
+Nervous system side effects commonly reported have included asthenia (6% to 12%) and dizziness (5% to 12%).  Aphasia, confusion, abnormal dreams, hyperkinesia, hypesthesia, insomnia, myalgia, paresthesias, abnormal thinking, speech disorder, twitching, and tremor have been reported less frequently.
+Ocular side effects have included amblyopia, cataract, conjunctivitis, dry eyes, blurred vision, eye disorder, eye pain, eye hemorrhage, glaucoma, retinal disorder, and abnormal vision.
+Genitourinary side effects have included dysuria, metrorrhagia, urinary impairment, urinary incontinence, urinary tract infection, vaginitis, breast pain, mastitis, menorrhagia, ovarian disorder, pyuria, salpingitis, urethral pain, urinary urgency, vaginal hemorrhage, and vaginal moniliasis.
+Psychiatric side effects have included anxiety, confusion, depression, abnormal dreams, somnolence, emotional lability, insomnia, and nervousness.
+Hematologic side effects have included leukopenia, lymphadenopathy, hematuria, abnormal platelets, thrombocythemia, thrombocytopenia, thrombosis, and abnormal WBC.
+Metabolic side effects have included hypoglycemia.
+Dermatologic side effects have included seborrhea.
+Other infrequently reported side effects have included cyst, neck pain, neck rigidity, photosensitivity reaction, body odor, taste loss, taste perversion, voice alteration, tongue disorder, tooth disorder, increased cough, fever, and lab test abnormalities.
 It is possible that some side effects of Salagen may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Chest pain
 confusion
 diarrhea (continuing or severe)
@@ -34,8 +27,6 @@ stomach cramps or pain
 tiredness or weakness (continuing or severe)
 trembling or shaking (continuing or severe) 
 trouble seeing (continuing or severe)
-
-
 Chills
 cough
  diarrhea
@@ -51,8 +42,6 @@ passing urine more often
 runny nose 
 unusual tiredness or weakness
  Sweating
-
-
 fast heartbeat
 headache
 holding more body water
@@ -63,4 +52,3 @@ trouble seeing
 unusual weak feeling
  voice change
 vomiting
-

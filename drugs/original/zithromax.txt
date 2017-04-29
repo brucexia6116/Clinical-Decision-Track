@@ -1,57 +1,30 @@
-Generic Name: azithromycin
 Common side effects of Zithromax include: diarrhea, loose stools, and nausea. Other side effects include: abdominal pain, and vomiting.  See below for a comprehensive list of adverse effects.
-Applies to azithromycin: oral capsule, oral powder for suspension, oral powder for suspension extended release, oral tablet
 Other dosage forms:
 As well as its needed effects, azithromycin (the active ingredient contained in Zithromax) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking azithromycin, check with your doctor immediately:
 Some azithromycin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to azithromycin: intravenous powder for injection, oral capsule, oral powder for reconstitution, oral powder for reconstitution extended release, oral tablet
-Gastrointestinal side effects have included nausea, abdominal discomfort, vomiting, and diarrhea in up to 10% of patients.  However, patients rarely (less than 1%) discontinued therapy due to these side effects.  Dyspepsia, flatulence, mucositis, oral moniliasis, constipation, melena, and gastritis have been reported with a frequency of 1% or less.  Pseudomembranous colitis has been reported with nearly all antibacterial agents and may range in severity from mild to life-threatening.  Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of azithromycin (the active ingredient contained in Zithromax)   Anorexia, vomiting/diarrhea rarely resulting in dehydration, pancreatitis, oral candidiasis, pyloric stenosis, and rare cases of tongue discoloration have been reported during postmarketing experience.[Ref]
-Reappearance of allergic symptoms may occur without further azithromycin (the active ingredient contained in Zithromax) exposure when symptomatic therapy is discontinued.  This phenomenon may be related to the long tissue half-life of the drug.  Patients experiencing allergic symptoms may require prolonged periods of observation and symptomatic treatment.[Ref]
-Hypersensitivity side effects have rarely included angioedema, anaphylaxis, Stevens-Johnson syndrome, and toxic epidermal necrolysis.  Toxic pustuloderma with fever has been reported in at least one patient receiving azithromycin.  There is also an isolated report of azithromycin-induced hypersensitivity syndrome.  Allergic reactions (including arthralgia, edema, urticaria, and angioedema) and anaphylaxis (rarely fatal) have been reported during postmarketing experience.[Ref]
-Cardiovascular side effects have rarely included arrhythmias (including ventricular tachycardia), prolongation of the QT interval, torsades de pointes, palpitations, hypotension, and chest pain in postmarketing experience.  A causal relationship has not been established.[Ref]
-Hepatic side effects have infrequently included transient elevations of liver function tests (including AST and ALT) and elevated bilirubin.  Hepatitis and cholestatic jaundice, as well as rare cases of hepatic necrosis and hepatic failure (some resulting in death), have been reported during postmarketing experience.[Ref]
-Local side effects associated with intravenous administration of the drug have included pain at injection site (6.5%) and local inflammation (3.1%).[Ref]
-Nervous system side effects have included headache, somnolence, vertigo, and dizziness in approximately 1% of patients.  Hearing disturbances including hearing loss, deafness, and/or tinnitus have been reported rarely.  Paresthesia, convulsions, hyperactivity, nervousness, agitation, and syncope have been reported during postmarketing experience.[Ref]
-Dermatologic side effects have included rash, pruritus, and urticaria.  Photosensitivity and, rarely, serious skin reactions (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis) have been reported during postmarketing experience.[Ref]
-Other side effects have included asthenia.  Taste/smell perversion and/or loss (rare), fatigue, and malaise have been reported during postmarketing experience.[Ref]
-Renal side effects have rarely included elevations in serum creatinine and blood urea nitrogen.  Interstitial nephritis and acute renal failure have been reported during postmarketing experience.  Interstitial nephritis resulting in permanent renal failure has been reported in a patient receiving azithromycin (the active ingredient contained in Zithromax) monotherapy.[Ref]
-Hematologic side effects have included decreased lymphocytes, increased eosinophils, leukopenia, and neutropenia.  Thrombocytopenia has been reported during postmarketing experience.[Ref]
-Metabolic side effects have included reduced bicarbonate and alterations in potassium.[Ref]
-Psychiatric side effects have included aggressive reaction and anxiety during postmarketing experience.[Ref]
-Genitourinary side effects have included vaginitis.  Moniliasis has been reported during postmarketing experience.[Ref]
-1. Amin NM, Breadon G "An open-label, noncomparative study to evaluate the efficacy, safety, and tolerability of azithromycin in the treatment of patients with acute sinusitis." Clin Ther 17 (1995): 701-7
-2. Chave J, Munafo A, Chatton JY, Dayer P, Glauser MP, Biollaz J "Once-a-week azithromycin in AIDS patients: tolerability, kinetics, and effects on zidovudine disposition." Antimicrob Agents Chemother 36 (1992): 1013-18
-3. "Product Information. Zithromax injection (azithromycin)" Pfizer US Pharmaceuticals, New York, NY. 
-4. Coates P, Daniel R, Houston A, Antrobus JH, Taylor T "An open study to compare the pharmacokinetics, safety and tolerability of a multiple-dose regimen of azithromycin in young and elderly volunteers." Eur J Clin Microbiol Infect Dis 10 (1991): 850-2
-5. Hopkins S "Clinical toleration and safety of azithromycin." Am J Med 91 (1991): s41-5
-6. Mertens JC, van Barneveld PW, Asin HR, et al "Double-blind randomized study comparing the efficacies and safeties of a short (3-day) course of azithromycin and a 5-day course of amoxicillin in patients with acute exacerbations of chronic bronchitis." Antimicrob Agents Chemother 36 (1992): 1456-9
-7. Handsfield HH, Dalu ZA, Martin DH, Douglas JM, McCarty JM, Schlossberg D "Multicenter trial of single-dose azithromycin vs. ceftriaxone in the treatment of uncomplicated gonorrhea." Sex Transm Dis 21 (1995): 107-11
-8. "Product Information. Azithromycin Product Information (azithromycin)." Pfizer US Pharmaceuticals, New York, NY. 
-9. Zuckerman JM, Kaye KM "The newer macrolides: azithromycin and clarithromycin." Infect Dis Clin North Am 9 (1995): 731-45
-10. Trevisi P, Patrizi A, Neri I, Farina P "Toxic pustuloderma associated with azithromycin." Clin Exp Dermatol 19 (1994): 280-1
-11. Cascaval RI, Lancaster DJ "Hypersensitivity syndrome associated with azithromycin." Am J Med 110 (2001): 330-1
-12. "Product Information. Zithromax (azithromycin)." Pfizer US Pharmaceuticals, New York, NY. 
-13. Lo SHE, Kotabe S, Mitsunaga L "Azithromycin-induced hearing loss." Am J Health Syst Pharm 56 (1999): 380-3
-14. Wallace MR, Miller LK, Nguyen MT, Shields AR "Ototoxicity with azithromycin." Lancet 343 (1994): 241
-15. Bizjak ED, Haug MT, Schilz RJ, Sarodia BD, Dresing JM "Intravenous azithromycin-induced ototoxicity." Pharmacotherapy 19 (1999): 245-8
-16. Tseng AL, Dolovich L, Salit IE "Azithromycin-related ototoxicity in patients infected with human immunodeficiency virus." Clin Infect Dis 24 (1997): 76-7
-17. Mansoor GA, Panner BJ, Ornt DB "Azithromycin-induced acute interstitial nephritis." Ann Intern Med 119 (1993): 636-7
+Gastrointestinal side effects have included nausea, abdominal discomfort, vomiting, and diarrhea in up to 10% of patients.  However, patients rarely (less than 1%) discontinued therapy due to these side effects.  Dyspepsia, flatulence, mucositis, oral moniliasis, constipation, melena, and gastritis have been reported with a frequency of 1% or less.  Pseudomembranous colitis has been reported with nearly all antibacterial agents and may range in severity from mild to life-threatening.  Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of azithromycin (the active ingredient contained in Zithromax)   Anorexia, vomiting/diarrhea rarely resulting in dehydration, pancreatitis, oral candidiasis, pyloric stenosis, and rare cases of tongue discoloration have been reported during postmarketing experience.
+Reappearance of allergic symptoms may occur without further azithromycin (the active ingredient contained in Zithromax) exposure when symptomatic therapy is discontinued.  This phenomenon may be related to the long tissue half-life of the drug.  Patients experiencing allergic symptoms may require prolonged periods of observation and symptomatic treatment.
+Hypersensitivity side effects have rarely included angioedema, anaphylaxis, Stevens-Johnson syndrome, and toxic epidermal necrolysis.  Toxic pustuloderma with fever has been reported in at least one patient receiving azithromycin.  There is also an isolated report of azithromycin-induced hypersensitivity syndrome.  Allergic reactions (including arthralgia, edema, urticaria, and angioedema) and anaphylaxis (rarely fatal) have been reported during postmarketing experience.
+Cardiovascular side effects have rarely included arrhythmias (including ventricular tachycardia), prolongation of the QT interval, torsades de pointes, palpitations, hypotension, and chest pain in postmarketing experience.  A causal relationship has not been established.
+Hepatic side effects have infrequently included transient elevations of liver function tests (including AST and ALT) and elevated bilirubin.  Hepatitis and cholestatic jaundice, as well as rare cases of hepatic necrosis and hepatic failure (some resulting in death), have been reported during postmarketing experience.
+Local side effects associated with intravenous administration of the drug have included pain at injection site (6.5%) and local inflammation (3.1%).
+Nervous system side effects have included headache, somnolence, vertigo, and dizziness in approximately 1% of patients.  Hearing disturbances including hearing loss, deafness, and/or tinnitus have been reported rarely.  Paresthesia, convulsions, hyperactivity, nervousness, agitation, and syncope have been reported during postmarketing experience.
+Dermatologic side effects have included rash, pruritus, and urticaria.  Photosensitivity and, rarely, serious skin reactions (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis) have been reported during postmarketing experience.
+Other side effects have included asthenia.  Taste/smell perversion and/or loss (rare), fatigue, and malaise have been reported during postmarketing experience.
+Renal side effects have rarely included elevations in serum creatinine and blood urea nitrogen.  Interstitial nephritis and acute renal failure have been reported during postmarketing experience.  Interstitial nephritis resulting in permanent renal failure has been reported in a patient receiving azithromycin (the active ingredient contained in Zithromax) monotherapy.
+Hematologic side effects have included decreased lymphocytes, increased eosinophils, leukopenia, and neutropenia.  Thrombocytopenia has been reported during postmarketing experience.
+Metabolic side effects have included reduced bicarbonate and alterations in potassium.
+Psychiatric side effects have included aggressive reaction and anxiety during postmarketing experience.
+Genitourinary side effects have included vaginitis.  Moniliasis has been reported during postmarketing experience.
 It is possible that some side effects of Zithromax may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 intravenous powder for solution
-
 Diarrhea
 loose stools
-
-
 Blistering, crusting, irritation, itching, or reddening of the skin
 cracked, dry, or scaly skin
 fever
 swelling
-
-
 Abdominal or stomach pain
 blistering, peeling, or loosening of the skin
 bloody or cloudy urine
@@ -112,8 +85,6 @@ voice changes
 vomiting of blood
 wheezing
 yellow eyes or skin
-
-
 Abdominal or stomach cramps or tenderness
 bleeding gums
 bloating
@@ -147,8 +118,6 @@ rapid weight gain
 seizures
 stupor
 unusual weight loss
-
-
 Acid or sour stomach
 aggressive or angry
 bad, unusual, or unpleasant (after) taste
@@ -189,8 +158,6 @@ stomach upset
 thick, white vaginal discharge with no odor or with a mild odor
 unable to sleep
 white patches in the mouth, tongue, or throat
-
-
 Difficulty with moving
 fear or nervousness
 increased sensitivity of the skin to sunlight
@@ -199,4 +166,3 @@ pain in the joints
 redness or other discoloration of the skin
 severe sunburn
 trouble sitting still
-

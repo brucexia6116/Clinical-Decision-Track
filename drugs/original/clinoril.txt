@@ -1,38 +1,23 @@
-Generic Name: sulindac
-Applies to sulindac: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by sulindac (the active ingredient contained in Clinoril). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking sulindac:
-
 If any of the following symptoms of overdose occur while taking sulindac, get emergency help immediately:
-
-Some of the side effects that can occur with sulindac may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to sulindac: compounding powder, oral tablet
-The most frequently reported adverse effects were gastrointestinal (GI) in nature and included GI pain, dyspepsia, nausea with or without vomiting, diarrhea, constipation, flatulence, and GI cramps.[Ref]
-Common (1% to 10%): Gastrointestinal (GI) pain, dyspepsia, nausea, vomiting, diarrhea, constipation, flatulence, anorexia, GI crampsFrequency not reported: Gastritis, gastroenteritis, colitis, peptic ulcer, GI bleeding, GI perforation, intestinal strictures, pancreatitis, glossitis, stomatitis, hematemesis, melena[Ref]
-Common (1% to 10%): Dizziness, headacheFrequency not reported: Ageusia, paresthesia, somnolence, convulsions, syncope, neuritis, drowsiness[Ref]
-Common (1% to 10%): Tinnitus, edemaFrequency not reported: Sore/dry mucous membranes, vertigo, insomnia, aseptic meningitis, hearing decreased, metallic/bitter taste, asthenia, malaise, fatigue[Ref]
-Common (1% to 10%): NervousnessFrequency not reported: Depression, psychic disturbances, acute psychosis, hallucinations, confusion[Ref]
-Common (1% to 10%): Rash, pruritusFrequency not reported: Alopecia, photosensitivity, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, ecchymosis, purpura, urticaria, angioneurotic edema, fulminant necrotizing fasciitis, sweating[Ref]
-Frequency not reported: Thrombocytopenia, leukopenia, agranulocytosis, neutropenia, bone marrow depression, aplastic anemia, hemolytic anemia, prothrombin time increased[Ref]
-Frequency not reported: Congestive heart failure, palpitation, hypertension, arrhythmia[Ref]
-A potentially fatal apparent hypersensitivity reaction has been reported.  Signs and symptoms of such reaction include constitutional symptoms (e.g., fever, chills, diaphoresis, and flushing), cutaneous reactions (e.g., rash or other dermatologic reactions), conjunctivitis, involvement of major organs (e.g., changes in liver function including hepatic failure, jaundice, pancreatitis, pneumonitis with or without pleural effusion, leukopenia, leukocytosis, eosinophilia, disseminated intravascular coagulation, anemia, renal impairment, including renal failure), and other less specific findings (e.g., adenitis, arthralgia, arthritis, myalgia, fatigue, malaise, hypotension, chest pain, and tachycardia).[Ref]
-Frequency not reported: Anaphylaxis, hypersensitivity vasculitis[Ref]
-Rare cases of metabolites of this drug being found in common bile duct "sludge" and biliary calculi have been reported in patients with symptoms of cholecystitis who underwent a cholecystectomy.[Ref]
-Frequency not reported: Jaundice, cholestasis, hepatitis, hepatic failure, liver function abnormalities[Ref]
-Frequency not reported: Renal impairment, renal failure, interstitial nephritis, nephrotic syndrome, renal calculi[Ref]
-Frequency not reported: Hyperkalemia, hyperglycemia[Ref]
-Frequency not reported: Muscle weakness[Ref]
-Frequency not reported: Urine discoloration, dysuria, vaginal bleeding, hematuria, proteinuria, crystalluria[Ref]
-Frequency not reported: Blurred vision, visual disturbances, disturbance of retina and its vasculature[Ref]
-Frequency not reported: Epistaxis, bronchial spasm, dyspnea[Ref]
-Frequency not reported: Gynecomastia[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Clinoril (sulindac)." Merck & Co, Inc, West Point, PA. 
-Not all side effects for Clinoril may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported adverse effects were gastrointestinal (GI) in nature and included GI pain, dyspepsia, nausea with or without vomiting, diarrhea, constipation, flatulence, and GI cramps.
+Common (1% to 10%): Gastrointestinal (GI) pain, dyspepsia, nausea, vomiting, diarrhea, constipation, flatulence, anorexia, GI crampsFrequency not reported: Gastritis, gastroenteritis, colitis, peptic ulcer, GI bleeding, GI perforation, intestinal strictures, pancreatitis, glossitis, stomatitis, hematemesis, melena
+Common (1% to 10%): Dizziness, headacheFrequency not reported: Ageusia, paresthesia, somnolence, convulsions, syncope, neuritis, drowsiness
+Common (1% to 10%): Tinnitus, edemaFrequency not reported: Sore/dry mucous membranes, vertigo, insomnia, aseptic meningitis, hearing decreased, metallic/bitter taste, asthenia, malaise, fatigue
+Common (1% to 10%): NervousnessFrequency not reported: Depression, psychic disturbances, acute psychosis, hallucinations, confusion
+Common (1% to 10%): Rash, pruritusFrequency not reported: Alopecia, photosensitivity, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, ecchymosis, purpura, urticaria, angioneurotic edema, fulminant necrotizing fasciitis, sweating
+Frequency not reported: Thrombocytopenia, leukopenia, agranulocytosis, neutropenia, bone marrow depression, aplastic anemia, hemolytic anemia, prothrombin time increased
+Frequency not reported: Congestive heart failure, palpitation, hypertension, arrhythmia
+A potentially fatal apparent hypersensitivity reaction has been reported.  Signs and symptoms of such reaction include constitutional symptoms (e.g., fever, chills, diaphoresis, and flushing), cutaneous reactions (e.g., rash or other dermatologic reactions), conjunctivitis, involvement of major organs (e.g., changes in liver function including hepatic failure, jaundice, pancreatitis, pneumonitis with or without pleural effusion, leukopenia, leukocytosis, eosinophilia, disseminated intravascular coagulation, anemia, renal impairment, including renal failure), and other less specific findings (e.g., adenitis, arthralgia, arthritis, myalgia, fatigue, malaise, hypotension, chest pain, and tachycardia).
+Frequency not reported: Anaphylaxis, hypersensitivity vasculitis
+Rare cases of metabolites of this drug being found in common bile duct "sludge" and biliary calculi have been reported in patients with symptoms of cholecystitis who underwent a cholecystectomy.
+Frequency not reported: Jaundice, cholestasis, hepatitis, hepatic failure, liver function abnormalities
+Frequency not reported: Renal impairment, renal failure, interstitial nephritis, nephrotic syndrome, renal calculi
+Frequency not reported: Hyperkalemia, hyperglycemia
+Frequency not reported: Muscle weakness
+Frequency not reported: Urine discoloration, dysuria, vaginal bleeding, hematuria, proteinuria, crystalluria
+Frequency not reported: Blurred vision, visual disturbances, disturbance of retina and its vasculature
+Frequency not reported: Epistaxis, bronchial spasm, dyspnea
+Frequency not reported: Gynecomastia
 Acid or sour stomach
 belching
 constipation
@@ -41,16 +26,12 @@ heartburn
 nausea or vomiting
 skin rash
 stomach pain
-
-
 Excess air or gas in the stomach or intestines
 itching skin
 passing gas
 stomach cramps
 swelling
 weight loss
-
-
 Back or leg pains
 bleeding gums
 blistering, peeling, or loosening of the skin
@@ -146,18 +127,12 @@ weakness or heaviness of the legs
 weight gain
 wheezing
 yellow eyes or skin
-
-
 Change in consciousness
 decreased awareness or responsiveness
 loss of consciousness
 severe sleepiness
-
-
 Continuing ringing or buzzing or other unexplained noise in the ears
 hearing loss
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 burning, dry, or itching eyes
 decreased hearing
@@ -186,4 +161,3 @@ trouble with concentrating
 trouble with sleeping
 unable to sleep
 vaginal bleeding
-

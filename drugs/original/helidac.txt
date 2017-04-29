@@ -1,45 +1,28 @@
-Generic Name: bismuth subsalicylate / metronidazole / tetracycline
-Applies to bismuth subsalicylate / metronidazole / tetracycline: oral capsule, oral tablet, oral tablet chewable
-In addition to its needed effects, some unwanted effects may be caused by bismuth subsalicylate / metronidazole / tetracycline. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking bismuth subsalicylate / metronidazole / tetracycline:
-
 If any of the following symptoms of overdose occur while taking bismuth subsalicylate / metronidazole / tetracycline, get emergency help immediately:
-
-Some of the side effects that can occur with bismuth subsalicylate / metronidazole / tetracycline may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to bismuth subsalicylate / metronidazole / tetracycline: oral kit
-Cardiovascular side effects have rarely included flattening of the T-wave in electrocardiographic tracings.[Ref]
-A furry tongue, glossitis, stomatitis have been reported during therapy with metronidazole.  These may be associated with a sudden overgrowth of Candida which may occur during therapy.Rare instances of esophagitis and esophageal ulceration have been reported in patients taking the tetracycline-class antibiotics.  In most of these cases, the patient took the medication immediately before going to bed.The darkening of the tongue associated with the use of bismuth subsalicylate is considered a temporary and harmless adverse reaction.[Ref]
-Gastrointestinal side effects have been reported the most frequently, but rarely led to discontinuation of therapy.  These have included nausea, diarrhea, abdominal pain, melena, constipation, vomiting, discolored tongue, dyspepsia, stool abnormality, duodenal ulcer, taste perversion, flatulence, GI hemorrhage, anal discomfort, dry mouth, dysphagia, eructation, GI monilia, glossitis, intestinal obstruction, rectal hemorrhage, and stomatitis.  A sharp, unpleasant metallic taste is not unusual with the use of metronidazole.[Ref]
-Dermatologic side effects have been reported rarely.  These have included acne, ecchymosis, photosensitivity reaction, pruritus, and rash.  Maculopapular and erythematous rashes have been reported with the use of tetracyclines.  Exfoliative dermatitis, photosensitivity, onycholysis, and discoloration of the nails have also been reported rarely.[Ref]
-Other side effects have rarely included flu syndrome, infection, malaise, neoplasm, syncope, and tooth disorder.[Ref]
-Respiratory side effects have included upper respiratory infection, sinusitis, and rhinitis.[Ref]
-Ocular side effects have rarely included conjunctivitis.[Ref]
-Metabolic side effects have rarely included increases in SGOT and SGPT.[Ref]
-Musculoskeletal side effects have included asthenia, arthritis, rheumatoid arthritis, and tendonitis.  Enamel hypoplasia has been reported with the use of tetracyclines.[Ref]
-Persistent peripheral neuropathy has been reported in some patients receiving prolonged administration of metronidazole.  Patients should be warned to stop treatment and to consult with their doctor if numbness or paresthesia of an extremity occurs.[Ref]
-Nervous system side effects have rarely included nervousness, dizziness, insomnia, and somnolence.  Pseudotumor cerebri and myasthenic syndrome have been reported rarely with the use of tetracyclines.  Two serious side effects reported with the use of metronidazole have been convulsive seizures and peripheral neuropathy.  Patients should be advised to stop treatment and consult with their physicians if any neurologic symptoms occur.[Ref]
-Hematologic side effects have included reversible neutropenia (leukopenia) with the use of metronidazole.  Reversible thrombocytopenia has also been reported rarely.  Hemolytic anemia, thrombocytopenia, thrombocytopenia purpura, neutropenia, and eosinophilia have been reported with the use of tetracyclines.[Ref]
-Tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland when used over long periods.  Thyroid function studies are reported to remain normal.[Ref]
-Hepatic side effects have included hepatotoxicity and liver failure in patients receiving large doses of tetracyclines.  Increases in liver enzymes and hepatic toxicity has been reported rarely in patients with renal impairment treated with tetracyclines.[Ref]
-Hypersensitivity side effects have included urticaria, erythematous rash, flushing, nasal congestion, dryness of mouth (or vagina or vulva), and fever with the use of metronidazole.  Angioneurotic edema, anaphylaxis, anaphylactoid purpura, pericarditis, exacerbation of systemic lupus erythematosus, urticaria, and serum sickness-like reactions, as fever, rash and arthralgia have been reported with the use of tetracyclines.[Ref]
-Instances of darkening of the urine have been reported by approximately one patient in 100,000.  It is believed a metabolite of metronidazole, with no clinical significance, is responsible for this rare occurrence.[Ref]
-Renal side effects have included urinary tract infection.  Dysuria, cystitis, polyuria, incontinence, and a sense of pelvic pressure have been reported with the use of metronidazole.  Darkening of the urine has been reported rarely.  Rise in BUN has been reported with the use of tetracyclines.[Ref]
-1. "Product Information. Helidac (bismuth subsalicylate/metronidazole/TCN)." Prometheus Inc, San Diego, CA. 
-Not all side effects for Helidac may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects have rarely included flattening of the T-wave in electrocardiographic tracings.
+A furry tongue, glossitis, stomatitis have been reported during therapy with metronidazole.  These may be associated with a sudden overgrowth of Candida which may occur during therapy.Rare instances of esophagitis and esophageal ulceration have been reported in patients taking the tetracycline-class antibiotics.  In most of these cases, the patient took the medication immediately before going to bed.The darkening of the tongue associated with the use of bismuth subsalicylate is considered a temporary and harmless adverse reaction.
+Gastrointestinal side effects have been reported the most frequently, but rarely led to discontinuation of therapy.  These have included nausea, diarrhea, abdominal pain, melena, constipation, vomiting, discolored tongue, dyspepsia, stool abnormality, duodenal ulcer, taste perversion, flatulence, GI hemorrhage, anal discomfort, dry mouth, dysphagia, eructation, GI monilia, glossitis, intestinal obstruction, rectal hemorrhage, and stomatitis.  A sharp, unpleasant metallic taste is not unusual with the use of metronidazole.
+Dermatologic side effects have been reported rarely.  These have included acne, ecchymosis, photosensitivity reaction, pruritus, and rash.  Maculopapular and erythematous rashes have been reported with the use of tetracyclines.  Exfoliative dermatitis, photosensitivity, onycholysis, and discoloration of the nails have also been reported rarely.
+Other side effects have rarely included flu syndrome, infection, malaise, neoplasm, syncope, and tooth disorder.
+Respiratory side effects have included upper respiratory infection, sinusitis, and rhinitis.
+Ocular side effects have rarely included conjunctivitis.
+Metabolic side effects have rarely included increases in SGOT and SGPT.
+Musculoskeletal side effects have included asthenia, arthritis, rheumatoid arthritis, and tendonitis.  Enamel hypoplasia has been reported with the use of tetracyclines.
+Persistent peripheral neuropathy has been reported in some patients receiving prolonged administration of metronidazole.  Patients should be warned to stop treatment and to consult with their doctor if numbness or paresthesia of an extremity occurs.
+Nervous system side effects have rarely included nervousness, dizziness, insomnia, and somnolence.  Pseudotumor cerebri and myasthenic syndrome have been reported rarely with the use of tetracyclines.  Two serious side effects reported with the use of metronidazole have been convulsive seizures and peripheral neuropathy.  Patients should be advised to stop treatment and consult with their physicians if any neurologic symptoms occur.
+Hematologic side effects have included reversible neutropenia (leukopenia) with the use of metronidazole.  Reversible thrombocytopenia has also been reported rarely.  Hemolytic anemia, thrombocytopenia, thrombocytopenia purpura, neutropenia, and eosinophilia have been reported with the use of tetracyclines.
+Tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland when used over long periods.  Thyroid function studies are reported to remain normal.
+Hepatic side effects have included hepatotoxicity and liver failure in patients receiving large doses of tetracyclines.  Increases in liver enzymes and hepatic toxicity has been reported rarely in patients with renal impairment treated with tetracyclines.
+Hypersensitivity side effects have included urticaria, erythematous rash, flushing, nasal congestion, dryness of mouth (or vagina or vulva), and fever with the use of metronidazole.  Angioneurotic edema, anaphylaxis, anaphylactoid purpura, pericarditis, exacerbation of systemic lupus erythematosus, urticaria, and serum sickness-like reactions, as fever, rash and arthralgia have been reported with the use of tetracyclines.
+Instances of darkening of the urine have been reported by approximately one patient in 100,000.  It is believed a metabolite of metronidazole, with no clinical significance, is responsible for this rare occurrence.
+Renal side effects have included urinary tract infection.  Dysuria, cystitis, polyuria, incontinence, and a sense of pelvic pressure have been reported with the use of metronidazole.  Darkening of the urine has been reported rarely.  Rise in BUN has been reported with the use of tetracyclines.
 Abdominal or stomach pain
 bloody or black, tarry stools
 diarrhea
 nausea
-
-
 Burning, prickling, or tingling sensations
 dizziness
 vomiting
-
-
 Bloody vomit
 convulsions (seizures)
 fainting
@@ -49,8 +32,6 @@ joint pain and swelling
 sensitivity of the skin to sunlight
 skin rash
 trouble with swallowing
-
-
 Clumsiness or unsteadiness
 confusion
 continuing ringing or buzzing in ears
@@ -60,12 +41,9 @@ fever
 pain, numbness, or tingling in the arms, legs, hands, or feet
 unusual tiredness
 vomiting
-
-
 Burning or itching around the anus
 constipation
 general feeling of discomfort or illness
 loss of appetite
 nervousness
 trouble sleeping
-

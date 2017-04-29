@@ -1,56 +1,25 @@
-Applies to meropenem: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by meropenem. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking meropenem, check with your doctor or nurse immediately:
-Some of the side effects that can occur with meropenem may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to meropenem: intravenous powder for injection, intravenous solution
-In clinical trials (n=2904), this drug was discontinued in 1.2% of patients due to side effects; 5 deaths were possibly drug-related.  In a review of 4872 patients, diarrhea, rash, nausea/vomiting, injection site inflammation, thrombocytosis and increased hepatic enzymes were reported most often.[Ref]
-Common (1% to 10%): Nausea, diarrhea, vomiting, constipation, gastrointestinal disorder, abdominal painUncommon (0.1% to 1%): Oral moniliasis/candidiasis, flatulence, ileus, dyspepsia, intestinal obstructionFrequency not reported: Clostridium difficile associated diarrhea, antibiotic-associated colitis, pseudomembranous colitis[Ref]
-Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Dizziness, seizure, paresthesia, somnolence, syncope, astheniaFrequency not reported: Hearing loss, other adverse central nervous system (CNS) experiences[Ref]
-Seizures and other adverse CNS experiences have been reported.  They have occurred most commonly in patients with CNS disorders (e.g., history of seizures, brain lesions) or with bacterial meningitis and/or renal dysfunction.Seizures occurred more often in patients with moderately severe renal dysfunction.[Ref]
-Common (1% to 10%): Anemia, hypochromic anemia, bleeding events (including gastrointestinal hemorrhage, melena, epistaxis, hemoperitoneum), thrombocythemiaUncommon (0.1% to 1%): Increased platelets, increased eosinophils, decreased platelets, decreased hemoglobin, decreased hematocrit, decreased white blood cells, decreased prothrombin time, decreased partial thromboplastin time, leukocytosis, eosinophilia, thrombocytopenia, leukopenia, neutropeniaPostmarketing reports: Agranulocytosis, positive Coombs test (direct or indirect), hemolytic anemia[Ref]
-Shock occurred more often in patients with moderately severe renal dysfunction.[Ref]
-Common (1% to 10%): Pain, inflammation, sepsis/septicemia, shock, accidental injuryUncommon (0.1% to 1%): Chest pain, fever, back pain, chills, pelvic pain, peripheral edema, abdominal enlargement[Ref]
-Common (1% to 10%): Inflammation at the injection site, phlebitis/thrombophlebitis, pain at the injection siteUncommon (0.1% to 1%): Injection site reactions, edema at the injection site[Ref]
-Common (1% to 10%): Rash (including diaper/nappy area moniliasis), pruritusUncommon (0.1% to 1%): Urticaria, sweating, skin ulcerPostmarketing reports: Toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, erythema multiforme, severe skin reactions[Ref]
-Common (1% to 10%): Apnea, pharyngitis, pneumoniaUncommon (0.1% to 1%): Respiratory disorder, dyspnea, pleural effusion, asthma, increased cough, hypoxia, lung edemaFrequency not reported: Respiratory failure[Ref]
-Heart failure occurred more often in patients with moderately severe renal dysfunction.[Ref]
-Common (1% to 10%): Peripheral vascular disorderUncommon (0.1% to 1%): Heart failure, heart arrest, tachycardia, hypertension, myocardial infarction, pulmonary embolus, bradycardia, hypotension[Ref]
-Common (1% to 10%): Increased transaminasesUncommon (0.1% to 1%): Increased AST, increased ALT, increased bilirubin, hepatic failure, cholestatic jaundice/jaundice[Ref]
-Common (1% to 10%): Hypoglycemia, increased alkaline phosphatase, increased lactate dehydrogenaseUncommon (0.1% to 1%): Anorexia, hypervolemia, hypokalemia[Ref]
-Kidney failure occurred more often in patients with moderately severe renal dysfunction.[Ref]
-Uncommon (0.1% to 1%): Kidney failure, increased creatinine, increased BUN[Ref]
+In clinical trials (n=2904), this drug was discontinued in 1.2% of patients due to side effects; 5 deaths were possibly drug-related.  In a review of 4872 patients, diarrhea, rash, nausea/vomiting, injection site inflammation, thrombocytosis and increased hepatic enzymes were reported most often.
+Common (1% to 10%): Nausea, diarrhea, vomiting, constipation, gastrointestinal disorder, abdominal painUncommon (0.1% to 1%): Oral moniliasis/candidiasis, flatulence, ileus, dyspepsia, intestinal obstructionFrequency not reported: Clostridium difficile associated diarrhea, antibiotic-associated colitis, pseudomembranous colitis
+Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Dizziness, seizure, paresthesia, somnolence, syncope, astheniaFrequency not reported: Hearing loss, other adverse central nervous system (CNS) experiences
+Seizures and other adverse CNS experiences have been reported.  They have occurred most commonly in patients with CNS disorders (e.g., history of seizures, brain lesions) or with bacterial meningitis and/or renal dysfunction.Seizures occurred more often in patients with moderately severe renal dysfunction.
+Common (1% to 10%): Anemia, hypochromic anemia, bleeding events (including gastrointestinal hemorrhage, melena, epistaxis, hemoperitoneum), thrombocythemiaUncommon (0.1% to 1%): Increased platelets, increased eosinophils, decreased platelets, decreased hemoglobin, decreased hematocrit, decreased white blood cells, decreased prothrombin time, decreased partial thromboplastin time, leukocytosis, eosinophilia, thrombocytopenia, leukopenia, neutropeniaPostmarketing reports: Agranulocytosis, positive Coombs test (direct or indirect), hemolytic anemia
+Shock occurred more often in patients with moderately severe renal dysfunction.
+Common (1% to 10%): Pain, inflammation, sepsis/septicemia, shock, accidental injuryUncommon (0.1% to 1%): Chest pain, fever, back pain, chills, pelvic pain, peripheral edema, abdominal enlargement
+Common (1% to 10%): Inflammation at the injection site, phlebitis/thrombophlebitis, pain at the injection siteUncommon (0.1% to 1%): Injection site reactions, edema at the injection site
+Common (1% to 10%): Rash (including diaper/nappy area moniliasis), pruritusUncommon (0.1% to 1%): Urticaria, sweating, skin ulcerPostmarketing reports: Toxic epidermal necrolysis, Stevens-Johnson syndrome, angioedema, erythema multiforme, severe skin reactions
+Common (1% to 10%): Apnea, pharyngitis, pneumoniaUncommon (0.1% to 1%): Respiratory disorder, dyspnea, pleural effusion, asthma, increased cough, hypoxia, lung edemaFrequency not reported: Respiratory failure
+Heart failure occurred more often in patients with moderately severe renal dysfunction.
+Common (1% to 10%): Peripheral vascular disorderUncommon (0.1% to 1%): Heart failure, heart arrest, tachycardia, hypertension, myocardial infarction, pulmonary embolus, bradycardia, hypotension
+Common (1% to 10%): Increased transaminasesUncommon (0.1% to 1%): Increased AST, increased ALT, increased bilirubin, hepatic failure, cholestatic jaundice/jaundice
+Common (1% to 10%): Hypoglycemia, increased alkaline phosphatase, increased lactate dehydrogenaseUncommon (0.1% to 1%): Anorexia, hypervolemia, hypokalemia
+Kidney failure occurred more often in patients with moderately severe renal dysfunction.
+Uncommon (0.1% to 1%): Kidney failure, increased creatinine, increased BUN
 Uncommon (0.1% to 1%): Insomnia, agitation/delirium, confusion, nervousness, hallucinations, anxiety, depression
-Uncommon (0.1% to 1%): Dysuria, vaginal moniliasis/candidiasis, urinary incontinence, red blood cells in urine[Ref]
-Frequency not reported: Serum sickness-like reactions, cross-sensitivity in penicillin-allergic and cephalosporin-allergic patients, anaphylaxis[Ref]
-Frequency not reported: Myalgia, arthralgia[Ref]
-1. "Product Information. Merrem (meropenem)." Zeneca Pharmaceuticals, Wilmington, DE. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Zhanel GG,  Wiebe R,  Dilay L, et al. "Comparative Review of the Carbapenems." Drugs 67 (2007): 1027-1052
-4. Baldwin CM,  Lyseng-Williamson KA,  Keam SJ "Meropenem : a review of its use in the treatment of serious bacterial infections." Drugs 68 (2008): 803-38
-5. Wilson SE "Results of a randomized, multicenter trial of meropenem versus clindamycin/tobramycin for the treatment of intra-abdominal infections." Clin Infect Dis 24 Suppl 2 (1997): s197-206
-6. Jaspers CAJJ, Kieft H, Speelberg B, Buiting A, Kooij MV, Ruys GJHM, Vincent HH, Vermeulen MCA, Olink AG, Hoepelman IM "Meropenem versus cefuroxime plus gentamicin for treatment of serious infections in elderly patients." Antimicrob Agents Chemother 42 (1998): 1233-8
-7. Embil JM,  Soto NE,  Melnick DA "A post hoc subgroup analysis of meropenem versus imipenem/cilastatin in a multicenter, double-blind, randomized study of complicated skin and skin-structure infections in patients with diabetes mellitus." Clin Ther 28 (2006): 1164-74
-8. Hemsell DL, Martens MG, Faro S, Gall S, Mcgregor JA "A multicenter study comparing intravenous meropenem with clindamycin plus gentamicin for the treatment of acute gynecologic and obstetric pelvic infections in hospitalized women." Clin Infect Dis 24 ( Suppl (1997): s222-30
-9. Kempf P, Bauernfeind A, Muller A, Blum J "Meropenem monotherapy versus cefotaxime plus metronidazole combination treatment for serious intra-abdominal infections." Infection 24 (1996): 473-9
-10. Shah PM, Heller A, Fuhr HG, Walther F, Halir S, Schaumann R, Bohme A, Jung B, Kohler A, Lipsschulte C, Stille W "Empirical monotherapy with meropenem versus imipenem/cilastatin for febrile episodes in neutropenic patients." Infection 24 (1996): 480-4
-11. Bax RP, Bastain W, Featherstone A, Wilkinson DM, Hutchison M, Haworth SJ "The pharmacokinetics of meropenem in volunteers." J Antimicrob Chemother 24(suppl a (1989): 311-20
-12. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-13. Nilsson-Ehle I, Hutchison M, Haworth SJ, Norrby SR "Pharmacokinetics of meropenem compared to imipenem-cilastatin in young, healthy males." Eur J Clin Microbiol Infect Dis 10 (1991): 85-8
-14. Mouton YJ, Beuscart C "Empirical monotherapy with meropenem in serious bacterial infections. Meropenem Study Group." J Antimicrob Chemother 36(suppl a (1995): 145-56
-15. Huizinga WK, Warren BL, Baker LW, Valleur P, Pezet DM, Hoogkamp-Korstanjep JA, Karran SJ "Antibiotic monotherapy with meropenem in the surgical management of intra-abdominal infections." J Antimicrob Chemother 36(suppl a (1995): 179-89
-16. Byrne S, Maddison J, Connor P, Doughty I, Dodd M, Jenney M, Webb AK, David TJ "Clinical evaluation of meropenem versus ceftazidime for the treatment of Pseudomonas spp. infections in cystic fibrosis patients." J Antimicrob Chemother 36(suppl a (1995): 135-43
-17. Hamacher J, Vogel F, Lichey J, Kohl FV, Diwok K, Wendel H, Lode H "Treatment of acute bacterial exacerbations of chronic obstructive pulmonary disease in hospitalised patients--a comparison of meropenem and imipenem/cilastatin. COPD Study Group." J Antimicrob Chemother 36(suppl a (1995): 121-33
-18. Liu TJ,  Lam JP "Piperacillin-tazobactam-induced acute interstitial nephritis with possible meropenem cross-sensitivity in a patient with osteomyelitis." Am J Health Syst Pharm 69 (2012): 1109
-19. Paquet P,  Jacob E,  Damas P,  Pierard GE "Recurrent fatal drug-induced toxic epidermal necrolysis (Lyell's syndrome) after putative beta-lactam cross-reactivity: Case report and scrutiny of antibiotic imputability." Crit Care Med 30 (2002): 2580-3
-20. Ralph ED,  John M,  Rieder MJ,  Bombassaro AM "Serum Sickness-like Reaction Possibly Associated with Meropenem Use." Clin Infect Dis 36 (2003): E149-E151
-Not all side effects for meropenem may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Uncommon (0.1% to 1%): Dysuria, vaginal moniliasis/candidiasis, urinary incontinence, red blood cells in urine
+Frequency not reported: Serum sickness-like reactions, cross-sensitivity in penicillin-allergic and cephalosporin-allergic patients, anaphylaxis
+Frequency not reported: Myalgia, arthralgia
 Redness and swelling at the injection site
-
-
 Bluish lips or skin
 chills
 cold, clammy skin
@@ -67,8 +36,6 @@ pain at the injection site
 rapid, shallow breathing
 skin rash and itching
 sweating
-
-
 Abdominal or stomach cramps and severe pain
 agitation
 black, bloody, or tarry stools
@@ -117,8 +84,6 @@ unusual weight gain or loss
 vomiting of blood or material that looks like coffee grounds
 weight gain
 yellow eyes or skin
-
-
 Back, leg, or stomach pains
 bleeding gums
 blistering, peeling, or loosening of the skin
@@ -135,11 +100,7 @@ red, irritated eyes
 sore throat
 sores, ulcers, or white spots in the mouth or on the lips
 swollen glands
-
-
 Constipation
-
-
 Body aches or pain
 cold hands and feet
 cold sweats
@@ -159,8 +120,6 @@ stomach pain, fullness, or discomfort
 trouble swallowing
 vaginal yeast infection
 voice changes
-
-
 Acid or sour stomach
 belching
 excess air or gas in the stomach or intestines
@@ -172,4 +131,3 @@ seeing, hearing, or feeling things that are not there
 sleepiness or unusual drowsiness
 trouble sleeping
 white patches in the mouth, tongue, or throat
-

@@ -1,42 +1,18 @@
-Generic Name: famciclovir
 Common side effects of Famvir include: headache.  See below for a comprehensive list of adverse effects.
-Applies to famciclovir: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by famciclovir (the active ingredient contained in Famvir). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking famciclovir:
-Some of the side effects that can occur with famciclovir may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to famciclovir: oral tablet
-Famciclovir (the active ingredient contained in Famvir) is generally well tolerated.  The most common side effects reported in at least 1 indication by greater than 10% of patients are headache and nausea.[Ref]
-Very common (10% or more): Headache (up to 39.3%)Common (1% to 10%): Migraine (up to 3.1%), paresthesia (up to 2.6%)Frequency not reported: InsomniaPostmarketing reports: Dizziness, somnolence[Ref]
-Confusion and bradykinesia developed in an 80-year-old woman who received famciclovir for acute herpes zoster.  The dosage administered was clinically appropriate and adjusted to her estimated creatinine clearance.  Although herpes zoster may sometimes elicit neurological complications and cannot be ruled out as a contributing factor, the patient's mobility problems and mental deterioration corresponded temporally with drug administration (onset within 48 and 72 hours, respectively, of initiation and reinstitution of therapy).[Ref]
-An isolated case of acute necrotic-hemorrhagic pancreatitis occurred in a kidney graft recipient who was treated with famciclovir (the active ingredient contained in Famvir) for severe hepatitis B infection.  The author could not identify any other etiologic factor for the pancreatitis, although some possible predisposing factors were noted, including the patient's liver insufficiency and renal dysfunction.[Ref]
-Very common (10% or more): Nausea (up to 13%)Common (1% to 10%): Diarrhea (up to 9%), abdominal pain (up to 7.9%), vomiting (up to 5%), elevated lipase (greater than 1.5 times normal range high [NRH]; 4.9%), flatulence (up to 4.8%), elevated amylase (greater than 1.5 times NRH; 1.5%)Rare (less than 0.1%): PancreatitisFrequency not reported: Dyspepsia, anorexia[Ref]
-Common (1% to 10%): Dysmenorrhea (up to 7.6%)[Ref]
-Common (1% to 10%): Fatigue (up to 4.8%)Frequency not reported: Injury, back pain, viral infection (including influenza, influenza-like symptoms, and symptoms of a cold), asthenia, fever[Ref]
-Common (1% to 10%): Pruritus (up to 3.7%), rash (up to 3.3%)Postmarketing reports: Urticaria, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema (e.g., face, eyelid, periorbital, and pharyngeal edema), leukocytoclastic vasculitis[Ref]
-Common (1% to 10%): Neutropenia (less than 0.8 times normal range low [NRL]; 3.2%), leukopenia (less than 0.75 times NRL; 1.3%)Uncommon (0.1% to 1%): Anemia (less than 0.8 times NRL; 0.1%)Postmarketing reports: Thrombocytopenia[Ref]
-Common (1% to 10%): Elevated ALT (greater than 2 times NRH; 3.2%), elevated AST (greater than 2 times NRH; 2.3%), elevated total bilirubin (greater than 1.5 times NRH; 1.9%)Postmarketing reports: Cholestatic jaundice, abnormal liver function tests[Ref]
-Uncommon (0.1% to 1%): Elevated serum creatinine (greater than 1.5 times NRH; 0.2%)Frequency not reported: Acute renal failure[Ref]
+Famciclovir (the active ingredient contained in Famvir) is generally well tolerated.  The most common side effects reported in at least 1 indication by greater than 10% of patients are headache and nausea.
+Very common (10% or more): Headache (up to 39.3%)Common (1% to 10%): Migraine (up to 3.1%), paresthesia (up to 2.6%)Frequency not reported: InsomniaPostmarketing reports: Dizziness, somnolence
+Confusion and bradykinesia developed in an 80-year-old woman who received famciclovir for acute herpes zoster.  The dosage administered was clinically appropriate and adjusted to her estimated creatinine clearance.  Although herpes zoster may sometimes elicit neurological complications and cannot be ruled out as a contributing factor, the patient's mobility problems and mental deterioration corresponded temporally with drug administration (onset within 48 and 72 hours, respectively, of initiation and reinstitution of therapy).
+An isolated case of acute necrotic-hemorrhagic pancreatitis occurred in a kidney graft recipient who was treated with famciclovir (the active ingredient contained in Famvir) for severe hepatitis B infection.  The author could not identify any other etiologic factor for the pancreatitis, although some possible predisposing factors were noted, including the patient's liver insufficiency and renal dysfunction.
+Very common (10% or more): Nausea (up to 13%)Common (1% to 10%): Diarrhea (up to 9%), abdominal pain (up to 7.9%), vomiting (up to 5%), elevated lipase (greater than 1.5 times normal range high [NRH]; 4.9%), flatulence (up to 4.8%), elevated amylase (greater than 1.5 times NRH; 1.5%)Rare (less than 0.1%): PancreatitisFrequency not reported: Dyspepsia, anorexia
+Common (1% to 10%): Dysmenorrhea (up to 7.6%)
+Common (1% to 10%): Fatigue (up to 4.8%)Frequency not reported: Injury, back pain, viral infection (including influenza, influenza-like symptoms, and symptoms of a cold), asthenia, fever
+Common (1% to 10%): Pruritus (up to 3.7%), rash (up to 3.3%)Postmarketing reports: Urticaria, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema (e.g., face, eyelid, periorbital, and pharyngeal edema), leukocytoclastic vasculitis
+Common (1% to 10%): Neutropenia (less than 0.8 times normal range low [NRL]; 3.2%), leukopenia (less than 0.75 times NRL; 1.3%)Uncommon (0.1% to 1%): Anemia (less than 0.8 times NRL; 0.1%)Postmarketing reports: Thrombocytopenia
+Common (1% to 10%): Elevated ALT (greater than 2 times NRH; 3.2%), elevated AST (greater than 2 times NRH; 2.3%), elevated total bilirubin (greater than 1.5 times NRH; 1.9%)Postmarketing reports: Cholestatic jaundice, abnormal liver function tests
+Uncommon (0.1% to 1%): Elevated serum creatinine (greater than 1.5 times NRH; 0.2%)Frequency not reported: Acute renal failure
 Postmarketing reports: Palpitations
 Postmarketing reports: Confusion (including delirium, disorientation, and confusional state occurring predominantly in the elderly), hallucinations
-Frequency not reported: Upper respiratory tract infection, pharyngitis[Ref]
-1. Sacks SL,  Aoki FY,  Martel AY,  Shafran SD,  Lassonde M "Clinic-initiated, twice-daily oral famciclovir for treatment of recurrent genital herpes: a randomized, double-blind, controlled trial." Clin Infect Dis 41 (2005): 1097-104
-2. "Product Information. Famvir (famciclovir)." SmithKline Beecham, Philadelphia, PA. 
-3. Luber AD, Flaherty JF "Famciclovir for treatment of herpesvirus infections." Ann Pharmacother 30 (1996): 978-85
-4. Romanowski B, Aoki FY, Martel AY, Lavender EA, Parsons JE, Saltzman RL "Efficacy and safety of famciclovir for treating mucocutaneous herpes simplex infection in HIV-infected individuals." Aids 14 (2000): 1211-7
-5. Aoki FY,  Tyring S,  Diaz-Mitoma F,  Gross G,  Gao J,  Hamed K "Single-day, patient-initiated famciclovir therapy for recurrent genital herpes: a randomized, double-blind, placebo-controlled trial." Clin Infect Dis 42 (2006): 8-13
-6. Wald A "New therapies and prevention strategies for genital herpes." Clin Infect Dis 28 (1999): s4-13
-7. DiazMitoma F, Sibbald RG, Shafran SD, Boon R, Saltzman RL "Oral famciclovir for the suppression of recurrent genital herpes: A randomized controlled trial." JAMA 280 (1998): 887-92
-8. Dworkin RH,  Johnson RW,  Breuer J, et al. "Recommendations for the management of herpes zoster." Clin Infect Dis 44 Suppl 1 (2007): S1-S26
-9. Gales BJ, Gales MA "Confusion and bradykinesia associated with famciclovir therapy for herpes zoster." Am J Health Syst Pharm 53 (1996): 1454,1456
-10. Saltzman R, Jurewicz R, Boon R "Safety of famciclovir in patients with herpes zoster and genital herpes." Antimicrob Agents Chemother 38 (1994): 2454-7
-11. Abudalu M,  Tyring S,  Koltun W,  Bodsworth N,  Hamed K "Single-day, patient-initiated famciclovir therapy versus three-day valacyclovir regimen for recurrent genital herpes: a randomized, double-blind, comparative trial." Clin Infect Dis 47 (2008): 651-8
-12. Simpson D,  Lyseng-Williamson KA "Famciclovir: a review of its use in herpes zoster and genital and orolabial herpes." Drugs 66 (2006): 2397-416
-13. Tyring S, Belanger R, Bezwoda W, Ljungman P, Boon R, Saltzman RL "A randomized, double-blind trial of famciclovir versus acyclovir for the treatment of localized dermatomal herpes zoster in immunocompromised patients." Cancer Invest 19 (2001): 13-22
-14. Spruance SL,  Bodsworth N,  Resnick H, et al. "Single-dose, patient-initiated famciclovir: A randomized, double-blind, placebo-controlled trial for episodic treatment of herpes labialis." J Am Acad Dermatol 55 (2006): 47-53
-Not all side effects for Famvir may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Upper respiratory tract infection, pharyngitis
 Black, tarry stools
 bleeding gums
 blistering, peeling, or loosening of the skin
@@ -57,16 +33,12 @@ unpleasant breath odor
 unusual bleeding or bruising
 vomiting of blood
 yellow eyes or skin
-
-
 Cramps
 diarrhea
 headache
 heavy bleeding
 nausea
 stomach pain
-
-
 Bloated, full feeling
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feeling
 confusion as to time, place, or person
@@ -82,7 +54,4 @@ seeing, hearing, or feeling things that are not there
 unusual excitement, nervousness, or restlessness
 unusual tiredness or weakness
 vomiting
-
-
 Sleepiness or unusual drowsiness
-

@@ -1,25 +1,15 @@
-Applies to gadoteridol: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by gadoteridol. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking gadoteridol, check with your doctor or nurse immediately:
-Some of the side effects that can occur with gadoteridol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to gadoteridol: injectable solution
-Cardiovascular side effects have included prolonged P-R Interval, hypotension, elevated heart rate, A-V nodal rhythm, cardiac arrest, bradycardia, hypertension, and death in association with pre-existing cardiovascular disorders.[Ref]
-Respiratory side effects have included dyspnea, rhinitis, cough, apnea, and wheezing.[Ref]
-Other side effects have included voice alteration; transitory deafness and tinnitus.[Ref]
-Nervous system side effects have included headache, anxiety, dizziness, paresthesia, mental status decline, loss of coordination in arm, staring episodes, seizure, syncope, stupor, tremor, tingling sensation in extremities and digits, and loss of consciousness.[Ref]
-Hypersensitivity side effects have included anaphylactoid reactions rarely resulting in death.[Ref]
-Dermatologic side effects have included pruritus, rash, macular papular rash, urticaria, hives, itching, sweating, and cyanosis.[Ref]
-Gastrointestinal side effects have included edematous and/or itching tongue, gingivitis dry mouth, loose bowel, vomiting, abdominal cramps, increased salivation, and dysphagia.[Ref]
-General side effects have included facial edema, neck rigidity, pain, chest pain, fever, tingling sensation in throat, laryngismus, flushed feeling, vasovagal reaction, and generalized edema.[Ref]
-Genitourinary side effects have included urinary incontinence.[Ref]
-Local side effects have included pain at injection site and injection site reaction.[Ref]
+Cardiovascular side effects have included prolonged P-R Interval, hypotension, elevated heart rate, A-V nodal rhythm, cardiac arrest, bradycardia, hypertension, and death in association with pre-existing cardiovascular disorders.
+Respiratory side effects have included dyspnea, rhinitis, cough, apnea, and wheezing.
+Other side effects have included voice alteration; transitory deafness and tinnitus.
+Nervous system side effects have included headache, anxiety, dizziness, paresthesia, mental status decline, loss of coordination in arm, staring episodes, seizure, syncope, stupor, tremor, tingling sensation in extremities and digits, and loss of consciousness.
+Hypersensitivity side effects have included anaphylactoid reactions rarely resulting in death.
+Dermatologic side effects have included pruritus, rash, macular papular rash, urticaria, hives, itching, sweating, and cyanosis.
+Gastrointestinal side effects have included edematous and/or itching tongue, gingivitis dry mouth, loose bowel, vomiting, abdominal cramps, increased salivation, and dysphagia.
+General side effects have included facial edema, neck rigidity, pain, chest pain, fever, tingling sensation in throat, laryngismus, flushed feeling, vasovagal reaction, and generalized edema.
+Genitourinary side effects have included urinary incontinence.
+Local side effects have included pain at injection site and injection site reaction.
 Ocular side effects have included watery eyes.
-1. "Product Information. ProHance (gadoteridol)." Bracco Diagnostics Inc, Plainsboro, NJ. 
-Not all side effects for gadoteridol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Bluish color of the fingernails, lips, skin, palms, or nail beds
 blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -56,12 +46,8 @@ tightness in the chest
 trembling or shaking of the hands or feet
 unconsciousness
 unusual tiredness or weakness
-
-
 Bad, unusual, or unpleasant (after) taste
 nausea
-
-
 Abdominal or stomach cramps
 anxiety
 bleeding gums
@@ -82,4 +68,3 @@ tingling sensation in the throat
 voice changes
 vomiting
 watery eyes
-

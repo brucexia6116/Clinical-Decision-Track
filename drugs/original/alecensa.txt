@@ -1,31 +1,20 @@
-Generic Name: alectinib
 Common side effects of Alecensa include: cough, dyspnea, increased creatine phosphokinase, increased serum aspartate aminotransferase, musculoskeletal pain, and myalgia. Other side effects include: bradycardia, and increased serum bilirubin.  See below for a comprehensive list of adverse effects.
-Applies to alectinib: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by alectinib (the active ingredient contained in Alecensa). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking alectinib:
-Some of the side effects that can occur with alectinib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to alectinib: oral capsule
-Very common (10% or more): Anemia (56%), lymphopenia (22%)[Ref]
-Very common (10% or more): Increased AST (51%), increased alkaline phosphatase (47%), hyperbilirubinemia (39%), increased ALT (34%)[Ref]
-Very common (10% or more): Increased CPK (43%), myalgia/musculoskeletal pain (29%), back pain (12%)[Ref]
-Very common (10% or more): Fatigue/asthenia (41%), edema (30%)[Ref]
-The following types of edema were reported: peripheral, generalized, eyelid, and periorbital.[Ref]
-Very common (10% or more): Hyperglycemia (36%), hypocalcemia (32%), hypokalemia (29%), hypophosphatemia (21%), hyponatremia (20%), increased weight (11%)[Ref]
-Very common (10% or more): Constipation (34%), nausea (18%), diarrhea (16%), vomiting (12%)[Ref]
-Very common (10% or more): Increased creatinine (28%)[Ref]
-Very common (10% or more): Rash (18%)Common (1% to 10%): Photosensitivity[Ref]
-Reported cases of rash included acneiform dermatitis, erythema, and different types of rash (macular, papular, maculopapular, generalized, and pruritic).[Ref]
-Very common (10% or more): Headache (17%)[Ref]
-Very common (10% or more): Cough (19%), dyspnea (16%)Uncommon (0.1% to 1%): Interstitial lung disease[Ref]
-Reported cases of vision disorder included blurred vision, vitreous floaters, visual impairment, reduced visual acuity, asthenopia, and diplopia.[Ref]
-Very common (10% or more): Vision disorder (10%)[Ref]
-Common (1% to 10%): Bradycardia[Ref]
-In 253 patients with anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) who received this drug (600 mg orally twice a day) for a median duration of 9.3 months, serious (19%) and fatal (2.8%) adverse reactions occurred.[Ref]
-1. "Product Information. Alecensa (alectinib)." Genentech, South San Francisco, CA. 
-Not all side effects for Alecensa may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Anemia (56%), lymphopenia (22%)
+Very common (10% or more): Increased AST (51%), increased alkaline phosphatase (47%), hyperbilirubinemia (39%), increased ALT (34%)
+Very common (10% or more): Increased CPK (43%), myalgia/musculoskeletal pain (29%), back pain (12%)
+Very common (10% or more): Fatigue/asthenia (41%), edema (30%)
+The following types of edema were reported: peripheral, generalized, eyelid, and periorbital.
+Very common (10% or more): Hyperglycemia (36%), hypocalcemia (32%), hypokalemia (29%), hypophosphatemia (21%), hyponatremia (20%), increased weight (11%)
+Very common (10% or more): Constipation (34%), nausea (18%), diarrhea (16%), vomiting (12%)
+Very common (10% or more): Increased creatinine (28%)
+Very common (10% or more): Rash (18%)Common (1% to 10%): Photosensitivity
+Reported cases of rash included acneiform dermatitis, erythema, and different types of rash (macular, papular, maculopapular, generalized, and pruritic).
+Very common (10% or more): Headache (17%)
+Very common (10% or more): Cough (19%), dyspnea (16%)Uncommon (0.1% to 1%): Interstitial lung disease
+Reported cases of vision disorder included blurred vision, vitreous floaters, visual impairment, reduced visual acuity, asthenopia, and diplopia.
+Very common (10% or more): Vision disorder (10%)
+Common (1% to 10%): Bradycardia
+In 253 patients with anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) who received this drug (600 mg orally twice a day) for a median duration of 9.3 months, serious (19%) and fatal (2.8%) adverse reactions occurred.
 Chest pain or discomfort
 cough
 difficulty with moving
@@ -37,8 +26,6 @@ shortness of breath
 slow or irregular heartbeat
 swollen joints
 unusual tiredness
-
-
 Abdominal pain or tenderness
 clay colored stools
 dark urine
@@ -50,12 +37,8 @@ loss of appetite
 nausea and vomiting
 swelling of the feet or lower legs
 yellow eyes or skin
-
-
 Difficult breathing
 fever
-
-
 Back pain
 bloating or swelling of the face, arms, hands, lower legs, or feet
 blurred vision
@@ -70,4 +53,3 @@ swelling around the eyes
 tingling of the hands or feet
 unusual weight gain or loss
 vision changes
-

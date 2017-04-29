@@ -1,29 +1,17 @@
-Generic Name: flurazepam
-Applies to flurazepam: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by flurazepam (the active ingredient contained in Dalmane). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking flurazepam:
-Some of the side effects that can occur with flurazepam may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to flurazepam: oral capsule
-Common (1% to 10%): Reduced alertness, confusion, headache, dizziness, ataxiaRare (less than 0.1%): Difficulty in focusing, faintness, slurred speech, confusion, restlessness, vertigoFrequency not reported: CNS-depressant effects, next-day impairment, nervousness, talkativeness, drowsiness, staggering[Ref]
-Common (1% to 10%): Numbed emotionsRare (less than 0.1%): Euphoria, depression, hallucinationsFrequency not reported: Withdrawal syndrome, abnormal thinking, behavior changes, complex behaviors, worsening of depression, apprehension, irritability[Ref]
-Common (1% to 10%): FatigueFrequency not reported: Weakness[Ref]
-Rare (less than 0.1%): Dry mouth, bitter taste, excessive salivationFrequency not reported: Heartburn, upset stomach, nausea, vomiting, diarrhea, constipation, gastrointestinal pain[Ref]
-Rare (less than 0.1%): Elevated SGOT/SGPT, total and direct bilirubin elevations, elevated alkaline phosphataseFrequency not reported: Jaundice[Ref]
-Very rare (less than 0.01%): Severe anaphylactic/anaphylactoid reactions[Ref]
-Frequency not reported: Palpitation, chest pain[Ref]
-Rare (less than 0.1%): Sweating, pruritus, skin rash[Ref]
-The most commonly reported side effects were headache, dizziness, muscle weakness, ataxia, and double vision.[Ref]
-Frequency not reported: Genitourinary complaints, changes in libido, urinary retention[Ref]
-Rare (less than 0.1%): Leukopenia, granulocytopeniaFrequency not reported: Blood dyscrasias[Ref]
-Rare (less than 0.1%): Anorexia[Ref]
-Common (1% to 10%): Muscle weaknessFrequency not reported: Body/joint pain[Ref]
-Common (1% to 10%): Double visionRare (less than 0.1%): Blurred vision, burning eyesFrequency not reported: Visual disturbance[Ref]
-1. "Product Information. Dalmane (flurazepam)." Roche Laboratories, Nutley, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Dalmane may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Reduced alertness, confusion, headache, dizziness, ataxiaRare (less than 0.1%): Difficulty in focusing, faintness, slurred speech, confusion, restlessness, vertigoFrequency not reported: CNS-depressant effects, next-day impairment, nervousness, talkativeness, drowsiness, staggering
+Common (1% to 10%): Numbed emotionsRare (less than 0.1%): Euphoria, depression, hallucinationsFrequency not reported: Withdrawal syndrome, abnormal thinking, behavior changes, complex behaviors, worsening of depression, apprehension, irritability
+Common (1% to 10%): FatigueFrequency not reported: Weakness
+Rare (less than 0.1%): Dry mouth, bitter taste, excessive salivationFrequency not reported: Heartburn, upset stomach, nausea, vomiting, diarrhea, constipation, gastrointestinal pain
+Rare (less than 0.1%): Elevated SGOT/SGPT, total and direct bilirubin elevations, elevated alkaline phosphataseFrequency not reported: Jaundice
+Very rare (less than 0.01%): Severe anaphylactic/anaphylactoid reactions
+Frequency not reported: Palpitation, chest pain
+Rare (less than 0.1%): Sweating, pruritus, skin rash
+The most commonly reported side effects were headache, dizziness, muscle weakness, ataxia, and double vision.
+Frequency not reported: Genitourinary complaints, changes in libido, urinary retention
+Rare (less than 0.1%): Leukopenia, granulocytopeniaFrequency not reported: Blood dyscrasias
+Rare (less than 0.1%): Anorexia
+Common (1% to 10%): Muscle weaknessFrequency not reported: Body/joint pain
+Common (1% to 10%): Double visionRare (less than 0.1%): Blurred vision, burning eyesFrequency not reported: Visual disturbance
 Black, tarry stools
 blurred vision
 chest pain
@@ -42,8 +30,6 @@ sweating
 swollen glands
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Change in consciousness
 clumsy movement, moving from side to side
 confusion about identity, place, and time
@@ -53,8 +39,6 @@ loss of consciousness
 shakiness and unsteady walk
 unsteadiness, trembling, or other problems with muscle control or coordination
 unusual drowsiness, dullness, tiredness, weakness or feeling of sluggishness
-
-
 Bitter taste
 blurred vision
 burning eyes
@@ -79,8 +63,6 @@ trouble concentrating
 trouble sleeping
 unusual excitement, nervousness, restlessness, or irritability
 weight loss
-
-
 Constipation
 diarrhea
 fear
@@ -91,4 +73,3 @@ nausea
 stomach upset
 talkativeness
 vomiting
-

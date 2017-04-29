@@ -1,58 +1,40 @@
-Applies to nafarelin: nasal spray
 As well as its needed effects, nafarelin may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking nafarelin, check with your doctor immediately:
 Some nafarelin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to nafarelin: nasal spray
-Very common (10% or more): Acne (up to 10%)Common (1% to 10%): Transient increase in pubic hair, body odor, seborrhea, pruritus, rash, urticaria, hirsutismUncommon (0.1% to 1%): Alopecia[Ref]
-Common (1% to 10%): Transient breast enlargement, breast atrophy/decreased breast size, vulvovaginal dryness, artificial menopause, uterine hemorrhage, vaginal bleeding, white/brown vaginal dischargeUncommon (0.1% to 1%): Ovarian cystFrequency not reported: Ovarian hyperstimulation[Ref]
-Hot flashes occurred commonly in adult women who were treated for endometriosis.  Approximately 3% of children developed transient hot flashes.[Ref]
-Common (1% to 10%): Hot flashes, chest pain, hyper/hypotension, edemaFrequency not reported: Palpitations[Ref]
-Common (1% to 10%): Emotional/affect lability, decreased/increased libido, depression, insomnia[Ref]
-Common (1% to 10%): Rhinitis, dyspneaFrequency not reported: Shortness of breath, irritation of nasal mucosaPostmarketing reports: Interstitial pneumonitis, pulmonary fibrosis[Ref]
-Common (1% to 10%): Headache, paresthesiaFrequency not reported: MigrainesPostmarketing reports: Convulsions[Ref]
-Common (1% to 10%): Myalgia, decreased bone mineral densityUncommon (0.1% to 1%): ArthralgiaPostmarketing reports: Arthritic symptoms[Ref]
-Common (1% to 10%): Estrogen deficiencyFrequency not reported: Pituitary enlargement/asymmetry/pituitary gland changes (size and shape)Postmarketing reports: Pituitary apoplexy[Ref]
-Common (1% to 10%): Increased/decreased weightFrequency not reported: Increased serum alkaline phosphatase, increased total cholesterol/triglycerides[Ref]
-Common (1% to 10%): Drug hypersensitivity[Ref]
-Frequency not reported: Adrenal rest tumor of the testis, pituitary gland adenoma[Ref]
-A patient with congenital adrenal hyperplasia developed an adrenal rest tumor 8 months after discontinuing treatment; however, correlation to treatment is unlikely.Pituitary gland adenomas have been observed in a few children receiving treatment; however, the relationship to treatment is unknown.[Ref]
-Frequency not reported: Increased AST/ALT, serious liver injury[Ref]
-Frequency not reported: Blurred vision[Ref]
-1. "Product Information. Synarel (nafarelin nasal)." Pfizer U.S. Pharmaceuticals Group, New York, NY. 
-2. "Product Information. Synarel Nasel Solution (nafarelin nasal)." Searle, Chicago, IL. 
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-5. "Product Information. Synarel (nafarelin)." Roche Laboratories, Nutley, NJ. 
+Very common (10% or more): Acne (up to 10%)Common (1% to 10%): Transient increase in pubic hair, body odor, seborrhea, pruritus, rash, urticaria, hirsutismUncommon (0.1% to 1%): Alopecia
+Common (1% to 10%): Transient breast enlargement, breast atrophy/decreased breast size, vulvovaginal dryness, artificial menopause, uterine hemorrhage, vaginal bleeding, white/brown vaginal dischargeUncommon (0.1% to 1%): Ovarian cystFrequency not reported: Ovarian hyperstimulation
+Hot flashes occurred commonly in adult women who were treated for endometriosis.  Approximately 3% of children developed transient hot flashes.
+Common (1% to 10%): Hot flashes, chest pain, hyper/hypotension, edemaFrequency not reported: Palpitations
+Common (1% to 10%): Emotional/affect lability, decreased/increased libido, depression, insomnia
+Common (1% to 10%): Rhinitis, dyspneaFrequency not reported: Shortness of breath, irritation of nasal mucosaPostmarketing reports: Interstitial pneumonitis, pulmonary fibrosis
+Common (1% to 10%): Headache, paresthesiaFrequency not reported: MigrainesPostmarketing reports: Convulsions
+Common (1% to 10%): Myalgia, decreased bone mineral densityUncommon (0.1% to 1%): ArthralgiaPostmarketing reports: Arthritic symptoms
+Common (1% to 10%): Estrogen deficiencyFrequency not reported: Pituitary enlargement/asymmetry/pituitary gland changes (size and shape)Postmarketing reports: Pituitary apoplexy
+Common (1% to 10%): Increased/decreased weightFrequency not reported: Increased serum alkaline phosphatase, increased total cholesterol/triglycerides
+Common (1% to 10%): Drug hypersensitivity
+Frequency not reported: Adrenal rest tumor of the testis, pituitary gland adenoma
+A patient with congenital adrenal hyperplasia developed an adrenal rest tumor 8 months after discontinuing treatment; however, correlation to treatment is unlikely.Pituitary gland adenomas have been observed in a few children receiving treatment; however, the relationship to treatment is unknown.
+Frequency not reported: Increased AST/ALT, serious liver injury
+Frequency not reported: Blurred vision
 It is possible that some side effects of nafarelin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Breast enlargement
 light vaginal bleeding between regular menstrual periods called spotting
 longer or heavier menstrual periods
 vaginal bleeding between regular menstrual periods called breakthrough bleeding
-
-
 Body odor
 growth of pubic hair
-
-
 Body odor
 breast enlargement
 growth of pubic hair
 light vaginal bleeding between regular menstrual periods called spotting
 longer or heavier menstrual periods
 vaginal bleeding between regular menstrual periods called breakthrough bleeding
-
-
 Chest pain
 hives or welts
 itching skin
 redness of the skin
 skin rash
 shortness of breath
-
-
 Fast or irregular heartbeat
 numbness or tingling of the hands or feet
 pain in the eyes or joints
@@ -60,13 +42,9 @@ patchy brown or dark brown discoloration of the skin
 pelvic bloating or tenderness
 unexpected or excess milk flow from breasts
 unusual tiredness or weakness
-
-
 Chest pain
 hives
 shortness of breath
-
-
 Anxiety or mental depression
 changes in vision
 chest pain or discomfort
@@ -79,8 +57,6 @@ nightmares or unusually vivid dreams
 slow heart rate
 vomiting
 weakness
-
-
 Cough
 difficulty with speaking
 dizziness or lightheadedness
@@ -97,8 +73,6 @@ sudden shortness of breath or troubled breathing
 sweating
 vomiting
 yellow eyes or skin
-
-
 Acne
 dandruff
 hot flashes
@@ -113,31 +87,20 @@ reduced breast size
 stopping of menstrual periods
 swelling of the feet or lower legs
 vaginal dryness
-
-
 Acne
 dandruff
 mood swings
 oily skin
-
-
 Acne
 dandruff
 hot flashes
 mood swings
 oily skin
-
-
 Breast pain
 headache (mild and transient)
 irritated or runny nose
 mental depression (mild and transient)
 skin rash
-
-
 Irritated or runny nose
-
-
 Irritated or runny nose
 white or brownish vaginal discharge
-

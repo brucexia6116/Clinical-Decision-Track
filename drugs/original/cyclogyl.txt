@@ -1,23 +1,13 @@
-Generic Name: cyclopentolate ophthalmic
-Applies to cyclopentolate ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by cyclopentolate ophthalmic (the active ingredient contained in Cyclogyl). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking cyclopentolate ophthalmic, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with cyclopentolate ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cyclopentolate ophthalmic: compounding powder, ophthalmic solution
-Respiratory side effects have included decreased secretion in the pharynx, bronchi, and nasal passages.[Ref]
-Cardiovascular side effects have included tachycardia and vasodilation.[Ref]
-Dermatological side effects have included skin rash and decreased sweat gland secretion.[Ref]
-Gastrointestinal side effects have included abdominal distention (in infants), diminished gastrointestinal motility, and decreased salivary secretion.[Ref]
-General side effects have included hyperpyrexia.[Ref]
-Genitourinary side effects have included urinary retention.[Ref]
-Nervous system side effects have included ataxia, incoherent speech, restlessness, and seizures.  Unusual drowsiness has also been reported.[Ref]
-Ocular side effects have included increased intraocular pressure, burning, photophobia, blurred vision, irritation, hyperemia, conjunctivitis, blepharoconjunctivitis, punctate keratitis, and synechiae.[Ref]
-Psychiatric side effects have included hallucinations, hyperactivity, disorientation as to time and place, and failure to recognize people.[Ref]
-1. "Product Information. Cyclopentolate Hydrochloride (cyclopentolate ophthalmic)." Falcon Ophthalmics, Fort Worth, TX. 
-Not all side effects for Cyclogyl may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Respiratory side effects have included decreased secretion in the pharynx, bronchi, and nasal passages.
+Cardiovascular side effects have included tachycardia and vasodilation.
+Dermatological side effects have included skin rash and decreased sweat gland secretion.
+Gastrointestinal side effects have included abdominal distention (in infants), diminished gastrointestinal motility, and decreased salivary secretion.
+General side effects have included hyperpyrexia.
+Genitourinary side effects have included urinary retention.
+Nervous system side effects have included ataxia, incoherent speech, restlessness, and seizures.  Unusual drowsiness has also been reported.
+Ocular side effects have included increased intraocular pressure, burning, photophobia, blurred vision, irritation, hyperemia, conjunctivitis, blepharoconjunctivitis, punctate keratitis, and synechiae.
+Psychiatric side effects have included hallucinations, hyperactivity, disorientation as to time and place, and failure to recognize people.
 Clumsiness or unsteadiness
 confusion 
 constipation, full feeling, passing gas, or stomach cramps or pain
@@ -33,10 +23,7 @@ swollen stomach (in infants)
 thirst or dryness of mouth
 unusual behavior, such as disorientation to time or place, failure to recognize people, hyperactivity, or restlessness, especially in children 
 unusual drowsiness, tiredness, or weakness
-
-
 Blurred vision
 burning of eye
 eye irritation not present before therapy
  increased sensitivity of eyes to light
-

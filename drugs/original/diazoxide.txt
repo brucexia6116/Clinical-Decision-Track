@@ -1,25 +1,13 @@
-Applies to diazoxide: oral capsule, oral suspension
-In addition to its needed effects, some unwanted effects may be caused by diazoxide. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking diazoxide:
-Some of the side effects that can occur with diazoxide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to diazoxide: compounding powder, injectable solution, oral capsule, oral suspension
-The most common reactions reported following diazoxide administration include hypotension (7%), nausea and vomiting (4%), dizziness and weakness (2%).[Ref]
-Cardiovascular effects including sodium and water retention following repeated injections, hypotension, shock, myocardial ischemia, myocardial and cerebral infarction, angina, atrial and ventricular arrhythmias, marked electrocardiographic changes, optic nerve infarction, supraventricular tachycardia and palpitation, bradycardia, and chest discomfort have been reported.[Ref]
-Angina with myocardial and cerebral infarction have been associated with the use of a 300 mg intravenous dose of diazoxide.  One case of optic nerve infarction was reported following a single 300 mg bolus dose of diazoxide, as a result of a sudden reduction in diastolic pressure.  Results from one prospective trial conducted in patients with severe hypertension and coronary artery disease showed a 50% incidence of ischemic changes in the electrocardiogram following single 300 mg bolus injections of diazoxide.[Ref]
-Nervous system affects reported following diazoxide administration include cerebral ischemia, convulsions, paralysis, confusion, numbness of the hands, orthostatic hypotension, sweating, flushing, generalized or localized sensations of warmth, headache, dizziness, lightheadedness, sleepiness, lethargy, somnolence, drowsiness, euphoria, tinnitus, momentary loss of hearing, weakness and anxiety.[Ref]
-Gastrointestinal side effects have been rarely reported and include acute pancreatitis, nausea, vomiting, abdominal discomfort, anorexia, alteration in taste, parotid swelling, salivation, dry mouth, lacrimation, ileus, constipation and diarrhea.[Ref]
-Metabolic effects including hyperglycemia have been reported in diabetic and nondiabetic patients, especially after repeated injections.  Transient retention of nitrogenous wastes has also been reported.[Ref]
-Respiratory effects including dyspnea, cough and choking sensation have been reported.[Ref]
-Hypersensitivity reactions characterized by rash, leukopenia, fever and papilledema induced by plasma volume expansion secondary to the administration of diazoxide have been reported.[Ref]
-Other effects including warmth or pain along the injected vein, cellulitis and/or phlebitis at the injection site of extravasation, back pain, increased nocturia, malaise, blurred vision, hirsutism, and decreased libido have been reported.[Ref]
-1. "Product Information. Hyperstat I.V. (diazoxide)." Schering Corp, Kenilworth, NJ. 
-Not all side effects for diazoxide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common reactions reported following diazoxide administration include hypotension (7%), nausea and vomiting (4%), dizziness and weakness (2%).
+Cardiovascular effects including sodium and water retention following repeated injections, hypotension, shock, myocardial ischemia, myocardial and cerebral infarction, angina, atrial and ventricular arrhythmias, marked electrocardiographic changes, optic nerve infarction, supraventricular tachycardia and palpitation, bradycardia, and chest discomfort have been reported.
+Angina with myocardial and cerebral infarction have been associated with the use of a 300 mg intravenous dose of diazoxide.  One case of optic nerve infarction was reported following a single 300 mg bolus dose of diazoxide, as a result of a sudden reduction in diastolic pressure.  Results from one prospective trial conducted in patients with severe hypertension and coronary artery disease showed a 50% incidence of ischemic changes in the electrocardiogram following single 300 mg bolus injections of diazoxide.
+Nervous system affects reported following diazoxide administration include cerebral ischemia, convulsions, paralysis, confusion, numbness of the hands, orthostatic hypotension, sweating, flushing, generalized or localized sensations of warmth, headache, dizziness, lightheadedness, sleepiness, lethargy, somnolence, drowsiness, euphoria, tinnitus, momentary loss of hearing, weakness and anxiety.
+Gastrointestinal side effects have been rarely reported and include acute pancreatitis, nausea, vomiting, abdominal discomfort, anorexia, alteration in taste, parotid swelling, salivation, dry mouth, lacrimation, ileus, constipation and diarrhea.
+Metabolic effects including hyperglycemia have been reported in diabetic and nondiabetic patients, especially after repeated injections.  Transient retention of nitrogenous wastes has also been reported.
+Respiratory effects including dyspnea, cough and choking sensation have been reported.
+Hypersensitivity reactions characterized by rash, leukopenia, fever and papilledema induced by plasma volume expansion secondary to the administration of diazoxide have been reported.
+Other effects including warmth or pain along the injected vein, cellulitis and/or phlebitis at the injection site of extravasation, back pain, increased nocturia, malaise, blurred vision, hirsutism, and decreased libido have been reported.
 Chest pain
-
-
 Abdominal or stomach pain
 black, tarry stools
 blood in the urine
@@ -52,12 +40,7 @@ unusual tiredness or weakness
 urinating large amounts or urinating very little
 vomiting
 weakness
-
-
 Increased hair growth, especially on the forehead, back, arms, and legs
-
-
 Loss of appetite
 loss of taste
 weight loss
-

@@ -1,24 +1,17 @@
-Generic Name: dicyclomine
-Applies to dicyclomine: oral capsules and tablets, oral solution, parenteral injection
 Side effects include:
 Most adverse effects are manifestations of pharmacologic effects at muscarinic-cholinergic receptors and usually are reversible when therapy is discontinued. 
 Severity and frequency of adverse effects are dose related and individual intolerance varies greatly; although adverse effects occasionally may be obviated by a reduction in dosage, this also will likely eliminate potential therapeutic effects.   If dosage of ≥80 mg daily cannnot be achieved because of intolerance, discontinue dicyclomine (the active ingredient contained in Bentyl)   
 Dry mouth, dizziness, blurred vision, nausea, light-headedness (especially with the injectable form), drowsiness, weakness, nervousness. 
-Applies to dicyclomine: compounding powder, intramuscular solution, oral capsule, oral syrup, oral tablet
--The most serious adverse reactions include cardiovascular and central nervous system symptoms.-The most common adverse reactions are dizziness, dry mouth, vision blurred, nausea, somnolence, asthenia and nervousness, fever, tachycardia, agitation, and dry skin/mucous membranes.[Ref]
-Very common (10% or more): Dry mouth (33%), nausea (14%)Rare (less than 0.1%): Constipation, anorexiaFrequency not reported: Thirst, delayed gastric emptying time, reduced gastric acid secretion, gastroesophageal refluxPostmarketing reports: Abdominal distension, abdominal pain, dyspepsia, constipation, dry mouth, nausea, vomiting[Ref]
-Very common (10% or more): Dizziness (40%)Common (1% to 10%): Somnolence, nervousnessRare (less than 0.1%): Sedation, headachePostmarketing reports: Dizziness, headache, somnolence, syncope[Ref]
-Very common (10% or more): Blurred vision (27%)Frequency not reported: Follicular conjunctivitis, all muscarinic antagonists can precipitate glaucomaPostmarketing reports: Cycloplegia, mydriasis, blurred vision[Ref]
-Common (1% to 10%): AstheniaFrequency not reported: FatiguePostmarketing reports: Malaise, fatigue[Ref]
-Rare (less than 0.1%): RashPostmarketing reports: Allergic dermatitis, erythema, rash[Ref]
-Rare (less than 0.1%): Dysuria[Ref]
-Frequency not reported: Urinary retention, impotence in male patientsPostmarketing reports: Suppressed lactation[Ref]
-Postmarketing reports: Palpitations, tachyarrhythmias, thrombosis, thrombophlebitis[Ref]
-Postmarketing reports: Face edema, angioedema, anaphylactic shock[Ref]
-Postmarketing reports: Local pain, edema, skin color change, reflex sympathetic dystrophy syndrome (caused by inadvertent IV injection)[Ref]
-Postmarketing reports: Delirium or symptoms of delirium such as amnesia (or transient global amnesia), nervousness, agitation, confusional state, delusion, disorientation, hallucination (including visual hallucination), and mania, mood (altered and pseudodementia).[Ref]
-Postmarketing reports: Dyspnea, nasal congestion[Ref]
-1. Kagan G, Huddlestone L, Wolstencroft P "Comparison of dicyclomine with antacid and without antacid in dyspepsia." J Int Med Res 12 (1984): 174-8
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Bentyl (dicyclomine)." Aventis Pharmaceuticals, Kansas City, MO. 
-Not all side effects for Bentyl may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+-The most serious adverse reactions include cardiovascular and central nervous system symptoms.-The most common adverse reactions are dizziness, dry mouth, vision blurred, nausea, somnolence, asthenia and nervousness, fever, tachycardia, agitation, and dry skin/mucous membranes.
+Very common (10% or more): Dry mouth (33%), nausea (14%)Rare (less than 0.1%): Constipation, anorexiaFrequency not reported: Thirst, delayed gastric emptying time, reduced gastric acid secretion, gastroesophageal refluxPostmarketing reports: Abdominal distension, abdominal pain, dyspepsia, constipation, dry mouth, nausea, vomiting
+Very common (10% or more): Dizziness (40%)Common (1% to 10%): Somnolence, nervousnessRare (less than 0.1%): Sedation, headachePostmarketing reports: Dizziness, headache, somnolence, syncope
+Very common (10% or more): Blurred vision (27%)Frequency not reported: Follicular conjunctivitis, all muscarinic antagonists can precipitate glaucomaPostmarketing reports: Cycloplegia, mydriasis, blurred vision
+Common (1% to 10%): AstheniaFrequency not reported: FatiguePostmarketing reports: Malaise, fatigue
+Rare (less than 0.1%): RashPostmarketing reports: Allergic dermatitis, erythema, rash
+Rare (less than 0.1%): Dysuria
+Frequency not reported: Urinary retention, impotence in male patientsPostmarketing reports: Suppressed lactation
+Postmarketing reports: Palpitations, tachyarrhythmias, thrombosis, thrombophlebitis
+Postmarketing reports: Face edema, angioedema, anaphylactic shock
+Postmarketing reports: Local pain, edema, skin color change, reflex sympathetic dystrophy syndrome (caused by inadvertent IV injection)
+Postmarketing reports: Delirium or symptoms of delirium such as amnesia (or transient global amnesia), nervousness, agitation, confusional state, delusion, disorientation, hallucination (including visual hallucination), and mania, mood (altered and pseudodementia).
+Postmarketing reports: Dyspnea, nasal congestion

@@ -1,29 +1,18 @@
-Generic Name: palivizumab
 Common side effects of Synagis include: rhinitis.  See below for a comprehensive list of adverse effects.
-Applies to palivizumab: intramuscular powder for solution, intramuscular solution
 As well as its needed effects, palivizumab (the active ingredient contained in Synagis) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking palivizumab, check with your doctor or nurse immediately:
 Some palivizumab side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to palivizumab: intramuscular powder for injection, intramuscular solution
-Frequency not reported: Arrhythmia (during studies of congenital heart disease patients)[Ref]
-Common (1% to 10%): Nausea, vomiting, diarrhea[Ref]
-Frequency not reported: Anaphylaxis, anaphylactic shock (sometimes fatal)Postmarketing reports: Angioedema[Ref]
-Common (1% to 10%): Injection site reactions[Ref]
-Very common (10% or more): Pyrexia[Ref]
-Very common (10% or more): RashUncommon (0.1% to 1%): UrticariaFrequency not reported: Pruritus[Ref]
-The most serious adverse reactions are anaphylaxis and other acute hypersensitivity reactions.[Ref]
-Uncommon (0.1% to 1%): Thrombocytopenia (mild), eosinophilia (mild)Postmarketing reports: Severe thrombocytopenia (platelet count less than 50,000/microliter)[Ref]
-Uncommon (0.1% to 1%): Convulsions[Ref]
-Frequency not reported: Cyanosis during studies of congenital heart disease patientsPostmarketing reports: Dyspnea, asthma, bronchospasm[Ref]
-1. "Product Information. Synagis (palivizumab)." Ross Product Division Pharmaceuticals, Columbus, OH. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Boeckh M,  Berrey MM,  Bowden RA,  Crawford SW,  Balsley J,  Corey L "Phase 1 evaluation of the respiratory syncytial virus-specific monoclonal antibody palivizumab in recipients of hematopoietic stem cell transplants." J Infect Dis 184 (2001): 350-4
-4. Pharmaceutical Society of Australia "APPGuide online. Australian prescription products guide online. Available from: URL: http://www.appco.com.au/appguide/default.asp."   ([2006]):
+Frequency not reported: Arrhythmia (during studies of congenital heart disease patients)
+Common (1% to 10%): Nausea, vomiting, diarrhea
+Frequency not reported: Anaphylaxis, anaphylactic shock (sometimes fatal)Postmarketing reports: Angioedema
+Common (1% to 10%): Injection site reactions
+Very common (10% or more): Pyrexia
+Very common (10% or more): RashUncommon (0.1% to 1%): UrticariaFrequency not reported: Pruritus
+The most serious adverse reactions are anaphylaxis and other acute hypersensitivity reactions.
+Uncommon (0.1% to 1%): Thrombocytopenia (mild), eosinophilia (mild)Postmarketing reports: Severe thrombocytopenia (platelet count less than 50,000/microliter)
+Uncommon (0.1% to 1%): Convulsions
+Frequency not reported: Cyanosis during studies of congenital heart disease patientsPostmarketing reports: Dyspnea, asthma, bronchospasm
 It is possible that some side effects of Synagis may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Bluish color of the fingernails, lips, skin, palms, or nail beds
 blurred vision
 confusion
@@ -48,14 +37,9 @@ tightness in the chest
 unresponsiveness
 unusual tiredness or weakness
 wheezing
-
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
 pinpoint red spots on the skin
 unusual bleeding or bruising
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
-

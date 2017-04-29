@@ -1,41 +1,27 @@
-Generic Name: penicillamine
 Common side effects of Cuprimine include: cheilosis, epigastric pain, glossitis, oral mucosa ulcer, ageusia, and dysgeusia. Other side effects include: thrombocytopenia.  See below for a comprehensive list of adverse effects.
-Applies to penicillamine: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by penicillamine (the active ingredient contained in Cuprimine). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking penicillamine, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with penicillamine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to penicillamine: oral capsule, oral tablet
-Very common (10% or more): Blunting, diminution, or total loss of taste (12%) Frequency not reported: Headache, dizziness, deterioration of neurological symptoms of Wilson's disease (dystonia, rigidity, tremor, dysarthria) following introduction of therapy in patients treated for this condition (this may be a consequence of mobilization and redistribution of copper from the liver to the brain), arthralgia, tinnitus, peripheral sensory and motor neuropathies (including polyradiculoneuropathy, i.e., Guillain-Barre Syndrome)[Ref]
-Very common (10% or more): Epigastric pain (17%), nausea (17%), vomiting (17%), diarrhea (17%)Rare (0.01% to 0.1%): Mouth ulceration, stomatitis, glossitis Frequency not reported: Pancreatitis, reactivated peptic ulcer[Ref]
-Common (1% to 10%): Thrombocytopenia, leukopeniaFrequency not reported: Neutropenia (usually reversible), agranulocytosis (sometimes fatal), aplastic anemia (sometimes fatal), hemolytic anemia, lymphadenopathy, thrombotic thrombocytopenic purpura, red cell aplasia, monocytosis, leukocytosis, eosinophilia, thrombocytosis[Ref]
-Common (1% to 10%): ProteinuriaRare (less than 0.1%): Hematuria, renal vasculitis Frequency not reported: Nephrotic syndrome, glomerulonephritis, Goodpasture's syndrome[Ref]
-Rare (less than 0.1%): Polymyositis, dermatomyositis Frequency not reported: Lupus erythematosus, myasthenia gravis, rheumatoid arthritis, septic arthritis (in patients with rheumatoid arthritis), muscular weakness[Ref]
-Common (1% to 10%): Rash (early and/or later in therapy), pruritusRare (less than 0.1%): Alopecia, pseudoxanthoma elasticum, elastosis perforans, skin laxity, lichen planus Frequency not reported: Urticaria, epidermolysis bullosa, exfoliative dermatitis, dermopathy, dermatomyositis, pemphigus, Stevens-Johnson syndrome[Ref]
-Rare (less than 0.1%): Bronchial asthma Frequency not reported: Pulmonary hemorrhage, dyspnea, pleural effusion, alveolitis, pulmonary fibrosis, bronchiolitis, pneumonitis[Ref]
-Frequency not reported: Deafness, fever, the chelating action of the drug may cause increased excretion of other heavy metals (in addition to copper) such as zinc, mercury, and lead[Ref]
-Rare (less than 0.1%): Breast enlargement[Ref]
-Rare (less than 0.1%): Intrahepatic cholestasis, toxic hepatitis Frequency not reported: Cholestatic jaundice, hepatic dysfunction, pancreatitis, increased serum alkaline phosphatase, increased lactic dehydrogenase, positive cephalin flocculation test, positive thymol turbidity test[Ref]
-Frequency not reported: Abnormal vision, optic neuritis[Ref]
-Rare (less than 0.1%): Thrombophlebitis[Ref]
-Very rare (less than 0.01%): Thyroiditis[Ref]
-Both the frequency and severity of many side effects are dose related and vary according to the disease being treated.  Initiating therapy at lower doses and titrating up helps to attenuate some side effects.[Ref]
-Rare (less than 0.1%): Allergic reactions including hypersensitivity[Ref]
-Frequency not reported: Confusion[Ref]
-1. "Product Information. Cuprimine (penicillamine)." Merck & Co, Inc, West Point, PA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Cuprimine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Blunting, diminution, or total loss of taste (12%) Frequency not reported: Headache, dizziness, deterioration of neurological symptoms of Wilson's disease (dystonia, rigidity, tremor, dysarthria) following introduction of therapy in patients treated for this condition (this may be a consequence of mobilization and redistribution of copper from the liver to the brain), arthralgia, tinnitus, peripheral sensory and motor neuropathies (including polyradiculoneuropathy, i.e., Guillain-Barre Syndrome)
+Very common (10% or more): Epigastric pain (17%), nausea (17%), vomiting (17%), diarrhea (17%)Rare (0.01% to 0.1%): Mouth ulceration, stomatitis, glossitis Frequency not reported: Pancreatitis, reactivated peptic ulcer
+Common (1% to 10%): Thrombocytopenia, leukopeniaFrequency not reported: Neutropenia (usually reversible), agranulocytosis (sometimes fatal), aplastic anemia (sometimes fatal), hemolytic anemia, lymphadenopathy, thrombotic thrombocytopenic purpura, red cell aplasia, monocytosis, leukocytosis, eosinophilia, thrombocytosis
+Common (1% to 10%): ProteinuriaRare (less than 0.1%): Hematuria, renal vasculitis Frequency not reported: Nephrotic syndrome, glomerulonephritis, Goodpasture's syndrome
+Rare (less than 0.1%): Polymyositis, dermatomyositis Frequency not reported: Lupus erythematosus, myasthenia gravis, rheumatoid arthritis, septic arthritis (in patients with rheumatoid arthritis), muscular weakness
+Common (1% to 10%): Rash (early and/or later in therapy), pruritusRare (less than 0.1%): Alopecia, pseudoxanthoma elasticum, elastosis perforans, skin laxity, lichen planus Frequency not reported: Urticaria, epidermolysis bullosa, exfoliative dermatitis, dermopathy, dermatomyositis, pemphigus, Stevens-Johnson syndrome
+Rare (less than 0.1%): Bronchial asthma Frequency not reported: Pulmonary hemorrhage, dyspnea, pleural effusion, alveolitis, pulmonary fibrosis, bronchiolitis, pneumonitis
+Frequency not reported: Deafness, fever, the chelating action of the drug may cause increased excretion of other heavy metals (in addition to copper) such as zinc, mercury, and lead
+Rare (less than 0.1%): Breast enlargement
+Rare (less than 0.1%): Intrahepatic cholestasis, toxic hepatitis Frequency not reported: Cholestatic jaundice, hepatic dysfunction, pancreatitis, increased serum alkaline phosphatase, increased lactic dehydrogenase, positive cephalin flocculation test, positive thymol turbidity test
+Frequency not reported: Abnormal vision, optic neuritis
+Rare (less than 0.1%): Thrombophlebitis
+Very rare (less than 0.01%): Thyroiditis
+Both the frequency and severity of many side effects are dose related and vary according to the disease being treated.  Initiating therapy at lower doses and titrating up helps to attenuate some side effects.
+Rare (less than 0.1%): Allergic reactions including hypersensitivity
+Frequency not reported: Confusion
 Fever
 joint pain
  lesions on the face, neck, scalp, and/or trunk
  skin rash, hives, or itching
 swollen and/or painful glands
 ulcers, sores, or white spots on lips or in mouth
-
-
 Bloody or cloudy urine
 shortness of breath, troubled breathing, tightness in chest, or wheezing
 sore throat and fever with or without chills
@@ -43,8 +29,6 @@ sore throat and fever with or without chills
 unusual bleeding or bruising
 unusual tiredness or weakness
 weight gain
-
-
 Abdominal or stomach pain (severe)
  blisters on skin
 bloody or black, tarry stools
@@ -65,11 +49,8 @@ red, thick, or scaly skin
 ringing or buzzing in the ears
 spitting blood
 yellow eyes or skin 
-
-
 Diarrhea
 lessening or loss of sense of taste
 loss of appetite
  nausea or vomiting
 stomach pain (mild)
-

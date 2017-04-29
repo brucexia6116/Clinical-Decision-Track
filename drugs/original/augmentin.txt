@@ -1,87 +1,23 @@
-Generic Name: amoxicillin / clavulanate
-Applies to amoxicillin / clavulanate: oral powder for suspension, oral tablet, oral tablet chewable, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by amoxicillin / clavulanate. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking amoxicillin / clavulanate:
-
 If any of the following symptoms of overdose occur while taking amoxicillin / clavulanate, get emergency help immediately:
-
-Some of the side effects that can occur with amoxicillin / clavulanate may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to amoxicillin / clavulanate: oral powder for reconstitution, oral tablet, oral tablet chewable, oral tablet extended release
-In general, side effects have been classified as mild and transient.  Less than 3% of patients in clinical trials discontinued treatment due to side effects.  The most frequent adverse reactions associated with immediate-release formulations have included diarrhea/loose stools (9%), nausea (3%), skin rashes and urticaria (3%), vomiting (1%), and vaginitis (1%).  Extended-release tablets have been most frequently associated with diarrhea (14.5%), vaginal mycosis (3.3%), nausea (2.1%), and loose stools (1.6%).[Ref]
-Gastrointestinal side effects have included diarrhea, nausea, abdominal pain, vomiting, indigestion, gastritis, generalized abdominal cramps, stomatitis, glossitis, mucocutaneous candidiasis, enterocolitis, black "hairy" tongue, small intestinal motor disturbances, hemorrhagic colitis, and pseudomembranous colitis.  Colitis and Clostridium difficile pseudomembranous colitis have been reported with amoxicillin.[Ref]
-Amoxicillin has been associated with hemorrhagic, sometimes inflammatory colitis, which typically affects the ascending colon.  In addition, C difficile pseudomembranous colitis should be considered in patients who develop severe or prolonged diarrhea during or following amoxicillin-clavulanate therapy.The incidence of diarrhea appears to increase with higher doses, and to decrease with twice daily dosing regimens (of immediate release formulations).[Ref]
-Hypersensitivity reactions to amoxicillin are more likely in patients with a history of allergy, asthma, hay fever, or urticaria.[Ref]
-Hypersensitivity reactions have occurred in up to 10% of patients, and may present as a skin rash, urticaria, pruritus, angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme, Stevens-Johnson syndrome (rarely), acute generalized exanthematous pustulosis, hypersensitivity vasculitis, exfoliative dermatitis, and toxic epidermal necrolysis.  Anaphylaxis has been rarely reported (up to 0.2%).  Hypersensitivity may play a role in some cases of amoxicillin-clavulanate-induced renal and hepatic toxicity.  Urticarial rash, erythematous maculopapular rash, edema, hypotension, fever, eosinophilia, and dyspnea have been associated with hypersensitivity reactions to amoxicillin.[Ref]
-Three out of four patients with infectious mononucleosis and an amoxicillin-associated rash displayed hypersensitivity to amoxicillin and ampicillin by skin tests and lymphocyte transformation tests.  Two of these patients had side-chain-specific sensitization.[Ref]
-Dermatologic side effects have included rash, fixed drug eruption, bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome, and exfoliative dermatitis.  Amoxicillin rashes occur more frequently in patients with unrecognized infectious mononucleosis.  This rash is not necessarily indicative of a lifelong amoxicillin hypersensitivity.[Ref]
-Hepatic side effects have included moderate elevations in serum transaminases (ALT and/or AST).  Hepatic dysfunction (including cholestatic jaundice and hepatitis, increases in ALT and/or AST, serum bilirubin, and/or alkaline phosphatase) has been reported infrequently.  Rare cases of jaundice, ductopenia, cholestatic hepatitis, granulomatous hepatitis, hepatic necrosis, and hepatocellular damage have also been reported.  Less than 1 death per approximately 4 million prescriptions has been reported worldwide.  Hepatic cholestasis and acute cytolytic hepatitis have been reported with amoxicillin use.[Ref]
-In cases of amoxicillin-clavulanate-induced hepatotoxicity, biopsy findings have typically revealed evidence of cholestatic injury.  However, hepatocellular and mixed-type (cholestatic and hepatocellular) injury have also been documented.  In many instances, hepatotoxicity may be due to a hypersensitivity.  Onset of symptoms has been delayed in some patients, with presentation occurring after therapy has been discontinued.  Prolonged treatment may increase the risk of hepatotoxicity.  Elderly patients may be at increased risk of developing amoxicillin-clavulanate-induced jaundice.  Fatalities are rare, but have been reported.Rechallenge with amoxicillin alone has not been followed by a recurrence of hepatitis.  However, rechallenge with amoxicillin-clavulanate has resulted in a relapse of liver injury.  Therefore, the clavulanic acid may be the hepatotoxic part of the drug.  In patients with liver disease, frequent monitoring of liver function tests during amoxicillin-clavulanate therapy is recommended.[Ref]
-Renal side effects have rarely included crystalluria, hematuria, acute renal failure, and acute interstitial nephritis, often associated with fever, rash, and eosinophilia.[Ref]
-A 45-year-old female developed massive crystalluria, gross hematuria, and acute anuric renal failure after 12 days of intravenous amoxicillin-clavulanate at a dose of 2 g amoxicillin 3 times daily (not available in the United States).  The crystals were composed of amoxicillin trihydrate.  The renal failure and hematuria resolved over 6 days after discontinuation of the antibiotic.[Ref]
-Amoxicillin has been shown to induce hemolytic anemia in rare cases.  A case of bone marrow "maturation arrest" resulting in neutropenia and of Henoch-Schonlein purpura syndrome has been associated with amoxicillin-clavulanate.A patient undergoing dental extraction and receiving warfarin anticoagulation therapy had prolonged bleeding times (PT and INR), and decreased hemoglobin and hematocrit.  The bleeding was felt due to vitamin K deficiency as a result of depletion of intrinsic vitamin K-producing gut flora from use of amoxicillin for prophylaxis of subacute bacterial endocarditis.[Ref]
-Hematologic side effects associated with penicillins have included thrombocytopenia, anemia, hemolytic anemia, thrombocytopenic purpura, eosinophilia, agranulocytosis, and leukopenia.  These are believed to be due to hypersensitivity and are usually reversible when the drug is discontinued.  Mild to moderate thrombocytosis has been reported in less than 1% of patients treated with amoxicillin-clavulanate and 3.6% of patients treated with the extended-release tablets.  Purpura, pancytopenia, granulocytopenia, medullary aplasia, prolongation of prothrombin time, and transient neutropenia have also been reported.[Ref]
-Immunologic side effects associated with amoxicillin have included mucocutaneous candidiasis and vulvovaginal mycotic infection.[Ref]
-Nervous system side effects have rarely included agitation, anxiety, behavioral changes, confusion, convulsions, dizziness, headache, insomnia, and reversible hyperactivity.  Rare cases of psychosis associated with amoxicillin therapy have been reported, but may have been due to underlying infection or concomitant medication.  Rarely, somnolence and aseptic meningitis have been reported with amoxicillin.[Ref]
-Genitourinary side effects have included genital moniliasis (2.1%).[Ref]
-Amoxicillin-clavulanate may cause false-positive urine glucose tests in patients using Clinitest(R) tablets.  Enzymatic glucose oxidase tests should be used during amoxicillin-clavulanate therapy.[Ref]
-Other side effects have rarely included brown, yellow, or gray tooth discoloration, primarily in pediatric patients.  Brushing or dental cleaning reduced or eliminated the discoloration in most cases.[Ref]
-Respiratory side effects associated with amoxicillin have included cough and rhinorrhea.[Ref]
-1. McCormack PL,  Keating GM "Amoxicillin/Clavulanic Acid 2000mg/125mg Extended Release (XR): A Review of its Use in the Treatment of Respiratory Tract Infections in Adults." Drugs 65 (2005): 121-36
-2. "Product Information. Augmentin XR (amoxicillin-clavulanate)." GlaxoSmithKline, Philadelphia, PA. 
-3. Mahakit P,  Vicente JG,  Butt DI,  Angeli G,  Bansal S,  Zambrano D "Oral clindamycin 300 mg BID compared with oral amoxicillin/clavulanic acid 1 g BID in the outpatient treatment of acute recurrent pharyngotonsillitis caused by group a beta-hemolytic streptococci: an international, multicenter, randomized, investigator-bl" Clin Ther 28 (2006): 99-109
-4. "Product Information. Augmentin (amoxicillin-clavulanate)." SmithKline Beecham, Philadelphia, PA. 
-5. Siquier B,  Sanchez-Alvarez J,  Garcia-Mendez E, et al. "Efficacy and safety of twice-daily pharmacokinetically enhanced amoxicillin / clavulanate (2000/125 mg) in the treatment of adults with community-acquired pneumonia in a country with a high prevalence of penicillin-resistant Streptococcus pneumoniae." J Antimicrob Chemother 57 (2006): 536-45
-6. Whitlock W "Multicenter comparison of azithromycin and amoxicillin / clavulanate in the treatment of patients with acute exacerbations of chronic obstructive pulmonary disease." Curr Ther Res Clin Exp 56 (1995): 985-95
-7. Todd PA, Benfield P "Amoxicillin/clavulanic acid: an update of its antibacterial activity, pharmacokinetic properties and therapeutic use." Drugs 39 (1990): 264-307
-8. Sethi S,  Breton J,  Wynne B "Efficacy and Safety of Pharmacokinetically Enhanced Amoxicillin-Clavulanate at 2,000/125 Milligrams Twice Daily for 5 Days versus Amoxicillin-Clavulanate at 875/125 Milligrams Twice Daily for 7 Days in the Treatment of Acute Exacerbations of Chronic Bronc" Antimicrob Agents Chemother 49 (2005): 153-60
-9. Iravani A, Richard GA "Amoxicillin-clavulanic acid versus cefaclor in the treatment of urinary tract infections and their effects on the urogenital and rectal flora." Antimicrob Agents Chemother 29 (1986): 107-11
-10. Hebblethwaite EM, Brown GW, Cox DM "A comparison of the efficacy and safety of cefuroxime axetil and augmentin in the treatment of upper respiratory tract infections." Drugs Exp Clin Res 13 (1987): 91-4
-11. Salvo F,  Polimeni G,  Moretti U, et al. "Adverse drug reactions related to amoxicillin alone and in association with clavulanic acid: data from spontaneous reporting in Italy." J Antimicrob Chemother 60 (2007): 121-6
-12. Ball AP, Mehtar S, Watson A "Clinical efficacy and tolerance of augmentin in soft tissue infection." J Antimicrob Chemother 10 (1982): 67-74
-13. Caron F, Ducrotte P, Lerebours E, Colin R, Humbert G, Denis P "Effects of amoxicillin-clavulanate combination on the motility of the small intestine in human beings." Antimicrob Agents Chemother 35 (1991): 1085-8
-14. Higuera F, Hidalgo H, Feris J, Giguere G, Collins JJ "Comparison of oral cefuroxime axetil and oral amoxycillin/clavulanate in the treatment of community-acquired pneumonia." J Antimicrob Chemother 37 (1996): 555-64
-15. Ramakrishnan K,  Scheid DC "Diagnosis and management of acute pyelonephritis in adults." Am Fam Physician 71 (2005): 933-42
-16. "Product Information. Augmentin ES-600 (amoxicillin-clavulanate)." GlaxoSmithKline, Philadelphia, PA. 
-17. Simon MW "Complications involving augmentin." Am J Dis Child 139 (1985): 962
-18. Hautekeete ML, Brenard R, Horsmans Y, Henrion J, Verbist L, Derue G, Druez P, Omar M, Kockx M, Hubens H, Haber I, Rahier J, G "Liver injury related to amoxycillin-clavulanic acid: interlobular bile-duct lesions and extrahepatic manifestations." J Hepatol 22 (1995): 71-7
-19. Walker RJ, Bailey RR, Lynn KL, Swainson CP "Amoxicillin-induced acute interstitial nephritis." N Z Med J 98 (1985): 866
-20. Wong FS, Ryan J, Dabkowski P, Dudley FJ, Sewell RB, Smallwood RA "Augmentin-induced jaundice." Med J Aust 154 (1991): 698-701
-21. Cahen YD, Wuthrich B "Drug allergy to the beta-lactam antibiotics clavulanic acid and amoxicillin." Allergy 52 (1997): 117-8
-22. Betto P,  Germi L,  Bonoldi E,  Bertazzoni M "Acute localized exanthematous pustulosis (ALEP) caused by amoxicillin-clavulanic acid." Int J Dermatol 47 (2008): 295-6
-23. "Amoxicillin-clavulanic acid (Augmentin)." Med Lett Drugs Ther 26 (1984): 99-100
-24. Singer DR, Simpson JG, Catto GR, Johnston AW "Drug hypersensitivity causing granulomatous interstitial nephritis." Am J Kidney Dis 11 (1988): 357-9
-25. Benjamin S, Mueller BA "Erythema multiforme secondary to amoxicillin/clavulanic acid exposure." Ann Pharmacother 33 (1999): 109-10
-26. Shuttleworth D "A localized, recurrent pustular eruption following amoxycillin administration." Clin Exp Dermatol 14 (1989): 367-8
-27. Chowdhury FH "Fixed genital drug eruption." Practitioner 226 (1982): 1450
-28. Pattee SF,  Silvis NG,  Ellsworth LG "Diffuse pustular eruption after treatment of dog bite: acute generalized exanthematous pustulosis (AGEP) due to antibiotic therapy." Arch Dermatol 138 (2002): 1091-6
-29. Limauro DL, ChanTompkins NH, Carter RW, Brodmerkel GJ, Agrawal RM "Amoxicillin / clavulanate-associated hepatic failure with progression to Stevens-Johnson syndrome." Ann Pharmacother 33 (1999): 560-4
-30. Alcaley J, David M, Ingber A, Hazaz B, Sandbank M "Bullous pemphigold mimicking bullous erythema multiforme: an untoward side effect of penicillins." J Am Acad Dermatol 18 (1988): 345-9
-31. Rodriguez LAG, Stricker BH, Zimmerman HJ "Risk of acute liver injury associated with the combination of amoxicillin and clavulanic acid." Arch Intern Med 156 (1996): 1327-32
-32. Larrey D, Vial T, Micaleff A, et al. "Hepatitis associated with amoxycillin-clavulanic acid combination report of 15 cases." Gut 33 (1992): 368-71
-33. Ryley NG, Fleming KA, Chapman RWG "Focal destructive cholangiopathy associated with amoxycillin/clavulanic acid (augmentin)." J Hepatol 23 (1995): 278-82
-34. Dowsett JF, Gillow T, Heagerty A, Radcliffe M, Toadi R, Isle I, Russell RC "Amoxycillin/clavulanic acid (augmentin)-induced intrahepatic cholestasis." Dig Dis Sci 34 (1989): 1290-3
-35. Pedrobotet J, Supervia A, Barranco C, Sola R, Bruguera M "Intrahepatic cholestasis without hepatitis induced by amoxycillin/ clavulanic acid." J Clin Gastroenterol 23 (1996): 137-8
-36. Nathani MG, Mutchnick MG, Tynes DJ, Ehrinpreis MN "An unusual case of amoxicillin/clavulanic acid-related hepatotoxicity." Am J Gastroenterol 93 (1998): 1363-5
-37. Silvain C, Fort E, Levillain P, Labat-Labourdette J, Beauchant M "Granulomatous hepatitis due to combination of amoxacillin and clavulanic acid." Dig Dis Sci 37 (1992): 150-2
-38. Thomson JA, Fairley CK, Ugoni AM, Forbes AB, Purcell PM, Desmond PV, Smallwood RA, Mcneil JJ "Risk factors for the development of amoxycillin-clavulanic acid associated jaundice." Med J Aust 162 (1995): 638-40
-39. Verhamme M, Ramboer C, Van De Bruaene P, Inderadjaja N "Cholestatic hepatitis due to an amoxycillin/clavulanic acid preparation." J Hepatol 9 (1989): 260-4
-40. Schey R,  Avni Y,  Bruck R,  Shirin H "History of drug-induced hepatitis and risk of amoxicillin / clavulanate-induced hepatotoxicity." Ann Pharmacother 35 (2001): 1142-3
-41. Friess G, Wienbeck M "Cholestatic jaundice after taking amoxicillin and clavulanic acid." Dtsch Med Wochenschr 120 (1995): 1356-60
-42. Podevin P, Biour M "Drug-induced ''allergic hepatitis''." Clin Rev Allergy Immunol 13 (1995): 223-44
-43. Garcia Rodriguez LA, Stricker BH, Zimmerman HJ "Risk of acute liver injury associated with the combination of amoxicillin and clavulanic acid" Arch Intern Med 156 (1996): 1327-32
-44. Habior A, Walewskazielecka B, Butruk E "Hepatocellular-cholestatic liver injury due to amoxycillin-clavulanic acid combination." Clin Investig 72 (1994): 616-8
-45. Boyd IW "Comment: history of drug-induced hepatitis and risk of amoxicillin / clavulanate-induced hepatotoxicity." Ann Pharmacother 35 (2001): 1677
-46. Hebbard GS, Smith KG, Gibson PR, Bhathal PS "Augmentin-induced jaundice with a fatal outcome." Med J Aust 156 (1992): 285-6
-47. Labriola L,  Jadoul M,  Daudons M,  Pirson Y,  Lambert M "Massive amoxycillin crystalluria causing anuric acute renal failure." Clin Nephrol 59 (2003): 455-7
-48. Appel GB, Garvey G, Silva F, Francke E, Neu HC, Weisman J "Acute interstitial nephritis due to amoxicillin therapy." Nephron 27 (1981): 313-5
-49. Desgrandchamps D, Schnyder C "Severe neutropenia in prolonged treatment with orally administered augmentin (amoxicillin/clavulanic acid)." Infection 15 (1987): 260-1
-50. Wakefield IR, Hunter DA "Antibiotic associated Henoch-Schonlein purpura syndrome." Br J Clin Pract 42 (1988): 525-6
-51. Iravani A, Richard GA, Johnson D, Bryant A "A double-blind, multicenter, comparative study of the safety and efficacy of cefixime versus amoxicillin in the treatment of acute urinary tract infections in adult." Am J Med 85 (1988): 17-23
-52. Bell CL,  Watson B,  Waring WS "Acute psychosis caused by co-amoxiclav." BMJ 337 (2008): a2117
-Not all side effects for Augmentin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+In general, side effects have been classified as mild and transient.  Less than 3% of patients in clinical trials discontinued treatment due to side effects.  The most frequent adverse reactions associated with immediate-release formulations have included diarrhea/loose stools (9%), nausea (3%), skin rashes and urticaria (3%), vomiting (1%), and vaginitis (1%).  Extended-release tablets have been most frequently associated with diarrhea (14.5%), vaginal mycosis (3.3%), nausea (2.1%), and loose stools (1.6%).
+Gastrointestinal side effects have included diarrhea, nausea, abdominal pain, vomiting, indigestion, gastritis, generalized abdominal cramps, stomatitis, glossitis, mucocutaneous candidiasis, enterocolitis, black "hairy" tongue, small intestinal motor disturbances, hemorrhagic colitis, and pseudomembranous colitis.  Colitis and Clostridium difficile pseudomembranous colitis have been reported with amoxicillin.
+Amoxicillin has been associated with hemorrhagic, sometimes inflammatory colitis, which typically affects the ascending colon.  In addition, C difficile pseudomembranous colitis should be considered in patients who develop severe or prolonged diarrhea during or following amoxicillin-clavulanate therapy.The incidence of diarrhea appears to increase with higher doses, and to decrease with twice daily dosing regimens (of immediate release formulations).
+Hypersensitivity reactions to amoxicillin are more likely in patients with a history of allergy, asthma, hay fever, or urticaria.
+Hypersensitivity reactions have occurred in up to 10% of patients, and may present as a skin rash, urticaria, pruritus, angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme, Stevens-Johnson syndrome (rarely), acute generalized exanthematous pustulosis, hypersensitivity vasculitis, exfoliative dermatitis, and toxic epidermal necrolysis.  Anaphylaxis has been rarely reported (up to 0.2%).  Hypersensitivity may play a role in some cases of amoxicillin-clavulanate-induced renal and hepatic toxicity.  Urticarial rash, erythematous maculopapular rash, edema, hypotension, fever, eosinophilia, and dyspnea have been associated with hypersensitivity reactions to amoxicillin.
+Three out of four patients with infectious mononucleosis and an amoxicillin-associated rash displayed hypersensitivity to amoxicillin and ampicillin by skin tests and lymphocyte transformation tests.  Two of these patients had side-chain-specific sensitization.
+Dermatologic side effects have included rash, fixed drug eruption, bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome, and exfoliative dermatitis.  Amoxicillin rashes occur more frequently in patients with unrecognized infectious mononucleosis.  This rash is not necessarily indicative of a lifelong amoxicillin hypersensitivity.
+Hepatic side effects have included moderate elevations in serum transaminases (ALT and/or AST).  Hepatic dysfunction (including cholestatic jaundice and hepatitis, increases in ALT and/or AST, serum bilirubin, and/or alkaline phosphatase) has been reported infrequently.  Rare cases of jaundice, ductopenia, cholestatic hepatitis, granulomatous hepatitis, hepatic necrosis, and hepatocellular damage have also been reported.  Less than 1 death per approximately 4 million prescriptions has been reported worldwide.  Hepatic cholestasis and acute cytolytic hepatitis have been reported with amoxicillin use.
+In cases of amoxicillin-clavulanate-induced hepatotoxicity, biopsy findings have typically revealed evidence of cholestatic injury.  However, hepatocellular and mixed-type (cholestatic and hepatocellular) injury have also been documented.  In many instances, hepatotoxicity may be due to a hypersensitivity.  Onset of symptoms has been delayed in some patients, with presentation occurring after therapy has been discontinued.  Prolonged treatment may increase the risk of hepatotoxicity.  Elderly patients may be at increased risk of developing amoxicillin-clavulanate-induced jaundice.  Fatalities are rare, but have been reported.Rechallenge with amoxicillin alone has not been followed by a recurrence of hepatitis.  However, rechallenge with amoxicillin-clavulanate has resulted in a relapse of liver injury.  Therefore, the clavulanic acid may be the hepatotoxic part of the drug.  In patients with liver disease, frequent monitoring of liver function tests during amoxicillin-clavulanate therapy is recommended.
+Renal side effects have rarely included crystalluria, hematuria, acute renal failure, and acute interstitial nephritis, often associated with fever, rash, and eosinophilia.
+A 45-year-old female developed massive crystalluria, gross hematuria, and acute anuric renal failure after 12 days of intravenous amoxicillin-clavulanate at a dose of 2 g amoxicillin 3 times daily (not available in the United States).  The crystals were composed of amoxicillin trihydrate.  The renal failure and hematuria resolved over 6 days after discontinuation of the antibiotic.
+Amoxicillin has been shown to induce hemolytic anemia in rare cases.  A case of bone marrow "maturation arrest" resulting in neutropenia and of Henoch-Schonlein purpura syndrome has been associated with amoxicillin-clavulanate.A patient undergoing dental extraction and receiving warfarin anticoagulation therapy had prolonged bleeding times (PT and INR), and decreased hemoglobin and hematocrit.  The bleeding was felt due to vitamin K deficiency as a result of depletion of intrinsic vitamin K-producing gut flora from use of amoxicillin for prophylaxis of subacute bacterial endocarditis.
+Hematologic side effects associated with penicillins have included thrombocytopenia, anemia, hemolytic anemia, thrombocytopenic purpura, eosinophilia, agranulocytosis, and leukopenia.  These are believed to be due to hypersensitivity and are usually reversible when the drug is discontinued.  Mild to moderate thrombocytosis has been reported in less than 1% of patients treated with amoxicillin-clavulanate and 3.6% of patients treated with the extended-release tablets.  Purpura, pancytopenia, granulocytopenia, medullary aplasia, prolongation of prothrombin time, and transient neutropenia have also been reported.
+Immunologic side effects associated with amoxicillin have included mucocutaneous candidiasis and vulvovaginal mycotic infection.
+Nervous system side effects have rarely included agitation, anxiety, behavioral changes, confusion, convulsions, dizziness, headache, insomnia, and reversible hyperactivity.  Rare cases of psychosis associated with amoxicillin therapy have been reported, but may have been due to underlying infection or concomitant medication.  Rarely, somnolence and aseptic meningitis have been reported with amoxicillin.
+Genitourinary side effects have included genital moniliasis (2.1%).
+Amoxicillin-clavulanate may cause false-positive urine glucose tests in patients using Clinitest(R) tablets.  Enzymatic glucose oxidase tests should be used during amoxicillin-clavulanate therapy.
+Other side effects have rarely included brown, yellow, or gray tooth discoloration, primarily in pediatric patients.  Brushing or dental cleaning reduced or eliminated the discoloration in most cases.
+Respiratory side effects associated with amoxicillin have included cough and rhinorrhea.
 Hives or welts
 itching
 itching of the vagina or genital area
@@ -89,15 +25,11 @@ pain during sexual intercourse
 redness of the skin
 skin rash
 thick, white vaginal discharge with no odor or with a mild odor
-
-
 Bloody or cloudy urine
 fever
 greatly decreased frequency of urination or amount of urine
 seizures
 swelling of the feet or lower legs
-
-
 Abdominal or stomach cramps or tenderness
 back, leg, or stomach pains
 black, hairy tongue
@@ -159,15 +91,11 @@ vomiting of blood
 white patches in the mouth or throat or on the tongue
 white patches with diaper rash
 yellow eyes or skin
-
-
 Abdominal or stomach pain
 cloudy urine
 diarrhea
 greatly decreased frequency of urination or amount of urine
 sleepiness
-
-
 Anxiety
 dry mouth
 hyperventilation
@@ -179,11 +107,8 @@ sleeplessness
 tooth discoloration
 trouble sitting still
 trouble with sleeping
-
-
 Burning feeling in the chest or stomach
 indigestion
 redness, swelling, or soreness of the tongue
 stomach upset
 swelling or inflammation of the mouth
-

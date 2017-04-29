@@ -1,30 +1,18 @@
-Generic Name: captopril / hydrochlorothiazide
-Applies to captopril / hydrochlorothiazide: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by captopril / hydrochlorothiazide. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking captopril / hydrochlorothiazide:
-Some of the side effects that can occur with captopril / hydrochlorothiazide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to captopril / hydrochlorothiazide: oral tablet
-Captopril:Common (1% to 10%): Nausea, vomiting, gastric irritations, abdominal pain, diarrhea, constipation, dry mouth, peptic ulcer, aphthous ulcersRare (0.01% to 0.1%): Intestinal angioedemaVery rare (less than 0.01%): Glossitis, pancreatitisFrequency not reported: DyspepsiaHydrochlorothiazide:Frequency not reported: Sialadenitis, gastric irritation, diarrhea, constipation, pancreatitis, cramping, nausea, vomiting[Ref]
-Captopril:Common (1% to 10%): Taste impairment, dizziness, headache, paresthesiasRare (0.01% to 0.1%): DrowsinessVery rare (less than 0.01%): Cerebrovascular incidentsFrequency not reported: Syncope, ataxia, somnolenceHydrochlorothiazide:Frequency not reported: Paresthesia, lightheadedness, vertigo, dizziness, headache[Ref]
-Captopril:Common (1% to 10%): Pruritus, rash, alopeciaUncommon (0.1% to 1%): AngioedemaVery rare (less than 0.01%): Urticaria, Stevens-Johnson syndrome, erythema multiforme, photosensitivity, pemphigoid reactions, erythroderma, exfoliative dermatitisHydrochlorothiazide:Frequency not reported: Cutaneous vasculitis, photosensitivity reactions, rash, cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, urticaria, toxic epidermal necrolysis, purpura[Ref]
-Captopril:Common (1% to 10%): Chest pain, malaise, fatigueVery rare (less than 0.01%): Gynecomastia, feverFrequency not reported: AstheniaHydrochlorothiazide:Frequency not reported: Fever, weakness[Ref]
-Captopril:Common (1% to 10%): Tachycardia, palpitationsUncommon (0.1% to 1%): Tachyarrhythmia, angina pectoris, hypotension, Raynaud's syndrome, flush, pallor, myocardial infarction, congestive heart failureVery rare (less than 0.01%): Cardiac arrest, cardiogenic shockFrequency not reported: Rhythm disturbances, orthostatic hypotensionHydrochlorothiazide:Frequency not reported: Postural hypotension, cardiac arrhythmias, vasculitis[Ref]
-Captopril:Common (1% to 10%): Cough, dyspneaVery rare (less than 0.01%): Bronchospasm, rhinitis, allergic alveolitis/eosinophilic pneumoniaHydrochlorothiazide:Frequency not reported: Respiratory distress, pneumonitis, pulmonary edema[Ref]
-Captopril:Common (1% to 10%): Sleep disorders, insomniaVery rare (less than 0.01%): Confusion, depressionFrequency not reported: NervousnessHydrochlorothiazide:Frequency not reported: Restlessness, depression, sleep disturbances[Ref]
-Captopril:Common (1% to 10%): ProteinuriaUncommon (0.1% to 1%): Polyuria, oliguria, urinary frequencyVery rare (less than 0.01%): ImpotenceHydrochlorothiazide:Frequency not reported: Glycosuria[Ref]
-Captopril:Common (1% to 10%): AnorexiaVery rare (less than 0.01%): Hyperkalemia, hypoglycemia, serum potassium increased, serum sodium decreasedFrequency not reported: Symptomatic hyponatremiaHydrochlorothiazide:Frequency not reported: Anorexia, hyperglycemia, hyperuricemia, electrolyte imbalance, hyponatremia, hypokalemia, cholesterol increased, triglycerides increased, loss of appetite[Ref]
-Captopril:Uncommon (0.1% to 1%): Renal insufficiency, renal failure, nephrotic syndromeVery rare (less than 0.01%): BUN increased, serum creatinine increasedHydrochlorothiazide:Frequency not reported: Renal dysfunction, interstitial nephritis[Ref]
-Captopril:Uncommon (0.1% to 1%): EosinophiliaVery rare (less than 0.01%): Neutropenia/agranulocytosis, pancytopenia, anemia, thrombocytopenia, lymphadenopathy, hemoglobin decreased, hematocrit decreased, leukocytes decreased, thrombocytes decreased, erythrocyte sedimentation rate increasedHydrochlorothiazide:Frequency not reported: Leukopenia, neutropenia/agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia, bone marrow depression[Ref]
-Captopril:Uncommon (0.1% to 1%): Antinuclear antibody positiveVery rare (less than 0.01%): Autoimmune diseasesFrequency not reported: Anaphylactoid reactionsHydrochlorothiazide:Frequency not reported: Anaphylactic reactions[Ref]
-Captopril:Very rare (less than 0.01%): Impaired hepatic function and cholestasis including jaundice, hepatitis including necrosis, elevated liver enzymes and bilirubinHydrochlorothiazide:Frequency not reported: Intrahepatic cholestatic jaundice[Ref]
-Captopril:Very rare (less than 0.01%): Myalgia, arthralgiaFrequency not reported: MyastheniaHydrochlorothiazide:Frequency not reported: Muscle spasm[Ref]
-Captopril:Very rare (less than 0.01%): Blurred visionHydrochlorothiazide:Frequency not reported: Xanthopsia, transient blurred vision, acute myopia, secondary acute angle-closure glaucoma[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Capozide (hydrochlorothiazide-captopril)." Bristol-Myers Squibb, Princeton, NJ. 
-Not all side effects for Capozide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Captopril:Common (1% to 10%): Nausea, vomiting, gastric irritations, abdominal pain, diarrhea, constipation, dry mouth, peptic ulcer, aphthous ulcersRare (0.01% to 0.1%): Intestinal angioedemaVery rare (less than 0.01%): Glossitis, pancreatitisFrequency not reported: DyspepsiaHydrochlorothiazide:Frequency not reported: Sialadenitis, gastric irritation, diarrhea, constipation, pancreatitis, cramping, nausea, vomiting
+Captopril:Common (1% to 10%): Taste impairment, dizziness, headache, paresthesiasRare (0.01% to 0.1%): DrowsinessVery rare (less than 0.01%): Cerebrovascular incidentsFrequency not reported: Syncope, ataxia, somnolenceHydrochlorothiazide:Frequency not reported: Paresthesia, lightheadedness, vertigo, dizziness, headache
+Captopril:Common (1% to 10%): Pruritus, rash, alopeciaUncommon (0.1% to 1%): AngioedemaVery rare (less than 0.01%): Urticaria, Stevens-Johnson syndrome, erythema multiforme, photosensitivity, pemphigoid reactions, erythroderma, exfoliative dermatitisHydrochlorothiazide:Frequency not reported: Cutaneous vasculitis, photosensitivity reactions, rash, cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, urticaria, toxic epidermal necrolysis, purpura
+Captopril:Common (1% to 10%): Chest pain, malaise, fatigueVery rare (less than 0.01%): Gynecomastia, feverFrequency not reported: AstheniaHydrochlorothiazide:Frequency not reported: Fever, weakness
+Captopril:Common (1% to 10%): Tachycardia, palpitationsUncommon (0.1% to 1%): Tachyarrhythmia, angina pectoris, hypotension, Raynaud's syndrome, flush, pallor, myocardial infarction, congestive heart failureVery rare (less than 0.01%): Cardiac arrest, cardiogenic shockFrequency not reported: Rhythm disturbances, orthostatic hypotensionHydrochlorothiazide:Frequency not reported: Postural hypotension, cardiac arrhythmias, vasculitis
+Captopril:Common (1% to 10%): Cough, dyspneaVery rare (less than 0.01%): Bronchospasm, rhinitis, allergic alveolitis/eosinophilic pneumoniaHydrochlorothiazide:Frequency not reported: Respiratory distress, pneumonitis, pulmonary edema
+Captopril:Common (1% to 10%): Sleep disorders, insomniaVery rare (less than 0.01%): Confusion, depressionFrequency not reported: NervousnessHydrochlorothiazide:Frequency not reported: Restlessness, depression, sleep disturbances
+Captopril:Common (1% to 10%): ProteinuriaUncommon (0.1% to 1%): Polyuria, oliguria, urinary frequencyVery rare (less than 0.01%): ImpotenceHydrochlorothiazide:Frequency not reported: Glycosuria
+Captopril:Common (1% to 10%): AnorexiaVery rare (less than 0.01%): Hyperkalemia, hypoglycemia, serum potassium increased, serum sodium decreasedFrequency not reported: Symptomatic hyponatremiaHydrochlorothiazide:Frequency not reported: Anorexia, hyperglycemia, hyperuricemia, electrolyte imbalance, hyponatremia, hypokalemia, cholesterol increased, triglycerides increased, loss of appetite
+Captopril:Uncommon (0.1% to 1%): Renal insufficiency, renal failure, nephrotic syndromeVery rare (less than 0.01%): BUN increased, serum creatinine increasedHydrochlorothiazide:Frequency not reported: Renal dysfunction, interstitial nephritis
+Captopril:Uncommon (0.1% to 1%): EosinophiliaVery rare (less than 0.01%): Neutropenia/agranulocytosis, pancytopenia, anemia, thrombocytopenia, lymphadenopathy, hemoglobin decreased, hematocrit decreased, leukocytes decreased, thrombocytes decreased, erythrocyte sedimentation rate increasedHydrochlorothiazide:Frequency not reported: Leukopenia, neutropenia/agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia, bone marrow depression
+Captopril:Uncommon (0.1% to 1%): Antinuclear antibody positiveVery rare (less than 0.01%): Autoimmune diseasesFrequency not reported: Anaphylactoid reactionsHydrochlorothiazide:Frequency not reported: Anaphylactic reactions
+Captopril:Very rare (less than 0.01%): Impaired hepatic function and cholestasis including jaundice, hepatitis including necrosis, elevated liver enzymes and bilirubinHydrochlorothiazide:Frequency not reported: Intrahepatic cholestatic jaundice
+Captopril:Very rare (less than 0.01%): Myalgia, arthralgiaFrequency not reported: MyastheniaHydrochlorothiazide:Frequency not reported: Muscle spasm
+Captopril:Very rare (less than 0.01%): Blurred visionHydrochlorothiazide:Frequency not reported: Xanthopsia, transient blurred vision, acute myopia, secondary acute angle-closure glaucoma
 Black, tarry stools
 chest pain
 chills
@@ -37,16 +25,12 @@ sores, ulcers, or white spots on lips or in mouth
 swollen glands
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Blurred vision
 cloudy urine
 confusion
 dizziness, faintness, or lightheadedness when getting up from a lying or sitting position suddenly
 fast, pounding, or irregular heartbeat or pulse
 sweating
-
-
 Arm, back or jaw pain or discomfort
 bloody urine
 chest discomfort
@@ -70,15 +54,10 @@ troubled breathing
 vomiting
 weight gain
 wheezing
-
-
 Difficulty in moving
 itching skin
 muscle pain or stiffness
 pain in joints
 rash
-
-
 Change in taste
 loss of taste
-

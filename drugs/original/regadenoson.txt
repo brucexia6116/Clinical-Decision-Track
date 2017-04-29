@@ -1,32 +1,22 @@
 Commonly reported side effects of regadenoson include: bronchoconstriction and dyspnea. Other side effects include: systolic hypotension.  See below for a comprehensive list of adverse effects.
-Applies to regadenoson: intravenous solution
 As well as its needed effects, regadenoson may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking regadenoson, check with your doctor or nurse immediately:
-
 If any of the following symptoms of overdose occur while taking regadenoson, get emergency help immediately:
-
 Some regadenoson side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to regadenoson: intravenous solution
-The most common adverse reactions were dyspnea, headache, rhythm or conduction abnormalities, flushing, and rhythm abnormalities.[Ref]
-Very common (10% or more): Rhythm or conduction abnormalities (26%), flushing (up to 23%), rhythm abnormalities (20%), ECG ST segment changes (18%), premature ventricular contractions (14%), angina pectoris or ST segment depression (12%)Common (1% to 10%): Premature atrial contractions, first degree atrioventricular (AV) block (PR prolongation greater than 220 msec), ventricular conduction abnormalities, decreased systolic blood pressure (greater than 35 mmHg), decreased diastolic blood pressure (greater than 25 mmHg), angina pectoris, AV block, tachycardia, palpitations, other ECG abnormalities including QTc prolongation, hypotension, ST to T depression of 2 mm or moreUncommon (0.1% to 1%): Second degree AV block, AV conduction abnormalities other than AV block, cardiac arrest, myocardial infarction, complete AV block, bradycardia, atrial flutter, atrial fibrillation (new-onset, worsening, or recurrent), hypertension, pallor, peripheral coldness, increased systolic blood pressure (50 mmHg or more), increased diastolic blood pressure (30 mmHg or more), ST to T elevation of 1 mm or more, acute coronary syndromePostmarketing reports: Ventricular arrhythmias, supraventricular tachyarrhythmias, asystole, marked hypertension, symptomatic hypotension[Ref]
-Pre-specified respiratory adverse reactions included dyspnea, wheezing, obstructive airway disorder, dyspnea exertional, and tachypnea.[Ref]
-Very common (10% or more): Dyspnea (up to 29%), pre-specified respiratory adverse reaction (up to 19%)Common (1% to 10%): Wheezing, throat tightness, throat irritation, coughUncommon (0.1% to 1%): TachypneaPostmarketing reports: Respiratory arrest, respiratory distress, oxygen saturation decreased[Ref]
-Very common (10% or more): Headache (27%), dizziness (up to 11%)Common (1% to 10%): Dysgeusia, paresthesia, hypoesthesia, severe headacheUncommon (0.1% to 1%): Convulsions, syncope, transient ischemic attack, unresponsiveness to stimuli, depressed level of consciousness, tremor, somnolence, tinnitusRare (less than 0.1%): Cerebrovascular accidentPostmarketing reports: Intracranial hemorrhage[Ref]
-Very common (10% or more): Chest pain (up to 19%), chest discomfort (13%)Common (1% to 10%): Malaise, astheniaUncommon (0.1% to 1%): General body pain[Ref]
-Very common (10% or more): Gastrointestinal discomfort (15%)Common (1% to 10%): Nausea, abdominal discomfort, vomiting, oral discomfortUncommon (0.1% to 1%): Abdominal distention, diarrhea, fecal incontinencePostmarketing reports: Abdominal pain[Ref]
-Common (1% to 10%): Back or neck or jaw pain, pain in extremity, musculoskeletal discomfortUncommon (0.1% to 1%): Arthralgia[Ref]
-Common (1% to 10%): HyperhidrosisUncommon (0.1% to 1%): Angioedema, urticaria, rash, erythema[Ref]
-Uncommon (0.1% to 1%): Vision blurred, eye pain[Ref]
-Uncommon (0.1% to 1%): Anxiety, insomnia[Ref]
-Uncommon (0.1% to 1%): Anaphylaxis[Ref]
-Uncommon (0.1% to 1%): Pain at injection site[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Lexiscan (regadenoson)." Astellas Pharma US, Inc, Deerfield, IL. 
+The most common adverse reactions were dyspnea, headache, rhythm or conduction abnormalities, flushing, and rhythm abnormalities.
+Very common (10% or more): Rhythm or conduction abnormalities (26%), flushing (up to 23%), rhythm abnormalities (20%), ECG ST segment changes (18%), premature ventricular contractions (14%), angina pectoris or ST segment depression (12%)Common (1% to 10%): Premature atrial contractions, first degree atrioventricular (AV) block (PR prolongation greater than 220 msec), ventricular conduction abnormalities, decreased systolic blood pressure (greater than 35 mmHg), decreased diastolic blood pressure (greater than 25 mmHg), angina pectoris, AV block, tachycardia, palpitations, other ECG abnormalities including QTc prolongation, hypotension, ST to T depression of 2 mm or moreUncommon (0.1% to 1%): Second degree AV block, AV conduction abnormalities other than AV block, cardiac arrest, myocardial infarction, complete AV block, bradycardia, atrial flutter, atrial fibrillation (new-onset, worsening, or recurrent), hypertension, pallor, peripheral coldness, increased systolic blood pressure (50 mmHg or more), increased diastolic blood pressure (30 mmHg or more), ST to T elevation of 1 mm or more, acute coronary syndromePostmarketing reports: Ventricular arrhythmias, supraventricular tachyarrhythmias, asystole, marked hypertension, symptomatic hypotension
+Pre-specified respiratory adverse reactions included dyspnea, wheezing, obstructive airway disorder, dyspnea exertional, and tachypnea.
+Very common (10% or more): Dyspnea (up to 29%), pre-specified respiratory adverse reaction (up to 19%)Common (1% to 10%): Wheezing, throat tightness, throat irritation, coughUncommon (0.1% to 1%): TachypneaPostmarketing reports: Respiratory arrest, respiratory distress, oxygen saturation decreased
+Very common (10% or more): Headache (27%), dizziness (up to 11%)Common (1% to 10%): Dysgeusia, paresthesia, hypoesthesia, severe headacheUncommon (0.1% to 1%): Convulsions, syncope, transient ischemic attack, unresponsiveness to stimuli, depressed level of consciousness, tremor, somnolence, tinnitusRare (less than 0.1%): Cerebrovascular accidentPostmarketing reports: Intracranial hemorrhage
+Very common (10% or more): Chest pain (up to 19%), chest discomfort (13%)Common (1% to 10%): Malaise, astheniaUncommon (0.1% to 1%): General body pain
+Very common (10% or more): Gastrointestinal discomfort (15%)Common (1% to 10%): Nausea, abdominal discomfort, vomiting, oral discomfortUncommon (0.1% to 1%): Abdominal distention, diarrhea, fecal incontinencePostmarketing reports: Abdominal pain
+Common (1% to 10%): Back or neck or jaw pain, pain in extremity, musculoskeletal discomfortUncommon (0.1% to 1%): Arthralgia
+Common (1% to 10%): HyperhidrosisUncommon (0.1% to 1%): Angioedema, urticaria, rash, erythema
+Uncommon (0.1% to 1%): Vision blurred, eye pain
+Uncommon (0.1% to 1%): Anxiety, insomnia
+Uncommon (0.1% to 1%): Anaphylaxis
+Uncommon (0.1% to 1%): Pain at injection site
 It is possible that some side effects of regadenoson may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Arm, back, or jaw pain
 chest pain or discomfort
 difficult or labored breathing
@@ -34,8 +24,6 @@ fast or irregular heartbeat
 nausea
 sweating
 tightness in the chest
-
-
 Confusion
 difficulty swallowing
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
@@ -46,24 +34,15 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 rash, hives, or itching skin
 trembling or shaking of the hands or feet
 unusual tiredness or weakness
-
-
 Dizziness
 feeling of warmth
 increased heart rate
 redness of the face, neck, arms, and occasionally, upper chest
-
-
 Headache
-
-
 Change in taste
 loss of taste
 stomach soreness or discomfort
-
-
 Diarrhea
 difficulty with moving
 joint pain
 muscle aching or cramping
-

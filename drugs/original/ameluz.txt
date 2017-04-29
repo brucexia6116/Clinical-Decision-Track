@@ -1,35 +1,17 @@
-Generic Name: aminolevulinic acid topical
-Applies to aminolevulinic acid topical: topical gel/jelly, topical kit, topical solution, topical stick
-In addition to its needed effects, some unwanted effects may be caused by aminolevulinic acid topical (the active ingredient contained in Ameluz). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking aminolevulinic acid topical:
-Some of the side effects that can occur with aminolevulinic acid topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to aminolevulinic acid topical: topical gel, topical solution
-The most commonly reported side effects were scaling/crusting, hypo-/hyper-pigmentation, and itching.[Ref]
-Very common (10% or more): Scaling/Crusting (up to 71%), hypo-/hyper-pigmentation (up to 36%), erosion (up to 14%), itching (up to 25%), pruritusCommon (1% to 10%): Wheal/flare, skin disorders NOS, ulceration, bleeding/hemorrhage, vesiculation, pustules, dysesthesia, scabbing, excoriation, oozing, skin tightnessUncommon (0.1% to 1%): Pustular rash, dry skin, petechiae, hyperkeratosis[Ref]
+The most commonly reported side effects were scaling/crusting, hypo-/hyper-pigmentation, and itching.
+Very common (10% or more): Scaling/Crusting (up to 71%), hypo-/hyper-pigmentation (up to 36%), erosion (up to 14%), itching (up to 25%), pruritusCommon (1% to 10%): Wheal/flare, skin disorders NOS, ulceration, bleeding/hemorrhage, vesiculation, pustules, dysesthesia, scabbing, excoriation, oozing, skin tightnessUncommon (0.1% to 1%): Pustular rash, dry skin, petechiae, hyperkeratosis
 Very Common (10% or more): Irritation, erythema, pain, edema, exfoliation, indurationCommon (1% to 10%): Pain, tenderness, ulcerationUncommon (0.1% to 1%): Discharge, discoloration, ulcer, chills, feeling hot, pyrexia, wound secretion
-Common (1% to 10%): Headache, paraesthesia, hyperalgesia[Ref]
-Uncommon (0.1% to 1%): Eyelid edema[Ref]
-Uncommon (0.1% to 1%): Nervousness[Ref]
-1. "Product Information. Levulan Kerastick (aminolevulinic acid)" Berlex, Richmond, CA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Ameluz may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Headache, paraesthesia, hyperalgesia
+Uncommon (0.1% to 1%): Eyelid edema
+Uncommon (0.1% to 1%): Nervousness
 Pain, burning, itching, redness, or swelling at the application site
-
-
 Bleeding during lesion preparation
-
-
 difficulty seeing at night
 double vision
 increased sensitivity of the eyes to sunlight
 red, sore eyes
 seeing double
 swelling of the eyelids
-
-
 Burning, crawling, itching, numbness, prickling, “pins and needles,” stinging, or tingling feelings
 darkening of the treated skin
 lightening of the treated skin
@@ -37,8 +19,6 @@ scaling or crusting
 skin sore
 small red raised itchy bumps
 swelling of the skin
-
-
 Blister
 oozing
 open sore on the skin
@@ -47,4 +27,3 @@ pus filled blister or pimple
 raw skin
 scabbing
 tenderness
-

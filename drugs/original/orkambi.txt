@@ -1,32 +1,21 @@
-Generic Name: ivacaftor / lumacaftor
 Common side effects of Orkambi include: upper respiratory tract infection, dyspnea, chest discomfort, nausea, and skin rash. Other side effects include: influenza, and flatulence.  See below for a comprehensive list of adverse effects.
-Applies to ivacaftor / lumacaftor: oral tablet
 As well as its needed effects, ivacaftor / lumacaftor may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking ivacaftor / lumacaftor, check with your doctor immediately:
 Some ivacaftor / lumacaftor side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to ivacaftor / lumacaftor: oral tablet
-The most frequently reported side effects were dyspnea, nasopharyngitis, nausea, diarrhea, upper respiratory tract infection, fatigue, respiration abnormal, blood creatine phosphokinase increased, rash, flatulence, rhinorrhea, and influenza.[Ref]
-Very common (10% or more): Infective pulmonary exacerbation of cystic fibrosis (37.5%), cough (30.5%), sputum increased (14.8 %), dyspnea (up to 14%), hemoptysis (13.8%), nasopharyngitis (up to 13%), upper respiratory tract infection (up to 10%)Common (1% to 10%): Rhinitis, pharyngeal erythema, sinus congestion, respiration abnormal, rhinorrhea, nasal congestionIvacaftor:Very common (10% or more): Nasopharyngitis, nasal congestionCommon (1% to 10%): Sinus congestion, pharyngeal erythema[Ref]
-Very common (10% or more): Nausea (up to 13%), diarrhea (up to 12%), abdominal painCommon (1% to 10%): Flatulence, oropharyngeal pain, vomitingIvacaftor:Very common (10% or more): Abdominal pain[Ref]
-Common (1% to 10%): Rash[Ref]
-Very common (10% or more): Headache (up to 15.7%), dizzinessIvacaftor:Very common (10% or more): Dizziness, headache[Ref]
-Very common (10% or more): Bacteria in sputumCommon (1% to 10%): Blood creatine phosphokinase increased, fatigue, influenza, ear discomfort, ear pain, tinnitus, tympanic membrane hyperemia, vestibular disorder, chest discomfortUncommon (0.1% to 1%): Ear congestionIvacaftor:Very common (10% or more): Bacteria in sputumCommon (1% to 10%): Ear discomfort, ear pain, tinnitus, tympanic membrane hyperemia, vestibular disorderUncommon (0.1% to 1%): Ear congestion[Ref]
-Very common (10% or more): Breast massUncommon (0.1% to 1%): Breast inflammation, gynecomastia, nipple disorder, nipple painIvacaftor:Common (1% to 10%): Breast massUncommon (0.1% to 1%): Breast inflammation, gynecomastia, nipple disorder, nipple pain[Ref]
-Common (1% to 10%): Blood pressure increased/hypertension[Ref]
-Common (1% to 10%): AST increased, ALT increasedUncommon (0.1% to 1%): Hepatic encephalopathy, cholestatic hepatitisFrequency not reported: Total bilirubin increased[Ref]
-Common (1% to 10%): Menstruation abnormal/irregular, dysmenorrhea, metrorrhagia, amenorrhea, menorrhagiaUncommon (0.1% to 1%): Oligomenorrhea, polymenorrhea[Ref]
-Frequency not reported: Non-congenital lens opacities[Ref]
-1. "Product Information. Orkambi (ivacaftor-lumacaftor)." Vertex Pharmaceuticals, Cambridge, MA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+The most frequently reported side effects were dyspnea, nasopharyngitis, nausea, diarrhea, upper respiratory tract infection, fatigue, respiration abnormal, blood creatine phosphokinase increased, rash, flatulence, rhinorrhea, and influenza.
+Very common (10% or more): Infective pulmonary exacerbation of cystic fibrosis (37.5%), cough (30.5%), sputum increased (14.8 %), dyspnea (up to 14%), hemoptysis (13.8%), nasopharyngitis (up to 13%), upper respiratory tract infection (up to 10%)Common (1% to 10%): Rhinitis, pharyngeal erythema, sinus congestion, respiration abnormal, rhinorrhea, nasal congestionIvacaftor:Very common (10% or more): Nasopharyngitis, nasal congestionCommon (1% to 10%): Sinus congestion, pharyngeal erythema
+Very common (10% or more): Nausea (up to 13%), diarrhea (up to 12%), abdominal painCommon (1% to 10%): Flatulence, oropharyngeal pain, vomitingIvacaftor:Very common (10% or more): Abdominal pain
+Common (1% to 10%): Rash
+Very common (10% or more): Headache (up to 15.7%), dizzinessIvacaftor:Very common (10% or more): Dizziness, headache
+Very common (10% or more): Bacteria in sputumCommon (1% to 10%): Blood creatine phosphokinase increased, fatigue, influenza, ear discomfort, ear pain, tinnitus, tympanic membrane hyperemia, vestibular disorder, chest discomfortUncommon (0.1% to 1%): Ear congestionIvacaftor:Very common (10% or more): Bacteria in sputumCommon (1% to 10%): Ear discomfort, ear pain, tinnitus, tympanic membrane hyperemia, vestibular disorderUncommon (0.1% to 1%): Ear congestion
+Very common (10% or more): Breast massUncommon (0.1% to 1%): Breast inflammation, gynecomastia, nipple disorder, nipple painIvacaftor:Common (1% to 10%): Breast massUncommon (0.1% to 1%): Breast inflammation, gynecomastia, nipple disorder, nipple pain
+Common (1% to 10%): Blood pressure increased/hypertension
+Common (1% to 10%): AST increased, ALT increasedUncommon (0.1% to 1%): Hepatic encephalopathy, cholestatic hepatitisFrequency not reported: Total bilirubin increased
+Common (1% to 10%): Menstruation abnormal/irregular, dysmenorrhea, metrorrhagia, amenorrhea, menorrhagiaUncommon (0.1% to 1%): Oligomenorrhea, polymenorrhea
+Frequency not reported: Non-congenital lens opacities
 It is possible that some side effects of Orkambi may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Difficult or labored breathing
 tightness in the chest
-
-
 Blurred vision
 dark urine
 dizziness
@@ -39,8 +28,6 @@ pounding in the ears
 slow or fast heartbeat
 unusual tiredness
 yellow eyes or skin
-
-
 Absent, missed, or irregular menstrual periods
 bloated
 body aches or pain
@@ -63,4 +50,3 @@ sore throat
 stopping of menstrual bleeding
 stuffy or runny nose
 unusual weakness
-

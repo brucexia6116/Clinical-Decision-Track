@@ -1,41 +1,26 @@
-Generic Name: ramipril
 Common side effects of Altace include: hypotension and increased cough.  See below for a comprehensive list of adverse effects.
-Applies to ramipril: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by ramipril (the active ingredient contained in Altace). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking ramipril:
-Some of the side effects that can occur with ramipril may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ramipril: oral capsule, oral tablet
-The most common adverse reaction is hypotension.[Ref]
-Very common (10% or more): Hypotension (11%)Common (1% to 10%): Angina pectoris, postural hypotension, orthostatic blood pressure decreasedUncommon (0.1% to 1%): Symptomatic hypotension, myocardial ischemia, myocardial infarction, tachycardia, arrhythmia, palpitation, flushingRare (less than 0.1%): Vascular stenosis, hypoperfusion, vasculitisFrequency not reported: Disturbed orthostatic regulation, Raynaud's phenomenon[Ref]
-Common (1% to 10%): Nausea, vomiting, diarrhea, gastrointestinal inflammation, digestive disturbances, abdominal discomfort, dyspepsiaUncommon (0.1% to 1%): Pancreatitis, pancreatic enzymes increased, abdominal pain, small bowel angioedema, gastritis, constipation, dry mouthRare (less than 0.1%): GlossitisFrequency not reported: Dysphagia, gastroenteritis, increased salivation, gastric pain, aphthous stomatitis[Ref]
-Common (1% to 10%): Fatigue, asthenia, vertigo, bronchitis, sinusitis, chest painUncommon (0.1% to 1%): Peripheral edema, pyrexia, libido decreasedRare (less than 0.1%): Conjunctivitis, hearing impaired, tinnitusFrequency not reported: Hearing loss, edema, malaise, gynecomastia[Ref]
-Common (1% to 10%): Cough, nonproductive tickling cough, cough increased, dyspneaUncommon (0.1% to 1%): Bronchospasm, asthma aggravatedFrequency not reported: Eosinophilic pneumonitis, epistaxis, nasal congestion[Ref]
-Uncommon (0.1% to 1%): Depressed mood, anxiety, nervousness, restlessness, sleep disorderRare (less than 0.1%): Confusional stateFrequency not reported: Depression, insomnia, disturbance in attention[Ref]
-Common (1% to 10%): Headache, dizziness, syncopeUncommon (0.1% to 1%): Paresthesia, dysgeusia, ageusia, somnolenceRare (less than 0.1%): Tremor, balance disorderFrequency not reported: Smell disturbance, amnesia, convulsions, neuralgia, neuropathy, cerebral ischemia, ischemic stroke, transient ischemic attack, psychomotor skills impaired, burning sensation, parosmia[Ref]
-Common (1% to 10%): Muscle spasm, myalgiaUncommon (0.1% to 1%): ArthralgiaFrequency not reported: Arthritis[Ref]
-Common (1% to 10%): Maculopapular rashUncommon (0.1% to 1%): Pruritus, hyperhidrosisRare (less than 0.1%): Exfoliative dermatitis, urticaria, onycholysisFrequency not reported: Purpura, pemphigus, pemphigoid, erythema multiforme, toxic epidermal necrolysis, Stevens Johnson syndrome, sweating increased, alopecia, psoriasis aggravated, dermatitis psoriasiform, lichenoid exanthema, enanthema[Ref]
-Common (1% to 10%): Abnormal kidney functionUncommon (0.1% to 1%): Renal impairment, acute renal failure[Ref]
-Common (1% to 10%): Creatinine increased, blood potassium increasedUncommon (0.1% to 1%): Anorexia, decreased appetite, BUN increasedFrequency not reported: Weight gain, hyponatremia, loss of appetite, uric acid elevated, blood glucose elevated, blood sodium decreasedPostmarketing reports: Hypoglycemia[Ref]
-Uncommon (0.1% to 1%): Worsening of preexisting proteinuria, urine output increased, transient erectile impotenceFrequency not reported: Proteinuria, impotence[Ref]
-Uncommon (0.1% to 1%): Visual disturbance, blurred vision[Ref]
-Uncommon (0.1% to 1%): Eosinophilia, hemoglobin or hematocrit decreasedRare (less than 0.1%): Neutropenia, agranulocytosis, white blood cell count decreased, red blood cell count decreased, platelet count decreasedFrequency not reported: Pancytopenia, hemolytic anemia, thrombocytopenia, leucopenia, bone marrow failure[Ref]
-Uncommon (0.1% to 1%): Hepatic enzymes increased, conjugated bilirubin increasedRare (less than 0.1%): Cholestatic jaundice, hepatocellular damageFrequency not reported: Hepatic failure, hepatitis, jaundice, acute liver failure, hepatocellular damage, cholestatic hepatitis, cytolytic hepatitis, serum bilirubin elevated[Ref]
-Uncommon (0.1% to 1%): Angioneurotic edema, angioedemaVery rare (less than 0.01%): PhotosensitivityFrequency not reported: Anaphylactic reaction, anaphylactoid reaction, apparent hypersensitivity reaction, antinuclear antibody increased[Ref]
-Frequency not reported: Syndrome of inappropriate antidiuretic hormone secretion[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Altace (ramipril)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-Not all side effects for Altace may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reaction is hypotension.
+Very common (10% or more): Hypotension (11%)Common (1% to 10%): Angina pectoris, postural hypotension, orthostatic blood pressure decreasedUncommon (0.1% to 1%): Symptomatic hypotension, myocardial ischemia, myocardial infarction, tachycardia, arrhythmia, palpitation, flushingRare (less than 0.1%): Vascular stenosis, hypoperfusion, vasculitisFrequency not reported: Disturbed orthostatic regulation, Raynaud's phenomenon
+Common (1% to 10%): Nausea, vomiting, diarrhea, gastrointestinal inflammation, digestive disturbances, abdominal discomfort, dyspepsiaUncommon (0.1% to 1%): Pancreatitis, pancreatic enzymes increased, abdominal pain, small bowel angioedema, gastritis, constipation, dry mouthRare (less than 0.1%): GlossitisFrequency not reported: Dysphagia, gastroenteritis, increased salivation, gastric pain, aphthous stomatitis
+Common (1% to 10%): Fatigue, asthenia, vertigo, bronchitis, sinusitis, chest painUncommon (0.1% to 1%): Peripheral edema, pyrexia, libido decreasedRare (less than 0.1%): Conjunctivitis, hearing impaired, tinnitusFrequency not reported: Hearing loss, edema, malaise, gynecomastia
+Common (1% to 10%): Cough, nonproductive tickling cough, cough increased, dyspneaUncommon (0.1% to 1%): Bronchospasm, asthma aggravatedFrequency not reported: Eosinophilic pneumonitis, epistaxis, nasal congestion
+Uncommon (0.1% to 1%): Depressed mood, anxiety, nervousness, restlessness, sleep disorderRare (less than 0.1%): Confusional stateFrequency not reported: Depression, insomnia, disturbance in attention
+Common (1% to 10%): Headache, dizziness, syncopeUncommon (0.1% to 1%): Paresthesia, dysgeusia, ageusia, somnolenceRare (less than 0.1%): Tremor, balance disorderFrequency not reported: Smell disturbance, amnesia, convulsions, neuralgia, neuropathy, cerebral ischemia, ischemic stroke, transient ischemic attack, psychomotor skills impaired, burning sensation, parosmia
+Common (1% to 10%): Muscle spasm, myalgiaUncommon (0.1% to 1%): ArthralgiaFrequency not reported: Arthritis
+Common (1% to 10%): Maculopapular rashUncommon (0.1% to 1%): Pruritus, hyperhidrosisRare (less than 0.1%): Exfoliative dermatitis, urticaria, onycholysisFrequency not reported: Purpura, pemphigus, pemphigoid, erythema multiforme, toxic epidermal necrolysis, Stevens Johnson syndrome, sweating increased, alopecia, psoriasis aggravated, dermatitis psoriasiform, lichenoid exanthema, enanthema
+Common (1% to 10%): Abnormal kidney functionUncommon (0.1% to 1%): Renal impairment, acute renal failure
+Common (1% to 10%): Creatinine increased, blood potassium increasedUncommon (0.1% to 1%): Anorexia, decreased appetite, BUN increasedFrequency not reported: Weight gain, hyponatremia, loss of appetite, uric acid elevated, blood glucose elevated, blood sodium decreasedPostmarketing reports: Hypoglycemia
+Uncommon (0.1% to 1%): Worsening of preexisting proteinuria, urine output increased, transient erectile impotenceFrequency not reported: Proteinuria, impotence
+Uncommon (0.1% to 1%): Visual disturbance, blurred vision
+Uncommon (0.1% to 1%): Eosinophilia, hemoglobin or hematocrit decreasedRare (less than 0.1%): Neutropenia, agranulocytosis, white blood cell count decreased, red blood cell count decreased, platelet count decreasedFrequency not reported: Pancytopenia, hemolytic anemia, thrombocytopenia, leucopenia, bone marrow failure
+Uncommon (0.1% to 1%): Hepatic enzymes increased, conjugated bilirubin increasedRare (less than 0.1%): Cholestatic jaundice, hepatocellular damageFrequency not reported: Hepatic failure, hepatitis, jaundice, acute liver failure, hepatocellular damage, cholestatic hepatitis, cytolytic hepatitis, serum bilirubin elevated
+Uncommon (0.1% to 1%): Angioneurotic edema, angioedemaVery rare (less than 0.01%): PhotosensitivityFrequency not reported: Anaphylactic reaction, anaphylactoid reaction, apparent hypersensitivity reaction, antinuclear antibody increased
+Frequency not reported: Syndrome of inappropriate antidiuretic hormone secretion
 Blurred vision
 confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 sweating
 unusual tiredness or weakness
-
-
 Arm, back, or jaw pain
 chest pain or discomfort
 chest tightness or heaviness
@@ -47,13 +32,8 @@ fainting
 fast or irregular heartbeat
 nausea
 shortness of breath
-
-
 Cough
-
-
 Diarrhea
 feeling of constant movement of self or surroundings
 sensation of spinning
 vomiting
-

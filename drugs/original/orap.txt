@@ -1,39 +1,29 @@
-Generic Name: pimozide
 Common side effects of Orap include: akathisia, akinesia, sedation, and visual disturbance.  See below for a comprehensive list of adverse effects.
-Applies to pimozide: oral tablet
 As well as its needed effects, pimozide (the active ingredient contained in Orap) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking pimozide, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking pimozide, get emergency help immediately:
-
 Some pimozide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to pimozide: oral tablet
-The most common side effects include somnolence, hyperhidrosis, nocturia, and dizziness.[Ref]
-Very common (10% or more): Somnolence (up to 25%), dizziness (up to 11%)Common (1% to 10%): Extrapyramidal disorder, akathisia, headache, lethargy, tremor, hyperkinesia, limb tremor, torticollisUncommon (0.1% to 1%): Bradykinesia, cogwheel rigidity, dyskinesia, dystonia, dysarthriaFrequency not reported: Neuroleptic malignant syndrome, grand mal convulsion, tardive dyskinesia, electroencephalogram abnormal, motor restlessness, hyperreflexia, opisthotonos, drowsiness, sedation, speech disorder, handwriting change, taste change, akinesia, parkinsonism, faintingPostmarketing reports: Seizure[Ref]
-Extrapyramidal symptoms typically occurred during the first few days of treatment and involved mild to moderate Parkinson-like symptoms.  This disorder is usually dose-related, with an increased occurrence and severity of symptoms with high doses; symptoms decreased or disappeared with lower doses.  While these symptoms were usually reversible, a few cases of persistent symptoms required discontinuation.Grand mal seizures occurred at doses greater than 20 mg/day.[Ref]
-Very common (10% or more): Adverse behavior effect (up to 22.2%)Common (1% to 10%): Depression, agitation, insomnia, abnormal dreams, restlessness, nervousFrequency not reported: Libido decreased/lost, excitement[Ref]
-Sudden, unexpected deaths have occurred at doses greater than 20 mg/day.[Ref]
-Very common (10% or more): Asthenia (up to 13.8%)Common (1% to 10%): Extreme exhaustionUncommon (0.1% to 1%): Face edemaFrequency not reported: Neonatal drug withdrawal syndrome, body temperature dysregulation, hypothermiaPostmarketing reports: Sudden, unexplained death, hyperpyrexia, thirst[Ref]
-Very common (10% or more): Hyperhidrosis (up to 13%)Common (1% to 10%): Sebaceous gland overactivity, rashUncommon (less than 1%): PruritusFrequency not reported: Urticaria, skin irritation[Ref]
-Very common (10% or more): Nocturia (up to 12%)Common (1% to 10%): Urinary frequency, erectile dysfunctionUncommon (0.1% to 1%): AmenorrheaFrequency not reported: Galactorrhea, menstrual disorder, breast secretions, impotence[Ref]
-Common (1% to 10%): Constipation, dry mouth, vomiting, increased salivation/salivary hypersecretion, dysphagiaFrequency not reported: Diarrhea, nausea, gastrointestinal distressPostmarketing reports: Gingival hyperplasia[Ref]
-Gingival hyperplasia occurred in animal models at high doses, but was reversible after discontinuation.[Ref]
-Common (1% to 10%): Muscle rigidity, myalgiaUncommon (0.1% to 1%): Muscle spasmsFrequency not reported: Rigidity, neck rigidity, muscle cramps, muscle tightness, stooped posture[Ref]
-Common (1% to 10%): Vision blurred, visual disturbanceUncommon (0.1% to 1%): Oculogyric crisisFrequency not reported: Sensitivity of eyes to light, decrease accommodation, spots before eyes, periorbital edema, cataracts[Ref]
-Hyperglycemia occurred in patients with preexisting diabetes.[Ref]
-Common (1% to 10%): Anorexia, weight increasedFrequency not reported: Hyperglycemia, hyponatremia, appetite increase, weight loss[Ref]
-Electrocardiographic changes include prolongation of the QT interval, flattening/notching/inversion of the T wave, and the appearance of U waves.[Ref]
-Common (1% to 10%): ECG abnormalFrequency not reported: Torsade de Pointes, ventricular tachycardia/tachycardia, ventricular fibrillation, chest pain, postural hypotension/hypotension, hypertension, palpitationsPostmarketing reports: Cardiac arrest, venous thromboembolism, deep vein thrombosis[Ref]
-Frequency not reported: Blood prolactin increases, gynecomastia[Ref]
-Frequency not reported: Glycosuria[Ref]
-Postmarketing reports: Hemolytic anemia[Ref]
-Postmarketing reports: Pulmonary embolism[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Orap Tablets (pimozide)." Gate Pharmaceuticals, Sellersville, PA. 
+The most common side effects include somnolence, hyperhidrosis, nocturia, and dizziness.
+Very common (10% or more): Somnolence (up to 25%), dizziness (up to 11%)Common (1% to 10%): Extrapyramidal disorder, akathisia, headache, lethargy, tremor, hyperkinesia, limb tremor, torticollisUncommon (0.1% to 1%): Bradykinesia, cogwheel rigidity, dyskinesia, dystonia, dysarthriaFrequency not reported: Neuroleptic malignant syndrome, grand mal convulsion, tardive dyskinesia, electroencephalogram abnormal, motor restlessness, hyperreflexia, opisthotonos, drowsiness, sedation, speech disorder, handwriting change, taste change, akinesia, parkinsonism, faintingPostmarketing reports: Seizure
+Extrapyramidal symptoms typically occurred during the first few days of treatment and involved mild to moderate Parkinson-like symptoms.  This disorder is usually dose-related, with an increased occurrence and severity of symptoms with high doses; symptoms decreased or disappeared with lower doses.  While these symptoms were usually reversible, a few cases of persistent symptoms required discontinuation.Grand mal seizures occurred at doses greater than 20 mg/day.
+Very common (10% or more): Adverse behavior effect (up to 22.2%)Common (1% to 10%): Depression, agitation, insomnia, abnormal dreams, restlessness, nervousFrequency not reported: Libido decreased/lost, excitement
+Sudden, unexpected deaths have occurred at doses greater than 20 mg/day.
+Very common (10% or more): Asthenia (up to 13.8%)Common (1% to 10%): Extreme exhaustionUncommon (0.1% to 1%): Face edemaFrequency not reported: Neonatal drug withdrawal syndrome, body temperature dysregulation, hypothermiaPostmarketing reports: Sudden, unexplained death, hyperpyrexia, thirst
+Very common (10% or more): Hyperhidrosis (up to 13%)Common (1% to 10%): Sebaceous gland overactivity, rashUncommon (less than 1%): PruritusFrequency not reported: Urticaria, skin irritation
+Very common (10% or more): Nocturia (up to 12%)Common (1% to 10%): Urinary frequency, erectile dysfunctionUncommon (0.1% to 1%): AmenorrheaFrequency not reported: Galactorrhea, menstrual disorder, breast secretions, impotence
+Common (1% to 10%): Constipation, dry mouth, vomiting, increased salivation/salivary hypersecretion, dysphagiaFrequency not reported: Diarrhea, nausea, gastrointestinal distressPostmarketing reports: Gingival hyperplasia
+Gingival hyperplasia occurred in animal models at high doses, but was reversible after discontinuation.
+Common (1% to 10%): Muscle rigidity, myalgiaUncommon (0.1% to 1%): Muscle spasmsFrequency not reported: Rigidity, neck rigidity, muscle cramps, muscle tightness, stooped posture
+Common (1% to 10%): Vision blurred, visual disturbanceUncommon (0.1% to 1%): Oculogyric crisisFrequency not reported: Sensitivity of eyes to light, decrease accommodation, spots before eyes, periorbital edema, cataracts
+Hyperglycemia occurred in patients with preexisting diabetes.
+Common (1% to 10%): Anorexia, weight increasedFrequency not reported: Hyperglycemia, hyponatremia, appetite increase, weight loss
+Electrocardiographic changes include prolongation of the QT interval, flattening/notching/inversion of the T wave, and the appearance of U waves.
+Common (1% to 10%): ECG abnormalFrequency not reported: Torsade de Pointes, ventricular tachycardia/tachycardia, ventricular fibrillation, chest pain, postural hypotension/hypotension, hypertension, palpitationsPostmarketing reports: Cardiac arrest, venous thromboembolism, deep vein thrombosis
+Frequency not reported: Blood prolactin increases, gynecomastia
+Frequency not reported: Glycosuria
+Postmarketing reports: Hemolytic anemia
+Postmarketing reports: Pulmonary embolism
 It is possible that some side effects of Orap may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Difficulty with speaking
 dizziness or fainting
 fast or irregular heartbeat
@@ -47,8 +37,6 @@ stiffness of the arms and legs
 swelling or soreness of the breasts (less common in males)
 trembling and shaking of the fingers and hands
 unusual secretion of milk (rare in males)
-
-
 Difficulty with swallowing
 inability to move the eyes
 increased blinking or spasms of the eyelid
@@ -65,8 +53,6 @@ uncontrolled movements of the neck, trunk, arms, or legs, including twisting mov
 unusual bleeding or bruising
 unusual facial expressions or body positions
 yellow eyes or skin
-
-
 Convulsions (seizures)
 difficult or unusually fast breathing
 fast heartbeat or irregular pulse
@@ -75,23 +61,17 @@ high or low (irregular) blood pressure
 increased sweating
 loss of bladder control
 muscle stiffness (severe)
-
-
 Coma
 dizziness (severe)
 muscle trembling, jerking, or stiffness (severe)
 troubled breathing (severe)
 uncontrolled movements (severe)
-
-
 Blurred vision or other vision problems
 constipation
 dizziness, lightheadedness, or fainting when getting up from a lying or sitting position
 drowsiness
 dryness of the mouth
 skin discoloration
-
-
 Decreased sexual ability
 diarrhea
 headache
@@ -99,4 +79,3 @@ loss of appetite and weight
 mental depression
 nausea and vomiting
 tiredness or weakness
-

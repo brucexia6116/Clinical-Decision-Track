@@ -1,32 +1,21 @@
 Commonly reported side effects of carfilzomib include: asthenia, arthralgia, dyspnea, fever, thrombocytopenia, vomiting, and chills. Other side effects include: congestive heart failure, pulmonary edema, and reduced ejection fraction.  See below for a comprehensive list of adverse effects.
-Applies to carfilzomib: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by carfilzomib. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking carfilzomib, check with your doctor or nurse immediately:
-Some of the side effects that can occur with carfilzomib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to carfilzomib: intravenous powder for injection
-Very common (10% or more): Anemia (47%), thrombocytopenia (36%), lymphopenia (24%), neutropenia (21%), leukopenia (14%)Common (1% to 10%): Deep vein thrombosisUncommon (0.1% to 1%): Hemolytic uremic syndrome (HUS)Rare (less than 0.1%): Thrombotic thrombocytopenic purpura (TTP), thrombotic microangiopathy, hemorrhage[Ref]
-Very common (10% or more): Hypertension (14%)Common (1% to 10%): Cardiac failure (i.e., pulmonary edema, decreased ejection fraction), atrial fibrillation, tachycardia, palpitations, flushingUncommon (0.1% to 1%): Cardiac arrest, myocardial infarction, myocardial ischemia, pericarditis, pericardial effusionRare (less than 0.1%): Hypertensive crisis[Ref]
-Very common (10% or more): Increased aspartate aminotransferase (13%)Common (1% to 10%): Increased alanine aminotransferase, increased gamma-glutamyltransferase, hyperbilirubinemiaUncommon (0.1% to 1%): Hepatic failure, cholestasis[Ref]
-Very common (10% or more): Headache (28%), peripheral neuropathy (14%), dizziness (13%), hypoesthesia (12%), dizzinessPostmarketing reports: Posterior reversible encephalopathy syndrome, paresthesia, hypoesthesiaUncommon (0.1% to 1%): Intracranial hemorrhage, cerebrovascular accidentRare (less than 0.1%): Posterior reversible encephalopathy syndrome (PRES)[Ref]
-Very common (10% or more): Fatigue (56%), pyrexia (30%), peripheral edema (24%), chills (16%), arthralgia (16%), asthenia (14%), pain (12%), infusion reactionCommon (1% to 10%): DysphoniaUncommon (0.1% to 1%): Multi-organ failure[Ref]
-Very common (10% or more): Dyspnea (35%), upper respiratory tract infection (28%), cough (26%), pneumonia (13%), nasopharyngitisCommon (1% to 10%): Pulmonary hypertension, bronchitis, pulmonary embolism, pulmonary edema, epistaxis, rhinitis, wheezingUncommon (0.1% to 1%): Lung infectionRare (less than 0.1%): Acute respiratory distress syndrome (ARDS), acute respiratory failure, pulmonary hemorrhage, interstitial lung disease, pneumonitis[Ref]
-Very common (10% or more): Nausea (45%), diarrhea (33%), vomiting (22%), constipation (21%), abdominal painCommon (1% to 10%): Oropharyngeal pain, dyspepsia, toothacheRare (less than 0.1%): GI hemorrhage, GI perforation[Ref]
-Very common (10% or more): Increased blood creatinine (24%)Common (1% to 10%): Acute renal failure, renal failure, renal impairment, decreased creatinine renal clearance[Ref]
-Very common (10% or more): Hypokalemia (14%), hypomagnesemia (14%), anorexia (12%), hyperglycemia (12%), hypercalcemia (11%), hypophosphatemia (11%), hyponatremia (10%)Common (1% to 10%): Dehydration, hyperkalemia, hypocalcemia, hyperuricemia, hypoalbuminemiaUncommon (0.1% to 1%): Tumor lysis syndrome[Ref]
-Very common (10% or more): Back pain (20%), extremity pain (13%), chest wall pain (11%), arthralgia, muscle spasmsCommon (1% to 10%): Musculoskeletal pain, musculoskeletal chest pain, bone pain, myalgia, muscular weakness[Ref]
-Very common (10% or more): Insomnia (17.9%)Common (1% to 10%): Anxiety[Ref]
-Common (1% to 10%): Herpes zoster reactivation, sepsis, influenza, viral infection[Ref]
-Common (1% to 10%): Rash, pruritus, erythema, hyperhidrosis[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-Uncommon (0.1% to 1%): Drug hypersensitivity[Ref]
-Common (1% to 10%): Cataract, blurred vision[Ref]
-1. "Product Information. Kyprolis (carfilzomib)." Onyx Pharmaceuticals Inc, South San Francisco, CA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for carfilzomib may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Anemia (47%), thrombocytopenia (36%), lymphopenia (24%), neutropenia (21%), leukopenia (14%)Common (1% to 10%): Deep vein thrombosisUncommon (0.1% to 1%): Hemolytic uremic syndrome (HUS)Rare (less than 0.1%): Thrombotic thrombocytopenic purpura (TTP), thrombotic microangiopathy, hemorrhage
+Very common (10% or more): Hypertension (14%)Common (1% to 10%): Cardiac failure (i.e., pulmonary edema, decreased ejection fraction), atrial fibrillation, tachycardia, palpitations, flushingUncommon (0.1% to 1%): Cardiac arrest, myocardial infarction, myocardial ischemia, pericarditis, pericardial effusionRare (less than 0.1%): Hypertensive crisis
+Very common (10% or more): Increased aspartate aminotransferase (13%)Common (1% to 10%): Increased alanine aminotransferase, increased gamma-glutamyltransferase, hyperbilirubinemiaUncommon (0.1% to 1%): Hepatic failure, cholestasis
+Very common (10% or more): Headache (28%), peripheral neuropathy (14%), dizziness (13%), hypoesthesia (12%), dizzinessPostmarketing reports: Posterior reversible encephalopathy syndrome, paresthesia, hypoesthesiaUncommon (0.1% to 1%): Intracranial hemorrhage, cerebrovascular accidentRare (less than 0.1%): Posterior reversible encephalopathy syndrome (PRES)
+Very common (10% or more): Fatigue (56%), pyrexia (30%), peripheral edema (24%), chills (16%), arthralgia (16%), asthenia (14%), pain (12%), infusion reactionCommon (1% to 10%): DysphoniaUncommon (0.1% to 1%): Multi-organ failure
+Very common (10% or more): Dyspnea (35%), upper respiratory tract infection (28%), cough (26%), pneumonia (13%), nasopharyngitisCommon (1% to 10%): Pulmonary hypertension, bronchitis, pulmonary embolism, pulmonary edema, epistaxis, rhinitis, wheezingUncommon (0.1% to 1%): Lung infectionRare (less than 0.1%): Acute respiratory distress syndrome (ARDS), acute respiratory failure, pulmonary hemorrhage, interstitial lung disease, pneumonitis
+Very common (10% or more): Nausea (45%), diarrhea (33%), vomiting (22%), constipation (21%), abdominal painCommon (1% to 10%): Oropharyngeal pain, dyspepsia, toothacheRare (less than 0.1%): GI hemorrhage, GI perforation
+Very common (10% or more): Increased blood creatinine (24%)Common (1% to 10%): Acute renal failure, renal failure, renal impairment, decreased creatinine renal clearance
+Very common (10% or more): Hypokalemia (14%), hypomagnesemia (14%), anorexia (12%), hyperglycemia (12%), hypercalcemia (11%), hypophosphatemia (11%), hyponatremia (10%)Common (1% to 10%): Dehydration, hyperkalemia, hypocalcemia, hyperuricemia, hypoalbuminemiaUncommon (0.1% to 1%): Tumor lysis syndrome
+Very common (10% or more): Back pain (20%), extremity pain (13%), chest wall pain (11%), arthralgia, muscle spasmsCommon (1% to 10%): Musculoskeletal pain, musculoskeletal chest pain, bone pain, myalgia, muscular weakness
+Very common (10% or more): Insomnia (17.9%)Common (1% to 10%): Anxiety
+Common (1% to 10%): Herpes zoster reactivation, sepsis, influenza, viral infection
+Common (1% to 10%): Rash, pruritus, erythema, hyperhidrosis
+Common (1% to 10%): Urinary tract infection
+Uncommon (0.1% to 1%): Drug hypersensitivity
+Common (1% to 10%): Cataract, blurred vision
 Agitation
 black, tarry stools
 bleeding gums
@@ -71,15 +60,11 @@ unsteadiness or awkwardness
 unusual bleeding or bruising
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Chills
 fever
 muscle pain or cramps
 painful blisters on the trunk of the body
 weakness in the arms, hands, legs, or feet
-
-
 Dark-colored urine
 general feeling of discomfort or illness
 general feeling of tiredness or weakness
@@ -87,8 +72,6 @@ light-colored stools
 stomach pain, continuing
 thickening of bronchial secretions
 yellow eyes or skin
-
-
 Blindness
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 fainting
@@ -96,8 +79,6 @@ joint pain, stiffness, or swelling
 seizures
 stomach pain
 sweating
-
-
 Back pain
 body aches or pain
 bone pain
@@ -120,4 +101,3 @@ sneezing
 sore throat
 trouble sleeping
 weight loss
-

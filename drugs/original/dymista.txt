@@ -1,28 +1,16 @@
-Generic Name: azelastine / fluticasone nasal
-Applies to azelastine / fluticasone nasal: nasal spray
-In addition to its needed effects, some unwanted effects may be caused by azelastine / fluticasone nasal. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking azelastine / fluticasone nasal:
-Some of the side effects that can occur with azelastine / fluticasone nasal may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to azelastine / fluticasone nasal: nasal spray
-The most commonly reported side effects were headache, pyrexia, cough, nasal congestion, and rhinitis.[Ref]
-Fluticasone:Postmarketing reports: Hypersensitivity reactions (including angioedema, skin rash, edema of the face and tongue, pruritus, urticaria, bronchospasm, wheezing, dyspnea, and anaphylaxis/anaphylactoid reactions)[Ref]
-Fluticasone:Frequency not reported: Hypothalamic-pituitary-adrenal (HPA) axis effects[Ref]
-Common (1% to 10%): Viral infectionFluticasone:Frequency not reported: Immunosuppression, Candida albicans infection[Ref]
-Common (1% to 10%): Epistaxis, cough, nasal congestion, rhinitis, upper respiratory tract infection, pharyngitisAzelastine:Postmarketing reports: Nasal soresFluticasone:Rare (0.01% than 0.1%): Nasal septal perforation, nasal ulcer, sore throat, throat irritation and dryness, cough, hoarseness, voice changes[Ref]
-Common (1% to 10%) Dysgeusia, headacheUncommon (0.1% to 1%): SomnolenceAzelastine:Postmarketing reports: Confusion, involuntary muscle contractions, paraesthesia, parosmia, disturbance or loss of sense of smell and/or taste[Ref]
-Azelastine:Postmarketing reports: Abnormal vision, xerophthalmiaFluticasone:Postmarketing reports: Dryness, irritation, conjunctivitis, blurred vision, glaucoma, increased intraocular pressure, cataracts[Ref]
-Common (1% to 10%): DiarrheaRare (0.01% than 0.1%): Dry mouthVery rare (less than 0.01%): Nausea[Ref]
-Common (1% to 10%): Pyrexia, painVery rare (less than 0.01%): FatigueFluticasone:Frequency not reported: Impaired wound healing[Ref]
-Azelastine:Postmarketing reports: Atrial fibrillation, chest pain, palpitations[Ref]
-Azelastine:Postmarketing reports: Application site irritation[Ref]
-Azelastine:Postmarketing reports: Urinary retention[Ref]
-Fluticasone:Postmarketing reports: Growth suppression[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Dymista (azelastine-fluticasone nasal)." Meda Pharmaceuticals, Somerset, NJ. 
-Not all side effects for Dymista may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were headache, pyrexia, cough, nasal congestion, and rhinitis.
+Fluticasone:Postmarketing reports: Hypersensitivity reactions (including angioedema, skin rash, edema of the face and tongue, pruritus, urticaria, bronchospasm, wheezing, dyspnea, and anaphylaxis/anaphylactoid reactions)
+Fluticasone:Frequency not reported: Hypothalamic-pituitary-adrenal (HPA) axis effects
+Common (1% to 10%): Viral infectionFluticasone:Frequency not reported: Immunosuppression, Candida albicans infection
+Common (1% to 10%): Epistaxis, cough, nasal congestion, rhinitis, upper respiratory tract infection, pharyngitisAzelastine:Postmarketing reports: Nasal soresFluticasone:Rare (0.01% than 0.1%): Nasal septal perforation, nasal ulcer, sore throat, throat irritation and dryness, cough, hoarseness, voice changes
+Common (1% to 10%) Dysgeusia, headacheUncommon (0.1% to 1%): SomnolenceAzelastine:Postmarketing reports: Confusion, involuntary muscle contractions, paraesthesia, parosmia, disturbance or loss of sense of smell and/or taste
+Azelastine:Postmarketing reports: Abnormal vision, xerophthalmiaFluticasone:Postmarketing reports: Dryness, irritation, conjunctivitis, blurred vision, glaucoma, increased intraocular pressure, cataracts
+Common (1% to 10%): DiarrheaRare (0.01% than 0.1%): Dry mouthVery rare (less than 0.01%): Nausea
+Common (1% to 10%): Pyrexia, painVery rare (less than 0.01%): FatigueFluticasone:Frequency not reported: Impaired wound healing
+Azelastine:Postmarketing reports: Atrial fibrillation, chest pain, palpitations
+Azelastine:Postmarketing reports: Application site irritation
+Azelastine:Postmarketing reports: Urinary retention
+Fluticasone:Postmarketing reports: Growth suppression
 Bloody nose
 body aches or pain
 chills
@@ -42,8 +30,6 @@ tender, swollen glands in the neck
 trouble swallowing
 unusual tiredness or weakness
 voice changes
-
-
 Blindness
 bloody mucus or unexplained nosebleeds
 blurred vision
@@ -70,12 +56,8 @@ sores inside the nose
 tearing
 tightness in the chest
 white patches in the mouth or on the tongue
-
-
 Change in taste
 loss of taste
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 burning, dry, or itching eyes
 change in sense of smell
@@ -87,4 +69,3 @@ loss of smell
 mental or mood changes
 redness of the skin
 redness, pain, swelling of the eye, eyelid, or inner lining of the eyelid
-

@@ -1,21 +1,11 @@
-Applies to dutasteride: oral capsule liquid filled
-In addition to its needed effects, some unwanted effects may be caused by dutasteride. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dutasteride:
-Some of the side effects that can occur with dutasteride may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dutasteride: oral capsule
-Common (1% to 10%): Impotence, decreased libido, ejaculation disorders, breast disorders Postmarketing reports: Testicular pain and swelling[Ref]
--Impotence, decreased libido, and ejaculation disorders may persist after treatment discontinuation; this drug's role in this persistence is unknown.-Ejaculation disorders included anorgasmia, retrograde ejaculation, decreased semen volume, decreased orgasmic sensation, abnormal orgasm, delayed ejaculation, ejaculation failure, and premature ejaculation.-Breast disorders include breast enlargement, gynecomastia, breast swelling, breast pain, breast tenderness, nipple pain, and nipple swelling.[Ref]
-Common (1% to 10%): High-grade prostate cancerFrequency not reported: Male breast cancer[Ref]
-Uncommon (0.1% to 1%): Cardiac failure[Ref]
-Uncommon (0.1% to 1%): Alopecia (primarily body hair loss), hypertrichosis[Ref]
-Uncommon (0.1% to 1%): Dizziness, nervous system disorders[Ref]
-Postmarketing reports: Hypersensitivity reactions (e.g., rash, pruritus, urticaria, localized edema, serious skin reactions, angioedema)[Ref]
-Postmarketing reports: Depressed mood[Ref]
-1. "Product Information. Duagen (dutasteride)." GlaxoSmithKline Healthcare, Pittsburgh, PA. 
-Not all side effects for dutasteride may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Impotence, decreased libido, ejaculation disorders, breast disorders Postmarketing reports: Testicular pain and swelling
+-Impotence, decreased libido, and ejaculation disorders may persist after treatment discontinuation; this drug's role in this persistence is unknown.-Ejaculation disorders included anorgasmia, retrograde ejaculation, decreased semen volume, decreased orgasmic sensation, abnormal orgasm, delayed ejaculation, ejaculation failure, and premature ejaculation.-Breast disorders include breast enlargement, gynecomastia, breast swelling, breast pain, breast tenderness, nipple pain, and nipple swelling.
+Common (1% to 10%): High-grade prostate cancerFrequency not reported: Male breast cancer
+Uncommon (0.1% to 1%): Cardiac failure
+Uncommon (0.1% to 1%): Alopecia (primarily body hair loss), hypertrichosis
+Uncommon (0.1% to 1%): Dizziness, nervous system disorders
+Postmarketing reports: Hypersensitivity reactions (e.g., rash, pruritus, urticaria, localized edema, serious skin reactions, angioedema)
+Postmarketing reports: Depressed mood
 Chest pain or discomfort
 dilated neck veins
 extreme fatigue
@@ -25,8 +15,6 @@ shortness of breath
 swelling of the face, fingers, feet, or lower legs
 weight gain
 wheezing
-
-
 Blistering, flaking, or peeling of the skin
 cough
 difficulty with swallowing
@@ -41,8 +29,6 @@ skin rash
 tightness in the chest
 unusual tiredness or weakness
 wheezing
-
-
 Abnormal ejaculation
 decreased interest in sexual intercourse
 decreased sexual performance or desire
@@ -50,4 +36,3 @@ impotence
 inability to have or keep an erection
 loss in sexual ability, desire, drive, or performance
 pain, soreness, swelling, or discharge from the breast or breasts
-

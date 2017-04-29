@@ -1,36 +1,21 @@
 More frequently reported side effects include: abdominal pain, diarrhea, and nausea.  See below for a comprehensive list of adverse effects.
-Applies to mefenamic acid: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by mefenamic acid. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking mefenamic acid:
-
 If any of the following symptoms of overdose occur while taking mefenamic acid, get emergency help immediately:
-
-Some of the side effects that can occur with mefenamic acid may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to mefenamic acid: oral capsule
-Common (1% to 10%): Abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, gastric ulcers, duodenal ulcers, vomitingRare (less than 0.1%): Eructation, pancreatitisFrequency not reported: Peptic ulcer, dry mouth, esophagitis, gastritis, GI bleeding, glossitis, hematemesis, melena, rectal bleeding, stomatitis, anorexia, colitis, enterocolitis, pyrosis, steatorrhea, GI inflammation, ulcerative stomatitis, exacerbation of Crohn's disease, gastritis[Ref]
-The most frequently reported side effects were gastrointestinal (GI) in nature and included abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, vomiting, and gastric or duodenal ulcers.[Ref]
-Rare (less than 0.1%): Hypotension, arrhythmia, myocardial infarction, palpitations, vasculitisFrequency not reported: Congestive heart failure, tachycardia, hypertension, cardiac failure, arterial thrombotic events[Ref]
-Cases of autoimmune hemolytic anemia have been reported with continuous use of this drug for 12 months or longer.  In such cases, the Coombs tests were positive for both accelerated RBC production and destruction.  The process was reversible upon discontinuation of therapy.[Ref]
-Common (1% to 10%): Anemia, bleeding time increasedRare (less than 0.1%): Agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopeniaFrequency not reported: Eosinophilia, leukopenia, thrombocytopenia, bone marrow hypoplasia, hematocrit decreased, thrombocytopenic purpura, disseminated intravascular coagulation, neutropenia, autoimmune hemolytic anemia, eosinophilia, platelet aggregation inhibition[Ref]
-Rare (less than 0.1%): HyperglycemiaFrequency not reported: Hyponatremia, glucose intolerance, anorexia[Ref]
-Common (1% to 10%): Dizziness, headache, drowsinessRare (less than 0.1%): Convulsions, comaFrequency not reported: Syncope, paresthesia, somnolence, tremors, optic neuritis[Ref]
-Rare (less than 0.1%): Respiratory distress, pneumoniaFrequency not reported: Asthma, dyspnea, bronchospasm, aggravated asthma, laryngeal edema[Ref]
-Common (1% to 10%): Rash, pruritusRare (less than 0.1%): Angioedema, toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, exfoliative dermatitis, urticariaFrequency not reported: Ecchymosis, purpura, alopecia, photosensitivity, sweating[Ref]
-Common (1% to 10%): Elevated liver enzymesRare (less than 0.1%): Liver failureFrequency not reported: Hepatitis, jaundice, cholestatic jaundice, hepatorenal syndrome, mild hepatic toxicity[Ref]
-Rare (less than 0.1%): ConjunctivitisFrequency not reported: Blurred vision, eye irritation, reversible loss of color vision, visual disturbances[Ref]
-Frequency not reported: Cystitis, dysuria, hematuria, oliguria, polyuria, proteinuria, false positive urobilinogen urine[Ref]
-Common (1% to 10%): Abnormal renal functionFrequency not reported: Interstitial nephritis, renal failure, allergic/non-allergic glomerulonephritis, nephrotic syndrome, non-oliguric renal failure, renal papillary necrosis, tubulointerstitial nephritis[Ref]
-Rare (less than 0.1%): HallucinationsFrequency not reported: Anxiety, confusion, depression, dream abnormalities, insomnia, nervousness[Ref]
-Rare (less than 0.1%): Anaphylactoid/anaphylactic reactionFrequency not reported: Hypersensitivity reaction, non-specific allergic reaction[Ref]
-Common (1% to 10%): Edema, tinnitusRare (less than 0.1%): Death, meningitis, appetite changes, hearing impairmentFrequency not reported: Fever, infection, sepsis, weight changes, asthenia, malaise, vertigo, aseptic meningitis, ear pain, face edema, fatigue, malaise, multi-organ failure, pyrexia, fluid retention, edema of the larynx[Ref]
-1. "Product Information. Ponstel (mefenamic acid)." Pfizer U.S. Pharmaceuticals Group, New York, NY. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. MHRA. Medicines and Health Regulatory Agency "MHRA Drug Safety Update. Available from: URL: http://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate."  
-Not all side effects for mefenamic acid may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, gastric ulcers, duodenal ulcers, vomitingRare (less than 0.1%): Eructation, pancreatitisFrequency not reported: Peptic ulcer, dry mouth, esophagitis, gastritis, GI bleeding, glossitis, hematemesis, melena, rectal bleeding, stomatitis, anorexia, colitis, enterocolitis, pyrosis, steatorrhea, GI inflammation, ulcerative stomatitis, exacerbation of Crohn's disease, gastritis
+The most frequently reported side effects were gastrointestinal (GI) in nature and included abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, vomiting, and gastric or duodenal ulcers.
+Rare (less than 0.1%): Hypotension, arrhythmia, myocardial infarction, palpitations, vasculitisFrequency not reported: Congestive heart failure, tachycardia, hypertension, cardiac failure, arterial thrombotic events
+Cases of autoimmune hemolytic anemia have been reported with continuous use of this drug for 12 months or longer.  In such cases, the Coombs tests were positive for both accelerated RBC production and destruction.  The process was reversible upon discontinuation of therapy.
+Common (1% to 10%): Anemia, bleeding time increasedRare (less than 0.1%): Agranulocytosis, hemolytic anemia, aplastic anemia, lymphadenopathy, pancytopeniaFrequency not reported: Eosinophilia, leukopenia, thrombocytopenia, bone marrow hypoplasia, hematocrit decreased, thrombocytopenic purpura, disseminated intravascular coagulation, neutropenia, autoimmune hemolytic anemia, eosinophilia, platelet aggregation inhibition
+Rare (less than 0.1%): HyperglycemiaFrequency not reported: Hyponatremia, glucose intolerance, anorexia
+Common (1% to 10%): Dizziness, headache, drowsinessRare (less than 0.1%): Convulsions, comaFrequency not reported: Syncope, paresthesia, somnolence, tremors, optic neuritis
+Rare (less than 0.1%): Respiratory distress, pneumoniaFrequency not reported: Asthma, dyspnea, bronchospasm, aggravated asthma, laryngeal edema
+Common (1% to 10%): Rash, pruritusRare (less than 0.1%): Angioedema, toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme, exfoliative dermatitis, urticariaFrequency not reported: Ecchymosis, purpura, alopecia, photosensitivity, sweating
+Common (1% to 10%): Elevated liver enzymesRare (less than 0.1%): Liver failureFrequency not reported: Hepatitis, jaundice, cholestatic jaundice, hepatorenal syndrome, mild hepatic toxicity
+Rare (less than 0.1%): ConjunctivitisFrequency not reported: Blurred vision, eye irritation, reversible loss of color vision, visual disturbances
+Frequency not reported: Cystitis, dysuria, hematuria, oliguria, polyuria, proteinuria, false positive urobilinogen urine
+Common (1% to 10%): Abnormal renal functionFrequency not reported: Interstitial nephritis, renal failure, allergic/non-allergic glomerulonephritis, nephrotic syndrome, non-oliguric renal failure, renal papillary necrosis, tubulointerstitial nephritis
+Rare (less than 0.1%): HallucinationsFrequency not reported: Anxiety, confusion, depression, dream abnormalities, insomnia, nervousness
+Rare (less than 0.1%): Anaphylactoid/anaphylactic reactionFrequency not reported: Hypersensitivity reaction, non-specific allergic reaction
+Common (1% to 10%): Edema, tinnitusRare (less than 0.1%): Death, meningitis, appetite changes, hearing impairmentFrequency not reported: Fever, infection, sepsis, weight changes, asthenia, malaise, vertigo, aseptic meningitis, ear pain, face edema, fatigue, malaise, multi-organ failure, pyrexia, fluid retention, edema of the larynx
 Bloody urine
 bloody, black, or tarry stools
 decreased frequency or amount of urine
@@ -56,8 +41,6 @@ vomiting
 vomiting of material that looks like coffee grounds, severe and continuing
 weight gain
 weight loss
-
-
 Bleeding gums
 blood in vomit
 blurred vision
@@ -109,8 +92,6 @@ upper right abdominal pain
 weight changes
 wheezing
 yellow eyes and skin
-
-
 Blistering, peeling, or loosening of the skin
 change in consciousness
 chest discomfort
@@ -157,11 +138,7 @@ stiff neck and/or back
 sweating
 swollen, painful, or tender lymph glands in the neck, armpit, or groin
 unexplained weight loss
-
-
 Unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
-
-
 Acid or sour stomach
 belching
 continuing ringing or buzzing or other unexplained noise in the ears
@@ -170,8 +147,6 @@ full feeling
 hearing loss
 passing gas
 stomach discomfort
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 discouragement
 dry mouth
@@ -192,11 +167,8 @@ sleeplessness
 trouble concentrating
 trouble sleeping
 unable to sleep
-
-
 Appetite changes
 burning, dry, or itching eyes
 change in hearing
 discharge, excessive tearing
 redness, pain, swelling of the eye, eyelid, or inner lining of the eyelid
-

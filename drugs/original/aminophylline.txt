@@ -1,64 +1,23 @@
-Applies to aminophylline: oral solution, oral tablet, oral tablet extended release
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by aminophylline. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking aminophylline:
-
 If any of the following symptoms of overdose occur while taking aminophylline, get emergency help immediately:
-
-Some of the side effects that can occur with aminophylline may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to aminophylline: compounding powder, intravenous solution, oral solution, oral tablet, oral tablet extended release, rectal suppository
-Most of the side effects of aminophylline (theophylline) have been dependent on serum concentrations.  Generally, theophylline serum concentrations ranging from 10 to 20 mcg/mL are considered therapeutic, and serum concentrations greater than 20 mcg/mL are associated with greater toxicity.[Ref]
-There are several factors which may predispose a patient to higher serum concentrations and, thus, toxicity.  These factors may include increased age, concomitant drugs which reduce the clearance of theophylline, hypothyroidism, congestive heart failure, liver disease, renal failure, and alterations in smoking habits.  One series of patients with theophylline intoxication had recent upper respiratory tract infections.The nature of acute toxicity of theophylline differs from chronic toxicity.  Acute overdose is associated with higher theophylline concentrations and younger patients.  In acute overdose the severity of toxicity is correlated with peak serum concentrations.  Chronic overdosage is seen more commonly in older patients, and severe toxicity may occur with serum concentrations which are much lower than those seen in severe acute toxicity.  In these patients, age is a predictor of severe toxicity.[Ref]
-Gastrointestinal side effects have included anorexia, nausea, vomiting, and abdominal pain.  Aminophylline may also cause locally-mediated gastrointestinal upset.[Ref]
-The mechanism of theophylline-induced seizures has not been determined.  Seizures are generally focal with secondary generalization.  Permanent neurologic deficits have been reported and morbidity may be high, especially in the elderly, patients with severe underlying disease, and patients with prolonged, uncontrolled seizure activity.  The onset of seizures is not always preceded by less severe symptoms of aminophylline toxicity.  Patients with an abnormal neurologic history, including a history of seizures, cerebral infarct, or head trauma, may be predisposed to seizure activity.  If theophylline is used in these types of patients, serum concentrations should be monitored closely and maintained in the low, therapeutic range.[Ref]
-Nervous system side effects have included generalized seizures, most commonly in patients with elevated serum concentrations, although seizures have occurred at therapeutic concentrations.  Theophylline may also cause nervousness and tremor at therapeutic dosages, which become worse as serum concentrations increase.[Ref]
-Cardiovascular side effects have included increased heart rate which has progressed to atrial tachycardia or ventricular tachycardia.  Patients with a history of arrhythmias may be predisposed to this effect.  Hypotension has occurred with rapid intravenous administration.[Ref]
-Theophylline serum concentrations are a significant predictor of arrhythmias.  One study reported multifocal atrial tachycardia in 8% and 16% of patients with a serum concentration between 10 and 20 mcg/mL and greater than 20 mcg/mL, respectively.  The onset of serious arrhythmias is not always preceded by less severe signs of theophylline toxicity.[Ref]
-Patients are frequently sensitized to ethylenediamine through topical use, as it is used as a preservative in some topical preparations.  These patients are generally able to tolerate plain theophylline preparations.[Ref]
-Hypersensitivity side effects have included erythematous rash, pruritus, urticaria, and exfoliative erythroderma.  These side effects have been more commonly reported in patients sensitive to ethylenediamine component of aminophylline.[Ref]
-Metabolic side effects have included hypokalemia, hyperglycemia, respiratory alkalosis, hypophosphatemia, and hypomagnesemia.  The magnitude of these abnormalities have been correlated with theophylline concentrations.[Ref]
-In one group of patients with theophylline concentrations greater than 20 mcg/mL, hyperglycemia was present in approximately 50%, hypokalemia in 15%, and hypomagnesemia in 20%.  Hyponatremia and hypophosphatemia were seen less frequently.[Ref]
-Genitourinary side effects have included urinary retention.[Ref]
-1. Milgrom H, Bender B "Current issues in the use of theophylline." Am Rev Respir Dis 147 (1993): s33-9
-2. Covelli HD, Knodel AR, Heppner BT "Predisposing factors to apparent theophylline-induced seizures." Ann Allergy 54 (1985): 411-5
-3. Shannon M "Predictors of major toxicity after theophylline overdose." Ann Intern Med 119 (1993): 1161-7
-4. Aderka D, Shavit G, Garfinkel D, et al "Life-threatening theophylline intoxication in a hypothyroid patient." Respiration 44 (1983): 77-80
-5. Sessler CN "Theophylline toxicity: clinical features of 116 consecutive cases." Am J Med 88 (1990): 567-76
-6. "Product Information. Theo-Dur (theophylline)." Schering Laboratories, Kenilworth, NJ. 
-7. Schiff GD, Hegde HK, LaCloche L, Hryhorczuk DO "Inpatient theophylline toxicity: preventable factors." Ann Intern Med 114 (1991): 748-53
-8. Albert S "Aminophylline toxicity." Pediatr Clin North Am 34 (1987): 61-73
-9. Stoller JL "Oesophageal ulceration and theophylline." Lancet 2 (1985): 328-9
-10. Bahls FH, Ma KK, Bird TD "Theophylline-associated seizures with "therapeutic" or low toxic serum concentrations: risk factors for serious outcome in adults." Neurology 41 (1991): 1309-12
-11. Nakada T, Kwee IL, Lerner AM, Remler MP "Theophylline-induced seizures: clinical and pathophysiologic aspects." West J Med 138 (1983): 371-4
-12. Buss DC, Marshall RW, Milligan N, Mcqueen I, Compston DAS, Routledge PA "The effect of intravenous aminophylline on essential tremor." Br J Clin Pharmacol 43 (1997): 119-21
-13. Hall RC, Beresford TP, Stickney SK, et al "Psychiatric reactions produced by respiratory drugs." Psychosomatics 26 (1985): 605-8,615-6
-14. Taniguchi A, Ohe T, Shimorura K "Theophylline-induced ventricular tachycardia in a patient with chronic lung disease: sensitivity to verapamil." Chest 96 (1989): 958-9
-15. Marchlinski FE, Miller JM "Atrial arrhythmias exacerbated by theophylline: response to verapamil and evidence for triggered activity in man." Chest 88 (1985): 931-4
-16. Bittar G, Friedman HS "The arrhythmogenicity of theophylline: a multivariate analysis of clinical determinants." Chest 99 (1991): 1415-20
-17. Patel AK, Skatrud JB, Thomsen JH "Cardiac arrhythmias due to oral aminophylline in patients with chronic obstructive pulmonary disease." Chest 80 (1981): 661-5
-18. Levine JH, Michael JR, Guarnieri T "Multifocal atrial tachycardia: a toxic effect of theophylline." Lancet 1 (1985): 12-4
-19. Mohsenifar Z, Lehrman S, Carson SA, Tashkin D "Two cases of allergy to aminophylline." Ann Allergy 49 (1982): 281-2
-20. Bernstein JE, Lorincz AL "Ethylenediamine-induced exfoliative erythroderma." Arch Dermatol 115 (1979): 360-1
-21. Terzian CG, Simon PA "Aminophylline hypersensitivity apparently due to ethylenediamine." Ann Emerg Med 21 (1992): 312-4
-22. deShazo RD, Stevenson HC "Generalized dermatitis to aminophylline." Ann Allergy 46 (1981): 152-5
-23. Elias JA, Levinson AI "Hypersensitivity reactions to ethylenediamine in aminophylline." Am Rev Respir Dis 123 (1981): 550-2
-24. Hall KW, Dobson KE, Dalton JG, Ghignone MC, Penner SB "Metabolic abnormalites associated with intentional theophylline overdose." Ann Intern Med 101 (1984): 457-62
-25. Hagley MT, Traeger SM, Schuckman H "Pronounced metabolic response to modest theophylline overdose." Ann Pharmacother 28 (1994): 195-6
-26. Flack JM, Ryder KW, Strickland D, Whang R "Metabolic correlates of theophylline therapy: a concentration-related phenomenon." Ann Pharmacother 28 (1994): 175-9
-27. Prakash M, Washburne JD "Theophylline and urinary retention." Ann Intern Med 94 (1981): 823
-28. Clark BG, Vestal RE "Adverse drug reactions in the elderly: case studies." Geriatrics 39 (1984): 53-4,60-3,66
-Not all side effects for aminophylline may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Most of the side effects of aminophylline (theophylline) have been dependent on serum concentrations.  Generally, theophylline serum concentrations ranging from 10 to 20 mcg/mL are considered therapeutic, and serum concentrations greater than 20 mcg/mL are associated with greater toxicity.
+There are several factors which may predispose a patient to higher serum concentrations and, thus, toxicity.  These factors may include increased age, concomitant drugs which reduce the clearance of theophylline, hypothyroidism, congestive heart failure, liver disease, renal failure, and alterations in smoking habits.  One series of patients with theophylline intoxication had recent upper respiratory tract infections.The nature of acute toxicity of theophylline differs from chronic toxicity.  Acute overdose is associated with higher theophylline concentrations and younger patients.  In acute overdose the severity of toxicity is correlated with peak serum concentrations.  Chronic overdosage is seen more commonly in older patients, and severe toxicity may occur with serum concentrations which are much lower than those seen in severe acute toxicity.  In these patients, age is a predictor of severe toxicity.
+Gastrointestinal side effects have included anorexia, nausea, vomiting, and abdominal pain.  Aminophylline may also cause locally-mediated gastrointestinal upset.
+The mechanism of theophylline-induced seizures has not been determined.  Seizures are generally focal with secondary generalization.  Permanent neurologic deficits have been reported and morbidity may be high, especially in the elderly, patients with severe underlying disease, and patients with prolonged, uncontrolled seizure activity.  The onset of seizures is not always preceded by less severe symptoms of aminophylline toxicity.  Patients with an abnormal neurologic history, including a history of seizures, cerebral infarct, or head trauma, may be predisposed to seizure activity.  If theophylline is used in these types of patients, serum concentrations should be monitored closely and maintained in the low, therapeutic range.
+Nervous system side effects have included generalized seizures, most commonly in patients with elevated serum concentrations, although seizures have occurred at therapeutic concentrations.  Theophylline may also cause nervousness and tremor at therapeutic dosages, which become worse as serum concentrations increase.
+Cardiovascular side effects have included increased heart rate which has progressed to atrial tachycardia or ventricular tachycardia.  Patients with a history of arrhythmias may be predisposed to this effect.  Hypotension has occurred with rapid intravenous administration.
+Theophylline serum concentrations are a significant predictor of arrhythmias.  One study reported multifocal atrial tachycardia in 8% and 16% of patients with a serum concentration between 10 and 20 mcg/mL and greater than 20 mcg/mL, respectively.  The onset of serious arrhythmias is not always preceded by less severe signs of theophylline toxicity.
+Patients are frequently sensitized to ethylenediamine through topical use, as it is used as a preservative in some topical preparations.  These patients are generally able to tolerate plain theophylline preparations.
+Hypersensitivity side effects have included erythematous rash, pruritus, urticaria, and exfoliative erythroderma.  These side effects have been more commonly reported in patients sensitive to ethylenediamine component of aminophylline.
+Metabolic side effects have included hypokalemia, hyperglycemia, respiratory alkalosis, hypophosphatemia, and hypomagnesemia.  The magnitude of these abnormalities have been correlated with theophylline concentrations.
+In one group of patients with theophylline concentrations greater than 20 mcg/mL, hyperglycemia was present in approximately 50%, hypokalemia in 15%, and hypomagnesemia in 20%.  Hyponatremia and hypophosphatemia were seen less frequently.
+Genitourinary side effects have included urinary retention.
 intravenous solution
-
 Cracks in the skin
 loss of heat from the body
 red, swollen skin
 scaly skin
 skin rash
-
-
 Chest pain or discomfort
 dizziness
 fainting
@@ -69,8 +28,6 @@ persistent vomiting
 pounding or rapid pulse
 seizures
 shakiness
-
-
 Abdominal or stomach pain
 blurred vision
 confusion
@@ -100,12 +57,9 @@ shortness of breath
 sweating
 unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
-
-
 Headache
 irritability
 restlessness
 sleeplessness
 trouble sleeping
 unable to sleep
-

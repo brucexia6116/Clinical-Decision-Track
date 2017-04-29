@@ -1,36 +1,20 @@
-Generic Name: chlordiazepoxide
-Applies to chlordiazepoxide: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by chlordiazepoxide (the active ingredient contained in Librium). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking chlordiazepoxide:
-
 If any of the following symptoms of overdose occur while taking chlordiazepoxide, get emergency help immediately:
-
-Some of the side effects that can occur with chlordiazepoxide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to chlordiazepoxide: injectable powder for injection, oral capsule, oral tablet
-Common (1% to 10%): Light-headedness, drowsiness, sedation, unsteadiness, ataxiaRare (less than 0.1%): Reduced alertness, headache, dizziness, vertigoFrequency not reported: Confusion, extrapyramidal symptoms, changes in EEG patterns, restlessness, agitation, tremor, dysarthria, amnesia[Ref]
-Rare (less than 0.1%): FatigueFrequency not reported: Edema[Ref]
-Rare (less than 0.1%): Numbed emotionsFrequency not reported: Dependence, irritability, aggressive outbursts, delusion, nightmares, hallucinations, inappropriate behavior, rage, psychosis[Ref]
-Frequency not reported: Blood dyscrasias (including agranulocytosis), thrombocytopenia[Ref]
-Frequency not reported: Jaundice, hepatic dysfunction[Ref]
-Frequency not reported: Skin eruptions[Ref]
-Rare (less than 0.1%): Hypotension[Ref]
-Rare (less than 0.1%): Gastrointestinal symptomsFrequency not reported: Nausea, constipation, salivation changes[Ref]
-The most commonly reported side effects were light-headedness, drowsiness, sedation, unsteadiness, and ataxia.[Ref]
-Rare (less than 0.1%): Changes in libido, urinary retentionFrequency not reported: Minor menstrual irregularities, increased/decreased libido, incontinence[Ref]
-Rare (less than 0.1%): Muscle weakness[Ref]
-Rare (less than 0.1%): Blurred vision, visual disturbance[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Librium (chlordiazepoxide)." Roche Laboratories, Nutley, NJ. 
-Not all side effects for Librium may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Light-headedness, drowsiness, sedation, unsteadiness, ataxiaRare (less than 0.1%): Reduced alertness, headache, dizziness, vertigoFrequency not reported: Confusion, extrapyramidal symptoms, changes in EEG patterns, restlessness, agitation, tremor, dysarthria, amnesia
+Rare (less than 0.1%): FatigueFrequency not reported: Edema
+Rare (less than 0.1%): Numbed emotionsFrequency not reported: Dependence, irritability, aggressive outbursts, delusion, nightmares, hallucinations, inappropriate behavior, rage, psychosis
+Frequency not reported: Blood dyscrasias (including agranulocytosis), thrombocytopenia
+Frequency not reported: Jaundice, hepatic dysfunction
+Frequency not reported: Skin eruptions
+Rare (less than 0.1%): Hypotension
+Rare (less than 0.1%): Gastrointestinal symptomsFrequency not reported: Nausea, constipation, salivation changes
+The most commonly reported side effects were light-headedness, drowsiness, sedation, unsteadiness, and ataxia.
+Rare (less than 0.1%): Changes in libido, urinary retentionFrequency not reported: Minor menstrual irregularities, increased/decreased libido, incontinence
+Rare (less than 0.1%): Muscle weakness
+Rare (less than 0.1%): Blurred vision, visual disturbance
 Fainting
 mood or mental changes
 shakiness and unsteady walk
 unsteadiness, trembling, or other problems with muscle control or coordination
-
-
 Abdominal and muscle cramps
 chills
 clay-colored stools
@@ -72,14 +56,10 @@ unusual bruising or bleeding
 unusual tiredness or weakness
 vomiting of blood
 yellow eyes or skin
-
-
 Change in consciousness
 lack of coordination
 loss of consciousness
 sleepiness or unusual drowsiness
-
-
 Decreased interest in sexual intercourse
 difficulty having a bowel movement (stool)
 inability to have or keep an erection
@@ -88,4 +68,3 @@ increased interest in sexual intercourse
 loss in sexual ability, desire, drive, or performance
 menstrual changes
 skin blisters
-

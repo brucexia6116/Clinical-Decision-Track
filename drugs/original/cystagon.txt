@@ -1,34 +1,20 @@
-Generic Name: cysteamine
 Common side effects of Cystagon include: lethargy, vomiting, and anorexia. Other side effects include: skin rash.  See below for a comprehensive list of adverse effects.
-Applies to cysteamine: oral capsule, oral capsule delayed release
-In addition to its needed effects, some unwanted effects may be caused by cysteamine (the active ingredient contained in Cystagon). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking cysteamine:
-Some of the side effects that can occur with cysteamine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cysteamine: oral capsule, oral delayed release capsule
-The most common adverse events were vomiting, abdominal pain, nausea, anorexia, fever, diarrhea, lethargy, headache, and rash.[Ref]
-Very common (10% or more): Vomiting (35%), diarrhea (16%)Common (1% to 10%): Nausea, bad breath, abdominal pain, dyspepsiaUncommon (0.1% to 1%): Gastrointestinal ulceration and bleeding, constipation, gastroenteritis, duodenitis[Ref]
-Very common (10% or more): Anorexia (31%)Uncommon (0.1% to 1%): Dehydration[Ref]
-Very common (10% or more): Lethargy (11%)Common (1% to 10%): Dizziness, headache, encephalopathyUncommon (0.1% to 1%): Somnolence, seizures, convulsions, ataxia, confusion, tremor, hyperkinesia, jitterinessPostmarketing reports: Benign intracranial hypertension with papilledema[Ref]
-Very common (10% or more): Fever (22%)Common (1% to 10%): Fatigue, astheniaUncommon (0.1% to 1%): Decreasing hearing[Ref]
-Common (1% to 10%): Rash, skin odorUncommon (0.1% to 1%): Hair color changes, skin fragility (molluscoid pseudomotor on elbows)Frequency not reported: UrticariaPostmarketing reports: Skin lesions, skin striae, skin fragility[Ref]
-Cases of Ehlers-Danlos like syndrome and vascular disorders on elbows have been reported in children chronically treated with high doses of different cysteamine preparations.  In cases where histopathological examination of the skin was performed, the results suggested angioendotheliomatosis.[Ref]
-Common (1% to 10%): Abnormal liver functionFrequency not reported: Elevated alkaline phosphatase[Ref]
-Uncommon (0.1% to 1%): Hypertension[Ref]
-Uncommon (0.1% to 1%): Abnormal urine odor[Ref]
-Uncommon (0.1% to 1%): Leukopenia, anemia[Ref]
-Uncommon (0.1% to 1%): Anaphylactic reaction[Ref]
-Uncommon (0.1% to 1%): Joint hyperextension, leg pain, genu valgum, osteopenia, compression fracture, scoliosisPostmarketing reports: Molluscoid pseudotumors[Ref]
-Uncommon (0.1% to 1%): Nervousness, abnormal thinking, depression, emotional lability, hallucinations, nightmares[Ref]
-Uncommon (0.1% to 1%): Nephrotic syndrome, interstitial nephritis, renal failure[Ref]
-Cases of nephrotic syndrome have been reported within 6 months of starting therapy with progressive recovery after treatment discontinuation.  In some cases, histology showed a membranous glomerulonephritis of the renal allograft and hypersensitivity interstitial nephritis.[Ref]
-1. "Product Information. Procysbi (cysteamine)." Raptor Pharmaceutical Corporation, Novato, CA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Product Information. Cystagon (cysteamine)." Mylan Pharmaceuticals, Morgantown, WV. 
-Not all side effects for Cystagon may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse events were vomiting, abdominal pain, nausea, anorexia, fever, diarrhea, lethargy, headache, and rash.
+Very common (10% or more): Vomiting (35%), diarrhea (16%)Common (1% to 10%): Nausea, bad breath, abdominal pain, dyspepsiaUncommon (0.1% to 1%): Gastrointestinal ulceration and bleeding, constipation, gastroenteritis, duodenitis
+Very common (10% or more): Anorexia (31%)Uncommon (0.1% to 1%): Dehydration
+Very common (10% or more): Lethargy (11%)Common (1% to 10%): Dizziness, headache, encephalopathyUncommon (0.1% to 1%): Somnolence, seizures, convulsions, ataxia, confusion, tremor, hyperkinesia, jitterinessPostmarketing reports: Benign intracranial hypertension with papilledema
+Very common (10% or more): Fever (22%)Common (1% to 10%): Fatigue, astheniaUncommon (0.1% to 1%): Decreasing hearing
+Common (1% to 10%): Rash, skin odorUncommon (0.1% to 1%): Hair color changes, skin fragility (molluscoid pseudomotor on elbows)Frequency not reported: UrticariaPostmarketing reports: Skin lesions, skin striae, skin fragility
+Cases of Ehlers-Danlos like syndrome and vascular disorders on elbows have been reported in children chronically treated with high doses of different cysteamine preparations.  In cases where histopathological examination of the skin was performed, the results suggested angioendotheliomatosis.
+Common (1% to 10%): Abnormal liver functionFrequency not reported: Elevated alkaline phosphatase
+Uncommon (0.1% to 1%): Hypertension
+Uncommon (0.1% to 1%): Abnormal urine odor
+Uncommon (0.1% to 1%): Leukopenia, anemia
+Uncommon (0.1% to 1%): Anaphylactic reaction
+Uncommon (0.1% to 1%): Joint hyperextension, leg pain, genu valgum, osteopenia, compression fracture, scoliosisPostmarketing reports: Molluscoid pseudotumors
+Uncommon (0.1% to 1%): Nervousness, abnormal thinking, depression, emotional lability, hallucinations, nightmares
+Uncommon (0.1% to 1%): Nephrotic syndrome, interstitial nephritis, renal failure
+Cases of nephrotic syndrome have been reported within 6 months of starting therapy with progressive recovery after treatment discontinuation.  In some cases, histology showed a membranous glomerulonephritis of the renal allograft and hypersensitivity interstitial nephritis.
 Abdominal or stomach pain
 diarrhea
 drowsiness
@@ -36,21 +22,15 @@ fever
 loss of appetite
 nausea or vomiting
 skin rash
-
-
 Confusion
 dizziness
 headache
 mental depression
 sore throat
 trembling
-
-
 Convulsions
 increased thirst
 unusual tiredness or weakness
-
-
 Blistering, peeling, or loosening of the skin
 blurred or double vision
 bone lesions
@@ -74,12 +54,9 @@ reddish purple lines on the arms, face, legs, trunk, or groin
 severe headache
 sore throat
 sores, ulcers, or white spots in the mouth or on the lips
-
-
 Breath odor
 constipation
 hives or welts
 redness of the skin
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 weight loss
-

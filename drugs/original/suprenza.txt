@@ -1,29 +1,17 @@
-Generic Name: phentermine
-Applies to phentermine: oral capsule, oral capsule extended release, oral tablet, oral tablet disintegrating
 As well as its needed effects, phentermine (the active ingredient contained in Suprenza) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking phentermine, check with your doctor immediately:
 Some phentermine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to phentermine: compounding powder, oral capsule, oral capsule extended release, oral tablet, oral tablet disintegrating
-Frequency not reported: Regurgitant cardiac valvular disease, primary pulmonary hypertension, palpitations, tachycardia, elevated blood pressure, precordial pain, ischemic events, angina, myocardial infarction, cardiac failure, cardiac arrest[Ref]
-Frequency not reported: Rash[Ref]
-Frequency not reported: Dry mouth, unpleasant taste, diarrhea, constipation, other gastrointestinal disturbances, nausea, vomiting, abdominal cramps[Ref]
-Frequency not reported: Micturition disturbances[Ref]
-Frequency not reported: Urticaria[Ref]
-Frequency not reported: Overstimulation, restlessness, nervousness, dizziness, euphoria, dysphoria, tremor, headache, fatigue, cerebrovascular events[Ref]
-Frequency not reported: Facial edema[Ref]
-Frequency not reported: Insomnia, psychosis, impotence, libido changes, depression, hallucinations[Ref]
-1. "Product Information. Lomaira (phentermine)." KVK-Tech Inc, Newtown, PA. 
-2. "Product Information. Adipex-P (phentermine)." Teva Pharmaceuticals (formerly Gate Pharmaceuticals), Sellersville, PA. 
-3. "Product Information. Phentermine Hydrochloride (phentermine)." Teva Pharmaceuticals USA, North Wales, PA. 
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
+Frequency not reported: Regurgitant cardiac valvular disease, primary pulmonary hypertension, palpitations, tachycardia, elevated blood pressure, precordial pain, ischemic events, angina, myocardial infarction, cardiac failure, cardiac arrest
+Frequency not reported: Rash
+Frequency not reported: Dry mouth, unpleasant taste, diarrhea, constipation, other gastrointestinal disturbances, nausea, vomiting, abdominal cramps
+Frequency not reported: Micturition disturbances
+Frequency not reported: Urticaria
+Frequency not reported: Overstimulation, restlessness, nervousness, dizziness, euphoria, dysphoria, tremor, headache, fatigue, cerebrovascular events
+Frequency not reported: Facial edema
+Frequency not reported: Insomnia, psychosis, impotence, libido changes, depression, hallucinations
 It is possible that some side effects of Suprenza may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Seeing, hearing, or feeling things that are not there
 severe mental changes
-
-
 Chest pain
 decreased ability to exercise
 dizziness
@@ -36,8 +24,6 @@ trembling or shaking of the legs, arms, hands, or feet
 trouble breathing
 trouble with thinking, speaking, or walking
 weakness
-
-
 Decreased interest in sexual intercourse
 difficulty having a bowel movement (stool)
 dry mouth
@@ -49,4 +35,3 @@ increased interest in sexual intercourse
 loss in sexual ability, desire, drive, or performance
 redness of the skin
 unpleasant taste
-

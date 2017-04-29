@@ -1,10 +1,3 @@
-Applies to dexrazoxane: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by dexrazoxane. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dexrazoxane:
-Some of the side effects that can occur with dexrazoxane may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dexrazoxane: intravenous powder for injection
 Gastrointestinal side effects including nausea (43%), vomiting (19%), diarrhea (11%), abdominal pain (6%), and constipation (6%) have been reported.
 General side effects including pyrexia (21%), postoperative infection (16%), fatigue (13%), peripheral edema (10%), chest pain, chest discomfort, decreased drug effect, hyperpyrexia, and decreased therapeutic response have been reported.
 Local side effects including injection site pain (16%) and injection site phlebitis (6%) have been reported.
@@ -17,8 +10,6 @@ Psychiatric side effects including depression (8%), anorexia (5%), and insomnia 
 Hematologic side effects including anemia (6%), decreased WBC, decreased neutrophils, and decreased platelets have been reported.
 Hepatic side effects including increased bilirubin, increased AST, increased ALT, increased alkaline phosphatase, and increased LDH have been reported
 Metabolic side effects including increased creatinine, decreased sodium, and increased total calcium have been reported.
-Not all side effects for dexrazoxane may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Bluish color
 changes in skin color
 chest pain
@@ -40,15 +31,11 @@ troubled breathing
 unusual bleeding or bruising
 unusual tiredness or weakness
 wheezing
-
-
 Black, tarry stools
 chest discomfort
 fast, irregular, or pounding heartbeat
 pain at place of injection
 ulcers, sores, or white spots in mouth
-
-
 Diarrhea
 difficulty having a bowel movement (stool)
 discouragement
@@ -66,4 +53,3 @@ trouble concentrating
 trouble sleeping
 vomiting
 weight loss
-

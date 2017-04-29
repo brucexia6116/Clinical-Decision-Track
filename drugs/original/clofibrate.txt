@@ -1,48 +1,24 @@
-Applies to clofibrate: oral capsule liquid filled
-In addition to its needed effects, some unwanted effects may be caused by clofibrate. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking clofibrate:
 If any of the following side effects occur while taking clofibrate, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with clofibrate may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to clofibrate: oral capsule
-In general, the most common adverse effects due to clofibrate therapy are gastrointestinal in nature (especially nausea) and may subside over time or with a decreased dosage.[Ref]
-Cholelithiasis and cholecystitis (sometimes requiring surgery or resulting in pancreatitis) occur more frequently in patients receiving clofibrate than in patients receiving placebo.[Ref]
-Gastrointestinal reactions may include nausea, vomiting, diarrhea, gastritis, weight loss or gain, and gallstones (during prolonged therapy).[Ref]
-Patients diagnosed with rhabdomyolysis are usually asymptomatic clinically several days after discontinuing clofibrate, but the muscle enzymes may remain elevated for a more prolonged period.  Severe renal disease may increase the risk of myopathies, perhaps because of accumulation of the active metabolite clofibric acid.[Ref]
-Musculoskeletal effects (myopathy) typically occur as a "flu-like" syndrome (myalgia, cramps, muscle weakness, and arthralgia).  Rhabdomyolysis with an accompanying increase in creatinine kinase and creatinine phosphokinase (CPK) has been reported in patients with renal disease.[Ref]
-Electrolyte disturbances like hyperkalemia have been reported in patients with renal insufficiency who receive clofibrate.[Ref]
-Central nervous system depressant effects may include fatigue, weakness, drowsiness, and/or dizziness.  Headache has also been reported.[Ref]
-Hematologic adverse effects may include leukopenia, anemia, eosinophilia, agranulocytosis, and potentiation of anticoagulant effects.  Because of these effects, some clinicians recommend periodic monitoring of blood counts.[Ref]
-Cardiovascular complications may include various arrhythmias and altered angina pectoris.  Swelling and phlebitis have occurred at xanthomata sites.[Ref]
-Renal dysfunction (including dysuria, hematuria, proteinuria, and decreased urine output) has been reported.  Acute renal failure and interstitial nephritis have also been reported.[Ref]
-Decreased libido (primarily in men) and impotence have been reported.[Ref]
-Hepatic disorders may include elevated liver enzymes and/or hepatomegaly.  (Liver biopsy, when performed in this setting, is usually normal.)  Clofibrate should be used cautiously for patients with a history of jaundice or liver disease.[Ref]
-Dermatologic reactions which occur in about 2% of patients may include urticaria, rash, dry skin, and alopecia.  Erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome have occurred rarely.[Ref]
-One case of a hypersensitivity reaction occurring as eosinophilic pneumonia has been reported.[Ref]
-Fever, which occurred on rechallenge with clofibrate, has been reported in one case.[Ref]
-Oncologic effects of tumor growth in rodents have been associated with many lipid-lowering drugs.   Clofibrate has been associated with liver, pancreatic and testicular tumors in rats.  Long-term clinical trials are needed to define the risk of cancer in humans.[Ref]
-1. "Product Information. Atromid-S (clofibrate)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-2. Faergeman O "Effects and side-effects of treatment of hypercholesterolemia with cholestyramine and neomycin." Acta Med Scand 194 (1973): 165-7
-3. Abourizk N, Khalil BA, Bahuth N, Afifi AK "Clofibrate-induced muscular syndrome. Report of a case with clinical, electromyographic and pathologic observations." J Neurol Sci 42 (1979): 1-9
-4. Pokroy N, Ress S, Gregory MC "Clofibrate-induced complications in renal disease: a case report." S Afr Med J 52 (1977): 806-8
-5. Rush P, Baron M, Kapusta M "Clofibrate myopathy: a case report and a review of the literature." Semin Arthritis Rheum 15 (1986): 226-9
-6. Shepherd J "Fibrates and statins in the treatment of hyperlipidaemia: an appraisal of their efficacy and safety." Eur Heart J 16 (1995): 5-13
-7. Duell PB, Connor WE, Illingworth DR "Rhabdomyolysis after taking atorvastatin with gemfibrozil." Am J Cardiol 81 (1998): 368-9
-8. Cayen MN "Disposition, metabolism and pharmacokinetics of antihyperlipidemic agents in laboratory animals and man." Pharmacol Ther 29 (1985): 157-204
-9. Cumming A "Acute renal failure and interstitial nephritis after clofibrate treatment." Br Med J 281 (1980): 1529-30
-10. Murata Y, Tani M, Amano M "Erythema multiforme due to clofibrate ." J Am Acad Dermatol 18 (1988): 381-2
-11. Wong SS "Stevens-Johnson syndrome induced by clofibrate." Acta Derm Venereol 74 (1994): 475
-12. Hendrickson RM, Simpson F "Clofibrate and eosinophilic pneumonia ." JAMA 247 (1982): 3082
-13. Beckner RR, Canada AT, Ockene IS "Fever due to clofibrate ." N Engl J Med 301 (1979): 1345-6
-Not all side effects for clofibrate may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+In general, the most common adverse effects due to clofibrate therapy are gastrointestinal in nature (especially nausea) and may subside over time or with a decreased dosage.
+Cholelithiasis and cholecystitis (sometimes requiring surgery or resulting in pancreatitis) occur more frequently in patients receiving clofibrate than in patients receiving placebo.
+Gastrointestinal reactions may include nausea, vomiting, diarrhea, gastritis, weight loss or gain, and gallstones (during prolonged therapy).
+Patients diagnosed with rhabdomyolysis are usually asymptomatic clinically several days after discontinuing clofibrate, but the muscle enzymes may remain elevated for a more prolonged period.  Severe renal disease may increase the risk of myopathies, perhaps because of accumulation of the active metabolite clofibric acid.
+Musculoskeletal effects (myopathy) typically occur as a "flu-like" syndrome (myalgia, cramps, muscle weakness, and arthralgia).  Rhabdomyolysis with an accompanying increase in creatinine kinase and creatinine phosphokinase (CPK) has been reported in patients with renal disease.
+Electrolyte disturbances like hyperkalemia have been reported in patients with renal insufficiency who receive clofibrate.
+Central nervous system depressant effects may include fatigue, weakness, drowsiness, and/or dizziness.  Headache has also been reported.
+Hematologic adverse effects may include leukopenia, anemia, eosinophilia, agranulocytosis, and potentiation of anticoagulant effects.  Because of these effects, some clinicians recommend periodic monitoring of blood counts.
+Cardiovascular complications may include various arrhythmias and altered angina pectoris.  Swelling and phlebitis have occurred at xanthomata sites.
+Renal dysfunction (including dysuria, hematuria, proteinuria, and decreased urine output) has been reported.  Acute renal failure and interstitial nephritis have also been reported.
+Decreased libido (primarily in men) and impotence have been reported.
+Hepatic disorders may include elevated liver enzymes and/or hepatomegaly.  (Liver biopsy, when performed in this setting, is usually normal.)  Clofibrate should be used cautiously for patients with a history of jaundice or liver disease.
+Dermatologic reactions which occur in about 2% of patients may include urticaria, rash, dry skin, and alopecia.  Erythema multiforme, toxic epidermal necrolysis, and Stevens-Johnson syndrome have occurred rarely.
+One case of a hypersensitivity reaction occurring as eosinophilic pneumonia has been reported.
+Fever, which occurred on rechallenge with clofibrate, has been reported in one case.
+Oncologic effects of tumor growth in rodents have been associated with many lipid-lowering drugs.   Clofibrate has been associated with liver, pancreatic and testicular tumors in rats.  Long-term clinical trials are needed to define the risk of cancer in humans.
 Chest pain
 irregular heartbeat
 shortness of breath
 stomach pain (severe) with nausea and vomiting
-
-
 Blood in urine
 cough or hoarseness 
 decrease in urination
@@ -50,12 +26,8 @@ decrease in urination
 lower back or side pain
 painful or difficult urination
 swelling of feet or lower legs
-
-
 Diarrhea
 nausea
-
-
 Decreased sexual ability
 headache
 increased appetite or weight gain (slight)
@@ -64,4 +36,3 @@ sores in mouth and on lips
 stomach pain, gas, or heartburn
  unusual tiredness or weakness
 vomiting
-

@@ -1,38 +1,19 @@
-Generic Name: fluticasone
-Applies to fluticasone: inhalation aerosol powder, inhalation disk, inhalation powder
-In addition to its needed effects, some unwanted effects may be caused by fluticasone (the active ingredient contained in Arnuity Ellipta). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking fluticasone:
-
 If any of the following symptoms of overdose occur while taking fluticasone, get emergency help immediately:
-
-Some of the side effects that can occur with fluticasone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fluticasone: compounding powder, inhalation aerosol, inhalation aerosol with adapter, inhalation powder, inhalation suspension
-The most commonly reported adverse events have included headache, upper respiratory tract infection or inflammation, throat irritation, oral candidiasis, nausea and vomiting.[Ref]
-Very common (10% or more): Upper respiratory tract infection (up to 21%), nasal congestion/blockageCommon (1% to 10%): Cough, lower respiratory infection, sinusitis/sinus infection, hoarseness/dysphonia, bronchitis, pneumonia (in COPD patients), rhinitis Rare (0.01% to 0.1%): Paradoxical bronchospasmVery rare (less than 0.01%):Frequency not reported: Epistaxis; ear, nose, throat, and tonsil signs and symptoms; ear, nose, and throat polypsPostmarketing reports: Asthma exacerbation, wheeze[Ref]
-Uncommon (0.1% to 1%): Cutaneous hypersensitivity reactionsRare (0.01% to 0.1%): Angioedema (mainly facial and oropharyngeal), respiratory symptoms (dyspnea and/or bronchospasm)Very rare (less than 0.01%): Anaphylactic reactions[Ref]
-Very common (10% or more): Oropharyngeal candidiasis (up to 13.7%), throat irritation (up to 22%)Common (1% to 10%): Nausea, vomiting, throat irritation, gastrointestinal discomfort and pain, viral gastrointestinal infection, toothacheVery rare (less than 0.01%): DyspepsiaFrequency not reported: Abdominal discomfort, oral ulcerations, dental discomfort, oral erythema and rashes, month and tongue disordersPostmarketing reports: Sore throat[Ref]
-Rare (0.01% to 0.1%): Adrenal suppression Frequency not reported: Cushing's syndrome, cushingoid features[Ref]
-Rare (0.01% to 0.1%): Cataract, glaucomaFrequency not reported: Keratitis, conjunctivitis, blepharoconjunctivitis[Ref]
-Very rare (less than 0.01%): Anxiety, sleep disorders, behavioral changes including hyperactivity and irritability (predominantly in children), depression[Ref]
-Common (1% to 10%): Muscle injury, musculoskeletal pain, back painRare (0.01% to 0.1%): Growth retardation (pediatrics), decrease in bone mineral densityVery rare (less than 0.01%): Arthralgia	Postmarketing reports: Osteoporosis[Ref]
-Very common (10% or more): Headache (up to 14%) Common (1% to 10%): Malaise and fatigueFrequency not reported: DizzinessPostmarketing reports: Aphonia[Ref]
-Common (1% to 10%): Malaise, feverFrequency not reported: Allergic ear, nose, and throat disorders[Ref]
-Common (1% to 10%): Contusions, pruritus, skin rashFrequency not reported: Photodermatitis, acne and folliculitisPostmarketing reports: Ecchymosis[Ref]
-Rare (0.01% to 0.1%): Systemic eosinophilic conditions[Ref]
-Very rare (less than 0.01%): HyperglycemiaFrequency not reported: Fluid disturbances, weight gain, appetite disturbances[Ref]
-Frequency not reported: PalpitationsPostmarketing reports: Chest tightness[Ref]
-1. "Product Information. Flovent HFA (fluticasone)." GlaxoSmithKline, Research Triangle Park, NC. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Arnuity Ellipta (fluticasone)." GlaxoSmithKline, Research Triangle Park, NC. 
-4. "Product Information. Flovent Diskus (fluticasone)." GlaxoSmithKline, Research Triangle Park, NC. 
-5. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Arnuity Ellipta may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported adverse events have included headache, upper respiratory tract infection or inflammation, throat irritation, oral candidiasis, nausea and vomiting.
+Very common (10% or more): Upper respiratory tract infection (up to 21%), nasal congestion/blockageCommon (1% to 10%): Cough, lower respiratory infection, sinusitis/sinus infection, hoarseness/dysphonia, bronchitis, pneumonia (in COPD patients), rhinitis Rare (0.01% to 0.1%): Paradoxical bronchospasmVery rare (less than 0.01%):Frequency not reported: Epistaxis; ear, nose, throat, and tonsil signs and symptoms; ear, nose, and throat polypsPostmarketing reports: Asthma exacerbation, wheeze
+Uncommon (0.1% to 1%): Cutaneous hypersensitivity reactionsRare (0.01% to 0.1%): Angioedema (mainly facial and oropharyngeal), respiratory symptoms (dyspnea and/or bronchospasm)Very rare (less than 0.01%): Anaphylactic reactions
+Very common (10% or more): Oropharyngeal candidiasis (up to 13.7%), throat irritation (up to 22%)Common (1% to 10%): Nausea, vomiting, throat irritation, gastrointestinal discomfort and pain, viral gastrointestinal infection, toothacheVery rare (less than 0.01%): DyspepsiaFrequency not reported: Abdominal discomfort, oral ulcerations, dental discomfort, oral erythema and rashes, month and tongue disordersPostmarketing reports: Sore throat
+Rare (0.01% to 0.1%): Adrenal suppression Frequency not reported: Cushing's syndrome, cushingoid features
+Rare (0.01% to 0.1%): Cataract, glaucomaFrequency not reported: Keratitis, conjunctivitis, blepharoconjunctivitis
+Very rare (less than 0.01%): Anxiety, sleep disorders, behavioral changes including hyperactivity and irritability (predominantly in children), depression
+Common (1% to 10%): Muscle injury, musculoskeletal pain, back painRare (0.01% to 0.1%): Growth retardation (pediatrics), decrease in bone mineral densityVery rare (less than 0.01%): Arthralgia	Postmarketing reports: Osteoporosis
+Very common (10% or more): Headache (up to 14%) Common (1% to 10%): Malaise and fatigueFrequency not reported: DizzinessPostmarketing reports: Aphonia
+Common (1% to 10%): Malaise, feverFrequency not reported: Allergic ear, nose, and throat disorders
+Common (1% to 10%): Contusions, pruritus, skin rashFrequency not reported: Photodermatitis, acne and folliculitisPostmarketing reports: Ecchymosis
+Rare (0.01% to 0.1%): Systemic eosinophilic conditions
+Very rare (less than 0.01%): HyperglycemiaFrequency not reported: Fluid disturbances, weight gain, appetite disturbances
+Frequency not reported: PalpitationsPostmarketing reports: Chest tightness
 White patches in the mouth and throat
-
-
 Diarrhea
 ear ache
 fever
@@ -45,8 +26,6 @@ sore throat
 trouble swallowing
 vaginal discharge (creamy white) and itching
 vomiting
-
-
 Blindness, blurred vision, eye pain
 bone fractures
 excess facial hair in women
@@ -63,27 +42,19 @@ numbness and weakness of hands and feet
 weakness
 swelling of the face, lips, or eyelids
 tightness in the chest, troubled breathing, or wheezing
-
-
 Dizziness
 fast heartbeat
-
-
 Darkening of skin
 fainting
 loss of appetite
 mental depression
 unusual tiredness or weakness
-
-
 Cough
 general aches and pains or general feeling of illness
 greenish-yellow mucus in the nose
 headache
 hoarseness or other voice changes
 runny, sore, or stuffy nose
-
-
 Bloody mucus or unexplained nosebleeds
 eye irritation
 fainting
@@ -94,16 +65,12 @@ mouth irritation
 muscle soreness, sprain, or strain
 sneezing
 stomach pain
-
-
 Aggression
 agitation
 bruising
 itching
 restlessness
 weight gain
-
-
 Blurred vision
 decrease in height
 dry mouth
@@ -114,4 +81,3 @@ pain in the back, ribs, arms or legs
 sweating
 trouble sitting still
 unexplained weight loss
-

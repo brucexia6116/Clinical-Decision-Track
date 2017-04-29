@@ -1,54 +1,21 @@
 More frequently reported side effects include: induration at injection site, inflammation at injection site, pain at injection site, and tenderness at injection site.  See below for a comprehensive list of adverse effects.
-Applies to cefotaxime: injection powder for solution
-In addition to its needed effects, some unwanted effects may be caused by cefotaxime. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking cefotaxime, check with your doctor or nurse immediately:
-Some of the side effects that can occur with cefotaxime may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cefotaxime: injectable powder for injection, intravenous solution
-The majority of cefotaxime adverse effects are mild and transient and rarely require discontinuation of the medication.[Ref]
-Gastrointestinal side effects have included colitis, nausea, vomiting, and diarrhea in 1.4% of patients.  Clostridium difficile associated diarrhea has been reported with almost all antibiotics, including the cephalosporins.[Ref]
-Clostridium difficile should be suspected in any patient who develops persistent or severe diarrhea following cephalosporin therapy.One small study indicates that elderly patients treated with cefotaxime may be more likely than younger patients to experience Clostridium difficile colitis.[Ref]
-Hypersensitivity reactions, such as rash and pruritus, are relatively uncommon, but may require discontinuation of the drug.A 75-year-old female developed toxic epidermal necrolysis (TEN) over 40% of her body surface area after receiving cefotaxime for 6 days.  After cefotaxime discontinuation and some improvement, meropenem was started.  The TEN immediately recurred and spread to previously unaffected areas of the skin, and the patient died.  The authors recommend avoiding chemically similar drugs to the precipitating drug when treating patients with drug-induced TEN.A case of occupational contact dermatitis due to cephalosporin allergy has been reported in a nurse who prepared cephalosporin solutions for administration to patients.  The dermatitis resolved after the nurse stopped preparing the solutions.[Ref]
-Hypersensitivity side effects have included rash, pruritus, fever, eosinophilia, urticaria, and anaphylaxis (e.g., angioedema, bronchospasm, malaise possibly culminating in shock) in 2.4% of patients.  Allergic cross-reactivity with penicillin and carbapenems may occur.  Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic epidermal necrolysis have been reported.  Allergic reactions have been reported with cephalosporins as a class.[Ref]
-Other side effects have included overgrowth of nonsusceptible organisms and have resulted in superinfection.  False-positive test for urinary glucose have been reported with cephalosporins as a class.[Ref]
-Local side effects have included injection site inflammation and phlebitis with intravenous administration and pain, induration, and tenderness following intramuscular injection in 4.3% of patients.[Ref]
-Nervous system side effects have included headache and encephalopathy (e.g., impairment of consciousness, abnormal movements, and convulsions) in less than 1% of patients.  Some cephalosporins have been associated with seizures, particularly in renally impaired patients when the dosage was not reduced.[Ref]
-Administration of high doses of beta-lactams, including cefotaxime, particularly in patients with renal insufficiency may result in encephalopathy.In one case, a 68-year-old man with moderate renal insufficiency underwent surgery for repair of an abdominal aortic aneurysm.  He developed renal failure requiring hemodialysis.  Cefotaxime was administered for an abdominal abscess.  The patient developed encephalopathic symptoms.  Cefotaxime was discontinued and hemodialysis was performed.  The mental status of the patient improved.  Cefotaxime was reinstituted.  No further toxicity occurred.[Ref]
-Hepatic side effects have included transient elevations in SGOT, SGPT, serum lactate dehydrogenase, gamma glutamyltransferase, bilirubin, and serum alkaline phosphatase in less than 1% of patients.  These laboratory abnormalities (which may be due to the infection) may rarely exceed twice the upper limit of the normal and elicit a pattern of liver injury, usually cholestatic and most often asymptomatic.  Hepatitis, sometimes with jaundice, has been reported.  Cephalosporins as a class have been associated with hepatic dysfunction including cholestasis.[Ref]
-Unlike other cephalosporins, severe alterations in coagulation parameters have not been reported in association with cefotaxime therapy.  The methylthiotetrazole moiety found on other cephalosporins may be responsible for the development of coagulation defects.[Ref]
-Hematologic side effects have included granulocytopenia, eosinophilia, transient leukopenia, neutropenia, thrombocytopenia, agranulocytosis, positive direct Coombs' tests, and hemolytic anemia in less than 1% of patients.  Cephalosporins as a class have been associated with aplastic anemia, prolonged prothrombin time, and hemorrhage.[Ref]
-Renal side effects have included interstitial nephritis and transient increases in BUN and creatinine in less than 1% of patients.  Reversible fever, azotemia, pyuria, and eosinophilia are the hallmarks of cephalosporin-induced interstitial nephritis.  Cephalosporins as a class have been associated with renal dysfunction and toxic nephropathy.[Ref]
-Dermatologic side effects have included rash, urticaria, pruritus, and cases of erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and telangiectasia.[Ref]
-Cardiovascular side effects have included potentially life-threatening arrhythmias following rapid (less than 60 seconds) bolus administration through a central venous catheter (less than 1%).[Ref]
-Genitourinary side effects have included moniliasis and vaginitis.[Ref]
-1. "Multum Information Services, Inc. Expert Review Panel"  
-2. Wilcox MH,  Freeman J,  Fawley W, et al. "Long-term surveillance of cefotaxime and piperacillin-tazobactam prescribing and incidence of Clostridium difficile diarrhoea." J Antimicrob Chemother 54 (2004): 168-72
-3. Starr JM, Impallomeni M "Risk of diarrhoea, Clostridium difficile and cefotaxime in the elderly." Biomed Pharmacother 51 (1997): 63-7
-4. Wormser GP "Clinical practice. Early Lyme disease." N Engl J Med 354 (2006): 2794-801
-5. "Product Information. Claforan (cefotaxime)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-6. Impallomeni M, Galletly NP, Wort SJ, Starr JM, Rogers TR "Increased risk of diarrhoea caused by clostridium difficile in elderly patients receiving cefotaxime." BMJ 311 (1995): 1345-6
-7. Neu HC, Aswapokee P, Fu KP, et al "Cefotaxime kinetics after intravenous and intramuscular injection of single and multiple doses." Clin Pharmacol Ther 27 (1980): 677-85
-8. Todd PA, Brogden RN "Cefotaxime: an update of its pharmacology and therapeutic use." Drugs 40 (1990): 608-51
-9. Liberopoulos EN,  Liamis GL,  Elisaf MS "Possible cefotaxime-induced stevens-johnson syndrome." Ann Pharmacother 37 (2003): 812-4
-10. LeFrock JL, Prince RA, Leff RD "Mechanism of action, antimicrobial activity, pharmacology, adverse effects, and clinical efficacy of cefotaxime." Pharmacotherapy 2 (1982): 174-84
-11. Mader JT, LeFrock JL, Tyams KC, et al "Cefotaxime therapy for patients with osteomyelitis and septic arthritis." Rev Infect Dis 4 Suppl (1982): s472-80
-12. Romano A, Mayorga C, Torres MJ, Artesani MC, Suau R, Sanchez F, Perez E, Venuti A, Blanca M "Immediate allergic reactions to cephalosporins: Cross-reactivity and selective responses." J Allerg Clin Immunol 106 (2000): 1177-83
-13. Lode H, Glatzel PD "Cefotaxime: efficacy and tolerance in lower respiratory tract infections caused by gram-positive cocci." Infection 13 Suppl 1 (1985): s25-7
-14. Filipe P, Almeida RSLS, Rodrigo FG "Occupational allergic contact dermatitis from cephalosporins." Contact Dermatitis 34 (1996): 226
-15. Harding SM, Monro AJ, Thornton JE, et al "The comparative pharmacokinetics of ceftazidime and cefotaxime in healthy volunteers." J Antimicrob Chemother 8 (1981): 263-72
-16. Ramakrishnan K,  Scheid DC "Diagnosis and management of acute pyelonephritis in adults." Am Fam Physician 71 (2005): 933-42
-17. Pascual J, Liano F, Ortuno J "Cefotaxime-induced encephalopathy in an uremic patient." Nephron 54 (1990): 92
-18. Fujita Y, Inoue S, Yorifuji R, et al "Effects of cefotaxime on blood coagulation in patients with renal insufficiency." Drugs 35 (1988): 196-8
-19. Fass RJ, Copelan EA, Brandt JT, Moeschberger ML, Ashton JJ "Platelet-mediated bleeding caused by broad-spectrum penicillins." J Infect Dis 155 (1987): 1242-8
-20. Grcevska L, Polenakovic M "Second attack of acute tubulointerstitionephritis induced by cefataxim and pregnancy." Nephron 72 (1996): 354-5
-21. Alshohaib S, Satti MS, Abunijem Z "Acute interstitial nephritis due to cefotaxime." Nephron 73 (1996): 725
-22. al Shohaib S, Satti MS, Abunijem Z "Acute interstitial nephritis due to cefotaxime." Nephron 73 (1996): 725
-23. Paquet P,  Jacob E,  Damas P,  Pierard GE "Recurrent fatal drug-induced toxic epidermal necrolysis (Lyell's syndrome) after putative beta-lactam cross-reactivity: Case report and scrutiny of antibiotic imputability." Crit Care Med 30 (2002): 2580-3
-24. Borgia F, Vaccaro M, Guarneri F, Cannavo SP "Photodistributed telangiectasia following use of cefotaxime." Br J Dermatol 143 (2000): 674-5
-Not all side effects for cefotaxime may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The majority of cefotaxime adverse effects are mild and transient and rarely require discontinuation of the medication.
+Gastrointestinal side effects have included colitis, nausea, vomiting, and diarrhea in 1.4% of patients.  Clostridium difficile associated diarrhea has been reported with almost all antibiotics, including the cephalosporins.
+Clostridium difficile should be suspected in any patient who develops persistent or severe diarrhea following cephalosporin therapy.One small study indicates that elderly patients treated with cefotaxime may be more likely than younger patients to experience Clostridium difficile colitis.
+Hypersensitivity reactions, such as rash and pruritus, are relatively uncommon, but may require discontinuation of the drug.A 75-year-old female developed toxic epidermal necrolysis (TEN) over 40% of her body surface area after receiving cefotaxime for 6 days.  After cefotaxime discontinuation and some improvement, meropenem was started.  The TEN immediately recurred and spread to previously unaffected areas of the skin, and the patient died.  The authors recommend avoiding chemically similar drugs to the precipitating drug when treating patients with drug-induced TEN.A case of occupational contact dermatitis due to cephalosporin allergy has been reported in a nurse who prepared cephalosporin solutions for administration to patients.  The dermatitis resolved after the nurse stopped preparing the solutions.
+Hypersensitivity side effects have included rash, pruritus, fever, eosinophilia, urticaria, and anaphylaxis (e.g., angioedema, bronchospasm, malaise possibly culminating in shock) in 2.4% of patients.  Allergic cross-reactivity with penicillin and carbapenems may occur.  Cases of Stevens-Johnson syndrome, erythema multiforme, and toxic epidermal necrolysis have been reported.  Allergic reactions have been reported with cephalosporins as a class.
+Other side effects have included overgrowth of nonsusceptible organisms and have resulted in superinfection.  False-positive test for urinary glucose have been reported with cephalosporins as a class.
+Local side effects have included injection site inflammation and phlebitis with intravenous administration and pain, induration, and tenderness following intramuscular injection in 4.3% of patients.
+Nervous system side effects have included headache and encephalopathy (e.g., impairment of consciousness, abnormal movements, and convulsions) in less than 1% of patients.  Some cephalosporins have been associated with seizures, particularly in renally impaired patients when the dosage was not reduced.
+Administration of high doses of beta-lactams, including cefotaxime, particularly in patients with renal insufficiency may result in encephalopathy.In one case, a 68-year-old man with moderate renal insufficiency underwent surgery for repair of an abdominal aortic aneurysm.  He developed renal failure requiring hemodialysis.  Cefotaxime was administered for an abdominal abscess.  The patient developed encephalopathic symptoms.  Cefotaxime was discontinued and hemodialysis was performed.  The mental status of the patient improved.  Cefotaxime was reinstituted.  No further toxicity occurred.
+Hepatic side effects have included transient elevations in SGOT, SGPT, serum lactate dehydrogenase, gamma glutamyltransferase, bilirubin, and serum alkaline phosphatase in less than 1% of patients.  These laboratory abnormalities (which may be due to the infection) may rarely exceed twice the upper limit of the normal and elicit a pattern of liver injury, usually cholestatic and most often asymptomatic.  Hepatitis, sometimes with jaundice, has been reported.  Cephalosporins as a class have been associated with hepatic dysfunction including cholestasis.
+Unlike other cephalosporins, severe alterations in coagulation parameters have not been reported in association with cefotaxime therapy.  The methylthiotetrazole moiety found on other cephalosporins may be responsible for the development of coagulation defects.
+Hematologic side effects have included granulocytopenia, eosinophilia, transient leukopenia, neutropenia, thrombocytopenia, agranulocytosis, positive direct Coombs' tests, and hemolytic anemia in less than 1% of patients.  Cephalosporins as a class have been associated with aplastic anemia, prolonged prothrombin time, and hemorrhage.
+Renal side effects have included interstitial nephritis and transient increases in BUN and creatinine in less than 1% of patients.  Reversible fever, azotemia, pyuria, and eosinophilia are the hallmarks of cephalosporin-induced interstitial nephritis.  Cephalosporins as a class have been associated with renal dysfunction and toxic nephropathy.
+Dermatologic side effects have included rash, urticaria, pruritus, and cases of erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and telangiectasia.
+Cardiovascular side effects have included potentially life-threatening arrhythmias following rapid (less than 60 seconds) bolus administration through a central venous catheter (less than 1%).
+Genitourinary side effects have included moniliasis and vaginitis.
 Abdominal or stomach cramps or tenderness
 black, tarry stools
 bloating
@@ -77,8 +44,6 @@ tightness in the chest
 unusual bleeding or bruising
 unusual tiredness or weakness
 unusual weight loss
-
-
 Agitation
 back, leg, or stomach pains
 bleeding gums
@@ -117,13 +82,8 @@ stiff neck
 swelling of the feet or lower legs
 thick, white vaginal discharge with no odor or with a mild odor
 yellow eyes or skin
-
-
 Clay-colored stools
 unpleasant breath odor
 vomiting of blood
-
-
 Red streaks on the skin
 swelling, tenderness, or pain at the injection site
-

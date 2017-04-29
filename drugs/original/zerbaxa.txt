@@ -1,32 +1,22 @@
-Generic Name: ceftolozane / tazobactam
-Applies to ceftolozane / tazobactam: intravenous powder for solution, powder iv (infusion)
 As well as its needed effects, ceftolozane / tazobactam may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking ceftolozane / tazobactam, check with your doctor or nurse immediately:
 Some ceftolozane / tazobactam side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to ceftolozane / tazobactam: intravenous powder for injection
-Common (1% to 10%): Atrial fibrillation, hypotension, Uncommon (0.1% to 1%): Tachycardia, angina pectoris[Ref]
-Uncommon (0.1% to 1%): Urticaria[Ref]
-Common (1% to 10%): Nausea, vomiting, diarrhea, constipation, abdominal pain, Uncommon (0.1% to 1%): Ileus, gastritis, abdominal distension, dyspepsia, flatulence, ileus[Ref]
-Common (1% to 10%): Anemia, thrombocytosis[Ref]
-Common (1% to 10%): AST/ALT increased[Ref]
-Common (1% to 10%): Rash[Ref]
-Uncommon (0.1% to 1%): Oropharyngeal candidiasis, fungal urinary tract infection[Ref]
-Uncommon (0.1% to 1%): Infusion site reactions[Ref]
-Common (1% to 10%): Hypokalemia Uncommon (0.1% to 1%): Hyperglycemia, hypomagnesemia, hypophosphatemia[Ref]
-Common (1% to 10%): Headache, dizzinessUncommon (0.1% to 1%): Ischemic stroke[Ref]
-Common (1% to 10%): PyrexiaUncommon (0.1% to 1%): Increased serum gamma-glutamyl transpeptidase (GGT), increased serum alkaline phosphatase, positive Coombs test, venous thrombosis[Ref]
-Common (1 to 10%): Insomnia, anxiety[Ref]
-Uncommon (0.1% to 1%): Renal impairment, renal failure[Ref]
-Uncommon (0.1% to 1%): Dyspnea[Ref]
-1. "Product Information. Zerbaxa (ceftolozane-tazobactam)." Cubist Pharmaceuticals Inc, Lexington, MA. 
+Common (1% to 10%): Atrial fibrillation, hypotension, Uncommon (0.1% to 1%): Tachycardia, angina pectoris
+Uncommon (0.1% to 1%): Urticaria
+Common (1% to 10%): Nausea, vomiting, diarrhea, constipation, abdominal pain, Uncommon (0.1% to 1%): Ileus, gastritis, abdominal distension, dyspepsia, flatulence, ileus
+Common (1% to 10%): Anemia, thrombocytosis
+Common (1% to 10%): AST/ALT increased
+Common (1% to 10%): Rash
+Uncommon (0.1% to 1%): Oropharyngeal candidiasis, fungal urinary tract infection
+Uncommon (0.1% to 1%): Infusion site reactions
+Common (1% to 10%): Hypokalemia Uncommon (0.1% to 1%): Hyperglycemia, hypomagnesemia, hypophosphatemia
+Common (1% to 10%): Headache, dizzinessUncommon (0.1% to 1%): Ischemic stroke
+Common (1% to 10%): PyrexiaUncommon (0.1% to 1%): Increased serum gamma-glutamyl transpeptidase (GGT), increased serum alkaline phosphatase, positive Coombs test, venous thrombosis
+Common (1 to 10%): Insomnia, anxiety
+Uncommon (0.1% to 1%): Renal impairment, renal failure
+Uncommon (0.1% to 1%): Dyspnea
 It is possible that some side effects of Zerbaxa may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Fever
-
-
 Blurred vision
 confusion
 convulsions
@@ -45,8 +35,6 @@ sweating
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abdominal or stomach cramps or pain
 arm, back, or jaw pain
 bloating
@@ -67,8 +55,6 @@ severe constipation
 severe vomiting
 swelling of the face, fingers, or lower legs
 weight gain
-
-
 Abdominal or stomach tenderness
 cough
 difficulty with swallowing
@@ -76,11 +62,7 @@ dizziness
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 severe abdominal or stomach cramps and pain
 watery and severe diarrhea, which may also be bloody
-
-
 Headache
-
-
 Acid or sour stomach
 belching
 burning feeling in the chest or stomach
@@ -89,11 +71,8 @@ heartburn
 indigestion
 stomach discomfort or upset
 trouble sleeping
-
-
 Flushed, dry skin
 fruit-like breath odor
 increased hunger
 increased urination
 unexplained weight loss
-

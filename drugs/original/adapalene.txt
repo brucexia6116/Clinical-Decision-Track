@@ -1,31 +1,17 @@
-Applies to adapalene topical: topical cream, topical gel/jelly, topical lotion, topical solution, topical swab
-In addition to its needed effects, some unwanted effects may be caused by adapalene topical. In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking adapalene topical, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with adapalene topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to adapalene topical: topical cream, topical gel, topical lotion, topical solution, topical swab
-Pruritus, erythema, scaling, dryness, irritation, sunburn, and acne flares usually occurred during the first month of therapy and decreased thereafter.  These side effects were reversible when treatment was discontinued.Skin exfoliation was associated with skin exposed to mechanical abrasion (e.g., waxing).[Ref]
-Very common (10% or more): Persistent pruritus (up to 74%), persistent burning/stinging (up to 71%), erythema (up to 60%), scaling (up to 60%), pruritus (up to 60%), dryness (up to 48%), pruritus immediately after administration (up to 30%), skin stinging or burning (up to 22%)Common (1% to 10%): Skin irritation, sunburnUncommon (0.1% to 1%): Contact dermatitis/eczema, dermatitis, skin discomfort/pain, skin exfoliation, acne/acne flares, skin swellingPostmarketing reports: Allergic dermatitis/allergic contact dermatitis, rash, eczema, skin discoloration[Ref]
-Very common (10% or more): Burning (up to 60%); burning immediately after application (up to 30%)Frequency not reported: Burning/stinging[Ref]
-Burning and stinging usually occurred during the first month of therapy and decreased thereafter.  These side effects were reversible when treatment was discontinued.[Ref]
-Common (1% to 10%): Pharyngitis, rhinitis, sinusitis[Ref]
-Common (1% to 10%): Dysmenorrhea[Ref]
-Uncommon (0.1% to 1%): Eyelid irritation, eyelid erythema, eyelid pruritus, eyelid swelling/edemaPostmarketing reports: Conjunctivitis[Ref]
-Uncommon (0.1% to 1%): Tooth anomaly, tooth disorder[Ref]
-Rare (0.01% to 0.1%): Allergic reactionPostmarketing reports: Allergic contact dermatitis/allergic dermatitis[Ref]
-Rare (0.01% to 0.1%): Lack of drug effectFrequency not reported: Flu syndrome[Ref]
-Frequency not reported: Headache[Ref]
-1. "Product Information. Differin (adapalene topical)." Galderma Laboratories Inc, Fort Worth, TX. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for adapalene topical may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Pruritus, erythema, scaling, dryness, irritation, sunburn, and acne flares usually occurred during the first month of therapy and decreased thereafter.  These side effects were reversible when treatment was discontinued.Skin exfoliation was associated with skin exposed to mechanical abrasion (e.g., waxing).
+Very common (10% or more): Persistent pruritus (up to 74%), persistent burning/stinging (up to 71%), erythema (up to 60%), scaling (up to 60%), pruritus (up to 60%), dryness (up to 48%), pruritus immediately after administration (up to 30%), skin stinging or burning (up to 22%)Common (1% to 10%): Skin irritation, sunburnUncommon (0.1% to 1%): Contact dermatitis/eczema, dermatitis, skin discomfort/pain, skin exfoliation, acne/acne flares, skin swellingPostmarketing reports: Allergic dermatitis/allergic contact dermatitis, rash, eczema, skin discoloration
+Very common (10% or more): Burning (up to 60%); burning immediately after application (up to 30%)Frequency not reported: Burning/stinging
+Burning and stinging usually occurred during the first month of therapy and decreased thereafter.  These side effects were reversible when treatment was discontinued.
+Common (1% to 10%): Pharyngitis, rhinitis, sinusitis
+Common (1% to 10%): Dysmenorrhea
+Uncommon (0.1% to 1%): Eyelid irritation, eyelid erythema, eyelid pruritus, eyelid swelling/edemaPostmarketing reports: Conjunctivitis
+Uncommon (0.1% to 1%): Tooth anomaly, tooth disorder
+Rare (0.01% to 0.1%): Allergic reactionPostmarketing reports: Allergic contact dermatitis/allergic dermatitis
+Rare (0.01% to 0.1%): Lack of drug effectFrequency not reported: Flu syndrome
+Frequency not reported: Headache
 Burning sensation or stinging of skin
  dryness and peeling of skin
 itching of skin
 redness of skin
-
-
 Worsening of acne
-

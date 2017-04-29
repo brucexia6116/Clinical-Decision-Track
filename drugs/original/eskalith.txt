@@ -1,49 +1,33 @@
-Generic Name: lithium
-Applies to lithium: oral capsule, oral solution, oral syrup, oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by lithium (the active ingredient contained in Eskalith). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking lithium:
-
 If any of the following symptoms of overdose occur while taking lithium, get emergency help immediately:
-
-Some of the side effects that can occur with lithium may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to lithium: compounding powder, oral capsule, oral syrup, oral tablet, oral tablet extended release
-Frequency not reported: Headache, drowsiness, lethargy, tendency to sleep, impaired consciousness, lack of coordination, ataxia, giddiness, fine hand tremor, tremor, coarse tremor of the extremities and lower jaw, dysarthria, myoclonus, clonic movements of whole limbs, choreoathetotic movements, hyperactive deep tendon reflexes, abnormal reflexes, hypertonicity, blackout spells, epileptiform seizures, convulsions, slurred speech/speech disorder, dizziness, vertigo, somnolence, metallic/salty taste, dysgeusia/taste distortion, peripheral neuropathy, psychomotor retardation, restlessness, stupor, coma, acute dystonia, extrapyramidal syndrome, cogwheel rigidity, downbeat nystagmus, tongue movements, poor memory, slowed intellectual functioning, startle response, benign intracranial hypertension, pseudotumor cerebri (increased intracranial pressure and papilledema), encephalopathy, transient electroencephalogram (EEG), diffuse slowing of EEG, widening of EEG frequency spectrum, potentiation and disorganization of EEG background rhythm[Ref]
-Drowsiness and lack of coordination may be early signs of lithium toxicity, and may occur at lithium levels below 2 mEq/L.Ataxia and giddiness occurred at levels above 2 mEq/L.Fine hand tremor may occur during initial therapy for the acute manic phase, and may persist during therapy.The development of transient EEG changes, headache, dysgeusia/taste distortion, and metallic taste were unrelated to dosage.Peripheral neuropathy may occur in patients on long-term treatment, but is usually reversible after discontinuation of therapy.[Ref]
-The development of transient ECG changes, chest tightness, and edematous swelling of ankles/wrists were unrelated to dosage.Painful discoloration of the fingers/toes and coldness of extremities (resembling Raynaud's syndrome) occurred within one day of initiation; the patient recovered after discontinuation.  The exact mechanism for this side effect is unknown.[Ref]
-Frequency not reported: Cardiac arrhythmia, hypotension, peripheral circulatory collapse, sinus node dysfunction with severe bradycardia (may result in syncope), bradycardia, unmasking of Brugada syndrome, transient ECG changes, reversible flattening of ECG, isoelectricity of ECG, inversion of T-waves, QT prolongation, Raynaud's syndrome, chest tightness, atrioventricular block, cardiomyopathy, peripheral edema/edematous swelling of ankles or wrists[Ref]
-Frequency not reported: Diarrhea, vomiting, nausea, flatulence, constipation, indigestion, incontinence of feces, gastritis, salivary gland swelling, dry mouth, excessive salivation, abdominal pain/discomfort, swollen lips, dental caries[Ref]
-Diarrhea and vomiting may be early signs of lithium toxicity, and may occur at lithium levels below 2 mEq/L.Transient and mild nausea may occur within the first few days of therapy.The development of metallic/salty taste, dental caries, and swollen lips were unrelated to dosage.[Ref]
-Frequency not reported: Drying and thinning of hair, anesthesia of skin, acne/acneform eruptions, chronic folliculitis, xerosis cutis, alopecia, psoriasis exacerbation, cutaneous ulcers, papular skin disorders, generalized pruritus with/without rash[Ref]
-The development of generalized pruritus with/without rash and cutaneous ulcers were unrelated to dosage.[Ref]
-Frequency not reported: Euthyroid goiter, hypothyroidism (including myxedema), thyrotoxicosis, lower T3 and T4 levels, iodine 131 uptake increased, hyperthyroidism, hyperparathyroidism, diffuse nontoxic goiter with/without hypothyroidism[Ref]
-Hyperthyroidism has been rarely reported, and may persist after discontinuation of treatment.Hyperparathyroidism may persist after discontinuation of treatment.The development of diffuse nontoxic goiter with/without hypothyroidism and hyperparathyroidism were unrelated to dosage.[Ref]
-Muscular weakness develops early in lithium (the active ingredient contained in Eskalith) toxicity, and may occur at lithium levels below 2 mEq/L.Muscle hyperirritability includes fasciculations, twitching, clonic movements of whole limbs.The development of swollen/painful joints and polyarthralgia were unrelated to dosage.[Ref]
-Frequency not reported: Muscular weakness, muscle hyperirritability, twitching, arthralgia/polyarthralgia, myalgia, myasthenia gravis, swollen/painful joints, rhabdomyolysis[Ref]
-Frequency not reported: Oliguria, glycosuria, decreased creatinine clearance, nephrogenic diabetes insipidus, microcysts, nephrotic syndrome, histological renal changes with interstitial fibrosis[Ref]
-Diabetes insipidus may persist after discontinuation of treatment.Histological renal changes with interstitial fibrosis occurred in patients on prolonged treatment, and was usually reversible upon discontinuation.  Long-term treatment may cause permanent kidney changes and impairment of renal function; high serum concentrations and/or acute lithium toxicity may worsen these changes.[Ref]
-Frequency not reported: Anorexia, dehydration, weight loss, transient hyperglycemia/hyperglycemia, hypercalcemia, hypermagnesemia, excessive weight gain[Ref]
-The development of transient hyperglycemia, hypercalcemia, and excessive weight gain were unrelated to dosage.[Ref]
-Tinnitus occurred at levels above 2 mEq/L.Mild thirst may occur during initial therapy for the acute manic phase, and may persist during therapy; in some cases, thirst resembled diabetes insipidus.  The development of thirst was unrelated to dosage.General discomfort may also appear within the first few days of therapy.The development of fever was unrelated to dosage.[Ref]
-Frequency not reported: Tinnitus, thirst, general discomfort, fasciculations, fatigue, feeling dazed, fever[Ref]
-Frequency not reported: Large output of dilute urine, polyuria, incontinence of urine, albuminuria, polyuria, impotence/sexual dysfunction[Ref]
-At levels above 2 mEq/L, patients excreted a large output of dilute urine.Polyuria may occur during initial therapy for the acute manic phase, and may persist during therapy; in some cases, polyuria resembled diabetes insipidus.  The development of polyuria was unrelated to dosage.The development of albuminuria was unrelated to dosage.[Ref]
-Frequency not reported: Confusion, tics, hallucinations, delirium, worsening of organic brain syndromes[Ref]
-The worsening of organic brain syndromes was unrelated to dosage.[Ref]
-Frequency not reported: Angioedema, allergic rashes[Ref]
-Frequency not reported: Blurred vision, transient scotomata/scotoma[Ref]
-Blurred vision occurred at levels above 2 mEq/L.[Ref]
-Frequency not reported: Oncocytoma, collecting duct renal carcinoma[Ref]
-Collecting duct renal carcinoma occurred in patients on long-term therapy.[Ref]
-Frequency not reported: Leukocytosis[Ref]
-The development of leukocytosis was unrelated to dosage.[Ref]
-1. "Product Information. Eskalith (lithium)." SmithKline Beecham, Philadelphia, PA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Lithobid (lithium)." Ciba Pharmaceuticals, Summit, NJ. 
-4. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Eskalith may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Headache, drowsiness, lethargy, tendency to sleep, impaired consciousness, lack of coordination, ataxia, giddiness, fine hand tremor, tremor, coarse tremor of the extremities and lower jaw, dysarthria, myoclonus, clonic movements of whole limbs, choreoathetotic movements, hyperactive deep tendon reflexes, abnormal reflexes, hypertonicity, blackout spells, epileptiform seizures, convulsions, slurred speech/speech disorder, dizziness, vertigo, somnolence, metallic/salty taste, dysgeusia/taste distortion, peripheral neuropathy, psychomotor retardation, restlessness, stupor, coma, acute dystonia, extrapyramidal syndrome, cogwheel rigidity, downbeat nystagmus, tongue movements, poor memory, slowed intellectual functioning, startle response, benign intracranial hypertension, pseudotumor cerebri (increased intracranial pressure and papilledema), encephalopathy, transient electroencephalogram (EEG), diffuse slowing of EEG, widening of EEG frequency spectrum, potentiation and disorganization of EEG background rhythm
+Drowsiness and lack of coordination may be early signs of lithium toxicity, and may occur at lithium levels below 2 mEq/L.Ataxia and giddiness occurred at levels above 2 mEq/L.Fine hand tremor may occur during initial therapy for the acute manic phase, and may persist during therapy.The development of transient EEG changes, headache, dysgeusia/taste distortion, and metallic taste were unrelated to dosage.Peripheral neuropathy may occur in patients on long-term treatment, but is usually reversible after discontinuation of therapy.
+The development of transient ECG changes, chest tightness, and edematous swelling of ankles/wrists were unrelated to dosage.Painful discoloration of the fingers/toes and coldness of extremities (resembling Raynaud's syndrome) occurred within one day of initiation; the patient recovered after discontinuation.  The exact mechanism for this side effect is unknown.
+Frequency not reported: Cardiac arrhythmia, hypotension, peripheral circulatory collapse, sinus node dysfunction with severe bradycardia (may result in syncope), bradycardia, unmasking of Brugada syndrome, transient ECG changes, reversible flattening of ECG, isoelectricity of ECG, inversion of T-waves, QT prolongation, Raynaud's syndrome, chest tightness, atrioventricular block, cardiomyopathy, peripheral edema/edematous swelling of ankles or wrists
+Frequency not reported: Diarrhea, vomiting, nausea, flatulence, constipation, indigestion, incontinence of feces, gastritis, salivary gland swelling, dry mouth, excessive salivation, abdominal pain/discomfort, swollen lips, dental caries
+Diarrhea and vomiting may be early signs of lithium toxicity, and may occur at lithium levels below 2 mEq/L.Transient and mild nausea may occur within the first few days of therapy.The development of metallic/salty taste, dental caries, and swollen lips were unrelated to dosage.
+Frequency not reported: Drying and thinning of hair, anesthesia of skin, acne/acneform eruptions, chronic folliculitis, xerosis cutis, alopecia, psoriasis exacerbation, cutaneous ulcers, papular skin disorders, generalized pruritus with/without rash
+The development of generalized pruritus with/without rash and cutaneous ulcers were unrelated to dosage.
+Frequency not reported: Euthyroid goiter, hypothyroidism (including myxedema), thyrotoxicosis, lower T3 and T4 levels, iodine 131 uptake increased, hyperthyroidism, hyperparathyroidism, diffuse nontoxic goiter with/without hypothyroidism
+Hyperthyroidism has been rarely reported, and may persist after discontinuation of treatment.Hyperparathyroidism may persist after discontinuation of treatment.The development of diffuse nontoxic goiter with/without hypothyroidism and hyperparathyroidism were unrelated to dosage.
+Muscular weakness develops early in lithium (the active ingredient contained in Eskalith) toxicity, and may occur at lithium levels below 2 mEq/L.Muscle hyperirritability includes fasciculations, twitching, clonic movements of whole limbs.The development of swollen/painful joints and polyarthralgia were unrelated to dosage.
+Frequency not reported: Muscular weakness, muscle hyperirritability, twitching, arthralgia/polyarthralgia, myalgia, myasthenia gravis, swollen/painful joints, rhabdomyolysis
+Frequency not reported: Oliguria, glycosuria, decreased creatinine clearance, nephrogenic diabetes insipidus, microcysts, nephrotic syndrome, histological renal changes with interstitial fibrosis
+Diabetes insipidus may persist after discontinuation of treatment.Histological renal changes with interstitial fibrosis occurred in patients on prolonged treatment, and was usually reversible upon discontinuation.  Long-term treatment may cause permanent kidney changes and impairment of renal function; high serum concentrations and/or acute lithium toxicity may worsen these changes.
+Frequency not reported: Anorexia, dehydration, weight loss, transient hyperglycemia/hyperglycemia, hypercalcemia, hypermagnesemia, excessive weight gain
+The development of transient hyperglycemia, hypercalcemia, and excessive weight gain were unrelated to dosage.
+Tinnitus occurred at levels above 2 mEq/L.Mild thirst may occur during initial therapy for the acute manic phase, and may persist during therapy; in some cases, thirst resembled diabetes insipidus.  The development of thirst was unrelated to dosage.General discomfort may also appear within the first few days of therapy.The development of fever was unrelated to dosage.
+Frequency not reported: Tinnitus, thirst, general discomfort, fasciculations, fatigue, feeling dazed, fever
+Frequency not reported: Large output of dilute urine, polyuria, incontinence of urine, albuminuria, polyuria, impotence/sexual dysfunction
+At levels above 2 mEq/L, patients excreted a large output of dilute urine.Polyuria may occur during initial therapy for the acute manic phase, and may persist during therapy; in some cases, polyuria resembled diabetes insipidus.  The development of polyuria was unrelated to dosage.The development of albuminuria was unrelated to dosage.
+Frequency not reported: Confusion, tics, hallucinations, delirium, worsening of organic brain syndromes
+The worsening of organic brain syndromes was unrelated to dosage.
+Frequency not reported: Angioedema, allergic rashes
+Frequency not reported: Blurred vision, transient scotomata/scotoma
+Blurred vision occurred at levels above 2 mEq/L.
+Frequency not reported: Oncocytoma, collecting duct renal carcinoma
+Collecting duct renal carcinoma occurred in patients on long-term therapy.
+Frequency not reported: Leukocytosis
+The development of leukocytosis was unrelated to dosage.
 Confusion, poor memory, or lack of awareness
 fainting
 fast or slow heartbeat
@@ -54,8 +38,6 @@ stiffness of the arms or legs
 troubled breathing (especially during hard work or exercise)
 unusual tiredness or weakness
 weight gain
-
-
 Blue color and pain in the fingers and toes
 coldness of the arms and legs
 dizziness
@@ -63,8 +45,6 @@ eye pain
 headache
 noise in the ears
 vision problems
-
-
 Dry, rough skin
 fast, irregular, pounding, or racing heartbeat or pulse
 hair loss
@@ -76,8 +56,6 @@ shortness of breath
 swelling of the feet or lower legs
 swelling of the neck
 unusual excitement
-
-
 Blurred vision
 clumsiness or unsteadiness
 convulsions (seizures)
@@ -91,9 +69,6 @@ nausea or vomiting
 ringing in the ears
 slurred speech
 trembling (severe)
-
-
 Acne or skin rash
 bloated feeling or pressure in the stomach
 muscle twitching (slight)
-

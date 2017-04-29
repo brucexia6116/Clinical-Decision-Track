@@ -1,5 +1,3 @@
-Generic Name: cisatracurium
-Applies to cisatracurium: parenteral injection
 Side effects include:
 Surgical patients: None with incidence >1% in clinical trials. 
 Intensive care patients: Prolonged recovery from neuromuscular blockade. 

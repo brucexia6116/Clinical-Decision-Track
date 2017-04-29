@@ -1,28 +1,16 @@
-Applies to methylergonovine: oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by methylergonovine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking methylergonovine:
-Some of the side effects that can occur with methylergonovine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to methylergonovine: injectable solution, oral tablet
-Cardiovascular side effects have included palpitations, hypertension, hypotension, acute myocardial infarction, transient chest pains, arterial spasm (coronary and peripheral), bradycardia, and tachycardia.  Postmarketing reports have included ventricular fibrillation, ventricular tachycardia, angina pectoris and atrioventricular block.[Ref]
-Hematologic side effects have included thrombophlebitis.[Ref]
-Metabolic side effects have included water intoxication.[Ref]
-Nervous system side effects have included tinnitus, hallucinations and dizziness.  Postmarketing reports have included cerebrovascular accident and paraesthesia.[Ref]
-Gastrointestinal side effects have included diarrhea, foul taste, nausea and vomiting.[Ref]
-Dermatologic side effects have included diaphoresis and rash.[Ref]
-Genitourinary side effects have included hematuria.[Ref]
-Respiratory side effects have included dyspnea and nasal congestion.[Ref]
-1. "Product Information. Methergine (methylergonovine)." Allscripts Healthcare Solutions, Chicago, IL. 
-Not all side effects for methylergonovine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Cardiovascular side effects have included palpitations, hypertension, hypotension, acute myocardial infarction, transient chest pains, arterial spasm (coronary and peripheral), bradycardia, and tachycardia.  Postmarketing reports have included ventricular fibrillation, ventricular tachycardia, angina pectoris and atrioventricular block.
+Hematologic side effects have included thrombophlebitis.
+Metabolic side effects have included water intoxication.
+Nervous system side effects have included tinnitus, hallucinations and dizziness.  Postmarketing reports have included cerebrovascular accident and paraesthesia.
+Gastrointestinal side effects have included diarrhea, foul taste, nausea and vomiting.
+Dermatologic side effects have included diaphoresis and rash.
+Genitourinary side effects have included hematuria.
+Respiratory side effects have included dyspnea and nasal congestion.
 injection solution
-
 Abdominal pain
 headache
 increased blood pressure
-
-
 Blood in the urine
 change in skin color
 chest pain or discomfort
@@ -39,8 +27,6 @@ slow or fast heartbeat
 skin rash
 sweating
 vomiting
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
@@ -51,8 +37,6 @@ severe or sudden headache
 slurred speech
 temporary blindness
 weakness in the arm or leg on one side of the body, sudden and severe
-
-
 Continuous ringing or buzzing or other unexplained noise in the ears
 cramps in the legs
 diarrhea
@@ -60,4 +44,3 @@ foul taste
 increased sweating
 nausea
 stuffy nose
-

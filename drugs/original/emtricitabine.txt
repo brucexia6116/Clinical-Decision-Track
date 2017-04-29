@@ -1,45 +1,19 @@
 More frequently reported side effects include: increased serum alanine aminotransferase, increased serum amylase, increased serum aspartate aminotransferase, and neutropenia.  See below for a comprehensive list of adverse effects.
-Applies to emtricitabine: oral capsule, oral solution
-In addition to its needed effects, some unwanted effects may be caused by emtricitabine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking emtricitabine:
-Some of the side effects that can occur with emtricitabine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to emtricitabine: oral capsule, oral solution
-The most common side effects reported during any of 3 large controlled clinical trials were headache, diarrhea, nausea, fatigue, dizziness, depression, insomnia, abnormal dreams, rash, abdominal pain, asthenia, increased cough, and rhinitis.During 2 clinical trials, the most common side effects associated with emtricitabine in combination with other antiretrovirals were headache, diarrhea, nausea, and rash.  Most were of mild to moderate severity.  Treatment was discontinued due to these adverse effects in approximately 1% of patients.Side effects have been reported for emtricitabine when taken in combination with other antiretroviral agents.[Ref]
-Dermatological side effects have included rash event (any Grade: up to 30%; Grades 2 to 4: 7%).  "Rash event" included rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, pustular rash, exfoliative rash, generalized rash, macular rash, pruritic rash, vesicular rash, and allergic reaction.  Skin discoloration (palmar-plantar hyperpigmentation) has been reported.[Ref]
-Nervous system side effects have included dizziness (any Grade: up to 25%; Grades 2 to 4: 8%), headache (any Grade: up to 22%; Grades 2 to 4: 6%), insomnia (any Grade: up to 16%; Grades 2 to 4: 5%), paresthesia (any Grade: up to 6%), neuropathy/peripheral neuritis (any Grade: 4%), and somnolence.[Ref]
-Gastrointestinal side effects have included diarrhea (any Grade: 23%; Grades 2 to 4: 9%), nausea (any Grade: up to 18%; Grades 2 to 4: 9%), vomiting (any Grade: 9%; Grades 2 to 4: 2%), and dyspepsia (any Grade: up to 8%).[Ref]
-Metabolic side effects have included blood glucose changes (less than 40 or greater than 250 mg/dL; up to 3%), hyperglycemia (greater than 250 mg/dL; 2%), and increased fasting cholesterol (greater than 240 mg/dL; 22%), triglycerides (greater than 750 mg/dL; up to 10%), serum amylase (greater than 2 times ULN: up to 5%; greater than 175 units/L: 8%), fasting triglycerides (greater than 750 mg/dL; 4%), pancreatic amylase (greater than 2 times ULN; up to 2%), serum lipase (greater than 2 times ULN; up to 1%), and alkaline phosphatase (greater than 550 units/L; 1%).  Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.[Ref]
-Respiratory side effects have included rhinitis (any Grade: up to 18%), increased cough (any Grade: 14%), sinusitis (Grades 2 to 4: 8%), upper respiratory tract infections (Grades 2 to 4: 8%), and nasopharyngitis (Grades 2 to 4: 5%).[Ref]
-Other side effects have included asthenia (any Grade: up to 16%), abdominal pain (any Grade: up to 14%), and fatigue (Grades 2 to 4: 9%).[Ref]
-Increased creatine kinase (greater than 990 units/L in males and 845 units/L in females) has been reported in 9% of patients.[Ref]
-Musculoskeletal side effects have included elevated creatine kinase (greater than 4 times ULN; up to 12%), myalgia (any Grade: up to 6%), and arthralgia (any Grade: up to 5%).[Ref]
+The most common side effects reported during any of 3 large controlled clinical trials were headache, diarrhea, nausea, fatigue, dizziness, depression, insomnia, abnormal dreams, rash, abdominal pain, asthenia, increased cough, and rhinitis.During 2 clinical trials, the most common side effects associated with emtricitabine in combination with other antiretrovirals were headache, diarrhea, nausea, and rash.  Most were of mild to moderate severity.  Treatment was discontinued due to these adverse effects in approximately 1% of patients.Side effects have been reported for emtricitabine when taken in combination with other antiretroviral agents.
+Dermatological side effects have included rash event (any Grade: up to 30%; Grades 2 to 4: 7%).  "Rash event" included rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, pustular rash, exfoliative rash, generalized rash, macular rash, pruritic rash, vesicular rash, and allergic reaction.  Skin discoloration (palmar-plantar hyperpigmentation) has been reported.
+Nervous system side effects have included dizziness (any Grade: up to 25%; Grades 2 to 4: 8%), headache (any Grade: up to 22%; Grades 2 to 4: 6%), insomnia (any Grade: up to 16%; Grades 2 to 4: 5%), paresthesia (any Grade: up to 6%), neuropathy/peripheral neuritis (any Grade: 4%), and somnolence.
+Gastrointestinal side effects have included diarrhea (any Grade: 23%; Grades 2 to 4: 9%), nausea (any Grade: up to 18%; Grades 2 to 4: 9%), vomiting (any Grade: 9%; Grades 2 to 4: 2%), and dyspepsia (any Grade: up to 8%).
+Metabolic side effects have included blood glucose changes (less than 40 or greater than 250 mg/dL; up to 3%), hyperglycemia (greater than 250 mg/dL; 2%), and increased fasting cholesterol (greater than 240 mg/dL; 22%), triglycerides (greater than 750 mg/dL; up to 10%), serum amylase (greater than 2 times ULN: up to 5%; greater than 175 units/L: 8%), fasting triglycerides (greater than 750 mg/dL; 4%), pancreatic amylase (greater than 2 times ULN; up to 2%), serum lipase (greater than 2 times ULN; up to 1%), and alkaline phosphatase (greater than 550 units/L; 1%).  Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
+Respiratory side effects have included rhinitis (any Grade: up to 18%), increased cough (any Grade: 14%), sinusitis (Grades 2 to 4: 8%), upper respiratory tract infections (Grades 2 to 4: 8%), and nasopharyngitis (Grades 2 to 4: 5%).
+Other side effects have included asthenia (any Grade: up to 16%), abdominal pain (any Grade: up to 14%), and fatigue (Grades 2 to 4: 9%).
+Increased creatine kinase (greater than 990 units/L in males and 845 units/L in females) has been reported in 9% of patients.
+Musculoskeletal side effects have included elevated creatine kinase (greater than 4 times ULN; up to 12%), myalgia (any Grade: up to 6%), and arthralgia (any Grade: up to 5%).
 Psychiatric side effects have included abnormal dreams (any Grade: up to 11%), depressive disorders (any Grade: up to 9%), and depression (Grades 2 to 4: 9%).
-Hepatic side effects have included elevated AST (greater than 5 times ULN; up to 6%), ALT (greater than 5 times ULN; up to 5%), and bilirubin (greater than 2.5 times ULN; up to 1%).  Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of emtricitabine and other nucleoside analogs alone or in combination with other antiretroviral agents.  Severe acute exacerbations of hepatitis B have been reported in patients coinfected with HIV-1 and hepatitis B after discontinuation of emtricitabine and were associated with liver failure and liver decompensation in some patients.[Ref]
-Increased AST (greater than 180 units/L in males and 170 units/L in females) has been reported in 3% of patients.  Increased ALT (greater than 215 units/L in males and 170 units/L in females) has been reported in 2% of patients.[Ref]
+Hepatic side effects have included elevated AST (greater than 5 times ULN; up to 6%), ALT (greater than 5 times ULN; up to 5%), and bilirubin (greater than 2.5 times ULN; up to 1%).  Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of emtricitabine and other nucleoside analogs alone or in combination with other antiretroviral agents.  Severe acute exacerbations of hepatitis B have been reported in patients coinfected with HIV-1 and hepatitis B after discontinuation of emtricitabine and were associated with liver failure and liver decompensation in some patients.
+Increased AST (greater than 180 units/L in males and 170 units/L in females) has been reported in 3% of patients.  Increased ALT (greater than 215 units/L in males and 170 units/L in females) has been reported in 2% of patients.
 Immunologic side effects have included immune reconstitution syndrome.  Autoimmune disorders (e.g., Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
-Hematologic side effects have included decreased neutrophils (less than 750/mm3; up to 5%).[Ref]
+Hematologic side effects have included decreased neutrophils (less than 750/mm3; up to 5%).
 Genitourinary side effects have included hematuria (greater than 75 RBC/HPF; 3%) and glycosuria (3 plus; less than 1%).
-1. "Product Information. Emtriva (emtricitabine)." Gilead Sciences, Foster City, CA. 
-2. Molina JM,  Journot V,  Morand-Joubert L, et al. "Simplification Therapy with Once-Daily Emtricitabine, Didanosine, and Efavirenz in HIV-1-Infected Adults with Viral Suppression Receiving a Protease Inhibitor-Based Regimen: A Randomized Trial." J Infect Dis 191 (2005): 830-9
-3. Benson CA,  van der Horst C,  Lamarca A, et al. "A randomized study of emtricitabine and lamivudine in stably suppressed patients with HIV." AIDS 18 (2004): 2269-2276
-4. Munoz de Benito RM,  Arribas Lopez JR "Tenofovir disoproxil fumarate-emtricitabine coformulation for once-daily dual NRTI backbone." Expert Rev Anti Infect Ther 4 (2006): 523-535
-5. Borras-Blasco J,  Navarro-Ruiz A,  Borras C,  Castera E "Adverse cutaneous reactions associated with the newest antiretroviral drugs in patients with human immunodeficiency virus infection." J Antimicrob Chemother 62 (2008): 879-88
-6. Frampton JE,  Perry CM "Emtricitabine: A Review of its Use in the Management of HIV Infection." Drugs 65 (2005): 1427-48
-7. Warnke D,  Barreto J,  Temesgen Z "Antiretroviral drugs." J Clin Pharmacol 47 (2007): 1570-9
-8. Panel on Antiretroviral Therapy and Medical Management of HIV-Infected Children. NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in pediatric HIV infection. Available from: URL: http://aidsinfo.nih.gov/guidelines/html/2/pediatric-treatment-guidelines/0"   ([2012 Nov 5]):
-9. Piacenti FJ "An update and review of antiretroviral therapy." Pharmacotherapy 26 (2006): 1111-33
-10. "Drugs for HIV infection." Treat Guidel Med Lett 7 (2009): 11-22
-11. Frampton JE,  Croom KF "Efavirenz/Emtricitabine/Tenofovir disoproxil fumarate: triple combination tablet." Drugs 66 (2006): 1501-12
-12. "A once-daily combination tablet (Atripla) for HIV." Med Lett Drugs Ther 48 (2006): 78-9
-13. HHS Panel on Antiretroviral Guidelines for Adults
-and Adolescents – A Working Group of the Office of AIDS Research
-Advisory Council (OARAC). NIH. National Institutes of Health "Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Available from: URL: http://aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf."   ([2011 Oct 14]):
-14. Blum MR,  Chittick GE,  Begley JA,  Zong J "Steady-state pharmacokinetics of emtricitabine and tenofovir disoproxil fumarate administered alone and in combination in healthy volunteers." J Clin Pharmacol 47 (2007): 751-9
-15. Lim SG,  Ng TM,  Kung N, et al. "A Double-blind Placebo-Controlled Study of Emtricitabine in Chronic Hepatitis B." Arch Intern Med 166 (2006): 49-56
-Not all side effects for emtricitabine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Burning, crawling, itching, numbness, prickling, "pins and needles”, or tingling feelings
 chest pain or tightness
 cough or hoarseness
@@ -50,12 +24,8 @@ pale skin
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Sensation of pins and needles
 stabbing pain
-
-
 Abdominal or stomach pain
 abnormal dreams
 darkening or redness of the skin
@@ -69,11 +39,8 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 rash, hives, or welts on the skin
 spots on your skin resembling a blister or pimple
 vomiting
-
-
 Joint pain or swelling
 muscle stiffness
 trouble sleeping
 unsteadiness or awkwardness
 weakness in the arms, hands, legs, or feet
-

@@ -1,33 +1,23 @@
 Commonly reported side effects of dasatinib include: pericardial effusion, pleural effusion, pulmonary edema, dyspnea, fluid retention, and gastrointestinal hemorrhage. Other side effects include: anasarca.  See below for a comprehensive list of adverse effects.
-Applies to dasatinib: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by dasatinib. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dasatinib:
-Some of the side effects that can occur with dasatinib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dasatinib: oral tablet
-In the phase III dose optimization study in patients with chronic phase CML, grade 3 or 4 myelosuppression occurred more frequently in patients treated with the 70 mg twice daily regimen than in those treated with a 100 mg once daily regimen.[Ref]
-Very common (10% or more): Hemorrhage (11 to 26%)Common (1% to 10%): Febrile neutropenia, pancytopeniaUncommon (0.1% to 1%): CNS bleedingRare (Less than 0.1%): Aplasia pure red cell[Ref]
-The most common side effects included fluid retention, musculoskeletal pain, diarrhea, rash, and headache.[Ref]
-Very common (10% or more): Diarrhea (18 to 31%), vomiting (11 to 16%), nausea (18 to 24%), abdominal pain (12%)Common (1% to 10%): Enterocolitis infection, gastrointestinal bleeding, neutropenic colitis, gastritis, mucositis, stomatitis, dyspepsia, abdominal distension, constipation, oral soft tissue disorderUncommon (0.1% to 1%): Pancreatitis, upper gastrointestinal ulcer, esophagitis, ascites, anal fissure, dysphagiaRare (Less than 0.1%): Protein-losing gastroenteropathy, ileusPostmarketing reports: Fatal gastrointestinal hemorrhage[Ref]
-Very common (10% or more): Headache (13 to 33%)Common (1% to 10%): Neuropathy, peripheral neuropathy, dizziness, dysgeusia, somnolenceUncommon (0.1% to 1%): Syncope, amnesia, tremorRare (Less than 0.1%): Cerebrovascular accident, transient ischemic attack, convulsion, optic neuritis, seventh nerve paralysis[Ref]
-Very common (10% or more): Musculoskeletal pain (11 to 22%)Common (1% to 10%): Arthralgia, myalgia, muscular weakness, musculoskeletal stiffness, muscle spasm, chillsUncommon (0.1% to 1%): Rhabdomyolysis, muscle inflammation, tendonitis, blood creatine phosphokinase increased[Ref]
-Very common (10% or more): Pleural effusion (11 to 24%), dyspnea (15 to 24%), coughCommon (1% to 10%): Pneumonia (including bacterial, viral, fungal), upper respiratory tract infection, pulmonary edema, pulmonary hypertension, lung infiltration, pneumonitisUncommon (0.1% to 1%): Bronchospasm, asthmaRare (Less than 0.1%): Acute respiratory distress syndromePostmarketing reports: Pulmonary embolism, interstitial lung disease, pulmonary arterial hypertension[Ref]
-Common (1% to 10%): Anorexia, appetite disturbances, hyperuricemia, weight decreased, weight increasedUncommon (0.1% to 1%): Hypoalbuminemia[Ref]
-Uncommon (0.1% to 1%): Hepatitis, cholecystitis, cholestasis[Ref]
-Common (1% to 10%): Congestive heart failure, cardiac dysfunction, pericardial effusion, arrhythmia, tachycardia, palpitations, hypertension, chest painUncommon (0.1% to 1%): Myocardial infarction, electrocardiogram QT prolongation, pericarditis, ventricular arrhythmia, ventricular tachycardia, angina pectoris, cardiomegaly, hypotensionRare (less than 0.1%): Cor pulmonale, myocarditis, acute coronary syndromePostmarketing reports: Atrial fibrillation, atrial flutter[Ref]
-Results from phase II single arm clinical studies of 911 patients reported QT prolongation in 9 patients.  Three patients (less than 1%) experienced a QTcF greater than 500 milliseconds.  In the phase III dose optimization study in patients with chronic phase CML, pleural effusion and congestive cardiac failure/cardiac dysfunction occurred more frequently in the 70 mg twice a day regimen than in those treated with a 100 mg once daily regimen.[Ref]
-Very common (10% or more): Skin rash (15 to 21%)Common (1% to 10%): Flushing, alopecia, dermatitis, eczema, pruritus, acne, dry skin, urticaria, hyperhidrosis, contusionUncommon (0.1% to 1%): Acute febrile neutrophilic dermatosis, photosensitivity, pigmentation disorder, panniculitis, skin ulcer, bullous conditions, nail disorder, palmar-plantar erythrodysesthesia syndrome Rare (Less than 0.1%): Livedo reticularis[Ref]
-Very common (10% or more): Fluid retention (21 to 42%)Uncommon (0.1% to 1%): Renal failure, urinary frequency, proteinuria[Ref]
-Very common (10% or more): Fatigue (19 to 26%), superficial edema (10 to 21%), pyrexia (11 to 18%)Common (1% to 10%): Tinnitus, pain, generalized edema, astheniaUncommon (0.1% to 10%): Vertigo, thrombophlebitis, gynecomastia, irregular menstruation, malaise, temperature intolerancePostmarketing reports: Deep vein thrombosis[Ref]
-Common (1% to 10%): Depression, insomniaUncommon (0.1% to 1%): Anxiety, confusion, affect lability, libido decreased[Ref]
-Uncommon (0.1% to 1%): Erythema nodosum, unspecified hypersensitivity reaction[Ref]
-Common (1% to 10%): Visual disturbance, blurred vision, reduction in visual acuity, dry eyeUncommon (0.1% to 1%): ConjunctivitisRare (Less than 0.1%): Visual impairment[Ref]
-Uncommon (0.1% to 1%): Tumor lysis syndrome[Ref]
-Very common (10% or more): Infection (including bacterial, viral, fungal, non-specified) (10 to 14%)Common (1% to 10%): Sepsis[Ref]
-1. "Product Information. Sprycel (dasatinib)." Bristol-Myers Squibb, Princeton, NJ. 
-Not all side effects for dasatinib may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+In the phase III dose optimization study in patients with chronic phase CML, grade 3 or 4 myelosuppression occurred more frequently in patients treated with the 70 mg twice daily regimen than in those treated with a 100 mg once daily regimen.
+Very common (10% or more): Hemorrhage (11 to 26%)Common (1% to 10%): Febrile neutropenia, pancytopeniaUncommon (0.1% to 1%): CNS bleedingRare (Less than 0.1%): Aplasia pure red cell
+The most common side effects included fluid retention, musculoskeletal pain, diarrhea, rash, and headache.
+Very common (10% or more): Diarrhea (18 to 31%), vomiting (11 to 16%), nausea (18 to 24%), abdominal pain (12%)Common (1% to 10%): Enterocolitis infection, gastrointestinal bleeding, neutropenic colitis, gastritis, mucositis, stomatitis, dyspepsia, abdominal distension, constipation, oral soft tissue disorderUncommon (0.1% to 1%): Pancreatitis, upper gastrointestinal ulcer, esophagitis, ascites, anal fissure, dysphagiaRare (Less than 0.1%): Protein-losing gastroenteropathy, ileusPostmarketing reports: Fatal gastrointestinal hemorrhage
+Very common (10% or more): Headache (13 to 33%)Common (1% to 10%): Neuropathy, peripheral neuropathy, dizziness, dysgeusia, somnolenceUncommon (0.1% to 1%): Syncope, amnesia, tremorRare (Less than 0.1%): Cerebrovascular accident, transient ischemic attack, convulsion, optic neuritis, seventh nerve paralysis
+Very common (10% or more): Musculoskeletal pain (11 to 22%)Common (1% to 10%): Arthralgia, myalgia, muscular weakness, musculoskeletal stiffness, muscle spasm, chillsUncommon (0.1% to 1%): Rhabdomyolysis, muscle inflammation, tendonitis, blood creatine phosphokinase increased
+Very common (10% or more): Pleural effusion (11 to 24%), dyspnea (15 to 24%), coughCommon (1% to 10%): Pneumonia (including bacterial, viral, fungal), upper respiratory tract infection, pulmonary edema, pulmonary hypertension, lung infiltration, pneumonitisUncommon (0.1% to 1%): Bronchospasm, asthmaRare (Less than 0.1%): Acute respiratory distress syndromePostmarketing reports: Pulmonary embolism, interstitial lung disease, pulmonary arterial hypertension
+Common (1% to 10%): Anorexia, appetite disturbances, hyperuricemia, weight decreased, weight increasedUncommon (0.1% to 1%): Hypoalbuminemia
+Uncommon (0.1% to 1%): Hepatitis, cholecystitis, cholestasis
+Common (1% to 10%): Congestive heart failure, cardiac dysfunction, pericardial effusion, arrhythmia, tachycardia, palpitations, hypertension, chest painUncommon (0.1% to 1%): Myocardial infarction, electrocardiogram QT prolongation, pericarditis, ventricular arrhythmia, ventricular tachycardia, angina pectoris, cardiomegaly, hypotensionRare (less than 0.1%): Cor pulmonale, myocarditis, acute coronary syndromePostmarketing reports: Atrial fibrillation, atrial flutter
+Results from phase II single arm clinical studies of 911 patients reported QT prolongation in 9 patients.  Three patients (less than 1%) experienced a QTcF greater than 500 milliseconds.  In the phase III dose optimization study in patients with chronic phase CML, pleural effusion and congestive cardiac failure/cardiac dysfunction occurred more frequently in the 70 mg twice a day regimen than in those treated with a 100 mg once daily regimen.
+Very common (10% or more): Skin rash (15 to 21%)Common (1% to 10%): Flushing, alopecia, dermatitis, eczema, pruritus, acne, dry skin, urticaria, hyperhidrosis, contusionUncommon (0.1% to 1%): Acute febrile neutrophilic dermatosis, photosensitivity, pigmentation disorder, panniculitis, skin ulcer, bullous conditions, nail disorder, palmar-plantar erythrodysesthesia syndrome Rare (Less than 0.1%): Livedo reticularis
+Very common (10% or more): Fluid retention (21 to 42%)Uncommon (0.1% to 1%): Renal failure, urinary frequency, proteinuria
+Very common (10% or more): Fatigue (19 to 26%), superficial edema (10 to 21%), pyrexia (11 to 18%)Common (1% to 10%): Tinnitus, pain, generalized edema, astheniaUncommon (0.1% to 10%): Vertigo, thrombophlebitis, gynecomastia, irregular menstruation, malaise, temperature intolerancePostmarketing reports: Deep vein thrombosis
+Common (1% to 10%): Depression, insomniaUncommon (0.1% to 1%): Anxiety, confusion, affect lability, libido decreased
+Uncommon (0.1% to 1%): Erythema nodosum, unspecified hypersensitivity reaction
+Common (1% to 10%): Visual disturbance, blurred vision, reduction in visual acuity, dry eyeUncommon (0.1% to 1%): ConjunctivitisRare (Less than 0.1%): Visual impairment
+Uncommon (0.1% to 1%): Tumor lysis syndrome
+Very common (10% or more): Infection (including bacterial, viral, fungal, non-specified) (10 to 14%)Common (1% to 10%): Sepsis
 Bloody or black, tarry stools
 body aches or pain
 burning, tingling, numbness or pain in the hands, arms, feet, or legs
@@ -68,8 +58,6 @@ unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 weakness in the arms, hands, legs, or feet
 weight gain
-
-
 Bloating
 blue lips and fingernails
 chest discomfort
@@ -83,14 +71,10 @@ irregular heartbeat
 nausea
 swelling
 swelling in the legs and ankles
-
-
 Anxiety
 pain, redness, or swelling in the arm or leg
 sudden shortness of breath or troubled breathing
 tenderness, pain, swelling, warmth, skin discoloration, and prominent superficial veins over the affected area
-
-
 Abdominal or stomach pain
 bleeding gums
 cracked lips
@@ -112,4 +96,3 @@ red or dark brown urine
 swollen joints
 vomiting
 weight loss
-

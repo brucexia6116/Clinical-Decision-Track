@@ -1,28 +1,17 @@
-Generic Name: methyclothiazide
-Applies to methyclothiazide: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by methyclothiazide (the active ingredient contained in Enduron). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking methyclothiazide:
-Some of the side effects that can occur with methyclothiazide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to methyclothiazide: compounding powder, oral tablet
-Frequency not reported: Pancreatitis, sialadenitis, vomiting, diarrhea, nausea, gastric irritation, constipation[Ref]
-Frequency not reported: Cutaneous vasculitis, purpura, urticaria, rash, photosensitivity[Ref]
-Frequency not reported: Aplastic anemia, hemolytic anemia, agranulocytosis, leukopenia, thrombocytopenia[Ref]
-Frequency not reported: Anorexia, hyperglycemia, hyperuricemia, electrolyte imbalance, hypercalcemia[Ref]
-Frequency not reported: Headache, vertigo, dizziness, paresthesias[Ref]
-Frequency not reported: Respiratory distress, pneumonitis, pulmonary edema[Ref]
-Frequency not reported: Orthostatic hypotension, vasculitis[Ref]
-Frequency not reported: Anaphylactic reaction, Stevens-Johnson syndrome[Ref]
-Frequency not reported: Cramping, muscle spasm[Ref]
-Frequency not reported: Transient blurred vision, xanthopsia[Ref]
-Frequency not reported: Weakness, fever[Ref]
-Frequency not reported: Glycosuria[Ref]
-Frequency not reported: Intrahepatic cholestatic jaundice[Ref]
-Frequency not reported: Restlessness[Ref]
-1. "Product Information. Enduron (methyclothiazide)." Abbott Pharmaceutical, Abbott Park, IL. 
-Not all side effects for Enduron may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Pancreatitis, sialadenitis, vomiting, diarrhea, nausea, gastric irritation, constipation
+Frequency not reported: Cutaneous vasculitis, purpura, urticaria, rash, photosensitivity
+Frequency not reported: Aplastic anemia, hemolytic anemia, agranulocytosis, leukopenia, thrombocytopenia
+Frequency not reported: Anorexia, hyperglycemia, hyperuricemia, electrolyte imbalance, hypercalcemia
+Frequency not reported: Headache, vertigo, dizziness, paresthesias
+Frequency not reported: Respiratory distress, pneumonitis, pulmonary edema
+Frequency not reported: Orthostatic hypotension, vasculitis
+Frequency not reported: Anaphylactic reaction, Stevens-Johnson syndrome
+Frequency not reported: Cramping, muscle spasm
+Frequency not reported: Transient blurred vision, xanthopsia
+Frequency not reported: Weakness, fever
+Frequency not reported: Glycosuria
+Frequency not reported: Intrahepatic cholestatic jaundice
+Frequency not reported: Restlessness
 Abdominal or stomach pain
 back, leg, or stomach pains
 black, tarry stools
@@ -112,8 +101,6 @@ weakness and heaviness of legs
 weight gain
 wheezing
 yellow eyes or skin
-
-
 Cramping
 decreased interest in sexual intercourse
 difficulty having a bowel movement (stool)
@@ -129,4 +116,3 @@ restlessness
 sensation of spinning
 severe sunburn
 weakness
-

@@ -1,30 +1,20 @@
 Commonly reported side effects of cabozantinib include: diarrhea, hypocalcemia, hypertension, and palmar-plantar erythrodysesthesia. Other side effects include: venous thromboembolism, asthenia, fatigue, and decreased appetite.  See below for a comprehensive list of adverse effects.
-Applies to cabozantinib: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by cabozantinib. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking cabozantinib:
-Some of the side effects that can occur with cabozantinib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cabozantinib: oral capsule, oral tablet
-Very common (10% or more): Elevated blood pressure (up to 96%), hypertension (up to 61%)Common (1% to 10%): Hypotension, venous thromboembolism, arterial thromboembolism, atrial fibrillationUncommon (0.1% to 1%): Angina pectoris, supraventricular tachycardia, shortened activated partial thromboplastin timeFrequency not reported: QT interval prolongation[Ref]
-Very common (10% or more): Increased ALT (up to 86%), increased AST (up to 86%), increased alkaline phosphatase (up to 52%), hyperbilirubinemia (up to 25%)Common (1% to 10%): CholelithiasisUncommon (0.1% to 1%): Hepatic encephalopathy[Ref]
-Very common (10% or more): Diarrhea (up to 63%), stomatitis (up to 51%), nausea (up to 43%), oral pain (up to 36%), constipation (up to 27%), abdominal pain (up to 27%), vomiting (up to 24%), dysphagia (up to 13%), dyspepsia (up to 11%), glossodyniaCommon (1% to 10%): Hemorrhoids, GI perforation, GI fistula, GI hemorrhage, pancreatitis, anal fissure, anal inflammation, cheilitisUncommon (0.1% to 1%): Esophagitis[Ref]
-Very common (10% or more): Increased blood thyroid stimulating hormone (up to 57%)Common (1% to 10%): HypothyroidismUncommon (0.1% to 1%): Amenorrhea[Ref]
-Very common (10% or more): Lymphopenia (up to 53%), neutropenia (up to 35%), thrombocytopenia (up to 35%)Uncommon (0.1% to 1%): Increased eosinophil count, increased platelet count[Ref]
-Very common (10% or more): Palmar-plantar erythrodysesthesia syndrome (up to 50%), hair color changes/depigmentation/graying (up to 34%), rash (up to 19%), dry skin (up to 19%), alopecia (up to 16%), erythema (up to 11%)Common (1% to 10%): Hyperkeratosis, folliculitis, acne, blister, abnormal hair growth, skin exfoliation, skin hypopigmentationUncommon (0.1% to 1%): Skin ulcer, telangiectasia[Ref]
-Very common (10% or more): Decreased weight (up to 48%), decreased appetite (up to 46%), hypocalcemia (up to 52%), hypophosphatemia (up to 28%), hypomagnesemia (up to 19%), hypokalemia (up to 18%), hyponatremia (up to 10%), increased blood lactate dehydrogenase, increased blood creatinine phosphokinaseCommon (1% to 10%): Dehydration, hypoalbuminemia[Ref]
-Very common (10% or more): Fatigue (up to 41%), asthenia (up to 21%), mucosal inflammationCommon (1% to 10%): Abscess (including visceral, intra-abdominal, skin, tooth), fungal infection (including skin, oral, genital), ear pain, tinnitus, pallor, peripheral coldness, impaired wound healing/wound complications, chills, face edemaUncommon (0.1% to 1%): Aspergilloma, hypoacusis, cyst, facial pain, localized edemaFrequency not reported: Hemorrhage[Ref]
-Very common (10% or more): Dysgeusia (up to 34%), headache (up to 18%), dizziness (up to 14%)Common (1% to 10%): Paresthesia, peripheral sensory neuropathy, peripheral neuropathy, ageusia, tremorUncommon (0.1% to 1%): Reversible posterior leukoencephalopathy syndrome, ataxia, attention disturbance, loss of consciousness, speech disorder, transient ischemic attack[Ref]
-Very common (10% or more): Arthralgia (up to 14%), muscle spasms (up to 12%)Common (1% to 10%): Musculoskeletal chest pain, osteonecrosis of the jawUncommon (0.1% to 1%): Rhabdomyolysis[Ref]
-Patients should be closely monitored for the first 8 weeks as most adverse events have occurred early in the course of treatment.[Ref]
-Common (1% to 10%): Proteinuria, dysuria, hematuriaUncommon (0.1% to 1%): Vaginal hemorrhage[Ref]
-Common (1% to 10%): Blurred visionUncommon (0.1% to 1%): Cataract, conjunctivitis[Ref]
-Common (1% to 10%): Anxiety, depression, confusional stateUncommon (0.1% to 1%): Abnormal dreams, delirium[Ref]
-Very common (10% or more): Dysphonia (up to 20%),oropharyngeal painCommon (1% to 10%): Non-GI fistula (including tracheal, pneumomediastinum, tracheo-esophageal), pulmonary embolism, respiratory tract hemorrhage (including pulmonary, bronchial, tracheal), pneumonia, pneumonia aspirationUncommon (0.1% to 1%): Atelectasis, pharyngeal edema, pneumonitis[Ref]
-Uncommon (0.1% to 1%): Acute renal failure[Ref]
-1. "Product Information. Cometriq (cabozantinib)." Exelixis Inc, S San Francisco, CA. 
-Not all side effects for cabozantinib may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Elevated blood pressure (up to 96%), hypertension (up to 61%)Common (1% to 10%): Hypotension, venous thromboembolism, arterial thromboembolism, atrial fibrillationUncommon (0.1% to 1%): Angina pectoris, supraventricular tachycardia, shortened activated partial thromboplastin timeFrequency not reported: QT interval prolongation
+Very common (10% or more): Increased ALT (up to 86%), increased AST (up to 86%), increased alkaline phosphatase (up to 52%), hyperbilirubinemia (up to 25%)Common (1% to 10%): CholelithiasisUncommon (0.1% to 1%): Hepatic encephalopathy
+Very common (10% or more): Diarrhea (up to 63%), stomatitis (up to 51%), nausea (up to 43%), oral pain (up to 36%), constipation (up to 27%), abdominal pain (up to 27%), vomiting (up to 24%), dysphagia (up to 13%), dyspepsia (up to 11%), glossodyniaCommon (1% to 10%): Hemorrhoids, GI perforation, GI fistula, GI hemorrhage, pancreatitis, anal fissure, anal inflammation, cheilitisUncommon (0.1% to 1%): Esophagitis
+Very common (10% or more): Increased blood thyroid stimulating hormone (up to 57%)Common (1% to 10%): HypothyroidismUncommon (0.1% to 1%): Amenorrhea
+Very common (10% or more): Lymphopenia (up to 53%), neutropenia (up to 35%), thrombocytopenia (up to 35%)Uncommon (0.1% to 1%): Increased eosinophil count, increased platelet count
+Very common (10% or more): Palmar-plantar erythrodysesthesia syndrome (up to 50%), hair color changes/depigmentation/graying (up to 34%), rash (up to 19%), dry skin (up to 19%), alopecia (up to 16%), erythema (up to 11%)Common (1% to 10%): Hyperkeratosis, folliculitis, acne, blister, abnormal hair growth, skin exfoliation, skin hypopigmentationUncommon (0.1% to 1%): Skin ulcer, telangiectasia
+Very common (10% or more): Decreased weight (up to 48%), decreased appetite (up to 46%), hypocalcemia (up to 52%), hypophosphatemia (up to 28%), hypomagnesemia (up to 19%), hypokalemia (up to 18%), hyponatremia (up to 10%), increased blood lactate dehydrogenase, increased blood creatinine phosphokinaseCommon (1% to 10%): Dehydration, hypoalbuminemia
+Very common (10% or more): Fatigue (up to 41%), asthenia (up to 21%), mucosal inflammationCommon (1% to 10%): Abscess (including visceral, intra-abdominal, skin, tooth), fungal infection (including skin, oral, genital), ear pain, tinnitus, pallor, peripheral coldness, impaired wound healing/wound complications, chills, face edemaUncommon (0.1% to 1%): Aspergilloma, hypoacusis, cyst, facial pain, localized edemaFrequency not reported: Hemorrhage
+Very common (10% or more): Dysgeusia (up to 34%), headache (up to 18%), dizziness (up to 14%)Common (1% to 10%): Paresthesia, peripheral sensory neuropathy, peripheral neuropathy, ageusia, tremorUncommon (0.1% to 1%): Reversible posterior leukoencephalopathy syndrome, ataxia, attention disturbance, loss of consciousness, speech disorder, transient ischemic attack
+Very common (10% or more): Arthralgia (up to 14%), muscle spasms (up to 12%)Common (1% to 10%): Musculoskeletal chest pain, osteonecrosis of the jawUncommon (0.1% to 1%): Rhabdomyolysis
+Patients should be closely monitored for the first 8 weeks as most adverse events have occurred early in the course of treatment.
+Common (1% to 10%): Proteinuria, dysuria, hematuriaUncommon (0.1% to 1%): Vaginal hemorrhage
+Common (1% to 10%): Blurred visionUncommon (0.1% to 1%): Cataract, conjunctivitis
+Common (1% to 10%): Anxiety, depression, confusional stateUncommon (0.1% to 1%): Abnormal dreams, delirium
+Very common (10% or more): Dysphonia (up to 20%),oropharyngeal painCommon (1% to 10%): Non-GI fistula (including tracheal, pneumomediastinum, tracheo-esophageal), pulmonary embolism, respiratory tract hemorrhage (including pulmonary, bronchial, tracheal), pneumonia, pneumonia aspirationUncommon (0.1% to 1%): Atelectasis, pharyngeal edema, pneumonitis
+Uncommon (0.1% to 1%): Acute renal failure
 Blurred vision
 burning, numbness, tingling, or painful sensations
 dehydration
@@ -47,8 +37,6 @@ tingling of the hands and feet
 unsteadiness or awkwardness
 vision changes
 weakness in the arms, hands, legs, or feet
-
-
 Bleeding gums
 bloody, black, or tarry stools
 coughing up blood
@@ -66,8 +54,6 @@ red or dark brown urine
 severe abdominal or stomach pain, cramping, or burning
 trouble breathing
 vomiting of material that looks like coffee grounds, severe and continuing
-
-
 Confusion
 disturbed color perception
 double vision
@@ -76,8 +62,6 @@ night blindness
 overbright appearance of lights
 seizures
 tunnel vision
-
-
 Acid or sour stomach
 belching
 bleeding after defecation
@@ -104,4 +88,3 @@ swelling or inflammation of the mouth
 uncomfortable swelling around the anus
 voice changes
 vomiting
-

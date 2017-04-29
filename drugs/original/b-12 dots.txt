@@ -1,30 +1,17 @@
-Generic Name: cyanocobalamin
-Applies to cyanocobalamin: intramuscular solution
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by cyanocobalamin (the active ingredient contained in B-12 Dots). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking cyanocobalamin, check with your doctor or nurse immediately:
-Some of the side effects that can occur with cyanocobalamin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cyanocobalamin: compounding powder, injectable solution, intramuscular solution, nasal gel, nasal spray, oral tablet, oral tablet extended release, sublingual lozenge, sublingual tablet
-Frequency not reported: Congestive heart failure, peripheral vascular thrombosis, cardiac arrest, low blood pressure[Ref]
-Patients sensitized to the injectable product are often able to tolerate the oral route without problems.[Ref]
-Frequency not reported: Anaphylactic shock and death, allergic hypersensitivity reactions[Ref]
-Frequency not reported: Mild transient diarrhea, prolonged abdominal pain, prolonged nausea or vomiting[Ref]
-Frequency not reported: Severe dizziness, drowsiness, muscular paralysis, loss of consciousness[Ref]
-Frequency not reported: Itching, transitory exanthema, acneiform eruptions, bullous eruptions[Ref]
-Frequency not reported: Pulmonary edema[Ref]
-Frequency not reported: Hypokalemia[Ref]
-Frequency not reported: Polycythemia vera[Ref]
-Frequency not reported: Vision problems[Ref]
-Frequency not reported: Feeling of swelling of entire body[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Cyanocobalamin (cyanocobalamin)." West-Ward Pharmaceutical Corporation, Eatontown, NJ. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for B-12 Dots may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Frequency not reported: Congestive heart failure, peripheral vascular thrombosis, cardiac arrest, low blood pressure
+Patients sensitized to the injectable product are often able to tolerate the oral route without problems.
+Frequency not reported: Anaphylactic shock and death, allergic hypersensitivity reactions
+Frequency not reported: Mild transient diarrhea, prolonged abdominal pain, prolonged nausea or vomiting
+Frequency not reported: Severe dizziness, drowsiness, muscular paralysis, loss of consciousness
+Frequency not reported: Itching, transitory exanthema, acneiform eruptions, bullous eruptions
+Frequency not reported: Pulmonary edema
+Frequency not reported: Hypokalemia
+Frequency not reported: Polycythemia vera
+Frequency not reported: Vision problems
+Frequency not reported: Feeling of swelling of entire body
 nasal gel/jelly, nasal spray
-
 Abdominal or stomach pain
 bleeding from the gums or nose
 blue lips and fingernails
@@ -51,8 +38,5 @@ swelling of the face, fingers, feet, or lower legs
 tightness in the chest
 unusual tiredness or weakness
 weight gain
-
-
 Diarrhea
 skin rash with a general disease
-

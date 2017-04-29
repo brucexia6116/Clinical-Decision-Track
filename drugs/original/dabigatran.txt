@@ -1,29 +1,17 @@
-Applies to dabigatran: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by dabigatran. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dabigatran:
-
-
-Applies to dabigatran: oral capsule
-Bleeding is the most serious side effect reported with dabigatran.  Major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.[Ref]
-Major bleeds have occurred in critical areas or organs such as, intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal, intra-articular, or pericardial.[Ref]
-Very common (10% or more): Bleeding up to 16.5%Uncommon (0.1% to 1%): Hematoma, hemorrhage[Ref]
-Very common (10% or more): Dyspepsia: upper abdominal pain, abdominal discomfort, epigastric discomfort; gastritis like symptoms, esophagitis, erosive gastritis, gastric hemorrhage, hemorrhagic gastritis, hemorrhagic erosive gastritis, and gastrointestinal ulcerCommon (1% to 10%): Diarrhea, nauseaUncommon (0.1% to 1%): rectal hemorrhage, hemorrhoidal hemorrhage, vomiting, dysphagiaPostmarketing reports: Esophageal ulcer[Ref]
-Common (1% to 10%): Skin hemorrhagePostmarketing reports: Angioedema[Ref]
-Common (1% to 10%): AnemiaUncommon (0.1% to 1%): Hemoglobin decreased, thrombocytopenia, occult blood positiveRare (less than 0.1%): Hematocrit decreased Postmarketing reports: Thrombocytopenia[Ref]
-Common (1% to 10%): Wound secretion (5%)Rare (less than 0.1%): Traumatic hemorrhage[Ref]
-Common (1% to 10%): Urogenital hemorrhage (including hematuria 1.2%) Uncommon (0.1% to 1%): Positive blood urine tests[Ref]
-Common (1% to 10%): Epitaxis (0.6% to 0.7%)Uncommon (0.1% to 1%): Hemoptysis[Ref]
-Uncommon (0.1% to 1%): Abnormal hepatic function/liver function test, ALT increased, AST increased, hepatic enzyme increasedRare (less than 0.1%): Hyperbilirubinemia, transaminases increased[Ref]
-Uncommon (0.1% to 1%): Urticaria, rash, pruritus, allergic edema, anaphylactic reaction, anaphylactic shockFrequency not reported: Bronchospasm[Ref]
-Uncommon (0.1% to 1%): Hemarthrosis[Ref]
-Uncommon (0.1% to 1%): Intracranial hemorrhageFrequency not reported: Intracerebral hemorrhage (Hemorrhagic stroke), subarachnoid and subdural bleeds[Ref]
-Rare (less than 0.1%): Injection site hemorrhage, catheter site hemorrhage, incision site hemorrhage[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Pradaxa (dabigatran)." Boehringer-Ingelheim, Ridgefield, CT. 
-4. To K,  Reynolds C,  Spinler SA "Rash associated with dabigatran etexilate." Pharmacotherapy 33 (2013): e23-7
-Not all side effects for dabigatran may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Bleeding is the most serious side effect reported with dabigatran.  Major or severe bleeding may occur and, regardless of location, may lead to disabling, life-threatening or even fatal outcomes.
+Major bleeds have occurred in critical areas or organs such as, intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal, intra-articular, or pericardial.
+Very common (10% or more): Bleeding up to 16.5%Uncommon (0.1% to 1%): Hematoma, hemorrhage
+Very common (10% or more): Dyspepsia: upper abdominal pain, abdominal discomfort, epigastric discomfort; gastritis like symptoms, esophagitis, erosive gastritis, gastric hemorrhage, hemorrhagic gastritis, hemorrhagic erosive gastritis, and gastrointestinal ulcerCommon (1% to 10%): Diarrhea, nauseaUncommon (0.1% to 1%): rectal hemorrhage, hemorrhoidal hemorrhage, vomiting, dysphagiaPostmarketing reports: Esophageal ulcer
+Common (1% to 10%): Skin hemorrhagePostmarketing reports: Angioedema
+Common (1% to 10%): AnemiaUncommon (0.1% to 1%): Hemoglobin decreased, thrombocytopenia, occult blood positiveRare (less than 0.1%): Hematocrit decreased Postmarketing reports: Thrombocytopenia
+Common (1% to 10%): Wound secretion (5%)Rare (less than 0.1%): Traumatic hemorrhage
+Common (1% to 10%): Urogenital hemorrhage (including hematuria 1.2%) Uncommon (0.1% to 1%): Positive blood urine tests
+Common (1% to 10%): Epitaxis (0.6% to 0.7%)Uncommon (0.1% to 1%): Hemoptysis
+Uncommon (0.1% to 1%): Abnormal hepatic function/liver function test, ALT increased, AST increased, hepatic enzyme increasedRare (less than 0.1%): Hyperbilirubinemia, transaminases increased
+Uncommon (0.1% to 1%): Urticaria, rash, pruritus, allergic edema, anaphylactic reaction, anaphylactic shockFrequency not reported: Bronchospasm
+Uncommon (0.1% to 1%): Hemarthrosis
+Uncommon (0.1% to 1%): Intracranial hemorrhageFrequency not reported: Intracerebral hemorrhage (Hemorrhagic stroke), subarachnoid and subdural bleeds
+Rare (less than 0.1%): Injection site hemorrhage, catheter site hemorrhage, incision site hemorrhage
 Acid or sour stomach
 belching
 black, tarry stools
@@ -37,8 +25,6 @@ pain or burning in the throat
 stomach discomfort, upset, burning, or pain
 vomiting
 vomiting of blood or material that looks like coffee grounds
-
-
 Cough
 difficulty with swallowing
 dizziness
@@ -51,7 +37,4 @@ skin rash, hives, welts, or itching skin
 tightness in the chest
 trouble breathing
 unusual tiredness or weakness
-
-
 Large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
-

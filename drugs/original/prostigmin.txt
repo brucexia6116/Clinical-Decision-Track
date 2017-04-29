@@ -1,35 +1,23 @@
-Generic Name: neostigmine
-Applies to neostigmine: oral tablet
 Other dosage forms:
 As well as its needed effects, neostigmine (the active ingredient contained in Prostigmin) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking neostigmine, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking neostigmine, get emergency help immediately:
-
 Some neostigmine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to neostigmine: compounding powder, injectable solution, intravenous solution, oral tablet
-The most common side effects included salivation, fasciculation, bowel cramps and diarrhea.[Ref]
-Common (1% to 10%): Bradycardia, hypotension, tachycardiaFrequency not reported: Nonspecific EKG changes, cardiac arrest, syncopePostmarketing reports: Cardiac arrhythmias (A-V block, nodal rhythm)[Ref]
-Common (1% to 10%): PruritusFrequency not reported: Rash, urticaria[Ref]
-Common (1% to 10%): Dry mouth, nausea (including post-procedural), vomitingFrequency not reported: Flatulence, increased peristalsisPostmarketing reports: Bowel cramps, diarrhea[Ref]
-Frequency not reported: Urinary frequency[Ref]
-Frequency not reported: Allergic reactions and anaphylaxis[Ref]
-Frequency not reported: Muscle cramps and spasms, arthralgiaPostmarketing reports: Muscle weakness[Ref]
-Common (1% to 10%): Dizziness, headache, postoperative shivering, prolonged neuromuscular blockade, insomniaPostmarketing reports: Convulsions, drowsiness, dysarthria, fasciculation, loss of consciousness[Ref]
-Frequency not reported: Miosis, visual changes[Ref]
-Common (1% to 10%): Incision site complication, procedural complication and painFrequency not reported: Diaphoresis, flushing, weakness[Ref]
-Postmarketing reports: Urinary frequency[Ref]
-Common (1% to 10%): Pharyngolaryngeal pain, dyspnea, oxygen desaturation (less than 90%)Frequency not reported: Increased oral, pharyngeal and bronchial secretions, dyspnea, respiratory depression, respiratory arrest, bronchospasm[Ref]
-1. "Product Information. Bloxiverz (neostigmine)." Eclat Pharmaceuticals, Menomonee Falls,, WI. 
-2. "Product Information. Prostigman (neostigmine)." ICN Pharmaceuticals Inc, Cost Mesa, CA. 
+The most common side effects included salivation, fasciculation, bowel cramps and diarrhea.
+Common (1% to 10%): Bradycardia, hypotension, tachycardiaFrequency not reported: Nonspecific EKG changes, cardiac arrest, syncopePostmarketing reports: Cardiac arrhythmias (A-V block, nodal rhythm)
+Common (1% to 10%): PruritusFrequency not reported: Rash, urticaria
+Common (1% to 10%): Dry mouth, nausea (including post-procedural), vomitingFrequency not reported: Flatulence, increased peristalsisPostmarketing reports: Bowel cramps, diarrhea
+Frequency not reported: Urinary frequency
+Frequency not reported: Allergic reactions and anaphylaxis
+Frequency not reported: Muscle cramps and spasms, arthralgiaPostmarketing reports: Muscle weakness
+Common (1% to 10%): Dizziness, headache, postoperative shivering, prolonged neuromuscular blockade, insomniaPostmarketing reports: Convulsions, drowsiness, dysarthria, fasciculation, loss of consciousness
+Frequency not reported: Miosis, visual changes
+Common (1% to 10%): Incision site complication, procedural complication and painFrequency not reported: Diaphoresis, flushing, weakness
+Postmarketing reports: Urinary frequency
+Common (1% to 10%): Pharyngolaryngeal pain, dyspnea, oxygen desaturation (less than 90%)Frequency not reported: Increased oral, pharyngeal and bronchial secretions, dyspnea, respiratory depression, respiratory arrest, bronchospasm
 It is possible that some side effects of Prostigmin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 injection injectable, injection solution
-
 Twitches of the muscle visible under the skin
-
-
 Blurred or loss of vision
 changes in patterns and rhythms of speech
 chest pain or discomfort
@@ -70,19 +58,13 @@ tunnel vision
 unconsciousness
 unusual tiredness or weakness
 wheezing
-
-
 Constipation
 decreased sexual ability
 difficult urination
 dry mouth
 enlarged pupils
 muscle weakness
-
-
 Increased watering of mouth
-
-
 Bloated
 constricted, pinpoint, or small pupils (black part of eye)
 diarrhea
@@ -102,4 +84,3 @@ redness of the face, neck, arms and occasionally, upper chest
 skin rash
 stomach cramps
 vomiting
-

@@ -1,30 +1,18 @@
-Generic Name: mechlorethamine
-Applies to mechlorethamine: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by mechlorethamine (the active ingredient contained in Mustargen). In the event that any of these side effects do occur, they may require medical attention.
 Also, because of the way cancer medicines act on the body, there is a chance that they might cause other effects that may not occur until months or years after these medicines are used. These delayed effects may include certain types of cancer. Discuss these possible effects with your doctor.
-You should check with your doctor immediately if any of these side effects occur when taking mechlorethamine:
 If any of the following side effects occur while taking mechlorethamine, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with mechlorethamine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
 This medicine may cause a temporary loss of hair in some people. After treatment with mechlorethamine has ended, normal hair growth should return.
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention. If you notice any of the following side effects check with your doctor immediately:
-
-
-Applies to mechlorethamine: injectable powder for injection
-The most commonly reported side effect was hematopoietic system depression.[Ref]
-Rare (less than 0.1%): Hemolytic anemiaFrequency not reported: Lymphocytopenia, granulocytopenia, agranulocytosis, thrombocytopenia, pancytopenia, hyperheparenemia, hematopoietic system depression[Ref]
-Frequency not reported: Hypersensitivity reactions, including anaphylaxis[Ref]
-Frequency not reported: Nausea, vomiting, diarrhea, gum bleeding, gastrointestinal tract bleeding[Ref]
-Frequency not reported: Alopecia, maculopapular skin eruption, erythema multiforme, petechiae, small subcutaneous hemorrhages[Ref]
-Frequency not reported: Thrombosis, thrombophlebitis[Ref]
-Frequency not reported: Vertigo, tinnitus, diminished hearing, chromosomal abnormalities, weakness, pain[Ref]
-Frequency not reported: Jaundice[Ref]
-Frequency not reported: Catamenia, oligomenorrhea, temporary or permanent amenorrhea, spermatogenesis, azoospermia, total germinal aplasia[Ref]
-Frequency not reported: Herpes zoster[Ref]
-Frequency not reported: Anorexia, hyperuricemia[Ref]
-1. "Product Information. Mustargen (mechlorethamine)." Merck & Co, Inc, West Point, PA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Mustargen may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effect was hematopoietic system depression.
+Rare (less than 0.1%): Hemolytic anemiaFrequency not reported: Lymphocytopenia, granulocytopenia, agranulocytosis, thrombocytopenia, pancytopenia, hyperheparenemia, hematopoietic system depression
+Frequency not reported: Hypersensitivity reactions, including anaphylaxis
+Frequency not reported: Nausea, vomiting, diarrhea, gum bleeding, gastrointestinal tract bleeding
+Frequency not reported: Alopecia, maculopapular skin eruption, erythema multiforme, petechiae, small subcutaneous hemorrhages
+Frequency not reported: Thrombosis, thrombophlebitis
+Frequency not reported: Vertigo, tinnitus, diminished hearing, chromosomal abnormalities, weakness, pain
+Frequency not reported: Jaundice
+Frequency not reported: Catamenia, oligomenorrhea, temporary or permanent amenorrhea, spermatogenesis, azoospermia, total germinal aplasia
+Frequency not reported: Herpes zoster
+Frequency not reported: Anorexia, hyperuricemia
 Black, tarry stools
 blood in urine or stools
 cough or hoarseness
@@ -34,30 +22,18 @@ pain or redness at place of injection
  painful or difficult urination
 pinpoint red spots on skin
 unusual bleeding or bruising
-
-
 Shortness of breath, itching, or wheezing
-
-
 Missing menstrual periods
 painful rash 
-
-
 Dizziness
 joint pain
 loss of hearing
 ringing in ears
 swelling of feet or lower legs
-
-
 Numbness, tingling, or burning of fingers, toes, or face
 sores in mouth and on lips
 yellow eyes or skin
-
-
 Nausea and vomiting (usually lasts only 8 to 24 hours)
-
-
 Confusion
 diarrhea
  drowsiness
@@ -65,8 +41,6 @@ headache
 loss of appetite
 metallic taste
  weakness
-
-
 Black, tarry stools
 blood in urine or stools
 cough or hoarseness
@@ -75,4 +49,3 @@ lower back or side pain
 painful or difficult urination
 pinpoint red spots on skin
 unusual bleeding or bruising
-

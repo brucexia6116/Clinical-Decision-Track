@@ -1,91 +1,36 @@
-Applies to disopyramide: oral capsule, oral capsule extended release, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by disopyramide. In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking disopyramide, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with disopyramide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to disopyramide: compounding powder, oral capsule, oral capsule extended release
-Gastrointestinal side effects including anticholinergic side effects have been the most common cause of gastrointestinal complaints.  Dry mouth (40%), constipation (11%) and nausea, pain/bloating/gas (3% to 9%) have been reported.  Anorexia, diarrhea, and vomiting have occurred.  Two cases of paralytic ileus have been reported.  A case of oral mucosal ulceration has been associated with the (unapproved) sublingual use of disopyramide.[Ref]
-Cardiovascular side effects have included arrhythmias, conduction disturbances, hypotension, and heart failure.  Like other class I antiarrhythmic agents, disopyramide can be proarrhythmic and decrease cardiac contractility.  The risk of proarrhythmias may be increased in patients with left ventricular dysfunction.  Various ventricular tachyarrhythmias accompanied by disopyramide-induced QT interval prolongation, including ventricular tachycardia or fibrillation and torsades de pointes, have been associated with usual therapeutic doses.  Evidence of QRS segment or QT widening are indications to either reduce the dose or stop the drug.  Conduction disturbances, including AV block, have occurred, and are more likely in patients with preexisting conduction disorders.[Ref]
-Contributing factors towards the development of torsades de pointes included female gender, hypokalemia, underlying arrhythmias, mitral valve abnormalities, or congestive heart failure.Hypotension, pulmonary edema, and frank cardiogenic shock have been associated with both the oral and intravenous administration of disopyramide.  Most affected patients had underlying congestive heart failure.[Ref]
-A patient developed a severe sensory-motor polyneuropathy after receiving disopyramide 500 mg daily for 4 years.  Symptoms did not respond to corticosteroids, but did resolve a few months after withdrawal of disopyramide.[Ref]
-Nervous system side effects including anticholinergic symptoms have been reported.  Other nervous system side effects have been rare, and included nervousness, insomnia, depression, and peripheral paresthesia or neuropathy.[Ref]
-Genitourinary side effects were related to anticholinergic properties of the drug.  Urinary hesitancy (10% to 40%) has occurred.  Urinary retention, frequency, and urgency has been reported in up to 9% of patients.  Recommended management consisted of lowering the dose, discontinuing the drug, or if necessary, using a cholinergic drug to counteract this effect.  Sexual impotence has been reported.[Ref]
-Hepatic side effects including reversible, dose-independent intrahepatic cholestasis, hepatocellular damage, and nonspecific hepatic inflammatory changes have been reported in rare cases where venous congestion secondary to heart failure was reasonably excluded.  Manifestations of liver dysfunction usually appeared during the first week of treatment (malaise, dark urine) and resolved promptly upon discontinuation of the drug.  In one review, 20 cases were reported during a 14-year period.[Ref]
-Endocrine side effect have included hypoglycemia due to stimulation of insulin secretion and rare cases of hypokalemia and dyslipidemia.  Hypoglycemia can occur in nondiabetic patients at therapeutic plasma disopyramide levels.[Ref]
-Elevated insulin levels have been measured during disopyramide-associated hypoglycemic episodes.  Data have revealed that disopyramide blocks pancreatic ATP-sensitive potassium channels, enhancing insulin release.  Other factors such as increased peripheral utilization of glucose or decreased glycogenolysis have not been fully evaluated.[Ref]
-Immunologic side effects, such as the production of antinuclear antibodies and other immunologically-mediated changes associated with other class 1 antiarrhythmic agents, do not appear to occur during disopyramide therapy.[Ref]
-Dermatologic reactions have been reported rarely, usually presenting as a rash or pruritus.[Ref]
-Ocular side effects of blurred vision (3% to 9%) have been associated with the anticholinergic effects of disopyramide.[Ref]
-General body symptoms of fatigue, muscle weakness, malaise, and aches/pains have been reported in 3% to 9% of patients administered disopyramide.  Rarely, fever has occurred.[Ref]
-Psychiatric side effects including reversible psychiatric symptoms of psychosis have been reported rarely.[Ref]
-Hematologic adverse effects of thrombocytopenia, and reversible agranulocytosis have occurred rarely.[Ref]
-Gynecomastia has been reported.[Ref]
-Respiratory difficulty has been reported rarely.[Ref]
-1. Ekelund LG, Nilsson E, Walldius G "Efficacy of and adverse effects of disopyramide." Eur J Clin pharmacol 29 (1986): 673-7
-2. Witkowsky AK, Reddy R, Bardy GH "Oral mucosal ulceration from disopyramide." Ann Pharmacother 29 (1995): 1299
-3. Fulton B, Wagstaff AJ, Sorkin EM "Doxazosin: an update of its clinical pharmacology and therapeutic applications in hypertension and benign prostatic hyperplasia." Drugs 2 (1995): 295-320
-4. Ahmad S "Disopyramide-related paralytic ileus: case report." J Am Geriatr Soc 39 (1991): 317-8
-5. "Product Information. Norpace (disopyramide)." Searle, Skokie, IL. 
-6. Desai JM, Scheinman MM, Hirschfeld D, et al "Cardiovascular collapse associated with disopyramide therapy." Chest 79 (1981): 545-51
-7. Chia BL "Disopyramide induced atypical ventricular tachycardia." Aust N Z J Med 10 (1980): 665-8
-8. Kinney EL, Field EH, Salmon MP, Zelis R "Cardiac arrhythmias associated with disopyramide." N Engl J Med May (1990): 1146
-9. Brogden RN, Todd PA "Disopyramide: a reappraisal of its pharmacodynamic and pharmacokinetic properties, and therapeutic use in cardiac arrhythmias." Drugs 34 (1987): 151-87
-10. Bauman JL, Gallasategui J, Strasberg B, et al "Long-term therapy with disopyramide phosphate: side effects and effectiveness." Am Heart J 111 (1986): 654-60
-11. Schweitzer P, Mark H "Torsade de pointes caused by disopyramide and hypokalemia." Mt Sinai J Med 49 (1982): 110-4
-12. Simpson RJ, Foster JR, Benge C, et al "Safety of multiple bolus loading of intravenous disopyramide." Am Heart J 106 (1983): 505-8
-13. Lo KS, Gantz KB, Stetson PL, et al "Disopyramide-induced ventricular tachycardia." Arch Intern Med 140 (1980): 413-4
-14. Timins BI, Gutman JA, Haft JI "Disopyramide-induced heart block." Chest 79 (1981): 477-9
-15. Masuhara K, Ohno T, Hamaguchi K, Katoh K, Kashiwada K, Takahashi S, Tanaka Y, Someya K, Ogata H "Relationship between the therapeutic effects or side-effects and the serum disopyramide or mono-n-dealkylated disopyramide concentration after repeated oral administration of disopyramide to arrhythmic patients." Int J Clin Pharmacol Res 15 (1995): 103-13
-16. Bauman DJ "Myocardial depression with disopyramide." Ann Intern Med 94 (1981): 411-2
-17. Sinatra ST, Landry AB, Galle JS, Amato J "Cariogenic shock associated with disopyramide phosphate." JAMA 243 (1980): 1132
-18. Tzivoni D, Keren A, Stern S, Gottlieb S "Disopyramide-induced Torsade de pointes." Arch Intern Med 141 (1981): 946-7
-19. Timins BI "Disopyramide and bundle-branch block." Ann Intern Med 96 (1982): 684
-20. Makkar RR, Fromm BS, Steinman RT, Meissner MD, Lehmann MH "Female gender as a risk factor for torsades de pointes associated with cardiovascular drugs." JAMA 270 (1993): 2590-7
-21. Riccioni N, Castiglioni M, Bartolomei C "Disopyramide-induced QT prolongation and ventricular tachyarrhythmias." Am Heart J 105 (1983): 870-1
-22. Tonkin AM, Joel SE, Reynolds JL "Unusual hepatocellular and cardiovascular complications of disopyramide." Chest 77 (1980): 125
-23. Porterfield JG, Antman EM, Lown B "Respiratory difficulty after use of disopyramide." N Engl J Med 303 (1980): 584
-24. Podrid PJ, Schoeneberger A, Lown B "Congestive heart failure caused by oral disopyramide." N Engl J Med 302 (1980): 614-7
-25. Teichman SL, Fisher JD, Matos JA, Kim SG "Disopyramide-pyridostigmine: report of a beneficial drug interaction." J Cardiovasc Pharmacol 7 (1985): 108-13
-26. Teichman SL, Ferrick A, Kim SG, et al "Disopyramide-pyridostigmine interaction: selective reversal of anticholinergic symptoms with preservation of antiarrhythmic effect." J AM Coll Cardiol 10 (1987): 633-41
-27. Briani C,  Zara G,  Negrin P "Disopyramide-induced neuropathy." Neurology 58 (2002): 663
-28. Ahmad S "Disopyramide and impotence." South Med J 73 (1980): 958
-29. Danziger LH, Horn JR "Disopyramide-induced urinary retention." Arch Intern Med 143 (1983): 1683-6
-30. Bakris GL, Cross PD, Hammarsten JE "Disopyramide-associated liver dysfunction." Mayo Clin proc 58 (1983): 265-7
-31. Doody PT "Disopyramide hepatotoxicity and disseminated intravascular coagulation." South Med J 75 (1982): 496-8
-32. Craxi A, Gatto G, Maringhini A, et al "Disopyramide and cholestasis." Ann Intern Med 93 (1980): 150-1
-33. Antonelli D, Koltun B, Barzilay J "Acute hepatotoxic effect of disopyramide." Chest 86 (1984): 274
-34. Semel JD, Wortham E, Karl DM "Fasting hypoglycemia associated with disopyramide." Am Heart J 106 (1983): 1160-1
-35. Goldberg IJ, Brown LK, Rayfield EJ "Disopyramide (norpace)-induced hypoglycemia." Am J Med 69 (1980): 463-6
-36. Rubin M, Zakheim B, Pitchumoni C "Disopyramide-induced profound hypoglycemia." N Y State J Med July,Aug,S (1983): 1057-8
-37. Quevedo SF, Krauss DS, Chazan JA, et al "Fasting hypoglycemia secondary to disopyramide therapy." JAMA 245 (1981): 2424
-38. Hayashi S, Horie M, Tsuura Y, Ishida H, Okada Y, Seino Y, Sasayama S "Disopyramide blocks pancreatic ATP-sensitive K+ channels and enhances insulin release." Am J Physiol 265 (1993): c337-42
-39. Croxson MS, Shaw DW, Henley PG, Gabriel HDLL "Disopyramide-induced hypoglycaemia and increased serum insulin." N Z Med J July (1987): 407-8
-40. Nappi JM, Dhanani S, Lovejoy JR, VanderArk C "Severe hypoglycemia associated with disopyramide." West J Med 138 (1983): 95-7
-41. Wanner WR, Irvin WS "Disopyramide and antinuclear antibodies." Am Heart J 101 (1981): 687-9
-Not all side effects for disopyramide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal side effects including anticholinergic side effects have been the most common cause of gastrointestinal complaints.  Dry mouth (40%), constipation (11%) and nausea, pain/bloating/gas (3% to 9%) have been reported.  Anorexia, diarrhea, and vomiting have occurred.  Two cases of paralytic ileus have been reported.  A case of oral mucosal ulceration has been associated with the (unapproved) sublingual use of disopyramide.
+Cardiovascular side effects have included arrhythmias, conduction disturbances, hypotension, and heart failure.  Like other class I antiarrhythmic agents, disopyramide can be proarrhythmic and decrease cardiac contractility.  The risk of proarrhythmias may be increased in patients with left ventricular dysfunction.  Various ventricular tachyarrhythmias accompanied by disopyramide-induced QT interval prolongation, including ventricular tachycardia or fibrillation and torsades de pointes, have been associated with usual therapeutic doses.  Evidence of QRS segment or QT widening are indications to either reduce the dose or stop the drug.  Conduction disturbances, including AV block, have occurred, and are more likely in patients with preexisting conduction disorders.
+Contributing factors towards the development of torsades de pointes included female gender, hypokalemia, underlying arrhythmias, mitral valve abnormalities, or congestive heart failure.Hypotension, pulmonary edema, and frank cardiogenic shock have been associated with both the oral and intravenous administration of disopyramide.  Most affected patients had underlying congestive heart failure.
+A patient developed a severe sensory-motor polyneuropathy after receiving disopyramide 500 mg daily for 4 years.  Symptoms did not respond to corticosteroids, but did resolve a few months after withdrawal of disopyramide.
+Nervous system side effects including anticholinergic symptoms have been reported.  Other nervous system side effects have been rare, and included nervousness, insomnia, depression, and peripheral paresthesia or neuropathy.
+Genitourinary side effects were related to anticholinergic properties of the drug.  Urinary hesitancy (10% to 40%) has occurred.  Urinary retention, frequency, and urgency has been reported in up to 9% of patients.  Recommended management consisted of lowering the dose, discontinuing the drug, or if necessary, using a cholinergic drug to counteract this effect.  Sexual impotence has been reported.
+Hepatic side effects including reversible, dose-independent intrahepatic cholestasis, hepatocellular damage, and nonspecific hepatic inflammatory changes have been reported in rare cases where venous congestion secondary to heart failure was reasonably excluded.  Manifestations of liver dysfunction usually appeared during the first week of treatment (malaise, dark urine) and resolved promptly upon discontinuation of the drug.  In one review, 20 cases were reported during a 14-year period.
+Endocrine side effect have included hypoglycemia due to stimulation of insulin secretion and rare cases of hypokalemia and dyslipidemia.  Hypoglycemia can occur in nondiabetic patients at therapeutic plasma disopyramide levels.
+Elevated insulin levels have been measured during disopyramide-associated hypoglycemic episodes.  Data have revealed that disopyramide blocks pancreatic ATP-sensitive potassium channels, enhancing insulin release.  Other factors such as increased peripheral utilization of glucose or decreased glycogenolysis have not been fully evaluated.
+Immunologic side effects, such as the production of antinuclear antibodies and other immunologically-mediated changes associated with other class 1 antiarrhythmic agents, do not appear to occur during disopyramide therapy.
+Dermatologic reactions have been reported rarely, usually presenting as a rash or pruritus.
+Ocular side effects of blurred vision (3% to 9%) have been associated with the anticholinergic effects of disopyramide.
+General body symptoms of fatigue, muscle weakness, malaise, and aches/pains have been reported in 3% to 9% of patients administered disopyramide.  Rarely, fever has occurred.
+Psychiatric side effects including reversible psychiatric symptoms of psychosis have been reported rarely.
+Hematologic adverse effects of thrombocytopenia, and reversible agranulocytosis have occurred rarely.
+Gynecomastia has been reported.
+Respiratory difficulty has been reported rarely.
 Dizziness, feeling of faintness
 fainting 
 heartbeat sensations
  shortness of breath
 unusual tiredness
-
-
 Chest pain
 fast or slow heartbeat, rapid weight gain, swelling of feet or lower legs
  lightheadedness
 rash and/or itching
-
-
 Enlargement of breasts in men
 fever 
 mental depression
 nosebleeds or bleeding gums
 sore throat and fever
 yellow eyes or skin
-
-
 Anxious feeling
 chills
 cold sweats
@@ -100,14 +45,10 @@ nervousness
 shakiness
 unsteady walk
 unusual tiredness or weakness
-
-
 Blurred vision
 constipation
 dry eyes, mouth, nose, or throat
 problems with urination
-
-
 Bloating or stomach pain
 diarrhea
 headache
@@ -117,4 +58,3 @@ muscle weakness
  nausea
 nervousness
 trouble in sleeping
-

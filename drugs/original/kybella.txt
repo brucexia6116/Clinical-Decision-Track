@@ -1,21 +1,10 @@
-Generic Name: deoxycholic acid
-Applies to deoxycholic acid: subcutaneous solution
-In addition to its needed effects, some unwanted effects may be caused by deoxycholic acid (the active ingredient contained in Kybella). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking deoxycholic acid, check with your doctor or nurse immediately:
-Some of the side effects that can occur with deoxycholic acid may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to deoxycholic acid: subcutaneous solution
-Common (1% to 10%): Oropharyngeal pain, nausea, dysphagia[Ref]
-Very common (10% or more): Injection site reactions (96%): edema/swelling (87%), hematoma/bruising (72%), pain (70%), numbness (66%), erythema (27%), induration (23%), paresthesia (14%), nodule (13%), pruritus (12%), Common (1% to 10%): Injection site reactions: skin tightness, site warmth, marginal mandibular nerve injuryFrequency not reported: Injection site reactions: hemorrhage, discoloration, urticaria[Ref]
-Common (1% to 10%): Hypertension[Ref]
-Frequency not reported: Lymphadenopathy[Ref]
-Frequency not reported: Neck pain[Ref]
-Common (1% to 10%): HeadacheFrequency not reported: Pre-syncope/syncope[Ref]
-1. "Product Information. Kybella (deoxycholic acid)." Kythera Biopharmaceuticals, Inc., Westlake Village, CA. 
-Not all side effects for Kybella may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Oropharyngeal pain, nausea, dysphagia
+Very common (10% or more): Injection site reactions (96%): edema/swelling (87%), hematoma/bruising (72%), pain (70%), numbness (66%), erythema (27%), induration (23%), paresthesia (14%), nodule (13%), pruritus (12%), Common (1% to 10%): Injection site reactions: skin tightness, site warmth, marginal mandibular nerve injuryFrequency not reported: Injection site reactions: hemorrhage, discoloration, urticaria
+Common (1% to 10%): Hypertension
+Frequency not reported: Lymphadenopathy
+Frequency not reported: Neck pain
+Common (1% to 10%): HeadacheFrequency not reported: Pre-syncope/syncope
 Headache
 muscle weakness in the face
 pain in the mouth or throat
@@ -23,15 +12,8 @@ pounding in the ears
 slow or fast heartbeat
 trouble swallowing
 uneven smile
-
-
 Fainting
 neck pain
 swollen, painful, or tender lymph glands in the neck
-
-
 Bleeding, blistering, bruising, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tightness of the skin, tingling, ulceration, or warmth at the injection site
-
-
 Nausea
-

@@ -1,30 +1,22 @@
 Commonly reported side effects of taliglucerase alfa include: arthralgia, back pain, and headache. Other side effects include: asthenia, chest discomfort, chest pain, fatigue, increased blood pressure, urticaria, erythema, and flushing.  See below for a comprehensive list of adverse effects.
-Applies to taliglucerase alfa: intravenous powder for solution
 As well as its needed effects, taliglucerase alfa may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking taliglucerase alfa, check with your doctor or nurse immediately:
 Some taliglucerase alfa side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to taliglucerase alfa: intravenous powder for injection
-The most frequently reported side effects were headache, arthralgia, pain in extremity, fatigue, nausea, dizziness, pruritus, flushing, abdominal pain, vomiting, back pain, and rash.[Ref]
-Very common (10% or more): Vomiting, abdominal painCommon (1% to 10%): Nausea, diarrheaFrequency not reported: Gastrointestinal inflammation[Ref]
-In clinical trials, hypersensitivity reactions (including anaphylaxis) were reported in 29% of patients; these reactions occurred up to 3 hours after the start of infusion.  Serious hypersensitivity reactions (including anaphylaxis) were reported in some patients.  In clinical trials, 3% of patients had signs/symptoms consistent with anaphylaxis; these reactions occurred during the infusion.[Ref]
-Very common (10% or more): Hypersensitivity reactions (including anaphylaxis; 29%)Frequency not reported: Type III immune-mediated fixed drug eruptionPostmarketing reports: Anaphylaxis[Ref]
-Very common (10% or more): Arthralgia (up to 13%), pain in extremity (up to 10%)Common (1% to 10%): Back pain, bone painFrequency not reported: Muscle spasms[Ref]
-Very common (10% or more): Development of anti-drug antibodies (up to 53%), neutralizing antibodies detected (10.3%)[Ref]
-Very common (10% or more): Headache (up to 19%)Common (1% to 10%): Dizziness, paresthesiaFrequency not reported: Tremor[Ref]
-Common (1% to 10%): Fatigue, flushing, peripheral edema, infusion reaction, weight increasedFrequency not reported: Chest discomfort, feeling hot[Ref]
-Infusion-related reactions occurred most often within 24 hours of the infusion and consisted of arthralgia, headache, vomiting, flushing, pruritus, pain in extremity, pulmonary hypertension, diarrhea, chest discomfort, feeling hot, muscle spasms, tremor, throat irritation, erythema, and rash.[Ref]
-Common (1% to 10%): Pruritus, erythema, rash, urticaria[Ref]
-Common (1% to 10%): Throat irritation, rhinorrhea, sneezingFrequency not reported: Pulmonary hypertension[Ref]
-Common (1%to 10%): ALT increased[Ref]
-Common (1% to 10%): Infusion site pain[Ref]
-Common (1% to 10%): Eye pruritus, eye swelling, lacrimation increased[Ref]
-1. "Product Information. Elelyso (taliglucerase alfa)." Pfizer U.S. Pharmaceuticals Group, New York, NY. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
+The most frequently reported side effects were headache, arthralgia, pain in extremity, fatigue, nausea, dizziness, pruritus, flushing, abdominal pain, vomiting, back pain, and rash.
+Very common (10% or more): Vomiting, abdominal painCommon (1% to 10%): Nausea, diarrheaFrequency not reported: Gastrointestinal inflammation
+In clinical trials, hypersensitivity reactions (including anaphylaxis) were reported in 29% of patients; these reactions occurred up to 3 hours after the start of infusion.  Serious hypersensitivity reactions (including anaphylaxis) were reported in some patients.  In clinical trials, 3% of patients had signs/symptoms consistent with anaphylaxis; these reactions occurred during the infusion.
+Very common (10% or more): Hypersensitivity reactions (including anaphylaxis; 29%)Frequency not reported: Type III immune-mediated fixed drug eruptionPostmarketing reports: Anaphylaxis
+Very common (10% or more): Arthralgia (up to 13%), pain in extremity (up to 10%)Common (1% to 10%): Back pain, bone painFrequency not reported: Muscle spasms
+Very common (10% or more): Development of anti-drug antibodies (up to 53%), neutralizing antibodies detected (10.3%)
+Very common (10% or more): Headache (up to 19%)Common (1% to 10%): Dizziness, paresthesiaFrequency not reported: Tremor
+Common (1% to 10%): Fatigue, flushing, peripheral edema, infusion reaction, weight increasedFrequency not reported: Chest discomfort, feeling hot
+Infusion-related reactions occurred most often within 24 hours of the infusion and consisted of arthralgia, headache, vomiting, flushing, pruritus, pain in extremity, pulmonary hypertension, diarrhea, chest discomfort, feeling hot, muscle spasms, tremor, throat irritation, erythema, and rash.
+Common (1% to 10%): Pruritus, erythema, rash, urticaria
+Common (1% to 10%): Throat irritation, rhinorrhea, sneezingFrequency not reported: Pulmonary hypertension
+Common (1%to 10%): ALT increased
+Common (1% to 10%): Infusion site pain
+Common (1% to 10%): Eye pruritus, eye swelling, lacrimation increased
 It is possible that some side effects of taliglucerase alfa may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Chest tightness
 dizziness
 feeling of warmth
@@ -34,8 +26,6 @@ large, hive-like swelling on face, eyelids, lips, tongue, throat, hands, legs, f
 nausea or vomiting
 redness of the face, neck, arms, and occasionally, upper chest
 redness of the skin
-
-
 Blurred vision
 confusion
 cough
@@ -45,15 +35,10 @@ fast heartbeat
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 sweating
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 difficulty with moving
 feeling of warmth
 headache
 muscle pain or stiffness
 pain in the joints
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
-

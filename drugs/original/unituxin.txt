@@ -1,33 +1,25 @@
-Generic Name: dinutuximab
 Common side effects of Unituxin include: capillary leak syndrome, sepsis, severe hypokalemia, severe hypotension, severe infusion related reaction, severe thrombocytopenia, SIADH, infusion related reaction, abdominal pain, anemia, back pain, eye disease, fever, hypertension, hypocalcemia, hypokalemia, hyponatremia, hypotension, limb pain, musculoskeletal chest pain, neuralgia, neutropenia, pain, urticaria, and bacteremia. Other side effects include: febrile neutropenia, and peripheral sensory neuropathy.  See below for a comprehensive list of adverse effects.
-Applies to dinutuximab: intravenous solution
 As well as its needed effects, dinutuximab (the active ingredient contained in Unituxin) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking dinutuximab, check with your doctor or nurse immediately:
 Some dinutuximab side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to dinutuximab: intravenous solution
-Very common (10% or more): Hypotension (up to 60%), capillary leak syndrome (up to 40%), hemorrhage (up to 17%) (including gastrointestinal hemorrhage, hematochezia, rectal hemorrhage, hematemesis, upper gastrointestinal hemorrhage, hematuria, hemorrhage urinary tract, renal hemorrhage, epistaxis, respiratory tract hemorrhage, disseminated intravascular coagulation, catheter site hemorrhage, hemorrhage, hematoma), hypertension (up to 14%), tachycardia (up to 19%) (including tachycardia, sinus tachycardia)Very common (10% or more): Hypotension (up to 60%), capillary leak syndrome (up to 40%), hemorrhage (up to 17%) (including gastrointestinal hemorrhage, hematochezia, rectal hemorrhage, hematemesis, upper gastrointestinal hemorrhage, hematuria, hemorrhage urinary tract, renal hemorrhage, epistaxis, respiratory tract hemorrhage, disseminated intravascular coagulation, catheter site hemorrhage, hematoma), hypertension (up to 14%), tachycardia (up to 19%) (including tachycardia, sinus tachycardia)[Ref]
-Very common (10% or more): Urticaria (up to 37%)[Ref]
-Very common (10% or more): Pain (up to 85%) (including gingival pain, proctalgia, oropharyngeal pain, abdominal pain, abdominal pain upper), vomiting (up to 46%), diarrhea (up to 43%), nausea (up to 10%)[Ref]
-Very common (10% or more): Pain (up to 85%) (including bladder pain), proteinuria (up to 16%)[Ref]
-Very common (10% or more): Thrombocytopenia (up to 66%), lymphopenia (up to 62%), anemia (up to 51%), neutropenia (up to 39%)[Ref]
-Very common (10% or more): Increased alanine aminotransferase (up to 56%), increased aspartate aminotransferase (up to 28%)[Ref]
-Very common (10% or more): Infusion reactions (up to 66%)[Ref]
-Very common (10% or more): Patients developing anti-drug antibodies to dinutuximab (the active ingredient contained in Unituxin) (up to 18%), sepsis (up to 18%), device related infection (up to 16%)[Ref]
-Very common (10% or more): Pain (up to 85%) (including infusion related pain)[Ref]
-Very common (10% or more): Hyponatremia (up to 58%), hypokalemia (up to 43%), hypoalbuminemia (up to 33%), hypocalcemia (up to 27%), hypophosphatemia (up to 20%), hyperglycemia (up to 16%), hypertriglyceridemia (up to 16%), decreased appetite (up to 15%), hypomagnesemia (up to 12%)[Ref]
-Very common (10% or more): Pain (up to 85%) (including arthralgia, back pain, bone pain, chest pain, facial pain, musculoskeletal chest pain, myalgia, nick pain, pain in extremity)[Ref]
-Very common (10% or more): Peripheral neuropathy (up to 13%)[Ref]
-Frequency not reported: Blurred vision, photophobia, mydriasis, fixed or unequal pupils, optic nerve disorder, eyelid ptosis, papilledema loss of vision[Ref]
-Very common (10% or more): Pain (up to 85%) (including abdominal pain, abdominal pain upper, arthralgia, back pain, bladder pain, bone pain, chest pain, facial pain, gingival pain, infusion related reaction, musculoskeletal chest pain, myalgia, neck pain, neuralgia, oropharyngeal pain, pain in extremity, proctalgia), pyrexia (up to 72%), edema (up to 17%), increased weight (up to 10%)[Ref]
-Very common (10% or more): Increased serum creatinine (up to 15%)[Ref]
-Very common (10% or more): Hypoxia (up to 24%)[Ref]
+Very common (10% or more): Hypotension (up to 60%), capillary leak syndrome (up to 40%), hemorrhage (up to 17%) (including gastrointestinal hemorrhage, hematochezia, rectal hemorrhage, hematemesis, upper gastrointestinal hemorrhage, hematuria, hemorrhage urinary tract, renal hemorrhage, epistaxis, respiratory tract hemorrhage, disseminated intravascular coagulation, catheter site hemorrhage, hemorrhage, hematoma), hypertension (up to 14%), tachycardia (up to 19%) (including tachycardia, sinus tachycardia)Very common (10% or more): Hypotension (up to 60%), capillary leak syndrome (up to 40%), hemorrhage (up to 17%) (including gastrointestinal hemorrhage, hematochezia, rectal hemorrhage, hematemesis, upper gastrointestinal hemorrhage, hematuria, hemorrhage urinary tract, renal hemorrhage, epistaxis, respiratory tract hemorrhage, disseminated intravascular coagulation, catheter site hemorrhage, hematoma), hypertension (up to 14%), tachycardia (up to 19%) (including tachycardia, sinus tachycardia)
+Very common (10% or more): Urticaria (up to 37%)
+Very common (10% or more): Pain (up to 85%) (including gingival pain, proctalgia, oropharyngeal pain, abdominal pain, abdominal pain upper), vomiting (up to 46%), diarrhea (up to 43%), nausea (up to 10%)
+Very common (10% or more): Pain (up to 85%) (including bladder pain), proteinuria (up to 16%)
+Very common (10% or more): Thrombocytopenia (up to 66%), lymphopenia (up to 62%), anemia (up to 51%), neutropenia (up to 39%)
+Very common (10% or more): Increased alanine aminotransferase (up to 56%), increased aspartate aminotransferase (up to 28%)
+Very common (10% or more): Infusion reactions (up to 66%)
+Very common (10% or more): Patients developing anti-drug antibodies to dinutuximab (the active ingredient contained in Unituxin) (up to 18%), sepsis (up to 18%), device related infection (up to 16%)
+Very common (10% or more): Pain (up to 85%) (including infusion related pain)
+Very common (10% or more): Hyponatremia (up to 58%), hypokalemia (up to 43%), hypoalbuminemia (up to 33%), hypocalcemia (up to 27%), hypophosphatemia (up to 20%), hyperglycemia (up to 16%), hypertriglyceridemia (up to 16%), decreased appetite (up to 15%), hypomagnesemia (up to 12%)
+Very common (10% or more): Pain (up to 85%) (including arthralgia, back pain, bone pain, chest pain, facial pain, musculoskeletal chest pain, myalgia, nick pain, pain in extremity)
+Very common (10% or more): Peripheral neuropathy (up to 13%)
+Frequency not reported: Blurred vision, photophobia, mydriasis, fixed or unequal pupils, optic nerve disorder, eyelid ptosis, papilledema loss of vision
+Very common (10% or more): Pain (up to 85%) (including abdominal pain, abdominal pain upper, arthralgia, back pain, bladder pain, bone pain, chest pain, facial pain, gingival pain, infusion related reaction, musculoskeletal chest pain, myalgia, neck pain, neuralgia, oropharyngeal pain, pain in extremity, proctalgia), pyrexia (up to 72%), edema (up to 17%), increased weight (up to 10%)
+Very common (10% or more): Increased serum creatinine (up to 15%)
+Very common (10% or more): Hypoxia (up to 24%)
 The most common adverse drug reactions (25% or more) are pain, pyrexia, thrombocytopenia, lymphopenia, infusion reactions, hypotension, hyponatremia, increased alanine aminotransferase, anemia, vomiting, diarrhea, hypokalemia, capillary leak syndrome, neutropenia, urticaria, hypoalbuminemia, increased aspartate aminotransferase, and hypocalcemia
-1. "Product Information. Unituxin (dinutuximab)." United Therapeutics Corporation, Silver Spring, MD. 
 It is possible that some side effects of Unituxin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Black, tarry, stools
 bleeding gums
 blood in the urine or stools
@@ -69,8 +61,6 @@ troubled breathing with exertion
 ulcers, sores, or white spots in the mouth
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Back pain
 bigger, dilated, or enlarged pupils (black part of the eye)
 burning, numbness, tingling, or painful sensations
@@ -85,10 +75,5 @@ nerve pain
 pain in the arms or legs
 unsteadiness or awkwardness
 weakness in the arms, hands, legs, or feet
-
-
 Yellow eyes or skin
-
-
 Diarrhea
-

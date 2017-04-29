@@ -1,20 +1,9 @@
-Generic Name: diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid
-Applies to diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid: intramuscular suspension
-In addition to its needed effects, some unwanted effects may be caused by diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid, check with your doctor or nurse immediately:
-Some of the side effects that can occur with diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to diphtheria toxoid / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid: intramuscular suspension
-General side effects have included drowsiness, fever, and loss of appetite.[Ref]
-Hypersensitivity side effects have included anaphylactoid reactions, anaphylaxis, angioedema, and urticaria, apnea, collapse or shocklike state (hypotonic-hyporesponsive episode), convulsions (with or without fever), lymphadenopathy, and thrombocytopenia.[Ref]
-Local side effects have included pain, redness, swelling, and increase in arm circumference.[Ref]
-Gastrointestinal side effects have included gastroenteritis and dehydration.[Ref]
-Dermatologic side effects have included pruritus.[Ref]
-1. "Product Information. Kinrix (diphtheria/pertussis,acel/tetanus/polio)." GlaxoSmithKline, Research Triangle Park, NC. 
-Not all side effects for Kinrix may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+General side effects have included drowsiness, fever, and loss of appetite.
+Hypersensitivity side effects have included anaphylactoid reactions, anaphylaxis, angioedema, and urticaria, apnea, collapse or shocklike state (hypotonic-hyporesponsive episode), convulsions (with or without fever), lymphadenopathy, and thrombocytopenia.
+Local side effects have included pain, redness, swelling, and increase in arm circumference.
+Gastrointestinal side effects have included gastroenteritis and dehydration.
+Dermatologic side effects have included pruritus.
 Abdominal or stomach pain
 blurred vision
 confusion
@@ -46,8 +35,6 @@ unusual tiredness or weakness
 weakness
 weakness in the arm and/or leg on one side of the body, sudden and severe
 wrinkled skin
-
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
@@ -64,9 +51,6 @@ slow breathing
 swollen, painful, or tender lymph glands in neck, armpit, or groin
 tightness in the chest
 unusual bleeding or bruising
-
-
 Loss of appetite
 pain, redness, or swelling at the injection site
 sleepiness
-

@@ -1,39 +1,24 @@
-Generic Name: acetaminophen / butalbital / caffeine / codeine
-Applies to acetaminophen / butalbital / caffeine / codeine: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by acetaminophen / butalbital / caffeine / codeine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking acetaminophen / butalbital / caffeine / codeine:
-
 If any of the following symptoms of overdose occur while taking acetaminophen / butalbital / caffeine / codeine, get emergency help immediately:
-
-Some of the side effects that can occur with acetaminophen / butalbital / caffeine / codeine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to acetaminophen / butalbital / caffeine / codeine: oral capsule
-The most frequently reported adverse events have included drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling.[Ref]
-Acetaminophen:Frequency not reported: Liver failure[Ref]
-Acute liver failure has been reported with acetaminophen use; many cases have been associated with use at doses in excess of 4 g/day, and often involving more than 1 acetaminophen-containing product.[Ref]
-Respiratory depression resulting in death has been reported in children who received codeine postoperatively following tonsillectomy and/or adenoidectomy.  These children had evidence of being ultra-rapid metabolizers of codeine.  Death has also been reported in nursing infants exposed to high levels of morphine in breast milk due to their breastfeeding mother being an ultra-rapid metabolizer of codeine.[Ref]
-Common (1% to 10%): Shortness of breathUncommon (0.1% to 1%): Nasal congestionCodeine: Postmarketing reports: Respiratory depression including deaths[Ref]
-Uncommon (0.1% to 1%): Allergic reactionsPostmarketing reports: AnaphylaxisAcetaminophen:Postmarketing reports: Anaphylaxis[Ref]
-Several cases of dermatologic reactions including toxic epidermal necrolysis and erythema multiforme have been reported with butalbital/acetaminophen/caffeine.[Ref]
-Butalbital/Acetaminophen/Caffeine/Codeine: Uncommon (0.1% to 1%): Hyperhidrosis, pruritus		Frequency not reported: Toxic epidermal necrolysis, erythema multiformeAcetaminophen: Rare (less than 0.1%): Serious skin reactions such as acute generalized exanthematous pustulosis, Stevens-Johnson syndrome, and toxic epidermal necrolysisFrequency not reported: Rash[Ref]
-Butalbital/Acetaminophen/Caffeine/Codeine: Uncommon (0.1% to 1%): Agitation, euphoria Caffeine: Frequency not reported: Irritability, dependence[Ref]
-Common (1% to 10%): Nausea, vomiting, abdominal painUncommon (0.1% to 1%): Dry mouth, difficulty swallowing, heartburn, flatulence, constipation[Ref]
-Butalbital/Acetaminophen/Caffeine/Codeine: Uncommon (0.1% to 1%): Diuresis Caffeine: Frequency not reported: Nephrotoxicity[Ref]
-Acetaminophen: Frequency not reported: Thrombocytopenia, agranulocytosis[Ref]
-Butalbital/Acetaminophen/Caffeine/Codeine: Uncommon (0.1% to 1%): TachycardiaCaffeine: Frequency not reported: Cardiac stimulation[Ref]
-Butalbital/Acetaminophen/Caffeine/Codeine: Common (1% to 10%): Drowsiness, lightheadedness, dizziness, sedationUncommon (0.1% to 1%): Headache, shaky feeling, tingly, fainting, numbness, seizures, mental confusion, excitement or depression due to intoleranceCaffeine: Frequency not reported: Tremor[Ref]
+The most frequently reported adverse events have included drowsiness, lightheadedness, dizziness, sedation, shortness of breath, nausea, vomiting, abdominal pain, and intoxicated feeling.
+Acetaminophen:Frequency not reported: Liver failure
+Acute liver failure has been reported with acetaminophen use; many cases have been associated with use at doses in excess of 4 g/day, and often involving more than 1 acetaminophen-containing product.
+Respiratory depression resulting in death has been reported in children who received codeine postoperatively following tonsillectomy and/or adenoidectomy.  These children had evidence of being ultra-rapid metabolizers of codeine.  Death has also been reported in nursing infants exposed to high levels of morphine in breast milk due to their breastfeeding mother being an ultra-rapid metabolizer of codeine.
+Common (1% to 10%): Shortness of breathUncommon (0.1% to 1%): Nasal congestionCodeine: Postmarketing reports: Respiratory depression including deaths
+Uncommon (0.1% to 1%): Allergic reactionsPostmarketing reports: AnaphylaxisAcetaminophen:Postmarketing reports: Anaphylaxis
+Several cases of dermatologic reactions including toxic epidermal necrolysis and erythema multiforme have been reported with butalbital/acetaminophen/caffeine.
+Butalbital/Acetaminophen/Caffeine/Codeine: Uncommon (0.1% to 1%): Hyperhidrosis, pruritus		Frequency not reported: Toxic epidermal necrolysis, erythema multiformeAcetaminophen: Rare (less than 0.1%): Serious skin reactions such as acute generalized exanthematous pustulosis, Stevens-Johnson syndrome, and toxic epidermal necrolysisFrequency not reported: Rash
+Butalbital/Acetaminophen/Caffeine/Codeine: Uncommon (0.1% to 1%): Agitation, euphoria Caffeine: Frequency not reported: Irritability, dependence
+Common (1% to 10%): Nausea, vomiting, abdominal painUncommon (0.1% to 1%): Dry mouth, difficulty swallowing, heartburn, flatulence, constipation
+Butalbital/Acetaminophen/Caffeine/Codeine: Uncommon (0.1% to 1%): Diuresis Caffeine: Frequency not reported: Nephrotoxicity
+Acetaminophen: Frequency not reported: Thrombocytopenia, agranulocytosis
+Butalbital/Acetaminophen/Caffeine/Codeine: Uncommon (0.1% to 1%): TachycardiaCaffeine: Frequency not reported: Cardiac stimulation
+Butalbital/Acetaminophen/Caffeine/Codeine: Common (1% to 10%): Drowsiness, lightheadedness, dizziness, sedationUncommon (0.1% to 1%): Headache, shaky feeling, tingly, fainting, numbness, seizures, mental confusion, excitement or depression due to intoleranceCaffeine: Frequency not reported: Tremor
 Common (1% to 10%): Intoxicated feelingUncommon (0.1% to 1%): Fatigue, high energy, heavy eyelids, sluggishness, hot spells, fever, earache, tinnitus
-Caffeine: Frequency not reported: Hyperglycemia[Ref]
-Uncommon (0.1% to 1%): Leg pain, muscle fatigue[Ref]
-1. "Product Information. APAP/Butalbital/Caffeine/Codeine (acetaminophen / butalbital / caffeine / codeine)." West-Ward Pharmaceutical Corporation, Eatontown, NJ. 
-Not all side effects for Fioricet with Codeine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Caffeine: Frequency not reported: Hyperglycemia
+Uncommon (0.1% to 1%): Leg pain, muscle fatigue
 Confusion (mild)
 mental depression
 unusual excitement (mild)
-
-
 Bleeding or crusting sores on the lips
 chest pain
 convulsions
@@ -50,8 +35,6 @@ sore throat
 swollen or painful glands
 tightness in the chest
 troubled breathing
-
-
 Anxiety (severe)
 cold and clammy skin
 confusion (severe)
@@ -71,12 +54,9 @@ stomach cramps or pain
 swelling, pain, or tenderness in the upper abdomen or stomach area
 trembling or shaking of the hands or feet
 trouble sleeping (severe)
-
-
 Bloated or "gassy" feeling
 dizziness or lightheadedness (mild)
 drowsiness (mild)
 nausea
 stomach pain (mild)
 vomiting
-

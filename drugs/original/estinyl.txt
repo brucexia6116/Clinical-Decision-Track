@@ -1,15 +1,11 @@
-Generic Name: ethinyl estradiol
-Applies to ethinyl estradiol: compounding powder, oral tablet
-Frequency not reported: Hypertension, thrombosis, thrombophlebitis, thromboembolism, myocardial infarction, stroke[Ref]
-Frequency not reported: Erythema nodosum, erythema multiforme, vascular purpura, rash, chloasma[Ref]
-Frequency not reported: Nausea, vomiting[Ref]
-Frequency not reported: Intermenstrual bleeding, increase in the size of uterine fibromyomata, endometrial proliferation or aggravation of endometriosis, excessive production of cervical mucus, breast tenderness, breast pain, breast enlargement, breast secretion[Ref]
-Frequency not reported: Venous thromboembolism (e.g., deep leg or pelvic venous thrombosis)[Ref]
-Frequency not reported: Cholelithiasis, cholestatic jaundice[Ref]
-Frequency not reported: Sodium and water retention, reduced glucose tolerance, change in body weight, hypercalcemia, feminization in males, gynecomastia, testicular atrophy, male impotence[Ref]
-Frequency not reported: Headache, migraine, dizziness[Ref]
-Frequency not reported: Corneal discomfort (if contact lenses are used)[Ref]
-Frequency not reported: Endometrial neoplasia, endometrial cancer, breast cancer[Ref]
-Frequency not reported: Mood changes (e.g., elation, depression), probable dementia[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Estinyl may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Frequency not reported: Hypertension, thrombosis, thrombophlebitis, thromboembolism, myocardial infarction, stroke
+Frequency not reported: Erythema nodosum, erythema multiforme, vascular purpura, rash, chloasma
+Frequency not reported: Nausea, vomiting
+Frequency not reported: Intermenstrual bleeding, increase in the size of uterine fibromyomata, endometrial proliferation or aggravation of endometriosis, excessive production of cervical mucus, breast tenderness, breast pain, breast enlargement, breast secretion
+Frequency not reported: Venous thromboembolism (e.g., deep leg or pelvic venous thrombosis)
+Frequency not reported: Cholelithiasis, cholestatic jaundice
+Frequency not reported: Sodium and water retention, reduced glucose tolerance, change in body weight, hypercalcemia, feminization in males, gynecomastia, testicular atrophy, male impotence
+Frequency not reported: Headache, migraine, dizziness
+Frequency not reported: Corneal discomfort (if contact lenses are used)
+Frequency not reported: Endometrial neoplasia, endometrial cancer, breast cancer
+Frequency not reported: Mood changes (e.g., elation, depression), probable dementia

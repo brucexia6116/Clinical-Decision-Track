@@ -1,33 +1,22 @@
-Generic Name: ethionamide
-Applies to ethionamide: oral tablet
 As well as its needed effects, ethionamide (the active ingredient contained in Trecator-SC) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking ethionamide, check with your doctor immediately:
 Some ethionamide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to ethionamide: oral tablet
-Gastrointestinal side effects are the most common side effects of ethionamide (the active ingredient contained in Trecator-SC) and may be dose-related.  They have included nausea, vomiting, diarrhea, abdominal pain excessive salivation, metallic taste, stomatitis, anorexia, and weight loss.  Approximately one-half of patients cannot tolerate 1 gram as a single dose.[Ref]
-Nervous system side effects have included psychotic disturbances, mental depression, drowsiness, dizziness, restlessness, headache, peripheral neuritis, and a pellagra-like syndrome.  Concomitant pyridoxine has been recommended to prevent or relieve neurotoxic effects.[Ref]
-Ocular side effects have rarely included optic neuritis, diplopia, and blurred vision.[Ref]
-Hepatic side effects have included transient increases in serum bilirubin, SGOT, SGPT, and hepatitis with or without jaundice.[Ref]
-Hypersensitivity reactions have rarely included rash, photosensitivity, thrombocytopenia, and purpura.[Ref]
-Metabolic side effects have included hypoglycemia and hypothyroidism.[Ref]
-Genitourinary side effects have included gynecomastia and impotence.[Ref]
-Dermatologic side effects have included rash and acne.[Ref]
-Hematologic side effects have included thrombocytopenia and purpura.[Ref]
-Cardiovascular side effects have included postural hypotension.[Ref]
-1. "Product Information. Trecator-SC (ethionamide)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-2. McDonnell ME,  Braverman LE,  Bernardo J "Hypothyroidism due to ethionamide." N Engl J Med 352 (2005): 2757-9
-3. Hussey HH "Editorial: Gynecomastia." JAMA 228 (1974): 1423
+Gastrointestinal side effects are the most common side effects of ethionamide (the active ingredient contained in Trecator-SC) and may be dose-related.  They have included nausea, vomiting, diarrhea, abdominal pain excessive salivation, metallic taste, stomatitis, anorexia, and weight loss.  Approximately one-half of patients cannot tolerate 1 gram as a single dose.
+Nervous system side effects have included psychotic disturbances, mental depression, drowsiness, dizziness, restlessness, headache, peripheral neuritis, and a pellagra-like syndrome.  Concomitant pyridoxine has been recommended to prevent or relieve neurotoxic effects.
+Ocular side effects have rarely included optic neuritis, diplopia, and blurred vision.
+Hepatic side effects have included transient increases in serum bilirubin, SGOT, SGPT, and hepatitis with or without jaundice.
+Hypersensitivity reactions have rarely included rash, photosensitivity, thrombocytopenia, and purpura.
+Metabolic side effects have included hypoglycemia and hypothyroidism.
+Genitourinary side effects have included gynecomastia and impotence.
+Dermatologic side effects have included rash and acne.
+Hematologic side effects have included thrombocytopenia and purpura.
+Cardiovascular side effects have included postural hypotension.
 It is possible that some side effects of Trecator-SC may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Clumsiness or unsteadiness
 confusion
 mental depression
 numbness, tingling, burning, or pain in the hands and feet
 yellow eyes or skin
-
-
 Blindness or vision changes
 blue-yellow color blindness
 blurred vision or loss of vision, with or without eye pain
@@ -55,8 +44,6 @@ tightness in the chest
 troubled breathing or swallowing
 weakness in the hands or feet
 weight gain
-
-
 Chills
 cold sweats
 coma
@@ -73,8 +60,6 @@ slurred speech
 unusual tiredness or weakness
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Abdominal or stomach pain
 diarrhea
 increased watering of the mouth
@@ -82,12 +67,9 @@ loss of appetite
 metallic taste
 swelling or inflammation of the mouth
 weight loss
-
-
 Blemishes on the skin
 decreased interest in sexual intercourse
 enlargement of the breasts (in males)
 inability to have or keep an erection
 loss in sexual ability, desire, drive, or performance
 pimples
-

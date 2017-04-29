@@ -1,26 +1,15 @@
-Generic Name: atorvastatin / ezetimibe
-Applies to atorvastatin / ezetimibe: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by atorvastatin / ezetimibe. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking atorvastatin / ezetimibe:
-Some of the side effects that can occur with atorvastatin / ezetimibe may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to atorvastatin / ezetimibe: oral tablet
-Postmarketing reports: Angioedema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rash, urticaria[Ref]
-Common (1% to 10%): Hot flushes (2%)[Ref]
-Common (1% to 10%): Diarrhea (4.1 to 6.8%), abdominal pain (3%), nausea (3 to 4%), dyspepsia (4.7%)[Ref]
-Common (1% to 10%): Urinary tract infection (5.7%)[Ref]
-Postmarketing reports: Thrombocytopenia, elevated creatine phosphokinase[Ref]
-Common (1% to 10%): ALT increased (5%), AST increased (4%)Postmarketing reports: Hepatitis, cholelithiasis, cholecystitis, fatal and nonfatal hepatic failure[Ref]
-Postmarketing reports: Anaphylaxis, hypersensitivity reactions[Ref]
-Common (1% to 10%): Influenza (2%)[Ref]
-Common (1% to 10%): Hyperkalemia (2%)[Ref]
-Common (1% to 10%): Musculoskeletal pain (3.8 to 4%), arthralgia (3 to 6.9%), pain in extremity (2.7 to 6%), myalgia (3.5%), muscle spasms (3%), muscle weakness (2%)Postmarketing reports: Myopathy/rhabdomyolysis, necrotizing myopathy (rarely), injury, poisoning and procedural complication, tendon rupture[Ref]
-Common (1% to 10%): Dizziness (2 to 6%), insomnia (3%), fatigue (2.4%)Postmarketing reports: Headache, paresthesia, peripheral neuropathy, amnesia, memory impairment, confusion, depression[Ref]
-Common (1% to 10%): Coughing (2 to 3%), bronchitis (2%), sinusitis (2 to 2.8%), upper respiratory tract infection (4.3%), nasopharyngitis (up to 8.3%), pharyngolaryngeal pain (up to 2.3%)[Ref]
-1. "Product Information. Liptruzet (atorvastatin-ezetimibe)." Merck & Company Inc, Whitehouse Station, NJ. 
-Not all side effects for Liptruzet may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Postmarketing reports: Angioedema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rash, urticaria
+Common (1% to 10%): Hot flushes (2%)
+Common (1% to 10%): Diarrhea (4.1 to 6.8%), abdominal pain (3%), nausea (3 to 4%), dyspepsia (4.7%)
+Common (1% to 10%): Urinary tract infection (5.7%)
+Postmarketing reports: Thrombocytopenia, elevated creatine phosphokinase
+Common (1% to 10%): ALT increased (5%), AST increased (4%)Postmarketing reports: Hepatitis, cholelithiasis, cholecystitis, fatal and nonfatal hepatic failure
+Postmarketing reports: Anaphylaxis, hypersensitivity reactions
+Common (1% to 10%): Influenza (2%)
+Common (1% to 10%): Hyperkalemia (2%)
+Common (1% to 10%): Musculoskeletal pain (3.8 to 4%), arthralgia (3 to 6.9%), pain in extremity (2.7 to 6%), myalgia (3.5%), muscle spasms (3%), muscle weakness (2%)Postmarketing reports: Myopathy/rhabdomyolysis, necrotizing myopathy (rarely), injury, poisoning and procedural complication, tendon rupture
+Common (1% to 10%): Dizziness (2 to 6%), insomnia (3%), fatigue (2.4%)Postmarketing reports: Headache, paresthesia, peripheral neuropathy, amnesia, memory impairment, confusion, depression
+Common (1% to 10%): Coughing (2 to 3%), bronchitis (2%), sinusitis (2 to 2.8%), upper respiratory tract infection (4.3%), nasopharyngitis (up to 8.3%), pharyngolaryngeal pain (up to 2.3%)
 Abdominal or stomach pain
 confusion
 difficult breathing
@@ -33,8 +22,6 @@ nausea or vomiting
 nervousness
 numbness or tingling in the hands, feet, or lips
 weakness or heaviness of the legs
-
-
 Black, tarry stools
 blistering, peeling, or loosening of the skin
 blood in the urine or stools
@@ -55,8 +42,6 @@ unsteadiness or awkwardness
 unusual bleeding or bruising
 unusual tiredness or weakness
 yellow eyes and skin
-
-
 Cough
 dizziness
 feeling of warmth
@@ -65,8 +50,6 @@ redness of the face, neck, arms, and occasionally, upper chest
 stuffy or runny nose
 sudden sweating
 tightness in the chest
-
-
 Being forgetful
 bloating burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 chills
@@ -82,4 +65,3 @@ pains in the stomach, side, or abdomen, possibly radiating to the back
 tiredness
 trouble concentrating
 trouble sleeping
-

@@ -1,88 +1,35 @@
-Generic Name: fluconazole
 More frequent side effects include: vomiting.  See below for a comprehensive list of adverse effects.
-Applies to fluconazole: oral capsule, oral powder for suspension, oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by fluconazole (the active ingredient contained in Diflucan). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking fluconazole:
-
 If any of the following symptoms of overdose occur while taking fluconazole, get emergency help immediately:
-
-Some of the side effects that can occur with fluconazole may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fluconazole: intravenous solution, oral powder for reconstitution, oral tablet
-This drug was generally well tolerated.  Changes in renal and hematological function test results and hepatic abnormalities reported during therapy with this and comparative agents in some patients, primarily those with serious underlying diseases (e.g., AIDS, cancer); clinical significance and relationship to therapy unclear.During clinical trials of single-dose therapy, side effects possibly related to therapy were reported in 26% of patients using this drug and 16% of patients using active comparative agents.  The most common side effects reported in patients receiving a single 150 mg dose of this drug for vaginitis were headache, nausea, and abdominal pain.  Most side effects were of mild to moderate severity.During clinical trials of multiple-dose therapy, side effects were reported in 16% of patients.  Therapy discontinuation occurred in 1.5% and 1.3% of patients due to adverse clinical events and laboratory test abnormalities, respectively.  Clinical side effects were reported more often in HIV-infected patients than in non-HIV-infected patients (21% versus 13%), but the patterns in both groups were similar.[Ref]
-Rare cases of seizures have been reported, but a causal relationship was difficult to establish, since some of these patients had cryptococcal meningitis or severe underlying disease.  Nonetheless, at least 1 case of seizure following a 100 mg oral dose has been reported.Seizures, dizziness, paresthesia, somnolence, tremor, and vertigo have also been reported during postmarketing experience.[Ref]
-Very common (10% or more): Headache (up to 13%)Uncommon (0.1% to 1%): Seizures, dizziness, paresthesia, somnolence, vertigo, visual field defect, taste perversion, hyperkinesia, hypertoniaRare (less than 0.1%): TremorFrequency not reported: Dysesthesias[Ref]
-Very common (10% or more): Nausea, abdominal pain, diarrhea, vomitingCommon (1% to 10%): DyspepsiaUncommon (0.1% to 1%): Constipation, flatulence, loose stools, dry mouthFrequency not reported: General abdominal discomfort[Ref]
-Dry mouth, dyspepsia, and vomiting have also been reported during postmarketing experience.[Ref]
-Fatal hepatic reactions have occurred primarily in patients with serious underlying medical conditions (primarily AIDS or malignancy) and often taking multiple concomitant medications.  One reported patient with AIDS experienced acute hepatic necrosis and hepatic failure about 3 weeks after starting this drug.Transient hepatic reactions have been reported in patients with no other identifiable risk factors.  Liver function returned to baseline after stopping this drug.Serum transaminase elevations (greater than 8 times the upper limit of normal [8 x ULN]; about 1%) and statistically significant increases in AST have been reported.  Serum transaminase elevations have been reported primarily in patients with serious underlying medical conditions (primarily AIDS or malignancy) and often taking multiple concomitant medications, including agents known to be hepatotoxic.Transaminase elevations greater than 2 to 3 x ULN have also been reported.Cholestasis, hepatocellular damage, and hepatocellular necrosis have also been reported during postmarketing experience.[Ref]
-Very common (10% or more): Increased ALT, increased ASTUncommon (0.1% to 1%): Serum transaminase elevations, cholestasis, jaundice, increased bilirubinRare (less than 0.1%): Serious hepatic reactions, hepatic toxicity (including fatalities), hepatic failure, hepatocellular necrosis, hepatitis, hepatocellular damageFrequency not reported: Hepatic reactions (ranging from mild transient transaminase elevations to clinical hepatitis, fulminant hepatic failure [including fatalities]), transient hepatic reactions (including hepatitis, jaundice), elevated liver function tests (transient and asymptomatic), cholestatic jaundice, fatal hepatic necrosis, increased plasma levels of hepatic enzymes[Ref]
-Reversible alopecia has been associated with long-term (2 months or longer) therapy.In patients with serious underlying diseases (primarily AIDS and malignancy), exfoliative skin disorders have resulted in a fatal outcome.Acute generalized exanthematous pustulosis, drug eruption, increased sweating, exfoliative skin disorders (including Stevens-Johnson syndrome, toxic epidermal necrolysis), and alopecia have also been reported during postmarketing experience.[Ref]
-Very common (10% or more): RashCommon (1% to 10%): Maculopapular erythemaUncommon (0.1% to 1%): Pruritus, genital pruritus, erythematous rash, dry skin, abnormal skin odor, urticaria, herpes simplex, drug eruption, increased sweatingRare (less than 0.1%): Angioedema, exfoliative skin disorders (including Stevens-Johnson syndrome, toxic epidermal necrolysis), alopecia, acute generalized exanthematous pustulosis, exfoliative dermatitisFrequency not reported: Reversible alopecia, exfoliative skin disorders (including fatalities)[Ref]
-Very common (10% or more): Increased blood alkaline phosphataseUncommon (0.1% to 1%): Hypokalemia, anorexia, decreased appetiteRare (less than 0.1%): Hypercholesterolemia, hypertriglyceridemia[Ref]
-Hypercholesterolemia, hypertriglyceridemia, and hypokalemia have also been reported during postmarketing experience.[Ref]
-Rare cases of exfoliative dermatitis and ulcerative eruptions consistent with Stevens-Johnson syndrome have been reported in association with hypersensitivity reactions.A 52-year-old female experienced a fixed drug eruption (FDE) when administered a single 400 mg oral dose for extensive pityriasis versicolor.  Within 12 hours, she noticed 3 oval, painful, eroded, pigmented patches over her trunk with diameters of 3 to 4 cm and erythematous halos.  A clinical diagnosis of FDE due to drug therapy was made.  The FDE was confirmed when the patient was rechallenged with a 25 mg oral dose.[Ref]
-Rare (less than 0.1%): Anaphylactic reaction, anaphylaxisFrequency not reported: Hypersensitivity reactions (including generalized edema, stridor, hypotension, exfoliative dermatitis, ulcerative eruptions), fixed drug eruptionPostmarketing reports: Anaphylaxis (including angioedema, face edema, pruritus)[Ref]
-Most reports of QT interval prolongation and torsades de pointes involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities, and concomitant medications that may have been contributory.An 11-year-old male with neurofibromatosis-1 presented to the hospital in septic shock secondary to a perforated gastric volvulus.  After initial stabilization, the patient underwent total gastrectomy and multiple peritoneal lavages.  Culture of peritoneal fluid showed infection with Candida albicans.  Therapy was started with fluconazole (the active ingredient contained in Diflucan) 150 mg IV every 12 hours.  After starting this drug, the patient developed QT prolongation and complex ventricular arrhythmia.  The drug was discontinued.  Over the subsequent 36-hours, the patient remained in sinus rhythm except for one brief run of ventricular bigeminy.  An ECG recorded 5 months after admission (and about 4 months after cessation of all QT-prolonging medications) showed sinus rhythm with normal heart rate and corrected QT interval.QT prolongation and torsade de pointes have also been reported during postmarketing experience.[Ref]
-Rare (less than 0.1%): QT prolongation, torsade de pointesFrequency not reported: Prolongation of the QT interval on the ECG, palpitations, complex ventricular arrhythmia[Ref]
-Anemia, eosinophilia, leukopenia, neutropenia, and thrombocytopenia have been reported, often in patients with severe deep fungal infections or underlying disease.Spontaneous reports of anemia were more frequent in patients 65 years of age or older than in those between 12 and 65 years of age; however, there is a natural increase in the incidence of anemia in the elderly.  A causal relationship to drug exposure could not be determined.Anemia, leukopenia, neutropenia, agranulocytosis, and thrombocytopenia have also been reported during postmarketing experience.[Ref]
-Uncommon (0.1% to 1%): AnemiaRare (less than 0.1%): Leukopenia, neutropenia, agranulocytosis, thrombocytopeniaFrequency not reported: Eosinophilia[Ref]
-Uncommon (0.1% to 1%): Thirst, fatigue, malaise, pain, rigors, asthenia, fever, flushing, hot flushesRare (less than 0.1%): Face edemaFrequency not reported: Infection due to resistant microorganisms[Ref]
-Fever, asthenia, fatigue, and malaise have also been reported during postmarketing experience.[Ref]
-Uncommon (0.1% to 1%): Back pain, myalgiaFrequency not reported: Joint pain, finger stiffness[Ref]
-Myalgia has also been reported during postmarketing experience.[Ref]
+This drug was generally well tolerated.  Changes in renal and hematological function test results and hepatic abnormalities reported during therapy with this and comparative agents in some patients, primarily those with serious underlying diseases (e.g., AIDS, cancer); clinical significance and relationship to therapy unclear.During clinical trials of single-dose therapy, side effects possibly related to therapy were reported in 26% of patients using this drug and 16% of patients using active comparative agents.  The most common side effects reported in patients receiving a single 150 mg dose of this drug for vaginitis were headache, nausea, and abdominal pain.  Most side effects were of mild to moderate severity.During clinical trials of multiple-dose therapy, side effects were reported in 16% of patients.  Therapy discontinuation occurred in 1.5% and 1.3% of patients due to adverse clinical events and laboratory test abnormalities, respectively.  Clinical side effects were reported more often in HIV-infected patients than in non-HIV-infected patients (21% versus 13%), but the patterns in both groups were similar.
+Rare cases of seizures have been reported, but a causal relationship was difficult to establish, since some of these patients had cryptococcal meningitis or severe underlying disease.  Nonetheless, at least 1 case of seizure following a 100 mg oral dose has been reported.Seizures, dizziness, paresthesia, somnolence, tremor, and vertigo have also been reported during postmarketing experience.
+Very common (10% or more): Headache (up to 13%)Uncommon (0.1% to 1%): Seizures, dizziness, paresthesia, somnolence, vertigo, visual field defect, taste perversion, hyperkinesia, hypertoniaRare (less than 0.1%): TremorFrequency not reported: Dysesthesias
+Very common (10% or more): Nausea, abdominal pain, diarrhea, vomitingCommon (1% to 10%): DyspepsiaUncommon (0.1% to 1%): Constipation, flatulence, loose stools, dry mouthFrequency not reported: General abdominal discomfort
+Dry mouth, dyspepsia, and vomiting have also been reported during postmarketing experience.
+Fatal hepatic reactions have occurred primarily in patients with serious underlying medical conditions (primarily AIDS or malignancy) and often taking multiple concomitant medications.  One reported patient with AIDS experienced acute hepatic necrosis and hepatic failure about 3 weeks after starting this drug.Transient hepatic reactions have been reported in patients with no other identifiable risk factors.  Liver function returned to baseline after stopping this drug.Serum transaminase elevations (greater than 8 times the upper limit of normal [8 x ULN]; about 1%) and statistically significant increases in AST have been reported.  Serum transaminase elevations have been reported primarily in patients with serious underlying medical conditions (primarily AIDS or malignancy) and often taking multiple concomitant medications, including agents known to be hepatotoxic.Transaminase elevations greater than 2 to 3 x ULN have also been reported.Cholestasis, hepatocellular damage, and hepatocellular necrosis have also been reported during postmarketing experience.
+Very common (10% or more): Increased ALT, increased ASTUncommon (0.1% to 1%): Serum transaminase elevations, cholestasis, jaundice, increased bilirubinRare (less than 0.1%): Serious hepatic reactions, hepatic toxicity (including fatalities), hepatic failure, hepatocellular necrosis, hepatitis, hepatocellular damageFrequency not reported: Hepatic reactions (ranging from mild transient transaminase elevations to clinical hepatitis, fulminant hepatic failure [including fatalities]), transient hepatic reactions (including hepatitis, jaundice), elevated liver function tests (transient and asymptomatic), cholestatic jaundice, fatal hepatic necrosis, increased plasma levels of hepatic enzymes
+Reversible alopecia has been associated with long-term (2 months or longer) therapy.In patients with serious underlying diseases (primarily AIDS and malignancy), exfoliative skin disorders have resulted in a fatal outcome.Acute generalized exanthematous pustulosis, drug eruption, increased sweating, exfoliative skin disorders (including Stevens-Johnson syndrome, toxic epidermal necrolysis), and alopecia have also been reported during postmarketing experience.
+Very common (10% or more): RashCommon (1% to 10%): Maculopapular erythemaUncommon (0.1% to 1%): Pruritus, genital pruritus, erythematous rash, dry skin, abnormal skin odor, urticaria, herpes simplex, drug eruption, increased sweatingRare (less than 0.1%): Angioedema, exfoliative skin disorders (including Stevens-Johnson syndrome, toxic epidermal necrolysis), alopecia, acute generalized exanthematous pustulosis, exfoliative dermatitisFrequency not reported: Reversible alopecia, exfoliative skin disorders (including fatalities)
+Very common (10% or more): Increased blood alkaline phosphataseUncommon (0.1% to 1%): Hypokalemia, anorexia, decreased appetiteRare (less than 0.1%): Hypercholesterolemia, hypertriglyceridemia
+Hypercholesterolemia, hypertriglyceridemia, and hypokalemia have also been reported during postmarketing experience.
+Rare cases of exfoliative dermatitis and ulcerative eruptions consistent with Stevens-Johnson syndrome have been reported in association with hypersensitivity reactions.A 52-year-old female experienced a fixed drug eruption (FDE) when administered a single 400 mg oral dose for extensive pityriasis versicolor.  Within 12 hours, she noticed 3 oval, painful, eroded, pigmented patches over her trunk with diameters of 3 to 4 cm and erythematous halos.  A clinical diagnosis of FDE due to drug therapy was made.  The FDE was confirmed when the patient was rechallenged with a 25 mg oral dose.
+Rare (less than 0.1%): Anaphylactic reaction, anaphylaxisFrequency not reported: Hypersensitivity reactions (including generalized edema, stridor, hypotension, exfoliative dermatitis, ulcerative eruptions), fixed drug eruptionPostmarketing reports: Anaphylaxis (including angioedema, face edema, pruritus)
+Most reports of QT interval prolongation and torsades de pointes involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities, and concomitant medications that may have been contributory.An 11-year-old male with neurofibromatosis-1 presented to the hospital in septic shock secondary to a perforated gastric volvulus.  After initial stabilization, the patient underwent total gastrectomy and multiple peritoneal lavages.  Culture of peritoneal fluid showed infection with Candida albicans.  Therapy was started with fluconazole (the active ingredient contained in Diflucan) 150 mg IV every 12 hours.  After starting this drug, the patient developed QT prolongation and complex ventricular arrhythmia.  The drug was discontinued.  Over the subsequent 36-hours, the patient remained in sinus rhythm except for one brief run of ventricular bigeminy.  An ECG recorded 5 months after admission (and about 4 months after cessation of all QT-prolonging medications) showed sinus rhythm with normal heart rate and corrected QT interval.QT prolongation and torsade de pointes have also been reported during postmarketing experience.
+Rare (less than 0.1%): QT prolongation, torsade de pointesFrequency not reported: Prolongation of the QT interval on the ECG, palpitations, complex ventricular arrhythmia
+Anemia, eosinophilia, leukopenia, neutropenia, and thrombocytopenia have been reported, often in patients with severe deep fungal infections or underlying disease.Spontaneous reports of anemia were more frequent in patients 65 years of age or older than in those between 12 and 65 years of age; however, there is a natural increase in the incidence of anemia in the elderly.  A causal relationship to drug exposure could not be determined.Anemia, leukopenia, neutropenia, agranulocytosis, and thrombocytopenia have also been reported during postmarketing experience.
+Uncommon (0.1% to 1%): AnemiaRare (less than 0.1%): Leukopenia, neutropenia, agranulocytosis, thrombocytopeniaFrequency not reported: Eosinophilia
+Uncommon (0.1% to 1%): Thirst, fatigue, malaise, pain, rigors, asthenia, fever, flushing, hot flushesRare (less than 0.1%): Face edemaFrequency not reported: Infection due to resistant microorganisms
+Fever, asthenia, fatigue, and malaise have also been reported during postmarketing experience.
+Uncommon (0.1% to 1%): Back pain, myalgiaFrequency not reported: Joint pain, finger stiffness
+Myalgia has also been reported during postmarketing experience.
 Uncommon (0.1% to 1%): Insomnia, nervousness
 Insomnia has also been reported during postmarketing experience.
-Uncommon (0.1% to 1%): Polyuria, renal pain, changes in renal function testsFrequency not reported: Membranous nephropathyPostmarketing reports: Acute renal failure[Ref]
-A 58-year-old female with a history of hypertension and cervical cancer experienced membranous nephropathy coincident with this drug.  The patient presented with increasing generalized edema accompanied by nausea and indigestion for 3 weeks.  Clinical findings showed the patient had stage I membranous nephropathy.  At initial presentation, the patient's medication history included amlodipine, hydrochlorothiazide, metoclopramide, and levosulpiride.  She did not admit to taking fluconazole.  Five months after the initial presentation, the patient returned with reports of increasing pedal edema.  At that point, the patient admitted to taking this drug once a week for tinea pedis.  The patient went into complete remission when the drug was stopped.Spontaneous reports of acute renal failure were more frequent in patients 65 years of age or older than in those between 12 and 65 years of age; however, there is a natural increase in the incidence of renal failure in the elderly.  A causal relationship to drug exposure could not be determined.[Ref]
+Uncommon (0.1% to 1%): Polyuria, renal pain, changes in renal function testsFrequency not reported: Membranous nephropathyPostmarketing reports: Acute renal failure
+A 58-year-old female with a history of hypertension and cervical cancer experienced membranous nephropathy coincident with this drug.  The patient presented with increasing generalized edema accompanied by nausea and indigestion for 3 weeks.  Clinical findings showed the patient had stage I membranous nephropathy.  At initial presentation, the patient's medication history included amlodipine, hydrochlorothiazide, metoclopramide, and levosulpiride.  She did not admit to taking fluconazole.  Five months after the initial presentation, the patient returned with reports of increasing pedal edema.  At that point, the patient admitted to taking this drug once a week for tinea pedis.  The patient went into complete remission when the drug was stopped.Spontaneous reports of acute renal failure were more frequent in patients 65 years of age or older than in those between 12 and 65 years of age; however, there is a natural increase in the incidence of renal failure in the elderly.  A causal relationship to drug exposure could not be determined.
 Uncommon (0.1% to 1%): Intermenstrual bleeding, dysmenorrhea, leukorrhea, menorrhagia, uterine spasm, vaginal disorders, female sexual dysfunction
-Uncommon (0.1% to 1%): PharyngitisFrequency not reported: Respiratory disorders[Ref]
+Uncommon (0.1% to 1%): PharyngitisFrequency not reported: Respiratory disorders
 Uncommon (0.1% to 1%): Abnormal vision
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Grant SM, Clissold SP "Fluconazole: a review of its pharmacodynamic and pharmacokinetic properties, and therapeutic potential in superficial and systemic mycoses." Drugs 39 (1990): 877-916
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Product Information. Diflucan (fluconazole)." Roerig Division, New York, NY. 
-5. Saag MS, Powderly WG, Cloud GA, et al "Comparison of amphotericin B with fluconazole in the treatment of acute AIDS-associated cryptococcal meningitis." N Engl J Med 326 (1992): 83-9
-6. Phillips RJ, Watson SA, McKay FF "An open multicentre study of the efficacy and safety of a single dose of fluconazole 150 mg in the treatment of vaginal candidiasis in general practice." Br J Clin Pract 44 (1990): 219-22
-7. Thompson GR 3rd,  Cadena J,  Patterson TF "Overview of antifungal agents." Clin Chest Med 30 (2009): 203-15, v
-8. Inman W, Pearce G, Wilton L "Safety of fluconazole in the treatment of vaginal candidiasis - a prescription-event monitoring study, with special reference to the outcome of pregnancy." Eur J Clin Pharmacol 46 (1994): 115-8
-9. Gupta AK,  Ryder JE "The use of oral antifungal agents to treat onychomycosis." Dermatol Clin 21 (2003): 469-79, vi
-10. Robinson PA, Knirsch AK, Joseph JA "Fluconazole for life-threatening fungal infections in patients who cannot be treated with conventional antifungal agents." Rev Infect Dis 12 (1990): s349-63
-11. Bozzette SA, Larsen RA, Chiu J, et al "A placebo-controlled trial of maintenance therapy with fluconazole after treatment of cryptococcal meningitis in the acquired immunodeficiency syndrome." N Engl J Med 324 (1991): 580-4
-12. Holechek MJ "Medication review: fluconazole." ANNA J 18 (1991): 585-6
-13. Goodman JL, Winston DJ, Greenfield RA, et al "A controlled trial of fluconazole to prevent fungal infections in patients undergoing bone marrow transplantation." N Engl J Med 326 (1992): 845-51
-14. Ikemoto H "A clinical study of fluconazole for the treatment of deep mycoses." Diagn Microbiol Infect Dis 12 (1989): s239-47
-15. Morrow JD "Fluconazole: a new triazole antifungal agent." Am J Med Sci 302 (1991): 129-32
-16. De Wit S, Clumeck N "Fluconazole in the treatment of fungal infections associated with AIDS." Infection 17 (1989): 121-3
-17. Vincent-Ballereau FN, Patey ON, Lafaix C "Fluconazole: review and situation among antifungal drugs in the treatment of opportunistic mycoses of human immuno-deficiency virus infections." Pharm Weekbl Sci 13 (1990): 45-57
-18. Gearhart MO "Worsening of liver function with fluconazole and review of azole antifungal hepatotoxicity." Ann Pharmacother 28 (1994): 1177-81
-19. Wells C, Lever AM "Dose-dependent fluconazole hepatotoxicity proven on biopsy and rechallenge ." J Infect 24 (1992): 111-2
-20. Munoz P, Moreno S, Berenguer J, et al "Fluconazole-related hepatotoxicity in patients with acquired immunodeficiency syndrome." Arch Intern Med 151 (1991): 1020-1
-21. Franklin IM, Elias E, Hirsch C "Fluconazole-induced jaundice." Lancet 336 (1990): 565
-22. Nightingale SD, Cal SX, Peterson DM, et al "Primary prophylaxis with fluconazole against systemic fungal infections in HIV-positive patients." AIDS 6 (1992): 191-4
-23. Jacobson MA, Hanks DK, Ferrell LD "Fatal acute hepatic necrosis due to fluconazole." Am J Med 96 (1994): 188-90
-24. Guillaume MP, Deprez C, Cogan E "Subacute mitochondrial liver disease in a patient with AIDS: possible relationship to prolonged fluconazole administration." Am J Gastroenterol 91 (1996): 165-8
-25. Craig TJ, Peralta F, Boggavarapu J "Desensitization for fluconazole hypersensitivity." J Allergy Clin Immunol 98 (1996): 845-6
-26. Shear NH "Alopecia associated with fluconazole therapy." Ann Intern Med 125 (1996): 153
-27. Pappas PG, Kauffman CA, Perfect J, Johnson PC, Mckinsey DS, Bamberger DM, Hamill R, Sharkey PK, Chapman SW, Sobel JD "Alopecia associated with fluconazole therapy." Ann Intern Med 123 (1995): 354-7
-28. Goldsmith LA "Alopecia associated with fluconazole therapy." Ann Intern Med 125 (1996): 153
-29. Neuhaus G, Pavic N, Pletscher M "Anaphylactic reaction after oral fluconazole." Br Med J 302 (1991): 1341
-30. Gupta R,  Thami GP "Fixed drug eruption caused by itraconazole: Reactivity and cross reactivity." J Am Acad Dermatol 58 (2008): 521-522
-31. Gussenhoven MJ, Haak A, Peereboom-Wynia JD, van Wout JW "Stevens-Johnson syndrome after fluconazole." Lancet 338 (1991): 120
-32. Abbott M, Hughes DL, Patel R, Kinghorn GR "Angio-oedema after fluconazole." Lancet 338 (1991): 633
-33. Beecker J,  Colantonio S "Fixed drug eruption due to fluconazole." CMAJ 184 (2012): 675
-34. McMahon JH,  Grayson ML "Torsades de pointes in a patient receiving fluconazole for cerebral cryptococcosis." Am J Health Syst Pharm 65 (2008): 619-23
-35. Esch JJ,  Kantoch MJ "Torsades de pointes ventricular tachycardia in a pediatric patient treated with fluconazole." Pediatr Cardiol 29 (2007): 210-3
-36. Mercurio MG, Elewski BE "Thrombocytopenia caused by fluconazole - reply." J Am Acad Dermatol 35 (1996): 284
-37. Kalivas J "Thrombocytopenia caused by fluconazole." J Am Acad Dermatol 35 (1996): 284
-38. Pappas PG, Kauffman CA, Sobel JD "Alopecia associated with fluconazole therapy." Ann Intern Med 125 (1996): 153-4
-39. Agarwal A, Sakhuja V, Chugh KS "Fluconazole-induced thrombocytopenia." Ann Intern Med 113 (1990): 899
-40. Mercurio MG, Elewski BE "Thrombocytopenia caused by fluconazole therapy." J Am Acad Dermatol 32 (1995): 525-6
-41. Shin GT,  Yim H,  Park J,  Kim H "Membranous nephropathy associated with fluconazole treatment." Am J Kidney Dis 49 (2007): 318-22
-Not all side effects for Diflucan may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
 intravenous injectable, intravenous solution
-
 Abdominal or stomach pain
 chills
 clay-colored stools
@@ -108,8 +55,6 @@ unusual tiredness or weakness
 upper right abdominal or stomach pain
 vomiting of blood
 yellow eyes and skin
-
-
 Black, tarry stools
 blistering, peeling, or loosening of the skin
 chest pain or discomfort
@@ -136,19 +81,12 @@ sores, ulcers, or white spots in the mouth or on the lips
 sudden loss of consciousness
 swollen glands
 unusual bleeding or bruising
-
-
 Fearfulness, suspiciousness, or other mental changes
 seeing, hearing, or feeling things that are not there
-
-
 Acid or sour stomach
 belching
 change in taste or bad, unusual, or unpleasant (after) taste
 heartburn
 indigestion
 stomach discomfort or upset
-
-
 Hair loss or thinning of the hair
-

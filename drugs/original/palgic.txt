@@ -1,27 +1,13 @@
-Generic Name: carbinoxamine
-Applies to carbinoxamine: oral capsule extended release, oral liquid, oral solution, oral suspension, oral suspension extended release, oral tablet, oral tablet extended release
 As well as its needed effects, carbinoxamine (the active ingredient contained in Palgic) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking carbinoxamine, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking carbinoxamine, get emergency help immediately:
-
 Some carbinoxamine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to carbinoxamine: oral capsule extended release, oral liquid, oral suspension, oral suspension extended release, oral tablet, oral tablet extended release
-Nervous system side effects have included sedation, dizziness, headache, and nervousness.[Ref]
-Ocular side effects have included diplopia.[Ref]
-Gastrointestinal side effects have included vomiting, diarrhea, dry mouth, nausea, heartburn, and anorexia.[Ref]
-Other side effects have included weakness.[Ref]
-Genitourinary side effects have included polyuria.[Ref]
-1. "Product Information. Palgic (carbinoxamine)." Pamlab LLC, Mandeville, LA. 
-2. "Product Information. Histex I/E (carbinoxamine)." Teamm Pharmaceuticals Inc, Morrisville, NC. 
-3. "Product Information. Pediatex (carbinoxamine)." Zyber Pharmaceuticals Inc, Gonzales, LA. 
-4. "Product Information. Histex PD (carbinoxamine)." Andrx Pharmaceuticals, Davie, FL. 
-5. "Product Information. Histex CT (carbinoxamine)." Andrx Pharmaceuticals, Davie, FL. 
-6. "Product Information. Histex Pd 12 (carbinoxamine)." Teamm Pharmaceuticals Inc, Morrisville, NC. 
+Nervous system side effects have included sedation, dizziness, headache, and nervousness.
+Ocular side effects have included diplopia.
+Gastrointestinal side effects have included vomiting, diarrhea, dry mouth, nausea, heartburn, and anorexia.
+Other side effects have included weakness.
+Genitourinary side effects have included polyuria.
 It is possible that some side effects of Palgic may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blurred vision
 chills
 confusion
@@ -42,8 +28,6 @@ skin rash
 sweating
 tightness in the chest
 unusual tiredness or weakness
-
-
 Agitation
 anxiety
 bloating
@@ -68,13 +52,9 @@ stomach pain
 tightness of the chest
 trouble breathing
 vomiting
-
-
 Disturbed coordination
 drowsiness
 sleepiness
-
-
 Back, leg, or stomach pains
 black, tarry stools
 bleeding gums
@@ -119,4 +99,3 @@ trouble sleeping
 unusual bleeding or bruising
 weight loss
 yellowing of the eyes or skin
-

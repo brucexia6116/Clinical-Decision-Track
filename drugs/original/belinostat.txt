@@ -1,24 +1,14 @@
 Commonly reported side effects of belinostat include: anemia, diarrhea, nausea, thrombocytopenia, and vomiting.  See below for a comprehensive list of adverse effects.
-Applies to belinostat: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by belinostat. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking belinostat, check with your doctor or nurse immediately:
-Some of the side effects that can occur with belinostat may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to belinostat: intravenous powder for injection
-The most commonly observed adverse reactions included nausea, fatigue, pyrexia, anemia, and vomiting.The most commonly reported reasons for treatment discontinuation included anemia, febrile neutropenia, fatigue, and multi-organ failure.[Ref]
-Very common (10% or more): Anemia (32%), thrombocytopenia (16%)[Ref]
-Very common (10% or more): Peripheral edema (20%), prolonged QT (11%), hypotension (10%), phlebitis (10%)[Ref]
-Very common (10% or more): Rash (20%), pruritus (16%)[Ref]
-Very common (10% or more): Nausea (43%), vomiting (29%), constipation (23%), diarrhea (23%), decreased appetite (15%), abdominal pain (11%)[Ref]
-Very common (10% or more): Hypokalemia (12%)[Ref]
-Very common (10% or more): Headache (15%), dizziness (10%)[Ref]
-Very common (10% or more): Fatigue (37%), pyrexia (35%), chills (16%)[Ref]
-Very common (10% or more): Dyspnea (22%), cough (19%)[Ref]
-1. "Product Information. Beleodaq (belinostat)." Spectrum Pharmaceuticals Inc, Irvine, CA. 
-Not all side effects for belinostat may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly observed adverse reactions included nausea, fatigue, pyrexia, anemia, and vomiting.The most commonly reported reasons for treatment discontinuation included anemia, febrile neutropenia, fatigue, and multi-organ failure.
+Very common (10% or more): Anemia (32%), thrombocytopenia (16%)
+Very common (10% or more): Peripheral edema (20%), prolonged QT (11%), hypotension (10%), phlebitis (10%)
+Very common (10% or more): Rash (20%), pruritus (16%)
+Very common (10% or more): Nausea (43%), vomiting (29%), constipation (23%), diarrhea (23%), decreased appetite (15%), abdominal pain (11%)
+Very common (10% or more): Hypokalemia (12%)
+Very common (10% or more): Headache (15%), dizziness (10%)
+Very common (10% or more): Fatigue (37%), pyrexia (35%), chills (16%)
+Very common (10% or more): Dyspnea (22%), cough (19%)
 Black, tarry stools
 bleeding gums
 bloating or swelling of the face, arms, hands, lower legs, or feet
@@ -53,8 +43,6 @@ troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Abdominal or stomach pain or tenderness
 clay colored stools
 dark urine
@@ -64,10 +52,7 @@ joint pain, stiffness, or swelling
 lower back or side pain
 skin rash or itching
 yellow eyes or skin
-
-
 Constipation
 diarrhea
 dizziness
 pain at the injection site
-

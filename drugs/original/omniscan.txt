@@ -1,26 +1,18 @@
-Generic Name: gadodiamide
-Applies to gadodiamide: intravenous solution
 As well as its needed effects, gadodiamide (the active ingredient contained in Omniscan) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking gadodiamide, check with your doctor or nurse immediately:
 Some gadodiamide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to gadodiamide: injectable solution
-Cardiovascular side effects have included cardiac failure, arrhythmia and myocardial infarction.  Also reported include vasodilation, flushing, chest pain, deep thrombophlebitis, and rarely, arrhythmia and myocardial infarction resulting in death in patients with ischemic heart disease.[Ref]
-Nervous system side effects have included headache, tinnitus, taste loss, taste perversion, and dizziness.  Convulsions including grand mal, ataxia, abnormal coordination, paresthesia, tremor, aggravated multiple sclerosis (characterized by sensory and motor disturbances), and aggravated migraine have been reported.[Ref]
-Gastrointestinal side effects have included nausea, abdominal pain, diarrhea, eructation, dry mouth, vomiting, and melena.[Ref]
-Hypersensitivity side effects have included anaphylactoid reactions (characterized by cardiovascular, respiratory, and cutaneous symptoms).[Ref]
-General side effects have included fever, hot flushes, rigors, fatigue, malaise, pain, and syncope.[Ref]
-Hepatic side effects have included abnormal hepatic function.[Ref]
-Respiratory side effects have included rhinitis and dyspnea.[Ref]
-Ocular side effects have included abnormal vision.[Ref]
-Renal side effects have included acute reversible renal failure.[Ref]
-Musculoskeletal side effects have included arthralgia and myalgia.[Ref]
-Dermatologic side effects have included pruritus, rash, erythematous rash, increased sweating, and urticaria.[Ref]
-1. "Product Information. Omniscan (gadodiamide)." Novation, Irving, TX. 
+Cardiovascular side effects have included cardiac failure, arrhythmia and myocardial infarction.  Also reported include vasodilation, flushing, chest pain, deep thrombophlebitis, and rarely, arrhythmia and myocardial infarction resulting in death in patients with ischemic heart disease.
+Nervous system side effects have included headache, tinnitus, taste loss, taste perversion, and dizziness.  Convulsions including grand mal, ataxia, abnormal coordination, paresthesia, tremor, aggravated multiple sclerosis (characterized by sensory and motor disturbances), and aggravated migraine have been reported.
+Gastrointestinal side effects have included nausea, abdominal pain, diarrhea, eructation, dry mouth, vomiting, and melena.
+Hypersensitivity side effects have included anaphylactoid reactions (characterized by cardiovascular, respiratory, and cutaneous symptoms).
+General side effects have included fever, hot flushes, rigors, fatigue, malaise, pain, and syncope.
+Hepatic side effects have included abnormal hepatic function.
+Respiratory side effects have included rhinitis and dyspnea.
+Ocular side effects have included abnormal vision.
+Renal side effects have included acute reversible renal failure.
+Musculoskeletal side effects have included arthralgia and myalgia.
+Dermatologic side effects have included pruritus, rash, erythematous rash, increased sweating, and urticaria.
 It is possible that some side effects of Omniscan may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Agitation
 bloody, black, or tarry stools
 blurred vision
@@ -88,8 +80,6 @@ unusual tiredness or weakness
 vomiting
 weight gain
 wheezing
-
-
 Burning or itching of the skin
 joint stiffness
 limited range of motion in the arms and legs
@@ -98,8 +88,6 @@ pain that is deep in the hip bone or ribs
 partial or slight paralysis
 red or dark patches on the skin
 skin swelling, hardening, or tightening
-
-
 Abdominal or stomach pain
 bad, unusual, or unpleasant (after) taste
 belching
@@ -122,4 +110,3 @@ runny nose
 sneezing
 stuffy nose
 swollen joints
-

@@ -1,32 +1,21 @@
-Generic Name: sodium biphosphate / sodium phosphate
-Applies to sodium biphosphate / sodium phosphate: oral liquid, oral solution, oral tablet
 Other dosage forms:
 As well as its needed effects, sodium biphosphate / sodium phosphate may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking sodium biphosphate / sodium phosphate, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking sodium biphosphate / sodium phosphate, get emergency help immediately:
-
-
-
-Applies to sodium biphosphate / sodium phosphate: oral solution, oral tablet, rectal enema
-Gastrointestinal side effects associated with sodium biphosphate-sodium phosphate tablets have included bloating (up to 47%), nausea (up to 37%), abdominal pain (up to 30%), and vomiting (up to 10%).  Anal irritation, diarrhea, nausea, and stomach cramps have been reported with the enema formulation.  Possible side effects associated with the enema formulation have included vomiting, abdominal pain, abdominal distension, gastrointestinal pain, and anal discomfort.[Ref]
+Gastrointestinal side effects associated with sodium biphosphate-sodium phosphate tablets have included bloating (up to 47%), nausea (up to 37%), abdominal pain (up to 30%), and vomiting (up to 10%).  Anal irritation, diarrhea, nausea, and stomach cramps have been reported with the enema formulation.  Possible side effects associated with the enema formulation have included vomiting, abdominal pain, abdominal distension, gastrointestinal pain, and anal discomfort.
 Metabolic side effects associated with sodium biphosphate-sodium phosphate tablets have included changes in serum electrolytes (including phosphate, calcium, potassium, and sodium).  Possible side effects associated with the enema formulation have included dehydration, hyperphosphatemia, hypocalcemia, hypernatremia, and metabolic acidosis.
-Renal side effects associated with sodium biphosphate-sodium phosphate tablets have included renal impairment, increased blood urea nitrogen (BUN), increased creatinine, acute renal failure, acute phosphate nephropathy, nephrocalcinosis, and renal tubular necrosis during postmarketing experience.[Ref]
-Nervous system side effects have included dizziness and headache.  Seizures have been reported during postmarketing experience.[Ref]
+Renal side effects associated with sodium biphosphate-sodium phosphate tablets have included renal impairment, increased blood urea nitrogen (BUN), increased creatinine, acute renal failure, acute phosphate nephropathy, nephrocalcinosis, and renal tubular necrosis during postmarketing experience.
+Nervous system side effects have included dizziness and headache.  Seizures have been reported during postmarketing experience.
 Cardiovascular side effects associated with sodium biphosphate-sodium phosphate tablets have included arrhythmias during postmarketing experience.
-Hypersensitivity side effects associated with sodium biphosphate-sodium phosphate tablets have included anaphylaxis, rash, pruritus, urticaria, throat tightness, bronchospasm, dyspnea, pharyngeal edema, dysphasia, paresthesia, swelling of the lips and tongue, and facial swelling during postmarketing experience.  Possible side effects associated with the enema formulation have included hypersensitivity and pruritus.[Ref]
+Hypersensitivity side effects associated with sodium biphosphate-sodium phosphate tablets have included anaphylaxis, rash, pruritus, urticaria, throat tightness, bronchospasm, dyspnea, pharyngeal edema, dysphasia, paresthesia, swelling of the lips and tongue, and facial swelling during postmarketing experience.  Possible side effects associated with the enema formulation have included hypersensitivity and pruritus.
 Respiratory side effects associated with sodium biphosphate-sodium phosphate tablets have included bronchospasm, dyspnea, and dysphagia during postmarketing experience; these side effects were associated with hypersensitivity reactions.
 Other possible side effects associated with the enema formulation have included chills, blistering, and stinging.
-1. Chan AT,  Giovannucci EL,  Meyerhardt JA,  Schernhammer ES,  Wu K,  Fuchs CS "Aspirin dose and duration of use and risk of colorectal cncer in men." Gastroenterology 134 (2007): 21-8
 It is possible that some side effects of Phosphate Laxative may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 rectal enema
-
 Abdominal or stomach pain
 bloating
 nausea
 vomiting
-
-
 Agitation
 bloody or cloudy urine
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -56,8 +45,6 @@ stupor
 swelling of the face, ankles, or hands
 tightness in the chest
 unusual tiredness or weakness
-
-
 Abdominal or stomach cramps
 blurred vision
 chest pain or discomfort
@@ -80,4 +67,3 @@ tremor
 weakness
 weight gain
 wrinkled skin
-

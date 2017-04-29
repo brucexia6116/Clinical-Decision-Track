@@ -1,37 +1,24 @@
-Generic Name: iloperidone
 Common side effects of Fanapt include: dizziness, drowsiness, tachycardia, weight gain, sedation, and xerostomia. Other side effects include: death, diarrhea, fatigue, nasal congestion, and orthostatic hypotension.  See below for a comprehensive list of adverse effects.
-Applies to iloperidone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by iloperidone (the active ingredient contained in Fanapt). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking iloperidone:
-Some of the side effects that can occur with iloperidone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to iloperidone: oral kit, oral tablet
-Common (1% to 10%): Dizziness, somnolence, extrapyramidal disorder, tremor, akathisia, dyskinesiaUncommon (0.1% to 1%): Bradykinesia, dystonia, parkinsonism, paresthesia, vertigo, psychomotor hyperactivity, restlessness, amnesiaRare (less than 0.1%): Restless leg syndrome[Ref]
-Very common (10% or more): Tachycardia (up to 12%)Common (1% to 10%): Palpitations, orthostatic hypotension, hypotensionRare (less than 0.1%): Arrhythmia, atrioventricular block first degree, cardiac failure including congestive and acute, edema	Frequency not reported: QT prolongation[Ref]
-In an open-label QTc study of 160 patients with schizophrenia or schizoaffective disorder, use of iloperidone 12 mg twice a day was associated with a QT prolongation of 9 msec.  When iloperidone was administered concomitantly with paroxetine 20 mg once a day (CYP450 2D6-inhibitor) or ketoconazole 200 mg twice a day (CYP450 3A4-inhibitor), the mean QTc interval prolongation from baseline increased to 19 msec.[Ref]
-Common (1% to 10%): Nausea, dry mouth, abdominal discomfort, diarrheaUncommon (0.1% to 1%): Gastritis, salivary hypersecretion, fecal incontinence, mouth ulcerationRare (less than 0.1%): Aphthous stomatitis, duodenal ulcer, hiatus hernia, hyperchlorhydria, lip ulceration, reflux esophagitis, stomatitis[Ref]
-The most commonly reported adverse reactions included dizziness, dry mouth, fatigue, nasal congestion, orthostatic hypotension, somnolence, tachycardia, and increased weight.[Ref]
-Common (1% to 10%): Nasal congestion, dyspnea, nasopharyngitis, upper respiratory tract infectionUncommon (0.1% to 1%): Epistaxis, asthma, rhinorrhea, sinus congestion, nasal drynessRare (less than 0.1%): Dry throat, sleep apnea syndrome, dyspnea exertional[Ref]
-Common (1% to 10%): Blurred vision, conjunctivitisUncommon (0.1% to 1%): Dry eye, blepharitis, eyelid edema, eye swelling, lenticular opacities, cataract, hyperemia (including conjunctival), nystagmus[Ref]
-Common (1% to 10%): Arthralgia, musculoskeletal stiffness, myalgia, muscle spasmsRare (less than 0.1%): Torticollis[Ref]
-Common (1% to 10%): Rash[Ref]
-Common (1% to 10%): Erectile dysfunction, urinary incontinence, ejaculation failureUncommon (0.1% to 1%): Dysuria, pollakiuria, enuresis, testicular pain, amenorrheaRare (less than 0.1%): Menstruation irregular, menorrhagia, metrorrhagia, postmenopausal hemorrhage, prostatitis Frequency not reported: PriapismPostmarketing reports: Retrograde ejaculation[Ref]
-Common (1% to 10%): Restlessness, aggression, delusionUncommon (0.1% to 1%): Hostility, libido decreased, paranoia, anorgasmia, confusional state, mania catatonia, mood swings, panic attack, obsessive-compulsive disorder, bulimia nervosa, delirium, polydipsia, psychogenic, impulse-control disorder, major depression[Ref]
-Uncommon (0.1% to 1%): NephrolithiasisVery rare (less than 0.01%): Acute renal failure[Ref]
-Common (1% to 10%): Weight decreased, weight increasedUncommon (0.1% to 1%): Increased appetite, dehydration, hypokalemia, fluid retentionFrequency not reported: Blood sugar elevations[Ref]
-Uncommon (0.1% to 1%): Anemia, iron deficient anemia, decreased hematocrit, decreased hemoglobin, increased neutrophil countRare (less than 0.1%): Leukopenia[Ref]
-Uncommon (0.1% to 1%): Breast pain Rare (less than 0.1%): Gynecomastia, hypothyroidism[Ref]
-Uncommon (0.1% to 1%): Cholelithiasis[Ref]
-Common (1% to 10%): Lethargy, fatigueUncommon (0.1% to 1%): Tinnitus[Ref]
+Common (1% to 10%): Dizziness, somnolence, extrapyramidal disorder, tremor, akathisia, dyskinesiaUncommon (0.1% to 1%): Bradykinesia, dystonia, parkinsonism, paresthesia, vertigo, psychomotor hyperactivity, restlessness, amnesiaRare (less than 0.1%): Restless leg syndrome
+Very common (10% or more): Tachycardia (up to 12%)Common (1% to 10%): Palpitations, orthostatic hypotension, hypotensionRare (less than 0.1%): Arrhythmia, atrioventricular block first degree, cardiac failure including congestive and acute, edema	Frequency not reported: QT prolongation
+In an open-label QTc study of 160 patients with schizophrenia or schizoaffective disorder, use of iloperidone 12 mg twice a day was associated with a QT prolongation of 9 msec.  When iloperidone was administered concomitantly with paroxetine 20 mg once a day (CYP450 2D6-inhibitor) or ketoconazole 200 mg twice a day (CYP450 3A4-inhibitor), the mean QTc interval prolongation from baseline increased to 19 msec.
+Common (1% to 10%): Nausea, dry mouth, abdominal discomfort, diarrheaUncommon (0.1% to 1%): Gastritis, salivary hypersecretion, fecal incontinence, mouth ulcerationRare (less than 0.1%): Aphthous stomatitis, duodenal ulcer, hiatus hernia, hyperchlorhydria, lip ulceration, reflux esophagitis, stomatitis
+The most commonly reported adverse reactions included dizziness, dry mouth, fatigue, nasal congestion, orthostatic hypotension, somnolence, tachycardia, and increased weight.
+Common (1% to 10%): Nasal congestion, dyspnea, nasopharyngitis, upper respiratory tract infectionUncommon (0.1% to 1%): Epistaxis, asthma, rhinorrhea, sinus congestion, nasal drynessRare (less than 0.1%): Dry throat, sleep apnea syndrome, dyspnea exertional
+Common (1% to 10%): Blurred vision, conjunctivitisUncommon (0.1% to 1%): Dry eye, blepharitis, eyelid edema, eye swelling, lenticular opacities, cataract, hyperemia (including conjunctival), nystagmus
+Common (1% to 10%): Arthralgia, musculoskeletal stiffness, myalgia, muscle spasmsRare (less than 0.1%): Torticollis
+Common (1% to 10%): Rash
+Common (1% to 10%): Erectile dysfunction, urinary incontinence, ejaculation failureUncommon (0.1% to 1%): Dysuria, pollakiuria, enuresis, testicular pain, amenorrheaRare (less than 0.1%): Menstruation irregular, menorrhagia, metrorrhagia, postmenopausal hemorrhage, prostatitis Frequency not reported: PriapismPostmarketing reports: Retrograde ejaculation
+Common (1% to 10%): Restlessness, aggression, delusionUncommon (0.1% to 1%): Hostility, libido decreased, paranoia, anorgasmia, confusional state, mania catatonia, mood swings, panic attack, obsessive-compulsive disorder, bulimia nervosa, delirium, polydipsia, psychogenic, impulse-control disorder, major depression
+Uncommon (0.1% to 1%): NephrolithiasisVery rare (less than 0.01%): Acute renal failure
+Common (1% to 10%): Weight decreased, weight increasedUncommon (0.1% to 1%): Increased appetite, dehydration, hypokalemia, fluid retentionFrequency not reported: Blood sugar elevations
+Uncommon (0.1% to 1%): Anemia, iron deficient anemia, decreased hematocrit, decreased hemoglobin, increased neutrophil countRare (less than 0.1%): Leukopenia
+Uncommon (0.1% to 1%): Breast pain Rare (less than 0.1%): Gynecomastia, hypothyroidism
+Uncommon (0.1% to 1%): Cholelithiasis
+Common (1% to 10%): Lethargy, fatigueUncommon (0.1% to 1%): Tinnitus
 Frequency not reported: Hypersensitivity to include pruritus and urticariaPostmarketing reports: Anaphylaxis, angioedema, throat tightness, oropharyngeal swelling, swelling of the face, lips, mouth, and tongue, rash
 Postmarketing reports: Pituitary adenoma
-1. "Product Information. Fanapt (iloperidone)." Vanda Pharmaceuticals Inc, Rockville, MD. 
-Not all side effects for Fanapt may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Fast, pounding, or irregular heartbeat or pulse
-
-
 Blurred vision
 body aches or pain
 chills
@@ -69,8 +56,6 @@ twitching, twisting, uncontrolled repetitive movements of the tongue, lips, face
 uncontrolled movements, especially of the face, neck, and back
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 wheezing
-
-
 Abdominal or stomach fullness
 aching or discomfort in the lower legs or sensation of crawling in the legs
 actions that are out of control
@@ -166,18 +151,12 @@ unusual facial expressions
 weight gain
 wrinkled skin
 yellow eyes or skin
-
-
 Diarrhea
 sleepiness or unusual drowsiness
-
-
 Abdominal or stomach discomfort
 not able to ejaculate semen
 rash
 stuffy nose
-
-
 Absent, missed, or irregular menstrual periods
 blindness
 blurred vision
@@ -213,4 +192,3 @@ swelling of the breasts or breast soreness in both females and males
 swelling or inflammation of the mouth
 tenderness in the stomach area
 uncontrolled eye movements  
-

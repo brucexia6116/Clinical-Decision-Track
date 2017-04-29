@@ -1,19 +1,8 @@
-Applies to guaifenesin: oral capsule, oral capsule extended release, oral elixir, oral liquid, oral packet, oral solution, oral syrup, oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by guaifenesin. In the event that any of these side effects do occur, they may require medical attention.
-Some of the side effects that can occur with guaifenesin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to guaifenesin: compounding powder, oral capsule, oral capsule extended release, oral granule, oral liquid, oral solution, oral tablet, oral tablet extended release
-Guaifenesin has been generally well tolerated.[Ref]
-Gastrointestinal side effects have included stomach upset and vomiting with higher than recommended doses.  Doses recommended for expectoration have rarely been associated with gastrointestinal upset.[Ref]
-Nervous system side effects have occasionally included dizziness and headache.[Ref]
-Dermatologic side effects have included rare reports of rash.[Ref]
-Hypersensitivity side effects have included a report of an anaphylactic reaction.[Ref]
-1. Covington TR, Lawson LC, Young LL, eds. "Handbook of Nonprescription Drugs. 10th ed." Washington, DC: American Pharmaceutical Association  (1993):
-2. "Product Information. Robitussin (guaifenesin)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-3. Manujendra R,  Faltay B,  Haller NA "Case report: anaphylactic reaction to guaifenesin." Hosp Pract 37 (2009): 60-3
-Not all side effects for guaifenesin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Guaifenesin has been generally well tolerated.
+Gastrointestinal side effects have included stomach upset and vomiting with higher than recommended doses.  Doses recommended for expectoration have rarely been associated with gastrointestinal upset.
+Nervous system side effects have occasionally included dizziness and headache.
+Dermatologic side effects have included rare reports of rash.
+Hypersensitivity side effects have included a report of an anaphylactic reaction.
 Diarrhea
 dizziness
  headache
@@ -21,4 +10,3 @@ hives
 nausea or vomiting
 skin rash
  stomach pain
-

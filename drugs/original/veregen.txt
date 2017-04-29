@@ -1,22 +1,15 @@
-Generic Name: sinecatechins topical
-Applies to sinecatechins topical: topical application ointment
 As well as its needed effects, sinecatechins topical (the active ingredient contained in Veregen) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking sinecatechins topical, check with your doctor immediately:
-
-
-Applies to sinecatechins topical: topical ointment
-The most frequently reported side effects were local skin and application site reactions, including erythema, pruritus, burning, pain/discomfort, erosion/ulceration, edema, induration, and vesicular rash.During clinical trials, 5% of patients experienced local adverse events that led to dose reduction, dose interruption, or discontinuation of this drug.  These events included application site reactions (local pain, erythema, vesicles, skin erosion/ulceration), phimosis, inguinal lymphadenitis, urethral meatal stenosis, dysuria, genital herpes simplex, vulvitis, hypersensitivity, pruritus, pyodermitis, skin ulcer, erosions in the urethral meatus, and superinfection of warts and ulcers.[Ref]
-Very common (10% or more): Burning (67%), pain/discomfort (56%), erosion/ulceration (49%), induration (35%)Common (1% to 10%): Discharge, bleeding, localized reaction, scar, irritationUncommon (0.1% to 1%): Localized inflammationFrequency not reported: Vesicles, necrosis, papules, discoloration, eczema, pigmentation changes, dryness[Ref]
-Very common (10% or more): Erythema (70%), pruritus (69%), vesicular rash (20%)Common (1% to 10%): Desquamation, rashFrequency not reported: Pyodermitis, cutaneous facial rash[Ref]
-Very common (10% or more): Edema (45%)Frequency not reported: Genital herpes simplex, superinfection of warts and ulcers, perianal infection[Ref]
-Common (1% to 10%): Regional/inguinal lymphadenitisFrequency not reported: Staphylococcemia[Ref]
-Common (1% to 10%): PhimosisFrequency not reported: Dysuria, vulvitis, cervical dysplasia, pelvic pain[Ref]
-Common (1% to 10%): Type IV hypersensitivityFrequency not reported: Hypersensitivity[Ref]
-Frequency not reported: Hyperesthesia[Ref]
-Frequency not reported: Urethral meatal stenosis, erosions in urethral meatus, urethritis[Ref]
-1. "Product Information. Veregen (sinecatechins topical)." Fougera, Melville, NY. 
+The most frequently reported side effects were local skin and application site reactions, including erythema, pruritus, burning, pain/discomfort, erosion/ulceration, edema, induration, and vesicular rash.During clinical trials, 5% of patients experienced local adverse events that led to dose reduction, dose interruption, or discontinuation of this drug.  These events included application site reactions (local pain, erythema, vesicles, skin erosion/ulceration), phimosis, inguinal lymphadenitis, urethral meatal stenosis, dysuria, genital herpes simplex, vulvitis, hypersensitivity, pruritus, pyodermitis, skin ulcer, erosions in the urethral meatus, and superinfection of warts and ulcers.
+Very common (10% or more): Burning (67%), pain/discomfort (56%), erosion/ulceration (49%), induration (35%)Common (1% to 10%): Discharge, bleeding, localized reaction, scar, irritationUncommon (0.1% to 1%): Localized inflammationFrequency not reported: Vesicles, necrosis, papules, discoloration, eczema, pigmentation changes, dryness
+Very common (10% or more): Erythema (70%), pruritus (69%), vesicular rash (20%)Common (1% to 10%): Desquamation, rashFrequency not reported: Pyodermitis, cutaneous facial rash
+Very common (10% or more): Edema (45%)Frequency not reported: Genital herpes simplex, superinfection of warts and ulcers, perianal infection
+Common (1% to 10%): Regional/inguinal lymphadenitisFrequency not reported: Staphylococcemia
+Common (1% to 10%): PhimosisFrequency not reported: Dysuria, vulvitis, cervical dysplasia, pelvic pain
+Common (1% to 10%): Type IV hypersensitivityFrequency not reported: Hypersensitivity
+Frequency not reported: Hyperesthesia
+Frequency not reported: Urethral meatal stenosis, erosions in urethral meatus, urethritis
 It is possible that some side effects of Veregen may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blistering, peeling, or loosening of the skin
 breakdown of skin
 burning of skin
@@ -28,8 +21,6 @@ itching skin
 pain or discomfort in skin
 swelling of skin
 unusually warm skin
-
-
 Bleeding of skin
 blood in urine
 break in the skin, especially associated with blue-black discoloration, swelling, or drainage of fluid
@@ -50,4 +41,3 @@ skin rash, encrusted, scaly and oozing
 skin rash on the face
 swollen, painful, or tender lymph glands in neck, armpit, or groin
 tingling in the hands and feet
-

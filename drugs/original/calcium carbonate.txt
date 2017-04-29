@@ -1,21 +1,14 @@
-Applies to calcium carbonate: chewable tablets
 Other dosage forms:
  No COMMON side effects have been reported with calcium carbonate chewable tablets. Seek medical attention right away if any of these SEVERE side effects occur while taking calcium carbonate:
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue).
-
-Applies to calcium carbonate: compounding powder, oral capsule, oral gum, oral powder, oral suspension, oral tablet, oral tablet chewable
-Uncommon (0.1% to 1%): HypercalcemiaVery rare (less than 0.01%): Loss of appetite, milk-alkali syndromeFrequency not reported: Alkalosis[Ref]
-Uncommon (0.1% to 1%): HypercalciuriaVery rare (less than 0.01%): Urinary frequency[Ref]
-Rare (0.01% to 0.1%): Nausea, diarrhea, constipation, flatulence, eructation, dyspepsia, gastric pain, abdominal pain/discomfortVery rare (less than 0.01%): Vomiting[Ref]
-Very rare (less than 0.01%): Pruritus, rash, urticaria[Ref]
-Very rare (less than 0.01%): Renal impairment[Ref]
-Very rare (less than 0.01%): Continuous headache[Ref]
-Frequency not reported: Allergic reactions, hypersensitivity, anaphylactic reaction, angioedema[Ref]
-Frequency not reported: Unusual tiredness or weakness[Ref]
-Frequency not reported: Asthma[Ref]
-Frequency not reported: Muscular weakness[Ref]
-1. "Product Information. Calci-Chew (calcium carbonate)." R & D Laboratories Inc, Marina Del Rey, CA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for calcium carbonate may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Uncommon (0.1% to 1%): HypercalcemiaVery rare (less than 0.01%): Loss of appetite, milk-alkali syndromeFrequency not reported: Alkalosis
+Uncommon (0.1% to 1%): HypercalciuriaVery rare (less than 0.01%): Urinary frequency
+Rare (0.01% to 0.1%): Nausea, diarrhea, constipation, flatulence, eructation, dyspepsia, gastric pain, abdominal pain/discomfortVery rare (less than 0.01%): Vomiting
+Very rare (less than 0.01%): Pruritus, rash, urticaria
+Very rare (less than 0.01%): Renal impairment
+Very rare (less than 0.01%): Continuous headache
+Frequency not reported: Allergic reactions, hypersensitivity, anaphylactic reaction, angioedema
+Frequency not reported: Unusual tiredness or weakness
+Frequency not reported: Asthma
+Frequency not reported: Muscular weakness
 tablets

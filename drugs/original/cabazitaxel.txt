@@ -1,34 +1,22 @@
 Commonly reported side effects of cabazitaxel include: neutropenia, diarrhea, nausea, and vomiting. Other side effects include: febrile neutropenia, hypotension, and dehydration.  See below for a comprehensive list of adverse effects.
-Applies to cabazitaxel: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by cabazitaxel. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking cabazitaxel, check with your doctor or nurse immediately:
-Some of the side effects that can occur with cabazitaxel may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cabazitaxel: intravenous solution
-The most common adverse events were anemia, leukopenia, neutropenia, thrombocytopenia, and diarrhea.[Ref]
-Very common (10% or more): Anemia (98%), leukopenia (96%), neutropenia (94%), thrombocytopenia (48%)Common (1% to 10%): Febrile neutropenia[Ref]
-Very common (10% or more): Diarrhea (47%), nausea (34%), vomiting (22%), constipation (20%), abdominal pain (17%), dyspepsia (10%)Common (1% to 10%): Abdominal pain upper, hemorrhoids, gastroesophageal reflux disease, rectal hemorrhage, dry mouth, abdominal distensionFrequency not reported: Death related to diarrhea and electrolyte imbalance, GI hemorrhage and perforation, ileus, enterocolitis, neutropenic enterocolitis, colitisPostmarketing reports: Gastritis, intestinal obstruction[Ref]
-Very common (10% or more): Fatigue (37%), dysgeusia (11%)Common (1% to 10%): Dizziness, peripheral neuropathy, headache, peripheral sensory neuropathy, paresthesia, lethargy, hypoesthesia, tinnitus, vertigo, sciaticaFrequency not reported: Peripheral motor neuropathy, fatal cerebral hemorrhage[Ref]
-Very common (10% or more): Asthenia (20%), pyrexia (12%)Common (1% to 10%): Mucosal inflammation, pain, death due to causes other than disease progression, malaise[Ref]
-Very common (10% or more): Dyspnea (12%), cough (11%)Common (1% to 10%): Oropharyngeal pain[Ref]
-Common (1% to 10%): Peripheral edema, arrhythmia, hypotension, deep vein thrombosis, hypertension, tachycardia, grade 3 or higher arrhythmias, orthostatic hypotension, hot flush, flushing, atrial fibrillation Uncommon (0.1% to 1%): Cardiac failure, cardiac arrest, fatal ventricular fibrillation[Ref]
-Uncommon (0.1% to 1%): Grade 3 to 4 increased AST, grade 3 to 4 increased ALT, increased bilirubinFrequency not reported: Fatal renal failure[Ref]
-Very common (10% or more): Anorexia (16%)Common (1% to 10%): Weight decreased, dehydration, edema, hyperglycemia, hypokalemia[Ref]
-Very common (10% or more): Hematuria (17%)Common (1% to 10%): Dysuria, pollakiuria, urinary retention, urinary incontinence, ureteric obstruction, pelvic pain[Ref]
-Common (1% to 10%): AST increased, transaminases increasedUncommon (0.1% to 1%): ALT increased, bilirubin increased[Ref]
-Common (1% to 10%): Hypersensitivity[Ref]
-Very common (10% or more): Back pain (16%), arthralgia (10.5%)Common (1% to 10%): Pain in extremity, muscle spasms, myalgia, musculoskeletal chest pain, flank pain, chills[Ref]
-Common (1% to 10%): Urinary tract infection, influenza, cystitis, upper respiratory tract infection, pneumonia, cellulitis, herpes zoster, septic shock, sepsis, candidiasisUncommon (0.1% to 1%): Neutropenic sepsis, neutropenic infectionsFrequency not reported: Fatal infection[Ref]
-Very common (10% or more): Alopecia (10%)Common (1% to 10%): Dry skin, erythema[Ref]
-Common (1% to 10%): Conjunctivitis, increased lacrimation[Ref]
-Common (1% to 10%): Anxiety, confusional state[Ref]
-1. "Product Information. Jevtana (cabazitaxel)." sanofi-aventis , Bridgewater, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for cabazitaxel may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse events were anemia, leukopenia, neutropenia, thrombocytopenia, and diarrhea.
+Very common (10% or more): Anemia (98%), leukopenia (96%), neutropenia (94%), thrombocytopenia (48%)Common (1% to 10%): Febrile neutropenia
+Very common (10% or more): Diarrhea (47%), nausea (34%), vomiting (22%), constipation (20%), abdominal pain (17%), dyspepsia (10%)Common (1% to 10%): Abdominal pain upper, hemorrhoids, gastroesophageal reflux disease, rectal hemorrhage, dry mouth, abdominal distensionFrequency not reported: Death related to diarrhea and electrolyte imbalance, GI hemorrhage and perforation, ileus, enterocolitis, neutropenic enterocolitis, colitisPostmarketing reports: Gastritis, intestinal obstruction
+Very common (10% or more): Fatigue (37%), dysgeusia (11%)Common (1% to 10%): Dizziness, peripheral neuropathy, headache, peripheral sensory neuropathy, paresthesia, lethargy, hypoesthesia, tinnitus, vertigo, sciaticaFrequency not reported: Peripheral motor neuropathy, fatal cerebral hemorrhage
+Very common (10% or more): Asthenia (20%), pyrexia (12%)Common (1% to 10%): Mucosal inflammation, pain, death due to causes other than disease progression, malaise
+Very common (10% or more): Dyspnea (12%), cough (11%)Common (1% to 10%): Oropharyngeal pain
+Common (1% to 10%): Peripheral edema, arrhythmia, hypotension, deep vein thrombosis, hypertension, tachycardia, grade 3 or higher arrhythmias, orthostatic hypotension, hot flush, flushing, atrial fibrillation Uncommon (0.1% to 1%): Cardiac failure, cardiac arrest, fatal ventricular fibrillation
+Uncommon (0.1% to 1%): Grade 3 to 4 increased AST, grade 3 to 4 increased ALT, increased bilirubinFrequency not reported: Fatal renal failure
+Very common (10% or more): Anorexia (16%)Common (1% to 10%): Weight decreased, dehydration, edema, hyperglycemia, hypokalemia
+Very common (10% or more): Hematuria (17%)Common (1% to 10%): Dysuria, pollakiuria, urinary retention, urinary incontinence, ureteric obstruction, pelvic pain
+Common (1% to 10%): AST increased, transaminases increasedUncommon (0.1% to 1%): ALT increased, bilirubin increased
+Common (1% to 10%): Hypersensitivity
+Very common (10% or more): Back pain (16%), arthralgia (10.5%)Common (1% to 10%): Pain in extremity, muscle spasms, myalgia, musculoskeletal chest pain, flank pain, chills
+Common (1% to 10%): Urinary tract infection, influenza, cystitis, upper respiratory tract infection, pneumonia, cellulitis, herpes zoster, septic shock, sepsis, candidiasisUncommon (0.1% to 1%): Neutropenic sepsis, neutropenic infectionsFrequency not reported: Fatal infection
+Very common (10% or more): Alopecia (10%)Common (1% to 10%): Dry skin, erythema
+Common (1% to 10%): Conjunctivitis, increased lacrimation
+Common (1% to 10%): Anxiety, confusional state
 Black, tarry stools
 bleeding gums
 bloating or swelling of the face, arms, hands, lower legs, or feet
@@ -53,8 +41,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 unusual weight gain or loss
 weakness in the arms, hands, legs, or feet
-
-
 Blurred vision
 confusion
 decreased urination
@@ -68,8 +54,6 @@ sunken eyes
 sweating
 thirst
 wrinkled skin
-
-
 Abdominal or stomach pain
 acid or sour stomach
 belching
@@ -90,12 +74,9 @@ stomach discomfort, upset, or pain
 thinning of the hair
 vomiting
 weight loss
-
-
 Back pain
 difficulty with moving
 muscle pain or stiffness
 muscle spasms
 pain in the joints
 pain, itching, burning, swelling, or a lump under your skin where the needle is placed
-

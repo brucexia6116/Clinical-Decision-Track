@@ -1,19 +1,9 @@
-Applies to cycloserine: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by cycloserine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking cycloserine:
-Some of the side effects that can occur with cycloserine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cycloserine: oral capsule
-Cycloserine is most frequently associated with neurotoxicity and hypersensitivity.[Ref]
-Nervous system side effects may be dose-related (> 500 mg/day) and have included convulsions, drowsiness, somnolence, headache, tremor, dysarthria, vertigo, confusion, disorientation, loss of memory, psychoses, suicidal tendencies, character changes, hyperirritability, aggression, paresis, hyperreflexia, paresthesia, major and localized seizures, and coma.[Ref]
-Hematologic side effects have included vitamin B12 deficiency, folic acid deficiency, megaloblastic anemia, and sideroblastic anemia.[Ref]
-Hepatic side effects have included elevated serum transaminases, particularly in patients with preexisting liver disease.[Ref]
-Hypersensitivity reactions have included skin rash.[Ref]
-Cardiovascular side effects have included sudden development of congestive heart failure in patients receiving high doses (1 to 1.5 g/day).[Ref]
-1. "Product Information. Seromycin (cycloserine)." Dura Pharmaceuticals, San Diego, CA. 
-Not all side effects for cycloserine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cycloserine is most frequently associated with neurotoxicity and hypersensitivity.
+Nervous system side effects may be dose-related (> 500 mg/day) and have included convulsions, drowsiness, somnolence, headache, tremor, dysarthria, vertigo, confusion, disorientation, loss of memory, psychoses, suicidal tendencies, character changes, hyperirritability, aggression, paresis, hyperreflexia, paresthesia, major and localized seizures, and coma.
+Hematologic side effects have included vitamin B12 deficiency, folic acid deficiency, megaloblastic anemia, and sideroblastic anemia.
+Hepatic side effects have included elevated serum transaminases, particularly in patients with preexisting liver disease.
+Hypersensitivity reactions have included skin rash.
+Cardiovascular side effects have included sudden development of congestive heart failure in patients receiving high doses (1 to 1.5 g/day).
 Anxiety
 confusion
  dizziness
@@ -27,12 +17,7 @@ nervousness
 other mood or mental changes
 speech problems
 thoughts of suicide 
-
-
 Convulsions (seizures)
 numbness, tingling, burning pain, or weakness in the hands or feet
  skin rash
-
-
 Headache
-

@@ -1,46 +1,20 @@
-Applies to nalidixic acid: suspension, tablets
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Diarrhea; dizziness; drowsiness; feeling of a whirling motion; headache; nausea; rash; stomach pain or discomfort; vomiting.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); blurred or decreased vision; burning or tingling sensation; changes in color vision; convulsions; decrease in ability to sense pain, temperature, or body position; double vision; itching; numbness; pain; pain, redness, or swelling of a tendon; seeing halos around lights; weakness.
-
-
-Applies to nalidixic acid: compounding powder, oral suspension, oral tablet
-Frequency not reported: Allergic reactions (including rash, pruritus, urticaria, angioedema, eosinophilia, arthralgia with joint stiffness and swelling, anaphylactoid reactions [including anaphylactic shock]), serious and occasionally fatal hypersensitivity (anaphylactoid) reactions[Ref]
-Rash was reported most often.Photosensitivity reactions appeared to be related to the amount of sun exposure rather than amount of drug taken.  Most reactions were reported following intense sun exposure during the summer.  Large bullae developed most commonly on the dorsum of the hands and feet.  Photosensitivity reactions usually resolved 2 weeks to 2 months after drug discontinuation.  In some cases, bullae continued to appear with additional sun exposure or with mild skin trauma for up to 3 months after discontinuation of nalidixic acid.  Recurrence of bullae have been reported after 1 year.[Ref]
-Frequency not reported: Rash, erythema multiforme, Stevens-Johnson syndrome, photosensitivity reactions (consisting of erythema and bullae on exposed skin surfaces), phototoxicity (moderate to severe)[Ref]
-Frequency not reported: Nausea, vomiting, abdominal pain, diarrhea, Clostridium difficile associated diarrhea[Ref]
-Brief convulsions were usually associated with excessive doses.  In general, the convulsions were reported in patients with predisposing factors such as epilepsy or cerebral atherosclerosis.[Ref]
-Rare (less than 0.1%): Convulsions/seizures, sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons (resulting in paresthesias, hypoesthesias, dysesthesias, weakness)Frequency not reported: Drowsiness, weakness, headache, dizziness, vertigo, peripheral neuropathy, paresthesiaInfants and children:Frequency not reported: Increased intracranial pressure with bulging anterior fontanel, papilledema, headache, 6th cranial nerve palsy[Ref]
-Rare (less than 0.1%): Toxic psychosis, psychotic reactions (involving delirium, photophobia, paranoia, visual hallucinations)[Ref]
-Toxic psychosis was usually associated with excessive doses.Psychotic reactions involving delirium, photophobia, paranoia, and visual hallucinations have rarely been reported with nalidixic acid.  Seizures may also be involved and hyperglycemia was often present.[Ref]
-Frequency not reported: Arthralgias, myalgias, tendon disorders (including tendon rupture)[Ref]
-Rare (less than 0.1%): Reversible subjective visual disturbances without objective findings (including overbrightness of lights/photophobia, change in color perception, difficulty in focusing, decrease in visual acuity, double vision)[Ref]
-Visual disturbances usually resolved with dosage reduction or drug discontinuation.[Ref]
-Hemolytic anemia secondary to nalidixic acid most commonly occurred in patients with G6PD deficiency but was also reported in patients without this deficiency.  Direct Coombs' tests were generally positive.  Death from nalidixic acid induced hemolytic anemia has been reported.[Ref]
-Rare (less than 0.1%): Thrombocytopenia, leukopenia, eosinophilia, hemolytic anemia (sometimes associated with glucose 6-phosphate deficiency)[Ref]
-Rare (less than 0.1%): Metabolic acidosis, lactic acidosis[Ref]
-Metabolic acidosis has been reported in a few patients, generally after an overdose of nalidixic acid.  Lactic acidosis resulting in death occurred in a diabetic woman.[Ref]
-Rare (less than 0.1%): Cholestasis[Ref]
-1. Burt RA "Review of adverse reactions associated with cinoxacin and other drugs used to treat urinary tract infections." Urology 23 (1984): 101-7
-2. Rubinstein A "Le-like disease caused by nalidixic acid." N Engl J Med 301 (1979): 1288
-3. Valdivieso R, Pola J, Losada E, Subiza J, Armentia A, Zapata C "Severe anaphylactoid reaction to nalidixic acid." Allergy 43 (1988): 71-3
-4. Bilsland D, Douglas WS "Sunbed pseudoporphyria induced by nalidixic acid." Br J Dermatol 123 (1990): 547
-5. Ramsay CA, Obreshkova E "Photosensitivity from nalidixic acid." Br J Dermatol 91 (1974): 523-8
-6. Brauner GJ "Bullous photoreaction to nalidixic acid." Am J Med 58 (1975): 576-80
-7. Birkett DA, Garretts M, Stevenson CJ "Phototoxic bullous eruptions due to nalidixic acid." Br J Dermatol 81 (1969): 342-4
-8. Garrett MH ""Negram" and photosensitivity reactions." Med J Aust 1 (1969): 83
-9. "Product Information. NegGram (nalidixic acid)." Sanofi Winthrop Pharmaceuticals, New York, NY. 
-10. Paulson DF "Comparison of cinoxacin and nalidixic acid in patients with cystitis." Urology 20 (1982): 138-40
-11. Iravani A, Richard GA, Baer H, Fennell R "Comparative efficacy and safety of nalidixic acid versus trimethoprim/sulfamethoxazole in treatment of acute urinary tract infections in college-age women." Antimicrob Agents Chemother 19 (1981): 598-604
-12. Fraser AG, Harrower AD "Convulsions and hyperglycaemia asociated with nalidixic acid." Br Med J 2 (1977): 1518
-13. Bailey RR, Natale R, Linton AL "Nalidixic acid arthralgia." Can Med Assoc J 107 (1972): 604
-14. Kremer L, Walton M, Wardle EN "Nalidixic acid and intracranial hypertension." Br Med J 4 (1967): 488
-15. Poc TE, Marion GS, Jackson DS "Seizures due to nalidixic acid therapy." South Med J 77 (1984): 539-40
-16. Leslie PJ, Cregeen RJ, Proudfoot AT "Lactic acidosis, hyperglycaemia and convulsions following nalidixic acid overdosage." Hum Toxicol 3 (1984): 239-43
-17. Carmichael AJ, Martin AM "Acute painful proximal myopathy associated with nalidixic acid." Br Med J 297 (1988): 742
-18. Tafani O, Mazzoli M, Landini G, Alterini B "Fatal acute immune haemolytic anaemia caused by nalidixic acid." Br Med J 285 (1982): 936-7
-19. Gilbertson C, Jones DR "Haemolytic anaemia with nalidixic acid." Br Med J 4 (1972): 493
-20. Odeh M, Oliven A, Bassan H "Nalidixic acid-induced hemolytic anemia complicating halothane-induced hepatitis." Isr J Med Sci 28 (1992): 294-6
-21. Phillips PJ, Need AG, Thomas DW, Conyers RA, Edwards JB, Lehmann D "Nalidixic acid and lactic acidosis." Aust N Z J Med 9 (1979): 694-6
-22. Nogue S, Bertran A, Mas A, Nadal P, Anguita A, Milla J "Metabolic acidosis and coma due to an overdose of nalidixic acid." Intensive Care Med 5 (1979): 141-2
+Frequency not reported: Allergic reactions (including rash, pruritus, urticaria, angioedema, eosinophilia, arthralgia with joint stiffness and swelling, anaphylactoid reactions [including anaphylactic shock]), serious and occasionally fatal hypersensitivity (anaphylactoid) reactions
+Rash was reported most often.Photosensitivity reactions appeared to be related to the amount of sun exposure rather than amount of drug taken.  Most reactions were reported following intense sun exposure during the summer.  Large bullae developed most commonly on the dorsum of the hands and feet.  Photosensitivity reactions usually resolved 2 weeks to 2 months after drug discontinuation.  In some cases, bullae continued to appear with additional sun exposure or with mild skin trauma for up to 3 months after discontinuation of nalidixic acid.  Recurrence of bullae have been reported after 1 year.
+Frequency not reported: Rash, erythema multiforme, Stevens-Johnson syndrome, photosensitivity reactions (consisting of erythema and bullae on exposed skin surfaces), phototoxicity (moderate to severe)
+Frequency not reported: Nausea, vomiting, abdominal pain, diarrhea, Clostridium difficile associated diarrhea
+Brief convulsions were usually associated with excessive doses.  In general, the convulsions were reported in patients with predisposing factors such as epilepsy or cerebral atherosclerosis.
+Rare (less than 0.1%): Convulsions/seizures, sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons (resulting in paresthesias, hypoesthesias, dysesthesias, weakness)Frequency not reported: Drowsiness, weakness, headache, dizziness, vertigo, peripheral neuropathy, paresthesiaInfants and children:Frequency not reported: Increased intracranial pressure with bulging anterior fontanel, papilledema, headache, 6th cranial nerve palsy
+Rare (less than 0.1%): Toxic psychosis, psychotic reactions (involving delirium, photophobia, paranoia, visual hallucinations)
+Toxic psychosis was usually associated with excessive doses.Psychotic reactions involving delirium, photophobia, paranoia, and visual hallucinations have rarely been reported with nalidixic acid.  Seizures may also be involved and hyperglycemia was often present.
+Frequency not reported: Arthralgias, myalgias, tendon disorders (including tendon rupture)
+Rare (less than 0.1%): Reversible subjective visual disturbances without objective findings (including overbrightness of lights/photophobia, change in color perception, difficulty in focusing, decrease in visual acuity, double vision)
+Visual disturbances usually resolved with dosage reduction or drug discontinuation.
+Hemolytic anemia secondary to nalidixic acid most commonly occurred in patients with G6PD deficiency but was also reported in patients without this deficiency.  Direct Coombs' tests were generally positive.  Death from nalidixic acid induced hemolytic anemia has been reported.
+Rare (less than 0.1%): Thrombocytopenia, leukopenia, eosinophilia, hemolytic anemia (sometimes associated with glucose 6-phosphate deficiency)
+Rare (less than 0.1%): Metabolic acidosis, lactic acidosis
+Metabolic acidosis has been reported in a few patients, generally after an overdose of nalidixic acid.  Lactic acidosis resulting in death occurred in a diabetic woman.
+Rare (less than 0.1%): Cholestasis
 It is possible that some side effects of nalidixic acid may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

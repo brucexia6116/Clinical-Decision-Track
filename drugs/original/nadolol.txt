@@ -1,25 +1,18 @@
-Applies to nadolol: oral tablet
 As well as its needed effects, nadolol may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking nadolol, check with your doctor immediately:
 Some nadolol side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to nadolol: compounding powder, oral tablet
-The most common adverse reactions were bradycardia, cardiac failure, rhythm/conduction disturbances, symptoms of peripheral vascular insufficiency, hypotension, dizziness, and fatigue.[Ref]
-Common (1% to 10%): Heart rate less than 60 beats per minute (bpm), heart rate less than 40 bpm, cardiac failure, rhythm/conduction disturbances, symptoms of peripheral vascular insufficiency usually of the Raynaud type, hypotensionFrequency not reported: First degree and third degree heart block, cold extremities[Ref]
-Common (1% to 10%): DizzinessUncommon (0.1% to 1%): Paresthesias, sedation, headache, slurred speech, tinnitusFrequency not reported: Lightheadedness[Ref]
-Common (1% to 10%): Fatigue[Ref]
-Uncommon (0.1% to 1%): Nausea, diarrhea, abdominal discomfort, constipation, vomiting, indigestion, bloating, flatulence, dry mouth[Ref]
-Uncommon (0.1% to 1%): Rash, pruritus, dry skin, sweating, facial swellingFrequency not reported: Reversible alopecia[Ref]
-Uncommon (0.1% to 1%): Cough, nasal stuffiness, bronchospasm[Ref]
-Uncommon (0.1% to 1%): Anorexia, weight gainFrequency not reported: Hypoglycemia[Ref]
-Uncommon (0.1% to 1%): Dry eyes, blurred vision[Ref]
-Uncommon (0.1% to 1%): Change in behaviorFrequency not reported: Insomnia[Ref]
-Uncommon (0.1% to 1%): Impotence or decreased libido[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Corgard (nadolol)." Bristol-Myers Squibb, Princeton, NJ. 
+The most common adverse reactions were bradycardia, cardiac failure, rhythm/conduction disturbances, symptoms of peripheral vascular insufficiency, hypotension, dizziness, and fatigue.
+Common (1% to 10%): Heart rate less than 60 beats per minute (bpm), heart rate less than 40 bpm, cardiac failure, rhythm/conduction disturbances, symptoms of peripheral vascular insufficiency usually of the Raynaud type, hypotensionFrequency not reported: First degree and third degree heart block, cold extremities
+Common (1% to 10%): DizzinessUncommon (0.1% to 1%): Paresthesias, sedation, headache, slurred speech, tinnitusFrequency not reported: Lightheadedness
+Common (1% to 10%): Fatigue
+Uncommon (0.1% to 1%): Nausea, diarrhea, abdominal discomfort, constipation, vomiting, indigestion, bloating, flatulence, dry mouth
+Uncommon (0.1% to 1%): Rash, pruritus, dry skin, sweating, facial swellingFrequency not reported: Reversible alopecia
+Uncommon (0.1% to 1%): Cough, nasal stuffiness, bronchospasm
+Uncommon (0.1% to 1%): Anorexia, weight gainFrequency not reported: Hypoglycemia
+Uncommon (0.1% to 1%): Dry eyes, blurred vision
+Uncommon (0.1% to 1%): Change in behaviorFrequency not reported: Insomnia
+Uncommon (0.1% to 1%): Impotence or decreased libido
 It is possible that some side effects of nadolol may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blurred vision
 chest pain or discomfort
 confusion
@@ -37,8 +30,6 @@ tingling or pain in fingers or toes when exposed to cold
 unusual tiredness or weakness
 weight gain
 wheezing
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 changes in behavior
 cough
@@ -46,8 +37,6 @@ difficulty breathing
 noisy breathing
 slurred speech
 tightness in chest
-
-
 Bloated
 continuing ringing or buzzing or other unexplained noise in ears
 decreased interest in sexual intercourse
@@ -76,4 +65,3 @@ stomach soreness or discomfort
 stuffy nose
 vomiting
 weight loss
-

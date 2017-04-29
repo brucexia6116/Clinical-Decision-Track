@@ -1,24 +1,16 @@
-Generic Name: thiethylperazine
-Applies to thiethylperazine: solution, suppository, tablet
 As well as its needed effects, thiethylperazine (the active ingredient contained in Torecan) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking thiethylperazine, check with your doctor or nurse as soon as possible:
 Some thiethylperazine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to thiethylperazine: intramuscular solution, oral tablet
-Nervous system side effects have included sedation, dizziness, or headache.  Extrapyramidal reactions have been reported in less than 1% of patients and included dystonia, torticollis, oculogyric crises, akathisia, and gait disturbances.  Pseudo-parkinsonian reactions including mask-like facies, drooling, cogwheel rigidity, and shuffling gait have been reported.  Convulsions have also been reported rarely.  Neuroleptic malignant syndrome has been reported with other phenothiazines, and the potential to occur with thiethylperazine (the active ingredient contained in Torecan) should be considered.[Ref]
-Gastrointestinal side effects have included dryness of the mouth and nose, sialorrhea, and altered taste sensation.[Ref]
-Hepatic side effects have rarely included the development of cholestatic jaundice.[Ref]
-Hematologic side effects associated with phenothiazine derivatives have rarely included leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, pancytopenia, eosinophilia, and leukocytosis.[Ref]
-Cardiovascular side effects have included hypotension during intravenous administration.[Ref]
-Dermatologic side effects have rarely included erythema, exfoliative dermatitis, and contact dermatitis.[Ref]
-Ocular side effects have included blurred vision.[Ref]
-Hypersensitivity side effects including at least one case of anaphylactic reaction have been reported.[Ref]
-A 15-year-old female was admitted for angioedema and respiratory distress coincident with thiethylperazine therapy.  She had been prescribed thiethylperazine (total of three doses) for abdominal pain and heavy nausea lasting for 2 days.  Three hours after the last dose, she began to complain of face and tongue edema, speech difficulties, and dysphagia.  On physical examination, she was in good general condition and showed an angioedema and erythema of the face, the upper thorax, and the tongue.  An anaphylactic reaction was suspected and treatment was initiated.  Her symptoms improved after treatment with intravenous biperiden, two aerosols of albuterol and budesonide, and intravenous methylprednisolone.[Ref]
-1. "Product Information. Torecan (thiethylperazine)" Roxane Laboratories Inc, Columbus, OH. 
-2. Rossetti G,  Livio F,  Roulet E,  Hofer MF "Anaphylactic reaction and unrelated, subsequent, known side effects during therapy with thiethylperazine." Pediatr Allergy Immunol 16 (2005): 453-5
+Nervous system side effects have included sedation, dizziness, or headache.  Extrapyramidal reactions have been reported in less than 1% of patients and included dystonia, torticollis, oculogyric crises, akathisia, and gait disturbances.  Pseudo-parkinsonian reactions including mask-like facies, drooling, cogwheel rigidity, and shuffling gait have been reported.  Convulsions have also been reported rarely.  Neuroleptic malignant syndrome has been reported with other phenothiazines, and the potential to occur with thiethylperazine (the active ingredient contained in Torecan) should be considered.
+Gastrointestinal side effects have included dryness of the mouth and nose, sialorrhea, and altered taste sensation.
+Hepatic side effects have rarely included the development of cholestatic jaundice.
+Hematologic side effects associated with phenothiazine derivatives have rarely included leukopenia, agranulocytosis, thrombocytopenia, aplastic anemia, pancytopenia, eosinophilia, and leukocytosis.
+Cardiovascular side effects have included hypotension during intravenous administration.
+Dermatologic side effects have rarely included erythema, exfoliative dermatitis, and contact dermatitis.
+Ocular side effects have included blurred vision.
+Hypersensitivity side effects including at least one case of anaphylactic reaction have been reported.
+A 15-year-old female was admitted for angioedema and respiratory distress coincident with thiethylperazine therapy.  She had been prescribed thiethylperazine (total of three doses) for abdominal pain and heavy nausea lasting for 2 days.  Three hours after the last dose, she began to complain of face and tongue edema, speech difficulties, and dysphagia.  On physical examination, she was in good general condition and showed an angioedema and erythema of the face, the upper thorax, and the tongue.  An anaphylactic reaction was suspected and treatment was initiated.  Her symptoms improved after treatment with intravenous biperiden, two aerosols of albuterol and budesonide, and intravenous methylprednisolone.
 It is possible that some side effects of Torecan may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Abdominal or stomach pains
 aching muscles and joints
 blurred vision, change in color vision, or difficulty in seeing at night
@@ -52,8 +44,6 @@ unusual excitement, nervousness, restlessness, or irritability
 unusual tiredness or weakness
 weakness of arms and legs 
 yellow eyes or skin
-
-
 Confusion (severe)
 convulsions (seizures) 
 dizziness (severe)
@@ -65,12 +55,8 @@ loss of consciousness
  spasms of face and neck
 stuffy nose
 troubled breathing
-
-
 Dizziness
 drowsiness
-
-
 Constipation
 dizziness or lightheadedness, especially when getting up from a lying or sitting position
 dryness of mouth, nose and throat
@@ -79,4 +65,3 @@ fever
 headache 
 ringing or buzzing in ears
  skin rash
-

@@ -1,38 +1,14 @@
-Generic Name: potassium citrate
-Applies to potassium citrate: oral patch extended release, oral solution, oral tablet, oral tablet extended release
 As well as its needed effects, potassium citrate (the active ingredient contained in Urocit-K) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking potassium citrate, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking potassium citrate, get emergency help immediately:
-
-
-
-Applies to potassium citrate: compounding powder, oral liquid, oral tablet extended release
-Metabolic side effects have been reported rarely.  Hyperkalemia may cause life-threatening cardiac arrhythmias, and can occur even when renal function is normal.  Patients should not use potassium-rich salt substitutes without the advice of their healthcare professional during potassium citrate (the active ingredient contained in Urocit-K) therapy.  Long-term therapy can result in metabolic alkalosis.[Ref]
-Signs of hyperkalemia include muscle weakness (including frank skeletal muscle and diaphragm paralysis), peaked T waves on the ECG, and cardiac arrhythmias.[Ref]
-Gastrointestinal (GI) side effects have been reported the most frequently.  These have included nausea, vomiting, and epigastric or abdominal pain (in 3% to 17% of patients).  GI side effects may be lessened by taking the drug with meals.There are numerous reports of GI ulceration and rare reports of gastric or small bowel obstruction associated with the use of solid potassium salt preparations.  Patients at higher risk of GI lesions include the elderly and patients with scleroderma, diabetes mellitus, mitral valve replacement, cardiomegaly, esophageal stricture, or impaired GI motility or diverticulae.[Ref]
-1. Elizabeth JE, Carter NJ "Potassium citrate mixture: soothing but not harmless?" Br Med J (Clin Res Ed) 295 (1987): 993
-2. Herrmann U, Schwille PO, Schwarzlaender H, Berger I, Hoffmann G "Citrate and recurrent idiopathic calcium urolithiasis. A longitudinal pilot study on the metabolic effects of oral potassium sodium citrate administered as short-, medium- and long-term to male stone patients." Urol Res 20 (1992): 347-53
-3. Tyers GF, Todd GJ, Niebauer IM, Manley NJ, Waldhausen JA "The mechanism of myocardial damage following potassium citrate (Melrose) cardioplegia." Surgery 78 (1975): 45-53
-4. Wilson RG, Farndon JR "Hyperkalaemic cardiac arrhythmia caused by potassium citrate mixture." Br Med J (Clin Res Ed) 284 (1982): 197-8
-5. Khanniazi MK, Khanam A, Naqvi SA, Sheikh MA "Study of potassium citrate treatment of crystalluric nephrolithiasis." Biomed Pharmacother 47 (1993): 25-8
-6. Gabriel R "Potassium citrate mixture: soothing but not harmless? [published erratum appears in Br Med J (Clin Res Ed) 1988 Jan 9;296(6615):135]." Br Med J (Clin Res Ed) 295 (1987): 1487
-7. Browning JJ, Channer KS "Hyperkalaemic cardiac arrhythmia caused by potassium citrate mixture." Br Med J (Clin Res Ed) 283 (1981): 1366
-8. Pak CY, Fuller C "Idiopathic hypocitraturic calcium-oxalate nephrolithiasis successfully treated with potassium citrate." Ann Intern Med 104 (1986): 33-7
-9. Pak CY, Sakhaee K, Fuller CJ "Physiological and physiochemical correction and prevention of calcium stone formation by potassium citrate therapy." Trans Assoc Am Physicians 96 (1983): 294-305
-10. "Potassium citrate tablets for nephrolithiasis." Med Lett Drugs Ther 28 (1986): 48
-11. Oley S, Schultz L, Shwartz S, Katz A, Allen A "Potassium citrate and potassium gluconate versus potassium chloride. Experimental evaluation of relative intestinal toxicity." JAMA 199 (1967): 215-7
-12. Barcelo P, Wuhl O, Servitge E, Rousaud A, Pak CY "Randomized double-blind study of potassium citrate in idiopathic hypocitraturic calcium nephrolithiasis." J Urol 150 (1993): 1761-4
-13. Pak CY, Fuller C, Sakhaee K, Preminger GM, Britton F "Long-term treatment of calcium nephrolithiasis with potassium citrate." J Urol 134 (1985): 11-9
-14. Lake KD, Brown DC "New drug therapy for kidney stones: a review of cellulose sodium phosphate, acetohydroxamic acid, and potassium citrate." Drug Intell Clin Pharm 19 (1985): 530-9
+Metabolic side effects have been reported rarely.  Hyperkalemia may cause life-threatening cardiac arrhythmias, and can occur even when renal function is normal.  Patients should not use potassium-rich salt substitutes without the advice of their healthcare professional during potassium citrate (the active ingredient contained in Urocit-K) therapy.  Long-term therapy can result in metabolic alkalosis.
+Signs of hyperkalemia include muscle weakness (including frank skeletal muscle and diaphragm paralysis), peaked T waves on the ECG, and cardiac arrhythmias.
+Gastrointestinal (GI) side effects have been reported the most frequently.  These have included nausea, vomiting, and epigastric or abdominal pain (in 3% to 17% of patients).  GI side effects may be lessened by taking the drug with meals.There are numerous reports of GI ulceration and rare reports of gastric or small bowel obstruction associated with the use of solid potassium salt preparations.  Patients at higher risk of GI lesions include the elderly and patients with scleroderma, diabetes mellitus, mitral valve replacement, cardiomegaly, esophageal stricture, or impaired GI motility or diverticulae.
 It is possible that some side effects of Urocit-K may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Abdominal or stomach discomfort
 diarrhea
 nausea
 vomiting
-
-
 Abdominal or stomach pain
 confusion
 difficult breathing
@@ -41,4 +17,3 @@ nervousness
 numbness or tingling in the hands, feet, or lips
 shortness of breath
 weakness or heaviness of the legs
-

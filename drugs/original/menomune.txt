@@ -1,24 +1,18 @@
-Applies to meningococcal polysaccharide vaccine: parenteral for injection for sub-q use, parenteral solution for im use
 Side effects include:
 MenACWY-D (Menactra®): Injection site reactions (e.g., pain, induration, erythema, swelling), headache, fatigue, malaise, arthralgia, diarrhea, anorexia, chills, fever, vomiting, rash. 
 MenACWY-CRM (Menveo®): Injection site reactions (tenderness, erythema), irritability, sleepiness, persistent crying, change in eating habits, vomiting, diarrhea in infants 2 through 23 months of age; injection site reactions (pain, erythema, induration), irritability, sleepiness, malaise, headache in children 2 through 10 years of age;  injection site pain, headache, myalgia, malaise, nausea in adults and adolescents. 
 MPSV4 (Menomune®): Injection site reactions (e.g., pain, erythema, induration, swelling), headache, malaise, chills, fever. 
 Hib-MenCY (MenHibrix®): Injection site reactions (e.g., pain, redness, swelling), systemic effects (e.g., fever, irritability, drowsiness, loss of appetite). 
-Applies to meningococcal polysaccharide vaccine: subcutaneous powder for injection
-The most common adverse events were injection site pain, headache, irritability, and diarrhea.[Ref]
-Very common (10% or more): Injection site pain (48.1%), injection site redness (16%), injection site induration (11%), injection site tendernessCommon (1% to 10%): Injection site swelling, injection site hematomaUncommon (0.1% to 1%): Injection site reactionRare (less than 0.1%): Severe local reactionsPostmarketing reports: Extensive limb swelling at the injection site (frequently associated with erythema, sometimes involving the adjacent joint or swelling of the entire injected limb)[Ref]
-Very common (10% or more): Headache (41.8%), drowsiness (11.2%)Uncommon (0.1% to 1%): Hypoesthesia, dizzinessVery rare (less than 0.01%): Somnolence, neurological reactionsPostmarketing reports: Vasovagal syncope, paresthesia, Guillain-Barre syndrome[Ref]
-Very common (10% or more): Fatigue (32.3%), malaise (22.3%), feverCommon (1% to 10%): Chills, febrile reactions (>38C)Postmarketing reports: Asthenia, influenza-like symptoms[Ref]
-Very common (10% or more): Irritability (12.2%)Uncommon (0.1% to 1%): Insomnia, crying[Ref]
-Very common (10% or more): Arthralgia (16%)Uncommon (0.1% to 1%): Myalgia, pain in extremityPostmarketing reports: Musculoskeletal stiffness[Ref]
-Very common (10% or more): Appetite lostCommon (1% to 10%): AnorexiaPostmarketing reports: Decreased appetite[Ref]
-Very common (10% or more): Diarrhea (14%)Common (1% to 10%): Vomiting, nausea[Ref]
-Common (1% to 10%): RashUncommon (0.1% to 1%): PruritusRare (less than 0.1%): Urticaria, angioedemaPostmarketing reports: Angioneurotic edema[Ref]
-Very common (10% or more): Local axillary lymphadenopathy[Ref]
-Postmarketing reports: Hypersensitivity (such as rash, urticaria, pruritus, dyspnea, angioedema), allergic reactions (including anaphylactic and anaphylactoid reactions)[Ref]
-Uncommon (0.1% to 1%): Upper respiratory tract illnessRare (less than 0.1%): Wheeze[Ref]
-Postmarketing reports: IgA nephropathy[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Menomune (meningococcal polysaccharide vaccine)." Sanofi Pasteur, Toronto, IA. 
-Not all side effects for meningococcal polysaccharide vaccine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most common adverse events were injection site pain, headache, irritability, and diarrhea.
+Very common (10% or more): Injection site pain (48.1%), injection site redness (16%), injection site induration (11%), injection site tendernessCommon (1% to 10%): Injection site swelling, injection site hematomaUncommon (0.1% to 1%): Injection site reactionRare (less than 0.1%): Severe local reactionsPostmarketing reports: Extensive limb swelling at the injection site (frequently associated with erythema, sometimes involving the adjacent joint or swelling of the entire injected limb)
+Very common (10% or more): Headache (41.8%), drowsiness (11.2%)Uncommon (0.1% to 1%): Hypoesthesia, dizzinessVery rare (less than 0.01%): Somnolence, neurological reactionsPostmarketing reports: Vasovagal syncope, paresthesia, Guillain-Barre syndrome
+Very common (10% or more): Fatigue (32.3%), malaise (22.3%), feverCommon (1% to 10%): Chills, febrile reactions (>38C)Postmarketing reports: Asthenia, influenza-like symptoms
+Very common (10% or more): Irritability (12.2%)Uncommon (0.1% to 1%): Insomnia, crying
+Very common (10% or more): Arthralgia (16%)Uncommon (0.1% to 1%): Myalgia, pain in extremityPostmarketing reports: Musculoskeletal stiffness
+Very common (10% or more): Appetite lostCommon (1% to 10%): AnorexiaPostmarketing reports: Decreased appetite
+Very common (10% or more): Diarrhea (14%)Common (1% to 10%): Vomiting, nausea
+Common (1% to 10%): RashUncommon (0.1% to 1%): PruritusRare (less than 0.1%): Urticaria, angioedemaPostmarketing reports: Angioneurotic edema
+Very common (10% or more): Local axillary lymphadenopathy
+Postmarketing reports: Hypersensitivity (such as rash, urticaria, pruritus, dyspnea, angioedema), allergic reactions (including anaphylactic and anaphylactoid reactions)
+Uncommon (0.1% to 1%): Upper respiratory tract illnessRare (less than 0.1%): Wheeze
+Postmarketing reports: IgA nephropathy

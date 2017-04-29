@@ -1,34 +1,18 @@
-Applies to balsalazide: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by balsalazide. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking balsalazide:
-Some of the side effects that can occur with balsalazide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to balsalazide: oral capsule, oral tablet
-During clinical trials, the most common side effects reported with the capsule formulation were headache, abdominal pain, diarrhea, nausea, vomiting, respiratory infection, and arthralgia.  Some side effects (including abdominal pain, fatigue, and nausea) were reported more often in women than in men.  Abdominal pain, rectal bleeding, and anemia can be part of the clinical presentation of ulcerative colitis.During a clinical trial, the most common side effects reported in male patients taking the tablet formulation were headache, nasopharyngitis, anemia, diarrhea fatigue, pharyngolaryngeal pain, and urinary tract infection.  Most side effects were mild to moderate in severity.  The most common serious side effects were gastrointestinal disorders, which were primarily associated with symptoms of ulcerative colitis.[Ref]
-Gastrointestinal side effects have included abdominal pain (up to 6%), diarrhea (up to 5%), nausea (5%), vomiting (up to 4%), dyspepsia (2%), flatulence (up to 2%), anorexia (2%), dry mouth (up to 1%), constipation (up to 1%), defecation urgency (less than 1%), hard feces (less than 1%), gastroesophageal reflux disease (less than 1%), and gastroenteritis (less than 1%).  Pancreatitis has been reported during postmarketing experience.[Ref]
-Musculoskeletal side effects have included arthralgia (up to 4%), musculoskeletal pain (2.4%), myalgia (up to 1%), and back pain (less than 1%).[Ref]
-Respiratory side effects have included nasopharyngitis, respiratory infection (4%), pharyngolaryngeal pain (3.7%), coughing (2%), pharyngitis (2%), rhinitis (2%), dyspnea (less than 1%), and upper respiratory infection (less than 1%).  Pleural effusion, pneumonia (with and without eosinophilia), and alveolitis have been reported during postmarketing experience.[Ref]
-Nervous system side effects have included headache (8%), insomnia (up to 2.4%), lethargy (less than 1%), and dizziness (less than 1%).[Ref]
-Hepatic side effects have included elevated aspartate aminotransferase (less than 1%).  Hepatotoxicity, including elevated liver function tests (SGOT/AST, SGPT/ALT, GGT, LDH, alkaline phosphatase, bilirubin), jaundice, cholestatic jaundice, cirrhosis, hepatocellular damage (including liver necrosis and liver failure), and Kawasaki-like syndrome (including hepatic function changes) have been reported during postmarketing experience of products that contain (or are metabolized to) mesalamine; some cases were fatal.[Ref]
-Hematologic side effects have included anemia (3.7%), thrombocythemia, and prothrombin changes.  A higher incidence of blood dyscrasias (i.e., neutropenia and pancytopenia) has been reported during uncontrolled clinical trials and postmarketing experience in patients 65 years or older receiving mesalamine-containing products.[Ref]
-Cardiovascular side effects have included increased blood pressure (less than 1%), increased heart rate (less than 1%), hypertension, palpitations, and bradycardia.  Myocarditis, pericarditis, and vasculitis have been reported during postmarketing experience.[Ref]
+During clinical trials, the most common side effects reported with the capsule formulation were headache, abdominal pain, diarrhea, nausea, vomiting, respiratory infection, and arthralgia.  Some side effects (including abdominal pain, fatigue, and nausea) were reported more often in women than in men.  Abdominal pain, rectal bleeding, and anemia can be part of the clinical presentation of ulcerative colitis.During a clinical trial, the most common side effects reported in male patients taking the tablet formulation were headache, nasopharyngitis, anemia, diarrhea fatigue, pharyngolaryngeal pain, and urinary tract infection.  Most side effects were mild to moderate in severity.  The most common serious side effects were gastrointestinal disorders, which were primarily associated with symptoms of ulcerative colitis.
+Gastrointestinal side effects have included abdominal pain (up to 6%), diarrhea (up to 5%), nausea (5%), vomiting (up to 4%), dyspepsia (2%), flatulence (up to 2%), anorexia (2%), dry mouth (up to 1%), constipation (up to 1%), defecation urgency (less than 1%), hard feces (less than 1%), gastroesophageal reflux disease (less than 1%), and gastroenteritis (less than 1%).  Pancreatitis has been reported during postmarketing experience.
+Musculoskeletal side effects have included arthralgia (up to 4%), musculoskeletal pain (2.4%), myalgia (up to 1%), and back pain (less than 1%).
+Respiratory side effects have included nasopharyngitis, respiratory infection (4%), pharyngolaryngeal pain (3.7%), coughing (2%), pharyngitis (2%), rhinitis (2%), dyspnea (less than 1%), and upper respiratory infection (less than 1%).  Pleural effusion, pneumonia (with and without eosinophilia), and alveolitis have been reported during postmarketing experience.
+Nervous system side effects have included headache (8%), insomnia (up to 2.4%), lethargy (less than 1%), and dizziness (less than 1%).
+Hepatic side effects have included elevated aspartate aminotransferase (less than 1%).  Hepatotoxicity, including elevated liver function tests (SGOT/AST, SGPT/ALT, GGT, LDH, alkaline phosphatase, bilirubin), jaundice, cholestatic jaundice, cirrhosis, hepatocellular damage (including liver necrosis and liver failure), and Kawasaki-like syndrome (including hepatic function changes) have been reported during postmarketing experience of products that contain (or are metabolized to) mesalamine; some cases were fatal.
+Hematologic side effects have included anemia (3.7%), thrombocythemia, and prothrombin changes.  A higher incidence of blood dyscrasias (i.e., neutropenia and pancytopenia) has been reported during uncontrolled clinical trials and postmarketing experience in patients 65 years or older receiving mesalamine-containing products.
+Cardiovascular side effects have included increased blood pressure (less than 1%), increased heart rate (less than 1%), hypertension, palpitations, and bradycardia.  Myocarditis, pericarditis, and vasculitis have been reported during postmarketing experience.
 Renal side effects have included renal failure and interstitial nephritis during postmarketing experience.
 Other side effects have included fatigue (up to 2%), fever (2%), cramps (1%), influenza-like disorder (1%), pyrexia (less than 1%), face edema (less than 1%), malaise (less than 1%), pain (less than 1%), and swelling (less than 1%).
 Genitourinary side effects have included urinary tract infection (up to 3.7%).
-Dermatologic side effects have included erythema nodosum (less than 1%) and rash (less than 1%).  Pruritus and alopecia have been reported during postmarketing experience.[Ref]
-1. "Product Information. Colazal (balsalazide)" Salix Pharmaceuticals, Palo Alto, CA. 
-2. Green JR, Lobo AJ, Holdsworth CD, Leicester RJ, Gibson JA, Kerr GD, Hodgson HJ, Parkins KJ, Taylor MD "Balsalazide is more effective and better tolerated than mesalamine in the treatment of acute ulcerative colitis. The Abacus Investigato Group [see comments." Gastroenterology 114 (1998): 15-22
-3. Prakash A, Spencer CM "Balsalazide." Drugs 56 (1998): d83-9;isc. 90
-4. Loftus EV,  Kane SV,  Bjorkman D "Safety of 5-aminosalicylic acid agents in the treatment of ulcerative colitis: a systematic review." Am J Gastroenterol 98(9S) (2003): S249
-5. Kounis GN,  Kouni SA,  Chiladakis JA,  Kounis NG "Comment: Mesalamine-Associated Hypersensitivity Myocarditis in Ulcerative Colitis and the Kounis Syndrome (February)." Ann Pharmacother 43 (2009): 393-4
-Not all side effects for balsalazide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Dermatologic side effects have included erythema nodosum (less than 1%) and rash (less than 1%).  Pruritus and alopecia have been reported during postmarketing experience.
 Bloody diarrhea
 fever
 skin rash
-
-
 Bladder pain
 bloody or cloudy urine
 bloody stools
@@ -36,14 +20,10 @@ difficult, burning, or painful urination
 frequent urge to urinate
 heavy bleeding
 lower back or side pain
-
-
 Difficult or labored breathing
 shortness of breath
 tightness in the chest
 wheezing
-
-
 Abdominal or stomach pain or tenderness
 chills
 clay colored stools
@@ -67,15 +47,11 @@ unusual tiredness or weakness
 vomiting of blood
 weight gain
 yellow eyes or skin
-
-
 Diarrhea
 mild headache
 muscle aches
 sore throat
 stuffy or runny nose
-
-
 Acid or sour stomach
 belching
 bloated or full feeling
@@ -111,8 +87,6 @@ unable to sleep
 unusual bleeding or bruising
 voice changes
 weight loss
-
-
 Back pain
 ear congestion
 loss of appetite
@@ -120,7 +94,4 @@ loss of voice
 pain in the ankles or knees
 painful, red lumps under the skin, mostly on the legs
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
-
-
 Hair loss or thinning of the hair
-

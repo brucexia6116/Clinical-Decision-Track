@@ -1,43 +1,22 @@
-Generic Name: rifabutin
 Common side effects of Mycobutin include: neutropenia and urine discoloration.  See below for a comprehensive list of adverse effects.
-Applies to rifabutin: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by rifabutin (the active ingredient contained in Mycobutin). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking rifabutin:
-Some of the side effects that can occur with rifabutin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to rifabutin: oral capsule
-Rifabutin was generally well tolerated in clinical trials.  Discontinuation due to a side effect was reported in 16% of patients taking rifabutin (the active ingredient contained in Mycobutin) compared to 8% of patients taking placebo.  Discontinuation of rifabutin was mainly due to rash (4%), gastrointestinal intolerance (3%), and neutropenia (2%).[Ref]
-Hematologic side effects have included neutropenia (less than 750/mm3; 25%), leukopenia (less than 1500/mm3; 17%), anemia (less than 8 g/dL; 6%), thrombocytopenia (less than 50,000/mm3; 5%), eosinophilia (1%), and hemolysis (less than 1%).  At least one case of thrombotic thrombocytopenic purpura has been reported.[Ref]
-Neutropenia and thrombocytopenia have been associated with rifabutin use.  However, the latter may be related to underlying disease since it has been observed at a similar rate in control groups in placebo-controlled trials.[Ref]
-Dermatologic side effects have included rash (11%) and skin discoloration (less than 1%).  Perspiration and skin may be discolored brown-orange with rifabutin (the active ingredient contained in Mycobutin) and some of its metabolites.  At least one case of acute generalized exanthematous pustulosis has been reported.[Ref]
-Gastrointestinal side effects have included nausea (6%), nausea and vomiting (3%), dyspepsia (3%), diarrhea (3%), eructation (3%), anorexia (2%), flatulence (2%), vomiting (1%), and Clostridium difficile associated diarrhea.  Feces and saliva may be discolored brown-orange with rifabutin (the active ingredient contained in Mycobutin) and some of its metabolites.  Aphthous stomatitis has rarely been reported.[Ref]
-Ocular side effects have included uveitis, resulting in itching, decreased vision, photophobia, pain, and temporary blindness in some patients.  Uveitis was reported at doses from 1050 mg/day to 2400 mg/day.  Tears may be discolored brown-orange with rifabutin (the active ingredient contained in Mycobutin) and some of its metabolites.  Soft contact lenses may be permanently stained.[Ref]
-Uveitis was rare when rifabutin was used as a single agent at 300 mg/day, even in combination with fluconazole and/or macrolides.  However, the incidence of uveitis was greater if higher doses of rifabutin were used with these agents.  Patients who developed uveitis had mild to severe symptoms that resolved following therapy with corticosteroids and/or mydriatic eye drops; however, in some severe cases, resolution of symptoms occurred after several weeks.[Ref]
-Hepatic side effects have included increased SGPT (greater than 150 units/L; 9%), increased SGOT (greater than 150 units/L; 7%), and hepatitis (less than 1%).[Ref]
-Other side effects have included abdominal pain (4%), taste perversion (3%), fever (2%), asthenia (1%), chest pain (1%), pain (1%), and influenza-like syndrome.  Sputum may be discolored brown-orange with rifabutin (the active ingredient contained in Mycobutin) and some of its metabolites.  Drug-induced lupus syndrome has been reported.[Ref]
-Three cases of drug-induced lupus syndrome (DILS) have been reported.  All cases were receiving standard doses of rifabutin and all had positive antinuclear antibodies during their lupus-like reactions.  Symptoms of DILS included malaise, myalgias, arthralgias, and fever.  None of the cases experienced lupus-type nephritis or skin and CNS involvement.[Ref]
-Nervous system side effects have included headache (3%), insomnia (1%), seizure, paresthesia, aphasia, and confusion.[Ref]
-In one study of 10 patients receiving greater than 1 gram of rifabutin (the active ingredient contained in Mycobutin) per day, nine developed significant distal, small joint arthralgias.  No evidence of concomitant rheumatic disease was evident and no effusions were observed.[Ref]
-Musculoskeletal side effects have included myalgia (2%), arthralgia (less than 1%), myositis (less than 1%), and polyarthralgia-arthritis syndrome (rare).  Generalized arthralgia was reported at doses from 1050 mg/day to 2400 mg/day.[Ref]
-Cardiovascular side effects have included nonspecific T wave changes on electrocardiogram.[Ref]
+Rifabutin was generally well tolerated in clinical trials.  Discontinuation due to a side effect was reported in 16% of patients taking rifabutin (the active ingredient contained in Mycobutin) compared to 8% of patients taking placebo.  Discontinuation of rifabutin was mainly due to rash (4%), gastrointestinal intolerance (3%), and neutropenia (2%).
+Hematologic side effects have included neutropenia (less than 750/mm3; 25%), leukopenia (less than 1500/mm3; 17%), anemia (less than 8 g/dL; 6%), thrombocytopenia (less than 50,000/mm3; 5%), eosinophilia (1%), and hemolysis (less than 1%).  At least one case of thrombotic thrombocytopenic purpura has been reported.
+Neutropenia and thrombocytopenia have been associated with rifabutin use.  However, the latter may be related to underlying disease since it has been observed at a similar rate in control groups in placebo-controlled trials.
+Dermatologic side effects have included rash (11%) and skin discoloration (less than 1%).  Perspiration and skin may be discolored brown-orange with rifabutin (the active ingredient contained in Mycobutin) and some of its metabolites.  At least one case of acute generalized exanthematous pustulosis has been reported.
+Gastrointestinal side effects have included nausea (6%), nausea and vomiting (3%), dyspepsia (3%), diarrhea (3%), eructation (3%), anorexia (2%), flatulence (2%), vomiting (1%), and Clostridium difficile associated diarrhea.  Feces and saliva may be discolored brown-orange with rifabutin (the active ingredient contained in Mycobutin) and some of its metabolites.  Aphthous stomatitis has rarely been reported.
+Ocular side effects have included uveitis, resulting in itching, decreased vision, photophobia, pain, and temporary blindness in some patients.  Uveitis was reported at doses from 1050 mg/day to 2400 mg/day.  Tears may be discolored brown-orange with rifabutin (the active ingredient contained in Mycobutin) and some of its metabolites.  Soft contact lenses may be permanently stained.
+Uveitis was rare when rifabutin was used as a single agent at 300 mg/day, even in combination with fluconazole and/or macrolides.  However, the incidence of uveitis was greater if higher doses of rifabutin were used with these agents.  Patients who developed uveitis had mild to severe symptoms that resolved following therapy with corticosteroids and/or mydriatic eye drops; however, in some severe cases, resolution of symptoms occurred after several weeks.
+Hepatic side effects have included increased SGPT (greater than 150 units/L; 9%), increased SGOT (greater than 150 units/L; 7%), and hepatitis (less than 1%).
+Other side effects have included abdominal pain (4%), taste perversion (3%), fever (2%), asthenia (1%), chest pain (1%), pain (1%), and influenza-like syndrome.  Sputum may be discolored brown-orange with rifabutin (the active ingredient contained in Mycobutin) and some of its metabolites.  Drug-induced lupus syndrome has been reported.
+Three cases of drug-induced lupus syndrome (DILS) have been reported.  All cases were receiving standard doses of rifabutin and all had positive antinuclear antibodies during their lupus-like reactions.  Symptoms of DILS included malaise, myalgias, arthralgias, and fever.  None of the cases experienced lupus-type nephritis or skin and CNS involvement.
+Nervous system side effects have included headache (3%), insomnia (1%), seizure, paresthesia, aphasia, and confusion.
+In one study of 10 patients receiving greater than 1 gram of rifabutin (the active ingredient contained in Mycobutin) per day, nine developed significant distal, small joint arthralgias.  No evidence of concomitant rheumatic disease was evident and no effusions were observed.
+Musculoskeletal side effects have included myalgia (2%), arthralgia (less than 1%), myositis (less than 1%), and polyarthralgia-arthritis syndrome (rare).  Generalized arthralgia was reported at doses from 1050 mg/day to 2400 mg/day.
+Cardiovascular side effects have included nonspecific T wave changes on electrocardiogram.
 Metabolic side effects have included increased alkaline phosphatase (greater than 450 units/L; less than 1%).
 Respiratory side effects have included chest pressure or pain with dyspnea in less than 1% of patients.
-Genitourinary side effects have included urine discoloration (30%).[Ref]
-Urine may be discolored brown-orange with rifabutin and some of its metabolites.[Ref]
-1. "Product Information. Mycobutin (rifabutin)." Pharmacia and Upjohn, Kalamazoo, MI. 
-2. Siegal FP, Eilbott D, Burger H, et al "Dose-limiting toxicity of rifabutin in AIDS-related complex: syndrome of arthralgia/arthritis." AIDS 4 (1990): 433-41
-3. Apseloff G, Fluids G, LaBoy-Goral L, Kraut E, Vincent J "Severe neutropenia caused by recommended prophylactic doses of rifabutin [published erratum appears in Lancet 1996 De 7;348(9041):1598]" Lancet 348 (1996): 685
-4. Chen CP,  Hsu YH,  Hong SJ "Acute generalized exanthematous pustulosis caused by rifabutin." Arch Dermatol 145 (2009): 1069-70
-5. Tsemg AL, Walmsley SL "Rifabutin-associated uveitis." Ann Pharmacother 29 (1995): 1149-55
-6. Fuller JD, Stanfield LE, Craven DE "Rifabutin prophylaxis and uveitis." N Engl J Med 330 (1994): 1315-6
-7. Havlir D, Torriani F, Dube M "Uveitis associated with rifabutin prophylaxis." Ann Intern Med 121 (1994): 510-2
-8. Frank MO, Graham MB, Wispelway B "Rifabutin and uveitis." N Engl J Med 330 (1994): 868
-9. Saran BR, Maguire AM, Nichols C, Frank I, Hertle RW, Brucker AJ, Goldman S, Brown M, Vanuitert B "Hypopyon uveitis in patients with acquired immunodeficiency syndrome treated for systemic mycobacterium avium complex infection with rifabutin." Arch Ophthalmol 112 (1994): 1159-65
-10. Jacobs DS, Piliero PJ, Kuperwaser MG, Smith JA, Harris SD, Flanigan TP, Goldberg JH, Ives DV "Acute uveitis associated with rifabutin use in patients with human immunodeficiency virus infection." Am J Ophthalmol 118 (1994): 716-22
-11. LeGars L, Collon T, Picard O, Kaplan G, Berenbaum F "Polyarthralgia-arthritis syndrome induced by low doses of rifabutin." J Rheumatol 26 (1999): 1201-2
-Not all side effects for Mycobutin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Genitourinary side effects have included urine discoloration (30%).
+Urine may be discolored brown-orange with rifabutin and some of its metabolites.
 Black, tarry stools
 chest pain
 chills
@@ -53,12 +32,8 @@ sore throat
 ulcers, sores, or white spots in the mouth
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Loss of strength or energy
 muscle pain
-
-
 Bruising or purple spots on the skin
 change in taste
 eye pain
@@ -68,8 +43,6 @@ lower back or side pain
 muscle swelling or pain
 pale skin
 yellow skin
-
-
 Abdominal or stomach pain
 bad, unusual, or unpleasant (after) taste in the mouth
 belching
@@ -81,4 +54,3 @@ headache
 nausea
 passing gas
 trouble sleeping
-

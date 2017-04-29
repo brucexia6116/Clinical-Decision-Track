@@ -1,70 +1,44 @@
-Generic Name: sparfloxacin
-Applies to sparfloxacin: oral tablet
 As well as its needed effects, sparfloxacin (the active ingredient contained in Zagam) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking sparfloxacin, check with your doctor immediately:
 If any of the following side effects occur while taking sparfloxacin, check with your doctor or nurse as soon as possible:
 Some sparfloxacin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention. If you notice any of the following side effects check with your doctor immediately:
-
-
-Applies to sparfloxacin: oral tablet
-Cardiovascular side effects have included QTc interval prolongation (1.3%) and vasodilatation (1%).  Palpitation, abnormal ECG, hypertension, tachycardia, bradycardia, shortened PR interval, angina pectoris, arrhythmia, atrial fibrillation, atrial flutter, complete AV block, first- and second-degree AV block, cardiovascular disorder, hemorrhage, migraine, peripheral vascular disorder, supraventricular extrasystoles, ventricular extrasystoles, and postural hypotension have been reported in less than 1% of patients.  Cardiopulmonary arrest, cerebral thrombosis, embolism, torsade de pointes, and vasculitis have been reported during postmarketing experience.[Ref]
-QTc prolongation has been reported in otherwise healthy patients and in patients with a history of heart disease or who were on other potentially arrhythmogenic drugs.  In one phase III trial with 813 patients, 2.9% of the overall population experienced QTc prolongation, 10 of whom exhibited moderate to severe delays in ventricular repolarization (QTc > 500 msec).  There were no reports of arrhythmia during this investigation.  QTc interval prolongation (QTc > 440 ms) was reported more often in elderly patients than in younger patients.  During postmarketing surveillance in Europe, 7 severe cardiovascular adverse events were associated with sparfloxacin use in an estimated 750,000 patients treated.  All patients experiencing an event had identifiable risk factors for arrhythmia.  A 47-year-old woman developed torsade de pointes after six days of therapy with sparfloxacin and rifampin.  The patient felt dizzy and lost consciousness.  The QTc interval at the time was 600 msec.  The QTc returned to baseline within one week of sparfloxacin discontinuation.[Ref]
-Dermatologic side effects have included photosensitivity reactions (3.6% to 7.9%), pruritus (3.3%), and rash (1.1%).  Maculopapular rash, dry skin, herpes simplex, sweating, urticaria, vesiculobullous rash, exfoliative dermatitis, acne, alopecia, angioedema, contact dermatitis, fungal dermatitis, furunculosis, pustular rash, skin discoloration, herpes zoster, and petechial rash have been reported in less than 1% of patients.  Bullous eruption, erythema nodosum, and hyperpigmentation have been reported during postmarketing experience.[Ref]
-In clinical trials, approximately 0.6% of patients experienced severe phototoxicity, defined as involving significant curtailment of normal activity.  Reactions have occurred with and without the use of sunscreens.  The manufacturer reports that some products containing ingredients blocking the UVA spectrum (octocrylene, or Parsol 1789) may provide some protection.  Many over-the-counter products, however, do not provide enough UVA protection to diminish the risk of photosensitivity to sparfloxacin.[Ref]
-Gastrointestinal side effects have included nausea (4.3% to 7.6%), diarrhea (3.2% to 4.6%), abdominal pain (1.8% to 2.4%), dyspepsia (1.6% to 2.3%), dry mouth (1.4%), vomiting (1.3%), and flatulence (1.1%).  Constipation, anorexia, gingivitis, oral moniliasis, stomatitis, tongue disorder, tooth disorder, gastroenteritis, increased appetite, mouth ulceration, increased serum amylase, and increased serum lipase have been reported in less than 1% of patients.  Pseudomembranous colitis has been reported with sparfloxacin (the active ingredient contained in Zagam) and other quinolone antibiotics.  Dysgeusia, dysphagia, gastralgia, hiccough, intestinal perforation, painful oral mucosa, pancreatitis, and Quincke's edema have been reported during postmarketing experience.[Ref]
-Nervous system side effects have included headache (4.2% to 8.1%), dizziness (2% to 3.8%), somnolence (1.5%), and insomnia (1.9%).  Paresthesia, hypesthesia, nervousness, somnolence, tremor, confusion, hyperesthesia, hyperkinesia, sleep disorder, hypokinesia, vertigo, abnormal gait, lightheadedness, euphoria, amnesia, and twitching have been reported in less than 1% of patients.  Ataxia, convulsions, ebrious feeling, exacerbation of myasthenia gravis, numbness, peripheral neuropathy, and sensory disturbances have also been reported.[Ref]
-Renal side effects have included increased BUN and creatinine in less than 1% of patients.  Acute renal failure,  interstitial nephritis, hemolytic uremic syndrome, and renal calculi have been reported during postmarketing experience.[Ref]
-Hematologic side effects have included increased white blood cells in 1.1% of patients and cyanosis, ecchymosis, lymphadenopathy, increased eosinophils, increased monocytes, and increased neutrophils in less than 1% of patients.  Decreases in hematocrit, hemoglobin, lymphocytes, and red blood cells, as well as both increases and decreases in platelets and white blood cells have been reported in less than 1% of patients.  Agranulocytosis, hemolytic anemia, prolongation of prothrombin time, thrombocytopenia, and thrombocytopenic purpura have been reported during postmarketing experience.[Ref]
-Musculoskeletal side effects have included arthralgia, arthritis, joint disorder, myalgia, and rheumatoid arthritis in less than 1% of patients.  Rhabdomyolysis, tendonitis, and tendon rupture have been reported during postmarketing experience.[Ref]
-Metabolic side effects have included gout, peripheral edema, and thirst in less than 1% of patients.  Acidosis and increases in serum triglycerides, serum cholesterol, blood glucose, and serum potassium have been reported during postmarketing experience.[Ref]
-Respiratory side effects have included asthma, epistaxis, pneumonia, rhinitis, pharyngitis, bronchitis, hemoptysis, sinusitis, increased cough, dyspnea, laryngismus, lung disorder, and pleural disorder in less than 1% of patients.  Interstitial pneumonia and laryngeal or pulmonary edema have been reported during postmarketing experience.[Ref]
-Genitourinary side effects have included vaginitis, dysuria, breast pain, dysmenorrhea, hematuria, menorrhagia, nocturia, polyuria, urinary tract infection, kidney pain, leukorrhea, metrorrhagia, vulvovaginal disorder, and increased urine glucose, urine protein, urine red blood cells, and urine white blood cells in less than 1% of patients.  Albuminuria, candiduria, crystalluria, urinary retention, and vaginal candidiasis have been reported during postmarketing experience.  Quinolone class antibiotics have been associated with renal calculi.[Ref]
-Ocular side effects have included amblyopia, photophobia, conjunctivitis, diplopia, abnormal accommodation, blepharitis, eye pain, and lacrimation disorder in less than 1% of patients.  Nystagmus and uveitis have been reported during postmarketing experience.[Ref]
-Hypersensitivity reactions have included anaphylactic, anaphylactoid, and allergic reactions in less than 1% of patients.  Quinolones have been associated with anaphylactic shock, angioedema, Stevens Johnson syndrome, toxic epidermal necrolysis, serum sickness, allergic pneumonitis, and rash.  These reactions may be serious and occasionally fatal.[Ref]
-Hepatic side effects have included increased ALT (2%) and AST (2.3%).  Increased alkaline phosphatase and total bilirubin have been reported in less than 1% of patients.  Hepatic necrosis, hepatitis, jaundice, increased LDH, and increased GGTP have been reported during postmarketing experience.[Ref]
-Psychiatric side effects have included anxiety, manic reaction, abnormal dreams, abnormal thinking, depression, phobia, agitation, emotional lability, hallucinations, and toxic psychosis.[Ref]
-Oncologic side effects reported during postmarketing experience have included squamous cell carcinoma, although causality has not been established.[Ref]
-Other side effects have included asthenia (1.7%) and taste perversion (1.4%).  Ear pain, tinnitus, ear disorder, otitis media, fever, chest pain, generalized pain, cellulitis, back pain, chills, face edema, malaise, accidental injury, infection, mucous membrane disorder, and neck pain have been reported in less than 1% of patients.  Anosmia has been reported during postmarketing experience.[Ref]
-1. Rubinstein E "Safety profile of sparfloxacin in the treatment of respiratory tract infections." J Antimicrob Chemother 37 Suppl A (1996): 145-60
-2. Dupont H, Timsit JF, Souweine B, Gachot B, Wolff M, Regnier B "Torsades de pointe probably related to sparfloxacin." Eur J Clin Microbiol Infect Dis 15 (1996): 350-1
-3. Demolis JL, Charransol A, Funck-Brentano C, Jaillon P "Effects of a single oral dose of sparfloxacin on ventricular repolarization in healthy volunteers." Br J Clin Pharmacol 41 (1996): 499-503
-4. "Product Information. Zagam (sparfloxacin)." Rhone-Poulenc Rorer, Collegeville, PA. 
-5. Jaillon P, Morganroth J, Brumpt I, Talbot G "Overview of electrocardiographic and cardiovascular safety data for sparfloxacin. Sparfloxacin Safety Group." J Antimicrob Chemother 37(suppl a) (1996): 161-7
-6. Morganroth J, Hunt T, Dorr MB, Magner D, Talbot GH "The cardiac pharmacodynamics of therapeutic doses of sparfloxacin." Clin Ther 21 (1999): 1171-81
-7. Pierfitte C, Royer RJ, Moore N, Begaud B "The link between sunshine and sparfloxacin." Br J Clin Pharmacol 49 (2000): 609-12
-8. Ritz M, Lode H, Fassbender M, Borner K, Koeppe P, Nord CE "Multiple-dose pharmacokinetics of sparfloxacin and its influence on fecal flora." Antimicrob Agents Chemother 38 (1994): 455-9
-9. Domagala JM "Structure-activity and structure-side-effect relationships for the quinolone antibacterials." J Antimicrob Chemother 33 (1994): 685-706
-10. Ball P, Tillotson G "Tolerability of fluoroquinolone antibiotics: past, present and future." Drug Saf 13 (1996): 343-8
-11. Hamanaka H, Mizutani H, Shimizu M "Sparfloxacin-induced photosensitivity and the occurrence of a lichenoid tissue reaction after prolonged exposure." J Am Acad Dermatol 38 (1998): 945-9
-12. Allan DS,  Thompson CM,  Barr RM,  Clark WF,  Chin-Yee IH "Ciprofloxacin-associated hemolytic-uremic syndrome." Ann Pharmacother 36 (2002): 1000-2
+Cardiovascular side effects have included QTc interval prolongation (1.3%) and vasodilatation (1%).  Palpitation, abnormal ECG, hypertension, tachycardia, bradycardia, shortened PR interval, angina pectoris, arrhythmia, atrial fibrillation, atrial flutter, complete AV block, first- and second-degree AV block, cardiovascular disorder, hemorrhage, migraine, peripheral vascular disorder, supraventricular extrasystoles, ventricular extrasystoles, and postural hypotension have been reported in less than 1% of patients.  Cardiopulmonary arrest, cerebral thrombosis, embolism, torsade de pointes, and vasculitis have been reported during postmarketing experience.
+QTc prolongation has been reported in otherwise healthy patients and in patients with a history of heart disease or who were on other potentially arrhythmogenic drugs.  In one phase III trial with 813 patients, 2.9% of the overall population experienced QTc prolongation, 10 of whom exhibited moderate to severe delays in ventricular repolarization (QTc > 500 msec).  There were no reports of arrhythmia during this investigation.  QTc interval prolongation (QTc > 440 ms) was reported more often in elderly patients than in younger patients.  During postmarketing surveillance in Europe, 7 severe cardiovascular adverse events were associated with sparfloxacin use in an estimated 750,000 patients treated.  All patients experiencing an event had identifiable risk factors for arrhythmia.  A 47-year-old woman developed torsade de pointes after six days of therapy with sparfloxacin and rifampin.  The patient felt dizzy and lost consciousness.  The QTc interval at the time was 600 msec.  The QTc returned to baseline within one week of sparfloxacin discontinuation.
+Dermatologic side effects have included photosensitivity reactions (3.6% to 7.9%), pruritus (3.3%), and rash (1.1%).  Maculopapular rash, dry skin, herpes simplex, sweating, urticaria, vesiculobullous rash, exfoliative dermatitis, acne, alopecia, angioedema, contact dermatitis, fungal dermatitis, furunculosis, pustular rash, skin discoloration, herpes zoster, and petechial rash have been reported in less than 1% of patients.  Bullous eruption, erythema nodosum, and hyperpigmentation have been reported during postmarketing experience.
+In clinical trials, approximately 0.6% of patients experienced severe phototoxicity, defined as involving significant curtailment of normal activity.  Reactions have occurred with and without the use of sunscreens.  The manufacturer reports that some products containing ingredients blocking the UVA spectrum (octocrylene, or Parsol 1789) may provide some protection.  Many over-the-counter products, however, do not provide enough UVA protection to diminish the risk of photosensitivity to sparfloxacin.
+Gastrointestinal side effects have included nausea (4.3% to 7.6%), diarrhea (3.2% to 4.6%), abdominal pain (1.8% to 2.4%), dyspepsia (1.6% to 2.3%), dry mouth (1.4%), vomiting (1.3%), and flatulence (1.1%).  Constipation, anorexia, gingivitis, oral moniliasis, stomatitis, tongue disorder, tooth disorder, gastroenteritis, increased appetite, mouth ulceration, increased serum amylase, and increased serum lipase have been reported in less than 1% of patients.  Pseudomembranous colitis has been reported with sparfloxacin (the active ingredient contained in Zagam) and other quinolone antibiotics.  Dysgeusia, dysphagia, gastralgia, hiccough, intestinal perforation, painful oral mucosa, pancreatitis, and Quincke's edema have been reported during postmarketing experience.
+Nervous system side effects have included headache (4.2% to 8.1%), dizziness (2% to 3.8%), somnolence (1.5%), and insomnia (1.9%).  Paresthesia, hypesthesia, nervousness, somnolence, tremor, confusion, hyperesthesia, hyperkinesia, sleep disorder, hypokinesia, vertigo, abnormal gait, lightheadedness, euphoria, amnesia, and twitching have been reported in less than 1% of patients.  Ataxia, convulsions, ebrious feeling, exacerbation of myasthenia gravis, numbness, peripheral neuropathy, and sensory disturbances have also been reported.
+Renal side effects have included increased BUN and creatinine in less than 1% of patients.  Acute renal failure,  interstitial nephritis, hemolytic uremic syndrome, and renal calculi have been reported during postmarketing experience.
+Hematologic side effects have included increased white blood cells in 1.1% of patients and cyanosis, ecchymosis, lymphadenopathy, increased eosinophils, increased monocytes, and increased neutrophils in less than 1% of patients.  Decreases in hematocrit, hemoglobin, lymphocytes, and red blood cells, as well as both increases and decreases in platelets and white blood cells have been reported in less than 1% of patients.  Agranulocytosis, hemolytic anemia, prolongation of prothrombin time, thrombocytopenia, and thrombocytopenic purpura have been reported during postmarketing experience.
+Musculoskeletal side effects have included arthralgia, arthritis, joint disorder, myalgia, and rheumatoid arthritis in less than 1% of patients.  Rhabdomyolysis, tendonitis, and tendon rupture have been reported during postmarketing experience.
+Metabolic side effects have included gout, peripheral edema, and thirst in less than 1% of patients.  Acidosis and increases in serum triglycerides, serum cholesterol, blood glucose, and serum potassium have been reported during postmarketing experience.
+Respiratory side effects have included asthma, epistaxis, pneumonia, rhinitis, pharyngitis, bronchitis, hemoptysis, sinusitis, increased cough, dyspnea, laryngismus, lung disorder, and pleural disorder in less than 1% of patients.  Interstitial pneumonia and laryngeal or pulmonary edema have been reported during postmarketing experience.
+Genitourinary side effects have included vaginitis, dysuria, breast pain, dysmenorrhea, hematuria, menorrhagia, nocturia, polyuria, urinary tract infection, kidney pain, leukorrhea, metrorrhagia, vulvovaginal disorder, and increased urine glucose, urine protein, urine red blood cells, and urine white blood cells in less than 1% of patients.  Albuminuria, candiduria, crystalluria, urinary retention, and vaginal candidiasis have been reported during postmarketing experience.  Quinolone class antibiotics have been associated with renal calculi.
+Ocular side effects have included amblyopia, photophobia, conjunctivitis, diplopia, abnormal accommodation, blepharitis, eye pain, and lacrimation disorder in less than 1% of patients.  Nystagmus and uveitis have been reported during postmarketing experience.
+Hypersensitivity reactions have included anaphylactic, anaphylactoid, and allergic reactions in less than 1% of patients.  Quinolones have been associated with anaphylactic shock, angioedema, Stevens Johnson syndrome, toxic epidermal necrolysis, serum sickness, allergic pneumonitis, and rash.  These reactions may be serious and occasionally fatal.
+Hepatic side effects have included increased ALT (2%) and AST (2.3%).  Increased alkaline phosphatase and total bilirubin have been reported in less than 1% of patients.  Hepatic necrosis, hepatitis, jaundice, increased LDH, and increased GGTP have been reported during postmarketing experience.
+Psychiatric side effects have included anxiety, manic reaction, abnormal dreams, abnormal thinking, depression, phobia, agitation, emotional lability, hallucinations, and toxic psychosis.
+Oncologic side effects reported during postmarketing experience have included squamous cell carcinoma, although causality has not been established.
+Other side effects have included asthenia (1.7%) and taste perversion (1.4%).  Ear pain, tinnitus, ear disorder, otitis media, fever, chest pain, generalized pain, cellulitis, back pain, chills, face edema, malaise, accidental injury, infection, mucous membrane disorder, and neck pain have been reported in less than 1% of patients.  Anosmia has been reported during postmarketing experience.
 It is possible that some side effects of Zagam may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blisters
 itching
  redness of skin
 sensation of skin burning
 skin rash
 swelling of skin
-
-
 Abdominal or stomach cramps and pain (severe)
  abdominal tenderness
 diarrhea (watery and severe), which may also be bloody
 fever
  pain, inflammation, or swelling in calves, shoulders, or hands
-
-
 Irregular heartbeat
-
-
 Acute psychosis
 agitation
 confusion
 hallucinations (seeing, hearing, or feeling things that are not there)
 tremors
-
-
 Changes in sense of taste
 diarrhea 
 dizziness
@@ -76,10 +50,7 @@ nervousness
 trouble in sleeping
 vaginal itching and discharge
 vomiting
-
-
 Abdominal or stomach cramps and pain (severe)
 abdominal tenderness
  diarrhea (watery and severe), which may also be bloody
  fever
-

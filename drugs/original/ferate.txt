@@ -1,14 +1,6 @@
-Generic Name: ferrous gluconate
-Applies to ferrous gluconate: capsules, tablets
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Constipation; darkened or green stools; diarrhea; loss of appetite; nausea; stomach cramps, pain, or upset; vomiting.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); black, tarry stools; blood or streaks of blood in the stool; fever; severe or persistent nausea, stomach pain, or vomiting; vomit that looks like blood or coffee grounds.
-
-
-Applies to ferrous gluconate: compounding powder, oral capsule, oral liquid, oral tablet, oral tablet extended release
-Frequency not reported: Gastrointestinal discomfort, anorexia, diarrhea, nausea, heartburn, vomiting, constipation, fecal impaction, darkening of stools, gastrointestinal necrosis, gastrointestinal perforation, gastrointestinal stricture, epigastric pain, hematemesis[Ref]
-Frequency not reported: Allergic reactions[Ref]
-Frequency not reported: Circulatory collapse[Ref]
-1. "Product Information. Ferrous Gluconate (ferrous gluconate)." Paddock Laboratories Inc, Minneapolis, MN. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Ferate may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Frequency not reported: Gastrointestinal discomfort, anorexia, diarrhea, nausea, heartburn, vomiting, constipation, fecal impaction, darkening of stools, gastrointestinal necrosis, gastrointestinal perforation, gastrointestinal stricture, epigastric pain, hematemesis
+Frequency not reported: Allergic reactions
+Frequency not reported: Circulatory collapse

@@ -1,26 +1,16 @@
 Commonly reported side effects of miltefosine include: nausea, diarrhea, increased serum creatinine, and vomiting.  See below for a comprehensive list of adverse effects.
-Applies to miltefosine: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by miltefosine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking miltefosine:
-Some of the side effects that can occur with miltefosine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to miltefosine: oral capsule
-The most common side effects resulting in discontinuation were Stevens-Johnson syndrome, melena, thrombocytopenia, arthritis, skin rash, diarrhea, and hyperbilirubinemia.[Ref]
-Very common (10% or more): Elevations in liver transaminases (ALT, AST) (up to 50%)Frequency not reported: HyperbilirubinemiaPostmarketing reports: Jaundice[Ref]
-Very common (10% or more): Creatinine elevations (up to 25%)[Ref]
-Common (1% to 10%): Anemia, lymphoadenopathyPostmarketing reports: Thrombocytopenia, agranulocytosis, epistaxis[Ref]
-Common (1% to 10%): Pruritus, cellulitis, ecthyma, pyoderma, rash, urticariaFrequency not reported: Stevens-Johnson syndrome, skin rash[Ref]
-Very common (10% or more): Diarrhea (up to 20.4%), vomiting (up to 27.5%), abdominal pain (up to 11.2%), nausea (up to 41.7%)Common (1% to 10%): Abdominal distension, constipation, dysphagia, flatulencePostmarketing reports: Melena[Ref]
-Common (1% to 10%): Testicular pain, testicular swellingPostmarketing reports: Scrotal pain, decreased ejaculate volume, absent ejaculation[Ref]
-Common (1% to 10%): Lymphangitis, abscess[Ref]
-Very common (10% or more): Decreased appetite (up to 23.1%)Postmarketing reports: Generalized edema[Ref]
-Frequency not reported: Arthritis[Ref]
-Very common (10% or more): Motion sickness (29.2%), headache (28.1%), dizziness (up to 12.5%)Common (1% to 10%): Somnolence, paresthesia[Ref]
-Common (1% to 10%): Asthenia, malaise, pyrexia, fatigue, peripheral edema[Ref]
-1. "Product Information. Impavido (miltefosine)." Paladin Therapeutics Inc, Wilmington, DE. 
-Not all side effects for miltefosine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common side effects resulting in discontinuation were Stevens-Johnson syndrome, melena, thrombocytopenia, arthritis, skin rash, diarrhea, and hyperbilirubinemia.
+Very common (10% or more): Elevations in liver transaminases (ALT, AST) (up to 50%)Frequency not reported: HyperbilirubinemiaPostmarketing reports: Jaundice
+Very common (10% or more): Creatinine elevations (up to 25%)
+Common (1% to 10%): Anemia, lymphoadenopathyPostmarketing reports: Thrombocytopenia, agranulocytosis, epistaxis
+Common (1% to 10%): Pruritus, cellulitis, ecthyma, pyoderma, rash, urticariaFrequency not reported: Stevens-Johnson syndrome, skin rash
+Very common (10% or more): Diarrhea (up to 20.4%), vomiting (up to 27.5%), abdominal pain (up to 11.2%), nausea (up to 41.7%)Common (1% to 10%): Abdominal distension, constipation, dysphagia, flatulencePostmarketing reports: Melena
+Common (1% to 10%): Testicular pain, testicular swellingPostmarketing reports: Scrotal pain, decreased ejaculate volume, absent ejaculation
+Common (1% to 10%): Lymphangitis, abscess
+Very common (10% or more): Decreased appetite (up to 23.1%)Postmarketing reports: Generalized edema
+Frequency not reported: Arthritis
+Very common (10% or more): Motion sickness (29.2%), headache (28.1%), dizziness (up to 12.5%)Common (1% to 10%): Somnolence, paresthesia
+Common (1% to 10%): Asthenia, malaise, pyrexia, fatigue, peripheral edema
 Abdominal or stomach pain
 bloating or swelling of the face, arms, hands, lower legs, or feet
 bloody, black, or tarry stools
@@ -34,16 +24,11 @@ severe diarrhea or vomiting
 unusual bleeding or bruising
 unusual tiredness or weakness
 yellow eyes or skin
-
-
 Decreased appetite
 diarrhea
 fever
 lack or loss of strength
 vomiting
-
-
 General feeling of discomfort or illness
 itching skin
 sleepiness or unusual drowsiness
-

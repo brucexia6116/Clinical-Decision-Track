@@ -1,28 +1,17 @@
-Generic Name: clobetasol topical
-Applies to clobetasol topical: topical application cream, topical application emollient cream, topical application foam, topical application gel/jelly, topical application lotion, topical application ointment, topical application shampoo, topical application solution, topical application spray
 As well as its needed effects, clobetasol topical (the active ingredient contained in Temovate) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking clobetasol topical, check with your doctor immediately:
 Some clobetasol topical side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to clobetasol topical: compounding powder, topical cream, topical foam, topical gel, topical kit, topical lotion, topical ointment, topical shampoo, topical solution, topical spray
-The most common side effect reported was skin discomfort.[Ref]
-Postmarketing reports: Cushing's syndrome, adrenal suppression[Ref]
-Common (1% to 10%): Skin discomfort, acne/folliculitis, telangiectasia, skin atrophy, dry skinUncommon (0.1% to 1%): Local signs of irritation, pruritus, urticariaFrequency not reported: Stria, purpura, contact dermatitis, pigmentation changes, pustular eruptions, hypertrichosis, irritant dermatitisPostmarketing reports: Erythema, alopecia, pain of skin, skin exfoliation, chapped skin, scaling, induration/papulation,lichenification, psoriasis (aggravation) plaque elevation, excoriation, rash, hair color changes, skin tightness[Ref]
-Frequency not reported: Itching[Ref]
-Common (1% to 10%): Eye stinging/burningPostmarketing reports: Eye pain, blurred vision, eye irritation[Ref]
-Frequency not reported: Edema[Ref]
-Postmarketing reports: Nausea[Ref]
-Frequency not reported: Hyperglycemia, glucosuria[Ref]
-Common (1% to 10%): HeadachePostmarketing reports: Dizziness[Ref]
-1. "Product Information. Temovate (clobetasol)." Glaxo Wellcome, Research Triangle Park, NC. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
+The most common side effect reported was skin discomfort.
+Postmarketing reports: Cushing's syndrome, adrenal suppression
+Common (1% to 10%): Skin discomfort, acne/folliculitis, telangiectasia, skin atrophy, dry skinUncommon (0.1% to 1%): Local signs of irritation, pruritus, urticariaFrequency not reported: Stria, purpura, contact dermatitis, pigmentation changes, pustular eruptions, hypertrichosis, irritant dermatitisPostmarketing reports: Erythema, alopecia, pain of skin, skin exfoliation, chapped skin, scaling, induration/papulation,lichenification, psoriasis (aggravation) plaque elevation, excoriation, rash, hair color changes, skin tightness
+Frequency not reported: Itching
+Common (1% to 10%): Eye stinging/burningPostmarketing reports: Eye pain, blurred vision, eye irritation
+Frequency not reported: Edema
+Postmarketing reports: Nausea
+Frequency not reported: Hyperglycemia, glucosuria
+Common (1% to 10%): HeadachePostmarketing reports: Dizziness
 It is possible that some side effects of Temovate may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Burning or stinging at the application site
-
-
 Burning sensation of the skin
 dry skin
 flushing or redness of the skin
@@ -30,19 +19,13 @@ itching, scaling, severe redness, soreness, or swelling of the skin
 skin irritation
 skin rash, encrusted, scaly and oozing
 thinning of the skin with easy bruising, especially when used on the face or where the skin folds together (eg, between the fingers)
-
-
 Burning, itching, and pain in hairy areas, or pus at the root of the hair
 hair loss
 redness and scaling around the mouth
 thinning of the hair
 thinning, weakness, or wasting away of the skin
-
-
 Cough
 sore throat
-
-
 Body aches or pain
 changes in skin coloring
 congestion or cough
@@ -55,8 +38,6 @@ tender, swollen glands in the neck
 trouble swallowing
 unusual tiredness or weakness
 voice changes
-
-
 Acne or pimples
 burning and itching of the skin with pinhead-sized red blisters
 increased hair growth on the forehead, back, arms, and legs
@@ -64,4 +45,3 @@ lightening of normal skin color
 lightening of treated areas of dark skin
 reddish purple lines on the arms, face, legs, trunk, or groin
 softening of the skin
-

@@ -1,35 +1,26 @@
-Applies to tocilizumab: intravenous solution
 As well as its needed effects, tocilizumab may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking tocilizumab, check with your doctor or nurse immediately:
 Some tocilizumab side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to tocilizumab: intravenous solution, subcutaneous solution
-Very common (10% or more): Upper respiratory tract infectionCommon (1% to 10%): Cough, dyspnea, nasopharyngitis, bronchitis[Ref]
-Common (1% to 10%): Headache, dizziness[Ref]
-Common (1% to 10%): Hypertension[Ref]
-Common (1% to 10%): Rash, pruritus, urticariaFrequency not reported: AngioedemaPostmarketing reports: Stevens-Johnson Syndrome[Ref]
-The most common serious adverse reactions were serious infections.[Ref]
-Of the 2876 patients tested for anti-tocilizumab antibodies in controlled clinical trials, 1.6% (46 patients) were positive; 5 patients experienced a hypersensitivity reaction that lead to treatment withdrawal.  However, in 1.1% (30 patients) of those who developed antibodies there was no apparent correlation to clinical response.[Ref]
-Common (1% to 10%): Hypersensitivity reactionPostmarketing reports: Fatal anaphylaxis[Ref]
-Frequency not reported: Malignancies[Ref]
-Common (1% to 10%): Abdominal pain, mouth ulceration, gastritis, diarrheaUncommon (0.1% to 1%): Stomatitis, gastric ulcer, diverticulitisRare (0.01% to 0.1%): Gastrointestinal perforation (most patients who developed GI perforations were taking concomitant nonsteroidal anti-inflammatory medications (NSAIDs), corticosteroids, or methotrexate)[Ref]
-Very common (10% or more): Leukopenia, neutropenia, thrombocytopenia[Ref]
-Common (1% to 10%): Transaminases increased, total bilirubin increased[Ref]
-Common (1% to 10%): Cellulitis, pneumonia, oral herpes simplex, herpes zoster[Ref]
-Common (1% to 10%): Injection site reaction[Ref]
-Very common (10% or more): HypercholesterolemiaCommon (1% to 10%): Weight increased, peripheral edemaUncommon (0.1% to 1%): Hypertriglyceridemia[Ref]
-Common (1% to 10%): Back painFrequency not reported: Bacterial arthritis[Ref]
-Common (1% to 10%): Conjunctivitis[Ref]
-Common (1% to 10%): Peripheral edema[Ref]
-Uncommon (0.1% to 1%): Nephrolithiasis[Ref]
-Uncommon (0.1% to 1%): Hypothyroidism[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Actemra (tocilizumab)." Genentech, South San Francisco, CA. 
+Very common (10% or more): Upper respiratory tract infectionCommon (1% to 10%): Cough, dyspnea, nasopharyngitis, bronchitis
+Common (1% to 10%): Headache, dizziness
+Common (1% to 10%): Hypertension
+Common (1% to 10%): Rash, pruritus, urticariaFrequency not reported: AngioedemaPostmarketing reports: Stevens-Johnson Syndrome
+The most common serious adverse reactions were serious infections.
+Of the 2876 patients tested for anti-tocilizumab antibodies in controlled clinical trials, 1.6% (46 patients) were positive; 5 patients experienced a hypersensitivity reaction that lead to treatment withdrawal.  However, in 1.1% (30 patients) of those who developed antibodies there was no apparent correlation to clinical response.
+Common (1% to 10%): Hypersensitivity reactionPostmarketing reports: Fatal anaphylaxis
+Frequency not reported: Malignancies
+Common (1% to 10%): Abdominal pain, mouth ulceration, gastritis, diarrheaUncommon (0.1% to 1%): Stomatitis, gastric ulcer, diverticulitisRare (0.01% to 0.1%): Gastrointestinal perforation (most patients who developed GI perforations were taking concomitant nonsteroidal anti-inflammatory medications (NSAIDs), corticosteroids, or methotrexate)
+Very common (10% or more): Leukopenia, neutropenia, thrombocytopenia
+Common (1% to 10%): Transaminases increased, total bilirubin increased
+Common (1% to 10%): Cellulitis, pneumonia, oral herpes simplex, herpes zoster
+Common (1% to 10%): Injection site reaction
+Very common (10% or more): HypercholesterolemiaCommon (1% to 10%): Weight increased, peripheral edemaUncommon (0.1% to 1%): Hypertriglyceridemia
+Common (1% to 10%): Back painFrequency not reported: Bacterial arthritis
+Common (1% to 10%): Conjunctivitis
+Common (1% to 10%): Peripheral edema
+Uncommon (0.1% to 1%): Nephrolithiasis
+Uncommon (0.1% to 1%): Hypothyroidism
 It is possible that some side effects of tocilizumab may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Abdominal or stomach pain
 black, tarry stools
 bloody or cloudy urine
@@ -76,8 +67,6 @@ ulcers, sores, or white spots in the mouth
 unusual bleeding or bruising
 unusual tiredness or weakness
 weakness
-
-
 Bladder pain
 blurred vision
 burning feeling in the chest or stomach
@@ -115,8 +104,6 @@ unexplained runny nose or sneezing
 upper right abdominal or stomach pain
 vomiting
 yellow eyes and skin
-
-
 Acid or sour stomach
 belching
 changes in skin color
@@ -138,16 +125,12 @@ sudden high fever or low-grade fever for months
 swelling of the foot or leg
 swollen lymph nodes
 weight loss
-
-
 Dilated neck veins
 extreme fatigue
 severe abdominal or stomach pain, cramping, or burning
 swelling of the face, fingers, feet, or lower legs
 vomiting of material that looks like coffee grounds, severe and continuing
 weight gain
-
-
 Burning, dry, or itching eyes
 constipation
 discharge, excessive tearing
@@ -155,8 +138,6 @@ redness, pain, or swelling of the eye, eyelid, or inner lining of the eyelid
 skin rash, encrusted, scaly and oozing
 swelling or inflammation of the mouth
 warmth on the skin
-
-
 Abnormal or decreased touch sensation
 accumulation of pus
 back pain
@@ -184,8 +165,6 @@ stomach soreness or discomfort
 swollen, red, or tender area of infection
 unable to sleep
 white patches in the mouth or on the tongue
-
-
 Bleeding after defecation
 blindness
 bloody nose
@@ -211,4 +190,3 @@ uncomfortable swelling around the anus
 unexplained weight loss
 unsteadiness or awkwardness
 weakness in the arms, hands, legs, or feet
-

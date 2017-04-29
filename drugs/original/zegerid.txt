@@ -1,37 +1,28 @@
-Generic Name: omeprazole / sodium bicarbonate
 More frequent side effects include: congenital anomalies and abdominal pain.  See below for a comprehensive list of adverse effects.
-Applies to omeprazole / sodium bicarbonate: oral capsule, oral packet
 As well as its needed effects, omeprazole / sodium bicarbonate may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking omeprazole / sodium bicarbonate, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking omeprazole / sodium bicarbonate, get emergency help immediately:
-
 Some omeprazole / sodium bicarbonate side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to omeprazole / sodium bicarbonate: oral capsule, oral powder for reconstitution
-Very common (10% or more): Pyrexia (Up to 20.2%)Common (1% to 10%): Hyperpyrexia, candida infection not otherwise specified (NOS), sepsis NOSOmeprazole:Common (1% to 10%): AstheniaPostmarketing reports: Fever, pain, fatigue, malaise, tinnitus[Ref]
-Very common (10% or more): Hypokalemia (Up to 12.4%), hyperglycemia not otherwise specified (NOS) (Up to 10.7%), hypomagnesemia (Up to 10.1%)Common (1% to 10%): Fluid overload, hyperkalemia, hypernatremia, hypocalcemia, hyponatremia, hypoglycemia NOS, hypophosphatemiaOmeprazole:Postmarketing reports: Anorexia, hyponatremia, hypoglycemia, hypomagnesemia, weight gainSodium Bicarbonate:Postmarketing reports: Metabolic acidosis, tetany[Ref]
-Very common (10% or more): Nosocomial pneumonia (Up to 11.2%)Common (1% to 10%): Acute respiratory distress syndrome, respiratory failureUncommon (0.1% to 1%): Pneumothorax not otherwise specified (NOS)Omeprazole:Common (1% to 10%): Upper respiratory infection, coughPostmarketing reports: Bronchospasm, epistaxis, pharyngeal pain[Ref]
-Very common (10% or more): Thrombocytopenia (Up to 10.1%)Common (1% to 10%): Anemia not otherwise specified (NOS), anemia NOS aggravatedOmeprazole:Postmarketing reports: Pancytopenia, agranulocytosis/fatal agranulocytosis, thrombocytopenia, neutropenia, leukopenia, anemia, leukocytosis, hemolytic anemia[Ref]
-Common (1% to 10%): Atrial fibrillation, bradycardia not otherwise specified (NOS), supraventricular tachycardia, tachycardia NOS, ventricular tachycardia, edema NOS, hypertension NOS, hypotension NOSOmeprazole:Postmarketing reports: Chest pain/angina, tachycardia, bradycardia, palpitation, elevated blood pressure, peripheral edema[Ref]
-Common (1% to 10%): Constipation, diarrhea not otherwise specified (NOS), gastric hypomobility, oral candidiasisFrequency not reported: Upper gastrointestinal bleedingOmeprazole:Common (1% to 10%): Diarrhea, abdominal pain, nausea, vomiting, constipation, flatulence, acid regurgitationPostmarketing reports: Pancreatitis/fatal pancreatitis, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis, abdominal swelling, gastric fundic gland polyps, Clostridium difficile associated diarrhea[Ref]
-Benign gastric fundic gland polyps occurred rarely and appeared to be reversible when omeprazole was discontinued.[Ref]
-Common (1% to 10%): Decubitus ulcer, rash not otherwise specified (NOS)Omeprazole:Common (1% to 10%): RashPostmarketing reports: Urticaria, severe generalized skin reactions, toxic epidermal necrolysis (TEN)/fatal TEN, Steven-Johnson syndrome, erythema multiforme/severe erythema multiforme, purpura and/or petechia with/without rechallenge, skin inflammation, urticaria, pruritus, photosensitivity, alopecia, dry skin, hyperhidrosis[Ref]
-Common (1% to 10%): Abnormal liver function tests not otherwise specified (NOS)Omeprazole:Postmarketing reports: Mild to marked elevation of liver function tests (ALT, AST, gamma-glutamyl transpeptidase, alkaline phosphatase), overt liver disease, hepatocellular/cholestatic/mixed hepatitis, liver necrosis/fatal liver necrosis, hepatic failure/fatal hepatic failure[Ref]
-Common (1% to 10%): AgitationOmeprazole:Postmarketing reports: Psychiatric disturbances, depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, apathy, anxiety, abnormal dreams[Ref]
-Common (1% to 10%): Urinary tract infection not otherwise specified (NOS)Omeprazole:Postmarketing reports: Urinary tract infection, microscopic pyuria, urinary frequency, proteinuria, hematuria, testicular pain[Ref]
-Omeprazole:Common (1% to 10%): Headache, dizzinessPostmarketing reports: Hepatic encephalopathy, tremors, somnolence, vertigo, paresthesia, hemifacial dysesthesia, taste perversionSodium Bicarbonate:Postmarketing reports: Seizures[Ref]
-Omeprazole:Common (1% to 10%): Back painPostmarketing reports: Muscle cramps, myalgia, muscle weakness, joint pain, bone fracture, leg pain[Ref]
-Omeprazole:Postmarketing reports: Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, anterior ischemic optic neuropathy, optic neuritis, double vision[Ref]
-Omeprazole:Postmarketing reports: Hypersensitivity reactions, anaphylaxis, anaphylactic shock, angioedema[Ref]
-Omeprazole:Postmarketing reports: Interstitial nephritis with/without positive rechallenge, elevated serum creatinine, glycosuria[Ref]
-Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term therapy.  This condition may be a manifestation of the underlying condition, which is known to cause tumors.[Ref]
-Omeprazole:Postmarketing reports: Gastroduodenal carcinoids[Ref]
-Omeprazole:Postmarketing reports: Gynecomastia[Ref]
-1. "Product Information. Zegerid (omeprazole-sodium bicarbonate)." Santarus Inc, San Diego, CA. 
+Very common (10% or more): Pyrexia (Up to 20.2%)Common (1% to 10%): Hyperpyrexia, candida infection not otherwise specified (NOS), sepsis NOSOmeprazole:Common (1% to 10%): AstheniaPostmarketing reports: Fever, pain, fatigue, malaise, tinnitus
+Very common (10% or more): Hypokalemia (Up to 12.4%), hyperglycemia not otherwise specified (NOS) (Up to 10.7%), hypomagnesemia (Up to 10.1%)Common (1% to 10%): Fluid overload, hyperkalemia, hypernatremia, hypocalcemia, hyponatremia, hypoglycemia NOS, hypophosphatemiaOmeprazole:Postmarketing reports: Anorexia, hyponatremia, hypoglycemia, hypomagnesemia, weight gainSodium Bicarbonate:Postmarketing reports: Metabolic acidosis, tetany
+Very common (10% or more): Nosocomial pneumonia (Up to 11.2%)Common (1% to 10%): Acute respiratory distress syndrome, respiratory failureUncommon (0.1% to 1%): Pneumothorax not otherwise specified (NOS)Omeprazole:Common (1% to 10%): Upper respiratory infection, coughPostmarketing reports: Bronchospasm, epistaxis, pharyngeal pain
+Very common (10% or more): Thrombocytopenia (Up to 10.1%)Common (1% to 10%): Anemia not otherwise specified (NOS), anemia NOS aggravatedOmeprazole:Postmarketing reports: Pancytopenia, agranulocytosis/fatal agranulocytosis, thrombocytopenia, neutropenia, leukopenia, anemia, leukocytosis, hemolytic anemia
+Common (1% to 10%): Atrial fibrillation, bradycardia not otherwise specified (NOS), supraventricular tachycardia, tachycardia NOS, ventricular tachycardia, edema NOS, hypertension NOS, hypotension NOSOmeprazole:Postmarketing reports: Chest pain/angina, tachycardia, bradycardia, palpitation, elevated blood pressure, peripheral edema
+Common (1% to 10%): Constipation, diarrhea not otherwise specified (NOS), gastric hypomobility, oral candidiasisFrequency not reported: Upper gastrointestinal bleedingOmeprazole:Common (1% to 10%): Diarrhea, abdominal pain, nausea, vomiting, constipation, flatulence, acid regurgitationPostmarketing reports: Pancreatitis/fatal pancreatitis, irritable colon, fecal discoloration, esophageal candidiasis, mucosal atrophy of the tongue, dry mouth, stomatitis, abdominal swelling, gastric fundic gland polyps, Clostridium difficile associated diarrhea
+Benign gastric fundic gland polyps occurred rarely and appeared to be reversible when omeprazole was discontinued.
+Common (1% to 10%): Decubitus ulcer, rash not otherwise specified (NOS)Omeprazole:Common (1% to 10%): RashPostmarketing reports: Urticaria, severe generalized skin reactions, toxic epidermal necrolysis (TEN)/fatal TEN, Steven-Johnson syndrome, erythema multiforme/severe erythema multiforme, purpura and/or petechia with/without rechallenge, skin inflammation, urticaria, pruritus, photosensitivity, alopecia, dry skin, hyperhidrosis
+Common (1% to 10%): Abnormal liver function tests not otherwise specified (NOS)Omeprazole:Postmarketing reports: Mild to marked elevation of liver function tests (ALT, AST, gamma-glutamyl transpeptidase, alkaline phosphatase), overt liver disease, hepatocellular/cholestatic/mixed hepatitis, liver necrosis/fatal liver necrosis, hepatic failure/fatal hepatic failure
+Common (1% to 10%): AgitationOmeprazole:Postmarketing reports: Psychiatric disturbances, depression, agitation, aggression, hallucinations, confusion, insomnia, nervousness, apathy, anxiety, abnormal dreams
+Common (1% to 10%): Urinary tract infection not otherwise specified (NOS)Omeprazole:Postmarketing reports: Urinary tract infection, microscopic pyuria, urinary frequency, proteinuria, hematuria, testicular pain
+Omeprazole:Common (1% to 10%): Headache, dizzinessPostmarketing reports: Hepatic encephalopathy, tremors, somnolence, vertigo, paresthesia, hemifacial dysesthesia, taste perversionSodium Bicarbonate:Postmarketing reports: Seizures
+Omeprazole:Common (1% to 10%): Back painPostmarketing reports: Muscle cramps, myalgia, muscle weakness, joint pain, bone fracture, leg pain
+Omeprazole:Postmarketing reports: Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, anterior ischemic optic neuropathy, optic neuritis, double vision
+Omeprazole:Postmarketing reports: Hypersensitivity reactions, anaphylaxis, anaphylactic shock, angioedema
+Omeprazole:Postmarketing reports: Interstitial nephritis with/without positive rechallenge, elevated serum creatinine, glycosuria
+Gastroduodenal carcinoids have been reported in patients with Zollinger-Ellison syndrome on long-term therapy.  This condition may be a manifestation of the underlying condition, which is known to cause tumors.
+Omeprazole:Postmarketing reports: Gastroduodenal carcinoids
+Omeprazole:Postmarketing reports: Gynecomastia
 It is possible that some side effects of Zegerid may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
@@ -73,8 +64,6 @@ troubled breathing
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abdominal or stomach cramps or pain
 bladder pain
 blue lips, fingernails, or skin
@@ -96,12 +85,8 @@ restlessness
 swelling
 swelling of the face, feet, lower legs, ankles, or hands
 weakness or heaviness of the legs
-
-
 Severe pain in the chest
 sudden onset of severe breathing difficulty
-
-
 Arm, back, or jaw pain
 blistering, peeling, or loosening of the skin
 bloating or swelling of the face, arms, hands, lower legs, or feet
@@ -137,13 +122,9 @@ unexplained bleeding or bruising
 unusual weight gain or loss
 weight gain
 yellow eyes or skin
-
-
 Feeling of warmth
 increased sweating
 redness of the face, neck, arms, and occasionally, upper chest
-
-
 Agitation
 anxiety
 cold sweats
@@ -163,8 +144,6 @@ shakiness
 slurred speech
 white patches in the mouth or throat or on the tongue
 white patches with diaper rash
-
-
 Abnormal dreams
 attack, assault, or force
 bad, unusual, or unpleasant (after) taste
@@ -196,4 +175,3 @@ swelling of the breasts or breast soreness in both females and males
 swelling or inflammation of the mouth
 trouble sleeping
 uncaring
-

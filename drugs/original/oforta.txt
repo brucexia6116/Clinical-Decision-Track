@@ -1,71 +1,31 @@
-Generic Name: fludarabine
-Applies to fludarabine: oral tablet
 Other dosage forms:
 As well as its needed effects, fludarabine (the active ingredient contained in Oforta) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking fludarabine, check with your doctor immediately:
 Some fludarabine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to fludarabine: intravenous powder for injection, intravenous solution, oral tablet
-In general, the most common dose-limiting toxicities have been myelosuppression (60%), fever and chills (11% to 60%, sometimes without infection), infection (33%, including serious opportunistic infections), and nausea and vomiting (36%).General side effects including pain (up to 19%), flu syndrome (up to 8%), and decreased weight (up to 6%) have been reported.[Ref]
-Hematologic toxicity has been reported to have occurred in the majority of patients.  It presents as either neutropenia, thrombocytopenia, anemia, or a combination.  Fifty-nine percent of patients develop an absolute neutrophil count of less than 500/mm3, 60% develop a hemoglobin concentration decrease by at least 2 g percent, and 55% develop a platelet count decrease by 50%.  Several instances of trilineage bone marrow hypoplasia or aplasia resulting in sometimes fatal pancytopenia have been reported.  Rarely, bone marrow fibrosis or clinically significant hemolytic anemia have been associated with the use of fludarabine (the active ingredient contained in Oforta)   A single case of pure red cell aplasia has been reported.[Ref]
-Myelosuppression may be severe, cumulative, and may affect multiple cell lines.[Ref]
-Instances of life-threatening and sometimes fatal autoimmune hemolytic anemia have been reported after one or more cycles of treatment in patients with or without a previous history of autoimmune hemolytic anemia or a positive Coombs test and who may or may not be in remission for their disease.  Steroids may be effective in controlling these hemolytic episodes.  The majority of affected patients developed a recurrence upon rechallenge.An increased incidence of infections with pathogens not commonly associated with chronic lymphocytic leukemia have been associated with the use of fludarabine (the active ingredient contained in Oforta)  especially when given with corticosteroids.  These have included Listeria, Pneumocystis carinii pneumonia, disseminated varicella-zoster, cytomegalovirus, and unusual fungal pathogens.  Fludarabine can significantly decrease the quantity of T-helper cells.[Ref]
-Immunologic side effects have been reported secondary to neutropenia which predisposes patients to infection.  Pneumonia has been reported in 16% to 22% of treated patients from major clinical trials.  Other, less common, infections include minor bacterial and/or fungal infections of the oropharynx, upper respiratory tract, urinary tract, and soft tissue, as well as herpes zoster infections.  The risk of sepsis or life-threatening infection appears greatest during the first three courses of chemotherapy with fludarabine in patients with extensive disease.[Ref]
-Gastrointestinal side effects including nausea, vomiting, and/or diarrhea have been reported in up to 36% of patients.  Anorexia, stomatitis, esophagitis, mucositis, constipation, taste disturbances, abdominal pain, and gastrointestinal bleeding have been reported in less than 30% of patients.[Ref]
-Central and peripheral nervous system toxicities have been reported, including weakness/fatigue (asthenia) (up to 31%), headache (up to 9%), hearing disturbances (6%), paresthesias (4%), confusion (1%), visual disturbances (3%), and coma (less than 1%).  In postmarketing experience, cases of progressive multifocal leukoencephalopathy have been reported.  Rare cases of disabling, severe, but reversible neurologic toxicity have been reported.[Ref]
-Most cases of progressive multifocal leukoencephalopathy had a fatal outcome.  Many of these cases were confounded by prior and/or concurrent chemotherapy.  The time to onset has ranged from a few weeks to approximately one year after initiating treatment.The early trials of fludarabine given at high doses in the treatment of acute leukemia (up to 125 mg/m2 per day for up to 7 days) revealed evidence of severe CNS toxicity.  Progressive optic neuritis, cortical blindness, seizures, and paralysis developed in some patients up to 2 months after therapy ended.  Use of lower doses for low-grade lymphoid malignancy has not generally been associated with these severe side effects.  However, progressive headaches, paresthesias, hemiparesis, and progressive and fatal neurologic dysfunction have rarely been associated with recommended doses.[Ref]
-Respiratory side effects have been reported including severe cases of pulmonary toxicity which resulted in adult respiratory distress syndrome, respiratory distress, pulmonary hemorrhage, pulmonary fibrosis, respiratory failure, and death.  Cough (10% to 44%), upper respiratory tract infection or pneumonia (up to 22%), dyspnea (1% to 22%), rhinitis (up to 11%), increased cough (up to 6%), bronchitis (up to 5%), and sinusitis (up to 5%) have also been reported.  Diffuse interstitial pneumonitis has been reported rarely.[Ref]
-Rare cases of diffuse alveolar damage have been associated with tumor lysis syndrome and the use of fludarabine.In a clinical investigation using fludarabine injection in combination with pentostatin for the treatment of refractory chronic lymphocytic leukemia in adults, there was an unacceptably high incidence of fatal pulmonary toxicity.[Ref]
-Cardiovascular side effects including peripheral edema (8%) and chest pain (up to 5%) have been reported.  A single case of pericardial effusion has been associated with the use of fludarabine (the active ingredient contained in Oforta) [Ref]
-Genitourinary side effects including dysuria, hematuria, or proteinuria have been reported in 1% to 4% of patients.  Rare cases of hemorrhagic cystitis have also been reported.[Ref]
-A single case of acute renal failure secondary to mesangiocapillary glomerulonephritis has been associated with the use of fludarabine (the active ingredient contained in Oforta) in a 60-year-old man who had refractory chronic lymphocytic leukemia (CLL).  This lesion has rarely been associated with CLL itself.[Ref]
-Renal side effects including hemolytic uremic syndrome and acute renal failure have rarely been associated with the use of fludarabine.[Ref]
-Hypersensitivity reactions--usually skin rashes-- to fludarabine (the active ingredient contained in Oforta) are relatively rare.  Corticosteroid-responsive acute interstitial pulmonary infiltrates have been reported.  Extremely rare cases of anaphylaxis have been reported.[Ref]
-TLS may result in serious metabolic problems, including hyperuricemia, hyperphosphatemia, hypocalcemia, metabolic acidosis, hyperkalemia, hematuria, urate crystalluria, renal failure, and even death.  (Allopurinol before and during therapy is recommended.)  The onset of this syndrome may be heralded by flank pain and hematuria.[Ref]
-Metabolic side effects including tumor lysis syndrome (TLS) has been reported to have occurred in approximately 1% of patients.  A single case of diffuse alveolar damage has been associated with TLS and the use of fludarabine.[Ref]
-Most dermatologic problems are related to allergic reactions to fludarabine (the active ingredient contained in Oforta) [Ref]
-Dermatologic side effects including increased sweating (up to 14%), diaphoresis (up to 8%), skin disorder (up to 6%), and rash (up to 5%) have been reported.  Alopecia has been reported only rarely.[Ref]
-Oncologic side effects have been reported in animal studies.  Fludarabine phosphate was clastogenic in vitro to Chinese hamster ovary cells (chromosome aberrations in the presence of metabolic activation and induce sister chromatid exchanges both with and without metabolic activation).  In addition, fludarabine (the active ingredient contained in Oforta) phosphate was clastogenic in vivo (mouse micronucleus assay).[Ref]
+In general, the most common dose-limiting toxicities have been myelosuppression (60%), fever and chills (11% to 60%, sometimes without infection), infection (33%, including serious opportunistic infections), and nausea and vomiting (36%).General side effects including pain (up to 19%), flu syndrome (up to 8%), and decreased weight (up to 6%) have been reported.
+Hematologic toxicity has been reported to have occurred in the majority of patients.  It presents as either neutropenia, thrombocytopenia, anemia, or a combination.  Fifty-nine percent of patients develop an absolute neutrophil count of less than 500/mm3, 60% develop a hemoglobin concentration decrease by at least 2 g percent, and 55% develop a platelet count decrease by 50%.  Several instances of trilineage bone marrow hypoplasia or aplasia resulting in sometimes fatal pancytopenia have been reported.  Rarely, bone marrow fibrosis or clinically significant hemolytic anemia have been associated with the use of fludarabine (the active ingredient contained in Oforta)   A single case of pure red cell aplasia has been reported.
+Myelosuppression may be severe, cumulative, and may affect multiple cell lines.
+Instances of life-threatening and sometimes fatal autoimmune hemolytic anemia have been reported after one or more cycles of treatment in patients with or without a previous history of autoimmune hemolytic anemia or a positive Coombs test and who may or may not be in remission for their disease.  Steroids may be effective in controlling these hemolytic episodes.  The majority of affected patients developed a recurrence upon rechallenge.An increased incidence of infections with pathogens not commonly associated with chronic lymphocytic leukemia have been associated with the use of fludarabine (the active ingredient contained in Oforta)  especially when given with corticosteroids.  These have included Listeria, Pneumocystis carinii pneumonia, disseminated varicella-zoster, cytomegalovirus, and unusual fungal pathogens.  Fludarabine can significantly decrease the quantity of T-helper cells.
+Immunologic side effects have been reported secondary to neutropenia which predisposes patients to infection.  Pneumonia has been reported in 16% to 22% of treated patients from major clinical trials.  Other, less common, infections include minor bacterial and/or fungal infections of the oropharynx, upper respiratory tract, urinary tract, and soft tissue, as well as herpes zoster infections.  The risk of sepsis or life-threatening infection appears greatest during the first three courses of chemotherapy with fludarabine in patients with extensive disease.
+Gastrointestinal side effects including nausea, vomiting, and/or diarrhea have been reported in up to 36% of patients.  Anorexia, stomatitis, esophagitis, mucositis, constipation, taste disturbances, abdominal pain, and gastrointestinal bleeding have been reported in less than 30% of patients.
+Central and peripheral nervous system toxicities have been reported, including weakness/fatigue (asthenia) (up to 31%), headache (up to 9%), hearing disturbances (6%), paresthesias (4%), confusion (1%), visual disturbances (3%), and coma (less than 1%).  In postmarketing experience, cases of progressive multifocal leukoencephalopathy have been reported.  Rare cases of disabling, severe, but reversible neurologic toxicity have been reported.
+Most cases of progressive multifocal leukoencephalopathy had a fatal outcome.  Many of these cases were confounded by prior and/or concurrent chemotherapy.  The time to onset has ranged from a few weeks to approximately one year after initiating treatment.The early trials of fludarabine given at high doses in the treatment of acute leukemia (up to 125 mg/m2 per day for up to 7 days) revealed evidence of severe CNS toxicity.  Progressive optic neuritis, cortical blindness, seizures, and paralysis developed in some patients up to 2 months after therapy ended.  Use of lower doses for low-grade lymphoid malignancy has not generally been associated with these severe side effects.  However, progressive headaches, paresthesias, hemiparesis, and progressive and fatal neurologic dysfunction have rarely been associated with recommended doses.
+Respiratory side effects have been reported including severe cases of pulmonary toxicity which resulted in adult respiratory distress syndrome, respiratory distress, pulmonary hemorrhage, pulmonary fibrosis, respiratory failure, and death.  Cough (10% to 44%), upper respiratory tract infection or pneumonia (up to 22%), dyspnea (1% to 22%), rhinitis (up to 11%), increased cough (up to 6%), bronchitis (up to 5%), and sinusitis (up to 5%) have also been reported.  Diffuse interstitial pneumonitis has been reported rarely.
+Rare cases of diffuse alveolar damage have been associated with tumor lysis syndrome and the use of fludarabine.In a clinical investigation using fludarabine injection in combination with pentostatin for the treatment of refractory chronic lymphocytic leukemia in adults, there was an unacceptably high incidence of fatal pulmonary toxicity.
+Cardiovascular side effects including peripheral edema (8%) and chest pain (up to 5%) have been reported.  A single case of pericardial effusion has been associated with the use of fludarabine (the active ingredient contained in Oforta) 
+Genitourinary side effects including dysuria, hematuria, or proteinuria have been reported in 1% to 4% of patients.  Rare cases of hemorrhagic cystitis have also been reported.
+A single case of acute renal failure secondary to mesangiocapillary glomerulonephritis has been associated with the use of fludarabine (the active ingredient contained in Oforta) in a 60-year-old man who had refractory chronic lymphocytic leukemia (CLL).  This lesion has rarely been associated with CLL itself.
+Renal side effects including hemolytic uremic syndrome and acute renal failure have rarely been associated with the use of fludarabine.
+Hypersensitivity reactions--usually skin rashes-- to fludarabine (the active ingredient contained in Oforta) are relatively rare.  Corticosteroid-responsive acute interstitial pulmonary infiltrates have been reported.  Extremely rare cases of anaphylaxis have been reported.
+TLS may result in serious metabolic problems, including hyperuricemia, hyperphosphatemia, hypocalcemia, metabolic acidosis, hyperkalemia, hematuria, urate crystalluria, renal failure, and even death.  (Allopurinol before and during therapy is recommended.)  The onset of this syndrome may be heralded by flank pain and hematuria.
+Metabolic side effects including tumor lysis syndrome (TLS) has been reported to have occurred in approximately 1% of patients.  A single case of diffuse alveolar damage has been associated with TLS and the use of fludarabine.
+Most dermatologic problems are related to allergic reactions to fludarabine (the active ingredient contained in Oforta) 
+Dermatologic side effects including increased sweating (up to 14%), diaphoresis (up to 8%), skin disorder (up to 6%), and rash (up to 5%) have been reported.  Alopecia has been reported only rarely.
+Oncologic side effects have been reported in animal studies.  Fludarabine phosphate was clastogenic in vitro to Chinese hamster ovary cells (chromosome aberrations in the presence of metabolic activation and induce sister chromatid exchanges both with and without metabolic activation).  In addition, fludarabine (the active ingredient contained in Oforta) phosphate was clastogenic in vivo (mouse micronucleus assay).
 Hepatic side effects including increased lactic dehydrogenase (up to 6%) have been reported.
 Musculoskeletal side effects including back pain (up to 9%) have been reported.
-1. Ross SR, McTavish D, Faulds D "Fludarabine. A review of its pharmacological properties and therapeutic potential in malignancy." Drugs 45 (1993): 737-59
-2. Keating MJ, Estey E, O'Brien S, Kantarjian H, Robertson LE, Plunkett W "Clinical experience with fludarabine in leukaemia." Drugs 47 Suppl 6 (1994): 39-49
-3. Feldman EJ, Keating MJ "Fludarabine in the treatment of lymphoproliferative malignancies." Cancer Invest 11 (1993): 314-8
-4. "Product Information. Fludara (fludarabine)." Berlex, Richmond, CA. 
-5. Kavanagh JJ, Krakoff IH, Bodey GP "Phase I study of fludarabine (2-fluoro-ara-AMP)." Eur J Cancer Clin Oncol 21 (1985): 1009-11
-6. Maclean R, Meiklejohn D, Soutar R "Fludarabine-related autoimmune haemolytic anaemia in patients with chronic lymphocytic leukaemia." Br J Haematol 92 (1996): 768-9
-7. Sanders C, Perez EA, Lawrence HJ "Opportunistic infections in patients with chronic lymphocytic leukemia following treatment with fludarabine." Am J Hematol 39 (1992): 314-5
-8. Schilling PJ, Vadhan-Raj S "Concurrent cytomegalovirus and pneumocystis pneumonia after fludarabine therapy for chronic lymphocytic leukemia." N Engl J Med 323 (1990): 833-4
-9. Hocepied AMLJ, Falkson CI, Falkson G "A phase II trial of fludarabine in patients with previously treated chronic lymphocytic leukaemia." S Afr Med J 86 (1996): 549-50
-10. Cohn J, Fraifeld M, Desai A, Zaeri N "Hemolytic uremic syndrome (HUS) and severe pulmonary toxicity associated with fludarabine treatment for non-Hodgkin's lymphoma (NHL) (Meeting abstract)." Proc Annu Meet Am Soc Clin Oncol 13 (1994): a13161994
-11. Woodcock BE "Cytopenia and fludarabine." Lancet 342 (1993): 1049
-12. Leenders A, Sonneveld P, de Marie S "Cryptococcal meningitis following fludarabine treatment for chronic lymphocytic leukemia." Eur J Clin Microbiol Infect Dis 14 (1995): 826-8
-13. Bastion Y, Coiffier B, Tigaud JD, Espinouse D, Bryon PA "Pneumocystis pneumonia in a patient treated with fludarabine for chronic lymphocytic leukemia." Eur J Cancer 27 (1991): 671
-14. Zinzani PL, Tabanelli M, Bendandi M, Tura S "Prolonged bone marrow aplasia of refractory prolymphocytoid variant of B-cell chronic lymphocytic leukemia related to fludarabine treatment." Eur J Haematol 53 (1994): 56-8
-15. Girmenia C, Mauro FR, Rahimi S "Late listeriosis after fludarabine plus prednisone treatment." Br J Haematol 87 (1994): 407-8
-16. Leporrier M, Reman O, Troussard X "Pure red-cell aplasia with fludarabine for chronic lymphocytic leukaemia." Lancet 342 (1993): 555
-17. Chim CS, Liang R, Wong SSY, Yuen KY "Cryptococcal infection associated with fludarabine therapy." Am J Med 108 (2000): 523-4
-18. Anaissie EJ, Kontoyiannis DP, O'Brien S, et al. "Infections in patients with chronic lymphocytic leukemia treated with fludarabine." Ann Intern Med 129 (1998): 559-66
-19. Zabernigg A, Maier H, Thaler J, Gattringer C "Late-onset fatal neurological toxicity of fludarabine." Lancet 344 (1994): 1780
-20. Merkel DE, Griffin NL, Kagan-Hallet K, Von Hoff DD "Central nervous system toxicity with fludarabine." Cancer Treat Rep 70 (1986): 1449-50
-21. Johnson PW, Fearnley J, Domizio P, Goldin J, Nagendran K, Gawler J, Rohatiner AZ, Lister TA "Neurological illness following treatment with fludarabine." Br J Cancer 70 (1994): 966-8
-22. Cohen RB, Abdallah JM, Gray JR, Foss F "Reversible neurologic toxicity in patients treated with standard-dose fludarabine phosphate for mycosis fungoides and chronic lymphocytic leukemia." Ann Intern Med 118 (1993): 114-6
-23. Crowley JJ, Knight L, Charan N "Lysis pneumonopathy associated with the use of fludarabine phosphate." West J Med 161 (1994): 597-9
-24. Cervantes F, Salgado C, Montserrat E, Rozman C "Fludarabine for prolymphocytic leukaemia and risk of interstitial pneumonitis." Lancet 336 (1990): 1130
-25. Kane GC, McMichael AJ, Patrick H, Erslev AJ "Pulmonary toxicity and acute respiratory failure associated with fludarabine monophosphate." Respir Med 86 (1992): 261-3
-26. "Multum Information Services, Inc. Expert Review Panel"  
-27. Hurst PG, Habib MP, Garewal H, Bluestein M, Paquin M, Greenberg BR "Pulmonary toxicity associated with fludarabine monophosphate." Invest New Drugs 5 (1987): 207-10
-28. Nunes R,  Passos-Coelho JL,  Miranda N,  Nave M,  Leal Da Costa F,  Abecasis M "Reversible acute renal failure following single administration of fludarabine." Bone Marrow Transplant  (2004):
-29. Montillo M, Tedeschi A, Leoni P "Acute renal failure as a consequence of urine stop flow in a patient with chronic lymphocytic leukemia after treatment with fludarabine." Am J Hematol 50 (1995): 73-4
-30. Macheta MP, Parapia LA, Gouldesbrough DR "Renal failure in a patient with chronic lymphocytic leukaemia treated with fludarabine." J Clin Pathol 48 (1995): 181-2
-31. List AF, Kummet TD, Adams JD, Chun HG "Tumor lysis syndrome complicating treatment of chronic lymphocytic leukemia with fludarabine phosphate." Am J Med 89 (1990): 388-90
-32. Nakhoul F, Green J, Abassi ZA, Carter A "Tumor lysis syndrome induced by fludarabine monophosphate: a case report." Eur J Haematol 56 (1996): 254-5
-33. Montalban C, Liano F, Aguilera A "Tumour lysis syndrome after treatment of chronic lymphocytic leukaemia with fludarabine." Postgrad Med J 70 (1994): 651-2
-34. Frame JN, Dahut WL, Crowley S "Fludarabine and acute tumor lysis in chronic lymphocytic leukemia." N Engl J Med 327 (1992): 1396-7
 It is possible that some side effects of Oforta may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 intravenous powder for solution, intravenous solution
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 body aches or pain
 burning or stinging of the skin
@@ -104,15 +64,11 @@ unusual tiredness or weakness
 unusual weight gain or loss
 vomiting
 wheezing
-
-
 Bladder pain
 bloody or cloudy urine
 difficult, burning, or painful urination
 frequent urge to urinate
 pain or tenderness around the eyes and cheekbones
-
-
 Back pain
 bloody, black, or tarry stools
 blue lips, fingernails, or skin
@@ -130,12 +86,7 @@ sores, ulcers, or white spots on the lips or in the mouth
 swollen glands
 unexplained bleeding or bruising
 unusual bleeding or bruising
-
-
 Abdominal pain
 increased sweating
 weight loss
-
-
 Rash
-

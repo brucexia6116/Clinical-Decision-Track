@@ -1,38 +1,26 @@
 Commonly reported side effects of lurasidone include: psychomotor retardation, akathisia, basal ganglia disease, bradykinesia, cogwheel rigidity, drowsiness, hypokinesia, muscle rigidity, nausea, parkinson's disease, sedation, tremor, altered serum glucose, and drooling. Other side effects include: oculogyric crisis, trismus, agitation, anxiety, dystonia, torticollis, increased serum prolactin, and weight gain.  See below for a comprehensive list of adverse effects.
-Applies to lurasidone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by lurasidone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking lurasidone:
-Some of the side effects that can occur with lurasidone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to lurasidone: oral tablet
-The most commonly reported adverse events included somnolence, akathisia, extrapyramidal symptoms, and nausea.[Ref]
-Common (1% to 10%): Increase weight, increased appetite, decreased appetiteFrequency not reported: Increase in blood sugar levels[Ref]
-In uncontrolled, long-term schizophrenia trials, this drug was associated with a mean increase in glucose from baseline of 1.8 mg/dL at 24 weeks, 0.8 mg/dL at 36 weeks, and 2.3 mg/dL at 52 weeks.  Similar results were observed in bipolar depression studies.  The proportion of lurasidone-treated patients with a 7% or greater increase in body weight was 4.8% (compared with 3.3% for placebo).  Pooled data from short-term trials showed a mean weight gain of 0.43 kg in lurasidone-treated patients (compared with -0.2 kg in placebo).[Ref]
-Very common (10% or more): Nausea (up to 17%)Common (1% to 10%): Vomiting, dyspepsia, salivary hypersecretion, dry mouth, diarrheaUncommon (0.1% to 1%): Abdominal pain, diarrheaRare (less than 0.1%): GastritisFrequency not reported: Dysphagia[Ref]
-Very common (10% or more): Somnolence (up to 26%), akathisia (up to 22%), extrapyramidal disorder (up to 22%)Common (1% to 10%): Dizziness, dystoniaUncommon (0.1% to 1%): Cerebrovascular accident, dysarthria, seizuresFrequency not reported: Neuroleptic malignant syndrome, gait disturbance[Ref]
-Akathisia and extrapyramidal symptoms were dose-related.[Ref]
-Very common (10% or more): Insomnia (11%)Common (1% to 10%): Agitation, anxiety, restlessnessUncommon (0.1% to 1%): Abnormal dreams, panic attack, sleep disorder, suicidal ideation, activation of mania/hypomania, catatoniaFrequency not reported: Panic attack, sleep disorder[Ref]
-Uncommon (0.1% to 1%): AnemiaRare (less than 0.1%): EosinophiliaFrequency not reported: Leukopenia, neutropenia[Ref]
-Common (1% to 10%): Tachycardia, hypertensionUncommon (0.1% to 1%): AV block 1st degree, angina pectoris, bradycardia, orthostatic hypotension, hypotensionRare (less than 0.1%): SyncopeFrequency not reported: Bradycardia[Ref]
-In short-term trials, orthostatic hypotension and syncope were reported in 0.3% and 0.1% (n=1508) of patients in schizophrenia studies.  There were no reports in the bipolar depression monotherapy trials.  ECG measurements taken at various points during clinical trials found no QT prolongations exceeding 500 milliseconds (ms) including a subset of patients defined as having an increased cardiac risk.  In a dedicated QT study in clinically stable patients with schizophrenia or schizoaffective disorder (n=87), the maximum mean increase in QTc was 0.36 ms and 1.69 ms for a 120 mg and 600 mg dose, respectively.  No patient experienced a QTc increase of greater than 60 ms from baseline and no patient experienced a QTc greater than 500 ms.[Ref]
-Common (1% to 10%): Back pain, increased creatinine phosphokinaseUncommon (0.1% to 1%): Joint stiffness, myalgia, neck painRare (less than 0.1%): Rhabdomyolysis[Ref]
-Common (1% to 10%): Rash, pruritusUncommon (0.1% to 1%): HyperhidrosisRare (less than 0.1%): Angioedema[Ref]
-Common (1% to 10%): Urinary tract infectionUncommon (0.1% to 1%): Dysuria, amenorrhea, dysmenorrheaRare (less than 0.1%): Erectile dysfunction[Ref]
-Common (1% to 10%): Elevated serum creatinineRare (less than 0.1%): Renal failure[Ref]
-In schizophrenia studies, the proportion of patients with prolactin elevations 5 times the upper limit of normal (5 x ULN) or greater was 2.8% compared with 1% in placebo.  The proportion of female patients and male patients with elevations of 5 x ULN or greater was 5.7% and 1.6%, respectively.[Ref]
-Common (1% to 10%): Elevated prolactin levelsRare (less than 0.1%): Breast enlargement, breast pain, galactorrhea[Ref]
-Uncommon (0.1% to 1%): Alanine aminotransferase increased[Ref]
-Postmarketing reports: Hypersensitivity[Ref]
-Common (1% to 10%): Influenza[Ref]
-Common (1% to 10%): Blurred vision[Ref]
-Common (1% to 10%): FatigueUncommon (0.1% to 1%): VertigoRare (less than 0.1%): Sudden deathFrequency not reported: Drug withdrawal syndrome neonatal[Ref]
-Common (1% to 10%): Nasopharyngitis[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Latuda (lurasidone)." Sunovion Pharmaceuticals Inc, Marlborough, MA. 
-Not all side effects for lurasidone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported adverse events included somnolence, akathisia, extrapyramidal symptoms, and nausea.
+Common (1% to 10%): Increase weight, increased appetite, decreased appetiteFrequency not reported: Increase in blood sugar levels
+In uncontrolled, long-term schizophrenia trials, this drug was associated with a mean increase in glucose from baseline of 1.8 mg/dL at 24 weeks, 0.8 mg/dL at 36 weeks, and 2.3 mg/dL at 52 weeks.  Similar results were observed in bipolar depression studies.  The proportion of lurasidone-treated patients with a 7% or greater increase in body weight was 4.8% (compared with 3.3% for placebo).  Pooled data from short-term trials showed a mean weight gain of 0.43 kg in lurasidone-treated patients (compared with -0.2 kg in placebo).
+Very common (10% or more): Nausea (up to 17%)Common (1% to 10%): Vomiting, dyspepsia, salivary hypersecretion, dry mouth, diarrheaUncommon (0.1% to 1%): Abdominal pain, diarrheaRare (less than 0.1%): GastritisFrequency not reported: Dysphagia
+Very common (10% or more): Somnolence (up to 26%), akathisia (up to 22%), extrapyramidal disorder (up to 22%)Common (1% to 10%): Dizziness, dystoniaUncommon (0.1% to 1%): Cerebrovascular accident, dysarthria, seizuresFrequency not reported: Neuroleptic malignant syndrome, gait disturbance
+Akathisia and extrapyramidal symptoms were dose-related.
+Very common (10% or more): Insomnia (11%)Common (1% to 10%): Agitation, anxiety, restlessnessUncommon (0.1% to 1%): Abnormal dreams, panic attack, sleep disorder, suicidal ideation, activation of mania/hypomania, catatoniaFrequency not reported: Panic attack, sleep disorder
+Uncommon (0.1% to 1%): AnemiaRare (less than 0.1%): EosinophiliaFrequency not reported: Leukopenia, neutropenia
+Common (1% to 10%): Tachycardia, hypertensionUncommon (0.1% to 1%): AV block 1st degree, angina pectoris, bradycardia, orthostatic hypotension, hypotensionRare (less than 0.1%): SyncopeFrequency not reported: Bradycardia
+In short-term trials, orthostatic hypotension and syncope were reported in 0.3% and 0.1% (n=1508) of patients in schizophrenia studies.  There were no reports in the bipolar depression monotherapy trials.  ECG measurements taken at various points during clinical trials found no QT prolongations exceeding 500 milliseconds (ms) including a subset of patients defined as having an increased cardiac risk.  In a dedicated QT study in clinically stable patients with schizophrenia or schizoaffective disorder (n=87), the maximum mean increase in QTc was 0.36 ms and 1.69 ms for a 120 mg and 600 mg dose, respectively.  No patient experienced a QTc increase of greater than 60 ms from baseline and no patient experienced a QTc greater than 500 ms.
+Common (1% to 10%): Back pain, increased creatinine phosphokinaseUncommon (0.1% to 1%): Joint stiffness, myalgia, neck painRare (less than 0.1%): Rhabdomyolysis
+Common (1% to 10%): Rash, pruritusUncommon (0.1% to 1%): HyperhidrosisRare (less than 0.1%): Angioedema
+Common (1% to 10%): Urinary tract infectionUncommon (0.1% to 1%): Dysuria, amenorrhea, dysmenorrheaRare (less than 0.1%): Erectile dysfunction
+Common (1% to 10%): Elevated serum creatinineRare (less than 0.1%): Renal failure
+In schizophrenia studies, the proportion of patients with prolactin elevations 5 times the upper limit of normal (5 x ULN) or greater was 2.8% compared with 1% in placebo.  The proportion of female patients and male patients with elevations of 5 x ULN or greater was 5.7% and 1.6%, respectively.
+Common (1% to 10%): Elevated prolactin levelsRare (less than 0.1%): Breast enlargement, breast pain, galactorrhea
+Uncommon (0.1% to 1%): Alanine aminotransferase increased
+Postmarketing reports: Hypersensitivity
+Common (1% to 10%): Influenza
+Common (1% to 10%): Blurred vision
+Common (1% to 10%): FatigueUncommon (0.1% to 1%): VertigoRare (less than 0.1%): Sudden deathFrequency not reported: Drug withdrawal syndrome neonatal
+Common (1% to 10%): Nasopharyngitis
 Absence of or decrease in body movement
 difficulty with swallowing
 drooling
@@ -55,8 +43,6 @@ tic-like (jerky) movements of the head, face, mouth, and neck
 trembling or shaking of the hands or feet
 twisting movements of the body
 uncontrolled movements, especially of the face, neck, and back
-
-
 Arm, back, or jaw pain
 blurred vision
 burning while urinating
@@ -103,8 +89,6 @@ unusual facial expressions
 unusual tiredness or weakness
 unusually pale skin
 weakness in the arm or leg on one side of the body, sudden and severe
-
-
 Black, tarry stools
 bloody urine
 breast pain or swelling
@@ -126,8 +110,6 @@ swollen glands
 troubled breathing
 vomiting
 weight gain 
-
-
 Acid or sour stomach
 anxiety
 belching
@@ -145,8 +127,6 @@ trouble sleeping
 unable to sleep
 unusually deep sleep
 unusually long duration of sleep
-
-
 Abnormal dreams
 anxiety
 back pain
@@ -162,10 +142,7 @@ skin rash
 sweating
 tenderness in the stomach area
 watering of mouth and drooling
-
-
 Decreased interest in sexual intercourse
 inability to have or keep an erection
 loss in sexual ability, desire, drive, or performance
 unexpected or excess milk flow from the breasts
-

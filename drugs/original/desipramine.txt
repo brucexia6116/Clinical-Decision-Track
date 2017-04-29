@@ -1,27 +1,17 @@
-Applies to desipramine: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by desipramine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking desipramine:
-Some of the side effects that can occur with desipramine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to desipramine: compounding powder, oral tablet
-The most commonly reported side effects were tremor, dizziness, headache, dry mouth, constipation, and nausea.[Ref]
-Frequency not reported: Confusional states (especially in the elderly) with hallucinations, disorientation, delusions, anxiety, restlessness, agitation, insomnia, nightmares, hypomania, exacerbation of psychosis, increased or decreased libido, suicidal behaviors[Ref]
-Frequency not reported: Numbness, tingling, paresthesias of extremities, incoordination, ataxia, tremors, peripheral neuropathy, extrapyramidal symptoms, seizures, alterations in EEG patterns, tinnitus, stroke, symptoms attributed to Neuroleptic Malignant Syndrome, drowsiness, dizziness, proneness to falling, headache, serotonin syndrome[Ref]
-Frequency not reported: Hypotension, hypertension, palpitations, heart block, myocardial infarction, arrhythmias, premature ventricular contractions, tachycardia, ventricular tachycardia, ventricular fibrillation, sudden death, flushing[Ref]
-Frequency not reported: Gynecomastia in the male, breast enlargement and galactorrhea in the female, elevation or depression of blood sugar levels, syndrome of inappropriate antidiuretic hormone secretion (SIADH)[Ref]
-Frequency not reported: Urinary retention, delayed micturition, dilation of urinary tract, impotence, painful ejaculation, testicular swelling, urinary frequency, nocturia[Ref]
-Frequency not reported: Blurred vision, disturbance of accommodation, mydriasis, increased intraocular pressure[Ref]
-Frequency not reported: Hepatitis, jaundice (simulating obstructive), altered liver function, elevated liver function tests[Ref]
-Frequency not reported: Bone marrow depressions including agranulocytosis, eosinophilia, purpura, thrombocytopenia, petechia[Ref]
-Frequency not reported: Edema, drug fever, weakness, fatigue, fever, elevated alkaline phosphatase, malaise[Ref]
-Frequency not reported: Dry mouth (rarely associated with sublingual adenitis), constipation, paralytic ileus, nausea, vomiting, epigastric distress, peculiar taste, abdominal cramps, diarrhea, stomatitis, black tongue, increased pancreatic enzymes, parotid swelling[Ref]
-Frequency not reported: Cross-sensitivity with other tricyclic drugs[Ref]
-Frequency not reported: Skin rash, urticaria, itching, photosensitization, perspiration, alopecia[Ref]
-Frequency not reported: Weight gain or loss, anorexia[Ref]
-1. "Product Information. Norpramin (desipramine)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-Not all side effects for desipramine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects were tremor, dizziness, headache, dry mouth, constipation, and nausea.
+Frequency not reported: Confusional states (especially in the elderly) with hallucinations, disorientation, delusions, anxiety, restlessness, agitation, insomnia, nightmares, hypomania, exacerbation of psychosis, increased or decreased libido, suicidal behaviors
+Frequency not reported: Numbness, tingling, paresthesias of extremities, incoordination, ataxia, tremors, peripheral neuropathy, extrapyramidal symptoms, seizures, alterations in EEG patterns, tinnitus, stroke, symptoms attributed to Neuroleptic Malignant Syndrome, drowsiness, dizziness, proneness to falling, headache, serotonin syndrome
+Frequency not reported: Hypotension, hypertension, palpitations, heart block, myocardial infarction, arrhythmias, premature ventricular contractions, tachycardia, ventricular tachycardia, ventricular fibrillation, sudden death, flushing
+Frequency not reported: Gynecomastia in the male, breast enlargement and galactorrhea in the female, elevation or depression of blood sugar levels, syndrome of inappropriate antidiuretic hormone secretion (SIADH)
+Frequency not reported: Urinary retention, delayed micturition, dilation of urinary tract, impotence, painful ejaculation, testicular swelling, urinary frequency, nocturia
+Frequency not reported: Blurred vision, disturbance of accommodation, mydriasis, increased intraocular pressure
+Frequency not reported: Hepatitis, jaundice (simulating obstructive), altered liver function, elevated liver function tests
+Frequency not reported: Bone marrow depressions including agranulocytosis, eosinophilia, purpura, thrombocytopenia, petechia
+Frequency not reported: Edema, drug fever, weakness, fatigue, fever, elevated alkaline phosphatase, malaise
+Frequency not reported: Dry mouth (rarely associated with sublingual adenitis), constipation, paralytic ileus, nausea, vomiting, epigastric distress, peculiar taste, abdominal cramps, diarrhea, stomatitis, black tongue, increased pancreatic enzymes, parotid swelling
+Frequency not reported: Cross-sensitivity with other tricyclic drugs
+Frequency not reported: Skin rash, urticaria, itching, photosensitization, perspiration, alopecia
+Frequency not reported: Weight gain or loss, anorexia
 Abdominal or stomach pain
 anxiety
 black, tarry stools
@@ -70,8 +60,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting
 yellow eyes and skin
-
-
 Abdominal or stomach cramps
 bigger, dilated, or enlarged pupils (black part of the eye)
 bloating
@@ -91,4 +79,3 @@ painful urination
 swelling of the breasts or breast soreness in both females and males
 swelling or inflammation of the mouth
 unexpected or excess milk flow from breasts in females
-

@@ -1,4 +1,3 @@
-Applies to streptozocin: intravenous powder for solution
 Along with their needed effects, medicines like streptozocin can sometimes cause unwanted effects such as kidney problems and other side effects. These and others are described below. Also, because of the way these medicines act on the body, there is a chance that they might cause other unwanted effects that may not occur until months or years after the medicine is used. These delayed effects may include certain types of cancer, such as leukemia. Streptozocin has been shown to cause tumors (some cancerous) in animals. Discuss these possible effects with your doctor.
 Although not all of these side effects may occur, if they do occur they may need medical attention.
 If any of the following side effects occur while taking streptozocin, check with your doctor immediately:
@@ -6,19 +5,14 @@ If any of the following side effects occur while taking streptozocin, check with
 If any of the following side effects occur while taking streptozocin, check with your doctor or nurse as soon as possible:
 Some streptozocin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention. If you notice any of the following side effects check with your doctor immediately:
-
-
-Applies to streptozocin: intravenous powder for injection
-Frequency not reported: Renal toxicity (azotemia, anuria, hypophosphatemia, glycosuria, renal tubular acidosis), nephrogenic diabetes insipidus[Ref]
-Frequency not reported: Hepatic toxicity (elevated SGOT and LDH levels, hypoalbuminemia)[Ref]
-Frequency not reported: Nausea, vomiting, diarrhea[Ref]
-Rare (less than 0.1%): Hematologic toxicity (decreased hematocrit values, reduced leukocyte and platelet count)[Ref]
-Frequency not reported: Glucose tolerance abnormalities, insulin shock, hypoglycemia[Ref]
-Postmarketing reports: Local inflammation[Ref]
-Frequency not reported: Confusion, lethargy, depression[Ref]
-1. "Product Information. Zanosar (streptozocin)." Pharmacia and Upjohn, Kalamazoo, MI. 
+Frequency not reported: Renal toxicity (azotemia, anuria, hypophosphatemia, glycosuria, renal tubular acidosis), nephrogenic diabetes insipidus
+Frequency not reported: Hepatic toxicity (elevated SGOT and LDH levels, hypoalbuminemia)
+Frequency not reported: Nausea, vomiting, diarrhea
+Rare (less than 0.1%): Hematologic toxicity (decreased hematocrit values, reduced leukocyte and platelet count)
+Frequency not reported: Glucose tolerance abnormalities, insulin shock, hypoglycemia
+Postmarketing reports: Local inflammation
+Frequency not reported: Confusion, lethargy, depression
 It is possible that some side effects of streptozocin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Anxiety, nervousness, or shakiness
  chills, cold sweats, or cool, pale skin
 drowsiness or unusual tiredness or weakness
@@ -26,8 +20,6 @@ fast pulse
 headache
 pain or redness at place of injection
 unusual hunger
-
-
 Black, tarry stools
 blood in urine or stools
 cough or hoarseness
@@ -36,18 +28,9 @@ lower back or side pain
 painful or difficult urination
 pinpoint red spots on skin
 unusual bleeding or bruising
-
-
 Swelling of feet or lower legs
 unusual decrease in urination
-
-
 Nausea and vomiting (usually occurs within 2 to 4 hours after receiving dose and may be severe)
-
-
 Diarrhea
-
-
 Decrease in urination
 swelling of feet or lower legs
-

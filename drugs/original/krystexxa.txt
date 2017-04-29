@@ -1,30 +1,19 @@
-Generic Name: pegloticase
 Common side effects of Krystexxa include: infusion related reaction, nausea, urticaria, bruise, and ecchymoses. Other side effects include: anaphylaxis, chest pain, nasopharyngitis, and vomiting.  See below for a comprehensive list of adverse effects.
-Applies to pegloticase: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by pegloticase (the active ingredient contained in Krystexxa). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking pegloticase, check with your doctor or nurse immediately:
-Some of the side effects that can occur with pegloticase may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to pegloticase: intravenous solution
 The most commonly reported adverse reactions included gout flares, infusion reactions, nausea, contusion or ecchymosis, nasopharyngitis, constipation, chest pain, anaphylaxis, and vomiting.
 Common (1% to 10%): Anaphylaxis
 The diagnostic criteria for anaphylaxis included skin or mucosal tissue involvement, and either airway compromise, and/or reduced blood pressure with or without associated symptoms, and a temporal relationship with the injection as well as no other identifiable cause.  In clinical trials, 6.5% (n=8) patients receiving this drug every 2-weeks and 4.8% (n=6) of patients receiving this drug every 4 weeks experienced anaphylaxis.  All patients had been pretreated with oral antihistamine, IV corticosteroid, and/or acetaminophen.  There were no instances in placebo patients.
-Infusion reactions occurred in 26% of patients receiving this drug every 2-weeks and 41% of patients receiving this drug every 4 weeks.  Manifestations have included urticaria, dyspnea, chest discomfort, chest pain, erythema, and pruritus.  These symptoms overlap with those that constitute anaphylaxis, but in the individual patient did not satisfy the clinical criteria for anaphylaxis.  Infusion reactions are thought to result from the release of various mediators, such as cytokines.  They may occur at any time during the course of treatment with approximately 3% occurring with the first infusion and 91% occurring during the time of infusion.  Some infusion reactions improved with the slowing of the infusion rate.[Ref]
-Very common (10% or more): Infusion reactions (up to 26%)[Ref]
-Very common (10% or more): Anti-pegloticase (the active ingredient contained in Krystexxa) antibodies (up to 92%)[Ref]
-An increase in gout flares is frequently observed upon initiation of anti-hyperuricemic therapy due to changing serum uric acid levels resulting from mobilization of urate from tissue deposits.  During clinical trials, the frequency of gout flares was 74%, 81%, and 51% for patients receiving 8 mg every 2 weeks, 8 mg every 4 weeks, and placebo, respectively.  In the subsequent 3 months, the frequencies were 41%, 57%, and 67%, respectively.  Patients were receiving gout flare prophylaxis with colchicine and/or a NSAID.[Ref]
-Very common (10% or more): Gout flares (77%)[Ref]
-Common (1% to 10%): Chest painFrequency not reported: Congestive heart failure exacerbation[Ref]
-During clinical trials, 2 cases of congestive heart failure (CHF) exacerbation were reported among patients receiving 8 mg every 2 weeks.  During the open-label extension study while patients continued to receive 8 mg every 2 weeks, 4 patients reported CHF exacerbation.[Ref]
-Very common (10% or more): Nausea (12%)Common (1% to 10%): Constipation, vomiting[Ref]
-Common (1% to 10%): Nasopharyngitis[Ref]
-Contusions were generally not reported on the day of infusion; most were thought to be related to other factors such as concomitant medications relevant to contusion or ecchymosis, type 1 diabetes mellitus.[Ref]
-Very common (10% or more): Contusion or ecchymosis (11%)[Ref]
-1. "Product Information. Krystexxa (pegloticase)." Savient Pharmaceuticals, East Brunswick, NJ. 
-Not all side effects for Krystexxa may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Infusion reactions occurred in 26% of patients receiving this drug every 2-weeks and 41% of patients receiving this drug every 4 weeks.  Manifestations have included urticaria, dyspnea, chest discomfort, chest pain, erythema, and pruritus.  These symptoms overlap with those that constitute anaphylaxis, but in the individual patient did not satisfy the clinical criteria for anaphylaxis.  Infusion reactions are thought to result from the release of various mediators, such as cytokines.  They may occur at any time during the course of treatment with approximately 3% occurring with the first infusion and 91% occurring during the time of infusion.  Some infusion reactions improved with the slowing of the infusion rate.
+Very common (10% or more): Infusion reactions (up to 26%)
+Very common (10% or more): Anti-pegloticase (the active ingredient contained in Krystexxa) antibodies (up to 92%)
+An increase in gout flares is frequently observed upon initiation of anti-hyperuricemic therapy due to changing serum uric acid levels resulting from mobilization of urate from tissue deposits.  During clinical trials, the frequency of gout flares was 74%, 81%, and 51% for patients receiving 8 mg every 2 weeks, 8 mg every 4 weeks, and placebo, respectively.  In the subsequent 3 months, the frequencies were 41%, 57%, and 67%, respectively.  Patients were receiving gout flare prophylaxis with colchicine and/or a NSAID.
+Very common (10% or more): Gout flares (77%)
+Common (1% to 10%): Chest painFrequency not reported: Congestive heart failure exacerbation
+During clinical trials, 2 cases of congestive heart failure (CHF) exacerbation were reported among patients receiving 8 mg every 2 weeks.  During the open-label extension study while patients continued to receive 8 mg every 2 weeks, 4 patients reported CHF exacerbation.
+Very common (10% or more): Nausea (12%)Common (1% to 10%): Constipation, vomiting
+Common (1% to 10%): Nasopharyngitis
+Contusions were generally not reported on the day of infusion; most were thought to be related to other factors such as concomitant medications relevant to contusion or ecchymosis, type 1 diabetes mellitus.
+Very common (10% or more): Contusion or ecchymosis (11%)
 Chest pain or discomfort
 cough
 difficult or labored breathing
@@ -43,8 +32,6 @@ redness of the skin
 tightness in the chest
 unusual tiredness or weakness
 unusually warm skin
-
-
 Decreased urine output
 dilated neck veins
 extreme fatigue
@@ -52,8 +39,6 @@ irregular breathing
 irregular heartbeat
 swelling of the face, fingers, feet, or lower legs
 weight gain
-
-
 Bruise
 contusion
 difficulty having a bowel movement (stool)
@@ -61,7 +46,4 @@ large, flat, blue, or purplish patches in the skin
 muscle aches
 sore throat
 stuffy or runny nose
-
-
 Vomiting
-

@@ -1,30 +1,13 @@
-Generic Name: cefadroxil
-Applies to cefadroxil: oral capsule, oral powder for suspension, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by cefadroxil (the active ingredient contained in Duricef). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking cefadroxil:
-Some of the side effects that can occur with cefadroxil may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cefadroxil: oral capsule, oral powder for reconstitution, oral tablet
-Up to 20% of patients with penicillin allergy may demonstrate allergic reactions to cefadroxil (the active ingredient contained in Duricef)   One study reported only 12% of patients with a confirmed allergy to amoxicillin (same side-chain as cefadroxil) showed an allergy to cefadroxil.[Ref]
-Hypersensitivity reactions have included urticaria, rash, erythema multiforme, Stevens-Johnson syndrome, serum sickness, angioedema, anaphylaxis, eosinophilia, and fever.  Cephalosporin-class antibiotics have been associated with toxic epidermal necrolysis.[Ref]
-Gastrointestinal side effects have included nausea, vomiting, diarrhea, general abdominal discomfort, and dyspepsia.  Pseudomembranous colitis may occur during or after treatment.[Ref]
-Nervous system side effects associated with some cephalosporin-class antibiotics have included seizures in renally impaired patients when the dosage was not reduced.[Ref]
-Renal side effects associated with cephalosporin-class antibiotics have included renal dysfunction, toxic nephropathy, elevated BUN and creatinine, interstitial nephritis, and acute tubular necrosis.[Ref]
-Hepatic side effects have included cholestasis, idiosyncratic hepatic failure, and elevations in serum transaminases.  Cephalosporin-class antibiotics have been associated with elevated LDH, alkaline phosphatase, and bilirubin.[Ref]
-Genitourinary side effects have included genital pruritus, genital moniliasis, and vaginitis,[Ref]
-Hematologic side effects have included moderate transient neutropenia, agranulocytosis, and thrombocytopenia.  Cephalosporin-class antibiotics have been associated with aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, eosinophilia, and pancytopenia.[Ref]
-Cephalosporin-class antibiotics have been associated with superinfection.[Ref]
-Musculoskeletal side effects have included arthralgia.[Ref]
-1. Filipe P, Almeida RSLS, Rodrigo FG "Occupational allergic contact dermatitis from cephalosporins." Contact Dermatitis 34 (1996): 226
-2. Sastre J, Quijano LD, Novalbos A, Hernandez G, Cuesta J, de las Heras M, Lluch M, Fernandez M "Clinical cross-reactivity between amoxicillin and cephadroxil in patients allergic to amoxicillin and with good tolerance o penicillin." Allergy 51 (1996): 383-86
-3. "Product Information. Duricef (cefadroxil)." Bristol-Myers Squibb, Princeton, NJ. 
-4. Gooch WM, Kaminester L, Cole GW, et al "Clinical comparison of cefuroxime axetil, cephalexin and cefadroxil in the treatment of patients with primary infections of the skin or skin structures." Dermatologica 183 (1991): 36-43
-5. Neldner KH "Double-blind randomized study of oral temafloxacin and cefadroxil in patients with mild to moderately severe bacterial skin infections." Am J Med 91 (1991): s111-4
-6. Haskell RJ, Fujita NK, Stevenson JA, Border WA "Cefoxitin-induced interstitial nephritis." Arch Intern Med 141 (1981): 1557
-7. Toll LL, Lee M, Sharifi R "Cefoxitin-induced interstitial nephritis." South Med J 80 (1987): 274-5
-Not all side effects for Duricef may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Up to 20% of patients with penicillin allergy may demonstrate allergic reactions to cefadroxil (the active ingredient contained in Duricef)   One study reported only 12% of patients with a confirmed allergy to amoxicillin (same side-chain as cefadroxil) showed an allergy to cefadroxil.
+Hypersensitivity reactions have included urticaria, rash, erythema multiforme, Stevens-Johnson syndrome, serum sickness, angioedema, anaphylaxis, eosinophilia, and fever.  Cephalosporin-class antibiotics have been associated with toxic epidermal necrolysis.
+Gastrointestinal side effects have included nausea, vomiting, diarrhea, general abdominal discomfort, and dyspepsia.  Pseudomembranous colitis may occur during or after treatment.
+Nervous system side effects associated with some cephalosporin-class antibiotics have included seizures in renally impaired patients when the dosage was not reduced.
+Renal side effects associated with cephalosporin-class antibiotics have included renal dysfunction, toxic nephropathy, elevated BUN and creatinine, interstitial nephritis, and acute tubular necrosis.
+Hepatic side effects have included cholestasis, idiosyncratic hepatic failure, and elevations in serum transaminases.  Cephalosporin-class antibiotics have been associated with elevated LDH, alkaline phosphatase, and bilirubin.
+Genitourinary side effects have included genital pruritus, genital moniliasis, and vaginitis,
+Hematologic side effects have included moderate transient neutropenia, agranulocytosis, and thrombocytopenia.  Cephalosporin-class antibiotics have been associated with aplastic anemia, hemolytic anemia, hemorrhage, prolonged prothrombin time, positive Coombs' test, eosinophilia, and pancytopenia.
+Cephalosporin-class antibiotics have been associated with superinfection.
+Musculoskeletal side effects have included arthralgia.
 Black, tarry stools
 bleeding gums
 blistering, peeling, or loosening of the skin
@@ -61,8 +44,6 @@ unusual bleeding or bruising
 unusually warm skin
 vomiting
 yellow eyes or skin
-
-
 Abdominal or stomach cramps or tenderness
 back, leg, or stomach pains
 bloating
@@ -97,19 +78,14 @@ unusual tiredness or weakness
 unusual weight loss
 vomiting of blood
 wheezing
-
-
 Acid or sour stomach
 belching
 heartburn
 indigestion
 stomach discomfort, upset, or pain 
-
-
 Hives or welts
 itching of the vagina or genital area
 itching or pain of the genital area
 pain during sexual intercourse
 redness of the skin
 thick, white vaginal discharge with no odor or with a mild odor
-

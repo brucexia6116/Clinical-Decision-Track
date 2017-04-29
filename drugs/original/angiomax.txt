@@ -1,30 +1,17 @@
-Generic Name: bivalirudin
-Applies to bivalirudin: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by bivalirudin (the active ingredient contained in Angiomax). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking bivalirudin, check with your doctor or nurse immediately:
-Some of the side effects that can occur with bivalirudin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to bivalirudin: intravenous powder for injection
-Common (1% to 10%): Atrial fibrillation, ventricular tachycardia, angina pectoris, bradycardia, hypertension, hypotension, chest painRare (less than 0.1%): Myocardial infarction, cardiac tamponade, pericardial hemorrhage, coronary artery thrombosis, coronary stent thrombosis (including reports with fatal outcome), arteriovenous fistula, catheter thrombosis, vascular pseudoaneurysm Postmarketing reports: Cardiac tamponade, ventricular fibrillation[Ref]
-Uncommon (0.1% to 1%): Epistaxis, hemoptysis, pharyngeal hemorrhageRare (less than 0.1%): Pulmonary hemorrhage, dyspnea[Ref]
-Uncommon (0.1% to 1%): Rash, urticaria[Ref]
-Common (1% to 10%): Nausea, vomiting, dyspepsiaUncommon (0.1% to 1%): GI hemorrhage (i.e., hematemesis, melena, esophageal hemorrhage, anal hemorrhage), retroperitoneal hemorrhage, gingival hemorrhageRare (less than 0.1%): Retroperitoneal hematoma[Ref]
-Uncommon (0.1% to 1%): Hematuria[Ref]
-Very common (10% or more): Minor hemorrhage at any site (22%)Common (1% to 10%): Hemoglobin decreased, major hemorrhage at any site (including fatal outcomes)Uncommon (0.1% to 1%): Thrombocytopenia, anemia, hematomaRare (less than 0.1%): INR increased Postmarketing reports: Catheter thrombosis, arteriovenous fistula, compartment syndrome[Ref]
-Uncommon (0.1% to 1%): Anaphylaxis (including fatal shock)[Ref]
-Common (1% to 10%): Access site hemorrhage, vessel puncture site hematoma (5 cm or less), vessel puncture site hematoma (greater than 5 cm), injection site painRare (less than 0.1%): Injection site reactions (i.e., injection site discomfort, injection site pain, puncture site reaction)[Ref]
-Very common (10% or more): Back painCommon (1% to 10%): Chest pain[Ref]
-Common (1% to 10%): Headache, insomniaRare (less than 0.1%): Intracranial hemorrhage[Ref]
-Rare (less than 0.1%): Intraocular hemorrhage[Ref]
-Rare (less than 0.1%): Ear hemorrhage[Ref]
-Common (1% to 10%): Nervousness[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Angiomax (bivalirudin)" The Medicines Compny, Cambridge, MA. 
-3. "Product Information. Bivalirudin (bivalirudin)." Fresenius Kabi USA, Lake Zurich, IL. 
-Not all side effects for Angiomax may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Atrial fibrillation, ventricular tachycardia, angina pectoris, bradycardia, hypertension, hypotension, chest painRare (less than 0.1%): Myocardial infarction, cardiac tamponade, pericardial hemorrhage, coronary artery thrombosis, coronary stent thrombosis (including reports with fatal outcome), arteriovenous fistula, catheter thrombosis, vascular pseudoaneurysm Postmarketing reports: Cardiac tamponade, ventricular fibrillation
+Uncommon (0.1% to 1%): Epistaxis, hemoptysis, pharyngeal hemorrhageRare (less than 0.1%): Pulmonary hemorrhage, dyspnea
+Uncommon (0.1% to 1%): Rash, urticaria
+Common (1% to 10%): Nausea, vomiting, dyspepsiaUncommon (0.1% to 1%): GI hemorrhage (i.e., hematemesis, melena, esophageal hemorrhage, anal hemorrhage), retroperitoneal hemorrhage, gingival hemorrhageRare (less than 0.1%): Retroperitoneal hematoma
+Uncommon (0.1% to 1%): Hematuria
+Very common (10% or more): Minor hemorrhage at any site (22%)Common (1% to 10%): Hemoglobin decreased, major hemorrhage at any site (including fatal outcomes)Uncommon (0.1% to 1%): Thrombocytopenia, anemia, hematomaRare (less than 0.1%): INR increased Postmarketing reports: Catheter thrombosis, arteriovenous fistula, compartment syndrome
+Uncommon (0.1% to 1%): Anaphylaxis (including fatal shock)
+Common (1% to 10%): Access site hemorrhage, vessel puncture site hematoma (5 cm or less), vessel puncture site hematoma (greater than 5 cm), injection site painRare (less than 0.1%): Injection site reactions (i.e., injection site discomfort, injection site pain, puncture site reaction)
+Very common (10% or more): Back painCommon (1% to 10%): Chest pain
+Common (1% to 10%): Headache, insomniaRare (less than 0.1%): Intracranial hemorrhage
+Rare (less than 0.1%): Intraocular hemorrhage
+Rare (less than 0.1%): Ear hemorrhage
+Common (1% to 10%): Nervousness
 Abdominal pain or swelling
 arm, back, or jaw pain
 black, tarry stools
@@ -48,15 +35,11 @@ shortness of breath
 slow, fast, or irregular heartbeat
 sweating
 unusual tiredness or weakness
-
-
 Decrease in frequency of urination
 decrease in urine volume
 difficulty in passing urine (dribbling)
 lightheadedness or fainting
 painful urination
-
-
 Blue lips and fingernails
 changes in skin color
 cold hands and feet
@@ -78,8 +61,6 @@ swelling of the face, fingers, or lower legs
 troubled breathing
 vomiting
 weight gain
-
-
 Bleeding gums
 difficulty in swallowing
 hives
@@ -100,19 +81,14 @@ sudden onset of slurred speech
 sudden vision changes
 swelling of the eyelids, lips, hands, or feet
 wheezing
-
-
 Fear or nervousness
 pain where the needle is placed
 pelvic pain
 sleeplessness
 trouble sleeping
 unable to sleep
-
-
 Acid or sour stomach
 belching
 heartburn
 indigestion
 stomach discomfort, upset, or pain
-

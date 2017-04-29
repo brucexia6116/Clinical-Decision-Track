@@ -1,28 +1,15 @@
-Generic Name: dronabinol
-Applies to dronabinol: oral capsule, oral capsule liquid filled, oral solution
-In addition to its needed effects, some unwanted effects may be caused by dronabinol (the active ingredient contained in Marinol). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dronabinol:
-
 If any of the following symptoms of overdose occur while taking dronabinol, get emergency help immediately:
-
-Some of the side effects that can occur with dronabinol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dronabinol: oral capsule
-Very common (10% or more): Feeling high/easy laughing, elation, heightened awareness (up to 24%)Common (1% to 10%): Euphoria, paranoid reaction, abnormal thinkingFrequency not reported: Anxiety/nervousness, confusion, depersonalization, hallucinations, depression, nightmares[Ref]
-Common (1% to 10%): Dizziness, somnolenceFrequency not reported: Amnesia, ataxia, speech difficulties, tinnitus, headache, syncopePostmarketing reports: Seizure/seizure-like activity, fatigue[Ref]
-Uncommon (0.1% to 1%): Hypotension, flushingFrequency not reported: Palpitations, tachycardia, vasodilation/facial flush[Ref]
-Common (1% to 10%): Abdominal pain, nausea, vomitingUncommon (0.1% to 1%): DiarrheaFrequency not reported: Fecal incontinence[Ref]
-Uncommon (0.1% to 1%): ConjunctivitisFrequency not reported: Vision difficulties[Ref]
-Frequency not reported: Asthenia, chills, malaisePostmarketing reports: Fatigue[Ref]
-Frequency not reported: Myalgia[Ref]
-Frequency not reported: Hepatic enzyme elevation[Ref]
-Frequency not reported: Anorexia[Ref]
-Frequency not reported: Cough, rhinitis, sinusitis[Ref]
-Frequency not reported: Sweating[Ref]
-1. "Product Information. Marinol (dronabinol)." Roxane Laboratories Inc, Columbus, OH. 
-Not all side effects for Marinol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Feeling high/easy laughing, elation, heightened awareness (up to 24%)Common (1% to 10%): Euphoria, paranoid reaction, abnormal thinkingFrequency not reported: Anxiety/nervousness, confusion, depersonalization, hallucinations, depression, nightmares
+Common (1% to 10%): Dizziness, somnolenceFrequency not reported: Amnesia, ataxia, speech difficulties, tinnitus, headache, syncopePostmarketing reports: Seizure/seizure-like activity, fatigue
+Uncommon (0.1% to 1%): Hypotension, flushingFrequency not reported: Palpitations, tachycardia, vasodilation/facial flush
+Common (1% to 10%): Abdominal pain, nausea, vomitingUncommon (0.1% to 1%): DiarrheaFrequency not reported: Fecal incontinence
+Uncommon (0.1% to 1%): ConjunctivitisFrequency not reported: Vision difficulties
+Frequency not reported: Asthenia, chills, malaisePostmarketing reports: Fatigue
+Frequency not reported: Myalgia
+Frequency not reported: Hepatic enzyme elevation
+Frequency not reported: Anorexia
+Frequency not reported: Cough, rhinitis, sinusitis
+Frequency not reported: Sweating
 Changes in mood
 confusion
 delusions
@@ -33,15 +20,11 @@ mental depression
 nervousness or anxiety
 problems with memory
 seeing, hearing, or feeling things that are not there
-
-
 Blurred vision
 chills
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 sweating
 unusual tiredness or weakness
-
-
 Fainting
 feeling of warmth
 hives or rash
@@ -51,8 +34,6 @@ sores in the mouth
 swelling of the lips
 tightness in the throat
 trouble sleeping
-
-
 Being forgetful
 change in how fast you think time is passing
 change in your sense of smell, taste, sight, sound, or touch
@@ -68,8 +49,6 @@ redness of the eyes
 seizures
 slurred speech
 unusual drowsiness or dullness
-
-
 Clumsiness or unsteadiness
 dizziness
 drowsiness
@@ -77,14 +56,10 @@ false sense of well-being
 nausea
 trouble with thinking
 vomiting
-
-
 Abdominal or stomach pain
 flushing of the face
 lack or loss of strength
 restlessness
-
-
 Burning, dry, or itching eyes
 continuing ringing or buzzing or other unexplained noise in the ears
 cough
@@ -96,4 +71,3 @@ redness, pain, swelling of the eye, eyelid, or inner lining of the eyelid
 runny nose
 sneezing
 stuffy nose
-

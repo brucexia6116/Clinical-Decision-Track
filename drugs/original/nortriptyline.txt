@@ -1,29 +1,21 @@
-Applies to nortriptyline: oral capsule, oral solution, oral tablet
 As well as its needed effects, nortriptyline may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking nortriptyline, check with your doctor immediately:
 Some nortriptyline side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to nortriptyline: compounding powder, oral capsule, oral solution
-Very common (10% or more): Dizziness, headacheCommon (1% to 10%): Concentration disorders, taste disorders, paraesthesia, ataxia, strange body movements, tremorsUncommon (0.1% to 1%): Convulsion, numbness, tinnitusRare (less than 0.1%): ClumsinessVery rare (less than 0.01%): Alterations in brain function (including perhaps seizures)Frequency not reported: Tingling, incoordination, peripheral neuropathy, extrapyramidal symptoms, alteration in EEG patterns, drowsiness, weakness[Ref]
-Common (1% to 10%): Weakness, fatigueRare (less than 0.1%): Increased blood alkaline phosphataseFrequency not reported: Edema (general)[Ref]
-Very common (10% or more): Palpitation, irregular or heavy heart beats, tachycardia, orthostatic hypotensionCommon (1% to 10%): Abnormal ECG, QT prolongation, QRS complex prolongation, atrioventricular block, bundle branch block, high or low blood pressureUncommon (0.1% to 1%): HypertensionRare (less than 0.1%): ArrhythmiasFrequency not reported: Myocardial infarction, stroke, flushing[Ref]
-The most commonly reported side effects were dizziness, headache, blurred vision, disturbance of accommodation, dry mouth, constipation, palpitation, tachycardia, and orthostatic hypotension.[Ref]
-Uncommon (0.1% to 1%): Syndrome of inappropriate ADH (antidiuretic hormone) secretionRare (less than 0.1%): Gynecomastia (male)Very rare (less than 0.1%): Elevation or depression of blood sugar levels, galactorrhea (female)Frequency not reported: Breast enlargement (female)[Ref]
-Very common (10% or more): Dry mouth, constipationUncommon (0.1% to 1%): Diarrhea, nausea, vomiting, tongue edemaRare (less than 0.1%): Sublingual adenitis, increased salivary glands, paralytic ileus, loss of appetite, abdominal cramps, peculiar taste, mouth or gum problemsFrequency not reported: Anorexia, epigastric distress, stomatitis, black tongue, parotid swelling[Ref]
-Rare (less than 0.1%): Bone-marrow depression, agranulocytosis, leucopenia, eosinophilia, thrombocytopeniaFrequency not reported: Purpura, petechiae[Ref]
-Rare (less than 0.1%): Abnormal liver function, increased transaminase, jaundiceFrequency not reported: Cholestasis[Ref]
-Common (1% to 10%): ConfusionUncommon (0.1% to 1%): Hypomania, mania, anxiety, insomnia (especially on sudden withdrawal), changes in sleep patterns (including nightmares)Rare (less than 0.1%): Confusional states, delirium (especially in older patients), hallucinations (in patients with schizophrenia), irritabilityFrequency not reported: Disorientation, delusions, restlessness, agitation, panic, exacerbation of psychosis, suicidal ideation, aggressive outbursts[Ref]
-Very common (10% or more): Blurred vision, disturbance of accommodationCommon (1% to 10%): MydriasisUncommon (0.1% to 1%): Increased intraocular pressurePostmarketing reports: Angle-closure glaucoma[Ref]
-Common (1% to 10%): Erection disordersUncommon (0.1% to 1%): Increased or decreased urination, urinary retentionRare (less than 0.1%): Changes in sexual performanceVery rare (less than 0.01%): Swelling of testiclesFrequency not reported: Delayed micturition, dilation of the urinary tract, nocturia, increased or decreased libido, orgasm disorders (female)[Ref]
-Common (1% to 10%): Weight gainRare (less than 0.1%): Weight loss, decreased appetite[Ref]
-Very common (10% or more): SweatingUncommon (0.1% to 1%): Rash, urticariaRare (less than 0.1%): Alopecia, photosensitizationFrequency not reported: Itching[Ref]
-Frequency not reported: Drug fever, cross-sensitivity with other tricyclic drugs[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Pamelor (nortriptyline)." Sandoz Pharmaceuticals Corporation, East Hanover, NJ. 
+Very common (10% or more): Dizziness, headacheCommon (1% to 10%): Concentration disorders, taste disorders, paraesthesia, ataxia, strange body movements, tremorsUncommon (0.1% to 1%): Convulsion, numbness, tinnitusRare (less than 0.1%): ClumsinessVery rare (less than 0.01%): Alterations in brain function (including perhaps seizures)Frequency not reported: Tingling, incoordination, peripheral neuropathy, extrapyramidal symptoms, alteration in EEG patterns, drowsiness, weakness
+Common (1% to 10%): Weakness, fatigueRare (less than 0.1%): Increased blood alkaline phosphataseFrequency not reported: Edema (general)
+Very common (10% or more): Palpitation, irregular or heavy heart beats, tachycardia, orthostatic hypotensionCommon (1% to 10%): Abnormal ECG, QT prolongation, QRS complex prolongation, atrioventricular block, bundle branch block, high or low blood pressureUncommon (0.1% to 1%): HypertensionRare (less than 0.1%): ArrhythmiasFrequency not reported: Myocardial infarction, stroke, flushing
+The most commonly reported side effects were dizziness, headache, blurred vision, disturbance of accommodation, dry mouth, constipation, palpitation, tachycardia, and orthostatic hypotension.
+Uncommon (0.1% to 1%): Syndrome of inappropriate ADH (antidiuretic hormone) secretionRare (less than 0.1%): Gynecomastia (male)Very rare (less than 0.1%): Elevation or depression of blood sugar levels, galactorrhea (female)Frequency not reported: Breast enlargement (female)
+Very common (10% or more): Dry mouth, constipationUncommon (0.1% to 1%): Diarrhea, nausea, vomiting, tongue edemaRare (less than 0.1%): Sublingual adenitis, increased salivary glands, paralytic ileus, loss of appetite, abdominal cramps, peculiar taste, mouth or gum problemsFrequency not reported: Anorexia, epigastric distress, stomatitis, black tongue, parotid swelling
+Rare (less than 0.1%): Bone-marrow depression, agranulocytosis, leucopenia, eosinophilia, thrombocytopeniaFrequency not reported: Purpura, petechiae
+Rare (less than 0.1%): Abnormal liver function, increased transaminase, jaundiceFrequency not reported: Cholestasis
+Common (1% to 10%): ConfusionUncommon (0.1% to 1%): Hypomania, mania, anxiety, insomnia (especially on sudden withdrawal), changes in sleep patterns (including nightmares)Rare (less than 0.1%): Confusional states, delirium (especially in older patients), hallucinations (in patients with schizophrenia), irritabilityFrequency not reported: Disorientation, delusions, restlessness, agitation, panic, exacerbation of psychosis, suicidal ideation, aggressive outbursts
+Very common (10% or more): Blurred vision, disturbance of accommodationCommon (1% to 10%): MydriasisUncommon (0.1% to 1%): Increased intraocular pressurePostmarketing reports: Angle-closure glaucoma
+Common (1% to 10%): Erection disordersUncommon (0.1% to 1%): Increased or decreased urination, urinary retentionRare (less than 0.1%): Changes in sexual performanceVery rare (less than 0.01%): Swelling of testiclesFrequency not reported: Delayed micturition, dilation of the urinary tract, nocturia, increased or decreased libido, orgasm disorders (female)
+Common (1% to 10%): Weight gainRare (less than 0.1%): Weight loss, decreased appetite
+Very common (10% or more): SweatingUncommon (0.1% to 1%): Rash, urticariaRare (less than 0.1%): Alopecia, photosensitizationFrequency not reported: Itching
+Frequency not reported: Drug fever, cross-sensitivity with other tricyclic drugs
 It is possible that some side effects of nortriptyline may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Abdominal or stomach pain
 agitation
 blurred vision
@@ -73,8 +65,6 @@ talking, feeling, and acting with excitement
 trouble sleeping
 twisting movements of the body uncontrolled movements, especially of the face, neck, and back
 weakness in the arms, hands, legs, or feet
-
-
 Bigger, dilated, or enlarged pupils (black part of the eye)
 black tongue
 decreased interest in sexual ability or desire
@@ -94,4 +84,3 @@ swelling or inflammation of the mouth
 swollen, painful, or tender lymph glands on side of face or neck
 vision changes
 waking to urinate at night
-

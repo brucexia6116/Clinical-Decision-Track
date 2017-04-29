@@ -1,24 +1,11 @@
-Generic Name: diphtheria toxoid / pertussis, acellular / tetanus toxoid
-Applies to diphtheria toxoid / pertussis, acellular / tetanus toxoid: intramuscular suspension
-In addition to its needed effects, some unwanted effects may be caused by diphtheria toxoid / pertussis, acellular / tetanus toxoid. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking diphtheria toxoid / pertussis, acellular / tetanus toxoid, check with your doctor or nurse immediately:
-Some of the side effects that can occur with diphtheria toxoid / pertussis, acellular / tetanus toxoid may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to diphtheria toxoid / pertussis, acellular / tetanus toxoid: intramuscular suspension
-Local side effects have included injection site pain, swelling, and erythema.[Ref]
-Gastrointestinal side effects have included nausea, diarrhea, and vomiting.[Ref]
-Musculoskeletal side effects have included sore and swollen joints, body aches, muscle weakness, and lymph node swelling.[Ref]
-General side effects have included headache, fever, chills, and tiredness.[Ref]
-Dermatologic side effects have included rash, pruritus, and urticaria.[Ref]
-1. "Product Information. Adacel (diphtheria/pertussis, acel/tetanus adult)." Aventis Pasteur Inc, Swiftwater, PA. 
-Not all side effects for Boostrix (Tdap) may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Local side effects have included injection site pain, swelling, and erythema.
+Gastrointestinal side effects have included nausea, diarrhea, and vomiting.
+Musculoskeletal side effects have included sore and swollen joints, body aches, muscle weakness, and lymph node swelling.
+General side effects have included headache, fever, chills, and tiredness.
+Dermatologic side effects have included rash, pruritus, and urticaria.
 Crying for 3 or more hours
 fainting
-
-
 Confusion
 convulsions (seizures)
 difficulty with breathing or swallowing
@@ -32,8 +19,6 @@ sleepiness (unusual and continuing)
 swelling of the eyes, face, or inside of the nose
 unusual tiredness or weakness (sudden and severe)
 vomiting (severe or continuing)
-
-
 Blood in the urine
 bloody or black, tarry stools
 blurred vision
@@ -67,16 +52,12 @@ tightness in the chest
 trouble breathing
 unexplained weight loss
 unusual tiredness or weakness
-
-
 Body aches
 diarrhea
 fever of 99.5 degrees F or more
 headache
 redness, swelling, tenderness, pain, or a lump at the place of injection
 tiredness
-
-
 Back pain
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 injection site bruising
@@ -84,4 +65,3 @@ muscle or joint pain
 swollen, painful, or tender lymph glands in the neck, armpit, or groin
 weakness of the muscles in the face
 welts on the skin
-

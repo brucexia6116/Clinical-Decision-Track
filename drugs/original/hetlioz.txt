@@ -1,24 +1,12 @@
-Generic Name: tasimelteon
-Applies to tasimelteon: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by tasimelteon (the active ingredient contained in Hetlioz). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking tasimelteon, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with tasimelteon may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to tasimelteon: oral capsule
-Very common (10% or more): Headache (17%)Frequency not reported: Somnolence[Ref]
-Very common (10% or more): Increased ALT (10%)[Ref]
+Very common (10% or more): Headache (17%)Frequency not reported: Somnolence
+Very common (10% or more): Increased ALT (10%)
 Very common (10% or more): Nightmare/abnormal dreams (10%)
-Common (1% to 10%): Urinary tract infection[Ref]
-Common (1% to 10%): Upper respiratory tract infection[Ref]
-1. "Product Information. Hetlioz (tasimelteon)." Vanda Pharmaceuticals Inc, Rockville, MD. 
-Not all side effects for Hetlioz may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Urinary tract infection
+Common (1% to 10%): Upper respiratory tract infection
 Bladder, lower back, or side pain
 bloody or cloudy urine
 difficult, burning, frequent, or painful urination
-
-
 Body aches or pain
 chills or fever
 cough
@@ -26,4 +14,3 @@ ear congestion
 headache
 nasal congestion, runny nose, or sneezing
 nightmares
-

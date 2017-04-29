@@ -1,44 +1,8 @@
-Generic Name: epinephrine ophthalmic
-Applies to epinephrine ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by epinephrine ophthalmic (the active ingredient contained in Epinal). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking epinephrine ophthalmic, check with your doctor or nurse immediately:
-
-
-Applies to epinephrine ophthalmic: ophthalmic solution
-Chronic ophthalmic application of epinephrine to aphakic patients may cause maculopathy in up to 28% of patients (macular edema, vascular spasm, hemorrhages), which can result in distorted vision, central scotoma, and/or loss of visual acuity.  This maculopathy can reverse within six months upon drug withdrawal.A single case of madarosis (loss of eyelashes) has been associated with topical epinephrine.  After the therapy was discontinued, the lashes grew back.[Ref]
-Ocular side effects have included stinging and burning, lacrimation, and local discomfort upon application in up to 62% of patients.  Browache, eye pain/ache, conjunctival hyperemia, allergic lid reactions, mydriasis, blurry vision, photophobia have been reported.  Ocular cicatrization, pemphigoid, loss of eyelashes, and maculopathy have been reported rarely.  Prolonged use can cause corneal edema, refractoriness of superficial blood vessels to constrict, and deposition of brownish oxidation products of epinephrine in the palpebral conjunctiva.[Ref]
-Cardiovascular side effects associated with ocularly applied epinephrine have rarely included palpitations, tachycardia, extrasystoles, premature ventricular depolarizations, cardiac arrhythmias, and hypertension.[Ref]
-Nervous system side effects associated with ocularly applied epinephrine have included faintness, trembling, pallor, headache, tremors, and perspiration.[Ref]
-Hypersensitivity reactions after ocular application may present as diffuse vascular engorgement, follicular hypertrophy, chemosis, conjunctivitis, and/or iritis.[Ref]
-In general, systemic side effects after topical application of epinephrine to the eye are more likely if the corneum is damaged or permeability is increased by tonometry, surgery, inflammation, or topical application of a local anesthetic.[Ref]
-1. Obstbaum SA, Galin MA, Poole TA "Topical epinephrine and cystoid macular edema." Ann Ophthalmol 8 (1976): 455-8
-2. Goldstein JH "Effects of drugs on cornea, conjunctiva, and lids." Int Ophthalmol Clin 11 (1971): 13-34
-3. Spaeth GL "Nasolacrimal duct obstruction caused by topical epinephrine." Arch Ophthalmol 77 (1967): 355-7
-4. Becker B, Montgomery SW, Kass MA, Shin DH "Increased ocular and systemic responsiveness to epinephrine in primary open-angle glaucoma." Arch Ophthalmol 95 (1977): 789-90
-5. Fiore PM "Drug-induced ocular cicatrization." Int Ophthalmol Clin 29 (1989): 147-50
-6. Mooney D "Pigmentation after long-term topical use of adrenaline compounds." Br J Ophthalmol 54 (1970): 823-6
-7. Cerasoli JR "Effects of drugs on the retina." Int Ophthalmol Clin 11 (1971): 121-35
-8. Wandel T, Spinak M "Toxicity of dipivalyl epinephrine." Ophthalmology 88 (1981): 259-60
-9. Drance SM, Ross RA "The ocular effects of epinephrine." Surv Ophthalmol 14 (1970): 330-5
-10. Thomas JV, Gragoudas ES, Blair NP, Lapus JV "Correlation of epinephrine use and macular edema in aphakic glaucomatous eyes." Arch Ophthalmol 96 (1978): 625-8
-11. Mackool RJ, Muldoon T, Fortier A, Nelson D "Epinephrine-induced cystoid macular edema in aphakic eyes." Arch Ophthalmol 95 (1977): 791-3
-12. Mahmood MA, Pillai S "Epinephrine staining of a soft contact lens. Case report." Arch Ophthalmol 105 (1987): 1021-2
-13. Kass MA, Stamper RL, Becker B "Madarosis in chronic epinephrine therapy." Arch Ophthalmol 88 (1972): 429-31
-14. Henkind P, Friedman AH "External ocular pigmentation." Int Ophthalmol Clin 11 (1971): 87-111
-15. "Product Information. Epifrin Sterile Ophthalmic Solution (epinephrine)." Allergan Inc, Irvine, CA. 
-16. Kass MA, Mandell AI, Goldberg I, Paine JM, Becker B "Dipivefrin and epinephrine treatment of elevated intraocular pressure: a comparative study." Arch Ophthalmol 97 (1979): 1865-6
-17. Lansche RK "Systemic reactions to topical epinephrine and phenylephrine." Am J Ophthalmol 61 (1966): 95-8
-18. Korey MS, Hodapp E, Kass MA, Goldberg I, Gordon M, Becker B "Timolol and epinephrine: long-term evaluation of concurrent administration." Arch Ophthalmol 100 (1982): 742-5
-19. Ellis PP "Systemic reactions to topical therapy." Int Ophthalmol Clin 11 (1971): 1-11
-20. Leon AS, Abrams WB "The role of catecholamines in producing arrhythmias." Am J Med Sci 262 (1971): 9-13
-21. Kolker AE, Becker B "Epinephrine maculopathy." Arch Ophthalmol 79 (1968): 552-62
-22. Meyers EF, Ramirez RC, Boniuk I "Grand mal seizures after retrobulbar block." Arch Ophthalmol 96 (1978): 847
-23. Gaspari AA "Contact allergy to ophthalmic dipivalyl epinephrine hydrochloride: demonstration by patch testing." Contact Dermatitis 28 (1993): 35-7
-24. Alani SD, Alani MD "Allergic contact dermatits and conjunctivitis from epinephrine." Contact Dermatitis 2 (1976): 147-50
-25. Sonntag JR, Brindley GO, Shields MB, Arafat NI, Phelps CD "Timolol and epinephrine. Comparisin of efficacy and side effects." Arch Ophthalmol 97 (1979): 273-7
-26. Fiore PM, Cinotti AA "Systemic effects of intraocular epinephrine during cataract surgery." Ann Ophthalmol 20 (1988): 23-5
-Not all side effects for Epinal may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Chronic ophthalmic application of epinephrine to aphakic patients may cause maculopathy in up to 28% of patients (macular edema, vascular spasm, hemorrhages), which can result in distorted vision, central scotoma, and/or loss of visual acuity.  This maculopathy can reverse within six months upon drug withdrawal.A single case of madarosis (loss of eyelashes) has been associated with topical epinephrine.  After the therapy was discontinued, the lashes grew back.
+Ocular side effects have included stinging and burning, lacrimation, and local discomfort upon application in up to 62% of patients.  Browache, eye pain/ache, conjunctival hyperemia, allergic lid reactions, mydriasis, blurry vision, photophobia have been reported.  Ocular cicatrization, pemphigoid, loss of eyelashes, and maculopathy have been reported rarely.  Prolonged use can cause corneal edema, refractoriness of superficial blood vessels to constrict, and deposition of brownish oxidation products of epinephrine in the palpebral conjunctiva.
+Cardiovascular side effects associated with ocularly applied epinephrine have rarely included palpitations, tachycardia, extrasystoles, premature ventricular depolarizations, cardiac arrhythmias, and hypertension.
+Nervous system side effects associated with ocularly applied epinephrine have included faintness, trembling, pallor, headache, tremors, and perspiration.
+Hypersensitivity reactions after ocular application may present as diffuse vascular engorgement, follicular hypertrophy, chemosis, conjunctivitis, and/or iritis.
+In general, systemic side effects after topical application of epinephrine to the eye are more likely if the corneum is damaged or permeability is increased by tonometry, surgery, inflammation, or topical application of a local anesthetic.
 Blurred vision or other changes in vision
-

@@ -1,37 +1,21 @@
-Generic Name: dapagliflozin
 More frequent side effects include: cystitis, pyelonephritis, urinary tract infection, vulvovaginal candidiasis, bacterial vaginosis, genital candidiasis, genitourinary infection, prostatitis, urethritis, vaginal infection, vulvitis, and vulvovaginitis.  See below for a comprehensive list of adverse effects.
-Applies to dapagliflozin: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by dapagliflozin (the active ingredient contained in Farxiga). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dapagliflozin:
-Some of the side effects that can occur with dapagliflozin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dapagliflozin: oral tablet
-The most common adverse reactions included female genital mycotic infections, nasopharyngitis, and urinary tract infections.[Ref]
-Common (1% to 10%): Urinary tract infections increased urination, discomfort with urination, female genital mycotic infections (including vulvovaginal mycotic infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis fungal genital infection, vulvitis, genitourinary tract infection, vulval abscess, and vaginitis bacterial), and male mycotic infections (including balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection male, penile infection, balanoposthitis, balanoposthitis infective, genital infection, posthitis)[Ref]
-Common (1% to 10%): DyslipidemiaUncommon (0.1% to 1%): adverse reactions related to reduced intravascular volume (postural hypotension, orthostatic hypotension, hypotension, dehydration, and syncope)[Ref]
-Very common (10% or more): Hypoglycemia (up to 43%)Common (1% to 10%): Hyperphosphatemia, increases in low-density lipoprotein cholesterol (LDL-C) Uncommon (0.1% to 1%): Decreased weightPostmarketing reports: Acidosis including diabetic ketoacidosis, ketoacidosis, or ketosis[Ref]
-Hypoglycemia was reported more frequently when this drug was added to sulfonylurea or insulin (up to 43%).  Hypoglycemia was not reported in monotherapy trials, and was reported infrequently in add-on trials with metformin, pioglitazone, and dipeptidyl peptidase-4 inhibitors (up to 1.5%,2.1%, and 1.8% respectively).Twenty reports of acidosis have been identified in the US Food and Drug Administration Adverse Event Reporting System (FAERS) database during the period March 2013 through 06 June 2014.  All patients required emergency room treatment or hospitalization.  These cases were not typical of ketoacidosis or diabetic ketoacidosis (DKA) in that they occurred in patients with type 2 diabetes and their blood sugar levels were only slightly increased.  Some factors identified as potentially triggering the acidosis included major illness, reduced food and fluid intake, and reduced insulin dose.[Ref]
-Common (1% to 10%): Nausea, constipationUncommon (0.1% to 1%): Thirst, dry mouth[Ref]
-Rare (less than 0.1%): Serious anaphylactic reactions, severe cutaneous reactions, and angioedema[Ref]
-Common (1% to 10%): Back pain, extremity painFrequency not reported: Bone fracture[Ref]
-Common (1% to 10%): Influenza[Ref]
-Uncommon (0.1% to 1%): Bladder cancer[Ref]
-Newly diagnosed bladder cancer was reported in 10 of 6045 (0.17%) patients receiving this drug in clinical trials compared with 1 of 3512 (0.3%) patients receiving placebo or comparator.  Upon excluding patients in whom exposure to study drug was less than 1 year at time of diagnosis, there were no cases associated with placebo and 4 cases with this drug.  Due to the low number of cases, further studies are needed.[Ref]
-From March 2013 to October 2015, the US FDA received 101 confirmable case reports of acute kidney injury (AKI) with use of canagliflozin (n=73) or dapagliflozin (the active ingredient contained in Farxiga) (n=28).  Hospitalization was necessary for evaluation and management in 96 cases; admission to the intensive care unit occurred in 22 cases, and death occurred in 4 patients, of which 2 were cardiac-related.  Dialysis was necessary in 15 patients, 3 of whom had a history of chronic kidney disease or previous AKI.  In 58 cases, time to onset of AKI was within 1 month or less of initiating therapy.  In 78 cases in which drug discontinuation was reported, 56 reported subsequent improvement; 3 patients recovered with sequelae, 11 patients did not recover (including the 4 deaths mentioned earlier).  Median age was 57 years (range 28 to 78 years; based on 84 cases reporting age).  Concomitant ACE inhibitor therapy was reported in 51 cases, diuretic use in 26 cases, and NSAID use in 6 cases.  Almost half the patients reported a change in renal function at time of diagnosis (median elevation of serum creatinine from baseline 1.6 mg/dL [based on 32 cases reporting serum creatinine] and median decrease in eGFR 46 mL/min/1.73m2 [based on 13 cases reporting eGFR]).[Ref]
-Frequency not reported: Renal failure, serum creatinine increasePostmarketing reports: Acute kidney injury[Ref]
-Frequency not reported: Small increases in serum parathyroid hormone levels[Ref]
-Common (1% to 10%): Dizziness, headache[Ref]
-Very rare (less than 0.01%): Hepatitis[Ref]
-Common (1% to 10%): Nasopharyngitis[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Farxiga (dapagliflozin)." Bristol-Myers Squibb, Princeton, NJ. 
-4. FDA. U.S. Food and Drug Administration "FDA: SGLT2 inhibitors: Drug Safety Communication - FDA Warns Medicines May Result in a Serious Condition of Too Much Acid in the Blood
- Available from: URL: http://www.fda.gov/safety/medwatch/safetyinformation/safetyalertsforhumanmedicalproducts/ucm44699"   (2015 May 15):
-5. US Food and Drug Administration "Canagliflozin (Invokana, Invokamet) and Dapagliflozin (Farxiga, Xigduo XR): Drug Safety Communication - Strengthened Kidney Warnings. Available from: URL: http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm506554.h"   ([2016, Jun 14]):
-Not all side effects for Farxiga may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions included female genital mycotic infections, nasopharyngitis, and urinary tract infections.
+Common (1% to 10%): Urinary tract infections increased urination, discomfort with urination, female genital mycotic infections (including vulvovaginal mycotic infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis fungal genital infection, vulvitis, genitourinary tract infection, vulval abscess, and vaginitis bacterial), and male mycotic infections (including balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection male, penile infection, balanoposthitis, balanoposthitis infective, genital infection, posthitis)
+Common (1% to 10%): DyslipidemiaUncommon (0.1% to 1%): adverse reactions related to reduced intravascular volume (postural hypotension, orthostatic hypotension, hypotension, dehydration, and syncope)
+Very common (10% or more): Hypoglycemia (up to 43%)Common (1% to 10%): Hyperphosphatemia, increases in low-density lipoprotein cholesterol (LDL-C) Uncommon (0.1% to 1%): Decreased weightPostmarketing reports: Acidosis including diabetic ketoacidosis, ketoacidosis, or ketosis
+Hypoglycemia was reported more frequently when this drug was added to sulfonylurea or insulin (up to 43%).  Hypoglycemia was not reported in monotherapy trials, and was reported infrequently in add-on trials with metformin, pioglitazone, and dipeptidyl peptidase-4 inhibitors (up to 1.5%,2.1%, and 1.8% respectively).Twenty reports of acidosis have been identified in the US Food and Drug Administration Adverse Event Reporting System (FAERS) database during the period March 2013 through 06 June 2014.  All patients required emergency room treatment or hospitalization.  These cases were not typical of ketoacidosis or diabetic ketoacidosis (DKA) in that they occurred in patients with type 2 diabetes and their blood sugar levels were only slightly increased.  Some factors identified as potentially triggering the acidosis included major illness, reduced food and fluid intake, and reduced insulin dose.
+Common (1% to 10%): Nausea, constipationUncommon (0.1% to 1%): Thirst, dry mouth
+Rare (less than 0.1%): Serious anaphylactic reactions, severe cutaneous reactions, and angioedema
+Common (1% to 10%): Back pain, extremity painFrequency not reported: Bone fracture
+Common (1% to 10%): Influenza
+Uncommon (0.1% to 1%): Bladder cancer
+Newly diagnosed bladder cancer was reported in 10 of 6045 (0.17%) patients receiving this drug in clinical trials compared with 1 of 3512 (0.3%) patients receiving placebo or comparator.  Upon excluding patients in whom exposure to study drug was less than 1 year at time of diagnosis, there were no cases associated with placebo and 4 cases with this drug.  Due to the low number of cases, further studies are needed.
+From March 2013 to October 2015, the US FDA received 101 confirmable case reports of acute kidney injury (AKI) with use of canagliflozin (n=73) or dapagliflozin (the active ingredient contained in Farxiga) (n=28).  Hospitalization was necessary for evaluation and management in 96 cases; admission to the intensive care unit occurred in 22 cases, and death occurred in 4 patients, of which 2 were cardiac-related.  Dialysis was necessary in 15 patients, 3 of whom had a history of chronic kidney disease or previous AKI.  In 58 cases, time to onset of AKI was within 1 month or less of initiating therapy.  In 78 cases in which drug discontinuation was reported, 56 reported subsequent improvement; 3 patients recovered with sequelae, 11 patients did not recover (including the 4 deaths mentioned earlier).  Median age was 57 years (range 28 to 78 years; based on 84 cases reporting age).  Concomitant ACE inhibitor therapy was reported in 51 cases, diuretic use in 26 cases, and NSAID use in 6 cases.  Almost half the patients reported a change in renal function at time of diagnosis (median elevation of serum creatinine from baseline 1.6 mg/dL [based on 32 cases reporting serum creatinine] and median decrease in eGFR 46 mL/min/1.73m2 [based on 13 cases reporting eGFR]).
+Frequency not reported: Renal failure, serum creatinine increasePostmarketing reports: Acute kidney injury
+Frequency not reported: Small increases in serum parathyroid hormone levels
+Common (1% to 10%): Dizziness, headache
+Very rare (less than 0.01%): Hepatitis
+Common (1% to 10%): Nasopharyngitis
 Anxiety
 bladder pain
 bloody or cloudy urine
@@ -64,14 +48,10 @@ troubled breathing
 unusual tiredness or weakness
 vomiting
 weight gain
-
-
 Foul smelling discharge from the penis
 pain in the skin around the penis
 rash of the penis
 redness, itching, or swelling of the penis
-
-
 Cough
 difficulty with swallowing
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
@@ -87,8 +67,6 @@ sunken eyes
 sweating
 tightness in the chest
 wrinkled skin
-
-
 Fever
 flushed, dry skin
 fruit-like breath odor
@@ -96,15 +74,10 @@ loss of consciousness
 stomach pain
 troubled breathing
 unexplained weight loss
-
-
 Fever
 muscle aches
 sore throat
 stuffy or runny nose
-
-
 Back pain
 difficulty having a bowel movement (stool)
 pain in the arms or legs
-

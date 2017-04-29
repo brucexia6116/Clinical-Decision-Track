@@ -1,34 +1,21 @@
-Generic Name: hydrochlorothiazide / spironolactone
-Applies to hydrochlorothiazide / spironolactone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by hydrochlorothiazide / spironolactone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking hydrochlorothiazide / spironolactone:
-
 If any of the following symptoms of overdose occur while taking hydrochlorothiazide / spironolactone, get emergency help immediately:
-
-Some of the side effects that can occur with hydrochlorothiazide / spironolactone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to hydrochlorothiazide / spironolactone: oral tablet
-Spironolactone:Frequency not reported: Gynecomastia[Ref]
-Hydrochlorothiazide:Frequency not reported: Weakness, fever, vertigoSpironolactone:Frequency not reported: Breast pain, fever[Ref]
-Hydrochlorothiazide:Frequency not reported: Hypotension, orthostatic hypotension, necrotizing angitis, vasculitisSpironolactone:Frequency not reported: Vasculitis[Ref]
-Hydrochlorothiazide:Frequency not reported: Pancreatitis, intrahepatic cholestatic jaundiceSpironolactone:Frequency not reported: Mixed cholestatic/hepatocellular toxicity[Ref]
-Hydrochlorothiazide:Frequency not reported: Diarrhea, vomiting, sialoadenitis, cramping, constipation, gastric irritation, nauseaSpironolactone:Frequency not reported: Gastric bleeding, ulceration, gastritis, diarrhea, cramping, nausea, vomiting[Ref]
-Hydrochlorothiazide:Frequency not reported: Anorexia, electrolyte imbalance, hyperglycemia, hyperuricemiaSpironolactone:Frequency not reported: Hyperkalemia, electrolyte disturbances[Ref]
-Hydrochlorothiazide:Frequency not reported: Acute myopia, acute angle closure glaucoma, transient blurred vision, xanthopsia[Ref]
-Hydrochlorothiazide:Frequency not reported: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopeniaSpironolactone:Frequency not reported: Leukopenia, agranulocytosis, thrombocytopenia[Ref]
-Hydrochlorothiazide:Frequency not reported: Anaphylactic reactionsSpironolactone:Frequency not reported: Anaphylactic reactions[Ref]
-Hydrochlorothiazide:Frequency not reported: Cutaneous vasculitis, photosensitivity, urticaria, rash, purpura, erythema multiforme, pruritusSpironolactone:Frequency not reported: Urticaria, maculopapular or erythematous cutaneous eruptions, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms, alopecia, pruritus[Ref]
-Hydrochlorothiazide:Frequency not reported: Pneumonitis, pulmonary edema[Ref]
-Hydrochlorothiazide:Frequency not reported: GlycosuriaSpironolactone:Frequency not reported: Inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding[Ref]
-Hydrochlorothiazide:Frequency not reported: Muscle spasmSpironolactone:Frequency not reported: Leg cramps[Ref]
-Hydrochlorothiazide:Frequency not reported: Paresthesias, dizziness, headacheSpironolactone:Frequency not reported: Lethargy, ataxia, dizziness, headache, drowsiness[Ref]
-Hydrochlorothiazide:Frequency not reported: RestlessnessSpironolactone:Frequency not reported: Mental confusion[Ref]
-Hydrochlorothiazide:Frequency not reported: Renal failure, renal dysfunction, interstitial nephritisSpironolactone:Frequency not reported: Renal dysfunction, renal failure[Ref]
-Spironolactone:Frequency not reported: Carcinoma of the breast[Ref]
-1. "Product Information. Aldactazide (hydrochlorothiazide-spironolactone)." Pfizer U.S. Pharmaceuticals Group, New York, NY. 
-Not all side effects for Aldactazide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Spironolactone:Frequency not reported: Gynecomastia
+Hydrochlorothiazide:Frequency not reported: Weakness, fever, vertigoSpironolactone:Frequency not reported: Breast pain, fever
+Hydrochlorothiazide:Frequency not reported: Hypotension, orthostatic hypotension, necrotizing angitis, vasculitisSpironolactone:Frequency not reported: Vasculitis
+Hydrochlorothiazide:Frequency not reported: Pancreatitis, intrahepatic cholestatic jaundiceSpironolactone:Frequency not reported: Mixed cholestatic/hepatocellular toxicity
+Hydrochlorothiazide:Frequency not reported: Diarrhea, vomiting, sialoadenitis, cramping, constipation, gastric irritation, nauseaSpironolactone:Frequency not reported: Gastric bleeding, ulceration, gastritis, diarrhea, cramping, nausea, vomiting
+Hydrochlorothiazide:Frequency not reported: Anorexia, electrolyte imbalance, hyperglycemia, hyperuricemiaSpironolactone:Frequency not reported: Hyperkalemia, electrolyte disturbances
+Hydrochlorothiazide:Frequency not reported: Acute myopia, acute angle closure glaucoma, transient blurred vision, xanthopsia
+Hydrochlorothiazide:Frequency not reported: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopeniaSpironolactone:Frequency not reported: Leukopenia, agranulocytosis, thrombocytopenia
+Hydrochlorothiazide:Frequency not reported: Anaphylactic reactionsSpironolactone:Frequency not reported: Anaphylactic reactions
+Hydrochlorothiazide:Frequency not reported: Cutaneous vasculitis, photosensitivity, urticaria, rash, purpura, erythema multiforme, pruritusSpironolactone:Frequency not reported: Urticaria, maculopapular or erythematous cutaneous eruptions, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms, alopecia, pruritus
+Hydrochlorothiazide:Frequency not reported: Pneumonitis, pulmonary edema
+Hydrochlorothiazide:Frequency not reported: GlycosuriaSpironolactone:Frequency not reported: Inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding
+Hydrochlorothiazide:Frequency not reported: Muscle spasmSpironolactone:Frequency not reported: Leg cramps
+Hydrochlorothiazide:Frequency not reported: Paresthesias, dizziness, headacheSpironolactone:Frequency not reported: Lethargy, ataxia, dizziness, headache, drowsiness
+Hydrochlorothiazide:Frequency not reported: RestlessnessSpironolactone:Frequency not reported: Mental confusion
+Hydrochlorothiazide:Frequency not reported: Renal failure, renal dysfunction, interstitial nephritisSpironolactone:Frequency not reported: Renal dysfunction, renal failure
+Spironolactone:Frequency not reported: Carcinoma of the breast
 Abdominal or stomach cramping, burning, or tenderness
 back or leg pains
 blistering, peeling, or loosening of the skin
@@ -83,8 +70,6 @@ troubled breathing
 unusual bleeding or bruising
 unusual tiredness or weakness
 yellow eyes or skin
-
-
 Difficulty with sleeping
 disorientation
 drowsiness to profound coma
@@ -93,8 +78,6 @@ lethargy
 lightheadedness
 mood or other mental changes
 rash with flat lesions or small raised lesions on the skin
-
-
 Absent, missed, or irregular menstrual periods
 bleeding after menopause
 burning feeling in the chest or stomach
@@ -109,4 +92,3 @@ severe sunburn
 stomach upset
 stopping of menstrual bleeding
 swelling of the breasts or breast soreness in both females and males
-

@@ -1,30 +1,18 @@
-Generic Name: dofetilide
 Common side effects of Tikosyn include: ventricular arrhythmia, ventricular tachycardia, and chest pain. Other side effects include: flu-like symptoms.  See below for a comprehensive list of adverse effects.
-Applies to dofetilide: oral capsule
 As well as its needed effects, dofetilide (the active ingredient contained in Tikosyn) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking dofetilide, check with your doctor immediately:
 Some dofetilide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to dofetilide: oral capsule
-Torsade de pointes is the only arrhythmia reported by the manufacturer that showed a dose-response relationship.[Ref]
-Cardiovascular effects have included ventricular arrhythmias, AV block, bundle branch block, heart block, chest pain, angioedema, bradycardia, cerebral ischemia, cerebrovascular accident, edema, heart arrest and myocardial infarct.[Ref]
-General side effects including headache (11%), dizziness (8%), flu syndrome ( 4%), insomnia (4%), accidental injury (3%), back pain (3%) and rash (3%) and sudden death have been reported.[Ref]
-Gastrointestinal effects have included nausea (5%), diarrhea (3%) and abdominal pain (3%).[Ref]
-Respiratory effects have included respiratory tract infection (7%), dyspnea (6%) and cough.[Ref]
-Nervous system effects have included paresthesias, facial paralysis, paralysis, flaccid paralysis, migraine and syncope.[Ref]
-Hepatic side effects including liver damage has been reported with a frequency of less than 2%.[Ref]
-1. "Product Information. Tikosyn (dofetilide)" Pfizer US Pharmaceuticals, Atlanta, GA. 
-2. Frost L, Mortensen PE, Tingleff J, Platou ES, Christiansen EH, Christiansen N "Efficacy and safety of dofetilide, a new class III antiarrhythmic agent, in acute termination of atrial fibrillation or flutter afte coronary artery bypass surgery. Dofetilide Post-CABG Study Group." Int J Cardiol 58 (1997): 135-40
-3. Lenz TL, Hilleman DE "Dofetilide, a new class III antiarrhythmic agent." Pharmacotherapy 20 (2000): 776-86
-4. Crijns HJ, Kingma JH, Gosselink AT, Dalrymple HW, De Langen CD, Lie K "Sequential bilateral bundle branch block during dofetilide, a new class III antiarrhythmic agent, in a patient with atria fibrillation." J Cardiovasc Electrophysiol 4 (1993): 459-66
+Torsade de pointes is the only arrhythmia reported by the manufacturer that showed a dose-response relationship.
+Cardiovascular effects have included ventricular arrhythmias, AV block, bundle branch block, heart block, chest pain, angioedema, bradycardia, cerebral ischemia, cerebrovascular accident, edema, heart arrest and myocardial infarct.
+General side effects including headache (11%), dizziness (8%), flu syndrome ( 4%), insomnia (4%), accidental injury (3%), back pain (3%) and rash (3%) and sudden death have been reported.
+Gastrointestinal effects have included nausea (5%), diarrhea (3%) and abdominal pain (3%).
+Respiratory effects have included respiratory tract infection (7%), dyspnea (6%) and cough.
+Nervous system effects have included paresthesias, facial paralysis, paralysis, flaccid paralysis, migraine and syncope.
+Hepatic side effects including liver damage has been reported with a frequency of less than 2%.
 It is possible that some side effects of Tikosyn may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Dizziness
 fainting
 fast heartbeat
-
-
 Chest pain
 confusion
 facial or flaccid paralysis
@@ -38,8 +26,6 @@ unexplained shortness of breath
 unusual tiredness or weakness
 weight gain
 yellow eyes or skin
-
-
 Abdominal or stomach pain
 accidental injury
 back pain
@@ -63,4 +49,3 @@ sore throat
 sweating
 trouble sleeping
 vomiting
-

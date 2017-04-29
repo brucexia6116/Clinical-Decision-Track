@@ -1,33 +1,18 @@
-Generic Name: emedastine ophthalmic
-Applies to emedastine ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by emedastine ophthalmic (the active ingredient contained in Emadine). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking emedastine ophthalmic, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with emedastine ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to emedastine ophthalmic: ophthalmic solution
-The most common side effect reported was headache.[Ref]
-Common: Eye pain, eye pruritus, conjunctival hyperemiaUncommon: Corneal infiltrates, corneal staining, blurred vision, eye irritation, dry eye, foreign body sensation in eyes, increased tearing, asthenopia, ocular hyperemiaFrequency not reported: Discomfort, keratitis[Ref]
-Very Common: Headache (11%)Uncommon: Sinus headache, dysgeusia[Ref]
-Uncommon: Rash[Ref]
-Frequency not reported: Dermatitis[Ref]
-Uncommon: Abnormal dreams[Ref]
-Frequency not reported: Tachycardia[Ref]
-Frequency not reported: Rhinitis, sinusitis[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Emadine (emedastine ophthalmic)." Alcon Laboratories Inc, Fort Worth, TX. 
-Not all side effects for Emadine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common side effect reported was headache.
+Common: Eye pain, eye pruritus, conjunctival hyperemiaUncommon: Corneal infiltrates, corneal staining, blurred vision, eye irritation, dry eye, foreign body sensation in eyes, increased tearing, asthenopia, ocular hyperemiaFrequency not reported: Discomfort, keratitis
+Very Common: Headache (11%)Uncommon: Sinus headache, dysgeusia
+Uncommon: Rash
+Frequency not reported: Dermatitis
+Uncommon: Abnormal dreams
+Frequency not reported: Tachycardia
+Frequency not reported: Rhinitis, sinusitis
 Abnormal dreams
 blurred vision or other change in vision
 eye redness, irritation, or pain 
 tearing, discomfort, or other eye irritation not present before therapy or becoming worse during therapy
 weakness
-
-
 Headache
-
-
 Bad taste
 burning or stinging of the eye
 dry eye
@@ -35,4 +20,3 @@ feeling of something in the eye
 itching
 skin rash
 stuffy or runny nose
-

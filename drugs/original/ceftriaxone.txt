@@ -1,80 +1,27 @@
-Applies to ceftriaxone: injection powder for solution
-In addition to its needed effects, some unwanted effects may be caused by ceftriaxone. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking ceftriaxone, check with your doctor or nurse immediately:
-Some of the side effects that can occur with ceftriaxone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ceftriaxone: injectable powder for injection, intramuscular kit, intravenous solution
-This drug was generally well tolerated.  The most common side effects were eosinophilia, leukopenia, thrombocytopenia, diarrhea, rash, and increased hepatic enzymes.  Incidence of side effects was somewhat higher in children and with higher doses.[Ref]
-Very common (10% or more): Warmth/tightness/induration with IM injection (up to 17%)Uncommon (0.1% to 1%): Injection site pain/discomfort, injection site induration, injection site tenderness, phlebitis after IV administration[Ref]
-Local side effects were increased if water was used as the diluent instead of lidocaine (lignocaine).IM injection has been associated with warmth, tightness, and induration in 17% of patients receiving the 350 mg/mL solution and 5% of patients receiving the 250 mg/mL solution.[Ref]
-Common (1% to 10%): Eosinophilia, thrombocytosis, leukopenia, thrombocytopenia, neutropeniaUncommon (0.1% to 1%): Anemia, granulocytopenia, coagulopathy, hemolytic anemia, lymphopenia, prolonged prothrombin timeRare (less than 0.1%): Agranulocytosis, lymphocytosis, leukocytosis, monocytosis, basophilia, decreased prothrombin time, hemolysis (fatal)Frequency not reported: Bleeding, hypoprothrombinemiaPostmarketing reports: Coombs' test false positiveCephalosporin class:-Frequency not reported: Aplastic anemia, hemorrhage, positive direct Coombs' test[Ref]
-Nineteen cases (10 adults, 9 children) of immune hemolytic anemia have been reported, 9 of which were fatal.  Symptoms occurred within minutes or weeks of drug administration.  Initial symptoms included tachycardia, hypotension, dyspnea, pallor, back or leg pain, and decreased hemoglobin levels.  Most of these patients had preexisting hematologic or immunodeficiency disorders, and 1 had Crohn's disease.Bleeding and bruising (due to hypoprothrombinemia) may have been more prevalent in patients with liver or renal dysfunction, malnourished patients, patients with low vitamin K levels, and patients using this drug for a prolonged duration.Hemolytic anemia and agranulocytosis have also been reported during postmarketing experience.  Most cases of agranulocytosis (less than 500/mm3) were after 10 days of therapy and after total doses of at least 20 g.[Ref]
-Shadows on sonograms of the gallbladder (mistaken for gallstones, but actually ceftriaxone-calcium precipitates) have been reported, primarily after doses higher than the standard recommended dose.  Prospective studies showed variable incidence of precipitation with IV administration in children (more than 30% in some studies), but slow infusion (20 to 30 minutes) appeared to lower the incidence.  Risk of forming precipitates was increased by duration of therapy exceeding 14 days, renal failure, dehydration, or total parenteral nutrition.  Effect was usually asymptomatic, but clinical symptoms (e.g., pain, nausea, vomiting) have been reported.  Precipitation was usually reversible upon drug discontinuation.Both pseudocholelithiasis (biliary "sludging") and true cholelithiasis (ceftriaxone-containing gallstone) have been reported in association with doses greater than 2 g/day.  A false-positive hepatobiliary scan occurred in a patient receiving this drug.  A repeat test 2 weeks after this drug was discontinued was normal.Hepatitis has also been reported during postmarketing experience.[Ref]
-Common (1% to 10%): Increased hepatic enzymes, increased ALT, increased ASTUncommon (0.1% to 1%): Increased bilirubinRare (less than 0.1%): Hepatitis, jaundice, gallbladder sludge, biliary lithiasis, cholestatic jaundiceFrequency not reported: Transient elevations in liver function tests, shadows on sonograms of the gallbladder, cholelithiasis, pseudocholelithiasis, false-positive hepatobiliary scanPostmarketing reports: Gallbladder precipitationCephalosporin class:-Frequency not reported: Hepatic dysfunction, cholestasis[Ref]
-Common (1% to 10%): Diarrhea/loose stoolsUncommon (0.1% to 1%): Nausea, vomitingRare (less than 0.1%): Colitis, flatulence, dyspepsia, abdominal pain, pseudomembranous colitisFrequency not reported: Clostridium difficile-associated diarrheaPostmarketing reports: Pancreatitis, stomatitis, glossitis[Ref]
-The onset of pseudomembranous colitis symptoms has been reported during or after antimicrobial treatment.[Ref]
-A case of AGEP has been reported after administration of this drug.  This was characterized by the appearance of an erythematous and generalized scarlatiniform rash with plaques covered by small nonfollicular pustules on the thighs, abdomen, and lower extremities.  This drug was discontinued and the AGEP was completely resolved after 2 weeks.Allergic dermatitis and urticaria have also been reported during postmarketing experience.A case of occupational contact dermatitis has been reported in a nurse who prepared cephalosporin solutions for administration to patients.  The dermatitis resolved after the nurse stopped preparing the solutions.[Ref]
-Common (1% to 10%): RashUncommon (0.1% to 1%): Pruritus, maculopapular rash/exanthema, allergic dermatitis, diaphoresisRare (less than 0.1%): UrticariaFrequency not reported: Severe dermatitis, exfoliative erythroderma, bruisingPostmarketing reports: Exanthema, severe cutaneous reactions, erythema multiforme, Stevens-Johnson syndrome, Lyell's syndrome/toxic epidermal necrolysis, acute generalized exanthematous pustulosis (AGEP)Cephalosporin class:-Frequency not reported: Contact dermatitis[Ref]
-Common (1% to 10%): Increased BUN/serum ureaUncommon (0.1% to 1%): Increased blood creatinineRare (less than 0.1%): Renal precipitations, nephrolithiasis, acute renal tubular necrosisPostmarketing reports: Oliguria, ureteric obstruction, post-renal acute renal failureCephalosporin class:-Frequency not reported: Renal dysfunction, toxic nephropathy[Ref]
-Cases of renal precipitation have been reported, primarily in children older than 3 years who received either high daily doses (e.g., at least 80 mg/kg/day) or total doses exceeding 10 g and who had other risk factors (e.g., fluid restrictions, confinement to bed).  Risk of forming precipitates was increased in immobilized or dehydrated patients.  Precipitation was reversible upon drug discontinuation.Renal precipitation has also been reported during postmarketing experience.[Ref]
-Uncommon (0.1% to 1%): Genital fungal infection, urinary casts, candidiasis, vaginitisRare (less than 0.1%): Glycosuria, hematuria, crystalluria[Ref]
-Severe and sometimes fatal reactions have been reported in term and premature newborns (younger than 28 days) treated with IV ceftriaxone and calcium-containing IV solutions; a crystalline material (ceftriaxone-calcium precipitate) has been observed in the lungs and kidneys at autopsy.  The same IV infusion line was used for this drug and calcium-containing solutions in some cases; precipitate was observed in the IV infusion line in some cases.  Ceftriaxone and calcium-containing solutions infused at different times by different IV lines resulted in at least 1 neonate fatality; there was no crystalline material observed at autopsy.Edema has also been reported during postmarketing experience.[Ref]
-Uncommon (0.1% to 1%): Pyrexia/fever, flushingRare (less than 0.1%): Edema, chills, drug fever, shiveringPostmarketing reports: Superinfection with nonsusceptible microorganisms, ceftriaxone-calcium precipitates/crystalline materialCephalosporin class:-Frequency not reported: Drug fever, superinfection[Ref]
-Several cephalosporins have been implicated in triggering seizures, especially in patients with renal dysfunction when dose was not reduced.[Ref]
-Uncommon (0.1% to 1%): Headache, dizziness, dysgeusiaRare (less than 0.1%): SeizuresPostmarketing reports: Convulsion, vertigo, kernicterusCephalosporin class:-Frequency not reported: Reversible hyperactivity, hypertonia, seizures triggered[Ref]
-Uncommon (0.1% to 1%): Increased alkaline phosphatasePostmarketing reports: Galactosemia test false positive, false-positive test for urinary glucose (nonenzymatic methods)Cephalosporin class:-Frequency not reported: Increased LDH, false-positive test for urinary glucose[Ref]
-An allergic reaction manifested by itching, maculopapular rash, hyperthermia, flushing has been reported in a patient with X-linked agammaglobulinemia in the absence of IgE.  T cell involvement was proposed as the mechanism.Cross-sensitivity with other cephalosporins and penicillins has occurred; however, the incidence is unknown.[Ref]
-Rare (less than 0.1%): Anaphylaxis/anaphylactic-type reactions (e.g., bronchospasms), serum sicknessFrequency not reported: Allergic reaction, cross-sensitivityPostmarketing reports: Anaphylaxis (anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis, thrombocytopenia), anaphylactic reaction, anaphylactoid reaction, hypersensitivityCephalosporin class:-Frequency not reported: Allergic reactions, serum sickness-like reaction[Ref]
-Rare (less than 0.1%): PalpitationsFrequency not reported: Thrombus[Ref]
-Rare (less than 0.1%): Bronchospasm, epistaxis, allergic pneumonitis[Ref]
-1. "Product Information. Rocephin (ceftriaxone)." Roche Laboratories, Nutley, NJ. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Pletz MW,  Rau M,  Bulitta J, et al. "Ertapenem pharmacokinetics and impact on intestinal microflora, in comparison to those of ceftriaxone, after multiple dosing in male and female volunteers." Antimicrob Agents Chemother 48 (2004): 3765-72
-5. Dattwyler RJ, Luft BJ, Kunkel MJ, Finkel MF, Wormser GP, Rush TJ, Grunwaldt E, Agger WA, Franklin M, Oswald D, Cockey L, Maladorno D "Ceftriaxone compared with doxycycline for the treatment of acute disseminated Lyme disease." N Engl J Med 337 (1997): 289-94
-6. Hayward CJ, Nafziger AN, Kohlhepp SJ, Bertino JS "Investigation of bioequivalence and tolerability of intramuscular ceftriaxone injections by using 1% lidocaine, buffered lidocaine, and sterile water diluents." Antimicrob Agents Chemother 40 (1996): 485-7
-7. Nahata MC, Barson WJ "Ceftriaxone: a third-generation cephalosporin." Drug Intell Clin Pharm 19 (1985): 900-6
-8. Rey D, Martin T, Albert A, Pasquali JL "Ceftriaxone-induced granulopenia related to a peculiar mechanism of granulopoiesis inhibition." Am J Med 87 (1989): 591-2
-9. Duncan CJ,  Evans TJ,  Seaton RA "Ceftriaxone-related agranulocytosis during outpatient parenteral antibiotic therapy." J Antimicrob Chemother 65 (2010): 2483-4
-10. Valesova H, Mailer J, Havlik J, Hulinska D, Hercogova J "Long-term results in patients with Lyme arthritis following treatment with ceftriaxone." Infection 24 (1996): 98-102
-11. Fallon BA,  Keilp JG,  Corbera KM, et al. "A randomized, placebo-controlled trial of repeated IV antibiotic therapy for Lyme encephalopathy." Neurology  (2007):
-12. Hull RL, Brandon D "Thrombocytopenia possibly caused by structurally related third-generation cephalosporins." Ann Pharmacother 25 (1991): 135-6
-13. Nadelman RB, Arlin Z, Wormser GP "Life-threatening complications of empiric ceftriaxone therapy for seronegative Lyme disease." South Med J 84 (1991): 1263-5
-14. Valesova M, Mailer H, Havlik J, Hulinska D, Hercogova J "Long-term results in patients with lyme arthritis following treatment with ceftriaxone." Infection 24 (1996): 98-102
-15. "Hemolysis from Ceftriaxone." Med Lett Drugs Ther 44 (2002): 100-101
-16. Baciewicz AM, Skiest DJ, Weinshel EL "Ceftriaxone-associated neutropenia." Drug Intell Clin Pharm 22 (1988): 826-7
-17. Ramakrishnan K,  Scheid DC "Diagnosis and management of acute pyelonephritis in adults." Am Fam Physician 71 (2005): 933-42
-18. Bickford CL,  Spencer AP "Biliary sludge and hyperbilirubinemia associated with ceftriaxone in an adult: case report and review of the literature." Pharmacotherapy 25 (2005): 1389-95
-19. Rivkin AM "Hepatocellular enzyme elevations in a patient receiving ceftriaxone." Am J Health Syst Pharm 62 (2005): 2006-2010
-20. Simon N,  Dussol B,  Sampol E, et al. "Population pharmacokinetics of ceftriaxone and pharmacodynamic considerations in haemodialysed patients." Clin Pharmacokinet 45 (2006): 493-501
-21. Eichmann A, Weidmann G, Havas L "One-dose treatment of acute uncomplicated gonorrhoea of male patients with ceftriaxone Ro 13-9904, a new parenteral cephalosporin: a dose-range finding pilot study." Chemotherapy 27 (1981): 62-9
-22. Zinberg J, Chernaik R, Coman E, Rosenblatt R, brandt LJ "Reversible symptomatic biliary obstruction associated with ceftriaxone pseudolithiasis." Am J Gastroenterol 86 (1991): 1251-4
-23. Pigrau C, Pahissa A, Gropper S, Sureda D, Martinez Vazquez JM "Ceftriaxone-associated biliary pseudolithiasis in adults." Lancet 2 (1989): 165
-24. Thomas P, Daly S, Misan G, Steele T "Comparison of the efficacy and adverse effect profile of cefotaxime and ceftriaxone in ICU patients with susceptible infections." Diagn Microbiol Infect Dis 15 (1992): 89-97
-25. Arredondo JL, Diaz V, Gaitan H, Maradiegue E, Oyarzun E, Paz R, Reynal JL, Stamm W, Zambrano D "Oral clindamycin and ciprofloxacin versus intramuscular ceftriaxone and oral doxycycline in the treatment of mild-to-moderate pelvic inflammatory disease in outpatients." Clin Infect Dis 24 (1997): 170-8
-26. Rohacova H, Hancil J, Hulinska D, Mailer H, Havlik J "Ceftriaxone in the treatment of lyme neuroborreliosis." Infection 24 (1996): 88-90
-27. Lopez AJ, O'Keefe P, Morrissey M, Pickleman J "Ceftriaxone-induced cholelithiasis." Ann Intern Med 115 (1991): 712-4
-28. Meyboom RH, Kuiper H, Jansen A "Ceftriaxone and reversible cholelithiasis." BMJ 297 (1988): 858
-29. Maranan MC, Gerber SI, Miller GG "Gallstone pancreatitis caused by ceftriaxone." Pediat Inf Dis J 17 (1998): 662-3
-30. Bailey RR, Walker RJ, Cook HB "Ceftriaxone-induced colitis." N Z Med J 98 (1985): 969
-31. Wormser GP "Clinical practice. Early Lyme disease." N Engl J Med 354 (2006): 2794-801
-32. Moskovitz, BL "Clinical adverse effects during ceftriaxone therapy." Am J Med 77 (1984): 84-8
-33. Kirejczyk WM, Crowe HM, Mackay IM, Quintiliani R, Cronin EB "Disappearing "gallstones": biliary pseudolithiasis complicating ceftriaxone therapy." Am J Roentgenol 159 (1992): 329-30
-34. Grasberger H, Otto B, Loeschke K "Ceftriaxone-associated nephrolithiasis." Ann Pharmacother 34 (2000): 1076-7
-35. Toll LL, Lee M, Sharifi R "Cefoxitin-induced interstitial nephritis." South Med J 80 (1987): 274-5
-36. Gargollo PC,  Barnewolt CE,  Diamond DA "PEDIATRIC CEFTRIAXONE NEPHROLITHIASIS." J Urol 173 (2005): 577-578
-37. Haskell RJ, Fujita NK, Stevenson JA, Border WA "Cefoxitin-induced interstitial nephritis." Arch Intern Med 141 (1981): 1557
-38. Kudva-Patel V,  White E,  Karnani R,  Collins MH,  Assa'ad AH "Drug reaction to ceftriaxone in a child with X-linked agammaglobulinemia." J Allergy Clin Immunol 109(5 Pt 1) (2002): 888-9
-39. Moallem HJ, Garratty G, Wakeham M, Dial S, Oligario A, Gondi A, Rao SP, Fikrig S "Ceftriaxone-related fatal hemolysis in an adolescent with perinatally acquired human immunodeficiency virus infection." J Pediatr 133 (1998): 279-81
-40. Filipe P, Almeida RSLS, Rodrigo FG "Occupational allergic contact dermatitis from cephalosporins." Contact Dermatitis 34 (1996): 226
-41. Lewis JD "Liquid sucralfate in the management of aphthous ulcers." Am Fam Physician 64 (2001): 737
-42. Baniasadi S,  Fahimi F,  Mansouri D "Serum sickness-like reaction associated with cefuroxime and ceftriaxone." Ann Pharmacother 41 (2007):
-43. Thiella G, Bucci L, Agrati AM, Palmieri G "Nonfatal anaphylactic shock following an unusual sensitization." J Occup Med 31 (1989): 490
-44. Romano A, Mayorga C, Torres MJ, Artesani MC, Suau R, Sanchez F, Perez E, Venuti A, Blanca M "Immediate allergic reactions to cephalosporins: Cross-reactivity and selective responses." J Allerg Clin Immunol 106 (2000): 1177-83
-Not all side effects for ceftriaxone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+This drug was generally well tolerated.  The most common side effects were eosinophilia, leukopenia, thrombocytopenia, diarrhea, rash, and increased hepatic enzymes.  Incidence of side effects was somewhat higher in children and with higher doses.
+Very common (10% or more): Warmth/tightness/induration with IM injection (up to 17%)Uncommon (0.1% to 1%): Injection site pain/discomfort, injection site induration, injection site tenderness, phlebitis after IV administration
+Local side effects were increased if water was used as the diluent instead of lidocaine (lignocaine).IM injection has been associated with warmth, tightness, and induration in 17% of patients receiving the 350 mg/mL solution and 5% of patients receiving the 250 mg/mL solution.
+Common (1% to 10%): Eosinophilia, thrombocytosis, leukopenia, thrombocytopenia, neutropeniaUncommon (0.1% to 1%): Anemia, granulocytopenia, coagulopathy, hemolytic anemia, lymphopenia, prolonged prothrombin timeRare (less than 0.1%): Agranulocytosis, lymphocytosis, leukocytosis, monocytosis, basophilia, decreased prothrombin time, hemolysis (fatal)Frequency not reported: Bleeding, hypoprothrombinemiaPostmarketing reports: Coombs' test false positiveCephalosporin class:-Frequency not reported: Aplastic anemia, hemorrhage, positive direct Coombs' test
+Nineteen cases (10 adults, 9 children) of immune hemolytic anemia have been reported, 9 of which were fatal.  Symptoms occurred within minutes or weeks of drug administration.  Initial symptoms included tachycardia, hypotension, dyspnea, pallor, back or leg pain, and decreased hemoglobin levels.  Most of these patients had preexisting hematologic or immunodeficiency disorders, and 1 had Crohn's disease.Bleeding and bruising (due to hypoprothrombinemia) may have been more prevalent in patients with liver or renal dysfunction, malnourished patients, patients with low vitamin K levels, and patients using this drug for a prolonged duration.Hemolytic anemia and agranulocytosis have also been reported during postmarketing experience.  Most cases of agranulocytosis (less than 500/mm3) were after 10 days of therapy and after total doses of at least 20 g.
+Shadows on sonograms of the gallbladder (mistaken for gallstones, but actually ceftriaxone-calcium precipitates) have been reported, primarily after doses higher than the standard recommended dose.  Prospective studies showed variable incidence of precipitation with IV administration in children (more than 30% in some studies), but slow infusion (20 to 30 minutes) appeared to lower the incidence.  Risk of forming precipitates was increased by duration of therapy exceeding 14 days, renal failure, dehydration, or total parenteral nutrition.  Effect was usually asymptomatic, but clinical symptoms (e.g., pain, nausea, vomiting) have been reported.  Precipitation was usually reversible upon drug discontinuation.Both pseudocholelithiasis (biliary "sludging") and true cholelithiasis (ceftriaxone-containing gallstone) have been reported in association with doses greater than 2 g/day.  A false-positive hepatobiliary scan occurred in a patient receiving this drug.  A repeat test 2 weeks after this drug was discontinued was normal.Hepatitis has also been reported during postmarketing experience.
+Common (1% to 10%): Increased hepatic enzymes, increased ALT, increased ASTUncommon (0.1% to 1%): Increased bilirubinRare (less than 0.1%): Hepatitis, jaundice, gallbladder sludge, biliary lithiasis, cholestatic jaundiceFrequency not reported: Transient elevations in liver function tests, shadows on sonograms of the gallbladder, cholelithiasis, pseudocholelithiasis, false-positive hepatobiliary scanPostmarketing reports: Gallbladder precipitationCephalosporin class:-Frequency not reported: Hepatic dysfunction, cholestasis
+Common (1% to 10%): Diarrhea/loose stoolsUncommon (0.1% to 1%): Nausea, vomitingRare (less than 0.1%): Colitis, flatulence, dyspepsia, abdominal pain, pseudomembranous colitisFrequency not reported: Clostridium difficile-associated diarrheaPostmarketing reports: Pancreatitis, stomatitis, glossitis
+The onset of pseudomembranous colitis symptoms has been reported during or after antimicrobial treatment.
+A case of AGEP has been reported after administration of this drug.  This was characterized by the appearance of an erythematous and generalized scarlatiniform rash with plaques covered by small nonfollicular pustules on the thighs, abdomen, and lower extremities.  This drug was discontinued and the AGEP was completely resolved after 2 weeks.Allergic dermatitis and urticaria have also been reported during postmarketing experience.A case of occupational contact dermatitis has been reported in a nurse who prepared cephalosporin solutions for administration to patients.  The dermatitis resolved after the nurse stopped preparing the solutions.
+Common (1% to 10%): RashUncommon (0.1% to 1%): Pruritus, maculopapular rash/exanthema, allergic dermatitis, diaphoresisRare (less than 0.1%): UrticariaFrequency not reported: Severe dermatitis, exfoliative erythroderma, bruisingPostmarketing reports: Exanthema, severe cutaneous reactions, erythema multiforme, Stevens-Johnson syndrome, Lyell's syndrome/toxic epidermal necrolysis, acute generalized exanthematous pustulosis (AGEP)Cephalosporin class:-Frequency not reported: Contact dermatitis
+Common (1% to 10%): Increased BUN/serum ureaUncommon (0.1% to 1%): Increased blood creatinineRare (less than 0.1%): Renal precipitations, nephrolithiasis, acute renal tubular necrosisPostmarketing reports: Oliguria, ureteric obstruction, post-renal acute renal failureCephalosporin class:-Frequency not reported: Renal dysfunction, toxic nephropathy
+Cases of renal precipitation have been reported, primarily in children older than 3 years who received either high daily doses (e.g., at least 80 mg/kg/day) or total doses exceeding 10 g and who had other risk factors (e.g., fluid restrictions, confinement to bed).  Risk of forming precipitates was increased in immobilized or dehydrated patients.  Precipitation was reversible upon drug discontinuation.Renal precipitation has also been reported during postmarketing experience.
+Uncommon (0.1% to 1%): Genital fungal infection, urinary casts, candidiasis, vaginitisRare (less than 0.1%): Glycosuria, hematuria, crystalluria
+Severe and sometimes fatal reactions have been reported in term and premature newborns (younger than 28 days) treated with IV ceftriaxone and calcium-containing IV solutions; a crystalline material (ceftriaxone-calcium precipitate) has been observed in the lungs and kidneys at autopsy.  The same IV infusion line was used for this drug and calcium-containing solutions in some cases; precipitate was observed in the IV infusion line in some cases.  Ceftriaxone and calcium-containing solutions infused at different times by different IV lines resulted in at least 1 neonate fatality; there was no crystalline material observed at autopsy.Edema has also been reported during postmarketing experience.
+Uncommon (0.1% to 1%): Pyrexia/fever, flushingRare (less than 0.1%): Edema, chills, drug fever, shiveringPostmarketing reports: Superinfection with nonsusceptible microorganisms, ceftriaxone-calcium precipitates/crystalline materialCephalosporin class:-Frequency not reported: Drug fever, superinfection
+Several cephalosporins have been implicated in triggering seizures, especially in patients with renal dysfunction when dose was not reduced.
+Uncommon (0.1% to 1%): Headache, dizziness, dysgeusiaRare (less than 0.1%): SeizuresPostmarketing reports: Convulsion, vertigo, kernicterusCephalosporin class:-Frequency not reported: Reversible hyperactivity, hypertonia, seizures triggered
+Uncommon (0.1% to 1%): Increased alkaline phosphatasePostmarketing reports: Galactosemia test false positive, false-positive test for urinary glucose (nonenzymatic methods)Cephalosporin class:-Frequency not reported: Increased LDH, false-positive test for urinary glucose
+An allergic reaction manifested by itching, maculopapular rash, hyperthermia, flushing has been reported in a patient with X-linked agammaglobulinemia in the absence of IgE.  T cell involvement was proposed as the mechanism.Cross-sensitivity with other cephalosporins and penicillins has occurred; however, the incidence is unknown.
+Rare (less than 0.1%): Anaphylaxis/anaphylactic-type reactions (e.g., bronchospasms), serum sicknessFrequency not reported: Allergic reaction, cross-sensitivityPostmarketing reports: Anaphylaxis (anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis, thrombocytopenia), anaphylactic reaction, anaphylactoid reaction, hypersensitivityCephalosporin class:-Frequency not reported: Allergic reactions, serum sickness-like reaction
+Rare (less than 0.1%): PalpitationsFrequency not reported: Thrombus
+Rare (less than 0.1%): Bronchospasm, epistaxis, allergic pneumonitis
 Black, tarry stools
 chest pain
 chills
@@ -87,11 +34,7 @@ sores, ulcers, or white spots on the lips or in the mouth
 swollen glands
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Diarrhea
-
-
 Abdominal or stomach cramps or tenderness
 back, leg, or stomach pains
 bleeding gums
@@ -145,8 +88,6 @@ vomiting of blood
 watery or bloody diarrhea
 wheezing
 yellowing of the eyes or skin
-
-
 Blistering, peeling, or loosening of the skin
 chest pain
 coughing up blood
@@ -166,8 +107,6 @@ skin rash with a general disease
 swelling
 trouble sitting still
 unpleasant breath odor
-
-
 Acid or sour stomach
 belching
 bloated
@@ -184,9 +123,6 @@ pain during sexual intercourse
 passing gas
 stomach discomfort, upset, or pain
 thick, white vaginal discharge with no odor or with a mild odor
-
-
 Hives or welts
 redness, swelling, or soreness of the tongue
 swelling or inflammation of the mouth
-

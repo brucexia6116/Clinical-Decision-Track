@@ -1,28 +1,21 @@
-Generic Name: acetaminophen / caffeine / dihydrocodeine
-Applies to acetaminophen / caffeine / dihydrocodeine: capsules, tablets
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Constipation; dizziness; drowsiness; headache; light-headedness; mild itching; nausea; sweating; tiredness; vomiting.
 Severe allergic reactions (rash; hives; itching; difficulty breathing or swallowing; tightness in the chest; swelling of the mouth, face, lips, throat, or tongue); change in the amount of urine produced; confusion; fainting; fast, slow, or irregular heartbeat; fever, chills, or persistent sore throat; hallucinations; mental or mood changes (eg, agitation, anxiety, depression); red, swollen, blistered, or peeling skin; ringing in the ears; seizures; severe or persistent constipation; severe or persistent dizziness, drowsiness, headache, or light-headedness; shortness of breath; slow, shallow, or difficult breathing; symptoms of liver problems (eg, yellowing of the eyes or skin, dark urine, pale stools, loss of appetite, unusual or severe stomach pain); trouble urinating; unusual bruising or bleeding; unusual tiredness or weakness; vision changes.
-
-
-Applies to acetaminophen / caffeine / dihydrocodeine: oral capsule, oral tablet
-The most frequently expected adverse reactions based on the individual components may include lightheadedness, dizziness, drowsiness, sedation, nausea, vomiting, constipation, pruritus and skin reactions.[Ref]
-Acetaminophen: Frequency not reported: Hepatotoxicity[Ref]
-Dihydrocodeine: Frequency not reported: Respiratory depression, cough suppression[Ref]
-Dihydrocodeine: Frequency not reported: Confusion, physical and psychological dependence, hallucinations vivid dreamsCaffeine: Frequency not reported: Anxiety, anxiety neurosis, excitement, insomnia, irritability, restlessness, tenseness[Ref]
-Dihydrocodeine: Frequency not reported: Sweating, pruritus, skin reactions Acetaminophen:Rare (less than 0.1%): Serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN) Caffeine: Frequency not reported: Urticaria[Ref]
-Dihydrocodeine: Frequency not reported: Anaphylactoid reactions, hypersensitivity reactionsAcetaminophen: Rare (less than 0.1%): Anaphylactoid reactions Frequency not reported: Hypersensitivity reactions including urticarial or erythematous skin reactions, laryngeal edema, angioedema[Ref]
-Postmarketing reports: Serotonin syndromeDihydrocodeine: Rare (less than 0.1%): NarcosisFrequency not reported: Lightheadedness, dizziness, drowsiness, sedation, headacheCaffeine: Frequency not reported: Headaches, lightheadedness, tremor[Ref]
-Dihydrocodeine:Rare (less than 0.1%): Acute renal failureFrequency not reported: Granulomatous interstitial nephritisCaffeine: Frequency not reported: Diuresis[Ref]
-Dihydrocodeine: Frequency not reported: Orthostatic hypotensionCaffeine: Frequency not reported: Extrasystoles, palpitations, tachycardia[Ref]
-Postmarketing reports: Adrenal insufficiencyOpioids: Frequency not reported: Androgen deficiency[Ref]
-Chronic opioid use may influence the hypothalamic-pituitary-gonadal axis and lead to androgen deficiency; however, the causal role of opioids is unknown due to the lack of studies into the many medical, physical, lifestyle, and psychological stressors that influence gonadal hormone levels.[Ref]
-Dihydrocodeine: Frequency not reported: Nausea, vomiting, constipation, abdominal pain, diarrhea, dry mouth, indigestion, spasm of biliary tractCaffeine: Frequency not reported: Diarrhea, nausea, stomach pain, vomiting[Ref]
-Dihydrocodeine: Frequency not reported: Urinary retention[Ref]
-Acetaminophen: Frequency not reported: Thrombocytopenia, leukopenia, pancytopenia, neutropenia, thrombocytopenic purpura, agranulocytosis[Ref]
-Dihydrocodeine: Frequency not reported: Anorexia[Ref]
-Dihydrocodeine: Frequency not reported: Miosis  Caffeine: Frequency not reported: Scintillating scotoma[Ref]
-Dihydrocodeine: Frequency not reported: Fatigue Caffeine: Frequency not reported: Tinnitus[Ref]
-1. "Product Information. APAP/Caffeine/Dihydrocodeine Bitartrate (acetaminophen / caffeine / dihydrocodeine)." Xspire Pharma, Ridgeland, MS. 
-2. "Product Information. Trezix (acetaminophen / caffeine / dihydrocodeine)." WraSer Pharmaceuticals, Madison, MS. 
+The most frequently expected adverse reactions based on the individual components may include lightheadedness, dizziness, drowsiness, sedation, nausea, vomiting, constipation, pruritus and skin reactions.
+Acetaminophen: Frequency not reported: Hepatotoxicity
+Dihydrocodeine: Frequency not reported: Respiratory depression, cough suppression
+Dihydrocodeine: Frequency not reported: Confusion, physical and psychological dependence, hallucinations vivid dreamsCaffeine: Frequency not reported: Anxiety, anxiety neurosis, excitement, insomnia, irritability, restlessness, tenseness
+Dihydrocodeine: Frequency not reported: Sweating, pruritus, skin reactions Acetaminophen:Rare (less than 0.1%): Serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN) Caffeine: Frequency not reported: Urticaria
+Dihydrocodeine: Frequency not reported: Anaphylactoid reactions, hypersensitivity reactionsAcetaminophen: Rare (less than 0.1%): Anaphylactoid reactions Frequency not reported: Hypersensitivity reactions including urticarial or erythematous skin reactions, laryngeal edema, angioedema
+Postmarketing reports: Serotonin syndromeDihydrocodeine: Rare (less than 0.1%): NarcosisFrequency not reported: Lightheadedness, dizziness, drowsiness, sedation, headacheCaffeine: Frequency not reported: Headaches, lightheadedness, tremor
+Dihydrocodeine:Rare (less than 0.1%): Acute renal failureFrequency not reported: Granulomatous interstitial nephritisCaffeine: Frequency not reported: Diuresis
+Dihydrocodeine: Frequency not reported: Orthostatic hypotensionCaffeine: Frequency not reported: Extrasystoles, palpitations, tachycardia
+Postmarketing reports: Adrenal insufficiencyOpioids: Frequency not reported: Androgen deficiency
+Chronic opioid use may influence the hypothalamic-pituitary-gonadal axis and lead to androgen deficiency; however, the causal role of opioids is unknown due to the lack of studies into the many medical, physical, lifestyle, and psychological stressors that influence gonadal hormone levels.
+Dihydrocodeine: Frequency not reported: Nausea, vomiting, constipation, abdominal pain, diarrhea, dry mouth, indigestion, spasm of biliary tractCaffeine: Frequency not reported: Diarrhea, nausea, stomach pain, vomiting
+Dihydrocodeine: Frequency not reported: Urinary retention
+Acetaminophen: Frequency not reported: Thrombocytopenia, leukopenia, pancytopenia, neutropenia, thrombocytopenic purpura, agranulocytosis
+Dihydrocodeine: Frequency not reported: Anorexia
+Dihydrocodeine: Frequency not reported: Miosis  Caffeine: Frequency not reported: Scintillating scotoma
+Dihydrocodeine: Frequency not reported: Fatigue Caffeine: Frequency not reported: Tinnitus
 It is possible that some side effects of Trezix may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

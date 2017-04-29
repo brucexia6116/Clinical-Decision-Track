@@ -1,29 +1,20 @@
-Generic Name: aliskiren
-Applies to aliskiren: oral tablet
 As well as its needed effects, aliskiren (the active ingredient contained in Tekturna) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking aliskiren, check with your doctor immediately:
 Some aliskiren side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to aliskiren: oral tablet
-Two cases of angioedema with respiratory symptoms were reported with aliskiren (the active ingredient contained in Tekturna) use in clinical studies, and two other cases of periorbital edema without respiratory symptoms were reported as possible angioedema and resulted in discontinuation.  The rate of angioedema cases in completed studies was 0.06%.  Twenty-six other cases of edema involving the face, hands, or whole body were reported with aliskiren use, including four which led to discontinuation.  In the placebo controlled studies, the incidence of edema involving the face, hands or whole body was 0.4% with aliskiren compared with 0.5% with placebo.[Ref]
-Frequency not reported: Angioedema (face, hands, and body) with or without respiratory symptomsPostmarketing reports: Angioedema[Ref]
-In women and the elderly (65 years of age or older), increases in diarrhea rates were evident starting at a dose of 150 mg daily.  Diarrhea and other GI symptoms were typically mild and rarely led to discontinuation.[Ref]
-Common (1% to 10%): Diarrhea, abdominal pain, dyspepsia, gastroesophageal reflux (these side effects appear to be dose related)Postmarketing reports: Nausea, vomiting[Ref]
-Common (1% to 10%): RashRare (less than 0.1%): Angioedema (involving the face, hands, or whole body)Postmarketing reports: Severe cutaneous adverse reactions (including Stevens Johnson syndrome and toxic epidermal necrolysis)[Ref]
-Uncommon (0.1% to 1%): Elevated uric acid, gout, renal stonesPostmarketing reports: Peripheral edema, hyponatremia[Ref]
-Episodes of tonic-clonic seizures were reported in two patients treated with aliskiren (the active ingredient contained in Tekturna) in the clinical trials.  One patient had predisposing causes for seizures and a negative electroencephalogram (EEG) and cerebral imaging following the seizures (the other patient's EEG and imaging results were not reported).  Aliskiren was discontinued and there was no rechallenge.[Ref]
-Frequency not reported: Headache, dizziness, fatigue, episodes of tonic-clonic seizures with loss of consciousness.[Ref]
-Frequency not reported: Nasopharyngitis, upper respiratory tract infection, cough[Ref]
-Rare (less than 0.1%): Hypotension[Ref]
-Uncommon (0.1% to 1%): Small decreases in hemoglobin and hematocrit Postmarketing reports: Increased blood creatinine[Ref]
+Two cases of angioedema with respiratory symptoms were reported with aliskiren (the active ingredient contained in Tekturna) use in clinical studies, and two other cases of periorbital edema without respiratory symptoms were reported as possible angioedema and resulted in discontinuation.  The rate of angioedema cases in completed studies was 0.06%.  Twenty-six other cases of edema involving the face, hands, or whole body were reported with aliskiren use, including four which led to discontinuation.  In the placebo controlled studies, the incidence of edema involving the face, hands or whole body was 0.4% with aliskiren compared with 0.5% with placebo.
+Frequency not reported: Angioedema (face, hands, and body) with or without respiratory symptomsPostmarketing reports: Angioedema
+In women and the elderly (65 years of age or older), increases in diarrhea rates were evident starting at a dose of 150 mg daily.  Diarrhea and other GI symptoms were typically mild and rarely led to discontinuation.
+Common (1% to 10%): Diarrhea, abdominal pain, dyspepsia, gastroesophageal reflux (these side effects appear to be dose related)Postmarketing reports: Nausea, vomiting
+Common (1% to 10%): RashRare (less than 0.1%): Angioedema (involving the face, hands, or whole body)Postmarketing reports: Severe cutaneous adverse reactions (including Stevens Johnson syndrome and toxic epidermal necrolysis)
+Uncommon (0.1% to 1%): Elevated uric acid, gout, renal stonesPostmarketing reports: Peripheral edema, hyponatremia
+Episodes of tonic-clonic seizures were reported in two patients treated with aliskiren (the active ingredient contained in Tekturna) in the clinical trials.  One patient had predisposing causes for seizures and a negative electroencephalogram (EEG) and cerebral imaging following the seizures (the other patient's EEG and imaging results were not reported).  Aliskiren was discontinued and there was no rechallenge.
+Frequency not reported: Headache, dizziness, fatigue, episodes of tonic-clonic seizures with loss of consciousness.
+Frequency not reported: Nasopharyngitis, upper respiratory tract infection, cough
+Rare (less than 0.1%): Hypotension
+Uncommon (0.1% to 1%): Small decreases in hemoglobin and hematocrit Postmarketing reports: Increased blood creatinine
 Common (1% to 10%): Back pain
-Rare (less than 0.1%): ParosmiaFrequency not reported: Tinnitus[Ref]
-1. "Product Information. Tekturna (aliskiren)." Novartis Pharmaceuticals, East Hanover, NJ. 
-2. Frampton JE,  Curran MP "Aliskiren: A Review of its Use in the Management of Hypertension." Drugs 67 (2007): 1767-1792
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+Rare (less than 0.1%): ParosmiaFrequency not reported: Tinnitus
 It is possible that some side effects of Tekturna may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Body aches or pain
 chills
 cough
@@ -38,8 +29,6 @@ runny nose
 sneezing
 sore throat
 unusual tiredness or weakness
-
-
 Ankle, knee, or great toe joint pain
 blood in the urine
 joint pain
@@ -52,8 +41,6 @@ nausea and vomiting
 pain in the groin or genitals
 sharp back pain just below the ribs
 swelling of the feet or lower legs
-
-
 Blistering, peeling, or loosening of the skin
 bloating or swelling of the face, arms, hands, lower legs, or feet
 itching
@@ -64,8 +51,6 @@ red, irritated eyes
 sores, ulcers, or white spots in the mouth or on the lips
 tingling of the hands or feet
 unusual weight gain or loss
-
-
 Acid or sour stomach
 back pain
 belching
@@ -75,4 +60,3 @@ indigestion
 muscle aches
 rash
 stomach discomfort, upset, or pain
-

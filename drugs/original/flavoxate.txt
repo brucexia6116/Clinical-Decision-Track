@@ -1,34 +1,16 @@
-Applies to flavoxate: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by flavoxate. In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking flavoxate, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with flavoxate may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to flavoxate: oral tablet
-Flavoxate is generally well tolerated and an estimated frequency of particular side effects is not available.[Ref]
-Cardiovascular side effects have included tachycardia and palpitation.[Ref]
-Gastrointestinal side effects have included nausea, vomiting, and dry mouth.[Ref]
-Ocular side effects have included increased ocular tension, blurred vision, and altered accommodation.[Ref]
-Nervous system side effects have included vertigo, headache, mental confusion, drowsiness, and nervousness.  These effects may be exaggerated in elderly patients.[Ref]
-Renal side effects have included dysuria, and obstructive uropathies of the lower urinary tract.[Ref]
-Hypersensitivity side effects have included urticaria and other unspecified dermatoses, eosinophilia, and elevated temperature.[Ref]
-Hematologic side effects have been reported rarely.  A case of reversible leukopenia has been reported.[Ref]
-1. "Product Information. Uripas (flavoxate)." SmithKline Beecham, Philadelphia, PA. 
-2. Baert L "Controlled double-blind trail of flavoxate in painful conditions of the lower urinary tract." Curr Med Res Opin 2 (1974): 631-5
-3. Delaere KP, Michiels HG, Debruyne FM, Moonen WA "Flavoxate hydrochloride in the treatment of detrusor instability." Urol Int 32 (1977): 377-81
-4. Pedersen E "Studies on the effect and mode of action of flavoxate in human urinary bladder and sphincter." Urol Int 32 (1977): 202-8
-5. Hebjorn S "Treatment of detrusor hyperreflexia in multiple sclerosis: a double- blind, crossover clinical trial comparing methantheline bromid (Banthine), flavoxate chloride (Urispas) and meladrazine tartrat (Lisidonil)." Urol Int 32 (1977): 209-17
-6. Jarvis GJ "A controlled trial of bladder drill and drug therapy in the management of detrusor instability." Br J Urol 53 (1981): 565-6
-7. Bradley DV, Cazort RJ "Relief of bladder spasm by flavoxate. A comparative study." J Clin Pharmacol J New Drugs 10 (1970): 65-8
-8. Milani R, Scalambrino S, Carrera S, Pezzoli P, Ruffmann R "Flavoxate hydrochloride for urinary urgency after pelvic radiotherapy: comparison of 600 mg versus 1200 mg daily dosages." J Int Med Res 16 (1988): 71-4
-Not all side effects for flavoxate may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Flavoxate is generally well tolerated and an estimated frequency of particular side effects is not available.
+Cardiovascular side effects have included tachycardia and palpitation.
+Gastrointestinal side effects have included nausea, vomiting, and dry mouth.
+Ocular side effects have included increased ocular tension, blurred vision, and altered accommodation.
+Nervous system side effects have included vertigo, headache, mental confusion, drowsiness, and nervousness.  These effects may be exaggerated in elderly patients.
+Renal side effects have included dysuria, and obstructive uropathies of the lower urinary tract.
+Hypersensitivity side effects have included urticaria and other unspecified dermatoses, eosinophilia, and elevated temperature.
+Hematologic side effects have been reported rarely.  A case of reversible leukopenia has been reported.
 Confusion
 eye pain
  skin rash or hives
 sore throat and fever
-
-
 Clumsiness or unsteadiness
 dizziness (severe)
 drowsiness (severe)
@@ -37,12 +19,8 @@ flushing or redness of face
 hallucinations (seeing, hearing, or feeling things that are not there)
 shortness of breath or troubled breathing 
 unusual excitement, nervousness, restlessness, or irritability
-
-
 Drowsiness
 dryness of mouth and throat 
-
-
 Blurred vision
 constipation
 difficult urination
@@ -55,4 +33,3 @@ increased sweating
 nausea or vomiting
 nervousness
 stomach pain
-

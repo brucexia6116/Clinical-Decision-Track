@@ -1,35 +1,19 @@
 Commonly reported side effects of erlotinib include: infection, conjunctivitis, diarrhea, dyspnea, keratoconjunctivitis, nausea, pruritus, skin rash, stomatitis, anorexia, and xeroderma.  See below for a comprehensive list of adverse effects.
-Applies to erlotinib: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by erlotinib. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking erlotinib:
-Some of the side effects that can occur with erlotinib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to erlotinib: oral tablet
-Very common (10% or more): Dyspnea (41%), cough (Up to 33%)Common (1% to 10%): Epistaxis, interstitial lung disease[Ref]
-Very common (10% or more): Rash (69 to 75%), alopecia (14%), pruritus (13%), dry skin (12%)Common (1% to 10%): Acne, dermatitis acneiform, folliculitis, skin fissures, paronychiaUncommon (0.1% to 1%): Hyperpigmentation, hirsutism, brittle/loose nails, eyebrow changesRare (less than 0.1%): Palmar plantar erythrodysesthesia syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis[Ref]
-Very common (10% or more): Diarrhea (48 to 54%), nausea (33%), vomiting (23%), stomatitis (17 to 22%), dyspepsia (17%), flatulence (13%), abdominal pain (11%)Common (1% to 10%): Gastrointestinal bleedingUncommon (0.1% to 1%): Gastrointestinal perforations[Ref]
-Common (1% to 10%): Liver function test abnormalities (including elevated ALT, AST, bilirubin)Rare (less than 0.1%): Hepatic failure and hepatorenal syndrome (including fatalities)[Ref]
-These elevations were mostly transient or associated with liver metastases.A pharmacokinetic study in patients with advanced solid tumors and moderate hepatic impairment according to the Child-Pugh criteria has been reported.  In this study, 10 of the 15 patients died on treatment or within 30 days of the last dose.  Eight of these patients died from progressive disease, one patient died from hepatorenal syndrome, and one patient died from rapidly progressing liver failure.  Six out of the 10 patients who died had baseline total bilirubin greater than 3 times the upper limit of normal suggesting severe, rather than moderate, hepatic impairment.  All patients had hepatic impairment due to advanced cancer with liver involvement such as hepatocellular carcinoma, cholangiocarcinoma, or liver metastases.[Ref]
-The most common side effects included rash, diarrhea, anorexia, dyspnea, cough, fatigue, nausea, and vomiting.[Ref]
-Very common (10% or more): Infection (24 to 31%)[Ref]
-Very common (10% or more): Conjunctivitis (12%), keratoconjunctivitis sicca (12%)Common (1% to 10%): KeratitisUncommon (0.1% to 1%): Eyelash changesRare (less than 0.1%): Corneal ulcerations or perforationsPost-marketing surveillance: Uveitis[Ref]
+Very common (10% or more): Dyspnea (41%), cough (Up to 33%)Common (1% to 10%): Epistaxis, interstitial lung disease
+Very common (10% or more): Rash (69 to 75%), alopecia (14%), pruritus (13%), dry skin (12%)Common (1% to 10%): Acne, dermatitis acneiform, folliculitis, skin fissures, paronychiaUncommon (0.1% to 1%): Hyperpigmentation, hirsutism, brittle/loose nails, eyebrow changesRare (less than 0.1%): Palmar plantar erythrodysesthesia syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis
+Very common (10% or more): Diarrhea (48 to 54%), nausea (33%), vomiting (23%), stomatitis (17 to 22%), dyspepsia (17%), flatulence (13%), abdominal pain (11%)Common (1% to 10%): Gastrointestinal bleedingUncommon (0.1% to 1%): Gastrointestinal perforations
+Common (1% to 10%): Liver function test abnormalities (including elevated ALT, AST, bilirubin)Rare (less than 0.1%): Hepatic failure and hepatorenal syndrome (including fatalities)
+These elevations were mostly transient or associated with liver metastases.A pharmacokinetic study in patients with advanced solid tumors and moderate hepatic impairment according to the Child-Pugh criteria has been reported.  In this study, 10 of the 15 patients died on treatment or within 30 days of the last dose.  Eight of these patients died from progressive disease, one patient died from hepatorenal syndrome, and one patient died from rapidly progressing liver failure.  Six out of the 10 patients who died had baseline total bilirubin greater than 3 times the upper limit of normal suggesting severe, rather than moderate, hepatic impairment.  All patients had hepatic impairment due to advanced cancer with liver involvement such as hepatocellular carcinoma, cholangiocarcinoma, or liver metastases.
+The most common side effects included rash, diarrhea, anorexia, dyspnea, cough, fatigue, nausea, and vomiting.
+Very common (10% or more): Infection (24 to 31%)
+Very common (10% or more): Conjunctivitis (12%), keratoconjunctivitis sicca (12%)Common (1% to 10%): KeratitisUncommon (0.1% to 1%): Eyelash changesRare (less than 0.1%): Corneal ulcerations or perforationsPost-marketing surveillance: Uveitis
 Common (1% to 10%): Renal insufficiencyUncommon (0.1% to 1%): Nephritis, proteinuria
-Very common (10% or more): Fatigue (Up to 73%), pyrexia (36%)[Ref]
+Very common (10% or more): Fatigue (Up to 73%), pyrexia (36%)
 Common (1% to 10%): Myocardial infarction/ischemia, cerebrovascular accident
 Very common (10% or more): Anorexia (52%), weight decreased (39%)
 Very common (10% or more): Rigors (12%)Post-marketing surveillance: Myopathy, including rhabdomyolysis, in combination with statin therapy
 Very common (10% or more): Headache (15%), neuropathy (13%)
 Very common (10% or more): Depression (19%)
-1. Liu V,  White DA,  Zakowski MF, et al. "Pulmonary toxicity associated with erlotinib." Chest 132 (2007): 1042-4
-2. "Product Information. Tarceva (erlotinib)." Genentech, South San Francisco, CA. 
-3. Marquez G,  Herrera-Acosta E,  Vidal I,  Galvany L,  Iglesias M,  Umbert P "A case of trichomegaly of the eyelashes and facial hypertrichosis induced by erlotinib (Tarceva)." Int J Dermatol 48 (2009): 97-8
-4. PharmaLive "Skin rash actually signifies better outcomes for pancreatic and lung cancer patients. Available from: URL: http://pharmalive.com/news/Print.cfm?articleid=456520"   ([2007 Jul 3]):
-5. Cuetara MS,  Aguilar A,  Martin L,  Aspiroz C,  Del Palacio A "Erlotinib associated with rosacea-like folliculitis and Malassezia sympodialis." Br J Dermatol 155 (2006): 477-9
-6. Pellegrinotti M,  Fimognari FL,  Franco A,  Repetto L,  Pastorelli R "Erlotinib-induced hepatitis complicated by fatal lactic acidosis in an elderly man with lung cancer." Ann Pharmacother 43 (2009): 542-5
-7. Lee SM,  Buchler T,  Joseph T,  Lai C "Bilateral eardrum perforation after long-term treatment with erlotinib." J Clin Oncol 26 (2008): 2582-4
-Not all side effects for erlotinib may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Burning, tingling, numbness or pain in the hands, arms, feet, or legs
 cough or hoarseness
 diarrhea (severe)
@@ -41,8 +25,6 @@ rash (severe)
 sensation of pins and needles
 stabbing chest pain
 tightness in the chest
-
-
 Bloody or black, tarry stools
 blurred vision
 chest pain or discomfort
@@ -59,8 +41,6 @@ sudden, severe weakness in the arm or leg on one side of the body
 sweating
 vision changes
 vomiting of blood or material that looks like coffee grounds
-
-
 Agitation
 blistering, peeling, or loosening of the skin
 bloody nose
@@ -92,8 +72,6 @@ tenderness in the stomach area
 trouble breathing
 unusual tiredness or weakness
 yellow eyes or skin
-
-
 Acid or sour stomach
 belching
 blemishes on the skin
@@ -133,13 +111,8 @@ tiredness
 trouble or inability to sleep
 trouble with concentrating
 weight loss
-
-
 Loosening of the fingernails
 redness or soreness around the fingernails
-
-
 Brittle and loose nails
 discharge, excessive tearing
 increased hair growth, especially on the face
-

@@ -1,46 +1,27 @@
-Generic Name: travoprost ophthalmic
-Applies to travoprost ophthalmic: ophthalmic solution
-In addition to its needed effects, some unwanted effects may be caused by travoprost ophthalmic (the active ingredient contained in Izba). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking travoprost ophthalmic:
-Some of the side effects that can occur with travoprost ophthalmic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to travoprost ophthalmic: ophthalmic solution
-Very common (10% or more): Ocular hyperemia (up to 50%)Common (1% to 10%): Decreased visual acuity, eye discomfort, foreign body sensation, eye pain, eyelid pruritus, abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage, tearingUncommon (0.1% to 1%): Corneal erosion, uveitis, iritis, anterior chamber inflammation, punctate keratitis, eye discharge, erythema of eyelid, periorbital edema, ectropion cataract, eyelid margin crusting, growth of eyelashes, eyelash discoloration, asthenopiaRare (less than 0.1%): Iridocyclitis, eye inflammation, photopsia, eyelid eczema, conjunctival edema, halo vision, conjunctival follicles, eye hypoesthesia, meibomianitis, anterior chamber pigmentation, mydriasis, eyelash thickening, macular edema, sunken eyesPostmarketing reports: Periorbital/lid changes (including deepening of the eyelid sulcus)[Ref]
-Uncommon (0.1% to 1%): Skin hyperpigmentation (periocular), skin discoloration, abnormal hair texture, hypertrichosisRare (less than 0.1%): Allergic dermatitis, contact dermatitis, erythema, rash, hair color changes, madarosisFrequency not reported: Pruritus, abnormal hair growth[Ref]
-Common (1% to 10%): Angina pectoris, bradycardia, chest pain, hypertension, hypotensionUncommon (0.1% to 1%): PalpitationsRare (less than 0.1%): Irregular heart rate, decreased heart rate, decreased diastolic blood pressure, increased systolic blood pressureFrequency not reported: Tachycardia[Ref]
-Common (1% to 10%): Dyspepsia, gastrointestinal disorderRare (less than 0.1%): Reactivated peptic ulcer, constipation, dry mouthFrequency not reported: Diarrhea, abdominal pain, nausea[Ref]
-Common (1% to 10%): Prostate disorder, urinary incontinence, urinary tract infectionsFrequency not reported: Dysuria, increased prostatic specific antigen[Ref]
-Common (1% to 10%): Arthritis, back painUncommon (0.1% to 1%): Shoulder painRare (less than 0.1%): Musculoskeletal painFrequency not reported: Arthralgia[Ref]
-Common (1% to 10%): HeadacheUncommon (0.1% to 1%): DizzinessRare (less than 0.1%): DysgeusiaFrequency not reported: Vertigo, tinnitus[Ref]
-Common (1% to 10%): Bronchitis, cold/flu syndrome, sinusitisUncommon (0.1% to 1%): Dyspnea, asthma, nasal congestion, throat irritationRare (less than 0.1%): Respiratory disorder, oropharyngeal pain, cough, dysphoniaFrequency not reported: Aggravated asthma[Ref]
-Common (1% to 10%): Hypercholesterolemia[Ref]
-Common (1% to 10%): PainUncommon (0.1% to 1%): Asthenia, malaise[Ref]
-Common (1% to 10%): Anxiety, depression[Ref]
-Rare (less than 0.1%): Herpes simplex, herpetic keratitis[Ref]
-The most commonly reported side effect was ocular hyperemia.[Ref]
-Uncommon (0.1% to 1%): Hypersensitivity, seasonal allergy[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Travatan (travoprost ophthalmic)" Alcon Laboratories Inc, Fort Worth, TX. 
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Izba may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Ocular hyperemia (up to 50%)Common (1% to 10%): Decreased visual acuity, eye discomfort, foreign body sensation, eye pain, eyelid pruritus, abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage, tearingUncommon (0.1% to 1%): Corneal erosion, uveitis, iritis, anterior chamber inflammation, punctate keratitis, eye discharge, erythema of eyelid, periorbital edema, ectropion cataract, eyelid margin crusting, growth of eyelashes, eyelash discoloration, asthenopiaRare (less than 0.1%): Iridocyclitis, eye inflammation, photopsia, eyelid eczema, conjunctival edema, halo vision, conjunctival follicles, eye hypoesthesia, meibomianitis, anterior chamber pigmentation, mydriasis, eyelash thickening, macular edema, sunken eyesPostmarketing reports: Periorbital/lid changes (including deepening of the eyelid sulcus)
+Uncommon (0.1% to 1%): Skin hyperpigmentation (periocular), skin discoloration, abnormal hair texture, hypertrichosisRare (less than 0.1%): Allergic dermatitis, contact dermatitis, erythema, rash, hair color changes, madarosisFrequency not reported: Pruritus, abnormal hair growth
+Common (1% to 10%): Angina pectoris, bradycardia, chest pain, hypertension, hypotensionUncommon (0.1% to 1%): PalpitationsRare (less than 0.1%): Irregular heart rate, decreased heart rate, decreased diastolic blood pressure, increased systolic blood pressureFrequency not reported: Tachycardia
+Common (1% to 10%): Dyspepsia, gastrointestinal disorderRare (less than 0.1%): Reactivated peptic ulcer, constipation, dry mouthFrequency not reported: Diarrhea, abdominal pain, nausea
+Common (1% to 10%): Prostate disorder, urinary incontinence, urinary tract infectionsFrequency not reported: Dysuria, increased prostatic specific antigen
+Common (1% to 10%): Arthritis, back painUncommon (0.1% to 1%): Shoulder painRare (less than 0.1%): Musculoskeletal painFrequency not reported: Arthralgia
+Common (1% to 10%): HeadacheUncommon (0.1% to 1%): DizzinessRare (less than 0.1%): DysgeusiaFrequency not reported: Vertigo, tinnitus
+Common (1% to 10%): Bronchitis, cold/flu syndrome, sinusitisUncommon (0.1% to 1%): Dyspnea, asthma, nasal congestion, throat irritationRare (less than 0.1%): Respiratory disorder, oropharyngeal pain, cough, dysphoniaFrequency not reported: Aggravated asthma
+Common (1% to 10%): Hypercholesterolemia
+Common (1% to 10%): PainUncommon (0.1% to 1%): Asthenia, malaise
+Common (1% to 10%): Anxiety, depression
+Rare (less than 0.1%): Herpes simplex, herpetic keratitis
+The most commonly reported side effect was ocular hyperemia.
+Uncommon (0.1% to 1%): Hypersensitivity, seasonal allergy
 Eye pain
 itching eye
 redness of the eye
 redness, swelling, or itching of eyelid
-
-
 Blurred or decreased vision
 burning, dry, or itching eyes
 eye color changes
 redness, pain, or swelling of the eye, eyelid, or inner lining of the eyelid
-
-
 Eye discomfort
 feeling of having something in the eye
-
-
 Acid or sour stomach (heartburn or indigestion)
 blood in the urine
 chest pain or tightness
@@ -54,4 +35,3 @@ pain, swelling, or redness in the joints
 pain or burning while urinating
 pelvic pain
 slow or irregular heartbeat (less than 50 beats per minute)
-

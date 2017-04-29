@@ -1,43 +1,25 @@
-Generic Name: sirolimus
 Common side effects of Rapamune include: upper respiratory tract infection and urinary tract infection.  See below for a comprehensive list of adverse effects.
-Applies to sirolimus: oral solution, oral tablet
 As well as its needed effects, sirolimus (the active ingredient contained in Rapamune) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking sirolimus, check with your doctor immediately:
 Some sirolimus side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to sirolimus: oral solution, oral tablet
-Very common (10% or more): Dyspnea (up to 30%), upper respiratory infection (up to 26%), pharyngitis (up to 21%)Common (1% to 10%): Pneumonia, epistaxis, pleural effusion, epistaxisUncommon (0.1% to 1%): Pulmonary hemorrhageRare (less than 0.1%): Alveolar proteinosisFrequency not reported: Pleural effusion, alveolar proteinosis[Ref]
-Very common (10% or more): Hypertriglyceridemia (up to 58%), hypercholesterolemia (up to 46%), hypokalemia, hypophosphatemia, hyperglycemiaCommon (1% to 10%): Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia, diabetes mellitus[Ref]
-Very common (10% or more): Peripheral edema (up to 58%), hypertension (up to 49%), chest pain (up to 24%), edema (up to 18%), lymphoceleCommon (1% to 10%): Venous thromboembolism (including pulmonary embolism, deep venous thrombosis), tachycardiaUncommon (0.1% to 1%): Pericardial effusion (including hemodynamically significant effusions in children and adults), lymphedemaRare (less than 0.1%): Pericardial effusion[Ref]
-Very common (10% or more): Constipation (up to 38%), abdominal pain (up to 36%), diarrhea (up to 35%), nausea (up to 31%), vomiting (up to 25%), dyspepsia (up to 25%)Common (1% to 10%): Stomatitis[Ref]
-The most common adverse reactions associated with this drug are peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.[Ref]
-Very common (10% or more): Anemia (up to 33%), thrombocytopenia (up to 30%), blood lactate dehydrogenase increased, blood creatinine increasedCommon (1% to 10%): Thrombocytopenic purpura/hemolytic uremic syndrome, leukopenia, neutropenia, aspartate aminotransferase increased, alanine aminotransferase increasedUncommon (0.1% to 1%): PancytopeniaFrequency not reported: Capillary leak syndrome[Ref]
-Very common (10% or more): Urinary tract infection (up to 33%)Common (1% to 10%): Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with this drug, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia), proteinuriaPostmarketing reports: Azoospermia[Ref]
-Very common (10% or more): Arthralgia (up to 31%)Common (1% to 10%): Bone necrosis[Ref]
-Very common (10% or more): Headache (up to 34%)Common (1% to 10%): Osteonecrosis, tremor, insomnia[Ref]
-Very common (10% or more): Acne (up to 22%), rash (up to 20%)Common (1% to 10%): Herpes zoster, herpes simplexUncommon (0.1% to 1%): Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), leukopenia, melanoma, squamous cell carcinoma, basal cell carcinoma[Ref]
-Very common (10% or more): Creatinine increased (up to 40%)Uncommon (0.1% to 1%): Nephrotic syndromeFrequency not reported: Focal segmental glomerulo-sclerosis, BK virus associated nephropathy, nephrotic syndrome, higher serum creatinine levels, lower glomerular filtration rates[Ref]
-Frequency not reported: Eyelid edema[Ref]
-Common (1% to 10%): Liver function tests abnormalFrequency not reported: Hepatic failure, hepatic artery thrombosis[Ref]
-Rare (less than 0.1%): Hypersensitivity reactions, including anaphylactic/ anaphylactoid reactions, angioedema, exfoliative dermatitis, and hypersensitivity vasculitis[Ref]
-Very common (10% or more): Fever (up to 34%), pain (up to 29%)Common (1% to 10%): Impaired healing[Ref]
-Common (1% to 10%): Skin cancer, lymphoma/post-transplant lymphoproliferative disorderFrequency not reported: Hepatocellular adenoma and carcinoma, testicular adenoma[Ref]
-Common (1% to 10%): Sepsis, pneumonia, pyelonephritis, herpes simplex, fungal, viral, and bacterial infections (such as mycobacterial infections, including tuberculosis, Epstein-Barr virus, CMV, and Herpes zoster), mycobacterial infections (including M tuberculosis), cytomegalovirus (CMV), Epstein-Barr virusFrequency not reported: Clostridium difficile enterocolitis[Ref]
-1. Sola E,  Lopez V,  Burgos D, et al. "Pulmonary toxicity associated with sirolimus treatment in kidney transplantation." Transplant Proc 38 (2006): 2438-40
-2. "Product Information. Rapamune (sirolimus)" Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Pharmaceutical Society of Australia "APPGuide online. Australian prescription products guide online. Available from: URL: http://www.appco.com.au/appguide/default.asp."   ([2006]):
-5. Vlahakis NE,  Rickman OB,  Morgenthaler T "Sirolimus-associated diffuse alveolar hemorrhage." Mayo Clin Proc 79 (2004): 541-5
-6. Wheatcroft S,  Byrne J,  Thomas M,  MacCarthy P "Life-threatening coronary artery spasm following sirolimus-eluting stent deployment." J Am Coll Cardiol 47 (2006): 1911-2; author reply 1912-3
-7. Alkhatib AA "Sirolimus-induced intractable chronic diarrhea: a case report." Transplant Proc 38 (2006): 1298-300
-8. Altomare JF,  Smith RE,  Potdar S,  Mitchell SH "Delayed gastric ulcer healing associated with sirolimus." Transplantation 82 (2006): 437-8
-9. Aboujaoude W,  Milgrom ML,  Govani MV "Lymphedema associated with sirolimus in renal transplant recipients1." Transplantation 77 (2004): 1094-6
-10. Josef F,  Marina K,  Alois W "Sirolimus myopathy." Transplantation 76 (2003): 1773-4
-11. Mohaupt MG, Vogt B, Frey FJ "Sirolimus-associated eyelid edema in kidney transplant recipients." Transplantation 72 (2001): 162-4
-12. Neff GW,  Ruiz P,  Madariaga JR, et al. "Sirolimus-associated hepatotoxicity in liver transplantation." Ann Pharmacother 38 (2004): 1593-6
+Very common (10% or more): Dyspnea (up to 30%), upper respiratory infection (up to 26%), pharyngitis (up to 21%)Common (1% to 10%): Pneumonia, epistaxis, pleural effusion, epistaxisUncommon (0.1% to 1%): Pulmonary hemorrhageRare (less than 0.1%): Alveolar proteinosisFrequency not reported: Pleural effusion, alveolar proteinosis
+Very common (10% or more): Hypertriglyceridemia (up to 58%), hypercholesterolemia (up to 46%), hypokalemia, hypophosphatemia, hyperglycemiaCommon (1% to 10%): Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia, diabetes mellitus
+Very common (10% or more): Peripheral edema (up to 58%), hypertension (up to 49%), chest pain (up to 24%), edema (up to 18%), lymphoceleCommon (1% to 10%): Venous thromboembolism (including pulmonary embolism, deep venous thrombosis), tachycardiaUncommon (0.1% to 1%): Pericardial effusion (including hemodynamically significant effusions in children and adults), lymphedemaRare (less than 0.1%): Pericardial effusion
+Very common (10% or more): Constipation (up to 38%), abdominal pain (up to 36%), diarrhea (up to 35%), nausea (up to 31%), vomiting (up to 25%), dyspepsia (up to 25%)Common (1% to 10%): Stomatitis
+The most common adverse reactions associated with this drug are peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
+Very common (10% or more): Anemia (up to 33%), thrombocytopenia (up to 30%), blood lactate dehydrogenase increased, blood creatinine increasedCommon (1% to 10%): Thrombocytopenic purpura/hemolytic uremic syndrome, leukopenia, neutropenia, aspartate aminotransferase increased, alanine aminotransferase increasedUncommon (0.1% to 1%): PancytopeniaFrequency not reported: Capillary leak syndrome
+Very common (10% or more): Urinary tract infection (up to 33%)Common (1% to 10%): Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with this drug, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia), proteinuriaPostmarketing reports: Azoospermia
+Very common (10% or more): Arthralgia (up to 31%)Common (1% to 10%): Bone necrosis
+Very common (10% or more): Headache (up to 34%)Common (1% to 10%): Osteonecrosis, tremor, insomnia
+Very common (10% or more): Acne (up to 22%), rash (up to 20%)Common (1% to 10%): Herpes zoster, herpes simplexUncommon (0.1% to 1%): Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), leukopenia, melanoma, squamous cell carcinoma, basal cell carcinoma
+Very common (10% or more): Creatinine increased (up to 40%)Uncommon (0.1% to 1%): Nephrotic syndromeFrequency not reported: Focal segmental glomerulo-sclerosis, BK virus associated nephropathy, nephrotic syndrome, higher serum creatinine levels, lower glomerular filtration rates
+Frequency not reported: Eyelid edema
+Common (1% to 10%): Liver function tests abnormalFrequency not reported: Hepatic failure, hepatic artery thrombosis
+Rare (less than 0.1%): Hypersensitivity reactions, including anaphylactic/ anaphylactoid reactions, angioedema, exfoliative dermatitis, and hypersensitivity vasculitis
+Very common (10% or more): Fever (up to 34%), pain (up to 29%)Common (1% to 10%): Impaired healing
+Common (1% to 10%): Skin cancer, lymphoma/post-transplant lymphoproliferative disorderFrequency not reported: Hepatocellular adenoma and carcinoma, testicular adenoma
+Common (1% to 10%): Sepsis, pneumonia, pyelonephritis, herpes simplex, fungal, viral, and bacterial infections (such as mycobacterial infections, including tuberculosis, Epstein-Barr virus, CMV, and Herpes zoster), mycobacterial infections (including M tuberculosis), cytomegalovirus (CMV), Epstein-Barr virusFrequency not reported: Clostridium difficile enterocolitis
 It is possible that some side effects of Rapamune may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Abdominal or stomach cramps or pain
 accumulation of pus
 anxiousness, unexplained
@@ -123,8 +105,6 @@ vision changes
 weakness or heaviness of the legs
 white patches in the mouth or on the tongue
 yellow skin and eyes
-
-
 Bloating
 change in size, shape, or color of existing mole
 hoarseness
@@ -132,8 +112,6 @@ mole that leaks fluid or bleeds
 new mole
 pains in the stomach, side or abdomen, possibly radiating to the back
 skin ulcer or sores
-
-
 Abnormal wound healing
 headache
 hives or itching
@@ -142,8 +120,6 @@ nails loose or detached
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 swelling of the arms or legs
 yellow nails lacking a cuticle
-
-
 Abnormal vision
 acne
 belching
@@ -206,4 +182,3 @@ thickening of the skin
 trouble concentrating
 trouble sleeping
 waking to urinate at night
-

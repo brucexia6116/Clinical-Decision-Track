@@ -1,33 +1,14 @@
-Generic Name: dihydroergotamine
 Common side effects of Migranal include: nausea and rhinitis. Other side effects include: application site reaction, vomiting, and altered sense of smell.  See below for a comprehensive list of adverse effects.
-Applies to dihydroergotamine: nasal spray
-In addition to its needed effects, some unwanted effects may be caused by dihydroergotamine (the active ingredient contained in Migranal). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking dihydroergotamine, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with dihydroergotamine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dihydroergotamine: injectable solution, nasal spray
-Gastrointestinal side effects including nausea, vomiting, and diarrhea have been reported to occur commonly.[Ref]
-The most frequent side effect with the use of intravenous dihydroergotamine is nausea.  Following intramuscular or intranasal administration, the incidence of nausea is low.[Ref]
-Other side effects including arterial spasm, sometimes with resulting limb necrosis, have been reported rarely.  The incidence is believed to be about 1 to 3 per 100,000 patients treated for thromboprophylaxis.[Ref]
-Musculoskeletal side effects including muscle cramps and weakness have been reported.[Ref]
-Nervous system side effects including drowsiness, restlessness, cerebral arteriopathy, and paresthesias have been reported.[Ref]
-Local side effects including pain, burning, itching, edemas, and hematomas at the site of parenteral administration have been reported to occur commonly.[Ref]
-Cardiovascular side effects including hypertension, tachycardia, bradycardia, precordial distress, and chest pain have been reported.  Myocardial ischemia and myocardial infarction have been reported rarely.[Ref]
-Respiratory side effects including pleural fibrosis have been reported following long-term high dose treatment.[Ref]
-Renal side effect including retroperitoneal fibrosis have been reported following long-term high dose treatment.[Ref]
-1. Schulman EA, Rosenberg SB "Claudication: an unusual side effect of DHE administration." Headache 31 (1991): 237-9
-2. Robbins L, Remmes A "Outpatient repetitive intravenous dihydroergotamine." Headache 32 (1992): 455-8
-3. "Drugs for migraine." Med Lett Drugs Ther 37 (1995): 17-20
-4. Lipton RB "Ergotamine tartrate and dihydroergotamine mesylate: safety profiles." Headache 37 Suppl (1997): s33-41
-5. Backonja M, Beinlich B, Dulli D, Schutta HS "Haloperidol and lorazepam for the treatment of nausea and vomiting associated with the treatment of intractable migraine headaches ." Arch Neurol 46 (1989): 724
-6. Henry PY, Larre P, Aupy M, Lafforgue JL, Orgogozo JM "Reversible cerebral arteriopathy associated with the administration of ergot derivatives." Cephalalgia 4 (1984): 171-8
-7. Bachner EJ, Konsens RM, Priem L, King T, Froimson AI "Reversible vasospasm in association with the use of heparin and dihydroergotamine." Clin Orthop No. 283 (1992): 261-4
-8. Mattsson E, Ohlin A, Balkfors B, Fredin HO, Nilsson P, Bergqvist D "Lower-limb vasospasm and renal failure during postoperative thromboprophylaxis. Case report." Eur J Surg 157 (1991): 289-92
-9. "Product Information. D.H.E. 45 (dihydroergotamine)." Sandoz Pharmaceuticals Corporation, East Hanover, NJ. 
-10. Malaquin F, Urban T, Ostinelli J, Ghedira H, Lacronique J "Pleural and retroperitoneal fibrosis from dihydroergotamine ." N Engl J Med 321 (1989): 1760
-Not all side effects for Migranal may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal side effects including nausea, vomiting, and diarrhea have been reported to occur commonly.
+The most frequent side effect with the use of intravenous dihydroergotamine is nausea.  Following intramuscular or intranasal administration, the incidence of nausea is low.
+Other side effects including arterial spasm, sometimes with resulting limb necrosis, have been reported rarely.  The incidence is believed to be about 1 to 3 per 100,000 patients treated for thromboprophylaxis.
+Musculoskeletal side effects including muscle cramps and weakness have been reported.
+Nervous system side effects including drowsiness, restlessness, cerebral arteriopathy, and paresthesias have been reported.
+Local side effects including pain, burning, itching, edemas, and hematomas at the site of parenteral administration have been reported to occur commonly.
+Cardiovascular side effects including hypertension, tachycardia, bradycardia, precordial distress, and chest pain have been reported.  Myocardial ischemia and myocardial infarction have been reported rarely.
+Respiratory side effects including pleural fibrosis have been reported following long-term high dose treatment.
+Renal side effect including retroperitoneal fibrosis have been reported following long-term high dose treatment.
 Chest pain
 cough, fever, sneezing, or sore throat
 feeling of heaviness in chest
@@ -39,8 +20,6 @@ pain in back, chest or left arm
 pale bluish-colored or cold hands or feet
 shortness of breath or troubled breathing
 weak or absent pulses in legs
-
-
 Confusion
 convulsions (seizures)
 delirium
@@ -50,8 +29,6 @@ nausea and/or vomiting
  numbness, tingling, and/or pain in the legs or arms
  shortness of breath
 stomach pain
-
-
 Burning or tingling sensation, dryness, soreness, or pain in the nose
 change in sense of taste
 diarrhea
@@ -69,8 +46,6 @@ sore throat
 sleepiness 
 unexplained nose bleeds
  unusual tiredness or weakness
-
-
 Anxiety
 blurred vision
 cold clammy skin
@@ -101,4 +76,3 @@ sudden fainting
  trembling or shaking of hands or feet
 trouble in sleeping
 unusual feeling of well being
-

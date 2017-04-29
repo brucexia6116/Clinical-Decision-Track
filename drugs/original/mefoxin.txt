@@ -1,56 +1,23 @@
-Generic Name: cefoxitin
-Applies to cefoxitin: intravenous powder for solution, intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by cefoxitin (the active ingredient contained in Mefoxin). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking cefoxitin, check with your doctor or nurse immediately:
-Some of the side effects that can occur with cefoxitin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cefoxitin: injectable powder for injection, intravenous solution
-Cefoxitin (the active ingredient contained in Mefoxin) is generally well-tolerated.[Ref]
-Hypersensitivity reactions have included pruritus, rash, exfoliative dermatitis, toxic epidermal necrolysis, urticaria, flushing, dyspnea,  angioedema, anaphylaxis, interstitial nephritis, eosinophilia, and fever.  Cephalosporin class antibiotics have been associated with erythema multiforme, Stevens-Johnson syndrome, and serum sickness-like reactions.[Ref]
-There is a 10% to 20% chance of an allergic reaction to cefoxitin (or any cephalosporin) among patients who are allergic to a penicillin.A case of occupational contact dermatitis due to cephalosporin allergy has been reported in a nurse who prepared cephalosporin solutions for administration to patients.  The dermatitis resolved after the nurse stopped preparing the solutions.[Ref]
-Gastrointestinal side effects have included nausea, vomiting, diarrhea, and pseudomembranous colitis.  Cephalosporin class antibiotics have been associated with abdominal pain and colitis.[Ref]
-A 60-year-old man with bilateral staghorn renal calculi, Proteus mirabilis urinary tract infection, and acute renal failure developed non-bloody diarrhea and fever associated with leukocytosis and ileus within two days after beginning cefoxitin 1 gram intravenously once a day.  Sigmoidoscopy and stool pathology revealed innumerable small white plaques and Clostridium difficile toxin.  The cefoxitin was stopped, vancomycin retention enemas were given (due to ileus, oral vancomycin was not tried), and the patient recovered.A study of 374 patients demonstrated that of 21 patients developing Clostridium difficile colitis, 17.9% had received cefoxitin.Pseudomembranous colitis may occur during or after treatment.[Ref]
-Nervous system side effects have included somnolence, dizziness, and headache.  Some cephalosporin-class antibiotics have been associated with seizures, especially in patients with renal dysfunction.[Ref]
-Renal side effects have included increased serum creatinine and  blood urea nitrogen, and acute renal failure (rare).  Cephalosporin class antibiotics have been associated with renal dysfunction, toxic nephropathy, reversible, dose-related acute tubular necrosis, and interstitial nephritis. Interstitial nephritis manifests as reversible fever, azotemia, pyuria, and eosinophiluria.[Ref]
-Local side effects have included thrombophlebitis with intravenous administration.[Ref]
-Cardiovascular side effects have included hypotension.[Ref]
-Musculoskeletal side effects have included exacerbation of myasthenia gravis.[Ref]
-Hematologic side effects have included eosinophilia, leukopenia, granulocytopenia, neutropenia, anemia, hemolytic anemia, thrombocytopenia, bone marrow depression, and positive direct Coombs' test.  Cephalosporin class antibiotics have been associated with aplastic anemia, hemorrhage, prolonged prothrombin time, pancytopenia, and agranulocytosis.[Ref]
-Hepatic side effects have included transient elevations of SGOT, SGPT, LDH, and alkaline phosphatase, and jaundice.  Cephalosporin class antibiotics have been associated with hepatic dysfunction, cholestasis, and elevated bilirubin.[Ref]
-Genitourinary side effects associated with cephalosporin class antibiotics have included vaginitis, vaginal candidiasis, and false positive tests for urine glucose.[Ref]
-Other side effects associated with cephalosporin class antibiotics have included superinfection.[Ref]
-Other side effects associated with higher doses of cefoxitin have included an increased incidence of SGOT elevations and eosinophilia in pediatric patients.[Ref]
-1. "Multum Information Services, Inc. Expert Review Panel"  
-2. Tietze KJ, Gaska JA "Cefoxitin-induced exfoliative dermatitis." Clin Pharm 2 (1983): 582-4
-3. Kannangara DW, Smith B, Cohen K "Exfoliative dermatitis during cefoxitin therapy." Arch Intern Med 142 (1982): 1031-2
-4. Austin SM, Barooah B, Kim CS "Reversible acute cardiac injury during cefoxitin-induced anaphylaxis in a patient with normal coronary arteries." Am J Med 77 (1984): 729-32
-5. Yangco BG, Kenyon VS, Halkias KD, Toney JF, Chmel H "Comparative evaluation of safety and efficacy of cefmetazole and cefoxitin in lower respiratory tract infections." J Antimicrob Chemother 23 (1989): 39-46
-6. Romano A, Mayorga C, Torres MJ, Artesani MC, Suau R, Sanchez F, Perez E, Venuti A, Blanca M "Immediate allergic reactions to cephalosporins: Cross-reactivity and selective responses." J Allerg Clin Immunol 106 (2000): 1177-83
-7. Filipe P, Almeida RSLS, Rodrigo FG "Occupational allergic contact dermatitis from cephalosporins." Contact Dermatitis 34 (1996): 226
-8. Shwed JA, Danziger LH, Wojtynek J, Rodvold KA "A comparative evaluation of the safety and efficacy of cefotetan and cefoxitin in surgical prophylaxis." DICP 25 (1991): 10-3
-9. "Product Information. Mefoxin (cefoxitin)." Merck & Co, Inc, West Point, PA. 
-10. Burstein M, Bloom A, Heyman A "Nonthrombocytopenic purpura induced by cefoxitin." DICP 24 (1990): 206
-11. Block BS, Mercer LJ, Ismail MA, Moawad AH "Clostridium difficile-associated diarrhea follows perioperative prophylaxis with cefoxitin." Am J Obstet Gynecol 153 (1985): 835-8
-12. Goodpasture HC, Dolan PJ, Jacobs ER, Meredith WT "Pseudomembranous colitis & antibiotics." Kans Med 87 (1986): 133, 146
-13. Kent KC, Rubin MS, Wroblewski L, Hanff PA, Silen W "The impact of Clostridium difficile on a surgical service: a prospective study of 374 patients." Ann Surg 227 (1998): 296-301
-14. Reddy J, Bailey RR "Cefoxitin-associated renal failure." N Z Med J 93 (1981): 337-9
-15. Toll LL, Lee M, Sharifi R "Cefoxitin-induced interstitial nephritis." South Med J 80 (1987): 274-5
-16. Sherman RA, Eisinger RP, Weinstein MP, Samel J "Cefoxitin-induced pseudo acute renal failure." Clin Ther 4 (1981): 114-7
-17. Haskell RJ, Fujita NK, Stevenson JA, Border WA "Cefoxitin-induced interstitial nephritis." Arch Intern Med 141 (1981): 1557
-18. Whitman CB,  Joseph JM,  Sjoholm LO "Cephalosporin-induced leukopenia following rechallenge with cefoxitin." Ann Pharmacother 42 (2008): 1327-32
-19. Brown RB, Klar J, Lemeshow S, Teres D, Pastides H, Sands M "Enhanced bleeding with cefoxitin or moxalactam." Arch Intern Med 146 (1986): 2159-64
-20. Shansky M, Greenlaw CW "Reversible acute leukopenia and cefoxitin." Ann Intern Med 92 (1980): 874-5
-21. Kaaja R, Valtonen VV "Leucopenia associated with beta-lactam antibiotic therapy." Acta Med Scand 216 (1984): 531-4
-Not all side effects for Mefoxin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cefoxitin (the active ingredient contained in Mefoxin) is generally well-tolerated.
+Hypersensitivity reactions have included pruritus, rash, exfoliative dermatitis, toxic epidermal necrolysis, urticaria, flushing, dyspnea,  angioedema, anaphylaxis, interstitial nephritis, eosinophilia, and fever.  Cephalosporin class antibiotics have been associated with erythema multiforme, Stevens-Johnson syndrome, and serum sickness-like reactions.
+There is a 10% to 20% chance of an allergic reaction to cefoxitin (or any cephalosporin) among patients who are allergic to a penicillin.A case of occupational contact dermatitis due to cephalosporin allergy has been reported in a nurse who prepared cephalosporin solutions for administration to patients.  The dermatitis resolved after the nurse stopped preparing the solutions.
+Gastrointestinal side effects have included nausea, vomiting, diarrhea, and pseudomembranous colitis.  Cephalosporin class antibiotics have been associated with abdominal pain and colitis.
+A 60-year-old man with bilateral staghorn renal calculi, Proteus mirabilis urinary tract infection, and acute renal failure developed non-bloody diarrhea and fever associated with leukocytosis and ileus within two days after beginning cefoxitin 1 gram intravenously once a day.  Sigmoidoscopy and stool pathology revealed innumerable small white plaques and Clostridium difficile toxin.  The cefoxitin was stopped, vancomycin retention enemas were given (due to ileus, oral vancomycin was not tried), and the patient recovered.A study of 374 patients demonstrated that of 21 patients developing Clostridium difficile colitis, 17.9% had received cefoxitin.Pseudomembranous colitis may occur during or after treatment.
+Nervous system side effects have included somnolence, dizziness, and headache.  Some cephalosporin-class antibiotics have been associated with seizures, especially in patients with renal dysfunction.
+Renal side effects have included increased serum creatinine and  blood urea nitrogen, and acute renal failure (rare).  Cephalosporin class antibiotics have been associated with renal dysfunction, toxic nephropathy, reversible, dose-related acute tubular necrosis, and interstitial nephritis. Interstitial nephritis manifests as reversible fever, azotemia, pyuria, and eosinophiluria.
+Local side effects have included thrombophlebitis with intravenous administration.
+Cardiovascular side effects have included hypotension.
+Musculoskeletal side effects have included exacerbation of myasthenia gravis.
+Hematologic side effects have included eosinophilia, leukopenia, granulocytopenia, neutropenia, anemia, hemolytic anemia, thrombocytopenia, bone marrow depression, and positive direct Coombs' test.  Cephalosporin class antibiotics have been associated with aplastic anemia, hemorrhage, prolonged prothrombin time, pancytopenia, and agranulocytosis.
+Hepatic side effects have included transient elevations of SGOT, SGPT, LDH, and alkaline phosphatase, and jaundice.  Cephalosporin class antibiotics have been associated with hepatic dysfunction, cholestasis, and elevated bilirubin.
+Genitourinary side effects associated with cephalosporin class antibiotics have included vaginitis, vaginal candidiasis, and false positive tests for urine glucose.
+Other side effects associated with cephalosporin class antibiotics have included superinfection.
+Other side effects associated with higher doses of cefoxitin have included an increased incidence of SGOT elevations and eosinophilia in pediatric patients.
 Changes in skin color
 pain
 swelling of the foot or leg
 tenderness
-
-
 Agitation
 coma
 confusion
@@ -68,8 +35,6 @@ seizures
 stupor
 swelling of the face, ankles, or hands
 unusual tiredness or weakness
-
-
 Abdominal or stomach cramps or tenderness
 back, leg, or stomach pains
 bleeding and bruising
@@ -146,12 +111,7 @@ vomiting
 vomiting of blood
 wheezing
 yellowing of the eyes or skin
-
-
 Red streaks on the skin
 swelling, tenderness, or pain at the injection site
-
-
 Hives or welts
 redness of the skin
-

@@ -1,28 +1,14 @@
-Generic Name: triamterene
-Applies to triamterene: oral capsule, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by triamterene (the active ingredient contained in Dyrenium). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking triamterene:
-
 If any of the following symptoms of overdose occur while taking triamterene, get emergency help immediately:
-
-Some of the side effects that can occur with triamterene may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to triamterene: compounding powder, oral capsule
-Uncommon (0.1% to 1%): RashRare (less than 0.1%): Photosensitivity reactions, pseudoporphyria[Ref]
-Uncommon (0.1% to 1%): Hypovolemia[Ref]
-Frequency not reported: Blue fluorescence of the urine under certain light conditions[Ref]
-Rare (less than 0.1%): Thrombocytopenia, megaloblastic anemia, pancytopenia[Ref]
-Rare (less than 0.1%): Jaundice and/or liver enzyme abnormalities[Ref]
-Rare (less than 0.1%): Anaphylaxis, photosensitivity[Ref]
-Very common (10% or more): HyperkalemiaUncommon (0.1% to 1%): HyperuricemiaRare (less than 0.1%): Hypokalemia, metabolic acidosis[Ref]
-Uncommon (0.1% to 1%): HeadacheRare (less than 0.1%): Dizziness[Ref]
-Rare (less than 0.1%): Weakness, fatigue, serum sickness[Ref]
-Uncommon (0.1% to 1%): Elevation of serum creatinine, transient renal insufficiencyRare (0.01% to 0.1%): Interstitial nephritis, urinary stones, azotemia, elevated BUN and creatinine, renal stones, acute interstitial nephritis Very rare (less than 0.01%): Renal failure[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Dyrenium (triamterene)." SmithKline Beecham, Philadelphia, PA. 
-Not all side effects for Dyrenium may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Uncommon (0.1% to 1%): RashRare (less than 0.1%): Photosensitivity reactions, pseudoporphyria
+Uncommon (0.1% to 1%): Hypovolemia
+Frequency not reported: Blue fluorescence of the urine under certain light conditions
+Rare (less than 0.1%): Thrombocytopenia, megaloblastic anemia, pancytopenia
+Rare (less than 0.1%): Jaundice and/or liver enzyme abnormalities
+Rare (less than 0.1%): Anaphylaxis, photosensitivity
+Very common (10% or more): HyperkalemiaUncommon (0.1% to 1%): HyperuricemiaRare (less than 0.1%): Hypokalemia, metabolic acidosis
+Uncommon (0.1% to 1%): HeadacheRare (less than 0.1%): Dizziness
+Rare (less than 0.1%): Weakness, fatigue, serum sickness
+Uncommon (0.1% to 1%): Elevation of serum creatinine, transient renal insufficiencyRare (0.01% to 0.1%): Interstitial nephritis, urinary stones, azotemia, elevated BUN and creatinine, renal stones, acute interstitial nephritis Very rare (less than 0.01%): Renal failure
 Abdominal or stomach pain
 agitation
 black, tarry stools
@@ -79,8 +65,6 @@ vomiting of blood
 weakness or heaviness of the legs
 wheezing
 yellow eyes or skin
-
-
 Blurred vision
 diarrhea
 dizziness, faintness, or lightheadedness when getting up from a lying or sitting position suddenly
@@ -90,9 +74,6 @@ passing of gas
 stomach fullness or discomfort
 sweating
 trembling
-
-
 Increased sensitivity of skin to sunlight
 redness or other discoloration of the skin
 severe sunburn
-

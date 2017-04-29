@@ -1,14 +1,9 @@
-Generic Name: antithrombin (recombinant)
-Applies to antithrombin (recombinant): parenteral injection
 Side effects include:
 Hemorrhage,  infusion site reactions. 
-Applies to antithrombin (recombinant): intravenous powder for injection
-Cardiovascular side effects have included hemorrhage and hematoma.[Ref]
-General side effects have included hot feelings and noncardiac chest pain.[Ref]
-Gastrointestinal side effects have included intraabdominal hemorrhage.[Ref]
-Genitourinary side effects have included hematuria.[Ref]
-Hepatic side effects have included hepatic enzyme abnormalities.[Ref]
-Local side effects have included infusion site reaction and application site pruritus.[Ref]
-Musculoskeletal side effects have included hemarthrosis.[Ref]
-1. "Product Information. ATryn (antithrombin recombinant)." Ovation Pharmaceuticals Inc, Deerfield, IL. 
-Not all side effects for ATryn may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Cardiovascular side effects have included hemorrhage and hematoma.
+General side effects have included hot feelings and noncardiac chest pain.
+Gastrointestinal side effects have included intraabdominal hemorrhage.
+Genitourinary side effects have included hematuria.
+Hepatic side effects have included hepatic enzyme abnormalities.
+Local side effects have included infusion site reaction and application site pruritus.
+Musculoskeletal side effects have included hemarthrosis.

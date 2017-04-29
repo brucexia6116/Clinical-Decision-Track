@@ -1,31 +1,18 @@
-Generic Name: etoposide
 Common side effects of Etopophos include: alopecia, asthenia, fever, leukopenia, mucositis, anorexia, and chills.  See below for a comprehensive list of adverse effects.
-Applies to etoposide: oral capsule, oral capsule liquid filled
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by etoposide (the active ingredient contained in Etopophos). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking etoposide:
-Some of the side effects that can occur with etoposide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to etoposide: intravenous powder for injection, intravenous solution, oral capsule
-Very common (10% or more): Leukopenia (up to 91%), neutropenia (up to 88%), anemia (up to 72%), thrombocytopenia (up to 23%)Frequency not reported: Myelosuppression[Ref]
-Very common (10% or more): Nausea and/or vomiting (up to 37%), anorexia (up to 16%), mucositis (including stomatitis and esophagitis) (up to 11%)Common (1% to 10%): Diarrhea, taste alteration, abdominal pain, stomatitisUncommon (0.1% to 1%): ConstipationRare (less than 0.1%): Dysphagia, dysgeusia[Ref]
-Common (1% to 10%): Myocardial infarction, arrhythmia, transient systolic hypotension following rapid intravenous administration, hypertensionRare (less than 0.1%): Congestive heart failure, arrhythmias[Ref]
-Common (1% to 10%): Anaphylactic type reactions (i.e., fever, shivering, tachycardia, bronchospasm, dyspnea, hypotonia)[Ref]
-Very common (10% or more): Alopecia (up to 33%), pigmentationCommon (1% to 10%): Rash, urticaria, pruritusRare (less than 0.1%): Stevens-Johnson syndrome, toxic epidermal necrolysis, radiation recall dermatitis, hyperpigmentation[Ref]
-Common (1% to 10%): Hepatotoxicity[Ref]
-Very common (10% or more): Asthenia/malaise (up to 39%), chills and/or fever (up to 24%)Common (1% to 10%): Extravasation, phlebitis[Ref]
-Rare (less than 0.1%): Pulmonary fibrosis, interstitial pneumonitis, bronchospasm, dyspnea[Ref]
-Frequency not reported: Infectious complications[Ref]
-Rare (less than 0.1%): Hyperuricemia[Ref]
-Common (1% to 10%): DizzinessUncommon (0.1% to 1%): Peripheral neuropathyRare (less than 0.1%): Seizure, neurotoxicity (e.g., somnolence, fatigue)[Ref]
-Rare (less than 0.1%): Transitory loss of vision, optic neuritis, transient cortical blindness[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Vepesid (etoposide)." Bristol-Myers Squibb, Princeton, NJ. 
-Not all side effects for Etopophos may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Very common (10% or more): Leukopenia (up to 91%), neutropenia (up to 88%), anemia (up to 72%), thrombocytopenia (up to 23%)Frequency not reported: Myelosuppression
+Very common (10% or more): Nausea and/or vomiting (up to 37%), anorexia (up to 16%), mucositis (including stomatitis and esophagitis) (up to 11%)Common (1% to 10%): Diarrhea, taste alteration, abdominal pain, stomatitisUncommon (0.1% to 1%): ConstipationRare (less than 0.1%): Dysphagia, dysgeusia
+Common (1% to 10%): Myocardial infarction, arrhythmia, transient systolic hypotension following rapid intravenous administration, hypertensionRare (less than 0.1%): Congestive heart failure, arrhythmias
+Common (1% to 10%): Anaphylactic type reactions (i.e., fever, shivering, tachycardia, bronchospasm, dyspnea, hypotonia)
+Very common (10% or more): Alopecia (up to 33%), pigmentationCommon (1% to 10%): Rash, urticaria, pruritusRare (less than 0.1%): Stevens-Johnson syndrome, toxic epidermal necrolysis, radiation recall dermatitis, hyperpigmentation
+Common (1% to 10%): Hepatotoxicity
+Very common (10% or more): Asthenia/malaise (up to 39%), chills and/or fever (up to 24%)Common (1% to 10%): Extravasation, phlebitis
+Rare (less than 0.1%): Pulmonary fibrosis, interstitial pneumonitis, bronchospasm, dyspnea
+Frequency not reported: Infectious complications
+Rare (less than 0.1%): Hyperuricemia
+Common (1% to 10%): DizzinessUncommon (0.1% to 1%): Peripheral neuropathyRare (less than 0.1%): Seizure, neurotoxicity (e.g., somnolence, fatigue)
+Rare (less than 0.1%): Transitory loss of vision, optic neuritis, transient cortical blindness
 intravenous powder for solution, intravenous solution
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
@@ -43,8 +30,6 @@ swollen glands
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Blurred vision
 confusion
 cough
@@ -66,11 +51,7 @@ slow or fast heartbeat
 sweating
 tightness in the chest
 wheezing
-
-
 Bone pain
-
-
 Abdominal or stomach pain, severe
 blistering, peeling, or loosening of the skin
 cough or hoarseness
@@ -90,13 +71,9 @@ restlessness
 seizures
 stomach cramps
 yellow eyes or skin
-
-
 Hair loss or thinning of the hair
 swelling or inflammation of the mouth
 weight loss
-
-
 Bad, unusual, or unpleasant (after) taste
 change in taste
 constipation
@@ -106,4 +83,3 @@ heartburn
 lack or loss of strength
 pain or burning in the throat
 sleepiness or unusual drowsiness
-

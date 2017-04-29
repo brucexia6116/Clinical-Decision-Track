@@ -1,33 +1,19 @@
-Generic Name: cyclobenzaprine
 Common side effects of Flexeril include: drowsiness and xerostomia. Other side effects include: fatigue.  See below for a comprehensive list of adverse effects.
-Applies to cyclobenzaprine: oral capsule extended release, oral suspension, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by cyclobenzaprine (the active ingredient contained in Flexeril). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking cyclobenzaprine:
-
 If any of the following symptoms of overdose occur while taking cyclobenzaprine, get emergency help immediately:
-
-Some of the side effects that can occur with cyclobenzaprine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cyclobenzaprine: compounding powder, oral capsule extended release, oral tablet, oral and topical kit
-The most frequently occurring adverse reactions have included dry mouth, dizziness, fatigue, constipation, nausea, dyspepsia, and somnolence.[Ref]
-Very common (10% or more): Drowsiness (up to 38%)Common (1% to 10%): Dizziness, somnolencePostmarketing reports: Headache, serotonin syndrome, seizures, ataxia, tremors, hypertonia, convulsions, abnormal sensations, paresthesia, ageusia[Ref]
-Elderly patients may be particularly susceptible to the sedation and confusion which may accompany cyclobenzaprine therapy.[Ref]
-Common (1% to 10%): Irritability, mental acuity decreased, nervousnessPostmarketing reports: Nervousness, confusion, disorientation, insomnia, depressed mood, anxiety, agitation, psychosis, abnormal thinking and dreaming, hallucinations, excitement[Ref]
-Postmarketing reports: Anaphylaxis, angioedema, pruritus, facial edema, urticaria, rash[Ref]
-Very common (10% or more): Dry mouth (up to 32%)Common (1% to 10%): Constipation, nausea, dyspepsia, abdominal pain, acid regurgitation, diarrheaPostmarketing reports: Unpleasant taste, vomiting, anorexia, gastritis, thirst, flatulence, tongue edema[Ref]
-Postmarketing reports: Abnormal liver function, hepatitis, jaundice, cholestasis[Ref]
-Postmarketing reports: Syncope, tachycardia, arrhythmia, vasodilation, palpitation, hypotension[Ref]
-Common (1% to 10%): Fatigue Postmarketing reports: Asthenia, malaise, vertigo[Ref]
-Postmarketing reports: Sweating[Ref]
-Postmarketing reports: Urinary frequency and/or retention[Ref]
-Postmarketing reports: Local weakness, dysarthria, muscle twitching[Ref]
-Postmarketing reports: Blurred vision, diplopia, tinnitus[Ref]
-Common (1% to 10%): Upper respiratory infection, pharyngitis[Ref]
-1. "Product Information. Amrix (cyclobenzaprine)." A-S Medication Solutions, Chicago, IL. 
-2. "Product Information. Flexeril (cyclobenzaprine)." Merck & Co, Inc, West Point, PA. 
-Not all side effects for Flexeril may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently occurring adverse reactions have included dry mouth, dizziness, fatigue, constipation, nausea, dyspepsia, and somnolence.
+Very common (10% or more): Drowsiness (up to 38%)Common (1% to 10%): Dizziness, somnolencePostmarketing reports: Headache, serotonin syndrome, seizures, ataxia, tremors, hypertonia, convulsions, abnormal sensations, paresthesia, ageusia
+Elderly patients may be particularly susceptible to the sedation and confusion which may accompany cyclobenzaprine therapy.
+Common (1% to 10%): Irritability, mental acuity decreased, nervousnessPostmarketing reports: Nervousness, confusion, disorientation, insomnia, depressed mood, anxiety, agitation, psychosis, abnormal thinking and dreaming, hallucinations, excitement
+Postmarketing reports: Anaphylaxis, angioedema, pruritus, facial edema, urticaria, rash
+Very common (10% or more): Dry mouth (up to 32%)Common (1% to 10%): Constipation, nausea, dyspepsia, abdominal pain, acid regurgitation, diarrheaPostmarketing reports: Unpleasant taste, vomiting, anorexia, gastritis, thirst, flatulence, tongue edema
+Postmarketing reports: Abnormal liver function, hepatitis, jaundice, cholestasis
+Postmarketing reports: Syncope, tachycardia, arrhythmia, vasodilation, palpitation, hypotension
+Common (1% to 10%): Fatigue Postmarketing reports: Asthenia, malaise, vertigo
+Postmarketing reports: Sweating
+Postmarketing reports: Urinary frequency and/or retention
+Postmarketing reports: Local weakness, dysarthria, muscle twitching
+Postmarketing reports: Blurred vision, diplopia, tinnitus
+Common (1% to 10%): Upper respiratory infection, pharyngitis
 Clumsiness or unsteadiness
 confusion
 fainting
@@ -37,8 +23,6 @@ ringing or buzzing in the ears
 skin rash, hives, or itching occurring without other symptoms of an allergic reaction listed above
 unusual thoughts or dreams
 yellow eyes or skin
-
-
 Convulsions (seizures)
 drowsiness (severe)
 dry, hot, flushed skin
@@ -49,13 +33,9 @@ troubled breathing
 unexplained muscle stiffness
 unusual nervousness or restlessness (severe)
 vomiting (occurring together with other symptoms of overdose)
-
-
 Blurred vision
 dizziness, drowsiness, or lightheadedness
 dryness of the mouth
-
-
 Bloated feeling or gas, indigestion, nausea or vomiting, or stomach cramps or pain
 constipation
 diarrhea
@@ -72,4 +52,3 @@ trouble sleeping
 unpleasant taste or other taste changes
 unusual muscle weakness
 unusual tiredness
-

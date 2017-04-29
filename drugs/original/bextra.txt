@@ -1,39 +1,23 @@
-Generic Name: valdecoxib
-Applies to valdecoxib: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by valdecoxib (the active ingredient contained in Bextra). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking valdecoxib:
-
 If any of the following symptoms of overdose occur while taking valdecoxib, get emergency help immediately:
-
-Some of the side effects that can occur with valdecoxib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to valdecoxib: oral tablet
-An increase in cardiovascular thromboembolic events (i.e., myocardial infarction, stroke, deep vein thrombosis (leg), and pulmonary embolism) have been reported in post CABG patients (n=1500) treated with valdecoxib (the active ingredient contained in Bextra) compared to placebo.  The risk of the intravenous form is higher (2%) than the oral form (1%) immediately following CABG surgery.Studies to evaluate valdecoxib's long-term cardiovascular safety profile in patients with arthritis are being planned by the makers of the drug.[Ref]
-Cardiovascular side effects reported in less than 2% of patients have included aggravated hypertension, aneurysm, angina pectoris, arrhythmia, cardiomyopathy, congestive heart failure, coronary artery disorder, heart murmur, and hypotension.  A greater frequency of cardiovascular events has been reported in patients given valdecoxib following a coronary artery bypass grafting surgery than in those given standard pain treatment.[Ref]
-Nervous side effects have included headache and dizziness.  Other side effects reported have included cerebrovascular disorder, hypertonia, hypoesthesia, migraine, neuralgia, neuropathy, paresthesia, tremor, twitching, convulsions, and vertigo.[Ref]
-In a recent letter to healthcare professionals sent by the manufacturer of valdecoxib (the active ingredient contained in Bextra)  the following postmarketing dermatologic adverse effects have been reported: erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis.Data obtained from postmarketing adverse event reporting suggest that the skin reactions have occurred primarily within the first two weeks of valdecoxib therapy.Toxic epidermal necrolysis has been reported in a 55-year-old woman, with a documented sulfa allergy, after taking valdecoxib for 8 days.[Ref]
-Dermatologic side effects have included serious, potentially fatal skin reactions, including Stevens-Johnson Syndrome and toxic epidermal necrolysis.  These reactions are most likely to occur in the first two weeks of treatment, but can occur any time during therapy.  In a few cases these reactions have resulted in death.  The reported rate of these serious skin reactions appears to be greater for valdecoxib than other COX-2 agents.Acne, alopecia, dermatitis, fungal dermatitis, eczema, photosensitivity allergic reaction, pruritus, erythematous rash, maculopapular rash, psoriaform rash, dry skin, skin hypertrophy, skin ulceration, increased sweating, and urticaria have been reported in less than 2% of patients.[Ref]
-Endocrine side effects reported in less than 2% of patients have included goiter.[Ref]
-Gastrointestinal side effects have included abdominal pain, dyspepsia, flatulence, and nausea.  Other side effects reported have included abnormal stools, constipation, diverticulosis, dry mouth, duodenal ulcer, duodenitis, eructation, esophagitis, fecal incontinence, gastric ulcer, gastritis, gastroenteritis, gastroesophageal reflux, hematemesis, hematochezia, melena, tenesmus, and vomiting.  Pancreatitis has been reported during the postmarketing period.  It is not possible to estimate the frequency or to establish causality.[Ref]
-Hepatic side effects have included cholelithiasis, hepatitis, abnormal hepatic function, increased ALT, and increased AST.[Ref]
-Metabolic side effects have included increases in alkaline phosphatase, BUN, CPK, and creatinine, diabetes mellitus, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperkalemia, hyperlipemia, hyperuricemia, hypocalcemia, hypokalemia, increased LDH, increased thirst, increases and decreases in weight, and xerophthalmia.[Ref]
-Musculoskeletal side effects have included arthralgia, accidental fracture, myalgia, neck stiffness, osteoporosis, synovitis, and tendonitis.[Ref]
-Respiratory side effects have included sinusitis and upper respiratory tract infection.  Other side effects have included abnormal breath sounds, bronchitis, bronchospasm, coughing, dyspnea, emphysema, laryngitis, pneumonia, pharyngitis, pleurisy, and rhinitis.[Ref]
-Psychiatric side effects have included anorexia, anxiety, increased appetite, confusion, depression, insomnia, nervousness, morbid dreaming, and somnolence.[Ref]
-Hematologic side effects have included anemia, ecchymosis, eosinophilia, epistaxis, hematoma, leukopenia, leukocytosis, lymphadenopathy, lymphangitis, lymphopenia, and thrombocytopenia.[Ref]
-Ocular side effects have included blurred vision, cataract, conjunctival hemorrhage, conjunctivitis, eye pain, keratitis, and abnormal vision.[Ref]
-Genitourinary side effects have included albuminuria, cystitis, dysuria, hematuria, micturition frequency increased, pyuria, urinary incontinence, and urinary tract infection.  Female patients have reported amenorrhea, dysmenorrhea, leukorrhea, mastitis, menstrual disorder, menorrhagia, menstrual bloating, and vaginal hemorrhage.  Male patients have reported impotence and prostatic disorder.[Ref]
-Hypersensitivity side effects have included aggravated allergies and allergic reaction.[Ref]
-General side effects have included asthenia, chest pain, chills, cysts, generalized edema, face edema, fatigue, fever, hot flushes, halitosis, malaise, pain, periorbital swelling, and peripheral pain.[Ref]
-In a recent letter to healthcare professionals sent by the manufacturer of valdecoxib, postmarketing general adverse effects have included anaphylactic reactions and angioedema (hypersensitivity reactions).[Ref]
-Resistance mechanism disorder side effects reported in less than 2% of patients have included herpes simplex, herpes zoster, fungal infection, soft tissue infection, viral infection, moniliasis, genital moniliasis, and otitis media.[Ref]
-1. "Product Information. Bextra (valdecoxib)." Pharmacia Corporation, Peapack, NJ. 
-2. FDA. U.S. Food and Drug Administration "Medwatch - The FDA Safety Information and Adverse Event Reporting Program - Strengthened warnings on Bextra (valdecoxib) Available from: URL: http://www.fda.gov/medwatch/SAFETY/2004/safety04.htm#Bextra."   ([2004 Dec 10]):
-3. Pfizer News Release "Pfizer provides information to healthcare professionals about its cox-2 medicine Bextra (valdecoxib). Available from: URL: http://www.pfizer.com/are/news_releases/2004pr/mn_2004_1015.html."   ([2004 Oct 15]):
-4. Glasser DL,  Burroughs SH "Valdecoxib-induced toxic epidermal necrolysis in a patient allergic to sulfa drugs." Pharmacotherapy 23 (2003): 551-3
-Not all side effects for Bextra may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+An increase in cardiovascular thromboembolic events (i.e., myocardial infarction, stroke, deep vein thrombosis (leg), and pulmonary embolism) have been reported in post CABG patients (n=1500) treated with valdecoxib (the active ingredient contained in Bextra) compared to placebo.  The risk of the intravenous form is higher (2%) than the oral form (1%) immediately following CABG surgery.Studies to evaluate valdecoxib's long-term cardiovascular safety profile in patients with arthritis are being planned by the makers of the drug.
+Cardiovascular side effects reported in less than 2% of patients have included aggravated hypertension, aneurysm, angina pectoris, arrhythmia, cardiomyopathy, congestive heart failure, coronary artery disorder, heart murmur, and hypotension.  A greater frequency of cardiovascular events has been reported in patients given valdecoxib following a coronary artery bypass grafting surgery than in those given standard pain treatment.
+Nervous side effects have included headache and dizziness.  Other side effects reported have included cerebrovascular disorder, hypertonia, hypoesthesia, migraine, neuralgia, neuropathy, paresthesia, tremor, twitching, convulsions, and vertigo.
+In a recent letter to healthcare professionals sent by the manufacturer of valdecoxib (the active ingredient contained in Bextra)  the following postmarketing dermatologic adverse effects have been reported: erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis.Data obtained from postmarketing adverse event reporting suggest that the skin reactions have occurred primarily within the first two weeks of valdecoxib therapy.Toxic epidermal necrolysis has been reported in a 55-year-old woman, with a documented sulfa allergy, after taking valdecoxib for 8 days.
+Dermatologic side effects have included serious, potentially fatal skin reactions, including Stevens-Johnson Syndrome and toxic epidermal necrolysis.  These reactions are most likely to occur in the first two weeks of treatment, but can occur any time during therapy.  In a few cases these reactions have resulted in death.  The reported rate of these serious skin reactions appears to be greater for valdecoxib than other COX-2 agents.Acne, alopecia, dermatitis, fungal dermatitis, eczema, photosensitivity allergic reaction, pruritus, erythematous rash, maculopapular rash, psoriaform rash, dry skin, skin hypertrophy, skin ulceration, increased sweating, and urticaria have been reported in less than 2% of patients.
+Endocrine side effects reported in less than 2% of patients have included goiter.
+Gastrointestinal side effects have included abdominal pain, dyspepsia, flatulence, and nausea.  Other side effects reported have included abnormal stools, constipation, diverticulosis, dry mouth, duodenal ulcer, duodenitis, eructation, esophagitis, fecal incontinence, gastric ulcer, gastritis, gastroenteritis, gastroesophageal reflux, hematemesis, hematochezia, melena, tenesmus, and vomiting.  Pancreatitis has been reported during the postmarketing period.  It is not possible to estimate the frequency or to establish causality.
+Hepatic side effects have included cholelithiasis, hepatitis, abnormal hepatic function, increased ALT, and increased AST.
+Metabolic side effects have included increases in alkaline phosphatase, BUN, CPK, and creatinine, diabetes mellitus, glycosuria, gout, hypercholesterolemia, hyperglycemia, hyperkalemia, hyperlipemia, hyperuricemia, hypocalcemia, hypokalemia, increased LDH, increased thirst, increases and decreases in weight, and xerophthalmia.
+Musculoskeletal side effects have included arthralgia, accidental fracture, myalgia, neck stiffness, osteoporosis, synovitis, and tendonitis.
+Respiratory side effects have included sinusitis and upper respiratory tract infection.  Other side effects have included abnormal breath sounds, bronchitis, bronchospasm, coughing, dyspnea, emphysema, laryngitis, pneumonia, pharyngitis, pleurisy, and rhinitis.
+Psychiatric side effects have included anorexia, anxiety, increased appetite, confusion, depression, insomnia, nervousness, morbid dreaming, and somnolence.
+Hematologic side effects have included anemia, ecchymosis, eosinophilia, epistaxis, hematoma, leukopenia, leukocytosis, lymphadenopathy, lymphangitis, lymphopenia, and thrombocytopenia.
+Ocular side effects have included blurred vision, cataract, conjunctival hemorrhage, conjunctivitis, eye pain, keratitis, and abnormal vision.
+Genitourinary side effects have included albuminuria, cystitis, dysuria, hematuria, micturition frequency increased, pyuria, urinary incontinence, and urinary tract infection.  Female patients have reported amenorrhea, dysmenorrhea, leukorrhea, mastitis, menstrual disorder, menorrhagia, menstrual bloating, and vaginal hemorrhage.  Male patients have reported impotence and prostatic disorder.
+Hypersensitivity side effects have included aggravated allergies and allergic reaction.
+General side effects have included asthenia, chest pain, chills, cysts, generalized edema, face edema, fatigue, fever, hot flushes, halitosis, malaise, pain, periorbital swelling, and peripheral pain.
+In a recent letter to healthcare professionals sent by the manufacturer of valdecoxib, postmarketing general adverse effects have included anaphylactic reactions and angioedema (hypersensitivity reactions).
+Resistance mechanism disorder side effects reported in less than 2% of patients have included herpes simplex, herpes zoster, fungal infection, soft tissue infection, viral infection, moniliasis, genital moniliasis, and otitis media.
 Bloating or swelling of face, arms, hands, lower legs, feet
 blood in urine
 bloody, black, or sticky stools
@@ -55,8 +39,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 yellow eyes or skin 
-
-
 Blistering, peeling, loosening of skin
  constipation
 cracks in the skin
@@ -84,8 +66,6 @@ skin rash
 vomiting
  wheezing
 yellow eyes or skin
-
-
 Bloody or black tarry stools
 continuing thirst
 dizziness
@@ -101,8 +81,6 @@ troubled breathing
 unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 weight gain
-
-
 Acid or sour stomach
 belching
 cough
@@ -112,8 +90,6 @@ headache
  heartburn
 indigestion
  sore throat
-
-
 Abdominal fullness
 accidental injury 
 back pain
@@ -121,4 +97,3 @@ bloating in the abdomen
 excess gas
  rash
 stuffy or runny nose
-

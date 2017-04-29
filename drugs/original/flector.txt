@@ -1,42 +1,24 @@
-Generic Name: diclofenac topical
 Common side effects of Flector Patch include: increased liver enzymes.  See below for a comprehensive list of adverse effects.
-Applies to diclofenac topical: topical application cream, topical application gel/jelly, topical application patch extended release, topical application solution, topical application spray
-In addition to its needed effects, some unwanted effects may be caused by diclofenac topical (the active ingredient contained in Flector Patch). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking diclofenac topical:
-Some of the side effects that can occur with diclofenac topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to diclofenac topical: topical cream, topical film extended release, topical gel, topical kit, topical solution
-The most frequently reported side effects were application site reactions.[Ref]
-Very common (10% or more): Dryness (up to 32%)Common (1% to 10%): Dermatitis, burning sensation, pruritus, exfoliation, erythema, pain, induration, rash, scabbing, contusion, inflammation, irritation, itching, tingling, blistering, localized paresthesiaFrequency not reported: Vesicles, papules, localized hair discoloration, vasodilation, purpuric rash, atrophy[Ref]
-Common (1% to 10%): Contact dermatitis, eczema, dry skin, rash, scaly rash, skin hypertrophy, skin ulcer, vesiculobullous rash, exfoliation, urticaria, acne, alopecia, skin noduleUncommon (0.1% to 1%): Face edema, maculopapular rash, photosensitivity reaction, seborrheaRare (0.01% to 0.1%): Bullous dermatitisVery rare (less than 0.01%): Pustular rashFrequency not reported: Skin hypertrophy[Ref]
-Common (1% to 10%): HypertensionUncommon (0.1% to 1%): HemorrhagePostmarketing reports: Palpitation, cardiovascular disorder, blood pressure increased[Ref]
-Common (1% to 10%): Abdominal pain, diarrhea, dyspepsia, halitosis, nausea, flatulence, constipationVery rare (less than 0.01%): Gastrointestinal hemorrhageFrequency not reported: Upper abdominal painPostmarketing reports: Dry mouth, gastroenteritis, mouth ulceration, rectal hemorrhage, ulcerative stomatitis, lip swelling, swollen tongue[Ref]
-Common (1% to 10%): Headache, migraine, hypokinesia, dysgeusia, somnolence, hypertonia, hyperesthesia, paresthesiaPostmarketing reports: Dizziness, drowsiness, lethargy, taste perversion[Ref]
-Common (1% to 10%): Creatinine increasedVery rare (less than 0.01%): Renal failure[Ref]
-Common (1% to 10%): SGOT increased, SGPT increased[Ref]
-Common (1% to 10%): Hypercholesterolemia, hyperglycemiaPostmarketing reports: Appetite decreased[Ref]
-Common (1% to 10%): Back pain, neck pain, arthralgia, arthrosis, myalgiaPostmarketing reports: Leg cramps[Ref]
-Common (1% to 10%): Eye pain, conjunctivitisUncommon (0.1% to 1%): Lacrimation disorderPostmarketing reports: Abnormal vision, blurred vision, cataract, eye disorder[Ref]
-Common (1% to 10%): Asthma, dyspnea, pharyngitis, pneumonia, rhinitis, sinusitis, sinus congestionPostmarketing reports: Laryngismus, laryngitis[Ref]
-Common (1% to 10%): Accidental injury, asthenia, chest pain, flu-like syndrome, infection, pain, creatine phosphokinase increased, edemaPostmarketing reports: Lack of drug effect, body odor, ear pain[Ref]
-Common (1% to 10%): Skin carcinoma[Ref]
-Common (1% to 10%): Hematuria, urinary tract infection[Ref]
-Common (1% to 10%): Allergic reaction[Ref]
-Postmarketing reports: Depression[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Flector Patch (diclofenac topical)." Actavis U.S. (Alpharma USPD), Owings Mills, MD. 
-4. "Product Information. Solaraze (diclofenac topical)" SkyePharma, San Diego, CA. 
-5. "Product Information. Pennsaid (diclofenac topical)." Horizon Pharma USA Inc, Northbrook, IL. 
-6. "Product Information. Voltaren Topical (diclofenac topical)." Endo Laboratories LLC, Chadds Ford, PA. 
-Not all side effects for Flector Patch may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects were application site reactions.
+Very common (10% or more): Dryness (up to 32%)Common (1% to 10%): Dermatitis, burning sensation, pruritus, exfoliation, erythema, pain, induration, rash, scabbing, contusion, inflammation, irritation, itching, tingling, blistering, localized paresthesiaFrequency not reported: Vesicles, papules, localized hair discoloration, vasodilation, purpuric rash, atrophy
+Common (1% to 10%): Contact dermatitis, eczema, dry skin, rash, scaly rash, skin hypertrophy, skin ulcer, vesiculobullous rash, exfoliation, urticaria, acne, alopecia, skin noduleUncommon (0.1% to 1%): Face edema, maculopapular rash, photosensitivity reaction, seborrheaRare (0.01% to 0.1%): Bullous dermatitisVery rare (less than 0.01%): Pustular rashFrequency not reported: Skin hypertrophy
+Common (1% to 10%): HypertensionUncommon (0.1% to 1%): HemorrhagePostmarketing reports: Palpitation, cardiovascular disorder, blood pressure increased
+Common (1% to 10%): Abdominal pain, diarrhea, dyspepsia, halitosis, nausea, flatulence, constipationVery rare (less than 0.01%): Gastrointestinal hemorrhageFrequency not reported: Upper abdominal painPostmarketing reports: Dry mouth, gastroenteritis, mouth ulceration, rectal hemorrhage, ulcerative stomatitis, lip swelling, swollen tongue
+Common (1% to 10%): Headache, migraine, hypokinesia, dysgeusia, somnolence, hypertonia, hyperesthesia, paresthesiaPostmarketing reports: Dizziness, drowsiness, lethargy, taste perversion
+Common (1% to 10%): Creatinine increasedVery rare (less than 0.01%): Renal failure
+Common (1% to 10%): SGOT increased, SGPT increased
+Common (1% to 10%): Hypercholesterolemia, hyperglycemiaPostmarketing reports: Appetite decreased
+Common (1% to 10%): Back pain, neck pain, arthralgia, arthrosis, myalgiaPostmarketing reports: Leg cramps
+Common (1% to 10%): Eye pain, conjunctivitisUncommon (0.1% to 1%): Lacrimation disorderPostmarketing reports: Abnormal vision, blurred vision, cataract, eye disorder
+Common (1% to 10%): Asthma, dyspnea, pharyngitis, pneumonia, rhinitis, sinusitis, sinus congestionPostmarketing reports: Laryngismus, laryngitis
+Common (1% to 10%): Accidental injury, asthenia, chest pain, flu-like syndrome, infection, pain, creatine phosphokinase increased, edemaPostmarketing reports: Lack of drug effect, body odor, ear pain
+Common (1% to 10%): Skin carcinoma
+Common (1% to 10%): Hematuria, urinary tract infection
+Common (1% to 10%): Allergic reaction
+Postmarketing reports: Depression
 Application site reactions, including skin rash, pain, tingling, or burning sensation
 flu-like syndrome (body ache, headache, fever, with or without chills)
 itching skin
-
-
 Blood in the urine
 cough
 dry, itching, or burning eyes
@@ -52,15 +34,11 @@ sore throat
 tightness in the chest
 troubled breathing
 ulcers or sores on the skin, other than at the application site
-
-
 Burning skin
 dry skin
 scaly skin
 thickened skin
 tingling skin
-
-
 Acne
 back pain
 belching
@@ -76,4 +54,3 @@ muscle pain
 neck pain
 runny nose
 stomach upset or pain
-

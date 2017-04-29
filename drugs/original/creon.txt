@@ -1,48 +1,14 @@
-Generic Name: pancrelipase
 More frequent side effects include: headache.  See below for a comprehensive list of adverse effects.
-Applies to pancrelipase: oral capsule, oral capsule delayed release, oral powder, oral tablet, oral tablet chewable
-In addition to its needed effects, some unwanted effects may be caused by pancrelipase (the active ingredient contained in Creon). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking pancrelipase:
-Some of the side effects that can occur with pancrelipase may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to pancrelipase: oral capsule, oral capsule extended release, oral delayed release capsule, oral powder for reconstitution, oral tablet, oral tablet extended release
-In general, pancreatic enzymes are well tolerated at recommended therapeutic doses.  Gastrointestinal symptoms appear to be the primary, and most common adverse effect.[Ref]
-Fibrosing colonopathy should be suspected in patients who present with obstruction, bloody diarrhea, chylous ascites, or a combination of abdominal pain with chronic diarrhea, inadequate weight gain, or both.  Patients with fibrosing colonopathy should have their enzyme dosage reduced to the recommended range of 500 to 2500 units/kg per meal.  Surgical intervention is often needed in patients who cannot maintain their nutritional status.[Ref]
-Gastrointestinal side effects have included cramping, nausea, abnormal feces, flatulence, abdominal pain, upper abdominal pain, and diarrhea, particularly with high doses.  Fibrosing colonopathy has been reported.  Animal studies suggest that the fibrosing colonopathy seen in some patients receiving high doses of pancreatic enzymes may be due to a plasticizer (methacrylic acid copolymer) found in some of the enteric coatings.  Postmarketing reports have included abdominal distention, abdominal pain, diarrhea, flatulence, constipation, nausea, fibrosing colonopathy, and distal intestinal obstruction syndrome (DIOS).[Ref]
-Metabolic side effects reported with high doses of pancreatic enzymes have included hyperuricosuria and hyperuricemia.  It appears that both the enzyme product and some undefined aspect of the disease may lead to increased uric acid levels.  Postmarketing reports of inadequate control of diabetes mellitus have been reported.[Ref]
-Krasinger and colleagues suggest that it may be reasonable to add allopurinol to the pancreatic enzyme treatment regimen in CF patients that have a urine pH of less than 6 and also excrete large amounts of uric acid.  The addition of allopurinol may help to protect the renal tubules from long-term damage due to uric acid crystallization.[Ref]
-Hypersensitivity side effects have included reversible bronchial asthma and nasal rhinitis due to exposure to pancreatic enzyme powder.  Postmarketing severe allergic reactions including anaphylaxis, asthma, hives and pruritus have been reported.[Ref]
-Local side effects have included ulcerations and stomatitis after a prolonged retention of pancreatic enzyme formulations in the mouth.[Ref]
-Nervous system side effects have included several case reports of elevation in intracranial pressure (leading to a bulging cranial fontanelle) in cystic fibrosis children receiving pancreatic enzymes.  The adverse effect has been self-limiting without interruption of cystic fibrosis therapy in most cases.[Ref]
+In general, pancreatic enzymes are well tolerated at recommended therapeutic doses.  Gastrointestinal symptoms appear to be the primary, and most common adverse effect.
+Fibrosing colonopathy should be suspected in patients who present with obstruction, bloody diarrhea, chylous ascites, or a combination of abdominal pain with chronic diarrhea, inadequate weight gain, or both.  Patients with fibrosing colonopathy should have their enzyme dosage reduced to the recommended range of 500 to 2500 units/kg per meal.  Surgical intervention is often needed in patients who cannot maintain their nutritional status.
+Gastrointestinal side effects have included cramping, nausea, abnormal feces, flatulence, abdominal pain, upper abdominal pain, and diarrhea, particularly with high doses.  Fibrosing colonopathy has been reported.  Animal studies suggest that the fibrosing colonopathy seen in some patients receiving high doses of pancreatic enzymes may be due to a plasticizer (methacrylic acid copolymer) found in some of the enteric coatings.  Postmarketing reports have included abdominal distention, abdominal pain, diarrhea, flatulence, constipation, nausea, fibrosing colonopathy, and distal intestinal obstruction syndrome (DIOS).
+Metabolic side effects reported with high doses of pancreatic enzymes have included hyperuricosuria and hyperuricemia.  It appears that both the enzyme product and some undefined aspect of the disease may lead to increased uric acid levels.  Postmarketing reports of inadequate control of diabetes mellitus have been reported.
+Krasinger and colleagues suggest that it may be reasonable to add allopurinol to the pancreatic enzyme treatment regimen in CF patients that have a urine pH of less than 6 and also excrete large amounts of uric acid.  The addition of allopurinol may help to protect the renal tubules from long-term damage due to uric acid crystallization.
+Hypersensitivity side effects have included reversible bronchial asthma and nasal rhinitis due to exposure to pancreatic enzyme powder.  Postmarketing severe allergic reactions including anaphylaxis, asthma, hives and pruritus have been reported.
+Local side effects have included ulcerations and stomatitis after a prolonged retention of pancreatic enzyme formulations in the mouth.
+Nervous system side effects have included several case reports of elevation in intracranial pressure (leading to a bulging cranial fontanelle) in cystic fibrosis children receiving pancreatic enzymes.  The adverse effect has been self-limiting without interruption of cystic fibrosis therapy in most cases.
 Postmarketing side effects include pruritus, urticaria and rash
 Postmarketing side effects include recurrence of pre-existing carcinoma.
-1. "Product Information. Ku-zyme (pancrelipase)." Schwarz Pharma, Mequon, WI. 
-2. "Product Information. Ultrase (pancrelipase)." Scandipharm Inc, Birmingham, AL. 
-3. "Product Information. Cotazym-S (pancrelipase)." Organon, West Orange, NJ. 
-4. "Product Information. Creon 10 (pancrelipase)." Solvay Pharmaceuticals Inc, Marietta, GA. 
-5. "Product Information. Zymase (pancrelipase)." Organon, West Orange, NJ. 
-6. "Product Information. Pancrease (pancrelipase)." McNeil Pharmaceutical, Raritan, NJ. 
-7. "Product Information. Creon 20 (pancrelipase)." Solvay Pharmaceuticals Inc, Marietta, GA. 
-8. "Product Information. Ultrase MT (pancrelipase)." Scandipharm Inc, Birmingham, AL. 
-9. Cho YW, Aviado DM "Clinical pharmacology for pediatricians. I. Pancreatic enzyme preparations, with special reference to enterically coated microspheres of pancrelipase." J Clin Pharmacol 21 (1981): 224-37
-10. "Product Information. Pancrease MT (pancrelipase)." McNeil Pharmaceutical, Raritan, NJ. 
-11. "Product Information. Cotazym (pancrelipase)." Organon, West Orange, NJ. 
-12. "Product Information. Viokase (pancrelipase)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-13. "Product Information. Creon 5 (pancrelipase)." Solvay Pharmaceuticals Inc, Marietta, GA. 
-14. McHugh K, Thomson A, Tam P "Case report: colonic stricture and fibrosis associated with high- strength pancreatic enzymes in a child with cystic fibrosis." Br J Radiol 67 (1994): 900-1
-15. Croft NM, Marshall TG, Ferguson A "Gut inflammation in children with cystic fibrosis on high-dose enzyme supplements." Lancet 346 (1995): 1265-7
-16. Smyth RL, van Velzen D, Smyth AR, Lloyd DA, Heaf DP "Strictures of ascending colon in cystic fibrosis and high-strength pancreatic enzymes." Lancet 343 (1994): 85-6
-17. Kraisinger M, Hochhaus G, Stecenko A, Bowser E, Hendeles L "Clinical pharmacology of pancreatic enzymes in patients with cystic fibrosis and in vitro performance of microencapsulated formulations." J Clin Pharmacol 34 (1994): 158-66
-18. Lankisch PG, Creutzfeldt W "Therapy of exocrine and endocrine pancreatic insufficiency." Clin Gastroenterol 13 (1984): 985-99
-19. Nassif EG, Younoszai MK, Weinberger MW, Nassif CM, "Comparative effects of antacids, enteric coating, and bile salts on the efficacy of oral pancreatic enzyme therapy in cystic fibrosis." J Pediatr 98 (1981): 320-3
-20. Stapleton FB, Kennedy J, Nousia-Arvanitakis S, Linshaw MA "Hyperuricosuria due to high-dose pancreatic extract therapy in cystic fibrosis." N Engl J Med 295 (1976): 246-8
-21. Bergner A, Bergner RK "Pulmonary hypersensitivity associated with pancreatin powder exposure." Pediatrics 55 (1975): 814-7
-22. Sakula A "Bronchial asthma due to allergy to pancreatic extract." Lancet 2 (1977): 193
-23. Sakula A "Bronchial asthma due to allergy to pancreatic extract: a hazard in the treatment of cystic fibrosis." Br J Dis Chest 71 (1977): 295-9
-24. Nasr SZ, Schaffert D "Symptomatic increase in intracranial pressure following pancreatic enzyme replacement therapy for cystic fibrosis." Pediatr Pulmonol 19 (1995): 396-7
-Not all side effects for Creon may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Cough
 difficulty breathing
 difficulty swallowing
@@ -57,19 +23,14 @@ trouble passing stool
 unusual or severe abdominal or stomach pain
 unusual tiredness or weakness
 vomiting
-
-
 Acid or sour stomach
 belching
 diarrhea
 heartburn
 indigestion
 stomach discomfort, upset, or pain
-
-
 Bloated
 difficulty having a bowel movement (stool)
 excess air or gas in the stomach or intestines
 full feeling
 passing gas
-

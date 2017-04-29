@@ -1,36 +1,21 @@
-Generic Name: meloxicam
 More frequent side effects include: abdominal pain, anemia, and edema.  See below for a comprehensive list of adverse effects.
-Applies to meloxicam: oral capsule, oral suspension, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by meloxicam (the active ingredient contained in Mobic). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking meloxicam:
-
 If any of the following symptoms of overdose occur while taking meloxicam, get emergency help immediately:
-
-Some of the side effects that can occur with meloxicam may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to meloxicam: oral capsule, oral suspension, oral tablet
-The most frequently reported side effects were diarrhea, upper respiratory tract infections, dyspepsia, nausea, abdominal discomfort, and influenza-like symptoms.[Ref]
-Very common (10% or more): Dyspepsia, nausea, vomiting, abdominal pain, constipation, flatulence, diarrheaCommon (1% to 10%): Abdominal discomfort, gastrointestinal (GI) irritation, aggravated dyspepsia, eructation, gastroesophageal reflux disease, upper abdominal painUncommon (0.1% to 1%): Occult or macroscopic GI hemorrhage, gastritis, stomatitisRare (0.01% to 0.1%): Colitis, gastroduodenal ulcer, esophagitisVery rare (less than 0.01%): GI perforationFrequency not reported: Dry mouth, duodenal ulcer, gastric ulcer, gastritis, hematemesis, hemorrhagic duodenal ulcer, hemorrhagic gastric ulcer, intestinal perforation, melena, pancreatitis, perforated duodenal ulcer, perforated gastric ulcer, stomatitis ulcerative[Ref]
-Common (1% to 10%): HypertensionUncommon (0.1% to 1%): FlushingRare (less than 0.1%): PalpitationsFrequency not reported: Hot flushes, angina pectoris, cardiac failure, hypotension, myocardial infarction, vasculitis, arrhythmia, palpitation, tachycardia, shock, cardiac failure[Ref]
-Common (1% to 10%): Dizziness, headache, carpel tunnel syndromeUncommon (0.1% to 1%): SomnolenceFrequency not reported: Syncope, convulsions, paresthesia, tremor, taste perversion[Ref]
-Common (1% to 10%): Pharyngitis, upper respiratory tract infection, coughing, nasopharyngitis, bronchitis, sinusitis, laryngitis, pleuritic pain, dyspnea, rhinitisRare (less than 0.1%): AsthmaFrequency not reported: Bronchospasm[Ref]
-Common (1% to 10%): Accident household, edema, fall, influenza-like symptoms, pain, peripheral edema, gravitational edema, fatigue, ear disorder, vertigo, fallFrequency not reported: Face edema, fever, malaise, weight decreased, weight increased, tinnitusPostmarketing reports: Meningitis[Ref]
-Common (1% to 10%): AnemiaRare (0.01% to 0.1%): Blood count abnormal, leukopenia, thrombocytopeniaVery rare (less than 0.01%): Agranulocytosis[Ref]
-Common (1% to 10%): Rash, pruritus, erythematous rash, maculopapular rash, hyperhidrosis, purpuraUncommon (0.1% to 1%): AngioedemaRare (0.01% to 0.1%): Stevens-Johnson syndrome, toxic epidermal necrolysis, urticariaVery rare (less than 0.01%): Dermatitis bullous, erythema multiformeFrequency not reported: Alopecia, bullous eruption, exfoliative dermatitis, photosensitivity reaction, sweating increased[Ref]
-Common (1% to 10%): HypersensitivityUncommon (0.1% to 1%): Allergic reactionsFrequency not reported: Anaphylactoid reaction[Ref]
-Common (1% to 10%): Arthralgia, aggravated arthralgia, joint crepitation, joint effusion, joint swelling, back pain, osteoarthritis, pain in extremity, arthritis, bursitis, muscle spasms, myalgia, rheumatoid arthritis[Ref]
-Common (1% to 10%): Micturition frequency, urinary tract infection, hematuriaFrequency not reported: Acute urinary retention[Ref]
-Uncommon (0.1% to 1%): Liver function disorder, ALT increased, AST increased, bilirubinemiaVery rare (less than 0.01%): HepatitisFrequency not reported: GGT increased, jaundice, liver failure[Ref]
-Common (1% to 10%): InsomniaRare (less than 0.1%): Nightmares, mood alterationsFrequency not reported: Abnormal dreaming, anxiety, confusion, depression, nervousness, disorientation[Ref]
-Very rare (less than 0.01%): Acute renal failure, papillary necrosis, acute tubular necrosisFrequency not reported: Albuminuria, BUN increased, creatinine increased, interstitial nephritis, renal failure[Ref]
-Common (1% to 10%): Dehydration, appetite increasedUncommon (0.1% to 1%): Sodium retention, hyperkalemia, water retention[Ref]
-Common (1% to 10%): CataractRare (less than 0.1%): Visual disturbances, conjunctivitis, blurred visionFrequency not reported: Abnormal vision[Ref]
-1. "Product Information. Mobic (meloxicam)" Boehringer-Ingelheim, Ridgefield, CT. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. MHRA. Medicines and Health Regulatory Agency "MHRA Drug Safety Update. Available from: URL: http://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate."  
-Not all side effects for Mobic may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects were diarrhea, upper respiratory tract infections, dyspepsia, nausea, abdominal discomfort, and influenza-like symptoms.
+Very common (10% or more): Dyspepsia, nausea, vomiting, abdominal pain, constipation, flatulence, diarrheaCommon (1% to 10%): Abdominal discomfort, gastrointestinal (GI) irritation, aggravated dyspepsia, eructation, gastroesophageal reflux disease, upper abdominal painUncommon (0.1% to 1%): Occult or macroscopic GI hemorrhage, gastritis, stomatitisRare (0.01% to 0.1%): Colitis, gastroduodenal ulcer, esophagitisVery rare (less than 0.01%): GI perforationFrequency not reported: Dry mouth, duodenal ulcer, gastric ulcer, gastritis, hematemesis, hemorrhagic duodenal ulcer, hemorrhagic gastric ulcer, intestinal perforation, melena, pancreatitis, perforated duodenal ulcer, perforated gastric ulcer, stomatitis ulcerative
+Common (1% to 10%): HypertensionUncommon (0.1% to 1%): FlushingRare (less than 0.1%): PalpitationsFrequency not reported: Hot flushes, angina pectoris, cardiac failure, hypotension, myocardial infarction, vasculitis, arrhythmia, palpitation, tachycardia, shock, cardiac failure
+Common (1% to 10%): Dizziness, headache, carpel tunnel syndromeUncommon (0.1% to 1%): SomnolenceFrequency not reported: Syncope, convulsions, paresthesia, tremor, taste perversion
+Common (1% to 10%): Pharyngitis, upper respiratory tract infection, coughing, nasopharyngitis, bronchitis, sinusitis, laryngitis, pleuritic pain, dyspnea, rhinitisRare (less than 0.1%): AsthmaFrequency not reported: Bronchospasm
+Common (1% to 10%): Accident household, edema, fall, influenza-like symptoms, pain, peripheral edema, gravitational edema, fatigue, ear disorder, vertigo, fallFrequency not reported: Face edema, fever, malaise, weight decreased, weight increased, tinnitusPostmarketing reports: Meningitis
+Common (1% to 10%): AnemiaRare (0.01% to 0.1%): Blood count abnormal, leukopenia, thrombocytopeniaVery rare (less than 0.01%): Agranulocytosis
+Common (1% to 10%): Rash, pruritus, erythematous rash, maculopapular rash, hyperhidrosis, purpuraUncommon (0.1% to 1%): AngioedemaRare (0.01% to 0.1%): Stevens-Johnson syndrome, toxic epidermal necrolysis, urticariaVery rare (less than 0.01%): Dermatitis bullous, erythema multiformeFrequency not reported: Alopecia, bullous eruption, exfoliative dermatitis, photosensitivity reaction, sweating increased
+Common (1% to 10%): HypersensitivityUncommon (0.1% to 1%): Allergic reactionsFrequency not reported: Anaphylactoid reaction
+Common (1% to 10%): Arthralgia, aggravated arthralgia, joint crepitation, joint effusion, joint swelling, back pain, osteoarthritis, pain in extremity, arthritis, bursitis, muscle spasms, myalgia, rheumatoid arthritis
+Common (1% to 10%): Micturition frequency, urinary tract infection, hematuriaFrequency not reported: Acute urinary retention
+Uncommon (0.1% to 1%): Liver function disorder, ALT increased, AST increased, bilirubinemiaVery rare (less than 0.01%): HepatitisFrequency not reported: GGT increased, jaundice, liver failure
+Common (1% to 10%): InsomniaRare (less than 0.1%): Nightmares, mood alterationsFrequency not reported: Abnormal dreaming, anxiety, confusion, depression, nervousness, disorientation
+Very rare (less than 0.01%): Acute renal failure, papillary necrosis, acute tubular necrosisFrequency not reported: Albuminuria, BUN increased, creatinine increased, interstitial nephritis, renal failure
+Common (1% to 10%): Dehydration, appetite increasedUncommon (0.1% to 1%): Sodium retention, hyperkalemia, water retention
+Common (1% to 10%): CataractRare (less than 0.1%): Visual disturbances, conjunctivitis, blurred visionFrequency not reported: Abnormal vision
 Arm, back, or jaw pain
 bleeding gums
 bloating
@@ -87,8 +72,6 @@ upper right abdominal or stomach pain
 watery or bloody diarrhea
 weight gain or loss
 yellow eyes or skin
-
-
 Area rash
 blistering, peeling, or loosening of the skin
 bloody or black, tarry stools
@@ -114,8 +97,6 @@ tightness in the chest
 unpleasant breath odor
 unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
-
-
 Difficulty with speaking
 double vision
 inability to move the arms, legs, or facial muscles
@@ -127,8 +108,6 @@ sudden loss of coordination
 sudden onset of shortness of breath for no apparent reason
 sudden onset of slurred speech
 sudden vision changes
-
-
 Blue lips, fingernails, or skin
 convulsions (seizures)
 pain in the chest, upper stomach, or throat
@@ -137,14 +116,10 @@ skin rash
 slow or fast heartbeat
 swelling around the eyes, face, lips, or tongue
 weight gain (rapid)
-
-
 Diarrhea
 gas
 heartburn
 indigestion
-
-
 Abdominal or stomach pain
 abnormal dreaming
 anxiety
@@ -190,4 +165,3 @@ tiredness
 trouble concentrating
 trouble sleeping
 wrinkled skin
-

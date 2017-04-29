@@ -1,29 +1,20 @@
-Generic Name: diatrizoate
-Applies to diatrizoate: intravenous solution
 As well as its needed effects, diatrizoate (the active ingredient contained in Renografin-60) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking diatrizoate, check with your doctor or nurse immediately:
-
-
-Applies to diatrizoate: injectable powder for injection, injectable solution, oral powder for reconstitution, oral and rectal solution
-The most frequently reported adverse reactions were vomiting, nausea, diarrhea, erythema, a sensation of pain, and a general feelings of warmth on intravascular administration.[Ref]
-Common (1% to 10%) Transient disturbance in heart rate, blood pressure, disturbance in cardiac rhythm or function, cardiac arrestUncommon (0.1% to 1%): Thrombophlebitis, venous thrombosisRare (0.01% to 0.1%): Thromboembolic events, myocardial infarctionVery rare (less than 0.01%): Severe hypotension and collapse; circulatory failure; ventricular fibrillationFrequency not reported: Tachycardia, shock, hypotension, hypertension, reflex tachycardia, cyanosis[Ref]
-Common (1% to 10%): Nausea, vomit, diarrheaFrequency not reported: Diarrhea (ceases as soon as the intestine has been emptied); existing enteritis or colitis may be temporarily exacerbated; in case of obstruction, the prolonged contact with bowel mucosa can lead to erosions and to bowel necrosis; intestinal perforation; abdominal pain; oral mucosal blistering[Ref]
-Common (1% to 10%): Anaphylactoid reactions (mild angioedema, conjunctivitis, coughing pruritus, rhinitis, sneezing, urticarial)[Ref]
-Common (1% to 10%): Transient disturbances in respiratory rate, dyspnea, respiratory distress, coughRare (less than 0.1%): Respiratory arrest, pulmonary edemaFrequency not reported: Bronchospasm, medication aspiration, pulmonary edema following aspiration, aspiration pneumonia, sneezing, laryngeal spasm[Ref]
-Uncommon (0.1% to 1%): Thyroid function tests indicative of hypothyroidism or transient thyroid suppression in adults and pediatric patients (including infants)Frequency not reported: Hyperthyroidism[Ref]
-Rare (less than 0.1%): Toxic epidermal necrolysis, urticaria, rash, pruritus, erythema, face edema, mucocutaneous syndrome (e.g.  Stevens-Johnson's or Lyell syndrome)Frequency not reported: Sweating, mild angioedema[Ref]
-Very rare (less than 0.01%): Convulsions, cerebral symptomsFrequency not reported: Disturbances in consciousness, dizziness, headache, tremor, somnolence, transient paresis (vision or facial muscle paresis and epileptic fits), amnesia, photophobia, temporary states of agitation or confusion[Ref]
-Frequency not reported: Perforation of the urethra, genitourinary tract infections, oliguria, hematuria, anuria[Ref]
-Frequency not reported: Local pain, edema[Ref]
-Frequency not reported: Fluid and electrolyte imbalance[Ref]
-Frequency not reported: Lacrimation, temporary blindness[Ref]
-Frequency not reported: Pyrexia, sweating, chills, blanching, weakness, gagging and feeling suffocated, gasping, edema, cramp, malaise[Ref]
-Frequency not reported: Temporary renal failure[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
+The most frequently reported adverse reactions were vomiting, nausea, diarrhea, erythema, a sensation of pain, and a general feelings of warmth on intravascular administration.
+Common (1% to 10%) Transient disturbance in heart rate, blood pressure, disturbance in cardiac rhythm or function, cardiac arrestUncommon (0.1% to 1%): Thrombophlebitis, venous thrombosisRare (0.01% to 0.1%): Thromboembolic events, myocardial infarctionVery rare (less than 0.01%): Severe hypotension and collapse; circulatory failure; ventricular fibrillationFrequency not reported: Tachycardia, shock, hypotension, hypertension, reflex tachycardia, cyanosis
+Common (1% to 10%): Nausea, vomit, diarrheaFrequency not reported: Diarrhea (ceases as soon as the intestine has been emptied); existing enteritis or colitis may be temporarily exacerbated; in case of obstruction, the prolonged contact with bowel mucosa can lead to erosions and to bowel necrosis; intestinal perforation; abdominal pain; oral mucosal blistering
+Common (1% to 10%): Anaphylactoid reactions (mild angioedema, conjunctivitis, coughing pruritus, rhinitis, sneezing, urticarial)
+Common (1% to 10%): Transient disturbances in respiratory rate, dyspnea, respiratory distress, coughRare (less than 0.1%): Respiratory arrest, pulmonary edemaFrequency not reported: Bronchospasm, medication aspiration, pulmonary edema following aspiration, aspiration pneumonia, sneezing, laryngeal spasm
+Uncommon (0.1% to 1%): Thyroid function tests indicative of hypothyroidism or transient thyroid suppression in adults and pediatric patients (including infants)Frequency not reported: Hyperthyroidism
+Rare (less than 0.1%): Toxic epidermal necrolysis, urticaria, rash, pruritus, erythema, face edema, mucocutaneous syndrome (e.g.  Stevens-Johnson's or Lyell syndrome)Frequency not reported: Sweating, mild angioedema
+Very rare (less than 0.01%): Convulsions, cerebral symptomsFrequency not reported: Disturbances in consciousness, dizziness, headache, tremor, somnolence, transient paresis (vision or facial muscle paresis and epileptic fits), amnesia, photophobia, temporary states of agitation or confusion
+Frequency not reported: Perforation of the urethra, genitourinary tract infections, oliguria, hematuria, anuria
+Frequency not reported: Local pain, edema
+Frequency not reported: Fluid and electrolyte imbalance
+Frequency not reported: Lacrimation, temporary blindness
+Frequency not reported: Pyrexia, sweating, chills, blanching, weakness, gagging and feeling suffocated, gasping, edema, cramp, malaise
+Frequency not reported: Temporary renal failure
 It is possible that some side effects of Renografin-60 may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blood in the urine
 convulsions
 cough
@@ -38,4 +29,3 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 shortness of breath
 tightness in the chest
 unusual tiredness or weakness
-

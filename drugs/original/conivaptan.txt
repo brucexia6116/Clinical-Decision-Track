@@ -1,27 +1,17 @@
-Applies to conivaptan: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by conivaptan. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking conivaptan, check with your doctor or nurse immediately:
-Some of the side effects that can occur with conivaptan may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to conivaptan: intravenous solution
-The most frequently reported side effects were infusion site reactions (including phlebitis), pyrexia, hypokalemia, headache, and orthostatic hypotension.[Ref]
-Very common (10% or more): Cardiac failure event (32%), orthostatic hypotension (up to 14%)Common (1% to 10%): Atrial fibrillation, hypertension, hypotension, atrial dysrhythmia[Ref]
-During clinical trials, this drug was administered to patients who were hypervolemic and hyponatremic with underlying heart failure.  Adverse cardiac failure events (32%), atrial dysrhythmias (5%), and sepsis (8%) occurred more frequently in this patient population treated with this drug compared to those treated with placebo.[Ref]
-Very common (10% or more): Infusion site phlebitis (up to 51%), infusion site reaction (up to 22%)Common (1% to 10%): Infusion site erythema, infusion site pain[Ref]
-Very common (10% or more): Hypokalemia (up to 22%)Common (1% to 10%): Hypomagnesemia, hyponatremia[Ref]
-Very common (10% or more): Pyrexia (up to 11%)Common (1% to 10%): Peripheral edema, thirst, post procedural diarrhea, electrocardiogram ST segment depression, sepsis[Ref]
-Very common (10% or more): Headache (up to 10%)Frequency not reported: Osmotic demyelination syndrome[Ref]
-Common (1% to 10%): Constipation, diarrhea, nausea, vomiting[Ref]
-Common (1% to 10%): Anemia[Ref]
-Common (1% to 10%): Urinary tract infection[Ref]
-Common (1% to 10%): Confusional state, insomnia[Ref]
-Common (1% to 10%): Pruritus[Ref]
-Common (1% to 10%): Pneumonia, pharyngolaryngeal pain[Ref]
-1. "Product Information. Vaprisol (conivaptan)." Cumberland Pharmaceuticals Inc, Nashville, TN. 
-Not all side effects for conivaptan may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects were infusion site reactions (including phlebitis), pyrexia, hypokalemia, headache, and orthostatic hypotension.
+Very common (10% or more): Cardiac failure event (32%), orthostatic hypotension (up to 14%)Common (1% to 10%): Atrial fibrillation, hypertension, hypotension, atrial dysrhythmia
+During clinical trials, this drug was administered to patients who were hypervolemic and hyponatremic with underlying heart failure.  Adverse cardiac failure events (32%), atrial dysrhythmias (5%), and sepsis (8%) occurred more frequently in this patient population treated with this drug compared to those treated with placebo.
+Very common (10% or more): Infusion site phlebitis (up to 51%), infusion site reaction (up to 22%)Common (1% to 10%): Infusion site erythema, infusion site pain
+Very common (10% or more): Hypokalemia (up to 22%)Common (1% to 10%): Hypomagnesemia, hyponatremia
+Very common (10% or more): Pyrexia (up to 11%)Common (1% to 10%): Peripheral edema, thirst, post procedural diarrhea, electrocardiogram ST segment depression, sepsis
+Very common (10% or more): Headache (up to 10%)Frequency not reported: Osmotic demyelination syndrome
+Common (1% to 10%): Constipation, diarrhea, nausea, vomiting
+Common (1% to 10%): Anemia
+Common (1% to 10%): Urinary tract infection
+Common (1% to 10%): Confusional state, insomnia
+Common (1% to 10%): Pruritus
+Common (1% to 10%): Pneumonia, pharyngolaryngeal pain
 Bleeding, blistering, burning, coldness, discoloration of skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at site
 bloating or swelling of face, arms, hands, lower legs, ankles, or feet
 blurred vision
@@ -45,8 +35,6 @@ slow or fast heartbeat
 tingling of hands or feet
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Abdominal pain
 bladder pain
 bloody or cloudy urine
@@ -101,13 +89,8 @@ unusual bleeding or bruising
 wheezing
 white patches in mouth and/or on tongue
 wrinkled skin
-
-
 Diarrhea
-
-
 Difficulty having a bowel movement (stool)
 flushing
 redness of skin
 unusually warm skin
-

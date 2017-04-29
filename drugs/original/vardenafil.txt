@@ -1,31 +1,22 @@
 Commonly reported side effects of vardenafil include: headache and flushing. Other side effects include: dyspepsia and rhinitis.  See below for a comprehensive list of adverse effects.
-Applies to vardenafil: oral tablet, oral tablet disintegrating
 As well as its needed effects, vardenafil may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking vardenafil, check with your doctor immediately:
 Some vardenafil side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to vardenafil: oral tablet, oral tablet disintegrating
-The most commonly reported adverse reaction is headache.[Ref]
-Very common (10% or more): Flushing (11%)Common (1% to 10%): Palpitation, tachycardia, angina pectoris, myocardial infarction, ventricular tachyarrhythmias, hypotensionRare (less than 0.1%): HypertensionPostmarketing reports: Serious cerebrovascular hemorrhage, sudden cardiac death, transient ischemic attack, unstable angina and ventricular arrhythmia have been reported in temporal association with another medicinal product in this class.[Ref]
-Very common (10% or more): Headache (15%)Common (1% to 10%): Dizziness, paresthesia and dysesthesia, somnolence, sleep disorder, syncope, amnesia, seizurePostmarketing reports: Seizure, seizure recurrence, transient global amnesia[Ref]
-Common (1% to 10%): Erythema, rash, angioedema, allergic edemaRare (less than 0.1%): Photosensitivity reaction[Ref]
-Common (1% to 10%): Dyspepsia, nausea, gastrointestinal and abdominal pain, dry mouth, diarrhea, gastroesophageal reflux disease, gastritis, vomiting[Ref]
-Uncommon (0.1% to 1%): Increase in erectionRare (less than 0.1%): PriapismPostmarketing reports: Penile hemorrhage, hematospermia[Ref]
-Common (1% to 10%): Increase in transaminasesRare (less than 0.1%) Increase in gamma-glutamyl-transferase[Ref]
+The most commonly reported adverse reaction is headache.
+Very common (10% or more): Flushing (11%)Common (1% to 10%): Palpitation, tachycardia, angina pectoris, myocardial infarction, ventricular tachyarrhythmias, hypotensionRare (less than 0.1%): HypertensionPostmarketing reports: Serious cerebrovascular hemorrhage, sudden cardiac death, transient ischemic attack, unstable angina and ventricular arrhythmia have been reported in temporal association with another medicinal product in this class.
+Very common (10% or more): Headache (15%)Common (1% to 10%): Dizziness, paresthesia and dysesthesia, somnolence, sleep disorder, syncope, amnesia, seizurePostmarketing reports: Seizure, seizure recurrence, transient global amnesia
+Common (1% to 10%): Erythema, rash, angioedema, allergic edemaRare (less than 0.1%): Photosensitivity reaction
+Common (1% to 10%): Dyspepsia, nausea, gastrointestinal and abdominal pain, dry mouth, diarrhea, gastroesophageal reflux disease, gastritis, vomiting
+Uncommon (0.1% to 1%): Increase in erectionRare (less than 0.1%): PriapismPostmarketing reports: Penile hemorrhage, hematospermia
+Common (1% to 10%): Increase in transaminasesRare (less than 0.1%) Increase in gamma-glutamyl-transferase
 Common (1% to 10%): Allergic reactions
-Common (1% to 10%): Back pain, increase in creatine phosphokinase (CPK), increased muscle tone and cramping, myalgia[Ref]
-Common (1% to 10%): Visual disturbance, ocular hyperemia, visual color distortions, eye pain and eye discomfort, photophobia, increase in intraocular pressure, conjunctivitisRare (less than 0.1%): Increased lacrimationPostmarketing reports: Non-arteritic anterior ischemic optic neuropathy (NAION), visual disturbances including vision loss (temporary or permanent), such as visual field defect, retinal vein occlusion, and reduced visual acuity.[Ref]
-Non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported rarely postmarketing in temporal association with the use of phosphodiesterase type 5 (PDE5) inhibitors, including vardenafil.[Ref]
-Common (1% to 10%): Accidental injury, flu syndrome, tinnitus, vertigo, chest pain, feeling unwellPostmarketing reports: Cases of sudden decrease or loss of hearing in temporal association with the use of PDE5 inhibitors, including this drug[Ref]
-Common (1% to 10%): Increased creatinine kinasePostmarketing reports: Hematuria[Ref]
-Common (1% to 10%): Rhinitis, sinusitis, dyspnea, sinus congestion, nasal congestionRare (less than 0.1%): Epistaxis[Ref]
-1. "Product Information. Levitra (vardenafil)." Bayer, West Haven, CT. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. "Product Information. Staxyn (vardenafil)." Merck & Company Inc, Whitehouse Station, NJ. 
+Common (1% to 10%): Back pain, increase in creatine phosphokinase (CPK), increased muscle tone and cramping, myalgia
+Common (1% to 10%): Visual disturbance, ocular hyperemia, visual color distortions, eye pain and eye discomfort, photophobia, increase in intraocular pressure, conjunctivitisRare (less than 0.1%): Increased lacrimationPostmarketing reports: Non-arteritic anterior ischemic optic neuropathy (NAION), visual disturbances including vision loss (temporary or permanent), such as visual field defect, retinal vein occlusion, and reduced visual acuity.
+Non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported rarely postmarketing in temporal association with the use of phosphodiesterase type 5 (PDE5) inhibitors, including vardenafil.
+Common (1% to 10%): Accidental injury, flu syndrome, tinnitus, vertigo, chest pain, feeling unwellPostmarketing reports: Cases of sudden decrease or loss of hearing in temporal association with the use of PDE5 inhibitors, including this drug
+Common (1% to 10%): Increased creatinine kinasePostmarketing reports: Hematuria
+Common (1% to 10%): Rhinitis, sinusitis, dyspnea, sinus congestion, nasal congestionRare (less than 0.1%): Epistaxis
 It is possible that some side effects of vardenafil may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Arm, back, or jaw pain
 blindness
 blurred vision
@@ -55,16 +46,10 @@ tearing
 tightness in the chest
 unusual tiredness or weakness
 vomiting
-
-
 Hearing loss
-
-
 Feeling of warmth and redness of the face, neck, arms, and occasionally, upper chest
 sneezing
 stuffy nose
-
-
 Abnormal ejaculation
 abdominal or stomach pain
 abnormal vision
@@ -121,4 +106,3 @@ trouble with sleeping
 trouble with swallowing
 voice changes
 watery eyes
-

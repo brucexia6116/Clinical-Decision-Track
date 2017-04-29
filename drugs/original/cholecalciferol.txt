@@ -1,17 +1,8 @@
-Applies to cholecalciferol: oral capsule, oral capsule liquid filled, oral solution, oral tablet, oral tablet chewable, oral wafer
-In addition to its needed effects, some unwanted effects may be caused by cholecalciferol. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking cholecalciferol:
-
-
-Applies to cholecalciferol: compounding crystal, oral capsule, oral liquid, oral solution, oral tablet, oral tablet chewable, oral tablet disintegrating, oral wafer
-Metabolic side effects have included hypercalcemia.[Ref]
-Uncommon (0.1% to 1%): Hypercalciuria[Ref]
-Rare (less than 0.1%): Pruritus, rash, urticaria[Ref]
-Frequency not reported: Hypersensitivity reactions such as angioedema or laryngeal edema[Ref]
-Frequency not reported: Nausea, vomiting[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for cholecalciferol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Metabolic side effects have included hypercalcemia.
+Uncommon (0.1% to 1%): Hypercalciuria
+Rare (less than 0.1%): Pruritus, rash, urticaria
+Frequency not reported: Hypersensitivity reactions such as angioedema or laryngeal edema
+Frequency not reported: Nausea, vomiting
 Cough
 difficulty swallowing
 dizziness
@@ -21,4 +12,3 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 skin rash
 tightness in the chest
 unusual tiredness or weakness
-

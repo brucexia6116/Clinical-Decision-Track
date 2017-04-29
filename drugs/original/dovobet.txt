@@ -1,24 +1,13 @@
-Generic Name: betamethasone / calcipotriene topical
-Applies to betamethasone / calcipotriene topical: topical application foam, topical application ointment, topical application suspension
-In addition to its needed effects, some unwanted effects may be caused by betamethasone / calcipotriene topical. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking betamethasone / calcipotriene topical:
-Some of the side effects that can occur with betamethasone / calcipotriene topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to betamethasone / calcipotriene topical: topical foam, topical ointment, topical suspension
-Common (1% to 10%): Ointment: Pruritus (up to 7.2%), psoriasis (up to 3.4%), skin atrophy (up to 1.9%), folliculitis (up to 1.4%), skin depigmentation (1.4%), scaly rash (1.2%), hand dermatitis (1%); Suspension: Pruritus (3.6%), psoriasis (2.4%), erythema (2.1%), skin irritation (1.4%), folliculitis (up to 1.2%)Uncommon (0.1% to 1%): Ointment: Erythema (up to 1%), skin irritation (0.4%), papular rash (greater than 0.1% and less than 1%), pustular rash (greater than 0.1% and less than 1%), skin hypopigmentation (greater than 0.1% and less than 1%), telangiectasia (0.1%), skin hyperpigmentation (0.1%); Suspension: Acne (greater than 0.1% and less than 1%), exacerbation of psoriasis (greater than 0.1% and less than 1%), rash (greater than 0.1% and less than 1%), pustular rash (greater than 0.1% and less than 1%)Rare (less than 0.1%): Ointment: Serious flare-up of psoriasis (at least 1 case)Postmarketing reports: Ointment: Pustular psoriasis[Ref]
-Common (1% to 10%): Ointment: Headache (2.8%)[Ref]
-Frequency not reported: Hypercalcemia, hypercalciuria[Ref]
-Frequency not reported: Adrenal suppression; Ointment: Hypothalamic-pituitary-adrenal axis suppression[Ref]
+Common (1% to 10%): Ointment: Pruritus (up to 7.2%), psoriasis (up to 3.4%), skin atrophy (up to 1.9%), folliculitis (up to 1.4%), skin depigmentation (1.4%), scaly rash (1.2%), hand dermatitis (1%); Suspension: Pruritus (3.6%), psoriasis (2.4%), erythema (2.1%), skin irritation (1.4%), folliculitis (up to 1.2%)Uncommon (0.1% to 1%): Ointment: Erythema (up to 1%), skin irritation (0.4%), papular rash (greater than 0.1% and less than 1%), pustular rash (greater than 0.1% and less than 1%), skin hypopigmentation (greater than 0.1% and less than 1%), telangiectasia (0.1%), skin hyperpigmentation (0.1%); Suspension: Acne (greater than 0.1% and less than 1%), exacerbation of psoriasis (greater than 0.1% and less than 1%), rash (greater than 0.1% and less than 1%), pustular rash (greater than 0.1% and less than 1%)Rare (less than 0.1%): Ointment: Serious flare-up of psoriasis (at least 1 case)Postmarketing reports: Ointment: Pustular psoriasis
+Common (1% to 10%): Ointment: Headache (2.8%)
+Frequency not reported: Hypercalcemia, hypercalciuria
+Frequency not reported: Adrenal suppression; Ointment: Hypothalamic-pituitary-adrenal axis suppression
 Frequency not reported: Allergic contact dermatitis
-Common (1% to 10%): Ointment: Nasopharyngitis (2.3%)Uncommon (0.1% to 1%): Ointment: Influenza (0.9%), upper respiratory tract infection (0.8%)[Ref]
-Common (1% to 10%): Ointment: Burning sensation (up to 1.4%); Suspension: Burning sensation of skin (1%)Uncommon (0.1% to 1%): Ointment: Pain (0.3%)Postmarketing reports: Ointment: Rebound effect[Ref]
-Common (1% to 10%): Ointment: Ecchymosis (1%)[Ref]
-Uncommon (0.1% to 1%): Ointment: Application site pruritus (0.5%)[Ref]
-Uncommon (0.1% to 1%): Suspension: Eye irritation (greater than 0.1% and less than 1%)[Ref]
-1. "Product Information. Taclonex (betamethasone-calcipotriene topical)." Warner Chilcott Laboratories, Rockaway, NJ. 
-Not all side effects for Dovobet may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Ointment: Nasopharyngitis (2.3%)Uncommon (0.1% to 1%): Ointment: Influenza (0.9%), upper respiratory tract infection (0.8%)
+Common (1% to 10%): Ointment: Burning sensation (up to 1.4%); Suspension: Burning sensation of skin (1%)Uncommon (0.1% to 1%): Ointment: Pain (0.3%)Postmarketing reports: Ointment: Rebound effect
+Common (1% to 10%): Ointment: Ecchymosis (1%)
+Uncommon (0.1% to 1%): Ointment: Application site pruritus (0.5%)
+Uncommon (0.1% to 1%): Suspension: Eye irritation (greater than 0.1% and less than 1%)
 Burning, itching, and pain in hairy areas
 burning sensation of the skin
 flushing or redness of the skin
@@ -29,8 +18,6 @@ scaly rash
 skin irritation
 thinning of the skin with easy bruising
 unusually warm skin
-
-
 Body aches or pain
 chills
 cough
@@ -61,13 +48,8 @@ trouble sleeping
 unusual tiredness or weakness
 vomiting
 worsening of the psoriasis
-
-
 Bruising
 large, flat, blue, or purplish patches in the skin
 pain
-
-
 Blemishes on the skin
 pimples
-

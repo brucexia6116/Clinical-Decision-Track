@@ -1,41 +1,17 @@
-Generic Name: praziquantel
-Applies to praziquantel: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by praziquantel (the active ingredient contained in Biltricide). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking praziquantel:
-Some of the side effects that can occur with praziquantel may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to praziquantel: compounding powder, oral tablet
 Side effects varied according to dose and duration of praziquantel (the active ingredient contained in Biltricide) therapy.  Side effects depended on parasite species, extent of infestation, infection duration, and parasite location in the body.  Side effects occurred earlier and were more frequent and/or serious in patients with severe infestation.Often, it was unclear if praziquantel, an endogenous reaction to parasites dying from the drug, or symptoms of the infestation caused the reported side effects.Side effects included malaise, headache, dizziness, abdominal discomfort (with or without nausea), rise in temperature, and urticaria; generally in order of severity.  Such side effects were more frequent and/or serious in patients with heavy worm burden.
-The inflammatory reaction produced by antigenic substances released from dying cysts frequently involved increased intracranial pressure, seizures, severe headaches, nausea, and vomiting.  In areas where Taenia solium was endemic, these reactions may occur as the result of undiagnosed cysticercosis in patients being treated for other parasitic infections.  The duration of the reaction differs among patients.  Delayed reactions have been reported.[Ref]
-Very common (10% or more): Headache, dizzinessCommon (1% to 10%): Vertigo, somnolence (including drowsiness)Very rare (less than 0.01%): SeizuresFrequency not reported: Cerebral inflammatory reactionPostmarketing reports: Convulsion, somnolence, vertigo[Ref]
-Very common (10% or more): Gastrointestinal and abdominal pains, nausea, vomitingCommon (1% to 10%): DiarrheaFrequency not reported: Abdominal discomfort (with or without nausea), gaggingPostmarketing reports: Abdominal pain, bloody diarrhea, vomiting[Ref]
-A syndrome of severe abdominal pain and bloody diarrhea was reported less often during schistosomiasis therapy.Gagging and vomiting have been reported due to the bitter taste of the tablets.[Ref]
-Very common (10% or more): FatigueCommon (1% to 10%): Feeling unwell (asthenia, malaise), feverFrequency not reported: Rise in temperature, transient edemaVery rare (less than 0.01%): PolyserositisPostmarketing reports: Asthenia, fatigue[Ref]
-A 13-year-old male developed Mazzotti reaction after treatment with ivermectin, praziquantel (the active ingredient contained in Biltricide)  and albendazole for presumptive schistosomiasis and strongyloidiasis.  Six days after receiving standard empiric therapy, he developed epigastric pain, vomiting, and urticaria.  This progressed in 4 hours and included fever, general myalgia, and edema of the face, lower extremities, and penis accompanied by urticaria of the arms, legs, and trunk.  He was diagnosed with a Mazzotti reaction and treated with methylprednisolone; symptoms subsided within 12 hours.[Ref]
-Very common (10% or more): UrticariaCommon (1% to 10%): RashVery rare (less than 0.01%): PruritusFrequency not reported: Mazzotti-like reactionPostmarketing reports: Pruritus, rash[Ref]
+The inflammatory reaction produced by antigenic substances released from dying cysts frequently involved increased intracranial pressure, seizures, severe headaches, nausea, and vomiting.  In areas where Taenia solium was endemic, these reactions may occur as the result of undiagnosed cysticercosis in patients being treated for other parasitic infections.  The duration of the reaction differs among patients.  Delayed reactions have been reported.
+Very common (10% or more): Headache, dizzinessCommon (1% to 10%): Vertigo, somnolence (including drowsiness)Very rare (less than 0.01%): SeizuresFrequency not reported: Cerebral inflammatory reactionPostmarketing reports: Convulsion, somnolence, vertigo
+Very common (10% or more): Gastrointestinal and abdominal pains, nausea, vomitingCommon (1% to 10%): DiarrheaFrequency not reported: Abdominal discomfort (with or without nausea), gaggingPostmarketing reports: Abdominal pain, bloody diarrhea, vomiting
+A syndrome of severe abdominal pain and bloody diarrhea was reported less often during schistosomiasis therapy.Gagging and vomiting have been reported due to the bitter taste of the tablets.
+Very common (10% or more): FatigueCommon (1% to 10%): Feeling unwell (asthenia, malaise), feverFrequency not reported: Rise in temperature, transient edemaVery rare (less than 0.01%): PolyserositisPostmarketing reports: Asthenia, fatigue
+A 13-year-old male developed Mazzotti reaction after treatment with ivermectin, praziquantel (the active ingredient contained in Biltricide)  and albendazole for presumptive schistosomiasis and strongyloidiasis.  Six days after receiving standard empiric therapy, he developed epigastric pain, vomiting, and urticaria.  This progressed in 4 hours and included fever, general myalgia, and edema of the face, lower extremities, and penis accompanied by urticaria of the arms, legs, and trunk.  He was diagnosed with a Mazzotti reaction and treated with methylprednisolone; symptoms subsided within 12 hours.
+Very common (10% or more): UrticariaCommon (1% to 10%): RashVery rare (less than 0.01%): PruritusFrequency not reported: Mazzotti-like reactionPostmarketing reports: Pruritus, rash
 Common (1% to 10%)/Postmarketing reports: Anorexia
-Common (1% to 10%)/Postmarketing reports: MyalgiaFrequency not reported: Musculoskeletal aches and fatigue[Ref]
+Common (1% to 10%)/Postmarketing reports: MyalgiaFrequency not reported: Musculoskeletal aches and fatigue
 Frequency not reported: Mild increases in liver enzymes
 Very rare (less than 0.01%): Unspecified arrhythmiasPostmarketing reports: Arrhythmia (including bradycardia, ectopic rhythms, ventricular fibrillation, atrioventricular blocks)
 Postmarketing reports: Allergic reaction (generalized hypersensitivity, including polyserositis)
 Postmarketing reports: Eosinophilia
-1. Flisser A, Madrazo I, Plancarte A, Schantz P, Allan J, Craig P, Sarti E "Neurological symptoms in occult neurocysticercosis after single taeniacidal dose of praziquantel." Lancet 342 (1993): 748
-2. Watt G, White NJ, Padre L, Ritter W, Fernando MT, Ranoa CP, Laughlin LW "Praziquantel pharmacokinetics and side effects in Schistosoma japonicum-infected patients with liver disease." J Infect Dis 157 (1988): 530-5
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. Bada JL, Trevino B, Cabezos J "Convulsive seizures after treatment with praziquantel." Br Med J (Clin Res Ed) 296 (1988): 646
-5. "Product Information. Biltricide (praziquantel)." Bayer, West Haven, CT. 
-6. Homeida MM, Eltom IA, Sulaiman SM, Ali HM, Bennett JL "Tolerance of two brands of praziquantel." Lancet 2 (1989): 391
-7. Leblanc R, Knowles KF, Melanson D, MacLean JD, Rouleau G, Farmer JP "Neurocysticercosis: surgical and medical management with praziquantel." Neurosurgery 18 (1986): 419-27
-8. Ciferri F "Delayed CSF reaction to praziquantel." Lancet 1 (1988): 642-3
-9. Markwalder K, Hess K, Valavanis A, Witassek F "Cerebral cysticercosis: treatment with praziquantel. Report of two cases." Am J Trop Med Hyg 33 (1984): 273-80
-10. McMahon JE "Praziquantel: a new schistosomicide against Schistosoma mansoni." Arzneimittelforschung 31 (1981): 592-4
-11. Stelma FF, Talla I, Sow S, Kongs A, Niang M, Polman K, Deelder AM, Gryseels B "Efficacy and side effects of praziquantel in an epidemic focus of schistosoma mansoni." Am J Trop Med Hyg 53 (1995): 167-70
-12. Watt G, Baldovino PC, Castro JT, Fernando MT, Ranoa CP "Bloody diarrhoea after praziquantel therapy." Trans R Soc Trop Med Hyg 80 (1986): 345-6
-13. Polderman AM, Gryseels B, Gerold JL, Mpamila K, Manshande JP "Side effects of praziquantel in the treatment of Schistosoma mansoni in Maniema, Zaire." Trans R Soc Trop Med Hyg 78 (1984): 752-4
-14. Shorter D,  Hale K,  Elliott E "Mazzotti-like Reaction After Treatment with Praziquantel for Schistosomiasis." Pediatr Infect Dis J 25 (2006): 1087-1088
-Not all side effects for Biltricide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Abdominal or stomach discomfort with or without nausea
 abdominal or stomach pain
 black, tarry stools
@@ -70,17 +46,11 @@ troubled breathing or swallowing
 unusual bleeding or bruising
 unusual tiredness or weakness
 wheezing
-
-
 Drowsiness
 increased sweating
 general feeling of discomfort or illness
 nausea or vomiting
-
-
 Skin rash, hives, or itching
-
-
 Difficulty with moving
 dizziness or lightheadedness
 feeling of constant movement of self or surroundings
@@ -96,4 +66,3 @@ sensation of spinning
 sleepiness or unusual drowsiness
 swollen joints
 weight loss
-

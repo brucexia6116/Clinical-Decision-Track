@@ -1,25 +1,9 @@
-Applies to ticarcillin: injectable powder for injection
-Gastrointestinal side effects have included nausea, vomiting, diarrhea, and pseudomembranous colitis.[Ref]
-Local side effects have included injection site pain and induration.  Vein irritation and phlebitis may occur when undiluted ticarcillin is injected directly.[Ref]
-Hypersensitivity reactions have included skin rashes, pruritus, urticaria, drug fever, and anaphylaxis.[Ref]
-Some studies show a positive correlation between the degree of hypokalemia, the dose of ticarcillin, and the serum BUN/creatinine ratio, suggesting dehydration and higher doses are risk factors for the development of ticarcillin-associated hypokalemia.[Ref]
-Metabolic abnormalities have included hypernatremia and hypokalemia.[Ref]
-Hematologic side effects have included anemia, thrombocytopenia, leukopenia, neutropenia, and eosinophilia.[Ref]
-Hepatic side effects have included elevations of SGOT and SGPT.[Ref]
-Nervous system side effects may include convulsion or neuromuscular excitability with high doses.[Ref]
-1. Croydon EA, Hermoso C "An evaluation of the safety and tolerance to timentin." J Antimicrob Chemother 17 (1986): 233-40
-2. Sanders CV, Marier RL, Aldridge KE, Derks FW, Martin DH "Safety and effectiveness of ticarcillin plus clavulanic acid in the treatment of community-acquired acute pyelonephritis in adult women." Am J Med 79 (1985): 96-100
-3. "Product Information. Ticar (ticarcillin)." SmithKline Beecham, Philadelphia, PA. 
-4. Shenep JL, Hughes WT, Roberson PK, et al "Vancomycin, ticarcillin, and amikacin compared with ticarcillin-clavulanate and amikacin in the empirical treatment of febrile, neutropenic children with cancer." N Engl J Med 319 (1988): 1053-8
-5. Link AS, Jr "Efficacy and safety of ticarcillin plus clavulanic acid and piperacillin in patients with lower respiratory tract infections." Am J Med 79 (1985): 86-7
-6. Brown LA, Goldberg ND, Shearer WT "Long-term ticarcillin desensitization by the continuous oral administration of penicillin." J Allergy Clin Immunol 69 (1982): 51-4
-7. Ramirez-Ronda CH, Gutierrez J, Bermudez RH "Comparative effectiveness, safety and tolerance of mezlocillin and ticarcillin: a prospective randomized trial." J Antimicrob Chemother 9 (1982): 125-9
-8. Mostow SR, O'Brien RF "Safety and effectiveness of ticarcillin plus clavulanate potassium in treatment of lower respiratory tract infections." Am J Med 79 (1985): 78-80
-9. Nanji AA, Lindsay J "Ticarcillin associated hypokalemia." Clin Biochem 15 (1982): 118-9
-10. Welter J, Wittman DH, Freitag V "Ticarcillin therapy of risk patients with infections due to pseudomonas aeruginosa." J Int Med Res 9 (1981): 44-51
-11. Finch RA "Hypernatremia during lithium and ticarcillin therapy." South Med J 74 (1981): 376-7
-12. Stuart JJ "Ticarcillin-induced hemorrhage in a patient with thrombocytosis." South Med J 73 (1980): 1084-5
-13. Fass RJ, Copelan EA, Brandt JT, Moeschberger ML, Ashton JJ "Platelet-mediated bleeding caused by broad-spectrum penicillins." J Infect Dis 155 (1987): 1242-8
-14. Singh N, Yu VL, Mieles LA, Wagener MM "Beta-lactam antibiotic-induced leukopenia in severe hepatic dysfunction: risk factors and implications for dosing in patients with liver disease." Am J Med 94 (1993): 251-6
-15. Gastineau D, Spector R, Philips D "Severe neutropenia associated with ticarcillin therapy." Ann Intern Med 94 (1981): 711-2
+Gastrointestinal side effects have included nausea, vomiting, diarrhea, and pseudomembranous colitis.
+Local side effects have included injection site pain and induration.  Vein irritation and phlebitis may occur when undiluted ticarcillin is injected directly.
+Hypersensitivity reactions have included skin rashes, pruritus, urticaria, drug fever, and anaphylaxis.
+Some studies show a positive correlation between the degree of hypokalemia, the dose of ticarcillin, and the serum BUN/creatinine ratio, suggesting dehydration and higher doses are risk factors for the development of ticarcillin-associated hypokalemia.
+Metabolic abnormalities have included hypernatremia and hypokalemia.
+Hematologic side effects have included anemia, thrombocytopenia, leukopenia, neutropenia, and eosinophilia.
+Hepatic side effects have included elevations of SGOT and SGPT.
+Nervous system side effects may include convulsion or neuromuscular excitability with high doses.
 It is possible that some side effects of ticarcillin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

@@ -1,27 +1,15 @@
-Generic Name: esterified estrogens / methyltestosterone
-Applies to esterified estrogens / methyltestosterone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by esterified estrogens / methyltestosterone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking esterified estrogens / methyltestosterone:
-Some of the side effects that can occur with esterified estrogens / methyltestosterone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to esterified estrogens / methyltestosterone: oral tablet
-Cardiovascular side effects have included increased risks of myocardial infarction, pulmonary embolism, deep and superficial venous thrombosis, stroke, and increased blood pressure.[Ref]
-Oncologic side effects have included increase risk of breast cancer[Ref]
-Genitourinary side effects have included changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow, breakthrough bleeding, spotting, dysmenorrhea, increase in size of uterine leiomyomata, vaginitis, including vaginal candidiasis, change in amount of cervical secretion, changes in cervical ectropion, ovarian cancer, endometrial hyperplasia, endometrial cancer, and cystitis-like syndrome.  Side effects involving the breasts have included tenderness, enlargement, pain, nipple discharge, galactorrhea, and fibrocystic breast changes.  Side effects of androgen therapy are amenorrhea and other menstrual irregularities, and virilization, including deepening of the voice and clitoral enlargement.  The latter usually is not reversible after androgens are discontinued.[Ref]
-Gastrointestinal side effects have included nausea, vomiting, abdominal cramps, bloating, cholestatic jaundice, increased incidence of gallbladder disease, pancreatitis, and enlargement of hepatic hemangiomas.  Additional side effects have included alterations in liver function test, rarely hepatocellular neoplasms, and peliosis hepatis.[Ref]
-Dermatologic side effects have included chloasma or melasma that may persist when drug is discontinued, erythema multiforme, erythema nodosum, hemorrhagic eruption, loss of scalp hair, hirsutism, pruritus, acne, and rash.[Ref]
-Ocular side effects have included retinal vascular thrombosis, steepening of corneal curvature, and intolerance to contact lenses.[Ref]
-Nervous system side effects have included headache, migraine, dizziness, mental depression, chorea, nervousness, mood disturbances, irritability, exacerbation of epilepsy, and dementia.  Additional side effects have included increased or decreased libido, headache, anxiety, depression, and generalized paresthesia.[Ref]
-Hematologic side effects have included suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, polycythemia, and aggravation of porphyria.[Ref]
-Hypersensitivity side effects have included urticaria, angioedema, and anaphylactoid/anaphylactic reactions.[Ref]
-Respiratory side effects have included exacerbation of asthma.[Ref]
-General side effects have included increase or decrease in weight, edema, arthralgias, and leg cramps.[Ref]
-Metabolic side effects have included reduced carbohydrate tolerance, increased serum cholesterol, retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates.[Ref]
-1. "Product Information. Estratest H.S. (esterified estrogens-methyltestosterone)." Solvay Pharmaceuticals Inc, Marietta, GA. 
-2. "Product Information. Estratest (esterified estrogens-methyltestosterone)." Solvay Pharmaceuticals Inc, Marietta, GA. 
-Not all side effects for Estratest may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects have included increased risks of myocardial infarction, pulmonary embolism, deep and superficial venous thrombosis, stroke, and increased blood pressure.
+Oncologic side effects have included increase risk of breast cancer
+Genitourinary side effects have included changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow, breakthrough bleeding, spotting, dysmenorrhea, increase in size of uterine leiomyomata, vaginitis, including vaginal candidiasis, change in amount of cervical secretion, changes in cervical ectropion, ovarian cancer, endometrial hyperplasia, endometrial cancer, and cystitis-like syndrome.  Side effects involving the breasts have included tenderness, enlargement, pain, nipple discharge, galactorrhea, and fibrocystic breast changes.  Side effects of androgen therapy are amenorrhea and other menstrual irregularities, and virilization, including deepening of the voice and clitoral enlargement.  The latter usually is not reversible after androgens are discontinued.
+Gastrointestinal side effects have included nausea, vomiting, abdominal cramps, bloating, cholestatic jaundice, increased incidence of gallbladder disease, pancreatitis, and enlargement of hepatic hemangiomas.  Additional side effects have included alterations in liver function test, rarely hepatocellular neoplasms, and peliosis hepatis.
+Dermatologic side effects have included chloasma or melasma that may persist when drug is discontinued, erythema multiforme, erythema nodosum, hemorrhagic eruption, loss of scalp hair, hirsutism, pruritus, acne, and rash.
+Ocular side effects have included retinal vascular thrombosis, steepening of corneal curvature, and intolerance to contact lenses.
+Nervous system side effects have included headache, migraine, dizziness, mental depression, chorea, nervousness, mood disturbances, irritability, exacerbation of epilepsy, and dementia.  Additional side effects have included increased or decreased libido, headache, anxiety, depression, and generalized paresthesia.
+Hematologic side effects have included suppression of clotting factors II, V, VII, and X, bleeding in patients on concomitant anticoagulant therapy, polycythemia, and aggravation of porphyria.
+Hypersensitivity side effects have included urticaria, angioedema, and anaphylactoid/anaphylactic reactions.
+Respiratory side effects have included exacerbation of asthma.
+General side effects have included increase or decrease in weight, edema, arthralgias, and leg cramps.
+Metabolic side effects have included reduced carbohydrate tolerance, increased serum cholesterol, retention of sodium, chloride, water, potassium, calcium, and inorganic phosphates.
 Absent, missed, or irregular menstrual periods
 acne or oily skin
 decreased breast size
@@ -30,8 +18,6 @@ hoarseness or deepening of the voice
 menstrual changes
 stopping of menstrual bleeding
 unnatural hair growth or loss
-
-
 Continuing nausea
 cough
 dark-colored urine
@@ -52,8 +38,6 @@ tightness in the chest
 unusual tiredness or weakness
 vomiting
 wheezing
-
-
 Abdominal or stomach bloating, cramps, or pain
 anxiety
 bleeding from gums or nose
@@ -146,8 +130,6 @@ vomiting of blood
 weakness
 weight gain
 yellow eyes or skin
-
-
 Blemishes on the skin
 brown, blotchy spots on the exposed skin
 decreased interest in sexual intercourse
@@ -167,4 +149,3 @@ pimples
 redness of the skin
 swelling or inflammation of the mouth
 twitching, uncontrolled movements of the tongue, lips, face, arms, or legs
-

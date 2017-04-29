@@ -1,23 +1,16 @@
-Generic Name: pramlintide
-Applies to pramlintide: subcutaneous solution
 As well as its needed effects, pramlintide (the active ingredient contained in Symlin Pen) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking pramlintide, check with your doctor immediately:
 Some pramlintide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to pramlintide: subcutaneous solution
-Very common (10% or more): Severe hypoglycemia (up to 16.8%), anorexia (up to 17%)[Ref]
-Very common (10% or more): Nausea (up to 48%), vomiting (up to 11%)Common (1% to 10%): Abdominal painFrequency not reported: Slower gastric emptyingPostmarketing reports: Pancreatitis[Ref]
-Common (1% to 10%): Allergic reaction[Ref]
-Very common (10% or more): HeadacheCommon (1% to 10%): Dizziness[Ref]
-Common (1% to 10%): Arthralgia[Ref]
-Common (1% to 10%): Cough, pharyngitis[Ref]
-The most commonly reported side effects were: nausea, vomiting, and severe hypoglycemia.[Ref]
-Postmarketing reports: Injection site reactions[Ref]
-Very common (10% or more): Inflicted injury (14%)Common (1% to 10%): Fatigue[Ref]
-1. "Product Information. Symlin (pramlintide)." Amphastar Pharmaceuticals Inc, South El Monte, CA. 
+Very common (10% or more): Severe hypoglycemia (up to 16.8%), anorexia (up to 17%)
+Very common (10% or more): Nausea (up to 48%), vomiting (up to 11%)Common (1% to 10%): Abdominal painFrequency not reported: Slower gastric emptyingPostmarketing reports: Pancreatitis
+Common (1% to 10%): Allergic reaction
+Very common (10% or more): HeadacheCommon (1% to 10%): Dizziness
+Common (1% to 10%): Arthralgia
+Common (1% to 10%): Cough, pharyngitis
+The most commonly reported side effects were: nausea, vomiting, and severe hypoglycemia.
+Postmarketing reports: Injection site reactions
+Very common (10% or more): Inflicted injury (14%)Common (1% to 10%): Fatigue
 It is possible that some side effects of Symlin Pen may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Anxiety
 blurred vision
 chills
@@ -41,8 +34,6 @@ shakiness
 slurred speech
 tightness in the chest
 unusual tiredness or weakness
-
-
 Difficulty with moving
 inflicted injury
 loss of appetite
@@ -51,8 +42,6 @@ pain in the joints
 stomach pain
 vomiting
 weight loss
-
-
 Body aches or pain
 congestion
 dryness or soreness of the throat
@@ -61,4 +50,3 @@ hoarseness
 runny nose
 tender, swollen glands in the neck
 voice changes
-

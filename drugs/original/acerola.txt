@@ -1,31 +1,16 @@
-Generic Name: ascorbic acid
-Applies to ascorbic acid: oral capsule, oral capsule extended release, oral capsule liquid filled, oral granule, oral liquid, oral lozenge/troche, oral powder, oral powder for solution, oral powder for suspension, oral solution, oral syrup, oral tablet, oral tablet chewable, oral tablet extended release, oral wafer
-In addition to its needed effects, some unwanted effects may be caused by ascorbic acid (the active ingredient contained in Acerola). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking ascorbic acid, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with ascorbic acid may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ascorbic acid: compounding powder, injectable solution, oral capsule, oral gum, oral liquid, oral tablet, oral tablet chewable, oral tablet disintegrating, oral tablet extended release
-Renal side effects have included oxalate and urate kidney stones.[Ref]
-Hyperoxaluria appears to be dose-related.[Ref]
-Migraine headache has been reported with a daily dose of 6 grams.The manufacturer reports temporary dizziness and faintness may be associated with too rapid of a rate during intravenous administration.[Ref]
-Nervous system side effects have included dizziness, faintness, fatigue, and headache in less than 1% of patients.  Migraine headache has also been reported.[Ref]
-Conditional scurvy is reported to occur following excessive doses of ascorbic acid (the active ingredient contained in Acerola) over a prolonged period of time.  The mechanism of action for this condition is thought to be that large doses of ascorbic acid condition the patient over time for rapid clearance of ascorbic acid resulting in scurvy.  The plasma levels of ascorbic acid appear to remain within normal limits.  The actual existence of conditional scurvy remains controversial.[Ref]
-Other side effects have included flank pain in less than 1% of patients.  Conditional scurvy has also been reported.[Ref]
-Gastrointestinal side effects have included nausea, diarrhea, abdominal cramps, and esophagitis.[Ref]
-Nausea, diarrhea, and abdominal cramps appears to be associated with doses exceeding 2 g per day, although there have been some reports with as little as 1 g per day.Esophagitis appears to be associated with prolonged or increased contact of ascorbic acid tablets with the esophageal mucosa.[Ref]
-The majority of hemolysis reports have been associated with patients who have concurrent glucose-6-phosphate dehydrogenase deficiency.[Ref]
-Hematologic side effects have included hemolysis.[Ref]
-Local side effects have included transient mild soreness at the site of injection.[Ref]
-1. Levine M, Dhariwal KR, Welch RW, Wang Y, Park JB "Determination of optimal vitamin C requirements in humans." Am J Clin Nutr 62(6 Suppl) (1995): s1347-56
-2. Hathcock JN "Vitamins and minerals: Efficacy and safety." Am J Clin Nutr 66 (1997): 427-37
-3. "How much vitamin C do you need?" JAMA 281 (1999): 1460
-4. "Product Information. Cemill (ascorbic acid)." Abbott Pharmaceutical, Abbott Park, IL. 
-Not all side effects for Acerola may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Renal side effects have included oxalate and urate kidney stones.
+Hyperoxaluria appears to be dose-related.
+Migraine headache has been reported with a daily dose of 6 grams.The manufacturer reports temporary dizziness and faintness may be associated with too rapid of a rate during intravenous administration.
+Nervous system side effects have included dizziness, faintness, fatigue, and headache in less than 1% of patients.  Migraine headache has also been reported.
+Conditional scurvy is reported to occur following excessive doses of ascorbic acid (the active ingredient contained in Acerola) over a prolonged period of time.  The mechanism of action for this condition is thought to be that large doses of ascorbic acid condition the patient over time for rapid clearance of ascorbic acid resulting in scurvy.  The plasma levels of ascorbic acid appear to remain within normal limits.  The actual existence of conditional scurvy remains controversial.
+Other side effects have included flank pain in less than 1% of patients.  Conditional scurvy has also been reported.
+Gastrointestinal side effects have included nausea, diarrhea, abdominal cramps, and esophagitis.
+Nausea, diarrhea, and abdominal cramps appears to be associated with doses exceeding 2 g per day, although there have been some reports with as little as 1 g per day.Esophagitis appears to be associated with prolonged or increased contact of ascorbic acid tablets with the esophageal mucosa.
+The majority of hemolysis reports have been associated with patients who have concurrent glucose-6-phosphate dehydrogenase deficiency.
+Hematologic side effects have included hemolysis.
+Local side effects have included transient mild soreness at the site of injection.
  Side or lower back pain
-
-
  Diarrhea
 dizziness or faintness (with the injection only)
 flushing or redness of skin
@@ -33,4 +18,3 @@ headache
 increase in urination (mild) 
 nausea or vomiting
 stomach cramps
-

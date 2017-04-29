@@ -1,22 +1,10 @@
-Applies to calcium acetate: oral capsule, oral solution, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by calcium acetate. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking calcium acetate:
-Some of the side effects that can occur with calcium acetate may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to calcium acetate: compounding powder, injectable solution, oral capsule, oral liquid, oral tablet
-The most common adverse events were hypercalcemia, nausea, and diarrhea.[Ref]
-Very common (10% or more): Hypercalcemia (16.3%)[Ref]
-Hypercalcemia was usually asymptomatic or manifested as constipation, anorexia, nausea, and vomiting, and in 0.1% of patients caused confusion, delirium, stupor, or coma.[Ref]
-Very common (10% or more): Nausea (14%), diarrhea (13.2%)Common (1% to 10%): VomitingUncommon (0.1% to 1%): Constipation[Ref]
-Common (1% to 10%): Pruritus[Ref]
-Uncommon (0.1% to 1%): Soft tissue calcification Postmarketing reports: Edema, weakness[Ref]
-Postmarketing reports: Dizziness[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. "Product Information. Phoslyra (calcium acetate)." Fresenius Medical Care North America, Lexington, MA. 
-3. "Product Information. PhosLo (calcium acetate)" Braintree, Braintree, MA. 
-Not all side effects for calcium acetate may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse events were hypercalcemia, nausea, and diarrhea.
+Very common (10% or more): Hypercalcemia (16.3%)
+Hypercalcemia was usually asymptomatic or manifested as constipation, anorexia, nausea, and vomiting, and in 0.1% of patients caused confusion, delirium, stupor, or coma.
+Very common (10% or more): Nausea (14%), diarrhea (13.2%)Common (1% to 10%): VomitingUncommon (0.1% to 1%): Constipation
+Common (1% to 10%): Pruritus
+Uncommon (0.1% to 1%): Soft tissue calcification Postmarketing reports: Edema, weakness
+Postmarketing reports: Dizziness
 Abdominal or stomach pain
 confusion
 constipation
@@ -33,17 +21,8 @@ nausea or vomiting
 thirst
 unusual tiredness
 weight loss
-
-
 Swelling
-
-
 Diarrhea
-
-
 Itching
-
-
 Dizziness
 weakness
-

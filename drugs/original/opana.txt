@@ -1,35 +1,25 @@
-Generic Name: oxymorphone
 Common side effects of Opana include: fever and nausea. Other side effects include: constipation, dizziness, drowsiness, and pruritus.  See below for a comprehensive list of adverse effects.
-Applies to oxymorphone: oral tablet, oral tablet extended release
 Other dosage forms:
 As well as its needed effects, oxymorphone (the active ingredient contained in Opana) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking oxymorphone, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking oxymorphone, get emergency help immediately:
-
 Some oxymorphone side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to oxymorphone: injectable solution, oral tablet, oral tablet extended release, rectal suppository
-The most commonly reported adverse reactions included nausea, pyrexia, somnolence, vomiting, pruritus, headache, dizziness, constipation, and confusion.  Additionally, the following adverse events were reported with the extended release tablet, diarrhea, insomnia, fatigue, decreased appetite and abdominal pain.[Ref]
-Very common (10% or more): Constipation (up to 26%), nausea (up to 33%), vomiting (up to 16%) Common (1% to 10%): Dry mouth, abdominal distention, flatulence, abdominal pain, diarrhea, dyspepsiaFrequency not reported: Paralytic ileus, ileusPostmarketing reports: Difficulty swallowing tablets[Ref]
-Common (1% to 10%): Hypoxia, dyspneaFrequency not reported: Respiratory depression, atelectasis, bronchospasm, decreased oxygen saturation, respiratory distress, respiratory rate decreasedlaryngospasm, laryngeal edema, apnea[Ref]
-Very common (10% or more): Somnolence (up to 19%), dizziness (excluding vertigo; up to 18%)Common (1% to 10%): Headache, confusion Frequency not reported: Sedation, CNS depressionPostmarketing reports: Amnesia, convulsion, memory impairment[Ref]
-Frequency not reported: Hypersensitivity including dermatitis allergic, urticaria, pruritus, face swelling[Ref]
-Common (1% to 10%): Tachycardia, hypotension, edema, flushing, hypertensionFrequency not reported: Bradycardia, palpitations, orthostatic hypotension, syncope[Ref]
-Common (1% to 10%): Anxiety, insomnia, confusion, disorientation, restlessness, nervousness, depressionFrequency not reported: Mental impairment, dysphoria, euphoric mood, agitation, hallucination, drug dependence, drug abuse, feeling jittery[Ref]
-Frequency not reported: Ureteral spasm, urinary hesitation, urinary retention, oliguria, difficult micturition[Ref]
-Very common (10% or more): Pruritus (up to 15%)Common (1% to 10%): Increased sweatingFrequency not reported: Dermatitis[Ref]
-Common (1% to 10%): Decreased appetite, dehydration, decreased weightFrequency not reported: Anorexia[Ref]
-Frequency not reported: Biliary colic[Ref]
-Very common (10% or more): Pyrexia (14%)Frequency not reported: Fatigue, asthenia, hot flashes, clamminess, weakness[Ref]
-Common (1% to 10%): Vision blurredFrequency not reported: Miosis, diplopia, visual disturbances[Ref]
-Frequency not reported: Injection site reaction[Ref]
-1. "Product Information. Opana ER (oxymorphone)." Endo Laboratories LLC, Chadds Ford, PA. 
-2. "Product Information. Opana (oxymorphone)." Endo Laboratories LLC, Chadds Ford, PA. 
+The most commonly reported adverse reactions included nausea, pyrexia, somnolence, vomiting, pruritus, headache, dizziness, constipation, and confusion.  Additionally, the following adverse events were reported with the extended release tablet, diarrhea, insomnia, fatigue, decreased appetite and abdominal pain.
+Very common (10% or more): Constipation (up to 26%), nausea (up to 33%), vomiting (up to 16%) Common (1% to 10%): Dry mouth, abdominal distention, flatulence, abdominal pain, diarrhea, dyspepsiaFrequency not reported: Paralytic ileus, ileusPostmarketing reports: Difficulty swallowing tablets
+Common (1% to 10%): Hypoxia, dyspneaFrequency not reported: Respiratory depression, atelectasis, bronchospasm, decreased oxygen saturation, respiratory distress, respiratory rate decreasedlaryngospasm, laryngeal edema, apnea
+Very common (10% or more): Somnolence (up to 19%), dizziness (excluding vertigo; up to 18%)Common (1% to 10%): Headache, confusion Frequency not reported: Sedation, CNS depressionPostmarketing reports: Amnesia, convulsion, memory impairment
+Frequency not reported: Hypersensitivity including dermatitis allergic, urticaria, pruritus, face swelling
+Common (1% to 10%): Tachycardia, hypotension, edema, flushing, hypertensionFrequency not reported: Bradycardia, palpitations, orthostatic hypotension, syncope
+Common (1% to 10%): Anxiety, insomnia, confusion, disorientation, restlessness, nervousness, depressionFrequency not reported: Mental impairment, dysphoria, euphoric mood, agitation, hallucination, drug dependence, drug abuse, feeling jittery
+Frequency not reported: Ureteral spasm, urinary hesitation, urinary retention, oliguria, difficult micturition
+Very common (10% or more): Pruritus (up to 15%)Common (1% to 10%): Increased sweatingFrequency not reported: Dermatitis
+Common (1% to 10%): Decreased appetite, dehydration, decreased weightFrequency not reported: Anorexia
+Frequency not reported: Biliary colic
+Very common (10% or more): Pyrexia (14%)Frequency not reported: Fatigue, asthenia, hot flashes, clamminess, weakness
+Common (1% to 10%): Vision blurredFrequency not reported: Miosis, diplopia, visual disturbances
+Frequency not reported: Injection site reaction
 It is possible that some side effects of Opana may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 injection solution
-
 Blurred vision
 confusion
 decreased urination
@@ -48,8 +38,6 @@ thirst
 tightness in the chest
 unusual tiredness or weakness
 wrinkled skin
-
-
 Abdominal or stomach pain
 chest pain or discomfort
 chills
@@ -81,8 +69,6 @@ severe constipation
 severe vomiting
 shaking
 trouble in holding or releasing urine
-
-
 Cold and clammy skin
 constricted, pinpoint, or small pupils (black part of the eye)
 decreased awareness or responsiveness
@@ -90,8 +76,6 @@ low blood pressure or pulse
 muscle weakness
 severe sleepiness or unusual drowsiness
 very slow breathing
-
-
 Difficulty having a bowel movement (stool)
 feeling of constant movement of self or surroundings
 increased sweating
@@ -99,8 +83,6 @@ nausea or vomiting
 relaxed and calm
 sensation of spinning
 sleepiness
-
-
 Acid or sour stomach
 belching
 decreased appetite
@@ -122,8 +104,6 @@ stomach discomfort or upset
 swelling of the abdominal or stomach area
 tiredness
 trouble concentrating
-
-
 Blistering, crusting, irritation, itching, or reddening of the skin
 cracked, dry, scaly skin
 difficulty with thinking or concentrating
@@ -140,4 +120,3 @@ overbright appearance of lights
 sudden sweating
 tunnel vision
 welts
-

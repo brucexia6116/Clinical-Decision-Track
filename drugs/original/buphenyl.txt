@@ -1,26 +1,14 @@
-Generic Name: sodium phenylbutyrate
-Applies to sodium phenylbutyrate: oral powder, oral tablet, oral tablet enteric coated
-In addition to its needed effects, some unwanted effects may be caused by sodium phenylbutyrate (the active ingredient contained in Buphenyl). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking sodium phenylbutyrate:
-Some of the side effects that can occur with sodium phenylbutyrate may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to sodium phenylbutyrate: oral powder for reconstitution, oral tablet
-Causality of adverse effects is sometimes difficult to determine because they may result from either the underlying disease, the patient's restricted diet, intercurrent illness, or the drug itself.[Ref]
-Very common (10% or more): Amenorrhea/menstrual dysfunction (23%)[Ref]
-Very common (10% or more): Acidosis (14%), hypoalbuminemia (11%)Common (1% to 10%): Alkalosis, decreased appetite, hyperchloremia, hypophosphatemia, decreased total protein, hyperuricemia, hyperphosphatemia, hypernatremia, hypokalemia, increased weight[Ref]
-Common (1% to 10%): EdemaUncommon (0.1% to 1%): Arrhythmia[Ref]
-Common (1% to 10%): Rash, body odor[Ref]
-Common (1% to 10%): Abdominal pain, nausea, vomiting, constipation, dysgeusiaUncommon (0.1% to 1%): Pancreatitis, rectal bleeding/hemorrhage, peptic ulcer, gastritis[Ref]
-Common (1% to 10%): Anemia, leukopenia, leukocytosis, thrombocytopenia, thrombocytosisUncommon (0.1% to 1%): Aplastic anemia, ecchymosis[Ref]
-Common (1% to 10%): Increased alkaline phosphatase, increased liver transaminases, hyperbilirubinemia[Ref]
-Common (1% to 10%): Syncope, headache, bad taste/taste aversionFrequency not reported: Somnolence, fatigue, lightheadedness, hypoacusis, disorientation, impaired memory, exacerbation of preexisting neuropathy[Ref]
-Common (1% to 10%): Depression, irritability[Ref]
-Common (1% to 10%): Renal tubular acidosis[Ref]
-1. "Product Information. Buphenyl (sodium phenylbutyrate)." Horizon Pharma USA Inc, Northbrook, IL. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Buphenyl may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Causality of adverse effects is sometimes difficult to determine because they may result from either the underlying disease, the patient's restricted diet, intercurrent illness, or the drug itself.
+Very common (10% or more): Amenorrhea/menstrual dysfunction (23%)
+Very common (10% or more): Acidosis (14%), hypoalbuminemia (11%)Common (1% to 10%): Alkalosis, decreased appetite, hyperchloremia, hypophosphatemia, decreased total protein, hyperuricemia, hyperphosphatemia, hypernatremia, hypokalemia, increased weight
+Common (1% to 10%): EdemaUncommon (0.1% to 1%): Arrhythmia
+Common (1% to 10%): Rash, body odor
+Common (1% to 10%): Abdominal pain, nausea, vomiting, constipation, dysgeusiaUncommon (0.1% to 1%): Pancreatitis, rectal bleeding/hemorrhage, peptic ulcer, gastritis
+Common (1% to 10%): Anemia, leukopenia, leukocytosis, thrombocytopenia, thrombocytosisUncommon (0.1% to 1%): Aplastic anemia, ecchymosis
+Common (1% to 10%): Increased alkaline phosphatase, increased liver transaminases, hyperbilirubinemia
+Common (1% to 10%): Syncope, headache, bad taste/taste aversionFrequency not reported: Somnolence, fatigue, lightheadedness, hypoacusis, disorientation, impaired memory, exacerbation of preexisting neuropathy
+Common (1% to 10%): Depression, irritability
+Common (1% to 10%): Renal tubular acidosis
 Change in the frequency of breathing
 lack of or irregular menstruation
 lower back, side, or stomach pain
@@ -31,15 +19,11 @@ nervousness or restlessness
 swelling of the feet or lower legs
 unpleasant taste
 unusual tiredness or weakness
-
-
 Chills
 fever
 joint pain
 sore throat
 unusual bleeding or bruising
-
-
 Convulsions (seizures)
 dizziness
 dryness of the mouth
@@ -52,17 +36,12 @@ rectal bleeding
 swelling of the face
 unusual weight gain
 weak pulse
-
-
 Changes in taste
 decreased appetite
 strong body odor
-
-
 Abdominal or stomach pain
 constipation
 fainting
 headache
 mental depression
 skin rash
-

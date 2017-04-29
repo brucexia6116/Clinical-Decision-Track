@@ -1,24 +1,13 @@
-Generic Name: lomustine
-Applies to lomustine: oral capsule
 Along with their needed effects, medicines like lomustine (the active ingredient contained in Gleostine) can sometimes cause unwanted effects such as blood problems, loss of hair, and other side effects; these are described below. Also, because of the way these medicines act on the body, there is a chance that they might cause other unwanted effects that may not occur until months or years after the medicine is used. These delayed effects may include certain types of cancer, such as leukemia. Discuss these possible effects with your doctor.
-In addition to its needed effects, some unwanted effects may be caused by lomustine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking lomustine:
-Some of the side effects that can occur with lomustine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to lomustine: oral capsule
-Very common (10% or more): Decreased white blood counts (up to 65%), leukopeniaFrequency not reported: Myelosuppression/bone marrow suppression, thrombocytopenia, anemia, pancytopenia decreased hematocrit, bone marrow failure[Ref]
-Very common (10% or more): Nausea and vomiting (45% to 100%)Very rare (less than 0.01%): DiarrheaFrequency not reported: Stomatitis, anorexia, loss of appetite[Ref]
-Rare (less than 0.1%): Cholestatic jaundiceFrequency not reported: Elevations in transaminases, alkaline phosphatase, and bilirubin levels[Ref]
-Frequency not reported: Progressive azotemia, decreased kidney size, renal failure, kidney damage, elevated BUN levels, renal atrophy, renal injury[Ref]
-Rare (less than 0.1%): Pulmonary toxicity, interstitial pneumonia, lung fibrosisFrequency not reported: Lung infiltration[Ref]
-Frequency not reported: Acute leukemia, bone marrow dysplasia, myelodysplastic syndrome[Ref]
-Uncommon (0.1% to 1%): Apathy, disorientation, confusion, stutteringFrequency not reported: Lethargy, ataxia, dysarthria, abnormal coordination[Ref]
-Frequency not reported: Optic atrophy, visual disturbances (e.g., blindness)[Ref]
-Frequency not reported: Alopecia[Ref]
-1. "Product Information. Gleostine (lomustine)." NextSource Biotechnology, LLC, Miami, FL. 
-Not all side effects for Gleostine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Decreased white blood counts (up to 65%), leukopeniaFrequency not reported: Myelosuppression/bone marrow suppression, thrombocytopenia, anemia, pancytopenia decreased hematocrit, bone marrow failure
+Very common (10% or more): Nausea and vomiting (45% to 100%)Very rare (less than 0.01%): DiarrheaFrequency not reported: Stomatitis, anorexia, loss of appetite
+Rare (less than 0.1%): Cholestatic jaundiceFrequency not reported: Elevations in transaminases, alkaline phosphatase, and bilirubin levels
+Frequency not reported: Progressive azotemia, decreased kidney size, renal failure, kidney damage, elevated BUN levels, renal atrophy, renal injury
+Rare (less than 0.1%): Pulmonary toxicity, interstitial pneumonia, lung fibrosisFrequency not reported: Lung infiltration
+Frequency not reported: Acute leukemia, bone marrow dysplasia, myelodysplastic syndrome
+Uncommon (0.1% to 1%): Apathy, disorientation, confusion, stutteringFrequency not reported: Lethargy, ataxia, dysarthria, abnormal coordination
+Frequency not reported: Optic atrophy, visual disturbances (e.g., blindness)
+Frequency not reported: Alopecia
 Bleeding gums
 chest pain
 shortness of breath
@@ -26,8 +15,6 @@ sore throat
 sores, ulcers, or white spots on the lips or in the mouth
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Awkwardness
 black, tarry stools
 blood in the urine or stools
@@ -44,8 +31,6 @@ swelling of the feet or lower legs
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain or tenderness
 bone pain
 change in frequency of urination or amount of urine
@@ -64,12 +49,8 @@ nausea or vomiting
 skin rash
 weight gain
 yellow eyes or skin
-
-
 Darkening of the skin
 diarrhea
-
-
 Blurred vision
 changes in patterns and rhythms of speech
 confusion about identity, place, and time
@@ -81,4 +62,3 @@ swelling or inflammation of the mouth
 trouble with speaking
 unsteadiness, trembling, or other problems with muscle control or coordination
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
-

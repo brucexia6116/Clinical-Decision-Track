@@ -1,24 +1,10 @@
-Applies to hyaluronidase: powder for solution, solution
-In addition to its needed effects, some unwanted effects may be caused by hyaluronidase. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking hyaluronidase, check with your doctor or nurse immediately:
-
 If any of the following symptoms of overdose occur while taking hyaluronidase, get emergency help immediately:
-
-Some of the side effects that can occur with hyaluronidase may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to hyaluronidase: injectable powder for injection, injectable solution
-Local reactions are the most common side effects.  The most common side effect during hypodermoclysis is edema.[Ref]
-Hyaluronidase increases the side effects of coadministered drugs.[Ref]
-Hypersensitivity reactions have included urticaria and angioedema in less than 0.1% of patients.  Anaphylactic-like reactions have rarely been reported after intravenous or retrobulbar injection.[Ref]
-One clinic has reported a possible increase in cases of angioedema related to the use of pharmacy-compounded hyaluronidase in cataract surgery as opposed to that seen with the use of manufactured products.[Ref]
-Ocular side effects have included case reports of hypersensitivity reactions after retrobulbar injections, which manifested as increased intraorbital pressure and swelling, periorbital edema, and localized pruritus.[Ref]
-1. "Product Information. Vitrase (hyaluronidase)." Allergan Inc, Irvine, CA. 
-2. Eberhart AH,  Weiler CR,  Erie JC "Angioedema related to the use of hyaluronidase in cataract surgery." Am J Ophthalmol 138 (2004): 142-3
-3. Minning CA Jr "Hyaluronidase allergy simulating expulsive choroidal hemorrhage." Arch Ophthalmol 112 (1994): 585-6
-Not all side effects for hyaluronidase may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Local reactions are the most common side effects.  The most common side effect during hypodermoclysis is edema.
+Hyaluronidase increases the side effects of coadministered drugs.
+Hypersensitivity reactions have included urticaria and angioedema in less than 0.1% of patients.  Anaphylactic-like reactions have rarely been reported after intravenous or retrobulbar injection.
+One clinic has reported a possible increase in cases of angioedema related to the use of pharmacy-compounded hyaluronidase in cataract surgery as opposed to that seen with the use of manufactured products.
+Ocular side effects have included case reports of hypersensitivity reactions after retrobulbar injections, which manifested as increased intraorbital pressure and swelling, periorbital edema, and localized pruritus.
 Cough
 difficulty swallowing
 dizziness
@@ -31,8 +17,6 @@ redness of the skin
 skin rash
 tightness in the chest
 unusual tiredness or weakness
-
-
 Blurred vision
 chills
 confusion
@@ -44,7 +28,4 @@ sweating
 swelling
 unusual tiredness or weakness
 unusually warm skin
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
-

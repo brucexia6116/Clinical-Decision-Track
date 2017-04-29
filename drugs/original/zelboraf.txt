@@ -1,27 +1,20 @@
-Generic Name: vemurafenib
 Common side effects of Zelboraf include: squamous cell carcinoma, keratoacanthoma, skin photosensitivity, and erythema.  See below for a comprehensive list of adverse effects.
-Applies to vemurafenib: oral tablet
 As well as its needed effects, vemurafenib (the active ingredient contained in Zelboraf) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking vemurafenib, check with your doctor immediately:
 Some vemurafenib side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to vemurafenib: oral tablet
-Very common (10% or more): Skin papilloma (up to 30%), cutaneous SCC (24%), seborrheic keratosis (up to 14%)Common (1% to 10%): Basal cell carcinoma, oropharyngeal squamous cell carcinomaPostmarketing reports: Progression of a preexisting-existing chronic myelomonocytic leukemia with NRAS mutation[Ref]
-Uncommon (0.1% to 1%): Atrial fibrillation, vasculitis[Ref]
-Very common (10% or more): Hepatic laboratory abnormalities (GGT, AST, ALT, alkaline phosphatase, bilirubin) (up to 11.5%)[Ref]
-Common (1% to 10%): Cough[Ref]
-The most common side effects reported were arthralgia, rash, alopecia, fatigue, photosensitivity reaction, nausea, pruritus, and skin papilloma.[Ref]
-Very common (10% or more): Rash (up to 52%), photosensitivity (up to 49 %), alopecia (up to 45%), pruritus (up to 30%), hyperkeratosis (up to 28%), dry skin (up to 19%), erythema (up to 14%), sunburn (up to 14%)Common (1% to 10%): Maculo-papular rash, actinic keratosis, papular rash, palmar-plantar erythrodysesthesia syndrome, keratosis pilaris, erythema nodosum, folliculitisUncommon (0.1% to 1%): Stevens-Johnson syndrome, toxic epidermal necrolysisPostmarketing reports: DRESS syndrome[Ref]
-Very common (10% or more): Nausea (up to 37%), diarrhea (up to 29%), vomiting (up to 26%), constipation (up to 16%)[Ref]
-Very common (10% or more): Decreased appetite (up to 21%)[Ref]
-Very common (10% or more): Arthralgia (Up to 67%), myalgia (up to 24%), pain in extremity (up to 18%)Common (1% to 10%): Musculoskeletal pain, back pain, arthritisUncommon (0.1% to 1%): VIIth nerve paralysis[Ref]
-Very common (10% or more): Headache (up to 27%), dysgeusia (up to 14%)Common (1% to 10%): Dizziness, peripheral neuropathy[Ref]
-Very common (10% or more): Fatigue (up to 54%), peripheral edema (up to 23%), pyrexia (up to 19%), asthenia (up to 11%)[Ref]
-Common (1% to 10%): UveitisUncommon (0.1% to 1%): Retinal vein occlusion[Ref]
-1. "Product Information. Zelboraf (vemurafenib)." Genentech, South San Francisco, CA. 
+Very common (10% or more): Skin papilloma (up to 30%), cutaneous SCC (24%), seborrheic keratosis (up to 14%)Common (1% to 10%): Basal cell carcinoma, oropharyngeal squamous cell carcinomaPostmarketing reports: Progression of a preexisting-existing chronic myelomonocytic leukemia with NRAS mutation
+Uncommon (0.1% to 1%): Atrial fibrillation, vasculitis
+Very common (10% or more): Hepatic laboratory abnormalities (GGT, AST, ALT, alkaline phosphatase, bilirubin) (up to 11.5%)
+Common (1% to 10%): Cough
+The most common side effects reported were arthralgia, rash, alopecia, fatigue, photosensitivity reaction, nausea, pruritus, and skin papilloma.
+Very common (10% or more): Rash (up to 52%), photosensitivity (up to 49 %), alopecia (up to 45%), pruritus (up to 30%), hyperkeratosis (up to 28%), dry skin (up to 19%), erythema (up to 14%), sunburn (up to 14%)Common (1% to 10%): Maculo-papular rash, actinic keratosis, papular rash, palmar-plantar erythrodysesthesia syndrome, keratosis pilaris, erythema nodosum, folliculitisUncommon (0.1% to 1%): Stevens-Johnson syndrome, toxic epidermal necrolysisPostmarketing reports: DRESS syndrome
+Very common (10% or more): Nausea (up to 37%), diarrhea (up to 29%), vomiting (up to 26%), constipation (up to 16%)
+Very common (10% or more): Decreased appetite (up to 21%)
+Very common (10% or more): Arthralgia (Up to 67%), myalgia (up to 24%), pain in extremity (up to 18%)Common (1% to 10%): Musculoskeletal pain, back pain, arthritisUncommon (0.1% to 1%): VIIth nerve paralysis
+Very common (10% or more): Headache (up to 27%), dysgeusia (up to 14%)Common (1% to 10%): Dizziness, peripheral neuropathy
+Very common (10% or more): Fatigue (up to 54%), peripheral edema (up to 23%), pyrexia (up to 19%), asthenia (up to 11%)
+Common (1% to 10%): UveitisUncommon (0.1% to 1%): Retinal vein occlusion
 It is possible that some side effects of Zelboraf may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blistering, peeling, or loosening of the skin
 bloating or swelling of the face, arms, hands, lower legs, or feet
 bloody urine
@@ -66,8 +59,6 @@ ulceration of the skin
 unusual tiredness or weakness
 unusual weight gain or loss
 weight gain
-
-
 Back or bone pain
 burning, itching, and pain in the hairy areas, or pus at the root of the hair
 change in taste
@@ -88,4 +79,3 @@ pain in the arms or legs
 rash
 sunburn
 vomiting
-

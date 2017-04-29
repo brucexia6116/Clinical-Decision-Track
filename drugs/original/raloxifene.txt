@@ -1,39 +1,29 @@
 Commonly reported side effects of raloxifene include: infection, flu-like symptoms, hot flash, and sinusitis. Other side effects include: leg cramps.  See below for a comprehensive list of adverse effects.
-Applies to raloxifene: oral tablet
 As well as its needed effects, raloxifene may cause unwanted side effects that require medical attention. 
 Stop taking raloxifene and get emergency help immediately if any of the following effects occur:
 If any of the following side effects occur while taking raloxifene, check with your doctor or nurse as soon as possible:
 Some raloxifene side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to raloxifene: oral tablet
-Very common (10% or more): Hot flashes/hot flushes/vasodilation (28.7%), increased blood pressureCommon (1% to 10%): Varicose vein, venous thromboembolism (VTE)Postmarketing reports: Death related to VTE[Ref]
-Very common (10% or more): Flu syndrome (16.2%), infection (15.1%), peripheral edema (14.1%)Common (1% to 10%): Chest pain, fever[Ref]
-Very common (10% or more): Arthralgia (15.5%), muscle spasms/leg cramps (12.1%)Common (1% to 10%): Myalgia, arthritis, tendon disorder[Ref]
-Very common (10% or more): Sinusitis (10.3%), rhinitis (10.2%)Common (1% to 10%): Bronchitis, pharyngitis, increased cough, pneumonia, laryngitis[Ref]
-Common (1% to 10%): Rash, sweating[Ref]
-Common (1% to 10%): Breast pain/tenderness/enlargement[Ref]
-Common (1% to 10%): Nausea, diarrhea, dyspepsia, vomiting, flatulence, gastrointestinal disorder, gastroenteritis, abdominal pain[Ref]
-Common (1% to 10%): Vaginitis, urinary tract infection, cystitis, leukorrhea, uterine disorder, vaginal bleeding, endometrial disorder, vaginal hemorrhage, urinary tract disorder[Ref]
-Common (1% to 10%): Cholelithiasis, cholecystectomyFrequency not reported: Slightly decreased platelet counts, moderate increases in AST and/or ALT[Ref]
-Common (1% to 10%): Weight gain[Ref]
-Common (1% to 10%): Headache/migraine, syncope, vertigo, neuralgia, hypesthesia, stroke, death related to stroke[Ref]
-Common (1% to 10%): ConjunctivitisPostmarketing reports: Retinal vein occlusion[Ref]
-Common (1% to 10%): Depression, insomnia[Ref]
-Uncommon (0.1% to 1%): Thrombocytopenia[Ref]
-Uncommon (0.1% to 1%): Benign endometrial polypsFrequency not reported: Endometrial cancer, ovarian cancer, endometrial atrophy[Ref]
-1. "Product Information. Raloxifene (raloxifene)." Prasco Laboratories, Cincinnati, OH. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
+Very common (10% or more): Hot flashes/hot flushes/vasodilation (28.7%), increased blood pressureCommon (1% to 10%): Varicose vein, venous thromboembolism (VTE)Postmarketing reports: Death related to VTE
+Very common (10% or more): Flu syndrome (16.2%), infection (15.1%), peripheral edema (14.1%)Common (1% to 10%): Chest pain, fever
+Very common (10% or more): Arthralgia (15.5%), muscle spasms/leg cramps (12.1%)Common (1% to 10%): Myalgia, arthritis, tendon disorder
+Very common (10% or more): Sinusitis (10.3%), rhinitis (10.2%)Common (1% to 10%): Bronchitis, pharyngitis, increased cough, pneumonia, laryngitis
+Common (1% to 10%): Rash, sweating
+Common (1% to 10%): Breast pain/tenderness/enlargement
+Common (1% to 10%): Nausea, diarrhea, dyspepsia, vomiting, flatulence, gastrointestinal disorder, gastroenteritis, abdominal pain
+Common (1% to 10%): Vaginitis, urinary tract infection, cystitis, leukorrhea, uterine disorder, vaginal bleeding, endometrial disorder, vaginal hemorrhage, urinary tract disorder
+Common (1% to 10%): Cholelithiasis, cholecystectomyFrequency not reported: Slightly decreased platelet counts, moderate increases in AST and/or ALT
+Common (1% to 10%): Weight gain
+Common (1% to 10%): Headache/migraine, syncope, vertigo, neuralgia, hypesthesia, stroke, death related to stroke
+Common (1% to 10%): ConjunctivitisPostmarketing reports: Retinal vein occlusion
+Common (1% to 10%): Depression, insomnia
+Uncommon (0.1% to 1%): Thrombocytopenia
+Uncommon (0.1% to 1%): Benign endometrial polypsFrequency not reported: Endometrial cancer, ovarian cancer, endometrial atrophy
 It is possible that some side effects of raloxifene may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Coughing blood
 headache or migraine headache
 loss of or change in speech, coordination, or vision
 pain or numbness in chest, arm, or leg
 shortness of breath (unexplained)
-
-
 Bloody or cloudy urine
 chest pain
 difficult, burning, or painful urination
@@ -44,8 +34,6 @@ leg cramping
 skin rash
 swelling of hands, ankles, or feet
 vaginal itching
-
-
 Abdominal pain (severe)
 aching body pains
 congestion in lungs
@@ -57,8 +45,6 @@ loss of appetite
 nausea
 trouble in swallowing
 weakness
-
-
 Hot flashes, including sudden sweating and feelings of warmth (especially common during the first 6 months of treatment)
 increased white vaginal discharge
 joint or muscle pain
@@ -67,4 +53,3 @@ problems of stomach or intestines, including passing of gas, upset stomach, or v
 swollen joints
 trouble in sleeping
 weight gain (unexplained)
-

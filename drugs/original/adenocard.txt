@@ -1,37 +1,22 @@
-Generic Name: adenosine
-Applies to adenosine: intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by adenosine (the active ingredient contained in Adenocard). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking adenosine, check with your doctor or nurse immediately:
-Some of the side effects that can occur with adenosine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to adenosine: compounding powder, intravenous solution, sublingual spray
-The most common adverse reactions are flushing, chest discomfort, dyspnea, facial flushing, headache, throat/neck/jaw discomfort, gastrointestinal discomfort, and lightheadedness/dizziness.[Ref]
-Very common (10% or more): Flushing (44%), facial flushing (18%)Common (1% to 10%): First degree atrioventricular block, second degree atrioventricular block, hypotension, arrhythmias, ventricular tachycardiaUncommon (0.1% to 1%): Bradycardia, sinus tachycardia, palpitationsVery rare (less than 0.01%): Atrial fibrillation, ventricular fibrillation, Torsade de pointes, severe bradycardiaFrequency not reported: Myocardial infarction, ventricular arrhythmia, third degree atrioventricular block, sinus exit block, sinus pause, hypertension, skipped beats, atrial extrasystoles, ventricular extrasystolesPostmarketing reports: Cardiac arrest/asystole, cardiac failure, tachycardia, prolonged asystole, transient increase in blood pressure[Ref]
-Very common (10% or more): Chest discomfort (40%)Common (1% to 10%): ST segment depression, chest pressureUncommon (0.1% to 1%): Feeling of general discomfort/weakness/painRare (less than 0.1%): Tinnitus, nipple discomfortFrequency not reported: Chest pain, feeling of thoracic constriction/oppression, weakness, T wave changes, ear discomfort, tongue discomfort, heaviness in arms, pressure in groinPostmarketing reports: ST segment elevation[Ref]
-Very common (10% or more): Dyspnea (up to 28%)Uncommon (0.1% to 1%): HyperventilationRare (0.01% to 0.1%): Bronchospasm, nasal congestionVery rare (less than 0.01%): Respiratory failureFrequency not reported: Cough, throat tightnessPostmarketing reports: Respiratory arrest/apnea[Ref]
-Very common (10% or more): Headache (up to 18%), lightheadedness/dizziness (12%)Common (1% to 10%): Paresthesia, tingling in arms, numbness, burning sensationUncommon (0.1% to 1%): Metallic taste, head pressureRare (0.01% to 0.1%): Tremor, drowsinessVery rare (less than 0.01%): Intracranial hypertension worseningFrequency not reported: Scotomas, convulsionsPostmarketing reports: Cerebrovascular accident, intracranial hemorrhage, seizure, tonic clonic seizures, loss of consciousness/syncope[Ref]
-Very common (10% or more): Throat/neck/jaw discomfort (15%)Common (1% to 10%): Upper extremity discomfortFrequency not reported: Back discomfort, lower extremity discomfort, neck and back pain[Ref]
-Very common (10% or more): Gastrointestinal discomfort (13%)Common (1% to 10%): Dry mouth, nauseaFrequency not reported: Abdominal discomfortPostmarketing reports: Vomiting[Ref]
-Common (1% to 10%): Nervousness, apprehensionFrequency not reported: Emotional instability[Ref]
-Uncommon (0.1% to 1%): SweatingPostmarketing reports: Angioedema, urticaria, rash[Ref]
-Uncommon (0.1% to 1%): Blurred vision[Ref]
-Rare (less than 0.1%): Urinary urgencyFrequency not reported: Vaginal pressure[Ref]
-Very rare (less than 0.01%): Injection site reactionPostmarketing reports: Infusion site pain[Ref]
-Postmarketing reports: Hypersensitivity, anaphylaxis[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Prograf (tacrolimus)." Fujisawa, Deerfield, IL. 
-Not all side effects for Adenocard may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions are flushing, chest discomfort, dyspnea, facial flushing, headache, throat/neck/jaw discomfort, gastrointestinal discomfort, and lightheadedness/dizziness.
+Very common (10% or more): Flushing (44%), facial flushing (18%)Common (1% to 10%): First degree atrioventricular block, second degree atrioventricular block, hypotension, arrhythmias, ventricular tachycardiaUncommon (0.1% to 1%): Bradycardia, sinus tachycardia, palpitationsVery rare (less than 0.01%): Atrial fibrillation, ventricular fibrillation, Torsade de pointes, severe bradycardiaFrequency not reported: Myocardial infarction, ventricular arrhythmia, third degree atrioventricular block, sinus exit block, sinus pause, hypertension, skipped beats, atrial extrasystoles, ventricular extrasystolesPostmarketing reports: Cardiac arrest/asystole, cardiac failure, tachycardia, prolonged asystole, transient increase in blood pressure
+Very common (10% or more): Chest discomfort (40%)Common (1% to 10%): ST segment depression, chest pressureUncommon (0.1% to 1%): Feeling of general discomfort/weakness/painRare (less than 0.1%): Tinnitus, nipple discomfortFrequency not reported: Chest pain, feeling of thoracic constriction/oppression, weakness, T wave changes, ear discomfort, tongue discomfort, heaviness in arms, pressure in groinPostmarketing reports: ST segment elevation
+Very common (10% or more): Dyspnea (up to 28%)Uncommon (0.1% to 1%): HyperventilationRare (0.01% to 0.1%): Bronchospasm, nasal congestionVery rare (less than 0.01%): Respiratory failureFrequency not reported: Cough, throat tightnessPostmarketing reports: Respiratory arrest/apnea
+Very common (10% or more): Headache (up to 18%), lightheadedness/dizziness (12%)Common (1% to 10%): Paresthesia, tingling in arms, numbness, burning sensationUncommon (0.1% to 1%): Metallic taste, head pressureRare (0.01% to 0.1%): Tremor, drowsinessVery rare (less than 0.01%): Intracranial hypertension worseningFrequency not reported: Scotomas, convulsionsPostmarketing reports: Cerebrovascular accident, intracranial hemorrhage, seizure, tonic clonic seizures, loss of consciousness/syncope
+Very common (10% or more): Throat/neck/jaw discomfort (15%)Common (1% to 10%): Upper extremity discomfortFrequency not reported: Back discomfort, lower extremity discomfort, neck and back pain
+Very common (10% or more): Gastrointestinal discomfort (13%)Common (1% to 10%): Dry mouth, nauseaFrequency not reported: Abdominal discomfortPostmarketing reports: Vomiting
+Common (1% to 10%): Nervousness, apprehensionFrequency not reported: Emotional instability
+Uncommon (0.1% to 1%): SweatingPostmarketing reports: Angioedema, urticaria, rash
+Uncommon (0.1% to 1%): Blurred vision
+Rare (less than 0.1%): Urinary urgencyFrequency not reported: Vaginal pressure
+Very rare (less than 0.01%): Injection site reactionPostmarketing reports: Infusion site pain
+Postmarketing reports: Hypersensitivity, anaphylaxis
 Chest discomfort
 difficult or labored breathing
 lightheadedness or dizziness
 throat, neck, or jaw discomfort
 tightness in the chest
-
-
 Chest pain
 confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
@@ -40,14 +25,10 @@ fast, slow, or irregular heartbeat
 sweating
 troubled breathing
 unusual tiredness or weakness
-
-
 Fast, irregular, pounding, or racing heartbeat or pulse
 headache
 nervousness
 pounding in the ears
-
-
 Diarrhea
 feeling of warmth
 indigestion
@@ -56,8 +37,6 @@ nausea or vomiting
 passing of gas
 redness of the face, neck, arms, and occasionally, upper chest
 stomach pain, fullness, or discomfort
-
-
 Area of decreased vision
 cough
 discomfort in the back, ears, or tongue
@@ -68,4 +47,3 @@ mood changes
 shakiness in the legs, arms, hands, or feet
 stuffy nose
 trembling or shaking of the hands or feet
-

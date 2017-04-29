@@ -1,33 +1,20 @@
-Applies to hydrocodone: oral capsule extended release, oral liquid, oral syrup, oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by hydrocodone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking hydrocodone:
-
 If any of the following symptoms of overdose occur while taking hydrocodone, get emergency help immediately:
-
-Some of the side effects that can occur with hydrocodone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to hydrocodone: compounding powder, oral capsule extended release, oral tablet extended release
-The most commonly reported side effects included constipation, nausea, vomiting, fatigue, upper respiratory tract infection, dizziness, headache, and somnolence.[Ref]
-Common (1% to 10%): Upper respiratory tract infection, cough, bronchitis, nasopharyngitis, sinusitis, nasal congestionUncommon (0.1% to 1%): Dyspnea[Ref]
-Common (1 to 10%): Hot flush, hypertension, chest pain, peripheral edemaRare (less than 0.1%): Hypotension, orthostatic hypotension, palpitations, presyncope, syncopeFrequency not reported: QTC interval prolongation[Ref]
-QT interval prolongation has been observed in healthy subjects following daily dosing with hydrocodone extended-release tablets.  The difference in QT interval at steady state was found to be 6 milliseconds, 7 milliseconds, and 10 milliseconds at doses of 80 mg, 120 mg and 160 mg, daily, respectively.[Ref]
-Very common (10% or more): Constipation (up to 11%), nausea (up to 10%)Common (1% to 10%): Dry mouth, vomiting, abdominal pain or discomfort, gastroesophageal reflux disease, diarrhea, dyspepsiaRare (less than 0.1%): Dysphagia, esophageal obstruction, retching, chockingVery rare (less than 0.01%): Difficulty swallowing tablet[Ref]
-In clinical trials with extended release tablets, 11 or 2476 subjects reported difficulty swallowing the tablets.  These reports included esophageal obstruction, dysphagia, and choking.  One case required medical intervention to remove the tablet.[Ref]
-Common (1% to 10%): Somnolence, fatigue, headache, tremor, dizziness, lethargy, migraine, paresthesia, sedationUncommon (0.1% to 1%): Abnormal thinking[Ref]
-Common (1% to 10%): Pain, pyrexia, fatigue, tinnitus, chillsUncommon (0.1% to 1%): Asthenia, neonatal abstinence syndrome, drug withdrawal[Ref]
-Common (1 to 10%): Anxiety, depression, insomniaUncommon (0.1% to 1%): Agitation, altered mood, irritability, libido decreased[Ref]
-Common (1% to 10%): Dehydration, hypokalemia, increased blood cholesterol, decreased appetite Uncommon (0.1% to 1%): Thirst[Ref]
-Common (1 to 10%): Increased gamma-glutamyltransferase[Ref]
-Common (1% to 10%): Back pain, muscle spasms , contusion, fall, foot fracture, joint injury or sprain, muscle strain, arthralgia, musculoskeletal pain, myalgia, neck pain, osteoarthritis, pain in extremityUncommon (0.1% to 1%): Muscle twitching[Ref]
-Uncommon (0.1% to 1%): Drug hypersensitivity[Ref]
-Uncommon (0.1% to 1%): Hypogonadism[Ref]
-Common (1% to 10%): Pruritus, skin laceration, hyperhidrosis, night sweats, rash[Ref]
-Common (1% to 10%): Urinary tract infectionUncommon (0.1% to 1%): Urinary retention[Ref]
-1. "Product Information. Zohydro ER (HYDROcodone)." Zogenix, Inc, San Diego, CA. 
-2. "Product Information. Hysingla ER (HYDROcodone)." Purdue Pharma LP, Stamford, CT. 
-Not all side effects for hydrocodone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects included constipation, nausea, vomiting, fatigue, upper respiratory tract infection, dizziness, headache, and somnolence.
+Common (1% to 10%): Upper respiratory tract infection, cough, bronchitis, nasopharyngitis, sinusitis, nasal congestionUncommon (0.1% to 1%): Dyspnea
+Common (1 to 10%): Hot flush, hypertension, chest pain, peripheral edemaRare (less than 0.1%): Hypotension, orthostatic hypotension, palpitations, presyncope, syncopeFrequency not reported: QTC interval prolongation
+QT interval prolongation has been observed in healthy subjects following daily dosing with hydrocodone extended-release tablets.  The difference in QT interval at steady state was found to be 6 milliseconds, 7 milliseconds, and 10 milliseconds at doses of 80 mg, 120 mg and 160 mg, daily, respectively.
+Very common (10% or more): Constipation (up to 11%), nausea (up to 10%)Common (1% to 10%): Dry mouth, vomiting, abdominal pain or discomfort, gastroesophageal reflux disease, diarrhea, dyspepsiaRare (less than 0.1%): Dysphagia, esophageal obstruction, retching, chockingVery rare (less than 0.01%): Difficulty swallowing tablet
+In clinical trials with extended release tablets, 11 or 2476 subjects reported difficulty swallowing the tablets.  These reports included esophageal obstruction, dysphagia, and choking.  One case required medical intervention to remove the tablet.
+Common (1% to 10%): Somnolence, fatigue, headache, tremor, dizziness, lethargy, migraine, paresthesia, sedationUncommon (0.1% to 1%): Abnormal thinking
+Common (1% to 10%): Pain, pyrexia, fatigue, tinnitus, chillsUncommon (0.1% to 1%): Asthenia, neonatal abstinence syndrome, drug withdrawal
+Common (1 to 10%): Anxiety, depression, insomniaUncommon (0.1% to 1%): Agitation, altered mood, irritability, libido decreased
+Common (1% to 10%): Dehydration, hypokalemia, increased blood cholesterol, decreased appetite Uncommon (0.1% to 1%): Thirst
+Common (1 to 10%): Increased gamma-glutamyltransferase
+Common (1% to 10%): Back pain, muscle spasms , contusion, fall, foot fracture, joint injury or sprain, muscle strain, arthralgia, musculoskeletal pain, myalgia, neck pain, osteoarthritis, pain in extremityUncommon (0.1% to 1%): Muscle twitching
+Uncommon (0.1% to 1%): Drug hypersensitivity
+Uncommon (0.1% to 1%): Hypogonadism
+Common (1% to 10%): Pruritus, skin laceration, hyperhidrosis, night sweats, rash
+Common (1% to 10%): Urinary tract infectionUncommon (0.1% to 1%): Urinary retention
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 body aches or pain
 chills
@@ -48,8 +35,6 @@ tightness in the chest
 tingling of the hands or feet
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Blue lips and fingernails
 blurred vision
 change in consciousness
@@ -67,12 +52,8 @@ pale skin
 sleepiness or unusual drowsiness
 slow or irregular heartbeat
 weak muscle tone
-
-
 Difficulty having a bowel movement (stool)
 nausea
-
-
 Abdominal or stomach pain or discomfort
 back pain
 bladder pain
@@ -85,4 +66,3 @@ itching skin
 lower back or side pain
 muscle spasms
 vomiting
-

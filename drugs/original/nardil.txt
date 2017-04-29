@@ -1,32 +1,23 @@
-Generic Name: phenelzine
-Applies to phenelzine: oral tablet
 As well as its needed effects, phenelzine (the active ingredient contained in Nardil) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking phenelzine, check with your doctor immediately:
 Some phenelzine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to phenelzine: oral tablet
-The most important adverse event reported is hypertensive crisis, which has been associated with intracranial bleeding and has been fatal.[Ref]
-Common (1% to 10%): Postural hypotensionUncommon (0.1% to 1%): ArrhythmiasFrequency not reported: Hypertensive crisis[Ref]
-Common (1% to 10%): Gastrointestinal disturbances (nausea, vomiting, dryness of mouth, constipation)[Ref]
-Common (1% to 10%): Weakness, fatigue, adverse effects on driving ability, tremorsUncommon (0.1% to 1%): JitterinessVery rare (less than 0.01%): Transient respiratory and cardiovascular depression following ECT, fever associated with increased muscle toneFrequency not reported: Withdrawal, withdrawal syndrome[Ref]
--Withdrawal may be associated with nausea, vomiting, and malaise.-An uncommon withdrawal syndrome following abrupt drug discontinuation generally starts after 24 to 72 hours and may vary from vivid nightmares and agitation to frank psychosis and convulsions.-Withdrawal syndrome generally responds to reinstitution of low dose therapy, followed by cautious downward titration and discontinuation.[Ref]
-Common (1% to 10%): Dizziness, headache, drowsiness, sleep disturbances (including insomnia and hypersomnia), myoclonic movements, hyperreflexiaUncommon (0.1% to 1%): Paresthesia, peripheral neuritis, convulsions, palilalia, nystagmusVery rare (less than 0.01%): Ataxia, shock-like coma, neuroleptic malignant syndrome (occasionally fatal)[Ref]
-Common (1% to 10%): Insomnia, anorgasmiaUncommon (0.1% to 1%): Nervousness, euphoria, behavioral changes, confusion, hallucinationsVery rare (less than 0.01%): Toxic delirium, manic reaction, acute anxiety reaction, precipitation of schizophreniaFrequency not reported: Suicidal ideation, suicidal behaviors[Ref]
-Common (1% to 10%): Sexual disturbances (anorgasmia and ejaculatory disturbances)Uncommon (0.1% to 1%): Difficulty in micturition, impotence and delayed ejaculation[Ref]
-Uncommon (0.1% to 1%): Blood dyscrasiasFrequency not reported: Leukopenia[Ref]
-Common (1% to 10%): Elevated serum transaminasesUncommon (0.1% to 1%): Elevated liver enzymesVery rare (less than 0.01%): Fatal progressive necrotizing hepatocellular damage, reversible jaundice[Ref]
-Common (1% to 10%): Edema, weight gainUncommon (0.1% to 1%): Increased appetite, hypernatremiaVery rare (less than 0.01%): Hypermetabolic syndromeFrequency not reported: Hyponatremia, inappropriate ADH secretion[Ref]
-Common (1% to 10%): TwitchingUncommon (0.1% to 1%): Muscle tremor[Ref]
-Common (1% to 10%): Blurred visionUncommon (0.1% to 1%): Glaucoma[Ref]
-Uncommon (0.1% to 1%): Sweating, rash, pruritus, purpura[Ref]
-Very rare (less than 0.01%): Edema of the glottis[Ref]
-Frequency not reported: Lupus-like illness[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Nardil (phenelzine)." Parke-Dvis, Morris Plains, NJ. 
+The most important adverse event reported is hypertensive crisis, which has been associated with intracranial bleeding and has been fatal.
+Common (1% to 10%): Postural hypotensionUncommon (0.1% to 1%): ArrhythmiasFrequency not reported: Hypertensive crisis
+Common (1% to 10%): Gastrointestinal disturbances (nausea, vomiting, dryness of mouth, constipation)
+Common (1% to 10%): Weakness, fatigue, adverse effects on driving ability, tremorsUncommon (0.1% to 1%): JitterinessVery rare (less than 0.01%): Transient respiratory and cardiovascular depression following ECT, fever associated with increased muscle toneFrequency not reported: Withdrawal, withdrawal syndrome
+-Withdrawal may be associated with nausea, vomiting, and malaise.-An uncommon withdrawal syndrome following abrupt drug discontinuation generally starts after 24 to 72 hours and may vary from vivid nightmares and agitation to frank psychosis and convulsions.-Withdrawal syndrome generally responds to reinstitution of low dose therapy, followed by cautious downward titration and discontinuation.
+Common (1% to 10%): Dizziness, headache, drowsiness, sleep disturbances (including insomnia and hypersomnia), myoclonic movements, hyperreflexiaUncommon (0.1% to 1%): Paresthesia, peripheral neuritis, convulsions, palilalia, nystagmusVery rare (less than 0.01%): Ataxia, shock-like coma, neuroleptic malignant syndrome (occasionally fatal)
+Common (1% to 10%): Insomnia, anorgasmiaUncommon (0.1% to 1%): Nervousness, euphoria, behavioral changes, confusion, hallucinationsVery rare (less than 0.01%): Toxic delirium, manic reaction, acute anxiety reaction, precipitation of schizophreniaFrequency not reported: Suicidal ideation, suicidal behaviors
+Common (1% to 10%): Sexual disturbances (anorgasmia and ejaculatory disturbances)Uncommon (0.1% to 1%): Difficulty in micturition, impotence and delayed ejaculation
+Uncommon (0.1% to 1%): Blood dyscrasiasFrequency not reported: Leukopenia
+Common (1% to 10%): Elevated serum transaminasesUncommon (0.1% to 1%): Elevated liver enzymesVery rare (less than 0.01%): Fatal progressive necrotizing hepatocellular damage, reversible jaundice
+Common (1% to 10%): Edema, weight gainUncommon (0.1% to 1%): Increased appetite, hypernatremiaVery rare (less than 0.01%): Hypermetabolic syndromeFrequency not reported: Hyponatremia, inappropriate ADH secretion
+Common (1% to 10%): TwitchingUncommon (0.1% to 1%): Muscle tremor
+Common (1% to 10%): Blurred visionUncommon (0.1% to 1%): Glaucoma
+Uncommon (0.1% to 1%): Sweating, rash, pruritus, purpura
+Very rare (less than 0.01%): Edema of the glottis
+Frequency not reported: Lupus-like illness
 It is possible that some side effects of Nardil may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Chills
 cold sweats
 confusion
@@ -36,8 +27,6 @@ shakiness in the legs, arms, hands, or feet
 sudden jerky movements of the body
 swelling
 trembling or shaking of the hands or feet
-
-
 Abdominal or stomach pain
 actions that are out of control
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -94,8 +83,6 @@ unusual tiredness or weakness
 vomiting of blood
 weakness
 yellow eyes or skin 
-
-
 Constipation
 decreased interest in sexual intercourse
 diarrhea
@@ -113,12 +100,9 @@ unable to sleep
 unusually deep sleep
 unusually long duration of sleep
 weight gain
-
-
 Blindness
 blurred vision
 decreased vision
 eye pain
 redness, swelling, or soreness of the tongue
 tearing
-

@@ -1,32 +1,12 @@
-Generic Name: levorphanol
-Applies to levorphanol: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by levorphanol (the active ingredient contained in Levo-Dromoran). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking levorphanol:
-
 If any of the following symptoms of overdose occur while taking levorphanol, get emergency help immediately:
-
-Some of the side effects that can occur with levorphanol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to levorphanol: compounding powder, injectable solution, oral tablet
-The adverse effects of levorphanol (the active ingredient contained in Levo-Dromoran) are generally similar to the adverse effects observed with other narcotic analgesics.[Ref]
-Opioids may result in psychotic symptoms in some patients.[Ref]
-Nervous system side effects include mental and respiratory depression, stupor, delirium, somnolence, and dysphoria.[Ref]
-Other side effects including withdrawal symptoms after either abrupt cessation or fast tapering of narcotic analgesics may occur and include agitation, restlessness, anxiety, insomnia, tremor, abdominal cramps, blurred vision, vomiting and sweating.[Ref]
-Cardiovascular adverse effects include hypotension and arrhythmias rarely.[Ref]
-Gastrointestinal side effects including nausea, vomiting, and constipation are relatively common effects of narcotic analgesics.[Ref]
-Genitourinary side effects including urinary retention has been reported for other narcotic analgesics.[Ref]
-Dermatologic side effects including rashes have been reported rarely.  Narcotic induced rashes may be related to direct stimulation of histamine release.[Ref]
-1. "Multum Information Services, Inc. Expert Review Panel"  
-2. Covington EC, Gonsalves-Ebrahim L, Currie KO, et al "Severe respiratory depression from patient-controlled analgesia in renal failure." Psychosomatics 30 (1989): 226-8
-3. Bellville JW, Forrest WH, Elashoff J, Laska E "Evaluating side effects of analgesics in a cooperative clinical study." Clin Pharmacol Ther 9 (1968): 303-13
-4. "Product Information. Levo-Dromoran (levorphanol)." Roche Laboratories, Nutley, NJ. 
-5. D'Souza M "Unusual reaction to morphine." Lancet 07/11/87 (1987): 98
-6. White MJ, Berghausen EJ, Dumont SW, et al "Side effects during continuous epidural infusion of morphine and fentanyl." Can J Anaesth 39 (1992): 576-82
-7. Portenoy RK, Foley KM "Chronic use of opioid analgesics in non-malignant pain: report of 38 cases." Pain 25 (1986): 171-86
-8. Petersen TK, Husted SE, Rybro L, et al "Urinary retention during I.M. and extradural morphine analgesia." Br J Anaesth 54 (1982): 1175-8
-Not all side effects for Levo-Dromoran may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The adverse effects of levorphanol (the active ingredient contained in Levo-Dromoran) are generally similar to the adverse effects observed with other narcotic analgesics.
+Opioids may result in psychotic symptoms in some patients.
+Nervous system side effects include mental and respiratory depression, stupor, delirium, somnolence, and dysphoria.
+Other side effects including withdrawal symptoms after either abrupt cessation or fast tapering of narcotic analgesics may occur and include agitation, restlessness, anxiety, insomnia, tremor, abdominal cramps, blurred vision, vomiting and sweating.
+Cardiovascular adverse effects include hypotension and arrhythmias rarely.
+Gastrointestinal side effects including nausea, vomiting, and constipation are relatively common effects of narcotic analgesics.
+Genitourinary side effects including urinary retention has been reported for other narcotic analgesics.
+Dermatologic side effects including rashes have been reported rarely.  Narcotic induced rashes may be related to direct stimulation of histamine release.
 Agitation
 attempts at killing oneself
 bluish lips or skin
@@ -61,8 +41,6 @@ swelling of the face, ankles, or hands
 unconsciousness
 unusual tiredness or weakness
 wheezing
-
-
 Chest pain or discomfort
 constricted, pinpoint, or small pupils (black part of the eye)
 decreased awareness or responsiveness
@@ -82,8 +60,6 @@ shortness of breath
 sleepiness or unusual drowsiness
 swelling of the face, fingers, feet, or lower legs
 weight gain
-
-
 Abnormal dreams
 absence of or decrease in body movement
 acid or sour stomach
@@ -119,4 +95,3 @@ trouble sleeping
 twitching, twisting, uncontrolled repetitive movements of the tongue, lips, face, arms, or legs
 upper abdominal or stomach pain
 vomiting
-

@@ -1,180 +1,26 @@
 Commonly reported side effects of doxorubicin include: severe nausea and vomiting, nausea and vomiting, and alopecia.  See below for a comprehensive list of adverse effects.
-Applies to doxorubicin: intravenous powder for solution, intravenous solution
-In addition to its needed effects, some unwanted effects may be caused by doxorubicin. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking doxorubicin, check with your doctor or nurse immediately:
-Some of the side effects that can occur with doxorubicin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention. If you notice any of the following side effects check with your doctor immediately:
-
-
-Applies to doxorubicin: compounding powder, intravenous powder for injection, intravenous solution
-The risk of heart failure is significantly increased after total doses of 550 mg/m2 (350 to 400 mg/m2 if there is history of prior radiation therapy which included the heart or the area around it or use of other potentially cardiotoxic agents, such as cyclophosphamide).  Doxorubicin-induced heart failure can present one month to one year or more after termination of therapy.  It is increasingly common to note LATE cardiomyopathy, especially in patients who received doxorubicin as a child or adolescent.  Prevention has focused on cumulative dose limitation, earlier diagnosis (radionuclide angiocardiography or echocardiography), alterations in the schedule of administration (substitution of prolonged, continuous IV infusion for bolus injection), the development of less cardiotoxic anthracyclines, and use of cardioprotectors (dexrazoxane).Treatment of doxorubicin-induced heart failure consists of traditional therapy with rest, digitalis, diuretics, and/or angiotensin converting enzyme (ACE) inhibitors as indicated.While there has not been a reliable marker to predict which patients will develop doxorubicin-induced heart failure, serial non-invasive testing of LV function (radionuclide angiocardiography is usually more accurate than echocardiography) is strongly recommended (ECG has limited value).  Recent data suggest plasma endothelin-1 and/or atrial natriuretic peptide levels may be useful for predicting the risk of cardiotoxicity associated with this drug.  Endomyocardial biopsy permits a definitive evaluation of risk, but is invasive, expensive, and potentially risky.  Male sex, older age, higher dose of doxorubicin, radiotherapy, and being overweight have all reported as risk factors for the development of cardiomyopathy.Limited animal data suggest vitamins A and E, adenosine, coenzyme Q, N-acetylcysteine, and methylene blue may reduce the incidence of doxorubicin-induced cardiotoxicity.  Other animal data has suggested that suitable antagonists of calcium-dependent pore formation such as cyclosporine A or tacrolimus may improve heart tolerance to doxorubicin.The benefits of doxorubicin must be carefully weighed against the risks in patients with a demonstrable decrease in cardiac function.[Ref]
-Cardiovascular side effects have included congestive heart failure due to the development of left ventricular (LV) systolic dysfunction in 1% to 2% of patients.  Retrospective data have shown that the incidence of clinical heart failure in patients with preexisting LV systolic dysfunction (ejection fraction [LVEF] < 50%), who experienced a decline of 10% or more in absolute LVEF, and who received at least 450 mg/m2 cumulative dose, is approximately 16%.  (Data have shown right ventricular septal wall motion may also be affected and that LV diastolic dysfunction may precede the development of doxorubicin-induced LV systolic dysfunction.)Early effects of anthracyclines also include extremely rare cases of pericarditis-myocarditis (which can affect patients with no prior history of cardiac disease and which carries a high mortality rate of about 20%), left ventricular dysfunction (which may lead to clinically significant heart failure in patients with limited cardiac reserve), and arrhythmias, the most common of which is sinus tachycardia.  Although rhythm disturbances are common after acute administration they are rarely of clinical importance.  Isolated cases of symptomatic supraventricular tachycardia, heart block, and ventricular arrhythmias (some sudden and fatal) have also been reported.[Ref]
-The leukocyte count usually reaches a nadir at 10 to 14 days after treatment.Severe and/or persistent myelosuppression may result in superinfection and/or hemorrhage.  GCSF has been used clinically to avoid dose reductions or interruptions in dose schedules.A single case of acute hemolytic anemia has been reported after the administration of doxorubicin to a patient with glucose-6-phosphate dehydrogenase (G6PD) deficiency.  This drug generates reactive oxygen compounds and methemoglobin in normal human red blood cells (RBCs) in vitro.  In RBCs deficient in G6PD doxorubicin probably poses a potent oxidant stress.  Thus patients with G6PD might be susceptible to hemolysis after receiving doxorubicin.[Ref]
-Hematologic side effects have been reported in 60% to 80% of patients and they may be profound (depending entirely on dose).  While myelosuppression can affect all cell lines, leukopenia is most common, appearing in 60% to 75% of all treated patients.  Absolute white blood cell counts of less than 1,000/mm3 are not uncommon after recommended therapeutic doses.[Ref]
-Dermatologic side effects have included reversible alopecia (scalp, pubis, and/or axilla).    Less commonly, hyperpigmentation of nailbeds and dermal creases and oncholysis (nail loss) have been reported.[Ref]
-A scalp tourniquet and/or scalp cooling may prevent doxorubicin-induced alopecia.[Ref]
-Nausea and vomiting are preventable with appropriate antiemetic therapy.Stomatitis or other ulcerations typically occur 2 to 10 days after administration and, if severe, can be complicated by bleeding or local infection.  Severe cases of colonic ulceration can be fatal.[Ref]
-Gastrointestinal side effects have included acute nausea and vomiting in 20% to 85% of patients.  Stomatitis has been reported in up to 80% of patients, and is dose and schedule-related.  Ulceration of the esophagus and the colon (particularly the cecum) have also been reported.  Anorexia and diarrhea have been reported in approximately 15% of patients.  Rare cases of tongue hyperpigmentation have also been associated with the use of doxorubicin.[Ref]
-Local side effects have included IV site problems such as phlebosclerosis (especially when a single vein and/or a small vein is used) and extravasation tissue necrosis.[Ref]
-Extravasation may occur with or without accompanying stinging or burning even if there is good blood return on aspiration of the infusion needle.  If there are signs or symptoms of extravasation, the injection or infusion should be immediately terminated.  If further therapy is necessary, an injection or infusion may be restarted in another vein and the affected area should be immediately treated.  Many treatments have been proposed to slow or heal doxorubicin extravasation ulcers.  The standard of care is ice packs for 24 hours for acute extravasation injury; some advocate topical application of 10% to 99% dimethyl sulfoxide (DMSO) with ice packs.  However, because of the inconsistent results associated with some of these therapies and the progressive nature of extravasation reactions, plastic surgery consultation is generally recommended.[Ref]
-Hypersensitivity reactions have occasionally been reported, and may include fever, chills, urticaria, angioneurotic edema or anaphylaxis.[Ref]
-Local IV site "flares" can be confused with extravasation, but are probably due to allergy to this drug.  Flare reactions were reported in 3% to 18% of patients, but are now rare since the vehicle in which doxorubicin is carried has changed.  Antiemetic therapy, antihistamines, and/or corticosteroids can decrease the risk of flares.Flare reactions may be differentiated from extravasation.  Flare reactions are characterized by erythema, appear proximally along the affected vein, and typically resolve within 45 minutes.  Pain, burning and adverse sequelae are infrequent or absent.  Extravasation, on the other hand, appears at the injection site and resolves slowly over days to weeks.  As opposed to flare reactions, pain, burning, and edema are common, and adverse sequelae are variable and may be serious.Allergic reactions have also been reported after the intravesical administration of doxorubicin.[Ref]
-Renal side effects have included rare cases of new or worsened renal insufficiency.  A single case of rapidly progressive glomerulonephritis without evidence of a secondary cause or immunologic mechanism has been reported.[Ref]
-Renal insufficiency has been associated with doxorubicin-induced hyperuricemia (secondary to cell lysis).  Adequate hydration, diuresis, and allopurinol can be preventative.Animal data suggest that doxorubicin may cause glomerular basement membrane injury via production of reactive oxygen species.  Administration of some antioxidants, however, have failed to reduce the urinary excretion of lysozyme and N-acetyl-glucosaminidase (markers of tubule injury) in treated animals.[Ref]
-Radiation pneumonitis or esophagitis may be more likely with the combination of doxorubicin and XRT than with XRT alone.  Prior XRT to the heart/mediastinum also increases the risk of doxorubicin-induced cardiomyopathy.Endomyocardial biopsy data have demonstrated that the cellular morphological changes in patients who received doxorubicin and who were previously treated with cardiac or mediastinal XRT are markedly different and more severe than in treated patients without a history of cardiac or mediastinal XRT.  Prior cardiac or mediastinal  XRT appears to portend a higher risk of doxorubicin-induced cardiomyopathy.[Ref]
-Other side effects of doxorubicin have included the predisposition of patients who have previously received radiation therapy (XRT) to demonstrate the so-called "recall" phenomenon.[Ref]
-Oncologic side effects including secondary leukemia have been associated with prior exposure to doxorubicin.  A single case of skin cancer that developed at the site of doxorubicin extravasation 10 years prior has also been reported.[Ref]
-Ocular side effects have included rare cases of conjunctivitis, periorbital edema, lacrimation, blepharospasm, keratitis, and decreased visual acuity.[Ref]
-Genitourinary side effects including rare cases of bladder contracture have been reported.[Ref]
-Musculoskeletal side effects have been extremely rare.  In one case, administration of doxorubicin was associated with a clinically significant flare of ankylosing spondylitis.[Ref]
-1. Caviale P, McClellan EL "Adriamycin toxicity. Effects in subsequent anesthesia and surgery." J Kans Med Soc 82 (1981): 553,574
-2. Jonsson PE, Malmberg M, Ericsson M, Ryden S "Weekly dose adriamycin as first line chemotherapy in advanced breast cancer." Anticancer Res 11 (1991): 877-9
-3. Doroshow JH "Doxorubicin-induced cardiac toxicity." N Engl J Med 324 (1991): 843-5
-4. McQuillan PJ, Morgan BA, Ramwell J "Adriamycin cardiomyopathy. Fatal outcome of general anaesthesia in a child with adriamycin cardiomyopathy." Anaesthesia 43 (1988): 301-4
-5. Wortman JE, Lucas VS Jr, Schuster E, Thiele D, Logue GL "Sudden death during doxorubicin administration." Cancer 44 (1979): 1588-91
-6. Singal PK, Iliskovic N "Current concepts: Doxorubicin-induced cardiomyopathy." N Engl J Med 339 (1998): 900-5
-7. Curran CF "Doxorubicin-associated facial flushing" Arch Dermatol 128 (1992): 1408
-8. Fitter W, deSa DJ, Pai KR "Adriamycin cardiotoxicity: report of an unusual case with features resembling endomyocardial fibrosis." J Clin Pathol 34 (1981): 602-5
-9. Devoy MA, Tomson CR "Fatal cardiac failure after a single dose of doxorubicin in myeloma- associated cardiac amyloid." Postgrad Med J 68 (1992): 69
-10. Lee BH, Goodenday LS, Muswick GJ, Yasnoff WA, Leighton RF, Skeel RT "Alterations in left ventricular diastolic function with doxorubicin therapy." J Am Coll Cardiol 9 (1987): 184-8
-11. Schwartz RG, McKenzie WB, Alexander J, Sager P, D'Souza A, Manatunga A, Schwartz PE, Berger HJ, Setaro J, Surkin L, et al "Congestive heart failure and left ventricular dysfunction complicating doxorubicin therapy. Seven-year experience using serial radionuclide angiocardiography." Am J Med 82 (1987): 1109-18
-12. Carter SK "Adriamycin--friend and foe." Am J Surg Pathol 1 (1977): 75-7
-13. Nylen U, Baral E, Svane G, Rutqvist LE "Weekly doxorubicin in the treatment of metastatic breast carcinoma." Acta Oncol 28 (1989): 515-7
-14. Gan TE, Ellims PH, Tong N, Barned JM, Van der Weyden MB "Doxorubicin-associated delayed ventricular fibrillation in acute promyelocytic leukemia." Acta Haematol 69 (1983): 52-5
-15. Rinehart JJ, Lewis RP, Balcerzak SP "Adriamycin cardiotoxicity in man." Ann Intern Med 81 (1974): 475-8
-16. Elomaa I, Blomqvist C, Rissanen P "Weekly low-dose doxorubicin as second line therapy in advanced breast cancer." Acta Oncol 27 (1988): 799-801
-17. Santoro A, Tursz T, Mouridsen H, et al. "Doxorubicin versus CYVADIC versus doxorubicin plus ifosfamide in first-line treatment of advanced soft tissue sarcomas: a randomized study of the European Organization for Research and Treatment of Cancer Soft Tissue and Bone Sarcoma Group." J Clin Oncol 13 (1995): 1537-45
-18. Freter CE, Lee TC, Billingham ME, Chak L, Bristow MR "Doxorubicin cardiac toxicity manifesting seven years after treatment. Case report and review." Am J Med 80 (1986): 483-5
-19. Unverferth DV, Magorien RD, Leier CV, Balcerzak SP "Doxorubicin cardiotoxicity." Cancer Treat Rev 9 (1982): 149-64
-20. Bauch M, Ester A, Kimura B, Victorica BE, Kedar A, Phillips MI "Atrial natriuretic peptide as a marker for doxorubicin-induced cardiotoxic effects." Cancer 69 (1992): 1492-7
-21. Anders RJ, Shanes JG, Zeller FP "Lower incidence of doxorubicin-induced cardiomyopathy by once-a-week low-dose administration." Am Heart J 111 (1986): 755-9
-22. Launchbury AP, Habboubi N "Epirubicin and doxorubicin: a comparison of their characteristics, therapeutic activity and toxicity." Cancer Treat Rev 19 (1993): 197-228
-23. Legha SS, Benjamin RS, Mackay B, Yap HY, Wallace S, Ewer M, Blumenschein GR, Freireich EJ "Adriamycin therapy by continuous intravenous infusion in patients with metastatic breast cancer." Cancer 49 (1982): 1762-6
-24. Billingham ME, Bristow MR, Glatstein E, Mason JW, Masek MA, Daniels JR "Adriamycin cardiotoxicity: endomyocardial biopsy evidence of enhancement by irradiation." Am J Surg Pathol 1 (1977): 17-23
-25. Torti FM, Bristow MR, Howes AE, Aston D, Stockdale FE, Carter SK, Kohler M, Brown BW Jr, Billingham ME "Reduced cardiotoxicity of doxorubicin delivered on a weekly schedule. Assessment by endomyocardial biopsy." Ann Intern Med 99 (1983): 745-9
-26. Orhan B "Doxorubicin cardiotoxicity: Growing importance." J Clin Oncol 17 (1999): 2294-5
-27. Sperber AD, Cantor AA, Biran H, Keynan A "Selective right ventricular dysfunction following doxorubicin therapy." Isr J Med Sci 23 (1987): 896-9
-28. Chlebowski RT, Paroly WS, Pugh RP, Hueser J, Jacobs EM, Pajak TF, Bateman JR "Adriamycin given as a weekly schedule without a loading course: clinically effective with reduced incidence of cardiotoxicity." Cancer Treat Rep 64 (1980): 47-51
-29. Benjamin RS, Wiernik PH, Bachur NR "Adriamycin chemotherapy--efficacy, safety, and pharmacologic basis of an intermittent single high-dosage schedule." Cancer 33 (1974): 19-27
-30. Chlebowski RT "Adriamycin (doxorubicin) cardiotoxicity: a review." West J Med 131 (1979): 364-8
-31. Bristow MR, Thompson PD, Martin RP, Mason JW, Billingham ME, Harrison DC "Early anthracycline cardiotoxicity." Am J Med 65 (1978): 823-32
-32. Carter SK "Adriamycin-a review." J Natl Cancer Inst 55 (1975): 1265-74
-33. Merrill J, Greco FA, Zimbler H  Brereton HD, Lamberg JD, Pomeroy TC "Adriamycin and radiation: synegistic cardiotoxicity." Ann Intern Med 82 (1975): 122-3
-34. Krivit W "Adriamycin cardiotoxicity amelioration by alpha-tocopherol." Am J Pediatr Hematol Oncol 1 (1979): 151-3
-35. Couch RD, Loh KK, Sugino J "Sudden cardiac death following adriamycin therapy." Cancer 48 (1981): 38-9
-36. Fu LX, Waagstein F, Hjalmarson A "A new insight into adriamycin-induced cardiotoxicity." Int J Cardiol 29 (1990): 15-20
-37. Yamashita J, Ogawa M, Shirakusa T "Plasma endothelin-1 as a marker for doxorubicin cardiotoxicity." Int J Cancer 62 (1995): 542-7
-38. Unverferth BJ, Magorien RD, Balcerzak SP, Leier CV, Unverferth DV "Early changes in human myocardial nuclei after doxorubicin." Cancer 52 (1983): 215-21
-39. Haq MM, Legha SS, Choksi J, Hortobagyi GN, Benjamin RS, Ewer M, Ali M "Doxorubicin-induced congestive heart failure in adults." Cancer 56 (1985): 1361-5
-40. Hequet O,  Le QH,  Moullet I, et al. "Subclinical late cardiomyopathy after Doxorubicin therapy for lymphoma in adults." J Clin Oncol 22 (2004): 1864-71
-41. Hayek ER,  Speakman E,  Rehmus E "Acute doxorubicin cardiotoxicity." N Engl J Med 352 (2005): 2456-7
-42. Gaudin PB, Hruban RH, Beschorner WE, Kasper EK, Olson JL, Baughman KL, Hutchins GM "Myocarditis associated with doxorubicin cardiotoxicity." Am J Clin Pathol 100 (1993): 158-63
-43. Yamashita J, Ogawa M, Nomura K "Plasma endothelin-1 and doxorubicin cardiotoxicity." N Engl J Med 331 (1994): 1528-9
-44. Tan C, Etcubanas E, Wollner N, Rosen G, Gilladoga A, Showel J, Murphy ML, Krakoff IH "Adriamycin--an antitumor antibiotic in the treatment of neoplastic diseases." Cancer 32 (1973): 9-17
-45. Bristow MR "Toxic cardiomyopathy due to doxorubicin." Hosp Pract (Off Ed) 17 (1982): 101-8,110-1
-46. "Product Information. Adriamycin PFS (doxorubicin)." Pharmacia and Upjohn, Kalamazoo, MI. 
-47. "Doxorubicin (adriamycin) - a new anticancer drug." Med Lett Drugs Ther 17 (1975): 42-3
-48. Gottlieb SL, Edmiston WA Jr, Haywood LJ "Late, late doxorubicin cardiotoxicity." Chest 78 (1980): 880-2
-49. Bristow MR, Mason JW, Billingham ME, Daniels JR "Dose-effect and structure-function relationships in doxorubicin cardiomyopathy." Am Heart J 102 (1981): 709-18
-50. Otero FJ, Boor PJ, Sheahan RG "Doxorubicin-induced cardiomyopathy." Am J Med Sci 320 (2000): 59-63
-51. Henderson IC, Frei TE 3d "Adriamycin and the heart." N Engl J Med 300 (1979): 310-2
-52. Barendswaard EC, Prpic H, Van der Wall EE, Camps JA, Keizer HJ, Pauwels EK "Right ventricle wall motion abnormalities in patients treated with chemotherapy." Clin Nucl Med 16 (1991): 513-6
-53. Lum BL, Svec JM, Torti FM "Doxorubicin: alteration of dose scheduling as a means of reducing cardiotoxicity." Drug Intell Clin Pharm 19 (1985): 259-64
-54. Levi JA, Diggs CH, Wiernik PH "Adriamycin therapy in advanced mycosis fungoides." Cancer 39 (1977): 1967-70
-55. Praga C, Beretta G, Vigo PL, Lenaz GR, Pollini C, Bonadonna G, Canetta R, Castellani R, Villa E, Gallagher CG, von Melchner H, Hayat M, Ribaud P "Adriamycin cardiotoxicity: a survey of 1273 patients." Cancer Treat Rep 63 (1979): 827-34
-56. Raabe NK, Storstein L "Cardiac arrhythmias in patients with small cell lung cancer and cardiac disease before, during and after doxorubicin administration. An evaluation of acute cardiotoxicity by continuous 24-hour Holtermonitoring." Acta Oncol 30 (1991): 843-6
-57. Mortensen SA, Olsen HS, Baandrup U "Chronic anthracycline cardiotoxicity: haemodynamic and histopathological manifestations suggesting a restrictive endomyocardial disease." Br Heart J 55 (1986): 274-82
-58. AlNasser IA "In vivo prevention of adriamycin cardiotoxicity by cyclosporin A or FK506." Toxicology 131 (1998): 175-81
-59. Sciarrino E, Simonetti RG, Le Moli S, Pagliaro L "Adriamycin treatment for hepatocellular carcinoma. Experience with 109 patients." Cancer 56 (1985): 2751-5
-60. Steinberg JS, Cohen AJ, Wasserman AG, Cohen P, Ross AM "Acute arrhythmogenicity of doxorubicin administration." Cancer 60 (1987): 1213-8
-61. Carter SK, Blum RH "New chemotherapeutic agents--bleomycin and adriamycin." CA Cancer J Clin 24 (1974): 322-31
-62. Moertel CG, Lavin PT, Hahn RG "Phase II trial of doxorubicin therapy for advanced islet cell carcinoma." Cancer Treat Rep 66 (1982): 1567-9
-63. Guthrie D, Gibson AL "Doxorubicin cardiotoxicity: possible role of digoxin in its prevention." Br Med J 2 (1977): 1447-9
-64. Porembka DT, Lowder JN, Orlowski JP, Bastulli J, Lockrem J "Etiology and management of doxorubicin cardiotoxicity." Crit Care Med 17 (1989): 569-72
-65. Von Hoff DD, Layard MW, Basa P, Davis HL Jr, Von Hoff AL, Rozencweig M, Muggia FM "Risk factors for doxorubicin-induced congestive heart failure." Ann Intern Med 91 (1979): 710-7
-66. Whittaker JA, Al-Ismail SA "Effect of digoxin and vitamin E in preventing cardiac damage caused by doxorubicin in acute myeloid leukaemia." Br Med J (Clin Res Ed) 288 (1984): 283-4
-67. Lefrak EA, Pitha J, Rosenheim S, Gottlieb JA "A clinicopathologic analysis of adriamycin cardiotoxicity." Cancer 32 (1973): 302-14
-68. Tesoriere L, Ciaccio M, Valenza M, Bongiorno A, Maresi E, Albiero R, Livrea MA "Effect of vitamin A administration on resistance of rat heart against doxorubicin-induced cardiotoxicity and lethality." J Pharmacol Exp Ther 269 (1994): 430-6
-69. Shapira J, Gotfried M, Lishner M, Ravid M "Reduced cardiotoxicity of doxorubicin by a 6-hour infusion regimen. A prospective randomized evaluation." Cancer 65 (1990): 870-3
-70. Lahtinen R, Kuikka J, Nousiainen T, Uusitupa M, Lansimies E "Cardiotoxicity of epirubicin and doxorubicin: a double-blind randomized study." Eur J Haematol 46 (1991): 301-5
-71. Speyer JL, Green MD, Dubin N, Blum RH, Wernz JC, Roses D, Sanger J, Muggia FM "Prospective evaluation of cardiotoxicity during a six-hour doxorubicin infusion regimen in women with adenocarcinoma of the breast." Am J Med 78 (1985): 555-63
-72. Minow RA, Benjamin RS, Lee ET, Gottlieb JA "Adriamycin cardiomyopathy--risk factors." Cancer 39 (1977): 1397-402
-73. Borgeat A, Chiolero R, Baylon P, Freeman J, Neff R "Perioperative cardiovascular collapse in a patient previously treated with doxorubicin." Anesth Analg 67 (1988): 1189-91
-74. Steinherz L, Steinherz P "Delayed cardiac toxicity from anthracycline therapy." Pediatrician 18 (1991): 49-52
-75. Mooney C, Thomas DG, Souhami RL "Adriamycin in the treatment of relapsed primary malignant brain tumours." Eur J Cancer Clin Oncol 19 (1983): 1037-8
-76. Edmonson JH, Ryan LM, Blum RH, Brooks JS, Shiraki M, Frytak S, Parkinson DR "Randomized comparison of doxorubicin alone versus ifosfamide plus doxorubicin or mitomycin, doxorubicin, and cisplatin against advanced soft tissue sarcomas." J Clin Oncol 11 (1993): 1269-75
-77. Bick RL, Fekete LF, Wilson WL "Adriamycin and fibrinolysis." Thromb Res 8 (1976): 467-75
-78. Colombo M, Tommasini MA, Del Ninno E, Rumi MG, De Fazio C, Dioguardi ML "Hepatocellular carcinoma in Italy: report of a clinical trial with intravenous doxorubicin." Liver 5 (1985): 336-41
-79. Johnson PJ, Dobbs N, Kalayci C, Aldous MC, Harper P, Metivier EM, Williams R "Clinical efficacy and toxicity of standard dose adriamycin in hyperbilirubinaemic patients with hepatocellular carcinoma: relation to liver tests and pharmacokinetic parameters." Br J Cancer 65 (1992): 751-5
-80. Maral RJ, Jouanne M "Toxicology of daunorubicin in animals and man." Cancer Treat Rep 65 Suppl 4 (1981): 9-18
-81. Doll DC "Oxidative haemolysis after administration of doxorubicin." Br Med J (Clin Res Ed) 287 (1983): 180-1
-82. Doll DC, Weiss RB "Hemolytic anemia associated with antineoplastic agents." Cancer Treat Rep 69 (1985): 777-82
-83. Fischl MA, Krown SE, O'Boyle KP, Mitsuyasu R, Miles S, Wernz JC, Volberding PA, Kahn J, Groopman JE, Feinberg J, et al "Weekly doxorubicin in the treatment of patients with AIDS-related Kaposi's sarcoma. AIDS Clinical Trials Group." J Acquir Immune Defic Syndr 6 (1993): 259-64
-84. Gill PS, Miles SA, Mitsuyasu RT, Montgomery T, McCarthy S, Espina BM, Feldstein M, Levine AM "Phase I AIDS Clinical Trials Group (075) study of adriamycin, bleomycin and vincristine chemotherapy with zidovudine in the treatment of AIDS-related Kaposi's sarcoma." AIDS 8 (1994): 1695-9
-85. Lovejoy NC "Preventing hair loss during adriamycin therapy." Cancer Nurs 2 (1979): 117-21
-86. Steiner R, Stewart JF, Cantwell BM, Minton MJ, Knight RK, Rubens RD "Adriamycin alone or combined with vincristine in the treatment of advanced breast cancer." Eur J Cancer Clin Oncol 19 (1983): 1553-7
-87. Rudolph R, Stein RS, Pattillo RA "Skin ulcers due to adriamycin." Cancer 38 (1976): 1087-94
-88. Symonds RP, McCormick CV, Maxted KJ "Adriamycin alopecia prevented by cold air scalp cooling." Am J Clin Oncol 9 (1986): 454-7
-89. Giacobetti R, Esterly NB, Morgan ER "Nail hyperpigmentation secondary to therapy with doxorubicin." Am J Dis Child 135 (1981): 317-8
-90. Manalo FB, Marks A, Davis HL Jr "Doxorubicin toxicity. Onycholysis, plantar callus formation, and epidermolysis." JAMA 233 (1975): 56-7
-91. von Eyben FE, Bruze M, Eksborg S, Mattsson W, Jonsson K "Toxic epidermal injury following intraarterial adriamycin treatment." Cancer 48 (1981): 1535-8
-92. James WD, Odom RB "Chemotherapy-induced transverse white lines in the fingernails." Arch Dermatol 119 (1983): 334-5
-93. Gordon KB, Tajuddin A, Guitart J, Kuzel TM, Eramo LR, VonRoenn J "Hand-foot syndrome associated with liposome-encapsulated doxorubicin therapy." Cancer 75 (1995): 2169-73
-94. Gregory RP, Cooke T, Middleton J, Buchanan RB, Williams CJ "Prevention of doxorubicin-induced alopedia by scalp hypothermia: relation to degree of cooling." Br Med J (Clin Res Ed) 284 (1982): 1674
-95. Curran CF "Doxorubicin-associated hyperpigmentation." N Z Med J 103 (1990): 517
-96. Law IP "Doxorubicin and unusual skin manifestations." Arch Dermatol 113 (1977): 379-80
-97. Pratt CB, Shanks EC "Letter: Hyperpigmentation of nails from doxorubicin." JAMA 228 (1974): 460
-98. Anderson JE, Hunt JM, Smith IE "Prevention of doxorubicin-induced alopecia by scalp cooling in patients with advanced breast cancer." Br Med J (Clin Res Ed) 282 (1981): 423-4
-99. Curran CF "Onycholysis in doxorubicin-treated patients" Arch Dermatol 126 (1990): 1244
-100. Alagaratnam TT, Choi TK, Ong GB "Doxorubicin and hyperpigmentation." Aust N Z J Surg 52 (1982): 531-3
-101. Lokich JJ, Moore C "Chemotherapy-associated palmar-plantar erythrodysesthesia syndrome." Ann Intern Med 101 (1984): 798-9
-102. Cunningham D, Gilchrist NL, Forrest GJ, Soukop M "Onycholysis associated with cytotoxic drugs." Br Med J (Clin Res Ed) 290 (1985): 675-6
-103. Jones AP, Crawford SM "Anthracycline-induced toxicity affecting palmar and plantar skin." Br J Cancer 59 (1989): 814
-104. Rothberg H, Place CH, Shteir O "Adriamycin (NSC-123127) toxicity: unusual melanotic reaction." Cancer Chemother Rep 58 (1974): 749-51
-105. Solberg LA Jr, Wick MR, Bruckman JE "Doxorubicin-enhanced skin reaction after whole-body electron-beam irradiation for leukemia cutis." Mayo Clin Proc 55 (1980): 711-5
-106. Comas D, Mateu J "Treatment of extravasation of both doxorubicin and vincristine administration in a y-site infusion." Ann Pharmacother 30 (1996): 244-6
-107. Rao SP, Potnis AV, Sobrinho TC, Brown AK "Pigmentation of the tongue after treatment with adriamycin." Cancer Treat Rep 60 (1976): 1402-4
-108. Brenner DE, Wiernik PH, Wesley M, Bachur NR "Acute doxorubicin toxicity. Relationship to pretreatment liver function, response, and pharmacokinetics in patients with acute nonlymphocytic leukemia." Cancer 53 (1984): 1042-8
-109. Simon DL "Comment: doxorubicin extravasions." DICP 23 (1989): 928
-110. Broadbent NR, Brown GE "Adriamycin and soft tissue injury." N Z Med J 98 (1985): 71
-111. Laughlin RA, Landeen JM, Habal MB "The management of inadvertent subcutaneous adriamycin infiltration." Am J Surg 137 (1979): 408-12
-112. Sonneveld P, Wassenaar HA, Nooter K "Long persistence of doxorubicin in human skin after extravasation." Cancer Treat Rep 68 (1984): 895-6
-113. Upton J, Mulliken JB, Murray JE "Major intravenous extravasation injuries." Am J Surg 137 (1979): 497-506
-114. Andersson AP, Dahlstrom KK, Dahlstrm KK "Clinical results after doxorubicin extravasation treated with excision guided by fluorescence microscopy." Eur J Cancer 29a (1993): 1712-4
-115. Barden GA "Venous extravasation of doxorubicin HCl with secondary skin ulceration." South Med J 73 (1980): 1543-4
-116. Mamakos MS "Recall phenomenon or severe skin and muscle necrosis following Adriamycin extravasation in the hand." Int Surg 69 (1984): 73-4
-117. Snyderman RK, Krasna MJ "Adriamycin extravasation injuries." Plast Reconstr Surg 77 (1986): 683-4
-118. Seyfer AE, Solimando DA "TOXIC LESIONS OF THE HAND ASSOCIATED WITH CHEMOTHERAPY." J Hand Surg [Am] 8 (1983): 39-421983
-119. Bowers DG Jr, Lynch JB "Adriamycin extravasation." Plast Reconstr Surg 61 (1978): 86-92
-120. Swartz AJ "Chemotherapy extravasation management. Part I. Doxorubicin (Adriamycin)." Cancer Nurs 2 (1979): 405-7
-121. Vogelzang NJ ""Adriamycin flare": a skin reaction resembling extravasation." Cancer Treat Rep 63 (1979): 2067-9
-122. Arnold DJ, Stafford CT "Systemic allergic reaction to adriamycin." Cancer Treat Rep 63 (1979): 150-1
-123. Solimando DA Jr, Wilson JP "Doxorubicin-induced hypersensitivity reactions." Drug Intell Clin Pharm 18 (1984): 808-11
-124. Birch BR, Crisp JC "Allergic reaction to intravesical adriamycin." Br J Urol 61 (1988): 165-6
-125. Fallah-Sohy E, Figueredo AT "Allergic reaction to doxorubicin." JAMA 241 (1979): 1108-9
-126. Souhami L, Feld R "Urticaria following intravenous doxorubicin administration." JAMA 240 (1978): 1624-6
-127. Arena FP, Sherlock S "Doxorubicin hypersensitivity and clindamycin." Ann Intern Med 112 (1990): 150
-128. Ostrowski MJ "An unusual allergic reaction in a vein following intravenous adriamycin." Clin Oncol 2 (1976): 179-80
-129. Maldonado JE "Angioneurotic edema from doxorubicin." N Engl J Med 301 (1979): 386
-130. Curran CF, Luce JK, Page JA "Doxorubicin-associated flare reactions." Oncol Nurs Forum 17 (1990): 387-9
-131. Collins JA "Hypersensitivity reaction to doxorubicin." Drug Intell Clin Pharm 18 (1984): 402-3
-132. Hatfield AK, Harder L, Abderhalden RT "Chronic urticarial reactions caused by doxorubicin-containing regimens." Cancer Treat Rep 65 (1981): 353-4
-133. Paterson AH "Hypertensive reaction adriamycin." Cancer Treat Rep 62 (1978): 1269-70
-134. Bertolatus JA, Klinzman D, Bronsema DA, Ridnour L, Oberly LW "Evaluation of the role of reactive oxygen species in doxorubicin hydrochloride nephrosis." J Lab Clin Med 118 (1991): 435-45
-135. Burke JF Jr, Laucius JF, Brodovsky HS, Soriano RZ "Doxorubicin hydrochloride-associated renal failure." Arch Intern Med 137 (1977): 385-8
-136. Milner LS, Wei SH, Houser MT "Amelioration of glomerular injury in doxorubicin hydrochloride nephrosis by dimethylthiourea." J Lab Clin Med 118 (1991): 427-34
-137. Mclnerney DP, Bullimore J "Reactivation of radiation pneumonitis by adriamycin." Br J Radiol 50 (1977): 224-7
-138. Cassady JR, Richter MP, Piro AJ, Jaffe N "Radiation-adriamycin interactions: preliminary clinical observations." Cancer 36 (1975): 946-9
-139. Greco FA, Oldham RK "Adriamycin and radiation reactions." Ann Intern Med 86 (1977): 655-6
-140. Baer D, Wilkinson S "Letter: Daunomycin, adriamycin, and recall effect." Ann Intern Med 85 (1976): 259-60
-141. Greco FA, Brereton HD, Kent H, Zimbler H, Merrill J, Johnson RE "Adriamycin and enhanced radiation reaction in normal esophagus and skin." Ann Intern Med 85 (1976): 294-8
-142. Chambers SK, Chopyk RL, Chambers JT, Schwartz PE, Duffy TP "Development of leukemia after doxorubicin and cisplatin treatment for ovarian cancer." Cancer 64 (1989): 2459-61
-143. Buzdar A, Iwaniec J, Kau S, Smith T, McNeese M, Singletary E, Hortobagyi G "SECONDARY LEUKEMIA FOLLOWING ADJUVANT DOXORUBICIN-CONTAINING CHEMOTHERAPY FOR (STAGE II OR III) BREAST CANCER (MEETING ABSTRACT)." Proc Annu Meet Am Soc Clin Oncol 10 (1991): a1121991
-144. Curran CF, Luce JK "Ocular adverse reactions associated with adriamycin (doxorubicin)." Am J Ophthalmol 108 (1989): 709-11
-145. Dmochowski R, Rudy DC "Bladder contracture following intravesical doxorubicin therapy: case report and a review of the literature." J Urol 143 (1990): 816-8
-Not all side effects for doxorubicin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The risk of heart failure is significantly increased after total doses of 550 mg/m2 (350 to 400 mg/m2 if there is history of prior radiation therapy which included the heart or the area around it or use of other potentially cardiotoxic agents, such as cyclophosphamide).  Doxorubicin-induced heart failure can present one month to one year or more after termination of therapy.  It is increasingly common to note LATE cardiomyopathy, especially in patients who received doxorubicin as a child or adolescent.  Prevention has focused on cumulative dose limitation, earlier diagnosis (radionuclide angiocardiography or echocardiography), alterations in the schedule of administration (substitution of prolonged, continuous IV infusion for bolus injection), the development of less cardiotoxic anthracyclines, and use of cardioprotectors (dexrazoxane).Treatment of doxorubicin-induced heart failure consists of traditional therapy with rest, digitalis, diuretics, and/or angiotensin converting enzyme (ACE) inhibitors as indicated.While there has not been a reliable marker to predict which patients will develop doxorubicin-induced heart failure, serial non-invasive testing of LV function (radionuclide angiocardiography is usually more accurate than echocardiography) is strongly recommended (ECG has limited value).  Recent data suggest plasma endothelin-1 and/or atrial natriuretic peptide levels may be useful for predicting the risk of cardiotoxicity associated with this drug.  Endomyocardial biopsy permits a definitive evaluation of risk, but is invasive, expensive, and potentially risky.  Male sex, older age, higher dose of doxorubicin, radiotherapy, and being overweight have all reported as risk factors for the development of cardiomyopathy.Limited animal data suggest vitamins A and E, adenosine, coenzyme Q, N-acetylcysteine, and methylene blue may reduce the incidence of doxorubicin-induced cardiotoxicity.  Other animal data has suggested that suitable antagonists of calcium-dependent pore formation such as cyclosporine A or tacrolimus may improve heart tolerance to doxorubicin.The benefits of doxorubicin must be carefully weighed against the risks in patients with a demonstrable decrease in cardiac function.
+Cardiovascular side effects have included congestive heart failure due to the development of left ventricular (LV) systolic dysfunction in 1% to 2% of patients.  Retrospective data have shown that the incidence of clinical heart failure in patients with preexisting LV systolic dysfunction (ejection fraction [LVEF] < 50%), who experienced a decline of 10% or more in absolute LVEF, and who received at least 450 mg/m2 cumulative dose, is approximately 16%.  (Data have shown right ventricular septal wall motion may also be affected and that LV diastolic dysfunction may precede the development of doxorubicin-induced LV systolic dysfunction.)Early effects of anthracyclines also include extremely rare cases of pericarditis-myocarditis (which can affect patients with no prior history of cardiac disease and which carries a high mortality rate of about 20%), left ventricular dysfunction (which may lead to clinically significant heart failure in patients with limited cardiac reserve), and arrhythmias, the most common of which is sinus tachycardia.  Although rhythm disturbances are common after acute administration they are rarely of clinical importance.  Isolated cases of symptomatic supraventricular tachycardia, heart block, and ventricular arrhythmias (some sudden and fatal) have also been reported.
+The leukocyte count usually reaches a nadir at 10 to 14 days after treatment.Severe and/or persistent myelosuppression may result in superinfection and/or hemorrhage.  GCSF has been used clinically to avoid dose reductions or interruptions in dose schedules.A single case of acute hemolytic anemia has been reported after the administration of doxorubicin to a patient with glucose-6-phosphate dehydrogenase (G6PD) deficiency.  This drug generates reactive oxygen compounds and methemoglobin in normal human red blood cells (RBCs) in vitro.  In RBCs deficient in G6PD doxorubicin probably poses a potent oxidant stress.  Thus patients with G6PD might be susceptible to hemolysis after receiving doxorubicin.
+Hematologic side effects have been reported in 60% to 80% of patients and they may be profound (depending entirely on dose).  While myelosuppression can affect all cell lines, leukopenia is most common, appearing in 60% to 75% of all treated patients.  Absolute white blood cell counts of less than 1,000/mm3 are not uncommon after recommended therapeutic doses.
+Dermatologic side effects have included reversible alopecia (scalp, pubis, and/or axilla).    Less commonly, hyperpigmentation of nailbeds and dermal creases and oncholysis (nail loss) have been reported.
+A scalp tourniquet and/or scalp cooling may prevent doxorubicin-induced alopecia.
+Nausea and vomiting are preventable with appropriate antiemetic therapy.Stomatitis or other ulcerations typically occur 2 to 10 days after administration and, if severe, can be complicated by bleeding or local infection.  Severe cases of colonic ulceration can be fatal.
+Gastrointestinal side effects have included acute nausea and vomiting in 20% to 85% of patients.  Stomatitis has been reported in up to 80% of patients, and is dose and schedule-related.  Ulceration of the esophagus and the colon (particularly the cecum) have also been reported.  Anorexia and diarrhea have been reported in approximately 15% of patients.  Rare cases of tongue hyperpigmentation have also been associated with the use of doxorubicin.
+Local side effects have included IV site problems such as phlebosclerosis (especially when a single vein and/or a small vein is used) and extravasation tissue necrosis.
+Extravasation may occur with or without accompanying stinging or burning even if there is good blood return on aspiration of the infusion needle.  If there are signs or symptoms of extravasation, the injection or infusion should be immediately terminated.  If further therapy is necessary, an injection or infusion may be restarted in another vein and the affected area should be immediately treated.  Many treatments have been proposed to slow or heal doxorubicin extravasation ulcers.  The standard of care is ice packs for 24 hours for acute extravasation injury; some advocate topical application of 10% to 99% dimethyl sulfoxide (DMSO) with ice packs.  However, because of the inconsistent results associated with some of these therapies and the progressive nature of extravasation reactions, plastic surgery consultation is generally recommended.
+Hypersensitivity reactions have occasionally been reported, and may include fever, chills, urticaria, angioneurotic edema or anaphylaxis.
+Local IV site "flares" can be confused with extravasation, but are probably due to allergy to this drug.  Flare reactions were reported in 3% to 18% of patients, but are now rare since the vehicle in which doxorubicin is carried has changed.  Antiemetic therapy, antihistamines, and/or corticosteroids can decrease the risk of flares.Flare reactions may be differentiated from extravasation.  Flare reactions are characterized by erythema, appear proximally along the affected vein, and typically resolve within 45 minutes.  Pain, burning and adverse sequelae are infrequent or absent.  Extravasation, on the other hand, appears at the injection site and resolves slowly over days to weeks.  As opposed to flare reactions, pain, burning, and edema are common, and adverse sequelae are variable and may be serious.Allergic reactions have also been reported after the intravesical administration of doxorubicin.
+Renal side effects have included rare cases of new or worsened renal insufficiency.  A single case of rapidly progressive glomerulonephritis without evidence of a secondary cause or immunologic mechanism has been reported.
+Renal insufficiency has been associated with doxorubicin-induced hyperuricemia (secondary to cell lysis).  Adequate hydration, diuresis, and allopurinol can be preventative.Animal data suggest that doxorubicin may cause glomerular basement membrane injury via production of reactive oxygen species.  Administration of some antioxidants, however, have failed to reduce the urinary excretion of lysozyme and N-acetyl-glucosaminidase (markers of tubule injury) in treated animals.
+Radiation pneumonitis or esophagitis may be more likely with the combination of doxorubicin and XRT than with XRT alone.  Prior XRT to the heart/mediastinum also increases the risk of doxorubicin-induced cardiomyopathy.Endomyocardial biopsy data have demonstrated that the cellular morphological changes in patients who received doxorubicin and who were previously treated with cardiac or mediastinal XRT are markedly different and more severe than in treated patients without a history of cardiac or mediastinal XRT.  Prior cardiac or mediastinal  XRT appears to portend a higher risk of doxorubicin-induced cardiomyopathy.
+Other side effects of doxorubicin have included the predisposition of patients who have previously received radiation therapy (XRT) to demonstrate the so-called "recall" phenomenon.
+Oncologic side effects including secondary leukemia have been associated with prior exposure to doxorubicin.  A single case of skin cancer that developed at the site of doxorubicin extravasation 10 years prior has also been reported.
+Ocular side effects have included rare cases of conjunctivitis, periorbital edema, lacrimation, blepharospasm, keratitis, and decreased visual acuity.
+Genitourinary side effects including rare cases of bladder contracture have been reported.
+Musculoskeletal side effects have been extremely rare.  In one case, administration of doxorubicin was associated with a clinically significant flare of ankylosing spondylitis.
 Cough or hoarseness accompanied by fever or chills
 darkening or redness of the skin (if you recently had radiation treatment)
 fast or irregular heartbeat
@@ -187,24 +33,15 @@ red streaks along the injected vein
 shortness of breath
 stomach pain
 swelling of the feet and lower legs
-
-
 Black, tarry stools
 blood in the urine
 pinpoint red spots on the skin
 unusual bleeding or bruising
-
-
 Hair loss, thinning of hair
 nausea and vomiting
 sores in the mouth and on the lips
-
-
 Darkening of the soles, palms, or nails
 diarrhea
-
-
 Fast or irregular heartbeat
 shortness of breath
 swelling of the feet and lower legs
-

@@ -1,32 +1,17 @@
-Generic Name: dalfampridine
 Common side effects of Ampyra include: urinary tract infection. Other side effects include: equilibrium disturbance, insomnia, and nausea.  See below for a comprehensive list of adverse effects.
-Applies to dalfampridine: oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by dalfampridine (the active ingredient contained in Ampyra). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking dalfampridine:
-
 If any of the following symptoms of overdose occur while taking dalfampridine, get emergency help immediately:
-
-Some of the side effects that can occur with dalfampridine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to dalfampridine: oral tablet extended release
-Renal side effects including urinary tract infection (12%) have been reported.[Ref]
-General side effects including insomnia (9%) and asthenia (7%) have been reported.[Ref]
-Nervous system side effects including dizziness (7%), headache (7%), balance disorder (5%), multiple sclerosis relapse (4%), and paresthesia (4%) have been reported.[Ref]
-Gastrointestinal side effects including nausea (7%), constipation (3%), dyspepsia (2%), and pharyngolaryngeal pain (2%) have been reported.[Ref]
-Musculoskeletal side effects including back pain (5%) have been reported.[Ref]
-Respiratory side effects including nasopharyngitis (4%) have been reported.[Ref]
-Genitourinary side effects have been have reported in animal studies which noted a significant increase in uterine polyps at the highest dose tested.[Ref]
-1. "Product Information. Ampyra (dalfampridine)." Acorda Therapeutics, Hawthorne, NY. 
-Not all side effects for Ampyra may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Renal side effects including urinary tract infection (12%) have been reported.
+General side effects including insomnia (9%) and asthenia (7%) have been reported.
+Nervous system side effects including dizziness (7%), headache (7%), balance disorder (5%), multiple sclerosis relapse (4%), and paresthesia (4%) have been reported.
+Gastrointestinal side effects including nausea (7%), constipation (3%), dyspepsia (2%), and pharyngolaryngeal pain (2%) have been reported.
+Musculoskeletal side effects including back pain (5%) have been reported.
+Respiratory side effects including nasopharyngitis (4%) have been reported.
+Genitourinary side effects have been have reported in animal studies which noted a significant increase in uterine polyps at the highest dose tested.
 Bladder pain
 bloody or cloudy urine
 difficult, burning, or painful urination
 frequent urge to urinate
 lower back or side pain
-
-
 Blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 difficulty controlling your bladder or bowels
@@ -37,8 +22,6 @@ muscle cramps
 numbness or tingling in your arms, legs, or face
 slurred speech or problems with swallowing
 unusual tiredness or weakness
-
-
 Cough
 dizziness
 fast heartbeat
@@ -48,8 +31,6 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 shortness of breath
 skin rash
 tightness in the chest
-
-
 Confusion
 epileptic seizure that will not stop
 increased sweating
@@ -58,14 +39,10 @@ problems with memory
 reduced awareness
 seizures
 weakness
-
-
 Headache
 lack or loss of strength
 nausea
 trouble sleeping
-
-
 Back pain
 constipation
 fever
@@ -73,4 +50,3 @@ headache
 muscle aches
 sore throat
 stuffy or runny nose
-

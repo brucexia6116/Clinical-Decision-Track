@@ -1,56 +1,20 @@
-Generic Name: theophylline
-Applies to theophylline: oral capsule, oral capsule extended release, oral capsule extended release 12 hr, oral capsule extended release 24 hr, oral elixir, oral solution, oral syrup, oral tablet, oral tablet enteric coated, oral tablet extended release, oral tablet extended release 12 hr, oral tablet extended release 24 hr
 Other dosage forms:
 As well as its needed effects, theophylline (the active ingredient contained in Theochron) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking theophylline, check with your doctor immediately:
-
 If any of the following symptoms of overdose occur while taking theophylline, get emergency help immediately:
-
 Some theophylline side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to theophylline: compounding powder, intravenous solution, oral capsule, oral capsule extended release, oral elixir, oral solution, oral syrup, oral tablet, oral tablet extended release
-The majority of side effects have been dependent on the serum concentration.  Generally, serum concentrations of theophylline (the active ingredient contained in Theochron) ranging from 10 to 20 mcg/mL are considered therapeutic, and serum concentrations greater than 20 mcg/mL are associated with greater toxicity.[Ref]
-There are several factors which may predispose a patient to higher serum concentrations and, thus, toxicity.  These factors may include increased age, concomitant drugs which reduce the clearance of theophylline, hypothyroidism, congestive heart failure, liver disease, renal failure, and alterations in smoking habits.  One series of patients with theophylline intoxication had recent upper respiratory tract infections.The nature of acute toxicity of theophylline differs from chronic toxicity.  Acute overdose is associated with higher theophylline concentrations and younger patients.  In acute overdose the severity of toxicity is correlated with peak serum concentrations.  Chronic overdosage is seen more commonly in older patients, and severe toxicity may occur with serum concentrations which are much lower than those seen in severe acute toxicity.  In these patients, age is a predictor of severe toxicity.[Ref]
-Gastrointestinal side effects have included anorexia, nausea, vomiting, and abdominal pain.  Theophylline (the active ingredient contained in Theochron) may also cause locally-mediated gastrointestinal upset.[Ref]
-Nervous system side effects have included generalized seizures, most commonly in patients with elevated serum concentrations, although seizures have occurred at therapeutic concentrations.  Theophylline (the active ingredient contained in Theochron) may also cause nervousness and tremor at therapeutic dosages, which become worse as serum concentrations increase.[Ref]
-The mechanism of theophylline-induced seizures has not been determined.  Seizures are generally focal with secondary generalization.  Permanent neurologic deficits have been reported and morbidity may be high, especially in the elderly, patients with severe underlying disease, and patients with prolonged, uncontrolled seizure activity.  The onset of seizures is not always preceded by less severe symptoms of theophylline toxicity.  Patients with an abnormal neurologic history, including a history of seizures, cerebral infarct, or head trauma, may be predisposed to seizure activity.  If theophylline is used in these types of patients, serum concentrations should be monitored closely and maintained in the low, therapeutic range.[Ref]
-Cardiovascular side effects have included increases in heart rate which have progressed to supraventricular tachycardia or ventricular tachycardia.  Patients with a history of arrhythmias may be predisposed to this effect.  Hypotension has occurred with rapid intravenous administration.[Ref]
-Theophylline serum concentrations have been a significant predictor of arrhythmias.  One study reported multifocal atrial tachycardia in 8% and 16% of patients with a serum concentration between 10 and 20 mcg/mL and greater than 20 mcg/mL, respectively.  The onset of serious arrhythmias is not always preceded by less severe signs of theophylline toxicity.Elevated serum CK-MB levels have been associated with theophylline toxicity in the absence of cardiac disease.  CK-MB levels have returned to normal following discontinuation of theophylline therapy.[Ref]
-Metabolic side effects have included hypokalemia, hyperglycemia, respiratory alkalosis, hypophosphatemia, and hypomagnesemia, especially in the situation of acute overdosage.  The magnitude of these abnormalities have been correlated with theophylline (the active ingredient contained in Theochron) concentrations.  Hypercalcemia has been reported in a patient with hyperthyroid disease with theophylline at therapeutic concentrations.[Ref]
-In one group of patients with theophylline concentrations greater than 20 mcg/mL, hyperglycemia was present in approximately 50%, hypokalemia in 15%, and hypomagnesemia in 20%.  Hyponatremia and hypophosphatemia were seen less frequently.[Ref]
-Genitourinary side effects have included urinary retention.[Ref]
-1. Aderka D, Shavit G, Garfinkel D, et al "Life-threatening theophylline intoxication in a hypothyroid patient." Respiration 44 (1983): 77-80
-2. Shannon M "Predictors of major toxicity after theophylline overdose." Ann Intern Med 119 (1993): 1161-7
-3. Covelli HD, Knodel AR, Heppner BT "Predisposing factors to apparent theophylline-induced seizures." Ann Allergy 54 (1985): 411-5
-4. Milgrom H, Bender B "Current issues in the use of theophylline." Am Rev Respir Dis 147 (1993): s33-9
-5. Sessler CN "Theophylline toxicity: clinical features of 116 consecutive cases." Am J Med 88 (1990): 567-76
-6. "Product Information. Theo-Dur (theophylline)." Schering Laboratories, Kenilworth, NJ. 
-7. Schiff GD, Hegde HK, LaCloche L, Hryhorczuk DO "Inpatient theophylline toxicity: preventable factors." Ann Intern Med 114 (1991): 748-53
-8. Shannon M "Life-threatening events after theophylline overdose - A 10-year prospective analysis." Arch Intern Med 159 (1999): 989-94
-9. Stoller JL "Oesophageal ulceration and theophylline." Lancet 2 (1985): 328-9
-10. Alterman P, Spiegel D, Feldman J, Yaretzky A "Histamine h2-receptor antagonists and chronic theophylline toxicity." Am Fam Physician 54 (1996): 1473
-11. Hall RC, Beresford TP, Stickney SK, et al "Psychiatric reactions produced by respiratory drugs." Psychosomatics 26 (1985): 605-8,615-6
-12. Nakada T, Kwee IL, Lerner AM, Remler MP "Theophylline-induced seizures: clinical and pathophysiologic aspects." West J Med 138 (1983): 371-4
-13. Oriordan JI, Hutchinson J, Fitzgerald MX, Hutchinson M "Amnesic syndrome after theophylline associated seizures: iatrogenic brain injury." J Neurol Neurosurg Psychiatry 57 (1994): 643-5
-14. Stewart JT "Prolongation of ECT-induced seizures with theophylline." J Am Geriatr Soc 44 (1996): 475
-15. Kato Z, Yasuda K, Shimozawa N, Kondo N "Theophylline-associated status epilepticus resulting in quadriplegia." Ann Allergy Asthma Immunol 78 (1997): 332
-16. Bahls FH, Ma KK, Bird TD "Theophylline-associated seizures with "therapeutic" or low toxic serum concentrations: risk factors for serious outcome in adults." Neurology 41 (1991): 1309-12
-17. Bittar G, Friedman HS "The arrhythmogenicity of theophylline: a multivariate analysis of clinical determinants." Chest 99 (1991): 1415-20
-18. Levine JH, Michael JR, Guarnieri T "Multifocal atrial tachycardia: a toxic effect of theophylline." Lancet 1 (1985): 12-4
-19. Marchlinski FE, Miller JM "Atrial arrhythmias exacerbated by theophylline: response to verapamil and evidence for triggered activity in man." Chest 88 (1985): 931-4
-20. Taniguchi A, Ohe T, Shimorura K "Theophylline-induced ventricular tachycardia in a patient with chronic lung disease: sensitivity to verapamil." Chest 96 (1989): 958-9
-21. Chazan R, Karwat K, Tyminska K, Tadeusiak W, Droszcz W "Cardiac arrhythmias as a result of intravenous infusions of theophylline in patients with airway obstruction." Int J Clin Pharmacol Ther 33 (1995): 170-5
-22. Mccarthy M "Theophylline, beta-agonists, and cardiovascular death." Lancet 349 (1997): 33
-23. Hagley MT, Traeger SM, Schuckman H "Pronounced metabolic response to modest theophylline overdose." Ann Pharmacother 28 (1994): 195-6
-24. Toda K, Goriki K, Ochiai M, Tokunou H, Uehara S, Takahashi H, Okusaki K "Gout due to xanthine derivatives." Br J Rheumatol 36 (1997): 1131-2
-25. Hall KW, Dobson KE, Dalton JG, Ghignone MC, Penner SB "Metabolic abnormalites associated with intentional theophylline overdose." Ann Intern Med 101 (1984): 457-62
-26. Flack JM, Ryder KW, Strickland D, Whang R "Metabolic correlates of theophylline therapy: a concentration-related phenomenon." Ann Pharmacother 28 (1994): 175-9
-27. Clark BG, Vestal RE "Adverse drug reactions in the elderly: case studies." Geriatrics 39 (1984): 53-4,60-3,66
-28. Prakash M, Washburne JD "Theophylline and urinary retention." Ann Intern Med 94 (1981): 823
+The majority of side effects have been dependent on the serum concentration.  Generally, serum concentrations of theophylline (the active ingredient contained in Theochron) ranging from 10 to 20 mcg/mL are considered therapeutic, and serum concentrations greater than 20 mcg/mL are associated with greater toxicity.
+There are several factors which may predispose a patient to higher serum concentrations and, thus, toxicity.  These factors may include increased age, concomitant drugs which reduce the clearance of theophylline, hypothyroidism, congestive heart failure, liver disease, renal failure, and alterations in smoking habits.  One series of patients with theophylline intoxication had recent upper respiratory tract infections.The nature of acute toxicity of theophylline differs from chronic toxicity.  Acute overdose is associated with higher theophylline concentrations and younger patients.  In acute overdose the severity of toxicity is correlated with peak serum concentrations.  Chronic overdosage is seen more commonly in older patients, and severe toxicity may occur with serum concentrations which are much lower than those seen in severe acute toxicity.  In these patients, age is a predictor of severe toxicity.
+Gastrointestinal side effects have included anorexia, nausea, vomiting, and abdominal pain.  Theophylline (the active ingredient contained in Theochron) may also cause locally-mediated gastrointestinal upset.
+Nervous system side effects have included generalized seizures, most commonly in patients with elevated serum concentrations, although seizures have occurred at therapeutic concentrations.  Theophylline (the active ingredient contained in Theochron) may also cause nervousness and tremor at therapeutic dosages, which become worse as serum concentrations increase.
+The mechanism of theophylline-induced seizures has not been determined.  Seizures are generally focal with secondary generalization.  Permanent neurologic deficits have been reported and morbidity may be high, especially in the elderly, patients with severe underlying disease, and patients with prolonged, uncontrolled seizure activity.  The onset of seizures is not always preceded by less severe symptoms of theophylline toxicity.  Patients with an abnormal neurologic history, including a history of seizures, cerebral infarct, or head trauma, may be predisposed to seizure activity.  If theophylline is used in these types of patients, serum concentrations should be monitored closely and maintained in the low, therapeutic range.
+Cardiovascular side effects have included increases in heart rate which have progressed to supraventricular tachycardia or ventricular tachycardia.  Patients with a history of arrhythmias may be predisposed to this effect.  Hypotension has occurred with rapid intravenous administration.
+Theophylline serum concentrations have been a significant predictor of arrhythmias.  One study reported multifocal atrial tachycardia in 8% and 16% of patients with a serum concentration between 10 and 20 mcg/mL and greater than 20 mcg/mL, respectively.  The onset of serious arrhythmias is not always preceded by less severe signs of theophylline toxicity.Elevated serum CK-MB levels have been associated with theophylline toxicity in the absence of cardiac disease.  CK-MB levels have returned to normal following discontinuation of theophylline therapy.
+Metabolic side effects have included hypokalemia, hyperglycemia, respiratory alkalosis, hypophosphatemia, and hypomagnesemia, especially in the situation of acute overdosage.  The magnitude of these abnormalities have been correlated with theophylline (the active ingredient contained in Theochron) concentrations.  Hypercalcemia has been reported in a patient with hyperthyroid disease with theophylline at therapeutic concentrations.
+In one group of patients with theophylline concentrations greater than 20 mcg/mL, hyperglycemia was present in approximately 50%, hypokalemia in 15%, and hypomagnesemia in 20%.  Hyponatremia and hypophosphatemia were seen less frequently.
+Genitourinary side effects have included urinary retention.
 It is possible that some side effects of Theochron may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 intravenous solution
-
 Chest pain or discomfort
 dizziness
 fainting
@@ -61,8 +25,6 @@ persistent vomiting
 pounding or rapid pulse
 seizures
 shakiness
-
-
 Abdominal or stomach pain
 blurred vision
 confusion
@@ -92,12 +54,9 @@ shortness of breath
 sweating
 unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
-
-
 Headache
 irritability
 restlessness
 sleeplessness
 trouble sleeping
 unable to sleep
-

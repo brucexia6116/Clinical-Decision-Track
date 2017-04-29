@@ -1,33 +1,20 @@
-Generic Name: etodolac
 More frequent side effects include: abdominal pain, asthenia, diarrhea, dyspepsia, nausea, flatulence, and malaise.  See below for a comprehensive list of adverse effects.
-Applies to etodolac: oral capsule, oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by etodolac (the active ingredient contained in Lodine). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking etodolac:
-Some of the side effects that can occur with etodolac may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to etodolac: oral capsule, oral tablet, oral tablet extended release
-The most frequently reported side effects were gastrointestinal in nature and included dyspepsia, abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, gastric ulcers, duodenal ulcers, and vomiting.[Ref]
-Very common (10% or more): Dyspepsia (10%)Common (1% to 10%): Abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, gastric ulcer, duodenal ulcer, vomiting, abdominal distention, epigastric pain, stools abnormal, gastritis, melenaVery rare (less than 0.01%): PancreatitisFrequency not reported: Dry mouth, ulcerative stomatitis, eructation, peptic ulcer, gastrointestinal (GI) bleeding, perforation, esophagitis, esophageal stricture, cardiospasm, colitis, GI discomfort, burning sensation, gastralgia, upper abdominal discomfort, glossitis, hematemesis, rectal bleeding, heartburn, indigestion, ulcerative colitis exacerbated, Crohn's disease exacerbatedPostmarketing reports: Intestinal ulceration[Ref]
-Frequency not reported: Hypertension, congestive heart failure, flushing, palpitations, arrhythmia, myocardial infarction, tachycardia, cardiac failurePostmarketing reports: Necrotizing vasculitis[Ref]
-Common (1% to 10%): Renal function abnormalFrequency not reported: Renal calculus, interstitial nephritis, renal impairment, nephrotoxicity, nephrotic syndrome, renal failurePostmarketing reports: Renal insufficiency, renal papillary necrosis[Ref]
-Common (1% to 10%): Dizziness, headacheFrequency not reported: Syncope, somnolence, cerebrovascular accident, paresthesia, taste perversion, loss of taste, convulsion, coma, tremor, drowsiness, optic neuritis, stroke[Ref]
-Common (1% to 10%): Pruritus, rashVery rare (less than 0.01%): Stevens-Johnson Syndrome, toxic epidermal necrolysisFrequency not reported: Ecchymosis, angioedema, sweating, urticaria, exfoliative dermatitis, vesiculobullous rash, hyperpigmentation, alopecia, maculopapular rash, photosensitivity, skin peeling, purpura, erythema multiformePostmarketing reports: Allergic vasculitis, cutaneous vasculitis, leukocytoclastic vasculitis[Ref]
-Common (1% to 10%): Liver enzymes increasedFrequency not reported: Bilirubinuria, hepatitis, jaundicePostmarketing reports: Cholestatic hepatitis, hepatitis, cholestatic jaundice, duodenitis, hepatic failure, liver necrosis, fatal fulminant hepatitis[Ref]
-Common (1% to 10%): Anemia, bleeding time increasedFrequency not reported: Thrombocytopenia, lymphadenopathy, neutropenia, agranulocytosis, hemolytic anemia, aplastic anemia, pancytopenia, leukopenia[Ref]
-Frequency not reported: AnorexiaPostmarketing reports: Hyperglycemia[Ref]
-Common (1% to 10%): Depression, nervousnessFrequency not reported: Insomnia, confusion, anxiety, dreams abnormal, hallucination, disorientation[Ref]
-Common (1% to 10%): Dysuria, urinary frequencyFrequency not reported: Cystitis, hematuria, leukorrhea, uterine bleeding irregular, oliguria, polyuria, proteinuria[Ref]
-Common (1% to 10%): Vision blurredFrequency not reported: Photophobia, transient visual disturbance, conjunctivitis[Ref]
-Frequency not reported: Asthma/aggravated asthma, bronchitis, bronchospasm, dyspnea, pharyngitis, rhinitis, sinusitis, respiratory depression, pneumoniaPostmarketing reports: Pulmonary infiltration eosinophilic[Ref]
-Common (1% to 10%): ArthralgiaFrequency not reported: Muscle pain[Ref]
-Common (1% to 10%): Edema, tinnitus, fever, chills, asthenia, malaise, fatigueFrequency not reported: Serum creatinine increased, infection, weight abnormal, irritability, deafness, meningitis, vertigo, sepsis, death, weakness, aseptic meningitisPostmarketing reports: Thirst, BUN increased[Ref]
-Frequency not reported: Allergic/hypersensitivity reaction, anaphylactic/anaphylactoid reaction[Ref]
-1. "Product Information. Lodine (etodolac)." Wyeth-Ayerst Laboratories, Philadelphia, PA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Etodolac ER (etodolac)." Taro Pharmaceuticals U.S.A. Inc, Hawthorne, NY. 
-Not all side effects for Lodine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects were gastrointestinal in nature and included dyspepsia, abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, gastric ulcers, duodenal ulcers, and vomiting.
+Very common (10% or more): Dyspepsia (10%)Common (1% to 10%): Abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, gastric ulcer, duodenal ulcer, vomiting, abdominal distention, epigastric pain, stools abnormal, gastritis, melenaVery rare (less than 0.01%): PancreatitisFrequency not reported: Dry mouth, ulcerative stomatitis, eructation, peptic ulcer, gastrointestinal (GI) bleeding, perforation, esophagitis, esophageal stricture, cardiospasm, colitis, GI discomfort, burning sensation, gastralgia, upper abdominal discomfort, glossitis, hematemesis, rectal bleeding, heartburn, indigestion, ulcerative colitis exacerbated, Crohn's disease exacerbatedPostmarketing reports: Intestinal ulceration
+Frequency not reported: Hypertension, congestive heart failure, flushing, palpitations, arrhythmia, myocardial infarction, tachycardia, cardiac failurePostmarketing reports: Necrotizing vasculitis
+Common (1% to 10%): Renal function abnormalFrequency not reported: Renal calculus, interstitial nephritis, renal impairment, nephrotoxicity, nephrotic syndrome, renal failurePostmarketing reports: Renal insufficiency, renal papillary necrosis
+Common (1% to 10%): Dizziness, headacheFrequency not reported: Syncope, somnolence, cerebrovascular accident, paresthesia, taste perversion, loss of taste, convulsion, coma, tremor, drowsiness, optic neuritis, stroke
+Common (1% to 10%): Pruritus, rashVery rare (less than 0.01%): Stevens-Johnson Syndrome, toxic epidermal necrolysisFrequency not reported: Ecchymosis, angioedema, sweating, urticaria, exfoliative dermatitis, vesiculobullous rash, hyperpigmentation, alopecia, maculopapular rash, photosensitivity, skin peeling, purpura, erythema multiformePostmarketing reports: Allergic vasculitis, cutaneous vasculitis, leukocytoclastic vasculitis
+Common (1% to 10%): Liver enzymes increasedFrequency not reported: Bilirubinuria, hepatitis, jaundicePostmarketing reports: Cholestatic hepatitis, hepatitis, cholestatic jaundice, duodenitis, hepatic failure, liver necrosis, fatal fulminant hepatitis
+Common (1% to 10%): Anemia, bleeding time increasedFrequency not reported: Thrombocytopenia, lymphadenopathy, neutropenia, agranulocytosis, hemolytic anemia, aplastic anemia, pancytopenia, leukopenia
+Frequency not reported: AnorexiaPostmarketing reports: Hyperglycemia
+Common (1% to 10%): Depression, nervousnessFrequency not reported: Insomnia, confusion, anxiety, dreams abnormal, hallucination, disorientation
+Common (1% to 10%): Dysuria, urinary frequencyFrequency not reported: Cystitis, hematuria, leukorrhea, uterine bleeding irregular, oliguria, polyuria, proteinuria
+Common (1% to 10%): Vision blurredFrequency not reported: Photophobia, transient visual disturbance, conjunctivitis
+Frequency not reported: Asthma/aggravated asthma, bronchitis, bronchospasm, dyspnea, pharyngitis, rhinitis, sinusitis, respiratory depression, pneumoniaPostmarketing reports: Pulmonary infiltration eosinophilic
+Common (1% to 10%): ArthralgiaFrequency not reported: Muscle pain
+Common (1% to 10%): Edema, tinnitus, fever, chills, asthenia, malaise, fatigueFrequency not reported: Serum creatinine increased, infection, weight abnormal, irritability, deafness, meningitis, vertigo, sepsis, death, weakness, aseptic meningitisPostmarketing reports: Thirst, BUN increased
+Frequency not reported: Allergic/hypersensitivity reaction, anaphylactic/anaphylactoid reaction
 Abdominal or stomach bloating, burning, cramping, or pain
 belching
 bloody or black, tarry stools
@@ -67,8 +54,6 @@ unusual tiredness or weakness
 voice changes
 vomiting of blood or material that looks like coffee grounds
 weight loss
-
-
 Agitation
 change in consciousness
 confusion
@@ -92,8 +77,6 @@ swelling of face, ankles, or hands
 tightness in chest
 unusual drowsiness, dullness, or feeling of sluggishness
 wheezing
-
-
 Bloated, full feeling
 continuing ringing or buzzing or other unexplained noise in ears
 excess air or gas in stomach or intestines
@@ -102,4 +85,3 @@ lack or loss of strength
 passing gas
 sneezing
 stuffy nose
-

@@ -1,35 +1,20 @@
-Generic Name: amiloride / hydrochlorothiazide
-Applies to amiloride / hydrochlorothiazide: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by amiloride / hydrochlorothiazide. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking amiloride / hydrochlorothiazide:
-
 If any of the following symptoms of overdose occur while taking amiloride / hydrochlorothiazide, get emergency help immediately:
-
-Some of the side effects that can occur with amiloride / hydrochlorothiazide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to amiloride / hydrochlorothiazide: oral tablet
-The most common adverse reactions were headache, weakness, nausea/anorexia, dizziness, and rash.[Ref]
-Common (1% to 10%): Nausea/anorexia, diarrhea, gastrointestinal pain, abdominal painFrequency not reported: Constipation, gastrointestinal bleeding, gastrointestinal disturbance, abdominal fullness, vomiting, flatulenceAmiloride:Frequency not reported: Activation of probable preexisting peptic ulcer, dyspepsia, heartburn, dry mouthHydrochlorothiazide:Frequency not reported: Pancreatitis, sialadenitis, cramping, gastric irritation[Ref]
-Common (1% to 10%): Rash, pruritusFrequency not reported: Diaphoresis, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, alopeciaAmiloride:Frequency not reported: Alopecia, itching, diaphoresisHydrochlorothiazide:Frequency not reported: Cutaneous vasculitis, photosensitivity, urticaria, purpura, toxic epidermal necrolysis[Ref]
-Common (1% to 10%): Headache, dizzinessFrequency not reported: Syncope, paresthesia/numbness, vertigo, stupor, sleepiness, bad tasteAmiloride:Frequency not reported: Encephalopathy, tremors, tinnitus, somnolence[Ref]
-Common (1% to 10%): Weakness, fatigue/tirednessFrequency not reported: Malaise, chest pain, digitalis toxicity, gynecomastiaAmiloride:Frequency not reported: FatigabilityHydrochlorothiazide:Frequency not reported: Fever[Ref]
-Common (1% to 10%): Serum potassium greater than 5.5 mEq/LFrequency not reported: Appetite changes, anorexia, thirst, gout, dehydration, symptomatic hyponatremia, electrolyte imbalance, hyponatremiaHydrochlorothiazide:Frequency not reported: Electrolyte imbalance, hyperglycemia, hyperuricemia, hypokalemia[Ref]
-Common (1% to 10%): ArrhythmiaFrequency not reported: Tachycardia, orthostatic hypotension, angina pectoris, flushingAmiloride:Frequency not reported: Palpitation, partial heart block increased to complete heart blockHydrochlorothiazide:Frequency not reported: Vasculitis[Ref]
-Common (1% to 10%): Leg acheFrequency not reported: Back pain, muscle cramps/spasm, joint painAmiloride:Frequency not reported: Painful extremities, neck/shoulder ache[Ref]
-Common (1% to 10%): DyspneaFrequency not reported: Hiccups, nasal congestionAmiloride:Frequency not reported: Shortness of breath, coughHydrochlorothiazide:Frequency not reported: Respiratory distress, pneumonitis, pulmonary edema[Ref]
-Frequency not reported: Impotence, nocturia, dysuria, incontinenceAmiloride:Frequency not reported: Bladder spasm, polyuria, urinary frequencyHydrochlorothiazide:Frequency not reported: Glycosuria[Ref]
-Frequency not reported: Insomnia, nervousness, depression, mental confusionAmiloride:Frequency not reported: Libido decreasedHydrochlorothiazide:Frequency not reported: Restlessness[Ref]
-Frequency not reported: Renal dysfunction, renal failureHydrochlorothiazide:Frequency not reported: Interstitial nephritis[Ref]
-Frequency not reported: Visual disturbanceAmiloride:Frequency not reported: Intraocular pressure increasedHydrochlorothiazide:Frequency not reported: Transient blurred vision, xanthopsia[Ref]
-Frequency not reported: Anaphylactic reactionHydrochlorothiazide:Frequency not reported: Anaphylactic reaction[Ref]
-Amiloride:Frequency not reported: Aplastic anemia, neutropeniaHydrochlorothiazide:Frequency not reported: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia[Ref]
-Amiloride:Frequency not reported: Abnormal liver function, jaundiceHydrochlorothiazide:Frequency not reported: Intrahepatic cholestatic jaundice[Ref]
-1. "Product Information. Moduretic (amiloride-hydrochlorothiazide)." Merck & Co, Inc, West Point, PA. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Moduretic may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions were headache, weakness, nausea/anorexia, dizziness, and rash.
+Common (1% to 10%): Nausea/anorexia, diarrhea, gastrointestinal pain, abdominal painFrequency not reported: Constipation, gastrointestinal bleeding, gastrointestinal disturbance, abdominal fullness, vomiting, flatulenceAmiloride:Frequency not reported: Activation of probable preexisting peptic ulcer, dyspepsia, heartburn, dry mouthHydrochlorothiazide:Frequency not reported: Pancreatitis, sialadenitis, cramping, gastric irritation
+Common (1% to 10%): Rash, pruritusFrequency not reported: Diaphoresis, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, alopeciaAmiloride:Frequency not reported: Alopecia, itching, diaphoresisHydrochlorothiazide:Frequency not reported: Cutaneous vasculitis, photosensitivity, urticaria, purpura, toxic epidermal necrolysis
+Common (1% to 10%): Headache, dizzinessFrequency not reported: Syncope, paresthesia/numbness, vertigo, stupor, sleepiness, bad tasteAmiloride:Frequency not reported: Encephalopathy, tremors, tinnitus, somnolence
+Common (1% to 10%): Weakness, fatigue/tirednessFrequency not reported: Malaise, chest pain, digitalis toxicity, gynecomastiaAmiloride:Frequency not reported: FatigabilityHydrochlorothiazide:Frequency not reported: Fever
+Common (1% to 10%): Serum potassium greater than 5.5 mEq/LFrequency not reported: Appetite changes, anorexia, thirst, gout, dehydration, symptomatic hyponatremia, electrolyte imbalance, hyponatremiaHydrochlorothiazide:Frequency not reported: Electrolyte imbalance, hyperglycemia, hyperuricemia, hypokalemia
+Common (1% to 10%): ArrhythmiaFrequency not reported: Tachycardia, orthostatic hypotension, angina pectoris, flushingAmiloride:Frequency not reported: Palpitation, partial heart block increased to complete heart blockHydrochlorothiazide:Frequency not reported: Vasculitis
+Common (1% to 10%): Leg acheFrequency not reported: Back pain, muscle cramps/spasm, joint painAmiloride:Frequency not reported: Painful extremities, neck/shoulder ache
+Common (1% to 10%): DyspneaFrequency not reported: Hiccups, nasal congestionAmiloride:Frequency not reported: Shortness of breath, coughHydrochlorothiazide:Frequency not reported: Respiratory distress, pneumonitis, pulmonary edema
+Frequency not reported: Impotence, nocturia, dysuria, incontinenceAmiloride:Frequency not reported: Bladder spasm, polyuria, urinary frequencyHydrochlorothiazide:Frequency not reported: Glycosuria
+Frequency not reported: Insomnia, nervousness, depression, mental confusionAmiloride:Frequency not reported: Libido decreasedHydrochlorothiazide:Frequency not reported: Restlessness
+Frequency not reported: Renal dysfunction, renal failureHydrochlorothiazide:Frequency not reported: Interstitial nephritis
+Frequency not reported: Visual disturbanceAmiloride:Frequency not reported: Intraocular pressure increasedHydrochlorothiazide:Frequency not reported: Transient blurred vision, xanthopsia
+Frequency not reported: Anaphylactic reactionHydrochlorothiazide:Frequency not reported: Anaphylactic reaction
+Amiloride:Frequency not reported: Aplastic anemia, neutropeniaHydrochlorothiazide:Frequency not reported: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia
+Amiloride:Frequency not reported: Abnormal liver function, jaundiceHydrochlorothiazide:Frequency not reported: Intrahepatic cholestatic jaundice
 Abdominal pain
 confusion
 difficulty breathing
@@ -39,16 +24,12 @@ nervousness
 numbness or tingling in the hands, feet, or lips
 shortness of breath
 weakness or heaviness of the legs
-
-
 Dizziness
 fainting
 fast or slow heartbeat
 labored breathing
 tightness in the chest
 wheezing
-
-
 Ankle, knee, or great toe joint pain
 arm, back, or jaw pain
 blistering, peeling, or loosening of the skin
@@ -101,24 +82,16 @@ unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 weight gain
 wrinkled skin
-
-
 Drowsiness
 irritability
 mood changes
 pain or weakness in the hands or feet
 trembling
 weak pulse
-
-
 Rash
 weight loss
-
-
 Leg ache
 stomach pain
-
-
 Bad taste
 bloated, full feeling
 blurred or loss of vision
@@ -158,4 +131,3 @@ trouble sleeping
 tunnel vision
 unable to sleep
 waking to urinate at night
-

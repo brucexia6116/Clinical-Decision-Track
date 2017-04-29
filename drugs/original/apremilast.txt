@@ -1,21 +1,11 @@
 Commonly reported side effects of apremilast include: weight loss. Other side effects include: diarrhea, headache, and nausea.  See below for a comprehensive list of adverse effects.
-Applies to apremilast: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by apremilast. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking apremilast:
-Some of the side effects that can occur with apremilast may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to apremilast: oral tablet
-The most commonly reported side effects included diarrhea, headache, and nausea.[Ref]
-Frequency not reported: Hypersensitivity[Ref]
-Common (1% to 10%): Diarrhea, nausea, vomiting, upper abdominal painFrequency not reported: Frequent bowel movement, gastroesophageal reflux disease, dyspepsia[Ref]
-Common (1% to 10%): Upper respiratory tract infection, nasopharyngitisFrequency not reported: Cough[Ref]
-Frequency not reported: Rash[Ref]
-Frequency not reported: Weight decrease, decreased appetite[Ref]
-Common (1% to 10%): HeadacheFrequency not reported: Migraine[Ref]
-1. "Product Information. Otezla (apremilast)." Celgene Corporation, Summit, NJ. 
-Not all side effects for apremilast may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects included diarrhea, headache, and nausea.
+Frequency not reported: Hypersensitivity
+Common (1% to 10%): Diarrhea, nausea, vomiting, upper abdominal painFrequency not reported: Frequent bowel movement, gastroesophageal reflux disease, dyspepsia
+Common (1% to 10%): Upper respiratory tract infection, nasopharyngitisFrequency not reported: Cough
+Frequency not reported: Rash
+Frequency not reported: Weight decrease, decreased appetite
+Common (1% to 10%): HeadacheFrequency not reported: Migraine
 Changes in behavior
 discouragement
 feeling sad or empty
@@ -26,8 +16,6 @@ thoughts of killing oneself
 tiredness
 trouble concentrating
 trouble sleeping
-
-
 Fast heartbeat
 fever
 hives, itching, or rash
@@ -39,8 +27,6 @@ swelling of the eyelids, face, lips, hands, or feet
 tightness in the chest
 troubled breathing or swallowing
 weight loss
-
-
 Body aches or pain
 chills
 cough
@@ -53,8 +39,6 @@ nausea
 sneezing
 sore throat
 stuffy or runny nose
-
-
 Acid or sour stomach
 back pain
 belching
@@ -66,4 +50,3 @@ muscle aches
 stomach discomfort, upset, or pain
 upper abdominal or stomach pain
 vomiting
-

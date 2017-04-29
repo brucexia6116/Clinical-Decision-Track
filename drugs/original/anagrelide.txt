@@ -1,34 +1,20 @@
 Commonly reported side effects of anagrelide include: abdominal pain, dizziness, headache, nausea, and palpitations. Other side effects include: back pain, fever, tachycardia, vomiting, and anorexia.  See below for a comprehensive list of adverse effects.
-Applies to anagrelide: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by anagrelide. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking anagrelide:
-Some of the side effects that can occur with anagrelide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to anagrelide: oral capsule
-Very common (10% or more): Headache (43.5%), asthenia (23.1%), dizziness (15.4%), pain (15%)Common (1% to 10%): FeverFrequency not reported: Migraine, syncope, somnolence, confusion, insomnia, nervousness, amnesia[Ref]
-Very common (10% or more): Palpitations (26.1%)Common (1% to 10%): Chest pain, tachycardiaFrequency not reported: Arrhythmia, cardiovascular disease, angina pectoris, heart failure, postural hypotension, thrombosis, vasodilationPostmarketing reports: Torsades de pointes, ventricular tachycardia[Ref]
-Very common (10% or more): Diarrhea (25.7%), nausea (17.1%), abdominal pain (16.4%), flatulence (10.2%)Common (1% to 10%): Vomiting, anorexia, dyspepsia, constipation, gastritis, aphthous stomatitis, pharyngitis, hemorrhage, eructation, dehydration[Ref]
-Very common (10% or more): Edema (20.6%)Common (1% to 10%): Peripheral edemaFrequency not reported: Tinnitus, flu symptoms, chills[Ref]
-Frequency not reported: Anemia, thrombocytopenia, ecchymosis, lymphadenopathy[Ref]
-Very rare (less than 0.01%): Cholestatic liver failureFrequency not reported: Elevated liver enzymes[Ref]
-Common (1% to 10%): Back pain Frequency not reported: Arthralgia, myalgia, leg cramps[Ref]
-Very common (10% or more): Dyspnea (11.9%)Frequency not reported: Pharyngitis, cough, rhinitis, epistaxis, respiratory disease, sinusitis, pneumonia, bronchitis, pleural effusion, pulmonary hypertension, pulmonary infiltrates, asthma, allergic alveolitis[Ref]
-Common (1% to 10%): Rash (including urticaria)Frequency not reported: Skin disease, alopecia, pruritus[Ref]
-Frequency not reported: Photosensitivity, amblyopia, abnormal vision, visual field abnormality, diplopia[Ref]
-A 30-year-old man developed erectile dysfunction after 2 months of treatment with anagrelide which disappeared 2 weeks after stopping the drug.  A definitive cause could not be determined.[Ref]
-Frequency not reported: Dysuria, hematuria[Ref]
-Very rare (less than 0.01%): A 60-year-old woman developed shortness of breath, palpitations, and chest pain after 1 week of treatment leading to respiratory failure and intubation by week 5.  Patient recovered after treatment with methylprednisolone.Frequency not reported: Severe hypersensitivity pneumonitis[Ref]
-The authors of the case report of severe hypersensitivity pneumonitis suggest that patients receiving anagrelide therapy, alone or in combination with hydroxyurea, may benefit from monitoring with serial chest X-rays, pulmonary function testing, and echocardiography to detect the development of cardiomyopathy or hypersensitivity pneumonitis.[Ref]
+Very common (10% or more): Headache (43.5%), asthenia (23.1%), dizziness (15.4%), pain (15%)Common (1% to 10%): FeverFrequency not reported: Migraine, syncope, somnolence, confusion, insomnia, nervousness, amnesia
+Very common (10% or more): Palpitations (26.1%)Common (1% to 10%): Chest pain, tachycardiaFrequency not reported: Arrhythmia, cardiovascular disease, angina pectoris, heart failure, postural hypotension, thrombosis, vasodilationPostmarketing reports: Torsades de pointes, ventricular tachycardia
+Very common (10% or more): Diarrhea (25.7%), nausea (17.1%), abdominal pain (16.4%), flatulence (10.2%)Common (1% to 10%): Vomiting, anorexia, dyspepsia, constipation, gastritis, aphthous stomatitis, pharyngitis, hemorrhage, eructation, dehydration
+Very common (10% or more): Edema (20.6%)Common (1% to 10%): Peripheral edemaFrequency not reported: Tinnitus, flu symptoms, chills
+Frequency not reported: Anemia, thrombocytopenia, ecchymosis, lymphadenopathy
+Very rare (less than 0.01%): Cholestatic liver failureFrequency not reported: Elevated liver enzymes
+Common (1% to 10%): Back pain Frequency not reported: Arthralgia, myalgia, leg cramps
+Very common (10% or more): Dyspnea (11.9%)Frequency not reported: Pharyngitis, cough, rhinitis, epistaxis, respiratory disease, sinusitis, pneumonia, bronchitis, pleural effusion, pulmonary hypertension, pulmonary infiltrates, asthma, allergic alveolitis
+Common (1% to 10%): Rash (including urticaria)Frequency not reported: Skin disease, alopecia, pruritus
+Frequency not reported: Photosensitivity, amblyopia, abnormal vision, visual field abnormality, diplopia
+A 30-year-old man developed erectile dysfunction after 2 months of treatment with anagrelide which disappeared 2 weeks after stopping the drug.  A definitive cause could not be determined.
+Frequency not reported: Dysuria, hematuria
+Very rare (less than 0.01%): A 60-year-old woman developed shortness of breath, palpitations, and chest pain after 1 week of treatment leading to respiratory failure and intubation by week 5.  Patient recovered after treatment with methylprednisolone.Frequency not reported: Severe hypersensitivity pneumonitis
+The authors of the case report of severe hypersensitivity pneumonitis suggest that patients receiving anagrelide therapy, alone or in combination with hydroxyurea, may benefit from monitoring with serial chest X-rays, pulmonary function testing, and echocardiography to detect the development of cardiomyopathy or hypersensitivity pneumonitis.
 Postmarketing reports: Tubulointerstitial nephritis.
 Frequency not reported: Depression
-1. "Product Information. Agrylin (anagrelide)." Roberts Pharmaceutical Corporation, Eatontown, NJ. 
-2. Lin S,  Howell DN,  Tuttle-Newhall JE,  Heneghan MA "Cholestatic liver failure secondary to anagrelide." Am J Gastroenterol 98(9S) (2003): S153
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Braester A,  Laver B "Anagrelide-induced erectile dysfunction." Ann Pharmacother 36 (2002): 1291
-5. Raghavan M,  Mazer MA,  Brink DJ "Severe hypersensitivity pneumonitis associated with anagrelide." Ann Pharmacother 37 (2003): 1228-31
-Not all side effects for anagrelide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 body aches or pain
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -46,8 +32,6 @@ tender, swollen glands in the neck
 tightness in the chest
 trouble with swallowing
 voice changes
-
-
 Anxiety
 blurred vision
 burning while urinating
@@ -80,8 +64,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting of blood or material that looks like coffee grounds
 weight gain
-
-
 Abdominal or stomach pain or tenderness
 clay colored stools
 dark urine
@@ -91,8 +73,6 @@ general feeling of tiredness or weakness
 rapid breathing
 skin rash or itching
 yellow eyes or skin
-
-
 Acid or sour stomach
 back pain
 belching
@@ -107,8 +87,6 @@ lack or loss of strength
 pain
 passing gas
 stomach discomfort, upset, or pain
-
-
 Burning feeling in the chest or stomach
 change in vision
 confusion
@@ -132,4 +110,3 @@ sleepiness or unusual drowsiness
 stuffy nose
 swelling or inflammation of the mouth
 swollen joints
-

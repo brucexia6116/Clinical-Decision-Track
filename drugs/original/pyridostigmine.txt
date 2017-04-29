@@ -1,24 +1,15 @@
-Applies to pyridostigmine: oral conventional 30-mg tablets for military use, oral conventional 60-mg tablets and extended-release tablets, oral oral solution, parenteral injection
 Side effects include:
 Diarrhea,  abdominal pain or cramps,   dysmenorrhea,  increased flatus,  nausea,  urinary urgency and frequency. 
-Applies to pyridostigmine: injectable solution, oral syrup, oral tablet, oral tablet extended release
-Gastrointestinal side effects have included nausea, vomiting, diarrhea, loose stools, flatulence, abdominal cramps, increased peristalsis, and increased salivation.[Ref]
-Respiratory side effects have included exacerbation of bronchitis and asthma.  Adverse effects that are generally associated with overdosage have included increased bronchial secretions and bronchospasm.[Ref]
-Musculoskeletal side effects have included muscle weakness and twitching.  Adverse effects that are generally associated with overdosage have included muscle cramps, fasciculation, weakness, and paralysis.  Arthralgia, hyperalgesia and joint pain have been reported.[Ref]
-A 46-year-old woman with myasthenia gravis developed arthralgia, hyperalgesia, and joint stiffness after 8 years of pyridostigmine 60 mg orally 5 times daily.  The side effects slightly lessened after lowering dose to 60 mg twice a day.  Symptoms disappeared upon discontinuation and returned upon rechallenge.[Ref]
-Endocrine side effects have included diaphoresis and rhinorrhea.[Ref]
-Ocular side effects are generally associated with overdosage and have included miosis, lacrimation, and blurred vision.[Ref]
-Dermatologic side effects have included acneiform skin rashes due to the bromide radical, urticaria, toxic alopecia, and alopecia areata.[Ref]
-Hematologic side effects have included thrombophlebitis after intravenous administration.  Individual cases of epistaxis and profuse bleeding after a cut have been reported with oral administration.[Ref]
-Cardiovascular side effects have included elevations in blood pressure.  Adverse effects that are generally associated with overdosage have included bradycardia, tachycardia, cardiospasm, and hypotension.[Ref]
-Nervous system side effects have included headache, vertigo, and tingling of the extremities.  Adverse effects that are generally associated with pyridostigmine overdosage and/or bromide intoxication have included agitation, coma, confusion, combativeness, delusions, hallucinations, incoordination, irritability, loss of memory, restlessness, and stupor.[Ref]
-Genitourinary effects have included urinary urgency and frequency.[Ref]
-Metabolic side effects have been attributed to bromide intoxication and have included a negative anion gap and hyperchloremia.[Ref]
-1. Keeler JR,  Hurst CG,  Dunn MA "Pyridostigmine used as a nerve agent pretreatment under wartime conditions." JAMA 266 (1991): 693-5
-2. CDER. Center for Drug Evaluation and Research "Questions and answers on pyridostigmine bromide. Available from: URL: http://www.fda.gov/cder/drug/infopage/Pyridostigmine_Bromide/Q&A.htm."   ([2003 Feb]):
-3. "Product Information. Mestinon (pyridostigmine)." ICN Pharmaceuticals Inc, Cost Mesa, CA. 
-4. Rostedt A,  Stalberg E "Joint pain and hyperalgesia due to pyridostigmine bromide in a patient with myasthenia gravis." Neurology 62 (2004): 835-6
-5. Field LM "Toxic alopecia caused by pyridostigmine bromide." Arch Dermatol 116 (1980): 1103
-6. Wacks I,  Oster JR,  Perez GO,  Kett DH "Spurious hyperchloremia and hyperbicarbonatemia in a patient receiving pyridostigmine bromide therapy for myasthenia gravis." Am J Kidney Dis 16 (1990): 76-9
-7. Rothenberg DM,  Berns AS,  Barkin R,  Glantz RH "Bromide intoxication secondary to pyridostigmine bromide therapy." JAMA 263 (1990): 1121-2
+Gastrointestinal side effects have included nausea, vomiting, diarrhea, loose stools, flatulence, abdominal cramps, increased peristalsis, and increased salivation.
+Respiratory side effects have included exacerbation of bronchitis and asthma.  Adverse effects that are generally associated with overdosage have included increased bronchial secretions and bronchospasm.
+Musculoskeletal side effects have included muscle weakness and twitching.  Adverse effects that are generally associated with overdosage have included muscle cramps, fasciculation, weakness, and paralysis.  Arthralgia, hyperalgesia and joint pain have been reported.
+A 46-year-old woman with myasthenia gravis developed arthralgia, hyperalgesia, and joint stiffness after 8 years of pyridostigmine 60 mg orally 5 times daily.  The side effects slightly lessened after lowering dose to 60 mg twice a day.  Symptoms disappeared upon discontinuation and returned upon rechallenge.
+Endocrine side effects have included diaphoresis and rhinorrhea.
+Ocular side effects are generally associated with overdosage and have included miosis, lacrimation, and blurred vision.
+Dermatologic side effects have included acneiform skin rashes due to the bromide radical, urticaria, toxic alopecia, and alopecia areata.
+Hematologic side effects have included thrombophlebitis after intravenous administration.  Individual cases of epistaxis and profuse bleeding after a cut have been reported with oral administration.
+Cardiovascular side effects have included elevations in blood pressure.  Adverse effects that are generally associated with overdosage have included bradycardia, tachycardia, cardiospasm, and hypotension.
+Nervous system side effects have included headache, vertigo, and tingling of the extremities.  Adverse effects that are generally associated with pyridostigmine overdosage and/or bromide intoxication have included agitation, coma, confusion, combativeness, delusions, hallucinations, incoordination, irritability, loss of memory, restlessness, and stupor.
+Genitourinary effects have included urinary urgency and frequency.
+Metabolic side effects have been attributed to bromide intoxication and have included a negative anion gap and hyperchloremia.
 It is possible that some side effects of pyridostigmine may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

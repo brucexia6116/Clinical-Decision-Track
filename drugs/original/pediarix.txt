@@ -1,24 +1,16 @@
-Generic Name: diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid
-Applies to diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid: intramuscular suspension
 As well as its needed effects, a vaccine may cause unwanted side effects that require medical attention.  It is very important that you tell your doctor about any side effect that occurs after a dose of DTaP-HepB-IPV vaccine, even if the side effect goes away without treatment. Some types of side effects may mean that your child should not receive any more doses of DTaP-HepB-IPV vaccine.
-
 If any of the following side effects occur while taking diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid, check with your doctor or nurse immediately:
 Some diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to diphtheria toxoid / hepatitis b pediatric vaccine / pertussis, acellular / poliovirus vaccine, inactivated / tetanus toxoid: intramuscular suspension
-Local side effects have included pain, redness, and swelling.[Ref]
-Nervous system side effects have included irritability, fussiness, drowsiness, afebrile and febrile seizures.  Postmarketing reports have included bulging fontanelle, convulsions, depressed level of consciousness, febrile convulsion, hypotonia, hypotonic-hyporesponsive episode, lethargy, and somnolence.[Ref]
-Cardiovascular side effects have included postmarketing reports of cyanosis, pallor, and petechiae.[Ref]
-Psychiatric side effects have included postmarketing reports of crying, insomnia, irritability, nervousness, restlessness, screaming, and unusual crying.[Ref]
-Gastrointestinal side effects have included postmarketing reports of anorexia, diarrhea, and vomiting.[Ref]
-Respiratory side effects have included postmarketing reports of upper respiratory infection, apnea, and dyspnea.[Ref]
-Dermatologic side effects have included angioedema, erythema, rash, and urticaria.[Ref]
-General side effects have included fever.[Ref]
-Immunologic side effects have included postmarketing reports of anaphylactic reaction, anaphylactoid reaction, and hypersensitivity.[Ref]
-1. "Product Information. Pediarix (diphtheria/hepB/pertussis,acel/polio/tetanus)." GlaxoSmithKline, Research Triangle Park, NC. 
+Local side effects have included pain, redness, and swelling.
+Nervous system side effects have included irritability, fussiness, drowsiness, afebrile and febrile seizures.  Postmarketing reports have included bulging fontanelle, convulsions, depressed level of consciousness, febrile convulsion, hypotonia, hypotonic-hyporesponsive episode, lethargy, and somnolence.
+Cardiovascular side effects have included postmarketing reports of cyanosis, pallor, and petechiae.
+Psychiatric side effects have included postmarketing reports of crying, insomnia, irritability, nervousness, restlessness, screaming, and unusual crying.
+Gastrointestinal side effects have included postmarketing reports of anorexia, diarrhea, and vomiting.
+Respiratory side effects have included postmarketing reports of upper respiratory infection, apnea, and dyspnea.
+Dermatologic side effects have included angioedema, erythema, rash, and urticaria.
+General side effects have included fever.
+Immunologic side effects have included postmarketing reports of anaphylactic reaction, anaphylactoid reaction, and hypersensitivity.
 It is possible that some side effects of Pediarix may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Abdominal or stomach pain
 agitation
 back pain
@@ -75,8 +67,6 @@ vomiting or vomiting of blood
 weight loss
 wheezing
 yellow eyes or skin
-
-
 Bleeding
 blistering
 burning
@@ -99,8 +89,6 @@ tingling
 ulceration
 unusual cry
 warmth on the skin
-
-
 Arm or leg swelling
 difficulty with moving
 dullness, tiredness, weakness, or feeling of sluggishness
@@ -119,4 +107,3 @@ sneezing
 sores, ulcers, or white spots in the mouth or on the lips
 swollen, painful, or tender lymph glands in the neck, armpit, or groin
 thinning of the hair
-

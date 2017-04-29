@@ -1,30 +1,23 @@
 Commonly reported side effects of telavancin include: increased serum creatinine. Other side effects include: pruritus and skin rash.  See below for a comprehensive list of adverse effects.
-Applies to telavancin: intravenous powder for solution
 As well as its needed effects, telavancin may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking telavancin, check with your doctor or nurse immediately:
 Some telavancin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to telavancin: intravenous powder for injection
-Very common (10% or more): All-cause mortality (up to 44%)Common (1% to 10%): Fungal infection, fatigue, chillsUncommon (0.1% to 1%): Septic shock, multi-organ failure, tinnitus, asthenia, malaise, non-cardiac chest pain, peripheral edema, pain, pyrexia, infusion site reactions including Red Man syndromeRare (less than 0.1%): Deafness[Ref]
-Very common (10% or more): Increased serum creatinine to 1.5 times baseline (up to 16%), renal impairment/renal insufficiency/renal failure (up to 10%)Common (1% to 10%): Acute renal failure, increased blood creatinineUncommon (0.1% to 1%): Increased blood urea[Ref]
+Very common (10% or more): All-cause mortality (up to 44%)Common (1% to 10%): Fungal infection, fatigue, chillsUncommon (0.1% to 1%): Septic shock, multi-organ failure, tinnitus, asthenia, malaise, non-cardiac chest pain, peripheral edema, pain, pyrexia, infusion site reactions including Red Man syndromeRare (less than 0.1%): Deafness
+Very common (10% or more): Increased serum creatinine to 1.5 times baseline (up to 16%), renal impairment/renal insufficiency/renal failure (up to 10%)Common (1% to 10%): Acute renal failure, increased blood creatinineUncommon (0.1% to 1%): Increased blood urea
 Uncommon (0.1% to 1%): Anemia, leukopenia, thrombocythemia, thrombocytopenia, increased eosinophil count, increased neutrophil count, increased INR
-Common (1% to 10%): QTc prolongationUncommon (0.1% to 1%): Angina pectoris, atrial fibrillation, bradycardia, congestive cardiac failure, prolonged electrocardiogram QT corrected interval, palpitations, sinus tachycardia, supraventricular extrasystoles, ventricular extrasystoles, flushing, hypertension, hypotension, phlebitis[Ref]
-Very common (10% or more): Nausea (up to 27%), vomiting (up to 14%)Common (1% to 10%): Diarrhea, constipationUncommon (0.1% to 1%): Clostridium colitis, abdominal pain, dry mouth, dyspepsia, flatulence, oral hypoesthesia[Ref]
-Uncommon (0.1% to 1%): Hypersensitivity reactionsPostmarketing reports: Anaphylaxis[Ref]
-Very common (10% or more): Metallic/soapy taste disturbance (up to 33%), dysgeusia (more than 10%)Common (1% to 10%): Headache, dizzinessUncommon (0.1% to 1%): Ageusia, migraine, paraesthesia, parosmia, somnolence, tremor[Ref]
+Common (1% to 10%): QTc prolongationUncommon (0.1% to 1%): Angina pectoris, atrial fibrillation, bradycardia, congestive cardiac failure, prolonged electrocardiogram QT corrected interval, palpitations, sinus tachycardia, supraventricular extrasystoles, ventricular extrasystoles, flushing, hypertension, hypotension, phlebitis
+Very common (10% or more): Nausea (up to 27%), vomiting (up to 14%)Common (1% to 10%): Diarrhea, constipationUncommon (0.1% to 1%): Clostridium colitis, abdominal pain, dry mouth, dyspepsia, flatulence, oral hypoesthesia
+Uncommon (0.1% to 1%): Hypersensitivity reactionsPostmarketing reports: Anaphylaxis
+Very common (10% or more): Metallic/soapy taste disturbance (up to 33%), dysgeusia (more than 10%)Common (1% to 10%): Headache, dizzinessUncommon (0.1% to 1%): Ageusia, migraine, paraesthesia, parosmia, somnolence, tremor
 Very common (10% or more): Foamy urine (up to 13%)Uncommon (0.1% to 1%): Urinary tract infection, dysuria, hematuria, microalbuminuria, oliguria, pollakiuria, abnormal urine odor
 Common (1% to 10%): Increased ALT, increased ASTUncommon (0.1% to 1%): Hepatitis
-Common (1% to 10%): Pruritus, rashUncommon (0.1% to 1%): Erythema, face edema, hyperhidrosis, urticaria[Ref]
-Common (1% to 10%): Decreased appetiteUncommon (0.1% to 1%): Hyperglycemia, hyperkalemia, hypoglycemia, hypokalemia, hypomagnesemia[Ref]
+Common (1% to 10%): Pruritus, rashUncommon (0.1% to 1%): Erythema, face edema, hyperhidrosis, urticaria
+Common (1% to 10%): Decreased appetiteUncommon (0.1% to 1%): Hyperglycemia, hyperkalemia, hypoglycemia, hypokalemia, hypomagnesemia
 Common (1% to 10%): RigorsUncommon (0.1% to 1%): Arthralgia, back pain, muscle cramp, myalgia
 Uncommon (0.1% to 1%): Eye irritation, blurred vision
 Common (1% to 10%): InsomniaUncommon (0.1% to 1%): Agitation, anxiety, confusional state, depression
 Uncommon (0.1% to 1%): Dyspnea, hiccups, nasal congestion, pharyngolaryngeal pain
-1. "Product Information. Vibativ (telavancin)." Theravance Inc, South San Francisco, CA. 
 It is possible that some side effects of telavancin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blood in the urine
 change in the frequency of urination or amount of urine
 difficulty with breathing
@@ -34,8 +27,6 @@ loss of appetite
 nausea or vomiting
 swelling of the feet or lower legs
 weakness
-
-
 Abdominal or stomach tenderness
 chills or fever
 cough
@@ -51,16 +42,11 @@ severe abdominal or stomach cramps and pain
 tightness in the chest
 unusual tiredness or weakness
 watery and severe diarrhea, which may also be bloody
-
-
 Bad, unusual or unpleasant (after) taste
 change in taste
 diarrhea
 foamy urine
-
-
 Decreased appetite
 dry, red, hot, or irritated skin
 feeling unusually cold
 shivering
-

@@ -1,26 +1,17 @@
-Generic Name: megestrol
-Applies to megestrol: oral suspension, oral tablets
 Side effects include:
 In patients with breast cancer or endometrial cancer: Weight gain,  nausea,  vomiting,  hypertension,  vaginal bleeding and discharge (including breakthrough bleeding),   hyperglycemia,  asthenia,  rash. 
 In patients with cachexia: Diarrhea, flatulence, nausea, vomiting, hypertension, impotence, decreased libido, asthenia, rash, insomnia, anemia, fever, hyperglycemia, pain.  
-Applies to megestrol: compounding powder, oral suspension, oral tablet
-Endocrine side effects including cases of new onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and overt Cushings syndrome have been reported in association of chronic use of megestrol (the active ingredient contained in Megace ES)   Adrenal insufficiency has also been reported in patients receiving or being withdrawn from chronic megestrol therapy in both the stressed and non-stressed state.  Adrenocorticotropin (ACTH) stimulation testing has revealed the frequent occurrence of asymptomatic pituitary-adrenal suppression in patients treated with chronic megestrol therapy.  Hot flashes have also been reported.[Ref]
-The possibility of adrenal insufficiency should be considered in any patient receiving or being withdrawn from chronic megestrol who presents with signs and/or symptoms suggestive of hypoadrenalism in either the stressed or non-stressed state.[Ref]
-General side effects including a significant risk of weight gain (secondary to increased appetite), mood changes, malaise, asthenia, and lethargy have been reported.[Ref]
-Cardiovascular side effects including thrombophlebitis, heart failure, edema, deep vein thrombosis, and hypertension have been reported.[Ref]
-Blood clots are particularly a risk in cancer patients and others susceptible to clotting.[Ref]
-Hematologic side effects including a significant risk to develop blood clots have been reported.[Ref]
-Gastrointestinal side effects including nausea and vomiting have been reported.[Ref]
-Genitourinary side effects including breakthrough menstrual bleeding have been reported.[Ref]
-Respiratory side effects including pulmonary embolism (sometimes fatal) and dyspnea have been reported.[Ref]
-Dermatologic side effects including alopecia, sweating, and rash have been reported.[Ref]
-Musculoskeletal side effects have included at least two patients with severe osteoporosis complicated by multiple vertebral fractures experienced while the patients were receiving high-dose megestrol (the active ingredient contained in Megace ES) therapy.[Ref]
-Nervous system side effects including carpal tunnel syndrome have been reported.[Ref]
-Oncologic side effects including tumor flare (with or without hypercalcemia) have been reported.  Long term animal studies have reported an increased risk for both benign and malignant tumors of the breast.[Ref]
-Other side effects including a possible case of megestrol (the active ingredient contained in Megace ES) withdrawal syndrome have been reported.[Ref]
-1. Panwalker AP "Hyperglycemia induced by megestrol acetate." Ann Intern Med 116 (1992): 878
-2. Caparros GC,  Zambrana JL,  Delgado-Fernandez M,  Diez F "Megestrol-induced Cushing syndrome." Ann Pharmacother 35 (2001): 1208-10
-3. "Product Information. Megace (megestrol)." Bristol-Myers Squibb, Princeton, NJ. 
-4. Gambling DR,  McMorland GH,  Yu P,  Laszlo C "Comparison of patient-controlled epidural analgesia and conventional intermittent "top-up" injections during labor." Anesth Analg 70 (1990): 256-61
-5. Nathwani D, Green ST, Heslop JM, Goldberg DJ, Kennedy DH "Beneficial response to megoestrol acetate in AIDS-related cachexia and a possible megoestrol withdrawal-associated syndrome?" Acta Derm Venereol 70 (1990): 520-1
-Not all side effects for Megace ES may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Endocrine side effects including cases of new onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and overt Cushings syndrome have been reported in association of chronic use of megestrol (the active ingredient contained in Megace ES)   Adrenal insufficiency has also been reported in patients receiving or being withdrawn from chronic megestrol therapy in both the stressed and non-stressed state.  Adrenocorticotropin (ACTH) stimulation testing has revealed the frequent occurrence of asymptomatic pituitary-adrenal suppression in patients treated with chronic megestrol therapy.  Hot flashes have also been reported.
+The possibility of adrenal insufficiency should be considered in any patient receiving or being withdrawn from chronic megestrol who presents with signs and/or symptoms suggestive of hypoadrenalism in either the stressed or non-stressed state.
+General side effects including a significant risk of weight gain (secondary to increased appetite), mood changes, malaise, asthenia, and lethargy have been reported.
+Cardiovascular side effects including thrombophlebitis, heart failure, edema, deep vein thrombosis, and hypertension have been reported.
+Blood clots are particularly a risk in cancer patients and others susceptible to clotting.
+Hematologic side effects including a significant risk to develop blood clots have been reported.
+Gastrointestinal side effects including nausea and vomiting have been reported.
+Genitourinary side effects including breakthrough menstrual bleeding have been reported.
+Respiratory side effects including pulmonary embolism (sometimes fatal) and dyspnea have been reported.
+Dermatologic side effects including alopecia, sweating, and rash have been reported.
+Musculoskeletal side effects have included at least two patients with severe osteoporosis complicated by multiple vertebral fractures experienced while the patients were receiving high-dose megestrol (the active ingredient contained in Megace ES) therapy.
+Nervous system side effects including carpal tunnel syndrome have been reported.
+Oncologic side effects including tumor flare (with or without hypercalcemia) have been reported.  Long term animal studies have reported an increased risk for both benign and malignant tumors of the breast.
+Other side effects including a possible case of megestrol (the active ingredient contained in Megace ES) withdrawal syndrome have been reported.

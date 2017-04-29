@@ -1,38 +1,21 @@
-Generic Name: glyburide
-Applies to glyburide: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by glyburide (the active ingredient contained in Micronase). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking glyburide:
-
 If any of the following symptoms of overdose occur while taking glyburide, get emergency help immediately:
-
-Some of the side effects that can occur with glyburide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to glyburide: compounding powder, oral tablet
-Like all sulfonylureas, this drug may commonly cause hypoglycemia and in some case it may be severe.  Proper patient selection, dose, and patient instructions are important to avoid hypoglycemic episodes.[Ref]
-Glyburide (the active ingredient contained in Micronase)  Very rare (less than 0.01%): Disulfiram-like reactionFrequency not reported: Hypoglycemia, hyponatremia, weight gain, lactic acidosis, syndrome of inappropriate antidiuretic hormone (SIADH) secretionSulfonylureas:Frequency not reported: Hepatic porphyria[Ref]
-Adverse gastrointestinal effects occur in about 1% to 2% of patients and appear to be dose related; they may subside following a dose reduction.  Pancreatitis has been reported rarely.[Ref]
-Common (1% to 10%): Nausea, vomiting, epigastric fullness or sensation of pressure, abdominal pain, anorexia, dyspepsia, diarrhea, heartburnRare (less than 0.1%): Pancreatitis[Ref]
-Very rare (less than 0.01%): Allergic vasculitisFrequency not reported: Allergic skin reactions including pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions, angioedema, arthralgia, myalgia, vasculitis, erythema multiforme, erythema nodosum, bullous eruptions, exfoliative dermatitis, photosensitivity, Stevens-Johnson syndrome[Ref]
-Allergic skin reactions including pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions occurred in 1.5 % of patients during clinical trials.  In some cases these were transient and disappeared despite continue therapy.  Hypersensitivity reactions affecting the skin usually occur within the first 6 weeks of treatment with a sulfonylurea.[Ref]
-Glyburide (the active ingredient contained in Micronase) Common (1% to 10%): Allergic skin reactions including pruritus, erythema, urticaria, and morbilliform or maculopapular eruptionsFrequency not reported: Alopecia/hypotrichoses, increased sweating, facial edema, angioedemaSulfonylureas:-Frequency not reported: Porphyria cutanea tarda, photosensitivity reactions[Ref]
-Allergic skin reactions including pruritus, erythema, urticaria, morbilliform, erythematous and maculopapular and bullous skin eruptions or psoriasiform drug eruptions occurred in 1.5 % of patients during clinical trials.  These may be transient and may disappear despite continued therapy.[Ref]
-Changes in accommodation and/or blurred vision are thought to be related to fluctuations in glucose levels.[Ref]
-Frequency not reported: Changes in accommodation and/or blurred vision, diplopia, visual disturbances, blindness[Ref]
-Glyburide (the active ingredient contained in Micronase) Postmarketing reports: Hemolytic anemiaSulfonylureas:Frequency not reported: Leukopenia, agranulocytosis, thrombocytopenia, thrombocytopenia purpura, eosinophilia, bone marrow aplasia, coagulation disorders, hemolytic anemia, aplastic anemia, anemia, pancytopenia[Ref]
-Glyburide (the active ingredient contained in Micronase) Rare (less than 0.1%): Cholestatic jaundice, hepatitisFrequency not reported: Liver function abnormalities including isolated transaminase elevationsPostmarketing reports:Sulfonylureas:Frequency not reported: Increased liver enzymes (AST, ALT), abnormal liver function, cholestasis, cholestatic hepatitis, granulomatous hepatitis, bilirubinemia[Ref]
-Frequency not reported: Abnormal renal function, acute renal failure[Ref]
-Frequency not reported: Arthralgia, arthritis[Ref]
-Frequency not reported: Paresthesia, tremor, convulsions, encephalopathy, confusion, headache, cerebrovascular disorders[Ref]
-Frequency not reported: Deafness, fever[Ref]
-Frequency not reported: Acute psychosis[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Glynase PresTab (glyBURIDE)." Pfizer U.S. Pharmaceuticals Group, New York, NY. 
-3. "Product Information. Micronase (glyburide)." Pharmacia and Upjohn, Kalamazoo, MI. 
-4. "Product Information. Diabeta (glyburide)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-5. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Micronase may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Like all sulfonylureas, this drug may commonly cause hypoglycemia and in some case it may be severe.  Proper patient selection, dose, and patient instructions are important to avoid hypoglycemic episodes.
+Glyburide (the active ingredient contained in Micronase)  Very rare (less than 0.01%): Disulfiram-like reactionFrequency not reported: Hypoglycemia, hyponatremia, weight gain, lactic acidosis, syndrome of inappropriate antidiuretic hormone (SIADH) secretionSulfonylureas:Frequency not reported: Hepatic porphyria
+Adverse gastrointestinal effects occur in about 1% to 2% of patients and appear to be dose related; they may subside following a dose reduction.  Pancreatitis has been reported rarely.
+Common (1% to 10%): Nausea, vomiting, epigastric fullness or sensation of pressure, abdominal pain, anorexia, dyspepsia, diarrhea, heartburnRare (less than 0.1%): Pancreatitis
+Very rare (less than 0.01%): Allergic vasculitisFrequency not reported: Allergic skin reactions including pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions, angioedema, arthralgia, myalgia, vasculitis, erythema multiforme, erythema nodosum, bullous eruptions, exfoliative dermatitis, photosensitivity, Stevens-Johnson syndrome
+Allergic skin reactions including pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions occurred in 1.5 % of patients during clinical trials.  In some cases these were transient and disappeared despite continue therapy.  Hypersensitivity reactions affecting the skin usually occur within the first 6 weeks of treatment with a sulfonylurea.
+Glyburide (the active ingredient contained in Micronase) Common (1% to 10%): Allergic skin reactions including pruritus, erythema, urticaria, and morbilliform or maculopapular eruptionsFrequency not reported: Alopecia/hypotrichoses, increased sweating, facial edema, angioedemaSulfonylureas:-Frequency not reported: Porphyria cutanea tarda, photosensitivity reactions
+Allergic skin reactions including pruritus, erythema, urticaria, morbilliform, erythematous and maculopapular and bullous skin eruptions or psoriasiform drug eruptions occurred in 1.5 % of patients during clinical trials.  These may be transient and may disappear despite continued therapy.
+Changes in accommodation and/or blurred vision are thought to be related to fluctuations in glucose levels.
+Frequency not reported: Changes in accommodation and/or blurred vision, diplopia, visual disturbances, blindness
+Glyburide (the active ingredient contained in Micronase) Postmarketing reports: Hemolytic anemiaSulfonylureas:Frequency not reported: Leukopenia, agranulocytosis, thrombocytopenia, thrombocytopenia purpura, eosinophilia, bone marrow aplasia, coagulation disorders, hemolytic anemia, aplastic anemia, anemia, pancytopenia
+Glyburide (the active ingredient contained in Micronase) Rare (less than 0.1%): Cholestatic jaundice, hepatitisFrequency not reported: Liver function abnormalities including isolated transaminase elevationsPostmarketing reports:Sulfonylureas:Frequency not reported: Increased liver enzymes (AST, ALT), abnormal liver function, cholestasis, cholestatic hepatitis, granulomatous hepatitis, bilirubinemia
+Frequency not reported: Abnormal renal function, acute renal failure
+Frequency not reported: Arthralgia, arthritis
+Frequency not reported: Paresthesia, tremor, convulsions, encephalopathy, confusion, headache, cerebrovascular disorders
+Frequency not reported: Deafness, fever
+Frequency not reported: Acute psychosis
 Difficulty with swallowing
 dizziness
 fast heartbeat
@@ -44,8 +27,6 @@ skin rash
 tightness in the chest
 unusual tiredness or weakness
 wheezing
-
-
 Abdominal or stomach pain
 chills
 clay-colored stools
@@ -61,8 +42,6 @@ unpleasant breath odor
 upper right abdominal pain
 vomiting of blood
 yellow eyes and skin
-
-
 Agitation
 back, leg, or stomach pains
 bleeding gums
@@ -106,8 +85,6 @@ stupor
 swelling of the face, ankles, or hands
 swollen or painful glands
 unusual bleeding or bruising
-
-
 Anxiety
 cold sweats
 cool, pale skin
@@ -116,16 +93,11 @@ nervousness
 nightmares
 shakiness
 slurred speech 
-
-
 Indigestion
 passing of gas 
-
-
 Difficulty with moving
 itching
 joint pain
 redness or other discoloration of the skin
 severe sunburn
 swollen joints
-

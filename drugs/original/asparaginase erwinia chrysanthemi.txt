@@ -1,29 +1,18 @@
 Commonly reported side effects of asparaginase erwinia chrysanthemi include: anaphylaxis. Other side effects include: pancreatitis and severe hypersensitivity.  See below for a comprehensive list of adverse effects.
-Applies to asparaginase erwinia chrysanthemi: injection powder for solution
-In addition to its needed effects, some unwanted effects may be caused by asparaginase erwinia chrysanthemi. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking asparaginase erwinia chrysanthemi, check with your doctor or nurse immediately:
-Some of the side effects that can occur with asparaginase erwinia chrysanthemi may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to asparaginase erwinia chrysanthemi: intramuscular powder for injection
-Most common adverse reactions were systemic hypersensitivity, hyperglycemia, abnormal transaminases, fever, pancreatitis, local reactions, vomiting, nausea, thrombosis, hyperbilirubinemia, abdominal pain/discomfort, and diarrhea.[Ref]
-Very common (10% or more): Systemic hypersensitivity (14%)Very rare (less than 0.01%): Anaphylaxis[Ref]
-Common (1% to 10%): Pancreatitis, vomiting, nausea, abdominal pain/discomfort, diarrhea, serum amylases increased, serum lipase increased[Ref]
-Common (1% to 10%): Lethargy, somnolence, confusion, dizziness, neurotoxicity, convulsions, headacheRare (less than 0.1%): Dysphasia, dysphagia, CNS depression, coma[Ref]
-Common (1% to 10%): Rash, urticarial, pruritus, erythema, facial edema[Ref]
-Common (1% to 10%): Transaminases abnormal, hyperbilirubinemia, alkaline phosphatase increased, cholesterol increasedRare (less than 0.1%): Hepatic failureFrequency not reported: Hepatomegaly, cholestatic jaundice[Ref]
-Common (1% to 10%): Hypofibrinogenemia, asymptomatic coagulopathyVery rare (less than 0.01%): Neutropenia, febrile neutropenia, thrombocytopeniaFrequency not reported: clotting factor decreased, antithrombin III decreased, protein C decreased, protein S decreased, fibrinogen decreased[Ref]
-Common (1% to 10%): Thrombosis, pallorVery rare (less than 0.01%): HemorrhageFrequency not reported: Hypertension[Ref]
-Common (1% to 10%): HyperglycemiaUncommon (0.1% to 1%): HyperlipidemiaRare (0.01% to 0.1%): Diabetic ketoacidosisVery rare (less than 0.01%): Hyperammonemia[Ref]
-Common (1% to 10%): Local reactions[Ref]
-Common (1% to 10%): Fever[Ref]
-Very rare (less than 0.01%): Myalgia, reactive arthritisFrequency not reported: Extremity pain[Ref]
-Very rare (less than 0.01%): Life-threatening sepsis[Ref]
-1. "Product Information. Erwinaze (asparaginase Erwinia chrysanthemi)." EUSA Pharma, Newtown, PA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for asparaginase erwinia chrysanthemi may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Most common adverse reactions were systemic hypersensitivity, hyperglycemia, abnormal transaminases, fever, pancreatitis, local reactions, vomiting, nausea, thrombosis, hyperbilirubinemia, abdominal pain/discomfort, and diarrhea.
+Very common (10% or more): Systemic hypersensitivity (14%)Very rare (less than 0.01%): Anaphylaxis
+Common (1% to 10%): Pancreatitis, vomiting, nausea, abdominal pain/discomfort, diarrhea, serum amylases increased, serum lipase increased
+Common (1% to 10%): Lethargy, somnolence, confusion, dizziness, neurotoxicity, convulsions, headacheRare (less than 0.1%): Dysphasia, dysphagia, CNS depression, coma
+Common (1% to 10%): Rash, urticarial, pruritus, erythema, facial edema
+Common (1% to 10%): Transaminases abnormal, hyperbilirubinemia, alkaline phosphatase increased, cholesterol increasedRare (less than 0.1%): Hepatic failureFrequency not reported: Hepatomegaly, cholestatic jaundice
+Common (1% to 10%): Hypofibrinogenemia, asymptomatic coagulopathyVery rare (less than 0.01%): Neutropenia, febrile neutropenia, thrombocytopeniaFrequency not reported: clotting factor decreased, antithrombin III decreased, protein C decreased, protein S decreased, fibrinogen decreased
+Common (1% to 10%): Thrombosis, pallorVery rare (less than 0.01%): HemorrhageFrequency not reported: Hypertension
+Common (1% to 10%): HyperglycemiaUncommon (0.1% to 1%): HyperlipidemiaRare (0.01% to 0.1%): Diabetic ketoacidosisVery rare (less than 0.01%): Hyperammonemia
+Common (1% to 10%): Local reactions
+Common (1% to 10%): Fever
+Very rare (less than 0.01%): Myalgia, reactive arthritisFrequency not reported: Extremity pain
+Very rare (less than 0.01%): Life-threatening sepsis
 Cough 
 difficulty with swallowing
 dizziness
@@ -39,8 +28,6 @@ swelling of the eyelids, face, lips, hands, or feet
 tightness in the chest
 troubled breathing or swallowing
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 bloating
 blurred vision
@@ -67,8 +54,6 @@ sweating
 unexplained weight loss
 vomiting
 yellow eyes or skin
-
-
 Blood in the urine or stools
 bruising
 confusion
@@ -79,7 +64,4 @@ persistent bleeding or oozing from puncture sites, mouth, or nose
 red streaks on the skin
 swelling, tenderness, or pain at the injection site
 trouble speaking, thinking, or walking
-
-
 Diarrhea
-

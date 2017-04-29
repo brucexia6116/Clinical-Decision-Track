@@ -1,102 +1,32 @@
-Generic Name: linezolid
 More frequent side effects include: anemia, decreased hemoglobin, and thrombocytopenia.  See below for a comprehensive list of adverse effects.
-Applies to linezolid: oral powder for suspension, oral tablet
 Other dosage forms:
 As well as its needed effects, linezolid (the active ingredient contained in Zyvox) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking linezolid, check with your doctor immediately:
 Some linezolid side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to linezolid: intravenous solution, oral powder for reconstitution, oral tablet
-This drug was discontinued due to side effects in up to 3.5% of patients.  The most common side effects leading to discontinuation were diarrhea, headache, nausea, and vomiting.[Ref]
-Common (1% to 10%): Headache, dizziness, taste alteration/perversion (metallic taste)Uncommon (0.1% to 1%): Convulsions, hypoesthesia, paresthesia, tinnitusFrequency not reported: Drowsiness, seizure, Bell's palsy, sensory lossPostmarketing reports: Serotonin syndrome (with concomitant serotonergic agents), peripheral neuropathy[Ref]
-Several cases of peripheral and/or optic neuropathy have been reported, mainly when the duration of therapy was longer than 28 days.  For example, irreversible sensory loss and peripheral neuropathy were reported in a patient after using this drug for 6 months for actinomycosis.  The time from the onset of therapy to the first sign of peripheral neuropathy averaged 4 months (range: 10 days to 6 months) in 10 patients with only peripheral neuropathy.  In all patients with peripheral neuropathy (n=16), complete recovery was not observed after this drug was stopped.At least 15 instances of serotonin syndrome have been reported in patients using this drug with citalopram, sertraline, venlafaxine, fluoxetine, or paroxetine; other concurrent drugs and/or comorbidities may have contributed to the development of serotonin syndrome.  The time from the onset of therapy to the first sign of serotonin syndrome averaged 4 days (range: 1 to 20 days) and from the first sign to stopping this drug ranged from 1 to 16 days.  Symptoms resolved within 1 to 9 days in 14 patients while 1 patient died suddenly.  Three patients died.  The first patient developed symptoms 3 weeks after concurrent use of this drug and citalopram.  Severe lactic acidosis developed followed by myocardial infarction, and after 3 further episodes of cardiac arrest, the patient died.  The second patient stopped sertraline on day 1 and developed symptoms on day 9 of linezolid therapy.  The patient had cardiopulmonary arrest, then anoxic brain injury, hypertension, tachycardia, and diarrhea, and died in 2 weeks; a similar incident occurred 6 weeks earlier when this drug and sertraline were used.  The third patient, who was using citalopram, developed symptoms on day 2 of linezolid therapy and died with cerebral hemorrhage 1 month after the start of serotonin syndrome despite stopping this drug.A 49-year-old male with multiple comorbidities developed symptoms on day 21 of therapy and was diagnosed with Bell's palsy; symptoms included strange sensation in mouth (no pain, sores, blisters), excessive tearing of left eye, inability to drink properly, left facial frowning, and left-sided facial weakness (involving upper and lower facial muscles).  This drug was discontinued and the Bell's palsy completely resolved by day 90.  The patient restarted linezolid 5 months later and again showed symptoms on day 21 of therapy.  This drug was discontinued and by day 35, the Bell's palsy had practically resolved.  The patient had no remaining symptoms 4 months after his second episode.Convulsions have also been reported during postmarketing experience.[Ref]
-In cases with known outcome, tooth discoloration was removable with professional dental cleaning (manual descaling).A 60-year-old man with spondylodiscitis developed a fatal case of C difficile colitis after a long-term course of this drug.Superficial tooth discoloration and tongue discoloration have also been reported during postmarketing experience.[Ref]
-Common (1% to 10%): Diarrhea, nausea, vomiting, elevated lipase, elevated amylase, tongue discoloration, oral candidiasis, localized abdominal pain, generalized abdominal pain, constipation, dyspepsiaUncommon (0.1% to 1%): Pancreatitis, gastritis, abdominal distention, dry mouth, glossitis, loose stools, stomatitis, tongue disorderRare (0.01% to 0.1%): Antibiotic-associated colitis (including pseudomembranous colitis), superficial tooth discolorationFrequency not reported: Clostridium difficile-associated diarrhea, lingua villosa nigra, C difficile colitis[Ref]
-Common (1% to 10%): Decreased hemoglobin, decreased platelet count, decreased WBC count, anemia, decreased neutrophils, thrombocytopenia/low platelet count (some requiring platelet transfusions), decreased leukocytes, increased neutrophils, increased eosinophils, decreased hematocrit, decreased RBC count, increased platelet count, increased WBC countUncommon (0.1% to 1%): Leukopenia, neutropenia, eosinophilia, increased reticulocyte countRare (0.01% to 0.1%): PancytopeniaFrequency not reported: Red cell hypoplasia, myelotoxicity, bleeding eventsPostmarketing reports: Myelosuppression (including anemia, leukopenia, pancytopenia, thrombocytopenia), sideroblastic anemia[Ref]
-Thrombocytopenia (platelets less than 100,000/mm3) has been reported in 32% of patients (n=19) using this drug for more than 10 days.  In another study (n=295), thrombocytopenia (platelets less than 150 x 10[9]/L) occurred in 6.4% of patients and severe thrombocytopenia (platelets less than 50 x 10[9]/L) occurred in 0.3% using this drug for more than 5 days.  It has been suggested that the mechanism of linezolid-associated thrombocytopenia was immune-mediated.In a study of patients with linezolid-associated thrombocytopenia, the use of vitamin B6 helped reverse the incidence of thrombocytopenia.  Vitamin B6 was most effective when used after this drug was held.  Once hematologic levels returned to baseline, coadministration of this drug with vitamin B6 resulted in stable hemoglobin levels for the remainder of therapy.Another study compared this drug plus 50 mg vitamin B6 per day (n=31) with this drug alone (n=62) administered to patients with cancer.  This study concluded vitamin B6 was not beneficial in the prevention of leukopenia or thrombocytopenia, but found a possible trend towards the prevention of anemia.[Ref]
-Common (1% to 10%): Elevated ALT, elevated AST, abnormal liver function testsUncommon (0.1% to 1%): Elevated total bilirubin[Ref]
-Common (1% to 10%): Elevated alkaline phosphatase, elevated LDH, elevated nonfasting glucoseUncommon (0.1% to 1%): Hyponatremia, decreased nonfasting glucoseFrequency not reported: Hyperlactatemia, metabolic acidosis, hypokalemiaPostmarketing reports: Lactic acidosis, hypoglycemia (including symptomatic episodes)[Ref]
-At least 7 instances of lactic acidosis have been reported after use of this drug.  The time from the onset of therapy to the first sign of lactic acidosis ranged from 1 to 16 weeks.  This drug was stopped within 4 days of identifying lactic acidosis.  Two of the 7 patients died despite stopping therapy.  The lactate levels normalized in the 5 surviving patients after stopping this drug, but 1 of the patients had sequelae of blindness and disorientation.[Ref]
-Common (1% to 10%): Elevated BUNUncommon (0.1% to 1%): Elevated creatinine, renal failureFrequency not reported: Exacerbation of renal failure, abnormal renal function, acute interstitial nephritis[Ref]
-Common (1% to 10%): Rash, pruritusUncommon (0.1% to 1%): Urticaria, dermatitis, diaphoresisPostmarketing reports: Bullous skin disorders (such as those described as Stevens-Johnson syndrome and toxic epidermal necrolysis), angioedema, alopecia[Ref]
-Common (1% to 10%): Vaginal candidiasisUncommon (0.1% to 1%): Vaginitis, polyuria, vulvovaginal disorder[Ref]
-Common (1% to 10%): Fungal infection, candidiasis, fever, localized pain, decreased total protein, decreased albumin, decreased sodium, decreased calcium, increased/decreased potassium, increased/decreased bicarbonateUncommon (0.1% to 1%): Chills, fatigue, increased thirst, increased sodium, increased calcium, increased/decreased chlorideFrequency not reported: Generalized edema[Ref]
-Partially irreversible bilateral optic neuritis has been reported after 41 weeks of therapy.Several cases of peripheral and/or optic neuropathy have been reported.  The time from the onset of therapy to the first sign of optic neuropathy averaged 10 months (range: 1 to 48 months) in 6 patients with only optic neuropathy.  The time to discontinuation of this drug due to optic neuropathy averaged 11 months (range: 1 to 56 months) after therapy initiation.  This drug was stopped in 12 cases after the development of optic neuropathy; improvement or complete recovery was observed in all cases.[Ref]
-Uncommon (0.1% to 1%): Blurred visionRare (0.01% to 0.1%): Changes in visual field defectFrequency not reported: Partially irreversible bilateral optic neuritisPostmarketing reports: Optic neuropathy (sometimes progressing to loss of vision), optic neuritis, loss of vision, changes in visual acuity, changes in color vision[Ref]
-Common (1% to 10%): HypertensionUncommon (0.1% to 1%): Arrhythmia (tachycardia), transient ischemic attacks, phlebitis, thrombophlebitisFrequency not reported: Increased and decreased blood pressure, supraventricular tachycardia[Ref]
+This drug was discontinued due to side effects in up to 3.5% of patients.  The most common side effects leading to discontinuation were diarrhea, headache, nausea, and vomiting.
+Common (1% to 10%): Headache, dizziness, taste alteration/perversion (metallic taste)Uncommon (0.1% to 1%): Convulsions, hypoesthesia, paresthesia, tinnitusFrequency not reported: Drowsiness, seizure, Bell's palsy, sensory lossPostmarketing reports: Serotonin syndrome (with concomitant serotonergic agents), peripheral neuropathy
+Several cases of peripheral and/or optic neuropathy have been reported, mainly when the duration of therapy was longer than 28 days.  For example, irreversible sensory loss and peripheral neuropathy were reported in a patient after using this drug for 6 months for actinomycosis.  The time from the onset of therapy to the first sign of peripheral neuropathy averaged 4 months (range: 10 days to 6 months) in 10 patients with only peripheral neuropathy.  In all patients with peripheral neuropathy (n=16), complete recovery was not observed after this drug was stopped.At least 15 instances of serotonin syndrome have been reported in patients using this drug with citalopram, sertraline, venlafaxine, fluoxetine, or paroxetine; other concurrent drugs and/or comorbidities may have contributed to the development of serotonin syndrome.  The time from the onset of therapy to the first sign of serotonin syndrome averaged 4 days (range: 1 to 20 days) and from the first sign to stopping this drug ranged from 1 to 16 days.  Symptoms resolved within 1 to 9 days in 14 patients while 1 patient died suddenly.  Three patients died.  The first patient developed symptoms 3 weeks after concurrent use of this drug and citalopram.  Severe lactic acidosis developed followed by myocardial infarction, and after 3 further episodes of cardiac arrest, the patient died.  The second patient stopped sertraline on day 1 and developed symptoms on day 9 of linezolid therapy.  The patient had cardiopulmonary arrest, then anoxic brain injury, hypertension, tachycardia, and diarrhea, and died in 2 weeks; a similar incident occurred 6 weeks earlier when this drug and sertraline were used.  The third patient, who was using citalopram, developed symptoms on day 2 of linezolid therapy and died with cerebral hemorrhage 1 month after the start of serotonin syndrome despite stopping this drug.A 49-year-old male with multiple comorbidities developed symptoms on day 21 of therapy and was diagnosed with Bell's palsy; symptoms included strange sensation in mouth (no pain, sores, blisters), excessive tearing of left eye, inability to drink properly, left facial frowning, and left-sided facial weakness (involving upper and lower facial muscles).  This drug was discontinued and the Bell's palsy completely resolved by day 90.  The patient restarted linezolid 5 months later and again showed symptoms on day 21 of therapy.  This drug was discontinued and by day 35, the Bell's palsy had practically resolved.  The patient had no remaining symptoms 4 months after his second episode.Convulsions have also been reported during postmarketing experience.
+In cases with known outcome, tooth discoloration was removable with professional dental cleaning (manual descaling).A 60-year-old man with spondylodiscitis developed a fatal case of C difficile colitis after a long-term course of this drug.Superficial tooth discoloration and tongue discoloration have also been reported during postmarketing experience.
+Common (1% to 10%): Diarrhea, nausea, vomiting, elevated lipase, elevated amylase, tongue discoloration, oral candidiasis, localized abdominal pain, generalized abdominal pain, constipation, dyspepsiaUncommon (0.1% to 1%): Pancreatitis, gastritis, abdominal distention, dry mouth, glossitis, loose stools, stomatitis, tongue disorderRare (0.01% to 0.1%): Antibiotic-associated colitis (including pseudomembranous colitis), superficial tooth discolorationFrequency not reported: Clostridium difficile-associated diarrhea, lingua villosa nigra, C difficile colitis
+Common (1% to 10%): Decreased hemoglobin, decreased platelet count, decreased WBC count, anemia, decreased neutrophils, thrombocytopenia/low platelet count (some requiring platelet transfusions), decreased leukocytes, increased neutrophils, increased eosinophils, decreased hematocrit, decreased RBC count, increased platelet count, increased WBC countUncommon (0.1% to 1%): Leukopenia, neutropenia, eosinophilia, increased reticulocyte countRare (0.01% to 0.1%): PancytopeniaFrequency not reported: Red cell hypoplasia, myelotoxicity, bleeding eventsPostmarketing reports: Myelosuppression (including anemia, leukopenia, pancytopenia, thrombocytopenia), sideroblastic anemia
+Thrombocytopenia (platelets less than 100,000/mm3) has been reported in 32% of patients (n=19) using this drug for more than 10 days.  In another study (n=295), thrombocytopenia (platelets less than 150 x 10[9]/L) occurred in 6.4% of patients and severe thrombocytopenia (platelets less than 50 x 10[9]/L) occurred in 0.3% using this drug for more than 5 days.  It has been suggested that the mechanism of linezolid-associated thrombocytopenia was immune-mediated.In a study of patients with linezolid-associated thrombocytopenia, the use of vitamin B6 helped reverse the incidence of thrombocytopenia.  Vitamin B6 was most effective when used after this drug was held.  Once hematologic levels returned to baseline, coadministration of this drug with vitamin B6 resulted in stable hemoglobin levels for the remainder of therapy.Another study compared this drug plus 50 mg vitamin B6 per day (n=31) with this drug alone (n=62) administered to patients with cancer.  This study concluded vitamin B6 was not beneficial in the prevention of leukopenia or thrombocytopenia, but found a possible trend towards the prevention of anemia.
+Common (1% to 10%): Elevated ALT, elevated AST, abnormal liver function testsUncommon (0.1% to 1%): Elevated total bilirubin
+Common (1% to 10%): Elevated alkaline phosphatase, elevated LDH, elevated nonfasting glucoseUncommon (0.1% to 1%): Hyponatremia, decreased nonfasting glucoseFrequency not reported: Hyperlactatemia, metabolic acidosis, hypokalemiaPostmarketing reports: Lactic acidosis, hypoglycemia (including symptomatic episodes)
+At least 7 instances of lactic acidosis have been reported after use of this drug.  The time from the onset of therapy to the first sign of lactic acidosis ranged from 1 to 16 weeks.  This drug was stopped within 4 days of identifying lactic acidosis.  Two of the 7 patients died despite stopping therapy.  The lactate levels normalized in the 5 surviving patients after stopping this drug, but 1 of the patients had sequelae of blindness and disorientation.
+Common (1% to 10%): Elevated BUNUncommon (0.1% to 1%): Elevated creatinine, renal failureFrequency not reported: Exacerbation of renal failure, abnormal renal function, acute interstitial nephritis
+Common (1% to 10%): Rash, pruritusUncommon (0.1% to 1%): Urticaria, dermatitis, diaphoresisPostmarketing reports: Bullous skin disorders (such as those described as Stevens-Johnson syndrome and toxic epidermal necrolysis), angioedema, alopecia
+Common (1% to 10%): Vaginal candidiasisUncommon (0.1% to 1%): Vaginitis, polyuria, vulvovaginal disorder
+Common (1% to 10%): Fungal infection, candidiasis, fever, localized pain, decreased total protein, decreased albumin, decreased sodium, decreased calcium, increased/decreased potassium, increased/decreased bicarbonateUncommon (0.1% to 1%): Chills, fatigue, increased thirst, increased sodium, increased calcium, increased/decreased chlorideFrequency not reported: Generalized edema
+Partially irreversible bilateral optic neuritis has been reported after 41 weeks of therapy.Several cases of peripheral and/or optic neuropathy have been reported.  The time from the onset of therapy to the first sign of optic neuropathy averaged 10 months (range: 1 to 48 months) in 6 patients with only optic neuropathy.  The time to discontinuation of this drug due to optic neuropathy averaged 11 months (range: 1 to 56 months) after therapy initiation.  This drug was stopped in 12 cases after the development of optic neuropathy; improvement or complete recovery was observed in all cases.
+Uncommon (0.1% to 1%): Blurred visionRare (0.01% to 0.1%): Changes in visual field defectFrequency not reported: Partially irreversible bilateral optic neuritisPostmarketing reports: Optic neuropathy (sometimes progressing to loss of vision), optic neuritis, loss of vision, changes in visual acuity, changes in color vision
+Common (1% to 10%): HypertensionUncommon (0.1% to 1%): Arrhythmia (tachycardia), transient ischemic attacks, phlebitis, thrombophlebitisFrequency not reported: Increased and decreased blood pressure, supraventricular tachycardia
 Common (1% to 10%): InsomniaFrequency not reported: Confusion
 Common (1% to 10%): Elevated creatine phosphokinase
 Uncommon (0.1% to 1%): Injection site pain
 Postmarketing reports: Anaphylaxis
-Frequency not reported: Interstitial pneumonia[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Zyvox (linezolid)" Pharmacia and Upjohn, Kalamazoo, MI. 
-4. Plachouras D,  Giannitsioti E,  Athanassia S, et al. "No Effect of Pyridoxine on the Incidence of Myelosuppression during Prolonged Linezolid Treatment." Clin Infect Dis 43 (2006): e89-e91
-5. Morales-Molina JA,  Mateu-de Antonio J,  Marin-Casino M,  Grau S "Linezolid-associated serotonin syndrome: what we can learn from cases reported so far." J Antimicrob Chemother 56 (2005): 1176-8
-6. Das PK,  Warkentin DI,  Hewko R,  Forrest DL "Serotonin syndrome after concomitant treatment with linezolid and meperidine." Clin Infect Dis 46 (2008): 264-5
-7. Corallo CE,  Paull AE "Linezolid-induced neuropathy." Med J Aust 177 (2002): 332
-8. Senneville E,  Legout L,  Valette M, et al. "Effectiveness and tolerability of prolonged linezolid treatment for chronic osteomyelitis: A retrospective study." Clin Ther 28 (2006): 1155-63
-9. Garrabou G,  Soriano A,  Lopez S, et al. "Reversible inhibition of mitocondrial protein synthesis during linezolis-related hyperlactatemia." Antimicrob Agents Chemother 51 (2006): 962-7
-10. Stein GE "Safety of newer parenteral antibiotics." Clin Infect Dis 41 Suppl 5 (2005): S293-302
-11. Rho JP,  Sia IG,  Crum BA,  Dekutoski MB,  Trousdale RT "Linezolid-associated peripheral neuropathy." Mayo Clin Proc 79 (2004): 927-30
-12. Soriano A,  Miro O,  Mensa J "Mitochondrial toxicity associated with linezolid." N Engl J Med 353 (2005): 2305-6
-13. Scotton P,  Fuser R,  Torresan S, et al. "Early linezolid-associated lactic acidosis in a patient treated for tuberculous spondylodiscitis." Infection 36 (2008): 387-8
-14. Strouse TB,  Kerrihard TN,  Forscher CA,  Zakowski P "Serotonin syndrome precipitated by linezolid in a medically ill patient on duloxetine." J Clin Psychopharmacol 26 (2006): 681-683
-15. Lee E,  Burger S,  Shah J, et al. "Linezolid-associated toxic optic neuropathy: a report of 2 cases." Clin Infect Dis 37 (2003): 1389-91
-16. Shneker BF,  Baylin PD,  Nakhla ME "Linezolid inducing complex partial status epilepticus in a patient with epilepsy." Neurology 72 (2009): 378-9
-17. Strawn JR,  Keck PE Jr,  Caroff SN "Neuroleptic malignant syndrome." Am J Psychiatry 164 (2007): 870-6
-18. Steinberg M,  Morin AK "Mild serotonin syndrome associated with concurrent linezolid and fluoxetine." Am J Health Syst Pharm 64 (2007): 59-62
-19. Narita M,  Tsuji BT,  Yu VL "Linezolid-associated peripheral and optic neuropathy, lactic acidosis, and serotonin syndrome." Pharmacotherapy 27 (2007): 1189-97
-20. Frippiat F,  Derue G "Causal relationship between neuropathy and prolonged linezolid use." Clin Infect Dis 39 (2004): 439
-21. Wiener M,  Guo Y,  Patel G,  Fries BC "Lactic Acidosis after Treatment with Linezolid." Infection 35 (2007): 278-81
-22. Jodlowski TZ,  Melnychuk I,  Conry J "Linezolid for the treatment of Nocardia spp. infections (October)." Ann Pharmacother 41 (2007): 1694-9
-23. Legout L,  Senneville E,  Gomel JJ,  Yazdanpanah Y,  Mouton Y "Linezolid-induced neuropathy." Clin Infect Dis 38 (2004): 767-8
-24. Moise PA,  Forrest A,  Birmingham MC,  Schentag JJ "The efficacy and safety of linezolid as treatment for Staphylococcus aureus infections in compassionate use patients who are intolerant of, or who have failed to respond to, vancomycin." J Antimicrob Chemother 50 (2002): 1017-26
-25. Ferry T,  Ponceau B,  Simon M, et al. "Possibly linezolid-induced peripheral and central neurotoxicity: report of four cases." Infection 33 (2005): 151-4
-26. Thai XC,  Bruno-Murtha LA "Bell's Palsy Associated with Linezolid Therapy: Case Report and Review of Neuropathic Adverse Events." Pharmacotherapy 26 (2006): 1183-9
-27. Stalker DJ,  Jungbluth GL,  Hopkins NK,  Batts DH "Pharmacokinetics and tolerance of single- and multiple-dose oral or intravenous linezolid, an oxazolidinone antibiotic, in healthy volunteers." J Antimicrob Chemother 51 (2003): 1239-46
-28. Matson KL,  Miller SE "Tooth discoloration after treatment with linezolid." Pharmacotherapy 23 (2003): 682-5
-29. Refaat M,  Hyle E,  Malhotra R,  Seidman D,  Dey B "Linezolid-Induced Lingua Villosa Nigra." Am J Med 121 (2008): e1
-30. Falagas ME,  Manta KG,  Ntziora F,  Vardakas KZ "Linezolid for the treatment of patients with endocarditis: a systematic review of the published evidence." J Antimicrob Chemother 58 (2006): 273-80
-31. Kohno S,  Yamaguchi K,  Aikawa N, et al. "Linezolid versus vancomycin for the treatment of infections caused by methicillin-resistant Staphylococcus aureus in Japan." J Antimicrob Chemother 60 (2007): 1361-9
-32. Zabel LT,  Worm S "Linezolid Contributed to Clostridium difficile Colitis with Fatal Outcome." Infection 33 (2005): 155-7
-33. Lawyer MC,  Lawyer EZ "Linezolid and reversible myelosuppression." JAMA 286 (2001): 1974
-34. McNicholas S,  Barber A,  Corbett-Feeney G,  Cormican M "Linezolid audit: similarities and contrasts with published experience." J Antimicrob Chemother 57 (2006): 1008-9
-35. Youssef S,  Hachem R,  Chemaly RF, et al. "The role of vitamin B6 in the prevention of haematological toxic effects of linezolid in patients with cancer." J Antimicrob Chemother 61 (2008): 421-4
-36. Gerson SL,  Kaplan SL,  Bruss JB, et al. "Hematologic Effects of Linezolid: Summary of Clinical Experience." Antimicrob Agents Chemother 46 (2002): 2723-2726
-37. Orrick JJ,  Johns T,  Janelle J,  Ramphal R "Thrombocytopenia secondary to linezolid administration: what is the risk?" Clin Infect Dis 35 (2002): 348-9
-38. McNamee WB Jr "Resumption of linezolid therapy after myelotoxicity." Clin Infect Dis 37 (2003): 741-2
-39. Waldrep TW,  Skiest DJ "Linezolid-Induced anemia and thrombocytopenia." Pharmacotherapy 22 (2002): 109-12
-40. Senneville E,  Legout L,  Valette M, et al. "Risk factors for anaemia in patients on prolonged linezolid therapy for chronic osteomyelitis: a case-control study." J Antimicrob Chemother 54 (2004): 798-802
-41. Grau S,  Morales-Molina JA,  Mateu-de Antonio J,  Marin-Casino M,  Alvarez-Lerma F "Linezolid: low pre-treatment platelet values could increase the risk of thrombocytopenia." J Antimicrob Chemother 56 (2005): 440-1
-42. Tattevin P,  Camus C "What can we learn from studies comparing linezolid with vancomycin in neutropenic patients when vancomycin dosages are not optimized?" Clin Infect Dis 42 (2006): 1813-4; author reply 1814-5
-43. John CC,  Schreiber JR "Therapies and Vaccines for Emerging Bacterial Infections: Learning from Methicillin-resistant Staphylococcus aureus." Pediatr Clin North Am 53 (2006): 699-713
-44. Faguer S,  Kamar N,  Fillola G,  Guitard J,  Rostaing L "Linezolid-related pancytopenia in organ-transplant patients: report of two cases." Infection 35 (2007): 275-7
-45. Halpern M "Linezolid-induced pancytopenia." Clin Infect Dis 35 (2002): 347-8
-46. Nasraway SA,  Shorr AF,  Kuter DJ,  O'Grady N,  Le VH,  Cammarata SK "Linezolid does not increase the risk of thrombocytopenia in patients with nosocomial pneumonia: comparative analysis of linezolid and vancomycin use." Clin Infect Dis 37 (2003): 1609-16
-47. Spellberg B,  Yoo T,  Bayer AS "Reversal of linezolid-associated cytopenias, but not peripheral neuropathy, by administration of vitamin B6." J Antimicrob Chemother 54 (2004): 832-5
-48. Arellano FM "Linezolid and reversible myelosuppression." JAMA 286 (2001): 1973-4; discussion 1974
-49. "Drugs for MRSA with reduced susceptibility to vancomycin." Med Lett Drugs Ther 51 (2009): 36; quiz 37
-50. Davis TM,  Syed DA,  Ilett KF,  Barrett PH "Toxicity Related to Chloroquine Treatment of Resistant Vivax Malaria." Ann Pharmacother 37 (2003): 526-529
-51. Abena PA,  Mathieux VG,  Scheiff JM,  Michaux LM,  Vandercam BC "Linezolid and reversible myelosuppression." JAMA 286 (2001): 1973; discussion 1974
-52. Akins RL,  Haase MR,  Levy EN "Pharmacokinetics of daptomycin in a critically ill adolescent with vancomycin-resistant enterococcal endocarditis." Pharmacotherapy 26 (2006): 694-8
-53. Wu VC,  Wang YT,  Wang CY, et al. "High frequency of linezolid-associated thrombocytopenia and anemia among patients with end-stage renal disease." Clin Infect Dis 42 (2006): 66-72
-54. Rao N,  Ziran BH,  Wagener MM,  Santa ER,  Yu VL "Similar hematologic effects of long-term linezolid and vancomycin therapy in a prospective observational study of patients with orthopedic infections." Clin Infect Dis 38 (2004): 1058-64
-55. Mateu de Antonio J,  Grau S,  Morales-Molina JA,  Marin-Casino M "Thrombocytopenia and anemia associated with linezolid in patients with kidney failure." Clin Infect Dis 42 (2006): 1500; author reply 1501
-56. Kuter DJ, Tillotson GS "Hematologic effects of antimicrobials: focus on the oxazolidinone linezolid." Pharmacotherapy 21 (2001): 1010-3
-57. Attassi K,  Hershberger E,  Alam R,  Zervos MJ "Thrombocytopenia Associated with Linezolid Therapy." Clin Infect Dis 34 (2002): 695-8
-58. Meyer B,  Thalhammer F "Linezolid and continuous venovenous hemofiltration." Clin Infect Dis 42 (2006): 435-6; author reply 437-8
-59. Apodaca AA,  Rakita RM "Linezolid-induced lactic acidosis." N Engl J Med 348 (2003): 86-7
-60. Marino EA,  Blanchard E,  Samuel R,  Gallagher J "Acute interstitial nephritis associated with linezolid." Ann Pharmacother 43 (2009): 1728
-61. Frippiat F,  Bergiers C,  Michel C,  Dujardin JP,  Derue G "Severe bilateral optic neuritis associated with prolonged linezolid therapy." J Antimicrob Chemother 53 (2004): 1114-5
-62. Saijo T,  Hayashi K,  Yamada H,  Wakakura M "Linezolid-induced Optic Neuropathy." Am J Ophthalmol 139 (2005): 1114-6
-63. Cleveland KO,  Gelfand MS "Optic neuropathy following linezolid use in a patient with acute lymphocytic leukemia." Clin Infect Dis 49 (2009): 645-6; author reply 646
-64. Joshi L,  Taylor SR,  Large O,  Yacoub S,  Lightman S "A case of optic neuropathy after short-term linezolid use in a patient with acute lymphocytic leukemia." Clin Infect Dis 48 (2009): e73-4
+Frequency not reported: Interstitial pneumonia
 It is possible that some side effects of Zyvox may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 intravenous solution
-
 Chills
 confusion
 dizziness
@@ -110,8 +40,6 @@ rash
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
@@ -153,8 +81,6 @@ trouble with swallowing
 voice changes
 vomiting of blood or material that looks like coffee grounds
 wheezing
-
-
 Abdominal or stomach discomfort
 blindness
 blistering, peeling, or loosening of the skin
@@ -179,8 +105,6 @@ swollen glands
 unexplained bleeding or bruising
 unsteadiness or awkwardness
 weakness in the arms, hands, legs, or feet
-
-
 bad, unusual, or unpleasant (after) taste
 bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 change in taste
@@ -193,7 +117,4 @@ sleeplessness
 sore mouth or tongue
 thick, white curd-like vaginal discharge without odor or with mild odor
 trouble sleeping
-
-
 Discoloration of the tooth
-

@@ -1,25 +1,14 @@
 Commonly reported side effects of colesevelam include: constipation. Other side effects include: dyspepsia.  See below for a comprehensive list of adverse effects.
-Applies to colesevelam: oral powder for suspension, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by colesevelam. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking colesevelam:
-Some of the side effects that can occur with colesevelam may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to colesevelam: oral powder for reconstitution, oral tablet
-The most frequently reported side effects were constipation, dyspepsia, and nausea.[Ref]
-Very common (10% or more): Constipation (up to 11%), flatulenceCommon (1% to 10%): Dyspepsia, nausea, vomiting, diarrhea, abdominal pain, abnormal stools, abdominal distensionUncommon (0.1% to 1%): DysphagiaVery rare (less than 0.01%): PancreatitisFrequency not reported: Intestinal obstructionPostmarketing reports: Bowel obstruction, esophageal obstruction, fecal impaction, exacerbation of hemorrhoids[Ref]
-Common (1% to 10%): Hypertriglyceridemia, hypoglycemia[Ref]
-Common (1% to 10%): Hypertension, myocardial infarction, aortic stenosis, bradycardia[Ref]
-Common (1% to 10%): Pharyngitis, rhinitis, nasopharyngitis, upper respiratory tract infection[Ref]
-Common (1% to 10%): Accidental injury, asthenia, flu syndrome/influenza, fatigue, creatine phosphokinase increasedUncommon (0.1% to 1%): Serum transaminases increased[Ref]
-Common (1% to 10%): Myalgia, back pain[Ref]
-Common (1% to 10%): Headache[Ref]
-In clinical trials of type 2 diabetes, patient who received this drug as an add on to a sulfonylurea discontinued the trial due to body rash and mouth blistering that occurred on the first day of therapy.[Ref]
-Frequency not reported: Hypersensitivity reaction[Ref]
-1. "Product Information. Welchol (colesevelam)" Daiichi Sankyo, Inc., Parsippany, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for colesevelam may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects were constipation, dyspepsia, and nausea.
+Very common (10% or more): Constipation (up to 11%), flatulenceCommon (1% to 10%): Dyspepsia, nausea, vomiting, diarrhea, abdominal pain, abnormal stools, abdominal distensionUncommon (0.1% to 1%): DysphagiaVery rare (less than 0.01%): PancreatitisFrequency not reported: Intestinal obstructionPostmarketing reports: Bowel obstruction, esophageal obstruction, fecal impaction, exacerbation of hemorrhoids
+Common (1% to 10%): Hypertriglyceridemia, hypoglycemia
+Common (1% to 10%): Hypertension, myocardial infarction, aortic stenosis, bradycardia
+Common (1% to 10%): Pharyngitis, rhinitis, nasopharyngitis, upper respiratory tract infection
+Common (1% to 10%): Accidental injury, asthenia, flu syndrome/influenza, fatigue, creatine phosphokinase increasedUncommon (0.1% to 1%): Serum transaminases increased
+Common (1% to 10%): Myalgia, back pain
+Common (1% to 10%): Headache
+In clinical trials of type 2 diabetes, patient who received this drug as an add on to a sulfonylurea discontinued the trial due to body rash and mouth blistering that occurred on the first day of therapy.
+Frequency not reported: Hypersensitivity reaction
 Anxiety
 blurred vision
 chills
@@ -59,8 +48,6 @@ trouble with swallowing
 unusual tiredness or weakness
 voice changes
 vomiting
-
-
 Bleeding after defecation
 darkened urine
 difficulty with swallowing
@@ -73,8 +60,6 @@ swelling of the abdominal or stomach area
 unable to swallow saliva
 uncomfortable swelling around the anus
 yellow eyes or skin
-
-
 Acid or sour stomach
 belching
 bloating
@@ -83,9 +68,6 @@ full or bloated feeling
 heartburn
 pain or cramping in the abdomen or stomach
 stomach discomfort, upset, or pain
-
-
 Lack or loss of strength
 sneezing
 stuffy nose
-

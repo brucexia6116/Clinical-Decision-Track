@@ -1,40 +1,19 @@
-Generic Name: artemether / lumefantrine
-Applies to artemether / lumefantrine: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by artemether / lumefantrine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking artemether / lumefantrine:
-Some of the side effects that can occur with artemether / lumefantrine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to artemether / lumefantrine: oral tablet
-The most frequently reported side effects included headache, anorexia, dizziness, and asthenia during clinical studies.  Most side effects were mild, did not lead to artemether-lumefantrine discontinuation, and resolved.  The artemether-lumefantrine 6-dose regimen was discontinued in 0.2% of adult patients due to side effects.[Ref]
-Nervous system side effects have included headache, dizziness, and vertigo (3% or more).  Tinnitus, ataxia, clonus, fine motor delay, hyperreflexia, hypoesthesia, nystagmus, and tremor have been reported in less than 3% of patients.  Ototoxicity (including decreased hearing) and paresthesia have been reported.[Ref]
-Gastrointestinal side effects have included anorexia, nausea, vomiting, abdominal pain, and diarrhea (3% or more).  Constipation, dyspepsia, dysphagia, and peptic ulcer have been reported in less than 3% of patients.[Ref]
-Other side effects have included asthenia, pyrexia, chills, fatigue, and malaise (3% or more).[Ref]
-Cardiovascular side effects have included palpitations (3% or more) and QT interval prolongation.[Ref]
-Hypersensitivity side effects have included hypersensitivity reactions.  Hypersensitivity including urticaria and angioedema has been reported during postmarketing experience.[Ref]
-Hematologic side effects have included splenomegaly and anemia (3% or more).  Eosinophilia, abnormal lymphocyte morphology, decreased hematocrit, increased and decreased platelet count, increased and decreased white blood cell count have been reported in less than 3% of patients.  Hemolytic anemia (including at least one case of autoimmune hemolytic anemia attributed to lumefantrine) has been reported.[Ref]
-During a study, jaundice was observed in 3 patients following artemether-lumefantrine treatment; however, each patient had elevated serum bilirubin at baseline.  Resolution occurred on follow-up.[Ref]
-Hepatic side effects have included hepatomegaly (3% or more).  Increased alanine aminotransferase and aspartate aminotransferase have been reported in less than 3% of patients.  Jaundice has been reported.[Ref]
-Dermatologic side effects have included pruritus and rash (3% or more).  Urticaria has been reported in less than 3% of patients.  Serious skin reactions (bullous eruption) have been reported rarely during postmarketing experience.[Ref]
-Immunologic side effects have included malaria and nasopharyngitis (3% or more).  Abscess, acrodermatitis, bronchitis, ear infection, gastroenteritis, helminthic infection, hookworm infection, impetigo, influenza, lower respiratory tract infection, oral herpes, pneumonia, respiratory tract infection, subcutaneous abscess, upper respiratory tract infection, and urinary tract infection have been reported in less than 3% of patients.[Ref]
-Metabolic side effects have included hypokalemia (less than 3%).[Ref]
-Musculoskeletal side effects have included arthralgia and myalgia (3% or more).  Gait disturbance and back pain have been reported in less than 3% of patients.[Ref]
-Respiratory side effects have included cough (3% or more).  Asthma and pharyngolaryngeal pain have been reported in less than 3% of patients.[Ref]
-Genitourinary side effects have included hematuria and proteinuria (less than 3%).[Ref]
-Psychiatric side effects have included sleep disorder and insomnia (3% or more).  Agitation and mood swings have been reported in less than 3% of patients.[Ref]
-1. "Product Information. Coartem (artemether-lumefantrine)." Novartis Pharmaceuticals, East Hanover, NJ. 
-2. Bakshi R,  Hermeling-Fritz I,  Gathmann I,  Alteri E "An integrated assessment of the clinical safety of artemether-lumefantrine: a new oral fixed-dose combination antimalarial drug." Trans R Soc Trop Med Hyg 94 (2000): 419-24
-3. "Artemether-lumefantrine (Coartem) for treatment of malaria." Med Lett Drugs Ther 51 (2009): 75-6
-4. Lefevre G,  Looareesuwan S,  Treeprasertsuk S, et al. "A clinical and pharmacokinetic trial of six doses of artemether-lumefantrine for  multidrug-resistant Plasmodium falciparum malaria in Thailand." Am J Trop Med Hyg 64(5-6) (2001): 247-56
-5. Toovey S "Effects of weight, age, and time on artemether-lumefantrine associated ototoxicity and evidence of irreversibility." Travel Med Infect Dis 4 (2006): 71-6
-6. McCall MB,  Beynon AJ,  Mylanus EA,  van der Ven AJ,  Sauerwein RW "No hearing loss associated with the use of artemether-lumefantrine to treat experimental human malaria." Trans R Soc Trop Med Hyg 100 (2006): 1098-104
-7. Stover KR,  King ST,  Robinson J "Artemether-lumefantrine: an option for malaria." Ann Pharmacother 46 (2012): 567-77
-8. Toovey S "A case-control auditory evaluation of patients treated with artemether-lumefantrine." Am J Trop Med Hyg 74 (2006): 939-40; author reply 940
-9. Gurkov R,  Eshetu T,  Miranda IB, et al. "Ototoxicity of artemether / lumefantrine in the treatment of falciparum malaria: a randomized trial." Malar J 7 (2008): 179
-10. McGready R,  Tan SO,  Ashley EA, et al. "A randomised controlled trial of artemether-lumefantrine versus artesunate for uncomplicated plasmodium falciparum treatment in pregnancy." PLoS Med 5 (2008): e253
-11. Merat S,  Lambert E,  Vincenti-Rouquette I,  Gidenne S,  Rousseau JM,  Brinquin L "Case report: combination artemether-lumefantrine and haemolytic anaemia following a malarial attack." Trans R Soc Trop Med Hyg 97 (2003): 433-4
-Not all side effects for Coartem may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most frequently reported side effects included headache, anorexia, dizziness, and asthenia during clinical studies.  Most side effects were mild, did not lead to artemether-lumefantrine discontinuation, and resolved.  The artemether-lumefantrine 6-dose regimen was discontinued in 0.2% of adult patients due to side effects.
+Nervous system side effects have included headache, dizziness, and vertigo (3% or more).  Tinnitus, ataxia, clonus, fine motor delay, hyperreflexia, hypoesthesia, nystagmus, and tremor have been reported in less than 3% of patients.  Ototoxicity (including decreased hearing) and paresthesia have been reported.
+Gastrointestinal side effects have included anorexia, nausea, vomiting, abdominal pain, and diarrhea (3% or more).  Constipation, dyspepsia, dysphagia, and peptic ulcer have been reported in less than 3% of patients.
+Other side effects have included asthenia, pyrexia, chills, fatigue, and malaise (3% or more).
+Cardiovascular side effects have included palpitations (3% or more) and QT interval prolongation.
+Hypersensitivity side effects have included hypersensitivity reactions.  Hypersensitivity including urticaria and angioedema has been reported during postmarketing experience.
+Hematologic side effects have included splenomegaly and anemia (3% or more).  Eosinophilia, abnormal lymphocyte morphology, decreased hematocrit, increased and decreased platelet count, increased and decreased white blood cell count have been reported in less than 3% of patients.  Hemolytic anemia (including at least one case of autoimmune hemolytic anemia attributed to lumefantrine) has been reported.
+During a study, jaundice was observed in 3 patients following artemether-lumefantrine treatment; however, each patient had elevated serum bilirubin at baseline.  Resolution occurred on follow-up.
+Hepatic side effects have included hepatomegaly (3% or more).  Increased alanine aminotransferase and aspartate aminotransferase have been reported in less than 3% of patients.  Jaundice has been reported.
+Dermatologic side effects have included pruritus and rash (3% or more).  Urticaria has been reported in less than 3% of patients.  Serious skin reactions (bullous eruption) have been reported rarely during postmarketing experience.
+Immunologic side effects have included malaria and nasopharyngitis (3% or more).  Abscess, acrodermatitis, bronchitis, ear infection, gastroenteritis, helminthic infection, hookworm infection, impetigo, influenza, lower respiratory tract infection, oral herpes, pneumonia, respiratory tract infection, subcutaneous abscess, upper respiratory tract infection, and urinary tract infection have been reported in less than 3% of patients.
+Metabolic side effects have included hypokalemia (less than 3%).
+Musculoskeletal side effects have included arthralgia and myalgia (3% or more).  Gait disturbance and back pain have been reported in less than 3% of patients.
+Respiratory side effects have included cough (3% or more).  Asthma and pharyngolaryngeal pain have been reported in less than 3% of patients.
+Genitourinary side effects have included hematuria and proteinuria (less than 3%).
+Psychiatric side effects have included sleep disorder and insomnia (3% or more).  Agitation and mood swings have been reported in less than 3% of patients.
 Abdominal or stomach pain
 chills
 cough
@@ -49,8 +28,6 @@ stuffy or runny nose
 troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Accumulation of pus
 acid or sour stomach
 belching
@@ -101,11 +78,7 @@ swollen, red, tender area of infection
 thick yellow to honey-colored crusts
 tightness in the chest
 troubled with sleeping
-
-
 Large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
-
-
 Difficulty with moving
 lack or loss of strength
 muscle aching or cramping
@@ -113,8 +86,6 @@ muscle pain or stiffness
 sleeplessness
 unable to sleep
 weight loss
-
-
 Back pain
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 burning, dry, or itching eyes
@@ -133,4 +104,3 @@ shakiness in the legs, arms, hands, or feet
 trembling or shaking of the hands or feet
 uncontrolled eye movements
 unsteadiness, trembling, or other problems with muscle control or coordination
-

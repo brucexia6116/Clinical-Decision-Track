@@ -1,35 +1,20 @@
-Generic Name: prednisone
-Applies to prednisone: oral solution, oral syrup, oral tablet, oral tablet delayed release
-In addition to its needed effects, some unwanted effects may be caused by prednisone (the active ingredient contained in Deltasone). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking prednisone:
-Some of the side effects that can occur with prednisone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to prednisone: compounding powder, oral delayed release tablet, oral solution, oral tablet
-The most commonly reported adverse effects associated with corticosteroid use include fluid retention, alteration in glucose tolerance, high blood pressure, behavior and mood changes, increased appetite and weight gain.  Occurrence is often associated with dose and duration of therapy; long-term effects include HPA suppression, Cushingoid appearance, cataracts and increased intraocular pressure/glaucoma, osteoporosis and vertebral compression fractures.[Ref]
-Frequency not reported: Decreased carbohydrate and glucose tolerance, increased requirements for insulin or oral hypoglycemic agents in diabetics, lipid abnormal, negative nitrogen balance caused by protein catabolism, hypokalemia, hypokalemic alkalosis, metabolic alkalosis, potassium loss, sodium retention with resulting edema, increased appetite and weight gain, anorexia and weight loss, hypertriglyceridemia, hypercholesterolemia[Ref]
-Frequency not reported: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, ECG changes caused by potassium deficiency, edema, fat embolism, hypotension, hypertension or aggravation of hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, necrotizing angiitis, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis[Ref]
-Frequency not reported: Adrenal insufficiency associated symptoms including arthralgias, buffalo hump, amenorrhea, postmenopausal bleeding or menstrual irregularities, development of cushingoid state, hyperthyroidism, hypothyroidism, moon face, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress as in trauma, surgery, or illness), increased or decreased motility and number of spermatozoa[Ref]
-Frequency not reported: Blurred vision, cataracts (including posterior subcapsular cataracts) central serous chorioretinopathy, secondary bacterial, fungal, and viral infections, exophthalmos, glaucoma, increased intraocular pressure[Ref]
-Frequency not reported: Abdominal distention, abdominal pain, constipation, diarrhea, gastric irritation, nausea, oropharyngeal candidiasis, pancreatitis, peptic ulcer with possible perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis, vomiting[Ref]
-Frequency not reported: Immunosuppression, aggravation/masking of infections, decreased resistance to infection[Ref]
-Frequency not reported: Arthralgia, aseptic necrosis of femoral and humeral heads, increased risk of fracture, loss of muscle mass, muscle weakness, myalgias, osteopenia, osteoporosis, pathologic fracture of long bones, steroid myopathy, tendon rupture (particularly of the Achilles tendon), vertebral compression fractures, suppression of growth in pediatric patients[Ref]
-Frequency not reported: Anaphylaxis, angioedema, allergic reactions[Ref]
-Frequency not reported: Arachnoiditis, benign intracranial hypertension, convulsions, dementia, dizziness, EEG abnormalities, impaired cognition, increased intracranial pressure with papilledema, increased motor activity, ischemic neuropathy, severe tiredness or weakness, meningitis, neuritis, neuropathy, paraparesis/paraplegia, sensory disturbances[Ref]
-Frequency not reported: Amnesia, anxiety, delirium, depression, emotional instability and irritability, euphoria, hallucinations, severe psychiatric symptoms, insomnia, long-term memory loss, mania, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychiatric disorders including steroid psychoses or aggravation of preexisting psychiatric conditions, restlessness, schizophrenia, verbal memory loss, withdrawn behavior[Ref]
-Frequency not reported: Anemia, neutropenia, febrile neutropenia, moderate leukocytosis, lymphopenia, eosinopenia, polycythemia[Ref]
-Frequency not reported: Acne, acneiform eruptions, allergic dermatitis, alopecia, angioedema, angioneurotic edema, atrophy and thinning of skin, dry scaly skin, ecchymosis and petechiae (bruising), erythema, facial edema, hirsutism, impaired wound healing, increased sweating, lupus erythematosus-like lesions, perineal irritation, purpura, rash, striae, subcutaneous fat atrophy, suppression of reactions to skin tests, telangiectasis, thin fragile skin, thinning scalp hair, urticaria, hypertrichosis[Ref]
-Frequency not reported: ALT, AST and alkaline phosphatase elevations (usually reversible upon discontinuation), hepatomegaly[Ref]
-Frequency not reported: Hiccups, pulmonary edema[Ref]
-Frequency not reported: Kaposi's sarcoma[Ref]
-Frequency not reported: Vertigo, pyrexia, abnormal fat deposits, malaise[Ref]
-1. "Product Information. Rayos (predniSONE)." Horizon Pharma USA Inc, Northbrook, IL. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. "Product Information. PredniSONE (predniSONE)." Watson Pharmaceuticals, Parsippany, NJ. 
-5. "Product Information. Deltasone (prednisone)." Pharmacia and Upjohn, Kalamazoo, MI. 
-Not all side effects for Deltasone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported adverse effects associated with corticosteroid use include fluid retention, alteration in glucose tolerance, high blood pressure, behavior and mood changes, increased appetite and weight gain.  Occurrence is often associated with dose and duration of therapy; long-term effects include HPA suppression, Cushingoid appearance, cataracts and increased intraocular pressure/glaucoma, osteoporosis and vertebral compression fractures.
+Frequency not reported: Decreased carbohydrate and glucose tolerance, increased requirements for insulin or oral hypoglycemic agents in diabetics, lipid abnormal, negative nitrogen balance caused by protein catabolism, hypokalemia, hypokalemic alkalosis, metabolic alkalosis, potassium loss, sodium retention with resulting edema, increased appetite and weight gain, anorexia and weight loss, hypertriglyceridemia, hypercholesterolemia
+Frequency not reported: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, ECG changes caused by potassium deficiency, edema, fat embolism, hypotension, hypertension or aggravation of hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, necrotizing angiitis, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis
+Frequency not reported: Adrenal insufficiency associated symptoms including arthralgias, buffalo hump, amenorrhea, postmenopausal bleeding or menstrual irregularities, development of cushingoid state, hyperthyroidism, hypothyroidism, moon face, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress as in trauma, surgery, or illness), increased or decreased motility and number of spermatozoa
+Frequency not reported: Blurred vision, cataracts (including posterior subcapsular cataracts) central serous chorioretinopathy, secondary bacterial, fungal, and viral infections, exophthalmos, glaucoma, increased intraocular pressure
+Frequency not reported: Abdominal distention, abdominal pain, constipation, diarrhea, gastric irritation, nausea, oropharyngeal candidiasis, pancreatitis, peptic ulcer with possible perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis, vomiting
+Frequency not reported: Immunosuppression, aggravation/masking of infections, decreased resistance to infection
+Frequency not reported: Arthralgia, aseptic necrosis of femoral and humeral heads, increased risk of fracture, loss of muscle mass, muscle weakness, myalgias, osteopenia, osteoporosis, pathologic fracture of long bones, steroid myopathy, tendon rupture (particularly of the Achilles tendon), vertebral compression fractures, suppression of growth in pediatric patients
+Frequency not reported: Anaphylaxis, angioedema, allergic reactions
+Frequency not reported: Arachnoiditis, benign intracranial hypertension, convulsions, dementia, dizziness, EEG abnormalities, impaired cognition, increased intracranial pressure with papilledema, increased motor activity, ischemic neuropathy, severe tiredness or weakness, meningitis, neuritis, neuropathy, paraparesis/paraplegia, sensory disturbances
+Frequency not reported: Amnesia, anxiety, delirium, depression, emotional instability and irritability, euphoria, hallucinations, severe psychiatric symptoms, insomnia, long-term memory loss, mania, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychiatric disorders including steroid psychoses or aggravation of preexisting psychiatric conditions, restlessness, schizophrenia, verbal memory loss, withdrawn behavior
+Frequency not reported: Anemia, neutropenia, febrile neutropenia, moderate leukocytosis, lymphopenia, eosinopenia, polycythemia
+Frequency not reported: Acne, acneiform eruptions, allergic dermatitis, alopecia, angioedema, angioneurotic edema, atrophy and thinning of skin, dry scaly skin, ecchymosis and petechiae (bruising), erythema, facial edema, hirsutism, impaired wound healing, increased sweating, lupus erythematosus-like lesions, perineal irritation, purpura, rash, striae, subcutaneous fat atrophy, suppression of reactions to skin tests, telangiectasis, thin fragile skin, thinning scalp hair, urticaria, hypertrichosis
+Frequency not reported: ALT, AST and alkaline phosphatase elevations (usually reversible upon discontinuation), hepatomegaly
+Frequency not reported: Hiccups, pulmonary edema
+Frequency not reported: Kaposi's sarcoma
+Frequency not reported: Vertigo, pyrexia, abnormal fat deposits, malaise
 Aggression
 agitation
 blurred vision
@@ -47,8 +32,6 @@ swelling of the fingers, hands, feet, or lower legs
 trouble thinking, speaking, or walking
 troubled breathing at rest
 weight gain
-
-
 Abdominal or stomach cramping or burning (severe)
 abdominal or stomach pain
 backache
@@ -90,11 +73,7 @@ unusual tiredness or weakness
 vision changes
 vomiting
 vomiting of material that looks like coffee grounds
-
-
 Increased appetite
-
-
 Abnormal fat deposits on the face, neck, and trunk
 acne
 dry scalp
@@ -103,4 +82,3 @@ red face
 reddish purple lines on the arms, face, legs, trunk, or groin
 swelling of the stomach area
 thinning of the scalp hair
-

@@ -1,34 +1,19 @@
-Generic Name: digoxin
-Applies to digoxin: oral capsule liquid filled, oral elixir, oral solution, oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by digoxin (the active ingredient contained in Lanoxin). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking digoxin:
-Some of the side effects that can occur with digoxin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to digoxin: compounding powder, injectable solution, oral capsule, oral elixir, oral tablet
-Overall incidence of adverse reactions with this drug has been reported to be 5% to 20%, with 15% to 20% of adverse events considered serious.  Cardiac toxicity accounts for about one-half, gastrointestinal disturbances for about one-fourth, and CNS and other toxicity for about one-fourth of these adverse events.[Ref]
-Common (1% to 10%): Arrhythmia, conduction disturbances, bigeminy, trigeminy, PR prolongation, sinus bradycardiaPostmarketing reports: Supraventricular tachyarrhythmia, atrial tachycardia, nodal tachycardia, ventricular arrhythmia, ventricular premature contraction, ST segment depression, atrioventricular block, ventricular fibrillation[Ref]
-Common (1% to 10%): Nausea, vomiting, diarrhea, lower stomach painFrequency not reported: Intestinal ischemia, intestinal hemorrhagic necrosis[Ref]
-Common (1% to 10%): Central nervous system (CNS) disturbances, dizziness, drowsiness, headache[Ref]
-Common (1% to 10%): Central nervous system (CNS) disturbances, dizziness, drowsiness, headache[Ref]
-Common (1% to 10%): Skin rashes of urticarial or scarlatiniform characterFrequency not reported: Maculopapular rash[Ref]
-Common (1% to 10%): Anorexia or loss of appetite[Ref]
-Common (1% to 10%): Blurred vision or visual disturbances[Ref]
-Uncommon (0.1% to 1%): DepressionFrequency not reported: Apathy, confusion, anxiety, delirium, hallucinationPostmarketing reports: Psychosis[Ref]
-Frequency not reported: Thrombocytopenia[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Lanoxin (digoxin)." Glaxo Wellcome, Research Triangle Park, NC. 
-Not all side effects for Lanoxin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Overall incidence of adverse reactions with this drug has been reported to be 5% to 20%, with 15% to 20% of adverse events considered serious.  Cardiac toxicity accounts for about one-half, gastrointestinal disturbances for about one-fourth, and CNS and other toxicity for about one-fourth of these adverse events.
+Common (1% to 10%): Arrhythmia, conduction disturbances, bigeminy, trigeminy, PR prolongation, sinus bradycardiaPostmarketing reports: Supraventricular tachyarrhythmia, atrial tachycardia, nodal tachycardia, ventricular arrhythmia, ventricular premature contraction, ST segment depression, atrioventricular block, ventricular fibrillation
+Common (1% to 10%): Nausea, vomiting, diarrhea, lower stomach painFrequency not reported: Intestinal ischemia, intestinal hemorrhagic necrosis
+Common (1% to 10%): Central nervous system (CNS) disturbances, dizziness, drowsiness, headache
+Common (1% to 10%): Central nervous system (CNS) disturbances, dizziness, drowsiness, headache
+Common (1% to 10%): Skin rashes of urticarial or scarlatiniform characterFrequency not reported: Maculopapular rash
+Common (1% to 10%): Anorexia or loss of appetite
+Common (1% to 10%): Blurred vision or visual disturbances
+Uncommon (0.1% to 1%): DepressionFrequency not reported: Apathy, confusion, anxiety, delirium, hallucinationPostmarketing reports: Psychosis
+Frequency not reported: Thrombocytopenia
 injectable, solution
-
 Dizziness
 fainting
 fast, pounding, or irregular heartbeat or pulse
 slow heartbeat
-
-
 Black, tarry stools
 bleeding gums
 blood in the urine or stools
@@ -37,8 +22,6 @@ pinpoint red spots on the skin
 rash with flat lesions or small raised lesions on the skin
 severe stomach pain
 unusual bleeding or bruising
-
-
 Chest pain or discomfort
 nausea
 shortness of breath
@@ -46,8 +29,6 @@ sweating
 swelling of the feet and lower legs
 troubled breathing
 unusual tiredness or weakness
-
-
 Agitation or combativeness
 anxiety
 confusion
@@ -57,8 +38,6 @@ expressed fear of impending death
 hallucinations
 rash
 vomiting
-
-
 Blurred or loss of vision
 disturbed color perception
 double vision
@@ -72,4 +51,3 @@ swelling of the breasts or breast soreness in both females and males
 tunnel vision
 weakness
 weight loss
-

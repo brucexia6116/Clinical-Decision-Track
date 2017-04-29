@@ -1,27 +1,14 @@
-Generic Name: coagulation factor ix
-Applies to coagulation factor ix: intravenous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by coagulation factor ix (the active ingredient contained in Alprolix). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking coagulation factor ix, check with your doctor or nurse immediately:
-Some of the side effects that can occur with coagulation factor ix may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to coagulation factor ix: intravenous kit, intravenous powder for injection
-Hypersensitivity side effects have included hypersensitivity reactions, including bronchospastic reactions and/or hypotension and anaphylaxis.[Ref]
-Hematologic side effects have included and the development of high-titer inhibitors necessitating alternative treatments to factor IX replacement therapy.[Ref]
-Gastrointestinal side effects have included nausea and vomiting.[Ref]
-Dermatologic side effects have included hives, rash, and flushing.[Ref]
-Local side effects have included Injection site reaction, Injection site pain, cellulitis at IV site, and phlebitis at IV site.[Ref]
-Nervous system side effects have included headache, dizziness, taste perversion (altered taste), shaking, and drowsiness.[Ref]
-Respiratory side effects have included dry cough, hypoxia, chest tightness, and dyspnea (respiratory distress)[Ref]
-General side effects have included fever.[Ref]
-Ocular side effects have included blurred vision.[Ref]
-Renal side effects have e included renal infarction.[Ref]
-1. "Product Information. Alphanine SD (coagulation factor IX)." Grifols Biologicals Inc, Los Angeles, CA. 
-2. "Product Information. Mononine (coagulation factor IX)." CSL Behring, King of Prussia, PA. 
-3. "Product Information. BeneFIX (coagulation factor IX)." Wyeth Laboratories, Philadelphia, PA. 
-Not all side effects for Alprolix may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hypersensitivity side effects have included hypersensitivity reactions, including bronchospastic reactions and/or hypotension and anaphylaxis.
+Hematologic side effects have included and the development of high-titer inhibitors necessitating alternative treatments to factor IX replacement therapy.
+Gastrointestinal side effects have included nausea and vomiting.
+Dermatologic side effects have included hives, rash, and flushing.
+Local side effects have included Injection site reaction, Injection site pain, cellulitis at IV site, and phlebitis at IV site.
+Nervous system side effects have included headache, dizziness, taste perversion (altered taste), shaking, and drowsiness.
+Respiratory side effects have included dry cough, hypoxia, chest tightness, and dyspnea (respiratory distress)
+General side effects have included fever.
+Ocular side effects have included blurred vision.
+Renal side effects have e included renal infarction.
 Anxiety
 blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -52,10 +39,7 @@ tightness in the chest
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 unusual tiredness or weakness
 vomiting
-
-
 Change in taste
 loss of taste
 headache
 pain in the arms or legs
-

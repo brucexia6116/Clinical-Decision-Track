@@ -1,21 +1,9 @@
-Applies to desirudin: subcutaneous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by desirudin. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking desirudin:
-Some of the side effects that can occur with desirudin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to desirudin: subcutaneous powder for injection
-Hematologic side effects including hemorrhage (30%) and hematomas are among the most serious and commonly reported side effects.  In addition, anemia, thrombosis, thrombophlebitis, decreased hemoglobin, and cerebrovascular disorder have been reported.[Ref]
-Other reported side effects have included wound secretion, leg edema, fever, hematuria, dizziness, epistaxis, impaired healing, leg pain and hematemesis.[Ref]
-Cardiovascular side effects including hypotension have been rarely reported.[Ref]
-Gastrointestinal side effects including nausea and vomiting have been reported rarely.[Ref]
-Local side effects including injection site mass have been reported infrequently.[Ref]
-Hypersensitivity reactions including at least one case report of acute urticaria following desirudin administration have been reported.[Ref]
-1. "Product Information. Ipravask (desirudin)." Aventis Pharmaceuticals, Swiftwater, PA. 
-2. Matheson AJ,  Goa KL "Desirudin: a review of its use in the management of thrombotic disorders." Drugs 60 (2000): 679-700
-3. Bircher AJ,  Czendlik CH,  Messmer SL,  Muller P,  Howald H "Acute urticaria caused by subcutaneous recombinant hirudin: evidence for an IgG-mediated hypersensitivity reaction." J Allergy Clin Immunol 98(5 Pt 1) (1996): 994-6
-Not all side effects for desirudin may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Hematologic side effects including hemorrhage (30%) and hematomas are among the most serious and commonly reported side effects.  In addition, anemia, thrombosis, thrombophlebitis, decreased hemoglobin, and cerebrovascular disorder have been reported.
+Other reported side effects have included wound secretion, leg edema, fever, hematuria, dizziness, epistaxis, impaired healing, leg pain and hematemesis.
+Cardiovascular side effects including hypotension have been rarely reported.
+Gastrointestinal side effects including nausea and vomiting have been reported rarely.
+Local side effects including injection site mass have been reported infrequently.
+Hypersensitivity reactions including at least one case report of acute urticaria following desirudin administration have been reported.
 Bleeding gums
 collection of blood under the skin
 coughing up blood
@@ -31,8 +19,6 @@ prolonged bleeding from cuts
 red or black, tarry stools
 red or dark brown urine
 shortness of breath
-
-
 Changes in skin color, pain, tenderness, or swelling of the foot or leg
 cough
 fast heartbeat
@@ -46,8 +32,6 @@ unusual bleeding or bruising
 unusual tiredness or weakness
 wheezing
 wound secretion
-
-
 Blood in the urine
 blurred vision
 confusion
@@ -60,8 +44,5 @@ sweating
 tenderness, pain, swelling, warmth, skin discoloration, and prominent superficial veins over affected area
 trouble healing
 vomiting of blood or material that looks like coffee grounds
-
-
 Nausea
 vomiting
-

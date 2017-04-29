@@ -1,58 +1,21 @@
-Generic Name: enfuvirtide
-Applies to enfuvirtide: subcutaneous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by enfuvirtide (the active ingredient contained in Fuzeon). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking enfuvirtide:
-Some of the side effects that can occur with enfuvirtide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to enfuvirtide: subcutaneous kit, subcutaneous powder for injection
-In general, the most common side effects in patients receiving enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included injection site reactions, diarrhea, nausea, and fatigue.[Ref]
-Local side effects have been reported in 98% of patients and have included pain/discomfort at the injection site (96%), induration (90%), erythema (91%), nodules and cysts (80%), pruritus (65%), ecchymosis (52%), injection site infection (including abscess and cellulitis, 1.7%), minor local bleeding, injection site reactions, injection site mass, injection site inflammation, and injection site edema.  The administration of enfuvirtide (the active ingredient contained in Fuzeon) using the Biojector (R) 2000 needle-free device has been associated with hematomas, bruising, tenderness, and swelling.  At least one case of localized amyloidosis at the site of enfuvirtide injection has been reported.[Ref]
-Gastrointestinal side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included diarrhea (31.7%), nausea (22.8%), abdominal pain (3.9%), dry mouth (2.1%), pancreatitis (3.0%), abdominal distension, vomiting, flatulence, and oral candidiasis.  Constipation, increased amylase, and increased lipase have also been reported; however, causality has not been determined.[Ref]
-Hypersensitivity side effects have included hypersensitivity reactions in less than 1% of patients and in some cases have recurred upon rechallenge.  Signs and symptoms of reactions have included rash, fever, nausea, vomiting, chills, rigors, hypotension, elevated liver transaminases, primary immune complex reaction, respiratory distress, glomerulonephritis, and Guillain-Barre syndrome.  Worsening of abacavir hypersensitivity reaction has been reported; however, causality has not been established.  General allergic reaction (not defined as hypersensitivity reaction) has also been reported.[Ref]
-Metabolic side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) in combination with a background regimen have included decreased weight (6.6%), decreased appetite (3.2%), anorexia (2.3%), and hyperlipemia.  Increased triglycerides and hyperglycemia have also been reported; however, causality has not been established.[Ref]
-Nervous system side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included peripheral neuropathy, taste disturbance, sixth nerve palsy and fatal Guillain-Barre syndrome have also been reported; however, causality has not been established.  Dizziness, headache, and epidural abscess have also been reported.  The administration of enfuvirtide using the Biojector (R) 2000 needle-free device has been associated with neuralgia and/or paresthesia (nerve pain) lasting up to 6 months when injected at sites where large nerves run close to the skin.[Ref]
-Other side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included fatigue (20.2%), herpes simplex (3.5%), influenza-like illness (2.4%), malaise, fever, and chills.  Asthenia and sepsis have also been reported; however, causality has not been determined.[Ref]
-Psychiatric side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included insomnia, depression, anxiety, and suicide attempt; however, causality has not been established.  Abnormal thinking and agitation have also been reported.[Ref]
-Respiratory side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included cough (3.9%), sinusitis (6.0%), bronchitis, nasopharyngitis, and upper respiratory tract infection.  Pneumonia (2.7%), including fatalities, pneumopathy, and respiratory distress have also been reported; however, causality has not been determined.  Patients should be carefully monitored for symptoms of pneumonia.[Ref]
-Dermatologic side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included folliculitis (2.4%), dermatitis, pruritus, dry skin, skin papilloma, skin discoloration, and rash (not defined as hypersensitivity reaction).[Ref]
-Musculoskeletal side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included myalgia (2.7%), limb pain (2.9%), and increased creatine phosphokinase (Grade 3, 6.9%; Grade 4, 2.6%).  Vertebral osteomyelitis has also been reported.[Ref]
-Ocular side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included conjunctivitis (2.0%).[Ref]
-Hematologic side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included eosinophilia (1 to 2 times ULN, 9.1%; greater than 2 times ULN, 1.8%), leukopenia, and anemia.  Thrombocytopenia, neutropenia, and lymphadenopathy have also been reported; however, causality has not been established.[Ref]
-Renal side effects have included glomerulonephritis, tubular necrosis, renal insufficiency, and renal failure (including fatalities); however, causality has not been established.[Ref]
-Hepatic side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included increased ALT (Grade 3, 4.1%; Grade 4, 1.2%).  Increased AST, increased GGT, toxic hepatitis, and hepatic steatosis have also been reported; however, causality has not been determined.[Ref]
-Cardiovascular side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included unstable angina pectoris; however, causality has not been established.[Ref]
-Genitourinary side effects have included hematuria.[Ref]
-Immunologic side effects have included immune reconstitution syndrome, opportunistic infections, and general infectious diseases.  Autoimmune disorders (e.g., Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.[Ref]
-1. Polizzotto MN,  Street AM,  Wright E "The Safety and Efficacy of Enfuvirtide Therapy for HIV Infection in Patients with Hemophilia: A Case Series." Clin Infect Dis 45 (2007): e39-41
-2. Lalezari JP,  Henry K,  O'Hearn M, et al. "Enfuvirtide, an HIV-1 fusion inhibitor, for drug-resistant HIV infection in North and South America." N Engl J Med 348 (2003): 2175-85
-3. Warnke D,  Barreto J,  Temesgen Z "Antiretroviral drugs." J Clin Pharmacol 47 (2007): 1570-9
-4. Maggi P,  Ladisa N,  Cinori E,  Altobella A,  Pastore G,  Filotico R "Cutaneous injection site reactions to long-term therapy with enfuvirtide." J Antimicrob Chemother 53 (2004): 678-81
-5. Lazzarin A,  Clotet B,  Cooper D, et al. "Efficacy of enfuvirtide in patients infected with drug-resistant HIV-1 in Europe and Australia." N Engl J Med 348 (2003): 2186-95
-6. Belperio PS,  Mole LA,  Halloran J,  Boothroyd DB,  Thomas IC,  Backus LI "Postmarketing use of enfuvirtide in veterans: provider compliance with criteria for use, overall efficacy, and tolerability." Ann Pharmacother 42 (2008): 1573-80
-7. Ball RA,  Kinchelow T "Injection site reactions with the HIV-1 fusion inhibitor enfuvirtide." J Am Acad Dermatol 49 (2003): 826-31
-8. Castagna A,  Biswas P,  Beretta A,  Lazzarin A "The appealing story of HIV entry inhibitors : from discovery of biological mechanisms to drug development." Drugs 65 (2005): 879-904
-9. "Product Information. Fuzeon (enfuvirtide)." Roche Laboratories, Nutley, NJ. 
-10. Mould DR,  Zhang X,  Nieforth K,  Salgo M,  Buss N,  Patel IH "Population pharmacokinetics and exposure-response relationship of enfuvirtide in treatment-experienced human immunodeficiency virus type 1-infected patients." Clin Pharmacol Ther 77 (2005): 515-28
-11. Thompson M,  Dejesus E,  Richmond G, et al. "Pharmacokinetics, pharmacodynamics and safety of once-daily versus twice-daily dosing with enfuvirtide in HIV-infected subjects." AIDS 20 (2006): 397-404
-12. Oldfield V,  Keating GM,  Plosker G "Enfuvirtide: a review of its use in the management of HIV infection." Drugs 65 (2005): 1139-60
-13. Lalezari JP,  Eron JJ,  Carlson M, et al. "A phase II clinical study of the long-term safety and antiviral activity of enfuvirtide-based antiretroviral therapy." AIDS 17 (2003): 691-698
-14. Clotet B,  Raffi F,  Cooper D, et al. "Clinical management of treatment-experienced, HIV-infected patients with the fusion inhibitor enfuvirtide: consensus recommendations." AIDS 18 (2004): 1137-46
-15. Harris M,  Joy R,  Larsen G, et al. "Enfuvirtide plasma levels and injection site reactions using a needle-free gas-powered injection system (Biojector)." AIDS 20 (2006): 719-23
-16. Portilla J,  Boix V,  Merino E,  Reus S,  Segui JM,  Lopez-Azkarreta I "Vertebral osteomyelitis and epidural abscess in a patient receiving enfuvirtide." Eur J Clin Microbiol Infect Dis 23 (2004): 580-1
-17. The Working Group on Antiretroviral Therapy and Medical Management of HIV-Infected Children Francois-Xavier Bagnoud Center,  UMDNJ, The Health Resources and Services Administration, The National Institutes of Health "Guidelines for the use of antiretroviral agents in pediatric HIV infection. Available from: URL: http://aidsinfo.nih.gov/ContentFiles/PediatricGuidelines.pdf."   ([2008 Feb 28]):
-18. Kilby JM,  Lalezari JP,  Eron JJ, et al. "The safety, plasma pharmacokinetics, and antiviral activity of subcutaneous enfuvirtide (T-20), a peptide inhibitor of gp41-mediated virus fusion, in HIV-infected adults." AIDS Res Hum Retroviruses 18 (2002): 685-93
-19. Panel on Antiretroviral Guidelines for Adult and Adolescents. NIH. National Institute of Health "Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. Available from: URL: http://aidsinfo.nih.gov/contentfiles/AdultandAdolescentGL.pdf."   ([2008 Jan 29]):
-20. Shahar E,  Moar C,  Pollack S "Successful desensitization of enfuvirtide-induced skin hypersensitivity reaction." AIDS 19 (2005): 451-2
-21. Machado ES,  Passoni LF,  Sidi LC,  Andrade HB,  De Menezes JA "Successful desensitization of enfuvirtide after a first attempt failure." AIDS 20 (2006): 2130-1
-22. Borras-Blasco J,  Navarro-Ruiz A,  Borras C,  Castera E "Adverse cutaneous reactions associated with the newest antiretroviral drugs in patients with human immunodeficiency virus infection." J Antimicrob Chemother 62 (2008): 879-88
-23. Morilla ME,  Kocher J,  Harmaty M "Localized amyloidosis at the site of enfuvirtide injection." Ann Intern Med 151 (2009): 515-6
-24. Harris M,  Larsen G,  Valyi M,  Walker E,  Montaner JS "Transient neuropathy after needle-free injection outside of recommended sites." AIDS 20 (2006): 784-5
-25. Desimone JA,  Ojha A,  Pathak R,  Cohn J "Successful Desensitization to Enfuvirtide after a Hypersensitivity Reaction in an HIV-1-Infected Man." Clin Infect Dis 39 (2004): e110-2
-26. Beilke MA "Acute hypersensitivity reaction to enfuvurtide upon re-challenge." Scand J Infect Dis 36 (2004): 778
-27. Julg B,  Bogner J,  Goebel F "Severe hepatotoxicity associated with the combination of enfuvirtide and tipranavir/ritonavir: case report." AIDS 20 (2006): 1563
-Not all side effects for Fuzeon may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+In general, the most common side effects in patients receiving enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included injection site reactions, diarrhea, nausea, and fatigue.
+Local side effects have been reported in 98% of patients and have included pain/discomfort at the injection site (96%), induration (90%), erythema (91%), nodules and cysts (80%), pruritus (65%), ecchymosis (52%), injection site infection (including abscess and cellulitis, 1.7%), minor local bleeding, injection site reactions, injection site mass, injection site inflammation, and injection site edema.  The administration of enfuvirtide (the active ingredient contained in Fuzeon) using the Biojector (R) 2000 needle-free device has been associated with hematomas, bruising, tenderness, and swelling.  At least one case of localized amyloidosis at the site of enfuvirtide injection has been reported.
+Gastrointestinal side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included diarrhea (31.7%), nausea (22.8%), abdominal pain (3.9%), dry mouth (2.1%), pancreatitis (3.0%), abdominal distension, vomiting, flatulence, and oral candidiasis.  Constipation, increased amylase, and increased lipase have also been reported; however, causality has not been determined.
+Hypersensitivity side effects have included hypersensitivity reactions in less than 1% of patients and in some cases have recurred upon rechallenge.  Signs and symptoms of reactions have included rash, fever, nausea, vomiting, chills, rigors, hypotension, elevated liver transaminases, primary immune complex reaction, respiratory distress, glomerulonephritis, and Guillain-Barre syndrome.  Worsening of abacavir hypersensitivity reaction has been reported; however, causality has not been established.  General allergic reaction (not defined as hypersensitivity reaction) has also been reported.
+Metabolic side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) in combination with a background regimen have included decreased weight (6.6%), decreased appetite (3.2%), anorexia (2.3%), and hyperlipemia.  Increased triglycerides and hyperglycemia have also been reported; however, causality has not been established.
+Nervous system side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included peripheral neuropathy, taste disturbance, sixth nerve palsy and fatal Guillain-Barre syndrome have also been reported; however, causality has not been established.  Dizziness, headache, and epidural abscess have also been reported.  The administration of enfuvirtide using the Biojector (R) 2000 needle-free device has been associated with neuralgia and/or paresthesia (nerve pain) lasting up to 6 months when injected at sites where large nerves run close to the skin.
+Other side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included fatigue (20.2%), herpes simplex (3.5%), influenza-like illness (2.4%), malaise, fever, and chills.  Asthenia and sepsis have also been reported; however, causality has not been determined.
+Psychiatric side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included insomnia, depression, anxiety, and suicide attempt; however, causality has not been established.  Abnormal thinking and agitation have also been reported.
+Respiratory side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included cough (3.9%), sinusitis (6.0%), bronchitis, nasopharyngitis, and upper respiratory tract infection.  Pneumonia (2.7%), including fatalities, pneumopathy, and respiratory distress have also been reported; however, causality has not been determined.  Patients should be carefully monitored for symptoms of pneumonia.
+Dermatologic side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included folliculitis (2.4%), dermatitis, pruritus, dry skin, skin papilloma, skin discoloration, and rash (not defined as hypersensitivity reaction).
+Musculoskeletal side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included myalgia (2.7%), limb pain (2.9%), and increased creatine phosphokinase (Grade 3, 6.9%; Grade 4, 2.6%).  Vertebral osteomyelitis has also been reported.
+Ocular side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included conjunctivitis (2.0%).
+Hematologic side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included eosinophilia (1 to 2 times ULN, 9.1%; greater than 2 times ULN, 1.8%), leukopenia, and anemia.  Thrombocytopenia, neutropenia, and lymphadenopathy have also been reported; however, causality has not been established.
+Renal side effects have included glomerulonephritis, tubular necrosis, renal insufficiency, and renal failure (including fatalities); however, causality has not been established.
+Hepatic side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included increased ALT (Grade 3, 4.1%; Grade 4, 1.2%).  Increased AST, increased GGT, toxic hepatitis, and hepatic steatosis have also been reported; however, causality has not been determined.
+Cardiovascular side effects associated with enfuvirtide (the active ingredient contained in Fuzeon) and a background regimen have included unstable angina pectoris; however, causality has not been established.
+Genitourinary side effects have included hematuria.
+Immunologic side effects have included immune reconstitution syndrome, opportunistic infections, and general infectious diseases.  Autoimmune disorders (e.g., Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
 Awkwardness
 burning, numbness, tingling, or painful sensations or weakness in arms, hands, legs, or feet
 cough
@@ -63,8 +26,6 @@ stuffy or runny nose
 tightness of chest
 unsteadiness
 wheezing
-
-
 Bloating
 chills
 constipation
@@ -83,14 +44,10 @@ pains in stomach, side, or abdomen, possibly radiating to the back
 redness, pain, swelling of eye, eyelid, or inner lining of eyelid
 vomiting
 yellow eyes or skin
-
-
 Difficulty in breathing or swallowing
 fast heartbeat
 skin itching, rash, or redness
 swelling of face, throat, or tongue
-
-
 Black, tarry stools
 bleeding gums
 blood in urine or stools
@@ -111,8 +68,6 @@ swelling of face, fingers, lower legs; weight gain
 ulcers, sores, or white spots in mouth
 unusual bleeding or bruising
 unusual tiredness or weakness
-
-
 Abnormal growth filled with fluid or semisolid material
 bruising
 burning or stinging of skin
@@ -139,8 +94,6 @@ trouble concentrating
 trouble sleeping
 unusually warm skin
 weight loss
-
-
 Bad, unusual, or unpleasant (after) taste
 burning, itching, and pain in hairy areas
 change in taste
@@ -150,4 +103,3 @@ joint pain
 pus at root of hair
 stomach pain
 swollen, painful, or tender lymph glands in neck, armpit, or groin
-

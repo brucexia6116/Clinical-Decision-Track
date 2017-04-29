@@ -1,115 +1,24 @@
-Generic Name: hydrochlorothiazide
-Applies to hydrochlorothiazide: oral capsule, oral solution, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by hydrochlorothiazide (the active ingredient contained in Microzide). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking hydrochlorothiazide:
-Some of the side effects that can occur with hydrochlorothiazide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to hydrochlorothiazide: compounding powder, oral capsule, oral solution, oral tablet
-Frequency not reported: Electrolyte imbalance, hyperglycemia, glycosuria, hyperuricemia, mild hypokalemia (decrease of 0.5 mEq/L) occurs in up to 50% of patients (and may predispose patients to cardiac arrhythmias), metabolic alkalosis, hyponatremia, hypomagnesemia, hypercalcemia, hyperglycemia, elevated serum uric acid levels, glucose intolerance and a potentially deleterious effect on the lipid profile (i.e., increased serum cholesterol)[Ref]
-Since hydrochlorothiazide may increase total serum cholesterol by 11%, LDL lipoprotein cholesterol by 12%, and VLDL lipoprotein cholesterol levels by 50%, and may reduce insulin secretion, it should be used with caution in diabetic patients and in those with hypercholesterolemia.  True glucose intolerance may develop in approximately 3% of patients.  It is typically reversible within six months after discontinuation of therapy.Hyperuricamia may be an important consideration in patients with a history of gout.  Hypophosphatasemia and low serum magnesium concentrations may occur, but are usually clinically insignificant except in malnourished patients.[Ref]
-There have been approximately 34 known cases of thiazide-induced pulmonary edema, encompassing 52 episodes of pulmonary edema, as of 1991 (per a 1996 review).  In some cases, doses as small as 12.5 mg were associated with the development of pulmonary edema.  The average time to onset of this adverse reaction is 44 minutes, women carry a relative risk of 9:1, and the average age is 56 years.  The mortality rate is 6%.  Some experts consider this side effect grossly underreported.[Ref]
-Frequency not reported: Anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress (including pneumonitis and pulmonary edema), photosensitivity, fever, urticaria, rash, purpura, toxic epidermal necrolysis[Ref]
-A 67-year-old woman with hypothyroidism, hypercalcemia, depression, and hypertension developed facial erythema, headaches, tremors, confusion and personality changes associated with a new positive ANA and anti-nRNP, and a skin biopsy consistent with lupus erythematosus while taking hydrochlorothiazide (the active ingredient contained in Microzide) (HCTZ), levothyroxine, and amitriptyline.  The eruption resolved upon discontinuation of HCTZ, but she later developed a higher ANA titer associated with symptomatic diffuse interstitial pulmonary infiltrates.  She was successfully treated with corticosteroids.[Ref]
-Frequency not reported: Erythema multiforme (including Stevens-Johnson syndrome), exfoliative dermatitis (including toxic epidermal necrolysis), alopecia, erythema annular centrifugum, acute eczematous dermatitis, morbilliform and leukocytoclastic vasculitis, phototoxic dermatitis[Ref]
-Although hydrochlorothiazide (the active ingredient contained in Microzide) has been used to treat nephrogenic diabetes insipidus, a case report in which the drug was believed to have caused this condition has been reported.[Ref]
-Frequency not reported: Renal insufficiency (manifest as an increase in serum creatinine and BUN may occur due to hydrochlorothiazide-induced intravascular volume depletion), interstitial nephritis, renal failure[Ref]
-Frequency not reported: Hypotension including orthostatic hypotension (may be aggravated by alcohol, barbiturates, narcotics or antihypertensive drugs), cardiac arrhythmias (including ventricular ectopy and complete AV heart block)[Ref]
-The incidence of premature ventricular contractions as measured by 48-hour ambulatory ECG monitoring is the same in both patients with and without left ventricular hypertrophy despite a similar fall in serum potassium concentrations.[Ref]
-Thiazide diuretics may increase serum cholesterol and triglycerides, resulting in increased risk of cholesterol gallstone formation.  Reports of bowel strictures associated with thiazide ingestion were reported in the 1960s although these patients were on a combination hydrochlorothiazide-potassium product.[Ref]
-Frequency not reported: Pancreatitis, jaundice (intrahepatic cholestatic jaundice), diarrhea, vomiting, sialadenitis, cramping, constipation, gastric irritation, nausea, anorexia, acute cholecystitis[Ref]
-Although rare, nearly 40 cases of hydrochlorothiazide-induced noncardiogenic pulmonary edema have been reported including at least two fatalities.  Onset of symptoms can occur within minutes (range 10 to 150 minutes) of first exposure to the drug.  Associated symptoms include dyspnea, hypoxia, respiratory distress, wheezing, cough, tachypnea, dizziness, nausea, vomiting, diarrhea, and hypotension.  Ninety percent of cases have occurred in women at a mean dose of 38.7 mg.  Treatment varies, but following discontinuation of hydrochlorothiazide (the active ingredient contained in Microzide) most patients respond, with symptoms resolving in a mean 3.5 days.  Rechallenge can result in a more severe reaction, even months to years after the initial exposure.  Rechallenge with any thiazide diuretic is not recommended.[Ref]
-Rare (less than 0.1%): Acute noncardiogenic pulmonary edema[Ref]
-There are rare case reports of hydrochlorothiazide-induced immune hemolytic anemia.  The following illustrates a fatal case:A 53-year-old man with hypertension developed nausea, vomiting, diarrhea, and progressive anorexia and weakness associated with scleral icterus, anemia with spherocytosis, dark red urine with proteinuria, bilirubinuria, hemoglobinuria, and elevated lactic dehydrogenase levels 18 months after beginning hydrochlorothiazide (the active ingredient contained in Microzide) and methyldopa.  Haptoglobin was less than 50 mg per dl.  Direct and indirect Coombs tests were positive.  The patient died suddenly; autopsy revealed no obvious cause of death, left ventricular hypertrophy, and mild coronary atherosclerosis.[Ref]
-Rare (less than 0.1%): Allergic vasculitis, hemolytic anemia, development of a rash histologically identical to subacute cutaneous lupus[Ref]
-Frequency not reported: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia[Ref]
-Frequency not reported: Muscle spasm, myalgias[Ref]
-Frequency not reported: Weakness, vertigo, paresthesias, dizziness, headache, restlessness, chills[Ref]
+Frequency not reported: Electrolyte imbalance, hyperglycemia, glycosuria, hyperuricemia, mild hypokalemia (decrease of 0.5 mEq/L) occurs in up to 50% of patients (and may predispose patients to cardiac arrhythmias), metabolic alkalosis, hyponatremia, hypomagnesemia, hypercalcemia, hyperglycemia, elevated serum uric acid levels, glucose intolerance and a potentially deleterious effect on the lipid profile (i.e., increased serum cholesterol)
+Since hydrochlorothiazide may increase total serum cholesterol by 11%, LDL lipoprotein cholesterol by 12%, and VLDL lipoprotein cholesterol levels by 50%, and may reduce insulin secretion, it should be used with caution in diabetic patients and in those with hypercholesterolemia.  True glucose intolerance may develop in approximately 3% of patients.  It is typically reversible within six months after discontinuation of therapy.Hyperuricamia may be an important consideration in patients with a history of gout.  Hypophosphatasemia and low serum magnesium concentrations may occur, but are usually clinically insignificant except in malnourished patients.
+There have been approximately 34 known cases of thiazide-induced pulmonary edema, encompassing 52 episodes of pulmonary edema, as of 1991 (per a 1996 review).  In some cases, doses as small as 12.5 mg were associated with the development of pulmonary edema.  The average time to onset of this adverse reaction is 44 minutes, women carry a relative risk of 9:1, and the average age is 56 years.  The mortality rate is 6%.  Some experts consider this side effect grossly underreported.
+Frequency not reported: Anaphylactic reactions, necrotizing angiitis (vasculitis and cutaneous vasculitis), respiratory distress (including pneumonitis and pulmonary edema), photosensitivity, fever, urticaria, rash, purpura, toxic epidermal necrolysis
+A 67-year-old woman with hypothyroidism, hypercalcemia, depression, and hypertension developed facial erythema, headaches, tremors, confusion and personality changes associated with a new positive ANA and anti-nRNP, and a skin biopsy consistent with lupus erythematosus while taking hydrochlorothiazide (the active ingredient contained in Microzide) (HCTZ), levothyroxine, and amitriptyline.  The eruption resolved upon discontinuation of HCTZ, but she later developed a higher ANA titer associated with symptomatic diffuse interstitial pulmonary infiltrates.  She was successfully treated with corticosteroids.
+Frequency not reported: Erythema multiforme (including Stevens-Johnson syndrome), exfoliative dermatitis (including toxic epidermal necrolysis), alopecia, erythema annular centrifugum, acute eczematous dermatitis, morbilliform and leukocytoclastic vasculitis, phototoxic dermatitis
+Although hydrochlorothiazide (the active ingredient contained in Microzide) has been used to treat nephrogenic diabetes insipidus, a case report in which the drug was believed to have caused this condition has been reported.
+Frequency not reported: Renal insufficiency (manifest as an increase in serum creatinine and BUN may occur due to hydrochlorothiazide-induced intravascular volume depletion), interstitial nephritis, renal failure
+Frequency not reported: Hypotension including orthostatic hypotension (may be aggravated by alcohol, barbiturates, narcotics or antihypertensive drugs), cardiac arrhythmias (including ventricular ectopy and complete AV heart block)
+The incidence of premature ventricular contractions as measured by 48-hour ambulatory ECG monitoring is the same in both patients with and without left ventricular hypertrophy despite a similar fall in serum potassium concentrations.
+Thiazide diuretics may increase serum cholesterol and triglycerides, resulting in increased risk of cholesterol gallstone formation.  Reports of bowel strictures associated with thiazide ingestion were reported in the 1960s although these patients were on a combination hydrochlorothiazide-potassium product.
+Frequency not reported: Pancreatitis, jaundice (intrahepatic cholestatic jaundice), diarrhea, vomiting, sialadenitis, cramping, constipation, gastric irritation, nausea, anorexia, acute cholecystitis
+Although rare, nearly 40 cases of hydrochlorothiazide-induced noncardiogenic pulmonary edema have been reported including at least two fatalities.  Onset of symptoms can occur within minutes (range 10 to 150 minutes) of first exposure to the drug.  Associated symptoms include dyspnea, hypoxia, respiratory distress, wheezing, cough, tachypnea, dizziness, nausea, vomiting, diarrhea, and hypotension.  Ninety percent of cases have occurred in women at a mean dose of 38.7 mg.  Treatment varies, but following discontinuation of hydrochlorothiazide (the active ingredient contained in Microzide) most patients respond, with symptoms resolving in a mean 3.5 days.  Rechallenge can result in a more severe reaction, even months to years after the initial exposure.  Rechallenge with any thiazide diuretic is not recommended.
+Rare (less than 0.1%): Acute noncardiogenic pulmonary edema
+There are rare case reports of hydrochlorothiazide-induced immune hemolytic anemia.  The following illustrates a fatal case:A 53-year-old man with hypertension developed nausea, vomiting, diarrhea, and progressive anorexia and weakness associated with scleral icterus, anemia with spherocytosis, dark red urine with proteinuria, bilirubinuria, hemoglobinuria, and elevated lactic dehydrogenase levels 18 months after beginning hydrochlorothiazide (the active ingredient contained in Microzide) and methyldopa.  Haptoglobin was less than 50 mg per dl.  Direct and indirect Coombs tests were positive.  The patient died suddenly; autopsy revealed no obvious cause of death, left ventricular hypertrophy, and mild coronary atherosclerosis.
+Rare (less than 0.1%): Allergic vasculitis, hemolytic anemia, development of a rash histologically identical to subacute cutaneous lupus
+Frequency not reported: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia
+Frequency not reported: Muscle spasm, myalgias
+Frequency not reported: Weakness, vertigo, paresthesias, dizziness, headache, restlessness, chills
 Frequency not reported: Transient blurred vision, idiosyncratic reactions to hydrochlorothiazide (the active ingredient contained in Microzide) resulting in acute transient myopia and acute angle-closure glaucoma, xanthopsia
 Frequency not reported: Impotence
-1. Benfield GF, Haffner C, Harris P, Stableforth DE "Dilutional hyponatraemia masquerading as subarachnoid haemorrhage in patient on hydrochlorothiazide/amiloride/timolol combined drug ." Lancet 2 (1986): 341
-2. Ragnarsson J, Hardarson T, Snorrason SP "Ventricular dysrhythmias in middle-aged hypertensive men treated either with a diuretic agent or a beta-blocker." Acta Med Scand 221 (1987): 143-8
-3. Kone B, Gimenez L, Watson AJ "Thiazide-induced hyponatremia." South Med J 79 (1986): 1456-7
-4. Jones IG, Pickens PT "Diabetes mellitus following oral diuretics." Practitioner 199 (1967): 209-10
-5. Pollare T, Lithell H, Berne C "A comparison of the effects of hydrochlorothiazide and captopril on glucose and lipid metabolism in patients with hypertension." N Engl J Med 321 (1989): 868-73
-6. Papademetriou V, Price M, Notargiacomo A, Gottdiener J, Fletcher RD, Freis ED "Effect of diuretic therapy on ventricular arrhythmias in hypertensive patients with or without left ventricular hypertrophy." Am Heart J 110 (1985): 595-9
-7. Berlin I "Prazosin, diuretics, and glucose intolerance." Ann Intern Med 119 (1993): 860
-8. Polanska AI, Baron DN "Hyponatraemia associated with hydrochlorothiazide treatment ." Br Med J 1 (1978): 175-6
-9. Byatt CM, Millard PH, Levin GE "Diuretics and electrolyte disturbances in 1000 consecutive geriatric admissions." J R Soc Med 83 (1990): 704-8
-10. Papademetriou V, Fletcher R, Khatri IM, Freis ED "Diuretic-induced hypokalemia in uncomplicated systemic hypertension: effect of plasma potassium correction on cardiac arrhythmias." Am J Cardiol 52 (1983): 1017-22
-11. Kasiske BL, Ma JZ, Kalil RS, Louis TA "Effects of antihypertensive therapy on serum lipids." Ann Intern Med 122 (1995): 133-41
-12. Pickkers P, Schachter M, Hughes AD, Feher MD, Sever PS "Thiazide-induced hyperglycaemia: a role for calcium-activated potassium channels?" Diabetologia 39 (1996): 861-4
-13. Krishna GG, Narins RG "Hemodynamic consequences of diuretic-induced hypokalemia." Am J Kidney Dis 12 (1988): 329-31
-14. Mahabir RN, Laufer ST "Clinical evaluation of diuretics in congestive heart failure. A detailed study in four patients." Arch Intern Med 124 (1969): 1-7
-15. Harper R, Ennis CN, Heaney AP, Sheridan B, Gormley M, Atkinson AB, Johnston GD, Bell PM "A comparison of the effects of low- and conventional-dose thiazide diuretic on insulin action in hypertensive patients with NIDDM." Diabetologia 38 (1995): 853-9
-16. Gould L, Reddy CV, Zen B, Singh BK "Life-threatening reaction to thiazides." N Y State J Med 80 (1980): 1975-6
-17. Hakim R, Tolis G, Goltzman D, Meltzer S, Friedman R "Severe hypercalcemia associated with hydrochlorothiazide and calcium carbonate therapy." Can Med Assoc J 121 (1979): 591-4
-18. Pinnock CA "Hyponatraemia associated with hydrochlorothiazide treatment ." Br Med J 1 (1978): 48
-19. Bell DS "Insulin resistance. An often unrecognized problem accompanying chronic medical disorders." Postgrad Med 93 (1993): 99-103,
-20. Pollare T, Lithell H, Berne C "A comparison of the effects of hydrochlorothiazide and captopril on glucose and lipid metabolism in patients with hypertension." N Engl J Med 321 (1989): 868-73
-21. Fichman MP, Vorherr H, Kleeman CR, Telfer N "Diuretic-induced hyponatremia." Ann Intern Med 75 (1971): 853-63
-22. Duarte CG, Winnacker JL, Becker KL, Pace A "Thiazide-induced hypercalcemia." N Engl J Med 284 (1971): 828-30
-23. Peters RW, Hamilton J, Hamilton BP "Incidence of cardiac arrhythmias associated with mild hypokalemia induced by low-dose diuretic therapy for hypertension." South Med J 82 (1989): 966-9,
-24. Bain PG, Egner W, Walker PR "Thiazide-induced dilutional hyponatraemia masquerading as subarachnoid haemorrhage ." Lancet 2 (1986): 634
-25. Frassetto LA, Nash E, Morris RC, Sebastian A "Comparative effects of potassium chloride and bicarbonate on thiazide-induced reduction in urinary calcium excretion." Kidney Int 58 (2000): 748-52
-26. Murphy MB, Kohner E, Lewis PJ, Schumer B, Dollery CT "Glucose intolerance in hypertensive patients treated with diuretics: a fourteen-year follow-up." Lancet 2 (1982): 1293-5
-27. Seelig CB "Magnesium deficiency in two hypertensive patient groups." South Med J 83 (1990): 739-42
-28. Fager G, Berglund G, Bondjers G, Elmfeldt D, Lager I, Olofsson SO, Smith U, Wiklund O "Effects of anti-hypertensive therapy on serum lipoproteins. Treatment with metoprolol, propranolol and hydrochlorothiazide." Artery 11 (1983): 283-96
-29. Hollifield JW, Slaton PE "Thiazide diuretics, hypokalemia and cardiac arrhythmias." Acta Med Scand Suppl 647 (1981): 67-73
-30. Freis ED "The efficacy and safety of diuretics in treating hypertension." Ann Intern Med 122 (1995): 223-6
-31. Rosenberg L, Shapiro S, Slone D, Kaufman DW, Miettinen OS, Stolley PD "Thiazides and acute cholecystitis." N Engl J Med 303 (1980): 546-8
-32. Kuller L, Farrier N, Caggiula A, Borhani N, Dunkle S "Relationship of diuretic therapy and serum magnesium levels among participants in the Multiple Risk Factor Intervention Trial." Am J Epidemiol 122 (1985): 1045-59
-33. Holland OB, Kuhnert L, Pollard J, Padia M, Anderson RJ, Blomqvist G "Ventricular ectopic activity with diuretic therapy." Am J Hypertens 1 (1988): 380-5
-34. Itescu S, Haskell LP, Tannenberg AM "Thiazide-induced clinically significant hypophosphatemia ." Clin Nephrol 27 (1987): 161-2
-35. Mouallem M, Friedman E, Shemesh Y, Mayan H, Pauzner R, Farfel Z "Cardiac conduction defects associated with hyponatremia." Clin Cardiol 14 (1991): 165-8
-36. Diamond MT "Hyperglycemic hyperosmolar coma associated with hydrochlorothiazide and pancreatitis." N Y State J Med 72 (1972): 1741-2
-37. Dorn MR, Walker BK "Noncardiogenic pulmonary edema associated with hydrochlorothiazide therapy." Chest 79 (1981): 482-3
-38. Beaudry C, Laplante L "Severe allergic pneumonitis from hydrochlorothiazide." Ann Intern Med 78 (1973): 251-3
-39. Frierson JH, Marvel SL, Thomas GM "Hydrochlorothiazide-induced pulmonary edema with severe acute myocardial dysfunction." Clin Cardiol 18 (1995): 112-4
-40. Levay ID "Hydrochlorothiazide-induced pulmonary edema." Drug Intell Clin Pharm 18 (1984): 238-9
-41. Alted E, Navarro M, Cantalapiedra JA, Alvarez JA, Blasco MA, Nunez A "Non-cardiogenic pulmonary edema after oral ingestion of hydrochlorothiazide ." Intensive Care Med 13 (1987): 364-5
-42. Klein MD "Noncardiogenic pulmonary edema following hydrochlorothiazide ingestion." Ann Emerg Med 16 (1987): 901-3
-43. Geanon JD, Perkins TW "Bilateral acute angle-closure glaucoma associated with drug sensitivity to hydrochlorothiazide." Arch Ophthalmol 113 (1995): 1231-2
-44. Hoegholm A, Rasmussen SW, Kristensen KS "Pulmonary oedema with shock induced by hydrochlorothiazide: a rare side effect mimicking myocardial infarction." Br Heart J 63 (1990): 186
-45. Biron P "Thiazide-induced pulmonary edema." Ann Pharmacother 30 (1996): 415-6
-46. Goette DK, Beatrice E "Erythema annulare centrifugum caused by hydrochlorothiazide-induced interstitial nephritis." Int J Dermatol 27 (1988): 129-30
-47. Fine SR, Lodha A, Zoneraich S, Mollura JL "Thiazide-induced pulmonary edema." Ann Pharmacother 30 (1996): 416
-48. Fine SR, Lodha A, Zoneraich S, Mollura JL "Hydrochlorothiazide-induced acute pulmonary edema." Ann Pharmacother 29 (1995): 701-3
-49. Biron P, Dessureault J, Napke E "Acute allergic interstitial pneumonitis induced by hydrochlorothiazide [published erratum appears in Can Med Assoc J 1991 Sep 1;145(5):391]." Can Med Assoc J 145 (1991): 28-34
-50. Magil AB, Ballon HS, Cameron EC, Rae A "Acute interstitial nephritis associated with thiazide diuretics. Clinical and pathologic observations in three cases." Am J Med 69 (1980): 939-43
-51. Magil AB "Drug-induced acute interstitial nephritis with granulomas." Hum Pathol 14 (1983): 36-41
-52. Prupas HM, Brown D "Acute idiosyncratic reaction to hydrochlorothiazide ingestion." West J Med 138 (1983): 101-2
-53. Grace AA, Morgan AD, Strickland NH "Hydrochlorothiazide causing unexplained pulmonary oedema." Br J Clin Pract 43 (1989): 79-81
-54. Hoss DM, Nierenberg DW "Severe shaking chills and fever following hydrochlorothiazide administration." Am J Med 85 (1988): 747
-55. Diffey BL, Langtry J "Phototoxic potential of thiazide diuretics in normal subjects." Arch Dermatol 125 (1989): 1355-8
-56. Rich MW, Eckman JM "Can hydrochlorothiazide cause lupus?" J Rheumatol 22 (1995): 1001
-57. Robinson HN, Morison WL, Hood AF "Thiazide diuretic therapy and chronic photosensitivity." Arch Dermatol 121 (1985): 522-4
-58. Reed BR, Huff JC, Jones SK, Orton PW, Lee LA, Norris DA "Subacute cutaneous lupus erythematosus associated with hydrochlorothiazide therapy." Ann Intern Med 103 (1985): 49-51
-59. Brown CW, Deng JS "Thiazide diuretics induce cutaneous lupus-like adverse reaction." J Toxicol Clin Toxicol 33 (1995): 729-33
-60. Bjornberg A, Gisslen H "Thiazides: A cause of necrotising vasculitis?" Lancet 2 (1965): 982-3
-61. Parodi A, Romagnoli M, Rebora A "Subacute cutaneous lupus erythematosus-like eruption caused by hydrochlorothiazide." Photodermatol 6 (1989): 100-2
-62. Goodrich AL, Kohn SR "Hydrochlorothiazide-induced lupus erythematosus: a new variant?" J Am Acad Dermatol 28 (1993): 1001-2
-63. Delevett AF, Recalde M "Diuretic-induced renal colic." JAMA 225 (1973): 992
-64. Grunwald MH, Halevy S, Livni E "Allergic vasculitis induced by hydrochlorothiazide: confirmation by mast cell degranulation test." Isr J Med Sci 25 (1989): 572-4
-65. Weir MR, Wright JT, Jr  Ferdinand KC, Cook CA, Champion D, Wong S, Jenkins PA, Kong BW "Comparison of the efficacy and metabolic effects of nicardipine and hydrochlorothiazide in hypertensive black men and women." J Hum Hypertens 7 (1993): 141-7
-66. Campbell JR, Knapp RW "Small bowel ulceration associated with thiazide and potassium therapy: review of 13 cases." Ann Surg 163 (1966): 291-6
-67. Dietz MW "Iatrogenic jejunal ulcer." Am J Roentgenol Radium Ther Nucl Med 99 (1967): 136-8
-68. Daugherty KK,  Subramanian J "Cognitive and neurologic impairment with hydrochlorothiazide." Am J Health Syst Pharm 62 (2005): 2630-3
-69. Holland GW "Stenosing ulcers of the small bowel associated with thiazide and potassium therapy." N Z Med J 64 (1965): 383-5
-70. Reinus FZ, Weinberger HA, Fischer WW "Medication-induced ulceration of the small bowel." Am J Surg 112 (1966): 97-101
-71. Wagner W, Longerbeam JK, Smith LL, Feikes HL "Drug-induced ulcers of the small bowel causing intestinal obstruction or perforation." Am Surg 33 (1967): 7-11
-72. Smith BL, Tedeschi A, Lane CD "Pancreatitis with a twist." Hosp Pract (Off Ed) 23 (1988): 150,
-73. Bernal C, Patarca R "Hydrochlorothiazide-induced pulmonary edema and associated immunologic changes." Ann Pharmacother 33 (1999): 172-4
-74. Chittivelu S "Hydrochlorothiazide-induced pulmonary edema and associated immunologic changes." Ann Pharmacother 33 (1999): 1010-1
-75. Knowles SR,  Wong GA,  Rahim SA,  Binkley K,  Phillips EJ,  Shear NH "Hydrochlorothiazide-induced noncardiogenic pulmonary edema: an underrecognized yet serious adverse drug reaction." Pharmacotherapy 25 (2005): 1258-65
-76. Beck ML, Cline JF, Hardman JT, Racela LS, Davis JW "Fatal intravascular immune hemolysis induced by hydrochlorothiazide." Am J Clin Pathol 81 (1984): 791-4
-77. Garratty G, Houston M, Petz LD, Webb M "Acute immune intravascular hemolysis due to hydrochlorothiazide." Am J Clin Pathol 76 (1981): 73-8
-78. Shirey RS, Bartholomew J, Bell W, Pollack B, Kickler TS, Ness PM "Characterization of antibody and selection of alternative drug therapy in hydrochlorothiazide-induced immune hemolytic anemia." Transfusion 28 (1988): 70-2
-79. Eisner EV, Crowell EB "Hydrochlorothiazide-dependent thrombocytopenia due to IgM antibody." JAMA 215 (1971): 480-2
-80. Sebastian A "Thiazides and bone." Am J Med 109 (2000): 429-30
-81. LaCroix AZ, Ott SM, Ichikawa L, Scholes D, Barlow WE "Low-dose hydrochlorothiazide and preservation of bone mineral density in older adults." Ann Intern Med 133 (2000): 516-26
-Not all side effects for Microzide may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Abdominal or stomach pain
 back, leg, or stomach pains
 black, tarry stools
@@ -200,8 +109,6 @@ weakness and heaviness of the legs
 weight gain
 wheezing
 yellow eyes or skin
-
-
 Cramping
 decreased interest in sexual intercourse
 difficulty having a bowel movement (stool)
@@ -217,4 +124,3 @@ restlessness
 sensation of spinning
 severe sunburn
 weakness
-

@@ -1,62 +1,37 @@
-Generic Name: onabotulinumtoxinA
 Common side effects of Botox Cosmetic include: antibody development.  See below for a comprehensive list of adverse effects.
-Applies to onabotulinumtoxinA: powder for solution
-In addition to its needed effects, some unwanted effects may be caused by onabotulinumtoxinA (the active ingredient contained in Botox Cosmetic). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking onabotulinumtoxinA, check with your doctor or nurse immediately:
-Some of the side effects that can occur with onabotulinumtoxinA may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to onabotulinumtoxinA: injectable powder for injection
-Common (1% to 10%): Constipation, nauseaUncommon (0.1% to 1%): Dysphagia, oral drynessPostmarketing reports: Abdominal pain, anorexia[Ref]
-Common (1% to 10%): Headache, worsening migraine, facial paresisUncommon (0.1% to 1%): VertigoFrequency not reported: VII nerve disorder, new or recurrent seizuresPostmarketing reports: Brachial plexopathyNervous system side effects have included fatigue (2 to 3%), dizziness (2 to 10%), fever (2 to 10%), drowsiness (2 to 10%), and numbness (2 to 10%).[Ref]
-Common (1% to 10%): Bronchitis, cough, rhinitis, dyspnea, pharyngitis[Ref]
-Common (1% to 10%): Pain in extremity, muscle weakness, asthenia, back pain, hypertonia, stiffness, fall, gait disturbance, muscle spasm, neck pain, musculoskeletal stiffness, myalgiaUncommon (0.1% to 1%): Jaw painPostmarketing reports: Denervation/muscle atrophy[Ref]
-Common (1% to 10%): HypertensionFrequency not reported: Arrhythmia, myocardial infarction (sometimes fatal)[Ref]
-Common (1% to 10%): Injection site pain[Ref]
-Common (1% to 10%): Flu syndrome, infectionFrequency not reported: Immunogenicity (formation of neutralizing antibodies to botulinum toxin type A which may reduce the effectiveness of therapy)[Ref]
-Common (1% to 10%): Eyelid ptosisUncommon (0.1% to 1%): Dry eye, eyelid edema, eye infection, diplopiaVery rare (less than 0.01%): Corneal perforationFrequency not reported: Superficial punctate keratitis, irritation, tearing, lagophthalmos, photophobia, ectropion, keratitis, diplopia, local swelling of the eyelid skin lasting for several days following eyelid injection, reduced blinking (from the injection of the orbicularis muscle which may lead to serious corneal exposure), persistent epithelial defectPostmarketing reports: Visual disturbance[Ref]
-Common (1% to 10%): Fatigue, dizziness, hypertonia, asthenia, speech disorder, fever, stiffness, numbness, non-axillary sweating, sweatingVery rare (less than 0.01%): Brachial plexopathyFrequency not reported: Focal facial paralysis, syncope, exacerbation of myasthenia gravisPostmarketing reports: Hypoacusis, hypoesthesia, malaise, paresthesia, peripheral neuropathy, radiculopathy, tinnitus[Ref]
-Common (1% to 10%): PruritusFrequency not reported: Diffuse skin rashPostmarketing reports: Alopecia (including madarosis), erythema multiforme, dermatitis psoriasiform, psoriasiform eruption[Ref]
-Adverse reactions usually occur within the first week following injection of this drug and while generally transient, may have a duration of several months or longer.  Localized pain, infection, inflammation, tenderness, swelling, erythema, and/or bleeding/bruising may be associated with the injection.  Needle-related pain and/or anxiety may result in vasovagal responses (including e.g., syncope, hypotension), which may require appropriate medical therapy.[Ref]
+Common (1% to 10%): Constipation, nauseaUncommon (0.1% to 1%): Dysphagia, oral drynessPostmarketing reports: Abdominal pain, anorexia
+Common (1% to 10%): Headache, worsening migraine, facial paresisUncommon (0.1% to 1%): VertigoFrequency not reported: VII nerve disorder, new or recurrent seizuresPostmarketing reports: Brachial plexopathyNervous system side effects have included fatigue (2 to 3%), dizziness (2 to 10%), fever (2 to 10%), drowsiness (2 to 10%), and numbness (2 to 10%).
+Common (1% to 10%): Bronchitis, cough, rhinitis, dyspnea, pharyngitis
+Common (1% to 10%): Pain in extremity, muscle weakness, asthenia, back pain, hypertonia, stiffness, fall, gait disturbance, muscle spasm, neck pain, musculoskeletal stiffness, myalgiaUncommon (0.1% to 1%): Jaw painPostmarketing reports: Denervation/muscle atrophy
+Common (1% to 10%): HypertensionFrequency not reported: Arrhythmia, myocardial infarction (sometimes fatal)
+Common (1% to 10%): Injection site pain
+Common (1% to 10%): Flu syndrome, infectionFrequency not reported: Immunogenicity (formation of neutralizing antibodies to botulinum toxin type A which may reduce the effectiveness of therapy)
+Common (1% to 10%): Eyelid ptosisUncommon (0.1% to 1%): Dry eye, eyelid edema, eye infection, diplopiaVery rare (less than 0.01%): Corneal perforationFrequency not reported: Superficial punctate keratitis, irritation, tearing, lagophthalmos, photophobia, ectropion, keratitis, diplopia, local swelling of the eyelid skin lasting for several days following eyelid injection, reduced blinking (from the injection of the orbicularis muscle which may lead to serious corneal exposure), persistent epithelial defectPostmarketing reports: Visual disturbance
+Common (1% to 10%): Fatigue, dizziness, hypertonia, asthenia, speech disorder, fever, stiffness, numbness, non-axillary sweating, sweatingVery rare (less than 0.01%): Brachial plexopathyFrequency not reported: Focal facial paralysis, syncope, exacerbation of myasthenia gravisPostmarketing reports: Hypoacusis, hypoesthesia, malaise, paresthesia, peripheral neuropathy, radiculopathy, tinnitus
+Common (1% to 10%): PruritusFrequency not reported: Diffuse skin rashPostmarketing reports: Alopecia (including madarosis), erythema multiforme, dermatitis psoriasiform, psoriasiform eruption
+Adverse reactions usually occur within the first week following injection of this drug and while generally transient, may have a duration of several months or longer.  Localized pain, infection, inflammation, tenderness, swelling, erythema, and/or bleeding/bruising may be associated with the injection.  Needle-related pain and/or anxiety may result in vasovagal responses (including e.g., syncope, hypotension), which may require appropriate medical therapy.
 Very common (10% or more): Urinary tract infection (26% in patients without diabetes and 31% in patients with diabetes), urinary retention (24%)Common (1% to 10%): Dysuria, hematuria, bacteriuria, residual urine volume
-Common (1% to 10%): Hemorrhage[Ref]
-Common (1% to 10%): Anxiety[Ref]
-1. "Product Information. Botox (onabotulinumtoxin A)." Allergan Inc, Irvine, CA. 
-Not all side effects for Botox Cosmetic may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Hemorrhage
+Common (1% to 10%): Anxiety
 Difficulty with swallowing
-
-
 Difficulty with breathing or speaking
 muscle weakness
-
-
 Dryness of the eyes
 inability to close the eyelids completely
-
-
 Bladder pain
 bloody or cloudy urine
 difficult, burning, or painful urination
 frequent urge to urinate
 lower back or side pain
-
-
 Decreased blinking
 irritation of the cornea (colored portion) of the eyes
 turning outward or inward of the edge of the eyelids
-
-
 Swelling of the eyelids
-
-
 Blue or purplish bruise on the eyelids
 drooping of the upper eyelids
 irritation or watering of the eyes
 sensitivity of the eyes to light
-
-
 Body aches or pain
 chills
 cough, fever, sneezing, or sore throat
@@ -67,11 +42,7 @@ nasal congestion
 neck pain
 runny nose
 unusual tiredness or weakness
-
-
 Neck pain
-
-
 Body aches or pain
 chills
 congestion
@@ -97,19 +68,11 @@ trouble sleeping
 trouble swallowing
 voice changes
 vomiting
-
-
 Drooping of the upper eyelid
 eye pointing upward or downward instead of straight ahead
-
-
 Pain in the arms
-
-
 Skin rash
 swelling of the eyelid skin
-
-
 Bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 blurred vision
 body aches or pain
@@ -123,12 +86,8 @@ nervousness
 pounding in the ears
 slow or fast heartbeat
 tightness in the chest
-
-
 Difficulty finding the location of objects
 double vision
-
-
 Back pain
 body aches or pain
 chills
@@ -142,12 +101,9 @@ nasal congestion
 sneezing
 sore throat
 unusual tiredness or weakness
-
-
 Cough producing mucus
 difficulty breathing
 muscle weakness
 nausea
 tightness in the chest
 weakness
-

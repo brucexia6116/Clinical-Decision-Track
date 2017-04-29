@@ -1,24 +1,10 @@
-Generic Name: fluocinolone topical
-Applies to fluocinolone topical: topical application cream, topical application gel/jelly, topical application kit, topical application lotion, topical application oil, topical application ointment, topical application shampoo, topical application solution
-In addition to its needed effects, some unwanted effects may be caused by fluocinolone topical (the active ingredient contained in Capex). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking fluocinolone topical:
-Some of the side effects that can occur with fluocinolone topical may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to fluocinolone topical: compounding powder, topical cream, topical kit, topical lotion, topical oil, topical ointment, topical shampoo, topical solution
-The most commonly reported side effects were erythema, itching, irritation, and burning.[Ref]
-Frequency not reported: Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome[Ref]
-Common (1% to 10%): Facial herpes simplex, abscess, molluscum[Ref]
-Common (1% to 10%): Telangiectasia, erythema, itching, irritation, burning, hypopigmentation, hyperpigmentation, shiny skin, folliculitis, acneiform eruptions[Ref]
+The most commonly reported side effects were erythema, itching, irritation, and burning.
+Frequency not reported: Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome
+Common (1% to 10%): Facial herpes simplex, abscess, molluscum
+Common (1% to 10%): Telangiectasia, erythema, itching, irritation, burning, hypopigmentation, hyperpigmentation, shiny skin, folliculitis, acneiform eruptions
 Frequency not reported: Intracranial hypertension (including bulging fontanelles, headaches, bilateral papilledema)
-Common (1% to 10%): Secondary atopic dermatitis, papules and pustules, keratosis pilaris, eczema, rashFrequency not reported: Hypertrichosis, maceration of the skin, dermatitis, perioral dermatitis, acne or worsening of acne, acne rosacea[Ref]
-Frequency not reported: Hyperglycemia, glucosuria[Ref]
-1. "Product Information. Synalar (fluocinolone topical)." Syntex Laboratories Inc, Palo Alto, CA. 
-2. "Product Information. Derma-Smooth/FS (fluocinolone topical)." Hill Dermaceuticals Inc, Sanford, FL. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. "Product Information. Capex (fluocinolone topical)." Galderma Laboratories Inc, Fort Worth, TX. 
-Not all side effects for Capex may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Secondary atopic dermatitis, papules and pustules, keratosis pilaris, eczema, rashFrequency not reported: Hypertrichosis, maceration of the skin, dermatitis, perioral dermatitis, acne or worsening of acne, acne rosacea
+Frequency not reported: Hyperglycemia, glucosuria
 Body aches or pain 
 congestion 
 cough
@@ -34,8 +20,6 @@ tender, swollen glands in the neck
 trouble swallowing
 unusual tiredness or weakness
 voice changes
-
-
 Acne or pimples
 accumulation of pus 
 blistering, crusting, irritation, itching, or reddening of the skin
@@ -61,17 +45,10 @@ swelling
 swollen, red, tender area of infection
 thickened patches of the skin
 vomiting
-
-
 Redness and scaling around the mouth
 thinning, weakness, or wasting away of the skin
-
-
 Changes in skin color
 shiny skin
-
-
 increased hair growth on the forehead, back, arms, and legs
 reddish purple lines on the arms, face, legs, trunk, or groin
 softening of the skin
-

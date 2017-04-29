@@ -1,26 +1,18 @@
-Generic Name: nalbuphine
-Applies to nalbuphine: injection solution
 As well as its needed effects, nalbuphine (the active ingredient contained in Nubain) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking nalbuphine, check with your doctor or nurse immediately:
 Some nalbuphine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to nalbuphine: compounding powder, injectable solution
-Nervous system side effects have frequently included sedation (36%), dizziness/vertigo (5%), and headache (3%).  Nervousness, depression, restlessness, crying, euphoria, floating, hostility, unusual dreams, confusion, faintness, hallucinations, dysphoria, feeling of heaviness, numbness, tingling, and unreality have been reported in less than 1% of patients.  A depressed level of consciousness, somnolence, tremor, anxiety, agitation. and seizures have also been reported.[Ref]
-Cardiovascular side effects have included hypertension, hypotension, bradycardia, and tachycardia.[Ref]
-Gastrointestinal side effects have frequently included nausea/vomiting (6%) and dry mouth (4%).  Cramps, dyspepsia, and bitter taste have been reported in less than 1% of patients.[Ref]
-Respiratory side effects have included respiratory depression, dyspnea, asthma, and pulmonary edema.[Ref]
-Dermatologic side effects have included itching, burning, and urticaria.[Ref]
-Other side effects have frequently included a sweaty/clammy feeling (9%).  Speech difficulty and flushing/warmth have been reported in less than 1% of patients.[Ref]
-Genitourinary side effects have included urinary urgency.[Ref]
-Ocular side effects have included blurred vision.[Ref]
-Hypersensitivity reactions have included anaphylactic/anaphylactoid reactions including shock, respiratory distress, respiratory arrest, bradycardia, cardiac arrest, hypotension, and laryngeal edema.  Some of these allergic reactions may be life-threatening.  Death has been reported following severe allergic reactions to nalbuphine (the active ingredient contained in Nubain)   Stridor, bronchospasm, wheezing, edema, rash, pruritus, nausea, vomiting, diaphoresis, weakness, and shakiness have also been reported.[Ref]
-Local side effects have included pain, swelling, redness, burning, and hot sensations at the site of injection.[Ref]
-General side effects including abdominal pain and pyrexia have been reported.[Ref]
-1. "Product Information. Nubain (nalbuphine)." Endo Laboratories, Texarkana, TX. 
+Nervous system side effects have frequently included sedation (36%), dizziness/vertigo (5%), and headache (3%).  Nervousness, depression, restlessness, crying, euphoria, floating, hostility, unusual dreams, confusion, faintness, hallucinations, dysphoria, feeling of heaviness, numbness, tingling, and unreality have been reported in less than 1% of patients.  A depressed level of consciousness, somnolence, tremor, anxiety, agitation. and seizures have also been reported.
+Cardiovascular side effects have included hypertension, hypotension, bradycardia, and tachycardia.
+Gastrointestinal side effects have frequently included nausea/vomiting (6%) and dry mouth (4%).  Cramps, dyspepsia, and bitter taste have been reported in less than 1% of patients.
+Respiratory side effects have included respiratory depression, dyspnea, asthma, and pulmonary edema.
+Dermatologic side effects have included itching, burning, and urticaria.
+Other side effects have frequently included a sweaty/clammy feeling (9%).  Speech difficulty and flushing/warmth have been reported in less than 1% of patients.
+Genitourinary side effects have included urinary urgency.
+Ocular side effects have included blurred vision.
+Hypersensitivity reactions have included anaphylactic/anaphylactoid reactions including shock, respiratory distress, respiratory arrest, bradycardia, cardiac arrest, hypotension, and laryngeal edema.  Some of these allergic reactions may be life-threatening.  Death has been reported following severe allergic reactions to nalbuphine (the active ingredient contained in Nubain)   Stridor, bronchospasm, wheezing, edema, rash, pruritus, nausea, vomiting, diaphoresis, weakness, and shakiness have also been reported.
+Local side effects have included pain, swelling, redness, burning, and hot sensations at the site of injection.
+General side effects including abdominal pain and pyrexia have been reported.
 It is possible that some side effects of Nubain may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Chest pain or discomfort
 difficult or labored breathing
 difficulty swallowing
@@ -34,8 +26,6 @@ sense of detachment from self or body
 shortness of breath
 slow or irregular heartbeat
 wheezing
-
-
 Blue lips and fingernails
 convulsions
 coughing that sometimes produces a pink frothy sputum
@@ -54,8 +44,6 @@ stomach pain
 sudden loss of consciousness
 swelling in legs and ankles
 trembling or shaking of hands or feet
-
-
 Dizziness or lightheadedness
 drowsiness
 feeling of constant movement of self or surroundings
@@ -65,12 +53,8 @@ sensation of spinning
 sleepiness
 sweaty, clammy skin
 vomiting
-
-
 Dry mouth
 Headache
-
-
 Acid or sour stomach
 aggressive or angry
 belching
@@ -109,7 +93,4 @@ trouble concentrating
 trouble sleeping
 tingling feeling of unreality
 unusual tiredness or weakness
-
-
 Bleeding, blistering, burning, coldness, discoloration of skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at site
-

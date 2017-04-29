@@ -1,35 +1,19 @@
-Generic Name: tadalafil
 Common side effects of Cialis include: dyspepsia and headache. Other side effects include: upper respiratory tract infection, back pain, myalgia, cough, and nasal congestion.  See below for a comprehensive list of adverse effects.
-Applies to tadalafil: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by tadalafil (the active ingredient contained in Cialis). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking tadalafil:
-Some of the side effects that can occur with tadalafil may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to tadalafil: oral tablet
-The most commonly reported adverse reactions were headache, nausea, dyspepsia, back pain, myalgia, flushing, nasopharyngitis, and pain in the extremity.  These adverse reactions were dose dependent, transient, and generally mild or moderate.[Ref]
-Most patients that experienced side effects such as myocardial infarction, sudden cardiac death, stroke, palpitations, and tachycardia had preexisting cardiovascular risk factors.  Many of these events were reported to occur during or shortly after sexual activity.[Ref]
-Very common (10% or more): Flushing (up to 14%)Common (1% to 10%): Hypertension, hot flushUncommon (0.1% to 1%): HypotensionFrequency not reported: Unstable angina pectoris, postural hypotension, ventricular arrhythmiaPostmarketing reports: Myocardial infarction, sudden cardiac death, stroke, chest pain, palpitations, and tachycardia, have been reported in temporal association with the use of this drug.[Ref]
-Very common (10% or more): Dyspepsia (up to 13%), nausea (up to 11%)Common (1% to 10%): Diarrhea, gastroesophageal reflux disease, abdominal pain, gastroenteritis, constipationUncommon (0.1% to 1%): VomitingFrequency not reported: Dry mouth, dysphagia, esophagitis, gastritis, loose stools, nausea, upper abdominal pain, hemorrhoidal hemorrhage, rectal hemorrhage[Ref]
-Very common (10% or more): Myalgia (up to 14%), back pain (up to 12%), pain in extremity (up to 11%)Common (1% to 10%): Pain in limb, musculoskeletal stiffnessUncommon (0.1% to 1%): Arthralgia, muscle spasmFrequency not reported: Neck pain[Ref]
-Very common (10% or more): Headache (up to 42%)Common (1% to 10%): Dizziness (1%)Rare (less than 0.1%): Transient global amnesia, transient ischemic attacksFrequency not reported: Hypesthesia, somnolence, syncope, paraesthesiaPostmarketing reports: Migraine, seizure and seizure recurrence[Ref]
-Very common (10% or more): Nasopharyngitis (up to 13%), upper and lower respiratory tract infection (up to 13%)Common (1% to 10%): Nasal congestion (including sinus congestion), cough, influenza, pulmonary hypertension, rhinitisUncommon (0.1% to 1%): Dyspnea, epistaxisFrequency not reported: Pharyngitis[Ref]
-Common (1% to 10%): Urinary tract infection, menorrhagia (including uterine bleeding)Uncommon (0.1% to 1%): Penile hemorrhage, hematospermiaRare (less than 0.1%): Prolonged erectionsFrequency not reported: Erection increased, spontaneous penile erection Postmarketing reports: Priapism[Ref]
-In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.  In many cases, medical follow-up information was limited.[Ref]
-Common (1% to 10%): Peripheral edema, fatigue, edemaUncommon (0.1% to 1%): TinnitusRare (less than 0.1%): Facial edemaFrequency not reported: Vertigo, asthenia, painPostmarketing reports: Cases of sudden decrease or loss of hearing have been reported in temporal association with the use of this drug.[Ref]
-Uncommon (0.1% to 1%): Rash, urticaria, hyperhidrosis (sweating)Rare (less than 0.1%): AngioedemaFrequency not reported: PruritusPostmarketing reports: Stevens-Johnson syndrome, exfoliative dermatitis[Ref]
-Most of the patients with NAION, but not all, had underlying anatomic or vascular risk factors, including but not necessarily limited to: Low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia, and smoking.[Ref]
-Uncommon (0.1% to 1%): Ocular hyperemia, eye pain, eyelid edemaRare (less than 0.1%): Changes in color visionFrequency not reported: Blurred vision, conjunctivitis (including conjunctival hyperemia), eye pain, lacrimation increasedPostmarketing reports: Visual field defect, retinal vein occlusion, and retinal artery occlusion.  Non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported in temporal association with the use of this drug.[Ref]
-Uncommon (0.1% to 1%): HematuriaFrequency not reported: Renal impairment[Ref]
-Frequency not reported: Abnormal liver function tests, GGTP increased[Ref]
-1. "Product Information. Cialis (tadalafil)." Lilly, Eli and Company, Indianapolis, IN. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. "Product Information. Adcirca (tadalafil)." United Therapeutics Corporation, Silver Spring, MD. 
-5. Kloner RA,  Mitchell M,  Emmick JT "Cardiovascular effects of tadalafil." Am J Cardiol 92(9 Suppl) (2003): 37-46
-6. Kloner RA,  Mitchell M,  Emmick JT "Cardiovascular effects of tadalafil in patients on common antihypertensive therapies." Am J Cardiol 92(9A) (2003): 47M-57M
-Not all side effects for Cialis may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported adverse reactions were headache, nausea, dyspepsia, back pain, myalgia, flushing, nasopharyngitis, and pain in the extremity.  These adverse reactions were dose dependent, transient, and generally mild or moderate.
+Most patients that experienced side effects such as myocardial infarction, sudden cardiac death, stroke, palpitations, and tachycardia had preexisting cardiovascular risk factors.  Many of these events were reported to occur during or shortly after sexual activity.
+Very common (10% or more): Flushing (up to 14%)Common (1% to 10%): Hypertension, hot flushUncommon (0.1% to 1%): HypotensionFrequency not reported: Unstable angina pectoris, postural hypotension, ventricular arrhythmiaPostmarketing reports: Myocardial infarction, sudden cardiac death, stroke, chest pain, palpitations, and tachycardia, have been reported in temporal association with the use of this drug.
+Very common (10% or more): Dyspepsia (up to 13%), nausea (up to 11%)Common (1% to 10%): Diarrhea, gastroesophageal reflux disease, abdominal pain, gastroenteritis, constipationUncommon (0.1% to 1%): VomitingFrequency not reported: Dry mouth, dysphagia, esophagitis, gastritis, loose stools, nausea, upper abdominal pain, hemorrhoidal hemorrhage, rectal hemorrhage
+Very common (10% or more): Myalgia (up to 14%), back pain (up to 12%), pain in extremity (up to 11%)Common (1% to 10%): Pain in limb, musculoskeletal stiffnessUncommon (0.1% to 1%): Arthralgia, muscle spasmFrequency not reported: Neck pain
+Very common (10% or more): Headache (up to 42%)Common (1% to 10%): Dizziness (1%)Rare (less than 0.1%): Transient global amnesia, transient ischemic attacksFrequency not reported: Hypesthesia, somnolence, syncope, paraesthesiaPostmarketing reports: Migraine, seizure and seizure recurrence
+Very common (10% or more): Nasopharyngitis (up to 13%), upper and lower respiratory tract infection (up to 13%)Common (1% to 10%): Nasal congestion (including sinus congestion), cough, influenza, pulmonary hypertension, rhinitisUncommon (0.1% to 1%): Dyspnea, epistaxisFrequency not reported: Pharyngitis
+Common (1% to 10%): Urinary tract infection, menorrhagia (including uterine bleeding)Uncommon (0.1% to 1%): Penile hemorrhage, hematospermiaRare (less than 0.1%): Prolonged erectionsFrequency not reported: Erection increased, spontaneous penile erection Postmarketing reports: Priapism
+In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.  In many cases, medical follow-up information was limited.
+Common (1% to 10%): Peripheral edema, fatigue, edemaUncommon (0.1% to 1%): TinnitusRare (less than 0.1%): Facial edemaFrequency not reported: Vertigo, asthenia, painPostmarketing reports: Cases of sudden decrease or loss of hearing have been reported in temporal association with the use of this drug.
+Uncommon (0.1% to 1%): Rash, urticaria, hyperhidrosis (sweating)Rare (less than 0.1%): AngioedemaFrequency not reported: PruritusPostmarketing reports: Stevens-Johnson syndrome, exfoliative dermatitis
+Most of the patients with NAION, but not all, had underlying anatomic or vascular risk factors, including but not necessarily limited to: Low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia, and smoking.
+Uncommon (0.1% to 1%): Ocular hyperemia, eye pain, eyelid edemaRare (less than 0.1%): Changes in color visionFrequency not reported: Blurred vision, conjunctivitis (including conjunctival hyperemia), eye pain, lacrimation increasedPostmarketing reports: Visual field defect, retinal vein occlusion, and retinal artery occlusion.  Non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported in temporal association with the use of this drug.
+Uncommon (0.1% to 1%): HematuriaFrequency not reported: Renal impairment
+Frequency not reported: Abnormal liver function tests, GGTP increased
 Arm, back, or jaw pain
 blurred vision
 chest pain or discomfort
@@ -52,11 +36,7 @@ slow or fast heartbeat
 sweating
 unusual tiredness or weakness
 vomiting
-
-
 Painful or prolonged erection of the penis
-
-
 Abdominal or stomach pain
 blindness
 blistering, peeling, or loosening of the skin
@@ -86,15 +66,11 @@ slow speech
 sores, ulcers, or white spots in the mouth or on the lips
 sudden cardiac death
 swelling of the feet or lower legs
-
-
 Acid or sour stomach
 belching
 heartburn
 indigestion
 stomach discomfort, upset, or pain
-
-
 Bloody nose
 body aches or pain
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
@@ -140,7 +116,4 @@ unable to sleep
 upper abdominal or stomach pain
 voice changes
 watering of the eyes
-
-
 Changes in color vision
-

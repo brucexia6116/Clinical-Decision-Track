@@ -1,159 +1,39 @@
-Generic Name: fluoxetine
 Common side effects of Sarafem include: anxiety, asthenia, diarrhea, drowsiness, dyspepsia, insomnia, nausea, nervousness, tremor, headache, anorexia, decreased libido, xerostomia, and decreased appetite. Other side effects include: dizziness, skin rash, and diaphoresis.  See below for a comprehensive list of adverse effects.
-Applies to fluoxetine: oral capsule, oral capsule delayed release, oral solution, oral syrup, oral tablet
 As well as its needed effects, fluoxetine (the active ingredient contained in Sarafem) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking fluoxetine, check with your doctor immediately:
 Some fluoxetine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to fluoxetine: compounding powder, oral capsule, oral delayed release capsule, oral solution, oral tablet
-The most common side effects that have been associated with the discontinuation of placebo-controlled clinical trials were anxiety, nervousness, nausea, rash, pruritus, insomnia, asthenia, and headache.The side effect profile appears generally similar between adults, children, and adolescents.  Treatment-emergent side effects reported in pediatric patients that were reported at an incidence of at least 2% or more for fluoxetine (the active ingredient contained in Sarafem) and greater than placebo included thirst, hyperkinesia, agitation, personality disorder, epistaxis, urinary frequency, and menorrhagia.  The most common side effect associated with treatment discontinuation in children and adolescents was mania/hypomania.[Ref]
-Antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.  An increased risk of suicidal thinking and behavior in children, adolescents, and young adults (aged 18 to 24 years) with major depressive disorder (MDD) and other psychiatric disorders has been reported with short-term use of antidepressant drugs.Adult and pediatric patients receiving antidepressants for MDD, as well as for psychiatric and nonpsychiatric indications, have reported symptoms that may be precursors to emerging suicidality, including anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia, hypomania, and mania.  Causality has not been established.[Ref]
-Very common (10% or more): Anxiety, insomnia, nervousnessCommon (1% to 10%): Abnormal dreams, disturbance in attention, emotional lability, feeling abnormal, restlessness, sleep disorder, tension, thinking abnormalUncommon (0.1% to 1%): Akathisia, apathy, bruxism, depersonalization, elevated mood, euphoria, hostility, intentional overdose, manic reaction, neurosis, paranoid reaction, personality disorder, psychomotor hyperactivity, psychosis, suicide attemptRare (less than 0.1%): Agitation, antisocial reaction, delusions, hallucinations, hypomania, intentional injury, mania, panic attacks, stuporFrequency not reported: Dysphemia, suicidal thoughts and behaviorPostmarketing reports: Confusion, violent behaviors[Ref]
-Very common (10% or more): Dizziness, headache, somnolence, tremorCommon (1% to 10%): Amnesia, paresthesia, taste perversionUncommon (0.1% to 1%): Abnormal gait, acute brain syndrome, ataxia, balance disorder, CNS depression, CNS stimulation, dyskinesia, hyperkinesia, hypesthesia, hypertonia, incoordination, migraine, myoclonus, neuralgia, neuropathy, seizures, syncope, vascular headacheRare (0.01% to 0.1%): Abnormal EEG, cerebral embolism, cerebral ischemia, circumoral paresthesia, convulsion, decreased reflexes, dysarthria, dystonia, extrapyramidal syndrome, foot drop, hyperesthesia, neuritis, paralysis, taste lossVery rare (less than 0.01%): Serotonin syndrome (neuroleptic malignant syndrome-like effects)Postmarketing reports: Cerebrovascular accident, memory impairment, movement disorders, oculogyric crisis, tardive dyskinesia[Ref]
-One retrospective study of 23 outpatients with Parkinson's disease treated with 40 mg of fluoxetine a day reported that three patients experienced worsening of parkinsonism, two patients experienced improvement of parkinsonism, and 18 patients experienced no change.  Another small study reported a series of four patients who experienced worsening of parkinsonism during treatment with fluoxetine.Potentially life-threatening serotonin syndrome has been reported with SSRIs and SNRIs as monotherapy, but particularly with concomitant use of other serotonergic drugs and drugs that impair the metabolism of serotonin.A number of case reports have implicated fluoxetine in causing seizures.  Twelve of 6000 patients experienced convulsions during pre-marketing testing.A case of dose-dependent exacerbation of preexisting, mild restless legs syndrome (which ultimately required discontinuation of fluoxetine) has been reported.[Ref]
-One placebo-controlled study has suggested that fluoxetine (the active ingredient contained in Sarafem) has no effects on intraventricular conduction.  Other case reports have suggested that fluoxetine may rarely provoke dysrhythmias.  Other conflicting case reports have suggested that fluoxetine may have a propensity to provoke and alleviate vasoconstriction.  Several cases of unexpected death occurring shortly after initiation of fluoxetine therapy have been reported in elderly patients with multiple medical problems.In one case report, QTc prolongation and torsades de pointes developed in an elderly woman 6 months after starting therapy with fluoxetine 20 mg daily.  The QTc interval returned to normal following discontinuation of fluoxetine.  Four additional cases suggesting fluoxetine associated QTc prolongation or torsades de pointes have been reported.[Ref]
-Common (1% to 10%): Chest pain, flushing, hypertension, palpitations, vasodilatationUncommon (0.1% to 1%): Angina pectoris, arrhythmia, congestive heart failure, generalized edema, hypotension, myocardial infarct, peripheral edema, postural hypotensionRare (less than 0.1%): Bradycardia, extrasystoles, heart block, pallor, peripheral vascular disorder, phlebitis, shock, thrombophlebitis, thrombosis, vasculitis, vasospasm, ventricular extrasystoles, ventricular fibrillationPostmarketing reports: Atrial fibrillation, heart arrest, QT-interval prolongation and ventricular arrhythmia including torsades de pointes[Ref]
-A study of 26,005 antidepressant users has reported 3.6 times more upper GI bleeding episodes with the use of SSRIs relative to the population who did not receive antidepressant medications.  Upper gastrointestinal tract bleeding was observed in 3.9 times more frequently in patients receiving fluoxetine (the active ingredient contained in Sarafem) [Ref]
-Very common (10% or more): Diarrhea, dry mouth, nauseaCommon (1% to 10%): Abdominal pain, constipation, dyspepsia, flatulence, increased appetite, vomiting Uncommon (0.1% to 1%): Aphthous stomatitis, buccoglossal syndrome, cholelithiasis, colitis, dysphagia, eructation, esophagitis, gastritis, gastroenteritis, glossitis, gum hemorrhage, hyperchlorhydria, increased salivation, melena, mouth ulcerations, stomach ulcer, stomatitis, thirstRare (less than 0.1%): Acute abdominal syndrome, biliary pain, bloody diarrhea, cholecystitis, duodenal ulcer, enteritis, esophageal pain, esophageal ulcer, fecal incontinence, gastrointestinal hemorrhage, hematemesis, intestinal obstruction, pancreatitis, peptic ulcer, salivary gland enlargement, stomach ulcer hemorrhage, tongue edemaPostmarketing reports: Gastrointestinal bleeding[Ref]
-Numerous cases of hyponatremia have been reported following treatment with an SSRI.  Risk factors for the development of SSRI associated hyponatremia including advanced age, female gender, concomitant use of diuretics, low body weight, and lower baseline serum sodium levels have been identified.  Hyponatremia tends to develop within the first few weeks of treatment (range 3 to 120 days) and typically resolves within 2 weeks (range 48 hours to 6 weeks) after therapy has been discontinued with some patients requiring treatment.  The proposed mechanism for the development of hyponatremia involves the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) via release of antidiuretic hormone.Decreased weight gain has been observed in association with the use of fluoxetine (the active ingredient contained in Sarafem) in children and adolescent patients.[Ref]
-Very common (10% or more): AnorexiaCommon (1% to 10%): Weight loss Uncommon (0.1% to 1%): Decreased appetite, dehydration, gout, hypocholesteremia, hyperlipemia, hypokalemia Rare (less than 0.1%): Alcohol intolerance, creatine phosphokinase increased, diabetes mellitus, hyperkalemia, hyperuricemia, hypocalcemia, hyponatremiaPostmarketing reports: Hypoglycemia[Ref]
-Very common (10% or more): Fatigue (including asthenia)Common (1% to 10%): Accidental injury, chills, ear pain, feeling jittery, fever, infection, pain, tinnitusUncommon (0.1% to 1%): Face edema, feeling hot/cold, malaise, vertigoRare (less than 0.1%): Deafness, hyperacusis, hypothermiaFrequency not reported: Mucosal hemorrhagePostmarketing reports: Malignant hyperthermia[Ref]
-Common (1% to 10%): Decreased libido, ejaculation disorder, erectile dysfunction, gynecological bleeding, impotence, urinary frequencyUncommon (0.1% to 1%): Abortion, albuminuria, amenorrhea, anorgasmia, breast enlargement, breast pain, cystitis, dysuria, female lactation, fibrocystic breast, hematuria, impaired urination, Increased libido, leukorrhea, menorrhagia, metrorrhagia, nocturia, pelvic pain, polyuria, sexual dysfunction (occasionally persisting after treatment discontinuation), urinary incontinence, urinary retention, urinary urgency, vaginal hemorrhageRare (less than 0.1%): Breast engorgement, galactorrhea, glycosuria, hypomenorrhea, kidney pain, oliguria, priapism, uterine fibroids, uterine hemorrhage Postmarketing reports: Enlarged clitoris, gynecomastia, vaginal bleeding[Ref]
-Urinary retention and galactorrhea have been reported with other SSRIs.  The estimates of the incidence of untoward sexual experience and performance may underestimate their actual incidence, partly because patients and physicians may be reluctant to discuss this issue.  In placebo-controlled clinical trials ejaculation disorder (primarily ejaculation delay) was reported as a treatment-emergent side effect at an incidence of 6% and at least twice the incidence in placebo-treated male patients.[Ref]
-Common (1% to 10%): Pruritus, rash, sweating, urticariaUncommon (0.1% to 1%): Acne, alopecia, cold sweat, contact dermatitis, ecchymosis, eczema, increased tendency to bruise, maculopapular rash, skin discoloration, skin ulcerRare (less than 0.1%): Angioedema, furunculosis, hirsutism, petechia, photosensitivity reaction, psoriasis, purpura, purpuric rash, seborrheaPostmarketing reports: Epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, Stevens Johnson syndrome, thrombocytopenic purpura[Ref]
-Approximately 3% of treated patients have been reported to develop a skin reaction.[Ref]
-Uncommon (0.1% to 1%): HypothyroidismRare (less than 0.1%): Diabetic acidosis, hyperprolactinemiaPostmarketing reports: Inappropriate secretion of antidiuretic hormone[Ref]
-Uncommon (0.1% to 1%): AnemiaRare (less than 0.1%): Blood dyscrasia, hypochromic anemia, leukopenia, lymphedema, lymphocytosis, thrombocythemia, iron deficiency anemiaVery rare (less than 0.01%): ThrombocytopeniaPostmarketing reports: Aplastic anemia, eosinophilia, immune-related hemolytic anemia, pancytopenia[Ref]
-Uncommon (0.1% to 1%): Abnormal liver function testsRare (less than 0.1%): Alkaline phosphatase increased, hepatitis, liver fatty deposit, SGPT increasedPostmarketing reports: Aggravation of hepatic damage, cholestatic jaundice, hepatic failure/necrosis, idiosyncratic hepatitis[Ref]
-Common (1% to 10%): Allergic reactionRare (less than 0.1%): Anaphylactoid reaction, serum sickness[Ref]
-Common (1% to 10%): Flu syndromeUncommon (0.1% to 1%): Herpes zoster[Ref]
-Epidemiological studies, primarily in patients aged 50 years or older, have shown an increased risk of bone fractures in patients receiving SSRIs or TCAs.[Ref]
-Common (1% to 10%): Arthralgia, twitching Uncommon (0.1% to 1%): Arthritis, bone pain, bursitis, leg cramps, tenosynovitisRare (less than 0.1%): Arthrosis, chondrodystrophy, myasthenia, myopathy, myositis, osteomyelitis, osteoporosis, rheumatoid arthritisFrequency not reported: Myalgia[Ref]
-Common (1% to 10%): Abnormal vision, vision blurredUncommon (0.1% to 1%): Conjunctivitis, dry eyes, mydriasis, photophobiaRare (less than 0.1%): Blepharitis, diplopia, exophthalmos, glaucoma, iritis, scleritis, strabismus, visual field defectFrequency not reported: Angle-closure glaucoma, eye painPostmarketing reports: Cataract, optic neuritis[Ref]
-Rare (less than 0.1%): BUN increasedPostmarketing reports: Kidney failure[Ref]
-Very common (10% or more): Pharyngitis, rhinitis Common (1% to 10%): Epistaxis, yawn Uncommon (0.1% to 1%): Asthma, dyspnea, hiccup, hyperventilation Rare (less than 0.1%): Apnea, atelectasis, decreased cough, emphysema, hemoptysis, hypoventilation, hypoxia, larynx edema, lung edema, parosmia, pneumothorax, stridor, Frequency not reported: pulmonary events (inflammatory processes of varying histopathology and/or fibrosis)Postmarketing reports: Eosinophilic pneumonia, pulmonary embolism, pulmonary hypertension[Ref]
-1. Oliveros SC, Iruela LM, Caballero L, Baca E "Fluoxetine-induced anorexia in a bulimic patient." Am J Psychiatry 149 (1992): 1113-4
-2. "Product Information. Prozac (fluoxetine)." Dista Products Company, Indianapolis, IN. 
-3. Bross R, Hoffer LJ "Fluoxetine increases resting energy expenditure and basal body temperature in humans." Am J Clin Nutr 61 (1995): 1020-5
-4. Cerner Multum,  Inc. "Australian Product Information." O 0
-5. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-6. Lauterbach EC "Dopaminergic hallucinosis with fluoxetine in parkinson's disease." Am J Psychiatry 150 (1993): 1750
-7. Burrows GD, Norman TR "Suicide, violent behaviour and fluoxetine." Med J Aust 161 (1994): 404-5
-8. Lensgraf SJ, Favazza AR "Antidepressant-induced mania." Am J Psychiatry 147 (1990): 1569
-9. Morton WA, Sonne SC, Lydiard RB "Fluoxetine-associated side effects and suicidality." J Clin Psychopharmacol 13 (1993): 292-5
-10. Narayan M, Meckler L, Nelson JC "Fluoxetine-induced delusions in psychotic depression." J Clin Psychiatry 56 (1995): 329
-11. Black DW, Wojcieszek J "Depersonalization syndrome induced by fluoxetine." Psychosomatics 32 (1991): 468-9
-12. Piredda SG, Rubinstein SL "Hypomania induced by fluoxetine?" Biol Psychiatry 32 (1992): 107
-13. Altshuler LL "Fluoxetine-associated panic attacks." J Clin Psychopharmacol 14 (1994): 433-4
-14. Tinsley JA, Olsen MW, Laroche RR, Palmen MA "Fluoxetine abuse." Mayo Clin Proc 69 (1994): 166-8
-15. Fisher S, Bryant SG, Kent TA "Postmarketing surveillance by patient self-monitoring: trazodone versus fluoxetine." J Clin Psychopharmacol 13 (1993): 235-42
-16. Beasley CM, Jr  Dornseif BE, Bosomworth JC, Sayler ME, Rampey AH, Jr  Heiligenstein JH, Thompson VL, Murphy DJ, Masica DN "Fluoxetine and suicide: a meta-analysis of controlled trials of treatment for depression [published erratum appears in BMJ 1991 Oct 19;303(6808):968]." BMJ 303 (1991): 685-92
-17. Achamallah NS, Decker DH "Mania induced by fluoxetine in an adolescent patient." Am J Psychiatry 148 (1991): 1404
-18. Mann JJ, Kapur S "The emergence of suicidal ideation and behavior during antidepressant pharmacotherapy]." Arch Gen Psychiatry 48 (1991): 1027-33
-19. Fava M, Rosenbaum JF "Suicidality and fluoxetine: is there a relationship?" J Clin Psychiatry 52 (1991): 108-11
-20. Nakielny J "Fluoxetine and suicide." Lancet 343 (1994): 1359
-21. Pies R, Shaughnessey J, Sarango R "Putative fluoxetine-related suicidality." Can J Psychiatry 39 (1994): 580-1
-22. Neill JR "Penile anesthesia associated with fluoxetine use." Am J Psychiatry 148 (1991): 1603
-23. Mandalos GE, Szarek BL "Dose-related paranoid reaction associated with fluoxetine." J Nerv Ment Dis 178 (1990): 57-8
-24. Tueth MJ "Akathisia causing suicide attempts in patients taking fluoxetine (Prozac)." J Emerg Med 11 (1993): 336-7
-25. Mundo E, Ronchi P, Bellodi L "Drug-induced mania." Hosp Community Psychiatry 44 (1993): 689-90
-26. "Fluoxetine and suicide." BMJ 303 (1991): 1058-9
-27. Budman CL, Bruun RD "Persistent dyskinesia in a patient receiving fluoxetine." Am J Psychiatry 148 (1991): 1403
-28. Hersh CB, Sokol MS, Pfeffer CR "Transient psychosis with fluoxetine." J Am Acad Child Adolesc Psychiatry 30 (1991): 851-2
-29. Berthier ML, Kulisevsky J "Fluoxetine - induced mania in a patient with poststroke depression." Br J Psychiatry 163 (1993): 698-9
-30. Masand P, Gupta S, Dewan M "Suicidal ideation related to fluoxetine treatment." N Engl J Med 324 (1991): 420
-31. Marshall RD, Printz D, Cardenas D, Abbate L, Liebowitz MR "Adverse events in PTSD patients taking fluoxetine." Am J Psychiatry 152 (1995): 1238-9
-32. "Fluoxetine and extrapyramidal side effects." Am J Psychiatry 146 (1989): 1352-3
-33. Levine R, Kenin M, Hoffman JS, Dayknepple E "Grand mal seizures associated with the use of fluoxetine." J Clin Psychopharmacol 14 (1994): 145-6
-34. Coulter DM, Pillans PI "Fluoxetine and extrapyramidal side effects." Am J Psychiatry 152 (1995): 122-5
-35. Caley CF, Friedman JH "Does fluoxetine exacerbate Parkinson's disease?" J Clin Psychiatry 53 (1992): 278-82
-36. Steur EN "Increase of Parkinson disability after fluoxetine medication." Neurology 43 (1993): 211-3
-37. Dubovsky SL, Thomas M "Tardive dyskinesia associated with fluoxetine." Psychiatr Serv 47 (1996): 991-3
-38. Mirow S "Cognitive dysfunction associated with fluoxetine." Am J Psychiatry 148 (1991): 948-9
-39. Gupta S, Rajaprabhakaran R "A case report of paradoxical sedation with fluoxetine therapy." J Clin Psychiatry 55 (1994): 118
-40. Lauterbach EC "Reversible intermittent rhythmic myoclonus with fluoxetine in presumed pick's disease." Mov Disord 9 (1994): 343-6
-41. Bhatara VS, Gupta S, Freeman JW "Fluoxetine-associated paresthesias and alopecia in a woman who tolerated sertraline." J Clin Psychiatry 57 (1996): 227
-42. Cunningham M, Cunningham K, Lydiard RB "Eye tics and subjective hearing impairment during fluoxetine therapy." Am J Psychiatry 147 (1990): 947-8
-43. Hargrave R, Martinez D, Bernstein AJ "Fluoxetine-induced seizures." Psychosomatics 33 (1992): 236-9
-44. Madi L, Obrien AAJ, Fennell J "Status epilepticus secondary to fluoxetine." Postgrad Med J 70 (1994): 383-4
-45. Lavin MR, Mendelowitz A, Block SH "Adverse reaction to high-dose fluoxetine." J Clin Psychopharmacol 13 (1993): 452-3
-46. Mander A, Mccausland M, Workman B, Flamer H, Christophidis N "Fluoxetine induced dyskinesia." Aust N Z J Psychiatry 28 (1994): 328-30
-47. McAnally LE, Threlkeld KR, Dreyling CA "Case report of a syncopal episode associated with fluoxetine." Ann Pharmacother 26 (1992): 1090-1
-48. Larson EW "Migraine with typical aura associated with fluoxetine therapy: case report." J Clin Psychiatry 54 (1993): 235-6
-49. Dave M "Fluoxetine-associated dystonia." Am J Psychiatry 151 (1994): 149
-50. Ellison JM, Milofsky JE, Ely E "Fluoxetine-induced bradycardia and syncope in two patients." J Clin Psychiatry 51 (1990): 385-6
-51. Feder R "Bradycardia and syncope induced by fluoxetine." J Clin Psychiatry 52 (1991): 139
-52. Friedman EH "Fluoxetine-induced bradycardia." J Clin Psychiatry 52 (1991): 477
-53. Fisch C "Effect of fluoxetine on the electrocardiogram." J Clin Psychiatry 46 (1985): 42-4
-54. Gunzberger DW, Martinez D "Adverse vascular effects associated with fluoxetine." Am J Psychiatry 12 (1992): 1751
-55. Fricchione GL, Woznicki RM, Klesmer J, Vlay SC "Vasoconstrictive effects and SSRIs." J Clin Psychiatry 54 (1993): 71-2
-56. Wilting I,  Smals OM,  Holwerda NJ,  Meyboom RH,  De Bruin ML,  Egberts TC "QTc prolongation and torsades de pointes in an elderly woman taking fluoxetine." Am J Psychiatry 163 (2006): 325
-57. Palop V, Sancho A, Morales-Olivas FJ, Martinez-Mir I "Fluoxetine-associated stomatitis." Ann Pharmacother 31 (1997): 1478-80
-58. Goldstein DJ, Wilson MG "Adverse event frequencies generate hypotheses of efficacy and safety." Clin Pharmacol Ther 54 (1993): 245-51
-59. Po AL "Antidepressants and upper gastrointestiinal bleeding: new results suggest a link." BMJ 319 (1999): 1081-2
-60. Dalton SO,  Johansen C,  Mellemkjaer L,  Norgard B,  Sorensen HT,  Olsen JH "Use of selective serotonin reuptake inhibitors and risk of upper gastrointestinal tract bleeding: a population-based cohort study." Arch Intern Med 163 (2003): 59-64
-61. deAbajo FJ, Rodriguez LAG, Montero D "Association between selective serotonin reuptake inhibitors and upper gastrointestinal bleeding: population based case-control study." Br Med J 319 (1999): 1106-9
-62. de Abajo FJ, Rodriguez LA, Montero D "Association between selective serotonin reuptake inhibitors and upper gastrointestinal bleeding: population based case-control study." BMJ 319 (1999): 1106-9
-63. Jacob S,  Spinler SA "Hyponatremia associated with selective serotonin-reuptake inhibitors in older adults." Ann Pharmacother 40 (2006): 1618-22
-64. Blacksten JV, Birt JA "Syndrome of inappropriate secretion of antidiuretic hormone secondary to fluoxetine." Ann Pharmacother 27 (1993): 723-4
-65. Halman M, Goldbloom DS "Fluoxetine and neuroleptic malignant syndrome." Biol Psychiatry 28 (1990): 518-21
-66. Hollander JB "Fluoxetine and sexual dysfunction." JAMA 272 (1994): 242
-67. Herman JB, Brotman AW, Pollack MH, Falk WE, Biederman J, Rosenbaum JF "Fluoxetine-induced sexual dysfunction." J Clin Psychiatry 51 (1990): 25-7
-68. Balon R "Fluoxetine and sexual dysfunction." JAMA 273 (1995): 1489
-69. Garciacampayo J, Sanzcarrillo C, Lobo A "Orgasmic sexual experiences as a side effect of fluoxetine: a case report." Acta Psychiatr Scand 91 (1995): 69-70
-70. Kline MD "Fluoxetine and anorgasmia." Am J Psychiatry 146 (1989): 804-5
-71. Balogh S, Hendricks SE, Kang J "Treatment of fluoxetine-induced anorgasmia with amantadine." J Clin Psychiatry 53 (1992): 212-3
-72. Patterson WM "Fluoxetine-induced sexual dysfunction." J Clin Psychiatry 54 (1993): 71
-73. Meltzer HY, Young M, Metz J, Fang VS, Schyve PM, Arora RC "Extrapyramidal side effects and increased serum prolactin following fluoxetine, a new antidepressant." J Neural Transm 45 (1979): 165-75
-74. Musher JS "Anorgasmia with the use of fluoxetine." Am J Psychiatry 147 (1990): 948
-75. Balon R "Sexual obsessions associated with fluoxetine." J Clin Psychiatry 55 (1994): 496
-76. Modell JG "Repeated observations of yawning, clitoral engorgement, and orgasm associated with fluoxetine administration." J Clin Psychopharmacol 9 (1989): 63-5
-77. Benazzi F "Involuntary sperm emission with fluoxetine." Can J Psychiatry 40 (1995): 431
-78. King VL, Jr  Horowitz IR "Vaginal anesthesia associated with fluoxetine use." Am J Psychiatry 150 (1993): 984-5
-79. Gupta RK, Parker G, Norman TR, Judd FK, Burrows GD "Fluoxetine--delayed half-life and an adverse event." Med J Aust 158 (1993): 722-3
-80. Mareth TR "Hair loss associated with fluoxetine use in 2 family members." J Clin Psychiatry 55 (1994): 163
-81. Olfson M, Wilner MT "A family case history of fluoxetine-induced skin reactions." J Nerv Ment Dis 179 (1991): 504-5
-82. Ogilvie AD "Hair loss during fluoxetine treatment." Lancet 342 (1993): 1423
-83. Hemlock C, Rosenthal JS, Winston A "Fluoxetine-induced psoriasis." Ann Pharmacother 26 (1992): 211-2
-84. Gupta S, Major LF "Hair loss associated with fluoxetine." Br J Psychiatry 159 (1991): 737-8
-85. Strain SL "Fluoxetine-initiated ovulatory cycles in 2 clomiphene-resistant women." Am J Psychiatry 151 (1994): 620
-86. Jackson C, Carson W, Markowitz J, Mintzer J "SIADH associated with fluoxetine and sertraline therapy." Am J Psychiatry 152 (1995): 809-10
-87. Kazal LA, Jr  Hall DL, Miller LG, Noel ML "Fluoxetine-induced SIADH: a geriatric occurrence?" J Fam Pract 36 (1993): 341-3
-88. Vishwanath BM, Navalgund AA, Cusano W, Navalgund KA "Fluoxetine as a cause of SIADH." Am J Psychiatry 148 (1991): 542-3
-89. Spigset O, hedenmalm K "Hyponatremia in relation to treatment with antidepressants: a survey of reports in the World Health Organization data base for spontaneous reporting of adverse drug reactions." Pharmacotherapy 17 (1997): 348-52
-90. Staab JP, Yerkes SA, Cheney EM, Clayton AH "Transient SIADH associated with fluoxetine." Am J Psychiatry 147 (1990): 1569-70
-91. Forrest DV "Reappearance of menses in a patient taking fluoxetine." Am J Psychiatry 147 (1990): 257
-92. Cohen BJ, Mahelsky M, Adler L "More cases of SIADH with fluoxetine." Am J Psychiatry 147 (1990): 948-9
-93. Schattner A, Skurnik Y "Fluoxetine-induced SIADH." J Am Geriatr Soc 44 (1996): 1413
-94. Alderman CP, Moritz CK, Ben-Tovim DI "Abnormal platelet aggregation associated with fluoxetine therapy." Ann Pharmacother 26 (1992): 1517-9
-95. Ottervanger JP, Stricker BH, Huls J, Weeda JN "Bleeding attributed to the intake of paroxetine." Am J Psychiatry 151 (1994): 781-2
-96. Aranth J, Lindberg C "Bleeding, a side effect of fluoxetine." Am J Psychiatry 149 (1992): 412
-97. Yaryura-Tobias JA, Kirschen H, Ninan P, Mosberg HJ "Fluoxetine and bleeding in obsessive-compulsive disorder." Am J Psychiatry 148 (1991): 949
-98. Castiella A, Arenas JI "Fluoxetine hepatotoxicity." Am J Gastroenterol 89 (1994): 458-9
-99. Cai Q, Benson MA, Talbot TJ, Devadas G, Swanson HJ, Olson JL, Kirchner JP "Acute hepatitis due to fluoxetine therapy." Mayo Clin Proc 74 (1999): 692-4
-100. Shapiro LE, Knowles SR, Shear NH "Fluoxetine-induced serum sickness-like reaction." Ann Pharmacother 31 (1997): 927
-101. Vincent A, Douville M, Baruch P "Serum sickness induced by fluoxetine." Am J Psychiatry 148 (1991): 1602-3
-102. Beer K, Albertini J, Medenica M, Busbey S "Fluoxetine-induced hypersensitivity." Arch Dermatol 130 (1994): 803-4
-103. Miller LG, Bowman RC, Mann D, Tripathy A "A case of fluoxetine-induced serum sickness." Am J Psychiatry 146 (1989): 1616-7
-104. Reed SM, Glick JW "Fluoxetine and reactivation of the herpes simplex virus." Am J Psychiatry 148 (1991): 949-50
-105. Liu B, Anderson G, Mittmann N, To Teresa, Axcell T, Shear N "Use of selective serotonin-reuptake inhibitors or tricyclic antidepressants and risk of hip fractures in elderly people." Lancet 351 (1998): 1303-7
-106. Ceylan ME,  Maner F "Long-term use of fluoxetine and multiple skeleton fractures." Eur J Clin Pharmacol 66 (2010): 1279
-107. Ahmad S "Fluoxetine and glaucoma." DICP 25 (1991): 436
-108. Bass SP, Colebatch HJ "Fluoxetine-induced lung damage." Med J Aust 156 (1992): 364-5
-109. Gonzalezrothi BJ, Zander DS, Ros PR "Fluoxetine hydrochloride (prozac)-induced pulmonary disease." Chest 107 (1995): 1763-5
-110. Davles LP "Fluoxetine-induced lung damage." Med J Aust 156 (1992): 740
+The most common side effects that have been associated with the discontinuation of placebo-controlled clinical trials were anxiety, nervousness, nausea, rash, pruritus, insomnia, asthenia, and headache.The side effect profile appears generally similar between adults, children, and adolescents.  Treatment-emergent side effects reported in pediatric patients that were reported at an incidence of at least 2% or more for fluoxetine (the active ingredient contained in Sarafem) and greater than placebo included thirst, hyperkinesia, agitation, personality disorder, epistaxis, urinary frequency, and menorrhagia.  The most common side effect associated with treatment discontinuation in children and adolescents was mania/hypomania.
+Antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.  An increased risk of suicidal thinking and behavior in children, adolescents, and young adults (aged 18 to 24 years) with major depressive disorder (MDD) and other psychiatric disorders has been reported with short-term use of antidepressant drugs.Adult and pediatric patients receiving antidepressants for MDD, as well as for psychiatric and nonpsychiatric indications, have reported symptoms that may be precursors to emerging suicidality, including anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia, hypomania, and mania.  Causality has not been established.
+Very common (10% or more): Anxiety, insomnia, nervousnessCommon (1% to 10%): Abnormal dreams, disturbance in attention, emotional lability, feeling abnormal, restlessness, sleep disorder, tension, thinking abnormalUncommon (0.1% to 1%): Akathisia, apathy, bruxism, depersonalization, elevated mood, euphoria, hostility, intentional overdose, manic reaction, neurosis, paranoid reaction, personality disorder, psychomotor hyperactivity, psychosis, suicide attemptRare (less than 0.1%): Agitation, antisocial reaction, delusions, hallucinations, hypomania, intentional injury, mania, panic attacks, stuporFrequency not reported: Dysphemia, suicidal thoughts and behaviorPostmarketing reports: Confusion, violent behaviors
+Very common (10% or more): Dizziness, headache, somnolence, tremorCommon (1% to 10%): Amnesia, paresthesia, taste perversionUncommon (0.1% to 1%): Abnormal gait, acute brain syndrome, ataxia, balance disorder, CNS depression, CNS stimulation, dyskinesia, hyperkinesia, hypesthesia, hypertonia, incoordination, migraine, myoclonus, neuralgia, neuropathy, seizures, syncope, vascular headacheRare (0.01% to 0.1%): Abnormal EEG, cerebral embolism, cerebral ischemia, circumoral paresthesia, convulsion, decreased reflexes, dysarthria, dystonia, extrapyramidal syndrome, foot drop, hyperesthesia, neuritis, paralysis, taste lossVery rare (less than 0.01%): Serotonin syndrome (neuroleptic malignant syndrome-like effects)Postmarketing reports: Cerebrovascular accident, memory impairment, movement disorders, oculogyric crisis, tardive dyskinesia
+One retrospective study of 23 outpatients with Parkinson's disease treated with 40 mg of fluoxetine a day reported that three patients experienced worsening of parkinsonism, two patients experienced improvement of parkinsonism, and 18 patients experienced no change.  Another small study reported a series of four patients who experienced worsening of parkinsonism during treatment with fluoxetine.Potentially life-threatening serotonin syndrome has been reported with SSRIs and SNRIs as monotherapy, but particularly with concomitant use of other serotonergic drugs and drugs that impair the metabolism of serotonin.A number of case reports have implicated fluoxetine in causing seizures.  Twelve of 6000 patients experienced convulsions during pre-marketing testing.A case of dose-dependent exacerbation of preexisting, mild restless legs syndrome (which ultimately required discontinuation of fluoxetine) has been reported.
+One placebo-controlled study has suggested that fluoxetine (the active ingredient contained in Sarafem) has no effects on intraventricular conduction.  Other case reports have suggested that fluoxetine may rarely provoke dysrhythmias.  Other conflicting case reports have suggested that fluoxetine may have a propensity to provoke and alleviate vasoconstriction.  Several cases of unexpected death occurring shortly after initiation of fluoxetine therapy have been reported in elderly patients with multiple medical problems.In one case report, QTc prolongation and torsades de pointes developed in an elderly woman 6 months after starting therapy with fluoxetine 20 mg daily.  The QTc interval returned to normal following discontinuation of fluoxetine.  Four additional cases suggesting fluoxetine associated QTc prolongation or torsades de pointes have been reported.
+Common (1% to 10%): Chest pain, flushing, hypertension, palpitations, vasodilatationUncommon (0.1% to 1%): Angina pectoris, arrhythmia, congestive heart failure, generalized edema, hypotension, myocardial infarct, peripheral edema, postural hypotensionRare (less than 0.1%): Bradycardia, extrasystoles, heart block, pallor, peripheral vascular disorder, phlebitis, shock, thrombophlebitis, thrombosis, vasculitis, vasospasm, ventricular extrasystoles, ventricular fibrillationPostmarketing reports: Atrial fibrillation, heart arrest, QT-interval prolongation and ventricular arrhythmia including torsades de pointes
+A study of 26,005 antidepressant users has reported 3.6 times more upper GI bleeding episodes with the use of SSRIs relative to the population who did not receive antidepressant medications.  Upper gastrointestinal tract bleeding was observed in 3.9 times more frequently in patients receiving fluoxetine (the active ingredient contained in Sarafem) 
+Very common (10% or more): Diarrhea, dry mouth, nauseaCommon (1% to 10%): Abdominal pain, constipation, dyspepsia, flatulence, increased appetite, vomiting Uncommon (0.1% to 1%): Aphthous stomatitis, buccoglossal syndrome, cholelithiasis, colitis, dysphagia, eructation, esophagitis, gastritis, gastroenteritis, glossitis, gum hemorrhage, hyperchlorhydria, increased salivation, melena, mouth ulcerations, stomach ulcer, stomatitis, thirstRare (less than 0.1%): Acute abdominal syndrome, biliary pain, bloody diarrhea, cholecystitis, duodenal ulcer, enteritis, esophageal pain, esophageal ulcer, fecal incontinence, gastrointestinal hemorrhage, hematemesis, intestinal obstruction, pancreatitis, peptic ulcer, salivary gland enlargement, stomach ulcer hemorrhage, tongue edemaPostmarketing reports: Gastrointestinal bleeding
+Numerous cases of hyponatremia have been reported following treatment with an SSRI.  Risk factors for the development of SSRI associated hyponatremia including advanced age, female gender, concomitant use of diuretics, low body weight, and lower baseline serum sodium levels have been identified.  Hyponatremia tends to develop within the first few weeks of treatment (range 3 to 120 days) and typically resolves within 2 weeks (range 48 hours to 6 weeks) after therapy has been discontinued with some patients requiring treatment.  The proposed mechanism for the development of hyponatremia involves the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) via release of antidiuretic hormone.Decreased weight gain has been observed in association with the use of fluoxetine (the active ingredient contained in Sarafem) in children and adolescent patients.
+Very common (10% or more): AnorexiaCommon (1% to 10%): Weight loss Uncommon (0.1% to 1%): Decreased appetite, dehydration, gout, hypocholesteremia, hyperlipemia, hypokalemia Rare (less than 0.1%): Alcohol intolerance, creatine phosphokinase increased, diabetes mellitus, hyperkalemia, hyperuricemia, hypocalcemia, hyponatremiaPostmarketing reports: Hypoglycemia
+Very common (10% or more): Fatigue (including asthenia)Common (1% to 10%): Accidental injury, chills, ear pain, feeling jittery, fever, infection, pain, tinnitusUncommon (0.1% to 1%): Face edema, feeling hot/cold, malaise, vertigoRare (less than 0.1%): Deafness, hyperacusis, hypothermiaFrequency not reported: Mucosal hemorrhagePostmarketing reports: Malignant hyperthermia
+Common (1% to 10%): Decreased libido, ejaculation disorder, erectile dysfunction, gynecological bleeding, impotence, urinary frequencyUncommon (0.1% to 1%): Abortion, albuminuria, amenorrhea, anorgasmia, breast enlargement, breast pain, cystitis, dysuria, female lactation, fibrocystic breast, hematuria, impaired urination, Increased libido, leukorrhea, menorrhagia, metrorrhagia, nocturia, pelvic pain, polyuria, sexual dysfunction (occasionally persisting after treatment discontinuation), urinary incontinence, urinary retention, urinary urgency, vaginal hemorrhageRare (less than 0.1%): Breast engorgement, galactorrhea, glycosuria, hypomenorrhea, kidney pain, oliguria, priapism, uterine fibroids, uterine hemorrhage Postmarketing reports: Enlarged clitoris, gynecomastia, vaginal bleeding
+Urinary retention and galactorrhea have been reported with other SSRIs.  The estimates of the incidence of untoward sexual experience and performance may underestimate their actual incidence, partly because patients and physicians may be reluctant to discuss this issue.  In placebo-controlled clinical trials ejaculation disorder (primarily ejaculation delay) was reported as a treatment-emergent side effect at an incidence of 6% and at least twice the incidence in placebo-treated male patients.
+Common (1% to 10%): Pruritus, rash, sweating, urticariaUncommon (0.1% to 1%): Acne, alopecia, cold sweat, contact dermatitis, ecchymosis, eczema, increased tendency to bruise, maculopapular rash, skin discoloration, skin ulcerRare (less than 0.1%): Angioedema, furunculosis, hirsutism, petechia, photosensitivity reaction, psoriasis, purpura, purpuric rash, seborrheaPostmarketing reports: Epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, Stevens Johnson syndrome, thrombocytopenic purpura
+Approximately 3% of treated patients have been reported to develop a skin reaction.
+Uncommon (0.1% to 1%): HypothyroidismRare (less than 0.1%): Diabetic acidosis, hyperprolactinemiaPostmarketing reports: Inappropriate secretion of antidiuretic hormone
+Uncommon (0.1% to 1%): AnemiaRare (less than 0.1%): Blood dyscrasia, hypochromic anemia, leukopenia, lymphedema, lymphocytosis, thrombocythemia, iron deficiency anemiaVery rare (less than 0.01%): ThrombocytopeniaPostmarketing reports: Aplastic anemia, eosinophilia, immune-related hemolytic anemia, pancytopenia
+Uncommon (0.1% to 1%): Abnormal liver function testsRare (less than 0.1%): Alkaline phosphatase increased, hepatitis, liver fatty deposit, SGPT increasedPostmarketing reports: Aggravation of hepatic damage, cholestatic jaundice, hepatic failure/necrosis, idiosyncratic hepatitis
+Common (1% to 10%): Allergic reactionRare (less than 0.1%): Anaphylactoid reaction, serum sickness
+Common (1% to 10%): Flu syndromeUncommon (0.1% to 1%): Herpes zoster
+Epidemiological studies, primarily in patients aged 50 years or older, have shown an increased risk of bone fractures in patients receiving SSRIs or TCAs.
+Common (1% to 10%): Arthralgia, twitching Uncommon (0.1% to 1%): Arthritis, bone pain, bursitis, leg cramps, tenosynovitisRare (less than 0.1%): Arthrosis, chondrodystrophy, myasthenia, myopathy, myositis, osteomyelitis, osteoporosis, rheumatoid arthritisFrequency not reported: Myalgia
+Common (1% to 10%): Abnormal vision, vision blurredUncommon (0.1% to 1%): Conjunctivitis, dry eyes, mydriasis, photophobiaRare (less than 0.1%): Blepharitis, diplopia, exophthalmos, glaucoma, iritis, scleritis, strabismus, visual field defectFrequency not reported: Angle-closure glaucoma, eye painPostmarketing reports: Cataract, optic neuritis
+Rare (less than 0.1%): BUN increasedPostmarketing reports: Kidney failure
+Very common (10% or more): Pharyngitis, rhinitis Common (1% to 10%): Epistaxis, yawn Uncommon (0.1% to 1%): Asthma, dyspnea, hiccup, hyperventilation Rare (less than 0.1%): Apnea, atelectasis, decreased cough, emphysema, hemoptysis, hypoventilation, hypoxia, larynx edema, lung edema, parosmia, pneumothorax, stridor, Frequency not reported: pulmonary events (inflammatory processes of varying histopathology and/or fibrosis)Postmarketing reports: Eosinophilic pneumonia, pulmonary embolism, pulmonary hypertension
 It is possible that some side effects of Sarafem may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Hives, itching, or skin rash
 inability to sit still
 restlessness
-
-
 Chills or fever
 joint or muscle pain
-
-
 Anxiety
 cold sweats
 confusion
@@ -179,8 +59,6 @@ talking, feeling, and acting with excitement and activity you cannot control
 trouble with breathing
 unusual or incomplete body or facial movements
 unusual tiredness or weakness
-
-
 Abdominal or stomach pain
 agitation
 back or leg pains
@@ -255,11 +133,7 @@ unusually pale skin
 use of extreme physical or emotional force
 vomiting of blood
 yellow eyes or skin
-
-
 Decreased appetite
-
-
 Abnormal dreams
 breast enlargement or pain
 change in sense of taste
@@ -275,12 +149,9 @@ stomach cramps, gas, or pain
 unusual secretion of milk, in females
 weight loss
 yawning
-
-
 Cracks in the skin
 loss of heat from the body
 painful or prolonged erections of the penis
 scaly skin
 swelling of the breasts or breast soreness in both females and males
 unusual milk production
-

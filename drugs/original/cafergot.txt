@@ -1,45 +1,14 @@
-Generic Name: caffeine / ergotamine
-Applies to caffeine / ergotamine: tablets
 Other dosage forms:
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Nausea.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); blue color of the fingers or toes; chest pain or tightness; cold or pale fingers or toes; diarrhea; dizziness; hallucinations; headache; irregular heartbeat; leg cramps or weakness; mental or mood changes; muscle pain; numbness or tingling of the hands, feet, or skin; ringing in the ears; seizure; severe or persistent nausea or vomiting; shortness of breath; swelling; temporary fast or slow heartbeat; vomiting; weak pulse.
-
-
-Applies to caffeine / ergotamine: oral tablet, rectal suppository
-Gastrointestinal side effects including nausea, vomiting, and diarrhea have occurred commonly with ergotamine use.[Ref]
-The extremities are most frequently affected by arterial spasm and amputation has occasionally been required.The headaches during ergotamine withdrawal are often subjectively different in character from the headaches that prompted ergotamine therapy.[Ref]
-Other side effects including arterial spasm, sometimes with resulting distal necrosis, have been reported rarely with ergotamine use.  Other vascular effects which have been reported rarely include myocardial ischemia or infarction, pulselessness, tongue necrosis, bilateral papillitis, blindness, ischemic pancreatitis, ischemic hepatitis, bowel infarction, renal arteriospasm with acute renal failure, fatal stroke, venous thrombosis, and cerebral arteriopathy.Withdrawal symptoms, particularly headaches, have been frequently reported after discontinuation of ergotamine, especially after long-term use.In one study of the effects of caffeine, 634 women with fibrocystic breast disease (compared to 1066 women without the disease), the occurrence of fibrocystic breast disease was positively associated with average daily consumption of caffeine.  Women who consumed 31 to 250 mg/day of caffeine were reported to have a 1.5 times increase in odds to have the disease.  Women who consumed over 500 mg/day of caffeine were reported to have a 2.3 times increase in odds.Retroperitoneal fibrosis, pleuropulmonary fibrosis, and pericardial fibrosis have been reported rarely with chronic use of ergotamine and other ergot alkaloids.[Ref]
-Cardiovascular side effects including hypertension, tachycardia, bradycardia, precordial distress, chest pain, and valvular disease have been reported with ergotamine use.[Ref]
-The valvular lesions induced by ergotamine are echocardiographically similar to those seen in rheumatic heart disease, but are more often found on the mitral and aortic valves.  A new murmur heard during ergot therapy should prompt evaluation for ergot-induced valvular disease.  Rapid discontinuation of ergot therapy may allow the murmur and valvular lesions to regress.[Ref]
-General side effects including caffeinism have been reported.  Consumption of higher doses of caffeine (>600 mg/day) has been reported to have lead to caffeinism.  Caffeinism is a syndrome characterized by anxiety, restlessness, and sleep disorders (similar to anxiety states).  It has also been reported that chronic, heavy caffeine ingestion may be associated with depression.  Caffeine may cause anxiety and panic in panic disorder patients and may aggravate PMS.[Ref]
-Musculoskeletal side effects including joint pain, muscle cramps, and weakness have been reported with ergotamine use.[Ref]
-Nervous system side effects including drowsiness, paresthesias, headache, peripheral neuropathy, vertigo, tremor, dystonia, and reflex sympathetic dystrophy have been reported with ergotamine use.[Ref]
-Local side effects including solitary rectal ulcers, anovaginal fistulae, and rectovaginal fistulae have been reported in association with the use of ergotamine suppositories.[Ref]
-1. Orton DA, Richardson RJ "Ergotamine absorption and toxicity." Postgrad Med J 58 (1982): 6-11
-2. Dahlof C "Placebo-controlled clinical trials with ergotamine in the acute treatment of migraine." Cephalalgia 13 (1993): 166-71
-3. Sanders SW, Haering N, Mosberg H, Jaeger H "Pharmacokinetics of ergotamine in healthy volunteers following oral and rectal dosing." Eur J Clin Pharmacol 30 (1986): 331-4
-4. Bernstein AL "More on ergotamine withdrawal ." Headache 27 (1987): 458
-5. Lindboe CF, Dahl T, Rostad B "Fatal stroke in migraine: a case report with autopsy findings." Cephalalgia 9 (1989): 277-80
-6. Stillman AE, Weinberg M, Mast WC, Palpant S "Ischemic bowel disease attributable to ergot." Gastroenterology 72 (1977): 1336-7
-7. Benedict CR, Robertson D "Angina pectoris and sudden death in the absence of atherosclerosis following ergotamine therapy for migraine." Am J Med 67 (1979): 177-8
-8. Bondeson J, Ericsson UB, Falke P, Mattiasson I, Nyman U, Lindell E, Bernow J "Tongue necrosis in temporal arteritis provoked by ergotamine." J Intern Med 232 (1992): 541-4
-9. Klein LS, Simpson RJ, Jr  Stern R, Hayward JC, Foster JR "Myocardial infarction following administration of sublingual ergotamine." Chest 82 (1982): 375-6
-10. Zicot M, Grandfils F, Honore D "Prolonged arterial hemodynamic disturbances in the lower limbs after oral use of ergotamine." Angiology 29 (1978): 495-6
-11. Lepage-Savary D, Vallieres A "Ergotamine as a possible cause of retroperitoneal fibrosis." Clin Pharm 1 (1982): 179-80
-12. Hokkanen E, Waltimo O, Kallanranta T "Toxic effects of ergotamine used for migraine." Headache 18 (1978): 95-8
-13. Mathew NT "Chronic refractory headache." Neurology 43 (1993): s26-33
-14. Allen MB, Tosh G, Walters G, Muers MF "Pleural and pericardial fibrosis after ergotamine therapy." Respir Med 88 (1994): 67-9
-15. Taal BG, Spierings EL, Hilvering C "Pleuropulmonary fibrosis associated with chronic and excessive intake of ergotamine." Thorax 38 (1983): 396-8
-16. Deviere J, Reuse C, Askenasi R "Ischemic pancreatitis and hepatitis secondary to ergotamine poisoning." J Clin Gastroenterol 9 (1987): 350-2
-17. Fincham RW, Perdue Z, Dunn VD "Bilateral focal cortical atrophy and chronic ergotamine abuse." Neurology 35 (1985): 720-2
-18. Pusey CD, Rainford DJ "St Anthony's fire and pseudochronic renal failure." Br Med J 2 (1977): 935
-19. Gupta DR, Strobos RJ "Bilateral papillitis associated with Cafergot therapy." Neurology 22 (1972): 793-7
-20. Mintz U, Bar-Meir S, De Vries A "Ergotamine-induced venous thrombosis." Postgrad Med J 50 (1974): 244-6
-21. Redfield MM, Nicholson WJ, Edwards WD, Tajik AJ "Valve disease associated with ergot alkaloid use: echocardiographic and pathologic correlations." Ann Intern Med 117 (1992): 50-2
-22. Ibraheem JJ, Paalzow L, Tfelt-Hansen P "Linear pharmacokinetics of intravenous ergotamine tartrate." Eur J Clin Pharmacol 29 (1985): 61-6
-23. Clementz GL, Dailey JW "Psychotropic effects of caffeine." Am Fam Physician 37 (1988): 167-72
-24. Sawynok J "Pharmacological rationale for the clinical use of caffeine." Drugs 49 (1995): 37-50
-25. Merello MJ, Nogues MA, Leiguarda RC, Lopez Saubidet C "Dystonia and reflex sympathetic dystrophy induced by ergotamine." Mov Disord 6 (1991): 263-4
-Not all side effects for Cafergot may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Gastrointestinal side effects including nausea, vomiting, and diarrhea have occurred commonly with ergotamine use.
+The extremities are most frequently affected by arterial spasm and amputation has occasionally been required.The headaches during ergotamine withdrawal are often subjectively different in character from the headaches that prompted ergotamine therapy.
+Other side effects including arterial spasm, sometimes with resulting distal necrosis, have been reported rarely with ergotamine use.  Other vascular effects which have been reported rarely include myocardial ischemia or infarction, pulselessness, tongue necrosis, bilateral papillitis, blindness, ischemic pancreatitis, ischemic hepatitis, bowel infarction, renal arteriospasm with acute renal failure, fatal stroke, venous thrombosis, and cerebral arteriopathy.Withdrawal symptoms, particularly headaches, have been frequently reported after discontinuation of ergotamine, especially after long-term use.In one study of the effects of caffeine, 634 women with fibrocystic breast disease (compared to 1066 women without the disease), the occurrence of fibrocystic breast disease was positively associated with average daily consumption of caffeine.  Women who consumed 31 to 250 mg/day of caffeine were reported to have a 1.5 times increase in odds to have the disease.  Women who consumed over 500 mg/day of caffeine were reported to have a 2.3 times increase in odds.Retroperitoneal fibrosis, pleuropulmonary fibrosis, and pericardial fibrosis have been reported rarely with chronic use of ergotamine and other ergot alkaloids.
+Cardiovascular side effects including hypertension, tachycardia, bradycardia, precordial distress, chest pain, and valvular disease have been reported with ergotamine use.
+The valvular lesions induced by ergotamine are echocardiographically similar to those seen in rheumatic heart disease, but are more often found on the mitral and aortic valves.  A new murmur heard during ergot therapy should prompt evaluation for ergot-induced valvular disease.  Rapid discontinuation of ergot therapy may allow the murmur and valvular lesions to regress.
+General side effects including caffeinism have been reported.  Consumption of higher doses of caffeine (>600 mg/day) has been reported to have lead to caffeinism.  Caffeinism is a syndrome characterized by anxiety, restlessness, and sleep disorders (similar to anxiety states).  It has also been reported that chronic, heavy caffeine ingestion may be associated with depression.  Caffeine may cause anxiety and panic in panic disorder patients and may aggravate PMS.
+Musculoskeletal side effects including joint pain, muscle cramps, and weakness have been reported with ergotamine use.
+Nervous system side effects including drowsiness, paresthesias, headache, peripheral neuropathy, vertigo, tremor, dystonia, and reflex sympathetic dystrophy have been reported with ergotamine use.
+Local side effects including solitary rectal ulcers, anovaginal fistulae, and rectovaginal fistulae have been reported in association with the use of ergotamine suppositories.
 suppositories

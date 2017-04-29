@@ -1,30 +1,18 @@
-Generic Name: leucovorin
-Applies to leucovorin: injectable, powder for solution, solution, tablet
 As well as its needed effects, leucovorin (the active ingredient contained in Wellcovorin) may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking leucovorin, check with your doctor immediately:
 If any of the following side effects occur while taking leucovorin, check with your doctor or nurse as soon as possible:
-
-
-Applies to leucovorin: compounding powder, injectable powder for injection, injectable solution, oral tablet
-Adverse events attributed to use of leucovorin (the active ingredient contained in Wellcovorin) folinic acid by itself include allergic sensitization, including anaphylactoid reactions and urticaria; gastrointestinal and hematologic adverse events were common when used with fluorouracil.[Ref]
-Very common (10% or more): Stomatitis (75%, when used with fluorouracil), nausea (74%, when used with fluorouracil), diarrhea (66%, when used with fluorouracil), vomiting (46%, when used with fluorouracil), dehydration (when used with fluorouracil) Common (1% to 10%): Constipation (when used with fluorouracil)Rare (less than 0.1%): Gastrointestinal disorders (after high doses)Frequency not reported: Mucositis (when used with fluorouracil), cheilitis (when used with fluorouracil)[Ref]
-When used with fluorouracil, diarrhea and dehydration have resulted in hospital admission and death.[Ref]
-Very common (10% or more): Leucopenia (69%, when used with fluorouracil)Common (1% to 10%): Thrombocytopenia (when used with fluorouracil)[Ref]
-Very rare (less than 0.01%): Allergic reactions (sensitization, including anaphylactoid reactions, shock, and urticaria)Frequency not reported: Stevens Johnson Syndrome and Toxic Epidermal Necrolysis (in combination with other agents)[Ref]
-Very common (10% or more): Alopecia (42%, when used with fluorouracil), dermatitis (21%, when used with fluorouracil)Frequency not reported: Palmar-plantar erythrodysesthesia (when used with fluorouracil)[Ref]
-Very common (10% or more): Lethargy/malaise/fatigue (13%, when used with fluorouracil)Uncommon (0.1% to 1%): Pyrexial reactions (following parenteral administration)[Ref]
+Adverse events attributed to use of leucovorin (the active ingredient contained in Wellcovorin) folinic acid by itself include allergic sensitization, including anaphylactoid reactions and urticaria; gastrointestinal and hematologic adverse events were common when used with fluorouracil.
+Very common (10% or more): Stomatitis (75%, when used with fluorouracil), nausea (74%, when used with fluorouracil), diarrhea (66%, when used with fluorouracil), vomiting (46%, when used with fluorouracil), dehydration (when used with fluorouracil) Common (1% to 10%): Constipation (when used with fluorouracil)Rare (less than 0.1%): Gastrointestinal disorders (after high doses)Frequency not reported: Mucositis (when used with fluorouracil), cheilitis (when used with fluorouracil)
+When used with fluorouracil, diarrhea and dehydration have resulted in hospital admission and death.
+Very common (10% or more): Leucopenia (69%, when used with fluorouracil)Common (1% to 10%): Thrombocytopenia (when used with fluorouracil)
+Very rare (less than 0.01%): Allergic reactions (sensitization, including anaphylactoid reactions, shock, and urticaria)Frequency not reported: Stevens Johnson Syndrome and Toxic Epidermal Necrolysis (in combination with other agents)
+Very common (10% or more): Alopecia (42%, when used with fluorouracil), dermatitis (21%, when used with fluorouracil)Frequency not reported: Palmar-plantar erythrodysesthesia (when used with fluorouracil)
+Very common (10% or more): Lethargy/malaise/fatigue (13%, when used with fluorouracil)Uncommon (0.1% to 1%): Pyrexial reactions (following parenteral administration)
 Very common (10% or more): Anorexia (14%, when used with fluorouracil)Frequency not reported: Hyperammonemia (when used with fluorouracil)
-Common (1% to 10%): Infection (when used with fluorouracil)[Ref]
-Rare (less than 0.1%): Increase in the frequency of attacks in epileptics, seizures, syncope[Ref]
-Rare (less than 0.1%): Insomnia, agitation, depression[Ref]
-1. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Leucovorin Calcium (leucovorin)." Bedford Laboratories, Bedford, OH. 
+Common (1% to 10%): Infection (when used with fluorouracil)
+Rare (less than 0.1%): Increase in the frequency of attacks in epileptics, seizures, syncope
+Rare (less than 0.1%): Insomnia, agitation, depression
 It is possible that some side effects of Wellcovorin may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Skin rash, hives, or itching
 wheezing 
-
-
 Convulsions (seizures)
-

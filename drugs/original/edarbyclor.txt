@@ -1,25 +1,14 @@
-Generic Name: azilsartan medoxomil / chlorthalidone
-Applies to azilsartan medoxomil / chlorthalidone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by azilsartan medoxomil / chlorthalidone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking azilsartan medoxomil / chlorthalidone:
-Some of the side effects that can occur with azilsartan medoxomil / chlorthalidone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to azilsartan medoxomil / chlorthalidone: oral tablet
-The most common side effects were dizziness and fatigue.[Ref]
-Common (1% to 10%): DizzinessUncommon (0.1% to 1%): SyncopePostmarketing reports: Loss of consciousnessAzilsartan:Common (1% to 10%): DizzinessFrequency not reported: Dizziness posturalChlorthalidone:Common (1% to 10%): DizzinessFrequency not reported: Headache[Ref]
-Common (1% to 10%): FatigueAzilsartan:Uncommon (0.1% to 1%): FatigueFrequency not reported: AstheniaChlorthalidone:Common (1% to 10%): Fatigue[Ref]
-Common (1% to 10%): Consecutive creatinine increases of 50% or greater from baseline and greater than the upper limit of normalAzilsartan:Uncommon (0.1% to 1%): Consecutive creatinine increases of 50% or greater from baseline and greater than the upper limit of normalChlorthalidone:Uncommon (0.1% to 1%): Consecutive creatinine increases of 50% or greater from baseline and greater than the upper limit of normal[Ref]
-Postmarketing reports: NauseaAzilsartan:Frequency not reported: Diarrhea, nauseaChlorthalidone:Frequency not reported: Gastrointestinal upset[Ref]
-Common (1% to 10%): Hypotension[Ref]
-Postmarketing reports: Rash, pruritus, angioedemaChlorthalidone:Frequency not reported: Rash[Ref]
-Chlorthalidone:Frequency not reported: Cholesterol elevated[Ref]
-Frequency not reported: BUN increasedChlorthalidone:Frequency not reported: Uric acid elevated[Ref]
-Azilsartan:Frequency not reported: Muscle spasm[Ref]
-Azilsartan:Frequency not reported: Cough[Ref]
-1. "Product Information. Edarbyclor (azilsartan-chlorthalidone)." Takeda Pharmaceuticals America, Lincolnshire, IL. 
-Not all side effects for Edarbyclor may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common side effects were dizziness and fatigue.
+Common (1% to 10%): DizzinessUncommon (0.1% to 1%): SyncopePostmarketing reports: Loss of consciousnessAzilsartan:Common (1% to 10%): DizzinessFrequency not reported: Dizziness posturalChlorthalidone:Common (1% to 10%): DizzinessFrequency not reported: Headache
+Common (1% to 10%): FatigueAzilsartan:Uncommon (0.1% to 1%): FatigueFrequency not reported: AstheniaChlorthalidone:Common (1% to 10%): Fatigue
+Common (1% to 10%): Consecutive creatinine increases of 50% or greater from baseline and greater than the upper limit of normalAzilsartan:Uncommon (0.1% to 1%): Consecutive creatinine increases of 50% or greater from baseline and greater than the upper limit of normalChlorthalidone:Uncommon (0.1% to 1%): Consecutive creatinine increases of 50% or greater from baseline and greater than the upper limit of normal
+Postmarketing reports: NauseaAzilsartan:Frequency not reported: Diarrhea, nauseaChlorthalidone:Frequency not reported: Gastrointestinal upset
+Common (1% to 10%): Hypotension
+Postmarketing reports: Rash, pruritus, angioedemaChlorthalidone:Frequency not reported: Rash
+Chlorthalidone:Frequency not reported: Cholesterol elevated
+Frequency not reported: BUN increasedChlorthalidone:Frequency not reported: Uric acid elevated
+Azilsartan:Frequency not reported: Muscle spasm
+Azilsartan:Frequency not reported: Cough
 Blurred vision
 confusion
 convulsions
@@ -36,25 +25,16 @@ numbness or tingling in the hands, feet, or lips
 shortness of breath
 sweating
 unusual tiredness or weakness
-
-
 Ankle, knee, or great toe joint pain
 joint stiffness or swelling
 lower back, side, or stomach pain
 swelling of the feet or lower legs
-
-
 Dizziness
-
-
 Cough
 diarrhea
 lack or loss of strength
 muscle spasm
-
-
 Headache
 loss of appetite
 rash
 stomach cramps
-

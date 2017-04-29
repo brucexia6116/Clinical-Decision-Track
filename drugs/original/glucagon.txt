@@ -1,16 +1,6 @@
-Applies to glucagon: injection powder for solution
-In addition to its needed effects, some unwanted effects may be caused by glucagon. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking glucagon:
-Some of the side effects that can occur with glucagon may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to glucagon: injectable powder for injection
-Gastrointestinal side effects have included nausea and vomiting.  A higher incidence of nausea and vomiting has been reported with higher doses.[Ref]
-Endocrine side effects have included symptoms of hypoglycemia following a dose of glucagon.[Ref]
-Hypersensitivity side effects have included generalized allergic reactions, including urticaria, respiratory distress, and hypotension.[Ref]
-1. "Product Information. Glucagon (glucagon)." Lilly, Eli and Company, Indianapolis, IN. 
-Not all side effects for glucagon may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Gastrointestinal side effects have included nausea and vomiting.  A higher incidence of nausea and vomiting has been reported with higher doses.
+Endocrine side effects have included symptoms of hypoglycemia following a dose of glucagon.
+Hypersensitivity side effects have included generalized allergic reactions, including urticaria, respiratory distress, and hypotension.
 Anxiety
 blurred vision
 chills
@@ -30,8 +20,6 @@ seizures
 shakiness
 slurred speech
 unusual tiredness or weakness
-
-
 Difficulty with swallowing
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position
 fast, pounding, or irregular heartbeat or pulse
@@ -41,7 +29,4 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 slow or fast heartbeat
 sweating
 tightness in the chest
-
-
 Vomiting
-

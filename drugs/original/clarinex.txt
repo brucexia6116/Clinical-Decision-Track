@@ -1,23 +1,11 @@
-Generic Name: desloratadine
 More frequent side effects include: fatigue, pharyngitis, and nausea.  See below for a comprehensive list of adverse effects.
-Applies to desloratadine: oral syrup, oral tablet, oral tablet disintegrating
-In addition to its needed effects, some unwanted effects may be caused by desloratadine (the active ingredient contained in Clarinex). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking desloratadine:
-Some of the side effects that can occur with desloratadine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to desloratadine: oral solution, oral tablet, oral tablet disintegrating
-Cardiovascular side effects of spontaneous nature reported during the marketing of desloratadine (the active ingredient contained in Clarinex) have included tachycardia and palpitations.[Ref]
-Hypersensitivity side effects of spontaneous nature reported during the marketing of desloratadine (the active ingredient contained in Clarinex) have included rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis.[Ref]
-Hepatic side effects have included elevated liver enzymes and bilirubin.  Very rarely, hepatitis has been observed in clinical practice.[Ref]
-Gastrointestinal side effects have included dry mouth, dry throat, nausea, and pharyngitis.[Ref]
-Nervous system side effects have included somnolence and dizziness.  Psychomotor hyperactivity and seizures have been observed in clinical practice.[Ref]
-An increase in the incidence of somnolence has been reported in clinical trials (n=1838) at doses of 10 mg/day and 20 mg/day (5.2% and 7.6%, respectively), compared to placebo (2.3%).[Ref]
-General side effects have included myalgia and influenza-like symptoms.[Ref]
-1. "Product Information. Clarinex (desloratadine)." Schering Corporation, Kenilworth, NJ. 
-2. Layton D,  Wilton L,  Boshier A,  Cornelius V,  Harris S,  Shakir SA "Comparison of the risk of drowsiness and sedation between levocetirizine and desloratadine: a prescription-event monitoring study in England." Drug Saf 29 (2006): 897-909
-Not all side effects for Clarinex may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cardiovascular side effects of spontaneous nature reported during the marketing of desloratadine (the active ingredient contained in Clarinex) have included tachycardia and palpitations.
+Hypersensitivity side effects of spontaneous nature reported during the marketing of desloratadine (the active ingredient contained in Clarinex) have included rash, pruritus, urticaria, edema, dyspnea, and anaphylaxis.
+Hepatic side effects have included elevated liver enzymes and bilirubin.  Very rarely, hepatitis has been observed in clinical practice.
+Gastrointestinal side effects have included dry mouth, dry throat, nausea, and pharyngitis.
+Nervous system side effects have included somnolence and dizziness.  Psychomotor hyperactivity and seizures have been observed in clinical practice.
+An increase in the incidence of somnolence has been reported in clinical trials (n=1838) at doses of 10 mg/day and 20 mg/day (5.2% and 7.6%, respectively), compared to placebo (2.3%).
+General side effects have included myalgia and influenza-like symptoms.
 Anaphylaxis, such as, cough, difficulty swallowing, dizziness, fast heartbeat, hives, itching, puffiness or swelling of eyelids or around the eyes or face or lips or tongue, shortness of breath, skin rash, tightness in chest, unusual tiredness or weakness, wheezing
 dyspnea, such as, shortness of breath, difficult or labored breathing, tightness in chest, wheezing
 edema, such as, swelling
@@ -25,11 +13,7 @@ pruritus, such as, itching skin
 rash 
 tachycardia, such as, fast, pounding, or irregular heartbeat or pulse
 urticaria, such as, hives or welts, itching, redness of skin, skin rash.
-
-
 Headache
-
-
 Dizziness
 dry mouth
 dysmenorrhea, such as, difficult or painful menstruation
@@ -39,4 +23,3 @@ myalgia, such as, joint pain, swollen joints, muscle aching or cramping, muscle 
 pharyngitis, such as, body aches or pain, congestion, cough, dryness or soreness of throat, fever, hoarseness, runny nose, tender swollen glands in neck, trouble in swallowing, voice changes.
 somnolence, such as, sleepiness or unusual drowsiness
 nausea
-

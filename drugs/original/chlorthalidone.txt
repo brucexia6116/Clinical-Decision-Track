@@ -1,29 +1,17 @@
-Applies to chlorthalidone: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by chlorthalidone. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking chlorthalidone:
-Some of the side effects that can occur with chlorthalidone may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to chlorthalidone: oral tablet
-Common (1% to 10%): Postural hypotensionRare (less than 0.1%): Cardiac arrhythmias[Ref]
-Common (1% to 10%): Urticaria, rashRare (less than 0.1%): Photosensitivity Frequency not reported: Purpura, necrotizing angiitis (vasculitis, cutaneous vasculitis), Lyell's syndrome (toxic epidermal necrolysis)[Ref]
-Common (1% to 10%): GI discomfort, anorexiaRare (0.01% to 0.1%): Nausea, vomiting, upper abdominal pain, constipation, diarrhea Very rare (less than 0.01%): PancreatitisFrequency not reported: Cramping[Ref]
-Common (1% to 10%): ImpotenceFrequency not reported: Glycosuria[Ref]
-Rare (less than 0.1%): Thrombocytopenia, leucopenia, agranulocytosiseosinophilia Frequency not reported: Aplastic anemia[Ref]
-Very common (10% or more): Hypokalemia, hyperuricemia, hyperlipidemiaCommon (1% to 10%): Hyponatremia, hypomagnesemia, hyperglycemia Uncommon (0.1% to 1%): GoutRare (0.01% to 0.1%): Hypercalcemia, inadequate control of diabetes mellitus Very rare (less than 0.01%): Hypochloremic alkalosis[Ref]
-Rare (less than 0.1%): Intrahepatic cholestasis or jaundice[Ref]
-Hypersensitivity reactions usually involve the skin (see DERMATOLOGIC).[Ref]
-Frequency not reported: Muscle spasm[Ref]
-Common (1% to 10%): DizzinessRare (less than 0.1%): Paresthesia, headache Frequency not reported: Vertigo[Ref]
-Frequency not reported: Vertigo, weakness[Ref]
-Rare (less than 0.1%): Visual impairment Frequency not reported: Xanthopsia[Ref]
-Frequency not reported: Restlessness[Ref]
-Very rare (less than 0.01%): Noncardiogenic pulmonary edema[Ref]
-1. "Product Information. Chlorthalidone (chlorthalidone)." Sun Pharmaceutical Industries, Cranbury, NJ. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for chlorthalidone may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Postural hypotensionRare (less than 0.1%): Cardiac arrhythmias
+Common (1% to 10%): Urticaria, rashRare (less than 0.1%): Photosensitivity Frequency not reported: Purpura, necrotizing angiitis (vasculitis, cutaneous vasculitis), Lyell's syndrome (toxic epidermal necrolysis)
+Common (1% to 10%): GI discomfort, anorexiaRare (0.01% to 0.1%): Nausea, vomiting, upper abdominal pain, constipation, diarrhea Very rare (less than 0.01%): PancreatitisFrequency not reported: Cramping
+Common (1% to 10%): ImpotenceFrequency not reported: Glycosuria
+Rare (less than 0.1%): Thrombocytopenia, leucopenia, agranulocytosiseosinophilia Frequency not reported: Aplastic anemia
+Very common (10% or more): Hypokalemia, hyperuricemia, hyperlipidemiaCommon (1% to 10%): Hyponatremia, hypomagnesemia, hyperglycemia Uncommon (0.1% to 1%): GoutRare (0.01% to 0.1%): Hypercalcemia, inadequate control of diabetes mellitus Very rare (less than 0.01%): Hypochloremic alkalosis
+Rare (less than 0.1%): Intrahepatic cholestasis or jaundice
+Hypersensitivity reactions usually involve the skin (see DERMATOLOGIC).
+Frequency not reported: Muscle spasm
+Common (1% to 10%): DizzinessRare (less than 0.1%): Paresthesia, headache Frequency not reported: Vertigo
+Frequency not reported: Vertigo, weakness
+Rare (less than 0.1%): Visual impairment Frequency not reported: Xanthopsia
+Frequency not reported: Restlessness
+Very rare (less than 0.01%): Noncardiogenic pulmonary edema
 Abdominal or stomach pain
 black, tarry stools
 bleeding gums
@@ -87,8 +75,6 @@ vomiting of blood
 weight loss
 wheezing
 yellow eyes or skin
-
-
 Cramping
 decreased interest in sexual intercourse
 difficulty having a bowel movement (stool)
@@ -103,4 +89,3 @@ restlessness
 sensation of spinning
 severe sunburn
 weakness
-

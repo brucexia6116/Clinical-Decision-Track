@@ -1,25 +1,14 @@
-Generic Name: rilonacept
 Common side effects of Arcalyst include: upper respiratory tract infection and injection site reaction.  See below for a comprehensive list of adverse effects.
-Applies to rilonacept: subcutaneous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by rilonacept (the active ingredient contained in Arcalyst). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking rilonacept:
-Some of the side effects that can occur with rilonacept may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to rilonacept: subcutaneous powder for injection
-In patients with Cryopyrin-Associated Periodic Syndromes (CAPS), the most common and consistently reported adverse event associated with rilonacept (the active ingredient contained in Arcalyst) was injection-site reaction (ISR).  The ISRs included erythema, swelling, pruritis, mass, bruising, inflammation, pain, edema, dermatitis, discomfort, urticaria, vesicles, warmth, and hemorrhage.  Most injection-site reactions lasted for one to two days.  No ISRs were assessed as severe, and no patient discontinued study participation due to an ISR.[Ref]
-Local side effects including injection-site reactions (48%) have been reported.[Ref]
-One subject receiving rilonacept (the active ingredient contained in Arcalyst) for an unapproved indication developed an infection in his olecranon bursa with Mycobacterium intracellulare.  The patient was on chronic glucocorticoid treatment.  The infection occurred after an intraarticular glucocorticoid injection into the bursa with subsequent local exposure to a suspected source of mycobacteria.  The patient recovered after the administration of the appropriate antimicrobial therapy.A patient treated for another unapproved indication developed bronchitis/sinusitis, which resulted in hospitalization.One patient died in an open-label study of CAPS from Streptococcus pneumoniae meningitis.[Ref]
-Immunologic side effects including infections (34%) have been reported.[Ref]
-Respiratory side effects including upper respiratory tract infection (26%), sinusitis (9%), and cough (9%) have been reported.[Ref]
-Nervous system side effects including hypoesthesia (9%) have been reported.[Ref]
-Gastrointestinal side effects including nausea (4%) diarrhea (4%) and stomach discomfort (4%) have been reported.[Ref]
-Hematologic side effects have been reported including one case of transient neutropenia (ANC less than 1 x 109/L) after receiving a large dose (2000 mg intravenously) of rilonacept (the active ingredient contained in Arcalyst)   Patients with CAPS treated with rilonacept experienced increases in their mean total cholesterol, HDL cholesterol, LDL cholesterol, and triglycerides.  The mean increases from baseline for total cholesterol, HDL cholesterol, LDL cholesterol, and triglycerides were 19 mg/dL, 2 mg/dL, 10 mg/dL, and 57 mg/dL respectively after 6 weeks of open-label therapy.[Ref]
-The patient did not experience any infection associated with the neutropenia.Physicians should monitor the lipid profiles of their patients (for example after 2 to 3 months) and consider lipid-lowering therapies as needed based upon cardiovascular risk factors and current guidelines.[Ref]
-Genitourinary side effects including urinary tract infection (4%) have been reported.[Ref]
-1. "Product Information. Arcalyst (rilonacept)." Regeneron Pharmaceuticals Inc, Tarrytown, NY. 
-Not all side effects for Arcalyst may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+In patients with Cryopyrin-Associated Periodic Syndromes (CAPS), the most common and consistently reported adverse event associated with rilonacept (the active ingredient contained in Arcalyst) was injection-site reaction (ISR).  The ISRs included erythema, swelling, pruritis, mass, bruising, inflammation, pain, edema, dermatitis, discomfort, urticaria, vesicles, warmth, and hemorrhage.  Most injection-site reactions lasted for one to two days.  No ISRs were assessed as severe, and no patient discontinued study participation due to an ISR.
+Local side effects including injection-site reactions (48%) have been reported.
+One subject receiving rilonacept (the active ingredient contained in Arcalyst) for an unapproved indication developed an infection in his olecranon bursa with Mycobacterium intracellulare.  The patient was on chronic glucocorticoid treatment.  The infection occurred after an intraarticular glucocorticoid injection into the bursa with subsequent local exposure to a suspected source of mycobacteria.  The patient recovered after the administration of the appropriate antimicrobial therapy.A patient treated for another unapproved indication developed bronchitis/sinusitis, which resulted in hospitalization.One patient died in an open-label study of CAPS from Streptococcus pneumoniae meningitis.
+Immunologic side effects including infections (34%) have been reported.
+Respiratory side effects including upper respiratory tract infection (26%), sinusitis (9%), and cough (9%) have been reported.
+Nervous system side effects including hypoesthesia (9%) have been reported.
+Gastrointestinal side effects including nausea (4%) diarrhea (4%) and stomach discomfort (4%) have been reported.
+Hematologic side effects have been reported including one case of transient neutropenia (ANC less than 1 x 109/L) after receiving a large dose (2000 mg intravenously) of rilonacept (the active ingredient contained in Arcalyst)   Patients with CAPS treated with rilonacept experienced increases in their mean total cholesterol, HDL cholesterol, LDL cholesterol, and triglycerides.  The mean increases from baseline for total cholesterol, HDL cholesterol, LDL cholesterol, and triglycerides were 19 mg/dL, 2 mg/dL, 10 mg/dL, and 57 mg/dL respectively after 6 weeks of open-label therapy.
+The patient did not experience any infection associated with the neutropenia.Physicians should monitor the lipid profiles of their patients (for example after 2 to 3 months) and consider lipid-lowering therapies as needed based upon cardiovascular risk factors and current guidelines.
+Genitourinary side effects including urinary tract infection (4%) have been reported.
 Bleeding, blistering, burning, coldness, discoloration of skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at site
 body aches or pain
 chills
@@ -34,8 +23,6 @@ runny nose
 sneezing
 sore throat
 unusual tiredness or weakness
-
-
 Bloody or black, tarry stools
 constipation
 cough producing mucus
@@ -47,10 +34,5 @@ shortness of breath or troubled breathing
 tenderness
 tightness of chest or wheezing
 vomiting of blood or material that looks like coffee grounds
-
-
 Burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
-
-
 Stomach discomfort
-

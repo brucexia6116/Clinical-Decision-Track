@@ -1,32 +1,20 @@
 Commonly reported side effects of losartan include: asthenia, chest pain, diarrhea, fatigue, and hypoglycemia. Other side effects include: hyperkalemia, hypotension, and orthostatic hypotension.  See below for a comprehensive list of adverse effects.
-Applies to losartan: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by losartan. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking losartan:
-Some of the side effects that can occur with losartan may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to losartan: oral tablet
-The most common adverse reactions were upper respiratory infection and dizziness.[Ref]
-Common (1% to 10%): Nasal congestion, upper respiratory infection, sinusitis, pharyngitis, cough, sinus disorderUncommon (0.1% to 1%): DyspneaFrequency not reported: Bronchitis, pharyngeal discomfort, epistaxis, rhinitis, respiratory congestion[Ref]
-Common (1% to 10%): Abdominal pain, nausea, diarrhea, dyspepsiaUncommon (0.1% to 1%): Obstipation, vomitingFrequency not reported: Constipation, dental pain, dry mouth, flatulence, gastritis[Ref]
-Common (1% to 10%): Muscle cramp, back pain, leg pain, myalgiaFrequency not reported: Arm pain, hip pain, joint swelling, knee pain, musculoskeletal pain, shoulder pain, stiffness, arthralgia, arthritis, fibromyalgia, muscle weaknessPostmarketing reports: Rhabdomyolysis[Ref]
-Common (1% to 10%): Renal impairment, renal failure, BUN increased, serum creatinine increased[Ref]
-Common (1% to 10%): Dizziness, headache, vertigoUncommon (0.1% to 1%): SomnolenceRare (less than 0.1%): Paresthesia, syncope, cerebrovascular accidentFrequency not reported: Ataxia, hypesthesia, memory impairment, migraine, peripheral neuropathy, tremor, taste perversion, tinnitus[Ref]
-Common (1% to 10%): Asthenia/fatigue, edema/swelling, chest painFrequency not reported: Facial edema, fever, orthostatic effectsPostmarketing reports: Malaise[Ref]
-Common (1% to 10%): Hyperkalemia, serum potassium increased, hypoglycemiaFrequency not reported: Anorexia, goutPostmarketing reports: Hyponatremia[Ref]
-Common (1% to 10%): Orthostatic hypotensionUncommon (0.1% to 1%): Palpitation, angina pectorisRare (less than 0.1%): Atrial fibrillationFrequency not reported: Second degree atrioventricular block, hypotension, myocardial infarction, sinus bradycardia, tachycardia, ventricular tachycardia, ventricular fibrillation, flushingPostmarketing reports: Vasculitis[Ref]
-Common (1% to 10%): InsomniaUncommon (0.1% to 1%): Sleep disorderFrequency not reported: Anxiety, anxiety disorder, confusion, depression, dream abnormality, libido decreased, nervousness, panic disorder[Ref]
-Common (1% to 10%): AnemiaRare (less than 0.1%): HemolysisPostmarketing reports: Thrombocytopenia, hemoglobin decreased, hematocrit decreased[Ref]
-Uncommon (0.1% to 1%): Urticaria, pruritus, rashRare (less than 0.1%): Angioedema, superficial peeling of palmsFrequency not reported: Alopecia, dermatitis, dry skin, ecchymosis, erythema, photosensitivity, sweatingPostmarketing reports: Erythroderma[Ref]
-Rare (less than 0.1%): ALT increasedPostmarketing reports: Hepatitis, liver enzymes increased, serum bilirubin increased, pancreatitis, liver function abnormalities[Ref]
-Frequency not reported: Impotence, nocturia, urinary frequency, urinary tract infection[Ref]
-Frequency not reported: Blurred vision, burning/stinging in the eye, conjunctivitis, visual acuity decreased[Ref]
-Frequency not reported: Flu-like symptomsPostmarketing reports: Anaphylactic reactions, hypersensitivity reactions[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. "Product Information. Cozaar (losartan)." Merck & Co, Inc, West Point, PA. 
-Not all side effects for losartan may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common adverse reactions were upper respiratory infection and dizziness.
+Common (1% to 10%): Nasal congestion, upper respiratory infection, sinusitis, pharyngitis, cough, sinus disorderUncommon (0.1% to 1%): DyspneaFrequency not reported: Bronchitis, pharyngeal discomfort, epistaxis, rhinitis, respiratory congestion
+Common (1% to 10%): Abdominal pain, nausea, diarrhea, dyspepsiaUncommon (0.1% to 1%): Obstipation, vomitingFrequency not reported: Constipation, dental pain, dry mouth, flatulence, gastritis
+Common (1% to 10%): Muscle cramp, back pain, leg pain, myalgiaFrequency not reported: Arm pain, hip pain, joint swelling, knee pain, musculoskeletal pain, shoulder pain, stiffness, arthralgia, arthritis, fibromyalgia, muscle weaknessPostmarketing reports: Rhabdomyolysis
+Common (1% to 10%): Renal impairment, renal failure, BUN increased, serum creatinine increased
+Common (1% to 10%): Dizziness, headache, vertigoUncommon (0.1% to 1%): SomnolenceRare (less than 0.1%): Paresthesia, syncope, cerebrovascular accidentFrequency not reported: Ataxia, hypesthesia, memory impairment, migraine, peripheral neuropathy, tremor, taste perversion, tinnitus
+Common (1% to 10%): Asthenia/fatigue, edema/swelling, chest painFrequency not reported: Facial edema, fever, orthostatic effectsPostmarketing reports: Malaise
+Common (1% to 10%): Hyperkalemia, serum potassium increased, hypoglycemiaFrequency not reported: Anorexia, goutPostmarketing reports: Hyponatremia
+Common (1% to 10%): Orthostatic hypotensionUncommon (0.1% to 1%): Palpitation, angina pectorisRare (less than 0.1%): Atrial fibrillationFrequency not reported: Second degree atrioventricular block, hypotension, myocardial infarction, sinus bradycardia, tachycardia, ventricular tachycardia, ventricular fibrillation, flushingPostmarketing reports: Vasculitis
+Common (1% to 10%): InsomniaUncommon (0.1% to 1%): Sleep disorderFrequency not reported: Anxiety, anxiety disorder, confusion, depression, dream abnormality, libido decreased, nervousness, panic disorder
+Common (1% to 10%): AnemiaRare (less than 0.1%): HemolysisPostmarketing reports: Thrombocytopenia, hemoglobin decreased, hematocrit decreased
+Uncommon (0.1% to 1%): Urticaria, pruritus, rashRare (less than 0.1%): Angioedema, superficial peeling of palmsFrequency not reported: Alopecia, dermatitis, dry skin, ecchymosis, erythema, photosensitivity, sweatingPostmarketing reports: Erythroderma
+Rare (less than 0.1%): ALT increasedPostmarketing reports: Hepatitis, liver enzymes increased, serum bilirubin increased, pancreatitis, liver function abnormalities
+Frequency not reported: Impotence, nocturia, urinary frequency, urinary tract infection
+Frequency not reported: Blurred vision, burning/stinging in the eye, conjunctivitis, visual acuity decreased
+Frequency not reported: Flu-like symptomsPostmarketing reports: Anaphylactic reactions, hypersensitivity reactions
 Abdominal or stomach pain
 anxiety
 bladder pain
@@ -59,8 +47,6 @@ troubled breathing with exertion
 unusual bleeding or bruising
 unusual tiredness or weakness
 weakness or heaviness of the legs
-
-
 Arm, back, or jaw pain
 chest pain or discomfort
 chest tightness or heaviness
@@ -76,8 +62,6 @@ temporary blindness
 unsteadiness or awkwardness
 weakness in the arm or leg on one side of the body, sudden and severe
 weakness in the arms, hands, legs, or feet
-
-
 Black, tarry stools
 bleeding gums
 cough
@@ -95,8 +79,6 @@ puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 skin rash
 upper right abdominal or stomach pain
 yellow eyes and skin
-
-
 Blindness
 body aches or pain
 decreased vision
@@ -107,8 +89,6 @@ nasal congestion
 runny nose
 sneezing
 sore throat
-
-
 Acid or sour stomach
 back pain
 belching
@@ -125,8 +105,6 @@ stomach discomfort or upset
 swollen joints
 trouble sleeping
 weight gain
-
-
 Ankle, knee, or great toe joint pain
 bloated
 change or loss of taste
@@ -143,4 +121,3 @@ passing gas
 redness or other discoloration of the skin
 severe sunburn
 weight loss
-

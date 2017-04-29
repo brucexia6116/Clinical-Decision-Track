@@ -1,20 +1,10 @@
-Generic Name: hyaluronan
 Common side effects of Monovisc include: arthralgia and headache. Other side effects include: back pain.  See below for a comprehensive list of adverse effects.
-Applies to hyaluronan: injection
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Mild bruising, heat, redness, swelling, or pain at the injection site; temporary achy feeling; temporary knee inflammation.
 Severe allergic reactions (rash; hives; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue).
-
-
-Applies to hyaluronan: intra-articular gel, intra-articular solution
-Local side effects have included erythema, edema, pain, and other injection site reactions in 0.2% to 2.5% of patients.[Ref]
-Musculoskeletal side effects have included arthralgia, arthritis, arthropathy, Baker's cyst, bursitis, joint disorder, joint effusion, joint stiffness, joint swelling, pseudosepsis, localized osteoarthritis, aggravated osteoarthritis, ecchymosis, and knee arthroplasty.[Ref]
-Pseudosepsis has been characterized as severe joint inflammation with pain and effusion occurring 24 to 72 hours after injection and it may be more likely to occur after the second or third injection or with repeated courses.  Nonsteroidal anti-inflammatory drugs, intra-articular steroids, and/or arthrocentesis are often required to treat pseudosepsis.In a double-blind, controlled trial involving 226 patients with knee osteoarthritis the most frequent cause of discontinuation of sodium hyaluronate therapy was worsening of knee pain (11% vs. 13% with saline).[Ref]
-Gastrointestinal side effects have included nausea, diarrhea, dyspepsia, and abdominal pain.[Ref]
-The most common side effects have included arthralgia (12.6% vs 17.2% with saline and 0.8% with arthrocentesis), back pain (6.9% vs 12.2% with saline and 4.9% with arthrocentesis), headache (12.1% vs 16.6% with saline and 17.9% with arthrocentesis).[Ref]
-Other side effects have included general fatigue and pain.[Ref]
-1. Adams ME,  Lussier AJ,  Peyron JG "A risk-benefit assessment of injections of hyaluronan and its derivatives in the treatment of osteoarthritis of the knee." Drug Saf 23 (2000): 115-30
-2. Brandt KD,  Block JA,  Michalski JP,  Moreland LW,  Caldwell JR,  Lavin PT "Efficacy and safety of intraarticular sodium hyaluronate in knee osteoarthritis. ORTHOVISC Study Group." Clin Orthop  (2001): 130-43
-3. "Product Information. Orthovisc (hyaluronan)." Ortho Biotech Inc, Bridgewater, NJ. 
-4. Goldberg VM,  Coutts RD "Pseudoseptic reactions to hylan viscosupplementation: diagnosis and treatment." Clin Orthop  (2004): 130-7
-Not all side effects for Monovisc may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Local side effects have included erythema, edema, pain, and other injection site reactions in 0.2% to 2.5% of patients.
+Musculoskeletal side effects have included arthralgia, arthritis, arthropathy, Baker's cyst, bursitis, joint disorder, joint effusion, joint stiffness, joint swelling, pseudosepsis, localized osteoarthritis, aggravated osteoarthritis, ecchymosis, and knee arthroplasty.
+Pseudosepsis has been characterized as severe joint inflammation with pain and effusion occurring 24 to 72 hours after injection and it may be more likely to occur after the second or third injection or with repeated courses.  Nonsteroidal anti-inflammatory drugs, intra-articular steroids, and/or arthrocentesis are often required to treat pseudosepsis.In a double-blind, controlled trial involving 226 patients with knee osteoarthritis the most frequent cause of discontinuation of sodium hyaluronate therapy was worsening of knee pain (11% vs. 13% with saline).
+Gastrointestinal side effects have included nausea, diarrhea, dyspepsia, and abdominal pain.
+The most common side effects have included arthralgia (12.6% vs 17.2% with saline and 0.8% with arthrocentesis), back pain (6.9% vs 12.2% with saline and 4.9% with arthrocentesis), headache (12.1% vs 16.6% with saline and 17.9% with arthrocentesis).
+Other side effects have included general fatigue and pain.

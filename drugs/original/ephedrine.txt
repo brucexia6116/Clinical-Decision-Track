@@ -1,19 +1,12 @@
-Applies to ephedrine: oral fixed-dose combination with guaifenesin, parenteral injection
 Side effects include:
 Parenteral ephedrine: Nervousness, insomnia, vertigo, headache, tachycardia, palpitation, sweating, nausea, vomiting, anorexia, vesical sphincter spasm (resulting in difficult and painful urination), urinary retention (particularly in males with prostatism). 
-Applies to ephedrine: compounding powder, injectable solution, intravenous solution, oral capsule
-The most frequently reported side effects were nausea, vomiting, and tachycardia.[Ref]
-Very rare (less than 0.01%): Myocardial infarctionFrequency not reported: Tachycardia, palpitations, reactive hypertension, bradycardia, ventricular ectopics, R-R variability, pallor, angina/anginal pain, hypertension, hypotension, extrasystole, arrhythmias, vasodilation with low blood pressure, flushing, impaired circulation to extremities[Ref]
-Frequency not reported: Difficult/painful urination, acute urinary retention[Ref]
-Frequency not reported: Dizziness, headache, trembling, lightheadedness, tremor, sedation[Ref]
-Frequency not reported: Dry nose, dry throat, shortness of breath, respiratory difficulty, dyspnea, respiratory depression[Ref]
-Frequency not reported: Restlessness, addiction, nervousness, anxiety, insomnia, mood/mental changes, fear, irritability, confusion, delirium, euphoria, psychotic states, tension, hallucinations[Ref]
-Frequency not reported: Fever, precordial pain, vertigo, tachyphylaxis, drug tolerance, drug dependence, weakness[Ref]
-Frequency not reported: Nausea, vomiting, dry mouth, mild epigastric distress, hypersalivation[Ref]
-Frequency not reported: Hyperglycemia, anorexia[Ref]
-Frequency not reported: Sweating[Ref]
-1. "Product Information. Akovaz (ePHEDrine)." Eclat Pharmaceuticals, Menomonee Falls,, WI. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. "Product Information. Ephedrine Sulfate (ephedrine)." Akorn Inc, Buffalo Grove, IL. 
-Not all side effects for ephedrine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most frequently reported side effects were nausea, vomiting, and tachycardia.
+Very rare (less than 0.01%): Myocardial infarctionFrequency not reported: Tachycardia, palpitations, reactive hypertension, bradycardia, ventricular ectopics, R-R variability, pallor, angina/anginal pain, hypertension, hypotension, extrasystole, arrhythmias, vasodilation with low blood pressure, flushing, impaired circulation to extremities
+Frequency not reported: Difficult/painful urination, acute urinary retention
+Frequency not reported: Dizziness, headache, trembling, lightheadedness, tremor, sedation
+Frequency not reported: Dry nose, dry throat, shortness of breath, respiratory difficulty, dyspnea, respiratory depression
+Frequency not reported: Restlessness, addiction, nervousness, anxiety, insomnia, mood/mental changes, fear, irritability, confusion, delirium, euphoria, psychotic states, tension, hallucinations
+Frequency not reported: Fever, precordial pain, vertigo, tachyphylaxis, drug tolerance, drug dependence, weakness
+Frequency not reported: Nausea, vomiting, dry mouth, mild epigastric distress, hypersalivation
+Frequency not reported: Hyperglycemia, anorexia
+Frequency not reported: Sweating

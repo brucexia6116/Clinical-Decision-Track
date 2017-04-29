@@ -1,27 +1,19 @@
-Generic Name: chlorpheniramine / codeine
-Applies to chlorpheniramine / codeine: oral suspension extended release
 As well as its needed effects, chlorpheniramine / codeine may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking chlorpheniramine / codeine, check with your doctor immediately:
 Some chlorpheniramine / codeine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to chlorpheniramine / codeine: oral liquid, oral suspension, oral suspension extended release, oral tablet
-Codeine or Chlorpheniramine: Frequency not reported: Fast, or slow heartbeat, hypertension, hypotension, orthostatic hypotension, palpitations, shock-like state, syncope[Ref]
-Codeine or Chlorpheniramine: Frequency not reported: Weakness, dizziness, drowsiness, sedation, headache, facial dyskinesia, lightheadedness, somnolence, dyskinesia, tremor[Ref]
-Codeine or Chlorpheniramine: Frequency not reported: Nausea, vomiting, constipation, abdominal distension, abdominal pain, acute pancreatitis, dry mouth, dyspepsia, epigastric distress, diarrhea, gastro-esophageal reflux, gastrointestinal hypomotility[Ref]
-Codeine: Frequency not reported: Respiratory depression, dryness of the pharynx and respiratory passages, laryngismus, atelectasis, wheezing, troubled breathing, hiccups[Ref]
-Codeine or Chlorpheniramine: Frequency not reported: Decreased lactation, early menses, gynecomastia, increased libido, pheochromocytoma stimulation[Ref]
-Codeine or Chlorpheniramine: Frequency not reported: Redness or flushing of face, skin rash, pruritus, erythema, urticaria, excessive perspiration, dermatitis[Ref]
-Codeine or Chlorpheniramine: Frequency not reported: Allergic laryngospasm, nasal stuffiness, bronchospastic allergic reaction, hives, itching, swelling of face[Ref]
-Codeine or Chlorpheniramine: Frequency not reported: Blurred vision, diplopia, visual disturbances, hypermetropia, lacrimation increased, mydriasis, photophobia[Ref]
-The more commonly reported adverse effects have included nausea, vomiting, constipation, blurred vision, confusion, dizziness, depression, drowsiness, headache, lightheadedness, insomnia, irritability, and tremor.[Ref]
-Codeine or Chlorpheniramine: Frequency not reported: Asthenia, feeling of relaxation, unusual tiredness, labyrinthitis, tinnitus, vertigo[Ref]
-Codeine or Chlorpheniramine: Frequency not reported: Changes in glucose utilization, glycosuria, hypoglycemia, increased appetite, loss of appetite[Ref]
-Codeine: Frequency not reported: Drug dependence, confusion, depression, euphoria, false sense of well-being, excitability, nervousness, agitation, restlessness, insomnia, irritability[Ref]
-1. "Product Information. Tuzistra XR (chlorpheniramine-codeine)." Vernalis Pharmaceuticals Inc, Morristown, NJ. 
-2. "Product Information. Zodryl AC Adult (chlorpheniramine-codeine)." codaDOSE Incorporated, Flowery Branch [Atlanta], GA. 
+Codeine or Chlorpheniramine: Frequency not reported: Fast, or slow heartbeat, hypertension, hypotension, orthostatic hypotension, palpitations, shock-like state, syncope
+Codeine or Chlorpheniramine: Frequency not reported: Weakness, dizziness, drowsiness, sedation, headache, facial dyskinesia, lightheadedness, somnolence, dyskinesia, tremor
+Codeine or Chlorpheniramine: Frequency not reported: Nausea, vomiting, constipation, abdominal distension, abdominal pain, acute pancreatitis, dry mouth, dyspepsia, epigastric distress, diarrhea, gastro-esophageal reflux, gastrointestinal hypomotility
+Codeine: Frequency not reported: Respiratory depression, dryness of the pharynx and respiratory passages, laryngismus, atelectasis, wheezing, troubled breathing, hiccups
+Codeine or Chlorpheniramine: Frequency not reported: Decreased lactation, early menses, gynecomastia, increased libido, pheochromocytoma stimulation
+Codeine or Chlorpheniramine: Frequency not reported: Redness or flushing of face, skin rash, pruritus, erythema, urticaria, excessive perspiration, dermatitis
+Codeine or Chlorpheniramine: Frequency not reported: Allergic laryngospasm, nasal stuffiness, bronchospastic allergic reaction, hives, itching, swelling of face
+Codeine or Chlorpheniramine: Frequency not reported: Blurred vision, diplopia, visual disturbances, hypermetropia, lacrimation increased, mydriasis, photophobia
+The more commonly reported adverse effects have included nausea, vomiting, constipation, blurred vision, confusion, dizziness, depression, drowsiness, headache, lightheadedness, insomnia, irritability, and tremor.
+Codeine or Chlorpheniramine: Frequency not reported: Asthenia, feeling of relaxation, unusual tiredness, labyrinthitis, tinnitus, vertigo
+Codeine or Chlorpheniramine: Frequency not reported: Changes in glucose utilization, glycosuria, hypoglycemia, increased appetite, loss of appetite
+Codeine: Frequency not reported: Drug dependence, confusion, depression, euphoria, false sense of well-being, excitability, nervousness, agitation, restlessness, insomnia, irritability
 It is possible that some side effects of Tuzistra XR may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Acid or sour stomach
 anxiety
 belching
@@ -70,8 +62,6 @@ tunnel vision
 unusual tiredness or weakness
 vomiting
 yellow eyes or skin
-
-
 Anxiety
 blistering, crusting, or irritation of the skin
 continuing ringing or buzzing or other unexplained noise in the ears
@@ -95,4 +85,3 @@ swelling of the breasts or breast soreness in both females and males
 trouble sleeping
 twitching, twisting, uncontrolled repetitive movements of the tongue, lips, face, arms, or legs
 watering of eyes
-

@@ -1,40 +1,23 @@
-Generic Name: sucralfate
-Applies to sucralfate: oral suspension, oral tablet
-In addition to its needed effects, some unwanted effects may be caused by sucralfate (the active ingredient contained in Carafate). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking sucralfate:
-Some of the side effects that can occur with sucralfate may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to sucralfate: compounding powder, oral suspension, oral tablet
-The most commonly reported side effect was constipation.[Ref]
-Common (1% to 10%): ConstipationUncommon (0.1% to 1%): Dry mouth, nauseaRare (0.01% to 0.1%): Bezoar formationFrequency not reported: Diarrhea, vomiting, gastric discomfort, indigestion, flatulencePostmarketing reports: Lip swelling, mouth edema[Ref]
-Bezoars were reported in patients with enteral feedings, delayed gastric emptying, and/or low birthweight neonates.[Ref]
-Encephalopathy occurred in patients with chronic renal impairment and/or on long-term treatment.Cerebral emboli occurred in patients receiving IV administration.[Ref]
-Common (1% to 10%): HeadacheFrequency not reported: Dizziness, drowsiness/sleepiness, vertigo, encephalopathyPostmarketing reports: Cerebral emboli[Ref]
-Uncommon (0.1% to 1%): UrticariaRare (0.01% to 0.1%): RashFrequency not reported: Pruritus[Ref]
-Osteodystrophy and osteomalacia occurred in patients with chronic renal impairment and/or on long-term treatment.[Ref]
-Frequency not reported: Back pain, osteodystrophy, osteomalacia[Ref]
-Frequency not reported: Anaphylactic reaction, hypersensitivity reactions[Ref]
-Pulmonary edema occurred after IV administration.[Ref]
-Frequency not reported: DyspneaPostmarketing reports: Bronchospasm, laryngeal edema, pharyngeal edema, respiratory tract edema, pulmonary emboli[Ref]
-Frequency not reported: ThirstPostmarketing reports: Face edema[Ref]
-Anemia occurred in patients with chronic renal impairment and/or on long-term treatment.[Ref]
-Frequency not reported: Anemia[Ref]
-Frequency not reported: Insomnia[Ref]
-Frequency not reported: Hyperglycemia[Ref]
-Frequency not reported: Edema[Ref]
-1. "Product Information. Carafate (sucralfate)." Hoechst Marion-Roussel Inc, Kansas City, MO. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for Carafate may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effect was constipation.
+Common (1% to 10%): ConstipationUncommon (0.1% to 1%): Dry mouth, nauseaRare (0.01% to 0.1%): Bezoar formationFrequency not reported: Diarrhea, vomiting, gastric discomfort, indigestion, flatulencePostmarketing reports: Lip swelling, mouth edema
+Bezoars were reported in patients with enteral feedings, delayed gastric emptying, and/or low birthweight neonates.
+Encephalopathy occurred in patients with chronic renal impairment and/or on long-term treatment.Cerebral emboli occurred in patients receiving IV administration.
+Common (1% to 10%): HeadacheFrequency not reported: Dizziness, drowsiness/sleepiness, vertigo, encephalopathyPostmarketing reports: Cerebral emboli
+Uncommon (0.1% to 1%): UrticariaRare (0.01% to 0.1%): RashFrequency not reported: Pruritus
+Osteodystrophy and osteomalacia occurred in patients with chronic renal impairment and/or on long-term treatment.
+Frequency not reported: Back pain, osteodystrophy, osteomalacia
+Frequency not reported: Anaphylactic reaction, hypersensitivity reactions
+Pulmonary edema occurred after IV administration.
+Frequency not reported: DyspneaPostmarketing reports: Bronchospasm, laryngeal edema, pharyngeal edema, respiratory tract edema, pulmonary emboli
+Frequency not reported: ThirstPostmarketing reports: Face edema
+Anemia occurred in patients with chronic renal impairment and/or on long-term treatment.
+Frequency not reported: Anemia
+Frequency not reported: Insomnia
+Frequency not reported: Hyperglycemia
+Frequency not reported: Edema
 Drowsiness
 convulsions (seizures)
-
-
 Constipation
-
-
 Backache
 diarrhea
  dizziness or lightheadedness
@@ -43,4 +26,3 @@ indigestion
 nausea
  skin rash, hives, or itching
 stomach cramps or pain 
-

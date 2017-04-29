@@ -1,76 +1,32 @@
-Generic Name: ethambutol
-Applies to ethambutol: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by ethambutol (the active ingredient contained in Myambutol). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking ethambutol:
-Some of the side effects that can occur with ethambutol may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ethambutol: oral tablet
-Ocular side effects have included decreased visual acuity (including irreversible blindness), thought to be caused by optic neuritis.  Optic neuropathy (including optic neuritis or retrobulbar neuritis), scotoma, color blindness, and visual defect have been reported.[Ref]
-Retrobulbar neuritis resulting in blurred vision and loss of red-green vision occurs commonly with ethambutol therapy and requires careful monitoring of visual acuity and color discrimination.  Optic neuritis occurs more frequently at dosages greater than 15 mg/kg/day.  Drug therapy should be discontinued at the first sign of vision defects.  Damage may include central or peripheral fibers of the optic nerve.  Scotomas are a common occurrence.  Damage generally occurs after 2 months of therapy but may occur more rapidly.  Predisposing factors may include decreased renal function, diabetes, and preexisting optic neuritis due to alcohol or tobacco consumption.  Although vision defects are generally reversible over several months after discontinuation of ethambutol, cases of irreversible blindness and other ocular damage have been reported.Ocular toxicity may be more severe in patients with renal impairment, possibly due to drug accumulation.[Ref]
-Hyperuricemia has been reported in up to 66% of patients receiving ethambutol (the active ingredient contained in Myambutol) and is not dependent on the dose.  Occasionally, it has led to joint arthralgias and gouty arthritis after 1 to 2 months of therapy.  Symptoms generally resolved within 15 days of discontinuing the drug.[Ref]
-Metabolic side effects have included hyperuricemia and precipitation of acute gout.[Ref]
-Hepatic side effects have included liver toxicities (including fatalities).  Transient and asymptomatic elevations in liver function tests have occurred in 10% of patients.  Jaundice has been reported rarely.[Ref]
-Elevations in liver function tests, usually without changes in serum bilirubin, have occurred in up to 10% of patients treated with ethambutol.  These changes resolved spontaneously despite continuation of drug therapy.  Asymptomatic jaundice has also occurred rarely with ethambutol therapy.[Ref]
-Hypersensitivity side effects have included hypersensitivity syndrome and anaphylactic/anaphylactoid reaction.  Hypersensitivity reactions have included fever, cutaneous reactions (such as rash or exfoliative dermatitis), eosinophilia with or without drug-induced pulmonary infiltrates, hepatitis, pneumonitis, nephritis, pericarditis, lymphadenopathy, anaphylaxis, lichen-planus reactions, and toxic epidermal necrolysis.[Ref]
-Hypersensitivity reactions have presented as spiking fever, rash, nausea, hypotension, and eosinophilia.  Lichen-planus-like reactions including hyperpigmentation and desquamation have occurred rarely, as well as toxic epidermal necrolysis.[Ref]
-Hematologic side effects have included thrombocytopenia, leukopenia, and neutropenia.[Ref]
-Respiratory side effects have included pulmonary infiltrates with or without eosinophilia.[Ref]
-Gastrointestinal complaints are infrequent with ethambutol (the active ingredient contained in Myambutol) therapy and may be associated with a hypersensitivity reaction.  Pseudomembranous colitis has been reported when ethambutol was given with rifampin and isoniazid.[Ref]
-Gastrointestinal side effects have included nausea, vomiting, abdominal pain, anorexia, and gastrointestinal upset.  Pseudomembranous colitis has been reported.[Ref]
-Nervous system side effects have included headache, dizziness, and numbness and tingling of the extremities due to peripheral neuritis.[Ref]
-Psychiatric side effects have included mental confusion, disorientation, and possible hallucinations.[Ref]
-Dermatologic side effects have included dermatitis, erythema multiforme, and pruritus.[Ref]
-Other side effects have included fever and malaise.[Ref]
-Musculoskeletal side effects have included joint pain.[Ref]
-Renal side effects have rarely included reversible renal insufficiency.[Ref]
-Renal abnormalities include increases in serum creatinine and idiosyncratic interstitial nephritis.[Ref]
-1. Chatterjee VK, Buchanan DR, Friedmann AI, Green M "Ocular toxicity following ethambutol in standard dosage." Br J Dis Chest 80 (1986): 288-91
-2. Lees AW, Allan GW, Smith J, et al "Toxicity from rifampicin plus isoniazid and rifampicin plus ethambutol therapy." Tubercle 52 (1971): 182-90
-3. Bandopadhya P, Dash RJ "Toxic ocular effects of ethambutol." Can Med Assoc J 138 (1988): 493
-4. Kahana LM "Toxic ocular effects of ethambutol." Can Med Assoc J 137 (1987): 213-6
-5. "Product Information. Myambutol (ethambutol)." Lederle Laboratories, Wayne, NJ. 
-6. Schild HS, Fox BC "Rapid-onset reversible ocular toxicity from ethambutol therapy." Am J Med 90 (1991): 404-6
-7. Nair VS, LeBrun M, Kass I "Peripheral neuropathy associated with ethambutol." Chest 77 (1980): 98-100
-8. Joubert PH, Strobele JG, Ogle CW, van der Merwe CA "Subclinical impairment of colour vision in patients receiving ethambutol." Br J Clin Pharmacol 21 (1986): 213-6
-9. Polak BC, Leys M, van Lith GH "Blue-yellow colour vision changes as early symptoms of ethambutol oculotoxicity." Ophthalmology 191 (1985): 223-6
-10. Jimenez-Lucho VE, del Busto R, Odel J "Isoniazid and ethambutol as a cause of optic neuropathy." Eur J Respir Dis 71 (1987): 42-5
-11. DeVita EG, Miao M, Sadun AA "Optic neuropathy in ethambutol-treated renal tuberculosis." J Clin Neuroophthalmol 7 (1987): 77-83
-12. Smith JL "Should ethambutol be barred?" J Clin Neuroophthalmol 7 (1987): 84-6
-13. Postlethwaite AE, Bartel AG, Kelley WN "Hyperuricemia due to ethambutol." N Engl J Med 286 (1972): 761-2
-14. Khanna BK, Gupta VP, Singh MP "Ethambutol-induced hyperuricaemia." Tubercle 65 (1984): 195-9
-15. Khanna BK "Acute gouty arthritis following ethambutol therapy." Br J Dis Chest 74 (1980): 409-10
-16. Narang RK, Agarwal MC, Raina AK, et al "Hyperuricaemia induced by ethambutol." Br J Dis Chest 77 (1983): 403-6
-17. Gulliford M, Mackay AD, Prowse K "Cholestatic jaundice caused by ethambutol." Br Med J 292 (1986): 866
-18. Frentz G, Wadskov S, Kassis V "Ethambutol-induced lichenoid eruption." Acta Derm Venereol 61 (1981): 89-91
-19. Kerremans A, Majoor CL "Hypersensitivity to ethambutol." Tubercle 62 (1981): 215-7
-20. Pegram PS, Mountz JD, O'Bar PR "Ethambutol-induced toxic epidermal necrolysis." Arch Intern Med 141 (1981): 1677-8
-21. Wong PC, Yew WW, Wong CF, Choi HY "Ethambutol-induced pulmonary infiltrates with eosinophilia and skin involvement." Eur Respir J 8 (1995): 866-8
-22. Prasad R, Mukerji PK "Ethambutol-induced thrombocytopenia." Tubercle 70 (1989): 211-2
-23. Rabinovitz M, Pitlik SD, Halevy J, Rosenfeld JB "Ethambutol-induced thrombocytopenia." Chest 81 (1982): 765-6
-24. Moriarty HJ, Scobie BA "Pseudomembranous colitis in a patient on rifampicin and ethambutol." N Z Med J 04/23/80 (1980): 294-5
-25. Addington WW "The side effects and interactions of antituberculosis drugs." Chest 76 (1979): 782-4
-26. Kumar A, Sandramouli S, Verma L, Tewari HK, Khosla PK "Ocular ethambutol toxicity: is it reversible?" J Clin Neuroophthalmol 13 (1993): 15-7
-27. Garcia-Martin F, Mampaso F, de Arriba G, et al "Acute interstitial nephritis induced by ethambutol." Nephron 59 (1991): 679-80
-28. Collier J, Joekes AM, Philalithis PE, Thompson FD "Two cases of ethambutol nephrotoxicity." Br Med J 11/06/76 (1976): 1105-6
-29. Stone WJ, Waldron JA, Dixon JH, et al "Acute diffuse interstitial nephritis related to chemotherapy of tuberculosis." Antimicrob Agents Chemother 10 (1976): 164-72
-Not all side effects for Myambutol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Ocular side effects have included decreased visual acuity (including irreversible blindness), thought to be caused by optic neuritis.  Optic neuropathy (including optic neuritis or retrobulbar neuritis), scotoma, color blindness, and visual defect have been reported.
+Retrobulbar neuritis resulting in blurred vision and loss of red-green vision occurs commonly with ethambutol therapy and requires careful monitoring of visual acuity and color discrimination.  Optic neuritis occurs more frequently at dosages greater than 15 mg/kg/day.  Drug therapy should be discontinued at the first sign of vision defects.  Damage may include central or peripheral fibers of the optic nerve.  Scotomas are a common occurrence.  Damage generally occurs after 2 months of therapy but may occur more rapidly.  Predisposing factors may include decreased renal function, diabetes, and preexisting optic neuritis due to alcohol or tobacco consumption.  Although vision defects are generally reversible over several months after discontinuation of ethambutol, cases of irreversible blindness and other ocular damage have been reported.Ocular toxicity may be more severe in patients with renal impairment, possibly due to drug accumulation.
+Hyperuricemia has been reported in up to 66% of patients receiving ethambutol (the active ingredient contained in Myambutol) and is not dependent on the dose.  Occasionally, it has led to joint arthralgias and gouty arthritis after 1 to 2 months of therapy.  Symptoms generally resolved within 15 days of discontinuing the drug.
+Metabolic side effects have included hyperuricemia and precipitation of acute gout.
+Hepatic side effects have included liver toxicities (including fatalities).  Transient and asymptomatic elevations in liver function tests have occurred in 10% of patients.  Jaundice has been reported rarely.
+Elevations in liver function tests, usually without changes in serum bilirubin, have occurred in up to 10% of patients treated with ethambutol.  These changes resolved spontaneously despite continuation of drug therapy.  Asymptomatic jaundice has also occurred rarely with ethambutol therapy.
+Hypersensitivity side effects have included hypersensitivity syndrome and anaphylactic/anaphylactoid reaction.  Hypersensitivity reactions have included fever, cutaneous reactions (such as rash or exfoliative dermatitis), eosinophilia with or without drug-induced pulmonary infiltrates, hepatitis, pneumonitis, nephritis, pericarditis, lymphadenopathy, anaphylaxis, lichen-planus reactions, and toxic epidermal necrolysis.
+Hypersensitivity reactions have presented as spiking fever, rash, nausea, hypotension, and eosinophilia.  Lichen-planus-like reactions including hyperpigmentation and desquamation have occurred rarely, as well as toxic epidermal necrolysis.
+Hematologic side effects have included thrombocytopenia, leukopenia, and neutropenia.
+Respiratory side effects have included pulmonary infiltrates with or without eosinophilia.
+Gastrointestinal complaints are infrequent with ethambutol (the active ingredient contained in Myambutol) therapy and may be associated with a hypersensitivity reaction.  Pseudomembranous colitis has been reported when ethambutol was given with rifampin and isoniazid.
+Gastrointestinal side effects have included nausea, vomiting, abdominal pain, anorexia, and gastrointestinal upset.  Pseudomembranous colitis has been reported.
+Nervous system side effects have included headache, dizziness, and numbness and tingling of the extremities due to peripheral neuritis.
+Psychiatric side effects have included mental confusion, disorientation, and possible hallucinations.
+Dermatologic side effects have included dermatitis, erythema multiforme, and pruritus.
+Other side effects have included fever and malaise.
+Musculoskeletal side effects have included joint pain.
+Renal side effects have rarely included reversible renal insufficiency.
+Renal abnormalities include increases in serum creatinine and idiosyncratic interstitial nephritis.
 Chills
 pain and swelling of joints, especially big toe, ankle, or knee
 tense, hot skin over affected joints
-
-
 Blurred vision, eye pain, red-green color blindness, or any loss of vision (more common with high doses)
 fever
 joint pain
 numbness, tingling, burning pain, or weakness in hands or feet
 skin rash
-
-
 Abdominal pain
 confusion
 headache
 loss of appetite
 nausea and vomiting
-

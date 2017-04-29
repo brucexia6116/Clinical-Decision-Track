@@ -1,31 +1,20 @@
-Generic Name: amlodipine / benazepril
-Applies to amlodipine / benazepril: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by amlodipine / benazepril. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking amlodipine / benazepril:
-Some of the side effects that can occur with amlodipine / benazepril may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to amlodipine / benazepril: oral capsule
-The most common side effects were cough, headache, dizziness, and edema.[Ref]
-Common (1% to 10%): Headache, dizzinessFrequency not reported: TremorAmlodipine:Common (1% to 10%): Headache, dizzinessPostmarketing reports: Dysgeusia, hypoesthesia, paresthesia, syncope, peripheral neuropathy, hypertoniaBenazepril:Common (1% to 10%): Headache, dizzinessPostmarketing reports: Paresthesia, dysgeusia[Ref]
-Common (1% to 10%): CoughFrequency not reported: PharyngitisAmlodipine:Uncommon (0.1% to 1%): CoughPostmarketing reports: RhinitisBenazepril:Common (1% to 10%): Cough[Ref]
-Common (1% to 10%): EdemaFrequency not reported: Asthenia, fatigueAmlodipine:Common (1% to 10%): EdemaPostmarketing reports: MalaiseBenazepril:Uncommon (0.1% to 1%): Edema[Ref]
-Amlodipine-induced peripheral edema is dose dependent.  Benazepril reduces the incidence of edema when added to amlodipine.[Ref]
-Frequency not reported: Impotence, polyuriaAmlodipine:Postmarketing reports: Micturition disorder, nocturia, erectile dysfunction[Ref]
-Frequency not reported: Dry mouth, nausea, abdominal pain, constipation, diarrhea, dyspepsia, esophagitisAmlodipine:Postmarketing reports: Gingival hyperplasia, gastritis[Ref]
-Frequency not reported: Back pain, musculoskeletal pain, cramps, muscle crampsAmlodipine:Postmarketing reports: Muscle spasms, arthralgiaBenazepril:Postmarketing reports: Arthralgia, arthritis, myalgia[Ref]
-Frequency not reported: Rash, skin nodule, dermatitisAmlodipine:Postmarketing reports: Hyperhidrosis, pruritus, skin discoloration, urticaria, erythema multiformBenazepril:Postmarketing reports: Stevens-Johnson syndrome, pemphigus, pruritus, photosensitivity reaction[Ref]
-Frequency not reported: Insomnia, nervousness, anxiety, libido decreased[Ref]
-Frequency not reported: Flushing, hot flashesAmlodipine:Postmarketing reports: Tachycardia, hypotension, vasculitisBenazepril:Postmarketing reports: Orthostatic symptoms, hypotension, angina pectoris, arrhythmia[Ref]
-Amlodipine:Postmarketing reports: Visual impairment, diplopiaBenazepril:Postmarketing reports: Impaired vision[Ref]
-Frequency not reported: HypokalemiaAmlodipine:Postmarketing reports: Hyperglycemia, weight decrease or gain[Ref]
-Amlodipine:Postmarketing reports: Allergic reaction[Ref]
-BenazeprilPostmarketing reports: Serum creatinine increased, BUN increased, renal impairment[Ref]
-Frequency not reported: NeutropeniaAmlodipine:Postmarketing reports: LeucocytopeniaBenazepril:Postmarketing reports: Hemolytic anemia, thrombocytopenia, agranulocytosis, neutropenia[Ref]
-Amlodipine:Postmarketing reports: Jaundice, hepatic enzyme elevations Benazepril:Postmarketing reports: Pancreatitis[Ref]
-1. "Product Information. Lotrel (amlodipine-benazepril)." Ciba Pharmaceuticals, Summit, NJ. 
-Not all side effects for Lotrel may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most common side effects were cough, headache, dizziness, and edema.
+Common (1% to 10%): Headache, dizzinessFrequency not reported: TremorAmlodipine:Common (1% to 10%): Headache, dizzinessPostmarketing reports: Dysgeusia, hypoesthesia, paresthesia, syncope, peripheral neuropathy, hypertoniaBenazepril:Common (1% to 10%): Headache, dizzinessPostmarketing reports: Paresthesia, dysgeusia
+Common (1% to 10%): CoughFrequency not reported: PharyngitisAmlodipine:Uncommon (0.1% to 1%): CoughPostmarketing reports: RhinitisBenazepril:Common (1% to 10%): Cough
+Common (1% to 10%): EdemaFrequency not reported: Asthenia, fatigueAmlodipine:Common (1% to 10%): EdemaPostmarketing reports: MalaiseBenazepril:Uncommon (0.1% to 1%): Edema
+Amlodipine-induced peripheral edema is dose dependent.  Benazepril reduces the incidence of edema when added to amlodipine.
+Frequency not reported: Impotence, polyuriaAmlodipine:Postmarketing reports: Micturition disorder, nocturia, erectile dysfunction
+Frequency not reported: Dry mouth, nausea, abdominal pain, constipation, diarrhea, dyspepsia, esophagitisAmlodipine:Postmarketing reports: Gingival hyperplasia, gastritis
+Frequency not reported: Back pain, musculoskeletal pain, cramps, muscle crampsAmlodipine:Postmarketing reports: Muscle spasms, arthralgiaBenazepril:Postmarketing reports: Arthralgia, arthritis, myalgia
+Frequency not reported: Rash, skin nodule, dermatitisAmlodipine:Postmarketing reports: Hyperhidrosis, pruritus, skin discoloration, urticaria, erythema multiformBenazepril:Postmarketing reports: Stevens-Johnson syndrome, pemphigus, pruritus, photosensitivity reaction
+Frequency not reported: Insomnia, nervousness, anxiety, libido decreased
+Frequency not reported: Flushing, hot flashesAmlodipine:Postmarketing reports: Tachycardia, hypotension, vasculitisBenazepril:Postmarketing reports: Orthostatic symptoms, hypotension, angina pectoris, arrhythmia
+Amlodipine:Postmarketing reports: Visual impairment, diplopiaBenazepril:Postmarketing reports: Impaired vision
+Frequency not reported: HypokalemiaAmlodipine:Postmarketing reports: Hyperglycemia, weight decrease or gain
+Amlodipine:Postmarketing reports: Allergic reaction
+BenazeprilPostmarketing reports: Serum creatinine increased, BUN increased, renal impairment
+Frequency not reported: NeutropeniaAmlodipine:Postmarketing reports: LeucocytopeniaBenazepril:Postmarketing reports: Hemolytic anemia, thrombocytopenia, agranulocytosis, neutropenia
+Amlodipine:Postmarketing reports: Jaundice, hepatic enzyme elevations Benazepril:Postmarketing reports: Pancreatitis
 Confusion
 dizziness, lightheadedness, or fainting
 fast or irregular heartbeat
@@ -34,8 +23,6 @@ numbness or tingling in the hands, feet, or lips
 shortness of breath
 swelling of the ankles, feet, or lower legs
 weakness or heaviness of the legs
-
-
 Bleeding gums
 chills
 fever
@@ -49,19 +36,13 @@ trouble with swallowing or breathing (sudden) or hoarseness
 unusual bleeding or bruising
 unusual tiredness or weakness
 yellow eyes or skin
-
-
 Chest pain
 heartburn
 pain or burning in the throat
-
-
 Cough (dry and continues)
 feeling of warmth
 redness of the face, neck, arms, and occasionally upper chest
 sleepiness
-
-
 Acid or sour stomach
 belching
 blistering, crusting, irritation, itching, or reddening of the skin
@@ -84,4 +65,3 @@ tender, swollen glands in the neck
 trembling or shaking of the hands or feet
 trouble with sleeping
 voice changes
-

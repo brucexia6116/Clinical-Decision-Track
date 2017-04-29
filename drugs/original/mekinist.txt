@@ -1,25 +1,14 @@
-Generic Name: trametinib
 Common side effects of Mekinist include: acneiform eruption, cardiomyopathy, decreased left ventricular ejection fraction, dermatitis, palmar-plantar erythrodysesthesia, skin rash, and erythema. Other side effects include: cardiac failure.  See below for a comprehensive list of adverse effects.
-Applies to trametinib: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by trametinib (the active ingredient contained in Mekinist). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking trametinib:
-Some of the side effects that can occur with trametinib may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to trametinib: oral tablet
-Rash and decreased LVEF were the most common reasons cited for dose reductions of trametinib (the active ingredient contained in Mekinist) The most common adverse reactions resulting in permanent discontinuation of trametinib were decreased left ventricular ejection fraction (LVEF), pneumonitis, renal failure, diarrhea, and rash.[Ref]
-Very common (10% or more): Lymphedema (43%), hypertension (15%), hemorrhage (13%)Frequency not reported: Bradycardia[Ref]
-Very common (10% or more): rash (57%), dermatitis acneiform (19%), dry skin (11%), pruritus (10%), paronychia (10%)Frequency not reported: Folliculitis, rash pustular, cellulitis[Ref]
-Very common (10% or more): Diarrhea (43%), stomatitis (15%), abdominal pain (13%)Frequency not reported: Xerostomia[Ref]
-Very common (10% or more): Anemia (38%)[Ref]
-Very common (10% or more): Increased aspartate aminotransferase (AST) (60%), Increased alanine aminotransferase (ALT) (39%)[Ref]
-Very common (10% or more): Hypoalbuminemia (42%), increased alkaline phosphatase (24%)[Ref]
-Frequency not reported: Rhabdomyolysis[Ref]
-Frequency not reported: Dizziness, dysgeusia[Ref]
-Frequency not reported: Vision blurred, dry eye[Ref]
-1. "Product Information. Mekinist (trametinib)." GlaxoSmithKline, Research Triangle Park, NC. 
-Not all side effects for Mekinist may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Rash and decreased LVEF were the most common reasons cited for dose reductions of trametinib (the active ingredient contained in Mekinist) The most common adverse reactions resulting in permanent discontinuation of trametinib were decreased left ventricular ejection fraction (LVEF), pneumonitis, renal failure, diarrhea, and rash.
+Very common (10% or more): Lymphedema (43%), hypertension (15%), hemorrhage (13%)Frequency not reported: Bradycardia
+Very common (10% or more): rash (57%), dermatitis acneiform (19%), dry skin (11%), pruritus (10%), paronychia (10%)Frequency not reported: Folliculitis, rash pustular, cellulitis
+Very common (10% or more): Diarrhea (43%), stomatitis (15%), abdominal pain (13%)Frequency not reported: Xerostomia
+Very common (10% or more): Anemia (38%)
+Very common (10% or more): Increased aspartate aminotransferase (AST) (60%), Increased alanine aminotransferase (ALT) (39%)
+Very common (10% or more): Hypoalbuminemia (42%), increased alkaline phosphatase (24%)
+Frequency not reported: Rhabdomyolysis
+Frequency not reported: Dizziness, dysgeusia
+Frequency not reported: Vision blurred, dry eye
 Bleeding from the rectum or bloody stools
 bleeding gums
 blemishes on the skin
@@ -54,17 +43,11 @@ troubled breathing
 ulceration of the skin
 unusual tiredness or weakness
 unusual weight gain or loss
-
-
 Cough
 fever
-
-
 Change in vision
 seeing flashes or sparks of light
 seeing floating spots before the eyes, or a veil or curtain across part of your vision
-
-
 Abdominal or stomach pain
 burning, itching, and pain in hairy areas, pus at the root of the hair
 canker sores
@@ -82,4 +65,3 @@ redness or soreness around the fingernails
 sores, ulcers, or white spots on the lips or tongue or inside the mouth
 swelling or inflammation of the mouth
 thirst
-

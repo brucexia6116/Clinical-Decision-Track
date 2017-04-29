@@ -1,30 +1,20 @@
-Generic Name: cyanocobalamin
-Applies to cyanocobalamin: intramuscular solution
 Other dosage forms:
 As well as its needed effects, cyanocobalamin (the active ingredient contained in Nascobal) may cause unwanted side effects that require medical attention. 
-
 If any of the following side effects occur while taking cyanocobalamin, check with your doctor or nurse immediately:
 Some cyanocobalamin side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to cyanocobalamin: compounding powder, injectable solution, intramuscular solution, nasal gel, nasal spray, oral tablet, oral tablet extended release, sublingual lozenge, sublingual tablet
-Frequency not reported: Congestive heart failure, peripheral vascular thrombosis, cardiac arrest, low blood pressure[Ref]
-Patients sensitized to the injectable product are often able to tolerate the oral route without problems.[Ref]
-Frequency not reported: Anaphylactic shock and death, allergic hypersensitivity reactions[Ref]
-Frequency not reported: Mild transient diarrhea, prolonged abdominal pain, prolonged nausea or vomiting[Ref]
-Frequency not reported: Severe dizziness, drowsiness, muscular paralysis, loss of consciousness[Ref]
-Frequency not reported: Itching, transitory exanthema, acneiform eruptions, bullous eruptions[Ref]
-Frequency not reported: Pulmonary edema[Ref]
-Frequency not reported: Hypokalemia[Ref]
-Frequency not reported: Polycythemia vera[Ref]
-Frequency not reported: Vision problems[Ref]
-Frequency not reported: Feeling of swelling of entire body[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Cyanocobalamin (cyanocobalamin)." West-Ward Pharmaceutical Corporation, Eatontown, NJ. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
+Frequency not reported: Congestive heart failure, peripheral vascular thrombosis, cardiac arrest, low blood pressure
+Patients sensitized to the injectable product are often able to tolerate the oral route without problems.
+Frequency not reported: Anaphylactic shock and death, allergic hypersensitivity reactions
+Frequency not reported: Mild transient diarrhea, prolonged abdominal pain, prolonged nausea or vomiting
+Frequency not reported: Severe dizziness, drowsiness, muscular paralysis, loss of consciousness
+Frequency not reported: Itching, transitory exanthema, acneiform eruptions, bullous eruptions
+Frequency not reported: Pulmonary edema
+Frequency not reported: Hypokalemia
+Frequency not reported: Polycythemia vera
+Frequency not reported: Vision problems
+Frequency not reported: Feeling of swelling of entire body
 It is possible that some side effects of Nascobal may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
 nasal gel/jelly, nasal spray
-
 Abdominal or stomach pain
 bleeding from the gums or nose
 blue lips and fingernails
@@ -51,8 +41,5 @@ swelling of the face, fingers, feet, or lower legs
 tightness in the chest
 unusual tiredness or weakness
 weight gain
-
-
 Diarrhea
 skin rash with a general disease
-

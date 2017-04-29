@@ -1,39 +1,25 @@
 Commonly reported side effects of atomoxetine include: constipation, insomnia, decreased appetite, and xerostomia. Other side effects include: dermatitis, dysmenorrhea, erectile dysfunction, dizziness, dyspepsia, ejaculatory disorder, urinary hesitancy, ejaculation failure, and diaphoresis.  See below for a comprehensive list of adverse effects.
-Applies to atomoxetine: oral capsule
-In addition to its needed effects, some unwanted effects may be caused by atomoxetine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking atomoxetine:
-Some of the side effects that can occur with atomoxetine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to atomoxetine: oral capsule
-Very common (10% or more): Dry mouth (up to 35%), nausea (up to 26%), abdominal pain/discomfort (up to 18%), constipation (up to 11%), vomiting (up to 11%)Common (1% to 10%): Dyspepsia, gastroenteritis, diarrhea, flatulence[Ref]
-Very common (10% or more): Decreased appetite (up to 24%)Common (1% to 10%): Decreased weight, anorexia[Ref]
-Very common (10% or more): Increased heart rate (up to 23.4%), increased blood pressure (up to 21.5%)Common (1% to 10%): Orthostatic hypotension, palpitations, flushing/hot flush, sinus tachycardia, tachycardiaUncommon (0.1% to 1%): QT interval prolongationRare (less than 0.1%): Raynaud's phenomenon and/or peripheral vascular instabilityFrequency not reported: Myocardial infarction[Ref]
-Very common (10% or more): Erectile dysfunction (up to 21%)Common (1% to 10%): Dysmenorrhea, delayed ejaculation/ejaculation disorder/ejaculation failure, sexual dysfunction, impotence, prostatitis, abnormal orgasm, irregular menstruation, testicular pain, male genital painPostmarketing reports: Priapism, male pelvic pain[Ref]
-Very common (10% or more): Headache (up to 19%), somnolence/sedation (up to 11%)Common (1% to 10%): Dizziness, tremor, syncope/syncope vasovagal, paraesthesia, feeling jittery, dysgeusiaUncommon (0.1% to 1%): Seizures, hypoesthesiaFrequency not reported: Stroke[Ref]
-Very common (10% or more): Insomnia (up to 19%)Common (1% to 10%): Aggression/hostility, irritability, mood swings, depression/depressed mood, early morning awakening, abnormal dreams, decreased libido, sleep disorder, agitation, anxietyUncommon (0.1% to 1%): Suicide-related behavior (suicide attempts, suicidal ideation), psychotic/manic symptoms (e.g., hallucinations, delusional thinking, mania), restlessness, emotional lability, generalized anxiety disorderFrequency not reported: Panic attacks, impulsivity, akathisia, hypomaniaPostmarketing reports: Tics, libido changes, sensory disturbances, completed suicide[Ref]
-Very common (10% or more): Hyperhidrosis (up to 15%)Common (1% to 10%): Rash, excoriation, dermatitis, pruritusUncommon (0.1% to 1%): Urticaria[Ref]
-Very common (10% or more): Fatigue (up to 10%)Common (1% to 10%): Unexpected therapeutic response, chills, thirst, peripheral coldness/feeling cold, influenza, pyrexia, rigors, lethargy, asthenia, chest painFrequency not reported: Delayed growth (height and weight), sudden death[Ref]
-Common (1% to 10%): Urinary retention, urinary hesitation/decreased urine flow, dysuria, pollakiuriaUncommon (0.1% to 1%): Micturition urgency, enuresis[Ref]
-Common (1% to 10%): Conjunctivitis, mydriasis, blurred vision[Ref]
-Common (1% to 10%): Upper respiratory tract infectionUncommon (0.1% to 1%): Pharyngitis, dyspneaFrequency not reported: Pharyngolaryngeal pain, oropharyngeal pain[Ref]
-Uncommon (0.1% to 1%): Increased blood bilirubinRare (less than 0.1%): Liver failure, abnormal/increased liver function tests, jaundice, hepatitis, liver injury, acute hepatic failure[Ref]
-Uncommon (0.1% to 1%): Allergic reactions (anaphylactic reactions, angioneurotic edema, urticarial, rash)[Ref]
-Uncommon (0.1% to 1%): Muscle spasmsFrequency not reported: Back painPostmarketing reports: Rhabdomyolysis[Ref]
-1. "Product Information. Strattera (atomoxetine)." Lilly, Eli and Company, Indianapolis, IN. 
-Not all side effects for atomoxetine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Dry mouth (up to 35%), nausea (up to 26%), abdominal pain/discomfort (up to 18%), constipation (up to 11%), vomiting (up to 11%)Common (1% to 10%): Dyspepsia, gastroenteritis, diarrhea, flatulence
+Very common (10% or more): Decreased appetite (up to 24%)Common (1% to 10%): Decreased weight, anorexia
+Very common (10% or more): Increased heart rate (up to 23.4%), increased blood pressure (up to 21.5%)Common (1% to 10%): Orthostatic hypotension, palpitations, flushing/hot flush, sinus tachycardia, tachycardiaUncommon (0.1% to 1%): QT interval prolongationRare (less than 0.1%): Raynaud's phenomenon and/or peripheral vascular instabilityFrequency not reported: Myocardial infarction
+Very common (10% or more): Erectile dysfunction (up to 21%)Common (1% to 10%): Dysmenorrhea, delayed ejaculation/ejaculation disorder/ejaculation failure, sexual dysfunction, impotence, prostatitis, abnormal orgasm, irregular menstruation, testicular pain, male genital painPostmarketing reports: Priapism, male pelvic pain
+Very common (10% or more): Headache (up to 19%), somnolence/sedation (up to 11%)Common (1% to 10%): Dizziness, tremor, syncope/syncope vasovagal, paraesthesia, feeling jittery, dysgeusiaUncommon (0.1% to 1%): Seizures, hypoesthesiaFrequency not reported: Stroke
+Very common (10% or more): Insomnia (up to 19%)Common (1% to 10%): Aggression/hostility, irritability, mood swings, depression/depressed mood, early morning awakening, abnormal dreams, decreased libido, sleep disorder, agitation, anxietyUncommon (0.1% to 1%): Suicide-related behavior (suicide attempts, suicidal ideation), psychotic/manic symptoms (e.g., hallucinations, delusional thinking, mania), restlessness, emotional lability, generalized anxiety disorderFrequency not reported: Panic attacks, impulsivity, akathisia, hypomaniaPostmarketing reports: Tics, libido changes, sensory disturbances, completed suicide
+Very common (10% or more): Hyperhidrosis (up to 15%)Common (1% to 10%): Rash, excoriation, dermatitis, pruritusUncommon (0.1% to 1%): Urticaria
+Very common (10% or more): Fatigue (up to 10%)Common (1% to 10%): Unexpected therapeutic response, chills, thirst, peripheral coldness/feeling cold, influenza, pyrexia, rigors, lethargy, asthenia, chest painFrequency not reported: Delayed growth (height and weight), sudden death
+Common (1% to 10%): Urinary retention, urinary hesitation/decreased urine flow, dysuria, pollakiuriaUncommon (0.1% to 1%): Micturition urgency, enuresis
+Common (1% to 10%): Conjunctivitis, mydriasis, blurred vision
+Common (1% to 10%): Upper respiratory tract infectionUncommon (0.1% to 1%): Pharyngitis, dyspneaFrequency not reported: Pharyngolaryngeal pain, oropharyngeal pain
+Uncommon (0.1% to 1%): Increased blood bilirubinRare (less than 0.1%): Liver failure, abnormal/increased liver function tests, jaundice, hepatitis, liver injury, acute hepatic failure
+Uncommon (0.1% to 1%): Allergic reactions (anaphylactic reactions, angioneurotic edema, urticarial, rash)
+Uncommon (0.1% to 1%): Muscle spasmsFrequency not reported: Back painPostmarketing reports: Rhabdomyolysis
 Hives or welts
 irregular heartbeat
 itching
 large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
 redness of the skin
 skin rash
-
-
 Painful, prolonged erection of your penis
-
-
 Convulsions
 dark colored urine
 fainting
@@ -44,8 +30,6 @@ pelvic pain in male
 right upper belly pain or tenderness
 sudden loss of consciousness
 yellow eyes or skin
-
-
 Acid or sour stomach
 belching
 bleeding between periods
@@ -81,8 +65,6 @@ unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 unusual stopping of menstrual bleeding
 unusual tiredness or weakness
 vomiting
-
-
 Abnormal dreams
 abnormal orgasm
 back pain
@@ -122,4 +104,3 @@ sleep disorder
 swelling of the skin
 swollen joints
 swollen, tender prostate
-

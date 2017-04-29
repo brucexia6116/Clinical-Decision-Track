@@ -1,25 +1,15 @@
-Applies to sincalide: intravenous powder for solution
 As well as its needed effects, sincalide may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking sincalide, check with your doctor or nurse as soon as possible:
 Some sincalide side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to sincalide: injectable powder for injection, intravenous powder for injection
-Gastrointestinal side effects have included abdominal discomfort or pain and nausea.  Rapid IV injection of 0.04 mcg sincalide per kg would be expected to cause transient abdominal cramping.  These side effects are usually manifestations of the physiologic action of the drug, including delayed gastric emptying and increased intestinal motility.  These side effects occurred in approximately 20% of patients but they are not to be construed as necessarily indicating an abnormality of the biliary tract unless there is other clinical or radiologic evidence of disease.[Ref]
-Reactions to sincalide are usually mild and of short duration.  Adverse reactions including vomiting, flushing, sweating, rash, hypotension, hypertension, shortness of breath, urge to defecate, headache, diarrhea, sneezing, and numbness were less than 1%.  Dizziness was reported in approximately 2% of patients.  These manifestations are usually attenuated by a slower injection rate.[Ref]
-1. "Product Information. Kinevac (sincalide)." Bristol-Myers Squibb, Princeton, NJ. 
+Gastrointestinal side effects have included abdominal discomfort or pain and nausea.  Rapid IV injection of 0.04 mcg sincalide per kg would be expected to cause transient abdominal cramping.  These side effects are usually manifestations of the physiologic action of the drug, including delayed gastric emptying and increased intestinal motility.  These side effects occurred in approximately 20% of patients but they are not to be construed as necessarily indicating an abnormality of the biliary tract unless there is other clinical or radiologic evidence of disease.
+Reactions to sincalide are usually mild and of short duration.  Adverse reactions including vomiting, flushing, sweating, rash, hypotension, hypertension, shortness of breath, urge to defecate, headache, diarrhea, sneezing, and numbness were less than 1%.  Dizziness was reported in approximately 2% of patients.  These manifestations are usually attenuated by a slower injection rate.
 It is possible that some side effects of sincalide may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Dizziness, fainting, or lightheadedness
  increase in blood pressure
 shortness of breath
 skin rash
-
-
 Abdominal or stomach pain, cramps, or discomfort
 nausea
-
-
 Diarrhea
 dizziness
  flushing or redness of skin
@@ -29,4 +19,3 @@ numbness
 sneezing
 urge to have bowel movement 
 vomiting
-

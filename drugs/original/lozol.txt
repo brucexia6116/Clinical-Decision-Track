@@ -1,57 +1,21 @@
-Generic Name: indapamide
-Applies to indapamide: oral tablet, oral tablet extended release
-In addition to its needed effects, some unwanted effects may be caused by indapamide (the active ingredient contained in Lozol). In the event that any of these side effects do occur, they may require medical attention.
 If any of the following side effects occur while taking indapamide, check with your doctor or nurse as soon as possible:
-Some of the side effects that can occur with indapamide may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to indapamide: compounding powder, oral tablet
-Most adverse side effects are mild and transient.[Ref]
-Dermatologic reactions, such as rashes, occur in less than 5% of patients, and comprise up to 36% of all adverse drug reactions associated with indapamide (the active ingredient contained in Lozol) [Ref]
-Metabolic abnormalities are common, but are rarely clinically significant.  Hypokalemia occurs in 15% of patients, although clinically relevant hypokalemia is reported in only 1% and 3% of patients receiving 2.5 and 5.0 mg/day, respectively.  Hyponatremia, hyperglycemia, and hyperuricemia are reported in 1% to 5% of patients but are rarely clinically relevant.  Unlike the thiazides, indapamide (the active ingredient contained in Lozol) has little or no adverse effect on the lipid profile.  Severe cases of hyponatremia, accompanied by hypokalemia have been reported with recommended doses of indapamide in elderly females.[Ref]
-Renal side effects are unusual, consisting primarily of azotemia.[Ref]
-A case of interstitial nephritis and an urticarial rash associated with indapamide has been reported.[Ref]
-Gastrointestinal side effects include dyspepsia, constipation, diarrhea, flatulence, and dry mouth in less than 5% of patients.[Ref]
-Nervous system side effects include dizziness, lightheadedness, headache, and fatigue in 5% of patients.[Ref]
-Cardiovascular side effects are usually limited to postural hypotension. Indapamide (the active ingredient contained in Lozol) does not affect the heart rate.[Ref]
-Musculoskeletal cramps are reported in about 5% of patients.  A single case of skeletal muscle damage has been associated with indapamide (the active ingredient contained in Lozol) [Ref]
-A 71-year-old woman with a history of psychiatric problems and reflux esophagitis developed chest pain, finger numbness, sweating, and nausea while gardening.  Her medications included indapamide, trifluoperazine, oxazepam, and ranitidine.  Myocardial infarction was definitively ruled out by ECG and CPK isoenzyme analysis.  Interesting laboratory values included a reduced serum sodium (117 mmol/L), elevated LDH and AST enzymes, and elevated CPK-MM isoenzymes.  There was no history of muscular trauma, and thyroid function tests were normal.  The hyponatremia and elevated CPK-MM fractions fell precipitously upon hydration with normal saline.  A definite causal link between indapamide and rhabdomyolysis could not be made, but thiazide diuretics have been previously implicated in some cases of hypokalemia with subsequent muscle damage.[Ref]
-Genitourinary side effects generally reflect the activity of the drug, with less than 5% of patients reporting polyuria and nocturia.[Ref]
-Decreased sexual libido is rare, with up to 88% of patients reporting no change and most of the remaining 12% reporting improvement of sexual libido during indapamide therapy.[Ref]
-A case of reversible hepatitis associated with indapamide (the active ingredient contained in Lozol) has been reported.[Ref]
-Hepatic side effects are rare, at least one case of hepatitis has been reported.[Ref]
-Hypersensitivity reactions occur in less than 5% of patients.  Cases of severe reactions including toxic epidermal necrolysis, erythema multiforme, and Stevens-Johnson syndrome have been reported.  Patients with a sulfa allergy may react to indapamide (the active ingredient contained in Lozol) [Ref]
-Endocrine side effects include at least one case of indapamide-induced hyperparathyroidism.  In one study, indapamide (the active ingredient contained in Lozol) significantly reduced parathyroid hormone levels in all patients.[Ref]
-Hematologic side effects are rare, but have included at least one case of mild thrombocytopenia and mucosal bleeding from the tongue.  Bleeding stopped promptly and platelet counts returned to normal following discontinuation of indapamide (the active ingredient contained in Lozol) [Ref]
-1. "Multum Information Services, Inc. Expert Review Panel"  
-2. Spinler SA, Globus NJ, Raymond JZ, Lancefield ML "Indapamide-associated Stevens-Johnson syndrome." Cutis 50 (1992): 200-2
-3. Newstead CG, Moore RH, Barnes AJ "Interstitial nephritis associated with indapamide." BMJ 300 (1990): 1344
-4. Gales BJ, Gales MA "Erythema multiforme and angioedema with indapamide and sertraline." Am J Hosp Pharm 51 (1994): 118-9
-5. Stricker BH, Biriell C "Skin reactions and fever with indapamide." Br Med J (Clin Res Ed) 295 (1987): 1313-4
-6. Partanen J, Pohjola-Sintonen S, Makijarvi M, Harma M "Toxic epidermal necrolysis due to indapamide." Arch Dermatol 129 (1993): 793
-7. Black RJ, Murphy P, Robinson TJ, Scott KW "Toxic epidermal necrolysis associated with indapamide." BMJ 301 (1990): 1280-1
-8. Slotkoff L "Clinical efficacy and safety of indapamide in the treatment of edema." Am Heart J 106 (1983): 233-7
-9. Boulton AJ, Hardisty CA "Ventricular arrhythmias precipitated by treatment with non-thiazide diuretics." Practitioner 226 (1982): 125-8
-10. Ames RP "A comparison of blood lipid and blood pressure responses during the treatment of systemic hypertension with indapamide and with thiazides." Am J Cardiol 77 (1996): b12-6
-11. Chan TY "Indapamide-induced severe hyponatremia and hypokalemia." Ann Pharmacother 29 (1995): 1124-8
-12. Mroczek WJ "Indapamide: clinical pharmacology, therapeutic efficacy in hypertension, and adverse effects." Pharmacotherapy 3 (1983): 61-7
-13. Leonetti G, Rappelli A, Salvetti A, Scapellato L "Long-term effects of indapamide: final results of a two-year Italian multicenter study in systemic hypertension." Am J Cardiol 65 (1990): h67-71
-14. Beling S, Vukovich RA, Neiss ES, Zisblatt M, Webb E, Losi M "Long-term experience with indapamide." Am Heart J 106 (1983): 258-62
-15. Anavekar SN, Ludbrooke A, Louis WJ, Doyle AE "Evaluation of indapamide in the treatment of hypertension." J Cardiovasc Pharmacol 1 (1979): 389-94
-16. Pickkers P, Schachter M, Hughes AD, Feher MD, Sever PS "Thiazide-induced hyperglycaemia: a role for calcium-activated potassium channels?" Diabetologia 39 (1996): 861-4
-17. Flack JR, Molyneaux L, Willey K, Yue DK "Regression of microalbuminuria - results of a controlled study, indapamide versus captopril." J Cardiovasc Pharmacol 22 (1993): S75-7
-18. Bowker CH, Murphy MA "A multicentre open trial indapamide in general practice." Postgrad Med J 57 (1981): 53-6
-19. Brennan L, Wu MJ, Laquer UJ "A multicenter study of indapamide in hypertensive patients with impaired renal function." Clin Ther 5 (1982): 121-8
-20. Eff J, Bratnick J, Zisblatt M, Vukovich RA, Neiss E "Indapamide, a new antihypertensive/diuretic agent, in the treatment of patients with edema." Clin Ther 6 (1984): 778-86
-21. Chaffman M, Heel RC, Brogden RN, Speight TM, Avery GS "Indapamide. A review of its pharmacodynamic properties and therapeutic efficacy in hypertension." Drugs 28 (1984): 189-235
-22. "Indapamide (Lozol)--A new antihypertensive agent and diuretic." Med Lett Drugs Ther 26 (1984): 17-8
-23. Read SJ, Trenerry HM, Whiting GF "Hyponatraemia and raised creatine kinase level associated with indapamide." Med J Aust 161 (1994): 607-8
-24. "Product Information. Lozol (indapamide)." Rhone-Poulenc Rorer, Collegeville, PA. 
-25. Debono M,  Banerjee R "Indapamide-induced hyperparathyroidism: a case report." Eur J Clin Pharmacol  (2007):
-26. Ceylan K,  Topal C,  Erkoc R, et al. "Effect of indapamide on urinary calcium excretion in patients with and without urinary stone disease." Ann Pharmacother 39 (2005): 1034-8
-27. Hasanova EA,  Agasiyeva NE "Bleeding associated with indapamide SR therapy." Ann Pharmacother 38 (2004): 199-200
-Not all side effects for Lozol may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Most adverse side effects are mild and transient.
+Dermatologic reactions, such as rashes, occur in less than 5% of patients, and comprise up to 36% of all adverse drug reactions associated with indapamide (the active ingredient contained in Lozol) 
+Metabolic abnormalities are common, but are rarely clinically significant.  Hypokalemia occurs in 15% of patients, although clinically relevant hypokalemia is reported in only 1% and 3% of patients receiving 2.5 and 5.0 mg/day, respectively.  Hyponatremia, hyperglycemia, and hyperuricemia are reported in 1% to 5% of patients but are rarely clinically relevant.  Unlike the thiazides, indapamide (the active ingredient contained in Lozol) has little or no adverse effect on the lipid profile.  Severe cases of hyponatremia, accompanied by hypokalemia have been reported with recommended doses of indapamide in elderly females.
+Renal side effects are unusual, consisting primarily of azotemia.
+A case of interstitial nephritis and an urticarial rash associated with indapamide has been reported.
+Gastrointestinal side effects include dyspepsia, constipation, diarrhea, flatulence, and dry mouth in less than 5% of patients.
+Nervous system side effects include dizziness, lightheadedness, headache, and fatigue in 5% of patients.
+Cardiovascular side effects are usually limited to postural hypotension. Indapamide (the active ingredient contained in Lozol) does not affect the heart rate.
+Musculoskeletal cramps are reported in about 5% of patients.  A single case of skeletal muscle damage has been associated with indapamide (the active ingredient contained in Lozol) 
+A 71-year-old woman with a history of psychiatric problems and reflux esophagitis developed chest pain, finger numbness, sweating, and nausea while gardening.  Her medications included indapamide, trifluoperazine, oxazepam, and ranitidine.  Myocardial infarction was definitively ruled out by ECG and CPK isoenzyme analysis.  Interesting laboratory values included a reduced serum sodium (117 mmol/L), elevated LDH and AST enzymes, and elevated CPK-MM isoenzymes.  There was no history of muscular trauma, and thyroid function tests were normal.  The hyponatremia and elevated CPK-MM fractions fell precipitously upon hydration with normal saline.  A definite causal link between indapamide and rhabdomyolysis could not be made, but thiazide diuretics have been previously implicated in some cases of hypokalemia with subsequent muscle damage.
+Genitourinary side effects generally reflect the activity of the drug, with less than 5% of patients reporting polyuria and nocturia.
+Decreased sexual libido is rare, with up to 88% of patients reporting no change and most of the remaining 12% reporting improvement of sexual libido during indapamide therapy.
+A case of reversible hepatitis associated with indapamide (the active ingredient contained in Lozol) has been reported.
+Hepatic side effects are rare, at least one case of hepatitis has been reported.
+Hypersensitivity reactions occur in less than 5% of patients.  Cases of severe reactions including toxic epidermal necrolysis, erythema multiforme, and Stevens-Johnson syndrome have been reported.  Patients with a sulfa allergy may react to indapamide (the active ingredient contained in Lozol) 
+Endocrine side effects include at least one case of indapamide-induced hyperparathyroidism.  In one study, indapamide (the active ingredient contained in Lozol) significantly reduced parathyroid hormone levels in all patients.
+Hematologic side effects are rare, but have included at least one case of mild thrombocytopenia and mucosal bleeding from the tongue.  Bleeding stopped promptly and platelet counts returned to normal following discontinuation of indapamide (the active ingredient contained in Lozol) 
 Dryness of mouth
 increased thirst
 irregular heartbeat
@@ -60,15 +24,10 @@ muscle cramps or pain
  nausea or vomiting
 unusual tiredness or weakness 
 weak pulse
-
-
 Skin rash, itching, or hives
-
-
 Diarrhea
 dizziness or lightheadedness, especially when getting up from a lying or sitting position
 headache
 loss of appetite
 trouble in sleeping
 stomach upset
-

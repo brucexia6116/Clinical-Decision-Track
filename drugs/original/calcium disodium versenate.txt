@@ -1,19 +1,14 @@
-Generic Name: edetate calcium disodium
-Applies to edetate calcium disodium: parenteral injection
 Side effects include:
 Injection site pain. 
-Applies to edetate calcium disodium: compounding powder, injectable solution
-Cardiovascular side effects have included hypotension and cardiac rhythm irregularities.[Ref]
-Gastrointestinal side effects have included cheilosis, nausea, vomiting, anorexia, and excessive thirst.[Ref]
-General side effects have included pain at the intramuscular injection site, fever, chills, malaise, and fatigue.[Ref]
-Genitourinary side effects have included glycosuria, proteinuria, microscopic hematuria, and large epithelial cells in urinary sediment.[Ref]
-Hematologic side effects have included transient bone marrow depression and anemia.[Ref]
-Hepatic side effects are mild increases in SGOT and SGPT, which are common, and return to normal within 48 hours after cessation of therapy.[Ref]
-Hypersensitivity side effects have included histamine-like reactions and rash.[Ref]
-Immunologic side effects have included histamine-like reactions (sneezing, nasal congestion, and lacrimation) and rash.[Ref]
-Metabolic side effects have included zinc deficiency and hypercalcemia.[Ref]
-Musculoskeletal side effects have included myalgia and arthralgia.[Ref]
-Nervous system side effects have included tremors, headache, numbness, and tingling.[Ref]
-Renal side effects have included acute necrosis of proximal tubules (which may result in fatal nephrosis) and infrequent changes in distal tubules and glomeruli.[Ref]
-1. "Product Information. Calcium Disodiuim Versenate (edetate calcium disodium)." 3M Pharmaceuticals, St Paul, MN. 
-Not all side effects for Calcium Disodium Versenate may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Cardiovascular side effects have included hypotension and cardiac rhythm irregularities.
+Gastrointestinal side effects have included cheilosis, nausea, vomiting, anorexia, and excessive thirst.
+General side effects have included pain at the intramuscular injection site, fever, chills, malaise, and fatigue.
+Genitourinary side effects have included glycosuria, proteinuria, microscopic hematuria, and large epithelial cells in urinary sediment.
+Hematologic side effects have included transient bone marrow depression and anemia.
+Hepatic side effects are mild increases in SGOT and SGPT, which are common, and return to normal within 48 hours after cessation of therapy.
+Hypersensitivity side effects have included histamine-like reactions and rash.
+Immunologic side effects have included histamine-like reactions (sneezing, nasal congestion, and lacrimation) and rash.
+Metabolic side effects have included zinc deficiency and hypercalcemia.
+Musculoskeletal side effects have included myalgia and arthralgia.
+Nervous system side effects have included tremors, headache, numbness, and tingling.
+Renal side effects have included acute necrosis of proximal tubules (which may result in fatal nephrosis) and infrequent changes in distal tubules and glomeruli.

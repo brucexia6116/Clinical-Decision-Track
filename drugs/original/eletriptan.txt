@@ -1,37 +1,23 @@
 Commonly reported side effects of eletriptan include: asthenia. Other side effects include: chest pain, chest pressure, chest tightness, dizziness, drowsiness, nausea, and paresthesia.  See below for a comprehensive list of adverse effects.
-Applies to eletriptan: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by eletriptan. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking eletriptan:
-Some of the side effects that can occur with eletriptan may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to eletriptan: oral tablet
-The most commonly reported adverse events have included asthenia, nausea, dizziness, and somnolence.[Ref]
-Transient, dose-related increases in blood pressure (BP) have been observed, particularly in the elderly and among patients with renal impairment, and predominantly increases to diastolic BP.  One patients with hepatic cirrhosis experienced a BP of 220/96 mmHg 5 hours after a receiving an 80 mg dose.[Ref]
-Common (1% to 10%): Chest tightness/pain/pressure, palpitationUncommon (0.1% to 1%): Hypertension, peripheral vascular disorder, tachycardiaRare (0.01% to 0.1%): Angina pectoris, arrhythmia, atrial fibrillation, AV block, bradycardia, hypotension, syncope, thrombophlebitis, vasospasm, shockVery rare (less than 0.01%): Acute myocardial infarction, ventricular tachycardia, ventricular fibrillation, coronary artery vasospasm, transient myocardial ischemiaFrequency not reported: Edema[Ref]
-Common (1% to 10%): Abdominal pain/discomfort/stomach pain/cramps/pressure, dry mouth, dyspepsia, nauseaUncommon (0.1% to 1%): Dysphagia, throat tightness/difficulty swallowing, anorexia, constipation, diarrhea, eructation, esophagitis, flatulence, gastritis, gastrointestinal disorder, glossitis, increased salivationRare (0.01% to 0.1%): Enlarged abdomen, halitosis, gingivitis, hematemesis, stomatitis, tongue disorder, tongue edema, tooth disorder Postmarketing reports: Ischemic colitis, vomiting[Ref]
-Common (1% to 10%): Paresthesia, dizziness, somnolence, headache, hypertonia, hyperesthesia, myastheniaUncommon (0.1% to 1%): Ataxia, incoordination, speech disorder, stupor, tremor, taste perversionRare (0.01% to 0.1%): Abnormal gait, aphasia, dystonia, hemiplegia, hyperalgesia, hypokinesia, neuropathy, paralysis, twitching, parosmiaFrequency not reported: Serotonin syndromePostmarketing reports: Seizure, cerebrovascular accident[Ref]
-Postmarketing reports: Allergic reactions including angioedema[Ref]
-Rare (0.01% to 0.1%): Goiter, thyroid adenoma, thyroiditis, breast pain[Ref]
-Rare (0.01% to 0.1%): Anemia, leukopenia, purpura, lymphadenopathy[Ref]
-Uncommon (0.1% to 1%): ThirstRare (0.01% to 0.1%): Increased appetite, weight gain, weight loss[Ref]
-Common (1% to 10%): Back pain[Ref]
-Common (1% to 10%): Pharyngitis, throat tightnessUncommon (0.1% to 1%): Asthma, dyspnea, respiratory disorder, respiratory tract infection, rhinitis, voice alteration, yawnRare (0.01% to 0.1%): Bronchitis, choking sensation, increased cough, epistaxis, hyperventilation, laryngitis, sinusitis, increased sputum[Ref]
-Common (1% to 10%): SweatingUncommon (0.1% to 1%): Face edema, pruritus, rash, skin disorderRare (0.01% to 0.1%): Alopecia, dry skin, eczema, exfoliative dermatitis, maculopapular rash, psoriasis, skin discoloration, skin hypertrophy, urticaria[Ref]
-Uncommon (0.1% to 1%): Abnormal vision, conjunctivitis, eye pain, lacrimation disorder, photophobiaRare (0.01% to 0.1%): Oculogyric crisis, dry eyes, eye hemorrhage, ptosis, diplopia, abnormality of accommodation[Ref]
-Common (1% to 10%): Asthenia, flushing/feeling of warmth, chills, malaise, vertigoUncommon (0.1% to 1%): Ear pain, tinnitusRare (0.01% to 0.1%): Fever, hypothermia, otitis media[Ref]
-Uncommon (0.1% to 1%): Impotence, polyuria, urinary frequency, urinary tract disorderRare (0.01% to 0.1%): Menstrual disorder, menorrhagia, vaginitis[Ref]
-Uncommon (0.1% to 1%): Abnormal dreams, agitation, anxiety, apathy, depersonalization, depression, emotional lability euphoria, insomnia, nervousnessRare (0.01% to 0.1%): Amnesia, catatonic reaction, hallucinations, manic reaction, hysteria, neurosis, psychotic depression, sleep disorder[Ref]
-1. "Product Information. Relpax (eletriptan)." Pfizer U.S. Pharmaceuticals, New York, NY. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for eletriptan may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported adverse events have included asthenia, nausea, dizziness, and somnolence.
+Transient, dose-related increases in blood pressure (BP) have been observed, particularly in the elderly and among patients with renal impairment, and predominantly increases to diastolic BP.  One patients with hepatic cirrhosis experienced a BP of 220/96 mmHg 5 hours after a receiving an 80 mg dose.
+Common (1% to 10%): Chest tightness/pain/pressure, palpitationUncommon (0.1% to 1%): Hypertension, peripheral vascular disorder, tachycardiaRare (0.01% to 0.1%): Angina pectoris, arrhythmia, atrial fibrillation, AV block, bradycardia, hypotension, syncope, thrombophlebitis, vasospasm, shockVery rare (less than 0.01%): Acute myocardial infarction, ventricular tachycardia, ventricular fibrillation, coronary artery vasospasm, transient myocardial ischemiaFrequency not reported: Edema
+Common (1% to 10%): Abdominal pain/discomfort/stomach pain/cramps/pressure, dry mouth, dyspepsia, nauseaUncommon (0.1% to 1%): Dysphagia, throat tightness/difficulty swallowing, anorexia, constipation, diarrhea, eructation, esophagitis, flatulence, gastritis, gastrointestinal disorder, glossitis, increased salivationRare (0.01% to 0.1%): Enlarged abdomen, halitosis, gingivitis, hematemesis, stomatitis, tongue disorder, tongue edema, tooth disorder Postmarketing reports: Ischemic colitis, vomiting
+Common (1% to 10%): Paresthesia, dizziness, somnolence, headache, hypertonia, hyperesthesia, myastheniaUncommon (0.1% to 1%): Ataxia, incoordination, speech disorder, stupor, tremor, taste perversionRare (0.01% to 0.1%): Abnormal gait, aphasia, dystonia, hemiplegia, hyperalgesia, hypokinesia, neuropathy, paralysis, twitching, parosmiaFrequency not reported: Serotonin syndromePostmarketing reports: Seizure, cerebrovascular accident
+Postmarketing reports: Allergic reactions including angioedema
+Rare (0.01% to 0.1%): Goiter, thyroid adenoma, thyroiditis, breast pain
+Rare (0.01% to 0.1%): Anemia, leukopenia, purpura, lymphadenopathy
+Uncommon (0.1% to 1%): ThirstRare (0.01% to 0.1%): Increased appetite, weight gain, weight loss
+Common (1% to 10%): Back pain
+Common (1% to 10%): Pharyngitis, throat tightnessUncommon (0.1% to 1%): Asthma, dyspnea, respiratory disorder, respiratory tract infection, rhinitis, voice alteration, yawnRare (0.01% to 0.1%): Bronchitis, choking sensation, increased cough, epistaxis, hyperventilation, laryngitis, sinusitis, increased sputum
+Common (1% to 10%): SweatingUncommon (0.1% to 1%): Face edema, pruritus, rash, skin disorderRare (0.01% to 0.1%): Alopecia, dry skin, eczema, exfoliative dermatitis, maculopapular rash, psoriasis, skin discoloration, skin hypertrophy, urticaria
+Uncommon (0.1% to 1%): Abnormal vision, conjunctivitis, eye pain, lacrimation disorder, photophobiaRare (0.01% to 0.1%): Oculogyric crisis, dry eyes, eye hemorrhage, ptosis, diplopia, abnormality of accommodation
+Common (1% to 10%): Asthenia, flushing/feeling of warmth, chills, malaise, vertigoUncommon (0.1% to 1%): Ear pain, tinnitusRare (0.01% to 0.1%): Fever, hypothermia, otitis media
+Uncommon (0.1% to 1%): Impotence, polyuria, urinary frequency, urinary tract disorderRare (0.01% to 0.1%): Menstrual disorder, menorrhagia, vaginitis
+Uncommon (0.1% to 1%): Abnormal dreams, agitation, anxiety, apathy, depersonalization, depression, emotional lability euphoria, insomnia, nervousnessRare (0.01% to 0.1%): Amnesia, catatonic reaction, hallucinations, manic reaction, hysteria, neurosis, psychotic depression, sleep disorder
 Chest pain or tightness
 difficulty with swallowing
 tightness in the throat
-
-
 Chest discomfort
 dizziness
 headache
@@ -42,8 +28,6 @@ pain or discomfort in the arms, jaw, back or neck
 sweating
 vision problems
 vomiting
-
-
 Abdominal or stomach pain
 agitation
 bloody diarrhea
@@ -76,12 +60,8 @@ twitching
 unusual tiredness or weakness
 weak or absent pulses in the legs
 weakness in the arm or leg on one side of the body, sudden and severe
-
-
 Lack or loss of strength
 sleepiness or unusual drowsiness
-
-
 Acid or sour stomach
 belching
 burning, crawling, itching, numbness, prickling, “pins and needles”, or tingling feelings
@@ -90,4 +70,3 @@ heartburn
 indigestion
 stomach soreness or discomfort
 stomach upset
-

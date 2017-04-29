@@ -1,23 +1,10 @@
-Generic Name: benzphetamine
-Applies to benzphetamine: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by benzphetamine (the active ingredient contained in Didrex). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking benzphetamine:
-
 If any of the following symptoms of overdose occur while taking benzphetamine, get emergency help immediately:
-
-Some of the side effects that can occur with benzphetamine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to benzphetamine: oral tablet
-Frequency not reported: Palpitation, tachycardia, elevated blood pressure, cardiomyopathy, ischemic cardiac events with chronic amphetamine use[Ref]
-Frequency not reported: Overstimulation, restlessness, dizziness, tremor, sweating, headache[Ref]
-Frequency not reported: Insomnia, psychotic episodes, depression following drug withdrawal[Ref]
-Frequency not reported: Libido changes[Ref]
-Frequency not reported: Dry mouth, unpleasant taste, nausea, diarrhea, other GI disturbances[Ref]
-Frequency not reported: Urticaria, other allergic skin reactions[Ref]
-1. "Product Information. Didrex (benzphetamine)" Pharmacia and Upjohn, Kalamazoo, MI. 
-Not all side effects for Didrex may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Frequency not reported: Palpitation, tachycardia, elevated blood pressure, cardiomyopathy, ischemic cardiac events with chronic amphetamine use
+Frequency not reported: Overstimulation, restlessness, dizziness, tremor, sweating, headache
+Frequency not reported: Insomnia, psychotic episodes, depression following drug withdrawal
+Frequency not reported: Libido changes
+Frequency not reported: Dry mouth, unpleasant taste, nausea, diarrhea, other GI disturbances
+Frequency not reported: Urticaria, other allergic skin reactions
 Agitation
 anxiety
 confusion
@@ -47,8 +34,6 @@ trouble with thinking, speaking, or walking
 unable to sleep
 unusual feeling of excitement
 weakness
-
-
 Chest discomfort or pain
 difficulty breathing
 discouragement
@@ -61,8 +46,6 @@ swelling of the feet or lower legs
 trouble with concentrating
 trouble with breathing
 unusual tiredness or weakness
-
-
 Blurred vision
 change in consciousness
 dark-colored urine
@@ -81,8 +64,6 @@ severe anxiety or feeling of panic
 stomach cramps
 violent actions
 vomiting
-
-
 Decrease in sexual ability, desire, drive, or performance
 decreased interest in sexual intercourse
 dry mouth
@@ -90,4 +71,3 @@ inability to have or keep an erection
 increase in sexual ability, desire, drive, or performance
 increased interest in sexual intercourse
 unpleasant taste
-

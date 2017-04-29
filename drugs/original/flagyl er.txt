@@ -1,26 +1,18 @@
-Generic Name: metronidazole
-Applies to metronidazole: oral capsule, oral powder for suspension, oral suspension, oral tablet, oral tablet extended release
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by metronidazole (the active ingredient contained in Flagyl ER). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking metronidazole:
-Some of the side effects that can occur with metronidazole may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to metronidazole: compounding powder, intravenous powder for injection, intravenous solution, oral capsule, oral suspension, oral tablet, oral tablet extended release
-The most serious side effects reported with metronidazole (the active ingredient contained in Flagyl ER) have included convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy (primarily characterized by numbness or paresthesia of an extremity).  Persistent peripheral neuropathy has been reported with prolonged oral administration of metronidazole.[Ref]
-Headache (18%) and dizziness (4%) were reported in patients using the extended-release tablet formulation.  Headaches were considered severe in 10% of these patients.A rare but serious side effect of metronidazole (the active ingredient contained in Flagyl ER) was peripheral neuropathy which was thought to be related to dose and duration of therapy.  Most cases occurred after doses of 1000 to 2400 mg per day for at least 30 days, or a total dose of 50 grams.  Neuropathy was generally located in the lower extremities and presented with numbness, tingling, and paresthesias.  Patients should be advised to discontinue metronidazole if they experience these effects.  Neuropathy may be persistent despite discontinuation of metronidazole.  Seizures associated with metronidazole were rare, but did occur.Several cases of MRI abnormalities of the dentate nuclei associated with symptoms of ataxia and dysarthria have been reported.  The symptoms and dentate nuclei lesions resolved several weeks after discontinuation of metronidazole.  These symptoms and metronidazole-induced lesions in the brain stem and cerebellar nuclei have also been described in rat studies.[Ref]
-Very common (10% or more): HeadacheCommon (1% to 10%): DizzinessFrequency not reported: Encephalopathy, aseptic meningitis, peripheral neuropathy (characterized mainly by numbness or paresthesia of an extremity), convulsive seizures, vertigo, syncope, incoordination, ataxia, confusion, dysarthria, weakness, reversible abnormalities in the cerebellar dentate nuclei[Ref]
-Very common (10% or more): NauseaCommon (1% to 10%): Taste perversion (metallic taste), abdominal pain, diarrhea, dry mouthRare (less than 0.1%): Pseudomembranous colitis, pancreatitisFrequency not reported: Sharp unpleasant metallic taste, vomiting, abdominal discomfort, epigastric distress, abdominal cramping, constipation, proctitis, coating of the tongue (furry tongue), glossitis, stomatitis, taste of alcoholic beverages modified[Ref]
-Nausea (10%), taste perversion (metallic taste; 9%), abdominal pain (4%), diarrhea (4%), and dry mouth (2%) in patients using the extended-release tablet formulation.  Nausea was considered severe in less than 2% of these patients.Furry tongue, glossitis, and stomatitis may be associated with sudden overgrowth of Candida.Although metronidazole has been used to treat pseudomembranous colitis, it has rarely also been implicated as a causative agent.  These rare cases have been successfully treated with vancomycin.[Ref]
-Very common (10% or more): VaginitisCommon (1% to 10%): Genital pruritus, abnormal urine, dysmenorrhea, urinary tract infectionRare (less than 0.1%): Darkened urineFrequency not reported: Dysuria, cystitis, polyuria, incontinence, vulvovaginal candidiasis, vaginal itching, dyspareunia, sense of pelvic pressure[Ref]
-Vaginitis (15%), genital pruritus (5%), abnormal urine (3%), dysmenorrhea (3%), and urinary tract infection (2%) were reported in patients using the extended-release tablet formulation.Instances of darkened urine have been investigated.  The pigment responsible has not been positively identified; however, it is most likely a metabolite of metronidazole and appears to have no clinical significance.[Ref]
-Bacterial infection (7%), influenza-like symptoms (6%), and moniliasis (3%) were reported in patients using the extended-release tablet formulation.A disulfiram-like reaction has been reported in some patients drinking ethanol while taking metronidazole (the active ingredient contained in Flagyl ER)   Patients have experienced abdominal distress, vomiting, flushing, nausea, headache, and hypotension.  Patients should be advised to refrain from all forms of ethanol while taking metronidazole and for at least 72 hours after the last dose.[Ref]
-Common (1% to 10%): Bacterial infection, influenza-like symptoms, moniliasisFrequency not reported: Fever, overgrowth of Candida, disulfiram-like reaction (abdominal distress, nausea, vomiting, flushing, hypotension, or headache) with ethanol[Ref]
+The most serious side effects reported with metronidazole (the active ingredient contained in Flagyl ER) have included convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy (primarily characterized by numbness or paresthesia of an extremity).  Persistent peripheral neuropathy has been reported with prolonged oral administration of metronidazole.
+Headache (18%) and dizziness (4%) were reported in patients using the extended-release tablet formulation.  Headaches were considered severe in 10% of these patients.A rare but serious side effect of metronidazole (the active ingredient contained in Flagyl ER) was peripheral neuropathy which was thought to be related to dose and duration of therapy.  Most cases occurred after doses of 1000 to 2400 mg per day for at least 30 days, or a total dose of 50 grams.  Neuropathy was generally located in the lower extremities and presented with numbness, tingling, and paresthesias.  Patients should be advised to discontinue metronidazole if they experience these effects.  Neuropathy may be persistent despite discontinuation of metronidazole.  Seizures associated with metronidazole were rare, but did occur.Several cases of MRI abnormalities of the dentate nuclei associated with symptoms of ataxia and dysarthria have been reported.  The symptoms and dentate nuclei lesions resolved several weeks after discontinuation of metronidazole.  These symptoms and metronidazole-induced lesions in the brain stem and cerebellar nuclei have also been described in rat studies.
+Very common (10% or more): HeadacheCommon (1% to 10%): DizzinessFrequency not reported: Encephalopathy, aseptic meningitis, peripheral neuropathy (characterized mainly by numbness or paresthesia of an extremity), convulsive seizures, vertigo, syncope, incoordination, ataxia, confusion, dysarthria, weakness, reversible abnormalities in the cerebellar dentate nuclei
+Very common (10% or more): NauseaCommon (1% to 10%): Taste perversion (metallic taste), abdominal pain, diarrhea, dry mouthRare (less than 0.1%): Pseudomembranous colitis, pancreatitisFrequency not reported: Sharp unpleasant metallic taste, vomiting, abdominal discomfort, epigastric distress, abdominal cramping, constipation, proctitis, coating of the tongue (furry tongue), glossitis, stomatitis, taste of alcoholic beverages modified
+Nausea (10%), taste perversion (metallic taste; 9%), abdominal pain (4%), diarrhea (4%), and dry mouth (2%) in patients using the extended-release tablet formulation.  Nausea was considered severe in less than 2% of these patients.Furry tongue, glossitis, and stomatitis may be associated with sudden overgrowth of Candida.Although metronidazole has been used to treat pseudomembranous colitis, it has rarely also been implicated as a causative agent.  These rare cases have been successfully treated with vancomycin.
+Very common (10% or more): VaginitisCommon (1% to 10%): Genital pruritus, abnormal urine, dysmenorrhea, urinary tract infectionRare (less than 0.1%): Darkened urineFrequency not reported: Dysuria, cystitis, polyuria, incontinence, vulvovaginal candidiasis, vaginal itching, dyspareunia, sense of pelvic pressure
+Vaginitis (15%), genital pruritus (5%), abnormal urine (3%), dysmenorrhea (3%), and urinary tract infection (2%) were reported in patients using the extended-release tablet formulation.Instances of darkened urine have been investigated.  The pigment responsible has not been positively identified; however, it is most likely a metabolite of metronidazole and appears to have no clinical significance.
+Bacterial infection (7%), influenza-like symptoms (6%), and moniliasis (3%) were reported in patients using the extended-release tablet formulation.A disulfiram-like reaction has been reported in some patients drinking ethanol while taking metronidazole (the active ingredient contained in Flagyl ER)   Patients have experienced abdominal distress, vomiting, flushing, nausea, headache, and hypotension.  Patients should be advised to refrain from all forms of ethanol while taking metronidazole and for at least 72 hours after the last dose.
+Common (1% to 10%): Bacterial infection, influenza-like symptoms, moniliasisFrequency not reported: Fever, overgrowth of Candida, disulfiram-like reaction (abdominal distress, nausea, vomiting, flushing, hypotension, or headache) with ethanol
 Upper respiratory tract infection (4%), rhinitis (4%), sinusitis (3%), and pharyngitis (3%) were reported in patients using the extended-release tablet formulation.
 Common (1% to 10%): Upper respiratory tract infection, rhinitis, sinusitis, pharyngitis
-Metronidazole (the active ingredient contained in Flagyl ER) has rarely been associated with a serum sickness-like reaction which presented as arthralgias, malaise, fever, chills, pruritus, and rash.[Ref]
-Rare (less than 0.1%): Serum sickness-like reactionFrequency not reported: Hypersensitivity (including urticaria, erythematous rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth [or vagina or vulva], fever), fixed drug eruptions, cross-sensitivity to other nitroimidazole derivatives[Ref]
-Rare (less than 0.1%): Reversible thrombocytopeniaFrequency not reported: Reversible neutropenia (leukopenia)[Ref]
+Metronidazole (the active ingredient contained in Flagyl ER) has rarely been associated with a serum sickness-like reaction which presented as arthralgias, malaise, fever, chills, pruritus, and rash.
+Rare (less than 0.1%): Serum sickness-like reactionFrequency not reported: Hypersensitivity (including urticaria, erythematous rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth [or vagina or vulva], fever), fixed drug eruptions, cross-sensitivity to other nitroimidazole derivatives
+Rare (less than 0.1%): Reversible thrombocytopeniaFrequency not reported: Reversible neutropenia (leukopenia)
 Frequency not reported: Flattening of the T-wave in ECG tracings
 Frequency not reported: Erythematous rash, pruritus
 Frequency not reported: Thrombophlebitis (after IV infusion)
@@ -31,49 +23,7 @@ Frequency not reported: Anorexia
 Frequency not reported: Fleeting joint pains (sometimes resembling "serum sickness")
 Breast and colon cancer have been reported in Crohn's disease patients treated with high doses of metronidazole (the active ingredient contained in Flagyl ER) for extended periods of time.
 Frequency not reported: Breast cancer, colon cancer
-1. Rosenblatt JE, Edson RS "Metronidazole." Mayo Clin Proc 62 (1987): 1013-7
-2. Koch-Weser J "Metronidazole." N Engl J Med 303 (1980): 1212-8
-3. Stahlberg D, Barany F, Einarsson K, Ursing B, Elmquist D, Persson A "Neurophysiologic studies of patients with Crohn's disease on long-term treatment with metronidazole." Scand J Gastroenterol 26 (1991): 219-24
-4. Wienbren M, Perinpanayagam RM, Camba L, Lee CA "Convulsions and encephalopathy in a patient with leukaemia after treatment with metronidazole." J Clin Pathol 38 (1985): 1076
-5. Learned-Coughlin S "Peripheral neuropathy induced by metronidazole." Ann Pharmacother 28 (1994): 536
-6. Lawford R, Sorrell TC "Amebic abscess of the spleen complicated by metronidazole-induced neurotoxicity: case report." Clin Infect Dis 19 (1994): 346-8
-7. Beloosesky Y, Grosman B, Marmelstein V, Grinblat J "Convulsions induced by metronidazole treatment for Clostridium difficile-associated disease in chronic renal failure." Am J Med Sci 319 (2000): 338-9
-8. Boyce EG, Cookson ET, Bond WS "Persistent metronidazole-induced peripheral neuropathy." DICP 24 (1990): 19-21
-9. Juillerat P,  Pittet V,  Felley C, et al. "Drug safety in Crohn's disease therapy." Digestion 76 (2007): 161-8
-10. Ahmed A, Laes DJ, Bressler EL "Reversible magnetic resonance imaging findings in metronidazole-induced encephalopathy." Neurology 45 (1995): 588-9
-11. Schentag JJ, Ziemniak JA, Greco JM, Rainstein M, Buckley RJ "Mental confusion in a patient treated with metronidazole: a concentration-related effect." Pharmacotherapy 2 (1982): 384-7
-12. Woodruff BK,  Wijdicks EF,  Marshall WF,  et al. "Reversible metronidazole-induced lesions of the cerebellar nuclei." N Engl J Med 346 (2002): 68-9
-13. Kusumi RK, Plouffe JF, Wyatt RH, Fass RJ "Central nervous sytem toxicity associated with metronidazole therapy." Ann Intern Med 93 (1980): 59-60
-14. Finegold SM "Therapy for infections due to anaerobic bacteria: an overview." J Infect Dis 135 Suppl (1977): S25-9
-15. Whyte CA,  Shivdat-Nanhoe R,  Kramer P "A Case of Amoxicillin-Induced Meningitis." Clin Infect Dis 46 (2008): 642
-16. Alvarez RS, Richardson DA, Bent AE, Ostergard DR "Central nervous system toxicity related to prolonged metronidazole therapy." Am J Obstet Gynecol 145 (1983): 640-1
-17. Bonkowsky JL,  Sondrup C,  Benedict SL "Acute reversible cerebellar lesions associated with metronidazole therapy." Neurology 68 (2007): 180
-18. Schreiber W, Spernal J "Metronidazole-induced psychotic disorder." Am J Psychiatry 154 (1997): 1170-1
-19. Gerding DN,  Muto CA,  Owens RC Jr "Treatment of Clostridium difficile infection." Clin Infect Dis 46 Suppl 1 (2008): S32-42
-20. Duffy LF, Daum F, Fisher SE, et al "Peripheral neuropathy in Crohn's disease patients treated with metronidazole." Gastroenterology 88 (1985): 681-4
-21. Schwebke JR,  Desmond RA "A Randomized Trial of the Duration of Therapy with Metronidazole plus or minus Azithromycin for Treatment of Symptomatic Bacterial Vaginosis." Clin Infect Dis 44 (2007): 213-9
-22. Sura ME, Heinrich KA, Suseno M "Metronidazole-associated pancreatitis." Ann Pharmacother 34 (2000): 1152-5
-23. Saginur R, Hawley CR, Bartlett JG "Colitis associated with metronidazole therapy." J Infect Dis 141 (1980): 772-4
-24. Eland IA,  van Puijenbroek EP,  Sturkenboom MJ,  Wilson JH,  Stricker BH "Drug-associated acute pancreatitis: twenty-one years of spontaneous reporting in  The Netherlands." Am J Gastroenterol 94 (1999): 2417-22
-25. Friedman GD, Selby JV "How often does metronidazole induce pancreatitis." Gastroenterology 98 (1990): 1702-3
-26. Lagrotteria D,  Holmes S,  Smieja M,  Smaill F,  Lee C "Prospective, Randomized Inpatient Study of Oral Metronidazole versus Oral Metronidazole and Rifampin for Treatment of Primary Episode of Clostridium difficile-Associated Diarrhea." Clin Infect Dis 43 (2006): 547-52
-27. Loulergue P,  Mir O "Metronidazole-induced pancreatitis during HIV infection." AIDS 22 (2008): 545-6
-28. Daly JJ, Chowdary KV "Pseudomembranous colitis secondary to metronidazole." Dig Dis Sci 28 (1983): 573-4
-29. Bingley PJ, Harding GM "Clostridium difficile colitis following treatment with metronidazole and vancomycin." Postgrad Med J 63 (1987): 993-4
-30. Giannini AJ, DeFrance DT "Metronidazole and alcohol: potential for combinative abuse." J Toxicol Clin Toxicol 20 (1983): 509-15
-31. Harries DP, Teale KF, Sunderland G "Metronidazole and alcohol: potential problems." Scott Med J 35 (1990): 179-80
-32. Alexander I "Alcohol-antabuse syndrome in patients receiving metronidazole during gynaecological treatment." Br J Clin Pract 39 (1985): 292-3
-33. Shelley WB, Shelley ED "Fixed drug eruption due to metronidazole." Cutis 39 (1987): 393-4
-34. Helms DJ,  Mosure DJ,  Secor WE,  Workowski KA "Management of Trichomonas vaginalis in women with suspected metronidazole hypersensitivity." Am J Obstet Gynecol 198 (2008): 370. e1-7.
-35. Knowles S, Choudhury T, Shear NH "Metronidazole hypersensitivity." Ann Pharmacother 28 (1994): 325-6
-36. Hermida MD,  Consalvo L,  Lapadula MM,  Della Giovanna P,  Cabrera HN "Bullous fixed drug eruption induced by intravaginal metronidazole ovules, with positive topical provocation test findings." Arch Dermatol 147 (2011): 250-1
-37. Mishra D, Mobashir M, Zaheer MS "Fixed drug eruption and cross-reactivity between tinidazole and metronidazole." Int J Dermatol 29 (1990): 740
-38. White CM, Price JJ, Hunt KM "Bone marrow aplasia associated with metronidazole." Br Med J 280 (1980): 647
-39. Weart CW, Hyman LC "Serum sickness associated with metronidazole." South Med J 76 (1983): 410-1
-40. Smith JA "Neutropenia associated with metronidazole therapy." Can Med Assoc J 123 (1980): 202
-Not all side effects for Flagyl ER may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
 intravenous powder for solution, intravenous solution
-
 Agitation
 back pain
 blindness
@@ -102,8 +52,6 @@ unsteadiness, trembling, or other problems with muscle control or coordination
 unusual tiredness or weakness
 vomiting
 weakness in the arms, hands, legs, or feet
-
-
 Black, tarry stools
 blood in the urine or stools
 body aches or pain
@@ -122,8 +70,6 @@ sneezing
 stomach and back pain (severe)
 unusual bleeding or bruising
 vaginal irritation, discharge, or dryness not present before taking the medicine
-
-
 Bleeding gums
 bloating
 chest pain
@@ -139,8 +85,6 @@ sore throat
 sores, ulcers, or white spots on the lips or in the mouth
 swollen glands
 yellow eyes or skin 
-
-
 Blistering, peeling, or loosening of the skin
 bloody or cloudy urine
 burning while urinating
@@ -155,8 +99,6 @@ red skin lesions, often with a purple center
 red, irritated eyes
 redness of the face, neck, arms, and occasionally, upper chest
 redness of the skin
-
-
 Abdominal or stomach cramps
 dizziness or lightheadedness
 feeling of constant movement of self or surroundings
@@ -164,8 +106,6 @@ heartburn
 sensation of spinning
 trouble sleeping
 weight loss
-
-
 Change in taste sensation
 congestion
 dry mouth
@@ -174,10 +114,7 @@ tender, swollen glands in the neck
 trouble with swallowing
 unpleasant or sharp metallic taste
 voice changes
-
-
 Decreased interest in sexual intercourse
 inability to have or keep an erection
 loss in sexual ability, desire, drive, or performance
 painful sexual intercourse
-

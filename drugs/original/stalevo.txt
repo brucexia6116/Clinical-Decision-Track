@@ -1,35 +1,22 @@
-Generic Name: carbidopa / entacapone / levodopa
-Applies to carbidopa / entacapone / levodopa: oral tablet
 As well as its needed effects, carbidopa / entacapone / levodopa may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking carbidopa / entacapone / levodopa, check with your doctor immediately:
 Some carbidopa / entacapone / levodopa side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to carbidopa / entacapone / levodopa: oral tablet
-Nervous system side effects most commonly reported with carbidopa-levodopa-entacapone have included dyskinesias (choreiform, dystonic, and involuntary movements) and headache.  Hyperkinesia, hypokinesia, and dizziness have been reported with entacapone.Convulsions have also been reported; however, a causal relationship with carbidopa-levodopa has not been established.[Ref]
-Ocular side effects reported with various carbidopa-levodopa products have included blurred vision, dilated pupils, diplopia, and oculogyric crisis.[Ref]
-Psychiatric side effects have included reports of psychotic episodes (including delusions, hallucinations, and paranoid ideation), agitation, anxiety, confusion, dream abnormalities including nightmares, depression (with or without development of suicidal tendencies), somnolence, and dementia.[Ref]
-Respiratory side effects have included dyspnea, upper respiratory infection, pharyngeal pain, cough, pharyngitis, and rhinitis.[Ref]
-Cardiovascular side effects have included reports of cardiac irregularities, myocardial infarction, and orthostatic effects (hypotension, hypertension, and syncope), and palpitations.[Ref]
-Dermatologic side effects have included rash, increased sweating, alopecia, dark sweat, and malignant melanoma.[Ref]
-Gastrointestinal (GI) side effects have included dark saliva, GI bleeding, development of duodenal ulcer, abdominal pain, anorexia, nausea, vomiting, diarrhea, constipation, dyspepsia, dry mouth, dysphagia, sialorrhea, flatulence, gastritis, taste alterations, heartburn, and hiccups.[Ref]
-Hematologic side effects have included hemolytic and nonhemolytic anemia, agranulocytosis, thrombocytopenia, leukopenia, and purpura.  Laboratory abnormalities reported have included decreased hemoglobin and hematocrit, serum potassium, Coombs' test, lactic dehydrogenase, bilirubin, and blood urea nitrogen (BUN); and elevated serum glucose.[Ref]
-Hypersensitivity side effects have included angioedema, urticaria, pruritus, and Henoch-Schonlein purpura, bullous lesions (with pemphigus- like reactions).[Ref]
-Musculoskeletal side effects have included asthenia, fatigue, back pain, shoulder pain, leg pain, and muscle cramps.[Ref]
-Genitourinary side effects have included dark urine, blood in the urine, urinary incontinence, urinary retention, urinary tract infection, and priapism,[Ref]
-Hepatic side effects have included abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), and lactic dehydrogenase.[Ref]
-Renal side effects have included increases in serum creatinine and uric acid.[Ref]
-Metabolic side effects have included edema, weight gain, and weight loss.[Ref]
-1. "Product Information. Stalevo 50 (carbidopa / entacapone / levodopa)." Novartis Pharmaceuticals, East Hanover, NJ. 
-2. Hauser RA "Levodopa/carbidopa/entacapone (Stalevo)." Neurology 62(1 Suppl 1) (2004): S64-71
-3. "Product Information. Stalevo 150 (carbidopa / entacapone / levodopa)." Novartis Pharmaceuticals, East Hanover, NJ. 
-4. "Product Information. Stalevo 100 (carbidopa / entacapone / levodopa)." Novartis Pharmaceuticals, East Hanover, NJ. 
-5. Giner V,  Rueda D,  Salvador A,  Hernandez JC,  Esteban MJ,  Redon J "Comments, opinions, and brief case reports: thrombocytopenia associated with levodopa treatment." Arch Intern Med 163 (2003): 735-6
+Nervous system side effects most commonly reported with carbidopa-levodopa-entacapone have included dyskinesias (choreiform, dystonic, and involuntary movements) and headache.  Hyperkinesia, hypokinesia, and dizziness have been reported with entacapone.Convulsions have also been reported; however, a causal relationship with carbidopa-levodopa has not been established.
+Ocular side effects reported with various carbidopa-levodopa products have included blurred vision, dilated pupils, diplopia, and oculogyric crisis.
+Psychiatric side effects have included reports of psychotic episodes (including delusions, hallucinations, and paranoid ideation), agitation, anxiety, confusion, dream abnormalities including nightmares, depression (with or without development of suicidal tendencies), somnolence, and dementia.
+Respiratory side effects have included dyspnea, upper respiratory infection, pharyngeal pain, cough, pharyngitis, and rhinitis.
+Cardiovascular side effects have included reports of cardiac irregularities, myocardial infarction, and orthostatic effects (hypotension, hypertension, and syncope), and palpitations.
+Dermatologic side effects have included rash, increased sweating, alopecia, dark sweat, and malignant melanoma.
+Gastrointestinal (GI) side effects have included dark saliva, GI bleeding, development of duodenal ulcer, abdominal pain, anorexia, nausea, vomiting, diarrhea, constipation, dyspepsia, dry mouth, dysphagia, sialorrhea, flatulence, gastritis, taste alterations, heartburn, and hiccups.
+Hematologic side effects have included hemolytic and nonhemolytic anemia, agranulocytosis, thrombocytopenia, leukopenia, and purpura.  Laboratory abnormalities reported have included decreased hemoglobin and hematocrit, serum potassium, Coombs' test, lactic dehydrogenase, bilirubin, and blood urea nitrogen (BUN); and elevated serum glucose.
+Hypersensitivity side effects have included angioedema, urticaria, pruritus, and Henoch-Schonlein purpura, bullous lesions (with pemphigus- like reactions).
+Musculoskeletal side effects have included asthenia, fatigue, back pain, shoulder pain, leg pain, and muscle cramps.
+Genitourinary side effects have included dark urine, blood in the urine, urinary incontinence, urinary retention, urinary tract infection, and priapism,
+Hepatic side effects have included abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), and lactic dehydrogenase.
+Renal side effects have included increases in serum creatinine and uric acid.
+Metabolic side effects have included edema, weight gain, and weight loss.
 It is possible that some side effects of Stalevo may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Twitching, twisting, or uncontrolled repetitive movements of the tongue, lips, face, arms, or legs
-
-
 Bleeding gums
 bloody or black, tarry stools
 bloody or cloudy urine
@@ -77,14 +64,10 @@ trembling, or other problems with muscle control or coordination
 unusual bleeding or bruising
 unusual tiredness or weakness
 vomiting
-
-
 Absence of or decrease in body movement
 diarrhea
 dizziness
 urine discoloration
-
-
 Acid or sour stomach
 anxiety
 belching
@@ -109,8 +92,6 @@ swollen mouth and tongue
 tenderness in the stomach area
 trouble sleeping
 urge to have bowel movement
-
-
 Being forgetful
 bladder pain
 blurred vision
@@ -173,4 +154,3 @@ urinary frequency
 urinary retention
 weight gain
 weight loss
-

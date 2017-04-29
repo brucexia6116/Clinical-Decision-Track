@@ -1,32 +1,15 @@
-Generic Name: hydrocodone / pseudoephedrine
-Applies to hydrocodone / pseudoephedrine: oral liquid, oral solution, oral syrup, oral tablet
 As well as its needed effects, hydrocodone / pseudoephedrine may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking hydrocodone / pseudoephedrine, check with your doctor immediately:
 Some hydrocodone / pseudoephedrine side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to hydrocodone / pseudoephedrine: oral liquid, oral liquid extended release, oral syrup, oral tablet
-Opioids may result in psychotic symptoms in some patients.[Ref]
-Nervous system side effects of hydrocodone have included mental and respiratory depression, stupor, delirium, somnolence, and dysphoria.  Nervous system side effects of pseudoephedrine have included insomnia in up to 30% of patients.  Tremor, anxiety, nervousness, and headache have also been reported.[Ref]
-Other side effects of hydrocodone have included withdrawal symptoms, such as agitation, restlessness, anxiety, insomnia, tremor, abdominal cramps, blurred vision, vomiting and sweating, after either abrupt cessation or fast tapering of narcotic analgesics.[Ref]
-Gastrointestinal side effects of hydrocodone have included nausea, vomiting, constipation, and dry mouth.  Gastrointestinal side effects of pseudoephedrine have included anorexia and gastric irritation in approximately 5% of patients.  Dry mouth, nose, or throat have occurred in up to 15% of patients.[Ref]
-Cardiovascular side effects of pseudoephedrine have included tachycardia.  Some patients have developed hypertension and/or arrhythmias.[Ref]
-Pseudoephedrine causes vasoconstriction which generally does not produce hypertension, but may be problematic for patients with preexisting hypertension.  Arrhythmias may be produced in predisposed patients.  Rarely, pseudoephedrine has been reported to cause coronary artery spasm and chest pain.One report evaluated the effect with 60 mg of pseudoephedrine on individuals in a hyperbaric chamber at 1 atmosphere (simulated scuba dive to 66 feet of sea water).  Pseudoephedrine and depth (simulated) were found to have significant but opposite effects on heart rate, although these effects were unlikely to be clinically significant during diving.[Ref]
-Genitourinary side effects of hydrocodone have included ureteral spasm, spasm of vesicle sphincters, and urinary retention.[Ref]
-Dermatologic side effects of hydrocodone have included rash.[Ref]
-1. Turturro MA, Paris PM, Yealy DM, Menegazzi JJ "Hydrocodone versus codeine in acute musculoskeletal pain." Ann Emerg Med 20 (1991): 1100-3
-2. Morrow PL, Faris EC "Death associated with inadvertent hydrocodone overdose in a child with a respiratory tract infection." Am J Forensic Med Pathol 8 (1987): 60-3
-3. Fricke J, Halladay SC, Bynum L, Francisco CA "Pain relief after dental impaction surgery using ketorolac, hydrocodone plus acetaminophen, or placebo." Clin Ther 15 (1993): 500-9
-4. "Product Information. Histussin D (hydrocodone-pseudoephedrine)" Sanofi Winthrop Pharmaceuticals, New York, NY. 
-5. Sackner MA "Effects of hydrocodone bitartrate on breathing pattern of patients with chronic obstructive pulmonary disease and restrictive lung disease." Mt Sinai J Med 51 (1984): 222-6
-6. Cohen J, Tattersfield H, Lloyd D, Cantopher T "A request for a strong analgesic." Practitioner 234 (1990): 691-4
-7. Sorensen JL, Hargreaves WA, Weinberg JA "Heroin addict responses to six weeks of detoxification with LAAM." Drug Alcohol Depend 9 (1982): 79-87
-8. Rosen RA "Angina associated with pseudoephedrine ." Ann Emerg Med 10 (1981): 230-1
-9. Mariani PJ "Pseudoephedrine-induced hypertensive emergency: treatment with labetalol." Am J Emerg Med 4 (1986): 141-2
-10. Wiener I, Tilkian AG, Palazzolo M "Coronary artery spasm and myocardial infarction in a patient with normal coronary arteries: temporal relationship to pseudoephedrine ingestion." Cathet Cardiovasc Diagn 20 (1990): 51-3
-11. Morrison AB "Toxicity and abuse of hydrocodone bitartrate." Can Med Assoc J 120 (1979): 1338
+Opioids may result in psychotic symptoms in some patients.
+Nervous system side effects of hydrocodone have included mental and respiratory depression, stupor, delirium, somnolence, and dysphoria.  Nervous system side effects of pseudoephedrine have included insomnia in up to 30% of patients.  Tremor, anxiety, nervousness, and headache have also been reported.
+Other side effects of hydrocodone have included withdrawal symptoms, such as agitation, restlessness, anxiety, insomnia, tremor, abdominal cramps, blurred vision, vomiting and sweating, after either abrupt cessation or fast tapering of narcotic analgesics.
+Gastrointestinal side effects of hydrocodone have included nausea, vomiting, constipation, and dry mouth.  Gastrointestinal side effects of pseudoephedrine have included anorexia and gastric irritation in approximately 5% of patients.  Dry mouth, nose, or throat have occurred in up to 15% of patients.
+Cardiovascular side effects of pseudoephedrine have included tachycardia.  Some patients have developed hypertension and/or arrhythmias.
+Pseudoephedrine causes vasoconstriction which generally does not produce hypertension, but may be problematic for patients with preexisting hypertension.  Arrhythmias may be produced in predisposed patients.  Rarely, pseudoephedrine has been reported to cause coronary artery spasm and chest pain.One report evaluated the effect with 60 mg of pseudoephedrine on individuals in a hyperbaric chamber at 1 atmosphere (simulated scuba dive to 66 feet of sea water).  Pseudoephedrine and depth (simulated) were found to have significant but opposite effects on heart rate, although these effects were unlikely to be clinically significant during diving.
+Genitourinary side effects of hydrocodone have included ureteral spasm, spasm of vesicle sphincters, and urinary retention.
+Dermatologic side effects of hydrocodone have included rash.
 It is possible that some side effects of Pancof HC may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Blurred vision
 confusion
 dizziness
@@ -35,8 +18,6 @@ fainting
 fast, slow, or irregular heartbeat
 sweating
 unusual tiredness or weakness
-
-
 Abdominal or stomach cramps or pain
 bloating
 bulging soft spot on the head of an infant
@@ -64,17 +45,12 @@ trembling or shaking of the hands or feet
 trouble with sleeping
 unable to sleep
 vomiting
-
-
 Fear
 mood changes
 nausea
 relaxed and calm
 sleepiness
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
-
-
 Itching skin
 skin rash
 weakness
-

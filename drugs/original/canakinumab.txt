@@ -1,30 +1,18 @@
-Applies to canakinumab: subcutaneous powder for solution
-In addition to its needed effects, some unwanted effects may be caused by canakinumab. In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking canakinumab, check with your doctor or nurse immediately:
-Some of the side effects that can occur with canakinumab may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to canakinumab: subcutaneous powder for injection
-Very common (10% or more): Diarrhea (20%), nausea (14%), gastroenteritis, tonsillitis, upper abdominal pain, gastroesophageal reflux disease[Ref]
-Very common (10% or more): Urinary tract infection[Ref]
-Very common (10% or more): LeukopeniaFrequency not reported: Hemoglobin increased, decreased white blood cells, decreased neutrophils, decreased platelets[Ref]
-Rare (less than 0.1%): Elevated transaminasesFrequency not reported: Elevated serum bilirubin[Ref]
-Frequency not reported: Hypersensitivity reactions (unspecified)[Ref]
-Very common (10% or more): Influenza (17%), viral infection (13%)[Ref]
-Very common (10% or more): Injection site reaction[Ref]
-Very common (10% or more): Musculoskeletal pain (11%), arthralgiaCommon (1% to 10%): Back pain[Ref]
-Very common (10% or more): Headache (14%), dizziness/vertigo (11%)[Ref]
-Very common (10% or more): Ear infectionCommon (1% to 10%): Fatigue/asthenia[Ref]
-Very common (10% or more): Nasopharyngitis (34%), rhinitis (17%), bronchitis (11%), pneumonia, sinusitis, rhinitis, pharyngitis, upper respiratory tract infection[Ref]
-Very common (10% or more): Cellulitis[Ref]
-Very common (10% or more): Weight gain (11%)[Ref]
-Very common (10% or more): Creatinine clearance decreased, proteinuria[Ref]
-1. "Product Information. Ilaris (canakinumab)." Novartis Pharmaceuticals, East Hanover, NJ. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-Not all side effects for canakinumab may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Very common (10% or more): Diarrhea (20%), nausea (14%), gastroenteritis, tonsillitis, upper abdominal pain, gastroesophageal reflux disease
+Very common (10% or more): Urinary tract infection
+Very common (10% or more): LeukopeniaFrequency not reported: Hemoglobin increased, decreased white blood cells, decreased neutrophils, decreased platelets
+Rare (less than 0.1%): Elevated transaminasesFrequency not reported: Elevated serum bilirubin
+Frequency not reported: Hypersensitivity reactions (unspecified)
+Very common (10% or more): Influenza (17%), viral infection (13%)
+Very common (10% or more): Injection site reaction
+Very common (10% or more): Musculoskeletal pain (11%), arthralgiaCommon (1% to 10%): Back pain
+Very common (10% or more): Headache (14%), dizziness/vertigo (11%)
+Very common (10% or more): Ear infectionCommon (1% to 10%): Fatigue/asthenia
+Very common (10% or more): Nasopharyngitis (34%), rhinitis (17%), bronchitis (11%), pneumonia, sinusitis, rhinitis, pharyngitis, upper respiratory tract infection
+Very common (10% or more): Cellulitis
+Very common (10% or more): Weight gain (11%)
+Very common (10% or more): Creatinine clearance decreased, proteinuria
 Body aches or pain
 chills
 congestion
@@ -50,8 +38,6 @@ trouble swallowing
 unusual tiredness or weakness
 voice changes
 vomiting
-
-
 Abdominal or stomach pain
 bleeding, blistering, burning, coldness, discoloration of the skin, feeling of pressure, hives, infection, inflammation, itching, lumps, numbness, pain, rash, redness, scarring, soreness, stinging, swelling, tenderness, tingling, ulceration, or warmth at the injection site
 dizziness or lightheadedness
@@ -60,4 +46,3 @@ increased weight
 muscle or bone pain
 sensation of spinning
 weakness
-

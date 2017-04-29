@@ -1,36 +1,20 @@
-Generic Name: ciprofloxacin otic
-Applies to ciprofloxacin otic: intratympanic suspension
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by ciprofloxacin otic (the active ingredient contained in Cetraxal). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking ciprofloxacin otic, check with your doctor or nurse immediately:
-Some of the side effects that can occur with ciprofloxacin otic may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ciprofloxacin otic: otic solution, otic suspension
-The most commonly reported side effects included localized pain, ear pruritus, superinfection, and headache.[Ref]
-Common (1% to 10%): Ear pruritus, ear pain, ear discomfort/stinging, ear infection, fungal ear superinfection/otomycosisFrequency not reported: Facial edemaPostmarketing reports: Crying, ear congestion, otorrhea, tinnitus, pyrexia[Ref]
-Common (1% to 10%): Headache/cephalea, transient dizziness, vertigo, dysgeusia/bitter tasteFrequency not reported: Loss of consciousness, tingling[Ref]
-Common (1% to 10%): Nasopharyngitis, rhinorrheaFrequency not reported: Pharyngeal edema, dyspnea[Ref]
-Common (1% to 10%): Mild local intolerance, application site pain[Ref]
-Common (1% to 10%): Irritability[Ref]
-Frequency not reported: Toxic epidermolysis, exfoliative dermatitis, rash, Stevens-Johnson syndrome, urticaria, itchingPostmarketing reports: Dermatitis[Ref]
-Frequency not reported: Allergic reaction, anaphylactic reaction[Ref]
-Frequency not reported: Cardiovascular collapse[Ref]
-Frequency not reported: Tendon rupture[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Cetraxal (ciprofloxacin otic)." WraSer Pharmaceuticals, Madison, MS. 
-3. "Product Information. Otiprio (ciprofloxacin otic)." Otonomy, Inc., San Diego, CA. 
-Not all side effects for Cetraxal may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most commonly reported side effects included localized pain, ear pruritus, superinfection, and headache.
+Common (1% to 10%): Ear pruritus, ear pain, ear discomfort/stinging, ear infection, fungal ear superinfection/otomycosisFrequency not reported: Facial edemaPostmarketing reports: Crying, ear congestion, otorrhea, tinnitus, pyrexia
+Common (1% to 10%): Headache/cephalea, transient dizziness, vertigo, dysgeusia/bitter tasteFrequency not reported: Loss of consciousness, tingling
+Common (1% to 10%): Nasopharyngitis, rhinorrheaFrequency not reported: Pharyngeal edema, dyspnea
+Common (1% to 10%): Mild local intolerance, application site pain
+Common (1% to 10%): Irritability
+Frequency not reported: Toxic epidermolysis, exfoliative dermatitis, rash, Stevens-Johnson syndrome, urticaria, itchingPostmarketing reports: Dermatitis
+Frequency not reported: Allergic reaction, anaphylactic reaction
+Frequency not reported: Cardiovascular collapse
+Frequency not reported: Tendon rupture
 otic solution
-
 Fever
 headache
 muscle aches
 sore throat
 stuffy or runny nose
 unusual tiredness or weakness
-
-
 Irritability
-

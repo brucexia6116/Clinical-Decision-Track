@@ -1,16 +1,9 @@
-Generic Name: carbachol ophthalmic
-Applies to carbachol ophthalmic: ophthalmic intraocular injection, ophthalmic topical solution
 Side effects include:
 Topical solution: Ocular irritation (burning or discomfort), lacrimation, temporal or periorbital headache, painful ciliary or accommodative spasm, blurred vision or myopia, conjunctival vascular congestion, poor vision in dim light.  
-Applies to carbachol ophthalmic: compounding powder, intraocular solution, ophthalmic solution
-The most commonly reported side effects were headache and increased intraocular pressure.[Ref]
-Uncommon (0.1% to 1%): Increased intraocular pressureFrequency not reported: Corneal clouding, persistent bullous keratopathy, retinal detachment/postoperative iritis following cataract extraction, anterior chamber inflammation, corneal edema, eye inflammation, visual impairment, corneal degeneration, miosis, blurred vision, eye pain, ocular hyperemia[Ref]
-Frequency not reported: Flushing[Ref]
-Frequency not reported: Sweating[Ref]
-Frequency not reported: Epigastric distress, abdominal cramps, vomiting[Ref]
-Frequency not reported: Tightness in urinary bladder[Ref]
-Uncommon (0.1% to 1%): Headache[Ref]
-1. "Product Information. Miostat (carbachol ophthalmic)." Alcon Laboratories Inc, Fort Worth, TX. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. "Product Information. Isopto Carbachol (carbachol ophthalmic)." Alcon Laboratories Inc, Fort Worth, TX. 
-Not all side effects for Miostat may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+The most commonly reported side effects were headache and increased intraocular pressure.
+Uncommon (0.1% to 1%): Increased intraocular pressureFrequency not reported: Corneal clouding, persistent bullous keratopathy, retinal detachment/postoperative iritis following cataract extraction, anterior chamber inflammation, corneal edema, eye inflammation, visual impairment, corneal degeneration, miosis, blurred vision, eye pain, ocular hyperemia
+Frequency not reported: Flushing
+Frequency not reported: Sweating
+Frequency not reported: Epigastric distress, abdominal cramps, vomiting
+Frequency not reported: Tightness in urinary bladder
+Uncommon (0.1% to 1%): Headache

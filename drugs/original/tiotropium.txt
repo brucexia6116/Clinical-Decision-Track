@@ -1,32 +1,21 @@
 Commonly reported side effects of tiotropium include: xerostomia. Other side effects include: infection and skin rash.  See below for a comprehensive list of adverse effects.
-Applies to tiotropium: inhalation capsule, inhalation spray
 As well as its needed effects, tiotropium may cause unwanted side effects that require medical attention. 
 If any of the following side effects occur while taking tiotropium, check with your doctor immediately:
 Some tiotropium side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-
-
-Applies to tiotropium: inhalation aerosol, inhalation capsule
-The most commonly reported adverse reaction was dry mouth, usually mild and often resolved during continued treatment.Other reactions consistent with possible anticholinergic effects included constipation, tachycardia, blurred vision, glaucoma (new onset or worsening), dysuria, and urinary retention.[Ref]
-Very common (10% or more): Pharyngitis (11.5%) Common (1% to 10%): Respiratory tract infection, cough, sinusitis, rhinitis, epistaxis, dysphonia, chest pain, laryngitisRare (less than 0.1%): Epistaxis, bronchospasm, Postmarketing reports: Pharyngolaryngeal pain, throat irritation, hoarseness[Ref]
-Common (1% to 10%): Palpitations, angina pectoris (including aggravated angina pectoris)Uncommon (0.1% to 1%): Atrial fibrillationRare (less than 0.1%): Palpitations, supraventricular tachycardia, tachycardia[Ref]
-Common (1% to 10%): Pruritus, rashRare (less than 0.1%): Angioneurotic edema, urticaria, skin infection, skin ulcer, dry skin[Ref]
-Common (1% to 10%): Dry mouth, constipation, gastroesophageal reflux, oropharyngeal candidiasis, dyspepsia, abdominal pain, vomitingUncommon (0.1% to 1%): Dysphagia, gingivitis, intestinal obstruction including ileus paralytic, stomatitis (including ulcerative stomatitis) Rare (less than 0.1%): Dental caries, glossitis Frequency not reported: NauseaPostmarketing reports: Oral candidiasis, throat irritation, mouth ulceration[Ref]
-Common (1% to 10%): Urinary tract infectionUncommon (0.1% to 1%): Urinary retention, dysuria[Ref]
-Common (1% to 10%): Allergic reactionsRare (less than 0.1%): Angioedema, hypersensitivity (including immediate reactions)Frequency not reported: Anaphylactic reactions[Ref]
-Common (1% to 10%): Hypercholesterolemia, hyperglycemiaFrequency not reported: Dehydration[Ref]
-Common (1% to 10%): Myalgia, arthritis, skeletal pain, leg painFrequency not reported: Join swelling[Ref]
-Common (1% to 10%): Dizziness, paresthesiaUncommon (0.1% to 1%): Headache, insomnia, taste disorder[Ref]
-Common (1% to 10%): CataractUncommon (0.1% to 1%): Blurred visionRare (less than 0.1%): Glaucoma, intraocular pressure increased[Ref]
-Common (1% to 10%): Edema, infections, moniliasis, influenza-like symptoms, herpes zoster[Ref]
-Common (1% to 10%): Depression[Ref]
-1. "Product Information. Spiriva Respimat (tiotropium)." Boehringer Ingelheim (Canada) Ltd, Burlington, IA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-3. Cerner Multum,  Inc. "Australian Product Information." O 0
-4. "Product Information. Spiriva (tiotropium)." Boehringer Ingelheim, Ridgefield, CT. 
-5. "Tiotropium (Spiriva) for COPD." Med Lett Drugs Ther 46 (2004): 41-42
-6. Grosso A,  Douglas I,  Hingorani AD,  MacAllister R,  Hubbard R,  Smeeth L "Inhaled tiotropium bromide and risk of stroke." Br J Clin Pharmacol 68 (2009): 731-6
+The most commonly reported adverse reaction was dry mouth, usually mild and often resolved during continued treatment.Other reactions consistent with possible anticholinergic effects included constipation, tachycardia, blurred vision, glaucoma (new onset or worsening), dysuria, and urinary retention.
+Very common (10% or more): Pharyngitis (11.5%) Common (1% to 10%): Respiratory tract infection, cough, sinusitis, rhinitis, epistaxis, dysphonia, chest pain, laryngitisRare (less than 0.1%): Epistaxis, bronchospasm, Postmarketing reports: Pharyngolaryngeal pain, throat irritation, hoarseness
+Common (1% to 10%): Palpitations, angina pectoris (including aggravated angina pectoris)Uncommon (0.1% to 1%): Atrial fibrillationRare (less than 0.1%): Palpitations, supraventricular tachycardia, tachycardia
+Common (1% to 10%): Pruritus, rashRare (less than 0.1%): Angioneurotic edema, urticaria, skin infection, skin ulcer, dry skin
+Common (1% to 10%): Dry mouth, constipation, gastroesophageal reflux, oropharyngeal candidiasis, dyspepsia, abdominal pain, vomitingUncommon (0.1% to 1%): Dysphagia, gingivitis, intestinal obstruction including ileus paralytic, stomatitis (including ulcerative stomatitis) Rare (less than 0.1%): Dental caries, glossitis Frequency not reported: NauseaPostmarketing reports: Oral candidiasis, throat irritation, mouth ulceration
+Common (1% to 10%): Urinary tract infectionUncommon (0.1% to 1%): Urinary retention, dysuria
+Common (1% to 10%): Allergic reactionsRare (less than 0.1%): Angioedema, hypersensitivity (including immediate reactions)Frequency not reported: Anaphylactic reactions
+Common (1% to 10%): Hypercholesterolemia, hyperglycemiaFrequency not reported: Dehydration
+Common (1% to 10%): Myalgia, arthritis, skeletal pain, leg painFrequency not reported: Join swelling
+Common (1% to 10%): Dizziness, paresthesiaUncommon (0.1% to 1%): Headache, insomnia, taste disorder
+Common (1% to 10%): CataractUncommon (0.1% to 1%): Blurred visionRare (less than 0.1%): Glaucoma, intraocular pressure increased
+Common (1% to 10%): Edema, infections, moniliasis, influenza-like symptoms, herpes zoster
+Common (1% to 10%): Depression
 It is possible that some side effects of tiotropium may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-
 Arm, back, or jaw pain
 chest pain or discomfort
 chest tightness or heaviness
@@ -34,8 +23,6 @@ fast or irregular heartbeat
 nausea
 shortness of breath
 sweating
-
-
 Cough
 difficulty with swallowing
 dizziness
@@ -44,13 +31,9 @@ painful blisters on the trunk of body
 puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
 tightness in the chest
 unusual tiredness or weakness
-
-
 Fainting
 fast, pounding, or irregular heartbeat or pulse
 large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
-
-
 Acid or sour stomach
 belching
 bladder pain
@@ -79,8 +62,6 @@ sore throat
 stomach discomfort, upset, or pain
 tender, swollen glands in the neck
 voice changes
-
-
 Bloody nose
 blurred vision
 bone pain
@@ -110,10 +91,7 @@ trouble concentrating
 trouble sleeping
 unexplained weight loss
 vomiting
-
-
 Bloating
 change in vision
 diarrhea
 red skin
-

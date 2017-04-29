@@ -1,32 +1,18 @@
-Generic Name: sitagliptin
-Applies to sitagliptin: oral tablet
-In addition to its needed effects, some unwanted effects may be caused by sitagliptin (the active ingredient contained in Januvia). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking sitagliptin:
-Some of the side effects that can occur with sitagliptin may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to sitagliptin: oral tablet
-Common (1% to 10%): Hypoglycemia (when used in combination with insulin or sulfonylurea)[Ref]
-In a pooled analysis of 19 trials (sitagliptin (the active ingredient contained in Januvia) 100 mg/day, n=5429; active control or placebo, n=4817), the incidence of acute pancreatitis was in 0.1 per 100 patient-years in each group (4 patients in each group)[Ref]
-Common (1% to 10%): Abdominal pain, nausea, diarrhea, constipation, gastroenteritisPostmarketing reports: Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, vomiting[Ref]
-Common (1% to 10%): Nasopharyngitis, upper respiratory infection, pharyngitis, Postmarketing reports: Interstitial lung disease[Ref]
-Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Dizziness[Ref]
-There have been postmarketing reports of serious hypersensitivity reactions in patients treated with this drug.  Reactions have occurred within the first 3 months of therapy initiation, with some reports occurring after the first dose.[Ref]
-Postmarketing reports: Serious hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome[Ref]
-Postmarketing reports: Hepatic enzyme elevations[Ref]
-There have been postmarketing reports of worsening renal function, including acute renal failure, sometime requiring dialysis.  A subset of these reports involved patients with renal insufficiency, some who were prescribed inappropriate doses of this drug.  With drug discontinuation, supportive treatment and discontinuation of potentially causative agents, a return to baseline levels of renal insufficiency occurred.[Ref]
-Postmarketing reports: Worsening renal function[Ref]
-Postmarketing reports: Arthralgia, myalgia, extremity pain, back pain, osteoarthritis[Ref]
-Between October 2006 and December 2013, thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.  Each case involved the use of 1 or more dipeptidyl peptidase-4 (DPP-4) inhibitors.  In all cases, substantial reduction in prior activity level was reported, 10 patients were hospitalized due to disabling joint pain.  In 22 cases, symptoms appeared within 1 month of starting therapy.  In 23 cases symptoms resolved less than 1 month after discontinuation.  A positive rechallenge was reported in 8 cases, with 6 cases involving use of a different DPP-4 inhibitor.  Sitagliptin had the greatest number of cases reported (n=28) followed by saxagliptin (n=5), linagliptin (n=2), alogliptin (n=1), and vildagliptin (n=2).[Ref]
-Common (1% to 10%): Hypertension[Ref]
-Postmarketing reports: Pruritus[Ref]
-The most commonly reported adverse events included upper respiratory tract infection, nasopharyngitis, and headache.  As add-on to insulin studies, hypoglycemia was commonly reported.[Ref]
-1. Cerner Multum,  Inc. "Australian Product Information." O 0
-2. "Product Information. Januvia (sitagliptin)." Merck & Company Inc, West Point, PA. 
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. US Food and Drug Administration "FDA Drug Safety Communication: FDA warns that DPP-4 inhibitors for type 2 diabetes may cause severe joint pain. Available from: URL: http://www.fda.gov/downloads/Drugs/DrugSafety/UCM460038.pdf."   ([2015, Aug 28]):
-Not all side effects for Januvia may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Common (1% to 10%): Hypoglycemia (when used in combination with insulin or sulfonylurea)
+In a pooled analysis of 19 trials (sitagliptin (the active ingredient contained in Januvia) 100 mg/day, n=5429; active control or placebo, n=4817), the incidence of acute pancreatitis was in 0.1 per 100 patient-years in each group (4 patients in each group)
+Common (1% to 10%): Abdominal pain, nausea, diarrhea, constipation, gastroenteritisPostmarketing reports: Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, vomiting
+Common (1% to 10%): Nasopharyngitis, upper respiratory infection, pharyngitis, Postmarketing reports: Interstitial lung disease
+Common (1% to 10%): HeadacheUncommon (0.1% to 1%): Dizziness
+There have been postmarketing reports of serious hypersensitivity reactions in patients treated with this drug.  Reactions have occurred within the first 3 months of therapy initiation, with some reports occurring after the first dose.
+Postmarketing reports: Serious hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome
+Postmarketing reports: Hepatic enzyme elevations
+There have been postmarketing reports of worsening renal function, including acute renal failure, sometime requiring dialysis.  A subset of these reports involved patients with renal insufficiency, some who were prescribed inappropriate doses of this drug.  With drug discontinuation, supportive treatment and discontinuation of potentially causative agents, a return to baseline levels of renal insufficiency occurred.
+Postmarketing reports: Worsening renal function
+Postmarketing reports: Arthralgia, myalgia, extremity pain, back pain, osteoarthritis
+Between October 2006 and December 2013, thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.  Each case involved the use of 1 or more dipeptidyl peptidase-4 (DPP-4) inhibitors.  In all cases, substantial reduction in prior activity level was reported, 10 patients were hospitalized due to disabling joint pain.  In 22 cases, symptoms appeared within 1 month of starting therapy.  In 23 cases symptoms resolved less than 1 month after discontinuation.  A positive rechallenge was reported in 8 cases, with 6 cases involving use of a different DPP-4 inhibitor.  Sitagliptin had the greatest number of cases reported (n=28) followed by saxagliptin (n=5), linagliptin (n=2), alogliptin (n=1), and vildagliptin (n=2).
+Common (1% to 10%): Hypertension
+Postmarketing reports: Pruritus
+The most commonly reported adverse events included upper respiratory tract infection, nasopharyngitis, and headache.  As add-on to insulin studies, hypoglycemia was commonly reported.
 Anxiety
 blurred vision
 chills
@@ -45,8 +31,6 @@ seizures
 shakiness
 slurred speech
 unusual tiredness or weakness
-
-
 Blistering, peeling, loosening of the skin
 diarrhea
 hives or welts, itching, or skin rash
@@ -59,8 +43,6 @@ redness of the skin
 severe joint pain
 sores, ulcers, or white spots in the mouth or on the lips
 vomiting
-
-
 Body aches or pain
 cough
 difficulty with breathing
@@ -71,8 +53,5 @@ muscle aches
 sneezing
 sore throat
 stuffy or runny nose
-
-
 Abdominal or stomach pain
 diarrhea
-

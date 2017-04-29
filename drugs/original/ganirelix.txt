@@ -1,28 +1,14 @@
-Applies to ganirelix: subcutaneous solution
-In addition to its needed effects, some unwanted effects may be caused by ganirelix. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking ganirelix:
-Some of the side effects that can occur with ganirelix may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to ganirelix: subcutaneous solution
-Genitourinary symptoms of abdominal pain (4.8%), ovarian hyperstimulation (2.4%), and vaginal bleeding (1.8%) have been reported.[Ref]
-Nervous systems side effects have been limited to headache in 3% of patients.[Ref]
-Local side effects have included non-specific injection site reactions (1.1%).[Ref]
-Gastrointestinal side effects of nausea and abdominal pain have occurred in 1.1% and 1% of patients, respectively.[Ref]
-Follow-up studies of 282 newborns revealed 3 neonates with major and 18 with minor congenital anomalies.  The major anomalies included hydrocephalus/meningocele, omphalocele, and Beckwith-Wiedemann Syndrome.  Minor dermal, skeletal, muscular, and organ (angioma, hernia , testes, and renal) anomalies were reported.[Ref]
-Neonatal congenital anomalies have been reported.  The causal relationship of the anomalies and ganirelix therapy is unknown.  Multiple factors may confound assisted reproductive procedures.[Ref]
+Genitourinary symptoms of abdominal pain (4.8%), ovarian hyperstimulation (2.4%), and vaginal bleeding (1.8%) have been reported.
+Nervous systems side effects have been limited to headache in 3% of patients.
+Local side effects have included non-specific injection site reactions (1.1%).
+Gastrointestinal side effects of nausea and abdominal pain have occurred in 1.1% and 1% of patients, respectively.
+Follow-up studies of 282 newborns revealed 3 neonates with major and 18 with minor congenital anomalies.  The major anomalies included hydrocephalus/meningocele, omphalocele, and Beckwith-Wiedemann Syndrome.  Minor dermal, skeletal, muscular, and organ (angioma, hernia , testes, and renal) anomalies were reported.
+Neonatal congenital anomalies have been reported.  The causal relationship of the anomalies and ganirelix therapy is unknown.  Multiple factors may confound assisted reproductive procedures.
 Hypersensitivity side effects have included postmarketing reports of hypersensitivity reactions, including anaphylactoid reactions with the first dose.
-1. "Product Information. Antagon (ganirelix)" Organon, West Orange, NJ. 
-2. Nelson LR, Fujimoto VY, Jaffe RB, Monroe SE "Suppression of follicular phase pituitary-gonadal function by a potent new gonadotropin-releasing hormone antagonist with reduce histamine-releasing properties (ganirelix)." Fertil Steril 63 (1995): 963-9
-3. Gillies PS, Faulds D, Balfour JAB, Perry CM "Ganirelix." Drugs 59 (2000): 107-11
-Not all side effects for ganirelix may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
 Abdominal or stomach pain
 bloating
 diarrhea
 rapid weight gain
-
-
 Cough
 difficulty with swallowing
 dizziness
@@ -32,8 +18,5 @@ shortness of breath
 skin rash, hives, or itching
 tightness in the chest
 unusual tiredness or weakness
-
-
 Headache
 redness, pain, or swelling at the injection site
-

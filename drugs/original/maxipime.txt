@@ -1,66 +1,28 @@
-Generic Name: cefepime
-Applies to cefepime: injection powder for solution
-In addition to its needed effects, some unwanted effects may be caused by cefepime (the active ingredient contained in Maxipime). In the event that any of these side effects do occur, they may require medical attention.
-
 If any of the following side effects occur while taking cefepime, check with your doctor or nurse immediately:
-Some of the side effects that can occur with cefepime may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to cefepime: injectable powder for injection, injectable solution
-Cefepime (the active ingredient contained in Maxipime) is generally well tolerated.  It has been reported that 1.5% of patients discontinued medication due to adverse events.[Ref]
-If diarrhea occurs which is unresponsive to discontinuation of cefepime (the active ingredient contained in Maxipime) and/or standard therapy, pseudomembranous colitis should be considered.Higher doses (2 grams every 8 hours) have been associated with a greater incidence of side effects, including diarrhea (3%), nausea (2%), and vomiting (1%).[Ref]
-Uncommon (0.1% to 1%): Colitis (including pseudomembranous colitis), diarrhea, nausea, vomiting, oral moniliasisFrequency not reported: Abdominal pain, anorexia, stomatitis, Clostridium difficile associated diarrhea[Ref]
-Common (1% to 10%): Local reactions (3%)Uncommon (0.1% to 1%): Phlebitis (1.3%), pain and/or inflammation (0.6%)Frequency not reported: Infusion site reaction[Ref]
-Local reactions (3%), including phlebitis (1.3%) and pain and/or inflammation (0.6%), have been reported irrespective to cefepime in patients who received intravenous infusion.[Ref]
-Uncommon (0.1% to 1%): HeadacheFrequency not reported: SomnolencePostmarketing reports: Neurotoxicity, encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, coma), myoclonus, seizures, nonconvulsive status epilepticus[Ref]
-Encephalopathy, myoclonus, seizures, and nonconvulsive status epilepticus have been reported.  Although most cases occurred in patients with renal impairment who received higher than recommended doses of cefepime, some cases of neurotoxicity occurred in patients receiving an appropriate dosage for their degree of renal impairment.  In the majority of cases, symptoms of neurotoxicity were reversible and resolved after discontinuation of cefepime and/or after hemodialysis.Case reports of seizure activity, with and without convulsions, associated with cefepime have been published in the medical literature.  In the vast majority of cases, the patient involved had a clinically significant degree of renal dysfunction.  In each case, seizure activity abated upon the discontinuation of cefepime.Higher doses (2 grams every 8 hours) have been associated with a greater incidence of side effects, including headache (1%).A 66-year-old female developed acute renal failure, altered level of consciousness (Glasgow Coma Scale 6), and nonconvulsive status epilepticus after 10 days of cefepime 2 g every 8 hours.  Symptoms resolved and she completely recovered 72 hours after discontinuation of cefepime.[Ref]
-Common (1% to 10%): Rash (1.1%)Uncommon (0.1% to 1%): Urticaria, pruritus, erythemaRare (less than 0.1%): Red man syndrome (at least 1 case)Frequency not reported: Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis[Ref]
-Higher doses (2 grams every 8 hours) have been associated with a higher incidence of side effects, including rash (4%) and pruritus (1%).Cephalosporin class antibiotics have been associated with Stevens-Johnson syndrome, erythema multiforme, and toxic epidermal necrolysis.[Ref]
-Cephalosporins as a class have been associated with aplastic anemia, hemolytic anemia, prolonged prothrombin time, hemorrhage, and pancytopenia.[Ref]
-Very common (10% or more): Positive Coombs' test (without hemolysis; 16.2%)Common (1% to 10%): Increased eosinophils (1.7%), abnormal PTT (1.6%), abnormal PT (1.4%)Uncommon (0.1% to 1%): Decreased hematocrit, decreased neutrophils, decreased platelets, decreased white blood cells, anemiaFrequency not reported: Epistaxis, aplastic anemia, hemolytic anemia, prolonged prothrombin time, hemorrhage, pancytopenia[Ref]
-Anaphylactic reactions are rare, but may occur, especially in patients with a history of penicillin allergy.Cephalosporin class antibiotics have been associated with allergic reactions.[Ref]
-Frequency not reported: Acute hypersensitivity myocarditis, allergic reactionsPostmarketing reports: Anaphylaxis (including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis, thrombocytopenia)[Ref]
-Cephalosporins as a class have been associated with hepatic dysfunction including cholestasis.[Ref]
-Common (1% to 10%): Increased ALT (2.8%), increased AST (2.4%)Uncommon (0.1% to 1%): Increased alkaline phosphatase, increased total bilirubinFrequency not reported: Hepatic dysfunction including cholestasis[Ref]
-Hypocalcemia was more common among elderly patients.  Clinical consequences from changes in either calcium or phosphorus were not reported.[Ref]
-Common (1% to 10%): Decreased phosphorus (2.8%)Uncommon (0.1% to 1%): Decreased calcium, increased calcium, increased phosphorus, increased potassiumFrequency not reported: Hypokalemia, hypomagnesemia[Ref]
-Higher doses (2 grams every 8 hours) have been associated with a greater incidence of side effects, including fever (1%).[Ref]
-Uncommon (0.1% to 1%): Fever[Ref]
-Uncommon (0.1% to 1%): Increased BUN, increased creatinineFrequency not reported: Renal failure, renal dysfunction, toxic nephropathy[Ref]
-Renal failure, mostly in patients with renal impairment who received higher than recommended doses of cefepime, has been reported.Cephalosporins as a class have been associated with renal dysfunction and toxic nephropathy.[Ref]
-Uncommon (0.1% to 1%): Vaginitis[Ref]
-Frequency not reported: Cough, dyspnea[Ref]
-Frequency not reported: Tachycardia[Ref]
-1. "Product Information. Maxipime (cefepime)." Bristol-Myers Squibb, Princeton, NJ. 
-2. Cordonnier C, Herbrecht R, Pico JL, Gardembas M, Delmer A, Delain M, Moreau P, Ladeb S, Nalet V, Rollin C, Gres JJ "Cefepime/amikacin versus ceftazidime/amikacin as empirical therapy for febrile episodes in neutropenic patients: a comparative study." Clin Infect Dis 24 (1997): 41-51
-3. Zervos M, Nelson M "Cefepime versus ceftriaxone for empiric treatment of hospitalized patients with community-acquired pneumonia." Antimicrob Agents Chemother 42 (1998): 729-33
-4. Grossman RF, Campbell DA, Landis SJ, Garber GE, Murray G, Stiver HG, Saginur R, McIvor RA, Laforge J, Rotstein C, Dubois J "Treatment of community-acquired pneumonia in the elderly: the role of cefepime, a fourth-generation cephalosporin." J Antimicrob Chemother 43 (1999): 549-54
-5. Ramphal R, Gucalp R, Rotstein C, Cimino M, Oblon D "Clinical experience with single agent and combination regimens in the management of infection in the febrile neutropenic patient." Am J Med 100 (1996): s83-9
-6. Yamamura D, Gucalp R, Carlisle P, Cimino M, Roberts J, Rotstein C "Open randomized study of cefepime versus piperacillin-gentamicin for treatment of febrile neutropenic cancer patients." Antimicrob Agents Chemother 41 (1997): 1704-8
-7. McCabe R, Chirurgi V, Farkas SA, Haddow A, Heinz G, Greene S "A new therapeutic option for the treatment of pneumonia." Am J Med 100 (1996): s60-7
-8. Wynd MA, Paladino JA "Cefepime: a fourth-generation parenteral cephalosporin." Ann Pharmacother 30 (1996): 1414-24
-9. Holloway WJ, Palmer D "Clinical applications of a new parenteral antibiotic in the treatment of severe bacterial infections." Am J Med 100 (1996): s52-9
-10. Sharifi R, Geckler R, Childs S "Treatment of urinary tract infections: selecting an appropriate broad- spectrum antibiotic for nosocomial infections." Am J Med 100 (1996): s76-82
-11. Schwartz R, Das-Young LR, Ramirez-Ronda C, Frank E "Current and future management of serious skin and skin-structure infections." Am J Med 100 (1996): s90-5
-12. Bow EJ,  Rotstein C,  Noskin GA, et al. "A randomized, open-label, multicenter comparative study of the efficacy and safety of piperacillin-tazobactam and cefepime for the empirical treatment of febrile neutropenic episodes in patients with hematologic malignancies." Clin Infect Dis 43 (2006): 447-59
-13. Panos G,  Watson DC,  Sargianou M,  Kampiotis D,  Chra P "Red man syndrome adverse reaction following intravenous infusion of cefepime." Antimicrob Agents Chemother 56 (2012): 6387-8
-14. Leophonte P, Bertrand A, Nouvet G, Muir JF, Lucht F, Delaval P, Depierre A, Hughes F, Ulmer M, Gres JJ, et al "A comparative study of cefepime and ceftazidime in the treatment of community-acquired lower respiratory tract infections." J Antimicrob Chemother 32 Suppl B (1993): 165-73
-15. Neu HC "Safety of cefepime: a new extended-spectrum parenteral cephalosporin." Am J Med 100 (1996): s68-75
-16. Barradell LB, Bryson HM "Cefepime. A review of its antibacterial activity, pharmacokinetic properties and therapeutic use." Drugs 47 (1994): 471-505
-17. Abanades S,  Nolla J,  Rodriguez-Campello A,  Pedro C,  Valls A,  Farre M "Reversible coma secondary to cefepime neurotoxicity." Ann Pharmacother 38 (2004): 606-8
-18. Chow KM,  Szeto CC,  Hui AC,  Wong TY,  Li PK "Retrospective review of neurotoxicity induced by cefepime and ceftazidime." Pharmacotherapy 23 (2003): 369-73
-19. Plensa E,  Gallardo E,  Ribera JM,  Batlle M,  Oriol A,  Costa J "Nonconvulsive status epilepticus associated with cefepime in a patient undergoing autologous stem cell transplantation." Bone Marrow Transplant 33 (2004): 119-20
-20. Capparelli FJ,  Diaz MF,  Hlavnika A,  Wainsztein NA,  Leiguarda R,  Del Castillo ME "Cefepime- and cefixime-induced encephalopathy in a patient with normal renal function." Neurology 65 (2005): 1840
-21. Martinez-Rodriguez JE,  Barriga FJ,  Santamaria J, et al. "Nonconvulsive status epilepticus associated with cephalosporins in patients with renal failure." Am J Med 111 (2001): 115-9
-22. Lam S,  Gomolin IH "Cefepime Neurotoxicity: Case Report, Pharmacokinetic Considerations, and Literature Review." Pharmacotherapy 26 (2006): 1169-1174
-23. Fernandez-Torre JL,  Martinez-Martinez M,  Gonzalez-Rato J, et al. "Cephalosporin-induced nonconvulsive status epilepticus: clinical and electroencephalographic features." Epilepsia 46 (2005): 1550-2
-24. Barbey F,  Bugnon D,  Wauters JP "Severe Neurotoxicity of Cefepime in Uremic Patients." Ann Intern Med 135 (2001): 1011
-25. Wong BB,  Ko GJ "Neutropenia in patients receiving long-term cefepime therapy for osteomyelitis." Am J Health Syst Pharm 60 (2003): 2229-32
-26. Dahlgren AF "Two cases of possible cefepime-induced neutropenia." Am J Health Syst Pharm 54 (1997): 2621-2
-27. Romano A, Mayorga C, Torres MJ, Artesani MC, Suau R, Sanchez F, Perez E, Venuti A, Blanca M "Immediate allergic reactions to cephalosporins: Cross-reactivity and selective responses." J Allerg Clin Immunol 106 (2000): 1177-83
-28. Chikwava KR,  Savell VH Jr,  Boyd TK "Fatal cephalosporin-induced acute hypersensitivity myocarditis." Pediatr Cardiol 27 (2006): 777-80
-Not all side effects for Maxipime may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+Cefepime (the active ingredient contained in Maxipime) is generally well tolerated.  It has been reported that 1.5% of patients discontinued medication due to adverse events.
+If diarrhea occurs which is unresponsive to discontinuation of cefepime (the active ingredient contained in Maxipime) and/or standard therapy, pseudomembranous colitis should be considered.Higher doses (2 grams every 8 hours) have been associated with a greater incidence of side effects, including diarrhea (3%), nausea (2%), and vomiting (1%).
+Uncommon (0.1% to 1%): Colitis (including pseudomembranous colitis), diarrhea, nausea, vomiting, oral moniliasisFrequency not reported: Abdominal pain, anorexia, stomatitis, Clostridium difficile associated diarrhea
+Common (1% to 10%): Local reactions (3%)Uncommon (0.1% to 1%): Phlebitis (1.3%), pain and/or inflammation (0.6%)Frequency not reported: Infusion site reaction
+Local reactions (3%), including phlebitis (1.3%) and pain and/or inflammation (0.6%), have been reported irrespective to cefepime in patients who received intravenous infusion.
+Uncommon (0.1% to 1%): HeadacheFrequency not reported: SomnolencePostmarketing reports: Neurotoxicity, encephalopathy (disturbance of consciousness including confusion, hallucinations, stupor, coma), myoclonus, seizures, nonconvulsive status epilepticus
+Encephalopathy, myoclonus, seizures, and nonconvulsive status epilepticus have been reported.  Although most cases occurred in patients with renal impairment who received higher than recommended doses of cefepime, some cases of neurotoxicity occurred in patients receiving an appropriate dosage for their degree of renal impairment.  In the majority of cases, symptoms of neurotoxicity were reversible and resolved after discontinuation of cefepime and/or after hemodialysis.Case reports of seizure activity, with and without convulsions, associated with cefepime have been published in the medical literature.  In the vast majority of cases, the patient involved had a clinically significant degree of renal dysfunction.  In each case, seizure activity abated upon the discontinuation of cefepime.Higher doses (2 grams every 8 hours) have been associated with a greater incidence of side effects, including headache (1%).A 66-year-old female developed acute renal failure, altered level of consciousness (Glasgow Coma Scale 6), and nonconvulsive status epilepticus after 10 days of cefepime 2 g every 8 hours.  Symptoms resolved and she completely recovered 72 hours after discontinuation of cefepime.
+Common (1% to 10%): Rash (1.1%)Uncommon (0.1% to 1%): Urticaria, pruritus, erythemaRare (less than 0.1%): Red man syndrome (at least 1 case)Frequency not reported: Stevens-Johnson syndrome, erythema multiforme, toxic epidermal necrolysis
+Higher doses (2 grams every 8 hours) have been associated with a higher incidence of side effects, including rash (4%) and pruritus (1%).Cephalosporin class antibiotics have been associated with Stevens-Johnson syndrome, erythema multiforme, and toxic epidermal necrolysis.
+Cephalosporins as a class have been associated with aplastic anemia, hemolytic anemia, prolonged prothrombin time, hemorrhage, and pancytopenia.
+Very common (10% or more): Positive Coombs' test (without hemolysis; 16.2%)Common (1% to 10%): Increased eosinophils (1.7%), abnormal PTT (1.6%), abnormal PT (1.4%)Uncommon (0.1% to 1%): Decreased hematocrit, decreased neutrophils, decreased platelets, decreased white blood cells, anemiaFrequency not reported: Epistaxis, aplastic anemia, hemolytic anemia, prolonged prothrombin time, hemorrhage, pancytopenia
+Anaphylactic reactions are rare, but may occur, especially in patients with a history of penicillin allergy.Cephalosporin class antibiotics have been associated with allergic reactions.
+Frequency not reported: Acute hypersensitivity myocarditis, allergic reactionsPostmarketing reports: Anaphylaxis (including anaphylactic shock, transient leukopenia, neutropenia, agranulocytosis, thrombocytopenia)
+Cephalosporins as a class have been associated with hepatic dysfunction including cholestasis.
+Common (1% to 10%): Increased ALT (2.8%), increased AST (2.4%)Uncommon (0.1% to 1%): Increased alkaline phosphatase, increased total bilirubinFrequency not reported: Hepatic dysfunction including cholestasis
+Hypocalcemia was more common among elderly patients.  Clinical consequences from changes in either calcium or phosphorus were not reported.
+Common (1% to 10%): Decreased phosphorus (2.8%)Uncommon (0.1% to 1%): Decreased calcium, increased calcium, increased phosphorus, increased potassiumFrequency not reported: Hypokalemia, hypomagnesemia
+Higher doses (2 grams every 8 hours) have been associated with a greater incidence of side effects, including fever (1%).
+Uncommon (0.1% to 1%): Fever
+Uncommon (0.1% to 1%): Increased BUN, increased creatinineFrequency not reported: Renal failure, renal dysfunction, toxic nephropathy
+Renal failure, mostly in patients with renal impairment who received higher than recommended doses of cefepime, has been reported.Cephalosporins as a class have been associated with renal dysfunction and toxic nephropathy.
+Uncommon (0.1% to 1%): Vaginitis
+Frequency not reported: Cough, dyspnea
+Frequency not reported: Tachycardia
 Abdominal or stomach cramps
 back, leg, or stomach pains
 bleeding gums, nosebleeds
@@ -79,18 +41,12 @@ nausea or vomiting
 numbness and tingling around the mouth, fingertips, or feet
 tremor
 yellowing of the eyes or skin
-
-
 Bluish color
 pain, tenderness
 swelling of the foot or leg
-
-
 Diarrhea
 inflammation or swelling
 watery or bloody diarrhea
-
-
 Agitation
 blistering, peeling, or loosening of the skin
 bloody or cloudy urine
@@ -120,16 +76,11 @@ swollen or painful glands
 unpleasant breath odor
 unusual bleeding or bruising
 vomiting of blood
-
-
 Red streaks on the skin
 swelling, tenderness, or pain at the injection site
-
-
 Itching of the vagina or genital area
 pain during sexual intercourse
 redness of the skin
 sore mouth or tongue
 thick, white vaginal discharge with no odor or with a mild odor
 white patches in the mouth, tongue, or throat
-

@@ -1,52 +1,34 @@
 Commonly reported side effects of duloxetine include: asthenia, constipation, diarrhea, dizziness, drowsiness, fatigue, hypersomnia, insomnia, nausea, sedation, headache, and xerostomia. Other side effects include: agitation, erectile dysfunction, nervousness, psychomotor agitation, tension, vomiting, abdominal pain, anorexia, decreased appetite, decreased libido, hyperhidrosis, loss of libido, and restlessness.  See below for a comprehensive list of adverse effects.
-Applies to duloxetine: oral capsule, oral capsule delayed release
-In addition to its needed effects, some unwanted effects may be caused by duloxetine. In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking duloxetine:
-
 If any of the following symptoms of overdose occur while taking duloxetine, get emergency help immediately:
-
-Some of the side effects that can occur with duloxetine may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to duloxetine: oral delayed release capsule
-The most commonly reported side effects reported in placebo-controlled clinical trials included nausea, dry mouth, somnolence, constipation, decreased appetite, hyperhidrosis, agitation, fatigue, insomnia, dizzinessThe most commonly reported side effects reported in placebo-controlled clinical trials as a reason for treatment discontinuation and considered to be drug-related included nausea, dizziness, somnolence, headache, and fatigue.[Ref]
-Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between the use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.[Ref]
-Very common (10% or more): Constipation, diarrhea, dry mouth, nauseaCommon (1% to 10%): Abdominal pain, dyspepsia, flatulence, vomitingUncommon (0.1% to 1%): Dysphagia, eructation, gastritis, gastroenteritis, gastrointestinal hemorrhage, halitosis, hematochezia, stomatitisRare (less than 0.1%): Gastric ulcerPostmarketing reports: Gastrointestinal bleeding, pancreatitis, colitis (microscopic or unspecified)[Ref]
-Very common (10% or more): Dizziness, headache, somnolenceCommon (1% to 10%): Dysgeusia, lethargy, paraesthesia/hypoesthesia, tremorUncommon (0.1% to 1%): Convulsions, disturbance in attention, dyskinesia, extrapyramidal symptoms, myoclonus, psychomotor restlessness, restless legs syndrome, trismus, syncopeRare (less than 0.1%): Akathisia, dysarthria, gait disturbancePostmarketing reports: Intracerebral bleeding, seizures upon treatment discontinuation, serotonin syndrome, extrapyramidal disorder[Ref]
-Potentially life-threatening serotonin syndrome has been reported with SSRIs and SNRIs, including duloxetine as monotherapy, but particularly with concomitant use of other serotonergic drugs and drugs that impair the metabolism of serotonin.[Ref]
-Antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.  An increased risk of suicidal thinking and behavior in children, adolescents, and young adults (aged 18 to 24 years) with major depressive disorder (MDD) and other psychiatric disorders has been reported with short-term use of antidepressant drugs.Adult and pediatric patients receiving antidepressants for MDD, as well as for psychiatric and nonpsychiatric indications, have reported symptoms that may be precursors to emerging suicidality, including anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia, hypomania, and mania.  Causality has not been established.Aggression and anger have been reported particularly early in treatment or after treatment discontinuation.[Ref]
-Very common (10% or more): InsomniaCommon (1% to 10%): Abnormal dreams, agitation, anxiety, sleep disorderUncommon (0.1% to 1%): Apathy, bruxism, disorientation/confusional state, irritability, mood swings, nervousness, poor quality sleep, suicide attemptRare (less than 0.1%): Aggression and anger, completed suicide, hallucinations, mania, suicidal behavior and ideation[Ref]
-Common (1% to 10%): Decreased appetite, weight increase/decreaseUncommon (0.1% to 1%): Dehydration, hyperlipidemia, hyponatremia, increased blood cholesterol, increased blood creatine phosphokinaseRare (less than 0.1%): Dyslipidemia, increased blood potassiumFrequency not reported: Abnormal potassium levels, increased bicarbonatePostmarketing reports: Hyperglycemia[Ref]
-Although infrequent, several cases of duloxetine induced hyponatremia have been reported.  In one case report, duloxetine induced hyponatremia was confirmed after inadvertent rechallenge.  It has been suggested that there is a dose-related effect in the development of hyponatremia with duloxetine.  Numerous cases of hyponatremia have been reported following treatment with an SSRI.  Risk factors include advanced age, female gender, concomitant use of diuretics, low body weight, and lower baseline serum sodium levels.  Hyponatremia tends to develop within the first few weeks of treatment (range 3 to 120 days) and typically resolves within 2 weeks (range 48 hours to 6 weeks) after therapy has been discontinued with some patients requiring treatment (e.g., water restriction, dietary sodium).  The proposed mechanism for the development of hyponatremia involves the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) via release of antidiuretic hormone.[Ref]
-Falls were reported more commonly in patients 65 years of age or older.[Ref]
-Very common (10% or more): FatigueCommon (1% to 10%): Asthenia, chills/rigors, pyrexia, vertigoUncommon (0.1% to 1%): Ear pain, falls, feeling abnormal, feeling hot and/or cold, malaise, thirst, tinnitus[Ref]
-Orthostatic hypotension and syncope tend to occur within the first week of therapy; however, they may occur at any time during treatment, particularly after dose increases.  The risk of blood pressure decreases may be greater when duloxetine is given concomitantly with drugs that may induce orthostatic hypotension, such as antihypertensives, with potent CYP450 1A2 inhibitors, or with duloxetine doses above 60 mg per day.[Ref]
-Common (1% to 10%): Flushing, hot flush, hypertension, increased blood pressure, palpitationsUncommon (0.1% to 1%): Chest pain, myocardial infarction, orthostatic hypotension, peripheral coldness, tachycardiaRare (less than 0.1%): Hypertensive crisis, supraventricular arrhythmia (mainly atrial fibrillation)Postmarketing reports: Hematomas, ventricular arrhythmias[Ref]
-The reporting rate of Stevens-Johnson syndrome associated with duloxetine exceeds the general population background incidence rate (1 to 2 cases per million person years).[Ref]
-Common (1% to 10%): Pruritus, hyperhidrosisUncommon (0.1% to 1%): Cold sweat, contact dermatitis, erythema, increased tendency to bruise, night sweats, photosensitivity reaction, urticariaRare (less than 0.1%): Angioneurotic edema, ecchymosis, Stevens-Johnson syndrome Postmarketing reports: Erythema multiforme, petechiae, cutaneous vasculitis (sometimes with systemic involvement)[Ref]
-Uncommon (0.1% to 1%): Hypothyroidism, syndrome of inappropriate secretion of antidiuretic hormone (SIADH)Postmarketing reports: Hyperprolactinemia[Ref]
-The Arizona sexual experience scale, used to identify sexual side effects, was used prospectively in 4 major depressive disorder placebo-controlled trials showed that male patients treated with duloxetine experienced significantly more sexual dysfunction than patients treated with placebo.[Ref]
-Common (1% to 10%): Abnormal orgasm/anorgasmia, decreased libido, delayed ejaculation, ejaculation disorder, erectile dysfunction, urinary frequencyUncommon (0.1% to 1%): Abnormal urine odor, dysuria, gynecological hemorrhage, menopausal symptoms, micturition urgency, nocturia, pollakiuria, polyuria, sexual dysfunction, testicular pain, urinary hesitationRare (less than 0.1%): Decreased urine flow, galactorrhea, menstrual disorder, urinary retention[Ref]
-Concomitant use of aspirin, NSAIDs, warfarin, and other anticoagulants may increase the risk of bleeding events associated with duloxetine.[Ref]
-Postmarketing reports: Life-threatening hemorrhage, blood dyscrasias[Ref]
-Cases of liver failure, including fatalities, have been reported.  The majority of cases were reported in patients with past or current risk factors for liver injury, including alcohol abuse, hepatitis, or exposure to drugs with known adverse effects on the liver.[Ref]
-Uncommon (0.1% to 1%): Acute liver injury, elevated liver enzymes (ALT, AST, GGT, alkaline phosphatase), hepatitis, increased blood bilirubinRare (less than 0.1%): Hepatic failure, jaundice[Ref]
-Postmarketing reports: Anaphylactic reaction, hypersensitivity[Ref]
-Common (1% to 10%): Influenza[Ref]
-Common (1% to 10%): Back pain, muscle spasms, musculoskeletal pain (including myalgia, neck pain)Uncommon (0.1% to 1%): Muscle tightness (including musculoskeletal stiffness), muscle twitching Postmarketing reports: Rhabdomyolysis[Ref]
-Pupillary dilation that occurs following the use of many antidepressant drugs may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.[Ref]
-Common (1% to 10%): Blurred visionUncommon (0.1% to 1%): Diplopia, dry eye, mydriasis, visual impairmentRare (less than 0.1%): Glaucoma[Ref]
-Postmarketing reports: Renal impairment[Ref]
-Common (1% to 10%): Cough, nasopharyngitis, oropharyngeal pain, pharyngolaryngeal pain, upper respiratory tract infection, yawningUncommon (0.1% to 1%): Laryngitis, throat tightnessRare (less than 0.1%): Epistaxis[Ref]
-1. "Product Information. Cymbalta (duloxetine)." Lilly, Eli and Company, Indianapolis, IN. 
-2. Cerner Multum,  Inc. "Australian Product Information." O 0
-3. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-4. Dirks AC,  van Hyfte DM "Recurrent hyponatremia after substitution of citalopram with duloxetine." J Clin Psychopharmacol 27 (2007): 313
-5. Safdieh JE,  Rudominer R "A case of hyponatremia induced by duloxetine." J Clin Psychopharmacol 26 (2006): 675-676
-6. Kruger S,  Lindstaedt M "Duloxetine and hyponatremia: a report of 5 cases." J Clin Psychopharmacol 27 (2007): 101-104
-7. Maramattom BV "Duloxetine-induced syndrome of inappropriate antidiuretic hormone secretion and seizures." Neurology 66 (2006): 773-4
-Not all side effects for duloxetine may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
-
+The most commonly reported side effects reported in placebo-controlled clinical trials included nausea, dry mouth, somnolence, constipation, decreased appetite, hyperhidrosis, agitation, fatigue, insomnia, dizzinessThe most commonly reported side effects reported in placebo-controlled clinical trials as a reason for treatment discontinuation and considered to be drug-related included nausea, dizziness, somnolence, headache, and fatigue.
+Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between the use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
+Very common (10% or more): Constipation, diarrhea, dry mouth, nauseaCommon (1% to 10%): Abdominal pain, dyspepsia, flatulence, vomitingUncommon (0.1% to 1%): Dysphagia, eructation, gastritis, gastroenteritis, gastrointestinal hemorrhage, halitosis, hematochezia, stomatitisRare (less than 0.1%): Gastric ulcerPostmarketing reports: Gastrointestinal bleeding, pancreatitis, colitis (microscopic or unspecified)
+Very common (10% or more): Dizziness, headache, somnolenceCommon (1% to 10%): Dysgeusia, lethargy, paraesthesia/hypoesthesia, tremorUncommon (0.1% to 1%): Convulsions, disturbance in attention, dyskinesia, extrapyramidal symptoms, myoclonus, psychomotor restlessness, restless legs syndrome, trismus, syncopeRare (less than 0.1%): Akathisia, dysarthria, gait disturbancePostmarketing reports: Intracerebral bleeding, seizures upon treatment discontinuation, serotonin syndrome, extrapyramidal disorder
+Potentially life-threatening serotonin syndrome has been reported with SSRIs and SNRIs, including duloxetine as monotherapy, but particularly with concomitant use of other serotonergic drugs and drugs that impair the metabolism of serotonin.
+Antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.  An increased risk of suicidal thinking and behavior in children, adolescents, and young adults (aged 18 to 24 years) with major depressive disorder (MDD) and other psychiatric disorders has been reported with short-term use of antidepressant drugs.Adult and pediatric patients receiving antidepressants for MDD, as well as for psychiatric and nonpsychiatric indications, have reported symptoms that may be precursors to emerging suicidality, including anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia, hypomania, and mania.  Causality has not been established.Aggression and anger have been reported particularly early in treatment or after treatment discontinuation.
+Very common (10% or more): InsomniaCommon (1% to 10%): Abnormal dreams, agitation, anxiety, sleep disorderUncommon (0.1% to 1%): Apathy, bruxism, disorientation/confusional state, irritability, mood swings, nervousness, poor quality sleep, suicide attemptRare (less than 0.1%): Aggression and anger, completed suicide, hallucinations, mania, suicidal behavior and ideation
+Common (1% to 10%): Decreased appetite, weight increase/decreaseUncommon (0.1% to 1%): Dehydration, hyperlipidemia, hyponatremia, increased blood cholesterol, increased blood creatine phosphokinaseRare (less than 0.1%): Dyslipidemia, increased blood potassiumFrequency not reported: Abnormal potassium levels, increased bicarbonatePostmarketing reports: Hyperglycemia
+Although infrequent, several cases of duloxetine induced hyponatremia have been reported.  In one case report, duloxetine induced hyponatremia was confirmed after inadvertent rechallenge.  It has been suggested that there is a dose-related effect in the development of hyponatremia with duloxetine.  Numerous cases of hyponatremia have been reported following treatment with an SSRI.  Risk factors include advanced age, female gender, concomitant use of diuretics, low body weight, and lower baseline serum sodium levels.  Hyponatremia tends to develop within the first few weeks of treatment (range 3 to 120 days) and typically resolves within 2 weeks (range 48 hours to 6 weeks) after therapy has been discontinued with some patients requiring treatment (e.g., water restriction, dietary sodium).  The proposed mechanism for the development of hyponatremia involves the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) via release of antidiuretic hormone.
+Falls were reported more commonly in patients 65 years of age or older.
+Very common (10% or more): FatigueCommon (1% to 10%): Asthenia, chills/rigors, pyrexia, vertigoUncommon (0.1% to 1%): Ear pain, falls, feeling abnormal, feeling hot and/or cold, malaise, thirst, tinnitus
+Orthostatic hypotension and syncope tend to occur within the first week of therapy; however, they may occur at any time during treatment, particularly after dose increases.  The risk of blood pressure decreases may be greater when duloxetine is given concomitantly with drugs that may induce orthostatic hypotension, such as antihypertensives, with potent CYP450 1A2 inhibitors, or with duloxetine doses above 60 mg per day.
+Common (1% to 10%): Flushing, hot flush, hypertension, increased blood pressure, palpitationsUncommon (0.1% to 1%): Chest pain, myocardial infarction, orthostatic hypotension, peripheral coldness, tachycardiaRare (less than 0.1%): Hypertensive crisis, supraventricular arrhythmia (mainly atrial fibrillation)Postmarketing reports: Hematomas, ventricular arrhythmias
+The reporting rate of Stevens-Johnson syndrome associated with duloxetine exceeds the general population background incidence rate (1 to 2 cases per million person years).
+Common (1% to 10%): Pruritus, hyperhidrosisUncommon (0.1% to 1%): Cold sweat, contact dermatitis, erythema, increased tendency to bruise, night sweats, photosensitivity reaction, urticariaRare (less than 0.1%): Angioneurotic edema, ecchymosis, Stevens-Johnson syndrome Postmarketing reports: Erythema multiforme, petechiae, cutaneous vasculitis (sometimes with systemic involvement)
+Uncommon (0.1% to 1%): Hypothyroidism, syndrome of inappropriate secretion of antidiuretic hormone (SIADH)Postmarketing reports: Hyperprolactinemia
+The Arizona sexual experience scale, used to identify sexual side effects, was used prospectively in 4 major depressive disorder placebo-controlled trials showed that male patients treated with duloxetine experienced significantly more sexual dysfunction than patients treated with placebo.
+Common (1% to 10%): Abnormal orgasm/anorgasmia, decreased libido, delayed ejaculation, ejaculation disorder, erectile dysfunction, urinary frequencyUncommon (0.1% to 1%): Abnormal urine odor, dysuria, gynecological hemorrhage, menopausal symptoms, micturition urgency, nocturia, pollakiuria, polyuria, sexual dysfunction, testicular pain, urinary hesitationRare (less than 0.1%): Decreased urine flow, galactorrhea, menstrual disorder, urinary retention
+Concomitant use of aspirin, NSAIDs, warfarin, and other anticoagulants may increase the risk of bleeding events associated with duloxetine.
+Postmarketing reports: Life-threatening hemorrhage, blood dyscrasias
+Cases of liver failure, including fatalities, have been reported.  The majority of cases were reported in patients with past or current risk factors for liver injury, including alcohol abuse, hepatitis, or exposure to drugs with known adverse effects on the liver.
+Uncommon (0.1% to 1%): Acute liver injury, elevated liver enzymes (ALT, AST, GGT, alkaline phosphatase), hepatitis, increased blood bilirubinRare (less than 0.1%): Hepatic failure, jaundice
+Postmarketing reports: Anaphylactic reaction, hypersensitivity
+Common (1% to 10%): Influenza
+Common (1% to 10%): Back pain, muscle spasms, musculoskeletal pain (including myalgia, neck pain)Uncommon (0.1% to 1%): Muscle tightness (including musculoskeletal stiffness), muscle twitching Postmarketing reports: Rhabdomyolysis
+Pupillary dilation that occurs following the use of many antidepressant drugs may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Common (1% to 10%): Blurred visionUncommon (0.1% to 1%): Diplopia, dry eye, mydriasis, visual impairmentRare (less than 0.1%): Glaucoma
+Postmarketing reports: Renal impairment
+Common (1% to 10%): Cough, nasopharyngitis, oropharyngeal pain, pharyngolaryngeal pain, upper respiratory tract infection, yawningUncommon (0.1% to 1%): Laryngitis, throat tightnessRare (less than 0.1%): Epistaxis
 Abdominal or stomach pain
 area rash
 blindness
@@ -85,8 +67,6 @@ unpleasant breath odor
 upper right stomach pain
 vomiting of blood
 yellow eyes and skin
-
-
 Agitation
 diarrhea
 fever
@@ -104,8 +84,6 @@ trembling or shaking
 twitching
 unusual tiredness or weakness
 vomiting
-
-
 Body aches or pain
 cough
 difficulty having a bowel movement (stool)
@@ -125,8 +103,6 @@ stuffy or runny nose
 sweating increased
 trouble sleeping
 weight loss
-
-
 Abnormal orgasm
 acid or sour stomach
 belching
@@ -151,4 +127,3 @@ stomach discomfort or upset
 sudden sweating
 swollen joints
 trembling or shaking of the hands or feet
-

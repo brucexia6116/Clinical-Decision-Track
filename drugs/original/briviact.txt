@@ -1,25 +1,13 @@
-Generic Name: brivaracetam
 Common side effects of Briviact include: acute psychosis, dizziness, drowsiness, equilibrium disturbance, fatigue, sedation, abnormal behavior, abnormal gait, aggressive behavior, agitation, anxiety, apathy, asthenia, ataxia, depressed mood, depression, hallucination, hypersomnia, lacrimation, lethargy, nervousness, nystagmus, paranoia, psychomotor agitation, vertigo, irritability, emotional lability, malaise, and restlessness.  See below for a comprehensive list of adverse effects.
-Applies to brivaracetam: oral solution, oral tablet
 Other dosage forms:
-In addition to its needed effects, some unwanted effects may be caused by brivaracetam (the active ingredient contained in Briviact). In the event that any of these side effects do occur, they may require medical attention.
-You should check with your doctor immediately if any of these side effects occur when taking brivaracetam:
-Some of the side effects that can occur with brivaracetam may not need medical attention. As your body adjusts to the medicine during treatment these side effects may go away. Your health care professional may also be able to tell you about ways to reduce or prevent some of these side effects. If any of the following side effects continue, are bothersome or if you have any questions about them, check with your health care professional:
-
-
-Applies to brivaracetam: intravenous solution, oral liquid, oral tablet
-Common (1% to 10%): Nausea, vomiting, constipation[Ref]
-Uncommon (0.1% to 1%): Neutropenia[Ref]
-Common (1% to 10%): Influenza[Ref]
-Common (1% to 10%): Decreased appetite, decreased weight[Ref]
-Very common (10% or more): Somnolence/sedation (up to 16%), dizziness (up to 12%)Common (1% to 10%): Fatigue, cerebellar coordination and balance disturbances, convulsion, vertigo[Ref]
-Common (1% to 10%): Depression, anxiety, insomnia, irritabilityUncommon (0.1% to 1%): Suicidal ideation, psychotic disorder, aggression, agitation[Ref]
-Common (1% to 10%): Upper respiratory tract infections, cough[Ref]
-1. "Product Information. Briviact (brivaracetam)." UCB Pharma Inc, Smyrna, GA. 
-2. Cerner Multum,  Inc. "UK Summary of Product Characteristics." O 0
-Not all side effects for Briviact may be reported. You should always consult a doctor or healthcare professional for medical advice. Side effects can be reported to the FDA here.
+Common (1% to 10%): Nausea, vomiting, constipation
+Uncommon (0.1% to 1%): Neutropenia
+Common (1% to 10%): Influenza
+Common (1% to 10%): Decreased appetite, decreased weight
+Very common (10% or more): Somnolence/sedation (up to 16%), dizziness (up to 12%)Common (1% to 10%): Fatigue, cerebellar coordination and balance disturbances, convulsion, vertigo
+Common (1% to 10%): Depression, anxiety, insomnia, irritabilityUncommon (0.1% to 1%): Suicidal ideation, psychotic disorder, aggression, agitation
+Common (1% to 10%): Upper respiratory tract infections, cough
 intravenous solution
-
 Anxiety
 changes in behavior
 chest pain or discomfort
@@ -41,13 +29,9 @@ trouble sleeping
 unusual drowsiness, dullness, tiredness, weakness, or feeling of sluggishness
 unusually deep sleep
 unusually long duration of sleep
-
-
 Shakiness and unsteady walk
 unsteadiness, trembling, or other problems with muscle control or coordination
 uncontrolled eye movements
-
-
 Cough
 difficulty breathing or swallowing
 fever
@@ -56,8 +40,5 @@ large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, leg
 noisy breathing
 reddening of the skin, especially around the ears
 swelling of the eyes, face, or inside of the nose
-
-
 Difficulty having a bowel movement (stool)
 vomiting
-
