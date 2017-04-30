@@ -1,0 +1,84 @@
+All clinical trial data were from trials of lapatinib in combination with capecitabine.
+To report suspected adverse reactions, contact GlaxoSmithKline at 1-888-825-5249 or the FDA at 1-800-FDA-1088 or www.
+fda.
+gov/medwatch.
+Diarrhea was the most common adverse reaction resulting in discontinuation of study medication.
+Gastrointestinal side effects including diarrhea (65%), nausea (44%), vomiting (26%), stomatitis (14%), and dyspepsia (11%) have been reported.
+Hematologic side effects have included laboratory abnormalities in hemoglobin (56%), neutrophils (22%), and platelets (18%).
+Dermatologic side effects including palmar plantar erythrodysesthesia (53%) (also called hand-foot syndrome or acral erythema), rash (28%), dry skin (10%), and nail disorders including paronychia have been reported.
+Hepatotoxicity may be severe and deaths have been reported.
+Causality of the deaths is uncertain.
+The hepatotoxicity may occur days to several months after initiation of treatment.
+Liver function tests (transaminases, bilirubin, and alkaline phosphatase) should be monitored before initiation of treatment, every 4 to 6 weeks during treatment, and as clinically indicated.
+If changes in liver function are severe, therapy with lapatinib should be discontinued and patients should not be retreated with lapatinib.
+If lapatinib is to be administered to patients with severe preexisting hepatic impairment, dose reduction should be considered.
+In patients who develop severe hepatotoxicity while on therapy, lapatinib should be discontinued and should not be retreated with lapatinib.
+Hepatic side effects have included laboratory abnormalities in AST (49%), total bilirubin (45%), and ALT (37%).
+Due to potential cardiac toxicity with HER2 (ErbB2) inhibitors, left ventricular ejection fraction (LVEF) was monitored in clinical trials at approximately eight-week intervals.
+LVEF decreases were defined as signs or symptoms of deterioration in left ventricular cardiac function that are grade 3 (NCI CTCAE), or a 20% decrease in left ventricular cardiac ejection fraction relative to baseline which is below the institution's lower limit of normal.
+Among 198 patients who received lapatinib/capecitabine combination treatment, three experienced Grade 2 and one had Grade 3 LVEF adverse reactions (NCI CTC 3.
+0).
+The QT prolongation potential of lapatinib was assessed as part of an uncontrolled, open-label dose escalation study in advanced cancer patients.
+Eighty-one patients received daily doses of lapatinib ranging from 175 mg/day to 1800 mg/day.
+Serial ECGs were collected on day 1 and day 14 to evaluate the effect of lapatinib on QT intervals.
+Thirteen of the 81 subjects were found to have either QTcF (corrected QT by the Friedericia method) greater than 480 msec or an increase in QTcF greater than 60 msec by automated machine-read evaluation of ECG.
+Analysis of the data suggested a relationship between lapatinib concentration and the QTc interval.
+Cardiovascular side effects including decreases in left ventricular ejection fraction and QT prolongation have been reported.
+Other side effects including mucosal inflammation (15%), pain in the extremity (12%), dyspnea (12%), back pain (11%), and insomnia (10%) have been reported.
+Oncologic side effects including genotoxicity have been reported.
+An impurity in the drug product was genotoxic when tested alone in both in vitro and in vivo assays.
+It is recommended that patients be monitored for pulmonary symptoms indicative of interstitial lung disease or pneumonitis.
+Lapatinib should be discontinued in patients who experience pulmonary symptoms indicative of interstitial lung disease/pneumonitis which are greater than or equal to grade 3 (NCI CTCAE).
+Respiratory side effects have been reported including interstitial lung disease and pneumonitis in monotherapy or in combination with other chemotherapies.
+Hypersensitivity side effects including anaphylaxis have been reported.
+Difficult or labored breathing
+fainting
+fast or irregular heartbeat
+severe diarrhea
+tightness in the chest
+unusual tiredness or weakness
+Abdominal or stomach pain or tenderness
+clay colored stools
+dark urine
+decreased appetite
+fever
+headache
+itching or skin rash
+loss of appetite
+nausea and vomiting
+swelling of the feet or lower legs
+yellow eyes or skin
+Blistering, peeling, loosening of the skin
+chest pain
+chills
+cough
+diarrhea
+difficulty with swallowing
+dizziness
+general feeling of discomfort or illness
+hives
+joint or muscle pain
+puffiness or swelling of the eyelids or around the eyes, face, lips, or tongue
+red skin lesions, often with a purple center
+red, irritated eyes
+sore throat
+sores, ulcers, or white spots in the mouth or on the lips
+thickening of bronchial secretions
+Acid or sour stomach
+back pain
+belching
+cracked lips
+diarrhea (mild)
+dry skin
+heartburn
+indigestion
+pain in the arms or legs
+redness, swelling, or painful skin
+scaling of the skin on the hands and feet
+sores, ulcers, or white spots on the lips, tongue, or the inside of the mouth
+stomach discomfort, upset, or pain
+swelling or inflammation of the mouth
+tingling of the hands and feet
+trouble sleeping
+Loosening of the fingernails
+redness or soreness around the fingernails

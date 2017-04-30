@@ -43,23 +43,37 @@ def check_parse(drugname):
 	if 'The page you requested is either undergoing' in drug_raw:
 		wrong_drugname.append(drugname)
 
+def sentence_segment(drugname):
+	# read drug file to extract the side effects content
+	filepath = 'drugs/original/{}.txt'.format(drugname)
+	drug_file = open(filepath, 'r')
+	drug_raw = drug_file.read()
+	drug_file.close()
+
+	drug_raw = drug_raw.replace('.', '.\n')
+	drug_raw = os.linesep.join([s.lstrip(' ') for s in drug_raw.splitlines() if s])
+	filepath = 'drugs/preprocessed/{}.txt'.format(drugname)
+	with open(filepath, 'w') as file:
+		file.write(drug_raw)
+		file.close()
+
 
 if __name__ == "__main__":
 	drug_name_file = open('./drugs_com_web_names.txt','r')
 	drug_names = drug_name_file.readlines()
 	drug_names = [drug_name.replace('\n','') for drug_name in drug_names]
-	# pool = Pool()
-	# result = pool.map_async(check_parse, drug_names, chunksize=int(len(drug_names)/8))
-	# while (True):
-	#   if (result.ready()): break
-	#   remaining = result._number_left
-	#   print ("Waiting for", remaining, "tasks to complete...")
-	#   time.sleep(1)
-	# print ('All tasks completed!')
-	# pool.close()
+	pool = Pool()
+	result = pool.map_async(sentence_segment, drug_names, chunksize=int(len(drug_names)/8))
+	while (True):
+	  if (result.ready()): break
+	  remaining = result._number_left
+	  print ("Waiting for", remaining, "tasks to complete...")
+	  time.sleep(1)
+	print ('All tasks completed!')
+	pool.close()
 	for drugname in drug_names:
 		check_parse(drugname)
 
-	with open('drugs/wrongName.txt', 'w') as file:
-		file.write(str(wrong_drugname))
-		file.close()
+	# with open('drugs/wrongName.txt', 'w') as file:
+	# 	file.write(str(wrong_drugname))
+	# 	file.close()

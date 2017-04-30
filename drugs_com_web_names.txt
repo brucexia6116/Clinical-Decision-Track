@@ -37,7 +37,7 @@ acetasol hc
 acetazolamide
 acetic acid
 acetohydroxamic acid
-acetylcholine ophthalmic
+acetylcholine
 acetylcysteine
 achromycin v
 acid reducer
@@ -54,7 +54,7 @@ acthib
 acthrel
 acticin
 acticlate
-actifed cold allergy
+actifed cold & allergy
 actifed
 actigall
 actimmune
@@ -109,7 +109,7 @@ advate
 advicor
 advil allergy sinus
 advil childrens
-advil cold and sinus
+advil cold & sinus
 advil migraine
 advil
 adynovate
@@ -148,7 +148,9 @@ albalon
 albendazole
 albenza
 albiglutide
+albumin (human)
 albumin human
+albumin
 alburx
 albutein
 albuterol
@@ -172,7 +174,8 @@ alera
 alesse-28
 alesse
 aleve arthritis
-aleve sinus headache
+aleve pm
+aleve sinus & headache
 aleve
 alfenta
 alfentanil
@@ -210,6 +213,8 @@ allerx dose pack
 allfen c
 allfen
 alli
+allium cepa
+allium sativum
 allopurinol
 almacone
 almotriptan
@@ -236,7 +241,7 @@ altavera
 altenol
 alteplase
 alternagel
-amoxicillin clavulanate
+alti-amoxi clav
 alti-ipratropium
 alti-mpa
 altoprev
