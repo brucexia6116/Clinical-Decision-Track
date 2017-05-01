@@ -1,57 +1,30 @@
 As well as its needed effects, ipilimumab (the active ingredient contained in Yervoy) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking ipilimumab, check with your doctor or nurse immediately:
 Some ipilimumab side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 The most common side effects were diarrhea, rash, pruritus, fatigue, nausea, vomiting, decreased appetite, abdominal pain, and colitis.
-Common (1% to 10%): Sepsis, oral candidiasis, cellulitis, contrast media allergy, seasonal allergyUncommon (0.
-1% to 1%): Septic shock, cytokine release syndrome, positive antinuclear antibodyRare (less than 0.
-1%): Sarcoidosis
-Common (1% to 10%): Infectious hepatitis, increased blood bilirubin, increased alanine aminotransferase, increased aspartate aminotransferase, abnormal hepatic function, hepatic failure, hepatomegaly, jaundiceUncommon (0.
-1% to 1%): Autoimmune hepatitis, increased gamma-glutamyltransferase
-Common (1% to 10%): Hypotension, flushing, hypertension, hematoma, venous thrombosis, hemorrhage, lymphedema, hot flushUncommon (0.
-1% to 1%): Orthostatic hypotension, pericardial effusionRare (less than 0.
-1%): Myocarditis, cardiomyopathy, angiopathy, peripheral ischemia, vasculitis, temporal arteritis, Raynaud's phenomenon
-Very common (10% or more): Pruritus (up to 33%), rash (up to 30%)Common (1% to 10%): Erythema, vitiligo, alopecia, dry skin, night sweats, dermatitis, urticaria, eczema, skin hypopigmentation, contusion, excoriationUncommon (0.
-1% to 1%): Toxic epidermal necrolysis, leukocytoclastic vasculitis, skin exfoliation, erythema multiforme, psoriasis, palmar-plantar erythrodysesthesia syndrome, erythema nodosum, hair color changes
-Common (1% to 10%): Decreased blood corticotrophin, hypopituitarism (including hypophysitis), hypothyroidism, adrenal insufficiency, hyperthyroidismUncommon (0.
-1% to 1%): Increased blood thyroid stimulating hormone, decreased blood cortisol, decreased blood testosterone, hypogonadism, thyroiditis, hypoparathyroidism, decreased blood thyroid stimulating hormone, decreased blood gonadotrophin, decreased thyroxin, abnormal blood prolactin, hypocalcemiaRare (less than 0.
-1%): Secondary adrenocortical insufficiency, hyperpituitarism, autoimmune thyroiditis
-Very common (10% or more): Diarrhea (up to 38%), vomiting (up to 24%), abdominal pain (up to 23%), nauseaCommon (1% to 10%): Colitis, gastrointestinal hemorrhage, constipation, gastroesophageal reflux disease, stomatitis, dysphagia, retching, gastroenteritis, increased lipase, large intestine perforation, proctitisUncommon (0.
-1% to 1%): Increased blood amylase, gastrointestinal perforation, large intestinal ulcer, esophagitis, ileus, diverticulitis, gastric ulcer, enterocolitis, pancreatitis, peritonitis
-Common (1% to 10%): Lymphoadenopathy, eosinophilia, neutropenia, thrombocytopenia, anemia, lymphopeniaUncommon (0.
-1% to 1%): Hemolytic anemia, leucopenia, lymphocytosisRare (less than 0.
-1%): Polycythemia
-Very common (10% or more): Headache (up to 15%)Common (1% to 10%): Lethargy, tremor, brain edema, cranial neuropathy, peripheral sensory neuropathy, aphasia, dizzinessUncommon (0.
-1% to 1%): Guillain-Barré syndrome, meningitis (aseptic), syncope, ataxia, tremor, myoclonus, dysarthria, myasthenia gravis-like syndromeRare (less than 0.
-1%): Meninginism, autoimmune central neuropathy (encephalitis), neurosensory hypoacusis
-Common (1% to 10%): Blurred vision, conjunctivitis, uveitis, eye pain, dry eyeUncommon (0.
-1% to 1%): Vitreous hemorrhage, iritis, reduced visual acuity, foreign body sensation in eyes, blepharitisRare (less than 0.
-1%): Episcleritis, scleritis, eye edema, ocular myositis
-Very common (10% or more): Fatigue (up to 42%), pyrexia (up to 13%)Common (1% to 10%): Chest pain, chills, asthenia, edema, pain, influenza-like illnessUncommon (0.
-1% to 1%): Multi-organ failure, infusion related reaction, systemic inflammatory response syndrome, mucosal inflammation
-Common (1% to 10%): Renal failure, hematuria, increased blood creatinineUncommon (0.
-1% to 1%): Glomerulonephritis, renal tubular acidosis, urinary tract infectionRare (less than 0.
-1%) Autoimmune nephritis, proteinuria
-Very common (10% or more): Cough (up to 17%)Common (1% to 10%): Upper respiratory tract infection, lower respiratory tract infection, oropharyngeal pain, wheezing, nasal disorder, sinus, congestion, dyspneaUncommon (0.
-1% to 1%): Respiratory failure, acute respiratory distress syndrome, lung infiltration, pulmonary edema, pneumonitis, allergic rhinitis
-Uncommon (0.
-1% to 1%): Amenorrhea
-Rare (less than 0.
-1%): Hypersensitivity
-Very common (10% or more): Injection site reaction (up to 50%)Common (1% to 10%): Vaccination site reaction
-Very common (10% or more): Decreased appetite (up to 27%)Common (1% to 10%): Hypokalemia, hypoglycemia, hypoalbuminemia, hyponatremia, decreased weight, dehydrationUncommon (0.
-1% to 1%): Alkalosis, hypophosphatemia, tumor lysis syndromeRare (less than 0.
-1%): Tumor lysis syndrome
-Common (1% to 10%): Myalgia, muscle spasms.
-Uncommon (0.
-1% to 1%): Arthralgia, musculoskeletal pain, arthritis.
-Rare (less than 0.
-1%): Polymyalgia rheumatica, myositis, polymyositis.
-Common (1% to 10%): Tumor pain, cancer painFrequency not reported: Paraneoplastic syndrome
-Very common (10% or more): Insomnia (up to 12%)Common (1% to 10%): Depression, anxiety, decreased libido, confusional stateUncommon (0.
-1% to 1%): Mental status changes
+Common ( to ): Sepsis, oral candidiasis, cellulitis, contrast media allergy, seasonal allergyUncommon ( to ): Septic shock, cytokine release syndrome, positive antinuclear antibodyRare (less than ): Sarcoidosis
+Common ( to ): Infectious hepatitis, increased blood bilirubin, increased alanine aminotransferase, increased aspartate aminotransferase, abnormal hepatic function, hepatic failure, hepatomegaly, jaundiceUncommon ( to ): Autoimmune hepatitis, increased gamma-glutamyltransferase
+Common ( to ): Hypotension, flushing, hypertension, hematoma, venous thrombosis, hemorrhage, lymphedema, hot flushUncommon ( to ): Orthostatic hypotension, pericardial effusionRare (less than ): Myocarditis, cardiomyopathy, angiopathy, peripheral ischemia, vasculitis, temporal arteritis, Raynaud's phenomenon
+Very common ( or more): Pruritus (up to ), rash (up to )Common ( to ): Erythema, vitiligo, alopecia, dry skin, night sweats, dermatitis, urticaria, eczema, skin hypopigmentation, contusion, excoriationUncommon ( to ): Toxic epidermal necrolysis, leukocytoclastic vasculitis, skin exfoliation, erythema multiforme, psoriasis, palmar-plantar erythrodysesthesia syndrome, erythema nodosum, hair color changes
+Common ( to ): Decreased blood corticotrophin, hypopituitarism (including hypophysitis), hypothyroidism, adrenal insufficiency, hyperthyroidismUncommon ( to ): Increased blood thyroid stimulating hormone, decreased blood cortisol, decreased blood testosterone, hypogonadism, thyroiditis, hypoparathyroidism, decreased blood thyroid stimulating hormone, decreased blood gonadotrophin, decreased thyroxin, abnormal blood prolactin, hypocalcemiaRare (less than ): Secondary adrenocortical insufficiency, hyperpituitarism, autoimmune thyroiditis
+Very common ( or more): Diarrhea (up to ), vomiting (up to ), abdominal pain (up to ), nauseaCommon ( to ): Colitis, gastrointestinal hemorrhage, constipation, gastroesophageal reflux disease, stomatitis, dysphagia, retching, gastroenteritis, increased lipase, large intestine perforation, proctitisUncommon ( to ): Increased blood amylase, gastrointestinal perforation, large intestinal ulcer, esophagitis, ileus, diverticulitis, gastric ulcer, enterocolitis, pancreatitis, peritonitis
+Common ( to ): Lymphoadenopathy, eosinophilia, neutropenia, thrombocytopenia, anemia, lymphopeniaUncommon ( to ): Hemolytic anemia, leucopenia, lymphocytosisRare (less than ): Polycythemia
+Very common ( or more): Headache (up to )Common ( to ): Lethargy, tremor, brain edema, cranial neuropathy, peripheral sensory neuropathy, aphasia, dizzinessUncommon ( to ): Guillain-Barr syndrome, meningitis (aseptic), syncope, ataxia, tremor, myoclonus, dysarthria, myasthenia gravis-like syndromeRare (less than ): Meninginism, autoimmune central neuropathy (encephalitis), neurosensory hypoacusis
+Common ( to ): Blurred vision, conjunctivitis, uveitis, eye pain, dry eyeUncommon ( to ): Vitreous hemorrhage, iritis, reduced visual acuity, foreign body sensation in eyes, blepharitisRare (less than ): Episcleritis, scleritis, eye edema, ocular myositis
+Very common ( or more): Fatigue (up to ), pyrexia (up to )Common ( to ): Chest pain, chills, asthenia, edema, pain, influenza-like illnessUncommon ( to ): Multi-organ failure, infusion related reaction, systemic inflammatory response syndrome, mucosal inflammation
+Common ( to ): Renal failure, hematuria, increased blood creatinineUncommon ( to ): Glomerulonephritis, renal tubular acidosis, urinary tract infectionRare (less than ) Autoimmune nephritis, proteinuria
+Very common ( or more): Cough (up to )Common ( to ): Upper respiratory tract infection, lower respiratory tract infection, oropharyngeal pain, wheezing, nasal disorder, sinus, congestion, dyspneaUncommon ( to ): Respiratory failure, acute respiratory distress syndrome, lung infiltration, pulmonary edema, pneumonitis, allergic rhinitis
+Uncommon ( to ): Amenorrhea
+Rare (less than ): Hypersensitivity
+Very common ( or more): Injection site reaction (up to )Common ( to ): Vaccination site reaction
+Very common ( or more): Decreased appetite (up to )Common ( to ): Hypokalemia, hypoglycemia, hypoalbuminemia, hyponatremia, decreased weight, dehydrationUncommon ( to ): Alkalosis, hypophosphatemia, tumor lysis syndromeRare (less than ): Tumor lysis syndrome
+Common ( to ): Myalgia, muscle spasms.
+Uncommon ( to ): Arthralgia, musculoskeletal pain, arthritis.
+Rare (less than ): Polymyalgia rheumatica, myositis, polymyositis.
+Common ( to ): Tumor pain, cancer painFrequency not reported: Paraneoplastic syndrome
+Very common ( or more): Insomnia (up to )Common ( to ): Depression, anxiety, decreased libido, confusional stateUncommon ( to ): Mental status changes
 It is possible that some side effects of Yervoy may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

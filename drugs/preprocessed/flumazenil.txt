@@ -3,10 +3,9 @@ Other side effects include: headache, agitation, depersonalization, depression, 
 See below for a comprehensive list of adverse effects.
 Side effects include:
 Dizziness, injection site pain, increased sweating, headache, and abnormal or blurred vision.
-
 Flumazenil is generally well-tolerated when given to patients without prior exposure to benzodiazepines.
 Convulsions are the most common serious adverse events reported.
-Dizziness, injection site pain, increased sweating, headache, and visual disturbances have been reported  in 3% to 9% of patients.
+Dizziness, injection site pain, increased sweating, headache, and visual disturbances have been reported  in  to  of patients.
 Most of the adverse effects observed during flumazenil therapy are related to the rapid resolution of benzodiazepine effects rather than to the administration of flumazenil per se.
 Flumazenil has been associated with seizures in patients with severe hepatic insufficiency and patients who were taking benzodiazepines for seizure control.
 Other risk factors for seizures may include concurrent sedative-hypnotic withdrawal, recent repeated administration of parenteral benzodiazepines, jerking or seizures prior to administration of flumazenil, and concurrent cyclic antidepressant overdose.
@@ -17,11 +16,11 @@ Nervous system side effects have included seizures, agitation, anxiety, nervousn
 Fear and panic attacks have been reported in patients with a history of panic disorders.
 Psychiatric side effects have included emotional lability (crying, depersonalization, euphoria, depression, dysphoria, and paranoia), psychosis, anxiety, fear, and panic attacks.
 Local reaction at the site of intravenous injection include pain, burning, swelling, and rash.
-Gastrointestinal side effects have included nausea and vomiting in 11% of treated patients.
-Hiccups have been reported in less than 1%.
-Cardiovascular side effects have included cutaneous vasodilation (sweating, flushing, and hot flashes) in 1% to 3% of patients.
-Arrhythmias (atrial, nodal, ventricular extrasystoles), tachycardia, bradycardia, premature ventricular depolarizations, heart block, cardiac arrest, hypertension, and chest pain have been reported in less than 1% of patients.
-Ventricular tachycardia (1/446) and junctional tachycardia (1/446) have been reported in clinical trials of patients with benzodiazepine overdose.
+Gastrointestinal side effects have included nausea and vomiting in  of treated patients.
+Hiccups have been reported in less than .
+Cardiovascular side effects have included cutaneous vasodilation (sweating, flushing, and hot flashes) in  to  of patients.
+Arrhythmias (atrial, nodal, ventricular extrasystoles), tachycardia, bradycardia, premature ventricular depolarizations, heart block, cardiac arrest, hypertension, and chest pain have been reported in less than  of patients.
+Ventricular tachycardia (/) and junctional tachycardia (/) have been reported in clinical trials of patients with benzodiazepine overdose.
 Some investigators have suggested that reports of adverse cardiac effects are related to reversal of benzodiazepine-mediated sedation with consequent increased sympathetic drive, rather than to any intrinsic cardiac effects of flumazenil.
 Other investigators and case reports have suggested that cardiovascular effects are most likely to occur in the setting of multiple drug overdose treated with flumazenil rather than isolated benzodiazepine overdose.
 Fatalities have been reported, the majority of deaths were in patients with overdoses due to nonbenzodiazepine drugs (usually cyclic antidepressants) and in patients with serious underlying disease.

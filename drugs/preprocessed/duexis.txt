@@ -1,15 +1,15 @@
 Famotidine-Ibuprofen:The most frequently reported side effects included nausea, diarrhea, constipation, upper abdominal pain, and headache.
-Famotidine-Ibuprofen:Common (1% to 10%): Nausea, dyspepsia, diarrhea, constipation, upper abdominal pain, gastroesophageal reflux disease, vomiting, stomach discomfort, abdominal painFamotidine:Postmarketing reports: Nausea, diarrhea, vomiting, abdominal painIbuprofen:Common (1% to 10%): Nausea, dyspepsia, diarrhea, constipation, upper abdominal pain, gastroesophageal reflux disease, vomiting, stomach discomfort, abdominal pain
-Famotidine-Ibuprofen:Common (1% to 10%): HypertensionFamotidine:Postmarketing reports: HypotensionIbuprofen:Common (1% to 10%): HypertensionPostmarketing reports: Myocardial infarction
-Famotidine-Ibuprofen:Common (1% to 10%): Serum creatinine increasedFrequency not reported: Acute renal failureIbuprofen:Common (1% to 10%): Serum creatinine increasedPostmarketing reports: Acute renal failure
-Famotidine-Ibuprofen:Common (1% to 10%): AnemiaFamotidine:Postmarketing reports: Anemia, thrombocytopenia, platelet count decreased, hemoglobin decreasedIbuprofen:Common (1% to 10%): Anemia
+Famotidine-Ibuprofen:Common ( to ): Nausea, dyspepsia, diarrhea, constipation, upper abdominal pain, gastroesophageal reflux disease, vomiting, stomach discomfort, abdominal painFamotidine:Postmarketing reports: Nausea, diarrhea, vomiting, abdominal painIbuprofen:Common ( to ): Nausea, dyspepsia, diarrhea, constipation, upper abdominal pain, gastroesophageal reflux disease, vomiting, stomach discomfort, abdominal pain
+Famotidine-Ibuprofen:Common ( to ): HypertensionFamotidine:Postmarketing reports: HypotensionIbuprofen:Common ( to ): HypertensionPostmarketing reports: Myocardial infarction
+Famotidine-Ibuprofen:Common ( to ): Serum creatinine increasedFrequency not reported: Acute renal failureIbuprofen:Common ( to ): Serum creatinine increasedPostmarketing reports: Acute renal failure
+Famotidine-Ibuprofen:Common ( to ): AnemiaFamotidine:Postmarketing reports: Anemia, thrombocytopenia, platelet count decreased, hemoglobin decreasedIbuprofen:Common ( to ): Anemia
 Famotidine:Postmarketing reports: Hepatic function abnormal, ALT increased, AST increased
-Famotidine-Ibuprofen:Common (1% to 10%): Peripheral edema, influenzaFamotidine:Postmarketing reports: Pyrexia, condition aggravated, asthenia, drug ineffective, chest pain, fatigue, pain, peripheral edema, sepsisIbuprofen:Common (1% to 10%): Peripheral edema, influenzaPostmarketing reports: Pyrexia, pain, fatigue, asthenia, chest pain, drug ineffective
+Famotidine-Ibuprofen:Common ( to ): Peripheral edema, influenzaFamotidine:Postmarketing reports: Pyrexia, condition aggravated, asthenia, drug ineffective, chest pain, fatigue, pain, peripheral edema, sepsisIbuprofen:Common ( to ): Peripheral edema, influenzaPostmarketing reports: Pyrexia, pain, fatigue, asthenia, chest pain, drug ineffective
 Famotidine:Postmarketing reports: Appetite decreased
-Famotidine-Ibuprofen:Common (1% to 10%): Arthralgia, back painIbuprofen:Common (1% to 10%): Arthralgia, back pain
-Famotidine-Ibuprofen:Common (1% to 10%): HeadacheFamotidine:Postmarketing reports: Dizziness, headacheIbuprofen:Common (1% to 10%): HeadachePostmarketing reports: Dizziness
-Famotidine-Ibuprofen:Common (1% to 10%): Upper respiratory tract infection, nasopharyngitis, sinusitis, bronchitis, cough, pharyngolaryngeal painFamotidine:Postmarketing reports: Pneumonia, dyspneaIbuprofen:Common (1% to 10%): Upper respiratory tract infection, nasopharyngitis, sinusitis, bronchitis, cough, pharyngolaryngeal painPostmarketing reports: Dyspnea
-Famotidine-Ibuprofen:Common (1% to 10%): Urinary tract infectionIbuprofen:Common (1% to 10%): Urinary tract infection
+Famotidine-Ibuprofen:Common ( to ): Arthralgia, back painIbuprofen:Common ( to ): Arthralgia, back pain
+Famotidine-Ibuprofen:Common ( to ): HeadacheFamotidine:Postmarketing reports: Dizziness, headacheIbuprofen:Common ( to ): HeadachePostmarketing reports: Dizziness
+Famotidine-Ibuprofen:Common ( to ): Upper respiratory tract infection, nasopharyngitis, sinusitis, bronchitis, cough, pharyngolaryngeal painFamotidine:Postmarketing reports: Pneumonia, dyspneaIbuprofen:Common ( to ): Upper respiratory tract infection, nasopharyngitis, sinusitis, bronchitis, cough, pharyngolaryngeal painPostmarketing reports: Dyspnea
+Famotidine-Ibuprofen:Common ( to ): Urinary tract infectionIbuprofen:Common ( to ): Urinary tract infection
 Ibuprofen:Postmarketing reports: Depression, anxiety
 Abdominal or stomach pain, cramping, or burning
 bladder pain

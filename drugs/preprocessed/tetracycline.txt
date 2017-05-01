@@ -2,7 +2,6 @@ More frequently reported side effects include: vulvovaginal candidiasis, diarrhe
 See below for a comprehensive list of adverse effects.
 Other dosage forms:
 As well as its needed effects, tetracycline may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking tetracycline, check with your doctor or nurse as soon as possible:
 Some tetracycline side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
@@ -15,7 +14,7 @@ There have been several cases of esophageal ulcers associated with oral tetracyc
 In each case, the patient had taken the medication just before bedtime with only small amounts of liquid and reported severe retrosternal pain and painful swallowing shortly thereafter.
 The ulcers resolved spontaneously after discontinuation of tetracycline therapy.
 To minimize esophageal irritation, patients should be advised to avoid taking tetracycline just before retiring and to take the medication with plenty of water.
-Oral ulcers have also occurred in a patient who gargled with a tetracycline solution made by emptying the contents of a 250 mg capsule into water.
+Oral ulcers have also occurred in a patient who gargled with a tetracycline solution made by emptying the contents of a  mg capsule into water.
 Renal side effects generally occurred in patients with preexisting renal disease and have been the result of accumulation of tetracycline.
 Increases in BUN commonly occur because of tetracycline's anti-anabolic effect but do not necessarily indicate renal dysfunction.
 Fanconi's syndrome is characterized by renal glycosuria, phosphaturia, aminoaciduria, and acidosis with or without proteinuria and rickets.
@@ -29,7 +28,7 @@ In patients with preexisting renal impairment, tetracycline may cause azotemia, 
 Patients with dehydration are particularly vulnerable.
 Dermatologic side effects have included exfoliative dermatitis, maculopapular and erythematous rashes, nail discoloration, onycholysis, and photosensitivity.
 Musculoskeletal side effects have included adult tooth discoloration, enamel hypoplasia, and a decrease in linear skeletal growth rate.
-Tetracycline should not be administered to pregnant women or children less than 12 years of age.
+Tetracycline should not be administered to pregnant women or children less than  years of age.
 Tetracycline deposits into calcium-rich developing osseous tissue thereby causing the discoloration of permanent teeth, decreased rate of enamel growth, and a decrease in linear skeletal growth rate.
 There have been several cases of benign intracranial hypertension (pseudotumor cerebri) associated with tetracycline therapy.
 In most cases, the patient was female and was prescribed tetracycline to treat acne.
@@ -40,7 +39,7 @@ The mechanism for development of increased intracranial pressure is unknown.
 Nervous system side effects have included benign intracranial hypertension (pseudotumor cerebri) in adults and bulging fontanels in infants.
 Hematologic side effects have included hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia, and eosinophilia.
 At least two cases of tetracycline-induced hemolytic anemia have been reported.
-In both cases, the anemia resolved over time after discontinuation of the medication and reoccurred 1 to 2 years later following another course of tetracycline therapy.
+In both cases, the anemia resolved over time after discontinuation of the medication and reoccurred  to  years later following another course of tetracycline therapy.
 The mechanism for development of hemolytic anemia is unknown.
 Hypersensitivity side effects have included urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, exacerbation of systemic lupus erythematosus, hypersensitivity myocarditis, and serum sickness-like reactions (fever, rash, arthralgia).
 Hepatic side effects have included increased liver enzyme levels, hepatotoxicity, liver failure, and bile duct paucity with prolonged cholestasis.

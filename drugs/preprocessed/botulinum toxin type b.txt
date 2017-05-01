@@ -1,17 +1,17 @@
 If any of the following side effects occur while taking botulinum toxin type b, check with your doctor or nurse immediately:
-Cardiovascular side effects have included headache (up to 16%) and chest pain.
-Dermatologic side effects including pruritus have been reported in 2% of patients or less.
-Gastrointestinal side effects have included dysphagia (up to 25%), dyspepsia (up to 10%), nausea (up to 10%), and to a lesser extent (2% or less) vomiting, glossitis, stomatitis, and tooth disorder.
-Dry mouth is the most commonly reported adverse effect (occurring in up to 34% of patients).
-Other general side effects have included torticollis (up to 8%) and, to a lesser extent (2% or less), fever, chills, hernia, malaise, abscess, cyst, and neoplasm.
-Genitourinary side effects reported in 2% of patients or less have included urinary tract infection, cystitis, and vaginal moniliasis.
-Immunologic side effects have included infection (up to 19%) and flu syndrome (up to 9%).
-Other immunologic side effects reported to a lesser extent (2% or less) have included otitis media and viral infection.
-Local side effects including injection site pain have been reported (up to 16%).
-Musculoskeletal side effects have included neck pain related to cervical dystonia (up to 17%), torticollis (up to 8%), arthralgia (up to 7%), back pain (up to 7%), myasthenia (up to 6%), and asthenia (up to 6%).
-Other musculoskeletal side effects reported in 2% of patients or less have included arthritis and joint disorder.
-Nervous system side effects reported in 2% of patients or less have included anxiety, tremor, hyperesthesia, somnolence, confusion, pain related to cervical dystonia/torticollis, vertigo, and vasodilation.
-Respiratory side effects have included increased cough (up to 7%), rhinitis (up to 6%), and, to a lesser extent (2% or less), dyspnea, lung disorder, and pneumonia.
+Cardiovascular side effects have included headache (up to ) and chest pain.
+Dermatologic side effects including pruritus have been reported in  of patients or less.
+Gastrointestinal side effects have included dysphagia (up to ), dyspepsia (up to ), nausea (up to ), and to a lesser extent ( or less) vomiting, glossitis, stomatitis, and tooth disorder.
+Dry mouth is the most commonly reported adverse effect (occurring in up to  of patients).
+Other general side effects have included torticollis (up to ) and, to a lesser extent ( or less), fever, chills, hernia, malaise, abscess, cyst, and neoplasm.
+Genitourinary side effects reported in  of patients or less have included urinary tract infection, cystitis, and vaginal moniliasis.
+Immunologic side effects have included infection (up to ) and flu syndrome (up to ).
+Other immunologic side effects reported to a lesser extent ( or less) have included otitis media and viral infection.
+Local side effects including injection site pain have been reported (up to ).
+Musculoskeletal side effects have included neck pain related to cervical dystonia (up to ), torticollis (up to ), arthralgia (up to ), back pain (up to ), myasthenia (up to ), and asthenia (up to ).
+Other musculoskeletal side effects reported in  of patients or less have included arthritis and joint disorder.
+Nervous system side effects reported in  of patients or less have included anxiety, tremor, hyperesthesia, somnolence, confusion, pain related to cervical dystonia/torticollis, vertigo, and vasodilation.
+Respiratory side effects have included increased cough (up to ), rhinitis (up to ), and, to a lesser extent ( or less), dyspnea, lung disorder, and pneumonia.
 Ocular side effects including a case of bilateral ptosis have been reported.
 Difficulty with swallowing
 infection

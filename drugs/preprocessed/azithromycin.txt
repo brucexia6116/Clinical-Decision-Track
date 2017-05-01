@@ -2,9 +2,9 @@ Commonly reported side effects of azithromycin include: diarrhea, loose stools, 
 Other side effects include: abdominal pain, and vomiting.
 See below for a comprehensive list of adverse effects.
 Other dosage forms:
-Gastrointestinal side effects have included nausea, abdominal discomfort, vomiting, and diarrhea in up to 10% of patients.
-However, patients rarely (less than 1%) discontinued therapy due to these side effects.
-Dyspepsia, flatulence, mucositis, oral moniliasis, constipation, melena, and gastritis have been reported with a frequency of 1% or less.
+Gastrointestinal side effects have included nausea, abdominal discomfort, vomiting, and diarrhea in up to  of patients.
+However, patients rarely (less than ) discontinued therapy due to these side effects.
+Dyspepsia, flatulence, mucositis, oral moniliasis, constipation, melena, and gastritis have been reported with a frequency of  or less.
 Pseudomembranous colitis has been reported with nearly all antibacterial agents and may range in severity from mild to life-threatening.
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of azithromycin.
 Anorexia, vomiting/diarrhea rarely resulting in dehydration, pancreatitis, oral candidiasis, pyloric stenosis, and rare cases of tongue discoloration have been reported during postmarketing experience.
@@ -19,10 +19,8 @@ Cardiovascular side effects have rarely included arrhythmias (including ventricu
 A causal relationship has not been established.
 Hepatic side effects have infrequently included transient elevations of liver function tests (including AST and ALT) and elevated bilirubin.
 Hepatitis and cholestatic jaundice, as well as rare cases of hepatic necrosis and hepatic failure (some resulting in death), have been reported during postmarketing experience.
-Local side effects associated with intravenous administration of the drug have included pain at injection site (6.
-5%) and local inflammation (3.
-1%).
-Nervous system side effects have included headache, somnolence, vertigo, and dizziness in approximately 1% of patients.
+Local side effects associated with intravenous administration of the drug have included pain at injection site  and local inflammation .
+Nervous system side effects have included headache, somnolence, vertigo, and dizziness in approximately  of patients.
 Hearing disturbances including hearing loss, deafness, and/or tinnitus have been reported rarely.
 Paresthesia, convulsions, hyperactivity, nervousness, agitation, and syncope have been reported during postmarketing experience.
 Dermatologic side effects have included rash, pruritus, and urticaria.

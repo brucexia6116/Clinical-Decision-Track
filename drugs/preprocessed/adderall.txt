@@ -1,22 +1,14 @@
-Very common (10% or more): Appetite loss (up to 36%), weight loss (up to 10%)Frequency not reported: Anorexia
-Very common (10% or more): Dry mouth (up to 35%), abdominal pain (up to 14%)Common (1% to 10%): Nausea, vomiting, diarrhea, dyspepsiaFrequency not reported: Unpleasant taste, constipation, other GI disturbances
-Very common (10% or more): Transient blood pressure elevations (up to 35%)Common (1% to 10%): Tachycardia, palpitationFrequency not reported: Cardiomyopathy, myocardial infarction, Raynaud's phenomenon
-Very common (10% or more): Insomnia (up to 27%), nervousness (up to 13%)Common (1% to 10%): Emotional lability, agitation, anxietyFrequency not reported: Psychotic episodes, irritability, euphoria, dysphoria, restlessness, depression, aggression, anger, logorrhea, dermatillomania
-Very common (10% or more): Headache (up to 26%)Common (1% to 10%): Somnolence, dizziness, twitching, speech disorder (e.
-g.
-, stuttering, excessive speech)Frequency not reported: Overstimulation, paresthesia/formication, dyskinesia, tremor, exacerbation of motor/phonic tics and Tourette's syndrome
-Common (1% to 10%): Photosensitivity reaction, sweatingFrequency not reported: Urticaria, rash, alopecia, serious skin rashes (e.
-g.
-, Stevens-Johnson Syndrome, toxic epidermal necrolysis)
-Common (1% to 10%): Decreased libido, dysmenorrhea, impotenceFrequency not reported: Frequent or prolonged erections
-Common (1% to 10%): Urinary tract infection
-Common (1% to 10%): Fever, infection, accidental injury, asthenia/fatigue, tooth disorder (e.
-g.
-, teeth clenching, tooth infection)Frequency not reported: Sudden death, bruxism
-Common (1% to 10%): Dyspnea
-Frequency not reported: Hypersensitivity reactions (e.
-g.
-, angioedema, anaphylaxis)
+Very common ( or more): Appetite loss (up to ), weight loss (up to )Frequency not reported: Anorexia
+Very common ( or more): Dry mouth (up to ), abdominal pain (up to )Common ( to ): Nausea, vomiting, diarrhea, dyspepsiaFrequency not reported: Unpleasant taste, constipation, other GI disturbances
+Very common ( or more): Transient blood pressure elevations (up to )Common ( to ): Tachycardia, palpitationFrequency not reported: Cardiomyopathy, myocardial infarction, Raynaud's phenomenon
+Very common ( or more): Insomnia (up to ), nervousness (up to )Common ( to ): Emotional lability, agitation, anxietyFrequency not reported: Psychotic episodes, irritability, euphoria, dysphoria, restlessness, depression, aggression, anger, logorrhea, dermatillomania
+Very common ( or more): Headache (up to )Common ( to ): Somnolence, dizziness, twitching, speech disorder (, stuttering, excessive speech)Frequency not reported: Overstimulation, paresthesia/formication, dyskinesia, tremor, exacerbation of motor/phonic tics and Tourette's syndrome
+Common ( to ): Photosensitivity reaction, sweatingFrequency not reported: Urticaria, rash, alopecia, serious skin rashes (, Stevens-Johnson Syndrome, toxic epidermal necrolysis)
+Common ( to ): Decreased libido, dysmenorrhea, impotenceFrequency not reported: Frequent or prolonged erections
+Common ( to ): Urinary tract infection
+Common ( to ): Fever, infection, accidental injury, asthenia/fatigue, tooth disorder (, teeth clenching, tooth infection)Frequency not reported: Sudden death, bruxism
+Common ( to ): Dyspnea
+Frequency not reported: Hypersensitivity reactions (, angioedema, anaphylaxis)
 Frequency not reported: Blurred vision, mydriasis
 Postmarketing reports: Rhabdomyolysis
 Bladder pain

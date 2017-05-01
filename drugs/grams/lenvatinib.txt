@@ -1,0 +1,166 @@
+hypertension
+hypotension
+qt prolongation
+arterial thromboembolic event
+cardiac dysfunction
+cardiac failure
+ventricular function
+pulmonary edema
+proteinuria
+renal impairment
+increased creatinine
+renal failure
+hemorrhagic events
+decreased platelet count
+hyperbilirubinemia
+alkaline phosphatase
+alt
+astvery
+hepatic failure
+acute hepatitis
+diarrhea
+nausea
+stomatitis
+vomiting
+abdominal pain
+constipation
+oral pain
+dry mouth
+dyspepsia
+gi perforation/fistula
+serum amylase
+lipase
+headache
+dysgeusia
+dizziness
+reversible posterior leukoencephalopathy syndrome
+tsh suppression impairment
+decreased appetite
+weight
+dehydration
+hypoalbuminemia
+hypomagnesemia
+hypoglycemia
+hypocalcemia
+hypercalcemia
+hyperkalemia
+hypercholesterolemia
+palmar-plantar erythrodysesthesia
+rash
+alopecia
+hyperkeratosis
+urinary tract infections
+oral infections
+arthralgia/myalgia
+fatigue
+peripheral edema
+insomnia
+dysphonia
+cough
+pulmonary embolism
+bladder pain
+bloating
+swelling of the face
+arms
+hands
+lower legs
+feet
+changes in vision
+chest pain
+discomfort
+confusion
+coughing up blood
+decreased frequency
+amount of urine
+difficulty with breathing
+swallowing
+dilated neck veins
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+extreme fatigue
+fainting
+increase in heart rate
+increased menstrual flow
+vaginal bleeding
+side pain
+muscle cramps in the hands
+arms
+feet
+legs
+face
+nervousness
+nosebleeds
+numbness
+tingling around the mouth
+fingertips
+feet
+paralysis
+irregular breathing
+rapid weight gain
+tarry stools
+dark brown urine
+redness
+swelling
+pain of the skin
+severe headache
+fast heartbeat
+swelling of the face
+fingers
+feet
+lower legs
+tingling of the hands
+feet
+tremor
+ulceration of the skin
+unusual tiredness
+weakness
+unusual bleeding
+bruising
+vomiting
+wrinkled skin
+stomach pain
+tenderness
+clay colored stools
+dark urine
+difficulty with speaking
+fever
+heartburn or indigestion
+inability
+arms
+legs
+facial muscles
+pain
+discomfort in the arms
+jaw
+neck
+stomach pain
+cramping
+burning
+vomiting of material
+coffee grounds
+yellow eyes
+skin
+belching
+change
+loss of taste
+decreased appetite
+dry mouth
+hair loss
+thinning of the hair
+headache
+hoarseness
+itching
+skin rash
+muscle pain
+stiffness
+nausea
+pain in the joints
+sore throat
+swelling
+inflammation of the mouth
+trouble sleeping
+voice changes

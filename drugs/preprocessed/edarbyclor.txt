@@ -1,13 +1,9 @@
 The most common side effects were dizziness and fatigue.
-Common (1% to 10%): DizzinessUncommon (0.
-1% to 1%): SyncopePostmarketing reports: Loss of consciousnessAzilsartan:Common (1% to 10%): DizzinessFrequency not reported: Dizziness posturalChlorthalidone:Common (1% to 10%): DizzinessFrequency not reported: Headache
-Common (1% to 10%): FatigueAzilsartan:Uncommon (0.
-1% to 1%): FatigueFrequency not reported: AstheniaChlorthalidone:Common (1% to 10%): Fatigue
-Common (1% to 10%): Consecutive creatinine increases of 50% or greater from baseline and greater than the upper limit of normalAzilsartan:Uncommon (0.
-1% to 1%): Consecutive creatinine increases of 50% or greater from baseline and greater than the upper limit of normalChlorthalidone:Uncommon (0.
-1% to 1%): Consecutive creatinine increases of 50% or greater from baseline and greater than the upper limit of normal
+Common ( to ): DizzinessUncommon ( to ): SyncopePostmarketing reports: Loss of consciousnessAzilsartan:Common ( to ): DizzinessFrequency not reported: Dizziness posturalChlorthalidone:Common ( to ): DizzinessFrequency not reported: Headache
+Common ( to ): FatigueAzilsartan:Uncommon ( to ): FatigueFrequency not reported: AstheniaChlorthalidone:Common ( to ): Fatigue
+Common ( to ): Consecutive creatinine increases of  or greater from baseline and greater than the upper limit of normalAzilsartan:Uncommon ( to ): Consecutive creatinine increases of  or greater from baseline and greater than the upper limit of normalChlorthalidone:Uncommon ( to ): Consecutive creatinine increases of  or greater from baseline and greater than the upper limit of normal
 Postmarketing reports: NauseaAzilsartan:Frequency not reported: Diarrhea, nauseaChlorthalidone:Frequency not reported: Gastrointestinal upset
-Common (1% to 10%): Hypotension
+Common ( to ): Hypotension
 Postmarketing reports: Rash, pruritus, angioedemaChlorthalidone:Frequency not reported: Rash
 Chlorthalidone:Frequency not reported: Cholesterol elevated
 Frequency not reported: BUN increasedChlorthalidone:Frequency not reported: Uric acid elevated

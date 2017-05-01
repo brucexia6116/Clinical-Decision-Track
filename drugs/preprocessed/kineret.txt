@@ -2,21 +2,17 @@ Common side effects of Kineret include: infection, antibody development, and inf
 Other side effects include: neutropenia.
 See below for a comprehensive list of adverse effects.
 The most serious side effects have included infections and neutropenia, while the most common side effects have included injection site reactions.
-Very common (10% or more): Injection site reaction (71%) (including erythema, ecchymosis, inflammation, and pain)
-Common (1% to 10%): Neutropenia, decreased total white blood cell count, decreased platelets Frequency not reported: small increases in the eosinophil differential percentage
-Very common (10% or more): Vomiting (14%)Common (1% to 10%): Nausea, diarrhea, abdominal pain
-Very common (10% or more): Upper respiratory tract infection (19%), nasopharyngitis (11%)Common (1% to 10%): Sinusitis, bronchitis
-Very common (10% or more): Headache (12%)
-Common (1% to 10%): Arthralgia
-Common (1% to 10%): Urinary tract infection
-Very common (10% or more): Worsening of RA (19%), pyrexia (11%)
-Uncommon (0.
-1% to 1%): Hepatic enzyme increasedFrequency not reported: Non-infectious hepatitis, elevations of transaminases
-Uncommon (0.
-1% to 1%): Allergic reactions (including anaphylactic reactions), angioedema, urticaria, pruritusFrequency not reported: Rash
-Common (1% to 10%): Serious infections (primarily bacterial) (e.
-g.
-, cellulitis, pneumonia, bone and joint infections), influenza-like symptomsFrequency not reported: Development of immunogenicity
+Very common ( or more): Injection site reaction  (including erythema, ecchymosis, inflammation, and pain)
+Common ( to ): Neutropenia, decreased total white blood cell count, decreased platelets Frequency not reported: small increases in the eosinophil differential percentage
+Very common ( or more): Vomiting Common ( to ): Nausea, diarrhea, abdominal pain
+Very common ( or more): Upper respiratory tract infection , nasopharyngitis Common ( to ): Sinusitis, bronchitis
+Very common ( or more): Headache 
+Common ( to ): Arthralgia
+Common ( to ): Urinary tract infection
+Very common ( or more): Worsening of RA , pyrexia 
+Uncommon ( to ): Hepatic enzyme increasedFrequency not reported: Non-infectious hepatitis, elevations of transaminases
+Uncommon ( to ): Allergic reactions (including anaphylactic reactions), angioedema, urticaria, pruritusFrequency not reported: Rash
+Common ( to ): Serious infections (primarily bacterial) (, cellulitis, pneumonia, bone and joint infections), influenza-like symptomsFrequency not reported: Development of immunogenicity
 Frequency not reported: Increased rate of lymphoma
 Diarrhea
 fever or chills

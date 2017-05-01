@@ -1,30 +1,22 @@
 As well as its needed effects, ziv-aflibercept may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking ziv-aflibercept, check with your doctor or nurse immediately:
 Some ziv-aflibercept side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Cardiovascular side effects have included hypertension (41%), deep vein thrombosis (9%), and angina pectoris.
-Dermatologic side effects have included palmar-plantar erythrodysesthesia syndrome (11%), skin hyperpigmentation (11%), compromised wound healing (0.
-3%), and catheter site infection.
-Gastrointestinal side effects have included diarrhea (69%), stomatitis (50%), abdominal pain (27%), abdominal pain upper (11%), hemorrhoids (6%), rectal hemorrhage (5%), proctalgia (5%), gastrointestinal hemorrhage (3%), fistulas formation (1.
-5%), gastrointestinal perforation (0.
-8%), and tooth infection.
-General side effects have included fatigue (48%) and asthenia (18%).
-Genitourinary side effects have included urinary tract infections (9%) and hematuria (3%).
-Hematologic side effects have included leukopenia (78%), neutropenia (67%), and thrombocytopenia (48%).
-Hypersensitivity reactions have included severe hypersensitivity reactions (0.
-3%).
-Immunologic side effects have included the development of anti-product antibody (3.
-1%).
-Metabolic side effects have included decreased appetite (32%), decreased weight (32%), and dehydration (9%).
-Laboratory abnormalities have included increased AST (62%) and increase ALT (50%).
-Nervous system side effects have included headache (22%), reversible posterior leukoencephalopathy syndrome (0.
-5%), transient ischemic attack, and cerebrovascular accident.
-Other side effects have included post-procedural hemorrhage (3%).
-Renal side effects have included proteinuria (62%), increased serum creatinine (23%), and nephrotic syndrome (0.
-5%).
-Respiratory side effects have included epistaxis (28%), dysphonia (25%), dyspnea (12%), oropharyngeal pain (8%), rhinorrhea (6%), pulmonary embolism (5%), pulmonary hemorrhage, hemoptysis, nasopharyngitis, upper respiratory tract infection, and pneumonia.
+Cardiovascular side effects have included hypertension , deep vein thrombosis , and angina pectoris.
+Dermatologic side effects have included palmar-plantar erythrodysesthesia syndrome , skin hyperpigmentation , compromised wound healing , and catheter site infection.
+Gastrointestinal side effects have included diarrhea , stomatitis , abdominal pain , abdominal pain upper , hemorrhoids , rectal hemorrhage , proctalgia , gastrointestinal hemorrhage , fistulas formation , gastrointestinal perforation , and tooth infection.
+General side effects have included fatigue  and asthenia .
+Genitourinary side effects have included urinary tract infections  and hematuria .
+Hematologic side effects have included leukopenia , neutropenia , and thrombocytopenia .
+Hypersensitivity reactions have included severe hypersensitivity reactions .
+Immunologic side effects have included the development of anti-product antibody .
+Metabolic side effects have included decreased appetite , decreased weight , and dehydration .
+Laboratory abnormalities have included increased AST  and increase ALT .
+Nervous system side effects have included headache , reversible posterior leukoencephalopathy syndrome , transient ischemic attack, and cerebrovascular accident.
+Other side effects have included post-procedural hemorrhage .
+Renal side effects have included proteinuria , increased serum creatinine , and nephrotic syndrome .
+Respiratory side effects have included epistaxis , dysphonia , dyspnea , oropharyngeal pain , rhinorrhea , pulmonary embolism , pulmonary hemorrhage, hemoptysis, nasopharyngitis, upper respiratory tract infection, and pneumonia.
 It is possible that some side effects of ziv-aflibercept may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

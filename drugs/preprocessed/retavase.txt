@@ -1,67 +1,32 @@
 As well as its needed effects, reteplase (the active ingredient contained in Retavase) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking reteplase, check with your doctor or nurse immediately:
 Hematologic side effects have been the most frequently reported side effects.
-In the INJECT trial, the overall incidence of bleeds from any site was 15.
-0%, of which 4.
-6% were clinically significant.
-Transfusion requirements have ranged from 1.
-0% (INJECT trial) to 12.
-4% (RAPID-2 trial).
+In the INJECT trial, the overall incidence of bleeds from any site was , of which  were clinically significant.
+Transfusion requirements have ranged from  (INJECT trial) to  (RAPID- trial).
 The types of bleeds associated with this drug (and thrombolytic therapy, in general) may be broadly categorized as either intracranial hemorrhage or other types of hemorrhage.
-The overall incidence of intracranial hemorrhage has averaged 0.
-8%.
+The overall incidence of intracranial hemorrhage has averaged .
 This risk is increased in patients with advanced age or hypertension.
-The incidence of transient ischemic attack (TIA) or reversible ischemic neurologic deficit (RIND) in the INJECT trial averaged 0.
-20%, and the incidence of frank stroke in the RAPID-2 trial averaged 1.
-8%.
-The average incidence of nonintracranial hemorrhage ranged from 1.
-9% to 9.
-0%, depending on the trial, use of arterial catheterization, and whether the study was performed in the US or Europe.
-The incidence of IV site bleeding ranged from 4.
-6% to 48.
-6%.
+The incidence of transient ischemic attack (TIA) or reversible ischemic neurologic deficit (RIND) in the INJECT trial averaged , and the incidence of frank stroke in the RAPID- trial averaged .
+The average incidence of nonintracranial hemorrhage ranged from  to , depending on the trial, use of arterial catheterization, and whether the study was performed in the US or Europe.
+The incidence of IV site bleeding ranged from  to .
 Arterial and venous punctures should be minimized.
 Should serious bleeding in a critical location (intracranial, gastrointestinal, retroperitoneal, or pericardial) occur, any concomitant heparin should be terminated immediately, and the second bolus of reteplase (the active ingredient contained in Retavase) should be withheld.
-The incidences of bleeding have been reported in the following sites within the following clinical trials, respectively (European INJECT study [n=2965], US RAPID-1 study [n=210], European RAPID-2 study [n=113]: injection site 4.
-6%, 48.
-6%, 19.
-5%; intracranial 1.
-2% (stroke), 0%, 1.
-8% (stroke); gastrointestinal 2.
-5%, 9.
-0%, 1.
-8%; genitourinary 1.
-6%, 9.
-5%, 0.
-9%; anemia 2.
-6%; 1.
-4%, 0.
-9%).
+The incidences of bleeding have been reported in the following sites within the following clinical trials, respectively (European INJECT study [n=], US RAPID- study [n=], European RAPID- study [n=]: injection site , , ; intracranial  (stroke), ,  (stroke); gastrointestinal , , ; genitourinary , , ; anemia ; , ).
 Since reteplase causes lysis of the fibrin plug, which is necessary to stop bleeding at puncture sites, careful attention should be paid to potential sites of bleeding during therapy (injection site, arterial puncture sites, catheter insertion sites, etc.
 ).
-The following incidences were reported from the RAPID-2 trial:  myocardial reinfarction 4.
-7%, congestive heart failure 9.
-5%, and ischemia or angina in 29.
-0%.
+The following incidences were reported from the RAPID- trial:  myocardial reinfarction , congestive heart failure , and ischemia or angina in .
 Cholesterol embolization--sometimes fatal--has been reported rarely in patients treated with thrombolytic agents.
 The exact incidence is unknown.
-Its relationship with lytic therapy might be coincidental as there is such risk associated with invasive vascular procedures (e.
-g.
-, cardiac catheterization, angiography, vascular surgery) and/or anticoagulant therapy.
+Its relationship with lytic therapy might be coincidental as there is such risk associated with invasive vascular procedures (, cardiac catheterization, angiography, vascular surgery) and/or anticoagulant therapy.
 Reperfusion arrhythmias during thrombolytic therapy can be a sign of successful lytic therapy.
-These arrhythmias (e.
-g.
-, sinus bradycardia, accelerated idioventricular rhythm, ventricular rhythm, ventricular premature depolarizations, ventricular tachycardia) may also be seen during the natural course of acute myocardial infarction, and they should be treated with standard antiarrhythmic measures, as indicated.
+These arrhythmias (, sinus bradycardia, accelerated idioventricular rhythm, ventricular rhythm, ventricular premature depolarizations, ventricular tachycardia) may also be seen during the natural course of acute myocardial infarction, and they should be treated with standard antiarrhythmic measures, as indicated.
 It is recommended that antiarrhythmic therapy for bradycardia and/or ventricular irritability be available during reteplase (the active ingredient contained in Retavase) therapy.
 Cardiovascular side effects are probably sequelae of myocardial infarction and not due to reteplase.
-These side effects have included hypotension, cardiogenic shock, arrhythmias (e.
-g.
-, sinus bradycardia, accelerated idioventricular rhythm, premature ventricular depolarizations, supraventricular tachycardia, ventricular tachycardia, and ventricular fibrillation), AV block, pulmonary edema, heart failure, cardiac arrest, recurrent ischemia, reinfarction, myocardial rupture, mitral regurgitation, pericardial effusion, pericarditis, cardiac tamponade, venous thrombosis and embolism, and electromechanical dissociation.
+These side effects have included hypotension, cardiogenic shock, arrhythmias (, sinus bradycardia, accelerated idioventricular rhythm, premature ventricular depolarizations, supraventricular tachycardia, ventricular tachycardia, and ventricular fibrillation), AV block, pulmonary edema, heart failure, cardiac arrest, recurrent ischemia, reinfarction, myocardial rupture, mitral regurgitation, pericardial effusion, pericarditis, cardiac tamponade, venous thrombosis and embolism, and electromechanical dissociation.
 Serious hypersensitivity reactions to reteplase (the active ingredient contained in Retavase) have been rare.
-Among the 2,965 patients in the INJECT trial, such reactions were noted in 3 patients, with 1 patient experiencing dyspnea and hypotension.
-No cases of anaphylaxis were reported among the 3,856 patients treated with reteplase in initial clinical trials, but 2 cases of anaphylaxis were associated with the use of reteplase among approximately 2,500 patients in ongoing clinical trials.
-There are no data to demonstrate the formation of anti-reteplase antibodies among the approximately 2,400 patients who have been tested for the presence of such antibodies.
+Among the , patients in the INJECT trial, such reactions were noted in  patients, with  patient experiencing dyspnea and hypotension.
+No cases of anaphylaxis were reported among the , patients treated with reteplase in initial clinical trials, but  cases of anaphylaxis were associated with the use of reteplase among approximately , patients in ongoing clinical trials.
+There are no data to demonstrate the formation of anti-reteplase antibodies among the approximately , patients who have been tested for the presence of such antibodies.
 Nevertheless, the use of reteplase (including the second bolus of reteplase) is not recommended if anaphylaxis has occurred with any prior use of reteplase in a given patient.
 Gastrointestinal side effects have included nausea and vomiting.
 Fever, a general body side effect, has been reported.

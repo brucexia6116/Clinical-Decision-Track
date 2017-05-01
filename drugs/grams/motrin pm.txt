@@ -1,0 +1,304 @@
+medicines
+side effects
+many people
+side effects
+doctor if any of these
+common side effects
+constipation
+diarrhea
+dizziness
+drowsiness
+dry mouth
+throat
+nose
+excitability
+gas
+headache
+heartburn
+nausea
+stomach pain
+upset
+thickening of mucus in nose
+throat
+severe allergic reactions
+rash
+hives
+itching
+trouble breathing
+tightness in the chest
+swelling of the mouth
+face
+lips
+tongue
+tarry stools
+change in the amount of urine
+chest pain
+confusion
+dark urine
+depression
+fainting
+irregular heartbeat
+fever
+chills
+persistent sore throat
+hallucinations
+mood changes
+numbness of an arm
+leg
+one-sided weakness
+red
+peeling skin
+ringing in the ears
+seizures
+severe headache
+dizziness
+persistent stomach pain
+nausea
+severe vomiting
+shortness of breath
+stiff neck
+unexplained weight gain
+swelling of hands
+legs
+feet
+tremor
+bleeding
+muscle pain
+unusual tiredness
+weakness
+vision
+speech changes
+coffee grounds
+wheezing
+yellowing of the skin
+eyes
+cns depressant effect of diphenhydramine
+plasma concentrations
+plasma concentration threshold for sedation
+ng/ml
+mental impairment
+ng/ml
+dystonic reactions
+dizziness
+mental confusion
+rigidity
+lip
+tongue protrusion
+trismus
+torticollis
+swallowing difficulties
+toxic encephalopathy
+child with chicken pox
+topical diphenhydramine
+delirium
+elderly patients with mild dementia
+small oral dose of diphenhydramine
+incidence of aseptic meningitis
+ibuprofen
+patients with systemic lupus erythematosus
+other connective tissue disease
+patients without such
+such underlying disease states
+nervous system
+side effects of diphenhydramine
+depression with drowsiness
+sedation
+patients
+motor skills
+dystonic reactions
+single doses of diphenhydramine
+nervous system
+side effects of ibuprofen
+incuded headache
+drowsiness
+dizziness
+aseptic meningitis
+paresthesias
+pseudotumor cerebri
+use of ibuprofen
+other nervous system
+side effects of ibuprofen
+tinnitus
+vertigo
+rare case of painful
+persistent peripheral cyanosis
+swelling of the fingers
+toes
+desquamation
+digital pitting infarctions
+ibuprofen
+cardiovascular
+side effects of diphenhydramine
+hypotension
+tachycardia
+palpitations
+cardiovascular
+side effects of ibuprofen
+peripheral edema
+elevated blood pressure
+problems
+patients
+preexisting hypertension
+congestive heart failure
+gastrointestinal side effects of diphenhydramine
+nausea
+dry mouth
+gastrointestinal side effects of ibuprofen
+dyspepsia
+nausea
+diarrhea
+abdominal pain
+flatulence
+serious gastrointestinal effects of ibuprofen
+occult blood loss
+ulcer
+gastrointestinal hemorrhage
+perforation
+pancreatitis
+addition
+case of ibuprofen-associated colitis
+incidence of gastrointestinal blood loss with ibuprofen
+occurring
+patients
+mg per day
+patients
+mg per day
+patients with a history of serious gastrointestinal events
+alcohol abuse
+increased risk for severe gastrointestinal side effect
+ibuprofen
+caution in these patients
+genitourinary side effects of diphenhydramine
+urinary retention
+dysuria as a result of the anticholinergic effects of diphenhydramine
+reductions in serum hemoglobin concentrations
+occult
+gastrointestinal blood loss
+rare cases of ibuprofen-associated hemolytic anemia
+autoimmune thrombocytopenia
+leukopenia
+hematologic side effects of diphenhydramine
+hemolytic anemia
+thrombocytopenia
+agranulocytosis
+hematologic side effects of ibuprofen
+platelet dysfunction
+neutropenia
+agranulocytosis
+aplastic anemia
+hemolytic anemia
+thrombocytopenia
+eosinophilia
+hemoglobin
+hematocrit
+hypersensitivity
+diphenhydramine
+patients
+receiving systemic drug
+being
+topical application
+sensitization with systemic administration
+hypersensitivity side effects of diphenhydramine
+rash
+pruritus
+eczema
+photosensitivity reactions
+hypersensitivity side effects of ibuprofen
+urticarial rashes
+pruritus
+angioedema
+bronchospasm
+anaphylactoid reactions
+patients
+higher risk of hypersensitivity reactions
+ibuprofen
+syndrome of asthma
+nasal polyps
+angioedema
+bronchospastic reactivity
+aspirin
+rare cases of systemic reactions
+including
+interstitial nephritis
+diffuse pulmonary infiltrates
+ocular side effects of diphenhydramine
+blurred vision
+diplopia
+dry eyes
+anticholinergic effects
+ocular side effects of ibuprofen
+blurred vision
+scotomata
+diplopia
+dermatologic side effects of ibuprofen
+maculopapular rash
+pruritus
+vesiculobullous eruptions
+erythema multiforme
+stevens-johnson syndrome
+alopecia
+toxic epidermal necrolysis
+photosensitivity reactions
+hepatic side effects of ibuprofen
+elevations in liver function tests
+patients
+jaundice
+hepatitis
+elevations in liver function tests
+times
+normal values
+patients
+ibuprofen
+ibuprofen-induced hepatitis
+fatal outcome in some cases
+metabolic side effects of ibuprofen
+hyponatremia
+syndrome of inappropriate antidiuretic hormone
+siadh
+gynecomastia
+hypoglycemia
+metabolic acidosis
+renal side effects of ibuprofen
+worsened renal insufficiency
+patients at higher risk
+developing
+developing renal insufficiency during therapy
+patients
+preexisting
+preexisting renal insufficiency
+patients with a history of heart failure
+renal artery stenosis
+rarer renal side effects
+use of ibuprofen
+nephrotic syndrome
+renal failure
+acute renal failure
+tubulointerstitial nephritis
+papillary necrosis
+acute tubular necrosis
+ibuprofen
+ability of the kidney
+low renal blood flow states
+inhibition of prostaglandin-dependent afferent arteriolar vasodilation
+renal function
+patients with heart failure
+hypovolemia
+cirrhosis
+nephrotic syndrome
+hypoalbuminemia
+additional risk factors for ibuprofen-induced renal insufficiency
+advanced age
+concomitant use of diuretics
+case-controlled study
+patients
+more pills
+containing nsaids
+lifetime
+increased risk of end-stage renal disease
+respiratory side effects of ibuprofen
+noncardiogenic pulmonary edema
+acute noncardiogenic pulmonary edema
+occasions in an hiv-positive patient
+cardiac etiologies
+close temporal relationship with the administration of ibuprofen
+onset of symptoms

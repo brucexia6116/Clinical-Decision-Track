@@ -1,46 +1,18 @@
 Side effects include:
-MenACWY-D (Menactra®): Injection site reactions (e.
-g.
-, pain, induration, erythema, swelling), headache, fatigue, malaise, arthralgia, diarrhea, anorexia, chills, fever, vomiting, rash.
-
-MenACWY-CRM (Menveo®): Injection site reactions (tenderness, erythema), irritability, sleepiness, persistent crying, change in eating habits, vomiting, diarrhea in infants 2 through 23 months of age; injection site reactions (pain, erythema, induration), irritability, sleepiness, malaise, headache in children 2 through 10 years of age;  injection site pain, headache, myalgia, malaise, nausea in adults and adolescents.
-
-MPSV4 (Menomune®): Injection site reactions (e.
-g.
-, pain, erythema, induration, swelling), headache, malaise, chills, fever.
-
-Hib-MenCY (MenHibrix®): Injection site reactions (e.
-g.
-, pain, redness, swelling), systemic effects (e.
-g.
-, fever, irritability, drowsiness, loss of appetite).
-
+MenACWY-D (Menactra): Injection site reactions (, pain, induration, erythema, swelling), headache, fatigue, malaise, arthralgia, diarrhea, anorexia, chills, fever, vomiting, rash.
+MenACWY-CRM (Menveo): Injection site reactions (tenderness, erythema), irritability, sleepiness, persistent crying, change in eating habits, vomiting, diarrhea in infants  through  months of age; injection site reactions (pain, erythema, induration), irritability, sleepiness, malaise, headache in children  through  years of age;  injection site pain, headache, myalgia, malaise, nausea in adults and adolescents.
+MPSV (Menomune): Injection site reactions (, pain, erythema, induration, swelling), headache, malaise, chills, fever.
+Hib-MenCY (MenHibrix): Injection site reactions (, pain, redness, swelling), systemic effects (, fever, irritability, drowsiness, loss of appetite).
 The most common adverse events were injection site pain, headache, irritability, and diarrhea.
-Very common (10% or more): Injection site pain (48.
-1%), injection site redness (16%), injection site induration (11%), injection site tendernessCommon (1% to 10%): Injection site swelling, injection site hematomaUncommon (0.
-1% to 1%): Injection site reactionRare (less than 0.
-1%): Severe local reactionsPostmarketing reports: Extensive limb swelling at the injection site (frequently associated with erythema, sometimes involving the adjacent joint or swelling of the entire injected limb)
-Very common (10% or more): Headache (41.
-8%), drowsiness (11.
-2%)Uncommon (0.
-1% to 1%): Hypoesthesia, dizzinessVery rare (less than 0.
-01%): Somnolence, neurological reactionsPostmarketing reports: Vasovagal syncope, paresthesia, Guillain-Barre syndrome
-Very common (10% or more): Fatigue (32.
-3%), malaise (22.
-3%), feverCommon (1% to 10%): Chills, febrile reactions (>38C)Postmarketing reports: Asthenia, influenza-like symptoms
-Very common (10% or more): Irritability (12.
-2%)Uncommon (0.
-1% to 1%): Insomnia, crying
-Very common (10% or more): Arthralgia (16%)Uncommon (0.
-1% to 1%): Myalgia, pain in extremityPostmarketing reports: Musculoskeletal stiffness
-Very common (10% or more): Appetite lostCommon (1% to 10%): AnorexiaPostmarketing reports: Decreased appetite
-Very common (10% or more): Diarrhea (14%)Common (1% to 10%): Vomiting, nausea
-Common (1% to 10%): RashUncommon (0.
-1% to 1%): PruritusRare (less than 0.
-1%): Urticaria, angioedemaPostmarketing reports: Angioneurotic edema
-Very common (10% or more): Local axillary lymphadenopathy
+Very common ( or more): Injection site pain , injection site redness , injection site induration , injection site tendernessCommon ( to ): Injection site swelling, injection site hematomaUncommon ( to ): Injection site reactionRare (less than ): Severe local reactionsPostmarketing reports: Extensive limb swelling at the injection site (frequently associated with erythema, sometimes involving the adjacent joint or swelling of the entire injected limb)
+Very common ( or more): Headache , drowsiness Uncommon ( to ): Hypoesthesia, dizzinessVery rare (less than ): Somnolence, neurological reactionsPostmarketing reports: Vasovagal syncope, paresthesia, Guillain-Barre syndrome
+Very common ( or more): Fatigue , malaise , feverCommon ( to ): Chills, febrile reactions (>C)Postmarketing reports: Asthenia, influenza-like symptoms
+Very common ( or more): Irritability Uncommon ( to ): Insomnia, crying
+Very common ( or more): Arthralgia Uncommon ( to ): Myalgia, pain in extremityPostmarketing reports: Musculoskeletal stiffness
+Very common ( or more): Appetite lostCommon ( to ): AnorexiaPostmarketing reports: Decreased appetite
+Very common ( or more): Diarrhea Common ( to ): Vomiting, nausea
+Common ( to ): RashUncommon ( to ): PruritusRare (less than ): Urticaria, angioedemaPostmarketing reports: Angioneurotic edema
+Very common ( or more): Local axillary lymphadenopathy
 Postmarketing reports: Hypersensitivity (such as rash, urticaria, pruritus, dyspnea, angioedema), allergic reactions (including anaphylactic and anaphylactoid reactions)
-Uncommon (0.
-1% to 1%): Upper respiratory tract illnessRare (less than 0.
-1%): Wheeze
+Uncommon ( to ): Upper respiratory tract illnessRare (less than ): Wheeze
 Postmarketing reports: IgA nephropathy

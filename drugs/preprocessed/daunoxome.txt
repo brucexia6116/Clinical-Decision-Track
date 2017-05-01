@@ -3,51 +3,48 @@ See below for a comprehensive list of adverse effects.
 If any of the following side effects occur while taking daunorubicin liposomal, check with your doctor or nurse as soon as possible:
 Liposomal daunorubicin causes the urine to turn reddish in color, which may stain clothes.
 This is not blood.
-It is to be expected and only lasts for 1 or 2 days after each dose is given.
+It is to be expected and only lasts for  or  days after each dose is given.
 This medicine often causes a temporary and total loss of hair.
 After treatment with liposomal daunorubicin has ended, normal hair growth should return.
 In general the two main dose-limiting toxicities are myelosuppression and cumulative cardiotoxicity.
-Acute febrile drug reactions have occurred in up to 50% of patients (probably represent reactions to histamine release), but are not generally observed with steroid and other premedications.
-The main metabolite, daunorubicinol, has only approximately 1/10th the toxicity of the parent compound.
+Acute febrile drug reactions have occurred in up to  of patients (probably represent reactions to histamine release), but are not generally observed with steroid and other premedications.
+The main metabolite, daunorubicinol, has only approximately /th the toxicity of the parent compound.
 Hematologic toxicity can be expected after therapeutic doses and is a dose-limiting toxicity of daunorubicin.
 Daunorubicin is a potent bone marrow suppressant, and can cause significant reductions in all bone marrow cell lines for one to two weeks after therapy.
 Persistent, severe myelosuppression may result in superinfection, hemorrhage, and/or death.
-In a study with HIV-related Kaposi's sarcoma patients (n=116), neutropenia of 1000 cells/mm3 or less was reported in 36% of patients and neutropenia of less than 500 cells/mm3 was reported in 15%.
+In a study with HIV-related Kaposi's sarcoma patients (n=), neutropenia of  cells/mm or less was reported in  of patients and neutropenia of less than  cells/mm was reported in .
 Causality was difficult to establish due to concurrent medications and disease complications.
-In one patient with Kaposi's sarcoma, congestive heart failure has been reported at a cumulative dose of 340 mg/m2.
-In eight Kaposi's sarcoma patients, left ventricular ejection fraction (LVEF) decreases have been reported at cumulative doses ranging from 200 mg/m2 to 2100 mg/m2 (median dose of 320 mg/m2) of daunorubicin liposomal (the active ingredient contained in DaunoXome)   Congestive heart failure has been reported at a cumulative dose as low as 200 mg/m2 in clinical studies in malignancies other than Kaposi's sarcoma and treated with greater than the recommend dose of 40 mg/m2 of daunorubicin liposomal.
-Patients who have received prior therapy with anthracyclines (doxorubicin >300 mg/m2 or equivalent), have preexisting cardiac disease, or have received previous radiotherapy encompassing the heart may be more susceptible to cardiac adverse events.
-It is recommended that monitoring of LVEF occur prior to therapy and every 160 mg/m2 for these patients.
-Cardiovascular toxicity has included congestive heart failure, pericardial effusion, pericardial tamponade, ventricular extrasystoles, cardiac arrest, sinus tachycardia, atrial fibrillation, pulmonary hypertension, myocardial infarction, supraventricular tachycardia, angina pectoris, hot flushes, hypertension, palpitation, syncope, and tachycardia in 5% or fewer patients (n=116).
-Additionally, edema (9% mild/moderate, 2% severe) and chest pain (9% mild/moderate, 1% severe) have been reported.
-Dermatologic side effects have included reversible alopecia (6% mild, 2% moderate) and pruritus (7% mild/moderate).
-Urticaria , folliculitis, dry skin, seborrhea have been reported in 5% or fewer patients (n=116).
+In one patient with Kaposi's sarcoma, congestive heart failure has been reported at a cumulative dose of  mg/m  In eight Kaposi's sarcoma patients, left ventricular ejection fraction (LVEF) decreases have been reported at cumulative doses ranging from  mg/m to  mg/m (median dose of  mg/m) of daunorubicin liposomal (the active ingredient contained in DaunoXome)   Congestive heart failure has been reported at a cumulative dose as low as  mg/m in clinical studies in malignancies other than Kaposi's sarcoma and treated with greater than the recommend dose of  mg/m of daunorubicin liposomal.
+Patients who have received prior therapy with anthracyclines (doxorubicin > mg/m or equivalent), have preexisting cardiac disease, or have received previous radiotherapy encompassing the heart may be more susceptible to cardiac adverse events.
+It is recommended that monitoring of LVEF occur prior to therapy and every  mg/m for these patients.
+Cardiovascular toxicity has included congestive heart failure, pericardial effusion, pericardial tamponade, ventricular extrasystoles, cardiac arrest, sinus tachycardia, atrial fibrillation, pulmonary hypertension, myocardial infarction, supraventricular tachycardia, angina pectoris, hot flushes, hypertension, palpitation, syncope, and tachycardia in  or fewer patients (n=).
+Additionally, edema ( mild/moderate,  severe) and chest pain ( mild/moderate,  severe) have been reported.
+Dermatologic side effects have included reversible alopecia ( mild,  moderate) and pruritus ( mild/moderate).
+Urticaria , folliculitis, dry skin, seborrhea have been reported in  or fewer patients (n=).
 Chemical thrombophlebitis and local necrosis have occurred in cases of extravasation.
-Cases of palmar-plantar erythrodysesthesia syndrome (hand-foot syndrome) have been reported in 2 patients receiving high dose daunorubicin liposomal (the active ingredient contained in DaunoXome) therapy (100 to 125 mg/m2 daily for 3 days) in combination with cytarabine, and in one patient receiving recommended doses (40 mg/m2).
-Gastrointestinal side effects have included  nausea (35% mild, 16% moderate, 3% severe), diarrhea (34% mild/moderate, 4% severe), abdominal pain (20% mild/moderate, 3% severe), vomiting (10% mild, 10% moderate, 3% severe), anorexia (21% mild/moderate, 2% severe), stomatitis (9% mild/moderate, 1% severe), constipation (7% mild/moderate), and tenesmus (4% mild/moderate, 1% severe).
-Increase appetite, dysphagia, GI hemorrhage, gastritis, gingival bleeding, hemorrhoids, hepatomegaly, melena, dry mouth, and tooth caries have been reported in 5% or fewer patients (n=116).
-Local side effects have included thrombophlebitis and necrosis following extravasation, and injection site inflammation (<=5%).
+Cases of palmar-plantar erythrodysesthesia syndrome (hand-foot syndrome) have been reported in  patients receiving high dose daunorubicin liposomal (the active ingredient contained in DaunoXome) therapy ( to  mg/m daily for  days) in combination with cytarabine, and in one patient receiving recommended doses ( mg/m).
+Gastrointestinal side effects have included  nausea ( mild,  moderate,  severe), diarrhea ( mild/moderate,  severe), abdominal pain ( mild/moderate,  severe), vomiting ( mild,  moderate,  severe), anorexia ( mild/moderate,  severe), stomatitis ( mild/moderate,  severe), constipation ( mild/moderate), and tenesmus ( mild/moderate,  severe).
+Increase appetite, dysphagia, GI hemorrhage, gastritis, gingival bleeding, hemorrhoids, hepatomegaly, melena, dry mouth, and tooth caries have been reported in  or fewer patients (n=).
+Local side effects have included thrombophlebitis and necrosis following extravasation, and injection site inflammation (<=).
 Hepatic serum transaminase and bilirubin concentration elevations have been transiently observed.
 Renal side effects have rarely included new or worsened renal insufficiency, probably associated with hyperuricemia and/or dehydration.
-One case report describes chest and back pain in a patient receiving a 6-hour infusion of high dose daunorubicin liposomal (the active ingredient contained in DaunoXome) (125 mg/m2).
-Back pain, flushing, and chest tightness (generally occurring during the first five minutes of therapy) have been reported in 13.
-8% of patients treated in Phase III clinical trials and in 2.
-7% of treatment cycles.
-Immunologic side effects have included reports of opportunistic infections in 40% of patients with HIV-related Kaposi's sarcoma (n=116).
-The median time to the first opportunistic illness was 214 days.
+One case report describes chest and back pain in a patient receiving a -hour infusion of high dose daunorubicin liposomal (the active ingredient contained in DaunoXome) ( mg/m).
+Back pain, flushing, and chest tightness (generally occurring during the first five minutes of therapy) have been reported in  of patients treated in Phase III clinical trials and in  of treatment cycles.
+Immunologic side effects have included reports of opportunistic infections in  of patients with HIV-related Kaposi's sarcoma (n=).
+The median time to the first opportunistic illness was  days.
 Causality was difficult to determine due to disease complications and multiple concurrent medications.
-Nervous system side effects have included fatigue (43% mild/moderate, 6% severe), headache (22% mild/moderate, 3% severe), neuropathy (12% mild/moderate, 1% severe), and dizziness (8% mild/moderate), depression (7% mild/moderate, 3% severe) insomnia (6% mild/moderate).
-Amnesia, anxiety, ataxia, confusion, convulsions, emotional lability, abnormal gait, hallucination, hyperkinesia, hypertonia, meningitis, somnolence, abnormal thinking, tremor, taste perversion, deafness, earache, and tinnitus have been reported in 5% or fewer patients (n=116).
-Metabolic side effects have included dehydration and thirst in 5% or fewer patients (n=116).
-Respiratory side effects have included dyspnea (23% mild/moderate, 3% severe), cough (26% mild/moderate, 2% severe), rhinitis (12% mild/moderate), and sinusitis (8% mild/moderate).
-Hemoptysis, hiccups, pulmonary infiltration, and increased sputum have been reported in 5% or fewer patients (n=116).
-Ocular side effects have included abnormal vision (3% mild.
-/moderate, 2% severe), conjunctivitis (<=5%), and eye pain (<=5%).
-Genitourinary side effects have included dysuria, nocturia and polyuria in 5% or fewer patients (n=116).
-Endocrine side effects have included increased sweating (12% mild/moderate, 2% severe).
-Other side effects have included malaise (9% mild/moderate, 1% severe), influenza-like symptoms (5% mild/moderate), lymphadenopathy (<=5%), and splenomegaly (<=5%) (n=116).
-Musculoskeletal side effects have included rigors (19% mild/moderate), back pain (16% mild/moderate), arthralgia (7% mild/moderate), and myalgia (7% mild/moderate).
-Hypersensitivity reactions have been reported (21% mild/moderate, 3% severe) (n=116).
+Nervous system side effects have included fatigue ( mild/moderate,  severe), headache ( mild/moderate,  severe), neuropathy ( mild/moderate,  severe), and dizziness ( mild/moderate), depression ( mild/moderate,  severe) insomnia ( mild/moderate).
+Amnesia, anxiety, ataxia, confusion, convulsions, emotional lability, abnormal gait, hallucination, hyperkinesia, hypertonia, meningitis, somnolence, abnormal thinking, tremor, taste perversion, deafness, earache, and tinnitus have been reported in  or fewer patients (n=).
+Metabolic side effects have included dehydration and thirst in  or fewer patients (n=).
+Respiratory side effects have included dyspnea ( mild/moderate,  severe), cough ( mild/moderate,  severe), rhinitis ( mild/moderate), and sinusitis ( mild/moderate).
+Hemoptysis, hiccups, pulmonary infiltration, and increased sputum have been reported in  or fewer patients (n=).
+Ocular side effects have included abnormal vision ( mild.
+/moderate,  severe), conjunctivitis (<=), and eye pain (<=).
+Genitourinary side effects have included dysuria, nocturia and polyuria in  or fewer patients (n=).
+Endocrine side effects have included increased sweating ( mild/moderate,  severe).
+Other side effects have included malaise ( mild/moderate,  severe), influenza-like symptoms ( mild/moderate), lymphadenopathy (<=), and splenomegaly (<=) (n=).
+Musculoskeletal side effects have included rigors ( mild/moderate), back pain ( mild/moderate), arthralgia ( mild/moderate), and myalgia ( mild/moderate).
+Hypersensitivity reactions have been reported ( mild/moderate,  severe) (n=).
 Cough or hoarseness
 fever or chills 
 lower back or side pain

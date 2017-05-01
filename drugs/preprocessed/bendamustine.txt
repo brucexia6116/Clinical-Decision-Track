@@ -1,31 +1,18 @@
 If any of the following side effects occur while taking bendamustine, check with your doctor or nurse immediately:
-Very common (10% or more): Decreased lymphocytes (up to 99%), decreased leukocytes (up to 94%), decreased hemoglobin (up to 89%), decreased neutrophils (up to 86%), decreased platelets (up to 86%), lymphocytopenia (up to 74%), neutropenia (up to 45%), thrombocytopenia (up to 39%), anemia (up to 38%), leukopenia (up to 37%)Common (1% to 10%): Febrile neutropenia, hemorrhage, lymphopeniaVery rare (less than 0.
-01%): HemolysisPostmarketing reports: Pancytopenia
-Very common (10% or more): Nausea (up to 77%), diarrhea (up to 42%), vomiting (up to 40%), constipation (up to 31%), stomatitis (up to 21%), abdominal pain (up to 14%), dyspepsia (up to 14%), gastroesophageal reflux disease (up to 11%)Common (1% to 10%): Dry mouth, upper abdominal pain, abdominal distension, oral candidiasisVery rare (less than 0.
-01%): Gastrointestinal hemorrhage, hemorrhagic esophagitis
-Very common (10% or more): Fatigue (up to 64%), infectious episodes (up to 37%), pyrexia (up to 36%), chills (up to 14%), asthenia (up to 13%), herpes zoster (up to 12%), mucosal inflammationCommon (1% to 10%): Pain, infection, herpes simplex, amenorrhea, epididymitis, thirst, cytomegalovirus infectionUncommon (0.
-1% to 1%): SepsisVery rare (less than 0.
-01%): Infertility, multi-organ failureFrequency not reported: Septic shock, general physical health deterioration
-Very common (10% or more): Elevated bilirubin (up to 34%), increased creatinine, increased ureaCommon (1% to 10%): Increased AST, increased ALT, increased alkaline phosphataseFrequency not reported: Hepatitis, hepatic failure, gallbladder pain
-Very common (10% or more): Anorexia (up to 24%), decreased weight (up to 20%), dehydration (up to 15%), decreased appetite (up to 13%), hypokalemia (up to 11%)Common (1% to 10%): Hyperuricemia, tumor lysis syndrome, hypomagnesemia
-Very common (10% or more): Cough (up to 22%), dyspnea (up to 17%), upper respiratory tract infection (up to 10%), pharyngolaryngeal pain (up to 10%)Common (1% to 10%): Nasopharyngitis, sinusitis, pneumonia, wheezing, nasal congestion, pulmonary dysfunctionVery rare (less than 0.
-01%): Pulmonary fibrosisFrequency not reported: Lung neoplasm, lung infiltration, pleural effusionPostmarketing reports: Pneumocystis jiroveci pneumonia, pneumonitis
-Very common (10% or more): Headache (up to 21%), dizziness (up to 15%), dysgeusia (up to 11%)Rare (less than 0.
-1%): Somnolence, aphoniaVery rare (less than 0.
-01%): Paresthesia, peripheral sensory neuropathy, anticholinergic syndrome, neurological disorders, ataxia, encephalitisFrequency not reported: Paraplegia, neuralgia
-Very common (10% or more): Rash (up to 16%), erythema (up to 16%), skin allergic reactions (up to 15%)Common (1% to 10%): Pruritus, dry skin, night sweats, hyperhidrosis, alopecia, skin disordersRare (less than 0.
-1%): Dermatitis, macular-papular rashFrequency not reported: Toxic skin reactions, bullous exanthema, urticariaPostmarketing reports: Stevens-Johnson syndrome, toxic epidermal necrolysis
-Very common (10% or more): Insomnia (up to 15%)Common (1% to 10%): Anxiety, depression
-Very common (10% or more): Peripheral edema (up to 14%)Common (1% to 10%): Tachycardia, chest pain, hypotension, cardiac dysfunction (palpitations, angina pectoris, arrhythmia), hypertensionUncommon (0.
-1% to 1%): Pericardial effusionRare (less than 0.
-1%): Myocardial infarction, acute circulatory failure, cardiac failureVery rare (less than 0.
-01%): PhlebitisFrequency not reported: VasculitisPostmarketing reports: Atrial fibrillation, congestive heart failure
-Very common (10% or more): Back pain (up to 14%)Common (1% to 10%): Arthralgia, extremity pain, bone pain, myalgiaFrequency not reported: Sacral pain
-Very common (10% or more): Urinary tract infection (up to 11%)
-Common (1% to 10%): Hypersensitivity reactionsRare (less than 0.
-1%): Anaphylaxis, anaphylactoid reactionVery rare (less than 0.
-01%): Anaphylactic shock
-Common (1% to 10%): Infusion site pain, catheter site painFrequency not reported: Extravasation injury, infusion reactions, injection site reactions
+Very common ( or more): Decreased lymphocytes (up to ), decreased leukocytes (up to ), decreased hemoglobin (up to ), decreased neutrophils (up to ), decreased platelets (up to ), lymphocytopenia (up to ), neutropenia (up to ), thrombocytopenia (up to ), anemia (up to ), leukopenia (up to )Common ( to ): Febrile neutropenia, hemorrhage, lymphopeniaVery rare (less than ): HemolysisPostmarketing reports: Pancytopenia
+Very common ( or more): Nausea (up to ), diarrhea (up to ), vomiting (up to ), constipation (up to ), stomatitis (up to ), abdominal pain (up to ), dyspepsia (up to ), gastroesophageal reflux disease (up to )Common ( to ): Dry mouth, upper abdominal pain, abdominal distension, oral candidiasisVery rare (less than ): Gastrointestinal hemorrhage, hemorrhagic esophagitis
+Very common ( or more): Fatigue (up to ), infectious episodes (up to ), pyrexia (up to ), chills (up to ), asthenia (up to ), herpes zoster (up to ), mucosal inflammationCommon ( to ): Pain, infection, herpes simplex, amenorrhea, epididymitis, thirst, cytomegalovirus infectionUncommon ( to ): SepsisVery rare (less than ): Infertility, multi-organ failureFrequency not reported: Septic shock, general physical health deterioration
+Very common ( or more): Elevated bilirubin (up to ), increased creatinine, increased ureaCommon ( to ): Increased AST, increased ALT, increased alkaline phosphataseFrequency not reported: Hepatitis, hepatic failure, gallbladder pain
+Very common ( or more): Anorexia (up to ), decreased weight (up to ), dehydration (up to ), decreased appetite (up to ), hypokalemia (up to )Common ( to ): Hyperuricemia, tumor lysis syndrome, hypomagnesemia
+Very common ( or more): Cough (up to ), dyspnea (up to ), upper respiratory tract infection (up to ), pharyngolaryngeal pain (up to )Common ( to ): Nasopharyngitis, sinusitis, pneumonia, wheezing, nasal congestion, pulmonary dysfunctionVery rare (less than ): Pulmonary fibrosisFrequency not reported: Lung neoplasm, lung infiltration, pleural effusionPostmarketing reports: Pneumocystis jiroveci pneumonia, pneumonitis
+Very common ( or more): Headache (up to ), dizziness (up to ), dysgeusia (up to )Rare (less than ): Somnolence, aphoniaVery rare (less than ): Paresthesia, peripheral sensory neuropathy, anticholinergic syndrome, neurological disorders, ataxia, encephalitisFrequency not reported: Paraplegia, neuralgia
+Very common ( or more): Rash (up to ), erythema (up to ), skin allergic reactions (up to )Common ( to ): Pruritus, dry skin, night sweats, hyperhidrosis, alopecia, skin disordersRare (less than ): Dermatitis, macular-papular rashFrequency not reported: Toxic skin reactions, bullous exanthema, urticariaPostmarketing reports: Stevens-Johnson syndrome, toxic epidermal necrolysis
+Very common ( or more): Insomnia (up to )Common ( to ): Anxiety, depression
+Very common ( or more): Peripheral edema (up to )Common ( to ): Tachycardia, chest pain, hypotension, cardiac dysfunction (palpitations, angina pectoris, arrhythmia), hypertensionUncommon ( to ): Pericardial effusionRare (less than ): Myocardial infarction, acute circulatory failure, cardiac failureVery rare (less than ): PhlebitisFrequency not reported: VasculitisPostmarketing reports: Atrial fibrillation, congestive heart failure
+Very common ( or more): Back pain (up to )Common ( to ): Arthralgia, extremity pain, bone pain, myalgiaFrequency not reported: Sacral pain
+Very common ( or more): Urinary tract infection (up to )
+Common ( to ): Hypersensitivity reactionsRare (less than ): Anaphylaxis, anaphylactoid reactionVery rare (less than ): Anaphylactic shock
+Common ( to ): Infusion site pain, catheter site painFrequency not reported: Extravasation injury, infusion reactions, injection site reactions
 Frequency not reported: Retinal detachment
 Frequency not reported: Pre-malignant and malignant diseases/secondary tumors
 Frequency not reported: Acute renal failure

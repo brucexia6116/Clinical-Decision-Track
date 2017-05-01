@@ -2,59 +2,24 @@ The most commonly reported side effects include headache, dizziness, fatigue, an
 Pseudomembranous colitis may occur with triple therapy for the eradication of H.
 pylori.
 The majority of patients with severe/protracted cases of diarrhea who discontinued treatment had symptom resolution.
-Common (1% to 10%): Nausea, diarrhea, stomachache/abdominal pain, constipation, vomiting, dry/sore mouth/throat, flatulenceRare (0.
-01% to 0.
-1%): Glossitis, candidiasis of the esophagus, taste disturbances, pancreatitisVery rare (less than 0.
-01%): Macroscopic/microscopic colitis, stomatitisFrequency not reported: Dyspepsia, pseudomembranous colitis, abdomen enlarged, halitosis, abnormal stools, bezoar, cardiospasm, dysphagia, enteritis, eructation, esophageal stenosis, esophageal ulcers, esophagitis, fecal discoloration, gastric nodules, fundic gland polyps, gastritis, gastroenteritis, gastrointestinal anomaly/disorder/hemorrhage, gum hemorrhage, hematemesis, increased salivation, melena, mouth ulceration, gastrointestinal moniliasis, rectal disorder/hemorrhage, tongue disorder, ulcerative colitis/stomatitis, tenesmus, positive fecal occult bloodPostmarketing reports: Clostridium difficile associated diarrhea
-Common (1% to 10%): Urticaria, pruritus/itching, rashRare (0.
-01% to 0.
-1%): Petechia, hair loss/thinning/alopecia, erythema multiforme, photosensitivity, hyperhidrosis/sweatingVery rare (less than 0.
-01%): Steven-Johnson syndrome, toxic epidermal necrolysisFrequency not reported: Subacute cutaneous lupus erythematosus (erythematous/bullous rashes), acne, contact dermatitis, dry skin, fixed eruption, hair disorder, maculopapular rash, nail disorder, skin disorder
+Common ( to ): Nausea, diarrhea, stomachache/abdominal pain, constipation, vomiting, dry/sore mouth/throat, flatulenceRare ( to ): Glossitis, candidiasis of the esophagus, taste disturbances, pancreatitisVery rare (less than ): Macroscopic/microscopic colitis, stomatitisFrequency not reported: Dyspepsia, pseudomembranous colitis, abdomen enlarged, halitosis, abnormal stools, bezoar, cardiospasm, dysphagia, enteritis, eructation, esophageal stenosis, esophageal ulcers, esophagitis, fecal discoloration, gastric nodules, fundic gland polyps, gastritis, gastroenteritis, gastrointestinal anomaly/disorder/hemorrhage, gum hemorrhage, hematemesis, increased salivation, melena, mouth ulceration, gastrointestinal moniliasis, rectal disorder/hemorrhage, tongue disorder, ulcerative colitis/stomatitis, tenesmus, positive fecal occult bloodPostmarketing reports: Clostridium difficile associated diarrhea
+Common ( to ): Urticaria, pruritus/itching, rashRare ( to ): Petechia, hair loss/thinning/alopecia, erythema multiforme, photosensitivity, hyperhidrosis/sweatingVery rare (less than ): Steven-Johnson syndrome, toxic epidermal necrolysisFrequency not reported: Subacute cutaneous lupus erythematosus (erythematous/bullous rashes), acne, contact dermatitis, dry skin, fixed eruption, hair disorder, maculopapular rash, nail disorder, skin disorder
 Skin rashes, urticaria, and pruritus generally resolved upon discontinuation of therapy.
-Common (1% to 10%): Headache, dizzinessRare (0.
-01% to 0.
-1%): Vertigo, paresthesia, taste disturbance/loss/perversion, somnolence, tremorFrequency not reported: Cerebrovascular accident/cerebral infarction, migraine, amnesia, convulsion, dementia, hemiplegia, hyperkinesia, hypertonia, hypesthesia, parosmiaPostmarketing reports: Speech disorder
-Common (1% to 10%): Increased liver enzyme levels (ALT, AST, GGTP, alkaline phosphatase)Rare (0.
-01% to 0.
-1%): Hepatitis, jaundiceFrequency not reported: Cholelithiasis, bilirubinemiaPostmarketing reports: Hepatotoxicity
-Common (1% to 10%): FatigueRare (0.
-01% to 0.
-1%): FeverFrequency not reported: Asthenia, candidiasis, flu syndrome, infection (not otherwise specified), chills, malaise, pain, thirst, deafness, ear disorder, otitis media, tinnitus, increased globulins, additional isolated laboratory abnormalities
-Uncommon (0.
-1% to 1%): Fracture of the hip/wrist/spine, arthralgia, myalgiaFrequency not reported: Back pain, neck pain, neck rigidity, arthritis, bone/joint disorder, leg cramps, musculoskeletal pain, myasthenia, synovitisPostmarketing reports: Myositis
-Uncommon (0.
-1% to 1%): Thrombocytopenia, eosinophilia, leukopeniaRare (0.
-01% to 0.
-1%): Anemia, purpuraVery rare (less than 0.
-01%): Agranulocytosis, pancytopeniaFrequency not reported: Neutropenia, bruising, hemolysis, lymphadenopathy, increased/decreased/abnormal WBC, abnormal AG ratio, abnormal RBC, hemoglobin decreased, increased/decreased/abnormal plateletsPostmarketing reports: Aplastic anemia, hemolytic anemia, thrombic thrombocytopenic purpura
-Uncommon (0.
-1% to 1%): DepressionRare (0.
-01% to 0.
-1%): Insomnia, hallucination, confusion, restlessnessFrequency not reported: Abnormal dreams, agitation, anxiety, apathy, depersonalization, emotional lability, hostility aggravated, libido increased/decreased, nervousness, neurosis, sleep disorder, abnormal thinking
-Uncommon (0.
-1% to 1%): EdemaFrequency not reported: Peripheral edema, chest pain (not otherwise specified), angina, arrhythmia, bradycardia, hypotension, hypertension, myocardial infarction, palpitations, shock/circulatory failure, syncope, tachycardia, vasodilation
-Rare (0.
-01% to 0.
-1%): ImpotenceFrequency not reported: Urinary tract infection, pelvic pain, abnormal menses, breast enlargement/pain/tenderness, dysmenorrhea, dysuria, leukorrhea, menorrhagia, menstrual disorder, penis disorder, polyuria, testis disorder, urethral pain, urinary frequency/retention/urgency, urinary tract infection, urination impaired, vaginitis, crystal urine present, albuminuria, hematuria
+Common ( to ): Headache, dizzinessRare ( to ): Vertigo, paresthesia, taste disturbance/loss/perversion, somnolence, tremorFrequency not reported: Cerebrovascular accident/cerebral infarction, migraine, amnesia, convulsion, dementia, hemiplegia, hyperkinesia, hypertonia, hypesthesia, parosmiaPostmarketing reports: Speech disorder
+Common ( to ): Increased liver enzyme levels (ALT, AST, GGTP, alkaline phosphatase)Rare ( to ): Hepatitis, jaundiceFrequency not reported: Cholelithiasis, bilirubinemiaPostmarketing reports: Hepatotoxicity
+Common ( to ): FatigueRare ( to ): FeverFrequency not reported: Asthenia, candidiasis, flu syndrome, infection (not otherwise specified), chills, malaise, pain, thirst, deafness, ear disorder, otitis media, tinnitus, increased globulins, additional isolated laboratory abnormalities
+Uncommon ( to ): Fracture of the hip/wrist/spine, arthralgia, myalgiaFrequency not reported: Back pain, neck pain, neck rigidity, arthritis, bone/joint disorder, leg cramps, musculoskeletal pain, myasthenia, synovitisPostmarketing reports: Myositis
+Uncommon ( to ): Thrombocytopenia, eosinophilia, leukopeniaRare ( to ): Anemia, purpuraVery rare (less than ): Agranulocytosis, pancytopeniaFrequency not reported: Neutropenia, bruising, hemolysis, lymphadenopathy, increased/decreased/abnormal WBC, abnormal AG ratio, abnormal RBC, hemoglobin decreased, increased/decreased/abnormal plateletsPostmarketing reports: Aplastic anemia, hemolytic anemia, thrombic thrombocytopenic purpura
+Uncommon ( to ): DepressionRare ( to ): Insomnia, hallucination, confusion, restlessnessFrequency not reported: Abnormal dreams, agitation, anxiety, apathy, depersonalization, emotional lability, hostility aggravated, libido increased/decreased, nervousness, neurosis, sleep disorder, abnormal thinking
+Uncommon ( to ): EdemaFrequency not reported: Peripheral edema, chest pain (not otherwise specified), angina, arrhythmia, bradycardia, hypotension, hypertension, myocardial infarction, palpitations, shock/circulatory failure, syncope, tachycardia, vasodilation
+Rare ( to ): ImpotenceFrequency not reported: Urinary tract infection, pelvic pain, abnormal menses, breast enlargement/pain/tenderness, dysmenorrhea, dysuria, leukorrhea, menorrhagia, menstrual disorder, penis disorder, polyuria, testis disorder, urethral pain, urinary frequency/retention/urgency, urinary tract infection, urination impaired, vaginitis, crystal urine present, albuminuria, hematuria
 A definitive relationship between use of this drug and hyponatremia has not been established.
-Rare (0.
-01% to 0.
-1%): AnorexiaVery rare (less than 0.
-01%): Increased cholesterol/triglyceride levels, hyponatremiaFrequency not reported: Hypomagnesemia, increased appetite, diabetes mellitus, avitaminosis, gout, dehydration, hyperglycemia/hypoglycemia, weight gain/loss, blood potassium increased, decreased cholesterol, increased LDH, increased/decreased electrolytes
-Rare (0.
-01% to 0.
-1%): Visual disturbancesFrequency not reported: Ptosis, diplopia, abnormal vision, amblyopia, blepharitis, blurred vision, cataract, conjunctivitis, dry eyes, eye disorder/pain, glaucoma, photophobia, retinal degeneration/disorder, visual field defect
-Rare (0.
-01% to 0.
-1%): Interstitial nephritisFrequency not reported: Renal failure, kidney calculus, kidney pain, increased creatinine, blood urea increased, glycosuria
+Rare ( to ): AnorexiaVery rare (less than ): Increased cholesterol/triglyceride levels, hyponatremiaFrequency not reported: Hypomagnesemia, increased appetite, diabetes mellitus, avitaminosis, gout, dehydration, hyperglycemia/hypoglycemia, weight gain/loss, blood potassium increased, decreased cholesterol, increased LDH, increased/decreased electrolytes
+Rare ( to ): Visual disturbancesFrequency not reported: Ptosis, diplopia, abnormal vision, amblyopia, blepharitis, blurred vision, cataract, conjunctivitis, dry eyes, eye disorder/pain, glaucoma, photophobia, retinal degeneration/disorder, visual field defect
+Rare ( to ): Interstitial nephritisFrequency not reported: Renal failure, kidney calculus, kidney pain, increased creatinine, blood urea increased, glycosuria
 Some cases of interstitial nephritis resulted in renal failure.
-Rare (0.
-01% to 0.
-1%): GynecomastiaFrequency not reported: Goiter, hypothyroidism, increased glucocorticoids, increased gastrin levels
-Rare (0.
-01% to 0.
-1%): AngioedemaVery rare (less than 0.
-01%): Anaphylaxis/anaphylactic shockFrequency not reported: Allergic reaction
+Rare ( to ): GynecomastiaFrequency not reported: Goiter, hypothyroidism, increased glucocorticoids, increased gastrin levels
+Rare ( to ): AngioedemaVery rare (less than ): Anaphylaxis/anaphylactic shockFrequency not reported: Allergic reaction
 A definitive relationship between use of this drug and interstitial pneumonia has not been established.
 Frequency not reported: Wheezing, upper respiratory tract inflammation/infection, interstitial pneumonia, asthma, bronchitis, cough increased, dyspnea, epistaxis, hemoptysis, hiccup, lung fibrosis, pharyngitis, pleural disorder, pneumonia, respiratory disorder, rhinitis, sinusitis, stridor
 Frequency not reported: Carcinoma/ skin carcinoma, laryngeal neoplasia

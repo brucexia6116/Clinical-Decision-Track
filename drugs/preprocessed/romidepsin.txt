@@ -1,23 +1,22 @@
 As well as its needed effects, romidepsin may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking romidepsin, check with your doctor or nurse immediately:
 Some romidepsin side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Very common (10% or more): Nausea (up to 86%), vomiting (up to 52%), constipation (up to 40%), diarrhea (up to 36%), abdominal pain (up to 14%)Common (1% to 10%): Stomatitis
+Very common ( or more): Nausea (up to ), vomiting (up to ), constipation (up to ), diarrhea (up to ), abdominal pain (up to )Common ( to ): Stomatitis
 The most commonly reported adverse events included neutropenia, lymphopenia, thrombocytopenia, infections, nausea, fatigue, vomiting, anorexia, anemia, and ECG T-wave changes.
 The most commonly reported events leading to discontinuation included infection, fatigue, dyspnea, QT prolongation, and hypomagnesemia.
-Very common (10% or more): Anemia (up to 72%), neutropenia (up to 66%), leukopenia (up to 46%), thrombocytopenia (up to 65%), lymphopenia (up to 57%)
-Very common (10% or more): ST-T wave changes on ECG (up to 63%); Hypotension (up to 23%) Common (1% to 10%): Tachycardia, supraventricular arrhythmia, ventricular arrhythmia, edema, deep vein thrombosis, chest painFrequency not reported: QT prolongation
-Very common (10% or more): Anorexia (up to 54%), hypocalcemia (up to 52%), hyperglycemia (up to 51%), hypoalbuminemia (up to 48%), hyperuricemia (up to 33%), hypomagnesemia (up to 28%), hypermagnesemia (up to 27%), hypophosphatemia (up to 27%), hypokalemia (up to 20%), weight loss (up to 15%), hyponatremia (up to 20%), Common (1% to 10%): Dehydration, hypoalbuminemia, hyperuricemia, tumor lysis syndrome
-Very common (10% or more): Dysgeusia (up to 40%), headache (up to 34%)Common (1% to 10%): Syncope, dizziness
-Very common (10% or more): AST elevations (up to 28%), ALT elevations (up to 22%) Common (1% to 10%): Hyperbilirubinemia
-Very common (10% or more): Pruritus (up to 31%), dermatitis/exfoliative dermatitis (up to 27%)Common (1% to 10%): Rash
-Common (1% to 10%): Hypersensitivity
-Very common (10% or more): Infections (up to 54%)Common (1% to 10%): Sepsis, upper respiratory infection, urinary tract infection, pneumonia, cellulitis, oral candidiasis, central line infection, catheter related infection
-Very common (10% or more): Asthenia/fatigue (up to 77%), pyrexia (up to 47%), chills (up to 17%) Common (1% to 10%): Febrile neutropenia
-Very common (10% or more): Cough (up to 21%), dyspnea (up to 21%) Common (1% to 10%): Pulmonary embolism, pneumonitis
-Common (1% to 10%): Muscle spasms, myalgia
+Very common ( or more): Anemia (up to ), neutropenia (up to ), leukopenia (up to ), thrombocytopenia (up to ), lymphopenia (up to )
+Very common ( or more): ST-T wave changes on ECG (up to ); Hypotension (up to ) Common ( to ): Tachycardia, supraventricular arrhythmia, ventricular arrhythmia, edema, deep vein thrombosis, chest painFrequency not reported: QT prolongation
+Very common ( or more): Anorexia (up to ), hypocalcemia (up to ), hyperglycemia (up to ), hypoalbuminemia (up to ), hyperuricemia (up to ), hypomagnesemia (up to ), hypermagnesemia (up to ), hypophosphatemia (up to ), hypokalemia (up to ), weight loss (up to ), hyponatremia (up to ), Common ( to ): Dehydration, hypoalbuminemia, hyperuricemia, tumor lysis syndrome
+Very common ( or more): Dysgeusia (up to ), headache (up to )Common ( to ): Syncope, dizziness
+Very common ( or more): AST elevations (up to ), ALT elevations (up to ) Common ( to ): Hyperbilirubinemia
+Very common ( or more): Pruritus (up to ), dermatitis/exfoliative dermatitis (up to )Common ( to ): Rash
+Common ( to ): Hypersensitivity
+Very common ( or more): Infections (up to )Common ( to ): Sepsis, upper respiratory infection, urinary tract infection, pneumonia, cellulitis, oral candidiasis, central line infection, catheter related infection
+Very common ( or more): Asthenia/fatigue (up to ), pyrexia (up to ), chills (up to ) Common ( to ): Febrile neutropenia
+Very common ( or more): Cough (up to ), dyspnea (up to ) Common ( to ): Pulmonary embolism, pneumonitis
+Common ( to ): Muscle spasms, myalgia
 It is possible that some side effects of romidepsin may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

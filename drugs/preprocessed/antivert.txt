@@ -1,8 +1,7 @@
 Frequency not reported: Drowsiness, headache
 Frequency not reported: Anaphylactoid reaction
 Frequency not reported: Dry mouth, vomiting
-Rare (less than 0.
-1%): Blurred vision
+Rare (less than ): Blurred vision
 Frequency not reported: Fatigue
 Cough
 difficulty swallowing

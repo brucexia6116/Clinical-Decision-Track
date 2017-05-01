@@ -1,36 +1,26 @@
 If any of the following symptoms of overdose occur while taking lixisenatide, get emergency help immediately:
 The most frequently reported adverse reactions were nausea, vomiting, headache, diarrhea, dizziness, and hypoglycemia.
-Very common (10% or more): Nausea (up to 26.
-5%), vomiting (up to 10.
-5%)Common (1% to 10%): Dyspepsia, diarrhea, constipation, abdominal distension, abdominal pain, upper abdominal painFrequency not reported: Pancreatitis
-Gastrointestinal adverse reactions including nausea and vomiting were responsible for discontinuation of treatment in 4.
-3% of patients.
-During clinical trials, the severity of gastrointestinal adverse reactions were graded as mild, moderate or severe in 64.
-2%, 32.
-3%, and 3.
-5% of cases, respectively.
-The majority of reactions occurred during the first 3 weeks of treatment.
-During clinical trials, 21 cases of pancreatitis were reported including acute pancreatitis (n=3), pancreatitis (n=12), chronic pancreatitis (n=5), and edematous pancreatitis (n=1).
+Very common ( or more): Nausea (up to ), vomiting (up to )Common ( to ): Dyspepsia, diarrhea, constipation, abdominal distension, abdominal pain, upper abdominal painFrequency not reported: Pancreatitis
+Gastrointestinal adverse reactions including nausea and vomiting were responsible for discontinuation of treatment in  of patients.
+During clinical trials, the severity of gastrointestinal adverse reactions were graded as mild, moderate or severe in , , and  of cases, respectively.
+The majority of reactions occurred during the first  weeks of treatment.
+During clinical trials,  cases of pancreatitis were reported including acute pancreatitis (n=), pancreatitis (n=), chronic pancreatitis (n=), and edematous pancreatitis (n=).
 Of these cases, some had risk factors such as a history of cholelithiasis or alcohol abuse.
 Fourteen cases of pancreatitis were reported in the comparator-treated.
-Very common (10% or more): Development of anti-lixisenatide antibodies (69.
-8%)
-Pooled analysis of drug-treated patients has found that almost 70% were antibody positive at 24 weeks.
-Of the antibody positive patients, those with the highest antibody concentrations (greater than 100 nmol/L) had attenuated glycemic responses.
+Very common ( or more): Development of anti-lixisenatide antibodies 
+Pooled analysis of drug-treated patients has found that almost  were antibody positive at  weeks.
+Of the antibody positive patients, those with the highest antibody concentrations (greater than  nmol/L) had attenuated glycemic responses.
 Additionally, a higher incidence of allergic reactions and injection site reactions occurred in antibody positive patients.
-Very common (10% or more): Hypoglycemia (in combination with a sulfonylurea and/or a basal insulin)Common (1% to 10%): Hypoglycemia (in combination with metformin alone)
-Very common (10% or more): HeadacheCommon (1% to 10%): Dizziness, somnolence
-Common (1% to 10%): PalpitationsUncommon (0.
-1% to 1%): Tachycardia
-Common (1% to 10%): Cystitis
-Common (1% to 10%): Injection site reactions including pain, pruritus, erythema
-Common (1% to 10%): Back pain
-Common (1% to 10%): Viral infection
-Common (1% to 10%): Influenza, upper respiratory tract infection
-Uncommon (0.
-1% to 1%): Urticaria
-Uncommon (0.
-1% to 1%): Anaphylactic reaction, angioedema, pruritus
+Very common ( or more): Hypoglycemia (in combination with a sulfonylurea and/or a basal insulin)Common ( to ): Hypoglycemia (in combination with metformin alone)
+Very common ( or more): HeadacheCommon ( to ): Dizziness, somnolence
+Common ( to ): PalpitationsUncommon ( to ): Tachycardia
+Common ( to ): Cystitis
+Common ( to ): Injection site reactions including pain, pruritus, erythema
+Common ( to ): Back pain
+Common ( to ): Viral infection
+Common ( to ): Influenza, upper respiratory tract infection
+Uncommon ( to ): Urticaria
+Uncommon ( to ): Anaphylactic reaction, angioedema, pruritus
 Anxiety
 bloating
 bluish or pale skin

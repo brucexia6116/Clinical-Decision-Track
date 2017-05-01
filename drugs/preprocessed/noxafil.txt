@@ -3,7 +3,6 @@ Other side effects include: upper respiratory tract infection, anxiety, asthenia
 See below for a comprehensive list of adverse effects.
 Other dosage forms:
 As well as its needed effects, posaconazole (the active ingredient contained in Noxafil) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking posaconazole, check with your doctor immediately:
 Some posaconazole side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
@@ -11,70 +10,39 @@ Your health care professional may be able to help you prevent or reduce these si
 Thrombophlebitis was very common when multiple doses of the injection were administered via peripheral venous catheter, leading to administration via central venous catheter in later studies.
 The most common side effects reported with the IV injection were diarrhea, hypokalemia, pyrexia, and nausea.
 The most common side effects reported with the delayed-release tablets were diarrhea, pyrexia, and nausea.
-The most common side effect leading to discontinuation of the delayed-release tablets was nausea (2%).
+The most common side effect leading to discontinuation of the delayed-release tablets was nausea .
 The most common side effects reported with the oral suspension in the prophylaxis clinical trials were fever, diarrhea, and nausea.
-The most common side effects leading to discontinuation of the oral suspension in these trials were associated with gastrointestinal disorders, including nausea (2%), vomiting (2%), and increased liver enzymes (2%).
+The most common side effects leading to discontinuation of the oral suspension in these trials were associated with gastrointestinal disorders, including nausea , vomiting , and increased liver enzymes .
 The most common side effects reported with the oral suspension in the oropharyngeal candidiasis and refractory oropharyngeal candidiasis trials were fever, diarrhea, nausea, headache, vomiting, and coughing.
-The most common side effects leading to discontinuation of the oral suspension were respiratory impairment (1%) and pneumonia (1%) in patients with oropharyngeal candidiasis and AIDS (7%) and respiratory impairment (3%) in patients with refractory oropharyngeal candidiasis.
+The most common side effects leading to discontinuation of the oral suspension were respiratory impairment  and pneumonia  in patients with oropharyngeal candidiasis and AIDS  and respiratory impairment  in patients with refractory oropharyngeal candidiasis.
 Side effects occurred more often in patients with refractory oropharyngeal candidiasis.
-Serious side effects were reported in 55% of highly immunocompromised patients with advanced HIV disease.
-Fever (13%) and neutropenia (10%) were the serious side effects reported most often in these patients.
+Serious side effects were reported in  of highly immunocompromised patients with advanced HIV disease.
+Fever  and neutropenia  were the serious side effects reported most often in these patients.
 Other serious side effects included altered drug levels (of other products), increased hepatic enzymes, nausea, rash, vomiting, bilirubinemia, and hepatocellular damage.
-Very common (10% or more): Diarrhea (up to 42%), nausea (up to 38%), vomiting (up to 29%), abdominal pain (up to 27%), constipation (up to 21%), oral candidiasis (up to 12%), upper abdominal pain (up to 11%)Common (1% to 10%): Dyspepsia, dry mouth, flatulenceUncommon (0.
-1% to 1%): Mucositis, taste perversion, pancreatitis, mouth ulceration, loose stools, abdominal distension, dysphagia, ascites, eructation, gastritis, gastroesophageal reflux disease, esophagitis, tongue edema, tongue discoloration, tooth discoloration, mouth edemaRare (less than 0.
-1%): Gastrointestinal hemorrhage, ileus, esophageal candidiasis, increased amylase, increased lipase, abdominal tenderness, cheilitis, hemorrhagic diarrhea, esophageal ulceration, hemorrhagic gastritis, odynophagia, increased pancreatic enzymes, proctalgia, retching, aphthous stomatitis, tenesmus, melena, gingivitis, glossitis, stomatitis
-Very common (10% or more): Fever/pyrexia (up to 45%), rigors (up to 20%), fatigue (up to 17%), peripheral edema (16%), chills (up to 16%), leg edema (15%), mucosal inflammation (14%), asthenia (up to 13%), herpes simplex (up to 11%), pain (up to 11%)Common (1% to 10%): Edema, weaknessUncommon (0.
-1% to 1%): Altered drug levels, malaise, flushing, hot flushes, thirst, drug toxicityRare (less than 0.
-1%): Face edema, catheter-related infection, non-herpetic cold soresFrequency not reported: Bacteremia, cytomegalovirus infection
-Very common (10% or more): Hypokalemia (up to 30%), anorexia (up to 19%), hypomagnesemia (up to 18%), decreased weight (up to 14%), decreased appetite (up to 12%), hyperglycemia (up to 11%), dehydration (up to 11%)Common (1% to 10%): Hypocalcemia, electrolyte imbalanceUncommon (0.
-1% to 1%): Hypertriglyceridemia, hyperuricemia, increased LDHRare (less than 0.
-1%): Hypercholesterolemia, hyperlipemia, hyperproteinemia, hypoalbuminemia, metabolic acidosis, vitamin K deficiency, increased weight
+Very common ( or more): Diarrhea (up to ), nausea (up to ), vomiting (up to ), abdominal pain (up to ), constipation (up to ), oral candidiasis (up to ), upper abdominal pain (up to )Common ( to ): Dyspepsia, dry mouth, flatulenceUncommon ( to ): Mucositis, taste perversion, pancreatitis, mouth ulceration, loose stools, abdominal distension, dysphagia, ascites, eructation, gastritis, gastroesophageal reflux disease, esophagitis, tongue edema, tongue discoloration, tooth discoloration, mouth edemaRare (less than ): Gastrointestinal hemorrhage, ileus, esophageal candidiasis, increased amylase, increased lipase, abdominal tenderness, cheilitis, hemorrhagic diarrhea, esophageal ulceration, hemorrhagic gastritis, odynophagia, increased pancreatic enzymes, proctalgia, retching, aphthous stomatitis, tenesmus, melena, gingivitis, glossitis, stomatitis
+Very common ( or more): Fever/pyrexia (up to ), rigors (up to ), fatigue (up to ), peripheral edema , chills (up to ), leg edema , mucosal inflammation , asthenia (up to ), herpes simplex (up to ), pain (up to )Common ( to ): Edema, weaknessUncommon ( to ): Altered drug levels, malaise, flushing, hot flushes, thirst, drug toxicityRare (less than ): Face edema, catheter-related infection, non-herpetic cold soresFrequency not reported: Bacteremia, cytomegalovirus infection
+Very common ( or more): Hypokalemia (up to ), anorexia (up to ), hypomagnesemia (up to ), decreased weight (up to ), decreased appetite (up to ), hyperglycemia (up to ), dehydration (up to )Common ( to ): Hypocalcemia, electrolyte imbalanceUncommon ( to ): Hypertriglyceridemia, hyperuricemia, increased LDHRare (less than ): Hypercholesterolemia, hyperlipemia, hyperproteinemia, hypoalbuminemia, metabolic acidosis, vitamin K deficiency, increased weight
 Rare occurrences of hemolytic uremic syndrome and thrombotic thrombocytopenic purpura have been reported, generally in patients with concurrent cyclosporine or tacrolimus therapy for the prevention of transplant rejection or graft versus host disease.
-Very common (10% or more): Thrombocytopenia (up to 29%), anemia (up to 25%), neutropenia (up to 23%)Common (1% to 10%): Hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, aggravated neutropeniaUncommon (0.
-1% to 1%): Leukopenia, eosinophilia, lymphadenopathyRare (less than 0.
-1%): Pancytopenia, coagulopathy/coagulation disorder, hemorrhage, abnormal blood gases, neutrophilia, increased platelet count, decreased prothrombin, prolonged prothrombin time, purpuraFrequency not reported: Febrile neutropenia
-Very common (10% or more): Headache (up to 28%), dizziness (up to 11%)Common (1% to 10%): Paresthesia, somnolenceUncommon (0.
-1% to 1%): Tremor, convulsions, neuropathy, hypoesthesia, earache, vertigo, aphasiaRare (less than 0.
-1%): Cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope, hearing impairment, areflexia, ataxia, impaired cognition, dysphonia, dystonia, hemiparesis, hyperkinesia, hyperreflexia, hyporeflexia, hypotonia, impaired concentration, memory impairment, meningism, mononeuritis, restless leg syndrome, sciatica, tinnitus
-Very common (10% or more): Coughing (up to 25%), dyspnea (up to 20%), epistaxis (up to 17%), pharyngitis (up to 12%)Common (1% to 10%): Pneumonia, pulmonary embolismUncommon (0.
-1% to 1%): Sinusitis, chest pain, nasal congestion, hiccups, pleuritic painRare (less than 0.
-1%): Pulmonary hypertension, interstitial pneumonia, pneumonitis, upper respiratory tract infection, atelectasis, dry throat, nasal irritation, postnasal drip, pulmonary infiltration, rales, rhinitis, rhinorrhea
+Very common ( or more): Thrombocytopenia (up to ), anemia (up to ), neutropenia (up to )Common ( to ): Hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, aggravated neutropeniaUncommon ( to ): Leukopenia, eosinophilia, lymphadenopathyRare (less than ): Pancytopenia, coagulopathy/coagulation disorder, hemorrhage, abnormal blood gases, neutrophilia, increased platelet count, decreased prothrombin, prolonged prothrombin time, purpuraFrequency not reported: Febrile neutropenia
+Very common ( or more): Headache (up to ), dizziness (up to )Common ( to ): Paresthesia, somnolenceUncommon ( to ): Tremor, convulsions, neuropathy, hypoesthesia, earache, vertigo, aphasiaRare (less than ): Cerebrovascular accident, encephalopathy, peripheral neuropathy, syncope, hearing impairment, areflexia, ataxia, impaired cognition, dysphonia, dystonia, hemiparesis, hyperkinesia, hyperreflexia, hyporeflexia, hypotonia, impaired concentration, memory impairment, meningism, mononeuritis, restless leg syndrome, sciatica, tinnitus
+Very common ( or more): Coughing (up to ), dyspnea (up to ), epistaxis (up to ), pharyngitis (up to )Common ( to ): Pneumonia, pulmonary embolismUncommon ( to ): Sinusitis, chest pain, nasal congestion, hiccups, pleuritic painRare (less than ): Pulmonary hypertension, interstitial pneumonia, pneumonitis, upper respiratory tract infection, atelectasis, dry throat, nasal irritation, postnasal drip, pulmonary infiltration, rales, rhinitis, rhinorrhea
 Rare occurrences of pulmonary embolus have been reported, generally in patients with concurrent cyclosporine or tacrolimus therapy for the prevention of transplant rejection or graft versus host disease.
-Very common (10% or more): Rash (up to 24%), pruritus (up to 11%), petechiae (up to 11%)Common (1% to 10%): Increased sweatingUncommon (0.
-1% to 1%): Alopecia, dry skin, maculopapular rash, urticaria, furunculosis, acne, pruritic rashRare (less than 0.
-1%): Stevens-Johnson syndrome, vesicular rash, dermatitis, erythema, erythematous rash, follicular rash, macular rash, night sweats, seborrhea, skin nodule, ecchymoses
-Very common (10% or more): Hypertension (up to 18%), hypotension (up to 14%), tachycardia (up to 12%)Common (1% to 10%): Torsades de pointesUncommon (0.
-1% to 1%): Long QT syndrome, abnormal ECG, palpitations, bradycardia, QT/QTc prolongation, atrial fibrillation, atrial flutter, bundle branch block, extrasystoles, ventricular hypertrophy, supraventricular extrasystoles, vasculitisRare (less than 0.
-1%): Deep vein thrombosis, sudden death, ventricular tachycardia, cardiorespiratory arrest, cardiac failure, myocardial infarction, aortic valve sclerosis, cardiomegaly, decreased ejection fraction, mitral valve disease, supraventricular tachycardia, premature atrial contractions, premature ventricular contractions, atrioventricular block, atherosclerosis, ischemia, hematoma
+Very common ( or more): Rash (up to ), pruritus (up to ), petechiae (up to )Common ( to ): Increased sweatingUncommon ( to ): Alopecia, dry skin, maculopapular rash, urticaria, furunculosis, acne, pruritic rashRare (less than ): Stevens-Johnson syndrome, vesicular rash, dermatitis, erythema, erythematous rash, follicular rash, macular rash, night sweats, seborrhea, skin nodule, ecchymoses
+Very common ( or more): Hypertension (up to ), hypotension (up to ), tachycardia (up to )Common ( to ): Torsades de pointesUncommon ( to ): Long QT syndrome, abnormal ECG, palpitations, bradycardia, QT/QTc prolongation, atrial fibrillation, atrial flutter, bundle branch block, extrasystoles, ventricular hypertrophy, supraventricular extrasystoles, vasculitisRare (less than ): Deep vein thrombosis, sudden death, ventricular tachycardia, cardiorespiratory arrest, cardiac failure, myocardial infarction, aortic valve sclerosis, cardiomegaly, decreased ejection fraction, mitral valve disease, supraventricular tachycardia, premature atrial contractions, premature ventricular contractions, atrioventricular block, atherosclerosis, ischemia, hematoma
 One patient taking posaconazole during a clinical trial developed torsades de pointes.
 This severely ill patient had a history of palpitations, recent cardiotoxic chemotherapy, hypokalemia, and hypomagnesemia; risk factors that may have contributed to or confounded the patient's condition.
-Very common (10% or more): Increased AST (up to 17%), changes in ALT (up to 17%), increased alkaline phosphatase (up to 13%), increased ALT (up to 11%)Common (1% to 10%): Bilirubinemia, changes in bilirubin, increased total bilirubin, increased hepatic enzymes, abnormal hepatic function, hepatitis, hepatomegaly, jaundice, changes in AST, changes in alkaline phosphatase, increased gamma-glutamyl transpeptidaseUncommon (0.
-1% to 1%): Hepatocellular damageRare (less than 0.
-1%): Hepatic failure, cholestatic hepatitis, cholestasis, hepatosplenomegaly, liver tenderness, asterixis, splenomegalyPostmarketing reports: Severe hepatic injury with fatal outcome
+Very common ( or more): Increased AST (up to ), changes in ALT (up to ), increased alkaline phosphatase (up to ), increased ALT (up to )Common ( to ): Bilirubinemia, changes in bilirubin, increased total bilirubin, increased hepatic enzymes, abnormal hepatic function, hepatitis, hepatomegaly, jaundice, changes in AST, changes in alkaline phosphatase, increased gamma-glutamyl transpeptidaseUncommon ( to ): Hepatocellular damageRare (less than ): Hepatic failure, cholestatic hepatitis, cholestasis, hepatosplenomegaly, liver tenderness, asterixis, splenomegalyPostmarketing reports: Severe hepatic injury with fatal outcome
 Clinically significant liver function test abnormalities during oropharyngeal candidiasis studies included increased AST, alkaline phosphatase, ALT, and total bilirubin.
 The majority of abnormal liver function tests in patients and healthy subjects were minor, transient, and did not lead to therapy discontinuation.
-Changes in liver function tests from Grade 0, 1, or 2 at baseline to Grade 3 or 4 during prophylaxis studies included changes in ALT, bilirubin, AST, and alkaline phosphatase.
-Total bilirubin greater than 1.
-5 times ULN (up to 22%), AST greater than 3 times ULN (up to 17%), alkaline phosphatase greater than 3 times ULN (up to 14%), and ALT greater than 3 times ULN (up to 11%) were reported.
-Very common (10% or more): Insomnia (up to 17%)Common (1% to 10%): AnxietyUncommon (0.
-1% to 1%): Altered mental status, confusionRare (less than 0.
-1%): Psychotic disorder, depression, amnesia, abnormal dreaming, emotional lability, decreased libido, paroniria, psychosis, deliriumFrequency not reported: Confusional state
-Very common (10% or more): Musculoskeletal pain (up to 16%), arthralgia (up to 11%)Common (1% to 10%): Back painUncommon (0.
-1% to 1%): Myalgia, flank pain, muscle weakness, pain in extremityRare (less than 0.
-1%): Bone pain, chest wall pain, fasciitis, neck stiffness, cramps in the extremities, muscle cramps
-Very common (10% or more): Vaginal hemorrhage (10%)Uncommon (0.
-1% to 1%): Menstrual disorder, albuminuria, altered micturition frequency, dysuria, hematuria, nocturiaRare (less than 0.
-1%): Breast pain, urinary tract infection, micturition disorder, urinary tract obstruction, leukorrhea
-Common (1% to 10%): Acute renal failureUncommon (0.
-1% to 1%): Increased blood creatinine, renal failure, renal insufficiencyRare (less than 0.
-1%): Renal tubular acidosis, interstitial nephritis, increased BUN, renal calculus
-Common (1% to 10%): Adrenal insufficiencyRare (less than 0.
-1%): Decreased blood gonadotropins
-Common (1% to 10%): Allergic reactionRare (less than 0.
-1%): Hypersensitivity reactions
-Uncommon (0.
-1% to 1%): Blurred vision, conjunctivitisRare (less than 0.
-1%): Diplopia, scotoma, eye pain, dry eyes, periorbital edema, photophobia
+Changes in liver function tests from Grade , , or  at baseline to Grade  or  during prophylaxis studies included changes in ALT, bilirubin, AST, and alkaline phosphatase.
+Total bilirubin greater than  times ULN (up to ), AST greater than  times ULN (up to ), alkaline phosphatase greater than  times ULN (up to ), and ALT greater than  times ULN (up to ) were reported.
+Very common ( or more): Insomnia (up to )Common ( to ): AnxietyUncommon ( to ): Altered mental status, confusionRare (less than ): Psychotic disorder, depression, amnesia, abnormal dreaming, emotional lability, decreased libido, paroniria, psychosis, deliriumFrequency not reported: Confusional state
+Very common ( or more): Musculoskeletal pain (up to ), arthralgia (up to )Common ( to ): Back painUncommon ( to ): Myalgia, flank pain, muscle weakness, pain in extremityRare (less than ): Bone pain, chest wall pain, fasciitis, neck stiffness, cramps in the extremities, muscle cramps
+Very common ( or more): Vaginal hemorrhage Uncommon ( to ): Menstrual disorder, albuminuria, altered micturition frequency, dysuria, hematuria, nocturiaRare (less than ): Breast pain, urinary tract infection, micturition disorder, urinary tract obstruction, leukorrhea
+Common ( to ): Acute renal failureUncommon ( to ): Increased blood creatinine, renal failure, renal insufficiencyRare (less than ): Renal tubular acidosis, interstitial nephritis, increased BUN, renal calculus
+Common ( to ): Adrenal insufficiencyRare (less than ): Decreased blood gonadotropins
+Common ( to ): Allergic reactionRare (less than ): Hypersensitivity reactions
+Uncommon ( to ): Blurred vision, conjunctivitisRare (less than ): Diplopia, scotoma, eye pain, dry eyes, periorbital edema, photophobia
 It is possible that some side effects of Noxafil may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

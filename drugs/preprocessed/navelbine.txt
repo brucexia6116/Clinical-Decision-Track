@@ -1,5 +1,4 @@
 As well as its needed effects, vinorelbine (the active ingredient contained in Navelbine) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking vinorelbine, check with your doctor immediately:
 If any of the following side effects occur while taking vinorelbine, check with your doctor or nurse as soon as possible:
 Some vinorelbine side effects may not need any medical attention.
@@ -7,26 +6,23 @@ As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Pulmonary embolus and deep venous thrombosis have primarily been reported in seriously ill and debilitated patients with known predisposing risk factors for these events.
 Hematologic side effects have included granulocytopenia, which has been the major dose-limiting toxicity with the use of vinorelbine.
-Granulocytopenia has been reported at a frequency of 90% of patients with less than 2,000 cells/mm3 and 36% of patients with less than 500 cells/mm3.
-Leukopenia has been reported at a frequency of 92% of patients with less than 4,000 cells/mm3 and 5% of patients with less than 1,000 cells/mm3.
-Thrombocytopenia has been reported at a frequency of 5% of patients with less than 100,000 cells/mm3 and 1% of patients with less than 50,000 cells/mm3.
-And finally, anemia has been reported at a frequency of 83% of patients with less than 11 g/dL and 9% of patients with less than 8 g/dL.
+Granulocytopenia has been reported at a frequency of  of patients with less than , cells/mm and  of patients with less than  cells/mm  Leukopenia has been reported at a frequency of  of patients with less than , cells/mm and  of patients with less than , cells/mm  Thrombocytopenia has been reported at a frequency of  of patients with less than , cells/mm and  of patients with less than , cells/mm  And finally, anemia has been reported at a frequency of  of patients with less than  g/dL and  of patients with less than  g/dL.
 Pulmonary embolus and deep venous thrombosis have also been reported.
-Hepatic side effects including an increase in SGOT (67%) and an increase in total bilirubin (13%) have been reported.
-Gastrointestinal side effects including nausea (44%), constipation (35%), vomiting (20%), diarrhea (17%), dysphagia, and mucositis have been reported.
+Hepatic side effects including an increase in SGOT  and an increase in total bilirubin  have been reported.
+Gastrointestinal side effects including nausea , constipation , vomiting , diarrhea , dysphagia, and mucositis have been reported.
 A case of typhlitis (neutropenic enterocolitis) has also been reported.
-General side effects including asthenia (36%), fatigue (27%), back pain, abdominal pain, and pain in tumor containing tissues have been reported.
+General side effects including asthenia , fatigue , back pain, abdominal pain, and pain in tumor containing tissues have been reported.
 Fatigue was usually mild or moderate and tended to increase with increased cumulative dosing.
-Local side effects including injection site reactions (28%) and injection site pain (16%) have been reported.
-Nervous system side effects including peripheral neuropathy (paresthesia and hypesthesia) (25%) and headache have been reported.
+Local side effects including injection site reactions  and injection site pain  have been reported.
+Nervous system side effects including peripheral neuropathy (paresthesia and hypesthesia)  and headache have been reported.
 Some of these dermatologic reactions have been delayed in their occurrence.
-Dermatologic side effects including alopecia (12%), rash (<5%), pruritus, blister formation, skin sloughing, and urticaria have been reported.
+Dermatologic side effects including alopecia , rash (<), pruritus, blister formation, skin sloughing, and urticaria have been reported.
 Most of the chest pain has been reported to have occurred in patients who had either a history of cardiovascular disease or tumor within the chest.
-Cardiovascular side effects including phlebitis (7%), chest pain (5%), myocardial infarction, angioedema, hypertension, hypotension, vasodilation, tachycardia, and flushing have been reported.
-Respiratory side effects including dyspnea (7%), shortness of breath (3%), severe shortness of breath (2%), pulmonary edema, and pneumonia have been reported.
-Musculoskeletal side effects including jaw pain, myalgia, and arthralgia have been reported in less than 5% of patients.
-Genitourinary side effects including hemorrhagic cystitis (<1%) have been reported.
-Metabolic side effects including the syndrome of inappropriate antidiuretic hormone (<1%) have been reported.
+Cardiovascular side effects including phlebitis , chest pain , myocardial infarction, angioedema, hypertension, hypotension, vasodilation, tachycardia, and flushing have been reported.
+Respiratory side effects including dyspnea , shortness of breath , severe shortness of breath , pulmonary edema, and pneumonia have been reported.
+Musculoskeletal side effects including jaw pain, myalgia, and arthralgia have been reported in less than  of patients.
+Genitourinary side effects including hemorrhagic cystitis (<) have been reported.
+Metabolic side effects including the syndrome of inappropriate antidiuretic hormone (<) have been reported.
 Hypersensitivity side effects including anaphylaxis have been reported.
 It is possible that some side effects of Navelbine may not have been reported.
 These can be reported to the FDA here.

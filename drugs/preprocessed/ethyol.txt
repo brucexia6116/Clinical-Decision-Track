@@ -1,9 +1,9 @@
 If any of the following side effects occur while taking amifostine, check with your doctor or nurse immediately:
-Cardiovascular side effects include a transient reduction in blood pressure in 62% of patients.
+Cardiovascular side effects include a transient reduction in blood pressure in  of patients.
 Arrhythmias such as atrial fibrillation/flutter and supraventricular tachycardia have been reported.
 (These have sometimes been associated with hypotension or allergic reactions.
 )  Transient hypertension and exacerbations of preexisting hypertension, and short term, reversible loss of consciousness have been reported rarely.
-The mean time of onset until reduction in blood pressure was 14 minutes into the 15 minute amifostine infusion.
+The mean time of onset until reduction in blood pressure was  minutes into the  minute amifostine infusion.
 The mean duration was six minutes.
 Blood pressure generally returned to normal within five to fifteen minutes.
 In order to avoid hypotension, amifostine has sometimes been administered by the subcutaneous route.
@@ -20,7 +20,7 @@ Cutaneous eruptions have been commonly reported during clinical trials and were 
 Dermatologic side effects include skin rashes, pruritus, urticaria, erythema multiforme, and rarely Stevens-Johnson Syndrome or toxic epidermal necrolysis.
 Nervous system side effects rarely include seizures.
 Musculoskeletal side effects including a case of amifostine-induced back pain have been reported.
-Metabolic side effects including hypocalcemia (up to 1%) have been reported.
+Metabolic side effects including hypocalcemia (up to ) have been reported.
 Blurred vision
 confusion
 dizziness, faintness, or lightheadedness when getting up from a lying or sitting position suddenly

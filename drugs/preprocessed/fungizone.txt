@@ -1,25 +1,23 @@
 General side effects have included reactions during infusions.
-These have included fevers, chills, and rigors in 50% of patients during intravenous administration.
+These have included fevers, chills, and rigors in  of patients during intravenous administration.
 The intensity of these acute, infusion-related side effects usually decreased over time, were probably cytokine-mediated, and have been lessened by pretreatment with corticosteroids, nonsteroidal anti-inflammatory drugs, antihistamines, and meperidine.
-Hydrocortisone 25 mg intravenously, just before or during amphotericin infusions, is usually an effective countermeasure against these side effects.
-In some cases, premedication with diphenhydramine hydrochloride 25 mg orally or intravenously is additionally effective.
+Hydrocortisone  mg intravenously, just before or during amphotericin infusions, is usually an effective countermeasure against these side effects.
+In some cases, premedication with diphenhydramine hydrochloride  mg orally or intravenously is additionally effective.
 Renal side effects have included decreased renal function, azotemia, hyposthenuria, renal tubular acidosis, and nephrocalcinosis.
 These symptoms usually improved with interruption of therapy.
-However, in those patients receiving larger amounts (over 5 g) of amphotericin B or receiving other nephrotoxic agents, some permanent impairment often occurred.
+However, in those patients receiving larger amounts (over  g) of amphotericin B or receiving other nephrotoxic agents, some permanent impairment often occurred.
 Hypercalciuria, nephrotoxicity, elevations in BUN, and elevations in serum creatinine have been reported.
 Rare cases of renal tubular necrosis have also been reported.
 Renal toxicity has been a common side effect of amphotericin B therapy and may be lessened by saline hydration, and is reversible upon temporary discontinuation of therapy.
-A typical regimen is the administration of 500 mL of normal saline infused prior to the amphotericin B infusion, with an additional 500 mL of normal saline infused just subsequent to the completion of a dose.
-Although no controlled trials have compared rapid and continuous infusions of amphotericin B, data from one controlled trial (n=80) showed a noticeable reduction in nephrotoxicity in the continuous infusion group.
-An amphotericin infusion rate of less than 0.
-08 mg/kg/hour appears to be a safe threshold associated with reduced renal impairment.
-The need for hemodialysis due to amphotericin B induced nephrotoxicity appears to be greater in certain patient populations such as bone marrow transplant patients and patients whose creatinine levels exceed 2.
-5 mg/dL.
+A typical regimen is the administration of  mL of normal saline infused prior to the amphotericin B infusion, with an additional  mL of normal saline infused just subsequent to the completion of a dose.
+Although no controlled trials have compared rapid and continuous infusions of amphotericin B, data from one controlled trial (n=) showed a noticeable reduction in nephrotoxicity in the continuous infusion group.
+An amphotericin infusion rate of less than  mg/kg/hour appears to be a safe threshold associated with reduced renal impairment.
+The need for hemodialysis due to amphotericin B induced nephrotoxicity appears to be greater in certain patient populations such as bone marrow transplant patients and patients whose creatinine levels exceed  mg/dL.
 The hypercalciuria associated with amphotericin-induced distal renal tubular acidosis has resulted in nephrocalcinosis in rare cases.
-Although data are limited, amiloride at a dosage of 5 mg 2 times a day may be beneficial in preventing amphotericin B induced hypokalemia and hypomagnesemia.
-A 21-year-old man with beta-thalassemia experienced hypoparathyroidism after using intravenous amphotericin B for C albicans infection.
+Although data are limited, amiloride at a dosage of  mg  times a day may be beneficial in preventing amphotericin B induced hypokalemia and hypomagnesemia.
+A -year-old man with beta-thalassemia experienced hypoparathyroidism after using intravenous amphotericin B for C albicans infection.
 Metabolic side effects have included changes in electrolytes.
-Hypokalemia and hypomagnesemia have often accompanied amphotericin-induced nephrotoxicity, with up to 90% of patients requiring parenteral potassium replacement.
+Hypokalemia and hypomagnesemia have often accompanied amphotericin-induced nephrotoxicity, with up to  of patients requiring parenteral potassium replacement.
 In addition, hypothermia has been reported following intravenous administration.
 Hypocalcemia and hyperkalemia have been reported.
 Amphotericin B caused hypomagnesemia, which triggered hypoparathyroidism and hypocalcemia.
@@ -31,15 +29,15 @@ Hemorrhagic gastroenteritis and melena have also been reported.
 Intraperitoneal amphotericin has caused severe peritoneal inflammation, which resulted in persistent abdominal discomfort and peritoneal leukocytosis.
 Hematologic side effects have included reversible normocytic normochromic anemia.
 Agranulocytosis, coagulation defects, thrombocytopenia (rarely), leukopenia, eosinophilia, and leukocytosis have also been reported.
-A decrease in hemoglobin concentration of up to 35% has been noted in many cases.
+A decrease in hemoglobin concentration of up to  has been noted in many cases.
 Anemia may be more likely and more severe in patients with preexisting renal dysfunction since some patients with renal failure have suppression of erythrocyte production, low erythropoietin, and low hemoglobin levels.
 Nervous system side effects have been reported rarely.
 Headaches have commonly been associated with amphotericin B infusions.
 Convulsions, hearing loss, tinnitus, transient vertigo, peripheral neuropathy, and encephalopathy have also been reported.
 Seizures, paresthesias, nerve palsies, micturition difficulties, and chemical meningitis have been associated with intrathecal amphotericin therapy.
-Multiple episodes of seizures immediately following intravenous infusion of amphotericin B have been reported in a 46-year-old African-American man with AIDS.
+Multiple episodes of seizures immediately following intravenous infusion of amphotericin B have been reported in a -year-old African-American man with AIDS.
 On rechallenge, the seizures recurred and the drugs therapy was changed.
-A 68-year-old male with organic brain syndrome precipitated by several strokes and who had an excision of a meningeoma experienced acute generalized exanthematous pustulosis coincident with amphotericin B therapy.
+A -year-old male with organic brain syndrome precipitated by several strokes and who had an excision of a meningeoma experienced acute generalized exanthematous pustulosis coincident with amphotericin B therapy.
 He had been given amphotericin B suspension three weeks previously for oral candidosis.
 Upon hospitalization, amphotericin B was stopped.
 He was treated with corticosteroids, and the skin lesions improved dramatically.

@@ -1,49 +1,35 @@
 More frequently reported side effects include: cystitis, pyelonephritis, urinary tract infection, vulvovaginal candidiasis, bacterial vaginosis, genital candidiasis, genitourinary infection, prostatitis, urethritis, vaginal infection, vulvitis, and vulvovaginitis.
 See below for a comprehensive list of adverse effects.
 The most common adverse reactions included female genital mycotic infections, nasopharyngitis, and urinary tract infections.
-Common (1% to 10%): Urinary tract infections increased urination, discomfort with urination, female genital mycotic infections (including vulvovaginal mycotic infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis fungal genital infection, vulvitis, genitourinary tract infection, vulval abscess, and vaginitis bacterial), and male mycotic infections (including balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection male, penile infection, balanoposthitis, balanoposthitis infective, genital infection, posthitis)
-Common (1% to 10%): DyslipidemiaUncommon (0.
-1% to 1%): adverse reactions related to reduced intravascular volume (postural hypotension, orthostatic hypotension, hypotension, dehydration, and syncope)
-Very common (10% or more): Hypoglycemia (up to 43%)Common (1% to 10%): Hyperphosphatemia, increases in low-density lipoprotein cholesterol (LDL-C) Uncommon (0.
-1% to 1%): Decreased weightPostmarketing reports: Acidosis including diabetic ketoacidosis, ketoacidosis, or ketosis
-Hypoglycemia was reported more frequently when this drug was added to sulfonylurea or insulin (up to 43%).
-Hypoglycemia was not reported in monotherapy trials, and was reported infrequently in add-on trials with metformin, pioglitazone, and dipeptidyl peptidase-4 inhibitors (up to 1.
-5%,2.
-1%, and 1.
-8% respectively).
-Twenty reports of acidosis have been identified in the US Food and Drug Administration Adverse Event Reporting System (FAERS) database during the period March 2013 through 06 June 2014.
-All patients required emergency room treatment or hospitalization.
-These cases were not typical of ketoacidosis or diabetic ketoacidosis (DKA) in that they occurred in patients with type 2 diabetes and their blood sugar levels were only slightly increased.
+Common ( to ): Urinary tract infections increased urination, discomfort with urination, female genital mycotic infections (including vulvovaginal mycotic infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis fungal genital infection, vulvitis, genitourinary tract infection, vulval abscess, and vaginitis bacterial), and male mycotic infections (including balanitis, fungal genital infection, balanitis candida, genital candidiasis, genital infection male, penile infection, balanoposthitis, balanoposthitis infective, genital infection, posthitis)
+Common ( to ): DyslipidemiaUncommon ( to ): adverse reactions related to reduced intravascular volume (postural hypotension, orthostatic hypotension, hypotension, dehydration, and syncope)
+Very common ( or more): Hypoglycemia (up to )Common ( to ): Hyperphosphatemia, increases in low-density lipoprotein cholesterol (LDL-C) Uncommon ( to ): Decreased weightPostmarketing reports: Acidosis including diabetic ketoacidosis, ketoacidosis, or ketosis
+Hypoglycemia was reported more frequently when this drug was added to sulfonylurea or insulin (up to ).
+Hypoglycemia was not reported in monotherapy trials, and was reported infrequently in add-on trials with metformin, pioglitazone, and dipeptidyl peptidase- inhibitors (up to ,, and  respectively).
+Twenty reports of acidosis have been identified in the US Food and Drug Administration Adverse Event Reporting System (FAERS) database during the period March  through  June   All patients required emergency room treatment or hospitalization.
+These cases were not typical of ketoacidosis or diabetic ketoacidosis (DKA) in that they occurred in patients with type  diabetes and their blood sugar levels were only slightly increased.
 Some factors identified as potentially triggering the acidosis included major illness, reduced food and fluid intake, and reduced insulin dose.
-Common (1% to 10%): Nausea, constipationUncommon (0.
-1% to 1%): Thirst, dry mouth
-Rare (less than 0.
-1%): Serious anaphylactic reactions, severe cutaneous reactions, and angioedema
-Common (1% to 10%): Back pain, extremity painFrequency not reported: Bone fracture
-Common (1% to 10%): Influenza
-Uncommon (0.
-1% to 1%): Bladder cancer
-Newly diagnosed bladder cancer was reported in 10 of 6045 (0.
-17%) patients receiving this drug in clinical trials compared with 1 of 3512 (0.
-3%) patients receiving placebo or comparator.
-Upon excluding patients in whom exposure to study drug was less than 1 year at time of diagnosis, there were no cases associated with placebo and 4 cases with this drug.
+Common ( to ): Nausea, constipationUncommon ( to ): Thirst, dry mouth
+Rare (less than ): Serious anaphylactic reactions, severe cutaneous reactions, and angioedema
+Common ( to ): Back pain, extremity painFrequency not reported: Bone fracture
+Common ( to ): Influenza
+Uncommon ( to ): Bladder cancer
+Newly diagnosed bladder cancer was reported in  of   patients receiving this drug in clinical trials compared with  of   patients receiving placebo or comparator.
+Upon excluding patients in whom exposure to study drug was less than  year at time of diagnosis, there were no cases associated with placebo and  cases with this drug.
 Due to the low number of cases, further studies are needed.
-From March 2013 to October 2015, the US FDA received 101 confirmable case reports of acute kidney injury (AKI) with use of canagliflozin (n=73) or dapagliflozin (n=28).
-Hospitalization was necessary for evaluation and management in 96 cases; admission to the intensive care unit occurred in 22 cases, and death occurred in 4 patients, of which 2 were cardiac-related.
-Dialysis was necessary in 15 patients, 3 of whom had a history of chronic kidney disease or previous AKI.
-In 58 cases, time to onset of AKI was within 1 month or less of initiating therapy.
-In 78 cases in which drug discontinuation was reported, 56 reported subsequent improvement; 3 patients recovered with sequelae, 11 patients did not recover (including the 4 deaths mentioned earlier).
-Median age was 57 years (range 28 to 78 years; based on 84 cases reporting age).
-Concomitant ACE inhibitor therapy was reported in 51 cases, diuretic use in 26 cases, and NSAID use in 6 cases.
-Almost half the patients reported a change in renal function at time of diagnosis (median elevation of serum creatinine from baseline 1.
-6 mg/dL [based on 32 cases reporting serum creatinine] and median decrease in eGFR 46 mL/min/1.
-73m2 [based on 13 cases reporting eGFR]).
+From March  to October , the US FDA received  confirmable case reports of acute kidney injury (AKI) with use of canagliflozin (n=) or dapagliflozin (n=).
+Hospitalization was necessary for evaluation and management in  cases; admission to the intensive care unit occurred in  cases, and death occurred in  patients, of which  were cardiac-related.
+Dialysis was necessary in  patients,  of whom had a history of chronic kidney disease or previous AKI.
+In  cases, time to onset of AKI was within  month or less of initiating therapy.
+In  cases in which drug discontinuation was reported,  reported subsequent improvement;  patients recovered with sequelae,  patients did not recover (including the  deaths mentioned earlier).
+Median age was  years (range  to  years; based on  cases reporting age).
+Concomitant ACE inhibitor therapy was reported in  cases, diuretic use in  cases, and NSAID use in  cases.
+Almost half the patients reported a change in renal function at time of diagnosis (median elevation of serum creatinine from baseline  mg/dL [based on  cases reporting serum creatinine] and median decrease in eGFR  mL/min/m [based on  cases reporting eGFR]).
 Frequency not reported: Renal failure, serum creatinine increasePostmarketing reports: Acute kidney injury
 Frequency not reported: Small increases in serum parathyroid hormone levels
-Common (1% to 10%): Dizziness, headache
-Very rare (less than 0.
-01%): Hepatitis
-Common (1% to 10%): Nasopharyngitis
+Common ( to ): Dizziness, headache
+Very rare (less than ): Hepatitis
+Common ( to ): Nasopharyngitis
 Anxiety
 bladder pain
 bloody or cloudy urine

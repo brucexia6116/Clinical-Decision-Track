@@ -1,47 +1,25 @@
 As well as its needed effects, varicella virus vaccine (the active ingredient contained in Varivax) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking varicella virus vaccine, check with your doctor or nurse immediately:
 Some varicella virus vaccine side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 The most common adverse events were injection site reactions and fever.
-Very common (10% or more): Fever (27%), otitis media (12%)Uncommon (0.
-1% to 1%): Otitis, viral infection, asthenia, hematoma, malaiseRare (less than 0.
-1%): Ear pain, infection, candidiasis, non-venomous bite/sting, heavinessFrequency not reported: Insect bites
-Very common (10% or more): Injection site complaints (pain/soreness, swelling and/or erythema, rash, pruritus, hematoma, induration, stiffness) (32.
-5%)Common (1% to 10%): Varicella-like rash (injection site)Uncommon (0.
-1% to 1%): Injection site ecchymosis, indurationRare (less than 0.
-1%): Extravasation, injection site eczema, lump, warmth, stiffness, pain/tenderness/soreness, warm sensation, warm to touch, venipuncture site hemorrhage
-Very common (10% or more): Upper respiratory infection (26.
-9%), cough (11%)Common (1% to 10%): RhinorrheaUncommon (0.
-1% to 1%): Nasal congestion, respiratory congestion, influenza, pharyngitisRare (less than 0.
-1%): Pneumonitis, sinusitis, sneezing, pulmonary congestion, epistaxis, rhinitis, wheezing, bronchitis, respiratory infection, pneumonia, flu-like illnessFrequency not reported: Upper respiratory illness, lower respiratory illness
-Common (1% to 10%): Varicella-like rash (generalized), rash, measles/rubella-like rashUncommon (0.
-1% to 1%): Varicella, viral exanthema, contact dermatitis, diaper rash, erythema, miliaria rubra, pruritus, urticariaRare (less than 0.
-1%): Flushing, vesicle, atopic dermatitis, eczema, acne, herpes simplex, contusion, dermatitis, drug eruption, impetigo, skin infection, measles, sunburn, lump, warmth, discoloration, inflammation, roughness/dryness, hive-like rash, hyperpigmentationPostmarketing reports: Varicella (vaccine strain), Stevens-Johnson syndrome, erythema multiforme, Henoch-Schonlein purpura, secondary bacterial infections of skin and soft tissue including cellulitis, herpes zoster
-Common (1% to 10%): IrritabilityUncommon (0.
-1% to 1%): Crying, insomnia, sleep disorderRare (less than 0.
-1%): Apathy, nervousness, agitation, dream abnormality, emotional changesFrequency not reported: Disturbed sleep
-Uncommon (0.
-1% to 1%): Gastroenteritis, diarrhea, vomitingRare (less than 0.
-1%): Abdominal pain, nausea, flatulence, hematochezia, mouth ulcer, lip abnormalityFrequency not reported: Constipation, cold/canker sore
-Uncommon (0.
-1% to 1%): Headache, somnolence, fatigueRare (less than 0.
-1%): Febrile seizures, hypersomnia, gait abnormality, tremorPostmarketing reports: Encephalitis, cerebrovascular accident, transverse myelitis, Guillain-Barré syndrome, Bell's palsy, ataxia, non-febrile seizures, aseptic meningitis, dizziness, paresthesia
-Rare (less than 0.
-1%): Lymphadenopathy, lymphadenitis, thrombocytopeniaPostmarketing reports: Aplastic anemia, idiopathic thrombocytopenic purpura
+Very common ( or more): Fever , otitis media Uncommon ( to ): Otitis, viral infection, asthenia, hematoma, malaiseRare (less than ): Ear pain, infection, candidiasis, non-venomous bite/sting, heavinessFrequency not reported: Insect bites
+Very common ( or more): Injection site complaints (pain/soreness, swelling and/or erythema, rash, pruritus, hematoma, induration, stiffness) Common ( to ): Varicella-like rash (injection site)Uncommon ( to ): Injection site ecchymosis, indurationRare (less than ): Extravasation, injection site eczema, lump, warmth, stiffness, pain/tenderness/soreness, warm sensation, warm to touch, venipuncture site hemorrhage
+Very common ( or more): Upper respiratory infection , cough Common ( to ): RhinorrheaUncommon ( to ): Nasal congestion, respiratory congestion, influenza, pharyngitisRare (less than ): Pneumonitis, sinusitis, sneezing, pulmonary congestion, epistaxis, rhinitis, wheezing, bronchitis, respiratory infection, pneumonia, flu-like illnessFrequency not reported: Upper respiratory illness, lower respiratory illness
+Common ( to ): Varicella-like rash (generalized), rash, measles/rubella-like rashUncommon ( to ): Varicella, viral exanthema, contact dermatitis, diaper rash, erythema, miliaria rubra, pruritus, urticariaRare (less than ): Flushing, vesicle, atopic dermatitis, eczema, acne, herpes simplex, contusion, dermatitis, drug eruption, impetigo, skin infection, measles, sunburn, lump, warmth, discoloration, inflammation, roughness/dryness, hive-like rash, hyperpigmentationPostmarketing reports: Varicella (vaccine strain), Stevens-Johnson syndrome, erythema multiforme, Henoch-Schonlein purpura, secondary bacterial infections of skin and soft tissue including cellulitis, herpes zoster
+Common ( to ): IrritabilityUncommon ( to ): Crying, insomnia, sleep disorderRare (less than ): Apathy, nervousness, agitation, dream abnormality, emotional changesFrequency not reported: Disturbed sleep
+Uncommon ( to ): Gastroenteritis, diarrhea, vomitingRare (less than ): Abdominal pain, nausea, flatulence, hematochezia, mouth ulcer, lip abnormalityFrequency not reported: Constipation, cold/canker sore
+Uncommon ( to ): Headache, somnolence, fatigueRare (less than ): Febrile seizures, hypersomnia, gait abnormality, tremorPostmarketing reports: Encephalitis, cerebrovascular accident, transverse myelitis, Guillain-Barr syndrome, Bell's palsy, ataxia, non-febrile seizures, aseptic meningitis, dizziness, paresthesia
+Rare (less than ): Lymphadenopathy, lymphadenitis, thrombocytopeniaPostmarketing reports: Aplastic anemia, idiopathic thrombocytopenic purpura
 Frequency not reported: Allergic reactions (including allergic rash, hives)Postmarketing reports: Anaphylaxis (including anaphylactic shock) and related phenomena such as angioneurotic edema, facial edema, and peripheral edema; anaphylaxis in individuals with or without an allergic history
-Uncommon (0.
-1% to 1%): ConjunctivitisRare (less than 0.
-1%): Acute conjunctivitis, tearing, edema of the eyelid, irritationFrequency not reported: Eye complaintsPostmarketing reports: Necrotizing retinitis (in immunocompromised individuals)
-Uncommon (0.
-1% to 1%): Anorexia
-Rare (less than 0.
-1%): Musculoskeletal pain, myalgia, stiffness, pain of the hip, leg, or neckFrequency not reported: Chills, stiff neck, arthralgia
+Uncommon ( to ): ConjunctivitisRare (less than ): Acute conjunctivitis, tearing, edema of the eyelid, irritationFrequency not reported: Eye complaintsPostmarketing reports: Necrotizing retinitis (in immunocompromised individuals)
+Uncommon ( to ): Anorexia
+Rare (less than ): Musculoskeletal pain, myalgia, stiffness, pain of the hip, leg, or neckFrequency not reported: Chills, stiff neck, arthralgia
 It is possible that some side effects of Varivax may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.
-Fever over 39 °C (102 °F)
+Fever over  C ( F)
 Blue lips and fingernails
 chest pain
 chickenpox-like skin rash
@@ -125,8 +103,7 @@ unsteadiness, trembling, or other problems with muscle control or coordination
 unusual weight gain or loss
 weakness in the arm or leg on one side of the body, sudden and severe
 weakness of the muscles in your face
-Fever of 37.
-7 °C (100 °F) or higher, but not above 39 °C (102 °F)
+Fever of  C ( F) or higher, but not above  C ( F)
 hives, itching, pain, redness, soreness, tenderness, or warmth at the injection site
 Common cold
 congestion

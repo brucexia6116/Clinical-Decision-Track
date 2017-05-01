@@ -1,53 +1,27 @@
 As well as its needed effects, naproxen (the active ingredient contained in Naproxen Sodium DS) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking naproxen, check with your doctor immediately:
 If any of the following symptoms of overdose occur while taking naproxen, get emergency help immediately:
 Some naproxen side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Very common (10% or more): Dyspepsia (14%), heartburn, nausea, constipationCommon (1% to 10%): Diarrhea, abdominal painVery rare (less than 0.
-01%): PancreatitisFrequency not reported: Flatulence, gastritis, vomiting, dysphagia, stomatitis, abdomen enlarged, eructation, GI hemorrhage, rectal hemorrhage, aphthous, mouth ulcer, stomach ulcer, cardiospasm, colitis, esophagitis, gastroenteritis, GI disorder, rectal disorder, tooth disorder, melena esophageal ulcer, hematemesis, non-peptic GI ulceration, ulcerative stomatitis, sialadenitis, colitisPostmarketing reports: Inflammation, bleeding, ulceration, perforation, obstruction, exacerbation of inflammatory bowel disease
-Rare (less than 0.
-1%): Hepatitis, jaundiceFrequency not reported: Cholecystitis, cholelithiasis, hepatosplenomegaly, liver function abnormality, SGOT increased, SGPT increased, elevated liver enzymes
-Very common (10% or more): Headache (15%)Common (1% to 10%): Drowsiness, dizzinessUncommon (0.
-1% to 1%): Cognitive dysfunction, poor concentrationVery rare (less than 0.
-01%): Convulsions, strokeFrequency not reported: Paresthesia, lightheadedness, migraine, syncope, hypertonia, neuralgia, neuritis, amnesia, paralysis
-Very rare (less than 0.
-01%): Glomerular nephritis, interstitial nephritis, nephrotic syndrome, renal papillary necrosisFrequency not reported: Kidney function abnormality, pyelonephritis, creatinine increased, glucosuria, albuminuria, BUN increased, renal failure, renal disease, kidney pain, nephrosclerosis, kidney failure, kidney calculus, nephropathy
-Uncommon (0.
-1% to 1%): PalpitationsRare (0.
-01% to 0.
-1%): VasculitisVery rare (less than 0.
-01%): Arterial thrombotic events, myocardial infarctionFrequency not reported: Hypertension, angina pectoris, coronary artery disease, deep thrombophlebitis, vasodilation, vascular anomaly, arrhythmia, bundle branch block, abnormal ECG, right heart failure, hemorrhage, aortic stenosis, tachycardia, congestive heart failurePostmarketing reports: Cardiac failure
-Rare (0.
-01% to 0.
-1%): Hemolytic anemiaVery rare (less than 0.
-01%): Granulocytopenia, thrombocytopenia, agranulocytosisFrequency not reported: Anemia, aplastic anemia, leukopenia, bleeding time increased, eosinophilia, abnormal RBC, abnormal WBC, neutropenia, pancytopenia
-Rare (less than 0.
-1%): Allergic reaction, anaphylactoid/anaphylaxis reaction, hypersensitivity reaction
-Common (1% to 10%): Ecchymosis, rash, skin eruptions, pruritus, purpuraUncommon (0.
-1% to 1%): Urticaria, photosensitivityRare (0.
-01% to 0.
-1%): Alopecia, pseudo-porphyriaVery rare (less than 0.
-01%): Toxic epidermal necrolysis, erythema multiforme, Stevens-Johnson syndrome, epidermolysis bullosaFrequency not reported: Angioneurotic edema/angioedema, angiodermatitis, dry skin, sweating, skin ulcer, acne, contact dermatitis, eczema, skin necrosis, subcutaneous nodule, photosensitive dermatitis, porphyria cutaneous tarda, nail disorder, epidermal necrosis, exfoliative dermatoses, bullous dermatoses, lichen planusPostmarketing reports: Erythema nodosum, fixed drug eruption, pustular reaction, bullous reactions
-Common (1% to 10%): Pharyngitis, rhinitis, dyspneaRare (less than 0.
-1%): Aggravated asthma, eosinophilic pneumonitisFrequency not reported: Bronchitis, cough increased, asthma, pulmonary edema, laryngitis, lung disorder, epistaxis, pneumonia, respiratory distress, respiratory disorder, bronchospasm, sore throat
-Very common (10% or more): Influenza-like syndrome (10%)Common (1% to 10%): Infection, edema, tinnitus, fatigueRare (0.
-01% to 0.
-1%): Hearing impairmentVery rare (less than 0.
-01%): Aseptic meningitisFrequency not reported: Fever, accidental injury, asthenia, chest pain, peripheral edema, hearing disturbances, thirst, abscess, cellulitis, malaise, mucous membrane disorder, periodontal abscess, necrosis, aseptic meningitis, chills, weight increased, otitis media, deafness, ear disorder, herpes simplex, herpes zoster, vertigo, subdural hematoma, exacerbation of Parkinson's disease
-Rare (less than 0.
-1%): HyperkalemiaFrequency not reported: Hyperglycemia, anorexia, hypoglycemia, hypercholesteremia, alkalosis, dehydration, glucose tolerance increase, hyperuricemia, hypokalemia
+Very common ( or more): Dyspepsia , heartburn, nausea, constipationCommon ( to ): Diarrhea, abdominal painVery rare (less than ): PancreatitisFrequency not reported: Flatulence, gastritis, vomiting, dysphagia, stomatitis, abdomen enlarged, eructation, GI hemorrhage, rectal hemorrhage, aphthous, mouth ulcer, stomach ulcer, cardiospasm, colitis, esophagitis, gastroenteritis, GI disorder, rectal disorder, tooth disorder, melena esophageal ulcer, hematemesis, non-peptic GI ulceration, ulcerative stomatitis, sialadenitis, colitisPostmarketing reports: Inflammation, bleeding, ulceration, perforation, obstruction, exacerbation of inflammatory bowel disease
+Rare (less than ): Hepatitis, jaundiceFrequency not reported: Cholecystitis, cholelithiasis, hepatosplenomegaly, liver function abnormality, SGOT increased, SGPT increased, elevated liver enzymes
+Very common ( or more): Headache Common ( to ): Drowsiness, dizzinessUncommon ( to ): Cognitive dysfunction, poor concentrationVery rare (less than ): Convulsions, strokeFrequency not reported: Paresthesia, lightheadedness, migraine, syncope, hypertonia, neuralgia, neuritis, amnesia, paralysis
+Very rare (less than ): Glomerular nephritis, interstitial nephritis, nephrotic syndrome, renal papillary necrosisFrequency not reported: Kidney function abnormality, pyelonephritis, creatinine increased, glucosuria, albuminuria, BUN increased, renal failure, renal disease, kidney pain, nephrosclerosis, kidney failure, kidney calculus, nephropathy
+Uncommon ( to ): PalpitationsRare ( to ): VasculitisVery rare (less than ): Arterial thrombotic events, myocardial infarctionFrequency not reported: Hypertension, angina pectoris, coronary artery disease, deep thrombophlebitis, vasodilation, vascular anomaly, arrhythmia, bundle branch block, abnormal ECG, right heart failure, hemorrhage, aortic stenosis, tachycardia, congestive heart failurePostmarketing reports: Cardiac failure
+Rare ( to ): Hemolytic anemiaVery rare (less than ): Granulocytopenia, thrombocytopenia, agranulocytosisFrequency not reported: Anemia, aplastic anemia, leukopenia, bleeding time increased, eosinophilia, abnormal RBC, abnormal WBC, neutropenia, pancytopenia
+Rare (less than ): Allergic reaction, anaphylactoid/anaphylaxis reaction, hypersensitivity reaction
+Common ( to ): Ecchymosis, rash, skin eruptions, pruritus, purpuraUncommon ( to ): Urticaria, photosensitivityRare ( to ): Alopecia, pseudo-porphyriaVery rare (less than ): Toxic epidermal necrolysis, erythema multiforme, Stevens-Johnson syndrome, epidermolysis bullosaFrequency not reported: Angioneurotic edema/angioedema, angiodermatitis, dry skin, sweating, skin ulcer, acne, contact dermatitis, eczema, skin necrosis, subcutaneous nodule, photosensitive dermatitis, porphyria cutaneous tarda, nail disorder, epidermal necrosis, exfoliative dermatoses, bullous dermatoses, lichen planusPostmarketing reports: Erythema nodosum, fixed drug eruption, pustular reaction, bullous reactions
+Common ( to ): Pharyngitis, rhinitis, dyspneaRare (less than ): Aggravated asthma, eosinophilic pneumonitisFrequency not reported: Bronchitis, cough increased, asthma, pulmonary edema, laryngitis, lung disorder, epistaxis, pneumonia, respiratory distress, respiratory disorder, bronchospasm, sore throat
+Very common ( or more): Influenza-like syndrome Common ( to ): Infection, edema, tinnitus, fatigueRare ( to ): Hearing impairmentVery rare (less than ): Aseptic meningitisFrequency not reported: Fever, accidental injury, asthenia, chest pain, peripheral edema, hearing disturbances, thirst, abscess, cellulitis, malaise, mucous membrane disorder, periodontal abscess, necrosis, aseptic meningitis, chills, weight increased, otitis media, deafness, ear disorder, herpes simplex, herpes zoster, vertigo, subdural hematoma, exacerbation of Parkinson's disease
+Rare (less than ): HyperkalemiaFrequency not reported: Hyperglycemia, anorexia, hypoglycemia, hypercholesteremia, alkalosis, dehydration, glucose tolerance increase, hyperuricemia, hypokalemia
 Postmarketing reports: Infertility
 The most frequently reported adverse events were headache, dyspepsia, nausea, constipation, heartburn, abdominal pain, and influenza-like syndrome.
-Common (1% to 10%): Urinary tract infectionVery rare (less than 0.
-01%): HematuriaFrequency not reported: Cystitis, monilia, pelvic pain, dysmenorrhea, dysuria, nocturia, prostate disorder, urinary incontinence, menorrhagia, menstrual disorders, vaginitis, uterine spasm, urinary retention, urinary frequency, abnormal urine, pyuria, metrorrhagia
-Common (1% to 10%): Back painRare (less than 0.
-1%): Myalgia, muscle weaknessFrequency not reported: Leg cramps, arthralgia, joint disorder, tendon disorder, neck rigid/pain, LE syndrome, myasthenia, bone disorder, spontaneous bone fracture, fibrotendinitis, bone pain, spasm, bursitisPostmarketing reports: Systemic lupus erythematosus
-Common (1% to 10%): Visual disturbancesFrequency not reported: Ptosis, amblyopia, scleritis, cataract, conjunctivitis, keratoconjunctivitis, lacrimation disorder, eye pain, diplopia, retrobulbar optic neuritisPostmarketing reports: Corneal opacity, papillitis, papilledema
+Common ( to ): Urinary tract infectionVery rare (less than ): HematuriaFrequency not reported: Cystitis, monilia, pelvic pain, dysmenorrhea, dysuria, nocturia, prostate disorder, urinary incontinence, menorrhagia, menstrual disorders, vaginitis, uterine spasm, urinary retention, urinary frequency, abnormal urine, pyuria, metrorrhagia
+Common ( to ): Back painRare (less than ): Myalgia, muscle weaknessFrequency not reported: Leg cramps, arthralgia, joint disorder, tendon disorder, neck rigid/pain, LE syndrome, myasthenia, bone disorder, spontaneous bone fracture, fibrotendinitis, bone pain, spasm, bursitisPostmarketing reports: Systemic lupus erythematosus
+Common ( to ): Visual disturbancesFrequency not reported: Ptosis, amblyopia, scleritis, cataract, conjunctivitis, keratoconjunctivitis, lacrimation disorder, eye pain, diplopia, retrobulbar optic neuritisPostmarketing reports: Corneal opacity, papillitis, papilledema
 Frequency not reported: Carcinoma, breast carcinoma, breast neoplasm, skin neoplasm
-Common (1% to 10%): ConfusionUncommon (0.
-1% to 1%): Depression, dream abnormalities, mood alterationsFrequency not reported: Insomnia, anxiety, nervousness, emotional lability, hallucinations
+Common ( to ): ConfusionUncommon ( to ): Depression, dream abnormalities, mood alterationsFrequency not reported: Insomnia, anxiety, nervousness, emotional lability, hallucinations
 It is possible that some side effects of Naproxen Sodium DS may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

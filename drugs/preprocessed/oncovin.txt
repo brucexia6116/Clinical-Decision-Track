@@ -24,12 +24,12 @@ Convulsions, frequently with hypertension have occasionally been reported.
 A case of acute fulminant encephalopathy with severe mental confusion and a focal seizure has been reported.
 Coma has been reported.
 The dose-limiting clinical toxicity is neurotoxicity.
-In one study, 61% of the 23 patients treated for lymphoma developed neuropathy, while only 14% of the 37 patients with other malignant diseases developed these symptoms.
-A long term study done of the effects of vincristine on the peripheral nervous system of 40 patients, concluded that with a cumulative dose of 12 mg over 18 to 24 weeks, signs and symptoms of vincristine neuropathy are reversible for the majority of patients and the prognosis is good.
+In one study,  of the  patients treated for lymphoma developed neuropathy, while only  of the  patients with other malignant diseases developed these symptoms.
+A long term study done of the effects of vincristine on the peripheral nervous system of  patients, concluded that with a cumulative dose of  mg over  to  weeks, signs and symptoms of vincristine neuropathy are reversible for the majority of patients and the prognosis is good.
 There has been a case report of a patient with a familial variant of Charcot-Marie-Tooth syndrome.
-After receiving two 2 mg dosages, his weakness secondary to peripheral neuropathy rapidly progressed to complete paraplegia.
+After receiving two  mg dosages, his weakness secondary to peripheral neuropathy rapidly progressed to complete paraplegia.
 Acute acoustic nerve palsy has been reported.
-Dermatologic side effects including alopecia (20% to 70%) and rash (infrequent) have been reported.
+Dermatologic side effects including alopecia ( to ) and rash (infrequent) have been reported.
 Alopecia is the most common adverse reaction.
 It is usually reversible.
 Soft tissue damage has been reported when extravasation takes place.
@@ -37,7 +37,7 @@ Respiratory side effects including acute shortness of breath and severe bronchos
 Progressive dyspnea requiring chronic therapy has been reported.
 Acute shortness of breath and severe bronchospasm occur most frequently when vincristine is used in combination with mitomycin.
 These adverse effects may require aggressive treatment, especially if there is preexisting pulmonary dysfunction.
-The onset of these reactions may occur minutes to hours after the administration of vincristine and up to 2 weeks following the dose of mitomycin.
+The onset of these reactions may occur minutes to hours after the administration of vincristine and up to  weeks following the dose of mitomycin.
 Constipation may take the form of upper colon impaction and on physical examination, the rectum may be empty.
 Colicky abdominal pain coupled with an empty rectum may mislead the physician.
 A flat film of the abdomen is useful in demonstrating this condition.
@@ -55,7 +55,7 @@ Renal or adrenal disease, hypotension, dehydration, azotemia, and clinical edema
 With fluid deprivation, improvement occurs in the hyponatremia and in the renal loss of sodium.
 Generally, treatment with vincristine (the active ingredient contained in Oncovin) can continue.
 Endocrine side effects including pancreatitis and a syndrome attributable to inappropriate antidiuretic hormone have been reported rarely.
-One study of 55 males who received chemotherapy as children, and at the time of the study were over 18, found a 5 fold increase in azoospermia when compared to patients that did not receive vincristine (the active ingredient contained in Oncovin)   The study concluded that vincristine may have a previously unrecognized important role in causing possibly irreversible azoospermia when administered in childhood or adolescence.
+One study of  males who received chemotherapy as children, and at the time of the study were over , found a  fold increase in azoospermia when compared to patients that did not receive vincristine (the active ingredient contained in Oncovin)   The study concluded that vincristine may have a previously unrecognized important role in causing possibly irreversible azoospermia when administered in childhood or adolescence.
 Genitourinary side effects including polyuria, dysuria, and urinary retention due to bladder atony have been reported.
 Amenorrhea and azoospermia have been reported in patients receiving combination chemotherapy (which also included an alkylating agent, procarbazine, and prednisone).
 Clinicians should counsel patients regarding reproductive risks if appropriate.

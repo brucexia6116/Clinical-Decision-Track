@@ -1,37 +1,23 @@
 Common side effects of Actos include: upper respiratory tract infection, edema, and hypoglycemia.
 Other side effects include: cardiac failure, exacerbation of congestive heart failure, bone fracture, headache, and pharyngitis.
 See below for a comprehensive list of adverse effects.
-Very common (greater than 10%): EdemaCommon (1% to 10%): Congestive heart failure (including nonfatal and fatal cases), cardiac failure, chest pain
-In the PROactive trial, a study in 5238 patients with type 2 diabetes and a history of macrovascular disease who were force-uptitrated to pioglitazone 45 mg once a day or given placebo in addition to standard of care, edema occurred in 27.
-3% of patients treated with pioglitazone (n=2605) compared with 15.
-9% of placebo (n=2633) patients.
-Treatment-emergent adverse events leading to at least 1 hospitalized congestive heart failure event occurred in 5.
-7% of patients receiving pioglitazone and 4.
-1% of patients receiving placebo.
-The primary objective of the 3-year PROactive trial was to examine the effect of pioglitazone on mortality and macrovascular morbidity in high-risk patients.
+Very common (greater than ): EdemaCommon ( to ): Congestive heart failure (including nonfatal and fatal cases), cardiac failure, chest pain
+In the PROactive trial, a study in  patients with type  diabetes and a history of macrovascular disease who were force-uptitrated to pioglitazone  mg once a day or given placebo in addition to standard of care, edema occurred in  of patients treated with pioglitazone (n=) compared with  of placebo (n=) patients.
+Treatment-emergent adverse events leading to at least  hospitalized congestive heart failure event occurred in  of patients receiving pioglitazone and  of patients receiving placebo.
+The primary objective of the -year PROactive trial was to examine the effect of pioglitazone on mortality and macrovascular morbidity in high-risk patients.
 No statistically significant difference between pioglitazone and placebo/standard care were observed for time to the first occurrence of their first event (all-cause mortality, nonfatal myocardial infarction (MI) including silent MI, stroke, acute coronary syndrome, cardiac intervention including coronary artery bypass grafting or percutaneous intervention, major leg amputation above the ankle, and bypass surgery or revascularization in the leg).
-A total of 514 patients receiving pioglitazone experienced at least 1 event compared with 572 patients receiving placebo/standard care.
+A total of  patients receiving pioglitazone experienced at least  event compared with  patients receiving placebo/standard care.
 Pioglitazone is associated with edema (peripheral, generalized, and pitting edema and fluid retention) when used alone or when used in combination therapy.
-In pioglitazone monotherapy trials, edema occurred in 2.
-5% (n=81), 4.
-7% (n=275), and 6.
-5% (n=169) of patients receiving 15 mg, 30 mg, and 45 mg of pioglitazone daily for 16 to 26 weeks.
-Pioglitazone in combination with a sulfonylurea for 16 to 24 weeks resulted in edema in 1.
-6% (n=184), 11.
-3% (n=540), and 23.
-1% (n=351) of patients receiving 15 mg, 30 mg, and 45 mg of pioglitazone daily, respectively.
-In a study in patients with NYHA class II or III heart failure the percentage of patients experiencing CHF progression during the study was 13.
-4% and 8.
-2% in patients receiving pioglitazone (n=262) and glyburide (n=256), respectively.
+In pioglitazone monotherapy trials, edema occurred in  (n=),  (n=), and  (n=) of patients receiving  mg,  mg, and  mg of pioglitazone daily for  to  weeks.
+Pioglitazone in combination with a sulfonylurea for  to  weeks resulted in edema in  (n=),  (n=), and  (n=) of patients receiving  mg,  mg, and  mg of pioglitazone daily, respectively.
+In a study in patients with NYHA class II or III heart failure the percentage of patients experiencing CHF progression during the study was  and  in patients receiving pioglitazone (n=) and glyburide (n=), respectively.
 Postmarketing reports of congestive heart failure have been received in patients treated with pioglitazone.
 Reports have been received from patients both with and without a history of a known history of heart disease and both with and without concomitant insulin use.
 Frequency not reported: Hypersensitivity and allergic reactions
-Very common (10% or more): Hypoglycemia (up to 27.
-3%), increased weight (up to 26.
-2%)
+Very common ( or more): Hypoglycemia (up to ), increased weight (up to )
 The most commonly reported side effects were hypoglycemia, increased weight, edema, and upper respiratory tract infection.
 Frequency not reported: Small reduction in mean hemoglobin and hematocrit
-Common (1% to 10%): Visual disturbance, abnormal visionFrequency not reported: Macular edema
+Common ( to ): Visual disturbance, abnormal visionFrequency not reported: Macular edema
 Visual disturbances have been reported early in treatment and may be related to changes in blood glucose due to temporary alteration in the turgidity and refractive index of the lens.
 Macular edema has been reported postmarketing in patients taking pioglitazone or another thiazolidinedione.
 Some patients presented with blurred vision or decreased visual acuity, although some were diagnosed on routine ophthalmologic examination.
@@ -39,36 +25,25 @@ Most patients had peripheral edema at time of diagnosis.
 Some patients improved with drug discontinuation.
 Postmarketing reports of fatal and nonfatal hepatic failure have been received in patients treated with this drug; these reports have been insufficient to establish causality.
 During clinical trials, there was no evidence of drug-induced hepatotoxicity.
-Uncommon (0.
-1% to 1%): Increased alanine aminotransferaseFrequency not reported: Decreased mean values of bilirubin, AST, alkaline phosphatase, and GGTPostmarketing reports: Fatal and nonfatal hepatic failure, hepatocellular dysfunction
-Common (1% to 10%): Fatigue, accidental injury, peripheral edema, asthenia, malaise
-Common (1% to 10%): Tooth disorder, tooth abscess, gastroenteritis, diarrhea, upper abdominal pain
-Common (1% to 10%): Urinary tract infection
-Common (1% to 10%): Fractures, myalgia, pain in extremity, back pain, cramped legs, arthralgia
-In the prospective pioglitazone clinical trial in macrovascular events (PROactive), the incidence of bone fractures in female patients with this drug was 5.
-1% (44/870) compared to 2.
-5% (23/905) for placebo treated patients.
+Uncommon ( to ): Increased alanine aminotransferaseFrequency not reported: Decreased mean values of bilirubin, AST, alkaline phosphatase, and GGTPostmarketing reports: Fatal and nonfatal hepatic failure, hepatocellular dysfunction
+Common ( to ): Fatigue, accidental injury, peripheral edema, asthenia, malaise
+Common ( to ): Tooth disorder, tooth abscess, gastroenteritis, diarrhea, upper abdominal pain
+Common ( to ): Urinary tract infection
+Common ( to ): Fractures, myalgia, pain in extremity, back pain, cramped legs, arthralgia
+In the prospective pioglitazone clinical trial in macrovascular events (PROactive), the incidence of bone fractures in female patients with this drug was  (/) compared to  (/) for placebo treated patients.
 The majority of fractures were nonvertebral including lower limb and distal upper limb.
-The incidence in men was 1.
-7% and no different than placebo (2.
-1%).
-Common (1% to 10%): Headache, Hypoesthesia
-Uncommon (0.
-1% to 1%): Insomnia
-Very common (10% or more): Upper respiratory tract infection (up to 13.
-2%)Common (1% to 10%): Sinusitis, pharyngitis, bronchitis, influenza
+The incidence in men was  and no different than placebo .
+Common ( to ): Headache, Hypoesthesia
+Uncommon ( to ): Insomnia
+Very common ( or more): Upper respiratory tract infection (up to )Common ( to ): Sinusitis, pharyngitis, bronchitis, influenza
 The US FDA has released results of its review of pioglitazone (the active ingredient contained in Actos) and bladder cancer and concluded that the data suggests use of this drug may be linked to an increase risk of bladder cancer.
-A 10-year prospective cohort study in diabetic patients performed by the manufacturer (n=158,918 never users; n=34,181 ever users) identified 1075 newly diagnosed cases of bladder cancer in never users and 186 cases in ever users.
-The fully adjusted hazard ratio (HR) showed pioglitazone use was not associated with an increased risk (HR 1.
-06 (95% confidence interval 0.
-89 to 1.
-26).
+A -year prospective cohort study in diabetic patients performed by the manufacturer (n=, never users; n=, ever users) identified  newly diagnosed cases of bladder cancer in never users and  cases in ever users.
+The fully adjusted hazard ratio (HR) showed pioglitazone use was not associated with an increased risk (HR  ( confidence interval  to ).
 And while a modest trend towards higher risk with increasing duration was observed, this trend was not statistically significant.
-Compared to the interim 5-year results, the 10-year results found weaker associations that were not statistically significant.
+Compared to the interim -year results, the -year results found weaker associations that were not statistically significant.
 However, there are studies that have shown a statistically significant association between exposure to this drug and bladder cancer and an association between cumulative dose or cumulative duration of exposure and bladder cancer.
 Overall, this drug may be associated with an increase in the risk of urinary bladder tumors, however there is insufficient data to determine whether this drug is a tumor promoter for urinary bladder tumors.
-Uncommon (0.
-1% to 1%): Bladder cancer
+Uncommon ( to ): Bladder cancer
 Chest pain
 decreased urine output
 dilated neck veins

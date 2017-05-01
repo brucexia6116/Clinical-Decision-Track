@@ -4,18 +4,15 @@ Frequency not reported: Anaphylaxis, Stevens-Johnson syndrome, urticaria, prurit
 Frequency not provided: Precipitation of acute gouty arthritis
 Frequency not reported: Uric acid stones with or without hematuria, costovertebral pain, urinary frequency
 Frequency not reported: Nephrotic syndrome, with or without renal failure
-Glucose-6-phosphate dehydrogenase (G-6-PD) deficiency may increase the risk of probenecid-induced hemolytic anemia in some patients.
+Glucose--phosphate dehydrogenase (G--PD) deficiency may increase the risk of probenecid-induced hemolytic anemia in some patients.
 However, probenecid (the active ingredient contained in Benemid) has also been implicated in at least two cases of immune-mediated hemolytic anemia.
 In both cases, serum antibodies reacted with red blood cells only in the presence of probenecid.
 In one patient, a generalized rash, fever, malaise, and anorexia were also present.
-Rarely (less than 0.
-1%): Aplastic anemia, leucopenia, thrombocytopenia Frequency not reported: Anemia, hemolytic anemia (which could be related to genetic deficiency of glucose-6-phosphate-dehydrogenase (G6PD) in red blood cells)
+Rarely (less than ): Aplastic anemia, leucopenia, thrombocytopenia Frequency not reported: Anemia, hemolytic anemia (which could be related to genetic deficiency of glucose--phosphate-dehydrogenase (GPD) in red blood cells)
 Frequency not reported: Anorexia, nausea, vomiting, sore gums
-Rare (less than 0.
-1%): Hepatic necrosis
+Rare (less than ): Hepatic necrosis
 Frequency not reported: Headache, dizziness
-Rare (less than 0.
-1%): Toxic epidermal necrolysis (in combination with colchicine) Frequency not reported: Dermatitis, alopecia, flushing
+Rare (less than ): Toxic epidermal necrolysis (in combination with colchicine) Frequency not reported: Dermatitis, alopecia, flushing
 Fast or irregular breathing
 puffiness or swellings of the eyelids or around the eyes
 shortness of breath, troubled breathing, tightness in chest, or wheezing

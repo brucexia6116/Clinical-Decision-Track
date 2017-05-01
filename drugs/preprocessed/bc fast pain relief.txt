@@ -3,20 +3,19 @@ Stop using aspirin and caffeine and call your doctor at once if you have:
 ringing in your ears, confusion, hallucinations, rapid breathing, seizure (convulsions);
 severe nausea, vomiting, or stomach pain;
 bloody or tarry stools, coughing up blood or vomit that looks like coffee grounds;
-fever lasting longer than 3 days; or
-swelling, or pain lasting longer than 10 days.
+fever lasting longer than  days; or
+swelling, or pain lasting longer than  days.
 Common side effects may include:
 upset stomach, heartburn;
 drowsiness; or
 mild headache.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-
-Gastrointestinal side effects have been common and have included epigastric distress (in as many as 83% of patients treated with regular aspirin), abdominal discomfort or pain, endoscopically identifiable gastric mucosal lesions, nausea, and vomiting.
+Gastrointestinal side effects have been common and have included epigastric distress (in as many as  of patients treated with regular aspirin), abdominal discomfort or pain, endoscopically identifiable gastric mucosal lesions, nausea, and vomiting.
 More serious gastrointestinal effects have included hemorrhage, peptic ulcers, perforation, and esophageal ulcerations.
-In clinical trials of caffeine citrate, five cases of necrotizing enterocolitis were reported among the 46 infants exposed to the caffeine citrate injection.
+In clinical trials of caffeine citrate, five cases of necrotizing enterocolitis were reported among the  infants exposed to the caffeine citrate injection.
 Endoscopically identifiable gastric mucosal lesions occur in most patients who receive a single dose of aspirin.
-Clinically evident gastrointestinal bleeding has been reported in as many as 3% of treated elderly patients.
+Clinically evident gastrointestinal bleeding has been reported in as many as  of treated elderly patients.
 Anorectal ulceration and rectal stenosis have been reported in patients who abuse aspirin-containing rectal  suppositories.
 One case-controlled study has suggested that an association between aspirin (and other NSAID) consumption and appendicitis may exist.
 Renal side effects of aspirin have included reduction in glomerular filtration rate (particularly in patients who are sodium restricted or who exhibit diminished effective arterial blood volume, such as patients with advanced heart failure or cirrhosis), interstitial nephritis, papillary necrosis, elevations in serum creatinine, elevations in blood urea nitrogen, proteinuria, hematuria, and renal failure.
@@ -28,11 +27,11 @@ The administration of high doses of NSAIDs to such patients has produced acute r
 Hematologic side effects of aspirin (in addition to predictable antiplatelet effects which may result in hemorrhage) have included increased blood fibrinolytic activity.
 In addition, hypoprothrombinemia, thrombocytopenia, thrombocyturia, megaloblastic anemia, and pancytopenia have been reported rarely.
 Aplastic anemia has also been reported.
-The mechanism of aspirin-induced hypersensitivity may be related to an up-regulation of the 5-lipoxygenase pathway of arachidonic acid metabolism with a resulting increase in the products of 5-lipoxygenase (such as leukotrienes).
+The mechanism of aspirin-induced hypersensitivity may be related to an up-regulation of the -lipoxygenase pathway of arachidonic acid metabolism with a resulting increase in the products of -lipoxygenase (such as leukotrienes).
 Hypersensitivity side effects of aspirin have included bronchospasm, rhinitis, conjunctivitis, urticaria, angioedema, and anaphylaxis.
-Approximately 10% to 30% of asthmatics are aspirin-sensitive (with the clinical triad of aspirin sensitivity, bronchial asthma, and nasal polyps).
+Approximately  to  of asthmatics are aspirin-sensitive (with the clinical triad of aspirin sensitivity, bronchial asthma, and nasal polyps).
 In general, side effects noted with aspirin use are dose-related.
-Consumption of higher doses of caffeine (>600 mg/day) has been reported to have lead to caffeinism.
+Consumption of higher doses of caffeine (> mg/day) has been reported to have lead to caffeinism.
 Caffeinism is a syndrome characterized by anxiety, restlessness, and sleep disorders (similar to anxiety states).
 It has also been reported that chronic, heavy caffeine ingestion may be associated with depression.
 Caffeine may cause anxiety and panic in panic disorder patients and may aggravate PMS.
@@ -41,11 +40,9 @@ Other side effects have included Reye's syndrome.
 Reye's syndrome, although rare, has been associated with aspirin use in children with an acute viral illness.
 Reye's syndrome has also been reported even more rarely in adults.
 Prolonged labor and pregnancy, decreased infant birth weight and stillborn births, antepartum and postpartum bleeding have occurred due to aspirin use by women during the third trimester of pregnancy.
-In one study of the effects of caffeine, 634 women with fibrocystic breast disease (compared to 1066 women without the disease), the occurrence of fibrocystic breast disease was positively associated with average daily consumption of caffeine.
-Women who consumed 31 to 250 mg/day of caffeine were reported to have a 1.
-5 times increase in odds to have the disease.
-Women who consumed over 500 mg/day of caffeine were reported to have a 2.
-3 times increase in odds.
+In one study of the effects of caffeine,  women with fibrocystic breast disease (compared to  women without the disease), the occurrence of fibrocystic breast disease was positively associated with average daily consumption of caffeine.
+Women who consumed  to  mg/day of caffeine were reported to have a  times increase in odds to have the disease.
+Women who consumed over  mg/day of caffeine were reported to have a  times increase in odds.
 Dermatologic side effects from the use of aspirin have been reported rarely and included Stevens-Johnson syndrome and a lichenoid eruption.
 Hepatic side effects including cases of aspirin-induced hepatotoxicity and cholestatic hepatitis, particularly at high doses, have been reported rarely.
 Oncologic side effects of decreased risk have been reported.
@@ -54,8 +51,8 @@ Other studies have not found such a beneficial effect.
 Metabolic side effects of aspirin have included dehydration and hyperkalemia.
 Respiratory alkalosis and metabolic acidosis, particularly during salicylate toxicity, have been reported.
 A case of hypoglycemia has been reported in a patient on hemodialysis.
-Salicylates have also been reported to displace triiodothyronine (T3) and thyroxine (T4) from protein binding sites.
-The initial effect is an increase in serum free T4 concentrations.
+Salicylates have also been reported to displace triiodothyronine (T) and thyroxine (T) from protein binding sites.
+The initial effect is an increase in serum free T concentrations.
 Cardiovascular side effects of aspirin including salicylate-induced variant angina, ventricular ectopy, conduction abnormalities, and hypotension (particularly during salicylate toxicity) have been reported rarely.
 Regarding the use of aspirin, some investigators have suggested that tinnitus may be a less reliable indicator of salicylate toxicity than previously believed.
 Patients with high frequency hearing loss may have difficulty perceiving tinnitus.
@@ -71,8 +68,8 @@ Ocular side effects including cases of localized periorbital edema have been rep
 ringing in your ears, confusion, hallucinations, rapid breathing, seizure (convulsions);
 severe nausea, vomiting, or stomach pain;
 bloody or tarry stools, coughing up blood or vomit that looks like coffee grounds;
-fever lasting longer than 3 days; or
-swelling, or pain lasting longer than 10 days.
+fever lasting longer than  days; or
+swelling, or pain lasting longer than  days.
 upset stomach, heartburn;
 drowsiness; or
 mild headache.

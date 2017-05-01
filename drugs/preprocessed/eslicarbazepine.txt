@@ -1,33 +1,20 @@
 Commonly reported side effects of eslicarbazepine include: ataxia, blurred vision, diplopia, dizziness, drowsiness, equilibrium disturbance, headache, nausea, tremor, vertigo, abnormal gait, asthenia, fatigue, hypersomnia, nystagmus, sedation, visual disturbance, and malaise.
 Other side effects include: psychomotor retardation, hyponatremia, amnesia, aphasia, cognitive dysfunction, confusion, disorientation, memory impairment, mental disorders, and speech disturbance.
 See below for a comprehensive list of adverse effects.
-Common (1% to 10%): HypertensionFrequency not reported: Palpitations, bradycardia, tachycardia, hypotension, peripheral edema, PR interval prolongation
-Common (1% to 10%): RashUncommon (0.
-1% to 1%): Alopecia, dry skin, hyperhidrosis, erythema, skin disorder, pruritusFrequency not reported: Drug reaction with eosinophilia and systemic symptoms (DRESS), nail disorder
-Very common (10% or more): Nausea (up to 16%), vomiting (up to 10%)Common (1% to 10%): Diarrhea, constipation, abdominal painUncommon (0.
-1% to 1%): Gastritis, dyspepsia, dry mouth, abdominal discomfort, abdominal distension, gingivitis, melena, toothacheFrequency not reported: Duodenitis, epigastric discomfort, irritable bowel syndrome, odynophagia, stomatitis, increased appetite, decreased appetite, and ageusia
-Uncommon (0.
-1% to 1%): Urinary tract infection
-Uncommon (0.
-1% to 1%): AnemiaRare (less than 0.
-1%): Thrombocytopenia, leukopeniaFrequency not reported: Decreased hematocrit, decreased hemoglobin
-Common (1% to 10%): Hyponatremia, decreased appetiteUncommon (0.
-1% to 1%): Electrolyte imbalance, dehydration, hypochloremia
-Common (1% to 10%): Falls, astheniaUncommon (0.
-1% to 1%): Myalgia, bone metabolism disorder, muscular weakness, pain in extremity, back pain, neck pain
-Very common (10% or more): Dizziness (up to 28%), somnolence (up to 18%), headache (up to 15%)Common (1% to 10%): Vertigo, ataxia, balance disorder, tremor, dysarthria, memory impairmentUncommon (0.
-1% to 1%): Coordination abnormal, memory impairment, amnesia, hypersomnia, sedation, aphasia, dysesthesia, dystonia, lethargy, parosmia, cerebellar syndrome, convulsion, peripheral neuropathy, nystagmus, speech disorder, dysarthria, burning sensation, paresthesia, migraine
-Very common (10% or more): Diplopia (up to 11%)Common (1% to 10%): Blurred vision, visual impairmentFrequency not reported: Oscillopsia, binocular eye movement disorder, ocular hyperemia, saccadic eye movement, eye pain
-Common (1% to 10%): Depression, insomniaUncommon (0.
-1% to 1%): Apathy, depression, nervousness, agitation, irritability, attention deficit/hyperactivity disorder, confusional state, mood swings, crying, psychomotor retardation, psychotic disorder
-Common (1% to 10%): CoughUncommon (0.
-1% to 1%): Epistaxis, chest painFrequency not reported: Dysphonia
-Uncommon (0.
-1% to 1%): Hypothyroidism
-Uncommon (0.
-1% to 1%): Liver disorderFrequency not reported: Increased transaminases
-Common (1% to 10%): Fatigue, asthenia, gait disturbance, peripheral edemaUncommon (0.
-1% to 1%): Malaise, chills
+Common ( to ): HypertensionFrequency not reported: Palpitations, bradycardia, tachycardia, hypotension, peripheral edema, PR interval prolongation
+Common ( to ): RashUncommon ( to ): Alopecia, dry skin, hyperhidrosis, erythema, skin disorder, pruritusFrequency not reported: Drug reaction with eosinophilia and systemic symptoms (DRESS), nail disorder
+Very common ( or more): Nausea (up to ), vomiting (up to )Common ( to ): Diarrhea, constipation, abdominal painUncommon ( to ): Gastritis, dyspepsia, dry mouth, abdominal discomfort, abdominal distension, gingivitis, melena, toothacheFrequency not reported: Duodenitis, epigastric discomfort, irritable bowel syndrome, odynophagia, stomatitis, increased appetite, decreased appetite, and ageusia
+Uncommon ( to ): Urinary tract infection
+Uncommon ( to ): AnemiaRare (less than ): Thrombocytopenia, leukopeniaFrequency not reported: Decreased hematocrit, decreased hemoglobin
+Common ( to ): Hyponatremia, decreased appetiteUncommon ( to ): Electrolyte imbalance, dehydration, hypochloremia
+Common ( to ): Falls, astheniaUncommon ( to ): Myalgia, bone metabolism disorder, muscular weakness, pain in extremity, back pain, neck pain
+Very common ( or more): Dizziness (up to ), somnolence (up to ), headache (up to )Common ( to ): Vertigo, ataxia, balance disorder, tremor, dysarthria, memory impairmentUncommon ( to ): Coordination abnormal, memory impairment, amnesia, hypersomnia, sedation, aphasia, dysesthesia, dystonia, lethargy, parosmia, cerebellar syndrome, convulsion, peripheral neuropathy, nystagmus, speech disorder, dysarthria, burning sensation, paresthesia, migraine
+Very common ( or more): Diplopia (up to )Common ( to ): Blurred vision, visual impairmentFrequency not reported: Oscillopsia, binocular eye movement disorder, ocular hyperemia, saccadic eye movement, eye pain
+Common ( to ): Depression, insomniaUncommon ( to ): Apathy, depression, nervousness, agitation, irritability, attention deficit/hyperactivity disorder, confusional state, mood swings, crying, psychomotor retardation, psychotic disorder
+Common ( to ): CoughUncommon ( to ): Epistaxis, chest painFrequency not reported: Dysphonia
+Uncommon ( to ): Hypothyroidism
+Uncommon ( to ): Liver disorderFrequency not reported: Increased transaminases
+Common ( to ): Fatigue, asthenia, gait disturbance, peripheral edemaUncommon ( to ): Malaise, chills
 Confusion
 decreased urine output
 dizziness

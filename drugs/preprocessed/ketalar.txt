@@ -1,23 +1,15 @@
 If any of the following side effects occur while taking ketamine, check with your doctor or nurse immediately:
-Common (1% to 10%): Blood pressure increased, heart rate increased, increased pulse rateUncommon (0.
-1% to 1%): Bradycardia, arrhythmia, hypotensionFrequency not reported: Arrhythmia
-Common (1% to 10%): Respiratory rate increasedUncommon (0.
-1% to 1%): Respiratory depression, laryngospasmRare (less than 0.
-1%): Obstructive airway disorder, apnea
-Common (1% to 10%): Nystagmus, diplopiaFrequency not reported: Intraocular pressure increased
-Common (1% to 10%): Nausea, vomiting, anorexiaRare (less than 0.
-1%): Salivary hypersecretion
-Common (1% to 10%): Hypertonia, tonic clonic movements
-Uncommon (0.
-1% to 1%): Injection site pain, injection site rash
-Common (1% to 10%): Erythema, morbilliform rash
-Common (1% to 10%): Hallucination, abnormal dreams, nightmare, confusion, agitation, abnormal behaviorUncommon (0.
-1% to 1%): AnxietyRare (less than 0.
-1%): Delirium, flashback, dysphoria, insomnia, disorientationFrequency not reported: Psychotic episodes
-Rare (less than 0.
-1%): Cystitis, hemorrhagic cystitis
+Common ( to ): Blood pressure increased, heart rate increased, increased pulse rateUncommon ( to ): Bradycardia, arrhythmia, hypotensionFrequency not reported: Arrhythmia
+Common ( to ): Respiratory rate increasedUncommon ( to ): Respiratory depression, laryngospasmRare (less than ): Obstructive airway disorder, apnea
+Common ( to ): Nystagmus, diplopiaFrequency not reported: Intraocular pressure increased
+Common ( to ): Nausea, vomiting, anorexiaRare (less than ): Salivary hypersecretion
+Common ( to ): Hypertonia, tonic clonic movements
+Uncommon ( to ): Injection site pain, injection site rash
+Common ( to ): Erythema, morbilliform rash
+Common ( to ): Hallucination, abnormal dreams, nightmare, confusion, agitation, abnormal behaviorUncommon ( to ): AnxietyRare (less than ): Delirium, flashback, dysphoria, insomnia, disorientationFrequency not reported: Psychotic episodes
+Rare (less than ): Cystitis, hemorrhagic cystitis
 Frequency not reported: Liver function test abnormal
-Common (1% to 10%): Anaphylactic reaction
+Common ( to ): Anaphylactic reaction
 Bloody or cloudy urine
 bluish lips or skin
 blurred vision

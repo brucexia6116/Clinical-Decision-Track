@@ -1,6 +1,6 @@
 Hematologic side effects have been the most pronounced.
 These have included methemoglobinemia, aplastic anemia, leukopenia, agranulocytosis, eosinophilia, macrocytic anemia, and Heinz bodies.
-Dapsone may induce a dose-related hemolytic anemia, which is more likely with doses greater than 200 mg/day or in patients with glucose-6-phosphate dehydrogenase (G-6-PD) deficiency.
+Dapsone may induce a dose-related hemolytic anemia, which is more likely with doses greater than  mg/day or in patients with glucose--phosphate dehydrogenase (G--PD) deficiency.
 Leukopenia, megaloblastic pancytopenia, and hemolysis have been reported.
 At least one case of pure red cell aplasia has also been reported, in addition to a case of exanthema with desquamation of the trunk and extremities.
 Agranulocytosis usually occurs during the first few months of therapy and has been fatal.
@@ -8,13 +8,13 @@ In one case report, filgrastim (G-CSF) was used to control the agranulocytosis.
 Dapsone may induce methemoglobinemia, which may be important in patients with underlying respiratory insufficiency, anemia, or cardiovascular disease.
 Patients with methemoglobinemia may show normal oxygen saturation by pulse oximetry and by arterial blood gas (ABG).
 The diagnosis is based on cyanosis, dyspnea (usually only in patients with underlying respiratory insufficiency), elevated methemoglobin level from ABG sampling, and reversal of brown blood to red after addition of cyanide in vitro.
-Methemoglobin levels exceeding 10% may lead to peripheral cyanosis.
-Concentrations greater than 35% often produce symptoms of weakness, headache, or dyspnea, while those greater than 70% may result in fatality.
+Methemoglobin levels exceeding  may lead to peripheral cyanosis.
+Concentrations greater than  often produce symptoms of weakness, headache, or dyspnea, while those greater than  may result in fatality.
 Recent data indicate vitamin E may be protective against dapsone-induced hemolytic anemia and methemoglobinemia, although more studies are needed.
 Aplastic anemia due to dapsone has been reported occasionally.
-The onset of aplastic anemia has ranged from 2 to 12 weeks following initiation of therapy and has been fatal.
-A 75-year-old male with granuloma annulare experienced pure red cell aplasia (PRCA) coincident with dapsone therapy.
-He was given dapsone 100 mg per day.
+The onset of aplastic anemia has ranged from  to  weeks following initiation of therapy and has been fatal.
+A -year-old male with granuloma annulare experienced pure red cell aplasia (PRCA) coincident with dapsone therapy.
+He was given dapsone  mg per day.
 Four weeks after the start of this therapy, the patient presented with asthenia.
 A diagnosis of PRCA was made based off of hematological counts.
 Dapsone was discontinued, and the patient received blood transfusions until his condition improved considerably.
@@ -22,8 +22,8 @@ Hematological counts gradually returned to normal levels.
 Peripheral neuropathy often affects the hands, resulting in thenar, hypothenar, and interosseous muscle atrophy.
 Rare cases of pure sensory loss associated with dapsone-induced peripheral neuropathy have been reported.
 In the treatment of leprosy, peripheral neuropathy may be difficult to distinguish from that of a leprosy reactional state.
-There has also been an isolated case of optic atrophy reported in a patient receiving dapsone 600 mg/day for 10 days.
-Nervous system side effects have included peripheral neuropathy and manifested predominantly as motor deficits, but in up to 40% of cases, also included sensory loss.
+There has also been an isolated case of optic atrophy reported in a patient receiving dapsone  mg/day for  days.
+Nervous system side effects have included peripheral neuropathy and manifested predominantly as motor deficits, but in up to  of cases, also included sensory loss.
 The peripheral neuropathy is reversible upon discontinuation of dapsone.
 Dizziness, vertigo, blurred vision, and headache have also been reported.
 At least one case of paresthesias has also been reported.
@@ -31,21 +31,21 @@ Gastrointestinal side effects have included mild nausea, vomiting, and abdominal
 Hepatic side effects have frequently included elevations in liver function tests, which may occur as part of the dapsone syndrome.
 Rare cases of hepatitis and cholestatic jaundice have been reported.
 Hyperbilirubinemia has also been reported.
-Hyperbilirubinemia may occur more often in patients with glucose-6-phosphate dehydrogenase (G-6-PD) deficiency.
+Hyperbilirubinemia may occur more often in patients with glucose--phosphate dehydrogenase (G--PD) deficiency.
 Respiratory side effects including at least two cases of pulmonary eosinophilia have been reported.
 One patient received pyrimethamine and dapsone, and the other patient received just dapsone.
 Both patients recovered upon drug withdrawal.
 Rare cases of dapsone-induced lupus erythematosus and exacerbations of existing lupus erythematosus have been reported.
 Psychiatric side effects have rarely included depression, psychosis, and hypomania.
-A 39-year-old female with paucibacillary leprosy experienced renal hypersensitivity vasculitis coincident with dapsone therapy.
-She was prescribed dapsone 100 mg per day and rifampicin 600 mg per month.
-After 23 days of treatment, she stopped treatment because of low fever, headache, dizziness, and weakness.
+A -year-old female with paucibacillary leprosy experienced renal hypersensitivity vasculitis coincident with dapsone therapy.
+She was prescribed dapsone  mg per day and rifampicin  mg per month.
+After  days of treatment, she stopped treatment because of low fever, headache, dizziness, and weakness.
 On presentation, in addition to the symptoms described, the patient was toxic with fever, respiratory discomfort, dry cough, jaundice, hepatomegaly, and arterial hypotension.
 She developed edema and pruritus of the face, with a vesicopustular skin rash.
 The skin rash worsened to exfoliative erythroderma, associated with purpura of the lower extremities.
-Severe acute failure and oliguria were observed within 4 days after admission.
-On day 7, kidney histopathologic and immunohistochemical studies illustrated interstitial perivascular lymphocytic infiltrate affecting the media of arched and interlobular arteries, composed of T cells.
-The patient's renal function and dermatological condition normalized 2 months after admission.
+Severe acute failure and oliguria were observed within  days after admission.
+On day , kidney histopathologic and immunohistochemical studies illustrated interstitial perivascular lymphocytic infiltrate affecting the media of arched and interlobular arteries, composed of T cells.
+The patient's renal function and dermatological condition normalized  months after admission.
 Hypersensitivity side effects have been commonly reported, especially in HIV-infected patients.
 Rash has been reported the most frequently.
 Stevens-Johnson syndrome, toxic erythema, erythema multiforme, toxic epidermal necrolysis, and morbilliform and scariatiniform reactions have been reported in a few patients treated with dapsone or other sulfone agents.
@@ -55,16 +55,15 @@ At least one case of renal hypersensitivity vasculitis has also been reported.
 Renal side effects have rarely included nephritic syndrome and renal papillary necrosis.
 Other side effects including the "dapsone syndrome" have been reported.
 The "dapsone syndrome" is manifested by viral illness-like symptoms (fever, chills, myalgias, arthralgias, exanthema, lymphadenopathy, edema, lymphocytosis), hepatomegaly, elevated liver function tests, methemoglobinemia, and anemia.
-Some or all of these signs and symptoms may be present in less than 0.
-5% of patients.
-Dapsone syndrome usually occurs within the first 6 weeks of therapy and may be fatal.
+Some or all of these signs and symptoms may be present in less than  of patients.
+Dapsone syndrome usually occurs within the first  weeks of therapy and may be fatal.
 The dapsone syndrome is neither dose-related nor predictable.
 It is often confused with infectious mononucleosis.
 "Leprosy reactional states" can commonly occur as a result of effective treatment for leprosy.
-They are generally classified into two types:  reversal reactions (type 1) and erythema nodosum leprosum (ENL or type 2).
+They are generally classified into two types:  reversal reactions (type ) and erythema nodosum leprosum (ENL or type ).
 Reversal reactions primarily occur in borderline or tuberculoid leprosy patients soon after the initiation of chemotherapy and consist of fever and swelling of existing skin and nerve lesions.
 Acute neuritis may develop.
-ENL occurs mostly in lepromatous patients (approximately 50% of treated patients within the first year) and a small number of borderline patients.
+ENL occurs mostly in lepromatous patients (approximately  of treated patients within the first year) and a small number of borderline patients.
 Manifestations include fever and tender erythematous skin nodules sometimes associated with malaise, neuritis, orchitis, albuminuria, joint swelling, iritis, epistaxis or depression.
 In addition, skin lesions may become pustular and/or ulcerate.
 Histologically, there is vasculitis with an intense polymorphonuclear infiltrate.
@@ -73,7 +72,7 @@ Patients with severe reactions require hospitalization.
 Therapeutic management for reversal reactions may include administration of analgesics and/or corticosteroids and surgical decompression of swollen nerve trunks.
 Analgesics, corticosteroids, and other agents may be used for ENL reactions.
 For guidance concerning the management of reactional states, the Gillis W.
-Long Hansen's Disease Center in Carville, Louisiana (tel: 800-642-2477) should be contacted.
+Long Hansen's Disease Center in Carville, Louisiana (tel: --) should be contacted.
 Back, leg, or stomach pains
 bluish fingernails, lips, or skin
 difficult breathing

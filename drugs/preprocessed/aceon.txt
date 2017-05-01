@@ -1,46 +1,20 @@
 Common side effects of Aceon include: cough.
 See below for a comprehensive list of adverse effects.
 The most common adverse events were cough, dizziness, and back pain.
-Very common (10% or more): Cough (up to 12%)Common (1% to 10%): Dyspnea, epistaxisUncommon (0.
-1% to 1%): BronchospasmVery rare (less than 0.
-01%): Eosinophilic pneumonia, rhinitis
-Common (1% to 10%): Dizziness, headache, paresthesia, vertigo, tinnitus, dysgeusia, drowsinessUncommon (0.
-1% to 1%): Somnolence, syncopeVery rare (less than 0.
-01%): Stroke
-Common (1% to 10%): Abdominal pain, constipation, diarrhea, dyspepsia, nausea, vomitingUncommon (0.
-1% to 1%): Dry mouthVery rare (less than 0.
-01%): PancreatitisPostmarketing reports: Acute pancreatitis
-Common (1% to 10%): Hypotension, palpitations, vasculitis, flushing, impaired peripheral circulationUncommon (0.
-1% to 1%): TachycardiaRare (0.
-01% to 0.
-1%): Sudden cardiac arrestVery rare (less than 0.
-01%): Angina pectoris, arrhythmia, myocardial infarction
-Common (1% to 10%): Pruritus, rashUncommon (0.
-1% to 1%): Urticaria, angioedema, photosensitivity reactions, pemphigoid, hyperhidrosis, eczema, sweatingVery rare (less than 0.
-01%): Erythema multiformePostmarketing reports: Bullous pemphigoid, pemphigus, psoriasis, exfoliative dermatitis
-Common (1% to 10%): Asthenia, discomfort on exertionUncommon (0.
-1% to 1%): Chest pain, malaise, edema peripheral, pyrexia, fall, atypical chest painPostmarketing reports: Serositis
-Common (1% to 10%): Muscle cramps, back painUncommon (0.
-1% to 1%): Arthralgia, myalgia
-Common (1% to 10%): ALT increasedUncommon (0.
-1% to 1%): AST increasedRare (0.
-01% to 0.
-1%): Blood bilirubin increased, hepatic enzyme increasedVery rare (less than 0.
-01%): HepatitisPostmarketing reports: Hepatic failure, jaundice
-Common (1% to 10%): Visual disturbances
-Uncommon (0.
-1% to 1%): Renal insufficiency, blood urea increased, blood creatinine increasedVery rare (less than 0.
-01%): Acute renal failurePostmarketing reports: Nephritis
-Uncommon (0.
-1% to 1%): Hypoglycemia, hyperkalemia, hyponatremiaPostmarketing reports: Symptomatic hyponatremia
-Uncommon (0.
-1% to 1%): Eosinophilia, leukopenia/neutropeniaVery rare (less than 0.
-01%): Agranulocytosis or pancytopenia, hemoglobin decreased and hematocrit decreased, hemolytic anemia in patients with a congenital deficiency of glucose-6-phosphate dehydrogenase, thrombocytopenia, unexplained change in prothrombin ratioPostmarketing reports: Anemia, leukocytosis, elevated erythrocyte sedimentation rate
-Uncommon (0.
-1% to 1%): Mood disturbances, sleep disorderVery rare (less than 0.
-01%): Confusion, depression, hallucinations
-Uncommon (0.
-1% to 1%): Erectile dysfunction
+Very common ( or more): Cough (up to )Common ( to ): Dyspnea, epistaxisUncommon ( to ): BronchospasmVery rare (less than ): Eosinophilic pneumonia, rhinitis
+Common ( to ): Dizziness, headache, paresthesia, vertigo, tinnitus, dysgeusia, drowsinessUncommon ( to ): Somnolence, syncopeVery rare (less than ): Stroke
+Common ( to ): Abdominal pain, constipation, diarrhea, dyspepsia, nausea, vomitingUncommon ( to ): Dry mouthVery rare (less than ): PancreatitisPostmarketing reports: Acute pancreatitis
+Common ( to ): Hypotension, palpitations, vasculitis, flushing, impaired peripheral circulationUncommon ( to ): TachycardiaRare ( to ): Sudden cardiac arrestVery rare (less than ): Angina pectoris, arrhythmia, myocardial infarction
+Common ( to ): Pruritus, rashUncommon ( to ): Urticaria, angioedema, photosensitivity reactions, pemphigoid, hyperhidrosis, eczema, sweatingVery rare (less than ): Erythema multiformePostmarketing reports: Bullous pemphigoid, pemphigus, psoriasis, exfoliative dermatitis
+Common ( to ): Asthenia, discomfort on exertionUncommon ( to ): Chest pain, malaise, edema peripheral, pyrexia, fall, atypical chest painPostmarketing reports: Serositis
+Common ( to ): Muscle cramps, back painUncommon ( to ): Arthralgia, myalgia
+Common ( to ): ALT increasedUncommon ( to ): AST increasedRare ( to ): Blood bilirubin increased, hepatic enzyme increasedVery rare (less than ): HepatitisPostmarketing reports: Hepatic failure, jaundice
+Common ( to ): Visual disturbances
+Uncommon ( to ): Renal insufficiency, blood urea increased, blood creatinine increasedVery rare (less than ): Acute renal failurePostmarketing reports: Nephritis
+Uncommon ( to ): Hypoglycemia, hyperkalemia, hyponatremiaPostmarketing reports: Symptomatic hyponatremia
+Uncommon ( to ): Eosinophilia, leukopenia/neutropeniaVery rare (less than ): Agranulocytosis or pancytopenia, hemoglobin decreased and hematocrit decreased, hemolytic anemia in patients with a congenital deficiency of glucose--phosphate dehydrogenase, thrombocytopenia, unexplained change in prothrombin ratioPostmarketing reports: Anemia, leukocytosis, elevated erythrocyte sedimentation rate
+Uncommon ( to ): Mood disturbances, sleep disorderVery rare (less than ): Confusion, depression, hallucinations
+Uncommon ( to ): Erectile dysfunction
 Postmarketing reports: Positive antinuclear antibody
 Body aches or pain
 chills

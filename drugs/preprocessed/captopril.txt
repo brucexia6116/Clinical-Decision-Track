@@ -1,54 +1,21 @@
 More frequently reported side effects include: cough and skin rash.
 See below for a comprehensive list of adverse effects.
 The most common side effect is rash.
-Very common (10% or more): Rash (up to 13.
-1%)Common (1% to 10%): Pruritus, alopeciaUncommon (0.
-1% to 1%): AngioedemaVery rare (less than 0.
-01%): Urticaria, Stevens-Johnson syndrome, erythema multiforme, photosensitivity, erythroderma, pemphigoid reactions, exfoliative dermatitis
-Common (1% to 10%): Nausea, vomiting, abdominal pain, dry mouth, diarrhea, constipation, gastric irritationRare (0.
-01% to 0.
-1%): Stomatitis/aphthous ulceration, mouth ulcers, intestinal angioedemaVery rare (less than 0.
-01%): Glossitis, peptic ulcer, pancreatitis
-Common (1% to 10%): Dizziness, taste impairment, loss of tasteRare (0.
-01% to 0.
-1%): Paresthesia, headache, drowsinessVery rare (less than 0.
-01%): Cerebrovascular incidentsFrequency not reported: Syncope, ataxia, somnolence
-Common (1% to 10%): Cough, dyspneaRare (0.
-01% to 0.
-1%): BronchospasmVery rare (less than 0.
-01%): Rhinitis, allergic alveolitis/eosinophilic pneumonia
-Common (1% to 10%): HypotensionUncommon (0.
-1% to 1%): Tachycardia or tachyarrhythmia, angina pectoris, palpitations, Raynaud's syndrome, flushing, pallor, myocardial infarction, congestive heart failureVery rare (less than 0.
-01%): Cardiac arrest, cardiogenic shockFrequency not reported: Rhythm disturbances, orthostatic hypotension
-Common (1% to 10%): ProteinuriaUncommon (0.
-1% to 1%): Polyuria, oliguria, urinary frequencyRare (less than 0.
-1%): Impotence
-Common (1% to 10%): Sleep disorderRare (0.
-01% to 0.
-1%): Loss of libidoVery rare (less than 0.
-01%): Confusion, depressionFrequency not reported: Nervousness
-Uncommon (0.
-1% to 1%): Chest pain, fatigue, malaiseVery rare (less than 0.
-01%): Gynecomastia, feverFrequency not reported: Asthenia, alkaline phosphatase elevated
-Uncommon (0.
-1% to 1%): Renal insufficiency, acute renal failure, nephrotic syndromeVery rare (less than 0.
-01%): BUN elevated, serum creatinine elevatedFrequency not reported: Glomerulopathy
-Rare (0.
-01% to 0.
-1%): Anorexia, weight loss, loss of appetiteVery rare (less than 0.
-01%): Hyperkalemia, hypoglycemia, serum potassium increased, serum sodium decreasedFrequency not reported: Hyponatremia
-Rare (0.
-01% to 0.
-1%): Disturbed vision, dry eye, itchy eyeVery rare (less than 0.
-01%): Blurred vision
-Very rare (less than 0.
-01%): Neutropenia/agranulocytosis, pancytopenia, anemia, thrombocytopenia, lymphadenopathy, eosinophilia, hemoglobin decreased, hematocrit decreased, leukocytes decreased, thrombocytes decreased, erythrocyte sedimentation rate elevated
-Very rare (less than 0.
-01%): Liver enzymes elevated, bilirubin elevated, impaired hepatic function, cholestasis, hepatitisFrequency not reported: Jaundice
-Very rare (less than 0.
-01%): Autoimmune disease, positive antinuclear antibody titerFrequency not reported: Serum sickness-like syndrome, anaphylactoid reactions
-Very rare (less than 0.
-01%): Myalgia, arthralgiaFrequency not reported: Myasthenia
+Very common ( or more): Rash (up to )Common ( to ): Pruritus, alopeciaUncommon ( to ): AngioedemaVery rare (less than ): Urticaria, Stevens-Johnson syndrome, erythema multiforme, photosensitivity, erythroderma, pemphigoid reactions, exfoliative dermatitis
+Common ( to ): Nausea, vomiting, abdominal pain, dry mouth, diarrhea, constipation, gastric irritationRare ( to ): Stomatitis/aphthous ulceration, mouth ulcers, intestinal angioedemaVery rare (less than ): Glossitis, peptic ulcer, pancreatitis
+Common ( to ): Dizziness, taste impairment, loss of tasteRare ( to ): Paresthesia, headache, drowsinessVery rare (less than ): Cerebrovascular incidentsFrequency not reported: Syncope, ataxia, somnolence
+Common ( to ): Cough, dyspneaRare ( to ): BronchospasmVery rare (less than ): Rhinitis, allergic alveolitis/eosinophilic pneumonia
+Common ( to ): HypotensionUncommon ( to ): Tachycardia or tachyarrhythmia, angina pectoris, palpitations, Raynaud's syndrome, flushing, pallor, myocardial infarction, congestive heart failureVery rare (less than ): Cardiac arrest, cardiogenic shockFrequency not reported: Rhythm disturbances, orthostatic hypotension
+Common ( to ): ProteinuriaUncommon ( to ): Polyuria, oliguria, urinary frequencyRare (less than ): Impotence
+Common ( to ): Sleep disorderRare ( to ): Loss of libidoVery rare (less than ): Confusion, depressionFrequency not reported: Nervousness
+Uncommon ( to ): Chest pain, fatigue, malaiseVery rare (less than ): Gynecomastia, feverFrequency not reported: Asthenia, alkaline phosphatase elevated
+Uncommon ( to ): Renal insufficiency, acute renal failure, nephrotic syndromeVery rare (less than ): BUN elevated, serum creatinine elevatedFrequency not reported: Glomerulopathy
+Rare ( to ): Anorexia, weight loss, loss of appetiteVery rare (less than ): Hyperkalemia, hypoglycemia, serum potassium increased, serum sodium decreasedFrequency not reported: Hyponatremia
+Rare ( to ): Disturbed vision, dry eye, itchy eyeVery rare (less than ): Blurred vision
+Very rare (less than ): Neutropenia/agranulocytosis, pancytopenia, anemia, thrombocytopenia, lymphadenopathy, eosinophilia, hemoglobin decreased, hematocrit decreased, leukocytes decreased, thrombocytes decreased, erythrocyte sedimentation rate elevated
+Very rare (less than ): Liver enzymes elevated, bilirubin elevated, impaired hepatic function, cholestasis, hepatitisFrequency not reported: Jaundice
+Very rare (less than ): Autoimmune disease, positive antinuclear antibody titerFrequency not reported: Serum sickness-like syndrome, anaphylactoid reactions
+Very rare (less than ): Myalgia, arthralgiaFrequency not reported: Myasthenia
 Chest pain
 cloudy urine
 fast, pounding, or irregular heartbeat or pulse

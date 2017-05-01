@@ -1,5 +1,4 @@
 As well as its needed effects, aspirin / caffeine / dihydrocodeine may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking aspirin / caffeine / dihydrocodeine, check with your doctor immediately:
 If any of the following symptoms of overdose occur while taking aspirin / caffeine / dihydrocodeine, get emergency help immediately:
 Some aspirin / caffeine / dihydrocodeine side effects may not need any medical attention.
@@ -16,12 +15,10 @@ Opioids: Frequency not reported: Adrenal insufficiency, androgen deficiency
 Chronic opioid use may influence the hypothalamic-pituitary-gonadal axis and lead to androgen deficiency; however, the causal role of opioids is unknown due to the lack of studies into the many medical, physical, lifestyle, and psychological stressors that influence gonadal hormone levels.
 Dihydrocodeine: Frequency not reported: Urinary retention
 Dihydrocodeine: Frequency not reported: Anorexia
-Dihydrocodeine: Rare (less than 0.
-1%): NarcosisFrequency not reported: Lightheadedness, dizziness, drowsiness, sedation, headacheCaffeine: Frequency not reported: Headaches, lightheadedness, tremorOpioids: Frequency not reported: Serotonin syndrome
+Dihydrocodeine: Rare (less than ): NarcosisFrequency not reported: Lightheadedness, dizziness, drowsiness, sedation, headacheCaffeine: Frequency not reported: Headaches, lightheadedness, tremorOpioids: Frequency not reported: Serotonin syndrome
 Dihydrocodeine: Frequency not reported: Miosis  Caffeine: Frequency not reported: Scintillating scotoma
 Dihydrocodeine: Frequency not reported: Fatigue Caffeine: Frequency not reported: Tinnitus
-Dihydrocodeine:Rare (less than 0.
-1%): Acute renal failureFrequency not reported: Granulomatous interstitial nephritisCaffeine: Frequency not reported: Diuresis
+Dihydrocodeine:Rare (less than ): Acute renal failureFrequency not reported: Granulomatous interstitial nephritisCaffeine: Frequency not reported: Diuresis
 It is possible that some side effects of Synalgos-DC may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

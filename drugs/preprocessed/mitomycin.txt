@@ -8,15 +8,13 @@ After you stop taking this drug, it is possible that you may still experience si
 If you notice any of the following side effects check with your doctor immediately:
 Also, check with your doctor if you notice any of the following:
 Recovery from thrombocytopenia has generally been reported to take place within ten weeks.
-Approximately 25% of leukopenic or thrombocytopenic episodes have been reported to have not recovered.
-Hematologic side effects including bone marrow toxicity (64.
-4%) have been the most common and most serious toxicity associated with the use of mitomycin.
+Approximately  of leukopenic or thrombocytopenic episodes have been reported to have not recovered.
+Hematologic side effects including bone marrow toxicity  have been the most common and most serious toxicity associated with the use of mitomycin.
 Thrombocytopenia and/or leukopenia have been reported to occur anytime within eight weeks of initiation of therapy.
 Mitomycin produces cumulative myelosuppression.
-HUS has been reported to occur most often at doses greater than or equal to 60 mg.
-HUS consists primarily of microangiopathic hemolytic anemia (hematocrit less than or equal to 25%), thrombocytopenia (platelet count less than or equal to 100,000/mm3), and irreversible renal failure (serum creatinine greater than or equal to 1.
-6 mg/dL).
-A 52% mortality rate has been associated with this syndrome.
+HUS has been reported to occur most often at doses greater than or equal to  mg.
+HUS consists primarily of microangiopathic hemolytic anemia (hematocrit less than or equal to ), thrombocytopenia (platelet count less than or equal to ,/mm), and irreversible renal failure (serum creatinine greater than or equal to  mg/dL).
+A  mortality rate has been associated with this syndrome.
 Other side effects have included hemolytic uremic syndrome (HUS).
 Extravasation has been reported even without an accompanying stinging or burning sensation and even if their is adequate blood return when the injection needle is aspirated.
 Dermatologic side effects have included the necrosis and consequent sloughing of tissue which results if the drug is extravasated during injection.
@@ -29,10 +27,10 @@ Respiratory side effects have been reported infrequently.
 However, they may be severe and even life threatening.
 Adult respiratory distress syndrome has been reported.
 Dyspnea with a nonproductive cough and radiographic evidence of pulmonary infiltrates may be indicative of mitomycin-induced pulmonary toxicity.
-Adult respiratory distress syndrome has been reported in a few patients receiving mitomycin in combination with other chemotherapy and maintained at fraction of inspired oxygen concentrations greater than 50% perioperatively.
+Adult respiratory distress syndrome has been reported in a few patients receiving mitomycin in combination with other chemotherapy and maintained at fraction of inspired oxygen concentrations greater than  perioperatively.
 Because oxygen itself is toxic to the lungs, it is recommended to use only enough oxygen to provide adequate arterial saturation.
 No correlation between the total dose administered or duration of therapy and the degree of renal impairment has been reported.
-Renal side effects including a statistically significant rise in creatinine (2%) have been reported.
+Renal side effects including a statistically significant rise in creatinine  have been reported.
 Cardiovascular side effects including congestive heart failure have rarely been reported.
 Edema and thrombophlebitis have also been reported.
 Almost all of the patients who experience congestive heart failure had received prior doxorubicin therapy.

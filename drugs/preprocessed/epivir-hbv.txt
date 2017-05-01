@@ -1,72 +1,41 @@
 The most common side effects reported with this drug have included headache, nausea, malaise, fatigue, nasal signs and symptoms, respiratory tract infections, throat and tonsil discomfort, abdominal discomfort and pain, vomiting, diarrhea, and cough.
-During clinical studies in HIV-1-infected patients, this drug was used with zidovudine (with or without other antiretroviral agents).
+During clinical studies in HIV--infected patients, this drug was used with zidovudine (with or without other antiretroviral agents).
 Patients with hepatitis B virus (HBV) infection received lamivudine (the active ingredient contained in Epivir-HBV) monotherapy.
-Increased serum lipase (at least 2.
-5 times the upper limit of normal [2.
-5 x ULN]) and amylase (greater than 2 x ULN) have been reported in 10% and up to 4.
-2% of patients, respectively.
-Amylase increases greater than 3 x ULN have also been reported.
-Pancreatitis has been reported infrequently in adults, but has been more common in pediatric patients (up to 18% in 2 limited studies).
+Increased serum lipase (at least  times the upper limit of normal [ x ULN]) and amylase (greater than  x ULN) have been reported in  and up to  of patients, respectively.
+Amylase increases greater than  x ULN have also been reported.
+Pancreatitis has been reported infrequently in adults, but has been more common in pediatric patients (up to  in  limited studies).
 Pancreatitis has also been reported during postmarketing experience.
-Very common (10% or more): Nausea (up to 42%), diarrhea (up to 18%), vomiting (up to 15%), nausea and vomiting (up to 13%), abdominal discomfort and pain (up to 11.
-3%)Common (1% to 10%): Abdominal pain, increased serum lipase, dyspeptic symptoms, abdominal cramps, taste disorders, abdominal discomfort, dyspepsia, increased amylase, upper abdominal pain, fungal gastrointestinal (GI) infection, GI discomfort and pain, gaseous symptomsUncommon (0.
-1% to 1%): PancreatitisRare (0.
-01% to 0.
-1%): Abnormal pancreatic enzymesFrequency not reported: Oral ulcerations, lesionsPostmarketing reports: Stomatitis
-Very common (10% or more): Headache (up to 35.
-1%), dizziness (up to 35%), neuropathy (12.
-4%)Common (1% to 10%): Hypnagogic effects, peripheral paresthesiaUncommon (0.
-1% to 1%): Paresthesia, hypoesthesiaVery rare (less than 0.
-01%): Peripheral neuropathy
+Very common ( or more): Nausea (up to ), diarrhea (up to ), vomiting (up to ), nausea and vomiting (up to ), abdominal discomfort and pain (up to )Common ( to ): Abdominal pain, increased serum lipase, dyspeptic symptoms, abdominal cramps, taste disorders, abdominal discomfort, dyspepsia, increased amylase, upper abdominal pain, fungal gastrointestinal (GI) infection, GI discomfort and pain, gaseous symptomsUncommon ( to ): PancreatitisRare ( to ): Abnormal pancreatic enzymesFrequency not reported: Oral ulcerations, lesionsPostmarketing reports: Stomatitis
+Very common ( or more): Headache (up to ), dizziness (up to ), neuropathy Common ( to ): Hypnagogic effects, peripheral paresthesiaUncommon ( to ): Paresthesia, hypoesthesiaVery rare (less than ): Peripheral neuropathy
 Peripheral neuropathy and paresthesia have also been reported during postmarketing experience.
-Very common (10% or more): Fatigue (up to 29%); malaise and fatigue (up to 27%); ear, nose, and throat infections (up to 25%)Common (1% to 10%): Fever/chills; fever; malaise; viral ear, nose, and throat infection; viral infectionPostmarketing reports: WeaknessAntiretroviral therapy:-Frequency not reported: Increased weight
-Very common (10% or more): Posttreatment ALT elevations (up to 27%), ALT elevationsCommon (1% to 10%): Increased liver function tests, elevated AST, elevated ALT, abnormal liver function testsUncommon (0.
-1% to 1%): Elevated bilirubin, transient elevations in liver enzymes (AST, ALT)Rare (0.
-01% to 0.
-1%): HepatitisFrequency not reported: Severe hepatomegaly with steatosis, hepatic decompensation, exacerbations of hepatitis/recurrent hepatitisPostmarketing reports: Hepatic steatosis, posttreatment exacerbation of hepatitis B
-In HBV patients monitored for up to 16 weeks after discontinuing therapy, posttreatment ALT elevations occurred more often in those who had taken the HBV-specific product than subjects who had taken placebo.
-Elevated AST (greater than 5 x ULN), ALT (greater than 5 x ULN), and bilirubin (greater than 2.
-5 x ULN) have been reported in up to 4%, up to 3.
-8%, and up to 0.
-8% of patients, respectively.
-ALT increases greater than 3 x ULN have also been reported.
+Very common ( or more): Fatigue (up to ); malaise and fatigue (up to ); ear, nose, and throat infections (up to )Common ( to ): Fever/chills; fever; malaise; viral ear, nose, and throat infection; viral infectionPostmarketing reports: WeaknessAntiretroviral therapy:-Frequency not reported: Increased weight
+Very common ( or more): Posttreatment ALT elevations (up to ), ALT elevationsCommon ( to ): Increased liver function tests, elevated AST, elevated ALT, abnormal liver function testsUncommon ( to ): Elevated bilirubin, transient elevations in liver enzymes (AST, ALT)Rare ( to ): HepatitisFrequency not reported: Severe hepatomegaly with steatosis, hepatic decompensation, exacerbations of hepatitis/recurrent hepatitisPostmarketing reports: Hepatic steatosis, posttreatment exacerbation of hepatitis B
+In HBV patients monitored for up to  weeks after discontinuing therapy, posttreatment ALT elevations occurred more often in those who had taken the HBV-specific product than subjects who had taken placebo.
+Elevated AST (greater than  x ULN), ALT (greater than  x ULN), and bilirubin (greater than  x ULN) have been reported in up to , up to , and up to  of patients, respectively.
+ALT increases greater than  x ULN have also been reported.
 Exacerbations of hepatitis (primarily detected by serum ALT elevations) have been reported during HBV therapy and after drug discontinuation.
 Most events were self-limited; however, fatalities were reported in some cases.
 Lactic acidosis and severe hepatomegaly with steatosis (including fatal cases) have been reported with the use of nucleoside analogs.
-Hepatic decompensation (some fatal) has been reported in patients coinfected with HIV-1 and hepatitis C receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin.
-Severe acute exacerbations of hepatitis B (including fatalities) have been reported in HBV-infected patients (including those coinfected with HIV-1) who have discontinued this drug.
+Hepatic decompensation (some fatal) has been reported in patients coinfected with HIV- and hepatitis C receiving combination antiretroviral therapy for HIV- and interferon alfa with or without ribavirin.
+Severe acute exacerbations of hepatitis B (including fatalities) have been reported in HBV-infected patients (including those coinfected with HIV-) who have discontinued this drug.
 The causal relationship to stopping therapy was unknown.
-Very common (10% or more): Dreams (up to 26%), sleep disorders (up to 16%), insomnia and other sleep disorders (11%), mood disorders (up to 11%)Common (1% to 10%): Depressive disorders, anxiety
+Very common ( or more): Dreams (up to ), sleep disorders (up to ), insomnia and other sleep disorders , mood disorders (up to )Common ( to ): Depressive disorders, anxiety
 Rash, pruritus, and alopecia have also been reported during postmarketing experience.
-Very common (10% or more): Rash (up to 23%)Common (1% to 10%): Alopecia, pruritus, sweating, fungal skin infections, acne and folliculitis, viral skin infectionRare (0.
-01% to 0.
-1%): AngioedemaFrequency not reported: Paronychia, periungual pyogenic granulomataPostmarketing reports: Urticaria
-Very common (10% or more): Nasal signs and symptoms (20%), cough (up to 18%), viral respiratory infections (up to 15%), sore throat (13%), throat and tonsil discomfort and pain (up to 11.
-6%)Common (1% to 10%): Bronchitis, sinus disorders, sinusitis, throat signs and symptoms, upper respiratory inflammation, breathing disordersFrequency not reported: Respiratory tract infections, throat and tonsil discomfortPostmarketing reports: Abnormal breath sounds/wheezing
-Very common (10% or more): Decreased absolute neutrophil count (up to 15%)Common (1% to 10%): Lymphatic signs and symptoms, neutropenia, decreased white cells, anemia, decreased platelets, decreased hemoglobinUncommon (0.
-1% to 1%): ThrombocytopeniaVery rare (less than 0.
-01%): Pure red cell aplasiaPostmarketing reports: Severe anemias progressing on therapy, lymphadenopathy, splenomegaly
-Decreased absolute neutrophil count (less than 750/mm3), platelets (less than 50,000/mm3), and hemoglobin (less than 8 g/dL) have been reported in up to 15%, up to 4%, and up to 2.
-9% of patients, respectively.
+Very common ( or more): Rash (up to )Common ( to ): Alopecia, pruritus, sweating, fungal skin infections, acne and folliculitis, viral skin infectionRare ( to ): AngioedemaFrequency not reported: Paronychia, periungual pyogenic granulomataPostmarketing reports: Urticaria
+Very common ( or more): Nasal signs and symptoms , cough (up to ), viral respiratory infections (up to ), sore throat , throat and tonsil discomfort and pain (up to )Common ( to ): Bronchitis, sinus disorders, sinusitis, throat signs and symptoms, upper respiratory inflammation, breathing disordersFrequency not reported: Respiratory tract infections, throat and tonsil discomfortPostmarketing reports: Abnormal breath sounds/wheezing
+Very common ( or more): Decreased absolute neutrophil count (up to )Common ( to ): Lymphatic signs and symptoms, neutropenia, decreased white cells, anemia, decreased platelets, decreased hemoglobinUncommon ( to ): ThrombocytopeniaVery rare (less than ): Pure red cell aplasiaPostmarketing reports: Severe anemias progressing on therapy, lymphadenopathy, splenomegaly
+Decreased absolute neutrophil count (less than /mm), platelets (less than ,/mm), and hemoglobin (less than  g/dL) have been reported in up to , up to , and up to  of patients, respectively.
 Severe neutropenia and severe anemia have been reported infrequently.
 Anemia (including pure red cell aplasia) and thrombocytopenia have also been reported during postmarketing experience.
-Elevated CPK (at least 7 x baseline) has been reported in 9% of patients.
+Elevated CPK (at least  x baseline) has been reported in  of patients.
 Elevated CPK, rhabdomyolysis, and muscle disorders (including myalgia and cramps) have also been reported during postmarketing experience.
-Very common (10% or more): Musculoskeletal pain (up to 13.
-5%)Common (1% to 10%): Elevated creatine phosphokinase (CPK), myalgia, arthralgia, muscle disorders, crampsRare (0.
-01% to 0.
-1%): RhabdomyolysisFrequency not reported: OsteonecrosisPostmarketing reports: Muscle weakness
-Very common (10% or more): Anorexia (up to 12%)Common (1% to 10%): Anorexia and/or decreased appetite, hypertriglyceridemia, hyperamylasemia, hyperlactatemia, abnormal enzyme levelsUncommon (0.
-1% to 1%): Eating problems, disorders of thirst/fluid intakeRare (0.
-01% to 0.
-1%): Lactic acidosisPostmarketing reports: Hyperglycemia, redistribution/accumulation of body fatAntiretroviral therapy:-Frequency not reported: Redistribution/accumulation of body fat (including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, "cushingoid appearance"), increased blood lipid levels, increased glucose levels
+Very common ( or more): Musculoskeletal pain (up to )Common ( to ): Elevated creatine phosphokinase (CPK), myalgia, arthralgia, muscle disorders, crampsRare ( to ): RhabdomyolysisFrequency not reported: OsteonecrosisPostmarketing reports: Muscle weakness
+Very common ( or more): Anorexia (up to )Common ( to ): Anorexia and/or decreased appetite, hypertriglyceridemia, hyperamylasemia, hyperlactatemia, abnormal enzyme levelsUncommon ( to ): Eating problems, disorders of thirst/fluid intakeRare ( to ): Lactic acidosisPostmarketing reports: Hyperglycemia, redistribution/accumulation of body fatAntiretroviral therapy:-Frequency not reported: Redistribution/accumulation of body fat (including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, "cushingoid appearance"), increased blood lipid levels, increased glucose levels
 Lactic acidosis and severe hepatomegaly with steatosis (including fatal cases) have been reported with the use of nucleoside analogs.
 Redistribution/accumulation of body fat has been reported with antiretroviral therapy; causality has not been established.
 Frequency not reported: Anaphylactoid reactionPostmarketing reports: Anaphylaxis
-Frequency not reported: Immune reconstitution/reactivation syndrome, autoimmune disorders in the setting of immune reconstitution (e.
-g.
-, Graves' disease, polymyositis, Guillain-Barre syndrome)
-Frequency not reported: Fanconi syndrome (at least 1 case)
+Frequency not reported: Immune reconstitution/reactivation syndrome, autoimmune disorders in the setting of immune reconstitution (, Graves' disease, polymyositis, Guillain-Barre syndrome)
+Frequency not reported: Fanconi syndrome (at least  case)
 Frequency not reported: Eye redness
 Abdominal or stomach discomfort
 black, tarry stools

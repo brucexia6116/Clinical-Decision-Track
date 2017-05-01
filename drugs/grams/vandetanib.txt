@@ -1,0 +1,403 @@
+reported side effects of vandetanib
+exfoliative dermatitis
+hypertensive crisis
+upper respiratory tract infection
+abdominal distress
+abdominal pain
+acne vulgaris
+bullous dermatitis
+colitis
+serum calcium
+serum glucose
+depression
+dermatitis
+diarrhea
+dyspepsia
+eczema
+erythematous rash
+headache
+hypertension
+hypocalcemia
+serum alanine aminotransferase
+serum creatinine
+lower abdominal pain
+macular eruption
+maculopapular rash
+nausea
+papular rash
+prolonged qt interval on ecg
+proteinuria
+pruritic rash
+pruritus
+skin rash
+upper abdominal pain
+skin photosensitivity
+vomiting
+erythema
+xeroderma
+other side effects
+hypothyroidism
+xerostomia
+comprehensive list of adverse effects
+needed effects
+vandetanib
+unwanted side effects
+medical attention
+following side effects
+taking vandetanib
+check
+doctor
+vandetanib side effects
+medical attention
+body
+medicine
+side effects
+health care professional
+side effects
+following side effects
+reported adverse effects
+decreasing order of frequency
+diarrhea/colitis
+rash
+acneiform dermatitis
+hypertension
+nausea
+headache
+upper respiratory tract infections
+appetite
+abdominal pain
+clinical trials
+treatment discontinuation
+adverse reactions
+patients
+events
+discontinuation
+asthenia
+rash
+diarrhea
+fatigue
+pyrexia
+elevated creatinine
+qt prolongation
+hypertension
+dose interruption
+patients
+dose reduction
+common terminology criteria for adverse events
+ctcae
+grade
+hypertension/hypertensive crisis/accelerated hypertension
+patients
+ctcae grade
+qt prolongation
+patients
+patients
+qt prolongation
+qt interval fridericia
+qtcf
+milliseconds
+msec
+having
+qtcf
+msec
+pharmacodynamics study in patients with medullary thyroid cancer
+receiving vandetanib mg
+mean change in qtcf
+mean change in qtcf
+msec for the duration of the trial
+years
+change in qtcf
+msec
+patients experience
+patients
+qtcf
+msec
+hypertension/hypertensive crisis/accelerated hypertension
+ecg qt
+heart failure
+arrhythmia
+atrial fibrillation
+bradycardia
+pericarditis
+chest pain
+cardiac arrestfrequency
+ventricular tachycardia
+rash
+dermatitis acneiform/acne
+dry skin
+photosensitivity reaction
+pruritus
+abnormalities
+alopeciauncommon
+skin ulcerfrequency
+stevens-johnson syndrome
+erythema multiforme
+types of rash
+rash
+rash
+dermatitis
+bullous dermatitis
+generalized erythema
+eczema
+ctcae grade
+rash
+dermatitis/acneiform/acne
+photosensitivity reaction
+pruritus
+patients
+abnormalities
+nail disorder
+nail bed inflammation
+nail bed tenderness
+paronychia
+nail bed infection
+nail infection
+ctcae grade
+diarrhea/colitis
+nausea
+abdominal pain
+vomiting
+diarrhea/colitis
+nausea
+abdominal pain
+vomiting
+dyspepsia
+dry mouthuncommon
+pancreatitis
+intestinal perforation
+dysphagia
+gastrointestinal hemorrhage
+colitis
+gastritis
+ileus
+peritonitis
+proteinuria common
+urinary tract infectionuncommon
+calculus ureteric
+bleeding
+neutropenia
+thrombocytopenia
+patients
+ctcae grade
+neutropenia
+bleeding events
+grade
+events
+alt
+cholecystitis
+cholelithiasis
+alt increase
+ctcae grade
+patients
+hypocalcemia
+hypoglycemia
+appetite
+hypomagnesemia
+hypokalemia
+hypercalcemia
+hyperglycemia
+dehydration
+hyponatremia
+weight loss
+hypokalemia
+ctcae grade
+hypocalcemia
+appetite
+hypomagnesemia
+% of patients
+muscle spasms
+headache
+paresthesia
+dizzinesscommon
+dysgeusia
+tremor
+lethargy
+loss of consciousness
+balance disorderuncommon
+convulsion
+clonus
+brain edemafrequency
+reversible posterior leukoencephalopathy syndrome
+ocular abnormalities
+corneal edema
+corneal opacity
+corneal dystrophy
+corneal pigmentation
+keratopathy
+arcus lipoides
+corneal deposits
+acquired corneal dystrophy
+slit lamp examination of vandetanib-treated patients
+vortex keratopathy
+corneal abnormalities
+blurred visionuncommon
+glaucoma
+ctcae grade
+fatigue
+patients
+fatigue
+asthenia common
+pyrexia
+ctcae grade
+depression
+patients
+insomnia
+depression
+anxiety
+bipolar disorder
+increased creatinine
+pyelonephritisuncommon
+nephrolithiasis
+anuria
+renal colic
+renal failure
+tubulointerstitial nephritis
+upper
+respiratory tract infections
+cough
+pneumonia
+epistaxisuncommon
+pneumonitis
+hemoptysis
+bronchospasm
+chylothorax
+dyspnea
+respiratory arrest
+respiratory failure
+thyroid stimulating hormone
+tsh
+elevation
+hypothyroidism
+side effects of vandetanib
+fda
+healthcare professional for medical advice
+stomach cramps
+pain
+bleeding gums
+blurred vision
+body aches
+pain
+chest pain
+cloudy urine
+confusion
+convulsions
+cough
+coughing up blood
+difficulty with breathing
+swallowing
+dizziness
+ear congestion
+fainting
+fever or chills
+headache
+increased menstrual flow
+vaginal bleeding
+irregular heartbeat recurrent
+loss of voice
+muscle cramps in the hands
+arms
+feet
+legs
+face
+nervousness
+nosebleeds
+numbness
+tingling around the mouth
+fingertips
+feet
+paralysis
+pounding in the ears
+prolonged bleeding from cuts
+tarry stools
+dark brown urine
+fast heartbeat
+sneezing
+sore throat
+runny nose
+tenderness
+tightness in the chest
+tremor
+troubled breathing
+unusual tiredness
+weakness
+bloody diarrhea
+blue lips
+fingernails
+skin
+chest pain
+discomfort
+dilated neck veins
+extreme fatigue
+foreign substance into the lungs
+infection from breathing
+irregular breathing
+irregular heartbeat
+shallow breathing
+lightheadedness
+no breathing
+swelling of the face
+fingers
+feet
+lower legs
+weight gain
+bloating
+constipation
+darkened urine
+decreased urine output
+indigestion
+loss of appetite
+nausea
+pains in the stomach
+side
+abdomen
+radiating
+back
+yellow eyes
+skin
+acid
+sour stomach
+belching
+blemishes on the skin
+blindness
+blistering
+crusting
+irritation
+itching
+reddening of the skin
+change in taste
+scaly skin
+cracks in the skin
+decreased appetite
+decreased vision
+decreased weight
+depression
+discoloration of the fingernails
+toenails
+dry mouth
+dry skin
+hair loss
+thinning of the hair
+heartburn
+increased sensitivity of the skin
+sunlight
+itching skin
+lack
+loss of strength
+loosening of the fingernails
+loss of heat from the body
+loss of taste
+muscle aches
+spasms
+pimples
+rash with flat lesions
+small raised lesions on the skin
+red, swollen skin
+redness
+other discoloration of the skin
+redness
+soreness around the fingernails
+severe sunburn
+stomach discomfort
+upset
+swelling
+trouble sleeping

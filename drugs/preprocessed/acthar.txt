@@ -1,14 +1,14 @@
-Very Common (10% or more): HypertensionCommon (1% to 10%): Cardiac hypertrophyFrequency not reported: Fluid retentionPostmarketing reports: Necrotizing angitis (adults only), congestive heart failure
-Very common (10% or more): AcneCommon (1% to 10%): RashPostmarketing reports: Skin thinning (adults only), facial erythema, increased sweating (adults only)
-Very common (10% or more): CushingoidCommon (1% to 10%): CushingoidPostmarketing reports: Decreased carbohydrate tolerance (infants only), hirsutism
-Very common (10% or more): DiarrheaCommon (1% to 10%): Constipation, diarrhea, vomitingPostmarketing reports: Pancreatitis (adults only), abdominal distention, ulcerative esophagitis
+Very Common ( or more): HypertensionCommon ( to ): Cardiac hypertrophyFrequency not reported: Fluid retentionPostmarketing reports: Necrotizing angitis (adults only), congestive heart failure
+Very common ( or more): AcneCommon ( to ): RashPostmarketing reports: Skin thinning (adults only), facial erythema, increased sweating (adults only)
+Very common ( or more): CushingoidCommon ( to ): CushingoidPostmarketing reports: Decreased carbohydrate tolerance (infants only), hirsutism
+Very common ( or more): DiarrheaCommon ( to ): Constipation, diarrhea, vomitingPostmarketing reports: Pancreatitis (adults only), abdominal distention, ulcerative esophagitis
 Postmarketing reports: Allergic responses presenting as dizziness, nausea, and shock (adult only).
-Common (1% to 10%): Increased appetite, decreased appetite, weight gainFrequency not reported: Alteration in glucose tolerancePostmarketing reports: Hypokalemic alkalosis (infants only)
+Common ( to ): Increased appetite, decreased appetite, weight gainFrequency not reported: Alteration in glucose tolerancePostmarketing reports: Hypokalemic alkalosis (infants only)
 Postmarketing reports: Muscle weakness, vertebral compression fractures (infants only)
-Very Common (10% to more): ConvulsionsCommon (1% to 10%): ConvulsionsPostmarketing reports: Headache (adults only), vertigo (adults only), subdural hematoma, intracranial hemorrhage (adults only), reversible brain shrinkage (secondary to hypertension in infants only)
-Very Common (10% or more): InfectionCommon (1% or 10%): Pyrexia, candidiasis, otitis media
-Very common (10% or more): IrritabilityCommon (1% to 10%): IrritabilityFrequency not reported: Behavioral and mood changes
-Common (1% or 10%): Nasal congestion, pneumonia, upper respiratory infections.
+Very Common ( to more): ConvulsionsCommon ( to ): ConvulsionsPostmarketing reports: Headache (adults only), vertigo (adults only), subdural hematoma, intracranial hemorrhage (adults only), reversible brain shrinkage (secondary to hypertension in infants only)
+Very Common ( or more): InfectionCommon ( or ): Pyrexia, candidiasis, otitis media
+Very common ( or more): IrritabilityCommon ( to ): IrritabilityFrequency not reported: Behavioral and mood changes
+Common ( or ): Nasal congestion, pneumonia, upper respiratory infections.
 Backache
 blurred vision
 body aches or pain

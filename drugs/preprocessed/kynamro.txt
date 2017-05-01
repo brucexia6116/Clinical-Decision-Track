@@ -1,19 +1,17 @@
 Common side effects of Kynamro include: bleeding at injection site, fatigue, flu-like symptoms, hematoma at injection site, increased serum alanine aminotransferase, lipomatosis, rash at injection site, arthralgia, fever, increased serum aspartate aminotransferase, injection site reaction, myalgia, nausea, chills, induration at injection site, inflammation at injection site, skin discoloration at a injection site, swelling at injection site, erythema at injection site, malaise, pain at injection site, and tenderness at injection site.
 Other side effects include: abnormal hepatic function tests, liver steatosis, and vomiting.
 See below for a comprehensive list of adverse effects.
-Common (1% to 10%): Hypertension (7%), angina pectoris (4%), palpitations (3%)
-Very common (10% or more): [All injection site reactions (84%)], erythema (59%), pain (56%), hematoma (32%), pruritus (29%), swelling (18%), discoloration (17%)
-Very common (10% or more): Nausea (14%)Common (1% to 10%): Vomiting (4%), abdominal pain (3%)
-Very common (10% or more): Alanine aminotransferase (ALT) increased (10%)Common (1% to 10%): Hepatic steatosis (7%), aspartate aminotransferase (AST) increased (6%), liver function test abnormal (5%), hepatic enzyme increased (3%)
-Rare (less than 0.
-1%): One case of hypersensitivity with angioedema was reported
-Common (1% to 10%): Proteinuria (9%), peripheral edema (5%)
-Common (1% to 10%): Pain in extremity (7%), musculoskeletal pain (4%)
-Very common (10% or more): Fatigue (15%), headache (12%)Common (1% to 10%): Pyrexia (8%), chills (6%)
-Common (1% to 10%): Neoplasms [benign and malignant] (4%)
-Common (1% to 10%): Insomnia (3%)
-Rare (less than 0.
-1%): One case of glomerular nephritis was reported
+Common ( to ): Hypertension , angina pectoris , palpitations 
+Very common ( or more): [All injection site reactions ], erythema , pain , hematoma , pruritus , swelling , discoloration 
+Very common ( or more): Nausea Common ( to ): Vomiting , abdominal pain 
+Very common ( or more): Alanine aminotransferase (ALT) increased Common ( to ): Hepatic steatosis , aspartate aminotransferase (AST) increased , liver function test abnormal , hepatic enzyme increased 
+Rare (less than ): One case of hypersensitivity with angioedema was reported
+Common ( to ): Proteinuria , peripheral edema 
+Common ( to ): Pain in extremity , musculoskeletal pain 
+Very common ( or more): Fatigue , headache Common ( to ): Pyrexia , chills 
+Common ( to ): Neoplasms [benign and malignant] 
+Common ( to ): Insomnia 
+Rare (less than ): One case of glomerular nephritis was reported
 Chills
 cough
 dark urine

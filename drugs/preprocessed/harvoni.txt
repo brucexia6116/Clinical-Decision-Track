@@ -1,21 +1,20 @@
 The most common side effects reported with this drug were fatigue and headache.
 When this drug was studied with ribavirin, the most common side effects to this combination were consistent with known ribavirin side effects; frequency and severity of the expected side effects were not increased.
-Therapy was permanently discontinued due to side effects in 0%, less than 1%, and 1% of patients using this drug for 8, 12, and 24 weeks, respectively, and less than 1%, 0%, and 2% for patients using this drug with ribavirin for 8, 12, and 24 weeks, respectively.
+Therapy was permanently discontinued due to side effects in , less than , and  of patients using this drug for , , and  weeks, respectively, and less than , , and  for patients using this drug with ribavirin for , , and  weeks, respectively.
 The manufacturer product information for ribavirin should be consulted, if applicable.
-Very common (10% or more): Fatigue (up to 18%)
-Very common (10% or more): Headache (up to 17%)
-Common (1% to 10%): Nausea, diarrhea, increased lipase
-Increased lipase (greater than 3 times the upper limit of normal [3 x ULN]) was reported in less than 1%, 2%, and 3% of subjects using this drug for 8, 12, and 24 weeks, respectively.
+Very common ( or more): Fatigue (up to )
+Very common ( or more): Headache (up to )
+Common ( to ): Nausea, diarrhea, increased lipase
+Increased lipase (greater than  times the upper limit of normal [ x ULN]) was reported in less than , , and  of subjects using this drug for , , and  weeks, respectively.
 Lipase elevation was transient and asymptomatic.
-Common (1% to 10%): Insomnia
-Increased bilirubin (greater than 1.
-5 x ULN) was reported in 3%, less than 1%, and 2% of subjects using this drug for 8, 12, and 24 weeks, respectively.
-Common (1% to 10%): Increased bilirubin
+Common ( to ): Insomnia
+Increased bilirubin (greater than  x ULN) was reported in , less than , and  of subjects using this drug for , , and  weeks, respectively.
+Common ( to ): Increased bilirubin
 Postmarketing reports: Serious symptomatic bradycardia (including fatal cardiac arrest, cases requiring pacemaker intervention)
 Serious symptomatic bradycardia has been reported in patients taking amiodarone who started therapy with this drug.
 Frequency not reported: Increased creatine kinase
 Creatine kinase was not evaluated in clinical trials for this drug.
-Isolated, asymptomatic creatine kinase elevations (grade 3 or 4) were reported with sofosbuvir in combination with ribavirin or peginterferon alfa/ribavirin in other clinical trials.
+Isolated, asymptomatic creatine kinase elevations (grade  or ) were reported with sofosbuvir in combination with ribavirin or peginterferon alfa/ribavirin in other clinical trials.
 Chest pain or discomfort
 lightheadedness, dizziness, or fainting
 shortness of breath

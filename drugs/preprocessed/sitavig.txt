@@ -1,6 +1,5 @@
 Other dosage forms:
 As well as its needed effects, acyclovir (the active ingredient contained in Sitavig) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking acyclovir, check with your doctor immediately:
 Some acyclovir side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
@@ -29,7 +28,7 @@ The symptoms responded to a decrease in dosage.
 Three other case reports have also described neurologic symptoms, including visual hallucinations, delusions, mania, tremors, myoclonus and EEG changes, which improved following discontinuation of intravenous acyclovir.
 Rechallenge in one case using a lower dosage resulted in no sequelae.
 Local adverse effects associated with intravenous administration of acyclovir (the active ingredient contained in Sitavig) have included inflammation or phlebitis at the injection site.
-Phlebitis is more common when concentrated solutions (greater than 7 mg/mL) are administered.
+Phlebitis is more common when concentrated solutions (greater than  mg/mL) are administered.
 Skin eruptions have been reported at venipuncture sites and tissue necrosis has occurred after infiltration into extravascular tissues.
 Cardiovascular side effects have included hypotension.
 Dermatologic side effects have included alopecia, erythema multiforme, hives, photosensitive rash, pruritus, rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, and urticaria.

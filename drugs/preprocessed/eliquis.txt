@@ -1,45 +1,25 @@
 The most common adverse events were related to bleeding.
 Common adverse reactions were anemia, hemorrhage, and nausea.
-Very common (10% or more): Minor bleed (11.
-7%)Common (1% to 10%): Anemia postoperative, clinically relevant nonmajor bleed, hemoglobin decreased, anemia, hemorrhageUncommon (0.
-1% to 1%): Postprocedural hemorrhage, hemoglobin decrease of 2 g/dL or more, transfusion of 2 units or more red blood cells, fatal bleed, thrombocytopenia, hemorrhagic anemiaRare (less than 0.
-1%): Bleed at critical site
+Very common ( or more): Minor bleed Common ( to ): Anemia postoperative, clinically relevant nonmajor bleed, hemoglobin decreased, anemia, hemorrhageUncommon ( to ): Postprocedural hemorrhage, hemoglobin decrease of  g/dL or more, transfusion of  units or more red blood cells, fatal bleed, thrombocytopenia, hemorrhagic anemiaRare (less than ): Bleed at critical site
 Patients with diabetes had more bleeding events than non-diabetic subjects.
 Hemorrhage includes hematoma, and vaginal and urethral hemorrhage.
 Postprocedural hemorrhage includes postprocedural hematoma, wound hemorrhage, vessel puncture site hematoma, and catheter site hemorrhage.
-Very common (10% or more): Nausea (14.
-1%)Common (1% to 10%): Constipation, vomiting, diarrhea, abdominal pain upper, abdominal pain, dyspepsia, gastritis, gastroenteritis, toothache, gingival bleeding, rectal hemorrhage, dyspepsia, gastrointestinal hemorrhage (including hematemesis and melena),Uncommon (0.
-1% to 1%): Major gastrointestinal bleed, hematochezia, hemorrhoidal hemorrhage, hematemesis, melena, anal hemorrhage, occult blood positive, occult blood, intra-abdominal hemorrhage, mouth hemorrhageRare (less than 0.
-1%): Retroperitoneal hemorrhage
-Common (1% to 10%): Hypotension, peripheral edema, atrial fibrillation, cardiac failure, hypertension, deep vein thrombosis, tachycardia, cardiac failure congestive, palpitations, thrombosis, angina pectoris, bradycardia, blood pressure increased, procedural hypotension, unstable angina, tachycardia
-Common (1% to 10%): Dizziness, headache, fatigue, syncope, ischemic stroke, vertigoUncommon (0.
-1% to 1%): Somnolence, cerebrovascular accident, transient ischemic attack, major intracranial bleed, brain hemorrhage, other intracranial or intraspinal hemorrhage (including subdural hematoma, subarachnoid hemorrhage, and spinal hematoma)Frequency not reported: Stroke
-Common (1% to 10%): Hematoma, wound hemorrhage, wound secretionUncommon (0.
-1% to 1%): Incision-site hemorrhage, operative hemorrhage, traumatic hematoma, injection site hematoma, vessel puncture site hematoma, application site bleeding, traumatic hemorrhage
-Common (1% to 10%): Cataract, conjunctival hemorrhage, eye hemorrhageUncommon (0.
-1% to 1%): Major intraocular bleed, periorbital hematoma, conjunctival hemorrhage, retinal hemorrhage Frequency not reported: Ocular hemorrhage
-Common (1% to 10%): Nasopharyngitis, dyspnea, epistaxis, bronchitis, cough, upper respiratory tract infection, influenza, pneumonia, sinusitis, chronic obstructive pulmonary disease, lower respiratory tract infection, hemoptysis, dyspnea exertional, respiratory tract infectionUncommon (0.
-1% to 1%): DyspneaRare (less than 0.
-1%): Pulmonary embolism, respiratory tract hemorrhage (including pulmonary alveolar hemorrhage, laryngeal hemorrhage, and pharyngeal hemorrhage)
-Very common (10% or more): Procedural pain (10.
-3%)Common (1% to 10%): Pyrexia, chest pain, fall, asthenia, blood creatine phosphokinase increased, pain, body temperature increased, laceration, chest discomfort, tooth extractionUncommon (0.
-1% to 1%): Herpes zoster
-Common (1% to 10%): Urinary tract infection, menorrhagiaUncommon (0.
-1% to 1%): vaginal hemorrhage, metrorrhagia, menometrorrhagia, genital hemorrhage, blood urine present, red blood cells urine positive, abnormal vaginal hemorrhage, urogenital hemorrhage
-Common (1% to 10%): Hematuria, blood creatinine increased, renal failure
-Common (1% to 10%): Arthralgia, back pain, pain in extremity, osteoarthritis, muscle spasms, musculoskeletal pain, myalgia, arthritisUncommon (0.
-1% to 1%): Muscle hemorrhage, joint swelling
-Common (1% to 10%): Gout, diabetes mellitus, blood glucose increased, hyperglycemia, hypokalemia, decreased appetite
-Uncommon (0.
-1% to 1%): Hypersensitivity (including drug hypersensitivity such as skin rash and anaphylactic reaction such as allergic edema)
-Uncommon (0.
-1% to 1%): Transaminases increased, AST increased, ALT increased, gamma-glutamyl transferase increased, liver function test abnormal, blood alkaline phosphatase increased, blood bilirubin increased
-Common (1% to 10%): Insomnia, depressionUncommon (0.
-1% to 1%): Anxiety
-Common (1% to 10%): Pruritus, contusion, rash, cellulitis, ecchymosis, erythema, blisterUncommon (0.
-1% to 1%): Skin hemorrhage, petechiae, skin rash
-Uncommon (0.
-1% to 1%): Basal cell carcinoma
+Very common ( or more): Nausea Common ( to ): Constipation, vomiting, diarrhea, abdominal pain upper, abdominal pain, dyspepsia, gastritis, gastroenteritis, toothache, gingival bleeding, rectal hemorrhage, dyspepsia, gastrointestinal hemorrhage (including hematemesis and melena),Uncommon ( to ): Major gastrointestinal bleed, hematochezia, hemorrhoidal hemorrhage, hematemesis, melena, anal hemorrhage, occult blood positive, occult blood, intra-abdominal hemorrhage, mouth hemorrhageRare (less than ): Retroperitoneal hemorrhage
+Common ( to ): Hypotension, peripheral edema, atrial fibrillation, cardiac failure, hypertension, deep vein thrombosis, tachycardia, cardiac failure congestive, palpitations, thrombosis, angina pectoris, bradycardia, blood pressure increased, procedural hypotension, unstable angina, tachycardia
+Common ( to ): Dizziness, headache, fatigue, syncope, ischemic stroke, vertigoUncommon ( to ): Somnolence, cerebrovascular accident, transient ischemic attack, major intracranial bleed, brain hemorrhage, other intracranial or intraspinal hemorrhage (including subdural hematoma, subarachnoid hemorrhage, and spinal hematoma)Frequency not reported: Stroke
+Common ( to ): Hematoma, wound hemorrhage, wound secretionUncommon ( to ): Incision-site hemorrhage, operative hemorrhage, traumatic hematoma, injection site hematoma, vessel puncture site hematoma, application site bleeding, traumatic hemorrhage
+Common ( to ): Cataract, conjunctival hemorrhage, eye hemorrhageUncommon ( to ): Major intraocular bleed, periorbital hematoma, conjunctival hemorrhage, retinal hemorrhage Frequency not reported: Ocular hemorrhage
+Common ( to ): Nasopharyngitis, dyspnea, epistaxis, bronchitis, cough, upper respiratory tract infection, influenza, pneumonia, sinusitis, chronic obstructive pulmonary disease, lower respiratory tract infection, hemoptysis, dyspnea exertional, respiratory tract infectionUncommon ( to ): DyspneaRare (less than ): Pulmonary embolism, respiratory tract hemorrhage (including pulmonary alveolar hemorrhage, laryngeal hemorrhage, and pharyngeal hemorrhage)
+Very common ( or more): Procedural pain Common ( to ): Pyrexia, chest pain, fall, asthenia, blood creatine phosphokinase increased, pain, body temperature increased, laceration, chest discomfort, tooth extractionUncommon ( to ): Herpes zoster
+Common ( to ): Urinary tract infection, menorrhagiaUncommon ( to ): vaginal hemorrhage, metrorrhagia, menometrorrhagia, genital hemorrhage, blood urine present, red blood cells urine positive, abnormal vaginal hemorrhage, urogenital hemorrhage
+Common ( to ): Hematuria, blood creatinine increased, renal failure
+Common ( to ): Arthralgia, back pain, pain in extremity, osteoarthritis, muscle spasms, musculoskeletal pain, myalgia, arthritisUncommon ( to ): Muscle hemorrhage, joint swelling
+Common ( to ): Gout, diabetes mellitus, blood glucose increased, hyperglycemia, hypokalemia, decreased appetite
+Uncommon ( to ): Hypersensitivity (including drug hypersensitivity such as skin rash and anaphylactic reaction such as allergic edema)
+Uncommon ( to ): Transaminases increased, AST increased, ALT increased, gamma-glutamyl transferase increased, liver function test abnormal, blood alkaline phosphatase increased, blood bilirubin increased
+Common ( to ): Insomnia, depressionUncommon ( to ): Anxiety
+Common ( to ): Pruritus, contusion, rash, cellulitis, ecchymosis, erythema, blisterUncommon ( to ): Skin hemorrhage, petechiae, skin rash
+Uncommon ( to ): Basal cell carcinoma
 Blood in the eyes
 blood in the urine
 bloody or black, tarry stools

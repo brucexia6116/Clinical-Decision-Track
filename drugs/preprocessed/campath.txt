@@ -1,51 +1,33 @@
 Common side effects of Campath include: herpes simplex infection, opportunistic infection, and thrombocytopenia.
 See below for a comprehensive list of adverse effects.
 If any of the following side effects occur while taking alemtuzumab, check with your doctor or nurse immediately:
-Median CD4+ lymphocyte counts were 2/mcL 4 weeks after begin of alemtuzumab (the active ingredient contained in Campath) therapy, 207/mcL two months after discontinuation, and 470/mcL six months after discontinuation.
-CD8+ cells followed a similar pattern of change.
-In some patients, CD4+ and CD8+ counts did not return to baseline levels within 1 year after discontinuation.
-Very common (10% or more): Lymphopenia (97%), neutropenia (77%), anemia (76%), thrombocytopenia (71%), granulocytopeniaCommon (1% to 10%): Decrease in CD4 lymphocytes, decrease in CD8 lymphocytes, decrease in T-lymphocyte count, febrile neutropenia, pancytopenia, leukopenia, lymphopenia, purpuraUncommon (0.
-1% to 1%): Aplasia bone marrow, disseminated intravascular coagulation, hemolytic anemia, decreased haptoglobin, bone marrow depression, hematology test abnormal
-Very common (10% or more): Immunogenicity (up to 83%), herpes viral infection (16%), fungal infection (13%), sepsis, cytomegalovirus infection, cytomegalovirusviremiaCommon (1% to 10%): Influenza, neutropenic feverUncommon (0.
-1% to 1%): Sepsis, staphylococcal bacteremia, tuberculosis, beta hemolytic streptococcal infections, candidiasis, genital candidiasis, body tineaVery rare (less than 0.
-01%): Immune thrombocytopeniaFrequency not reported: Autoimmunity
-Types of infections reported in the 93 B-CLL patients have included Candida, CMV, Aspergillosis, Mucormycosis, Cryptococcal pneumonia, Listeria monocytogenes meningitis, disseminated Herpes zoster, Herpes simplex, Torulopsis pneumonia, and PCP pneumonia.
+Median CD+ lymphocyte counts were /mcL  weeks after begin of alemtuzumab (the active ingredient contained in Campath) therapy, /mcL two months after discontinuation, and /mcL six months after discontinuation.
+CD+ cells followed a similar pattern of change.
+In some patients, CD+ and CD+ counts did not return to baseline levels within  year after discontinuation.
+Very common ( or more): Lymphopenia , neutropenia , anemia , thrombocytopenia , granulocytopeniaCommon ( to ): Decrease in CD lymphocytes, decrease in CD lymphocytes, decrease in T-lymphocyte count, febrile neutropenia, pancytopenia, leukopenia, lymphopenia, purpuraUncommon ( to ): Aplasia bone marrow, disseminated intravascular coagulation, hemolytic anemia, decreased haptoglobin, bone marrow depression, hematology test abnormal
+Very common ( or more): Immunogenicity (up to ), herpes viral infection , fungal infection , sepsis, cytomegalovirus infection, cytomegalovirusviremiaCommon ( to ): Influenza, neutropenic feverUncommon ( to ): Sepsis, staphylococcal bacteremia, tuberculosis, beta hemolytic streptococcal infections, candidiasis, genital candidiasis, body tineaVery rare (less than ): Immune thrombocytopeniaFrequency not reported: Autoimmunity
+Types of infections reported in the  B-CLL patients have included Candida, CMV, Aspergillosis, Mucormycosis, Cryptococcal pneumonia, Listeria monocytogenes meningitis, disseminated Herpes zoster, Herpes simplex, Torulopsis pneumonia, and PCP pneumonia.
 Infections reported in other trials have included abscess, bacterial infection, Herpes zoster infection, Pneumocystis carinii infection, otitis media, Tuberculosis infection, interstitial pneumonitis, progressive multifocal leukoencephalopathy, and other viral infections.
 Postmarketing experiences have included Epstein-Barr virus lymphoproliferative disorder and reactivation of latent viruses.
-An initial dose of 80 mg caused acute bronchospasm, cough, shortness of breath, followed by anuria and death in one patient.
+An initial dose of  mg caused acute bronchospasm, cough, shortness of breath, followed by anuria and death in one patient.
 Tumor lysis syndrome may have been a factor.
-Very common (10% or more): Nasopharyngitis (25%), upper respiratory tract infection (16%), sinusitis (11%), pneumoniaCommon (1% to 10%): Cough, dyspnea, bronchitis, chest discomfort, epistaxis, hypoxia, hemoptysis, bronchospasmUncommon (0.
-1% to 1%): Stridor, throat tightness, pulmonary infiltration, pleural effusion, breath sounds decreased, respiratory disorderFrequency not reported: Respiratory alkalosis
-Very common (10% or more): Nausea (21%), diarrhea (12%), oropharyngeal pain (11%), abdominal pain (10%), vomiting (10%)Common (1% to 10%): Dyspepsia, gastrointestinal hemorrhage, ulcerative stomatitis, stomatitis, gastroenteritis, tongue ulceration, gingivitis, hiccup, eructation, dyspepsia, constipation, flatulence, oral candidiasisUncommon (0.
-1% to 1%): Gingival bleeding, dry mouth, paralytic ileus, oral discomfortFrequency not reported: Duodenal ulcer, intestinal perforation, melena, peptic ulcer, pseudomembranous colitis, colitis, pancreatitis, peritonitis
-Very common (10% or more): Headache (52%), insomnia (16%), paresthesia (10%), dizziness (10%)Common (1% to 10%): Dysgeusia, vertigo, tremor, paresthesia, hypoesthesia, hyperkinesia, taste loss Uncommon (0.
-1% to 1%): Syncope, abnormal gait, dystonia, hyperesthesia, neuropathy, taste perversion
-Very common (10% or more): Hypotension, hypertensionCommon (1% to 10%): Tachycardia, peripheral edema, vasospasmUncommon (0.
-1% to 1%): Cardiac arrest, myocardial infarction, atrial fibrillation, supraventricular tachycardia, arrhythmia, bradycardia, abnormal ECG, peripheral ischemia, cyanosis, orthostatic hypotension, hot flushFrequency not reported: Congestive heart failure, cardiomyopathy, decreased ejection fraction in non-MS patients previously treated with potentially cardiotoxic agents
-Very common (10% or more): Arthralgia (12%), pain in extremity (12%), back pain (12%)Common (1% to 10%): Chills, muscular weakness, muscle spasms, myalgia, neck pain, arthralgia, skeletal pain, back painUncommon (0.
-1% to 1%): Leg pain, hypertonia, muscle spasmsFrequency not reported: Arthritis or worsening arthritis, bone fracture, myositis, muscle atrophy, osteomyelitis, polymyositis, skeletal pain
-Common (1% to 10%): Anxiety, confusion, depression, somnolenceUncommon (0.
-1% to 1%): Suicidal behavior or ideation, depersonalization, personality disorder, abnormal thinking, nervousness, apathy
-Very common (10% or more): Rash (53%), urticaria (16%), pruritus (14%)Common (1% to 10%): Dermatitis, erythema, hyperhidrosis, bullous eruption, erythematous rashUncommon (0.
-1% to 1%): Maculopapular rash, skin disorder
-Very common (10% or more): Thyroid gland disorders (13%)
+Very common ( or more): Nasopharyngitis , upper respiratory tract infection , sinusitis , pneumoniaCommon ( to ): Cough, dyspnea, bronchitis, chest discomfort, epistaxis, hypoxia, hemoptysis, bronchospasmUncommon ( to ): Stridor, throat tightness, pulmonary infiltration, pleural effusion, breath sounds decreased, respiratory disorderFrequency not reported: Respiratory alkalosis
+Very common ( or more): Nausea , diarrhea , oropharyngeal pain , abdominal pain , vomiting Common ( to ): Dyspepsia, gastrointestinal hemorrhage, ulcerative stomatitis, stomatitis, gastroenteritis, tongue ulceration, gingivitis, hiccup, eructation, dyspepsia, constipation, flatulence, oral candidiasisUncommon ( to ): Gingival bleeding, dry mouth, paralytic ileus, oral discomfortFrequency not reported: Duodenal ulcer, intestinal perforation, melena, peptic ulcer, pseudomembranous colitis, colitis, pancreatitis, peritonitis
+Very common ( or more): Headache , insomnia , paresthesia , dizziness Common ( to ): Dysgeusia, vertigo, tremor, paresthesia, hypoesthesia, hyperkinesia, taste loss Uncommon ( to ): Syncope, abnormal gait, dystonia, hyperesthesia, neuropathy, taste perversion
+Very common ( or more): Hypotension, hypertensionCommon ( to ): Tachycardia, peripheral edema, vasospasmUncommon ( to ): Cardiac arrest, myocardial infarction, atrial fibrillation, supraventricular tachycardia, arrhythmia, bradycardia, abnormal ECG, peripheral ischemia, cyanosis, orthostatic hypotension, hot flushFrequency not reported: Congestive heart failure, cardiomyopathy, decreased ejection fraction in non-MS patients previously treated with potentially cardiotoxic agents
+Very common ( or more): Arthralgia , pain in extremity , back pain Common ( to ): Chills, muscular weakness, muscle spasms, myalgia, neck pain, arthralgia, skeletal pain, back painUncommon ( to ): Leg pain, hypertonia, muscle spasmsFrequency not reported: Arthritis or worsening arthritis, bone fracture, myositis, muscle atrophy, osteomyelitis, polymyositis, skeletal pain
+Common ( to ): Anxiety, confusion, depression, somnolenceUncommon ( to ): Suicidal behavior or ideation, depersonalization, personality disorder, abnormal thinking, nervousness, apathy
+Very common ( or more): Rash , urticaria , pruritus Common ( to ): Dermatitis, erythema, hyperhidrosis, bullous eruption, erythematous rashUncommon ( to ): Maculopapular rash, skin disorder
+Very common ( or more): Thyroid gland disorders 
 Frequency not reported: Hyperbilirubinemia, hepatic failure, hepatocellular damage, hypoalbuminemia, biliary pain
-Very common (10% or more): AnorexiaCommon (1% to 10%): hyponatremia, hypocalcemia, weight decrease, dehydration, thirstUncommon (0.
-1% to 1%): Hypokalemia, diabetes mellitus aggravatedFrequency not reported: Thyroid disorder, fluid overload
-Frequency not reported: Malignancies (e.
-g.
-, malignant lymphoma, malignant testicular neoplasm, prostatic cancer, plasma cell dyscrasias, secondary leukemia, squamous cell carcinoma)
-Very common (10% or more): Urinary tract infection (19%)Common (1% to 10%): Blood in urine, abnormal uterine bleedingUncommon (0.
-1% to 1%): Impotence, urinary incontinence, urine flow decreased, polyuria, cystitisFrequency not reported: Cervical dysplasia
-Very common (10% or more): Pyrexia (29%), fatigue (18%), flushing (10%)Common (1% to 10%): Asthenia
-Uncommon (0.
-1% to 1%): Renal function abnormalFrequency not reported: Acute renal failure
-Common (1% to 10%): ConjunctivitisUncommon (0.
-1% to 1%): Endophthalmitis
-Uncommon (0.
-1% to 1%): Allergic reactionFrequency not reported: Anaphylactoid reaction
-Uncommon (0.
-1% to 1%): Infusion site bruising, infusion site dermatitis, infusion site painFrequency not reported: Infusion reactions
+Very common ( or more): AnorexiaCommon ( to ): hyponatremia, hypocalcemia, weight decrease, dehydration, thirstUncommon ( to ): Hypokalemia, diabetes mellitus aggravatedFrequency not reported: Thyroid disorder, fluid overload
+Frequency not reported: Malignancies (, malignant lymphoma, malignant testicular neoplasm, prostatic cancer, plasma cell dyscrasias, secondary leukemia, squamous cell carcinoma)
+Very common ( or more): Urinary tract infection Common ( to ): Blood in urine, abnormal uterine bleedingUncommon ( to ): Impotence, urinary incontinence, urine flow decreased, polyuria, cystitisFrequency not reported: Cervical dysplasia
+Very common ( or more): Pyrexia , fatigue , flushing Common ( to ): Asthenia
+Uncommon ( to ): Renal function abnormalFrequency not reported: Acute renal failure
+Common ( to ): ConjunctivitisUncommon ( to ): Endophthalmitis
+Uncommon ( to ): Allergic reactionFrequency not reported: Anaphylactoid reaction
+Uncommon ( to ): Infusion site bruising, infusion site dermatitis, infusion site painFrequency not reported: Infusion reactions
 Black, tarry stools
 blood in the urine
 chills
@@ -107,7 +89,7 @@ trouble sleeping
 Acid or sour stomach
 belching
 bone pain
-burning, crawling, itching, numbness, prickling, “pins and needles”, or tingling feelings
+burning, crawling, itching, numbness, prickling, pins and needles, or tingling feelings
 heartburn
 indigestion
 lack or loss of strength

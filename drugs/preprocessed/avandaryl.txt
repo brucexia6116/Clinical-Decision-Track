@@ -1,68 +1,45 @@
 Frequency not reported: Resumption of ovulation in premenopausal, anovulatory women, hormonal imbalance
-Major Adverse Cardiovascular Events:Overall data from rosiglitazone long-term trials including the RECORD, ADOPT, and DREAM trials (rosiglitazone n=6311; control n=7756) showed no difference in overall mortality or major adverse cardiovascular events; however, a meta-analysis of shorter-term trials suggests and increased risk for myocardial infarction with rosiglitazone compared with placebo.
-The RECORD trial (Rosiglitazone evaluated for Cardiac Outcomes and Regulation of Glycemia in Diabetes; mean age 58 years; 52% male) revealed no significant difference in cardiovascular hospitalization or cardiovascular death (primary outcome) among patients with type 2 diabetes receiving rosiglitazone add-on therapy (n=2220) compared with active control (n=2227); however, there was a significant difference in the incidence of congestive heart failure (secondary endpoint).
+Major Adverse Cardiovascular Events:Overall data from rosiglitazone long-term trials including the RECORD, ADOPT, and DREAM trials (rosiglitazone n=; control n=) showed no difference in overall mortality or major adverse cardiovascular events; however, a meta-analysis of shorter-term trials suggests and increased risk for myocardial infarction with rosiglitazone compared with placebo.
+The RECORD trial (Rosiglitazone evaluated for Cardiac Outcomes and Regulation of Glycemia in Diabetes; mean age  years;  male) revealed no significant difference in cardiovascular hospitalization or cardiovascular death (primary outcome) among patients with type  diabetes receiving rosiglitazone add-on therapy (n=) compared with active control (n=); however, there was a significant difference in the incidence of congestive heart failure (secondary endpoint).
 Patients who had failed metformin or sulfonylurea monotherapy were randomized to add-on rosiglitazone or active control (add-on metformin for those inadequately controlled on sulfonylurea or add-on sulfonylurea for those inadequately controlled on metformin).
-Patients were treated to a target glycosylated hemoglobin (HbA1c) of 7% or less.
-Heart failure was reported in 61 patients receiving add-on rosiglitazone and 29 patients receiving active control.
-In a retrospective analysis of 42 clinical trials (mean duration 6 months), rosiglitazone was associated with an increased risk of myocardial ischemia compared with combined active or placebo control (2% versus 1.
-53%).
+Patients were treated to a target glycosylated hemoglobin (HbAc) of  or less.
+Heart failure was reported in  patients receiving add-on rosiglitazone and  patients receiving active control.
+In a retrospective analysis of  clinical trials (mean duration  months), rosiglitazone was associated with an increased risk of myocardial ischemia compared with combined active or placebo control ( versus ).
 These events included angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, and coronary artery disorder.
 There was an increased risk with combination insulin therapy and in patients receiving nitrates for known coronary heart disease.
-Cardiovascular Events in Patients with NYHA Class I and II Heart Failure:An increased risk of cardiovascular events was observed in a 52-week trial in patients with NYHA Class I and II Heart Failure receiving rosiglitazone (n=110) compared with placebo (n=114).
-These events included: cardiovascular deaths (5% vs 4%), worsening CHF (6% vs 4%), new or worsening edema (25% vs 9%), new or worsening dyspnea (26% vs 17%), increases in CHF medication (33% vs 18%), and cardiovascular hospitalization (19% vs 13%).
+Cardiovascular Events in Patients with NYHA Class I and II Heart Failure:An increased risk of cardiovascular events was observed in a -week trial in patients with NYHA Class I and II Heart Failure receiving rosiglitazone (n=) compared with placebo (n=).
+These events included: cardiovascular deaths ( vs ), worsening CHF ( vs ), new or worsening edema ( vs ), new or worsening dyspnea ( vs ), increases in CHF medication ( vs ), and cardiovascular hospitalization ( vs ).
 Edema: -Dose-related edema was reported in rosiglitazone clinical trials.
-In patients receiving rosiglitazone 8 mg in combination with a sulfonylurea, the incidence of edema was 12.
-4%.
-In monotherapy trials, edema was reported in 4.
-8% of patients receiving rosiglitazone (dose not specified).
-Healthy volunteers receiving rosiglitazone 8 mg once daily for 8 weeks experienced a statistically significant increase in median plasma volume compared with placebo.
-Concomitant Administration with Insulin:-Edema was reported with higher frequency in the rosiglitazone plus insulin combination trials (insulin, 5.
-4%; and rosiglitazone with insulin 14.
-7%).
-Reports of new onset or exacerbation of congestive heart failure occurred at a rate of 1% for insulin alone, 2% (4 mg) and 3% (8 mg) for insulin in combination with rosiglitazone.
+In patients receiving rosiglitazone  mg in combination with a sulfonylurea, the incidence of edema was .
+In monotherapy trials, edema was reported in  of patients receiving rosiglitazone (dose not specified).
+Healthy volunteers receiving rosiglitazone  mg once daily for  weeks experienced a statistically significant increase in median plasma volume compared with placebo.
+Concomitant Administration with Insulin:-Edema was reported with higher frequency in the rosiglitazone plus insulin combination trials (insulin, ; and rosiglitazone with insulin ).
+Reports of new onset or exacerbation of congestive heart failure occurred at a rate of  for insulin alone,  ( mg) and  ( mg) for insulin in combination with rosiglitazone.
 The coadministration of rosiglitazone and insulin is not recommended.
-Glimepiride-Rosiglitazone: Common (1% to 10%): Edema, hypertension Uncommon (0.
-1% to 1%): Congestive heart failureGlimepiride: Common (1% to 10%): Edema, hypertensionRosiglitazone: Common (1% to 10%): Edema, hypertensionUncommon (0.
-1% to 1%): Congestive heart failureFrequency not reported: Cardiovascular deaths, myocardial infarction, angina, angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, coronary artery disorder
-Glimepiride-Rosiglitazone:Common (1% to 10%): NasopharyngitisRosiglitazone:Common (1% to 10%): Upper respiratory infectionPostmarketing reports: Pulmonary edema, pleural effusions
-Glimepiride-Rosiglitazone: Common (1% to 10%): Headache, dizzinessGlimepiride:Common (1% to 10%): Headache, dizzinessRosiglitazone: Common (1% to 10%): HeadacheFrequency not reported: Stroke
+Glimepiride-Rosiglitazone: Common ( to ): Edema, hypertension Uncommon ( to ): Congestive heart failureGlimepiride: Common ( to ): Edema, hypertensionRosiglitazone: Common ( to ): Edema, hypertensionUncommon ( to ): Congestive heart failureFrequency not reported: Cardiovascular deaths, myocardial infarction, angina, angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, coronary artery disorder
+Glimepiride-Rosiglitazone:Common ( to ): NasopharyngitisRosiglitazone:Common ( to ): Upper respiratory infectionPostmarketing reports: Pulmonary edema, pleural effusions
+Glimepiride-Rosiglitazone: Common ( to ): Headache, dizzinessGlimepiride:Common ( to ): Headache, dizzinessRosiglitazone: Common ( to ): HeadacheFrequency not reported: Stroke
 The most commonly reported adverse reports included headache, hypoglycemia, and nasopharyngitis.
-Glimepiride:Common (1% to 10%): NauseaRare (less than 0.
-1%): Vomiting, gastrointestinal pain, diarrheaRosiglitazone:Common (1% to 10%): Diarrhea
-Glimepiride:Rare (less than 0.
-1%): Liver enzyme elevations, Frequency not reported: Liver function impairment, e.
-g.
-, cholestasis, jaundice, hepatitis, hepatic porphyria reactions and disulfiram-like reactionsRosiglitazone: Postmarketing reports: Hepatitis, hepatic enzyme elevations greater than 3 times the upper limit of normal, hepatic failure
+Glimepiride:Common ( to ): NauseaRare (less than ): Vomiting, gastrointestinal pain, diarrheaRosiglitazone:Common ( to ): Diarrhea
+Glimepiride:Rare (less than ): Liver enzyme elevations, Frequency not reported: Liver function impairment, , cholestasis, jaundice, hepatitis, hepatic porphyria reactions and disulfiram-like reactionsRosiglitazone: Postmarketing reports: Hepatitis, hepatic enzyme elevations greater than  times the upper limit of normal, hepatic failure
 Rosiglitazone: Postmarketing reports: Anaphylactic reaction
-Glimepiride:Rare (less than 0.
-1%): Allergic skin reactions, e.
-g.
-pruritus, erythema, urticaria, and morbilliform or maculopapular eruptionsFrequency not reported: Porphyria cutanea tarda, photosensitivity reactions, allergic vasculitis Rosiglitazone: Postmarketing reports: Rash, pruritus, urticaria, angioedema, Stevens-Johnson syndrome
-Anemia was reported in 1.
-9% of patients receiving rosiglitazone as monotherapy.
-When taken in combination with metformin, a sulfonylurea, or metformin plus a sulfonylurea, the incidence of anemia was 7.
-1%, 2.
-3%, and 6.
-7%, respectively.
-Laboratory findings have shown dose-related decreases in hemoglobin and hematocrit; mean decreases in hemoglobin were 1 g/dL and up to 3.
-3% in hematocrit.
-These changes primarily occurred during the first 3 months or following a dose increase.
+Glimepiride:Rare (less than ): Allergic skin reactions,   pruritus, erythema, urticaria, and morbilliform or maculopapular eruptionsFrequency not reported: Porphyria cutanea tarda, photosensitivity reactions, allergic vasculitis Rosiglitazone: Postmarketing reports: Rash, pruritus, urticaria, angioedema, Stevens-Johnson syndrome
+Anemia was reported in  of patients receiving rosiglitazone as monotherapy.
+When taken in combination with metformin, a sulfonylurea, or metformin plus a sulfonylurea, the incidence of anemia was , , and , respectively.
+Laboratory findings have shown dose-related decreases in hemoglobin and hematocrit; mean decreases in hemoglobin were  g/dL and up to  in hematocrit.
+These changes primarily occurred during the first  months or following a dose increase.
 They may be related to increased plasma volume.
-Glimepiride:Frequency not reported: Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia, aplastic anemia, pancytopeniaRosiglitazone: Common (1% to 10%): AnemiaFrequency not reported: Decrease in WBC counts
-Glimepiride-Rosiglitazone: Common (1% to 10%): HypoglycemiaFrequency not reported: Weight gainGlimepiride: Common (1% to 10%): HypoglycemiaFrequency not reported: Hyponatremia, syndrome of inappropriate antidiuretic hormone (SIADH) secretion, changes in serum lipidsRosiglitazone: Uncommon (0.
-1% to 1%): Hypoglycemia
+Glimepiride:Frequency not reported: Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia, aplastic anemia, pancytopeniaRosiglitazone: Common ( to ): AnemiaFrequency not reported: Decrease in WBC counts
+Glimepiride-Rosiglitazone: Common ( to ): HypoglycemiaFrequency not reported: Weight gainGlimepiride: Common ( to ): HypoglycemiaFrequency not reported: Hyponatremia, syndrome of inappropriate antidiuretic hormone (SIADH) secretion, changes in serum lipidsRosiglitazone: Uncommon ( to ): Hypoglycemia
 The mechanism of weight gain is unclear, although it probably is due to a combination of fluid retention and fat accumulation.
 Dose-related weight gain was observed in trials with the combination glimepiride / rosiglitazone and rosiglitazone alone.
-Mean weight gain in patients receiving the combination glimepiride 4 mg/rosiglitazone 4 mg was 2.
-2 kg and 2.
-9 kg for patients receiving glimepiride 4 mg/rosiglitazone 8 mg.
-Glimepiride: Uncommon (0.
-1% to 1%): Blurred visionRosiglitazone:Postmarketing reports: Diabetic macular edema with decreased visual acuity
+Mean weight gain in patients receiving the combination glimepiride  mg/rosiglitazone  mg was  kg and  kg for patients receiving glimepiride  mg/rosiglitazone  mg.
+Glimepiride: Uncommon ( to ): Blurred visionRosiglitazone:Postmarketing reports: Diabetic macular edema with decreased visual acuity
 Rosiglitazone:Common: Back pain, arthralgia, Frequency not reported: Fractures, bone mineral density decreases
 Large long-term clinical trials have shown an increased incidence of bone fracture in patients receiving rosiglitazone in combination with sulfonylurea or metformin as rosiglitazone alone.
 This increased incidence appeared after the first year and persisted.
 The majority of fractures were observed in women and occurred in the upper arm, hand, and foot.
-Glimepiride:Common (1% to 10%): AstheniaRosiglitazone:Common (1% to 10%): Injury
+Glimepiride:Common ( to ): AstheniaRosiglitazone:Common ( to ): Injury
 Body aches or pain
 chills
 cough

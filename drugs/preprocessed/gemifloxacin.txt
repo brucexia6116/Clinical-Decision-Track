@@ -1,46 +1,23 @@
 Most side effects reported during postmarketing experience were cutaneous (some were considered serious) and the majority of these were rash.
-Most rashes occurred in patients younger than 40 years, in women (especially those on hormone replacement therapy), and in patients taking this drug for longer treatment durations (over 7 days).
+Most rashes occurred in patients younger than  years, in women (especially those on hormone replacement therapy), and in patients taking this drug for longer treatment durations (over  days).
 The phototoxic potential of this drug may be dose-dependent.
-Common (1% to 10%): RashUncommon (0.
-1% to 1%): Dermatitis, pruritus, urticariaRare (less than 0.
-1%): Eczema, photosensitivity/phototoxicity reactionsPostmarketing reports: Erythema multiforme, skin exfoliation
-Common (1% to 10%): Diarrhea, nausea, abdominal pain, vomitingUncommon (0.
-1% to 1%): Constipation, dry mouth, dyspepsia, flatulence, gastritisRare (less than 0.
-1%):Gastroenteritis, nonspecified gastrointestinal disorderFrequency not reported: Clostridium difficile-associated diarrheaPostmarketing reports: Antibiotic-associated colitis
+Common ( to ): RashUncommon ( to ): Dermatitis, pruritus, urticariaRare (less than ): Eczema, photosensitivity/phototoxicity reactionsPostmarketing reports: Erythema multiforme, skin exfoliation
+Common ( to ): Diarrhea, nausea, abdominal pain, vomitingUncommon ( to ): Constipation, dry mouth, dyspepsia, flatulence, gastritisRare (less than ):Gastroenteritis, nonspecified gastrointestinal disorderFrequency not reported: Clostridium difficile-associated diarrheaPostmarketing reports: Antibiotic-associated colitis
 Cases of sensory or sensorimotor axonal polyneuropathy (affecting small and/or large axons) resulting in paresthesias, hypoesthesias, dysesthesias, and weakness have been reported.
-Common (1% to 10%): Headache, dizzinessUncommon (0.
-1% to 1%): Somnolence, taste perversionRare (less than 0.
-1%): Tremor, vertigo, central nervous system effectsFrequency not reported: Seizures, sensory axonal polyneuropathy, sensorimotor axonal polyneuropathy, paresthesias, hypoesthesias, dysesthesias, neurotoxicity (presenting as encephalopathy)Postmarketing reports: Exacerbation of myasthenia gravis, peripheral neuropathy (may be irreversible), syncope
-Common (1% to 10%): Increased ALT, increased ASTUncommon (0.
-1% to 1%): Increased GGT, increased total bilirubinRare (less than 0.
-1%): Bilirubinemia
-Uncommon (0.
-1% to 1%): Fatigue, fungal infection, increased alkaline phosphatase, increased potassium, decreased albumin, decreased sodium, decreased calcium, decreased total protein, decreased potassium, increased sodiumRare (less than 0.
-1%): Asthenia, facial edema, flushing, hot flashes, pain, moniliasis, increased LDH, increased calciumFrequency not reported: WeaknessPostmarketing reports: Facial swelling, peripheral edema
-Uncommon (0.
-1% to 1%): Anorexia, hyperglycemia
-Uncommon (0.
-1% to 1%): Increased creatine phosphokinaseRare (less than 0.
-1%): Arthralgia, back pain, leg cramps, myalgiaFrequency not reported: TendinitisPostmarketing reports: Tendon rupture
-Uncommon (0.
-1% to 1%): Increased platelets, decreased neutrophils, increased neutrophils, decreased hematocrit, decreased hemoglobin, decreased platelets, decreased RBCs, increased hematocrit, increased hemoglobin, increased RBCs, leukopenia, thrombocythemiaRare (less than 0.
-1%): Anemia, eosinophilia, granulocytopenia, thrombocytopeniaPostmarketing reports: Hemorrhage, increased INR
-Uncommon (0.
-1% to 1%): InsomniaRare (less than 0.
-1%): Nervousness
-Uncommon (0.
-1% to 1%): Increased BUN, increased serum creatinineRare (less than 0.
-1%): Increased non-protein nitrogenFrequency not reported: Acute renal failurePostmarketing reports: Renal failure
-Uncommon (0.
-1% to 1%): Genital moniliasis, genital pruritus, vaginitisRare (less than 0.
-1%): Abnormal urine
-Rare (less than 0.
-1%): Abnormal visionPostmarketing reports: Retinal hemorrhage
-Rare (less than 0.
-1%): Dyspnea, pharyngitis, pneumoniaFrequency not reported: Bronchitis
+Common ( to ): Headache, dizzinessUncommon ( to ): Somnolence, taste perversionRare (less than ): Tremor, vertigo, central nervous system effectsFrequency not reported: Seizures, sensory axonal polyneuropathy, sensorimotor axonal polyneuropathy, paresthesias, hypoesthesias, dysesthesias, neurotoxicity (presenting as encephalopathy)Postmarketing reports: Exacerbation of myasthenia gravis, peripheral neuropathy (may be irreversible), syncope
+Common ( to ): Increased ALT, increased ASTUncommon ( to ): Increased GGT, increased total bilirubinRare (less than ): Bilirubinemia
+Uncommon ( to ): Fatigue, fungal infection, increased alkaline phosphatase, increased potassium, decreased albumin, decreased sodium, decreased calcium, decreased total protein, decreased potassium, increased sodiumRare (less than ): Asthenia, facial edema, flushing, hot flashes, pain, moniliasis, increased LDH, increased calciumFrequency not reported: WeaknessPostmarketing reports: Facial swelling, peripheral edema
+Uncommon ( to ): Anorexia, hyperglycemia
+Uncommon ( to ): Increased creatine phosphokinaseRare (less than ): Arthralgia, back pain, leg cramps, myalgiaFrequency not reported: TendinitisPostmarketing reports: Tendon rupture
+Uncommon ( to ): Increased platelets, decreased neutrophils, increased neutrophils, decreased hematocrit, decreased hemoglobin, decreased platelets, decreased RBCs, increased hematocrit, increased hemoglobin, increased RBCs, leukopenia, thrombocythemiaRare (less than ): Anemia, eosinophilia, granulocytopenia, thrombocytopeniaPostmarketing reports: Hemorrhage, increased INR
+Uncommon ( to ): InsomniaRare (less than ): Nervousness
+Uncommon ( to ): Increased BUN, increased serum creatinineRare (less than ): Increased non-protein nitrogenFrequency not reported: Acute renal failurePostmarketing reports: Renal failure
+Uncommon ( to ): Genital moniliasis, genital pruritus, vaginitisRare (less than ): Abnormal urine
+Rare (less than ): Abnormal visionPostmarketing reports: Retinal hemorrhage
+Rare (less than ): Dyspnea, pharyngitis, pneumoniaFrequency not reported: Bronchitis
 Frequency not reported: Ventricular extrasystolesPostmarketing reports: Prolonged QT, supraventricular tachycardia, transient ischemic attack
 QTc interval prolongation has been reported; no cardiovascular morbidity or mortality due to QTc prolongation occurred during studies.
-Maximum QTc changes occurred 5 to 10 hours after oral administration of this drug.
+Maximum QTc changes occurred  to  hours after oral administration of this drug.
 This effect may be dose-related.
 Frequency not reported: Hypersensitivity reactionsPostmarketing reports: Anaphylactic reactions
 Rash

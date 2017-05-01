@@ -5,62 +5,35 @@ Severe liver injury and acute liver failure (in some cases fatal) have been repo
 Such hepatic reactions were observed during or immediately after therapy and included fulminant hepatitis and hepatic necrosis leading to liver transplant.
 In some cases, liver injury progressed rapidly and occurred after a few doses of this drug were administered.
 Less severe liver dysfunction (associated with reversible hepatitis, elevated liver enzymes, and sometimes jaundice) has been reported.
-Drug-related hepatotoxicity was reported in a 46-year-old man receiving treatment for an ear and sinus infection.
-The patient presented with a 4-day history of malaise, dark urine, jaundice, mild pruritus, and anorexia.
+Drug-related hepatotoxicity was reported in a -year-old man receiving treatment for an ear and sinus infection.
+The patient presented with a -day history of malaise, dark urine, jaundice, mild pruritus, and anorexia.
 The patient denied toxin exposure, IV drug abuse, or hepatic injury.
-ALT 948 units/L, AST 200 units/L, total bilirubin 65 mmol/L, and alkaline phosphatase 291 units/L were observed.
-These values warranted withdrawal of this drug and within 2 weeks the ALT decreased to 450 units/L and his jaundice resolved.
-After 8 weeks, the patient's liver tests had normalized.
-Common (1% to 10%): Increased liver enzymes (AST, ALT, alkaline phosphatase, GGT)Uncommon (0.
-1% to 1%): Hepatitis (with or without jaundice)Rare (0.
-01% to 0.
-1%): Cholestatic jaundiceFrequency not reported: Abnormal liver function tests, increased transaminases (ALT, AST), elevated blood bilirubin, increased ALT (at least 3 times the upper limit of normal), hepatocellular and/or cholestatic hepatitis (with or without jaundice), severe liver toxicity, hepatotoxicity (including acute liver failure, severe liver injury)Postmarketing reports: Hepatic dysfunction, fulminant hepatitis, hepatic necrosis, hepatic failure, severe hepatitis
-Very common (10% or more): Diarrhea (10.
-8%)Common (1% to 10%): Nausea, vomiting, gastrointestinal pain, flatulenceUncommon (0.
-1% to 1%): Constipation, oral candidiasis, stomatitisVery rare (less than 0.
-01%): Pseudomembranous colitisFrequency not reported: Abdominal distension, dry mouth, dyspepsia, gastrointestinal upset, gastroenteritis, gastritis, glossitis, Clostridium difficile-associated diarrhea, loose stools, watery stoolsPostmarketing reports: Pancreatitis
+ALT  units/L, AST  units/L, total bilirubin  mmol/L, and alkaline phosphatase  units/L were observed.
+These values warranted withdrawal of this drug and within  weeks the ALT decreased to  units/L and his jaundice resolved.
+After  weeks, the patient's liver tests had normalized.
+Common ( to ): Increased liver enzymes (AST, ALT, alkaline phosphatase, GGT)Uncommon ( to ): Hepatitis (with or without jaundice)Rare ( to ): Cholestatic jaundiceFrequency not reported: Abnormal liver function tests, increased transaminases (ALT, AST), elevated blood bilirubin, increased ALT (at least  times the upper limit of normal), hepatocellular and/or cholestatic hepatitis (with or without jaundice), severe liver toxicity, hepatotoxicity (including acute liver failure, severe liver injury)Postmarketing reports: Hepatic dysfunction, fulminant hepatitis, hepatic necrosis, hepatic failure, severe hepatitis
+Very common ( or more): Diarrhea Common ( to ): Nausea, vomiting, gastrointestinal pain, flatulenceUncommon ( to ): Constipation, oral candidiasis, stomatitisVery rare (less than ): Pseudomembranous colitisFrequency not reported: Abdominal distension, dry mouth, dyspepsia, gastrointestinal upset, gastroenteritis, gastritis, glossitis, Clostridium difficile-associated diarrhea, loose stools, watery stoolsPostmarketing reports: Pancreatitis
 Pseudomembranous colitis has also been reported during postmarketing experience.
 Exacerbations of myasthenia gravis (including fatal and life-threatening acute respiratory failure) have been reported.
 Rapid onset was observed in some cases, occurring within a few hours after the first dose.
-Common (1% to 10%): Headache, dizziness (excluding vertigo), taste disturbance/dysgeusiaUncommon (0.
-1% to 1%): Somnolence, vertigoRare (0.
-01% to 0.
-1%): Paresthesia, transient loss of consciousnessVery rare (less than 0.
-01%): ParosmiaPostmarketing reports: Loss of consciousness (in some cases associated with vagal syndrome), exacerbation of myasthenia gravis, tremors, convulsions, taste/smell perversion, ageusia, anosmia, hearing loss
+Common ( to ): Headache, dizziness (excluding vertigo), taste disturbance/dysgeusiaUncommon ( to ): Somnolence, vertigoRare ( to ): Paresthesia, transient loss of consciousnessVery rare (less than ): ParosmiaPostmarketing reports: Loss of consciousness (in some cases associated with vagal syndrome), exacerbation of myasthenia gravis, tremors, convulsions, taste/smell perversion, ageusia, anosmia, hearing loss
 Fatal and life-threatening acute respiratory failure has been reported in patients with myasthenia gravis.
 Frequency not reported: Acute respiratory failure, rhinitis, upper respiratory infectionPostmarketing reports: Dyspnea
-Common (1% to 10%): Vaginal candidiasisFrequency not reported: Vaginitis, fungal vaginosisPostmarketing reports: Chromaturia
-Uncommon (0.
-1% to 1%): Flush/flushing, palpitationsRare (0.
-01% to 0.
-1%): Atrial arrhythmia, hypotension, bradycardiaFrequency not reported: Increased QTc intervalPostmarketing reports: QT/QTc interval prolongation, ventricular arrhythmias (including ventricular tachycardia, torsades de pointes) with potential fatal outcome, ischemic cardiac events (in the context of hypersensitivity reactions)
+Common ( to ): Vaginal candidiasisFrequency not reported: Vaginitis, fungal vaginosisPostmarketing reports: Chromaturia
+Uncommon ( to ): Flush/flushing, palpitationsRare ( to ): Atrial arrhythmia, hypotension, bradycardiaFrequency not reported: Increased QTc intervalPostmarketing reports: QT/QTc interval prolongation, ventricular arrhythmias (including ventricular tachycardia, torsades de pointes) with potential fatal outcome, ischemic cardiac events (in the context of hypersensitivity reactions)
 Ventricular arrhythmias (including ventricular tachycardia, torsades de pointes) have sometimes occurred within a few hours after the first dose.
 Atrial arrhythmias and palpitation have also been reported during postmarketing experience.
 Visual disturbances (some severe) most often included blurred vision, difficulty focusing, or diplopia; some patients stopped therapy due to these effects.
 Most visual side effects were reported after the first or second dose, lasted several hours, and recurred with subsequent doses in some patients.
 Symptoms continued throughout the entire course of therapy in some patients and resolved spontaneously during therapy in others.
-Females and patients up to 40 years of age had a higher rate of these side effects (females up to 40 years: 2.
-1%; females older than 40 years: 1%; males up to 40 years: 1.
-2%; males older than 40 years: 0.
-27%).
-Uncommon (0.
-1% to 1%): Blurred visionRare (0.
-01% to 0.
-1%): DiplopiaFrequency not reported: Visual disturbances (including blurred vision, difficulty focusing, diplopia)
-Uncommon (0.
-1% to 1%): Rash, pruritus, urticariaRare (0.
-01% to 0.
-1%): EczemaVery rare (less than 0.
-01%): Erythema multiformeFrequency not reported: Increased sweatingPostmarketing reports: Angioneurotic edema
-Uncommon (0.
-1% to 1%): EosinophiliaFrequency not reported: Increased platelet count, increased eosinophil count
-Uncommon (0.
-1% to 1%): AnorexiaFrequency not reported: Increased blood alkaline phosphatase
-Uncommon (0.
-1% to 1%): Insomnia, nervousnessFrequency not reported: AnxietyPostmarketing reports: Confusion, hallucinations (mostly visual)
+Females and patients up to  years of age had a higher rate of these side effects (females up to  years: ; females older than  years: ; males up to  years: ; males older than  years: ).
+Uncommon ( to ): Blurred visionRare ( to ): DiplopiaFrequency not reported: Visual disturbances (including blurred vision, difficulty focusing, diplopia)
+Uncommon ( to ): Rash, pruritus, urticariaRare ( to ): EczemaVery rare (less than ): Erythema multiformeFrequency not reported: Increased sweatingPostmarketing reports: Angioneurotic edema
+Uncommon ( to ): EosinophiliaFrequency not reported: Increased platelet count, increased eosinophil count
+Uncommon ( to ): AnorexiaFrequency not reported: Increased blood alkaline phosphatase
+Uncommon ( to ): Insomnia, nervousnessFrequency not reported: AnxietyPostmarketing reports: Confusion, hallucinations (mostly visual)
 Muscle cramps have also been reported during postmarketing experience.
-Very rare (less than 0.
-01%): Muscle crampsPostmarketing reports: Arthralgia, myalgia
+Very rare (less than ): Muscle crampsPostmarketing reports: Arthralgia, myalgia
 Postmarketing reports: Severe allergic reactions (including angioedema, anaphylaxis), anaphylactic reactions (including anaphylactic shock), hypersensitivity
 Frequency not reported: Abdominal pain, fatigue, upper abdominal painPostmarketing reports: Face edema
 Abdominal or stomach pain

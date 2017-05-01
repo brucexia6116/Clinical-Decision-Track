@@ -1,19 +1,18 @@
-Very common (10% or more): Hypertension (73%)Common (1% to 10%): Hypotension, QT prolongation, arterial thromboembolic event, cardiac dysfunction (cardiac failure, decreased ventricular function, pulmonary edema)
-Very common (10% or more): Proteinuria (34%), renal impairment (14%)Common (1% to 10%): Increased creatinine, renal failure
-Very common (10% or more): Hemorrhagic events (35%)Common (1% to 10%): Decreased platelet count
-Common (1% to 10%): Hyperbilirubinemia, increased alkaline phosphatase, increased ALT, increased ASTVery rare (less than 0.
-01%): Hepatic failure, acute hepatitis
-Very common (10% or more): Diarrhea (67%), nausea (47%), stomatitis (41%), vomiting (36%), abdominal pain (31%), constipation (29%), oral pain (25%), dry mouth (17%), dyspepsia (13%)Common (1% to 10%): GI perforation/fistula, increased serum amylase, increased lipase
-Very common (10% or more): Headache (38%), dysgeusia (18%), dizziness (15%)Common (1% to 10%): Reversible posterior leukoencephalopathy syndrome
-Very common (10% or more): TSH suppression impairment (up to 88%)
-Very common (10% or more): Decreased appetite (54%), weight decreased (51%)Common (1% to 10%): Dehydration, hypoalbuminemia, hypomagnesemia, hypoglycemia, hypocalcemia, hypercalcemia, hyperkalemia, hypercholesterolemia
-Very common (10% or more): Palmar-plantar erythrodysesthesia (32%), rash (21%), alopecia (12%)Common (1% to 10%): Hyperkeratosis
-Very common (10% or more): Urinary tract infections (11%)
-Very Common (10% or more): Dental and oral infections (10%)
-Very common (10% or more): Arthralgia/myalgia (62%)
-Very common (10% or more): Fatigue (67%), peripheral edema (21%)
-Very common (10% or more): Insomnia (12%)
-Very common (10% or more): Dysphonia (31%), cough (24%), epistaxis (12%)Common (1% to 10%): Pulmonary embolism
+Very common ( or more): Hypertension Common ( to ): Hypotension, QT prolongation, arterial thromboembolic event, cardiac dysfunction (cardiac failure, decreased ventricular function, pulmonary edema)
+Very common ( or more): Proteinuria , renal impairment Common ( to ): Increased creatinine, renal failure
+Very common ( or more): Hemorrhagic events Common ( to ): Decreased platelet count
+Common ( to ): Hyperbilirubinemia, increased alkaline phosphatase, increased ALT, increased ASTVery rare (less than ): Hepatic failure, acute hepatitis
+Very common ( or more): Diarrhea , nausea , stomatitis , vomiting , abdominal pain , constipation , oral pain , dry mouth , dyspepsia Common ( to ): GI perforation/fistula, increased serum amylase, increased lipase
+Very common ( or more): Headache , dysgeusia , dizziness Common ( to ): Reversible posterior leukoencephalopathy syndrome
+Very common ( or more): TSH suppression impairment (up to )
+Very common ( or more): Decreased appetite , weight decreased Common ( to ): Dehydration, hypoalbuminemia, hypomagnesemia, hypoglycemia, hypocalcemia, hypercalcemia, hyperkalemia, hypercholesterolemia
+Very common ( or more): Palmar-plantar erythrodysesthesia , rash , alopecia Common ( to ): Hyperkeratosis
+Very common ( or more): Urinary tract infections 
+Very Common ( or more): Dental and oral infections 
+Very common ( or more): Arthralgia/myalgia 
+Very common ( or more): Fatigue , peripheral edema 
+Very common ( or more): Insomnia 
+Very common ( or more): Dysphonia , cough , epistaxis Common ( to ): Pulmonary embolism
 Bladder pain
 bloating or swelling of the face, arms, hands, lower legs, or feet
 changes in vision

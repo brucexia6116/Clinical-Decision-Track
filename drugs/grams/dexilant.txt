@@ -1,0 +1,344 @@
+reported adverse reactions
+diarrhea
+abdominal pain
+nausea
+upper respiratory tract infection
+vomiting
+flatulence
+common adverse reaction
+discontinuation of therapy
+diarrhea
+frequency
+angina
+arrhythmia
+bradycardia
+chest pain
+edema
+myocardial infarction
+palpitation
+tachycardia
+deep vein thrombosis
+hot flush
+hypertension
+frequency
+acne
+dermatitis
+erythema
+pruritus
+rash
+skin lesion
+urticariapostmarketing reports
+generalized rash
+leukocytoclastic vasculitis
+frequency
+goiter
+diabetes mellitus
+hypothyroidism
+diarrhea
+abdominal pain
+nausea
+vomiting
+flatulencefrequency
+abdominal discomfort
+abdominal tenderness
+abnormal feces
+anal discomfort
+barrett
+esophagus
+bezoar
+bowel
+breath odor
+colitis
+colonic polyp
+constipation
+dry mouth
+duodenitis
+dyspepsia
+dysphagia
+enteritis
+eructation
+esophagitis
+gastric polyp
+gastritis
+gastroenteritis
+gastrointestinal disorders
+gastrointestinal hypermotility disorders
+gerd
+gi ulcers
+perforation
+hematemesis
+hematochezia
+hemorrhoids
+impaired gastric emptying
+irritable bowel syndrome
+mucus stools
+oral mucosal blistering
+painful defecation
+proctitis
+paresthesia
+rectal hemorrhage
+retchingpostmarketing reports
+oral edema
+pancreatitis
+clostridium difficile
+associated diarrhea
+rectal tenesmus
+frequency
+vulvo-vaginal infection
+dysuria
+micturition urgency
+dysmenorrhea
+dyspareunia
+menorrhagia
+menstrual disorder
+frequency
+anemia
+lymphadenopathy
+blood creatinine
+blood gastrin
+blood glucose
+blood potassium
+corpuscular hemoglobin concentration
+mchc
+neutropeniapostmarketing reports
+autoimmune
+hemolytic anemia
+idiopathic thrombocytopenic purpura
+frequency
+biliary colic
+cholelithiasis
+alp
+alt
+ast
+bilirubin
+liver function test
+abnormalpostmarketing reports
+drug-induced hepatitis
+frequency
+hypersensitivity
+anaphylaxispostmarketing reports
+anaphylactic shock
+requiring emergency intervention
+exfoliative dermatitis
+stevens-johnson syndrome
+toxic epidermal necrolysis
+frequency
+total protein
+weight
+appetite changes
+hypercalcemia
+hypokalemia
+central obesity
+cholecystitis
+dehydration
+hyperlipidemiapostmarketing reports
+hypomagnesemia
+hyponatremia
+frequency
+fractures
+joint sprains
+arthralgia
+arthritis
+muscle cramps
+musculoskeletal pain
+myalgia
+bursitispostmarketing reports
+bone fracture
+frequency
+altered taste
+convulsion
+dizziness
+headaches
+migraine
+memory impairment
+paresthesia
+psychomotor hyperactivity
+tremor
+trigeminal neuralgia
+restless legs syndrome
+somnolencepostmarketing reports
+cerebrovascular accident
+transient ischemic attack
+frequency
+eye irritation
+eye swellingpostmarketing reports
+blurred vision
+frequency
+b-cell lymphoma
+frequency
+ear pain
+tinnitus
+vertigo
+asthenia
+chest pain
+chills
+feeling
+inflammation
+mucosal inflammation
+nodule
+pain
+pyrexia
+candida infections
+viral infections
+overdose
+procedural pain
+sunburn
+auditory hallucinations
+folliculitis
+herpes zosterpostmarketing reports
+facial edema
+deafness
+frequency
+abnormal dreams
+anxiety
+depression
+insomnia
+libido changes
+postmarketing reports
+acute renal failure
+upper
+respiratory tract infectionfrequency
+influenza
+nasopharyngitis
+oral herpes
+pharyngitis
+sinusitis
+aspiration
+asthma
+bronchitis
+cough
+dysphonia
+hiccups
+hyperventilation
+respiratory tract congestion
+sore throat
+epistaxis
+tonsillitis
+dyspneapostmarketing reports
+pharyngeal edema
+throat tightness
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+chest pain
+discomfort
+chest tightness
+heaviness
+confusion
+continuing stomach pain
+diarrhea
+breathing
+pounding
+racing heartbeat
+pulse
+fever
+headache
+incoherent speech
+joint pain
+stiffness
+swelling
+lightheadedness
+dizziness
+fainting
+muscle pain
+cramps
+weakness
+nausea or vomiting
+numbness
+tingling in the hands
+feet
+lips
+pain
+discomfort in the arms
+jaw
+leg
+neck
+pounding in the ears
+rash or hives
+shakiness in the legs
+arms
+hands
+feet
+sweating
+swelling of the eyelids
+face
+lips
+hands
+feet
+tender lymph glands in the neck
+armpit
+groin
+unusual bleeding
+bruising
+vomiting of blood
+material
+coffee grounds
+bloody diarrhea
+blistering
+peeling
+loosening of the skin
+chills
+cough
+drowsiness
+muscle spasms
+tetany
+twitching
+red skin lesions
+purple center
+red, irritated eyes
+seizures
+sores
+ulcers
+white spots in the mouth
+lips
+swelling of the body
+feet
+ankles
+trembling
+unusual weight gain
+abnormal dreams
+body aches
+pain
+full feeling
+burning
+itching around the anus
+change in taste
+taste
+continuing ringing
+buzzing
+other unexplained noise in the ears
+painful urination
+difficulty with moving
+ear congestion
+ear pain
+excess air
+gas in the stomach
+intestines
+falls
+feeling of constant movement of self
+surroundings
+loss in sexual ability
+desire
+drive
+performance
+loss of voice
+metallic taste
+muscle
+bone pain
+nasal congestion
+passing gas
+redness of the face
+neck
+arms
+upper chest
+runny nose
+sensation of spinning
+sneezing
+sore throat
+sunburn
+trouble sleeping

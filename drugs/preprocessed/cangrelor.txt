@@ -1,18 +1,14 @@
 If any of the following side effects occur while taking cangrelor, check with your doctor or nurse immediately:
 The most common adverse reaction was bleeding.
-Very common (10% or more): Any Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Arteries (GUSTO) bleeding (15.
-5%), mild GUSTO bleeding (14.
-9%)Uncommon (0.
-1% to 1%): Severe/life-threatening GUSTO bleeding, moderate GUSTO bleeding, any Thrombolysis in Myocardial Infarction (TIMI) bleeding, major TIMI bleeding, minor TIMI bleedingFrequency not reported: Coronary artery dissection, coronary artery perforation
+Very common ( or more): Any Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Arteries (GUSTO) bleeding , mild GUSTO bleeding Uncommon ( to ): Severe/life-threatening GUSTO bleeding, moderate GUSTO bleeding, any Thrombolysis in Myocardial Infarction (TIMI) bleeding, major TIMI bleeding, minor TIMI bleedingFrequency not reported: Coronary artery dissection, coronary artery perforation
 Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Arteries (GUSTO) bleeding definitions:-Severe/life-threatening GUSTO bleeding: Intracranial hemorrhage or bleeding resulting in substantial hemodynamic compromise requiring treatment.
 -Moderate GUSTO bleeding: Bleeding requiring blood transfusion but not resulting in hemodynamic compromise.
 -Mild GUSTO bleeding: All other bleeding not included in severe or moderate.
-Thrombolysis in Myocardial Infarction (TIMI) bleeding definitions:-Major TIMI bleeding: Any intracranial hemorrhage or any overt bleeding associated with a reduction in hemoglobin of at least 5 g/dL (if hemoglobin is not available, an absolute reduction in hematocrit of 15% or more).
--Minor TIMI bleeding: Any overt sign of bleeding (including observation by imaging techniques) associated with a reduction in hemoglobin of 3 to less than 5 g/dL (if hemoglobin is not available, an absolute reduction in hematocrit of 9% to less than 15%).
-Common (1% to 10%): DyspneaFrequency not reported: Bronchospasm, stridor
-Common (1% to 10%): Worsening renal function in patients with CrCl less than 30 mL/min
-Rare (less than 0.
-1%): HypersensitivityFrequency not reported: Anaphylactic reactions, anaphylactic shock
+Thrombolysis in Myocardial Infarction (TIMI) bleeding definitions:-Major TIMI bleeding: Any intracranial hemorrhage or any overt bleeding associated with a reduction in hemoglobin of at least  g/dL (if hemoglobin is not available, an absolute reduction in hematocrit of  or more).
+-Minor TIMI bleeding: Any overt sign of bleeding (including observation by imaging techniques) associated with a reduction in hemoglobin of  to less than  g/dL (if hemoglobin is not available, an absolute reduction in hematocrit of  to less than ).
+Common ( to ): DyspneaFrequency not reported: Bronchospasm, stridor
+Common ( to ): Worsening renal function in patients with CrCl less than  mL/min
+Rare (less than ): HypersensitivityFrequency not reported: Anaphylactic reactions, anaphylactic shock
 Frequency not reported: Angioedema
 Abdominal or stomach pain or swelling
 back pain

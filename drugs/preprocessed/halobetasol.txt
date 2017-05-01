@@ -5,7 +5,7 @@ Frequency not reported: Hypothalamic-pituitary-adrenal (HPA) axis suppression, C
 Frequency not reported: Intracranial hypertension (including bulging fontanelles, headaches, bilateral papilledema), paresthesia
 Frequency not reported: Dry skin, erythema, skin atrophy, leukoderma, vesicles, rash, pustulation, acne, secondary infection, telangiectasia, urticaria, miliaria, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, striae
 Frequency not reported: Hyperglycemia, glucosuria
-Common (1% to 10%): Stinging, burning, itching
+Common ( to ): Stinging, burning, itching
 Blisters under the skin
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 dry skin
@@ -14,9 +14,7 @@ hives or welts
 itching
 rash
 stinging
-thinning of the skin with easy bruising, especially when used on the face or where the skin folds together (e.
-g.
-between the fingers)
+thinning of the skin with easy bruising, especially when used on the face or where the skin folds together ( between the fingers)
 unusually warm skin
 Blistering, burning, crusting, dryness, or flaking of the skin
 itching, scaling, severe redness, soreness, or swelling of the skin

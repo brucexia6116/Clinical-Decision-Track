@@ -1,4 +1,4 @@
-Bilberry is a plant also known as Airelle, Arándano, Black Whortles, Bleaberry, Blueberry, Brimbelle, Burren Myrtle, Dyeberry, Gueule Noire, Huckleberry, Hurtleberry, Mauret, Myrtille, Raisin des Bois, Trackleberry, Vaccinium myrtillus, Whortleberry, Wineberry, and other names.
+Bilberry is a plant also known as Airelle, Arndano, Black Whortles, Bleaberry, Blueberry, Brimbelle, Burren Myrtle, Dyeberry, Gueule Noire, Huckleberry, Hurtleberry, Mauret, Myrtille, Raisin des Bois, Trackleberry, Vaccinium myrtillus, Whortleberry, Wineberry, and other names.
 Bilberry has been used in alternative medicine as a possibly effective aid in treating circulation problems caused by chronic venous insufficiency, and eye problems caused by diabetes or high blood pressure.
 Bilberry has also been used to improve night vision.
 However, research has shown that bilberry may not be effective in treating this condition.
@@ -28,11 +28,11 @@ Bilberry is possibly unsafe if you take it in high doses or for a long time.
 Do not use different forms (tablets, liquid, tincture, teas, etc) of bilberry at the same time without medical advice.
 Using different formulations together increases the risk of an overdose.
 Call your doctor if the condition you are treating with bilberry does not improve, or if it gets worse while using this product.
-If you need surgery or dental work, stop taking bilberry at least 2 weeks ahead of time.
+If you need surgery or dental work, stop taking bilberry at least  weeks ahead of time.
 Store at room temperature away from moisture and heat.
 Skip the missed dose if it is almost time for your next scheduled dose.
 Do not use extra bilberry to make up the missed dose.
-Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.
+Seek emergency medical attention or call the Poison Help line at ---
 Avoid using bilberry together with other herbal/health supplements that can also lower your blood sugar.
 This includes devil's claw, fenugreek, garlic, guar gum, horse chestnut, Panax ginseng, psyllium, Siberian ginseng, and others.
 Avoid using bilberry together with other herbal/health supplements that can also affect blood-clotting.
@@ -42,18 +42,16 @@ Get emergency medical help if you have signs of an allergic reaction: hives; dif
 Although not all side effects are known, bilberry is thought to be possibly safe when taken for a short period of time.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at --FDA-
 Do not take bilberry without medical advice if you are using any of the following medications:
 insulin or oral diabetes medicine; or
 medicine used to prevent blood clots, such as clopidogrel (Plavix), dalteparin, enoxaparin, heparin, or warfarin (Coumadin, Jantoven).
 This list is not complete.
 Other drugs may interact with bilberry, including prescription and over-the-counter medicines, vitamins, and herbal products.
 Not all possible interactions are listed in this product guide.
-Copyright 1996-2012 Cerner Multum, Inc.
-Version: 3.
-02.
-
-Date modified: April 03, 2017Last reviewed: March 03, 2015
+Copyright - Cerner Multum, Inc.
+Version: .
+Date modified: April , Last reviewed: March , 
 diabetes (bilberry can lower your blood sugar).
 insulin or oral diabetes medicine; or
 medicine used to prevent blood clots, such as clopidogrel (Plavix), dalteparin, enoxaparin, heparin, or warfarin (Coumadin, Jantoven).

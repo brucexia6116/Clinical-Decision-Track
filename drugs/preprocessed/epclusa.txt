@@ -1,22 +1,20 @@
 The most common side effects reported with this drug were fatigue and headache.
 When this drug was studied with ribavirin, the most common side effects were fatigue, anemia, nausea, headache, insomnia, and diarrhea.
 The manufacturer product information for ribavirin should be consulted, if applicable.
-Very common (10% or more): Fatigue (up to 32%)Common (1% to 10%): Asthenia, irritability
-Very common (10% or more): Anemia (26%), decreased hemoglobin (up to 23%)
-Decreases in hemoglobin to less than 10 g/dL and 8.
-5 g/dL during combination therapy were reported in 23% and 7% of subjects, respectively.
-Very common (10% or more): Headache (up to 22%)
-Very common (10% or more): Nausea (up to 15%)Common (1% to 10%): Diarrhea, increased lipase
-Isolated, asymptomatic lipase elevations (greater than 3 times the upper limit of normal [3 x ULN]) were reported in up to 6% of subjects.
-Very common (10% or more): Insomnia (up to 11%)Uncommon (0.
-1% to 1%): Depressed mood
+Very common ( or more): Fatigue (up to )Common ( to ): Asthenia, irritability
+Very common ( or more): Anemia , decreased hemoglobin (up to )
+Decreases in hemoglobin to less than  g/dL and  g/dL during combination therapy were reported in  and  of subjects, respectively.
+Very common ( or more): Headache (up to )
+Very common ( or more): Nausea (up to )Common ( to ): Diarrhea, increased lipase
+Isolated, asymptomatic lipase elevations (greater than  times the upper limit of normal [ x ULN]) were reported in up to  of subjects.
+Very common ( or more): Insomnia (up to )Uncommon ( to ): Depressed mood
 Serious symptomatic bradycardia has been reported in patients taking amiodarone who started therapy with sofosbuvir in combination with another hepatitis C virus (HCV) direct-acting antiviral.
 Postmarketing reports: Serious symptomatic bradycardia (including fatal cardiac arrest, cases requiring pacemaker intervention)
-Common (1% to 10%): Rash
-Common (1% to 10%): Increased creatine kinase
-Isolated, asymptomatic creatine kinase elevations (at least 10 x ULN) were reported in up to 2% of subjects.
+Common ( to ): Rash
+Common ( to ): Increased creatine kinase
+Isolated, asymptomatic creatine kinase elevations (at least  x ULN) were reported in up to  of subjects.
 Frequency not reported: Increased indirect bilirubin
-Increased indirect bilirubin (up to 3 mg/dL above baseline) was reported in HIV-1/HCV-coinfected patients using this drug and an atazanavir/ritonavir-based antiretroviral regimen.
+Increased indirect bilirubin (up to  mg/dL above baseline) was reported in HIV-/HCV-coinfected patients using this drug and an atazanavir/ritonavir-based antiretroviral regimen.
 Chest pain or discomfort
 lightheadedness, dizziness or fainting
 shortness of breath

@@ -1,0 +1,552 @@
+frequent side effects
+nausea
+vomiting
+edema
+tumor necrosis
+muscle cramps
+most events
+causality
+single arm study designs
+disease complications
+concurrent medications
+section
+adverse events
+causality
+occurrence of hematologic toxicity
+dose
+disease stage
+incidence of severe cytopenia
+times
+blast crisis
+phase
+chronic phase
+neutropenic episodes
+median duration
+weeks
+thrombocytopenic episodes
+duration
+weeks
+dose reduction
+imatinib
+active ingredient
+gleevec
+treatment interruption
+hematologic side effects
+major toxicity
+imatinib
+cytopenias
+neutropenia
+grade
+grade
+thrombocytopenia
+grade
+grade
+anemia
+grade
+grade
+epistaxis
+average
+patients
+pancytopenia
+pediatric cml patients
+frequent toxicities
+grade
+cytopenias
+neutropenia
+thrombocytopenia
+anemia
+first several months of therapy
+diagnosed cml trial
+patients
+grade
+hemorrhage
+gastrointestinal stromal tumor
+gist
+clinical trial
+patients
+total
+events of grade
+gastrointestinal bleeds
+patients
+intratumor bleeds
+patients
+patient
+gastrointestinal tumor sites
+source of the gi
+patients
+signs
+symptoms of fluid retention
+unexpected rapid weight gain
+appropriated treatment
+patient in blast crisis
+pleural effusion
+congestive heart failure
+renal failure
+cardiovascular
+side effects
+edema
+periorbital area
+lower limbs
+superficial edema
+patients
+chronic myeloid leukemia
+cml
+studies
+incidence of edema
+patients over years
+higher dosages
+severe superficial edema
+cml patients
+addition
+other severe fluid retention events
+pleural effusion
+pericardial effusion
+pulmonary edema
+ascites
+diagnosed cml patients
+other adult patients
+taking imatinib
+been postmarketing reports
+including fatalities
+cerebral edema
+intracranial pressure
+cardiac tamponade
+papilledema in patients with cml
+imatinib
+severe congestive heart failure
+ventricular dysfunction
+cardiac failure
+tachycardia
+hypertension
+hypotension
+flushing
+peripheral coldness
+subdural hematoma
+cpk
+ldh
+pericarditis
+thrombosis
+embolism
+hepatic side effects
+laboratory abnormalities with severe bilirubin
+enzyme elevations
+elevated bilirubin
+grade
+elevated alkaline phosphatase
+grade
+grade
+elevated ast
+sgot
+grade
+elevated alt
+sgpt
+grade
+grade
+abnormalities
+dose reduction
+treatment interruption
+median duration of week
+severe elevation of transaminases
+bilirubin
+cml patients
+treatment
+liver laboratory abnormalities in less
+cml patients
+fatal liver failure
+study patient
+acetaminophen
+imatinib
+long-term use
+severe hepatotoxicity in animal studies
+including
+elevated liver enzymes
+hepatocellular necrosis
+bile duct necrosis
+bile duct hyperplasia
+gastrointestinal side effects
+nausea
+vomiting
+diarrhea
+dyspepsia
+abdominal pain
+anorexia
+constipation
+gastrointestinal hemorrhage
+abdominal distention
+gastroesophageal reflux
+mouth ulceration
+gastric ulcer
+gastroenteritis
+gastritis
+colitis
+ileus/intestinal obstruction
+pancreatitis
+cases of splenic rupture
+musculoskeletal side effects
+muscle cramps
+musculoskeletal pain
+arthralgia
+myalgia
+weakness
+joint
+sciatica
+muscle stiffness
+rhabdomyolysis
+children
+growth retardation
+nervous system
+side effects
+headache
+cns hemorrhage
+paresthesia
+syncope
+peripheral neuropathy
+somnolence
+migraine
+confusion
+convulsions
+intracranial pressure
+cerebral edema
+including fatalities
+dermatologic side effects
+skin rash
+pruritus
+petechiae
+dry skin
+alopecia
+exfoliative dermatitis
+psoriasis
+bullous eruption
+nail disorder
+skin pigmentation changes
+photosensitivity reaction
+purpura
+vesicular rash
+erythema multiforme
+stevens-johnson syndrome
+trial
+n =-rrb-
+patients
+grey hair before treatment
+progressive repigmentation of the hair
+head
+patients
+body
+head
+cases of hyperkeratosis
+nail dystrophy
+patients with chronic myeloid leukemia
+cases of skin rashes with a peculiar livedoid pattern
+imatinib
+active ingredient
+gleevec
+therapy
+cases of oral
+cutaneous lichenoid reaction
+case of follicular mucinosis
+case of severe pustular eruption
+cases of bullous dermatologic reactions
+including erythema multiforme
+stevens-johnson syndrome
+postmarketing surveillance
+recurrent dermatologic reaction
+rechallenge
+several foreign postmarketing reports
+described cases in which patients
+reintroduction of imatinib therapy after resolution
+improvement of the bullous reaction
+instances
+imatinib
+dose
+reaction
+patients
+concomitant treatment with corticosteroids
+antihistamines
+hair repigmentation
+median of months
+respiratory side effects
+nasopharyngitis
+cough
+pharyngolaryngeal pain
+upper respiratory tract infection
+dyspnea
+pneumonia
+interstitial pneumonitis
+pulmonary fibrosis
+monitoring for siadh
+patients
+receiving high dose imatinib
+active ingredient
+gleevec
+hyponatremia
+metabolic side effects
+weight increase
+hypokalemia
+hypophosphatemia
+weight
+gout
+hyperkalemia
+hyponatremia
+case of the syndrome of inappropriate secretion of antidiuretic hormone
+siadh
+patient
+receiving high dose imatinib
+cases of tumor lysis syndrome
+tls
+including
+fatal cases
+other side effects
+pyrexia
+fatigue
+dizziness
+insomnia
+influenza
+night sweats
+infections
+sepsis
+herpes simplex
+herpes zoster
+dehydration
+appetite disturbances
+vertigo
+tinnitus
+case of dental hyperpigmentation
+case of hand-foot syndrome
+imatinib
+active ingredient
+gleevec
+long term use
+focal mineralization
+dilation of the renal tubules
+tubular nephrosis
+bun
+creatinine in animal studies
+renal side effects
+elevated creatinine
+grade
+renal failure
+urinary frequency
+hematuria
+hypersensitivity side effects
+angioedema
+psychiatric side effects
+depression
+anxiety
+memory impairment
+genitourinary side effects
+breast enlargement
+menorrhagia
+sexual dysfunction
+breast enlargement
+male patients
+gynecomastia
+ocular side effects
+periorbital edema
+epiphora
+conjunctivitis
+vision
+conjunctival hemorrhage
+dry eye
+macular edema
+papilledema
+glaucoma
+vitreous hemorrhage
+retinal hemorrhage
+most cases
+periorbital edema
+epiphora
+severe cases
+oral diuretics
+topical steroids
+signs
+symptoms of periorbital edema
+epiphora
+severe cases of periorbital edema
+surgical excision of periocular soft tissue
+function
+oncologic side effects
+animal studies
+renal adenomas
+renal carcinomas
+urinary bladder papillomas
+papillomas/carcinomas of the preputial
+clitoral gland
+case of eccrine squamous syringometaplasia
+stomach pain
+cramping
+burning
+tenderness
+bleeding from wound after surgery
+bleeding gums
+bleeding problems
+bloating
+swelling of the face
+hands
+lower legs
+feet
+blood in the urine
+bloody eye
+bloody nose
+blue lips
+fingernails
+blurred vision
+body aches
+pain
+chest pain
+discomfort
+chills
+clay-colored stools
+cough
+coughing
+pink frothy sputum
+coughing up blood
+decrease in the amount of urine
+decreased appetite
+decreased urination
+diarrhea
+breathing
+difficulty with swallowing
+dizziness
+dry mouth
+ear congestion
+fever
+general feeling of discomfort
+illness
+headache
+inability to speak
+increased menstrual flow
+vaginal bleeding
+increased thirst
+irregular heartbeat
+itching
+skin rash
+joint pain
+purplish patches on the skin
+loss of appetite
+loss of voice
+mood changes
+muscle aches
+pain
+muscle cramps
+nausea and vomiting
+noisy, rattling breathing
+nosebleed
+numbness
+tingling in the hands
+feet
+lips
+pain
+tenderness around the eyes
+cheekbones
+difficult urination
+pale skin
+prolonged bleeding from cuts
+rapid weight gain
+tarry stools
+dark brown urine
+redness of the eye
+seizures
+shivering
+slurred speech
+purple spots on the skin
+sneezing
+sore throat
+sores
+ulcers
+white spots on the lips
+mouth
+runny nose
+sweating
+swelling in the legs
+ankles
+swollen glands
+temporary blindness
+tightness in the chest
+trouble sleeping
+troubled breathing at rest
+troubled breathing
+moving
+walking
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+vomiting of blood
+material
+coffee grounds
+weakness in the arm
+leg
+side of the body
+yellow eyes
+skin
+anxiety
+blistering
+peeling
+loosening of the skin
+change in vision
+treatment
+chest pain
+moving
+left arm
+neck
+shoulder
+confusion
+slow growth in children
+shallow breathing
+nausea
+heartburn
+indigestion
+continuing
+pain in the bones
+red, irritated eyes
+red skin lesions
+purple center
+seeing floaters
+veil
+curtain
+part of vision
+stomach pain
+cramping
+burning
+severe constipation
+severe vomiting
+tenderness
+pain
+swelling
+warmth
+skin discoloration
+prominent superficial veins over affected area
+acid
+sour stomach
+belching
+difficulty
+bowel movement
+stool
+difficulty with moving
+discouragement
+excess air
+gas in the stomach
+intestines
+fear or nervousness
+feeling
+feeling unusually cold
+bloated feeling
+increased bowel movements
+irritability
+lack
+loss of strength
+loose stools
+loss of interest
+pleasure
+muscle stiffness
+night sweats
+passing gas
+stomach discomfort
+pain
+swollen joints
+trouble concentrating
+weight loss
+back pain
+taste
+change in taste
+watering of the eyes

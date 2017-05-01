@@ -1,7 +1,6 @@
 Commonly reported side effects of oprelvekin include: oral candidiasis, pleural effusion, severe weakness, atrial arrhythmia, dyspnea, edema, and palpitations.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, oprelvekin may cause unwanted side effects that require medical attention.
-
 The side effects listed below include only those that might be caused by oprelvekin.
 To find out about other side effects that may be caused by the cancer medicines you are also receiving, see the information about those medicines.
 If any of the following side effects occur while taking oprelvekin, check with your doctor or nurse as soon as possible:
@@ -13,15 +12,15 @@ The most common adverse effects requiring clinical intervention were atrial arrh
 The most common serious adverse effects were neutropenic fever, syncope, atrial fibrillation, fever, and pneumonia.
 The most common adverse effects were edema, dyspnea, tachycardia, conjunctival injection, palpitations, atrial arrhythmias, and pleural effusions.
 Other than severe asthenia, the incidence of severe or life-threatening adverse effects was comparable with this drug and placebo.
-Very common (10% or more): Nausea/vomiting (77%), diarrhea (43%), mucositis (43%), oral moniliasis (14%) Frequency not reported: Abdominal pain, constipation, dyspepsia
-Very common (10% or more): Edema (59%), fever (36%), severe asthenia (14%)Frequency not reported: Death, asthenia, pain, chills, flu-like symptoms, transferrin decreased, gamma globulins decreased
-Very common (10% or more): Dyspnea (48%), rhinitis (42%), cough increased (29%), pharyngitis (25%), pleural effusions (10%)
-Very common (10% or more): Neutropenic fever (48%)Frequency not reported: Thrombocytosis, plasma volume increased, hemoglobin decreased, albumin decreased, plasma fibrinogen increased, Von Willebrand factor increased, acute-phase proteins increased
-Very common (10% or more): Headache (41%), dizziness (38%), syncope (13%)Frequency not reported: Paresthesia, stroke
-Very common (10% or more): Insomnia (33%)Frequency not reported: Nervousness
-Very common (10% or more): Rash (25%)Frequency not reported: Skin discoloration, exfoliative dermatitis, ecchymosis, alopecia
-Very common (10% or more): Tachycardia (20%), vasodilation (19%), atrial arrhythmias (up to 15%), palpitations (14%)Frequency not reported: Thrombotic eventsPostmarketing reports: Ventricular arrhythmias, capillary leak syndrome
-Very common (10% or more): Conjunctival injection (19%)Frequency not reported: Blurred vision, eye hemorrhage, papilledemaPostmarketing reports: Visual disturbances, blindness, optic neuropathy
+Very common ( or more): Nausea/vomiting , diarrhea , mucositis , oral moniliasis  Frequency not reported: Abdominal pain, constipation, dyspepsia
+Very common ( or more): Edema , fever , severe asthenia Frequency not reported: Death, asthenia, pain, chills, flu-like symptoms, transferrin decreased, gamma globulins decreased
+Very common ( or more): Dyspnea , rhinitis , cough increased , pharyngitis , pleural effusions 
+Very common ( or more): Neutropenic fever Frequency not reported: Thrombocytosis, plasma volume increased, hemoglobin decreased, albumin decreased, plasma fibrinogen increased, Von Willebrand factor increased, acute-phase proteins increased
+Very common ( or more): Headache , dizziness , syncope Frequency not reported: Paresthesia, stroke
+Very common ( or more): Insomnia Frequency not reported: Nervousness
+Very common ( or more): Rash Frequency not reported: Skin discoloration, exfoliative dermatitis, ecchymosis, alopecia
+Very common ( or more): Tachycardia , vasodilation , atrial arrhythmias (up to ), palpitations Frequency not reported: Thrombotic eventsPostmarketing reports: Ventricular arrhythmias, capillary leak syndrome
+Very common ( or more): Conjunctival injection Frequency not reported: Blurred vision, eye hemorrhage, papilledemaPostmarketing reports: Visual disturbances, blindness, optic neuropathy
 Frequency not reported: Dehydration, severe hypokalemia, anorexia, calcium decreased
 Frequency not reported: Myalgia, bone pain
 Frequency not reported: InfectionPostmarketing reports: Allergic reactions, anaphylaxis/anaphylactoid reactions

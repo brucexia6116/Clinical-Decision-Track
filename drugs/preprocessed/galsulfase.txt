@@ -4,21 +4,21 @@ If any of the following side effects occur while taking galsulfase, check with y
 The most frequently reported adverse reactions included rash, pain, urticaria, pyrexia, pruritus, chills, headache, nausea, vomiting, abdominal pain, and dyspnea.
 The most frequently reported adverse reactions requiring interventions are infusion-related reactions.
 Frequency not reported: Anaphylaxis/anaphylactoid reaction, allergic reaction
-Very common (10% or more): Rash (21%), angioedema, urticaria, pruritusCommon (1% to 10%): Erythema
-Very common (10% or more): Abdominal pain (47%), gastroenteritis (11%), umbilical hernia (11%), nausea, vomiting
-Very common (10% or more): Infusion reactions (56%), ear pain (42%), pain (32%), chills/rigors (21%), chest pain (16%), malaise (11%), hearing impairment (11%), pyrexia
-Infusion reactions, which occurred in 56% of patients across 5 clinical studies were defined as adverse reactions occurring during infusions or until the end of the infusion day.
-Infusion reactions were observed as early as week 1 and as late as week 146 of treatment and occurred during multiple infusions, however, not always in consecutive weeks.
+Very common ( or more): Rash , angioedema, urticaria, pruritusCommon ( to ): Erythema
+Very common ( or more): Abdominal pain , gastroenteritis , umbilical hernia , nausea, vomiting
+Very common ( or more): Infusion reactions , ear pain , pain , chills/rigors , chest pain , malaise , hearing impairment , pyrexia
+Infusion reactions, which occurred in  of patients across  clinical studies were defined as adverse reactions occurring during infusions or until the end of the infusion day.
+Infusion reactions were observed as early as week  and as late as week  of treatment and occurred during multiple infusions, however, not always in consecutive weeks.
 The most common signs/symptoms included pruritus, vomiting, abdominal pain, nausea, hypertension, headache, chest pain, erythema, cough, hypotension, angioedema, respiratory distress, tremor, conjunctivitis, malaise, bronchospasm, and arthralgia.
-Very common (10% or more): Hypertension (11%)Common (1% to 10%): HypotensionFrequency not reported: Pallor, bradycardia, tachycardia, cyanosis, shock
-Very common (10% or more): Areflexia (11%), headacheCommon (1% to 10%): TremorFrequency not reported: Paresthesia
-Very common (10% or more): Dyspnea (21%), pharyngitis (11%), nasal congestion (11%)Common (1% to 10%): Apnea, cough, respiratory distress, asthma, bronchospasmFrequency not reported: Laryngeal edema, hypoxia, tachypnea, sleep apneaPostmarketing reports: Respiratory failure
-Very common (10% or more): Arthralgia (42%)
-Very common (10% or more): Conjunctivitis (21%), corneal opacity (11%)
-Very common (10% or more): Development of antidrug antibodies (98%)
-During clinical trials, 53 out of 54 patients tested positive for antidrug IgG antibodies within 4 to 8 weeks of treatment.
-In the placebo controlled study, 19 patients were evaluated for a potential relationship between development of antidrug antibodies to clinical outcome measures.
-While all 19 patients developed antidrug antibodies, there was no consistent predictive relationship between total antibody titer, neutralizing or IgE antibodies, and infusion-associated reactions, urinary glycosaminoglycan (GAG) levels, or endurance measures.
+Very common ( or more): Hypertension Common ( to ): HypotensionFrequency not reported: Pallor, bradycardia, tachycardia, cyanosis, shock
+Very common ( or more): Areflexia , headacheCommon ( to ): TremorFrequency not reported: Paresthesia
+Very common ( or more): Dyspnea , pharyngitis , nasal congestion Common ( to ): Apnea, cough, respiratory distress, asthma, bronchospasmFrequency not reported: Laryngeal edema, hypoxia, tachypnea, sleep apneaPostmarketing reports: Respiratory failure
+Very common ( or more): Arthralgia 
+Very common ( or more): Conjunctivitis , corneal opacity 
+Very common ( or more): Development of antidrug antibodies 
+During clinical trials,  out of  patients tested positive for antidrug IgG antibodies within  to  weeks of treatment.
+In the placebo controlled study,  patients were evaluated for a potential relationship between development of antidrug antibodies to clinical outcome measures.
+While all  patients developed antidrug antibodies, there was no consistent predictive relationship between total antibody titer, neutralizing or IgE antibodies, and infusion-associated reactions, urinary glycosaminoglycan (GAG) levels, or endurance measures.
 Postmarketing reports: Membranous nephropathy
 Postmarketing reports: Thrombocytopenia
 Blurred or decreased vision

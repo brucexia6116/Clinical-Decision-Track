@@ -1,0 +1,441 @@
+peripheral edema
+vasodilation
+hypertensionrare
+atrial fibrillation
+heart failure
+myocardial infarction
+cerebrovascular accident
+ventricular extrasystoles
+bradycardia
+premature atrial contraction
+pericardial rub
+heart block
+pericardial effusion
+postmarketing reports
+cardiac arrest
+chest pain
+palpitation
+tachycardia
+abrasion
+facial edema
+purpura
+rash
+pruritus
+acneuncommon
+alopecia
+eczema
+dry skin
+sweating
+urticaria
+hirsutism
+seborrhea
+cyst
+herpes simplexrare
+stevens-johnson syndrome
+angioedema
+erythema multiforme
+drug rash
+eosinophilia
+systemic symptoms
+herpes zoster
+skin discolor
+skin papules
+photosensitive reaction
+psoriasis
+desquamation
+maceration
+skin nodules
+subcutaneous nodule
+melanosis
+skin necrosis
+local swelling frequency
+dress/multiorgan hypersensitivity
+goiter
+hypoestrogenism
+ovarian failure
+epididymitis
+cushingoid appearance
+diarrhea
+dry mouth
+throat
+constipation
+nausea
+vomiting
+dyspepsia
+dental abnormalities
+gingivitis
+abdominal pain
+flatulence
+glossitis
+gum hemorrhage
+thirst
+stomatitis
+salivation
+gastroenteritis
+hemorrhoids
+bloody stools
+fecal incontinence rare
+pancreatitis
+dysphagia
+eructation
+pancreatitis
+peptic ulcer
+colitis
+blisters in mouth
+tooth discoloration
+perlche
+salivary gland
+lip hemorrhage
+esophagitis
+hiatal hernia
+hematemesis
+proctitis
+irritable bowel syndrome
+rectal hemorrhage
+esophageal spasmfrequency
+dehydration
+common adverse reactions
+use of this drug
+dizziness
+somnolence
+peripheral edema
+incontinence
+impotenceuncommon
+hematuria
+dysuria
+urinary frequency
+cystitis
+urinary retention
+vaginal hemorrhage
+amenorrhea
+dysmenorrhea
+menorrhagiafrequency
+breast hypertrophy
+gynecomastia
+sexual dysfunction
+including changes in libido
+ejaculation disorders
+anorgasmia
+leucopenia
+purpurauncommon
+anemia
+lymphadenopathyrare
+thrombocytopenia
+thrombophlebitis
+leukocytosis
+lymphocytosis
+bleeding time frequency
+blood creatine phosphokinase
+coagulation defect
+hepatitis
+jaundice
+elevated liver function tests sgot
+ast
+sgpt
+alt
+bilirubin
+hepatotoxicity
+hypersensitivity syndrome
+systemic reaction with a variable presentation
+fever
+rash
+hepatitis
+lymphadenopathy
+eosinophilia
+other signs
+symptoms
+weight gain
+hyperglycemiapostmarketing reports
+hyponatremia
+pain
+arthralgia
+myalgia
+twitchinguncommon
+tendonitis
+arthritis
+joint stiffness
+joint swelling frequency
+rhabdomyolysis
+myoclonuspostmarketing reports
+elevated creatine kinase
+rhabdomyolysis
+somnolence
+dizziness
+ataxia
+abnormal gait
+incoordination
+neuralgia
+tremor
+dysarthria
+hyperkinesia
+seizures
+dysarthria
+paresthesia
+hypesthesia
+coordination
+increased/decreased/absent reflexes
+vertigo
+hypokinesiarare
+movement disorders
+choreoathetosis
+dyskinesia
+dystonia
+loss of consciousness frequency
+withdrawal
+seizure/status epilepticuspostmarketing reports
+movement disorder
+amblyopia
+conjunctivitis
+diplopia
+nystagmusuncommon
+cataract
+dry eyes
+eye pain
+visual field defect
+photophobia
+unilateral ptosis
+eye hemorrhage
+hordeolum
+eye twitchingrare
+eye
+abnormal accommodation
+eye
+focusing problem
+watery eyes
+retinopathy
+glaucoma
+iritis
+corneal disorders
+lacrimal dysfunction
+degenerative eye changes
+blindness
+retinal degeneration
+miosis
+chorioretinitis
+strabismus
+breast cancerrare
+non-hodgkin
+lymphoma
+fatigue
+fever
+asthenia
+accidental injury
+otitis media
+tremor
+painrare
+tinnitusvery
+sudden unexplained death in patients with epilepsy frequency
+sleepwalking
+withdrawal symptoms
+hearing loss
+earache
+tinnitus
+inner ear infection
+otitis
+taste loss
+unusual taste
+ear fullness
+perforated ear
+sensitivity
+noise
+eustachian tube dysfunction
+otitis externa
+odd smell
+labyrinthitis
+abnormal thinking
+amnesia
+depression
+hostility
+confusion
+emotional liability
+anxiety
+nervousness
+amnesia
+insomniauncommon
+mental impairmentrare
+hallucinations frequency
+suicidal behavior
+ideation
+hypomania
+acute renal failure
+pharyngitis
+dyspnea
+cough
+bronchitis
+respiratory infection
+rhinitisrare
+pulmonary thrombosis
+pulmonary embolismfrequency
+pseudo-croup
+hoarseness
+clumsiness or unsteadiness
+rolling eye movements
+aggressive behavior
+other behavior problems
+anxiety
+concentration problems
+school performance
+crying
+depression
+false sense of well-being
+hyperactivity
+increase in body movements
+rapidly changing moods
+reacting
+overreacting
+restlessness
+suspiciousness or distrust
+black, tarry stools
+chest pain
+chills
+cough
+depression
+irritability
+other mood
+mental changes
+fever
+loss of memory
+pain
+swelling in the arms
+legs
+difficult urination
+shortness of breath
+sore throat
+sores
+ulcers
+white spots on the lips
+mouth
+swollen glands
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+stomach pain
+blistering
+peeling
+loosening of the skin
+clay-colored stools
+coma
+confusion
+convulsions
+dark urine
+decreased urine output
+diarrhea
+dizziness
+irregular heartbeat
+headache
+increased thirst
+itching
+skin rash
+joint pain
+hive-like swelling on the face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+loss of appetite
+muscle ache
+pain
+nausea
+red skin lesions
+purple center
+red, irritated eyes
+unpleasant breath odor
+vomiting of blood
+yellow eyes
+skin
+blurred vision
+flu-like symptoms
+delusions
+dementia
+hoarseness
+lack
+loss of strength
+side pain
+swelling of the hands
+feet
+lower legs
+trembling or shaking
+accidental injury
+appetite increased
+back pain
+full feeling
+body aches
+pain
+burning
+itching eyes
+change in vision
+change
+walking
+balance
+clumsiness or unsteadiness
+congestion
+constipation
+cough producing mucus
+decrease in sexual desire
+ability
+difficulty with breathing
+dryness of the mouth
+throat
+earache
+excess air
+gas in the stomach
+intestines
+excessive tearing
+eye discharge
+feeling
+lightheadedness
+feeling of warmth
+heat
+flushed, dry skin
+flushing
+redness of the skin
+face
+neck
+frequent urination
+fruit-like breath odor
+impaired vision
+incoordination
+increased hunger
+increased sensitivity
+pain
+increased sensitivity
+increased thirst
+indigestion
+noise in the ears
+pain
+redness
+rash
+swelling
+bleeding
+skin
+passing gas
+redness
+swelling in the ear
+redness
+pain
+swelling of the eye
+eyelid
+inner lining of the eyelid
+runny nose
+sneezing
+sweating
+tender
+swollen glands in the neck
+tightness in the chest
+tingling in the hands
+feet
+trouble sleeping
+trouble swallowing
+trouble thinking
+twitching
+unexplained weight loss
+voice changes
+vomiting
+weakness
+loss of strength
+weight gain

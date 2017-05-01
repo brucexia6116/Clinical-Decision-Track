@@ -1,33 +1,31 @@
 As well as its needed effects, potassium iodide (the active ingredient contained in Pima) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking potassium iodide, check with your doctor or nurse as soon as possible:
 Some potassium iodide side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Endocrinologic side effects have included both hyper- and hypothyroidism.
 By inhibiting the release of thyroid hormone from the thyroid gland, iodide can cause goiter and hypothyroidism.
-This has been called the Wolff-Chaikoff effect, occurring in approximately 4% of patients, and may be more likely in patients with cystic fibrosis (CF).
+This has been called the Wolff-Chaikoff effect, occurring in approximately  of patients, and may be more likely in patients with cystic fibrosis (CF).
 Iodide may induce hyperthyroidism, called the Jod-Basedow effect, when given to patients with preexisting iodide deficiency or autonomous, "hot" thyroid nodules.
 Iodide can cause parotid gland swelling.
-In one study of 55 patients with CF who were treated with iodides, 47 developed goiters, and 14 had clinical or laboratory evidence of hypothyroidism.
-In 2 of the 14 hypothyroidism occurred in the absence of a goiter.
-Subsequent data are consistent with the possibility that peripheral deiodination of T4 to T3 may be impaired in these patients.
+In one study of  patients with CF who were treated with iodides,  developed goiters, and  had clinical or laboratory evidence of hypothyroidism.
+In  of the  hypothyroidism occurred in the absence of a goiter.
+Subsequent data are consistent with the possibility that peripheral deiodination of T to T may be impaired in these patients.
 Failure to appreciate this can lead to the erroneous diagnosis of congenital hypothyroidism in some patients with CF.
 The pathogenesis of vegetating iododerma is not clear, may be idiosyncratic, and appears to involve a hyperinflammatory response.
 Iodides appear to increase the movement of polymorphonuclear leukocytes (PMNLs) into areas of inflammation, enhancing the inflammatory response.
 Since PMNLs are known to increase connective tissue proliferation, iodides could convert an area of inflammation into an area of proliferative tissue, providing and explanation for proliferative iododermas.
-Dermatologic side effects have included iododerma in approximately 1% of patients.
+Dermatologic side effects have included iododerma in approximately  of patients.
 Iododerma is a term used describe a wide range of dermatologic side effects of KI that typically affect the face, neck, back and upper extremities.
 Iododerma may present as acneiform vesiculobullous, vesicular, pustular, hemorrhagic or urticarial lesions.
-The incidence of skin eruptions associated with the use of KI in inpatients from the Boston Collaborative Surveillance Program was less than 0.
-6%.
+The incidence of skin eruptions associated with the use of KI in inpatients from the Boston Collaborative Surveillance Program was less than .
 Rare cases of urticaria, angioedema, polymyalgia, and life-threatening systemic reactions have been associated with the use KI in patients with underlying connective tissue disorders.
 Rare cases of severe, ulcerative, vegetating iododerma in patients with underlying polyarteritis nodosa, arthritis, lymphoma, subacute glomerulonephritis, multiple myeloma, dermal vasculitis or hypocomplementemia have been reported.
 Hypersensitivity side effects have included rash, fever, eosinophilia, jaundice, pruritus, angioedema, lymphadenopathy, arthralgia, bronchospasm, submucosal hemorrhage and periarteritis nodosa-type reactions.
 Bullous iododerma appear to be an allergic reaction, and can be fatal.
 Other known hypersensitivity reactions to iodides include hematuria, proteinuria, and pulmonary edema.
 Predisposing risk factors for hypersensitivity reactions appear to include some underlying connective tissue disorders.
-Gastrointestinal side effects have included "upset stomach" in 10% to 40% of patients, depending on the dose.
+Gastrointestinal side effects have included "upset stomach" in  to  of patients, depending on the dose.
 Other common GI complaints include an unpleasant, "brassy" taste, throat or retrosternal burning, sore gums, and salivation.
 In rare cases and in cases of overdose, esophagitis and gastritis have been reported.
 Iodide may interfere with certain autoanalyzer measurements of serum chloride, resulting in falsely elevated values.
@@ -38,11 +36,11 @@ Metabolic side effects have included metabolic acidosis following KI overdose.
 Renal side effects have included acute renal failure secondary to tubular necrosis following KI overdose.
 Hematologic side effects have included rare reports of hemolytic anemia, and appear to be limited to cases of overdose.
 Immunologic side effects have included rare cases of systemic granulomatous vasculitis.
-A 37-year-old female with Sweet's syndrome was successfully treated with potassium iodide.
-Within 12 days after beginning therapy, however, she developed malaise, diminished vision, hypertension, rash, and fever.
+A -year-old female with Sweet's syndrome was successfully treated with potassium iodide.
+Within  days after beginning therapy, however, she developed malaise, diminished vision, hypertension, rash, and fever.
 Physical and laboratory findings revealed new renal insufficiency, bilateral papillitis on retinal examination, and leukocytoclastic vasculitis per skin biopsy.
 Renal biopsy and renal and mesenteric angiography were normal.
-The patient's signs and symptoms resolved over 11 months with the addition of oral prednisolone therapy.
+The patient's signs and symptoms resolved over  months with the addition of oral prednisolone therapy.
 It is possible that some side effects of Pima may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

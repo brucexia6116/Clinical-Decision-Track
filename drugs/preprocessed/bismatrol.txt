@@ -1,7 +1,6 @@
 In some patients bismuth subsalicylate may cause dark tongue and/or grayish black stools.
 This is only temporary and will go away when you Stop taking bismuth subsalicylate.
-Rare (less than 0.
-1%): Myoclonic encephalopathy Frequency not reported: Weakness, fatigue, depression, anxiety, irritability, insomnia, unsteady gait, motor incoordination, loss of memory, jerky movements, mental confusion, disorientation, difficulty in walking and speaking, tremor, myoclonic jerks, incontinence
+Rare (less than ): Myoclonic encephalopathy Frequency not reported: Weakness, fatigue, depression, anxiety, irritability, insomnia, unsteady gait, motor incoordination, loss of memory, jerky movements, mental confusion, disorientation, difficulty in walking and speaking, tremor, myoclonic jerks, incontinence
 Nervous system toxicity is a common feature of bismuth toxicity.
 Bismuth toxicity is characterized by the insidious onset of weakness and fatigue, depression, anxiety, irritability, insomnia, unsteady gait, motor incoordination, loss of memory, and jerky movements.
 Acute toxicity may result in the development of mental confusion, disorientation, difficulty in walking and speaking, tremor, myoclonic jerks, and incontinence.
@@ -12,7 +11,7 @@ Salicylism has been reported in patients who chronically ingest bismuth subsalic
 Patients may present with respiratory alkalosis and metabolic acidosis, azotemia, and hypoprothrombinemia and platelet dysfunction.
 The elderly may be particularly vulnerable to the development of salicylism.
 Frequency not reported: Salicylism
-Very common (10% or more): Black stoolCommon (1% to 10%): Black tongueFrequency not reported: Nausea, vomiting
+Very common ( or more): Black stoolCommon ( to ): Black tongueFrequency not reported: Nausea, vomiting
 Anxiety
 any loss of hearing
 confusion

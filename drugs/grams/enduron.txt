@@ -1,0 +1,228 @@
+frequency
+pancreatitis
+sialadenitis
+vomiting
+diarrhea
+nausea
+gastric irritation
+constipation
+frequency
+cutaneous vasculitis
+purpura
+urticaria
+rash
+photosensitivity
+frequency
+aplastic anemia
+hemolytic anemia
+agranulocytosis
+leukopenia
+thrombocytopenia
+frequency
+anorexia
+hyperglycemia
+hyperuricemia
+electrolyte imbalance
+hypercalcemia
+frequency
+headache
+vertigo
+dizziness
+paresthesias
+frequency
+respiratory distress
+pneumonitis
+pulmonary edema
+frequency
+orthostatic hypotension
+vasculitis
+frequency
+anaphylactic reaction
+stevens-johnson syndrome
+frequency
+cramping
+muscle spasm
+frequency
+transient blurred vision
+xanthopsia
+frequency
+weakness
+fever
+frequency
+glycosuria
+frequency
+intrahepatic cholestatic jaundice
+frequency
+restlessness
+stomach pain
+leg
+stomach pains
+black, tarry stools
+bleeding gums
+blistering
+peeling
+loosening of skin
+bloating
+blood in urine
+stools
+bloody urine
+blue lips
+fingernails
+blurred vision
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+chest pain
+chills
+clay-colored stools
+cloudy urine
+cold sweats
+confusion
+constipation
+cough or hoarseness
+coughing
+pink frothy sputum
+coughing up blood
+cracks in the skin
+darkened urine
+decrease in urine output
+urine-concentrating ability
+decreased frequency
+amount of urine
+diarrhea
+noisy breathing
+wheezing
+difficulty swallowing
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+dry mouth
+irregular heartbeat
+fever
+flushed, dry skin
+fruit-like breath odor
+general body swelling
+general feeling of discomfort
+illness
+general feeling of tiredness
+weakness
+decreased frequency of urination
+amount of urine
+headache
+hives
+increased blood pressure
+increased hunger
+increased sweating
+increased thirst
+increased urination
+indigestion
+itching
+joint pain
+stiffness
+swelling
+loss of appetite
+loss of heat from the body
+side pain
+muscle cramps
+pain
+nausea or vomiting
+nosebleeds
+numbness
+tingling
+pain
+weakness in hands
+feet
+pain in joints
+muscles
+difficult urination
+pains in stomach
+side
+abdomen
+radiating
+back
+pale skin
+red spots on skin
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+rash
+red, irritated eyes
+red skin lesions
+purple center
+red, swollen skin
+redness
+soreness
+itching skin
+scaly skin
+seizures
+shortness of breath
+sore throat
+sores
+ulcers
+white spots on lips
+mouth
+sores
+welting
+blisters
+sugar in the urine
+swelling of face
+fingers
+legs
+ankles
+feet
+lower legs
+painful glands
+tenderness of salivary glands
+thickening of bronchial secretions
+tightness in chest
+trembling
+troubled breathing
+unpleasant breath odor
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+unusual weight loss
+vomiting of blood
+weakness
+heaviness of legs
+weight gain
+wheezing
+yellow eyes
+skin
+cramping
+decreased interest in sexual intercourse
+difficulty
+bowel movement
+stool
+feeling of constant movement of self
+surroundings
+hair loss
+thinning of hair
+inability
+erection
+increased sensitivity of skin
+sunlight
+loss in sexual ability
+desire
+drive
+performance
+muscle spasm
+purple spots on skin
+redness
+other discoloration of skin
+restlessness
+sensation of spinning
+severe sunburn
+weakness

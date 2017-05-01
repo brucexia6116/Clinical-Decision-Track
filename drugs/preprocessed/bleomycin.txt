@@ -9,9 +9,9 @@ After treatment has ended, normal hair growth should return, although it may tak
 Side effects that affect your lungs (for example, cough and shortness of breath) may be more likely to occur if you smoke.
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention.
 If you notice any of the following side effects check with your doctor immediately:
-Pulmonary toxicity occurs most frequently in patients over 70 years of age and in those receiving over 400 units of total dosage.
+Pulmonary toxicity occurs most frequently in patients over  years of age and in those receiving over  units of total dosage.
 Patients often present with dry cough, dyspnea, rales, and infiltrate.
-One case of fatal pulmonary fibrosis has been reported in a patient (with normal renal function) who received a total cumulative dose of only 20 units.
+One case of fatal pulmonary fibrosis has been reported in a patient (with normal renal function) who received a total cumulative dose of only  units.
 Sudden onset of an acute chest pain syndrome suggestive of pleuropericarditis has rarely been reported during bleomycin infusions.
 Although each patient must be individually evaluated, further courses of bleomycin do not appear to be contraindicated.
 The earliest sign and symptom of pulmonary toxicity are fine rales and dyspnea.
@@ -24,12 +24,12 @@ The acute stage may involve capillary changes and subsequent fibrinous exudation
 These microscopic findings are nonspecific.
 (Similar changes are seen in radiation pneumonitis and pneumocystic pneumonitis.
 )
-Respiratory side effects (10%) are potentially the most serious.
+Respiratory side effects  are potentially the most serious.
 The most frequent respiratory presentation has been pneumonitis, which has sometimes progressed to pulmonary fibrosis.
-Approximately 1% of treated patients have died of pulmonary fibrosis.
+Approximately  of treated patients have died of pulmonary fibrosis.
 Two cases of fatal pneumothorax and one case reported of fatal diffuse alveolar injury have also been reported.
-Skin toxicity is a relatively late manifestation, usually developing in the 2nd and 3rd week of treatment, after a cumulative dose of 150 to 200 units.
-Dermatologic side effects including erythema, rash, striae, vesiculation, hyperpigmentation, and skin tenderness are the most frequent (50%) type of side effect.
+Skin toxicity is a relatively late manifestation, usually developing in the nd and rd week of treatment, after a cumulative dose of  to  units.
+Dermatologic side effects including erythema, rash, striae, vesiculation, hyperpigmentation, and skin tenderness are the most frequent  type of side effect.
 Hyperkeratosis, nail changes, alopecia, and pruritus have also been reported.
 One case of fatal fulminant angioedema involving the skin and lungs has been reported.
 A case of bleomycin-induced flagellate dermatitis has also been reported.
@@ -37,16 +37,15 @@ Relative to other chemotherapeutic agents, bleomycin is felt to have low emetoge
 Gastrointestinal side effects have frequently included vomiting, which can generally be controlled with oral phenothiazines.
 Anorexia and weight loss have also been frequently reported and may persist long after discontinuation of treatment.
 Mucosal lesions including stomatitis and ulceration of the lips and tongue have been reported rarely.
-Hypersensitivity side effects have included an idiosyncratic reaction (hypotension, mental confusion, fever, chills, and wheezing) in approximately 1% of lymphoma patients.
+Hypersensitivity side effects have included an idiosyncratic reaction (hypotension, mental confusion, fever, chills, and wheezing) in approximately  of lymphoma patients.
 The reaction may be immediate or delayed for several hours.
 It usually occurs after the first or second dose.
 Treatment is symptomatic and can include volume expansion, epinephrine, antihistamines and corticosteroids.
 Two known cases have been reported of fatal hyperpyrexia in patients with lymphoma who had previously received bleomycin (without prior hyperpyrexia).
 One of the patients had previously received multiple doses.
-There has also been a case report of fatal hyperpyrexia in a patient premedicated with high-dose dexamethasone, to an initial 7.
-5 mg dose for a poorly differentiated metastatic carcinoma.
+There has also been a case report of fatal hyperpyrexia in a patient premedicated with high-dose dexamethasone, to an initial  mg dose for a poorly differentiated metastatic carcinoma.
 Cardiovascular side effects (myocardial infarction, cerebrovascular accident, thrombotic microangiopathy (HUS)) have been reported rarely (in combination antineoplastic therapy).
-Other side effects include fever (up to 50%), and chills which have frequently been reported.
+Other side effects include fever (up to ), and chills which have frequently been reported.
 Cerebral arteritis and Raynaud's phenomenon have also been reported.
 Three known cases of scleroderma have been reported.
 Local side effects including pain at the tumor site and phlebitis have been reported infrequently.
@@ -54,7 +53,7 @@ Oncologic side effects have been reported.
 Bleomycin has tested positive in the great majority of genetic toxicity assays.
 These genotoxic effects are similar to those induced by ionizing radiation.
 The most frequent mutations produced in mammalian cells are large multilocus deletions, which probably arise by misrepair of (DNA) double strand breaks.
-Fever and chills (occurring within 3 to 6 hours after a dose) 
+Fever and chills (occurring within  to  hours after a dose) 
 Confusion
 faintness
 wheezing

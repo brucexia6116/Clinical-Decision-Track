@@ -1,27 +1,17 @@
 If any of the following side effects occur while taking coagulation factor viia, check with your doctor or nurse immediately:
 The most common adverse reactions were thrombotic events.
-Common (1% to 10%): Hypertension, thromboembolic eventsUncommon (0.
-1% to 1%): ShockRare (less than 0.
-1%): Angina pectorisPostmarketing reports: Intracardiac thrombus, flushing
-Specific arterial thromboembolic events (cerebral artery occlusion, cerebrovascular accident), specific venous thromboembolic events (pulmonary embolism, deep vein thrombosis), and angina pectoris were reported with a frequency of common (1% to 10%) in clinical trials of 61 patients with acquired hemophilia.
-Common (1% to 10%): Plasma fibrinogen decreased, acute post-operative hemarthrosisRare (less than 0.
-1%): Disseminated intravascular coagulation, D dimer increased, antithrombin decreased, coagulopathy, fibrin degradation products increased, alkaline phosphatase increased, lactate dehydrogenase increased, prothrombin increased
+Common ( to ): Hypertension, thromboembolic eventsUncommon ( to ): ShockRare (less than ): Angina pectorisPostmarketing reports: Intracardiac thrombus, flushing
+Specific arterial thromboembolic events (cerebral artery occlusion, cerebrovascular accident), specific venous thromboembolic events (pulmonary embolism, deep vein thrombosis), and angina pectoris were reported with a frequency of common ( to ) in clinical trials of  patients with acquired hemophilia.
+Common ( to ): Plasma fibrinogen decreased, acute post-operative hemarthrosisRare (less than ): Disseminated intravascular coagulation, D dimer increased, antithrombin decreased, coagulopathy, fibrin degradation products increased, alkaline phosphatase increased, lactate dehydrogenase increased, prothrombin increased
 Antibody formation against this drug has only been reported in patients with factor VII deficiency.
-Common (1% to 10%): Antibody formation against this drugRare (less than 0.
-1%): HypersensitivityPostmarketing reports: Anaphylactic reaction
-Common (1% to 10%): Intracranial hypertension, headacheUncommon (0.
-1% to 1%): Cerebrovascular accidentFrequency not reported: Cerebrovascular disorder
-Common (1% to 10%): Localized phlebitisRare (less than 0.
-1%): Injection site reaction
-Common (1% to 10%): FeverFrequency not reported: Pain
-Uncommon (0.
-1% to 1%): Rash, pruritus, urticariaPostmarketing reports: Angioedema
-Uncommon (0.
-1% to 1%): Nausea
-Uncommon (0.
-1% to 1%): Dyspnea
-Rare (less than 0.
-1%): Alanine aminotransferase increasedFrequency not reported: Abnormal hepatic function
+Common ( to ): Antibody formation against this drugRare (less than ): HypersensitivityPostmarketing reports: Anaphylactic reaction
+Common ( to ): Intracranial hypertension, headacheUncommon ( to ): Cerebrovascular accidentFrequency not reported: Cerebrovascular disorder
+Common ( to ): Localized phlebitisRare (less than ): Injection site reaction
+Common ( to ): FeverFrequency not reported: Pain
+Uncommon ( to ): Rash, pruritus, urticariaPostmarketing reports: Angioedema
+Uncommon ( to ): Nausea
+Uncommon ( to ): Dyspnea
+Rare (less than ): Alanine aminotransferase increasedFrequency not reported: Abnormal hepatic function
 Bleeding problems
 fever
 high blood pressure
@@ -46,7 +36,7 @@ lightheadedness when getting up suddenly from a lying or sitting position
 persistent bleeding or oozing from puncture sites or mucous membranes (bowel, mouth, nose, or urinary bladder)
 puffiness or swelling of the eyelids or around the eyes
 shakiness
-slow or irregular heartbeat (less than 50 beats per minute)
+slow or irregular heartbeat (less than  beats per minute)
 slurred speech
 sneezing
 sore throat

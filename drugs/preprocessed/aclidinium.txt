@@ -1,31 +1,13 @@
-Common (1% to 10%): Diarrhea (2.
-7%), toothache (1.
-1%), vomiting (1.
-1%)Uncommon (0.
-1% to 1%): Dry mouth, abdominal discomfort, tooth abscessPostmarketing reports: Nausea, stomatitis
-Common (1% to 10%): Headache (6.
-6%)Uncommon (0.
-1% to 1%): Dizziness
-Common (1% to 10%): Fall (1.
-1%)Uncommon (0.
-1% to 1%): Candidiasis
-Common (1% to 10%): Nasopharyngitis (5.
-5%), cough (3%), sinusitis (1.
-7%), rhinitis (1.
-6%)Uncommon (0.
-1% to 1%): Dysphonia
-Uncommon (0.
-1% to 1%): First degree AV block, cardiac failure, cardiorespiratory arrest, palpitationsPostmarketing reports: Tachycardia
-Uncommon (0.
-1% to 1%): Rash, pruritus
-Uncommon (0.
-1% to 1%): Urinary retention
-Uncommon (0.
-1% to 1%): Diabetes mellitus (less than 1%)
-Uncommon (0.
-1% to 1%): Osteoarthritis (less than 1%)
-Uncommon (0.
-1% to 1%): Blurred vision
+Common ( to ): Diarrhea , toothache , vomiting Uncommon ( to ): Dry mouth, abdominal discomfort, tooth abscessPostmarketing reports: Nausea, stomatitis
+Common ( to ): Headache Uncommon ( to ): Dizziness
+Common ( to ): Fall Uncommon ( to ): Candidiasis
+Common ( to ): Nasopharyngitis , cough , sinusitis , rhinitis Uncommon ( to ): Dysphonia
+Uncommon ( to ): First degree AV block, cardiac failure, cardiorespiratory arrest, palpitationsPostmarketing reports: Tachycardia
+Uncommon ( to ): Rash, pruritus
+Uncommon ( to ): Urinary retention
+Uncommon ( to ): Diabetes mellitus (less than )
+Uncommon ( to ): Osteoarthritis (less than )
+Uncommon ( to ): Blurred vision
 Postmarketing reports: Immediate hypersensitivity reactions, including anaphylaxis, angioedema (including swelling of the lips, tongue, or throat), urticaria, rash, bronchospasm, itching
 Decrease in the frequency of urination
 decrease in urine volume

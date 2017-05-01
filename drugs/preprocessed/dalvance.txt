@@ -1,13 +1,13 @@
 The most common adverse reactions were nausea, headache, and diarrhea.
 Frequency not reported: Anemia, hemorrhagic anemia, leucopenia, neutropenia, thrombocytopenia, petechiae, eosinophilia, thrombocytosis, international normalized ratio increased, phlebitis, wound hemorrhage, spontaneous hematoma
-Common (1% to 10%): Rash, pruritusFrequency not reported: Urticaria, flushing
-Common (1% to 10%): Nausea, diarrhea, vomitingFrequency not reported: Gastrointestinal hemorrhage, melena, hematochezia, abdominal pain
+Common ( to ): Rash, pruritusFrequency not reported: Urticaria, flushing
+Common ( to ): Nausea, diarrhea, vomitingFrequency not reported: Gastrointestinal hemorrhage, melena, hematochezia, abdominal pain
 Frequency not reported: Hepatotoxicity, hepatic transaminases increased, blood alkaline phosphatase increased
 Frequency not reported: Anaphylactoid reaction
 Frequency not reported: Clostridium difficile colitis, oral candidiasis, vulvovaginal mycotic infection
 Frequency not reported: Infusion-related reactions
 Frequency not reported: Hypoglycemia
-Common (1% to 10%): HeadacheFrequency not reported: Dizziness
+Common ( to ): HeadacheFrequency not reported: Dizziness
 Frequency not reported: Bronchospasm
 Abdominal or stomach pain or tenderness
 back pain

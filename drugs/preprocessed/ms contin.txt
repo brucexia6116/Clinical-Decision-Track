@@ -6,38 +6,24 @@ Patients receiving continuous infusion of morphine sulfate via indwelling intrat
 Further assessment or intervention should be based on the clinical condition of the individual patient.
 Myoclonic spasms may occur in patients receiving high dose morphine, particularly in the setting of renal dysfunction.
 Hyperalgesia has also been reported with high doses.
-Very common (10% or more): Drowsiness (28%)Common (1% to 10%): Dizziness, sedation, fever, anxiety, confusion, tremor, diaphoresis, lethargy, feeling of warmthUncommon (0.
-1% to 1%): Withdrawal symptoms after either abrupt cessation or fast tapering of the drug, headache, chills, flu syndrome, malaise, withdrawal syndrome, pallor, facial flushing, syncope, loss of concentration, insomnia, amnesia, paresthesia, agitation, vertigo, foot drop, ataxia, hypesthesia, slurred speech, hallucinations, euphoria, apathy, seizures, myoclonusFrequency not reported: Inflammatory masses including granulomas (some of which have resulted in serous neurologic impairment including paralysis) in patients receiving continuous infusion of opioids via indwelling intrathecal catheter
-Common (1% to 10%): Respiratory depressionUncommon (0.
-1% to 1%): Hiccup, rhinitis, atelectasis, asthma, hypoxia, voice alteration, depressed cough reflex, noncardiogenic pulmonary edema, bronchospasm
+Very common ( or more): Drowsiness Common ( to ): Dizziness, sedation, fever, anxiety, confusion, tremor, diaphoresis, lethargy, feeling of warmthUncommon ( to ): Withdrawal symptoms after either abrupt cessation or fast tapering of the drug, headache, chills, flu syndrome, malaise, withdrawal syndrome, pallor, facial flushing, syncope, loss of concentration, insomnia, amnesia, paresthesia, agitation, vertigo, foot drop, ataxia, hypesthesia, slurred speech, hallucinations, euphoria, apathy, seizures, myoclonusFrequency not reported: Inflammatory masses including granulomas (some of which have resulted in serous neurologic impairment including paralysis) in patients receiving continuous infusion of opioids via indwelling intrathecal catheter
+Common ( to ): Respiratory depressionUncommon ( to ): Hiccup, rhinitis, atelectasis, asthma, hypoxia, voice alteration, depressed cough reflex, noncardiogenic pulmonary edema, bronchospasm
 Morphine may cause constriction of the common bile duct and spasm of the sphincter of Oddi, thereby increasing intrabiliary pressure and worsening, rather than relieving, biliary colic.
 In addition, morphine (the active ingredient contained in MS Contin) may cause intense but uncoordinated duodenal contraction and decreased gastric emptying.
-Common (1% to 10%): Dry mouth, constipation, nausea, diarrhea, anorexia, abdominal pain, vomitingUncommon (0.
-1% to 1%): Dysphagia, dyspepsia, stomach atony disorder, gastroesophageal reflux, delayed gastric emptying, biliary colic, increased gastroesophageal reflux, intestinal obstruction
-Common (1% to 10%): Chest painUncommon (0.
-1% to 1%): Tachycardia, atrial fibrillation, hypertension, hypotension, palpitations, bradycardia, vasodilation
-Uncommon (0.
-1% to 1%): Abnormal thinking, abnormal dreams, depression, fearfulness, agitation, paranoia, psychosis, hypervigilance, hallucinations, deliriumFrequency not reported: Withdrawal symptoms after abrupt cessation of therapy
-Uncommon (0.
-1% to 1%): Urinary abnormality, urinary retention, urinary hesitancy
+Common ( to ): Dry mouth, constipation, nausea, diarrhea, anorexia, abdominal pain, vomitingUncommon ( to ): Dysphagia, dyspepsia, stomach atony disorder, gastroesophageal reflux, delayed gastric emptying, biliary colic, increased gastroesophageal reflux, intestinal obstruction
+Common ( to ): Chest painUncommon ( to ): Tachycardia, atrial fibrillation, hypertension, hypotension, palpitations, bradycardia, vasodilation
+Uncommon ( to ): Abnormal thinking, abnormal dreams, depression, fearfulness, agitation, paranoia, psychosis, hypervigilance, hallucinations, deliriumFrequency not reported: Withdrawal symptoms after abrupt cessation of therapy
+Uncommon ( to ): Urinary abnormality, urinary retention, urinary hesitancy
 The risk of acute urinary retention is very high when morphine is administered by epidural or intrathecal injection.
 Clinicians should be attentive to the increased risk of urosepsis in this setting, particularly if instrumentation of the urinary tract is necessary.
-Common (1% to 10%): Anemia, leukopeniaUncommon (0.
-1% to 1%): Thrombocytopenia
-Uncommon (0.
-1% to 1%): Hyponatremia due to inappropriate ADH secretion, gynecomastia, amenorrhea, reduced libido, reduced potency, prolonged labor
-Common (1% to 10%): Asthenia, accidental injuryUncommon (0.
-1% to 1%): Back pain, bone pain, arthralgiaFrequency not reported: Opioid-induced involuntary muscle hyperactivity with chronic high doses
-Common (1% to 10%): RashUncommon (0.
-1% to 1%): Decubitus ulcer, pruritus, skin flush
-Uncommon (0.
-1% to 1%): Amblyopia, conjunctivitis, miosis, blurred vision, nystagmus, diplopia
-Very rare (less than 0.
-01%): Hypersensitivity reactions, anaphylaxis
-Uncommon (0.
-1% to 1%): Increases in hepatic enzymes
-Common (1% to 10%): Peripheral edemaUncommon (0.
-1% to 1%): Hyponatremia
+Common ( to ): Anemia, leukopeniaUncommon ( to ): Thrombocytopenia
+Uncommon ( to ): Hyponatremia due to inappropriate ADH secretion, gynecomastia, amenorrhea, reduced libido, reduced potency, prolonged labor
+Common ( to ): Asthenia, accidental injuryUncommon ( to ): Back pain, bone pain, arthralgiaFrequency not reported: Opioid-induced involuntary muscle hyperactivity with chronic high doses
+Common ( to ): RashUncommon ( to ): Decubitus ulcer, pruritus, skin flush
+Uncommon ( to ): Amblyopia, conjunctivitis, miosis, blurred vision, nystagmus, diplopia
+Very rare (less than ): Hypersensitivity reactions, anaphylaxis
+Uncommon ( to ): Increases in hepatic enzymes
+Common ( to ): Peripheral edemaUncommon ( to ): Hyponatremia
 epidural suspension extended releaseinjection injectable, injection solution
 Abdominal or stomach pain
 blurred vision

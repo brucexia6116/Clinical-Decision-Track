@@ -5,38 +5,21 @@ If any of the following side effects occur while taking donepezil, check with yo
 The most common adverse events were diarrhea, muscle cramps, fatigue, nausea, vomiting, anorexia and insomnia.
 Most adverse events are mild in severity and transient in nature.
 Frequency of common adverse effects may be influenced by the rate of titration.
-Very common (10% or more): Diarrhea, nauseaCommon (1% to 10%): Vomiting, abdominal disturbance, tooth ache, fecal incontinence, gastrointestinal bleeding, bloating, epigastric painUncommon (0.
-1% to 1%): Gastrointestinal hemorrhage, gastric and duodenal ulcers, eructation, gingivitis, flatulence, periodontal abscess, cholelithiasis, drooling, dry mouth, fever sore, gastritis, irritable colon, tongue edema, epigastric distress, gastroenteritis, increased transaminases, hemorrhoids, ileus, increased thirst, jaundice, melena, polydipsia, duodenal ulcer, stomach ulcer, hernia hiatal
-Very common (10% or more): HeadacheCommon (1% to 10%): Dizziness, insomnia, somnolence, tremor, paresthesia, ataxia, nervousness, aphasiaUncommon (0.
-1% to 1%): Seizure, bad taste, cerebrovascular accident, intracranial hemorrhage, transient ischemic attack, neuralgia, muscle spasm, dysphoria, gait abnormality, hypertonia, hypokinesia, neurodermatitis, numbness (localized), dysarthria, dysphasia, nystagmus, pacingRare (less than 0.
-1%): Extrapyramidal symptomsVery rare (less than 0.
-01%): Neuroleptic malignant syndrome
-Common (1% to 10%): Hypertension, hemorrhage, syncope, vasodilation, atrial fibrillation, hot flashes, hypotensionUncommon (0.
-1% to 1%): Bradycardia, angina pectoris, postural hypotension, myocardial infarction, AV block (first degree), congestive heart failure, arteritis, peripheral vascular disease, supraventricular tachycardia, deep vein thrombosis.
-Rare (less than 0.
-1%): SA block, AV block
-Common (1% to 10%): Eczema rash, pruritus, ecchymosis, diaphoresis, urticariaUncommon (0.
-1% to 1%): Dermatitis, erythema, skin discoloration, hyperkeratosis, alopecia, fungal dermatitis, hirsutism, skin striae, night sweats, skin ulcer
-Common (1% to 10%): Urinary incontinence, nocturiaUncommon (0.
-1% to 1%): Dysuria, hematuria, urinary urgency, metrorrhagia, cystitis, enuresis, prostate hypertrophy, pyelonephritis, inability to empty bladder, breast fibroadenosis, fibrocystic breast, mastitis, pyuria, renal failure, vaginitis
-Common (1% to 10%): Anorexia, decreased weight, dehydrationUncommon (0.
-1% to 1%): Increased appetite, gout, hypokalemia, hyperglycemia, increased lactate dehydrogenase
-Common (1% to 10%): Muscle cramps, arthritis, bone fractureUncommon (0.
-1% to 1%): Muscle weakness, muscle fasciculation
-Common (1% to 10%): Cataract, eye irritation, vision blurredUncommon (0.
-1% to 1%): Dry eyes, glaucoma, blepharitis, retinal hemorrhage, conjunctival hemorrhage, spots before eyes, periorbital edema
-Common (1% to 10%): Fatigue, pain, accidental overdose, vertigo, abnormal cryingUncommon (0.
-1% to 1%): Minor increase in serum concentration of muscle creatine kinase, diverticulitis, earache, tinnitus, decreased hearing, otitis externa, otitis media, ear buzzing, motion sickness, herpes zoster, coldness (localized), fever, edema face, abscess, cellulitis, chills, generalized coldness, head fullness
-Common (1% to 10%): Hallucinations, agitation, aggressive behavior, abnormal dreams, nightmares, delusions, irritability, aggression, increased libido, restlessnessUncommon (0.
-1% to 1%): Emotional lability, paranoia, hostility, decreased libido, melancholia, emotional withdrawal, listlessness
-Common (1% to 10%): Common cold, influenza, chest pain, dyspnea, sore throat, bronchitisUncommon (0.
-1% to 1%): Epistaxis, post nasal drip, pneumonia, hyperventilation, pulmonary congestion, wheezing, hypoxia, pharyngitis, pleurisy, pulmonary collapse, sleep apnea, snoring
-Uncommon (0.
-1% to 1%): Diabetes mellitus, goiter
-Uncommon (0.
-1% to 1%): Anemia, thrombocythemia, thrombocytopenia, eosinophilia, erythrocytopenia
-Rare (less than 0.
-1%): Liver dysfunction (including hepatitis)
+Very common ( or more): Diarrhea, nauseaCommon ( to ): Vomiting, abdominal disturbance, tooth ache, fecal incontinence, gastrointestinal bleeding, bloating, epigastric painUncommon ( to ): Gastrointestinal hemorrhage, gastric and duodenal ulcers, eructation, gingivitis, flatulence, periodontal abscess, cholelithiasis, drooling, dry mouth, fever sore, gastritis, irritable colon, tongue edema, epigastric distress, gastroenteritis, increased transaminases, hemorrhoids, ileus, increased thirst, jaundice, melena, polydipsia, duodenal ulcer, stomach ulcer, hernia hiatal
+Very common ( or more): HeadacheCommon ( to ): Dizziness, insomnia, somnolence, tremor, paresthesia, ataxia, nervousness, aphasiaUncommon ( to ): Seizure, bad taste, cerebrovascular accident, intracranial hemorrhage, transient ischemic attack, neuralgia, muscle spasm, dysphoria, gait abnormality, hypertonia, hypokinesia, neurodermatitis, numbness (localized), dysarthria, dysphasia, nystagmus, pacingRare (less than ): Extrapyramidal symptomsVery rare (less than ): Neuroleptic malignant syndrome
+Common ( to ): Hypertension, hemorrhage, syncope, vasodilation, atrial fibrillation, hot flashes, hypotensionUncommon ( to ): Bradycardia, angina pectoris, postural hypotension, myocardial infarction, AV block (first degree), congestive heart failure, arteritis, peripheral vascular disease, supraventricular tachycardia, deep vein thrombosis.
+Rare (less than ): SA block, AV block
+Common ( to ): Eczema rash, pruritus, ecchymosis, diaphoresis, urticariaUncommon ( to ): Dermatitis, erythema, skin discoloration, hyperkeratosis, alopecia, fungal dermatitis, hirsutism, skin striae, night sweats, skin ulcer
+Common ( to ): Urinary incontinence, nocturiaUncommon ( to ): Dysuria, hematuria, urinary urgency, metrorrhagia, cystitis, enuresis, prostate hypertrophy, pyelonephritis, inability to empty bladder, breast fibroadenosis, fibrocystic breast, mastitis, pyuria, renal failure, vaginitis
+Common ( to ): Anorexia, decreased weight, dehydrationUncommon ( to ): Increased appetite, gout, hypokalemia, hyperglycemia, increased lactate dehydrogenase
+Common ( to ): Muscle cramps, arthritis, bone fractureUncommon ( to ): Muscle weakness, muscle fasciculation
+Common ( to ): Cataract, eye irritation, vision blurredUncommon ( to ): Dry eyes, glaucoma, blepharitis, retinal hemorrhage, conjunctival hemorrhage, spots before eyes, periorbital edema
+Common ( to ): Fatigue, pain, accidental overdose, vertigo, abnormal cryingUncommon ( to ): Minor increase in serum concentration of muscle creatine kinase, diverticulitis, earache, tinnitus, decreased hearing, otitis externa, otitis media, ear buzzing, motion sickness, herpes zoster, coldness (localized), fever, edema face, abscess, cellulitis, chills, generalized coldness, head fullness
+Common ( to ): Hallucinations, agitation, aggressive behavior, abnormal dreams, nightmares, delusions, irritability, aggression, increased libido, restlessnessUncommon ( to ): Emotional lability, paranoia, hostility, decreased libido, melancholia, emotional withdrawal, listlessness
+Common ( to ): Common cold, influenza, chest pain, dyspnea, sore throat, bronchitisUncommon ( to ): Epistaxis, post nasal drip, pneumonia, hyperventilation, pulmonary congestion, wheezing, hypoxia, pharyngitis, pleurisy, pulmonary collapse, sleep apnea, snoring
+Uncommon ( to ): Diabetes mellitus, goiter
+Uncommon ( to ): Anemia, thrombocythemia, thrombocytopenia, eosinophilia, erythrocytopenia
+Rare (less than ): Liver dysfunction (including hepatitis)
 Diarrhea
 loss of appetite
 muscle cramps

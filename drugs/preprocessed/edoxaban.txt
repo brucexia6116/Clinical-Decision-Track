@@ -1,31 +1,21 @@
 During nonvalvular atrial fibrillation treatment, the most common adverse reactions were bleeding and anemia.
 During deep venous thromboembolism and pulmonary embolism treatment, the most common adverse reactions were bleeding, rash, abnormal liver function tests, and anemia.
-Very common (10% or more): Any bleeding (21.
-7%), clinically-relevant non-major bleeding (up to 18.
-1%)Common (1% to 10%): Major bleeding, anemia-related adverse events, non-fatal non-critical organ bleeding, clinically relevant bleeding, anemiaUncommon (0.
-1% to 1%): Fatal bleeding, non-fatal critical organ bleeding, a 2 g/dL or greater decrease in hemoglobin, blood loss requiring transfusion of 2 or more units of RBCRare (less than 0.
-1%): Fatal non-intracranial bleeding
+Very common ( or more): Any bleeding , clinically-relevant non-major bleeding (up to )Common ( to ): Major bleeding, anemia-related adverse events, non-fatal non-critical organ bleeding, clinically relevant bleeding, anemiaUncommon ( to ): Fatal bleeding, non-fatal critical organ bleeding, a  g/dL or greater decrease in hemoglobin, blood loss requiring transfusion of  or more units of RBCRare (less than ): Fatal non-intracranial bleeding
 Major bleeding included intracranial hemorrhage (ICH), gastrointestinal hemorrhage, and fatal bleeds.
-A major bleeding event was defined as clinically overt bleeding that met one of the following criteria: fatal bleeding, symptomatic bleeding in a critical site (e.
-g.
-spine, eye), drop in hemoglobin of at least 2 g/dL, or a drop in hematocrit of at least 6%.
+A major bleeding event was defined as clinically overt bleeding that met one of the following criteria: fatal bleeding, symptomatic bleeding in a critical site (  spine, eye), drop in hemoglobin of at least  g/dL, or a drop in hematocrit of at least .
 A clinically relevant non-major bleed was defined as overt bleeding that required medical intervention.
 Major GI bleeds included both upper and lower GI bleeds.
 A GUSTO severe GI bleed is defined as a severe or life-threatening bleed that causes hemodynamic compromise and requires intervention.
-Common (1% to 10%): Major gastrointestinal (GI) bleeding, upper GI bleeding, lower GI bleeding (including anorectal bleeding), oral and pharyngeal bleedingUncommon (0.
-1% to 1%): GUSTO severe GI bleedingRare (less than 0.
-1%): Fatal GI bleed
+Common ( to ): Major gastrointestinal (GI) bleeding, upper GI bleeding, lower GI bleeding (including anorectal bleeding), oral and pharyngeal bleedingUncommon ( to ): GUSTO severe GI bleedingRare (less than ): Fatal GI bleed
 ICH included hemorrhagic stroke, subarachnoid hemorrhage, epidural/subdural hemorrhage, and ischemic stroke with major hemorrhage.
-Uncommon (0.
-1% to 1%): Any intracranial hemorrhage (ICH), hemorrhagic stroke, ICH other than hemorrhagic stroke, fatal ICH
-Common (1% to 10%): Cutaneous soft tissue bleeding, rash
-Common (1% to 10%): Vaginal bleeding, macroscopic hematuria, urethral bleeding
-Common (1% to 10%): Abnormal liver function tests
-Common (1% to 10%): Puncture site bleeding
-Common (1% to 10%): EpistaxisUncommon (0.
-1% to 1%): Interstitial lung disease (ILD)
+Uncommon ( to ): Any intracranial hemorrhage (ICH), hemorrhagic stroke, ICH other than hemorrhagic stroke, fatal ICH
+Common ( to ): Cutaneous soft tissue bleeding, rash
+Common ( to ): Vaginal bleeding, macroscopic hematuria, urethral bleeding
+Common ( to ): Abnormal liver function tests
+Common ( to ): Puncture site bleeding
+Common ( to ): EpistaxisUncommon ( to ): Interstitial lung disease (ILD)
 Most cases of ILD were confounded by concurrent amiodarone, which is known to cause ILD, or infectious pneumonia.
-Overall, 5 patients out of 5417 died of ILD during the course of the study.
+Overall,  patients out of  died of ILD during the course of the study.
 Bloody nose
 heavy non-menstrual vaginal bleeding
 pale skin

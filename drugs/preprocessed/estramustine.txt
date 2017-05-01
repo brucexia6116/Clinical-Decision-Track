@@ -1,17 +1,17 @@
 If any of the following side effects occur while taking estramustine, check with your doctor or nurse as soon as possible:
-Very common (10% or more): Breast tenderness (66%), breast enlargement (60%), gynecomastia Frequency not reported: Erectile dysfunction
-Very common (10% or more): Abnormal LDH and/or AST (31%), abnormal hepatic functionCommon (1% to 10%): Abnormal bilirubin
-Very common (10% or more): Edema (19%)Common (1% to 10%): Chest painFrequency not reported: Injection site thrombosis
-Very common (10% or more): Nausea (15%), diarrhea (12%), minor gastrointestinal upset (11%), vomitingCommon (1% to 10%): Flatulence, gastrointestinal bleeding
-Very common (10% or more): Dyspnea (11%)Common (1% to 10%): Pulmonary emboli, upper respiratory discharge, hoarseness, burning throatFrequency not reported: Larynx edema
-Very common (10% or more): Congestive heart failureCommon (1% to 10%): Myocardial infarction, thrombophlebitisFrequency not reported: Myocardial ischemia, hypertension
-Very common (10% or more): Anemia, leukopeniaCommon (1% to 10%): Thrombocytopenia
-Very common (10% or more): Fluid retentionCommon (1% to 10%): Anorexia, thirst
-Common (1% to 10%): Pruritus, dry skin, rash, easy bruising, flushing, peeling skin on fingertip, thinning hair
-Common (1% to 10%): Leg crampsFrequency not reported: Muscular weakness
-Common (1% to 10%): Lethargy, cerebrovascular accident, headache
-Common (1% to 10%): Tearing of eyes
-Common (1% to 10%): Insomnia, emotional lability, anxietyFrequency not reported: Confusional state, depression
+Very common ( or more): Breast tenderness , breast enlargement , gynecomastia Frequency not reported: Erectile dysfunction
+Very common ( or more): Abnormal LDH and/or AST , abnormal hepatic functionCommon ( to ): Abnormal bilirubin
+Very common ( or more): Edema Common ( to ): Chest painFrequency not reported: Injection site thrombosis
+Very common ( or more): Nausea , diarrhea , minor gastrointestinal upset , vomitingCommon ( to ): Flatulence, gastrointestinal bleeding
+Very common ( or more): Dyspnea Common ( to ): Pulmonary emboli, upper respiratory discharge, hoarseness, burning throatFrequency not reported: Larynx edema
+Very common ( or more): Congestive heart failureCommon ( to ): Myocardial infarction, thrombophlebitisFrequency not reported: Myocardial ischemia, hypertension
+Very common ( or more): Anemia, leukopeniaCommon ( to ): Thrombocytopenia
+Very common ( or more): Fluid retentionCommon ( to ): Anorexia, thirst
+Common ( to ): Pruritus, dry skin, rash, easy bruising, flushing, peeling skin on fingertip, thinning hair
+Common ( to ): Leg crampsFrequency not reported: Muscular weakness
+Common ( to ): Lethargy, cerebrovascular accident, headache
+Common ( to ): Tearing of eyes
+Common ( to ): Insomnia, emotional lability, anxietyFrequency not reported: Confusional state, depression
 Frequency not reported: Hypersensitivity reactions, allergic reactions, angioedema, allergic dermatitis
 Black, tarry stools
 blood in urine or stools

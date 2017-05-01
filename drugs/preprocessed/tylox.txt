@@ -1,5 +1,4 @@
 As well as its needed effects, acetaminophen / oxycodone may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking acetaminophen / oxycodone, check with your doctor immediately:
 If any of the following symptoms of overdose occur while taking acetaminophen / oxycodone, get emergency help immediately:
 Some acetaminophen / oxycodone side effects may not need any medical attention.
@@ -26,17 +25,16 @@ In this setting, severe and sometimes fatal dose-dependent hepatitis has been re
 Several cases of hepatotoxicity from chronic acetaminophen therapy at therapeutic doses have also been reported despite a lack of risk factors for toxicity
 Hepatotoxicity may be increased by thyroid drugs, zidovudine, fasting, or alcohol use.
 Alcoholic patients may develop hepatotoxicity after even modest doses of acetaminophen.
-In healthy patients, approximately 15 grams of acetaminophen is necessary to deplete liver glutathione stores by 70% in a 70 kg person.
+In healthy patients, approximately  grams of acetaminophen is necessary to deplete liver glutathione stores by  in a  kg person.
 Hepatotoxicity has been reported following smaller doses.
 Glutathione concentrations may be repleted by the antidote n-acetylcysteine.
 One case report has suggested that hypothermia may also be beneficial in decreasing liver damage during overdose.
-In a recent retrospective study of 306 patients admitted for acetaminophen overdose, 6.
-9% had severe liver injury but all recovered.
-None of the 306 patients died.
-A 19-year-old female developed hepatotoxicity, reactive plasmacytosis and agranulocytosis followed by a leukemoid reaction after acute acetaminophen toxicity.
+In a recent retrospective study of  patients admitted for acetaminophen overdose,  had severe liver injury but all recovered.
+None of the  patients died.
+A -year-old female developed hepatotoxicity, reactive plasmacytosis and agranulocytosis followed by a leukemoid reaction after acute acetaminophen toxicity.
 Hypersensitivity side effects including anaphylaxis and fixed drug eruptions have been reported rarely in association with acetaminophen use.
 Severe adverse effects of oxycodone, such as respiratory depression, can be treated with the opioid antagonist, naloxone.
-(The usual adult dose of naloxone is 1 to 2 mg every 5 minutes as necessary to a maximum of 10 mg.
+(The usual adult dose of naloxone is  to  mg every  minutes as necessary to a maximum of  mg.
 The dose is usually administered intravenously, but in an emergency may be given intramuscularly, subcutaneously, or sublingually.
 )
 Nervous system side effects with oxycodone containing products are common and include drowsiness, sedation, dizziness, and lightheadedness.
@@ -56,8 +54,7 @@ Neither patient was rechallenged after resolution of the initial episode.
 Cardiovascular side effects have included at least two cases of hypotension which have been reported following the administration of acetaminophen.
 Metabolic side effects including metabolic acidosis have been reported following a massive overdose of acetaminophen.
 In the case of metabolic acidosis, causality is uncertain as more than one drug was ingested.
-The case of metabolic acidosis followed the ingestion of 75 grams of acetaminophen, 1.
-95 grams of aspirin, and a small amount of a liquid household cleaner.
+The case of metabolic acidosis followed the ingestion of  grams of acetaminophen,  grams of aspirin, and a small amount of a liquid household cleaner.
 The patient also had a history of seizures which the authors reported may have contributed to an increased lactate level indicative of metabolic acidosis.
 It is possible that some side effects of Tylox may not have been reported.
 These can be reported to the FDA here.

@@ -1,54 +1,27 @@
 Side effects include:
 Hemorrhage or bleeding, fever, abnormal liver function, pneumonia, sepsis, allergic skin reactions, heart failure.
-
-Other hemorrhagic events (hemoperitoneum, hemoptysis, liver bleeding, lung bleeding, mouth bleeding, retroperitoneal bleeding) each occurred in one individual among 198 patients treated with lepirudin in controlled trials.
+Other hemorrhagic events (hemoperitoneum, hemoptysis, liver bleeding, lung bleeding, mouth bleeding, retroperitoneal bleeding) each occurred in one individual among  patients treated with lepirudin in controlled trials.
 Hemorrhagic events have been the most common and potentially serious side effects associated with the use of lepirudin.
-The following were reported during controlled trials: bleeding from puncture sites and wounds (10.
-6% to 14.
-1%); anemia or isolated drop in hemoglobin concentration (12.
-4% to 13.
-1%); hematoma or unclassified hemorrhage (10.
-6% to 11.
-1%); gastrointestinal or rectal bleeding (5.
-1% to 5.
-3%); epistaxis (3.
-0% to 4.
-4%); hemothorax (0% to 3.
-0%); vaginal bleeding (1.
-5% to 1.
-8%); intracranial bleeding (0%).
+The following were reported during controlled trials: bleeding from puncture sites and wounds ( to ); anemia or isolated drop in hemoglobin concentration ( to ); hematoma or unclassified hemorrhage ( to ); gastrointestinal or rectal bleeding ( to ); epistaxis ( to ); hemothorax ( to ); vaginal bleeding ( to ); intracranial bleeding .
 Intracranial hemorrhage (ICH) has been observed in patients with acute myocardial infarction who were started on both thrombolytic therapy and lepirudin.
-The overall prevalence of ICH in this population was 0.
-6% (7 of 1134 patients).
-ICH was not observed among 1168 patients who did not receive concomitant thrombolytic therapy.
+The overall prevalence of ICH in this population was  ( of  patients).
+ICH was not observed among  patients who did not receive concomitant thrombolytic therapy.
 There has been at least one case report of thrombocytopenia.
 Serious anaphylactic reactions resulting in shock or death have been reported.
-Hypersensitivity reactions have occurred in up to 10% of patients and have included skin rashes, pruritus, urticaria, flushing, or chills (less than 1.
-0% to 3.
-5%) and airway reactions, such as cough, bronchospasm, stridor, dyspnea (up to 10%).
-Anaphylaxis or anaphylactoid reactions have been observed in less than 1% of patients.
-Approximately 53% of allergic or suspected allergic reactions occurred in patients also receiving thrombolytic therapy for acute myocardial infarction and/or contrast media for coronary angiography.
-Antihirudin antibodies have been reported in approximately 40% of heparin-induced thrombocytopenia patients receiving lepirudin.
+Hypersensitivity reactions have occurred in up to  of patients and have included skin rashes, pruritus, urticaria, flushing, or chills (less than  to ) and airway reactions, such as cough, bronchospasm, stridor, dyspnea (up to ).
+Anaphylaxis or anaphylactoid reactions have been observed in less than  of patients.
+Approximately  of allergic or suspected allergic reactions occurred in patients also receiving thrombolytic therapy for acute myocardial infarction and/or contrast media for coronary angiography.
+Antihirudin antibodies have been reported in approximately  of heparin-induced thrombocytopenia patients receiving lepirudin.
 Complexation of lepirudin to these antibodies may increase the anticoagulant effect due to delayed renal elimination of active complexes.
 Lepirudin neutralization and allergic reactions have not been reported despite positive antibody tests.
 Adverse reactions following reexposure have been limited to mild skin reactions.
-Respiratory effects as a result of hypersensitivity reactions have been reported in up to 10% of patients.
+Respiratory effects as a result of hypersensitivity reactions have been reported in up to  of patients.
 Symptoms included cough, bronchospasm, stridor, and dyspnea.
-Pneumonia has occurred in up to 4.
-4% of patients compared with 5.
-5% in control patients.
-Abnormal elevations of liver transaminases and other measurements of liver function have been reported in approximately 6% of patients.
-General side effects have included fever (4% to 6% of patients) and unspecified allergic reactions (less than 1% of patients).
-The prevalence of sepsis, unspecified infections, and multiorgan failure has been similar among treated versus control patients (4.
-0% versus 5.
-5%, 2.
-5% versus 1.
-1%, and 2.
-0% versus 0%, respectively).
-Cardiovascular side effects have included new or worsened heart failure in up to 3% of patients.
-Pericardial effusion and ventricular fibrillation each have been reported in 1% of patients.
+Pneumonia has occurred in up to  of patients compared with  in control patients.
+Abnormal elevations of liver transaminases and other measurements of liver function have been reported in approximately  of patients.
+General side effects have included fever ( to  of patients) and unspecified allergic reactions (less than  of patients).
+The prevalence of sepsis, unspecified infections, and multiorgan failure has been similar among treated versus control patients ( versus ,  versus , and  versus , respectively).
+Cardiovascular side effects have included new or worsened heart failure in up to  of patients.
+Pericardial effusion and ventricular fibrillation each have been reported in  of patients.
 Edema (facial, tongue, laryngeal, or angioedema) has been associated rarely with use of lepirudin.
-New or worsened renal insufficiency has been observed in 1.
-8% to 2.
-5% of patients versus 4.
-4% among control patients.
+New or worsened renal insufficiency has been observed in  to  of patients versus  among control patients.

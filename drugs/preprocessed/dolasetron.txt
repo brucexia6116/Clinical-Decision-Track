@@ -4,32 +4,14 @@ Other dosage forms:
 The most common side effects include headache, constipation, sleep disorders, and dizziness.
 Loss of consciousness may occur immediately/closely after an IV bolus in patients receiving treatment for prophylaxis of chemotherapy induced nausea and vomiting.
 Headache and dizziness occurred more frequently at higher doses.
-Very common (10% or more): Headache (up to 41.
-1%), dizziness (up to 12.
-5%), drowsiness (up to 10.
-5%)Rare (0.
-01% to 0.
-1%): Seizure, syncopeFrequency not reported: Taste perversion, vertigo, paresthesia, tremor, ataxiaPostmarketing reports: Loss of consciousness
-Very common (10% or more): Constipation (up to 28.
-6%), dyspepsia (up to 12.
-8%), diarrhea (up to 11.
-1%), abdominal pain (up to 10.
-2%)Rare (0.
-01% to 0.
-1%): Intestinal obstruction, pancreatitis
-Very common (10% or more): Sleep disorder (up to 12.
-8%)Frequency not reported: Agitation, depersonalization, confusion, anxiety, abnormal dreaming
-Very common (10% or more): Fatigue (up to 12.
-2%)Common (1% to 10%): Pain, fever, chills/shiveringFrequency not reported: TinnitusPostmarketing reports: Facial edema
-Common (1% to 10%): Bradycardia (mostly sinus), hypotension, tachycardia (mostly sinus)Uncommon (0.
-1% to 1%): Chest pain, orthostatic hypotension, hypertensionRare (0.
-01% to 0.
-1%): Myocardial ischemia, edemaFrequency not reported: T wave change, ST-T wave change, sinus arrhythmia, extrasystole (atrial/ventricular premature contractions), poor R wave progression, left and right bundle branch block, nodal arrhythmias, U wave change, atrial flutter/fibrillation, peripheral edema, Mobitz I AV block, palpitations, peripheral ischemia, thrombophlebitis/phlebitisPostmarketing reports: Severe hypotension, wide complex tachycardia, ventricular tachycardia, ventricular fibrillation/cardiac arrest, shock
+Very common ( or more): Headache (up to ), dizziness (up to ), drowsiness (up to )Rare ( to ): Seizure, syncopeFrequency not reported: Taste perversion, vertigo, paresthesia, tremor, ataxiaPostmarketing reports: Loss of consciousness
+Very common ( or more): Constipation (up to ), dyspepsia (up to ), diarrhea (up to ), abdominal pain (up to )Rare ( to ): Intestinal obstruction, pancreatitis
+Very common ( or more): Sleep disorder (up to )Frequency not reported: Agitation, depersonalization, confusion, anxiety, abnormal dreaming
+Very common ( or more): Fatigue (up to )Common ( to ): Pain, fever, chills/shiveringFrequency not reported: TinnitusPostmarketing reports: Facial edema
+Common ( to ): Bradycardia (mostly sinus), hypotension, tachycardia (mostly sinus)Uncommon ( to ): Chest pain, orthostatic hypotension, hypertensionRare ( to ): Myocardial ischemia, edemaFrequency not reported: T wave change, ST-T wave change, sinus arrhythmia, extrasystole (atrial/ventricular premature contractions), poor R wave progression, left and right bundle branch block, nodal arrhythmias, U wave change, atrial flutter/fibrillation, peripheral edema, Mobitz I AV block, palpitations, peripheral ischemia, thrombophlebitis/phlebitisPostmarketing reports: Severe hypotension, wide complex tachycardia, ventricular tachycardia, ventricular fibrillation/cardiac arrest, shock
 Severe hypotension and bradycardia occurred immediately/closely after an IV bolus in patients receiving treatment for prophylaxis of chemotherapy induced nausea and vomiting.
 Wide complex tachycardia, ventricular tachycardia, and ventricular fibrillation/cardiac arrest were rarely reported after IV administration.
-Common (1% to 10%): Increased serum transaminases (AST, ALT)Rare (0.
-01% to 0.
-1%): JaundiceFrequency not reported: Hyperbilirubinemia, increased GGT
+Common ( to ): Increased serum transaminases (AST, ALT)Rare ( to ): JaundiceFrequency not reported: Hyperbilirubinemia, increased GGT
 Increased serum transaminases occurred more frequently in patients treated during IV chemotherapy/radiotherapy than those treated during postoperative therapy/IV surgery; however, the increases did not appear to be related to dose/duration of therapy, and were not associated with symptomatic hepatic disease.
 Respiratory side effects have rarely included dyspnea and bronchospasm.
 Frequency not reported: Prothrombin time prolonged, partial thromboplastin time (PTT) increased, anemia, purpura/hematoma, thrombocytopenia

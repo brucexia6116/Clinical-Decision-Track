@@ -1,25 +1,16 @@
 As well as its needed effects, urokinase may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking urokinase, check with your doctor or nurse immediately:
 The most common and severe adverse reaction was hemorrhage, with puncture site being the most frequent location.
-Very common (10% or more): Bleeding resulting in at least 5% decrease in hematocrit (36.
-9%)Common (1% to 10%): Significant bleeding events requiring transfusion of greater than 2 units of bloodFrequency not reported: Hemorrhage, hematocrit decreased without clinically detectable hemorrhage, fatal hemorrhage, hematocrit decreased, thrombocytopenia
-Common (1% to 10%): Hematoma, artery dissection, embolism, cholesterol embolismRare (less than 0.
-1%): Vascular pseudoaneurysmFrequency not reported: Thromboembolism, wound hemorrhage, hypotension, flushing, cyanosis, tachycardia, hypertension, myocardial infarctionPostmarketing reports: Cardiac arrest, reperfusion ventricular arrhythmias
-Common (1% to 10%): Gastrointestinal hemorrhage, retroperitoneal hemorrhageFrequency not reported: Gingival hemorrhage, retroperitoneal hematoma, nausea, vomiting, orolingual edema
-Common (1% to 10%): Stroke, intracranial hemorrhageFrequency not reported: Fatal intracranial hemorrhage, intracranial hematoma, hemiplegiaPostmarketing reports: Cerebral embolism, cerebral vascular accident
-Common (1% to 10%): Fever, chillsFrequency not reported: Substernal painPostmarketing reports: Chest pain
-Common (1% to 10%): Urogenital hemorrhageRare (less than 0.
-1%): Macroscopic hematuriaFrequency not reported: Microscopic hematuria
-Common (1% to 10%): Muscle hemorrhageFrequency not reported: Back pain
-Uncommon (0.
-1% to 1%): Allergic reactionRare (less than 0.
-1%): Hypersensitivity reactions, anaphylaxisVery rare (less than 0.
-01%): Fatal anaphylaxis
-Uncommon (0.
-1% to 1%): Intrahepatic hemorrhageFrequency not reported: Transient increase in transaminases
-Uncommon (0.
-1% to 1%): Renal failure
+Very common ( or more): Bleeding resulting in at least  decrease in hematocrit Common ( to ): Significant bleeding events requiring transfusion of greater than  units of bloodFrequency not reported: Hemorrhage, hematocrit decreased without clinically detectable hemorrhage, fatal hemorrhage, hematocrit decreased, thrombocytopenia
+Common ( to ): Hematoma, artery dissection, embolism, cholesterol embolismRare (less than ): Vascular pseudoaneurysmFrequency not reported: Thromboembolism, wound hemorrhage, hypotension, flushing, cyanosis, tachycardia, hypertension, myocardial infarctionPostmarketing reports: Cardiac arrest, reperfusion ventricular arrhythmias
+Common ( to ): Gastrointestinal hemorrhage, retroperitoneal hemorrhageFrequency not reported: Gingival hemorrhage, retroperitoneal hematoma, nausea, vomiting, orolingual edema
+Common ( to ): Stroke, intracranial hemorrhageFrequency not reported: Fatal intracranial hemorrhage, intracranial hematoma, hemiplegiaPostmarketing reports: Cerebral embolism, cerebral vascular accident
+Common ( to ): Fever, chillsFrequency not reported: Substernal painPostmarketing reports: Chest pain
+Common ( to ): Urogenital hemorrhageRare (less than ): Macroscopic hematuriaFrequency not reported: Microscopic hematuria
+Common ( to ): Muscle hemorrhageFrequency not reported: Back pain
+Uncommon ( to ): Allergic reactionRare (less than ): Hypersensitivity reactions, anaphylaxisVery rare (less than ): Fatal anaphylaxis
+Uncommon ( to ): Intrahepatic hemorrhageFrequency not reported: Transient increase in transaminases
+Uncommon ( to ): Renal failure
 Frequency not reported: Epistaxis, pulmonary embolism, dyspnea, hypoxemia, bronchospasm, recurrent pulmonary embolismPostmarketing reports: Pulmonary edema
 Frequency not reported: Urticaria, rash, pruritus, diaphoresis
 Frequency not reported: Puncture site hemorrhage, puncture site hematoma, infusion reactions

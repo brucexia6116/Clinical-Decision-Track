@@ -1,26 +1,17 @@
-Common (1% to 10%): Reduced alertness, confusion, headache, dizziness, ataxiaRare (less than 0.
-1%): Difficulty in focusing, faintness, slurred speech, confusion, restlessness, vertigoFrequency not reported: CNS-depressant effects, next-day impairment, nervousness, talkativeness, drowsiness, staggering
-Common (1% to 10%): Numbed emotionsRare (less than 0.
-1%): Euphoria, depression, hallucinationsFrequency not reported: Withdrawal syndrome, abnormal thinking, behavior changes, complex behaviors, worsening of depression, apprehension, irritability
-Common (1% to 10%): FatigueFrequency not reported: Weakness
-Rare (less than 0.
-1%): Dry mouth, bitter taste, excessive salivationFrequency not reported: Heartburn, upset stomach, nausea, vomiting, diarrhea, constipation, gastrointestinal pain
-Rare (less than 0.
-1%): Elevated SGOT/SGPT, total and direct bilirubin elevations, elevated alkaline phosphataseFrequency not reported: Jaundice
-Very rare (less than 0.
-01%): Severe anaphylactic/anaphylactoid reactions
+Common ( to ): Reduced alertness, confusion, headache, dizziness, ataxiaRare (less than ): Difficulty in focusing, faintness, slurred speech, confusion, restlessness, vertigoFrequency not reported: CNS-depressant effects, next-day impairment, nervousness, talkativeness, drowsiness, staggering
+Common ( to ): Numbed emotionsRare (less than ): Euphoria, depression, hallucinationsFrequency not reported: Withdrawal syndrome, abnormal thinking, behavior changes, complex behaviors, worsening of depression, apprehension, irritability
+Common ( to ): FatigueFrequency not reported: Weakness
+Rare (less than ): Dry mouth, bitter taste, excessive salivationFrequency not reported: Heartburn, upset stomach, nausea, vomiting, diarrhea, constipation, gastrointestinal pain
+Rare (less than ): Elevated SGOT/SGPT, total and direct bilirubin elevations, elevated alkaline phosphataseFrequency not reported: Jaundice
+Very rare (less than ): Severe anaphylactic/anaphylactoid reactions
 Frequency not reported: Palpitation, chest pain
-Rare (less than 0.
-1%): Sweating, pruritus, skin rash
+Rare (less than ): Sweating, pruritus, skin rash
 The most commonly reported side effects were headache, dizziness, muscle weakness, ataxia, and double vision.
 Frequency not reported: Genitourinary complaints, changes in libido, urinary retention
-Rare (less than 0.
-1%): Leukopenia, granulocytopeniaFrequency not reported: Blood dyscrasias
-Rare (less than 0.
-1%): Anorexia
-Common (1% to 10%): Muscle weaknessFrequency not reported: Body/joint pain
-Common (1% to 10%): Double visionRare (less than 0.
-1%): Blurred vision, burning eyesFrequency not reported: Visual disturbance
+Rare (less than ): Leukopenia, granulocytopeniaFrequency not reported: Blood dyscrasias
+Rare (less than ): Anorexia
+Common ( to ): Muscle weaknessFrequency not reported: Body/joint pain
+Common ( to ): Double visionRare (less than ): Blurred vision, burning eyesFrequency not reported: Visual disturbance
 Black, tarry stools
 blurred vision
 chest pain

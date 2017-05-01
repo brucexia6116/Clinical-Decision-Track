@@ -1,0 +1,122 @@
+drug
+local side effects
+im injection
+diarrhea
+loose stoolsfrequency
+nausea
+vomiting
+bloody diarrhea
+pseudomembranous colitis
+clostridium
+difficile-associated diarrhea
+onset of pseudomembranous colitis symptoms
+antimicrobial therapy
+rash
+pruritusfrequency
+vesicular eruptions/vesiculation
+erythema multiforme
+urticaria
+toxic epidermal necrolysis
+stevens-johnson syndrome
+drug reactions with eosinophilia
+systemic symptoms
+dress
+petechial rash/purpura
+exanthematous pustulosis
+bullous dermatosis
+erythema nodosum
+exanthems
+exfoliative dermatitis
+jarisch-herxheimer reaction
+increased incidence of rash
+cystic fibrosis patients
+dress
+piperacillin-tazobactam
+petechial rash
+purpura
+thrombocytopenia
+thrombophlebitis
+injection site pain
+injection site induration
+injection site erythemafrequency
+ecchymosis
+deep vein thrombosis
+hematomas
+thrombophlebitis
+diluted solution
+vein
+drug feverfrequency
+fever
+edema
+fatigue
+serum potassium levels
+superinfection
+including candidiasis
+hemorrhagic manifestations
+increased incidence of fever
+cystic fibrosis patients
+patients with liver disease
+receiving
+receiving cytotoxic therapy
+diuretics
+reported decreased serum potassium levels with high doses of this drug
+frequency
+anaphylactic/anaphylactoid reactions
+leading
+shock
+fatalities
+frequency
+agranulocytosis
+hemolytic anemia
+leukopenia
+neutropenia
+pancytopenia
+thrombocytopenia
+eosinophilia
+bleeding disorders
+positive coombs tests
+hemorrhage/bleeding
+prothrombin time
+platelet dysfunction
+prolonged bleeding times
+risk factors for reversible leukopenia
+neutropenia
+prolonged therapy with high doses
+concomitant drugs
+effect
+neuromuscular excitability
+convulsions
+recommended doses
+frequency
+headache
+dizziness
+seizures/convulsions
+prolonged muscle relaxation
+paralysis
+neurotoxicity
+encephalopathy
+neuromuscular excitability
+drug-induced interstitial nephritis
+serious side effect of all penicillins
+frequency
+elevated serum creatinine
+elevated bun
+interstitial nephritis
+renal failure
+frequency
+elevated liver enzymes
+ldh
+ast
+alt
+hyperbilirubinemia
+hepatotoxicity
+cholestatic hepatitis
+frequency
+hypokalemia
+electrolyte disturbances
+acid-base disturbances
+frequency
+epistaxis
+side effects of piperacillin
+fda
+healthcare professional for medical advice

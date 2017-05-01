@@ -24,14 +24,13 @@ Hematologic side effects of acetaminophen have included rare cases of thrombocyt
 Methemoglobinemia with resulting cyanosis has also been observed in the setting of acute overdose.
 Hematologic side effects of diphenhydramine have rarely included hemolytic anemia, thrombocytopenia, and agranulocytosis.
 Alcoholic patients may develop hepatotoxicity after even modest doses of acetaminophen.
-In healthy patients, approximately 15 grams of acetaminophen is necessary to deplete liver glutathione stores by 70% in a 70 kg person.
+In healthy patients, approximately  grams of acetaminophen is necessary to deplete liver glutathione stores by  in a  kg person.
 However, hepatotoxicity has been reported following smaller doses.
 Glutathione concentrations may be repleted by the antidote N-acetylcysteine.
 One case report has suggested that hypothermia may also be beneficial in decreasing liver damage during overdose.
-In a recent retrospective study of 306 patients admitted for acetaminophen overdose, 6.
-9% had severe liver injury but all recovered.
-None of the 306 patients died.
-A 19 year old female developed hepatotoxicity, reactive plasmacytosis and agranulocytosis followed by a leukemoid reaction after acute acetaminophen toxicity.
+In a recent retrospective study of  patients admitted for acetaminophen overdose,  had severe liver injury but all recovered.
+None of the  patients died.
+A  year old female developed hepatotoxicity, reactive plasmacytosis and agranulocytosis followed by a leukemoid reaction after acute acetaminophen toxicity.
 Hepatic side effects of acetaminophen have included severe and sometimes fatal dose dependent hepatitis in alcoholic patients.
 Hepatotoxicity has been increased during fasting.
 Several cases of hepatotoxicity from chronic acetaminophen therapy at therapeutic doses have also been reported despite a lack of risk factors for toxicity.
@@ -41,7 +40,7 @@ Hypersensitivity side effects of acetaminophen have included rare reports of ana
 Hypersensitivity side effects to diphenhydramine have included rash, pruritus and eczema.
 Photosensitivity reactions have also been reported.
 The CNS depressant effect of diphenhydramine parallels its plasma concentrations.
-The plasma concentration threshold for sedation is 30 to 42 ng/mL, and to cause mental impairment is 58 to 74 ng/mL.
+The plasma concentration threshold for sedation is  to  ng/mL, and to cause mental impairment is  to  ng/mL.
 Patients should be warned against driving while taking diphenhydramine.
 Dystonic reactions have been accompanied by dizziness, mental confusion, rigidity, lip and tongue protrusion, trismus, torticollis, and swallowing difficulties and generally resolve spontaneously.
 Toxic encephalopathy has been reported in a child with chicken pox treated generously with topical diphenhydramine.

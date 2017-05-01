@@ -1,0 +1,157 @@
+common adverse reactions
+headache
+unspecific gastrointestinal complaints
+headache
+dizzinessfrequency
+ataxia
+migraine
+neuritis
+paresthesia
+somnolence
+tremor
+vertigo
+tinnitus
+unspecific gastrointestinal complaints
+abdominal pain
+diarrhea
+dyspepsiafrequency
+constipation
+dry mouth
+esophagitis
+flatulence
+gastritis
+gastroenteritis
+gingivitis
+nausea
+periodontitis
+toothache
+vomiting
+rhinitis
+upper respiratory tract infection
+pharyngitis
+coughing
+sinusitis
+dyspnea
+bronchitisfrequency
+asthma
+epistaxis
+asthenia
+injury
+chest pain
+fatigue
+painuncommon
+facial edemafrequency
+substernal chest pain
+peripheral edema
+fever
+influenza-like symptoms
+malaise
+myalgia
+arthralgia
+painfrequency
+rigors
+creatine phosphokinase
+arthritis
+arthritis
+arthrosis
+skeletal pain
+tendinitis
+leg cramps
+palpitation
+dependent edemauncommon
+hypotensionfrequency
+hot flushes
+angina pectoris
+bradycardia
+ecg
+ecg
+extrasystoles
+atrial fibrillation
+tachycardia
+peripheral ischemia
+neutrophils
+mm
+lessuncommon
+hemoglobin
+wbc count
+mm
+platelets
+l
+lessfrequency
+anemia
+leukopenia
+hypertriglyceridemiauncommon
+potassium mmol/l
+greaterfrequency
+alcohol intolerance
+anorexia
+diabetes mellitus
+gout
+hypercholesterolemia
+hyperglycemia
+hyperkalemia
+hypokalemia
+hyponatremia
+allergic skin reactionsuncommon
+angioedemafrequency
+purpura
+eczema
+furunculosis
+pruritus
+rash
+maculopapular rash
+sweating
+viral infectionuncommon
+hypersensitivityfrequency
+herpes simplex
+otitis externa
+otitis media
+bun increaseduncommon
+creatinine increasedfrequency
+renal calculuspostmarketing reports
+impaired renal function
+renal failure
+urinary tract infectionfrequency
+glycosuria
+albuminuria
+cystitis
+hematuria
+micturition frequency
+polyuria
+urinary incontinence
+depressionfrequency
+anxiety
+insomnia
+nervousness
+alt
+times
+upper limit of normalfrequency
+serum
+glutamic oxaloacetic transaminase
+sgot
+serum
+glutamic pyruvic transaminase
+sgpt
+alt
+ast
+alkaline phosphatase
+frequency
+conjunctivitis
+vision
+xerophthalmia
+burning
+painful urination
+changes in urinary frequency
+cough
+fever
+sore throat
+dizziness
+lightheadedness
+fainting
+swollen face
+lips
+limbs
+tongue
+stomach pain
+joint pain
+unusual tiredness

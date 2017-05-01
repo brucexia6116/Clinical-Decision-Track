@@ -1,33 +1,19 @@
 The most common adverse reaction leading to drug discontinuation was bleeding.
-Very common (10% or more): CABG (coronary artery bypass graft surgery)-related TIMI (Thrombolysis in Myocardial Infarction) Major (clinically overt bleeding associated with hemoglobin decreased by 5 g/dL or more, or intracranial hemorrhage) or Minor (overt bleeding associated with hemoglobin decreased by 3 to less than 5 g/dL) bleeding (14.
-1%), non-CABG-related TIMI Major or Minor bleeding in patients less than 60 kg (10.
-1%)Common (1% to 10%): Non-CABG-related TIMI Major bleeding, non-CABG-related TIMI Minor bleeding, non-CABG-related life-threatening TIMI Major bleeding, non-CABG-related TIMI fatal bleeding in patients 75 years or older, CABG-related reoperation TIMI Major bleeding, CABG-related TIMI Major bleeding requiring transfusion of 5 units or more, anemia, leukopenia (less than 4 x 10(9) WBC/L)Uncommon (0.
-1% to 1%): Non-CABG-related fatal TIMI Major bleeding, non-CABG-related symptomatic intracranial hemorrhage (ICH), non-CABG-related TIMI Major bleeding requiring inotropes, non-CABG-related TIMI Major bleeding requiring surgical intervention, non-CABG-related TIMI Major bleeding requiring transfusion of 4 units or more, CABG-related fatal TIMI Major bleeding, post-procedural hemorrhageRare (less than 0.
-1%): Severe thrombocytopeniaPostmarketing reports: Thrombocytopenia
-Common (1% to 10%): Hypertension, hypotension, atrial fibrillation, bradycardia, hematomaUncommon (0.
-1% to 1%): Retroperitoneal hemorrhage, pericardial effusion/hemorrhage/tamponadeVery rare (less than 0.
-01%): Thrombotic thrombocytopenic purpura
-Common (1% to 10%): Gastrointestinal hemorrhage, nausea, diarrheaUncommon (0.
-1% to 1%): Rectal hemorrhage, gingival bleeding, hematochezia
-Common (1% to 10%): Rash, contusion, ecchymosisUncommon (0.
-1% to 1%): Subcutaneous hematomaRare (less than 0.
-1%): Angioedema
-Common (1% to 10%): Dyspnea, cough, epistaxisUncommon (0.
-1% to 1%): Hemoptysis
-Common (1% to 10%): Back pain, non-cardiac chest pain, pain in extremity
-Common (1% to 10%): Vessel puncture site hematoma, puncture site hemorrhage
-Common (1% to 10%): Headache, dizziness
-Common (1% to 10%): Hypercholesterolemia/hyperlipidemia, peripheral edema
-Common (1% to 10%): Fatigue, pyrexia
-Common (1% to 10%): Hematuria
-Common (1% to 10%): Newly-diagnosed malignancies
-Uncommon (0.
-1% to 1%): Allergic reactionsRare (less than 0.
-1%): Hypersensitivity, anaphylaxis
-Uncommon (0.
-1% to 1%): Abnormal hepatic function
-Uncommon (0.
-1% to 1%): Eye hemorrhage
+Very common ( or more): CABG (coronary artery bypass graft surgery)-related TIMI (Thrombolysis in Myocardial Infarction) Major (clinically overt bleeding associated with hemoglobin decreased by  g/dL or more, or intracranial hemorrhage) or Minor (overt bleeding associated with hemoglobin decreased by  to less than  g/dL) bleeding , non-CABG-related TIMI Major or Minor bleeding in patients less than  kg Common ( to ): Non-CABG-related TIMI Major bleeding, non-CABG-related TIMI Minor bleeding, non-CABG-related life-threatening TIMI Major bleeding, non-CABG-related TIMI fatal bleeding in patients  years or older, CABG-related reoperation TIMI Major bleeding, CABG-related TIMI Major bleeding requiring transfusion of  units or more, anemia, leukopenia (less than  x  WBC/L)Uncommon ( to ): Non-CABG-related fatal TIMI Major bleeding, non-CABG-related symptomatic intracranial hemorrhage (ICH), non-CABG-related TIMI Major bleeding requiring inotropes, non-CABG-related TIMI Major bleeding requiring surgical intervention, non-CABG-related TIMI Major bleeding requiring transfusion of  units or more, CABG-related fatal TIMI Major bleeding, post-procedural hemorrhageRare (less than ): Severe thrombocytopeniaPostmarketing reports: Thrombocytopenia
+Common ( to ): Hypertension, hypotension, atrial fibrillation, bradycardia, hematomaUncommon ( to ): Retroperitoneal hemorrhage, pericardial effusion/hemorrhage/tamponadeVery rare (less than ): Thrombotic thrombocytopenic purpura
+Common ( to ): Gastrointestinal hemorrhage, nausea, diarrheaUncommon ( to ): Rectal hemorrhage, gingival bleeding, hematochezia
+Common ( to ): Rash, contusion, ecchymosisUncommon ( to ): Subcutaneous hematomaRare (less than ): Angioedema
+Common ( to ): Dyspnea, cough, epistaxisUncommon ( to ): Hemoptysis
+Common ( to ): Back pain, non-cardiac chest pain, pain in extremity
+Common ( to ): Vessel puncture site hematoma, puncture site hemorrhage
+Common ( to ): Headache, dizziness
+Common ( to ): Hypercholesterolemia/hyperlipidemia, peripheral edema
+Common ( to ): Fatigue, pyrexia
+Common ( to ): Hematuria
+Common ( to ): Newly-diagnosed malignancies
+Uncommon ( to ): Allergic reactionsRare (less than ): Hypersensitivity, anaphylaxis
+Uncommon ( to ): Abnormal hepatic function
+Uncommon ( to ): Eye hemorrhage
 Blurred vision
 dizziness
 headache

@@ -3,67 +3,63 @@ Hematologic side effects including myelosuppression resulting in leukopenia, thr
 Postmarketing reports have included febrile neutropenia and thrombotic microangiopathy.
 Myelosuppression can develop suddenly and may be prolonged, but is usually reversible.
 Myelosuppression is most frequently the result of a failure to discontinue further drug administration in the face of an undetected decrease in leukocyte or platelet counts.
-During high dose therapy, neutrophils start to increase on approximately the 19th day and platelets on approximately the 30th day.
-In one study, four out of 243 patients treated with busulfan developed leukemia.
+During high dose therapy, neutrophils start to increase on approximately the th day and platelets on approximately the th day.
+In one study, four out of  patients treated with busulfan developed leukemia.
 Corticosteroids have been reported to have been beneficial in arresting or reversing the fibrosis in some cases.
-Respiratory side effects including lung damage have frequently been reported (approximately 33% of patients with the higher doses used for bone marrow transplant).
+Respiratory side effects including lung damage have frequently been reported (approximately  of patients with the higher doses used for bone marrow transplant).
 While reported only rarely, interstitial pulmonary fibrosis (busulfan lung) warrants the immediate discontinuation of busulfan administration.
 Presentation of symptoms is delayed by several years in many patients.
 There is a slow onset of cough, dyspnea and low grade fever.
 (However, the clinician needs to rule out infection or leukemia in the lungs.
 )  Next, patients may present with pulmonary insufficiency, tachypnea and cyanosis which may eventually be fatal.
 A single case of pulmonary alveolar proteinosis has also been reported.
-The case of endocardial fibrosis was reported in a 79-year-old woman who received a total dose of 7,200 mg over a period of 9 years for the management of chronic myelogenous leukemia.
+The case of endocardial fibrosis was reported in a -year-old woman who received a total dose of , mg over a period of  years for the management of chronic myelogenous leukemia.
 At autopsy, she was found to have endocardial fibrosis of the left ventricle in addition to interstitial pulmonary fibrosis.
-Cardiovascular side effects including mild or moderate tachycardia have been reported in 44% of patients.
-In 7 patients (11%) it was first reported during busulfan administration.
-Other rhythm abnormalities, which were all mild or moderate, included arrhythmia (5%), atrial fibrillation (2%), ventricular extrasystoles (2%), and third degree heart block (2%).
-Mild or moderate thrombosis occurred in 33% of patients.
+Cardiovascular side effects including mild or moderate tachycardia have been reported in  of patients.
+In  patients  it was first reported during busulfan administration.
+Other rhythm abnormalities, which were all mild or moderate, included arrhythmia , atrial fibrillation , ventricular extrasystoles , and third degree heart block .
+Mild or moderate thrombosis occurred in  of patients.
 (All episodes were associated with the central venous catheter.
-)Hypertension (36%), mild vasodilation (flushing and hot flashes) (25%), and hypotension (11%) have also been reported.
-Other cardiovascular events included cardiomegaly (5%), mild ECG abnormality (2%), Grade 3/4 left-sided heart failure in one patient (2%), and moderate pericardial effusion (2%).
+)Hypertension , mild vasodilation (flushing and hot flashes) , and hypotension  have also been reported.
+Other cardiovascular events included cardiomegaly , mild ECG abnormality , Grade / left-sided heart failure in one patient , and moderate pericardial effusion .
 (These events were reported primarily in the post-cyclophosphamide phase.
 )One case of endocardial fibrosis has been reported.
 Ocular side effects including cataracts and vision changes have been reported rarely after prolonged administration.
 The drug has also been reported to induced cataracts in rats.
-In one study, 31 out of 65 patients that received busulfan (the active ingredient contained in Myleran) prior to bone marrow transplantation had some degree of alopecia.
-In 19 of these patients, the alopecia was extensive.
+In one study,  out of  patients that received busulfan (the active ingredient contained in Myleran) prior to bone marrow transplantation had some degree of alopecia.
+In  of these patients, the alopecia was extensive.
 While all patients received the same dosage per kg, patients that had higher blood concentrations developed more extensive alopecia.
 Hyperpigmentation has most frequently been reported in patients with a dark complexion.
 Some cases of alopecia have been permanent.
-Dermatologic side effects including hyperpigmentation (usually seen in skin folds near nails and hands) have been reported (5% to 10%).
+Dermatologic side effects including hyperpigmentation (usually seen in skin folds near nails and hands) have been reported ( to ).
 Urticaria, erythema multiforme, erythema nodosum, alopecia, porphyria cutanea tarda, and excessive dryness and fragility of the skin with anhidrosis have also been reported.
 The symptoms of the syndrome (which resembles adrenal insufficiency) have sometimes been reversible after the drug has been withdrawn.
 Adrenal responsiveness to exogenously administered ACTH has usually been normal.
-However, pituitary function testing with metyrapone revealed a blunted 17-hydroxycorticosteroid excretion in two patients.
+However, pituitary function testing with metyrapone revealed a blunted -hydroxycorticosteroid excretion in two patients.
 Following the discontinuation of the drug (which was associated with clinical improvement), rechallenge with metyrapone revealed normal pituitary-adrenal function.
-Adverse effects due to the increased urate pool can be minimized by increased hydration, urine alkalinization and the prophylactic administration of a xanthine oxidase inhibitor (e.
-g.
-, allopurinol).
+Adverse effects due to the increased urate pool can be minimized by increased hydration, urine alkalinization and the prophylactic administration of a xanthine oxidase inhibitor (, allopurinol).
 Metabolic side effects including several cases of a clinical syndrome closely resembling adrenal insufficiency, characterized by weakness, severe fatigue, anorexia, weight loss, melanoderma, nausea, and vomiting, have been reported after prolonged therapy.
 Postmarketing reports have included tumor lysis syndrome.
 While hyperuricemia and/or hyperuricosuria are not uncommon in patients with chronic myelogenous leukemia, additional rapid destruction of granulocytes may accompany the initiation of chemotherapy and increase the urate pool.
-Based on clinical examination and laboratory findings, hepatic veno-occlusive disease was diagnosed in 8% (5/61) of patients treated with busulfan (the active ingredient contained in Myleran) in the setting of allogeneic transplantation, was fatal in 2/5 cases (40%), and yielded an overall mortality from hepatic veno-occlusive disease in the entire study population of 2/61 (3%).
+Based on clinical examination and laboratory findings, hepatic veno-occlusive disease was diagnosed in  (/) of patients treated with busulfan (the active ingredient contained in Myleran) in the setting of allogeneic transplantation, was fatal in / cases , and yielded an overall mortality from hepatic veno-occlusive disease in the entire study population of / .
 Hepatic side effects including hepatic veno-occlusive disease have been reported.
 Esophageal varices have been reported in patients receiving busulfan in combination with thioguanine.
 Jaundice and hepatitis have also been reported.
 Nervous system side effects including seizures have generally been reported after the third or fourth day in patients receiving high dose therapy.
-In one study of 28 bone marrow transplant recipients that had received busulfan, 3 cases of convulsions have been reported.
-Two of the 3 patients that experienced the convulsions had been pretreated with anticonvulsants.
-Another study reported 2 patients out of 130 experienced seizures.
-There have been 16 cases of busulfan-related seizures reported in the literature.
+In one study of  bone marrow transplant recipients that had received busulfan,  cases of convulsions have been reported.
+Two of the  patients that experienced the convulsions had been pretreated with anticonvulsants.
+Another study reported  patients out of  experienced seizures.
+There have been  cases of busulfan-related seizures reported in the literature.
 Prophylactic anticonvulsant therapy (phenytoin) should be considered in patients receiving high dose busulfan.
 Oncologic side effects including cytologic and histologic changes in the urinary and respiratory tracts as well as the uterine cervix and liver have been reported.
 The International Agency for Research on Cancer (IARC) has classified the activity of busulfan (the active ingredient contained in Myleran) as sufficient to indicate potential carcinogenicity (in short-term tests).
 Two cases of endometrial cancer have been reported (each case followed two years of treatment).
-Other side effects in patients receiving allogenic transplant were some form of edema (79%), hypervolemia, or documented weight increase (8%).
+Other side effects in patients receiving allogenic transplant were some form of edema , hypervolemia, or documented weight increase .
 All events were reported as mild or moderate.
 Genitourinary side effects including hemorrhagic cystitis, gynecomastia, amenorrhea, ovarian and testicular atrophy (resulting in sterility) have been reported.
 Gastrointestinal side effects including dryness of the oral mucous membranes and cheilosis have been reported.
 Musculoskeletal side effects including myasthenia gravis have been reported.
-Postmarketing reports have included severe bacterial, viral (e.
-g.
-,cytomegalovirus viremia) and fungal infections; and sepsis.
+Postmarketing reports have included severe bacterial, viral (,cytomegalovirus viremia) and fungal infections; and sepsis.
 Black, tarry stools
 bloated abdomen or stomach
 blood in the urine or stools

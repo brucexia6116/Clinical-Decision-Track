@@ -3,35 +3,35 @@ Other side effects include: nervousness, pharyngitis, and tremor.
 See below for a comprehensive list of adverse effects.
 If any of the following symptoms of overdose occur while taking levalbuterol, get emergency help immediately:
 This drug has been associated with paradoxical bronchospasm, cardiovascular effects, immediate hypersensitivity reactions, and hypokalemia.
-ECG abnormal, ECG change, hypotension, and syncope occurred in less than 2%.
-Common (1% to 10%): Hypertension, tachycardiaFrequency not reported: ECG abnormal, ECG change, hypotension, syncopePostmarketing reports: Arrhythmias (including atrial fibrillation, supraventricular tachycardia, extrasystoles)
-Myalgia occurred in less than 2%.
-Common (1% to 10%): Leg crampsFrequency not reported: Myalgia
-Metabolic acidosis occurred in less than 2%.
+ECG abnormal, ECG change, hypotension, and syncope occurred in less than .
+Common ( to ): Hypertension, tachycardiaFrequency not reported: ECG abnormal, ECG change, hypotension, syncopePostmarketing reports: Arrhythmias (including atrial fibrillation, supraventricular tachycardia, extrasystoles)
+Myalgia occurred in less than .
+Common ( to ): Leg crampsFrequency not reported: Myalgia
+Metabolic acidosis occurred in less than .
 Frequency not reported: Changes in plasma glucose and serum potassium; metabolic acidosis
-Central nervous system stimulation and hyperesthesia of the hand occurred in less than 2%.
-Common (1% to 10%): Dizziness, migraine, tremor, nervousnessFrequency not reported: Central nervous system stimulation, hyperesthesia of the hand
-Common (1% to 10%): Pain, flu syndrome, accidental injury, asthenia, feverFrequency not reported: Ear pain, herpes simplex, chills, cyst
-Ear pain, herpes simplex, chills, and cyst occurred in less than 2%.
-Diarrhea, dry mouth, dry throat, nausea, gastroenteritis, vomiting, and constipation occurred in less than 2%.
-Common (1% to 10%): DyspepsiaFrequency not reported: Diarrhea, dry mouth, dry throat, nausea, gastroenteritis, vomiting, constipationPostmarketing reports: Gastroesophageal reflux disease (GERD), nausea
-Common (1% to 10%): Asthma, pharyngitis, rhinitis, bronchitis, sinusitis, turbinate edema, cough increased, viral infectionFrequency not reported: Epistaxis, lung disorder, asthma exacerbation, wheezingPostmarketing reports: Chest pain, dysphonia, dyspnea
-Viral infection, epistaxis, lung disorder, asthma exacerbation, and wheezing occurred in less than 2%.
+Central nervous system stimulation and hyperesthesia of the hand occurred in less than .
+Common ( to ): Dizziness, migraine, tremor, nervousnessFrequency not reported: Central nervous system stimulation, hyperesthesia of the hand
+Common ( to ): Pain, flu syndrome, accidental injury, asthenia, feverFrequency not reported: Ear pain, herpes simplex, chills, cyst
+Ear pain, herpes simplex, chills, and cyst occurred in less than .
+Diarrhea, dry mouth, dry throat, nausea, gastroenteritis, vomiting, and constipation occurred in less than .
+Common ( to ): DyspepsiaFrequency not reported: Diarrhea, dry mouth, dry throat, nausea, gastroenteritis, vomiting, constipationPostmarketing reports: Gastroesophageal reflux disease (GERD), nausea
+Common ( to ): Asthma, pharyngitis, rhinitis, bronchitis, sinusitis, turbinate edema, cough increased, viral infectionFrequency not reported: Epistaxis, lung disorder, asthma exacerbation, wheezingPostmarketing reports: Chest pain, dysphonia, dyspnea
+Viral infection, epistaxis, lung disorder, asthma exacerbation, and wheezing occurred in less than .
 Frequency not reported: Acne, sweatingPostmarketing reports: Rash, urticaria
-Acne and sweating occurred less than 2%.
-Common (1% to 10%): Allergic reactionsPostmarketing reports: Angioedema, anaphylaxis
+Acne and sweating occurred less than .
+Common ( to ): Allergic reactionsPostmarketing reports: Angioedema, anaphylaxis
 Frequency not reported: Hematuria, dysmenorrhea, vaginal moniliasis
-Hematuria, dysmenorrhea, vaginal moniliasis occurred in less than 2%.
+Hematuria, dysmenorrhea, vaginal moniliasis occurred in less than .
 Frequency not reported: Lymphadenopathy
-Lymphadenopathy occurred in less than 2%.
-Eye itch occurred in less than 2%.
+Lymphadenopathy occurred in less than .
+Eye itch occurred in less than .
 Frequency not reported: Eye itch
-Insomnia occurred in less than 2%.
-Common (1% to 10%): Anxiety Frequency not reported: Insomnia
+Insomnia occurred in less than .
+Common ( to ): Anxiety Frequency not reported: Insomnia
 Fast heartbeat
 Chest pain or tightness
 dizziness
-feeling “faint”
+feeling faint
 lightheadedness
 troubled breathing
 Cough
@@ -60,7 +60,7 @@ seizures
 sleeplessness
 sweating
 tremor
-Accidental injury (in children 4 to 11 years of age)
+Accidental injury (in children  to  years of age)
 anxiety
 body aches or pain
 chills

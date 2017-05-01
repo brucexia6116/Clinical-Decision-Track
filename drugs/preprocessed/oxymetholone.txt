@@ -30,7 +30,6 @@ sleep problems (insomnia); or
 nausea, vomiting, diarrhea.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-
 Cardiovascular side effects have included fluid retention.
 Edema, with and without congestive heart failure, has occurred during anabolic steroid therapy.
 Genitourinary effects have included oligospermia and decreased ejaculatory volume.
@@ -54,8 +53,7 @@ Leukemia has been reported rarely during oxymetholone therapy in patients with a
 A causal relationship has not been established and leukemia has been observed in patients with aplastic anemia who were not treated with oxymetholone.
 Endocrine side effects have included inhibition of endogenous testosterone release by means of feedback inhibition of pituitary luteinizing hormone (LH).
 Large doses of exogenous anabolic steroids may suppress spermatogenesis through inhibition of pituitary follicle stimulating hormone (FSH).
-The androgenic activity of anabolic steroids may decrease levels of thyroxin-binding globulin and result in decreased total T4 serum levels and increased resin uptake of T3 and T4.
-Free thyroid hormone levels remain unchanged and there is no clinical evidence of thyroid dysfunction.
+The androgenic activity of anabolic steroids may decrease levels of thyroxin-binding globulin and result in decreased total T serum levels and increased resin uptake of T and T  Free thyroid hormone levels remain unchanged and there is no clinical evidence of thyroid dysfunction.
 Metabolic side effects have included osteolytic-induced hypercalcemia in immobilized patients or those with metastatic breast disease.
 Anabolic steroids affect electrolyte balance, nitrogen retention, and urinary calcium excretion.
 Edema, with and without congestive heart failure, has occurred.

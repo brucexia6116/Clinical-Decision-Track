@@ -1,20 +1,17 @@
 The most commonly reported adverse reactions include pharyngitis, rhinitis, headache, sinusitis, and increased cough.
-Very common (10% or more): Pharyngitis (up to 17.
-5%), rhinitis (up to 15.
-7%)Common (1% to 10%): Increased cough, sinusitis, epistaxis, bronchitis, laryngitis, voice alteration, cold symptoms, nasal congestion, sinus drainage, sinus infection, sneezing, sputum, wheezing, bronchospasm, dyspnea, head stuffiness, nasal irritation, sinus discomfort, sore throat, dry throat
-Common (1% to 10%): Vomiting, dyspepsia, abdominal pain, diarrhea, gastroenteritis, nausea, oral moniliasis, upset stomach, heartburn, constipation, gas, abdominal fullness, glossitis, mouth irritation, phlegm
-Very common (10% or more): Headache (up to 13.
-8%)Common (1% to 10%): Migraine, taste perversion, weakness, numbness, hyperactivity
-Common (1% to 10%): Neck pain, myalgiaFrequency not reported: Decreased bone mineral density; reduction in growth velocity
-Common (1% to 10%): Blurred vision, eye discomfort, eye infectionFrequency not reported: Glaucoma, increased intraocular pressure, cataracts
-Common (1% to 10%): Erythema multiforme, sweating, eczema, pruritus, acne, urticaria
-Common (1% to 10%): Chest pain, edema, palpitations, tachycardia, hypertension
-Common (1% to 10%): Urinary tract infection, dysmenorrhea, vaginitis
-Common (1% to 10%): Enlarged lymph nodes, capillary fragility
-Common (1% to 10%): Allergic reaction
-Common (1% to 10%): Decreased appetite, increased appetite, weight gain
-Common (1% to 10%): Ear pain, chills, malaise, vertigo, fatigue, loss of smell, ear infection
-Common (1% to 10%): Insomnia, irritability, shakiness, anxiety, depression, moodiness, hypoactivity
+Very common ( or more): Pharyngitis (up to ), rhinitis (up to )Common ( to ): Increased cough, sinusitis, epistaxis, bronchitis, laryngitis, voice alteration, cold symptoms, nasal congestion, sinus drainage, sinus infection, sneezing, sputum, wheezing, bronchospasm, dyspnea, head stuffiness, nasal irritation, sinus discomfort, sore throat, dry throat
+Common ( to ): Vomiting, dyspepsia, abdominal pain, diarrhea, gastroenteritis, nausea, oral moniliasis, upset stomach, heartburn, constipation, gas, abdominal fullness, glossitis, mouth irritation, phlegm
+Very common ( or more): Headache (up to )Common ( to ): Migraine, taste perversion, weakness, numbness, hyperactivity
+Common ( to ): Neck pain, myalgiaFrequency not reported: Decreased bone mineral density; reduction in growth velocity
+Common ( to ): Blurred vision, eye discomfort, eye infectionFrequency not reported: Glaucoma, increased intraocular pressure, cataracts
+Common ( to ): Erythema multiforme, sweating, eczema, pruritus, acne, urticaria
+Common ( to ): Chest pain, edema, palpitations, tachycardia, hypertension
+Common ( to ): Urinary tract infection, dysmenorrhea, vaginitis
+Common ( to ): Enlarged lymph nodes, capillary fragility
+Common ( to ): Allergic reaction
+Common ( to ): Decreased appetite, increased appetite, weight gain
+Common ( to ): Ear pain, chills, malaise, vertigo, fatigue, loss of smell, ear infection
+Common ( to ): Insomnia, irritability, shakiness, anxiety, depression, moodiness, hypoactivity
 Body aches or pain
 congestion
 cough

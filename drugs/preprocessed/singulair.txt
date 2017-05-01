@@ -1,39 +1,22 @@
 As well as its needed effects, montelukast (the active ingredient contained in Singulair) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking montelukast, check with your doctor immediately:
 Some montelukast side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-The most common adverse reactions (incidence more than 5% and greater than placebo) were: Upper respiratory infection, fever, headache, pharyngitis, cough, abdominal pain, diarrhea, otitis media, influenza, rhinorrhea, sinusitis, otitis.
-Very rare (less than 0.
-01%): Churg-Strauss Syndrome
+The most common adverse reactions (incidence more than  and greater than placebo) were: Upper respiratory infection, fever, headache, pharyngitis, cough, abdominal pain, diarrhea, otitis media, influenza, rhinorrhea, sinusitis, otitis.
+Very rare (less than ): Churg-Strauss Syndrome
 Churg-Strauss syndrome is a rare granulomatous eosinophilic condition that involves the upper and lower airways and manifests as rhinitis, sinusitis and asthma.
 If untreated the syndrome may progress to systemic vasculitis, peripheral neuropathy and potentially fatal cardiac complications.
 In most cases, the condition emerged during withdrawal of oral corticosteroid therapy.
 A causative role for leukotriene receptor antagonists has not been ruled out.
-Very common (10% or more): Headache (18.
-4%)Common (1% to 10%): Dizziness (1.
-9%)Postmarketing reports: Disturbance in attention, irritability, memory impairment, tremor, drowsiness, paraesthesia/hypoesthesia, seizures
-Common (1% to 10%): Rash (1.
-6%), atopic dermatitis, skin infection, eczema, urticariaPostmarketing reports: Angioedema, bruising, erythema multiforme, erythema nodosum, pruritus, Stevens-Johnson syndrome/toxic epidermal necrolysis
-Common (1% to 10%): Abdominal pain (2.
-9%), dyspepsia (2.
-1%), dental pain (1.
-7%), gastroenteritis (1.
-5%), nausea, diarrhea, dyspepsia, gastroenteritis, tooth infection
-Common (1% to 10%): ALT increase (2.
-1%), AST increased (1.
-6%)Postmarketing reports: Hepatic eosinophilic infiltration; cases of cholestatic hepatitis, hepatocellular liver-injury, and mixed-pattern liver injury.
+Very common ( or more): Headache Common ( to ): Dizziness Postmarketing reports: Disturbance in attention, irritability, memory impairment, tremor, drowsiness, paraesthesia/hypoesthesia, seizures
+Common ( to ): Rash , atopic dermatitis, skin infection, eczema, urticariaPostmarketing reports: Angioedema, bruising, erythema multiforme, erythema nodosum, pruritus, Stevens-Johnson syndrome/toxic epidermal necrolysis
+Common ( to ): Abdominal pain , dyspepsia , dental pain , gastroenteritis , nausea, diarrhea, dyspepsia, gastroenteritis, tooth infection
+Common ( to ): ALT increase , AST increased Postmarketing reports: Hepatic eosinophilic infiltration; cases of cholestatic hepatitis, hepatocellular liver-injury, and mixed-pattern liver injury.
 Most of these occurred in combination with other confounding factors, such as use of other medications, or when administered to patients who had underlying potential for liver disease such as alcohol use or other forms of hepatitis.
-Common (1% to 10%): Myopia, conjunctivitis
-Common (1% to 10%): Asthenia, fatigue (1.
-8%), fever (1.
-5%), trauma (1%), influenza, fever, otitis, viral infection, varicella, ear pain, otitis mediaUncommon (0.
-1% to 1%): MalaisePostmarketing reports: Edema
-Common (1% to 10%): Influenza (4.
-2%), cough (2.
-7%), nasal congestion (1.
-6%), pharyngitis, sinusitis, laryngitis, infective rhinitis, acute bronchitis, rhinorrhea, pneumonia, upper respiratory infection, wheezing, tonsillitisPostmarketing reports: Epistaxis, pulmonary eosinophilia
+Common ( to ): Myopia, conjunctivitis
+Common ( to ): Asthenia, fatigue , fever , trauma , influenza, fever, otitis, viral infection, varicella, ear pain, otitis mediaUncommon ( to ): MalaisePostmarketing reports: Edema
+Common ( to ): Influenza , cough , nasal congestion , pharyngitis, sinusitis, laryngitis, infective rhinitis, acute bronchitis, rhinorrhea, pneumonia, upper respiratory infection, wheezing, tonsillitisPostmarketing reports: Epistaxis, pulmonary eosinophilia
 Postmarketing reports: Palpitations
 Postmarketing reports: Enuresis in children
 Postmarketing reports: Increased bleeding tendency, thrombocytopenia
@@ -88,7 +71,7 @@ lack or loss of strength
 pain
 skin rash, encrusted, scaly and oozing
 stomach discomfort, upset, or pain
-Burning, crawling, itching, numbness, prickling, “pins and needles”, or tingling feelings
+Burning, crawling, itching, numbness, prickling, pins and needles, or tingling feelings
 dreams that are unusual
 increased tendency to bleed
 large, flat, blue or purplish patches on the skin

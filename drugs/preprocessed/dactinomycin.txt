@@ -1,11 +1,11 @@
 If any of the following side effects occur while taking dactinomycin, check with your doctor or nurse immediately:
-Gastrointestinal side effects have been reported in 75% of patients and are usually mild to moderate in severity.
+Gastrointestinal side effects have been reported in  of patients and are usually mild to moderate in severity.
 Nausea and vomiting may present within hours of administration, may be dose-limiting, may be most intense two to four days after the end of a five-day course, typically require and respond to antiemetic therapy, and may persist for as long as a week after therapy is stopped.
 Intravenously administered ondansetron is compatible with dactinomycin for up to four hours.
 Other serious gastrointestinal problems include cheilitis (inflammation of the lip), dysphagia, esophagitis, ulcerative stomatitis, and pharyngitis.
 Anorexia, abdominal pain, diarrhea, proctitis and gastrointestinal ulceration have also been reported.
 Radiation-recall enteritis has been reported after the use of dactinomycin and doxorubicin therapy.
-Hepatic side effects have been serious, ranging from elevated liver function tests in approximately 17% of patients to rare cases of hepatitis, hepatomegaly, ascites, hepatic failure, hepatic veno-occlusive disease which may be associated with intravascular clotting disorder and multi-organ failure, and death.
+Hepatic side effects have been serious, ranging from elevated liver function tests in approximately  of patients to rare cases of hepatitis, hepatomegaly, ascites, hepatic failure, hepatic veno-occlusive disease which may be associated with intravascular clotting disorder and multi-organ failure, and death.
 Dactinomycin-induced hepatotoxicity may be more likely in the presence of x-radiation therapy to an hepatic port (not uncommon during treatment of right-sided Wilms' tumors) or after higher single doses.
 There appears to be a causal relationship between dactinomycin and the development of veno-occlusive disease of the liver.
 X-radiation therapy (XRT) to the liver apparently produces a vascular lesion affecting primarily the small hepatic veins leading to vascular obstruction and hyperemia.
@@ -16,7 +16,7 @@ Myelosuppression can be dose-limiting or life-threatening.
 Experts recommend DAILY complete blood cell counts to detect severe hematopoietic depression and withholding therapy if any cell line becomes markedly depressed.
 Bone marrow recovery typically takes three weeks.
 Elderly patients may be associated with an increased risk of myelosuppression compared to younger patients.
-Hematologic side effects have presented as myelosuppression in approximately 20% to 50% of patients.
+Hematologic side effects have presented as myelosuppression in approximately  to  of patients.
 Leukopenia and thrombocytopenia have typically been observed at one to two weeks after doses are started, but nadirs can be delayed until three weeks.
 Anemia, even aplastic anemia, agranulocytosis, pancytopenia, reticulopenia, neutropenia, febrile neutropenia,and rare cases of immune thrombocytopenia have also been reported.
 Dermatologic side effects have been common, and included alopecia, skin eruptions (including bullous pemphigoid and folliculitis), acne, and exacerbations of erythema or increased pigmentation associated with previous disease or x-radiation therapy.
@@ -39,7 +39,7 @@ The pediatric literature describes radiographic findings of transverse lines of 
 Hypersensitivity side effects, including frank anaphylaxis reactions, have been reported, but have been rare.
 Endocrinologic side effects have been rare.
 Gynecomastia without elevated serum beta-HCG levels has been associated with dactinomycin therapy in males with testicular cancer.
-Thymic enlargement has rarely been associated with the use of dactinomycin (with later generation computerized axial tomograms [CT scans] the thymus is demonstrable in all patients less than 30 years old).
+Thymic enlargement has rarely been associated with the use of dactinomycin (with later generation computerized axial tomograms [CT scans] the thymus is demonstrable in all patients less than  years old).
 Cardiovascular side effects have been rare.
 A single case of portal hypertension has been reported.
 Rare cases of pericarditis have been associated with the use of dactinomycin in combination with other antineoplastic agents, such as cyclophosphamide, vinblastine, bleomycin, and cisplatin.

@@ -1,5 +1,4 @@
 As well as its needed effects, neomycin (the active ingredient contained in Neo-Fradin) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking neomycin, check with your doctor immediately:
 Some neomycin side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
@@ -11,13 +10,13 @@ Often there is a high output renal failure where daily urine volume may appear u
 Neomycin damages renal tubules by causing tubular epithelial cell necrosis.
 It is considered the most nephrotoxic aminoglycoside.
 Early symptoms of neomycin-induced auditory toxicity may manifest as high tone hearing loss, tinnitus, or a feeling of fullness in the ear, or its onset may be asymptomatic.
-If ototoxicity occurs, the onset of hearing loss is between several days to 6 weeks after therapy begins; however, it may not occur for months or years after neomycin (the active ingredient contained in Neo-Fradin) has been discontinued.
+If ototoxicity occurs, the onset of hearing loss is between several days to  weeks after therapy begins; however, it may not occur for months or years after neomycin (the active ingredient contained in Neo-Fradin) has been discontinued.
 Symptoms of vestibulotoxicity may include tinnitus, vertigo and ataxia.
 Neomycin is considered more ototoxic than vestibulotoxic.
 It progressively accumulates in the inner ear and which leads to sensory hair cell loss in the in the cochlea and damage to the stria vascularis.
 In an animal study, neomycin was found to be more ototoxic than gentamicin, kanamycin and dihydrostreptomycin.
-One case report series describes 5 cases of hearing impairment associated with long-term oral neomycin therapy for hepatic encephalopathy.
-Doses ranged from 2 to 12 g/day and were administered for 8 to 28 months; in 2 cases paromomycin was also administered.
+One case report series describes  cases of hearing impairment associated with long-term oral neomycin therapy for hepatic encephalopathy.
+Doses ranged from  to  g/day and were administered for  to  months; in  cases paromomycin was also administered.
 Renal failure did not occur.
 Nervous system side effects associated with oral neomycin therapy have included neuromuscular blockade, respiratory paralysis, and eighth cranial nerve damage with hearing loss, even at recommended doses and in patients with normal renal function.
 Symptoms of neurotoxicity include numbness, tingling, muscle twitching, and convulsions.

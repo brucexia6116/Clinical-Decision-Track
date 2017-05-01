@@ -1,25 +1,19 @@
 Commonly reported side effects of ceritinib include: abdominal pain, diarrhea, hyperglycemia, increased serum alanine aminotransferase, nausea, and vomiting.
 Other side effects include: interstitial pulmonary disease, pneumonitis, and prolonged qt interval on ecg.
 See below for a comprehensive list of adverse effects.
-The most common side effect resulting in dose reductions or interruptions were increased ALT (29%), nausea (20%), increased AST (16%), diarrhea (16%), and vomiting (16%).
+The most common side effect resulting in dose reductions or interruptions were increased ALT , nausea , increased AST , diarrhea , and vomiting .
 The most common side effects leading to discontinuation were pneumonia, interstitial lung disease/pneumonitis, and decreased appetite.
-Very common (10% or more): Diarrhea (86%), nausea (80%), vomiting (60%), abdominal pain (54%), constipation (29%), esophageal disorder (16%)Rare (less than 0.
-1%): Gastrointestinal hemorrhage
-Very Common (10% or more): Hemoglobin decreased (84%), phosphate decreased (36%)
-Very Common (10% or more): ALT increased (80%), AST increased (75%), bilirubin increased (15%)
-Very Common (10% or more): Creatinine increased (58%), phosphate decreased (36%)
-Very common (10% or more): Decreased appetite (34%), glucose increased (49%), lipase increased (28%)
-Very common (10% or more): Rash (16%)
-Common (1% to 10%): Interstitial lung disease/pneumonitisRare (0.
-01% than 0.
-1%): Respiratory failure, pneumothorax, pulmonary tuberculosis
-Very common (10% or more): Neuropathy (17%)
-Common (1% to 10%): Vision disorder
-Common (1% to 10%): Prolonged QT, bradycardiaRare (less than 0.
-1%): Cardiac tamponade
-Very common (10% or more): Fatigue (52%)Uncommon (0.
-1% to 1%): General physical health deteriorationRare (less than 0.
-1%): Sepsis
+Very common ( or more): Diarrhea , nausea , vomiting , abdominal pain , constipation , esophageal disorder Rare (less than ): Gastrointestinal hemorrhage
+Very Common ( or more): Hemoglobin decreased , phosphate decreased 
+Very Common ( or more): ALT increased , AST increased , bilirubin increased 
+Very Common ( or more): Creatinine increased , phosphate decreased 
+Very common ( or more): Decreased appetite , glucose increased , lipase increased 
+Very common ( or more): Rash 
+Common ( to ): Interstitial lung disease/pneumonitisRare ( than ): Respiratory failure, pneumothorax, pulmonary tuberculosis
+Very common ( or more): Neuropathy 
+Common ( to ): Vision disorder
+Common ( to ): Prolonged QT, bradycardiaRare (less than ): Cardiac tamponade
+Very common ( or more): Fatigue Uncommon ( to ): General physical health deteriorationRare (less than ): Sepsis
 Abdominal or stomach pain or tenderness
 blurred vision
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings

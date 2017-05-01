@@ -1,23 +1,15 @@
-Common (1% to 10%): Upper respiratory tract infection, respiratory infection, bronchitis, pharyngitis, sinusitis, nasopharyngitis, coughCandesartan:Frequency not reported: Cough, rhinitisHydrochlorothiazide:Frequency not reported: Pneumonitis, pulmonary edema
-Common (1% to 10%): Hypokalemia, dyslipidemiaUncommon (0.
-1% to 1%): HyperkalemiaCandesartan:Very rare (less than 0.
-01%): Hyponatremia, hyperkalemiaHydrochlorothiazide:Frequency not reported: Anorexia, loss of appetite, hyperglycemia, hyperuricemia, hyponatremia, hypokalemia, cholesterol increased, triglycerides increased
-Common (1% to 10%): Abdominal pain, nauseaUncommon (0.
-1% to 1%): VomitingCandesartan:Frequency not reported: DiarrheaHydrochlorothiazide:Frequency not reported: Gastric irritation, diarrhea, constipationPostmarketing reports: Sialadenitis, cramping
-Common (1% to 10%): Influenza-like symptoms, inflicted injuryFrequency not reported: FatigueCandesartan:Frequency not reported: Peripheral edemaHydrochlorothiazide:Frequency not reported: Fever, weakness, vertigo
-Common (1% to 10%): Dizziness, headacheCandesartan:Postmarketing reports: SomnolenceHydrochlorothiazide:Frequency not reported: Lightheadedness, paresthesia
-Common (1% to 10%): TachycardiaUncommon (0.
-1% to 1%): Atrioventricular blockCandesartan:Postmarketing reports: PalpitationsHydrochlorothiazide:Frequency not reported: Vasculitis, postural hypotension, cardiac arrhythmias
-Common (1% to 10%): Back painPostmarketing reports: MyalgiaCandesartan:Postmarketing reports: RhabdomyolysisHydrochlorothiazide:Frequency not reported: Muscle spasm
-Common (1% to 10%): Urinary tract infectionHydrochlorothiazide:Frequency not reported: GlycosuriaPostmarketing reports: Impotence
-Candesartan:Very rare (less than 0.
-01%): Angioedema, urticaria, pruritus, rashHydrochlorothiazide:Frequency not reported: Photosensitivity reactions, rash, cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, urticaria, cutaneous vasculitis, toxic epidermal necrolysisPostmarketing reports: Purpura, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, alopecia
-Candesartan:Very rare (less than 0.
-01%): Leucopenia, neutropenia, agranulocytosisHydrochlorothiazide:Frequency not reported: Leucopenia, neutropenia, agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia, bone marrow depression
-Candesartan:Very rare (less than 0.
-01%): Liver enzymes increased, abnormal hepatic function, hepatitisHydrochlorothiazide:Frequency not reported: Intrahepatic cholestatic jaundice, pancreatitis
-Candesartan:Very rare (less than 0.
-01%): Renal impairment, renal failureHydrochlorothiazide:Frequency not reported: BUN increased, serum creatinine increased, renal dysfunction, interstitial nephritis
+Common ( to ): Upper respiratory tract infection, respiratory infection, bronchitis, pharyngitis, sinusitis, nasopharyngitis, coughCandesartan:Frequency not reported: Cough, rhinitisHydrochlorothiazide:Frequency not reported: Pneumonitis, pulmonary edema
+Common ( to ): Hypokalemia, dyslipidemiaUncommon ( to ): HyperkalemiaCandesartan:Very rare (less than ): Hyponatremia, hyperkalemiaHydrochlorothiazide:Frequency not reported: Anorexia, loss of appetite, hyperglycemia, hyperuricemia, hyponatremia, hypokalemia, cholesterol increased, triglycerides increased
+Common ( to ): Abdominal pain, nauseaUncommon ( to ): VomitingCandesartan:Frequency not reported: DiarrheaHydrochlorothiazide:Frequency not reported: Gastric irritation, diarrhea, constipationPostmarketing reports: Sialadenitis, cramping
+Common ( to ): Influenza-like symptoms, inflicted injuryFrequency not reported: FatigueCandesartan:Frequency not reported: Peripheral edemaHydrochlorothiazide:Frequency not reported: Fever, weakness, vertigo
+Common ( to ): Dizziness, headacheCandesartan:Postmarketing reports: SomnolenceHydrochlorothiazide:Frequency not reported: Lightheadedness, paresthesia
+Common ( to ): TachycardiaUncommon ( to ): Atrioventricular blockCandesartan:Postmarketing reports: PalpitationsHydrochlorothiazide:Frequency not reported: Vasculitis, postural hypotension, cardiac arrhythmias
+Common ( to ): Back painPostmarketing reports: MyalgiaCandesartan:Postmarketing reports: RhabdomyolysisHydrochlorothiazide:Frequency not reported: Muscle spasm
+Common ( to ): Urinary tract infectionHydrochlorothiazide:Frequency not reported: GlycosuriaPostmarketing reports: Impotence
+Candesartan:Very rare (less than ): Angioedema, urticaria, pruritus, rashHydrochlorothiazide:Frequency not reported: Photosensitivity reactions, rash, cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, urticaria, cutaneous vasculitis, toxic epidermal necrolysisPostmarketing reports: Purpura, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, alopecia
+Candesartan:Very rare (less than ): Leucopenia, neutropenia, agranulocytosisHydrochlorothiazide:Frequency not reported: Leucopenia, neutropenia, agranulocytosis, thrombocytopenia, aplastic anemia, hemolytic anemia, bone marrow depression
+Candesartan:Very rare (less than ): Liver enzymes increased, abnormal hepatic function, hepatitisHydrochlorothiazide:Frequency not reported: Intrahepatic cholestatic jaundice, pancreatitis
+Candesartan:Very rare (less than ): Renal impairment, renal failureHydrochlorothiazide:Frequency not reported: BUN increased, serum creatinine increased, renal dysfunction, interstitial nephritis
 Candesartan:Postmarketing reports: Agitation, anxiety, depression, insomnia, nervousness, sleep disorder, nightmareHydrochlorothiazide:Frequency not reported: Restlessness, sleep disturbances, depression
 Hydrochlorothiazide:Frequency not reported: Transient blurred vision, acute myopia, acute angle-closure glaucoma, xanthopsia
 Hydrochlorothiazide:Frequency not reported: Anaphylactic reactions

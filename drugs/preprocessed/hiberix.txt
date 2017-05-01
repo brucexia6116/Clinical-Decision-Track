@@ -1,45 +1,18 @@
 If any of the following side effects occur while taking haemophilus b conjugate (prp-t) vaccine, check with your doctor or nurse immediately:
 The most common adverse events were pain and redness at the injection site, irritability, drowsiness, fever, loss of appetite, fussiness, and restlessness.
-Most symptoms occur in the first 48 hours, are mild, and resolve spontaneously.
-Very common (10% or more): Pain (49.
-4%), redness (29.
-4%), tenderness (20%), swelling (18.
-7%)Common (1% to 10%): IndurationVery rare (less than 0.
-01%): Extensive swelling of vaccinated limb, injection site induration
-Very common (10% or more): Drowsiness (59.
-9%), decreased activity/lethargy (51.
-1%), sleepiness (19.
-9%)Rare (less than 0.
-1%): Seizure with apnea, convulsionVery rare (less than 0.
-01%): Convulsions (with or without fever), hypotonic-hyporesponsive episode (e.
-g.
-sudden onset of hypotonia, hyporesponsiveness, and pallor or cyanosis), somnolence, syncope, vasovagal responses to injection
-Very common (10% or more): Irritability (70.
-4%), fussiness (25.
-9%), restlessness (21.
-8%)Common (1% to 10%): NervousnessUncommon (0.
-1% to 1%): Emotional lability, insomnia
-Very common (10% or more): Inconsolable crying (58.
-5%), fever (34.
-8%)Common (1% to 10%): Otitis mediaUncommon (0.
-1% to 1%): Asthenia, fatigue, injuryPostmarketing reports: Peripheral edema
-Very common (10% or more): Loss of appetite (28.
-7%)
-Very common (10% or more): Diarrhea (14.
-6%), vomitingCommon (1% to 10%): GastroenteritisUncommon (0.
-1% to 1%): Abdominal pain
-Common (1% to 10%): Rash erythematousUncommon (0.
-1% to 1%): Sweating increased, purpuraVery rare (less than 0.
-01%): Angioedema, rash, urticariaPostmarketing reports: Pruritus
-Common (1% to 10%): Rhinitis, coughing, respiratory disorder, upper respiratory tract infection, bronchitisRare (less than 0.
-1%): Bilateral pneumoniaVery rare (less than 0.
-01%): Apnea in very premature infants
-Rare (less than 0.
-1%): Allergic reactions (including anaphylactic and anaphylactoid reactions)Postmarketing reports: Other allergic/hypersensitivity reactions (including urticaria, angioedema)
-Uncommon (0.
-1% to 1%): Spastic paralysis
-Common (1% to 10%): Conjunctivitis
-Common (1% to 10%): Viral infection
+Most symptoms occur in the first  hours, are mild, and resolve spontaneously.
+Very common ( or more): Pain , redness , tenderness , swelling Common ( to ): IndurationVery rare (less than ): Extensive swelling of vaccinated limb, injection site induration
+Very common ( or more): Drowsiness , decreased activity/lethargy , sleepiness Rare (less than ): Seizure with apnea, convulsionVery rare (less than ): Convulsions (with or without fever), hypotonic-hyporesponsive episode (  sudden onset of hypotonia, hyporesponsiveness, and pallor or cyanosis), somnolence, syncope, vasovagal responses to injection
+Very common ( or more): Irritability , fussiness , restlessness Common ( to ): NervousnessUncommon ( to ): Emotional lability, insomnia
+Very common ( or more): Inconsolable crying , fever Common ( to ): Otitis mediaUncommon ( to ): Asthenia, fatigue, injuryPostmarketing reports: Peripheral edema
+Very common ( or more): Loss of appetite 
+Very common ( or more): Diarrhea , vomitingCommon ( to ): GastroenteritisUncommon ( to ): Abdominal pain
+Common ( to ): Rash erythematousUncommon ( to ): Sweating increased, purpuraVery rare (less than ): Angioedema, rash, urticariaPostmarketing reports: Pruritus
+Common ( to ): Rhinitis, coughing, respiratory disorder, upper respiratory tract infection, bronchitisRare (less than ): Bilateral pneumoniaVery rare (less than ): Apnea in very premature infants
+Rare (less than ): Allergic reactions (including anaphylactic and anaphylactoid reactions)Postmarketing reports: Other allergic/hypersensitivity reactions (including urticaria, angioedema)
+Uncommon ( to ): Spastic paralysis
+Common ( to ): Conjunctivitis
+Common ( to ): Viral infection
 Diarrhea
 loss of appetite
 vomiting
@@ -49,7 +22,7 @@ Chest pain
 chills
 convulsions (seizures)
 cough
-fever over 102 degrees F (39 degrees C)
+fever over  degrees F ( degrees C)
 lack or loss of strength
 shortness of breath
 sneezing
@@ -69,13 +42,13 @@ skin rash
 swelling of the eyes, face, or inside of the nose
 swollen, painful, or tender lymph glands in the neck, armpit, or groin
 unusual tiredness or weakness (sudden and severe)
-Fever less than 102 degrees F (39 degrees C) 
+Fever less than  degrees F ( degrees C) 
 irritability
 redness, pain, swelling, tenderness, or warm feeling at the injection site
 reduced physical activity
 restlessness
 sleepiness
-Prolonged crying lasting more than 4 hours
+Prolonged crying lasting more than  hours
 unusual high-pitched crying
 Hives or welts
 sleepiness or unusual drowsiness

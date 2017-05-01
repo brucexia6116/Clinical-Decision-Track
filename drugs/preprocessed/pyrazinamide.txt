@@ -1,23 +1,22 @@
 As well as its needed effects, pyrazinamide may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking pyrazinamide, check with your doctor immediately:
 Some pyrazinamide side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Cardiovascular side effects including at least one case of acute hypertension have been reported.
-A 65-year-old female with pulmonary tuberculosis and blood pressure (BP) of 130/80 mm Hg experienced acute hypertension coincident with pyrazinamide therapy.
-She was prescribed a combination tablet containing 300 mg of rifampin, 150 mg of isoniazid, and 500 mg pyrazinamide.
-After she was administered the first dose, she reported an episode of intense headache and tachycardia that lasted 3 hours until she was admitted to the hospital.
-A physical exam revealed a supine BP of 170/110 mm Hg and pulse of 120 beats per minute.
-After antihypertensive therapy, her BP returned to baseline of 130/80 mm Hg and a rechallenge with the individual drugs one by one was conducted.
-When 500 mg of pyrazinamide was administered, she experienced acute hypertension of 170/110 mm Hg after 30 minutes.
-A 52-year-old male experienced pyrazinamide-induced granulomatous hepatitis coincident with pyrazinamide therapy.
-He experienced hectic fever, chills, extreme fatigue, liver damage, and hyperuricemia about 4 weeks after initiating pyrazinamide (500 mg three times a day) therapy for a positive tuberculin skin test.
+A -year-old female with pulmonary tuberculosis and blood pressure (BP) of / mm Hg experienced acute hypertension coincident with pyrazinamide therapy.
+She was prescribed a combination tablet containing  mg of rifampin,  mg of isoniazid, and  mg pyrazinamide.
+After she was administered the first dose, she reported an episode of intense headache and tachycardia that lasted  hours until she was admitted to the hospital.
+A physical exam revealed a supine BP of / mm Hg and pulse of  beats per minute.
+After antihypertensive therapy, her BP returned to baseline of / mm Hg and a rechallenge with the individual drugs one by one was conducted.
+When  mg of pyrazinamide was administered, she experienced acute hypertension of / mm Hg after  minutes.
+A -year-old male experienced pyrazinamide-induced granulomatous hepatitis coincident with pyrazinamide therapy.
+He experienced hectic fever, chills, extreme fatigue, liver damage, and hyperuricemia about  weeks after initiating pyrazinamide ( mg three times a day) therapy for a positive tuberculin skin test.
 A liver biopsy specimen revealed noncaseating epithelioid granulomas.
 The patient recovered soon after the discontinuation of pyrazinamide therapy.
 Hepatic side effects have been reported the most frequently.
 These have included elevation of liver function tests, jaundice, nausea, vomiting, and malaise.
-Hepatotoxicity (1%) appears to be dose-related and may appear at anytime during therapy.
+Hepatotoxicity  appears to be dose-related and may appear at anytime during therapy.
 At least one case of pyrazinamide-induced granulomatous hepatitis has also been reported.
 Metabolic side effects have included increases in uric acid due to the inhibition of uric acid renal secretion.
 Although this metabolic reaction is usually asymptomatic, it may lead to the development of gout.
@@ -30,22 +29,22 @@ Dermatologic side effects have rarely included rash, urticaria, pruritus, skin p
 Gastrointestinal side effects have included nausea, vomiting, and anorexia.
 Renal side effects have included dysuria and interstitial nephritis.
 General side effects have included fever.
-A 59-year-old female experienced hypersensitivity hepatitis coincident with pyrazinamide therapy.
+A -year-old female experienced hypersensitivity hepatitis coincident with pyrazinamide therapy.
 She was admitted to the hospital because of fever and a nonketotic hyperosmolar syndrome.
 The assessment revealed diabetes mellitus type II and pulmonary tuberculosis.
-She was given isoniazid (225 mg), rifampin (450 mg), ethambutol (1000 mg), and pyrazinamide (1,250 mg).
+She was given isoniazid ( mg), rifampin ( mg), ethambutol ( mg), and pyrazinamide (, mg).
 One month later, she presented with vomiting, abdominal pain, and fever.
 Physical examination revealed scleral and cutaneous jaundice.
-Laboratory tests showed elevated ALT (1,260 U/intl) and AST (1,680 U/intl).
+Laboratory tests showed elevated ALT (, U/intl) and AST (, U/intl).
 Drug-induced hepatitis was suspected.
-On day 1, her tuberculosis treatment was withdrawn and the patient improved.
+On day , her tuberculosis treatment was withdrawn and the patient improved.
 A rechallenge with the individual tuberculosis drugs one by one was conducted.
 When pyrazinamide was reintroduced, the patient experienced acute malaise, fever, arthralgia, perioral paresthesia, and vomiting.
-Twelve hours later, laboratory tests showed elevated AST (3,240 U/intl) and ALT (4,140 U/intl).
-A 75-year-old male experienced erythema multiforme coincident with pyrazinamide therapy.
+Twelve hours later, laboratory tests showed elevated AST (, U/intl) and ALT (, U/intl).
+A -year-old male experienced erythema multiforme coincident with pyrazinamide therapy.
 The patient was admitted to the hospital for a thoracic tuberculosis cold abscess.
-He was started on isoniazid (200 mg per day), rifampin (600 mg per day), ethambutol (1200 mg per day), and pyrazinamide (1500 mg per day).
-After 26 days, thoracoabdominal and back circinate erythematous maculopapular lesions appeared without bullous lesions, mucous membrane involvement, or systemic symptoms.
+He was started on isoniazid ( mg per day), rifampin ( mg per day), ethambutol ( mg per day), and pyrazinamide ( mg per day).
+After  days, thoracoabdominal and back circinate erythematous maculopapular lesions appeared without bullous lesions, mucous membrane involvement, or systemic symptoms.
 The diagnosis of erythema multiforme was confirmed by a biopsy.
 Erythema multiforme abated after discontinuation of the drugs.
 Five days later, rifampin and pyrazinamide were readministered: a back maculopapular urticarial eruption occurred, regressing again after withdrawal of the two drugs.

@@ -2,29 +2,18 @@ Commonly reported side effects of losartan include: asthenia, chest pain, diarrh
 Other side effects include: hyperkalemia, hypotension, and orthostatic hypotension.
 See below for a comprehensive list of adverse effects.
 The most common adverse reactions were upper respiratory infection and dizziness.
-Common (1% to 10%): Nasal congestion, upper respiratory infection, sinusitis, pharyngitis, cough, sinus disorderUncommon (0.
-1% to 1%): DyspneaFrequency not reported: Bronchitis, pharyngeal discomfort, epistaxis, rhinitis, respiratory congestion
-Common (1% to 10%): Abdominal pain, nausea, diarrhea, dyspepsiaUncommon (0.
-1% to 1%): Obstipation, vomitingFrequency not reported: Constipation, dental pain, dry mouth, flatulence, gastritis
-Common (1% to 10%): Muscle cramp, back pain, leg pain, myalgiaFrequency not reported: Arm pain, hip pain, joint swelling, knee pain, musculoskeletal pain, shoulder pain, stiffness, arthralgia, arthritis, fibromyalgia, muscle weaknessPostmarketing reports: Rhabdomyolysis
-Common (1% to 10%): Renal impairment, renal failure, BUN increased, serum creatinine increased
-Common (1% to 10%): Dizziness, headache, vertigoUncommon (0.
-1% to 1%): SomnolenceRare (less than 0.
-1%): Paresthesia, syncope, cerebrovascular accidentFrequency not reported: Ataxia, hypesthesia, memory impairment, migraine, peripheral neuropathy, tremor, taste perversion, tinnitus
-Common (1% to 10%): Asthenia/fatigue, edema/swelling, chest painFrequency not reported: Facial edema, fever, orthostatic effectsPostmarketing reports: Malaise
-Common (1% to 10%): Hyperkalemia, serum potassium increased, hypoglycemiaFrequency not reported: Anorexia, goutPostmarketing reports: Hyponatremia
-Common (1% to 10%): Orthostatic hypotensionUncommon (0.
-1% to 1%): Palpitation, angina pectorisRare (less than 0.
-1%): Atrial fibrillationFrequency not reported: Second degree atrioventricular block, hypotension, myocardial infarction, sinus bradycardia, tachycardia, ventricular tachycardia, ventricular fibrillation, flushingPostmarketing reports: Vasculitis
-Common (1% to 10%): InsomniaUncommon (0.
-1% to 1%): Sleep disorderFrequency not reported: Anxiety, anxiety disorder, confusion, depression, dream abnormality, libido decreased, nervousness, panic disorder
-Common (1% to 10%): AnemiaRare (less than 0.
-1%): HemolysisPostmarketing reports: Thrombocytopenia, hemoglobin decreased, hematocrit decreased
-Uncommon (0.
-1% to 1%): Urticaria, pruritus, rashRare (less than 0.
-1%): Angioedema, superficial peeling of palmsFrequency not reported: Alopecia, dermatitis, dry skin, ecchymosis, erythema, photosensitivity, sweatingPostmarketing reports: Erythroderma
-Rare (less than 0.
-1%): ALT increasedPostmarketing reports: Hepatitis, liver enzymes increased, serum bilirubin increased, pancreatitis, liver function abnormalities
+Common ( to ): Nasal congestion, upper respiratory infection, sinusitis, pharyngitis, cough, sinus disorderUncommon ( to ): DyspneaFrequency not reported: Bronchitis, pharyngeal discomfort, epistaxis, rhinitis, respiratory congestion
+Common ( to ): Abdominal pain, nausea, diarrhea, dyspepsiaUncommon ( to ): Obstipation, vomitingFrequency not reported: Constipation, dental pain, dry mouth, flatulence, gastritis
+Common ( to ): Muscle cramp, back pain, leg pain, myalgiaFrequency not reported: Arm pain, hip pain, joint swelling, knee pain, musculoskeletal pain, shoulder pain, stiffness, arthralgia, arthritis, fibromyalgia, muscle weaknessPostmarketing reports: Rhabdomyolysis
+Common ( to ): Renal impairment, renal failure, BUN increased, serum creatinine increased
+Common ( to ): Dizziness, headache, vertigoUncommon ( to ): SomnolenceRare (less than ): Paresthesia, syncope, cerebrovascular accidentFrequency not reported: Ataxia, hypesthesia, memory impairment, migraine, peripheral neuropathy, tremor, taste perversion, tinnitus
+Common ( to ): Asthenia/fatigue, edema/swelling, chest painFrequency not reported: Facial edema, fever, orthostatic effectsPostmarketing reports: Malaise
+Common ( to ): Hyperkalemia, serum potassium increased, hypoglycemiaFrequency not reported: Anorexia, goutPostmarketing reports: Hyponatremia
+Common ( to ): Orthostatic hypotensionUncommon ( to ): Palpitation, angina pectorisRare (less than ): Atrial fibrillationFrequency not reported: Second degree atrioventricular block, hypotension, myocardial infarction, sinus bradycardia, tachycardia, ventricular tachycardia, ventricular fibrillation, flushingPostmarketing reports: Vasculitis
+Common ( to ): InsomniaUncommon ( to ): Sleep disorderFrequency not reported: Anxiety, anxiety disorder, confusion, depression, dream abnormality, libido decreased, nervousness, panic disorder
+Common ( to ): AnemiaRare (less than ): HemolysisPostmarketing reports: Thrombocytopenia, hemoglobin decreased, hematocrit decreased
+Uncommon ( to ): Urticaria, pruritus, rashRare (less than ): Angioedema, superficial peeling of palmsFrequency not reported: Alopecia, dermatitis, dry skin, ecchymosis, erythema, photosensitivity, sweatingPostmarketing reports: Erythroderma
+Rare (less than ): ALT increasedPostmarketing reports: Hepatitis, liver enzymes increased, serum bilirubin increased, pancreatitis, liver function abnormalities
 Frequency not reported: Impotence, nocturia, urinary frequency, urinary tract infection
 Frequency not reported: Blurred vision, burning/stinging in the eye, conjunctivitis, visual acuity decreased
 Frequency not reported: Flu-like symptomsPostmarketing reports: Anaphylactic reactions, hypersensitivity reactions

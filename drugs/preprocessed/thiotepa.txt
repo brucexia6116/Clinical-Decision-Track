@@ -15,26 +15,25 @@ After you stop taking this drug, it is possible that you may still experience si
 If you notice any of the following side effects check with your doctor immediately:
 Hematologic side effects have included bone-marrow depression, which is the most serious complication of excessive thiotepa therapy, or sensitivity to the effects of thiotepa.
 If proper precautions are not observed, leukopenia, thrombocytopenia and/or anemia may develop.
-The nadir in the leukocyte and platelet counts generally occur in 7 to 10 days and 21 days respectively.
+The nadir in the leukocyte and platelet counts generally occur in  to  days and  days respectively.
 Death has occurred after intravesical administration, caused by bone-marrow depression from systemically absorbed drug.
 However, if the drug is administered by intracavitary or intravesical injection, myelosuppression is not predictable.
 Death from septicemia and hemorrhage has occurred as a direct result of hematopoietic depression.
 Thiotepa is highly toxic to the hematopoietic system.
 Pancytopenia has been reported.
-One case report was of early onset life-threatening pancytopenia following a total dosage of 120 mg.
-In one study of 670 bladder installations in 72 patients, the white blood cell or platelet count decreased to below normal in 18% of the patients (3.
-9% of the installations).
+One case report was of early onset life-threatening pancytopenia following a total dosage of  mg.
+In one study of  bladder installations in  patients, the white blood cell or platelet count decreased to below normal in  of the patients ( of the installations).
 None of these decreased counts lead to any problems other than delays in therapy.
 New York Hospital reviewed its records of patients who received at least one intravesicular installation of thiotepa for localized bladder cancer.
-Ten of 25 consecutive patients had at least one episode of acute myelosuppression.
-Thrombocytopenia occurred in 9 patients, leukopenia in 5, and anemia in 2.
+Ten of  consecutive patients had at least one episode of acute myelosuppression.
+Thrombocytopenia occurred in  patients, leukopenia in , and anemia in 
 Oncologic side effects have included cases of myelodysplastic syndromes and acute nonlymphocytic leukemia.
 Carcinogenicity has been reported in animal studies.
 In mice, repeated IP administration produced a significant increase in the combined incidence of squamous-cell carcinomas of the skin, preputial gland, and ear canal, and combined incidence of lymphoma and lymphocytic leukemia.
 In other studies in mice, repeated IP administration resulted in an increased incidence of lung tumors.
 In rats, repeated IP administration produced significant increases in the incidence of squamous-cell carcinomas of the skin or ear canal, combined hematopoietic neoplasms, and uterine adenocarcinomas.
 Thiotepa given intravenously to rats produced an increased incidence of malignant tumors (abdominal cavity sarcoma, lymphosarcoma, myelosis, seminoma, fibrosarcoma, salivary gland hemangioendothelioma, mammary sarcoma, pheochromocytoma) and benign tumors.
-The lowest reported carcinogenic dosages in mice and rats are approximately 7-fold and 6-fold less than the maximum recommended human therapeutic dose based on body-surface area.
+The lowest reported carcinogenic dosages in mice and rats are approximately -fold and -fold less than the maximum recommended human therapeutic dose based on body-surface area.
 General side effects including fatigue and weakness have been reported.
 Febrile reaction and discharge from a subcutaneous lesion may occur as the result of breakdown of tumor tissue.
 Allergic reactions including rash, urticaria, laryngeal edema, asthma, hives, anaphylactic shock, and wheezing have been reported.

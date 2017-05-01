@@ -8,7 +8,7 @@ Renal insufficiency is dose-related.
 It is often accompanied by hypertension.
 Cyclosporine causes a reversible reduction in renal blood flow and glomerular filtration rate.
 The mechanism of cyclosporine-induced nephrotoxicity is now considered to be vasoconstriction of the afferent arterioles.
-ET1 is also considered to be a key substance of cyclosporine-induced nephrotoxicity.
+ET is also considered to be a key substance of cyclosporine-induced nephrotoxicity.
 Mild nephrotoxicity generally responds to reductions in cyclosporine doses.
 A chronic, progressive nephrotoxicity may also occur in which discontinuation of cyclosporine fails to alleviate the renal insufficiency.
 Renal biopsies from these patients may demonstrate interstitial fibrosis, tubular atrophy, global or segmental glomerulosclerosis, or smooth vascular muscle damage.
@@ -18,7 +18,7 @@ Differentiation between cyclosporine-induced nephrotoxicity, allograft rejection
 The use of nonsteroidal anti-inflammatory agents in combination with cyclosporine may increase the risk of renal toxicity, especially in rheumatoid arthritis patients.
 Intact renal prostaglandins are necessary for maintaining adequate renal blood flow in patients treated with cyclosporine.
 Renal deterioration may occur independent of changes in cyclosporine levels.
-Renal side effects including renal insufficiency (up to 38%) and BK virus associated nephropathy have been reported.
+Renal side effects including renal insufficiency (up to ) and BK virus associated nephropathy have been reported.
 A chronic, progressive, irreversible nephrotoxicity has also been reported.
 Elevations in serum creatinine and BUN are common during cyclosporine therapy and do not necessarily indicate allograft rejection.
 A case of hemolytic uremic syndrome (HUS) associated with cyclosporine therapy has been reported.
@@ -27,56 +27,56 @@ In addition, cyclosporine-induced hyperuricemia may predispose the patient to re
 Seizures in patients on cyclosporine (the active ingredient contained in Gengraf) therapy may be associated with hypomagnesemia or concomitant high-dose corticosteroids.
 In addition, hypercholesterolemia and hypertension may contribute to cyclosporine neurotoxicity.
 Hypomagnesemia and hypercholesterolemia allow easier diffusion of cyclosporine across the blood-brain barrier potentiating neurotoxicity.
-A review of cyclosporine-induced neurotoxicity revealed a 10% incidence after liver transplantation.
+A review of cyclosporine-induced neurotoxicity revealed a  incidence after liver transplantation.
 Intravenous administration of cyclosporine was associated with more severe reactions such as psychosis, however severe reactions occurred rarely.
 MRI abnormalities were seldom found.
-Only 61% of patients that experienced neurotoxicity (n=46) had cyclosporine trough levels suggestive of toxicity.
+Only  of patients that experienced neurotoxicity (n=) had cyclosporine trough levels suggestive of toxicity.
 Temporary discontinuation and lowering the dose of cyclosporine resolved the neurotoxicity.
 Three patients were successfully switched to tacrolimus therapy without return of neurotoxicity.
 No patient exhibited abnormal magnesium levels.
 The speech disorder leading to mutism which has been associated with cyclosporine therapy was reversible.
-Symptoms resolved within 1 to 2 weeks after withdrawal of the cyclosporine.
+Symptoms resolved within  to  weeks after withdrawal of the cyclosporine.
 The permanent blindness which was reported in one patient was suspected to be due to neurotoxicity associated with elevated cyclosporine levels.
 Dechallenge with cyclosporine did not reverse the blindness .
-The blindness occurred over a 36 hour period 3 weeks following a kidney-pancreas transplant.
-The cyclosporine trough level was at its highest on the day of complete blindness (495 ng/mL).
+The blindness occurred over a  hour period  weeks following a kidney-pancreas transplant.
+The cyclosporine trough level was at its highest on the day of complete blindness ( ng/mL).
 The mechanism by which cyclosporine induces neurologic blindness is unknown.
-Nervous system side effects of cyclosporine have included tremors (12% to 55%) and headache (2% to 15%).
+Nervous system side effects of cyclosporine have included tremors ( to ) and headache ( to ).
 Depression, somnolence, decreased visual acuity, confusion, paresthesias, seizures, and a reversible speech disorder leading to mutism have also been associated with cyclosporine therapy.
 Three cases of leukoencephalopathy have also been reported.
 Postmarketing reports of migraine headache have been reported.
-Dermatologic side effects of cyclosporine (the active ingredient contained in Gengraf) have included hypertrichosis (30%), acne (1% to 8%), and pruritus.
+Dermatologic side effects of cyclosporine (the active ingredient contained in Gengraf) have included hypertrichosis , acne ( to ), and pruritus.
 Cyclosporine has been associated with pilosebaceous lesions, including hypertrichosis, epidermal cysts, keratosis pilaris, acne, folliculitis, sebaceous gland hyperplasia, and cutaneous malignancies.
 A case of erythroderma resembling Sezary syndrome with lymphocytic infiltrates of the skin has been reported.
 Cases of folliculodystrophy and pseudoporphyria have also been reported.
 Postmarketing cases of transformation to erythrodermic psoriasis or generalized pustular psoriasis upon either withdrawal or reduction of cyclosporine in patients with chronic plaque psoriasis have been reported.
-Hepatic side effects have been common, occurring in up to 50% of patients, and are generally mild and self-limited, and manifest as elevated bilirubin, serum transaminases, and alkaline phosphatase values.
+Hepatic side effects have been common, occurring in up to  of patients, and are generally mild and self-limited, and manifest as elevated bilirubin, serum transaminases, and alkaline phosphatase values.
 In addition, cholestatic jaundice has been reported.
 Postmarketing reports of cholestasis, jaundice, hepatitis and liver failure with serious and/or fatal outcomes have been reported.
-Hematologic side effects have included leukopenia (less than 1% to 6%), anemia, and thrombocytopenia.
+Hematologic side effects have included leukopenia (less than  to ), anemia, and thrombocytopenia.
 A syndrome characterized by thrombocytopenia and microangiopathic anemia is reported in some patients and may result in allograft rejection.
 Metabolic side effects of cyclosporine (the active ingredient contained in Gengraf) have included significant hyperkalemia, which is sometimes associated with hyperchloremic metabolic acidosis.
-Gastrointestinal side effects have included gum hyperplasia (4% to 16%), diarrhea (3% to 8%), nausea and vomiting (2% to 10%), anorexia, abdominal discomfort, and rare reports of upper gastrointestinal bleeding.
+Gastrointestinal side effects have included gum hyperplasia ( to ), diarrhea ( to ), nausea and vomiting ( to ), anorexia, abdominal discomfort, and rare reports of upper gastrointestinal bleeding.
 Pancreatitis has also been reported rarely.
 The incidence of gum hyperplasia is lower with the microemulsion form of cyclosporine.
-A 14 day course of metronidazole 750 mg three times a day has been effective in remitting gum hyperplasia in patients with rheumatoid arthritis.
+A  day course of metronidazole  mg three times a day has been effective in remitting gum hyperplasia in patients with rheumatoid arthritis.
 No increase in serum cyclosporine levels and creatinine levels were observed during metronidazole therapy.
 The effect of metronidazole on gum hyperplasia may be due to its antibacterial activity, although data is lacking.
 One study has reported that reduced basal and stimulated nitrous oxide production in cyclosporine-treated renal transplant recipients.
 The authors stated that this suggests endothelial dysfunction, and may explain the increased risk of premature atherosclerosis and cardiovascular death.
 They felt this might also provide, at least in part, a potential mechanism to explain cyclosporine-induced hypertension.
-Cardiovascular side effects have included hypertension (50%) induced by cyclosporine.
+Cardiovascular side effects have included hypertension  induced by cyclosporine.
 Myocardial infarction has also been reported rarely.
 Endocrine side effects of cyclosporine (the active ingredient contained in Gengraf) have included hypertriglyceridemia, increases in serum prolactin, decreases in serum testosterone, gynecomastia, hyperglycemia, and hypertrichosis.
 Cremophor EL (polyoxyethylated castor oil), the vehicle for the intravenous form of cyclosporine, may cause hyperlipidemia and electrophoretic abnormalities of lipoproteins.
 These effects are reversible upon cessation of therapy, but usually do not necessitate drug withdrawal.
-Other side effects including a significant risk of acute rejection and death and/or graft loss have been reported in one study of 108 living related renal transplant recipients when cyclosporine (the active ingredient contained in Gengraf) was withdrawn after an average of twelve and a half months after transplantation because of economic constraints.
+Other side effects including a significant risk of acute rejection and death and/or graft loss have been reported in one study of  living related renal transplant recipients when cyclosporine (the active ingredient contained in Gengraf) was withdrawn after an average of twelve and a half months after transplantation because of economic constraints.
 One case of trichomegaly has been reported.
 A case of calcineurin inhibitor induced pain syndrome (CIPS) has also been reported.
 Anaphylaxis, manifest as acute dyspnea, tachypnea, pruritus, rash, and chest discomfort has been reported in rare cases after intravenous administration of cyclosporine (the active ingredient contained in Gengraf)   The vehicle, Cremophor EL, is suspected of inducing anaphylaxis as some patients who experienced anaphylaxis following IV administration were subsequently safely treated with oral dosage forms.
 Intravenous cyclosporine should be reserved for those patients who are unable to tolerate oral medications.
-If this route is necessary, continuous observation for at least the first 30 minutes of the infusion is recommended.
-Hypersensitivity side effects to cyclosporine have occurred in less than 2% of patients.
+If this route is necessary, continuous observation for at least the first  minutes of the infusion is recommended.
+Hypersensitivity side effects to cyclosporine have occurred in less than  of patients.
 A rare manifestation of neurotoxicity induced by cyclosporine (the active ingredient contained in Gengraf) (which has occurred in transplant patients more frequently than in other indications) is optic disc edema including papilledema, with possible visual impairment, secondary to benign intracranial hypertension.
 Ocular side effects have included reports of pseudotumor cerebri, which resolved rapidly upon discontinuation of cyclosporine, and optic disk edema.
 Permanent blindness has been reported in one patient.

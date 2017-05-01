@@ -1,0 +1,242 @@
+cardiovascular
+side effects
+deep vein thrombosis
+hypertension
+hypotension
+myocardial infarction
+pulmonary embolism
+tachycardia
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+dermatologic side effects
+alopecia
+rash
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+postmarketing
+postmarketing side effects
+pruritus
+rash
+urticaria
+stevens-johnson syndrome/toxic epidermal necrolysis
+gastrointestinal side effects
+nausea
+constipation
+diarrhea
+dyspepsia
+vomiting
+stomatitis
+heartburn
+gastritis
+epigastric discomfort
+use of aprepitant as a part of a regimen with ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+acid reflux
+deglutination
+disorder
+dysgeusia
+dysphagia
+flatulence
+obstipation
+salivation
+taste disturbance
+general
+side effects
+asthenia/fatigue
+dizziness
+dehydration
+abdominal pain
+fever
+mucous membrane disorder
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+diaphoresis
+edema
+flushing
+malaise
+pelvic pain
+septic shock
+upper respiratory infection
+common side effects
+incidence
+hiccups
+asthenia/fatigue
+alt
+ast
+constipation
+dyspepsia
+diarrhea
+headache
+anorexia
+genitourinary side effects
+dysuria
+renal insufficiency
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+hematologic side effects
+neutropenia
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+anemia
+febrile neutropenia
+thrombocytopenia
+hypersensitivity side effects
+anaphylactic reactions
+metabolic side effects
+diabetes mellitus
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+decreased appetite
+hypokalemia
+weight loss
+musculoskeletal side effects
+muscular weakness
+musculoskeletal pain
+myalgia
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+nervous system
+side effects
+headache
+insomnia
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+peripheral neuropathy
+sensory neuropathy
+other side effects
+anorexia
+tinnitus
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+thyroid
+follicular cell adenomas
+carcinomas in male rats
+incidences of hepatocellular adenoma
+thyroid
+follicular adenoma in female rats
+drug
+skin fibrosarcomas in male mice
+oncologic side effects
+malignant neoplasm
+non-small cell lung carcinoma
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+psychiatric side effects
+anxiety disorder
+confusion
+depression
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+respiratory side effects
+hiccups
+use of aprepitant as a part of a regimen
+ondansetron
+dexamethasone
+emetogenic cancer chemotherapy
+cough
+dyspnea
+pneumonitis
+respiratory insufficiency
+lower respiratory infection
+nasal secretion
+pharyngitis
+pharyngolaryngeal pain
+vocal disturbance
+tarry stools
+chills
+cough
+fever
+side pain
+difficult urination
+pale skin
+shortness of breath
+sore throat
+ulcers
+sores
+white spots in the mouth
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+blistering
+peeling
+loosening of the skin
+confusion about identity
+place
+time
+diarrhea
+itching
+skin rash
+muscle pain
+hive-like swelling on the face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+redness of the skin
+red, irritated eyes
+red skin lesions
+purple center
+irregular heartbeat
+acid
+sour stomach
+belching
+confusion
+decreased urination
+dizziness
+dry mouth
+fainting
+heartburn
+hiccups
+increase in heart rate
+indigestion
+lack
+loss of strength
+lightheadedness
+loss of appetite
+nausea
+rapid breathing
+stomach discomfort upset
+pain
+sunken eyes
+swelling
+inflammation of the mouth
+thirst
+weight loss
+wrinkled skin
+burning feeling in the chest
+stomach
+hot flashes
+indigestion
+pain
+discomfort in the chest
+upper stomach
+throat
+tenderness in the stomach area

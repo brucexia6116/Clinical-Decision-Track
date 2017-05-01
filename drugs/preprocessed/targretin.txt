@@ -1,43 +1,27 @@
 As well as its needed effects, bexarotene (the active ingredient contained in Targretin) may cause unwanted side effects that require medical attention.
-
 Since this medication is given in varying doses, the actual frequency of side effects may vary.
 In general, side effects are less common with lower doses than with higher doses.
 If any of the following side effects occur while taking bexarotene, check with your doctor or nurse as soon as possible:
 Some bexarotene side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Very common (10% or more): Decreased HDL cholesterol (up to 90%), hyperlipemia (up to 79%), elevated cholesterol (up to 75%), elevated triglycerides (up to 70%), hypercholesterolemia (up to 62%), hypocholesterolemia (up to 28%), anorexia (up to 23%), increased lactic dehydrogenase (up to 13%)Common (1% to 10%): Weight gain, hypoproteinemiaUncommon (0.
-1% to 1%): GoutFrequency not reported: Elevated LDL cholesterol, decreased weight, dehydration, increased alkaline phosphatase, hypercalcemia, hypocalcemia, hypernatremia, hyponatremia, hyperkalemia, hypokalemia, hypolipemia, hypomagnesemia, increased appetite, thirst, hypovolemia
-Very common (10% or more): Decreased TSH (up to 60%), hypothyroidism (up to 53%), decreased total T4 (up to 45%)Common (1% to 10%): Thyroid disorder, altered hormone levelUncommon (0.
-1% to 1%): HyperthyroidismFrequency not reported: Hyperglycemia, decreased libido, increased and decreased gonadotropic luteinizing hormone
-Very common (10% or more): Leukopenia (up to 47%), anemia (up to 25%), hypochromic anemia (up to 13%)Common (1% to 10%): Lymphoma-like reaction, lymphadenopathyUncommon (0.
-1% to 1%): Blood dyscrasia, coagulation disorder, increased coagulation time, thrombocytopenia, thrombocythemia, eosinophilia, leukocytosis, lymphocytosis, abnormal erythrocytesFrequency not reported: Neutropenia, decreased thromboplastin, bone marrow suppression, decreased absolute neutrophil count, decreased absolute lymphocyte count, decrease white blood cell count, decreased hemoglobin
-Very common (10% or more): Asthenia (up to 45%), infection (up to 23%), fever (up to 17%), bacterial infection (up to 13%), chills (up to 13%), flu syndrome (up to 13%), peripheral edema (up to 13%), pain (up to 12%)Common (1% to 10%): DeafnessUncommon (0.
-1% to 1%): Ear disorder, parasitic infection, edema, mucous membrane disorder, abnormal lab testFrequency not reported: Chest pain, breast pain, breast enlargement, sepsis, ear pain, otitis externa, tinnitus, malaise, viral infection
-Very common (10% or more): Diarrhea (up to 42%), nausea (up to 16%), vomiting (up to 13%), abdominal pain (up to 11%)Common (1% to 10%): Cheilitis, constipation, dry mouth, flatulenceUncommon (0.
-1% to 1%): Pancreatitis, gastrointestinal disorderFrequency not reported: Colitis, melena, dyspepsia, gastroenteritis, gingivitis, increased amylase, increased lipase, stomatitis, abnormal stools, tenesmus, pelvic pain, eructation, enlarged abdomen, dysphagia, mouth ulceration, oral moniliasis, gingivitis
-Very common (10% or more): Headache (up to 42%)Common (1% to 10%): Dizziness, hypesthesiaUncommon (0.
-1% to 1%): Ataxia, neuropathy, vertigo, hyperesthesiaFrequency not reported: Syncope, cerebrovascular accident, subdural hematoma, migraine, peripheral neuritis, paresthesia, somnolence, stupor, circumoral paresthesia, taste perversion
-Very common (10% or more): Exfoliative dermatitis (up to 28%), rash (up to 23%), pruritus (up to 20%), dry skin (up to 17%), alopecia (up to 11%)Common (1% to 10%): Skin ulcer, skin hypertrophy, skin nodule, acne, sweating, skin disorderUncommon (0.
-1% to 1%): Purpura, serous drainage, herpes simplex, pustular rash, cellulitis, skin discoloration, hair disorder, nail disorderFrequency not reported: Maculopapular rash, vesicular bullous rash, ecchymosis, petechia, pallor, psoriasis, furunculosis, contact dermatitis, herpes zoster, seborrhea, lichenoid dermatitis, photosensitivity reaction, face edema, body odor
-Very common (10% or more): Cataracts/lens opacities (up to 19%)Common (1% to 10%): Dry eyes, eye disorderUncommon (0.
-1% to 1%): Amblyopia, visual field defect, corneal lesion, abnormal vision, blepharitis, conjunctivitisFrequency not reported: Keratitis, night blindness, nystagmus, lacrimation disorder, eye pain
-Very common (10% or more): Back pain (up to 11%)Common (1% to 10%): Arthralgia, myalgia, bone painUncommon (0.
-1% to 1%): MyastheniaFrequency not reported: Arthrosis, increased creatinine phosphokinase, hypertonia, leg cramps, abnormal gait, arthritis, joint disorder
-Very common (10% or more): Insomnia (up to 11%)Uncommon (0.
-1% to 1%): Depression, agitationFrequency not reported: Anxiety, emotional lability, abnormal thinking, confusion, nervousness
+Very common ( or more): Decreased HDL cholesterol (up to ), hyperlipemia (up to ), elevated cholesterol (up to ), elevated triglycerides (up to ), hypercholesterolemia (up to ), hypocholesterolemia (up to ), anorexia (up to ), increased lactic dehydrogenase (up to )Common ( to ): Weight gain, hypoproteinemiaUncommon ( to ): GoutFrequency not reported: Elevated LDL cholesterol, decreased weight, dehydration, increased alkaline phosphatase, hypercalcemia, hypocalcemia, hypernatremia, hyponatremia, hyperkalemia, hypokalemia, hypolipemia, hypomagnesemia, increased appetite, thirst, hypovolemia
+Very common ( or more): Decreased TSH (up to ), hypothyroidism (up to ), decreased total T (up to )Common ( to ): Thyroid disorder, altered hormone levelUncommon ( to ): HyperthyroidismFrequency not reported: Hyperglycemia, decreased libido, increased and decreased gonadotropic luteinizing hormone
+Very common ( or more): Leukopenia (up to ), anemia (up to ), hypochromic anemia (up to )Common ( to ): Lymphoma-like reaction, lymphadenopathyUncommon ( to ): Blood dyscrasia, coagulation disorder, increased coagulation time, thrombocytopenia, thrombocythemia, eosinophilia, leukocytosis, lymphocytosis, abnormal erythrocytesFrequency not reported: Neutropenia, decreased thromboplastin, bone marrow suppression, decreased absolute neutrophil count, decreased absolute lymphocyte count, decrease white blood cell count, decreased hemoglobin
+Very common ( or more): Asthenia (up to ), infection (up to ), fever (up to ), bacterial infection (up to ), chills (up to ), flu syndrome (up to ), peripheral edema (up to ), pain (up to )Common ( to ): DeafnessUncommon ( to ): Ear disorder, parasitic infection, edema, mucous membrane disorder, abnormal lab testFrequency not reported: Chest pain, breast pain, breast enlargement, sepsis, ear pain, otitis externa, tinnitus, malaise, viral infection
+Very common ( or more): Diarrhea (up to ), nausea (up to ), vomiting (up to ), abdominal pain (up to )Common ( to ): Cheilitis, constipation, dry mouth, flatulenceUncommon ( to ): Pancreatitis, gastrointestinal disorderFrequency not reported: Colitis, melena, dyspepsia, gastroenteritis, gingivitis, increased amylase, increased lipase, stomatitis, abnormal stools, tenesmus, pelvic pain, eructation, enlarged abdomen, dysphagia, mouth ulceration, oral moniliasis, gingivitis
+Very common ( or more): Headache (up to )Common ( to ): Dizziness, hypesthesiaUncommon ( to ): Ataxia, neuropathy, vertigo, hyperesthesiaFrequency not reported: Syncope, cerebrovascular accident, subdural hematoma, migraine, peripheral neuritis, paresthesia, somnolence, stupor, circumoral paresthesia, taste perversion
+Very common ( or more): Exfoliative dermatitis (up to ), rash (up to ), pruritus (up to ), dry skin (up to ), alopecia (up to )Common ( to ): Skin ulcer, skin hypertrophy, skin nodule, acne, sweating, skin disorderUncommon ( to ): Purpura, serous drainage, herpes simplex, pustular rash, cellulitis, skin discoloration, hair disorder, nail disorderFrequency not reported: Maculopapular rash, vesicular bullous rash, ecchymosis, petechia, pallor, psoriasis, furunculosis, contact dermatitis, herpes zoster, seborrhea, lichenoid dermatitis, photosensitivity reaction, face edema, body odor
+Very common ( or more): Cataracts/lens opacities (up to )Common ( to ): Dry eyes, eye disorderUncommon ( to ): Amblyopia, visual field defect, corneal lesion, abnormal vision, blepharitis, conjunctivitisFrequency not reported: Keratitis, night blindness, nystagmus, lacrimation disorder, eye pain
+Very common ( or more): Back pain (up to )Common ( to ): Arthralgia, myalgia, bone painUncommon ( to ): MyastheniaFrequency not reported: Arthrosis, increased creatinine phosphokinase, hypertonia, leg cramps, abnormal gait, arthritis, joint disorder
+Very common ( or more): Insomnia (up to )Uncommon ( to ): Depression, agitationFrequency not reported: Anxiety, emotional lability, abnormal thinking, confusion, nervousness
 Due to its primarily retinoid X receptor (RXR)-binding activity, this drug is less likely to cause adverse effects (arthralgia; myalgia; and mucocutaneous, nail, and hair toxicities) frequently reported with retinoic acid receptor (RAR)-binding agents.
-Common (1% to 10%): Increased SGPT/ALT, increased SGOT/AST, increased bilirubinUncommon (0.
-1% to 1%): Bilirubinemia, liver failureFrequency not reported: Cholestasis, cholecystitis, liver damage, jaundice
-Common (1% to 10%): Allergic reaction
-Common (1% to 10%): Increased creatinineUncommon (0.
-1% to 1%): Increased BUN, abnormal kidney function
-Uncommon (0.
-1% to 1%): Tachycardia, hemorrhage, hypertension, vasodilation, varicose veinFrequency not reported: Angina pectoris, right heart failure, arrhythmia, peripheral vascular disorder, decreased prothrombin, congestive heart failure, palpitation, vascular anomaly, vascular disorder
-Uncommon (0.
-1% to 1%): AlbuminuriaFrequency not reported: Hematuria, urinary incontinence, urinary tract infection, urinary urgency, dysuria, monilia infection, hyperuricemia, urinary retention, impaired urination, polyuria, nocturia, urine abnormality
-Uncommon (0.
-1% to 1%): NeoplasmFrequency not reported: Carcinoma
+Common ( to ): Increased SGPT/ALT, increased SGOT/AST, increased bilirubinUncommon ( to ): Bilirubinemia, liver failureFrequency not reported: Cholestasis, cholecystitis, liver damage, jaundice
+Common ( to ): Allergic reaction
+Common ( to ): Increased creatinineUncommon ( to ): Increased BUN, abnormal kidney function
+Uncommon ( to ): Tachycardia, hemorrhage, hypertension, vasodilation, varicose veinFrequency not reported: Angina pectoris, right heart failure, arrhythmia, peripheral vascular disorder, decreased prothrombin, congestive heart failure, palpitation, vascular anomaly, vascular disorder
+Uncommon ( to ): AlbuminuriaFrequency not reported: Hematuria, urinary incontinence, urinary tract infection, urinary urgency, dysuria, monilia infection, hyperuricemia, urinary retention, impaired urination, polyuria, nocturia, urine abnormality
+Uncommon ( to ): NeoplasmFrequency not reported: Carcinoma
 Frequency not reported: Pharyngitis, rhinitis, dyspnea, pleural effusion, bronchitis, increased cough, lung edema, hemoptysis, hypoxia, pneumonia, sinusitis, epistaxis, respiratory disorder, lung disorder, pleural disorder, laryngismus
 It is possible that some side effects of Targretin may not have been reported.
 These can be reported to the FDA here.

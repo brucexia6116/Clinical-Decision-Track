@@ -1,10 +1,9 @@
 If any of the following side effects occur while taking reslizumab, check with your doctor or nurse immediately:
-Common (1% to 10%): Oropharyngeal pain
-Very common (10% or more): Elevated baseline creatine phosphokinase (CPK) (14%)
-Uncommon (0.
-1% to 1%): Anaphylaxis
-Common (1% to 10%): Treatment emergent anti-reslizumab (the active ingredient contained in Cinqair) antibody response (low titer and often transient)
-Very common (10% or more): Elevated baseline creatine phosphokinase (CPK) (14%)Common (1% to 10%): Myalgia, chest pain, neck pain, muscle spasms, extremity pain, muscle fatigue, musculoskeletal pain
+Common ( to ): Oropharyngeal pain
+Very common ( or more): Elevated baseline creatine phosphokinase (CPK) 
+Uncommon ( to ): Anaphylaxis
+Common ( to ): Treatment emergent anti-reslizumab (the active ingredient contained in Cinqair) antibody response (low titer and often transient)
+Very common ( or more): Elevated baseline creatine phosphokinase (CPK) Common ( to ): Myalgia, chest pain, neck pain, muscle spasms, extremity pain, muscle fatigue, musculoskeletal pain
 Frequency not reported: Malignancy
 Cough
 difficulty with swallowing

@@ -1,33 +1,17 @@
-Very common (10% or more): Ocular hyperemia (up to 50%)Common (1% to 10%): Decreased visual acuity, eye discomfort, foreign body sensation, eye pain, eyelid pruritus, abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage, tearingUncommon (0.
-1% to 1%): Corneal erosion, uveitis, iritis, anterior chamber inflammation, punctate keratitis, eye discharge, erythema of eyelid, periorbital edema, ectropion cataract, eyelid margin crusting, growth of eyelashes, eyelash discoloration, asthenopiaRare (less than 0.
-1%): Iridocyclitis, eye inflammation, photopsia, eyelid eczema, conjunctival edema, halo vision, conjunctival follicles, eye hypoesthesia, meibomianitis, anterior chamber pigmentation, mydriasis, eyelash thickening, macular edema, sunken eyesPostmarketing reports: Periorbital/lid changes (including deepening of the eyelid sulcus)
-Uncommon (0.
-1% to 1%): Skin hyperpigmentation (periocular), skin discoloration, abnormal hair texture, hypertrichosisRare (less than 0.
-1%): Allergic dermatitis, contact dermatitis, erythema, rash, hair color changes, madarosisFrequency not reported: Pruritus, abnormal hair growth
-Common (1% to 10%): Angina pectoris, bradycardia, chest pain, hypertension, hypotensionUncommon (0.
-1% to 1%): PalpitationsRare (less than 0.
-1%): Irregular heart rate, decreased heart rate, decreased diastolic blood pressure, increased systolic blood pressureFrequency not reported: Tachycardia
-Common (1% to 10%): Dyspepsia, gastrointestinal disorderRare (less than 0.
-1%): Reactivated peptic ulcer, constipation, dry mouthFrequency not reported: Diarrhea, abdominal pain, nausea
-Common (1% to 10%): Prostate disorder, urinary incontinence, urinary tract infectionsFrequency not reported: Dysuria, increased prostatic specific antigen
-Common (1% to 10%): Arthritis, back painUncommon (0.
-1% to 1%): Shoulder painRare (less than 0.
-1%): Musculoskeletal painFrequency not reported: Arthralgia
-Common (1% to 10%): HeadacheUncommon (0.
-1% to 1%): DizzinessRare (less than 0.
-1%): DysgeusiaFrequency not reported: Vertigo, tinnitus
-Common (1% to 10%): Bronchitis, cold/flu syndrome, sinusitisUncommon (0.
-1% to 1%): Dyspnea, asthma, nasal congestion, throat irritationRare (less than 0.
-1%): Respiratory disorder, oropharyngeal pain, cough, dysphoniaFrequency not reported: Aggravated asthma
-Common (1% to 10%): Hypercholesterolemia
-Common (1% to 10%): PainUncommon (0.
-1% to 1%): Asthenia, malaise
-Common (1% to 10%): Anxiety, depression
-Rare (less than 0.
-1%): Herpes simplex, herpetic keratitis
+Very common ( or more): Ocular hyperemia (up to )Common ( to ): Decreased visual acuity, eye discomfort, foreign body sensation, eye pain, eyelid pruritus, abnormal vision, blepharitis, blurred vision, cataract, conjunctivitis, corneal staining, dry eye, iris discoloration, keratitis, lid margin crusting, ocular inflammation, photophobia, subconjunctival hemorrhage, tearingUncommon ( to ): Corneal erosion, uveitis, iritis, anterior chamber inflammation, punctate keratitis, eye discharge, erythema of eyelid, periorbital edema, ectropion cataract, eyelid margin crusting, growth of eyelashes, eyelash discoloration, asthenopiaRare (less than ): Iridocyclitis, eye inflammation, photopsia, eyelid eczema, conjunctival edema, halo vision, conjunctival follicles, eye hypoesthesia, meibomianitis, anterior chamber pigmentation, mydriasis, eyelash thickening, macular edema, sunken eyesPostmarketing reports: Periorbital/lid changes (including deepening of the eyelid sulcus)
+Uncommon ( to ): Skin hyperpigmentation (periocular), skin discoloration, abnormal hair texture, hypertrichosisRare (less than ): Allergic dermatitis, contact dermatitis, erythema, rash, hair color changes, madarosisFrequency not reported: Pruritus, abnormal hair growth
+Common ( to ): Angina pectoris, bradycardia, chest pain, hypertension, hypotensionUncommon ( to ): PalpitationsRare (less than ): Irregular heart rate, decreased heart rate, decreased diastolic blood pressure, increased systolic blood pressureFrequency not reported: Tachycardia
+Common ( to ): Dyspepsia, gastrointestinal disorderRare (less than ): Reactivated peptic ulcer, constipation, dry mouthFrequency not reported: Diarrhea, abdominal pain, nausea
+Common ( to ): Prostate disorder, urinary incontinence, urinary tract infectionsFrequency not reported: Dysuria, increased prostatic specific antigen
+Common ( to ): Arthritis, back painUncommon ( to ): Shoulder painRare (less than ): Musculoskeletal painFrequency not reported: Arthralgia
+Common ( to ): HeadacheUncommon ( to ): DizzinessRare (less than ): DysgeusiaFrequency not reported: Vertigo, tinnitus
+Common ( to ): Bronchitis, cold/flu syndrome, sinusitisUncommon ( to ): Dyspnea, asthma, nasal congestion, throat irritationRare (less than ): Respiratory disorder, oropharyngeal pain, cough, dysphoniaFrequency not reported: Aggravated asthma
+Common ( to ): Hypercholesterolemia
+Common ( to ): PainUncommon ( to ): Asthenia, malaise
+Common ( to ): Anxiety, depression
+Rare (less than ): Herpes simplex, herpetic keratitis
 The most commonly reported side effect was ocular hyperemia.
-Uncommon (0.
-1% to 1%): Hypersensitivity, seasonal allergy
+Uncommon ( to ): Hypersensitivity, seasonal allergy
 Eye pain
 itching eye
 redness of the eye
@@ -50,4 +34,4 @@ muscle pain or stiffness
 pain, swelling, or redness in the joints
 pain or burning while urinating
 pelvic pain
-slow or irregular heartbeat (less than 50 beats per minute)
+slow or irregular heartbeat (less than  beats per minute)

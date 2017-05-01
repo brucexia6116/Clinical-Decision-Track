@@ -5,9 +5,9 @@ Other dosage forms:
 If any of the following symptoms of overdose occur while taking selegiline, get emergency help immediately:
 In prospective pre-marketing studies, the most commonly reported side effects leading to treatment discontinuation with selegiline (the active ingredient contained in Emsam) oral tablets were, in decreasing order of frequency, nausea, hallucinations, confusion, depression, loss of balance, insomnia, orthostatic hypotension, increased akinetic involuntary movements, agitation, arrhythmia, bradykinesia, chorea, delusions, hypertension, new or increased angina pectoris, and syncope.
 In clinical trials with selegiline orally disintegrating tablets, the most commonly reported side effects leading to treatment discontinuation were dizziness, chest pain, accidental injury, and myasthenia.
-The relative risk for treatment-emergent hypertension and orthostatic or postural hypotension was reported as being at least 2 fold greater in patients 65 years or older compared to those younger than 65 years.
-Patients over 65 years were also reported at an increased risk for somnolence compared to younger patients.
-In clinical trials with selegiline transdermal patches, application site reaction was reported as the side effect that lead to treatment discontinuation in at least 1% of patients at a rate at least twice that of placebo.
+The relative risk for treatment-emergent hypertension and orthostatic or postural hypotension was reported as being at least  fold greater in patients  years or older compared to those younger than  years.
+Patients over  years were also reported at an increased risk for somnolence compared to younger patients.
+In clinical trials with selegiline transdermal patches, application site reaction was reported as the side effect that lead to treatment discontinuation in at least  of patients at a rate at least twice that of placebo.
 Selegiline potentiates the effects of levodopa; therefore, the side effects of levodopa may be emphasized unless the levodopa dose is reduced.
 Insomnia and sleep disorder were reported as very common side effects with selegiline (the active ingredient contained in Emsam) in double-blind placebo-controlled clinical trials at a higher frequency when used as adjunctive therapy with levodopa in the earlier phases of Parkinson's disease.
 Insomnia was also reported as a very common side effect in placebo-controlled clinical trials for major depressive disorder with transdermal selegiline.
@@ -15,23 +15,18 @@ Parkinson's disease patients treated with dopamine agonists and/or other dopamin
 There have been very few cases reported with selegiline.
 In some cases, dose reduction or treatment discontinuation led to cessation of impulse control disorders.
 Postmarketing reports have indicated that patients taking this drug may experience new or worsening mental status and behavioral changes, such as psychotic-like behavior, particularly after starting therapy or increasing the dose.
-Certain medications used to treat psychosis (e.
-g.
-, dopamine antagonists) may exacerbate the symptoms of Parkinson's disease and may decrease the effectiveness of selegiline.
-Transient high and bruxism were reported at doses greater than 10 mg per day.
+Certain medications used to treat psychosis (, dopamine antagonists) may exacerbate the symptoms of Parkinson's disease and may decrease the effectiveness of selegiline.
+Transient high and bruxism were reported at doses greater than  mg per day.
 Anxiety was reported as a very common side effect with selegiline in double-blind placebo-controlled clinical trials when used as adjunctive therapy with levodopa in the earlier phases of Parkinson's disease.
 Antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-An increased risk of suicidal thinking and behavior in children, adolescents, and young adults (aged 18 to 24 years) with major depressive disorder (MDD) and other psychiatric disorders has been reported with short-term use of antidepressant drugs.
+An increased risk of suicidal thinking and behavior in children, adolescents, and young adults (aged  to  years) with major depressive disorder (MDD) and other psychiatric disorders has been reported with short-term use of antidepressant drugs.
 Adult and pediatric patients receiving antidepressants for MDD, as well as for psychiatric and nonpsychiatric indications, have reported symptoms that may be precursors to emerging suicidality, including anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia, hypomania, and mania.
 Causality has not been established.
-Very common (10% or more): InsomniaCommon (1% to 10%): Anxiety/tension, confusion, depression, euphoria, hallucinations, illusion, sleeping disorders, vivid dreamsUncommon (0.
-1% to 1%): Abnormal dreams, agitation, manic reaction, mild transient irritability, mood change, psychosesFrequency not reported: Apathy, delusions, disorientation, dreams/nightmares, hollow feeling, overstimulation, personality change, sleep disturbance, transient high, transient irritabilityPostmarketing reports: Abnormal thinking, aggressive reaction, bruxism, delirium, impulse control disorders and compulsions, nervousness, paranoid reaction, paroniria, psychotic-like behavior
-Very common (10% or more): Dizziness/lightheadedness/faintingCommon (1% to 10%): Abnormal movements (e.
-g.
-, dyskinesias, bradykinesia, akinesia), ataxia, headache, impaired balance, lethargy, somnolence, syncope, tremorFrequency not reported: Chorea, drowsiness, dyskinesia, dystonic symptoms, facial grimace, festination, impaired memory, increased apraxia, involuntary movements, migraine, myoclonic jerks, numbness of toes/fingers, restlessness, speech affected, supraorbital pain, tardive dyskinesiaPostmarketing reports: Abnormal gait, cerebrovascular disorder, coma, convulsions, hypertonia, involuntary muscle contractions, neuroleptic malignant syndrome, serotonin syndrome, taste disturbance
+Very common ( or more): InsomniaCommon ( to ): Anxiety/tension, confusion, depression, euphoria, hallucinations, illusion, sleeping disorders, vivid dreamsUncommon ( to ): Abnormal dreams, agitation, manic reaction, mild transient irritability, mood change, psychosesFrequency not reported: Apathy, delusions, disorientation, dreams/nightmares, hollow feeling, overstimulation, personality change, sleep disturbance, transient high, transient irritabilityPostmarketing reports: Abnormal thinking, aggressive reaction, bruxism, delirium, impulse control disorders and compulsions, nervousness, paranoid reaction, paroniria, psychotic-like behavior
+Very common ( or more): Dizziness/lightheadedness/faintingCommon ( to ): Abnormal movements (, dyskinesias, bradykinesia, akinesia), ataxia, headache, impaired balance, lethargy, somnolence, syncope, tremorFrequency not reported: Chorea, drowsiness, dyskinesia, dystonic symptoms, facial grimace, festination, impaired memory, increased apraxia, involuntary movements, migraine, myoclonic jerks, numbness of toes/fingers, restlessness, speech affected, supraorbital pain, tardive dyskinesiaPostmarketing reports: Abnormal gait, cerebrovascular disorder, coma, convulsions, hypertonia, involuntary muscle contractions, neuroleptic malignant syndrome, serotonin syndrome, taste disturbance
 There have been reports of falling asleep while engaged in activities of daily living, including the operation of motor vehicles, which sometimes resulted in accidents, in Parkinson's disease patients treated with this drug.
 These reports have occurred in a setting of pre-existing somnolence.
-Impaired memory and myoclonic jerks were reported at doses greater than 10 mg per day.
+Impaired memory and myoclonic jerks were reported at doses greater than  mg per day.
 Seizure in dialyzed chronic renal failure in a patient treated with selegiline on concomitant medications has been reported in postmarketing experience.
 A symptom complex resembling the neuroleptic malignant syndrome, with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in, antiparkinson therapy.
 There have been postmarketing reports of fatal and non-fatal cases of serotonin syndrome with concomitant use of this drug with antidepressants.
@@ -39,42 +34,33 @@ Headache was reported as a very common side effect in placebo-controlled clinica
 This drug inhibits the catabolism of dietary amines such as tyramine, and has the potential to produce a hypertensive crisis following the ingestion of tyramine-rich foods or beverages.
 Postural hypotension was reported with selegiline (the active ingredient contained in Emsam) in double-blind placebo-controlled clinical trials at a higher frequency when used as adjunctive therapy with levodopa in the earlier phases of Parkinson's disease compared to the late phase.
 Palpitation was also reported as a very common side effect in the earlier phases of Parkinson's disease in these trials.
-Very common (10% or more): Postural hypotensionCommon (1% to 10%): Arrhythmia, bradycardia, chest pain, hypertension, hypotension, edema, palpitationsUncommon (0.
-1% to 1%): Angina pectoris, ankle edema, orthostatic hypotension, supraventricular tachycardiaFrequency not reported: Peripheral edema, hematoma, tachycardiaPostmarketing reports: Flushing, myocardial infarction
+Very common ( or more): Postural hypotensionCommon ( to ): Arrhythmia, bradycardia, chest pain, hypertension, hypotension, edema, palpitationsUncommon ( to ): Angina pectoris, ankle edema, orthostatic hypotension, supraventricular tachycardiaFrequency not reported: Peripheral edema, hematoma, tachycardiaPostmarketing reports: Flushing, myocardial infarction
 Constipation was reported as a very common side effect with selegiline (the active ingredient contained in Emsam) in double-blind placebo-controlled clinical trials when used as adjunctive therapy with levodopa in the earlier phases of Parkinson's disease.
-Very common (10% or more): Dry mouth, irritation of the buccal mucosa (orally disintegrating tablet), mouth ulceration, nausea, stomatitisCommon (1% to 10%): Abdominal pain, constipation, diarrhea, dyspepsia, dysphagia, eructation, flatulence, gastric irritation, tooth disorder, vomitingFrequency not reported: Gastrointestinal bleeding (exacerbation of pre-existing ulcer disease), heartburn, rectal bleeding, throat burning
-Increased energy was reported at doses greater than 10 mg per day.
+Very common ( or more): Dry mouth, irritation of the buccal mucosa (orally disintegrating tablet), mouth ulceration, nausea, stomatitisCommon ( to ): Abdominal pain, constipation, diarrhea, dyspepsia, dysphagia, eructation, flatulence, gastric irritation, tooth disorder, vomitingFrequency not reported: Gastrointestinal bleeding (exacerbation of pre-existing ulcer disease), heartburn, rectal bleeding, throat burning
+Increased energy was reported at doses greater than  mg per day.
 Vertigo was a very common side effect reported with selegiline (the active ingredient contained in Emsam) in double-blind placebo-controlled clinical trials when used as adjunctive therapy with levodopa compared with its use as monotherapy.
-Very common (10% or more): FatigueCommon (1% to 10%): Fall, pain, vertigoFrequency not reported: Chills, generalized ache, falling down, freezing, heavy leg, increased energy, malaise, tinnitus, tiredness, weaknessPostmarketing reports: Asthenia, death, fever
-Very common (10% or more): RashCommon (1% to 10%): Ecchymosis, increased sweating, skin disordersUncommon (0.
-1% to 1%): Hair loss, skin eruptionsFrequency not reported: Facial hair, photosensitivity
+Very common ( or more): FatigueCommon ( to ): Fall, pain, vertigoFrequency not reported: Chills, generalized ache, falling down, freezing, heavy leg, increased energy, malaise, tinnitus, tiredness, weaknessPostmarketing reports: Asthenia, death, fever
+Very common ( or more): RashCommon ( to ): Ecchymosis, increased sweating, skin disordersUncommon ( to ): Hair loss, skin eruptionsFrequency not reported: Facial hair, photosensitivity
 Skin disorders reported with this drug have included skin ulcer, fungal dermatitis, skin hypertrophy, contact dermatitis, herpes simplex, dry skin, sweating, urticaria, and pruritus.
-Very common (10% or more): Micturition disorderCommon (1% to 10%): Urinary retentionFrequency not reported: Hypersexuality, nocturia, penile sensation, prostatic hypertrophy, sexual dysfunction, slow urination, transient anorgasmia, urinary frequency, urinary hesitancyPostmarketing reports: Increased libido
-Transient anorgasmia and decreased penile sensation were reported at doses greater than 10 mg per day.
+Very common ( or more): Micturition disorderCommon ( to ): Urinary retentionFrequency not reported: Hypersexuality, nocturia, penile sensation, prostatic hypertrophy, sexual dysfunction, slow urination, transient anorgasmia, urinary frequency, urinary hesitancyPostmarketing reports: Increased libido
+Transient anorgasmia and decreased penile sensation were reported at doses greater than  mg per day.
 The estimates of the incidence of untoward sexual experience and performance may also underestimate their actual incidence, partly because patients and physicians may be reluctant to discuss this issue.
-Uncommon (0.
-1% to 1%): Leucocytopenia, thrombocytopenia
-Common (1% to 10%): ALT/AST increasedUncommon (0.
-1% to 1%): Transient increase in liver enzyme values
-Very common (10% or more): Application site reactions (transdermal patch)
+Uncommon ( to ): Leucocytopenia, thrombocytopenia
+Common ( to ): ALT/AST increasedUncommon ( to ): Transient increase in liver enzyme values
+Very common ( or more): Application site reactions (transdermal patch)
 Application site reactions with the transdermal patch were primarily described as erythema and resolved spontaneously with no treatment.
-The 1.
-25 mg orally disintegrating tablet contains 1.
-25 mg phenylalanine.
+The  mg orally disintegrating tablet contains  mg phenylalanine.
 Anorexia was reported as a very common side effect with selegiline (the active ingredient contained in Emsam) in double-blind placebo-controlled clinical trials when used as adjunctive therapy with levodopa in the earlier phases of Parkinson's disease.
-Very common (10% or more): AnorexiaCommon (1% to 10%): Hypokalemia, weight lossUncommon (0.
-1% to 1%): Loss of appetitePostmarketing reports: Hyperglycemia, hypoglycemia
-Muscle twitch was reported at doses greater than 10 mg per day.
-Common (1% to 10%): Arthralgia, back pain, leg cramps, leg pain, low back pain, myalgia, musculoskeletal injuries, muscle crampsUncommon (0.
-1% to 1%): MyopathyFrequency not reported: Muscle twitch, stiff neckPostmarketing reports: Muscle weakness (myasthenia)
-Common (1% to 10%): Abnormal accommodationUncommon (0.
-1% to 1%): Blurred visionFrequency not reported: Blepharospasm, diplopiaPostmarketing reports: Abnormal vision
+Very common ( or more): AnorexiaCommon ( to ): Hypokalemia, weight lossUncommon ( to ): Loss of appetitePostmarketing reports: Hyperglycemia, hypoglycemia
+Muscle twitch was reported at doses greater than  mg per day.
+Common ( to ): Arthralgia, back pain, leg cramps, leg pain, low back pain, myalgia, musculoskeletal injuries, muscle crampsUncommon ( to ): MyopathyFrequency not reported: Muscle twitch, stiff neckPostmarketing reports: Muscle weakness (myasthenia)
+Common ( to ): Abnormal accommodationUncommon ( to ): Blurred visionFrequency not reported: Blepharospasm, diplopiaPostmarketing reports: Abnormal vision
 Frequency not reported: Melanoma
-Epidemiological studies have shown that Parkinson's disease patients are at a 2- to 6-fold increased risk of developing melanoma than the general population.
+Epidemiological studies have shown that Parkinson's disease patients are at a - to -fold increased risk of developing melanoma than the general population.
 It is unclear whether the observed increase in risk is due to Parkinson's disease or other factors.
-Small increments in serum BUN and creatinine were observed with high doses of orally disintegrating selegiline (the active ingredient contained in Emsam) (10 mg orally per day).
+Small increments in serum BUN and creatinine were observed with high doses of orally disintegrating selegiline (the active ingredient contained in Emsam) ( mg orally per day).
 Frequency not reported: Small increments in serum BUN and creatinine
-Common (1% to 10%): Dyspnea, hiccup, nasal congestion, pharyngitis, rhinitis, sinusitis, sore throatFrequency not reported: Asthma
+Common ( to ): Dyspnea, hiccup, nasal congestion, pharyngitis, rhinitis, sinusitis, sore throatFrequency not reported: Asthma
 transdermal patch extended release
 Twitching, twisting, uncontrolled repetitive movements of the tongue, lips, face, arms, or legs
 Blurred vision

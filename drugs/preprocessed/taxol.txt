@@ -1,60 +1,24 @@
 As well as its needed effects, paclitaxel (the active ingredient contained in Taxol) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking paclitaxel, check with your doctor or nurse immediately:
 Some paclitaxel side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Very common (10% or more): HypotensionCommon (1% to 10%): BradycardiaUncommon (0.
-1% to 1%): Cardiomyopathy, asymptomatic ventricular tachycardia, tachycardia with bigeminy, atrioventricular block and syncope, myocardial infarction, hypertension, thrombosis, thrombophlebitis Rare (0.
-01% to 0.
-1%): Cardiac failureVery rare (less than 0.
-01%): Atrial fibrillation, supraventricular tachycardia, shockFrequency not reported: Phlebitis
-Very common (10% or more): Alopecia (90%), rashCommon (1% to 10%): Transient and mild nail and skin changes, discoloration of the nail bed Rare (0.
-01% to 0.
-1%): Pruritus, rash, erythema Very rare (less than 0.
-01%): Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN), erythema multiforme, exfoliative dermatitis, urticaria, onycholysis (patients on therapy should wear sun protection on hands and feet), scleroderma-like reaction
-Very common (10% or more): Nausea (52%), mucositis (31%), vomiting, diarrhea mucosal inflammationRare (less than 0.
-1%): Peritonitis, bowel obstruction, bowel perforation, ischemic colitis, pancreatitisVery rare (less than 0.
-01%): Pseudomembranous colitis, mesenteric thrombosis, neutropenic colitis, esophagitis, constipation, ascites
-Very common (10% or more): Myelosuppression, neutropenia (90%), anemia, thrombocytopenia, leucopenia, bleeding Rare (less than 0.
-1%): Febrile neutropenia
-Very common (10% or more): Elevated alkaline phosphatase (22%), elevated AST (SGOT) (19%)Common (1% to 10%): Elevated bilirubinVery rare (less than 0.
-01%): Hepatic necrosis, hepatic encephalopathy (both with reported cases of fatal outcome)
-Very common (10% or more): Minor hypersensitivity reactions (mainly flushing and rash) Uncommon (0.
-1% to 1%): Significant hypersensitivity reactions requiring therapy (e.
-g.
-, hypotension, angioneurotic edema, respiratory distress, generalized urticaria, chills, back pain, chest pain, tachycardia, abdominal pain, pain in extremity, diaphoresis, hypertension)Rare (less than 0.
-1%): Anaphylactic reactionsVery rare (less than 0.
-01%): Anaphylactic shock
-Very common (10% or more): Infections (mainly urinary tract and upper respiratory tract infections), with reported cases of fatal outcomeUncommon (0.
-1% to 1%): Septic shockRare (less than 0.
-1%): Sepsis, pseudomembranous colitis
-Common (1% to 10%): Injection site reactions (including localized edema, pain, erythema, induration, on occasion extravasation can result in cellulitis, skin fibrosis and skin necrosis) Rare (less than 0.
-1%): Phlebitis
-Very common (10% or more): Arthralgia/myalgia (44%)Frequency not reported: Systemic lupus erythematosus, scleroderma
-Common (1% to 10%): Severe elevation in aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase (SGOT)), severe elevation in alkaline phosphatase Uncommon (0.
-1% to 1%): Severe elevation in bilirubinRare (0.
-01% to 0.
-1%): Dehydration, increased blood creatinine Very rare (less than 0.
-01%): AnorexiaFrequency not reported: Tumor lysis syndrome
-Very common (10% or more): Neurotoxicity (mainly peripheral neuropathy) Rare (0.
-01% to 0.
-1%): Motor neuropathy (with resultant minor distal weakness)Very rare (less than 0.
-01%): Autonomic neuropathy (resulting in paralytic ileus and orthostatic hypotension), optic nerve disturbance, grand mal seizures, convulsions, encephalopathy, dizziness, headache, ataxia
-Very rare (less than 0.
-01%): Optic nerve and/or visual disturbances (scintillating scotomata), particularly in patients who have received higher doses than recommendedFrequency not reported: Macular edema, photopsia, vitreous floaters
-Very rare (less than 0.
-01%): Acute myeloid leukemia, myelodysplastic syndrome
-Rare (0.
-01% to 0.
-1%): Asthenia, pyrexia, edema, malaiseVery rare (less than 0.
-01%): Ototoxicity, hearing loss, tinnitus, vertigo
-Very rare (less than 0.
-01%): Confusional state
-Rare (0.
-01% to 0.
-1%): Pneumonia, dyspnea, pleural effusion, interstitial pneumonia, lung fibrosis, pulmonary embolism, respiratory failure Frequency not reported: BronchospasmVery rare (less than 0.
-01%): Cough
+Very common ( or more): HypotensionCommon ( to ): BradycardiaUncommon ( to ): Cardiomyopathy, asymptomatic ventricular tachycardia, tachycardia with bigeminy, atrioventricular block and syncope, myocardial infarction, hypertension, thrombosis, thrombophlebitis Rare ( to ): Cardiac failureVery rare (less than ): Atrial fibrillation, supraventricular tachycardia, shockFrequency not reported: Phlebitis
+Very common ( or more): Alopecia , rashCommon ( to ): Transient and mild nail and skin changes, discoloration of the nail bed Rare ( to ): Pruritus, rash, erythema Very rare (less than ): Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN), erythema multiforme, exfoliative dermatitis, urticaria, onycholysis (patients on therapy should wear sun protection on hands and feet), scleroderma-like reaction
+Very common ( or more): Nausea , mucositis , vomiting, diarrhea mucosal inflammationRare (less than ): Peritonitis, bowel obstruction, bowel perforation, ischemic colitis, pancreatitisVery rare (less than ): Pseudomembranous colitis, mesenteric thrombosis, neutropenic colitis, esophagitis, constipation, ascites
+Very common ( or more): Myelosuppression, neutropenia , anemia, thrombocytopenia, leucopenia, bleeding Rare (less than ): Febrile neutropenia
+Very common ( or more): Elevated alkaline phosphatase , elevated AST (SGOT) Common ( to ): Elevated bilirubinVery rare (less than ): Hepatic necrosis, hepatic encephalopathy (both with reported cases of fatal outcome)
+Very common ( or more): Minor hypersensitivity reactions (mainly flushing and rash) Uncommon ( to ): Significant hypersensitivity reactions requiring therapy (, hypotension, angioneurotic edema, respiratory distress, generalized urticaria, chills, back pain, chest pain, tachycardia, abdominal pain, pain in extremity, diaphoresis, hypertension)Rare (less than ): Anaphylactic reactionsVery rare (less than ): Anaphylactic shock
+Very common ( or more): Infections (mainly urinary tract and upper respiratory tract infections), with reported cases of fatal outcomeUncommon ( to ): Septic shockRare (less than ): Sepsis, pseudomembranous colitis
+Common ( to ): Injection site reactions (including localized edema, pain, erythema, induration, on occasion extravasation can result in cellulitis, skin fibrosis and skin necrosis) Rare (less than ): Phlebitis
+Very common ( or more): Arthralgia/myalgia Frequency not reported: Systemic lupus erythematosus, scleroderma
+Common ( to ): Severe elevation in aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase (SGOT)), severe elevation in alkaline phosphatase Uncommon ( to ): Severe elevation in bilirubinRare ( to ): Dehydration, increased blood creatinine Very rare (less than ): AnorexiaFrequency not reported: Tumor lysis syndrome
+Very common ( or more): Neurotoxicity (mainly peripheral neuropathy) Rare ( to ): Motor neuropathy (with resultant minor distal weakness)Very rare (less than ): Autonomic neuropathy (resulting in paralytic ileus and orthostatic hypotension), optic nerve disturbance, grand mal seizures, convulsions, encephalopathy, dizziness, headache, ataxia
+Very rare (less than ): Optic nerve and/or visual disturbances (scintillating scotomata), particularly in patients who have received higher doses than recommendedFrequency not reported: Macular edema, photopsia, vitreous floaters
+Very rare (less than ): Acute myeloid leukemia, myelodysplastic syndrome
+Rare ( to ): Asthenia, pyrexia, edema, malaiseVery rare (less than ): Ototoxicity, hearing loss, tinnitus, vertigo
+Very rare (less than ): Confusional state
+Rare ( to ): Pneumonia, dyspnea, pleural effusion, interstitial pneumonia, lung fibrosis, pulmonary embolism, respiratory failure Frequency not reported: BronchospasmVery rare (less than ): Cough
 It is possible that some side effects of Taxol may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

@@ -1,0 +1,100 @@
+reported side effects
+myalgia
+pain
+diarrhea
+constipation
+pain in extremity
+constipation
+diarrheapostmarketing reports
+abdominal discomfort
+abdominal pain
+dyspepsia
+nausea
+pain
+myalgia
+pain in extremityfrequency
+arthralgia
+rhabdomyolysis
+myopathy
+myositispostmarketing reports
+muscle spasm
+immune-mediated necrotizing myopathy
+frequency
+bilirubin
+liver enzymes
+abnormalpostmarketing reports
+hepatitis
+jaundice
+fatal hepatic failure
+nonfatal hepatic failure
+frequency
+rash
+pruritus
+urticaria
+frequency
+influenza
+creatine phosphokinase
+transaminases
+alkaline phosphatase increasedpostmarketing reports
+asthenia
+fatigue
+malaise
+frequency
+headachepostmarketing reports
+dizziness
+hypoesthesia
+cognitive impairment
+memory loss
+forgetfulness
+amnesia
+memory impairment
+frequency
+glucose
+frequency
+acute renal failure
+myoglobinuria
+frequency
+nasopharyngitispostmarketing reports
+interstitial lung disease
+frequency
+hypersensitivity reaction
+postmarketing reports
+insomnia
+depression
+confusion
+postmarketing reports
+erectile dysfunction
+difficulty with moving
+joint pain
+muscle
+cramping
+muscle pains
+stiffness
+pain in the arms
+legs
+swollen joints
+chills
+cough
+diarrhea
+fever
+general feeling of discomfort
+illness
+headache
+loss of appetite
+nausea
+runny nose
+shivering
+sore throat
+sweating
+trouble with sleeping
+unusual tiredness
+weakness
+vomiting
+back pain
+difficulty
+bowel movement
+stool
+hives or welts
+itching skin
+rash
+redness of the skin

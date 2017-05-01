@@ -1,26 +1,15 @@
 Other dosage forms:
 If any of the following side effects occur while taking meningococcal conjugate vaccine, check with your doctor or nurse immediately:
 The most common adverse events were injection site pain, irritability, diarrhea, headache, and fatigue.
-Very common (10% or more): Injection site pain (48.
-1%), injection site redness (16%), injection site induration (11%)Common (1% to 10%): Injection site swelling, injection site hematomaUncommon (0.
-1% to 1%): Injection site pruritusPostmarketing reports: Injection site reaction, injection site cellulitis, extensive swelling of the injected limb (frequently associated with erythema, sometimes involving the adjacent joint or swelling of the entire injected limb)
-Very common (10% or more): Headache (41.
-8%), drowsiness (11.
-2%)Uncommon (0.
-1% to 1%): Dizziness, hypoesthesiaPostmarketing reports: Vasovagal syncope, paresthesia, Guillain-Barre syndrome, vertigo, tonic convulsion, febrile convulsion, vertigo, vestibular disorder, syncope, facial paresis, balance disorder
-Very common (10% or more): Diarrhea (14%), nauseaCommon (1% to 10%): Vomiting, gastrointestinal symptoms
-Very common (10% or more): Fatigue (32.
-3%), malaise (22.
-3%), feverCommon (1% to 10%): Chills, cryingPostmarketing reports: Asthenia, impaired hearing, ear pain, fall, head injury, body temperature increased
-Common (1% to 10%): RashUncommon (0.
-1% to 1%): PruritusPostmarketing reports: Bullous conditions
-Very common (10% or more): Arthralgia (16%), myalgiaUncommon (0.
-1% to 1%): Pain in extremityPostmarketing reports: Bone pain
-Very common (10% or more): Irritability (12.
-2%)Common (1% to 10%): Insomnia
-Very common (10% or more): Appetite lostCommon (1% to 10%): Anorexia, eating disorder
-Uncommon (0.
-1% to 1%): NasopharyngitisPostmarketing reports: Oropharyngeal pain
+Very common ( or more): Injection site pain , injection site redness , injection site induration Common ( to ): Injection site swelling, injection site hematomaUncommon ( to ): Injection site pruritusPostmarketing reports: Injection site reaction, injection site cellulitis, extensive swelling of the injected limb (frequently associated with erythema, sometimes involving the adjacent joint or swelling of the entire injected limb)
+Very common ( or more): Headache , drowsiness Uncommon ( to ): Dizziness, hypoesthesiaPostmarketing reports: Vasovagal syncope, paresthesia, Guillain-Barre syndrome, vertigo, tonic convulsion, febrile convulsion, vertigo, vestibular disorder, syncope, facial paresis, balance disorder
+Very common ( or more): Diarrhea , nauseaCommon ( to ): Vomiting, gastrointestinal symptoms
+Very common ( or more): Fatigue , malaise , feverCommon ( to ): Chills, cryingPostmarketing reports: Asthenia, impaired hearing, ear pain, fall, head injury, body temperature increased
+Common ( to ): RashUncommon ( to ): PruritusPostmarketing reports: Bullous conditions
+Very common ( or more): Arthralgia , myalgiaUncommon ( to ): Pain in extremityPostmarketing reports: Bone pain
+Very common ( or more): Irritability Common ( to ): Insomnia
+Very common ( or more): Appetite lostCommon ( to ): Anorexia, eating disorder
+Uncommon ( to ): NasopharyngitisPostmarketing reports: Oropharyngeal pain
 Postmarketing reports: Hypersensitivity (such as rash, urticaria, pruritus, dyspnea, angioedema) including anaphylaxis
 Postmarketing reports: Alanine aminotransferase increased
 Postmarketing reports: Eyelid ptosis

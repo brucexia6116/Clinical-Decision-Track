@@ -2,14 +2,14 @@ If any of the following symptoms of overdose occur while taking aspirin / oxycod
 Psychosis has also been reported during withdrawal from oxycodone.
 Oxycodone may be habit forming.
 Withdrawal symptoms after either abrupt cessation or fast tapering may occur and include agitation, restlessness, anxiety, insomnia, tremor, abdominal cramps, piloerection, blurred vision, vomiting, and sweating.
-Gastrointestinal effects of aspirin are common and include epigastric distress, (in as many as 83% of patients treated with regular aspirin), abdominal discomfort or pain, endoscopically identifiable gastric mucosal lesions, nausea, and vomiting.
+Gastrointestinal effects of aspirin are common and include epigastric distress, (in as many as  of patients treated with regular aspirin), abdominal discomfort or pain, endoscopically identifiable gastric mucosal lesions, nausea, and vomiting.
 More serious gastrointestinal effects include hemorrhage, peptic ulcers, perforation, and esophageal ulcerations.
 Nausea, vomiting, and constipation occur commonly with oxycodone.
 Endoscopically identifiable gastric mucosal lesions occur in most patients who receive a single dose of aspirin.
-Clinically evident gastrointestinal bleeding has been reported in as many as 3% of elderly patients taking aspirin.
+Clinically evident gastrointestinal bleeding has been reported in as many as  of elderly patients taking aspirin.
 One case controlled study has suggested that an association between aspirin (and other NSAID) consumption and appendicitis may exist.
 Severe adverse effects of oxycodone, such as respiratory depression, can be treated with the opioid antagonist naloxone.
-(The usual adult dose of naloxone is 1 to 2 mg every 5 minutes as necessary.
+(The usual adult dose of naloxone is  to  mg every  minutes as necessary.
 The dose is usually administered intravenously, but in an emergency may be given intramuscularly, subcutaneously, or sublingually.
 )Some investigators have suggested that tinnitus may be a less reliable indicator of salicylate toxicity than previously believed.
 In one study of rheumatoid arthritis patients, those with tinnitus had no greater salicylate levels than those without tinnitus.
@@ -26,10 +26,10 @@ The administration of high doses of NSAIDs to such patients has produced acute r
 Renal effects of aspirin include reduction in glomerular filtration rate (particularly in patients who are sodium restricted or who exhibit diminished effective arterial blood volume, such as patients with advanced heart failure or cirrhosis), interstitial nephritis, papillary necrosis, elevations in serum creatinine, elevations in blood urea nitrogen, proteinuria, hematuria, and renal failure.
 Hematologic effects of aspirin (in addition to predictable antiplatelet effects which may result in hemorrhage) include increased blood fibrinolytic activity.
 Hypoprothrombinemia, thrombocytopenia, thrombocyturia, megaloblastic anemia, aplastic anemia, and pancytopenia have been reported rarely.
-The mechanism of aspirin induced hypersensitivity may be related to an up regulation of the 5-lipoxygenase pathway of arachidonic acid metabolism with a resulting increase in the products of 5-lipoxygenase (such as leukotrienes).
+The mechanism of aspirin induced hypersensitivity may be related to an up regulation of the -lipoxygenase pathway of arachidonic acid metabolism with a resulting increase in the products of -lipoxygenase (such as leukotrienes).
 Cases of localized periorbital edema have been reported rarely during aspirin therapy.
 Aspirin hypersensitivity reactions include bronchospasm, rhinitis, conjunctivitis, urticaria, angioedema, and anaphylaxis.
-Approximately 10% to 30% of asthmatics are aspirin-sensitive (with the clinical triad of aspirin sensitivity, bronchial asthma and nasal polyps).
+Approximately  to  of asthmatics are aspirin-sensitive (with the clinical triad of aspirin sensitivity, bronchial asthma and nasal polyps).
 Cardiovascular effects of aspirin have been reported rarely and include salicylate induced variant angina, ventricular ectopy, and conduction abnormalities.
 These problems are most commonly encountered during salicylate toxicity.
 Several epidemiologic studies have suggested that chronic aspirin use may decrease the risk of large bowel neoplasms.
@@ -37,8 +37,8 @@ However, other studies have not found such a beneficial effect.
 Since aspirin-oxycodone is most commonly used for short term therapy, this effect is unlikely to be seen.
 Metabolic side effects of aspirin include respiratory alkalosis and metabolic acidosis, particularly during salicylate toxicity.
 A case of hypoglycemia has been reported in a patient on hemodialysis.
-Salicylates have also been reported to displace triiodothyronine (T3) and thyroxine (T4) from protein binding sites.
-The initial effect is an increase in serum free T4 concentrations.
+Salicylates have also been reported to displace triiodothyronine (T) and thyroxine (T) from protein binding sites.
+The initial effect is an increase in serum free T concentrations.
 Reye's syndrome, although rare, has been associated with aspirin use in children with an acute viral illness.
 Reye's syndrome has also been reported even more rarely in adults.
 Full strength aspirin-oxycodone is generally not used in children.

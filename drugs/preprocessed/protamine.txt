@@ -1,17 +1,14 @@
 Side effects include:
-Decreased BP or hypotension,    bradycardia,   skin reactions (e.
-g.
-, flushing, feeling of warmth, urticaria, edema),   dyspnea,  nausea,  vomiting,  lassitude,  back pain.
-
+Decreased BP or hypotension,    bradycardia,   skin reactions (, flushing, feeling of warmth, urticaria, edema),   dyspnea,  nausea,  vomiting,  lassitude,  back pain.
 It has been postulated that the heparin-protamine complex may be acted upon by fibrinolysin, thus freeing heparin.
 Clinical monitoring of coagulation parameters such as the heparin titration test with protamine and plasma thrombin time is recommended to determine subsequent protamine dosage requirements.
-Hematologic adverse effects such as bleeding and elevated plasma heparin concentrations resulting from rebound anticoagulation have occurred 30 minutes to 18 hours following cardiac surgery despite complete protamine neutralization of heparin.
+Hematologic adverse effects such as bleeding and elevated plasma heparin concentrations resulting from rebound anticoagulation have occurred  minutes to  hours following cardiac surgery despite complete protamine neutralization of heparin.
 Immune responses, some life-threatening and fatal, have occurred and are thought to be related to previous protamine exposure such as prior heparin neutralization or use of protamine-containing insulin.
 Severe reactions may occur in the absence of local or systemic allergic reactions to protamine-containing insulin injections and fatal anaphylaxis without a prior allergy history has been reported.
 Data suggest that vasectomized men may be at increased risk for protamine-induced immunologic reactions.
 Vasectomy disrupts the normal blood-testes barrier allowing systemic absorption of sperm and the potential for antibody formation.
-Data concerning vasectomized men have reported the appearance of human protamine-specific IgG antibodies in 22% to 33% within one year after vasectomy.
-A study revealed antiprotamine IgE antibodies in 35% of vasectomized men compared to 0% in nonvasectomized controls.
+Data concerning vasectomized men have reported the appearance of human protamine-specific IgG antibodies in  to  within one year after vasectomy.
+A study revealed antiprotamine IgE antibodies in  of vasectomized men compared to  in nonvasectomized controls.
 Cross-reactivity has been demonstrated between human and salmon protamine.
 Cardiovascular symptoms of hypotension and bradycardia have occurred following intravenous (IV) administration of protamine.
 Reduced cardiac output, myocardial failure, and irreversible circulatory collapse can occur.

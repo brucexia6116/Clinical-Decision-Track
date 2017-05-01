@@ -1,28 +1,16 @@
 The most common side effects were dizziness, fatigue, headache, and cough.
-Common (1% to 10%): Dizziness, postural dizziness, headache, hypertonia, somnolenceUncommon (0.
-1% to 1%): Paresthesia, taste perversion, tinnitus, syncope, hypesthesiaHydrochlorothiazide:Postmarketing reports: Lightheadedness, headache, paresthesia
-Common (1% to 10%): Cough, upper respiratory infection, rhinitis, sinusitisUncommon (0.
-1% to 1%): Epistaxis, bronchitis, voice alterationBenazepril:Postmarketing reports: Eosinophilic pneumonitisHydrochlorothiazide:Postmarketing reports: Respiratory distress, pneumonitis, pulmonary edema
-Common (1% to 10%): Fatigue, vertigo, flu syndromeUncommon (0.
-1% to 1%): Asthenia, chest pain, fever, chillsHydrochlorothiazide:Postmarketing reports: Vertigo, weakness, pyrexia, asthenia
-Common (1% to 10%): Impotence, urinary frequencyUncommon (0.
-1% to 1%): Urinary tract infection
-Common (1% to 10%): NauseaUncommon (0.
-1% to 1%): Vomiting, diarrhea, dyspepsia, constipation, dry mouth, abdominal pain, gastroenteritis, flatulence, tooth disorderHydrochlorothiazide:Postmarketing reports: Pancreatitis, small bowel angioedema, sialadenitis, vomiting, diarrhea, cramping, nausea, gastric irritation, constipation
-Common (1% to 10%): Back painUncommon (0.
-1% to 1%): Arthralgia, myalgia, neck pain, arthritisHydrochlorothiazide:Postmarketing reports: Muscle spasm
-Uncommon (0.
-1% to 1%): Rash, sweating, photosensitivity, pruritus, alopeciaBenazepril:Postmarketing reports: Stevens-Johnson syndrome, pemphigusHydrochlorothiazide:Postmarketing reports: Purpura, urticaria, rash, photosensitivity, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis
-Uncommon (0.
-1% to 1%): Insomnia, nervousness, libido decreased, abnormal dreamsHydrochlorothiazide:Postmarketing reports: Restlessness
-Uncommon (0.
-1% to 1%): Palpitations, flushing, peripheral vascular disorder, tachycardiaHydrochlorothiazide:Postmarketing reports: Necrotizing angiitis
-Uncommon (0.
-1% to 1%): Abnormal vision, retinal disorder, conjunctivitisHydrochlorothiazide:Postmarketing reports: Transient blurred vision, xanthopsia
-Uncommon (0.
-1% to 1%): AnorexiaHydrochlorothiazide:Postmarketing reports: Anorexia, hyperglycemia, glycosuria, hyperuricemia
-Uncommon (0.
-1% to 1%): InfectionHydrochlorothiazide:Postmarketing reports: Anaphylactoid reactions
+Common ( to ): Dizziness, postural dizziness, headache, hypertonia, somnolenceUncommon ( to ): Paresthesia, taste perversion, tinnitus, syncope, hypesthesiaHydrochlorothiazide:Postmarketing reports: Lightheadedness, headache, paresthesia
+Common ( to ): Cough, upper respiratory infection, rhinitis, sinusitisUncommon ( to ): Epistaxis, bronchitis, voice alterationBenazepril:Postmarketing reports: Eosinophilic pneumonitisHydrochlorothiazide:Postmarketing reports: Respiratory distress, pneumonitis, pulmonary edema
+Common ( to ): Fatigue, vertigo, flu syndromeUncommon ( to ): Asthenia, chest pain, fever, chillsHydrochlorothiazide:Postmarketing reports: Vertigo, weakness, pyrexia, asthenia
+Common ( to ): Impotence, urinary frequencyUncommon ( to ): Urinary tract infection
+Common ( to ): NauseaUncommon ( to ): Vomiting, diarrhea, dyspepsia, constipation, dry mouth, abdominal pain, gastroenteritis, flatulence, tooth disorderHydrochlorothiazide:Postmarketing reports: Pancreatitis, small bowel angioedema, sialadenitis, vomiting, diarrhea, cramping, nausea, gastric irritation, constipation
+Common ( to ): Back painUncommon ( to ): Arthralgia, myalgia, neck pain, arthritisHydrochlorothiazide:Postmarketing reports: Muscle spasm
+Uncommon ( to ): Rash, sweating, photosensitivity, pruritus, alopeciaBenazepril:Postmarketing reports: Stevens-Johnson syndrome, pemphigusHydrochlorothiazide:Postmarketing reports: Purpura, urticaria, rash, photosensitivity, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis
+Uncommon ( to ): Insomnia, nervousness, libido decreased, abnormal dreamsHydrochlorothiazide:Postmarketing reports: Restlessness
+Uncommon ( to ): Palpitations, flushing, peripheral vascular disorder, tachycardiaHydrochlorothiazide:Postmarketing reports: Necrotizing angiitis
+Uncommon ( to ): Abnormal vision, retinal disorder, conjunctivitisHydrochlorothiazide:Postmarketing reports: Transient blurred vision, xanthopsia
+Uncommon ( to ): AnorexiaHydrochlorothiazide:Postmarketing reports: Anorexia, hyperglycemia, glycosuria, hyperuricemia
+Uncommon ( to ): InfectionHydrochlorothiazide:Postmarketing reports: Anaphylactoid reactions
 Frequency not reported: Serum creatinine increased, BUN increased
 Benazepril:Postmarketing reports: Hemolytic anemia, thrombocytopeniaHydrochlorothiazide:Postmarketing reports: Aplastic anemia, agranulocytosis, leukopenia, neutropenia, thrombocytopenia
 Benazepril:Postmarketing reports: PancreatitisHydrochlorothiazide:Postmarketing reports: Intrahepatic cholestatic jaundice

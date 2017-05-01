@@ -1,9 +1,7 @@
 Side effects include:
 Elevated IOP,          transient stinging or burning,     blurred vision,   ocular irritation,    foreign body sensation.
-
 While the exact frequency of the reported side effects is unknown, the manufacturer reports the following in decreasing order of frequency: elevation of intraocular pressure with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing.
-Rare (less than 0.
-1%): Filtering blebFrequency not reported: Intraocular pressure increased, glaucoma, optic nerve damage, posterior subcapsular cataract formation, acute anterior uveitis, perforation of globe, keratitis, conjunctivitis, corneal ulcer, mydriasis, conjunctival hyperemia, ptosis, loss of accommodation, secondary ocular infection developed, visual acuity defect, field defect, transient ocular discomfort, ocular hypertension, scleral/corneal perforation, foreign body sensation, burning, stinging, irritation, vision blurred/impaired, corneal calcification
+Rare (less than ): Filtering blebFrequency not reported: Intraocular pressure increased, glaucoma, optic nerve damage, posterior subcapsular cataract formation, acute anterior uveitis, perforation of globe, keratitis, conjunctivitis, corneal ulcer, mydriasis, conjunctival hyperemia, ptosis, loss of accommodation, secondary ocular infection developed, visual acuity defect, field defect, transient ocular discomfort, ocular hypertension, scleral/corneal perforation, foreign body sensation, burning, stinging, irritation, vision blurred/impaired, corneal calcification
 Frequency not reported: Urticaria, pruritus, rash
 Frequency not reported: Allergic reaction, anaphylaxis
 Frequency not reported: Wound healing delayed

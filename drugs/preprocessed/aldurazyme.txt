@@ -1,30 +1,30 @@
 If any of the following side effects occur while taking laronidase, check with your doctor or nurse immediately:
 The most frequently reported infusion reactions included pyrexia, chills, blood pressure, increased, tachycardia, and oxygen saturation decreased.
 The most frequently reported adverse reactions included rash, upper respiratory tract infection, injection site reaction, hyperreflexia, paresthesia, flushing, and poor venous access.
-Common (1% to 10%): Anaphylactic reaction
-Very common (10% or more): Infusion reactions (up to 49%), pyrexia (up to 30%), otitis media (20%), chills (up to 20%), central venous catheterization required for infusion (15%), oxygen saturation decreased (up to 10%)Common (1% to 10%): Chest pain, face edema, gravitational/dependent edema, abscess, feeling hot, feeling cold, influenza-like illness, body temperature increasedFrequency not reported: Laryngeal edema, extravasationPostmarketing reports: Fatigue
+Common ( to ): Anaphylactic reaction
+Very common ( or more): Infusion reactions (up to ), pyrexia (up to ), otitis media , chills (up to ), central venous catheterization required for infusion , oxygen saturation decreased (up to )Common ( to ): Chest pain, face edema, gravitational/dependent edema, abscess, feeling hot, feeling cold, influenza-like illness, body temperature increasedFrequency not reported: Laryngeal edema, extravasationPostmarketing reports: Fatigue
 The most common adverse reactions were infusion reactions; the frequency decreased over time with continued use, and most were classified as mild to moderate in severity.
 The majority of infusion reactions requiring intervention were ameliorated with slowing of the infusion rate, temporarily stopping the infusion, with or without administering additional antihistamines and/or antipyretics.
-Very common (10% or more): Nausea, abdominal pain/discomfortCommon (1% to 10%): Vomiting, diarrhea
-In clinical trials, 99 of 102 patients developed IgG antidrug antibodies.
+Very common ( or more): Nausea, abdominal pain/discomfortCommon ( to ): Vomiting, diarrhea
+In clinical trials,  of  patients developed IgG antidrug antibodies.
 No correlation was demonstrated between presence of antidrug antibodies and therapeutic response or the occurrence of allergic reactions.
 There was also no consistent association between presence of antibodies that neutralize enzymatic activity and therapeutic response.
 The potential for antibody neutralization of cellular uptake has not been evaluated.
-There were 9 patients collectively in clinical studies who experienced severe infusion reactions and were subsequently tested for drug specific IgE antibodies and complement activation.
-Following testing, 1 of the 9 patients had an anaphylactic reaction consisting of urticaria and airway obstruction and tested positive for both drug specific IgE binding antibodies and complement activation.
-In a separate open-label study of patients 5 years and younger, none tested positive for IgE.
+There were  patients collectively in clinical studies who experienced severe infusion reactions and were subsequently tested for drug specific IgE antibodies and complement activation.
+Following testing,  of the  patients had an anaphylactic reaction consisting of urticaria and airway obstruction and tested positive for both drug specific IgE binding antibodies and complement activation.
+In a separate open-label study of patients  years and younger, none tested positive for IgE.
 The clinical significance of IgE antibodies has not been established.
-Very common (10% or more): Antidrug antibody development (97%)Postmarketing reports: Anaphylactic shock, IgE antibody development, compliment activation
-Very common (10% or more): Rash (up to 36%)Common (1% to 10%): Angioedema, urticaria, pruritus, hyperhidrosis, alopecia, cold sweatFrequency not reported: Erythema
-Very common (10% or more): Injection site reaction (up to 18%)Common (1% to 10%): Injection site pain
-Very common (10% or more): Upper respiratory tract infection (32%)Common (1% to 10%): Respiratory distress, dyspnea, cough, wheezing, pulmonary crepitationFrequency not reported: Bronchospasm, hypoxia, tachypnea, respiratory arrestPostmarketing reports: Respiratory failure, pneumonia
-Very common (10% or more): Flushing (up to 23%), poor venous access/vein disorder (14%), blood pressure increased (up to 10%), tachycardia (up to 10%)Common (1% to 10%): Hypotension, pallor, peripheral coldnessFrequency not reported: CyanosisPostmarketing reports: Cardiorespiratory arrest, cardiac failure
-Very common (10% or more): Hyperreflexia (14%), paresthesia (14%), headacheCommon (1% to 10%): Dizziness, tremor
-Common (1% to 10%): Thrombocytopenia
-Common (1% to 10%): Hyperbilirubinemia, bilirubinemia
-Common (1% to 10%): Corneal opacity
-Very common (10% or more): Arthropathy, arthralgia, back pain, pain in extremityCommon (1% to 10%): Musculoskeletal pain
-Common (1% to 10%): Restlessness
+Very common ( or more): Antidrug antibody development Postmarketing reports: Anaphylactic shock, IgE antibody development, compliment activation
+Very common ( or more): Rash (up to )Common ( to ): Angioedema, urticaria, pruritus, hyperhidrosis, alopecia, cold sweatFrequency not reported: Erythema
+Very common ( or more): Injection site reaction (up to )Common ( to ): Injection site pain
+Very common ( or more): Upper respiratory tract infection Common ( to ): Respiratory distress, dyspnea, cough, wheezing, pulmonary crepitationFrequency not reported: Bronchospasm, hypoxia, tachypnea, respiratory arrestPostmarketing reports: Respiratory failure, pneumonia
+Very common ( or more): Flushing (up to ), poor venous access/vein disorder , blood pressure increased (up to ), tachycardia (up to )Common ( to ): Hypotension, pallor, peripheral coldnessFrequency not reported: CyanosisPostmarketing reports: Cardiorespiratory arrest, cardiac failure
+Very common ( or more): Hyperreflexia , paresthesia , headacheCommon ( to ): Dizziness, tremor
+Common ( to ): Thrombocytopenia
+Common ( to ): Hyperbilirubinemia, bilirubinemia
+Common ( to ): Corneal opacity
+Very common ( or more): Arthropathy, arthralgia, back pain, pain in extremityCommon ( to ): Musculoskeletal pain
+Common ( to ): Restlessness
 Abdominal or stomach pain
 accumulation of pus
 back pain

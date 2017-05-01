@@ -1,0 +1,85 @@
+common side effects
+drug
+fatigue
+headache
+drug
+ribavirin
+common side effects
+combination
+known ribavirin side effects
+frequency
+severity of the expected side effects
+therapy
+side effects
+patients
+drug
+weeks
+patients
+drug with ribavirin
+weeks
+manufacturer product information for ribavirin
+fatigue
+headache
+nausea
+diarrhea
+lipase
+increased lipase
+times
+upper limit of normal
+uln
+subjects
+drug
+weeks
+lipase elevation
+insomnia
+increased bilirubin
+uln
+subjects
+drug
+weeks
+increased bilirubin
+postmarketing reports
+serious symptomatic bradycardia
+including
+fatal cardiac arrest
+cases
+requiring pacemaker intervention
+serious symptomatic bradycardia
+patients
+taking amiodarone
+therapy with this drug
+frequency
+increased creatine kinase
+creatine kinase
+clinical trials for this drug
+asymptomatic creatine kinase elevations
+grade
+sofosbuvir in combination with ribavirin
+peginterferon alfa/ribavirin in other clinical trials
+chest pain
+discomfort
+lightheadedness
+dizziness
+fainting
+shortness of breath
+irregular heartbeat
+unusual tiredness
+cough
+diarrhea
+headache
+irritability
+lack
+loss of strength
+muscle pain
+nausea
+trouble breathing
+trouble sleeping
+unusual tiredness
+weakness
+discouragement
+dizziness
+feeling
+lack of appetite
+loss of interest
+pleasure
+trouble concentrating

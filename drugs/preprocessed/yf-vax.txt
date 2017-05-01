@@ -1,44 +1,39 @@
 As well as its needed effects, yellow fever vaccine (the active ingredient contained in YF-Vax) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking yellow fever vaccine, check with your doctor or nurse immediately:
 Some yellow fever vaccine side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Minor side effects have included mild headache, myalgia, malaise, asthenia and low-grade fever for 5 to 10 days after vaccination in < 5% to 30% of vaccinees.
-The incidence of minor adverse events was lower in vaccinees > 60 years than in younger subjects.
+Minor side effects have included mild headache, myalgia, malaise, asthenia and low-grade fever for  to  days after vaccination in <  to  of vaccinees.
+The incidence of minor adverse events was lower in vaccinees >  years than in younger subjects.
 Local side effects have included edema, erythema, hypersensitivity, pain, or mass at the injection site.
 Hypersensitivity reactions have infrequently included immediate reactions characterized by rash, urticaria, and/or asthma.
 These mainly occur in vaccinees with histories of egg allergy.
 Nervous system side effects have very rarely included neurotropic disease (YEL-AND, post-vaccinal encephalitis) which has been fatal in rare instances.
 Symptoms have included diaphoresis, rigors, fever, malaise, headache, confusion, expressive aphasia, arm numbness, loss of fine motor control, severe dysarthria, loss of consciousness, elevated WBCs and protein in CSF, and/or leukocytosis.
-Immunosuppression and age < 9 months are known risk factors.
-The estimated incidence for all ages is 5.
-3 cases per million vaccinees.
-Fifteen cases  of neurotropic disease were reported before 1960, 13 of these occurred in infants < 4 months and 2 in infants 6 and 7 months old.
-Six cases were reported worldwide between 1960 and 1996, 3 of these occurred in adults, and the other 3 in a 1-month-old infant, a 3-year-old, and a 13-year-old.
-A genetic variant of the vaccine virus was isolated from the brain of the 3-year-old, who died of encephalitis.
-Four nonfatal cases of probable 17D vaccine-associated neurotropic disease were reported in the U.
+Immunosuppression and age <  months are known risk factors.
+The estimated incidence for all ages is  cases per million vaccinees.
+Fifteen cases  of neurotropic disease were reported before ,  of these occurred in infants <  months and  in infants  and  months old.
+Six cases were reported worldwide between  and ,  of these occurred in adults, and the other  in a -month-old infant, a -year-old, and a -year-old.
+A genetic variant of the vaccine virus was isolated from the brain of the -year-old, who died of encephalitis.
+Four nonfatal cases of probable D vaccine-associated neurotropic disease were reported in the U.
 S.
-between 2001 and 2002.
-High levels of yellow fever-specific IgM antibody were observed in these patients' CSF; however viral isolation was negative or not performed.
-Seven cases of YEL-AVD were reported between 1996 and 2001, 4 of them in U.
+between  and   High levels of yellow fever-specific IgM antibody were observed in these patients' CSF; however viral isolation was negative or not performed.
+Seven cases of YEL-AVD were reported between  and ,  of them in U.
 S.
 residents.
-All patients (ages 5 to 79 years old) were considered healthy and did not have immunodeficiency.
-Six of these patients died 8 to 11 days after vaccination (1 had been vaccinated with the 17D-204 strain and 2 with the 17DD strain).
+All patients (ages  to  years old) were considered healthy and did not have immunodeficiency.
+Six of these patients died  to  days after vaccination ( had been vaccinated with the D- strain and  with the DD strain).
 A liver biopsy revealed rare yellow fever virus antigen within Kupffer cells.
-In 3 of the fatal cases, hepatic midzonal necrosis, microvesicular fatty change, and Councilman bodies were observed, which are characteristic of wild-type yellow fever.
+In  of the fatal cases, hepatic midzonal necrosis, microvesicular fatty change, and Councilman bodies were observed, which are characteristic of wild-type yellow fever.
 Vaccine-type yellow fever virus was isolated from blood and autopsy material.
 Vaccine-associated viscerotropic disease (YEL-AVD, multiple organ system failure), which may be fatal, has been reported rarely.
 It is characterized by initial symptoms of a nonspecific febrile syndrome with fatigue, myalgia, and headache.
 It quickly progresses to severe illness including respiratory failure, elevated hepatocellular enzymes, lymphocytopenia, thrombocytopenia, hyperbilirubinemia, hypotension with poor tissue perfusion, and/or renal failure requiring hemodialysis.
 Causality has not been clearly established.
-The syndrome may be related to unknown host factors rather than virulence of the 17D yellow fever strain.
-Recent reports suggest that a history of thymic dysfunction (e.
-g.
-, myasthenia gravis, thymoma, thymectomy, DiGeorge syndrome) and age > 60 years may be risk factors for developing YEL-AVD.
-The estimated incidence is 1 per 400,000 doses.
-Health care providers should report any allergic or unusual adverse reactions to the Vaccine Adverse Event Reporting System (VAERS) at 1-800-822-7967 (USA) and the manufacturer.
+The syndrome may be related to unknown host factors rather than virulence of the D yellow fever strain.
+Recent reports suggest that a history of thymic dysfunction (, myasthenia gravis, thymoma, thymectomy, DiGeorge syndrome) and age >  years may be risk factors for developing YEL-AVD.
+The estimated incidence is  per , doses.
+Health care providers should report any allergic or unusual adverse reactions to the Vaccine Adverse Event Reporting System (VAERS) at --- (USA) and the manufacturer.
 It is possible that some side effects of YF-Vax may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

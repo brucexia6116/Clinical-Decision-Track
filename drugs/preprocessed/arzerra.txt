@@ -1,33 +1,18 @@
 If any of the following side effects occur while taking ofatumumab, check with your doctor or nurse immediately:
-Very common (10% or more): Neutropenia (up to 27%), anemia (up to 18%)Common (1% to 10%): Leukopenia, febrile neutropenia, thrombocytopeniaUncommon (0.
-1% to 1%): Agranulocytosis, coagulopathy, red cell aplasia, lymphopenia
-Very common (10% or more): Upper respiratory tract infection (up to 19%), pneumonia (up to 23%), cough (up to 19%), dyspnea (up to 14%), bronchitis (up to 11%), lower respiratory tract infectionCommon (1% to 10%): Sinusitis, nasopharyngitis, bronchospasm, hypoxia, dyspnea, chest discomfort, pharyngolaryngeal pain, nasal congestionUncommon (0.
-1% to 1%): Pulmonary edema
-Very common (10% or more): Diarrhea (up to 18%), nausea (up to 11%)Common (1% to 10%): Upper abdominal painUncommon (0.
-1% to 1%): Small bowel obstruction
-Very common (10% or more): Rash (e.
-g.
-, rash, rash macular, rash vesicular) (up to 14%)Common (1% to 10%): Urticaria, hyperhidrosis, erythema, pruritusUncommon (0.
-1% to 1%): Coagulopathy, red cell aplasiaPostmarketing reports: Stevens-Johnson syndrome, porphyria cutanea tarda
-Common (1% to 10%): Arthralgia, back pain, chills, muscle spasms, rigors
-Common (1% to 10%): Insomnia
-Common (1% to 10%): Headache
-Common (1% to 10%): Hypertension, hypotension, tachycardiaUncommon (0.
-1% to 1%): BradycardiaPostmarketing reports: Cardiac arrest (infusion related)
-Common (1% to 10%): Urinary tract infection
-Rare (less than 0.
-1%): Hepatitis B infection and reactivation
-Common (1% to 10%): Anaphylactoid reactions, hypersensitivityUncommon (0.
-1% to 1%): Anaphylactic shock, cytokine release syndrome
-Common (1% to 10%): Herpes simplex (e.
-g.
-, oral herpes, herpes, herpes virus infection, genital herpes), influenza, herpes zoster, hypogammaglobulinemia, bacterial infections, viral infections, fungal infections, sepsis (e.
-g.
-, sepsis, neutropenic sepsis, bacteremia, septic shock)Uncommon (0.
-1% to 1%): Immunogenicity
-Very common (10% or more):Common (1% to 10%): Peripheral edemaUncommon (0.
-1% to 1%): Tumor lysis syndrome
-Very common (10% or more): Pyrexia (up to 20%), fatigue (up to 15%)
+Very common ( or more): Neutropenia (up to ), anemia (up to )Common ( to ): Leukopenia, febrile neutropenia, thrombocytopeniaUncommon ( to ): Agranulocytosis, coagulopathy, red cell aplasia, lymphopenia
+Very common ( or more): Upper respiratory tract infection (up to ), pneumonia (up to ), cough (up to ), dyspnea (up to ), bronchitis (up to ), lower respiratory tract infectionCommon ( to ): Sinusitis, nasopharyngitis, bronchospasm, hypoxia, dyspnea, chest discomfort, pharyngolaryngeal pain, nasal congestionUncommon ( to ): Pulmonary edema
+Very common ( or more): Diarrhea (up to ), nausea (up to )Common ( to ): Upper abdominal painUncommon ( to ): Small bowel obstruction
+Very common ( or more): Rash (, rash, rash macular, rash vesicular) (up to )Common ( to ): Urticaria, hyperhidrosis, erythema, pruritusUncommon ( to ): Coagulopathy, red cell aplasiaPostmarketing reports: Stevens-Johnson syndrome, porphyria cutanea tarda
+Common ( to ): Arthralgia, back pain, chills, muscle spasms, rigors
+Common ( to ): Insomnia
+Common ( to ): Headache
+Common ( to ): Hypertension, hypotension, tachycardiaUncommon ( to ): BradycardiaPostmarketing reports: Cardiac arrest (infusion related)
+Common ( to ): Urinary tract infection
+Rare (less than ): Hepatitis B infection and reactivation
+Common ( to ): Anaphylactoid reactions, hypersensitivityUncommon ( to ): Anaphylactic shock, cytokine release syndrome
+Common ( to ): Herpes simplex (, oral herpes, herpes, herpes virus infection, genital herpes), influenza, herpes zoster, hypogammaglobulinemia, bacterial infections, viral infections, fungal infections, sepsis (, sepsis, neutropenic sepsis, bacteremia, septic shock)Uncommon ( to ): Immunogenicity
+Very common ( or more):Common ( to ): Peripheral edemaUncommon ( to ): Tumor lysis syndrome
+Very common ( or more): Pyrexia (up to ), fatigue (up to )
 Black, tarry stools
 bloating or swelling of the face, arms, hands, lower legs, or feet
 blurred vision

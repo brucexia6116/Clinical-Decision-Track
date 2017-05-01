@@ -1,41 +1,23 @@
 Side effects include:
 Use for anesthesia or MAC sedation: Bradycardia, arrhythmia, tachycardia, hypotension, hypertension, movement, burning/stinging, pain at injection site, apnea, rash, pruritus.
-
 Use for critical care setting sedation: Bradycardia, decreased cardiac output, hypotension, hyperlipidemia, respiratory acidosis (during weaning).
-
-Very common (10% or more): Hypotension (up to 75%)Common (1% to 10%): Hypertension, bradycardiaUncommon (0.
-1% to 1%): Arrhythmias, tachycardia, extrasystoleRare (0.
-01% to 0.
-1%): Pulmonary edema, asystole, syncope, perioperative arrhythmias, cardiac arrest Very rare (less than 0.
-01%): Cardiac failure, pulmonary edemaFrequency not reported: Cardiac arrhythmia
-Very common (10% or more): Pruritus (up to 28%)Common (1% to 10%): Transient flush, rash
-Common (1% to 10%): Nausea, vomitingVery rare (less than 0.
-01%): Pancreatitis, abdominal cramps
-Rare (Less than 0.
-1%): Discoloration of the urine following prolonged use
+Very common ( or more): Hypotension (up to )Common ( to ): Hypertension, bradycardiaUncommon ( to ): Arrhythmias, tachycardia, extrasystoleRare ( to ): Pulmonary edema, asystole, syncope, perioperative arrhythmias, cardiac arrest Very rare (less than ): Cardiac failure, pulmonary edemaFrequency not reported: Cardiac arrhythmia
+Very common ( or more): Pruritus (up to )Common ( to ): Transient flush, rash
+Common ( to ): Nausea, vomitingVery rare (less than ): Pancreatitis, abdominal cramps
+Rare (Less than ): Discoloration of the urine following prolonged use
 Frequency not reported: Hepatomegaly
-Rare (0.
-01% to 0.
-1%): Anaphylaxis, in some cases with angioedema, bronchospasm, erythema, and hypotension (these reactions have been reported to respond to adrenaline)
-Common (1% to 10%): Pain during injection (burning, tingling/slinging)Very rare (less than 0.
-01%): Tissue necrosis following accidental extravascular administration
-Very rare (less than 0.
-01%): Metabolic acidosis, hyperkalemia, hyperlipidemia
-Very rare (less than 0.
-01%): Rhabdomyolysis (when administered at doses greater than 4 mg/kg/hour for ICU sedation)
-Very common (10% or more): Paresthesia (up to 74%), excitation phenomena such as involuntary movements, twitches, tremors, hypertonus, hiccup Common (1% to 10%): Headache, shiveringRare (0.
-01% to 0.
-1%): Convulsions and seizures of the epileptic typeVery rare (less than 0.
-01%): Postoperative unconsciousnessFrequency not reported: Involuntary movements
+Rare ( to ): Anaphylaxis, in some cases with angioedema, bronchospasm, erythema, and hypotension (these reactions have been reported to respond to adrenaline)
+Common ( to ): Pain during injection (burning, tingling/slinging)Very rare (less than ): Tissue necrosis following accidental extravascular administration
+Very rare (less than ): Metabolic acidosis, hyperkalemia, hyperlipidemia
+Very rare (less than ): Rhabdomyolysis (when administered at doses greater than  mg/kg/hour for ICU sedation)
+Very common ( or more): Paresthesia (up to ), excitation phenomena such as involuntary movements, twitches, tremors, hypertonus, hiccup Common ( to ): Headache, shiveringRare ( to ): Convulsions and seizures of the epileptic typeVery rare (less than ): Postoperative unconsciousnessFrequency not reported: Involuntary movements
 Paresthesias (including burning, tingling, stinging) and/or pruritus, usually manifested in the perineal region, were the most frequently recorded adverse reactions in clinical trials.
-Paresthesias and pruritus generally occurred within 5 minutes after administration of the initial dose and were generally transient and mild to moderate in intensity.
+Paresthesias and pruritus generally occurred within  minutes after administration of the initial dose and were generally transient and mild to moderate in intensity.
 The pharmacologic basis of these sensory phenomena is unknown.
 No pretreatments, including the use of nonsteroidal anti-inflammatory drugs, opioids, or lidocaine, are known to have an effect on or to reduce the incidence of these sensations.
-Very common (10% or more): Hypoxemia (up to 11%)Common (1% to 10%): Procedural pain (bronchoscopy), transient apnea, coughVery rare (less than 0.
-01%): Pulmonary edema, hiccough
-Very rare (less than 0.
-01%): Renal failure
-Common (1% to 10%): Thrombosis, phlebitis
+Very common ( or more): Hypoxemia (up to )Common ( to ): Procedural pain (bronchoscopy), transient apnea, coughVery rare (less than ): Pulmonary edema, hiccough
+Very rare (less than ): Renal failure
+Common ( to ): Thrombosis, phlebitis
 It is possible that some side effects of Propoven may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

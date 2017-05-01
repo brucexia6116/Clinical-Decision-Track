@@ -3,104 +3,61 @@ Other side effects include: abdominal pain, sialorrhea, skin rash, tachycardia, 
 See below for a comprehensive list of adverse effects.
 Other dosage forms:
 As well as its needed effects, risperidone (the active ingredient contained in Risperdal) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking risperidone, check with your doctor immediately:
 Some risperidone side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Very common (10% or more): Sedation (up to 63%), parkinsonism (up to 28%), akathisia (up to 10%), dizziness, (up to 14%), tremor (up to 11%), drooling (up to 12%), headache (up to 12%)	Common (1% to 10%): Dystonia, dyskinesia, gait disturbanceUncommon (0.
-1% to 1%): SyncopeRare (less than 0.
-1%): Tardive dyskinesia, cerebral ischemia, unresponsive to stimuli, depressed or loss of consciousness, psychomotor hyperactivity, balance disorder, abnormal coordination, attention disturbance Very rare (less than 0.
-01%): Neuroleptic malignant syndrome, cerebrovascular disorder, head titubation Frequency not reported: Vertigo, dysarthria, movement disorder, cerebrovascular accident, speech disorder, hypoesthesia, convulsion, paresthesiaPostmarketing reports: Dysgeusia
+Very common ( or more): Sedation (up to ), parkinsonism (up to ), akathisia (up to ), dizziness, (up to ), tremor (up to ), drooling (up to ), headache (up to )	Common ( to ): Dystonia, dyskinesia, gait disturbanceUncommon ( to ): SyncopeRare (less than ): Tardive dyskinesia, cerebral ischemia, unresponsive to stimuli, depressed or loss of consciousness, psychomotor hyperactivity, balance disorder, abnormal coordination, attention disturbance Very rare (less than ): Neuroleptic malignant syndrome, cerebrovascular disorder, head titubation Frequency not reported: Vertigo, dysarthria, movement disorder, cerebrovascular accident, speech disorder, hypoesthesia, convulsion, paresthesiaPostmarketing reports: Dysgeusia
 Parkinsonism includes extrapyramidal disorder, musculoskeletal stiffness, parkinsonism, cogwheel rigidity, akinesia, bradykinesia, hypokinesia, masked facies, muscle rigidity, and Parkinson's disease.
 Akathisia includes akathisia and restlessness.
 Dystonia includes muscle spasms, involuntary muscle contractions, muscle contracture, oculogyration, tongue paralysis.
 Tremor includes parkinsonian rest tremor.
 In randomized placebo-controlled trials in elderly patients with dementia-related psychosis, cerebrovascular adverse events occurred more frequently in patients treated with atypical antipsychotics than those receiving placebo.
-Pooled data from 6 trials mainly in elderly patients older than 65 years showed that cerebrovascular events occurred in 3.
-3% (33 of 1009) of patients treated with risperidone compared with 1.
-2% (8 of 712) of placebo-treated patients.
+Pooled data from  trials mainly in elderly patients older than  years showed that cerebrovascular events occurred in  ( of ) of patients treated with risperidone compared with  ( of ) of placebo-treated patients.
 The mechanism for this risk is unknown.
 The risk for a cerebrovascular event was significantly higher in patients with mixed or vascular type dementia compared with Alzheimer's dementia.
-Common (1% to 10%): Tachycardia, palpitations, orthostatic hypotension, hypotensionhypertension, peripheral edema, chest painUncommon (0.
-1% to 1%): ECG QT prolonged, bundle branch block right, flushingFrequency not reported: bradycardia, atrioventricular block, bundle branch block left, abnormal ECGPostmarketing reports: Atrial fibrillation, deep vein thrombosis, cardiopulmonary arrest
-Collective data gathered from 17 placebo-controlled clinical studies (n=5106) involving the use of atypical antipsychotic agents, including risperidone, for the treatment of behavioral disorders in the elderly patient with dementia showed a risk of death 1.
-6 to 1.
-7 times greater in the drug- treated patient than in the placebo- treated patient.
-The average length of duration for the trials was 10 weeks with the cause of death in the majority of cases, though not all, reported as either cardiovascular (e.
-g.
-, heart failure, sudden death) or infectious (e.
-g.
-, pneumonia) in nature.
+Common ( to ): Tachycardia, palpitations, orthostatic hypotension, hypotensionhypertension, peripheral edema, chest painUncommon ( to ): ECG QT prolonged, bundle branch block right, flushingFrequency not reported: bradycardia, atrioventricular block, bundle branch block left, abnormal ECGPostmarketing reports: Atrial fibrillation, deep vein thrombosis, cardiopulmonary arrest
+Collective data gathered from  placebo-controlled clinical studies (n=) involving the use of atypical antipsychotic agents, including risperidone, for the treatment of behavioral disorders in the elderly patient with dementia showed a risk of death  to  times greater in the drug- treated patient than in the placebo- treated patient.
+The average length of duration for the trials was  weeks with the cause of death in the majority of cases, though not all, reported as either cardiovascular (, heart failure, sudden death) or infectious (, pneumonia) in nature.
 Similar results (i.
 e.
-, increased risk of mortality with atypical antipsychotics) were reported in another meta-analysis involving elderly dementia patients that consisted of 15 randomized, placebo-controlled trials (n=3353) of 10 to 12 weeks in duration.
+, increased risk of mortality with atypical antipsychotics) were reported in another meta-analysis involving elderly dementia patients that consisted of  randomized, placebo-controlled trials (n=) of  to  weeks in duration.
 Risperidone is not approved by the FDA for use in the treatment of behavioral disorders in elderly patients with dementia.
-However, in contrast, the results of another meta-analysis of 6 randomized, double-blind, placebo-controlled, clinical trials (n=1721) found a nonsignificant increase in overall mortality in elderly dementia patients treated with risperidone.
+However, in contrast, the results of another meta-analysis of  randomized, double-blind, placebo-controlled, clinical trials (n=) found a nonsignificant increase in overall mortality in elderly dementia patients treated with risperidone.
 The results of a large retrospective cohort study appear to indicate that atypical antipsychotic agents (i.
 e.
 , risperidone, olanzapine, clozapine, quetiapine) increase the risk of venous thromboembolism in elderly patients; however, these events seem to be rare.
-Based on data from four placebo controlled trials conducted in elderly patients (n=1230), cerebrovascular adverse events (e.
-g.
-, stroke, transient ischemic attack), including fatalities, have been reported in elderly patients with dementia- related psychosis.
+Based on data from four placebo controlled trials conducted in elderly patients (n=), cerebrovascular adverse events (, stroke, transient ischemic attack), including fatalities, have been reported in elderly patients with dementia- related psychosis.
 In placebo controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
 Risperidone has not been shown to be safe or effective in the treatment of patients with dementia- related psychosis.
-Additional information on these and other clinical trials conducted in elderly patients can be obtained by calling 1-800- JANSSEN (800-526-7736).
+Additional information on these and other clinical trials conducted in elderly patients can be obtained by calling -- JANSSEN (--).
 However, the association between the use of atypical antipsychotics (i.
 e.
 , risperidone, olanzapine) and the risk of cerebrovascular events appears to be somewhat controversial.
 The results of a case-control study found no increased risk of cerebrovascular events in elderly patients treated with atypical antipsychotics.
-Common (1% to 10%): HyperprolactinemiaUncommon (0.
-1% to 1%): Gynecomastia, galactorrhea, breast pain, breast discomfortRare (less than 0.
-1%): Inappropriate antidiuretic hormone secretion, breast enlargement, breast discharge, breast engorgementPostmarketing reports: Precocious puberty
+Common ( to ): HyperprolactinemiaUncommon ( to ): Gynecomastia, galactorrhea, breast pain, breast discomfortRare (less than ): Inappropriate antidiuretic hormone secretion, breast enlargement, breast discharge, breast engorgementPostmarketing reports: Precocious puberty
 Risperidone is associated with higher levels of prolactin elevation than other antipsychotic drugs.
 Hyperprolactinemia may suppress hypothalamic gonadotropin-releasing hormone (GnRH) resulting in reduced pituitary gonadotropin secretion and in turn inhibit reproductive function by impairing gonadal steroidogenesis.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
 Risperidone (the active ingredient contained in Risperdal) is associated with higher levels of prolactin elevation than other antipsychotic drugs.
 Hyperprolactinemia may suppress hypothalamic gonadotropin-releasing hormone (GnRH) resulting in reduced pituitary gonadotropin secretion and in turn inhibit reproductive function by impairing gonadal steroidogenesis.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
-Very common (10% or more): Enuresis (16%) Common (1% to 10%): Urinary incontinence, urinary tract infectionUncommon (0.
-1% to 1%): Amenorrhea, urinary retention, dysuria, pollakiuria, erectile dysfunction, ejaculation disorder, menstrual disorder, sexual dysfunction, vaginal discharge, cystitisRare (less than 0.
-1%): Delayed menstruation, Frequency not reported: Retrograde ejaculation, ejaculation failure, libido decreased, anorgasmiaPostmarketing reports: Priapism, urinary retention
-Very common (10% or more): Nausea (16%), vomiting (20%), constipation (17%), abdominal pain (16%)Common (1% to 10%): Dyspepsia, dysphagia, dry mouth, salivary hypersecretion, diarrhea, stomach discomfortUncommon (0.
-1% to 1%): Toothache, gastroenteritis, flatulenceRare (less than 0.
-1%): Pancreatitis, swollen tongue, cheilitisFrequency not reported: Aptyalism, fecalomaPostmarketing reports: Ileus
-Uncommon (0.
-1% to 1%): Increased gamma-glutamyltransferase, hepatic enzyme increasesRare (less than 0.
-1%): JaundiceFrequency not reported: Transaminases increased
-Very common (10% or more): Insomnia (32%), anxiety (16%)Uncommon (0.
-1% to 1%): NervousnessRare (less than 0.
-1%): Mania, confusional state, nightmareVery rare (less than 0.
-01%): Blunted affectFrequency not reported: Agitation, sleep disorder, listlessness, depression
-Common (1% to 10%): Blurred vision, conjunctivitisUncommon (0.
-1% to 1%): Photophobia, dry eye, lacrimation increased,Rare (less than 0.
-1%): Glaucoma, eye movement disorder, eyelid margin crustingFrequency not reported: Ocular hyperemia, eye discharge, eye rolling, eyelid edema, eyelid swelling, visual acuity reduced, eye infection, blepharospasmPostmarketing reports: Floppy iris syndrome, retinal artery occlusion
-Very common (10% or more): Increased appetite (up to 44%), Common (1% to 10%): Increased weight, decreased appetiteUncommon (0.
-1% to 1%): Diabetes mellitus, hyperglycemia, polydipsia, weight decreased, anorexia, increased cholesterol, Rare (less than 0.
-1%): Hypoglycemia, increased triglycerides, Very rare (less than 0.
-01%): Diabetic comaPostmarketing reports: Diabetic ketoacidosis, hyperinsulinemia, water intoxication, aggravated diabetes mellitus
-Very common (10% or more): Nasopharyngitis (up to 19%), cough (up to 17%), rhinorrhea (up to 12%)Common (1% to 10%): Upper respiratory tract infection, rhinitis, sinusitis, nasal congestion, dyspnea, pharyngolaryngeal pain Uncommon (0.
-1% to 1%): Epistaxis, aspiration pneumonia, pulmonary congestion, rales, wheezing dysphonia, tonsillitisRare (less than 0.
-1%): HyperventilationFrequency not reported: Tonsillitis, bronchitis, pharyngitis, nasal edema, pneumonia, pharyngitis, bronchitis, bronchopneumonia Postmarketing reports: Pulmonary embolism, sleep apnea syndrome
-Very common (10% or more): Fatigue (up to 31%), Pyrexia (up to 16%), Common (1% to 10%): Asthenia, thirst, Rare (less than 0.
-1%): Chills, Very rare (less than 0.
-01%): Hypothermia, decreased body temperature, peripheral coldness, drug withdrawal syndrome, drug withdrawal in neonateFrequency not reported: Ear pain, malaise, feeling abnormal, Influenza-like illness, ear infection, otitis media, tinnitus Postmarketing reports: Sudden death, drug withdrawal syndrome,
-Common (1% to 10%): Rash, erythema, dry skin, acne, dandruffUncommon (0.
-1% to 1%): Seborrheic dermatitis, hyperkeratosis, urticaria, pruritus, alopecia, eczema, skin discoloration, skin lesion, skin disorderRare (less than 0.
-1%): Drug eruptionPostmarketing reports: Angioedema
-Common (1% to 10%): Back pain, arthralgia, extremity pain, muscle spasmsUncommon (0.
-1% to 1%): Myalgia, neck pain, increased creatine phosphokinase, joint stiffness, joint swelling, abnormal posture, muscular weaknessVery rare (less than 0.
-01%): Rhabdomyolysis
+Very common ( or more): Enuresis  Common ( to ): Urinary incontinence, urinary tract infectionUncommon ( to ): Amenorrhea, urinary retention, dysuria, pollakiuria, erectile dysfunction, ejaculation disorder, menstrual disorder, sexual dysfunction, vaginal discharge, cystitisRare (less than ): Delayed menstruation, Frequency not reported: Retrograde ejaculation, ejaculation failure, libido decreased, anorgasmiaPostmarketing reports: Priapism, urinary retention
+Very common ( or more): Nausea , vomiting , constipation , abdominal pain Common ( to ): Dyspepsia, dysphagia, dry mouth, salivary hypersecretion, diarrhea, stomach discomfortUncommon ( to ): Toothache, gastroenteritis, flatulenceRare (less than ): Pancreatitis, swollen tongue, cheilitisFrequency not reported: Aptyalism, fecalomaPostmarketing reports: Ileus
+Uncommon ( to ): Increased gamma-glutamyltransferase, hepatic enzyme increasesRare (less than ): JaundiceFrequency not reported: Transaminases increased
+Very common ( or more): Insomnia , anxiety Uncommon ( to ): NervousnessRare (less than ): Mania, confusional state, nightmareVery rare (less than ): Blunted affectFrequency not reported: Agitation, sleep disorder, listlessness, depression
+Common ( to ): Blurred vision, conjunctivitisUncommon ( to ): Photophobia, dry eye, lacrimation increased,Rare (less than ): Glaucoma, eye movement disorder, eyelid margin crustingFrequency not reported: Ocular hyperemia, eye discharge, eye rolling, eyelid edema, eyelid swelling, visual acuity reduced, eye infection, blepharospasmPostmarketing reports: Floppy iris syndrome, retinal artery occlusion
+Very common ( or more): Increased appetite (up to ), Common ( to ): Increased weight, decreased appetiteUncommon ( to ): Diabetes mellitus, hyperglycemia, polydipsia, weight decreased, anorexia, increased cholesterol, Rare (less than ): Hypoglycemia, increased triglycerides, Very rare (less than ): Diabetic comaPostmarketing reports: Diabetic ketoacidosis, hyperinsulinemia, water intoxication, aggravated diabetes mellitus
+Very common ( or more): Nasopharyngitis (up to ), cough (up to ), rhinorrhea (up to )Common ( to ): Upper respiratory tract infection, rhinitis, sinusitis, nasal congestion, dyspnea, pharyngolaryngeal pain Uncommon ( to ): Epistaxis, aspiration pneumonia, pulmonary congestion, rales, wheezing dysphonia, tonsillitisRare (less than ): HyperventilationFrequency not reported: Tonsillitis, bronchitis, pharyngitis, nasal edema, pneumonia, pharyngitis, bronchitis, bronchopneumonia Postmarketing reports: Pulmonary embolism, sleep apnea syndrome
+Very common ( or more): Fatigue (up to ), Pyrexia (up to ), Common ( to ): Asthenia, thirst, Rare (less than ): Chills, Very rare (less than ): Hypothermia, decreased body temperature, peripheral coldness, drug withdrawal syndrome, drug withdrawal in neonateFrequency not reported: Ear pain, malaise, feeling abnormal, Influenza-like illness, ear infection, otitis media, tinnitus Postmarketing reports: Sudden death, drug withdrawal syndrome,
+Common ( to ): Rash, erythema, dry skin, acne, dandruffUncommon ( to ): Seborrheic dermatitis, hyperkeratosis, urticaria, pruritus, alopecia, eczema, skin discoloration, skin lesion, skin disorderRare (less than ): Drug eruptionPostmarketing reports: Angioedema
+Common ( to ): Back pain, arthralgia, extremity pain, muscle spasmsUncommon ( to ): Myalgia, neck pain, increased creatine phosphokinase, joint stiffness, joint swelling, abnormal posture, muscular weaknessVery rare (less than ): Rhabdomyolysis
 There have been post marketing reports of anaphylactic reaction in patients receiving long-acting injection who had previously tolerated oral risperidone (the active ingredient contained in Risperdal) 
-Uncommon (0.
-1% to 1%): HypersensitivityPostmarketing reports: Anaphylactic reaction
-Uncommon (0.
-1% to 1%): Neutropenia, WBC decreased, thrombocytopenia, anemia, decreased hematocrit, increased eosinophil countFrequency not reported: Granulocytopenia, decreased hemoglobin, Postmarketing reports: Agranulocytosis, thrombotic thrombocytopenic purpura
-Uncommon (0.
-1% to 1%): Onychomycosis, acarodermatitis
+Uncommon ( to ): HypersensitivityPostmarketing reports: Anaphylactic reaction
+Uncommon ( to ): Neutropenia, WBC decreased, thrombocytopenia, anemia, decreased hematocrit, increased eosinophil countFrequency not reported: Granulocytopenia, decreased hemoglobin, Postmarketing reports: Agranulocytosis, thrombotic thrombocytopenic purpura
+Uncommon ( to ): Onychomycosis, acarodermatitis
 The most commonly reported adverse reactions included parkinsonism, dizziness, akathisia, anxiety, fatigue, constipation, tremor, sedation, increased appetite, nausea, vomiting, abdominal pain, drooling, insomnia, nasopharyngitis, and nasal congestion.
-Uncommon (0.
-1% to 1%): Redness, swelling, induration at injection sitePostmarketing reports: Serious injection site reactions, including abscess, cellulitis, cyst, hematoma, necrosis, nodule, and ulcer
+Uncommon ( to ): Redness, swelling, induration at injection sitePostmarketing reports: Serious injection site reactions, including abscess, cellulitis, cyst, hematoma, necrosis, nodule, and ulcer
 Postmarketing reports: Pituitary adenoma
 It is possible that some side effects of Risperdal may not have been reported.
 These can be reported to the FDA here.

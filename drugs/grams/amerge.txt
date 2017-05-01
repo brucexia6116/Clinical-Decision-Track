@@ -1,0 +1,95 @@
+reported adverse reactions
+paresthesias
+dizziness
+drowsiness
+malaise/fatigue
+throat/neck symptoms
+palpitations
+chest pain
+discomfort
+chest pressure/heavinessuncommon
+bradycardia
+tachycardiavery
+peripheral vascular ischemia
+coronary artery vasospasm
+transient ischemic ecg changes
+angina
+myocardial infarctionsfrequency
+acute myocardial infarction
+increased blood pressure
+malaise/fatigue
+sensations of pain
+pressure
+heaviness
+tightness
+throat/neck/chest
+warm-hot sensation
+vertigo
+paresthesias
+dizziness
+drowsiness
+headachesrare
+somnolence
+nausea
+vomiting
+hyposalivationrare
+ischemic colitis
+visual disturbance
+photophobia
+musculoskeletal pain
+muscle stiffness
+tightness
+rigidity
+anaphylaxis
+hypersensitivity reactions
+cutaneous hypersensitivity
+angioedema
+rash
+urticaria
+pruritus
+facial edema
+chest pain (severe)
+heaviness
+tightness
+pressure in the chest
+throat
+neck
+sensation of burning
+warmth
+heat
+numbness
+tightness
+tingling
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+convulsions (seizures)
+irregular heartbeat
+slow heartbeat
+anxiety
+bone pain
+change in taste sensation
+chills or fever
+difficulty with sleeping
+eye problems
+fainting
+general feeling of discomfort
+illness
+joint pain
+muscle
+joint stiffness
+tightness
+rigidity
+pounding heartbeat
+stomach discomfort
+pain
+trembling
+shaking of the hands
+feet
+unusual tiredness
+weakness

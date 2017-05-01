@@ -1,38 +1,30 @@
 Common side effects of Tarceva include: infection, conjunctivitis, diarrhea, dyspnea, keratoconjunctivitis, nausea, pruritus, skin rash, stomatitis, anorexia, and xeroderma.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, erlotinib (the active ingredient contained in Tarceva) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking erlotinib, check with your doctor immediately:
 Some erlotinib side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Very common (10% or more): Dyspnea (41%), cough (Up to 33%)Common (1% to 10%): Epistaxis, interstitial lung disease
-Very common (10% or more): Rash (69 to 75%), alopecia (14%), pruritus (13%), dry skin (12%)Common (1% to 10%): Acne, dermatitis acneiform, folliculitis, skin fissures, paronychiaUncommon (0.
-1% to 1%): Hyperpigmentation, hirsutism, brittle/loose nails, eyebrow changesRare (less than 0.
-1%): Palmar plantar erythrodysesthesia syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis
-Very common (10% or more): Diarrhea (48 to 54%), nausea (33%), vomiting (23%), stomatitis (17 to 22%), dyspepsia (17%), flatulence (13%), abdominal pain (11%)Common (1% to 10%): Gastrointestinal bleedingUncommon (0.
-1% to 1%): Gastrointestinal perforations
-Common (1% to 10%): Liver function test abnormalities (including elevated ALT, AST, bilirubin)Rare (less than 0.
-1%): Hepatic failure and hepatorenal syndrome (including fatalities)
+Very common ( or more): Dyspnea , cough (Up to )Common ( to ): Epistaxis, interstitial lung disease
+Very common ( or more): Rash ( to ), alopecia , pruritus , dry skin Common ( to ): Acne, dermatitis acneiform, folliculitis, skin fissures, paronychiaUncommon ( to ): Hyperpigmentation, hirsutism, brittle/loose nails, eyebrow changesRare (less than ): Palmar plantar erythrodysesthesia syndrome, Stevens-Johnson syndrome, toxic epidermal necrolysis
+Very common ( or more): Diarrhea ( to ), nausea , vomiting , stomatitis ( to ), dyspepsia , flatulence , abdominal pain Common ( to ): Gastrointestinal bleedingUncommon ( to ): Gastrointestinal perforations
+Common ( to ): Liver function test abnormalities (including elevated ALT, AST, bilirubin)Rare (less than ): Hepatic failure and hepatorenal syndrome (including fatalities)
 These elevations were mostly transient or associated with liver metastases.
 A pharmacokinetic study in patients with advanced solid tumors and moderate hepatic impairment according to the Child-Pugh criteria has been reported.
-In this study, 10 of the 15 patients died on treatment or within 30 days of the last dose.
+In this study,  of the  patients died on treatment or within  days of the last dose.
 Eight of these patients died from progressive disease, one patient died from hepatorenal syndrome, and one patient died from rapidly progressing liver failure.
-Six out of the 10 patients who died had baseline total bilirubin greater than 3 times the upper limit of normal suggesting severe, rather than moderate, hepatic impairment.
+Six out of the  patients who died had baseline total bilirubin greater than  times the upper limit of normal suggesting severe, rather than moderate, hepatic impairment.
 All patients had hepatic impairment due to advanced cancer with liver involvement such as hepatocellular carcinoma, cholangiocarcinoma, or liver metastases.
 The most common side effects included rash, diarrhea, anorexia, dyspnea, cough, fatigue, nausea, and vomiting.
-Very common (10% or more): Infection (24 to 31%)
-Very common (10% or more): Conjunctivitis (12%), keratoconjunctivitis sicca (12%)Common (1% to 10%): KeratitisUncommon (0.
-1% to 1%): Eyelash changesRare (less than 0.
-1%): Corneal ulcerations or perforationsPost-marketing surveillance: Uveitis
-Common (1% to 10%): Renal insufficiencyUncommon (0.
-1% to 1%): Nephritis, proteinuria
-Very common (10% or more): Fatigue (Up to 73%), pyrexia (36%)
-Common (1% to 10%): Myocardial infarction/ischemia, cerebrovascular accident
-Very common (10% or more): Anorexia (52%), weight decreased (39%)
-Very common (10% or more): Rigors (12%)Post-marketing surveillance: Myopathy, including rhabdomyolysis, in combination with statin therapy
-Very common (10% or more): Headache (15%), neuropathy (13%)
-Very common (10% or more): Depression (19%)
+Very common ( or more): Infection ( to )
+Very common ( or more): Conjunctivitis , keratoconjunctivitis sicca Common ( to ): KeratitisUncommon ( to ): Eyelash changesRare (less than ): Corneal ulcerations or perforationsPost-marketing surveillance: Uveitis
+Common ( to ): Renal insufficiencyUncommon ( to ): Nephritis, proteinuria
+Very common ( or more): Fatigue (Up to ), pyrexia 
+Common ( to ): Myocardial infarction/ischemia, cerebrovascular accident
+Very common ( or more): Anorexia , weight decreased 
+Very common ( or more): Rigors Post-marketing surveillance: Myopathy, including rhabdomyolysis, in combination with statin therapy
+Very common ( or more): Headache , neuropathy 
+Very common ( or more): Depression 
 It is possible that some side effects of Tarceva may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

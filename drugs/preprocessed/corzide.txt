@@ -1,19 +1,12 @@
 If any of the following symptoms of overdose occur while taking bendroflumethiazide / nadolol, get emergency help immediately:
-Bendroflumethiazide:Frequency not reported: Necrotizing angiitis, vasculitis, orthostatic hypotensionNadolol:Common (1% to 10%): Heart rate less than 40 beats per minute (bpm), symptoms of peripheral vascular insufficiency, cardiac failure, hypotension, rhythm/conduction disturbancesFrequency not reported: Heart rate less than 60 bpm, first degree heart block, third degree heart block
-Bendroflumethiazide:Frequency not reported: Dizziness, vertigo, paresthesia, headacheNadolol:Common (1% to 10%): Dizziness/fatigueUncommon (0.
-1% to 1%): Paresthesias, sedation, headache, tinnitus, slurred speech
-Bendroflumethiazide:Frequency not reported: Nausea, vomiting, cramping, diarrhea, constipation, gastric irritation, abdominal bloating, sialadenitis, pancreatitisNadolol:Uncommon (0.
-1% to 1%): Nausea, diarrhea, abdominal discomfort, constipation, vomiting, indigestion, bloating, flatulence, dry mouth
-Bendroflumethiazide:Frequency not reported: Purpura, exfoliative dermatitis, pruritus, ecchymosis, urticaria, cutaneous vasculitis, photosensitivity, rashNadolol:Uncommon (0.
-1% to 1%): Rash, pruritus, dry skin, sweating, facial swellingFrequency not reported: Reversible alopecia
-Bendroflumethiazide:Frequency not reported: Respiratory distress, pneumonitisNadolol:Uncommon (0.
-1% to 1%): Bronchospasm, cough, nasal stuffiness
-Bendroflumethiazide:Frequency not reported: Anorexia, hyperglycemia, metabolic acidosis, hyperuricemiaNadolol:Uncommon (0.
-1% to 1%): Anorexia, weight gain
-Bendroflumethiazide:Frequency not reported: Xanthopsia, transient blurred visionNadolol:Uncommon (0.
-1% to 1%): Dry eyes, blurred vision
-Bendroflumethiazide:Frequency not reported: RestlessnessNadolol:Uncommon (0.
-1% to 1%): Change in behavior, impotence or decreased libido
+Bendroflumethiazide:Frequency not reported: Necrotizing angiitis, vasculitis, orthostatic hypotensionNadolol:Common ( to ): Heart rate less than  beats per minute (bpm), symptoms of peripheral vascular insufficiency, cardiac failure, hypotension, rhythm/conduction disturbancesFrequency not reported: Heart rate less than  bpm, first degree heart block, third degree heart block
+Bendroflumethiazide:Frequency not reported: Dizziness, vertigo, paresthesia, headacheNadolol:Common ( to ): Dizziness/fatigueUncommon ( to ): Paresthesias, sedation, headache, tinnitus, slurred speech
+Bendroflumethiazide:Frequency not reported: Nausea, vomiting, cramping, diarrhea, constipation, gastric irritation, abdominal bloating, sialadenitis, pancreatitisNadolol:Uncommon ( to ): Nausea, diarrhea, abdominal discomfort, constipation, vomiting, indigestion, bloating, flatulence, dry mouth
+Bendroflumethiazide:Frequency not reported: Purpura, exfoliative dermatitis, pruritus, ecchymosis, urticaria, cutaneous vasculitis, photosensitivity, rashNadolol:Uncommon ( to ): Rash, pruritus, dry skin, sweating, facial swellingFrequency not reported: Reversible alopecia
+Bendroflumethiazide:Frequency not reported: Respiratory distress, pneumonitisNadolol:Uncommon ( to ): Bronchospasm, cough, nasal stuffiness
+Bendroflumethiazide:Frequency not reported: Anorexia, hyperglycemia, metabolic acidosis, hyperuricemiaNadolol:Uncommon ( to ): Anorexia, weight gain
+Bendroflumethiazide:Frequency not reported: Xanthopsia, transient blurred visionNadolol:Uncommon ( to ): Dry eyes, blurred vision
+Bendroflumethiazide:Frequency not reported: RestlessnessNadolol:Uncommon ( to ): Change in behavior, impotence or decreased libido
 Bendroflumethiazide:Frequency not reported: Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia, aplastic anemia
 Bendroflumethiazide:Frequency not reported: Intrahepatic cholestatic jaundice, hepatitis
 Bendroflumethiazide:Frequency not reported: Anaphylactic reactions, allergic glomerulonephritis

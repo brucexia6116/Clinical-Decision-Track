@@ -5,30 +5,22 @@ Frequency not reported: Nephrotoxicity, elevated serum creatinine, albuminuria, 
 Such renal function changes were usually reversible when the drug was discontinued.
 Predisposing factors have included advanced age, preexisting renal insufficiency, dehydration, and concomitant use of other potentially nephrotoxic drugs.
 One study has shown that hyperbilirubinemia in patients with biliary obstruction may also be a predisposing factor to aminoglycoside nephrotoxicity.
-In one prospective, nonrandomized study, patients developed nephrotoxicity in 25% of amikacin courses.
-Rare (less than 0.
-1%): Headache, paresthesia, tremorFrequency not reported: Neurotoxicity, ototoxicity (including vestibular and permanent bilateral auditory ototoxicity), neuromuscular blockade, toxic effects on the eighth cranial nerve, hearing loss, loss of balance, cochlear damage, high frequency deafness, total or partial irreversible bilateral deafness, acute muscular paralysis due to neuromuscular blockade, numbness, skin tingling, muscle twitching, convulsions, dizziness, vertigo, tinnitus, roaring in the ears
+In one prospective, nonrandomized study, patients developed nephrotoxicity in  of amikacin courses.
+Rare (less than ): Headache, paresthesia, tremorFrequency not reported: Neurotoxicity, ototoxicity (including vestibular and permanent bilateral auditory ototoxicity), neuromuscular blockade, toxic effects on the eighth cranial nerve, hearing loss, loss of balance, cochlear damage, high frequency deafness, total or partial irreversible bilateral deafness, acute muscular paralysis due to neuromuscular blockade, numbness, skin tingling, muscle twitching, convulsions, dizziness, vertigo, tinnitus, roaring in the ears
 Ototoxicity may be irreversible and usually includes loss of auditory function secondary to cochlear hair cell damage.
 Damage may also be vestibular.
 High frequency deafness usually occurs before hearing loss can be detected.
 Hearing loss may be permanent.
 Rare neurologic side effects have included neuromuscular blockade, particularly in patients who are predisposed, including patients with myasthenia gravis, hypocalcemia, and patients on concomitant neuromuscular blocking agents.
-A case of irreversible sensorineural hearing loss has been reported in a patient with diabetic end stage renal disease, after using an amikacin-heparin lock for 16 weeks (25 mg amikacin three times a week).
+A case of irreversible sensorineural hearing loss has been reported in a patient with diabetic end stage renal disease, after using an amikacin-heparin lock for  weeks ( mg amikacin three times a week).
 Frequency not reported: Respiratory paralysis/apnea due to neuromuscular blockade
-Rare (less than 0.
-1%): Arthralgia
-Rare (less than 0.
-1%): Nausea, vomiting
-Rare (less than 0.
-1%): Anemia, eosinophilia
-Rare (less than 0.
-1%): HypotensionFrequency not reported: Hypersensitivity myocarditis
-Rare (less than 0.
-1%): Skin rash, pruritus, exfoliative dermatitis
-Rare (less than 0.
-1%): Fever, drug fever
-Rare (less than 0.
-1%): Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome (at least 1 case)
+Rare (less than ): Arthralgia
+Rare (less than ): Nausea, vomiting
+Rare (less than ): Anemia, eosinophilia
+Rare (less than ): HypotensionFrequency not reported: Hypersensitivity myocarditis
+Rare (less than ): Skin rash, pruritus, exfoliative dermatitis
+Rare (less than ): Fever, drug fever
+Rare (less than ): Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome (at least  case)
 Frequency not reported: Elevations in liver function tests (clinical significance unknown)
 Agitation
 black, tarry stools

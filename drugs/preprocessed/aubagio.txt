@@ -2,28 +2,21 @@ Common side effects of Aubagio include: alopecia, decreased neutrophils, decreas
 Other side effects include: cystitis, increased gamma-glutamyl transferase, neutropenia, hypertension, and viral gastroenteritis.
 See below for a comprehensive list of adverse effects.
 The most commonly reported side effects were increased ALT, alopecia, diarrhea, influenza, nausea and paresthesia.
-Common (1% to 10%): Neutropenia, leukopenia, decreased neutrophil count, decreased WBC countUncommon (0.
-1% to 1%): Anemia, mild thrombocytopenia, lymphopeniaFrequency not reported: Decreased platelet count
-Very common (10% or more): Increased ALT levels (up to 14%)Common (1% to 10%): Increased AST and GGT levelsFrequency not reported: Fatal liver failure and dysfunction, hepatotoxicity
-Common (1% to 10%): Hypertension, palpitations, tachycardia
-Very common (10% or more): Alopecia (up to 13%)Common (1% to 10%): Acne, pruritus, tinea pedis, rashUncommon (0.
-1% to 1%): Generalized pruritusFrequency not reported: Stevens-Johnson syndrome, toxic epidermal necrolysis
-Very common (10% or more): Diarrhea (Up to 18%), nausea (up to 14%)Common (1% to 10%): Upper abdominal pain, toothache, tooth infection, oral herpes, viral gastroenteritis, abdominal distention, vomiting, inguinal herniaVery rare (less than 0.
-01%): Pancreatitis
-Very common (10% or more): Urinary tract infectionCommon (1% to 10%): Cystitis, menorrhagia
-Very common (10% or more): InfluenzaCommon (1% to 10%): Seasonal allergy, oral herpes, mild allergic reactionsFrequency not reported: Bone marrow effects/Immunosuppression potential/Infections
-Very common (10% or more): HypophosphatemiaCommon (1% to 10%): Decreased weight, hyperkalemiaUncommon (0.
-1% to 1%): Hyperamylasemia
-Common (1% to 10%): Musculoskeletal pain, myalgia
-Very common (10% or more): Headache (up to 22%), paresthesia (up to 10%)Common (1% to 10%): Sciatica, burning sensation, carpal tunnel syndrome, peripheral neuropathy (both polyneuropathy and mononeuropathy), multiple sclerosis, neuralgia, hyperesthesiaUncommon (0.
-1% to 1%): Dysgeusia
-Common (1% to 10%): Blurred vision, conjunctivitis
-Common (1% to 10%): Anxiety, depression
-Very common (10% or more): Influenza (up to 12%)Common (1% to 10%): Upper respiratory infection, lower respiratory tract infection, bronchitis, sinusitis, laryngitis, pharyngitisVery rare (less than 0.
-01%): Interstitial lung disease
-Common (1% to 10%): Transient acute renal failure, pollakiuriaUncommon (0.
-1% to 1%): Increased blood creatinine
-Common (1% to 10%): Pain
+Common ( to ): Neutropenia, leukopenia, decreased neutrophil count, decreased WBC countUncommon ( to ): Anemia, mild thrombocytopenia, lymphopeniaFrequency not reported: Decreased platelet count
+Very common ( or more): Increased ALT levels (up to )Common ( to ): Increased AST and GGT levelsFrequency not reported: Fatal liver failure and dysfunction, hepatotoxicity
+Common ( to ): Hypertension, palpitations, tachycardia
+Very common ( or more): Alopecia (up to )Common ( to ): Acne, pruritus, tinea pedis, rashUncommon ( to ): Generalized pruritusFrequency not reported: Stevens-Johnson syndrome, toxic epidermal necrolysis
+Very common ( or more): Diarrhea (Up to ), nausea (up to )Common ( to ): Upper abdominal pain, toothache, tooth infection, oral herpes, viral gastroenteritis, abdominal distention, vomiting, inguinal herniaVery rare (less than ): Pancreatitis
+Very common ( or more): Urinary tract infectionCommon ( to ): Cystitis, menorrhagia
+Very common ( or more): InfluenzaCommon ( to ): Seasonal allergy, oral herpes, mild allergic reactionsFrequency not reported: Bone marrow effects/Immunosuppression potential/Infections
+Very common ( or more): HypophosphatemiaCommon ( to ): Decreased weight, hyperkalemiaUncommon ( to ): Hyperamylasemia
+Common ( to ): Musculoskeletal pain, myalgia
+Very common ( or more): Headache (up to ), paresthesia (up to )Common ( to ): Sciatica, burning sensation, carpal tunnel syndrome, peripheral neuropathy (both polyneuropathy and mononeuropathy), multiple sclerosis, neuralgia, hyperesthesiaUncommon ( to ): Dysgeusia
+Common ( to ): Blurred vision, conjunctivitis
+Common ( to ): Anxiety, depression
+Very common ( or more): Influenza (up to )Common ( to ): Upper respiratory infection, lower respiratory tract infection, bronchitis, sinusitis, laryngitis, pharyngitisVery rare (less than ): Interstitial lung disease
+Common ( to ): Transient acute renal failure, pollakiuriaUncommon ( to ): Increased blood creatinine
+Common ( to ): Pain
 Body aches or pain
 burning, crawling, itching, numbness, prickling, "pins and needles", or tingling feelings
 chills

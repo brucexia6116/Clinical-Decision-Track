@@ -5,10 +5,10 @@ Some bathroom cleaning products will produce a similar effect when in contact wi
 This is to be expected during treatment with this medicine.
 Also, this medicine may cause a bitter taste, or a burning sensation of the tongue.
 Although the optimal timing of the initiation of levodopa therapy is controversial, some investigators have suggested that early treatment of parkinsonism with levodopa delays disease progression and decreases mortality.
-Nervous system side effects most frequently reported have included involuntary movements and mental status changes (in as many as 50% of treated patients on long-term therapy).
+Nervous system side effects most frequently reported have included involuntary movements and mental status changes (in as many as  of treated patients on long-term therapy).
 The types of involuntary movements due to levodopa have been characterized as choreiform, dystonic and dyskinetic.
 Fluctuations in motor function occur frequently and often increase as the duration of therapy increases.
-Choreiform movements due to levodopa therapy may occur in as many as 80% of patients treated for one year and frequently involve facial grimacing, exaggerated chewing, and twisting and protrusion of the tongue.
+Choreiform movements due to levodopa therapy may occur in as many as  of patients treated for one year and frequently involve facial grimacing, exaggerated chewing, and twisting and protrusion of the tongue.
 Several types of motor fluctuations may occur and result in "bradykinetic episodes".
 Some motor fluctuations are related to the timing of dosage administration.
 For example, patients may experience "peak of the dose dyskinesia" and a wearing-off effect called "end of the dose akinesia".
@@ -32,7 +32,7 @@ Some authors have suggested that clozapine may be useful in the management of le
 Other investigators have suggested that levodopa may induce alterations in the noradrenergic systems of the CNS which may lead to panic attacks.
 Psychiatric side effects have included hallucinations (particularly visual hallucinations), psychosis, confusion, anxiety, mania, hypomania, depression, rapid mood cycling, nightmares, and hypersexuality.
 Fever, altered consciousness, autonomic dysfunction and muscle rigidity are the hallmarks of the neuroleptic malignant syndrome.
-The neuroleptic malignant syndrome (NMS) is associated with a case fatality rate of about 20%.
+The neuroleptic malignant syndrome (NMS) is associated with a case fatality rate of about .
 If withdrawal of dopaminergic therapy is suspected as the cause of NMS, dopaminergic therapy should be restarted.
 If a neuroleptic agent is suspected as the cause, the neuroleptic agent should be immediately discontinued.
 For patients with NMS suspected to be due to neuroleptic therapy, consideration should be given to dantrolene (or bromocriptine) administration.

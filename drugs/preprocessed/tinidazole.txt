@@ -1,52 +1,32 @@
 More frequently reported side effects include: nausea, bitter taste, and metallic taste.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, tinidazole may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking tinidazole, check with your doctor immediately:
 Some tinidazole side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Gastrointestinal side effects have included metallic/bitter taste (3.
-7% following a 2 g single dose and 6.
-3% following multi-day dosing), nausea (3.
-2% following a 2 g single dose and 4.
-5% following multi-day dosing), anorexia (1.
-5% following a 2 g single dose and 2.
-5% following multi-day dosing), dyspepsia/cramps/epigastric discomfort (1.
-8% following a 2 g single dose and 1.
-4% following multi-day dosing), vomiting (1.
-5% following a 2 g single dose and 0.
-9% following multi-day dosing), constipation (0.
-4% following a 2 g single dose and 1.
-4% following multi-day dosing), tongue discoloration, stomatitis, diarrhea, decreased appetite, and flatulence.
+Gastrointestinal side effects have included metallic/bitter taste ( following a  g single dose and  following multi-day dosing), nausea ( following a  g single dose and  following multi-day dosing), anorexia ( following a  g single dose and  following multi-day dosing), dyspepsia/cramps/epigastric discomfort ( following a  g single dose and  following multi-day dosing), vomiting ( following a  g single dose and  following multi-day dosing), constipation ( following a  g single dose and  following multi-day dosing), tongue discoloration, stomatitis, diarrhea, decreased appetite, and flatulence.
 Furry tongue and pharyngitis have been reported rarely.
-Nervous system side effects have included weakness/fatigue/malaise (2.
-1% following 2 g single dose and 1.
-1% following multi-day dosing), dizziness (1.
-1% following 2 g single dose and 0.
-5% following multi-day dosing), convulsions, transient peripheral neuropathy (including numbness and paresthesia), vertigo, ataxia, giddiness, insomnia, and drowsiness.
+Nervous system side effects have included weakness/fatigue/malaise ( following  g single dose and  following multi-day dosing), dizziness ( following  g single dose and  following multi-day dosing), convulsions, transient peripheral neuropathy (including numbness and paresthesia), vertigo, ataxia, giddiness, insomnia, and drowsiness.
 Oncologic side effects have included mutagenicity in animal studies.
 Tinidazole has tested positive for genotoxicity in in vivo studies.
 Hepatic side effects have included raised transaminase levels and at least one case report of possible hepatitis.
-A possible case of hepatitis was reported in a 4-year-old girl after receiving tinidazole 625 mg orally as a single dose treatment for Giardia.
-The patient returned to the clinic 6 days following tinidazole therapy with concerns of a 3-day history of progressive ankle swelling.
-Upon examination she was found to have a 3 g weight gain, marked edema of legs (up to knees), periorbital edema, abdominal distension, ejection flow murmur, liver palpable 6 cm below right coastal margin, no palpable spleen, and clinical evidence of ascites.
-Laboratory results, upon this admission, were hemoglobin 112 g/L, white cell count 5.
-2 x 10(9)/L, ESR 14 mm in one hour, sodium 145 mmol/L, potassium 2.
-6 mmol/L, urea 2.
-2 mmol/L, total protein 55 g/L, albumin 31 g/L, bilirubin 8 micromoles/L, gamma-glutamyltransferase (GGT) 50 units/L, aspartate aminotransferase (AST) 231 units/L, and creatine phosphokinase 1498 units/L.
+A possible case of hepatitis was reported in a -year-old girl after receiving tinidazole  mg orally as a single dose treatment for Giardia.
+The patient returned to the clinic  days following tinidazole therapy with concerns of a -day history of progressive ankle swelling.
+Upon examination she was found to have a  g weight gain, marked edema of legs (up to knees), periorbital edema, abdominal distension, ejection flow murmur, liver palpable  cm below right coastal margin, no palpable spleen, and clinical evidence of ascites.
+Laboratory results, upon this admission, were hemoglobin  g/L, white cell count  x /L, ESR  mm in one hour, sodium  mmol/L, potassium  mmol/L, urea  mmol/L, total protein  g/L, albumin  g/L, bilirubin  micromoles/L, gamma-glutamyltransferase (GGT)  units/L, aspartate aminotransferase (AST)  units/L, and creatine phosphokinase  units/L.
 A chest X-ray, abdominal X-ray, and electrocardiogram showed no abnormalities.
 Tests for hepatitis A, hepatitis B, leptospirosis, cytomegalovirus, and Epstein-Barr virus were all negative.
 The patient's parents denied any known contact with infectious hepatitis.
 The patient was treated with potassium and spironolactone.
 The patient never became jaundiced.
-Two weeks later, all serum electrolyte levels and laboratory tests had returned to normal values, edema was absent, liver was palpable 2 cm below right costal margin, and the spleen could just be felt.
+Two weeks later, all serum electrolyte levels and laboratory tests had returned to normal values, edema was absent, liver was palpable  cm below right costal margin, and the spleen could just be felt.
 Musculoskeletal side effects have included arthralgias, myalgias, and arthritis.
 Hypersensitivity side effects have included urticaria, pruritus, rash, flushing, sweating, dryness of mouth, fever, burning sensation, thirst, salivation, and angioedema.
 Severe acute hypersensitivity reactions (including urticaria, pruritus, angioedema, Stevens-Johnson syndrome, and erythema multiforme) during initial or subsequent tinidazole exposure have been reported during postmarketing experience.
 Ten patients were reported to have hypersensitivity reactions occurring on the same day of oral tinidazole administration.
-Nine patients were adults receiving 2 g as a single-dose.
-One patient was a 5-year-old girl receiving 500 mg as a single-dose.
+Nine patients were adults receiving  g as a single-dose.
+One patient was a -year-old girl receiving  mg as a single-dose.
 Nine reactions were severe and atropine was administered as part of the treatment.
 The reactions were characterized by urticaria; facial, periorbital, or laryngeal edema; hypotension; bronchospasm; and dyspnea.
 All patients recovered without further incidence.
@@ -61,23 +41,20 @@ Genitourinary side effects have included increased vaginal discharge, urinary tr
 Respiratory side effects have included upper respiratory tract infection.
 Bronchospasm and dyspnea have been reported rarely.
 Psychiatric sides effects have included rare reports of depression.
-Other side effects have included headache (1.
-3% following a 2 g single dose and 0.
-7% following multi-day dosing), Candida overgrowth, oral candidiasis, and pelvic pain.
+Other side effects have included headache ( following a  g single dose and  following multi-day dosing), Candida overgrowth, oral candidiasis, and pelvic pain.
 Confusion and coma have been reported rarely.
-In a study involving 450 patients with fixed drug eruptions, 8 patients were found to have oral tinidazole as the probable causative agent.
+In a study involving  patients with fixed drug eruptions,  patients were found to have oral tinidazole as the probable causative agent.
 The fixed drug eruptions varied as to duration, shape and size, symptoms, number of lesions, and body site(s) affected.
 The study did not break these factors down for each individual causative agent.
 Dermatologic side effects have included reports of fixed drug eruption.
-A 44-year-old man experienced a severe toxic reaction following administration of tinidazole 1600 mg intravenously over 80 minutes.
-Within 15 minutes following end of the infusion he fainted and was unconscious for about 10 seconds.
+A -year-old man experienced a severe toxic reaction following administration of tinidazole  mg intravenously over  minutes.
+Within  minutes following end of the infusion he fainted and was unconscious for about  seconds.
 The patient experienced some spasms of his left arm, without generalized convulsions, while resuming consciousness.
 Pharmacologic treatment was not necessary during or following the attack.
 Low blood pressure, intense nausea, sleepiness, and exhaustion followed the attack and lasted for several hours.
-The patient's condition gradually improved and he was completely recovered 6 hours after start of attack.
-Blood samples following infusion showed serum tinidazole level of 35.
-4 mg/L, normal immunoglobulin E level, and a transient fall in the concentration of complement factor C3.
-General side effects have included severe toxic reaction (1 case report) following intravenous administration of tinidazole.
+The patient's condition gradually improved and he was completely recovered  hours after start of attack.
+Blood samples following infusion showed serum tinidazole level of  mg/L, normal immunoglobulin E level, and a transient fall in the concentration of complement factor C
+General side effects have included severe toxic reaction ( case report) following intravenous administration of tinidazole.
 It is possible that some side effects of tinidazole may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

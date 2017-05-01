@@ -4,18 +4,14 @@ The most common adverse events were anaphylactoid reaction, nausea, vomiting, fl
 Anaphylactoid symptoms include airway obstruction (bronchospasm), angioedema, dyspnea, hypotension, shock, tachycardia, urticaria, and injection site reaction (including rash).
 These are most common either during, or at the end of the loading dose infusion, and may be dose related.
 Careful monitoring is recommended.
-Very common (10% or more): Anaphylactoid reaction (18%)Uncommon (0.
-1% to 1%): AnaphylaxisRare (less than 0.
-1%): Acquired sensitizationFrequency not reported: Dermal eruptions
-Very common (10% or more): Vomiting NOS (12%)Common (1% to 10%): Nausea Frequency not reported: Stomatitis
-Common (1% to 10%): Respiratory symptoms, pharyngitis, rhinorrhea, rhonchi, throat tightnessFrequency not reported: Bronchoconstriction, bronchospasm, irritation to tracheal and bronchial tract (inhalation route), hemoptysis, dyspnea, respiratory arrest, coughing, stridor
+Very common ( or more): Anaphylactoid reaction Uncommon ( to ): AnaphylaxisRare (less than ): Acquired sensitizationFrequency not reported: Dermal eruptions
+Very common ( or more): Vomiting NOS Common ( to ): Nausea Frequency not reported: Stomatitis
+Common ( to ): Respiratory symptoms, pharyngitis, rhinorrhea, rhonchi, throat tightnessFrequency not reported: Bronchoconstriction, bronchospasm, irritation to tracheal and bronchial tract (inhalation route), hemoptysis, dyspnea, respiratory arrest, coughing, stridor
 Respiratory symptoms were defined as presence of any of the following: cough, wheezing, stridor, shortness of breath, chest tightness, respiratory distress, or bronchospasm.
-Common (1% to 10%): TachycardiaUncommon (0.
-1% to 1%): HypotensionFrequency not reported: Cyanosis, tachycardia, bradycardia, cardiac arrest, extrasystoles, flushing, hypertension, vasodilation, ECG changes
-Common (1% to 10%): Urticaria/facial flushing, rash NOS, pruritus, flushingFrequency not reported: Angioedema, sweating, edema periorbital, clamminess
-Common (1% to 10%): EdemaFrequency not reported: Acidosis, hypokalemia
-Rare (less than 0.
-1%): DeathFrequency not reported: Fever, malaise, rigors, chest pain, facial pain, facial edema, raised temperature
+Common ( to ): TachycardiaUncommon ( to ): HypotensionFrequency not reported: Cyanosis, tachycardia, bradycardia, cardiac arrest, extrasystoles, flushing, hypertension, vasodilation, ECG changes
+Common ( to ): Urticaria/facial flushing, rash NOS, pruritus, flushingFrequency not reported: Angioedema, sweating, edema periorbital, clamminess
+Common ( to ): EdemaFrequency not reported: Acidosis, hypokalemia
+Rare (less than ): DeathFrequency not reported: Fever, malaise, rigors, chest pain, facial pain, facial edema, raised temperature
 Frequency not reported: Syncope, generalized seizure, drowsiness
 Frequency not reported: Injection site reaction
 Frequency not reported: Arthralgia, arthropathy

@@ -1,40 +1,18 @@
 More frequently reported side effects include: drowsiness, fatigue, and nasopharyngitis.
 See below for a comprehensive list of adverse effects.
-The most frequently reported side effects were: somnolence, nasopharyngitis, fatigue, dry mouth, and pharyngitis (in 12 years and older); pyrexia, somnolence, cough, and epistaxis (in patients 6 to 12 years); pyrexia, diarrhea, vomiting, and otitis media (in patients 1 to 5 years); diarrhea and constipation (in patients 6 to 11 months).
-Common (1% to 10%): Somnolence, dizziness, headacheUncommon (0.
-1% to 1%): Paresthesia, syncopeRare (0.
-01% to 0.
-1%): Convulsion, movement disorderVery rare (less than 0.
-01%): Dysgeusia, tremor, dystonia, dyskinesiaFrequency not reported: Orofacial dyskinesia, myoclonus, extrapyramidal symptoms
-Very rare (less than 0.
-01%): Accommodation disorder, vision blurred, oculogyrationPostmarketing reports: Visual disturbance
-Common (1% to 10%): Nasopharyngitis, pharyngitis, cough, epistaxis, rhinitisPostmarketing reports: Dyspnea
-Common (1% to 10%): Dry mouth, diarrhea, vomiting, constipation, abdominal painPostmarketing reports: Nausea
-Common (1% to 10%): Fatigue, pyrexia, otitis mediaUncommon (0.
-1% to 1%): Weight increased, asthenia, malaiseRare (less than 0.
-1%): EdemaFrequency not reported: StillbirthPostmarketing reports: Vertigo
-Uncommon (0.
-1% to 1%): AgitationRare (0.
-01% to 0.
-1%): Aggression, confusion, depression, hallucination, insomniaVery rare (less than 0.
-01%): Tic, enuresisPostmarketing reports: Suicidal ideation
-Very rare (less than 0.
-01%): DysuriaPostmarketing reports: Urinary retention
-Rare (less than 0.
-1%): TachycardiaFrequency not reported: Severe hypotensionPostmarketing reports: Palpitation
-Uncommon (0.
-1% to 1%): Pruritus, rashRare (0.
-01% to 0.
-1%): UrticariaVery rare (less than 0.
-01%): Angioedema, fixed drug eruptionFrequency not reported: Acute generalized exanthematous pustulosis
-Rare (less than 0.
-1%): Hepatic function abnormal, transaminases increased, bilirubin increasedFrequency not reported: CholestasisPostmarketing reports: Hepatitis
-Very rare (less than 0.
-01%): Thrombocytopenia
-Rare (0.
-01% to 0.
-1%): HypersensitivityVery rare (less than 0.
-01%): Anaphylactic shock
+The most frequently reported side effects were: somnolence, nasopharyngitis, fatigue, dry mouth, and pharyngitis (in  years and older); pyrexia, somnolence, cough, and epistaxis (in patients  to  years); pyrexia, diarrhea, vomiting, and otitis media (in patients  to  years); diarrhea and constipation (in patients  to  months).
+Common ( to ): Somnolence, dizziness, headacheUncommon ( to ): Paresthesia, syncopeRare ( to ): Convulsion, movement disorderVery rare (less than ): Dysgeusia, tremor, dystonia, dyskinesiaFrequency not reported: Orofacial dyskinesia, myoclonus, extrapyramidal symptoms
+Very rare (less than ): Accommodation disorder, vision blurred, oculogyrationPostmarketing reports: Visual disturbance
+Common ( to ): Nasopharyngitis, pharyngitis, cough, epistaxis, rhinitisPostmarketing reports: Dyspnea
+Common ( to ): Dry mouth, diarrhea, vomiting, constipation, abdominal painPostmarketing reports: Nausea
+Common ( to ): Fatigue, pyrexia, otitis mediaUncommon ( to ): Weight increased, asthenia, malaiseRare (less than ): EdemaFrequency not reported: StillbirthPostmarketing reports: Vertigo
+Uncommon ( to ): AgitationRare ( to ): Aggression, confusion, depression, hallucination, insomniaVery rare (less than ): Tic, enuresisPostmarketing reports: Suicidal ideation
+Very rare (less than ): DysuriaPostmarketing reports: Urinary retention
+Rare (less than ): TachycardiaFrequency not reported: Severe hypotensionPostmarketing reports: Palpitation
+Uncommon ( to ): Pruritus, rashRare ( to ): UrticariaVery rare (less than ): Angioedema, fixed drug eruptionFrequency not reported: Acute generalized exanthematous pustulosis
+Rare (less than ): Hepatic function abnormal, transaminases increased, bilirubin increasedFrequency not reported: CholestasisPostmarketing reports: Hepatitis
+Very rare (less than ): Thrombocytopenia
+Rare ( to ): HypersensitivityVery rare (less than ): Anaphylactic shock
 Frequency not reported: Glomerulonephritis
 Postmarketing reports: Appetite increased
 Postmarketing reports: Myalgia, arthralgia

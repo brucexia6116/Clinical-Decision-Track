@@ -1,22 +1,19 @@
 Commonly reported side effects of cobimetinib include: skin photosensitivity.
 Other side effects include: increased creatine phosphokinase.
 See below for a comprehensive list of adverse effects.
-The most commonly reported adverse reactions (more than 35%) were increased creatinine, increased CPK, lymphopenia, increased AST, increased alkaline phosphatase, increased ALT, hypophosphatemia, anemia, increased gamma-glutamyltransferase, diarrhea, photosensitivity reactions, hypoalbuminemia, nausea, and hyponatremia.
-Very common (10% or more): Increased creatinine (99.
-6%)
-Very common (10% or more): Increased CPK (79%)
-Very common (10% or more): Increased AST (73%), increased alkaline phosphatase (71%), increased ALT (68%), increased gamma-glutamyltransferase (65%)Frequency not reported: Increased total bilirubin
-Very common (10% or more): Lymphopenia (73%), anemia (69%), thrombocytopenia (18%)
-Very common (10% or more): Hypophosphatemia (68%), hypoalbuminemia (42%), hyponatremia (38%), hyperkalemia (26%), hypokalemia (25%), hypocalcemia (24%)
-Very common (10% or more): Diarrhea (60%), nausea (41%), vomiting (24%), stomatitis (14%)
-Very common (10% or more): Photosensitivity reactions (47%), acneiform dermatitis (16%), alopecia (15%), hyperkeratosis (11%), erythema (10%)Frequency not reported: Rash
-Very common (10% or more): Pyrexia (28%), hemorrhage (13%), chills (10%)
+The most commonly reported adverse reactions (more than ) were increased creatinine, increased CPK, lymphopenia, increased AST, increased alkaline phosphatase, increased ALT, hypophosphatemia, anemia, increased gamma-glutamyltransferase, diarrhea, photosensitivity reactions, hypoalbuminemia, nausea, and hyponatremia.
+Very common ( or more): Increased creatinine 
+Very common ( or more): Increased CPK 
+Very common ( or more): Increased AST , increased alkaline phosphatase , increased ALT , increased gamma-glutamyltransferase Frequency not reported: Increased total bilirubin
+Very common ( or more): Lymphopenia , anemia , thrombocytopenia 
+Very common ( or more): Hypophosphatemia , hypoalbuminemia , hyponatremia , hyperkalemia , hypokalemia , hypocalcemia 
+Very common ( or more): Diarrhea , nausea , vomiting , stomatitis 
+Very common ( or more): Photosensitivity reactions , acneiform dermatitis , alopecia , hyperkeratosis , erythema Frequency not reported: Rash
+Very common ( or more): Pyrexia , hemorrhage , chills 
 Reported hemorrhage cases included various types of hemorrhages (rectal, hemorrhoidal, gastrointestinal tract, uterine, vaginal, pulmonary, cerebral, subarachnoid, ocular, eye, conjunctival, retinal; reproductive system); melena, hematemesis; hematochezia; gingival bleeding; metrorrhagia; hemorrhagic ovarian cyst; menometrorrhagia; menorrhagia; hemoptysis; subgaleal hematoma; hematuria; epistaxis; contusion; traumatic hematoma; ecchymosis; purpura; and nail bed bleeding.
-Very common (10% or more): Decreased LVEF (26%), hypertension (15%)
-Very common (10% or more): Serous retinopathy (26%), impaired vision (15%), chorioretinopathy (13%), retinal detachment (12%)Uncommon (0.
-1% to 1%): Retinal vein occlusion
-Common (1% to 10%): Cutaneous squamous cell carcinoma/keratoacanthoma, basal cell carcinomaUncommon (0.
-1% to 1%): Second primary melanoma, non-cutaneous malignancies
+Very common ( or more): Decreased LVEF , hypertension 
+Very common ( or more): Serous retinopathy , impaired vision , chorioretinopathy , retinal detachment Uncommon ( to ): Retinal vein occlusion
+Common ( to ): Cutaneous squamous cell carcinoma/keratoacanthoma, basal cell carcinomaUncommon ( to ): Second primary melanoma, non-cutaneous malignancies
 Abdominal or stomach pain or tenderness
 bleeding gums
 blurred vision or any other change in vision

@@ -28,14 +28,14 @@ Using different formulations together increases the risk of an overdose.
 Do not take topical (for the skin) gotu kola by mouth.
 Topical forms of this product are for use only on the skin.
 Call your doctor if the condition you are treating with gotu kola does not improve, or if it gets worse while using this product.
-If you need surgery, stop taking gotu kola at least 2 weeks ahead of time.
+If you need surgery, stop taking gotu kola at least  weeks ahead of time.
 Store at room temperature away from moisture, heat, and light.
 Skip the missed dose if it is almost time for your next scheduled dose.
 Do not use extra gotu kola to make up the missed dose.
-Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.
+Seek emergency medical attention or call the Poison Help line at ---
 Avoid using gotu kola together with other herbal/health supplements that can also harm the liver.
-This includes androstenedione, chaparral, comfrey, DHEA, germander, niacin (vitamin B3), pennyroyal oil, red yeast, and others.
-Avoid using gotu kola with other herbal products that can cause drowsiness, such as 5-HTP (5-hydroxytryptophan), calamus, California poppy, catnip, Jamaican dogwood, kava, melatonin, St.
+This includes androstenedione, chaparral, comfrey, DHEA, germander, niacin (vitamin B), pennyroyal oil, red yeast, and others.
+Avoid using gotu kola with other herbal products that can cause drowsiness, such as -HTP (-hydroxytryptophan), calamus, California poppy, catnip, Jamaican dogwood, kava, melatonin, St.
 John's wort, scullcap (or skullcap), valerian, or yerba mansa.
 Get emergency medical help if you have any of these signs of an allergic reaction: hives, itching, redness, or burning of your skin; difficulty breathing; swelling of your face, lips, tongue, or throat.
 Stop using gotu kola and call your healthcare provider at once if you have:
@@ -44,7 +44,7 @@ Common side effects may include:
 drowsiness.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at --FDA-
 Taking gotu kola with any medicines that make you sleepy can worsen this effect.
 Ask your healthcare provider before taking gotu kola with medicine for anxiety, depression, or seizures.
 Gotu kola can harm your liver.
@@ -66,11 +66,9 @@ steroids (prednisone and others).
 This list is not complete.
 Other drugs may interact with gotu kola, including prescription and over-the-counter medicines, vitamins, and herbal products.
 Not all possible interactions are listed in this product guide.
-Copyright 1996-2012 Cerner Multum, Inc.
-Version: 4.
-01.
-
-Date modified: April 03, 2017Last reviewed: October 14, 2014
+Copyright - Cerner Multum, Inc.
+Version: .
+Date modified: April , Last reviewed: October , 
 liver disease.
 liver problems--nausea, upper stomach pain, itching, tired feeling, loss of appetite, dark urine, clay-colored stools, jaundice (yellowing of the skin or eyes).
 drowsiness.

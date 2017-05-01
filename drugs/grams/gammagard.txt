@@ -1,0 +1,220 @@
+emergency
+medical help
+signs of an allergic reaction
+taking
+taking immune globulin
+active ingredient
+gammagard
+hives
+wheezing
+difficulty breathing
+dizziness
+feeling
+swelling
+face
+lips
+tongue
+throat
+stop
+medicine
+doctor
+signs of a blood clot in the brain
+sudden numbness
+weakness
+side of the body
+speech
+problems with vision
+balance
+signs of a blood clot in the heart
+lung
+chest pain
+rapid heart rate
+sudden cough
+wheezing
+rapid breathing
+coughing
+blood
+signs of a blood clot
+leg
+pain
+swelling
+warmth
+redness
+legs
+signs of a kidney problem
+swelling
+rapid weight gain
+urinating
+liver problems
+fast heart rate
+dark urine
+jaundice
+yellowing of the skin
+eyes
+lung problems
+chest pain
+trouble breathing
+blue lips
+blue colored appearance
+fingers
+toes
+signs of new infection
+high fever
+flu symptoms
+mouth sores
+severe headache
+neck stiffness
+sensitivity
+light
+nausea
+vomiting
+common side effects
+dizziness, tired feeling;
+sore throat;
+muscle pain
+diarrhea; or
+mild itching
+rash
+complete list of side effects
+others
+doctor for medical advice about side effects
+common adverse events
+headache
+injection/infusion site reactions
+infusion site reaction
+injection site reactionfrequency
+hives/urticaria
+itching
+headache common
+dizzinesspostmarketing reports
+aseptic meningitis
+coma
+loss of consciousness
+seizures/convulsions
+tremor
+ecchymosis/purpura
+petechiae
+rash
+pruritus
+urticariafrequency
+hivespostmarketing reports
+stevens-johnson syndrome
+epidermolysis
+erythema multiforme
+bullous dermatitis
+hemorrhage
+systems
+thrombocytopenia
+anemiauncommon
+coombs
+negative hypochromic anemia
+autoimmune pure red cell aplasia
+exacerbation of autoimmune pure red cell aplasiapostmarketing reports
+hemolytic anemia
+pancytopenia
+leukopenia
+hemolysis
+positive direct antiglobulin
+coombs test
+diarrhea
+nausea
+vomiting
+abdominal pain
+dyspepsia
+cough
+rhinitis
+pharyngitis
+asthma
+influenza
+flu syndrome
+sinusitispostmarketing reports
+apnea
+acute respiratory distress syndrome
+ards
+transfusion
+related acute lung injury
+trali
+cyanosis
+hypoxemia
+pulmonary edema
+dyspnea
+bronchospasm
+hypertensionfrequency
+myocarditispostmarketing reports
+cardiac arrest
+thromboembolism
+vascular collapse
+hypotension
+elevated alt
+alkaline phosphatase
+ast
+low alkaline phosphatasepostmarketing reports
+hepatic dysfunction
+fever
+ear pain
+accidental injury
+asthenia common
+fatiguepostmarketing reports
+rigors
+arthralgia
+pain
+neck painuncommon
+severe chills
+frequency
+anxiety
+signs of a blood clot in the brain
+sudden numbness
+weakness
+side of the body
+speech
+problems with vision
+balance
+signs of a blood clot in the heart
+lung
+chest pain
+rapid heart rate
+sudden cough
+wheezing
+rapid breathing
+coughing
+blood
+signs of a blood clot
+leg
+pain
+swelling
+warmth
+redness
+legs
+signs of a kidney problem
+swelling
+rapid weight gain
+urinating
+liver problems
+fast heart rate
+dark urine
+jaundice
+yellowing of the skin
+eyes
+lung problems
+chest pain
+trouble breathing
+blue lips
+blue colored appearance
+fingers
+toes
+signs of new infection
+high fever
+flu symptoms
+mouth sores
+severe headache
+neck stiffness
+sensitivity
+light
+nausea
+vomiting
+dizziness, tired feeling;
+sore throat;
+muscle pain
+diarrhea; or
+mild itching
+rash

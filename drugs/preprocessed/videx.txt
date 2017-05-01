@@ -1,26 +1,25 @@
 More frequent side effects include: pancreatitis.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, didanosine (the active ingredient contained in Videx) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking didanosine, check with your doctor immediately:
 Some didanosine side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 The adverse effects of didanosine (the active ingredient contained in Videx) are sometimes difficult to distinguish from the symptomatology observed during the clinical course of AIDS, as well as from the possible adverse effects of other drugs used in the treatment of HIV infection.
-During the Expanded Access Program (EAP), adverse effects resulted in drug discontinuation in 42% of patients with AIDS and 34% of patients with ARC.
+During the Expanded Access Program (EAP), adverse effects resulted in drug discontinuation in  of patients with AIDS and  of patients with ARC.
 When didanosine is used in combination with other agents with similar toxicities, the incidence of these toxicities may be higher than when didanosine is used alone.
 Patients treated with didanosine in combination with stavudine, with or without hydroxyurea, may be at an increased risk for pancreatitis and hepatotoxicity, which may be fatal, and severe peripheral neuropathy.
 Many of the side effects associated with nucleoside reverse transcriptase inhibitor therapy (myopathy, pancreatitis, liver failure, lactic acidosis, etc.
 ) are attributable to their direct toxic effect on mitochondria which causes decreased mitochondrial energy-generating capacity.
 Patients with renal dysfunction may be at increased risk of toxicity due to decreased clearance of didanosine.
-Gastrointestinal side effects have included diarrhea (up to 70%), nausea (up to 53%), vomiting (30%), elevated lipase (Grades 3 to 4: up to 8%; all Grades: up to 26%), abdominal pain (up to 13%), and pancreatitis (up to 7%).
+Gastrointestinal side effects have included diarrhea (up to ), nausea (up to ), vomiting , elevated lipase (Grades  to : up to ; all Grades: up to ), abdominal pain (up to ), and pancreatitis (up to ).
 Pancreatitis resulting in death has been reported during clinical trials of didanosine (the active ingredient contained in Videx) in combination with other antiretroviral agents.
-During the EAP in which patients received clinically recommended dosages, the incidence at 5 months for pancreatitis, increased amylase, or abdominal pain was 5% to 8%.
+During the EAP in which patients received clinically recommended dosages, the incidence at  months for pancreatitis, increased amylase, or abdominal pain was  to .
 Anorexia, dyspepsia, flatulence, pancreatitis (including fatal cases), dry mouth, sialoadenitis, and parotid gland enlargement have been reported during postmarketing experience.
 The frequency of pancreatitis is dose related.
-In phase 3 trials with buffered formulations, incidence ranged from 1% to 10% with doses higher than currently recommended and 1% to 7% with recommended doses.
-The factors that increase the risk of pancreatitis in patients with HIV infection are an AIDS diagnosis, CD4+ cell count less than 100 cells/mm3, baseline hyperamylasemia, substantial alcohol intake, elevated liver transaminases, concurrent treatment with pancreatotoxic medications, and prior history.
-Resolution is generally seen 2 to 3 weeks following discontinuation of therapy, although fatal cases have been reported.
+In phase  trials with buffered formulations, incidence ranged from  to  with doses higher than currently recommended and  to  with recommended doses.
+The factors that increase the risk of pancreatitis in patients with HIV infection are an AIDS diagnosis, CD+ cell count less than  cells/mm, baseline hyperamylasemia, substantial alcohol intake, elevated liver transaminases, concurrent treatment with pancreatotoxic medications, and prior history.
+Resolution is generally seen  to  weeks following discontinuation of therapy, although fatal cases have been reported.
 Permanent discontinuation of didanosine in patients developing pancreatitis is suggested, because rechallenge often results in recurrent disease.
 A retrospective cohort study evaluated the risk of pancreatitis with didanosine combination therapy.
 Patients with HIV can develop pancreatitis from the virus itself or from direct toxicity of several antiretroviral drugs.
@@ -35,30 +34,29 @@ Depletion of mitochondrial DNA diminishes cellular respiratory function leading 
 Excess lactic acid leaks out of the cell into systemic circulation and can progress to lactic acidosis if hydrogen ions drop the blood pH.
 Additionally, disturbances in metabolic homeostasis with antiretrovirals can cause hypertriglyceridemia and insulin resistance leading to steatohepatitis and decreased liver function.
 Hyperlactatemia appears to be more common with didanosine while lactic acidosis is an infrequent occurrence.
-In a report following patients on combined therapy with didanosine and tenofovir, one patient developed didanosine-related toxicity characterized by lactic acidosis with liver failure after 3 months on didanosine 200 mg/day with tenofovir.
+In a report following patients on combined therapy with didanosine and tenofovir, one patient developed didanosine-related toxicity characterized by lactic acidosis with liver failure after  months on didanosine  mg/day with tenofovir.
 Safety and efficacy have not been established in HIV-infected patients with significant underlying liver disease.
 During combination antiretroviral therapy, patients with preexisting liver dysfunction (including chronic active hepatitis) have an increased rate of liver function abnormalities, including severe and potentially fatal hepatic side effects.
-Hepatic side effects have included lactic acidosis/severe hepatomegaly with steatosis, hepatic toxicity, and elevated AST (Grades 3 to 4: up to 9%; all Grades: up to 53%), ALT (Grades 3 to 4: up to 9%; all Grades: up to 50%), bilirubin (Grades 3 to 4: up to 16%; all Grades: up to 68%), and gamma-glutamyltransferase (greater than 5 times ULN: up to 5%; all Grades: up to 28%).
+Hepatic side effects have included lactic acidosis/severe hepatomegaly with steatosis, hepatic toxicity, and elevated AST (Grades  to : up to ; all Grades: up to ), ALT (Grades  to : up to ; all Grades: up to ), bilirubin (Grades  to : up to ; all Grades: up to ), and gamma-glutamyltransferase (greater than  times ULN: up to ; all Grades: up to ).
 Fatal hepatic events were reported most often in patients treated with the combination of hydroxyurea, didanosine, and stavudine.
 In addition, fulminant hepatitis has been associated with didanosine and has resulted in death.
 Symptomatic hyperlactatemia/lactic acidosis and hepatic steatosis, noncirrhotic portal hypertension, hepatitis, and liver failure have been reported during postmarketing experience.
 Hepatotoxicity and hepatic failure resulting in death have been reported during postmarketing experience with hydroxyurea and other antiretroviral agents.
-Peripheral neuropathy occurred in 16% of patients treated during the EAP.
+Peripheral neuropathy occurred in  of patients treated during the EAP.
 Early trials of didanosine (the active ingredient contained in Videx) therapy reported a higher incidence.
 Those studies, however, used higher dosages than more recent trials using lower therapeutic dosages and early trials included patients with very advanced HIV disease.
-One-year rates of developing peripheral neuropathy ranged from 6% to 15% in the latter trials.
+One-year rates of developing peripheral neuropathy ranged from  to  in the latter trials.
 Neuropathy presents as tingling, numbness, or pain in the hands or soles of the feet which progresses up the legs.
-The incidence is higher in patients with a history of neuropathy and/or low CD4+ cell counts (less than 50 cells/mm3).
-Following discontinuation of didanosine, neuropathy usually resolves within 2 to 12 weeks.
-Nervous system side effects have included headache (up to 46%), peripheral neurologic symptoms/neuropathy (up to 26%), insomnia, restlessness, and seizures.
-There has been one case report of acute gouty arthritis developing 14 weeks after didanosine (the active ingredient contained in Videx) was added to the treatment regimen of a patient receiving ritonavir, both known to infrequently cause hyperuricemia.
+The incidence is higher in patients with a history of neuropathy and/or low CD+ cell counts (less than  cells/mm).
+Following discontinuation of didanosine, neuropathy usually resolves within  to  weeks.
+Nervous system side effects have included headache (up to ), peripheral neurologic symptoms/neuropathy (up to ), insomnia, restlessness, and seizures.
+There has been one case report of acute gouty arthritis developing  weeks after didanosine (the active ingredient contained in Videx) was added to the treatment regimen of a patient receiving ritonavir, both known to infrequently cause hyperuricemia.
 The symptoms resolved upon discontinuation of didanosine and a short course of indomethacin.
-Metabolic side effects have included elevated alkaline phosphatase (greater than 5 times ULN: up to 4%), amylase (at least 1.
-4 times ULN: up to 17%; greater than 2 times ULN: up to 8%; all Grades: up to 31%), and uric acid (greater than 12 mg/dL: up to 3%).
-Hyperuricemia developed in 4% of patients treated during the EAP.
+Metabolic side effects have included elevated alkaline phosphatase (greater than  times ULN: up to ), amylase (at least  times ULN: up to ; greater than  times ULN: up to ; all Grades: up to ), and uric acid (greater than  mg/dL: up to ).
+Hyperuricemia developed in  of patients treated during the EAP.
 At least one case of acute gouty arthritis has been reported.
 Diabetes mellitus, redistribution/accumulation of body fat (including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance"), hypoglycemia, hyperglycemia, and elevated serum uric acid, serum alkaline phosphatase, serum amylase, and serum gamma-glutamyltransferase have been reported during postmarketing experience.
-Dermatologic side effects have included rash (up to 30%), rash/pruritus (up to 9%), and at least one case of cutaneous leukocytoclastic vasculitis.
+Dermatologic side effects have included rash (up to ), rash/pruritus (up to ), and at least one case of cutaneous leukocytoclastic vasculitis.
 Alopecia has been reported during postmarketing experience.
 Hematologic side effects have included anemia, neutropenia, and thrombocytopenia.
 Leukopenia, anemia, and thrombocytopenia have also been reported during postmarketing experience.
@@ -70,15 +68,13 @@ Diffuse dysfunction of the retinal epithelium with bilateral visual deficit (inc
 Dry eyes, retinal depigmentation, and optic neuritis have been reported during postmarketing experience.
 Diffuse dysfunction of the retinal epithelium has been reported in two patients during therapy with didanosine.
 Both patients experienced bilateral visual deficit including night blindness and a peripheral visual fold reduction.
-Symptoms were first noted after 31 and 34 weeks of therapy.
+Symptoms were first noted after  and  weeks of therapy.
 Deficits in both patients appeared to be partially reversible upon discontinuation of didanosine.
 Other side effects have included abdominal pain, asthenia, chills/fever, and pain during postmarketing experience.
 Musculoskeletal side effects have included myalgia (with or without increases in creatine kinase), rhabdomyolysis (including acute renal failure and hemodialysis), arthralgia, and myopathy during postmarketing experience.
 Hypersensitivity side effects have included anaphylactoid reaction during postmarketing experience.
 Immunologic side effects have included immune reconstitution syndrome.
-Autoimmune disorders (e.
-g.
-, Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
+Autoimmune disorders (, Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
 Endocrine side effects are uncommon but have included hypertriglyceridemia, impaired glucose tolerance, hyperglycemia, and hypoglycemia.
 Insulin-dependent diabetes mellitus has also been reported.
 It is possible that some side effects of Videx may not have been reported.

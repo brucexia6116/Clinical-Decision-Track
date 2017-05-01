@@ -1,18 +1,16 @@
 In general, side effects associated with this combination drug are similar to those associated with each component.
 There do not appear to be side effects unique to the combination drug.
 Side effects are typically mild and transient.
-Nervous system side effects include headache in 3% to 7% (less than placebo), dizziness in approximately 3%, and asthenia/fatigue in approximately 3% of patients.
-Depression, sleeping problems (either insomnia or somnolence), ataxia, confusion, peripheral neuropathy, taste alterations, tinnitus, tearing, amblyopia, eye irritation, retinopathy, and vertigo have been reported in less than 1% of patients.
+Nervous system side effects include headache in  to  (less than placebo), dizziness in approximately , and asthenia/fatigue in approximately  of patients.
+Depression, sleeping problems (either insomnia or somnolence), ataxia, confusion, peripheral neuropathy, taste alterations, tinnitus, tearing, amblyopia, eye irritation, retinopathy, and vertigo have been reported in less than  of patients.
 Angioedema associated with the use of ACE inhibitors may be a sign of allergy and may be an indication to discontinue therapy with this agent or any other ACE inhibitor.
 Angioedema that involves the face, larynx, or neck IS an absolute contraindication to therapy.
 The incidence of angioedema appears slightly higher in black than in non-black patients.
-Cardiovascular side effects may be related to either component, and include edema or swelling in 3% and chest pain (relationship to drug questionable) in 0.
-5% to 1.
-6%.
-Calcium channel blockade can rarely result in bradycardia, AV block (1st, 2nd, and even 3rd-degree AV block), heart failure, and hypotension.
+Cardiovascular side effects may be related to either component, and include edema or swelling in  and chest pain (relationship to drug questionable) in  to .
+Calcium channel blockade can rarely result in bradycardia, AV block (st, nd, and even rd-degree AV block), heart failure, and hypotension.
 Excessive hypotension related to either enalapril or felodipine has rarely resulted in angina pectoris, myocardial infarction, or stroke.
 Palpitations have been rarely reported.
-Respiratory side effects including cough occur in approximately 3% of patients.
+Respiratory side effects including cough occur in approximately  of patients.
 Nasal congestion, pharyngitis, pulmonary infiltrates and bronchitis have rarely been reported.
 Metabolic side effects are related to enalapril.
 By inhibiting angiotensin II-mediated aldosterone secretion, ACE inhibitors can induce mild hyperkalemia, particularly in patients with renal insufficiency.
@@ -20,7 +18,7 @@ Less common metabolic problems (associated with felodipine) include hyperglycemi
 Renal side effects including new or worsened renal insufficiency have been associated with ACE inhibitors.
 Patients at increased risk include patients with heart failure, renal insufficiency, and renal artery stenosis.
 Late-onset enalapril-induced angioedema (more than three months) is reported in at least one patient who had taken enalapril without incident for three years.
-Patients with intestinal angioedema generally present with abdominal pain (with or without nausea or vomiting) and in some cases there was no prior history of facial angioedema, and C-1 esterase levels were normal.
+Patients with intestinal angioedema generally present with abdominal pain (with or without nausea or vomiting) and in some cases there was no prior history of facial angioedema, and C- esterase levels were normal.
 These symptoms resolve after stopping the ACE inhibitor.
 Hypersensitivity reactions to enalapril, as with some other angiotensin converting enzyme (ACE) inhibitors, may be life-threatening.
 Angioedema of the face, extremities, lips, tongue, glottis and/or pharynx have been reported rarely in patients receiving ACE inhibitors.
@@ -28,23 +26,20 @@ Obstructive laryngeal and glossal angioedema due to enalapril is a rare, but pot
 In addition, intestinal angioedema has been reported in patients treated with ACE inhibitors.
 It is recommended that any patient with dyspnea, dysphagia, or significant facial angioedema stop therapy immediately and avoid ACE inhibitor therapy in general.
 Enalapril is not recommended for patients with a history of idiopathic angioedema.
-Other hypersensitivity reactions associated with enalapril including photosensitivity in 0.
-1%, or urticaria in 0.
-3% of patients have been reported.
+Other hypersensitivity reactions associated with enalapril including photosensitivity in , or urticaria in  of patients have been reported.
 A single case of Henoch-Schonlein purpura has also been reported.
 Dermatologic side effects are typically mild.
-Rashes have been reported in 2% of patients.
+Rashes have been reported in  of patients.
 The following side effects have rarely been associated with either or both drugs when given alone:  alopecia, diaphoresis, erythema multiforme, exfoliative dermatitis, pemphigus, photosensitivity, pruritus, Stevens-Johnson syndrome, toxic epidermal necrolysis, and urticaria.
 Hypersensitivity reactions to ACE inhibitors can present as angioedema and severe rash.
-Gastrointestinal problems, such as nausea and diarrhea, have been reported in up to 2% of patients.
+Gastrointestinal problems, such as nausea and diarrhea, have been reported in up to  of patients.
 These side effects were prevalent among placebo-treated patients in controlled trials.
 Rarely, constipation, anorexia, dry mouth, dyspepsia, glossitis, and cholestatic jaundice/hepatitis, pancreatitis, ileus, stomatitis, vomiting, gingival hyperplasia (related to the use of some calcium channel blockers) have been associated with the use of enalapril or felodipine.
-Musculoskeletal discomfort has been reported in up to 1% of patients.
+Musculoskeletal discomfort has been reported in up to  of patients.
 Hematologic side effects are rare, and are remarkable for rare cases of agranulocytosis in patients who are taking ACE inhibitors.
-In clinical trials, less than 0.
-1% of patients discontinued therapy due to anemia.
+In clinical trials, less than  of patients discontinued therapy due to anemia.
 Thrombocytopenia has also rarely been reported.
-Rare cases of hemolytic anemia have been reported in patients who are taking enalapril, particularly patients with G6PD deficiency.
+Rare cases of hemolytic anemia have been reported in patients who are taking enalapril, particularly patients with GPD deficiency.
 Immunologic side effects have been rarely associated with the use of enalapril.
 This complex may include a positive ANA, an elevated erythrocyte sedimentation rate, arthralgias/arthritis, myalgias/myositis, fever, serositis, vasculitis, leukocytosis, eosinophilia, photosensitivity, rash, and other dermatologic manifestations.
 Genitourinary complaints including impotence among male patients are extremely rare.

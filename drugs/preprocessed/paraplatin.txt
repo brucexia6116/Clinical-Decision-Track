@@ -1,5 +1,4 @@
 As well as its needed effects, carboplatin (the active ingredient contained in Paraplatin) may cause unwanted side effects that require medical attention.
-
 Also, because of the way these medicines act on the body, there is a chance that they might cause other unwanted effects that may not occur until months or years after the medicine is used.
 These delayed effects may include certain types of cancer, such as leukemia.
 Discuss these possible effects with your doctor.
@@ -9,26 +8,26 @@ As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 This medicine may cause a temporary loss of hair in some people.
 After treatment with carboplatin has ended, normal hair growth should return.
-Hematologic side effects have been reported to include thrombocytopenia with platelet counts below 50,000/mm3 in 25% of patients and in 35% of previously treated ovarian cancer patients (PTOCP), neutropenia with granulocyte counts below 1,000/mm3 in 16% of patients (21% of PTOCP), and leukopenia with WBC counts below 2,000/mm3 in 15% of patients (26% of PTOCP).
+Hematologic side effects have been reported to include thrombocytopenia with platelet counts below ,/mm in  of patients and in  of previously treated ovarian cancer patients (PTOCP), neutropenia with granulocyte counts below ,/mm in  of patients ( of PTOCP), and leukopenia with WBC counts below ,/mm in  of patients ( of PTOCP).
 Bone marrow suppression is the dose limiting toxicity of carboplatin.
 Marrow suppression is usually more severe in patients with impaired kidney function.
-Anemia with a hemoglobin count less than 11 g/dL has been observed in 71% of patients who started therapy with a baseline above that value.
+Anemia with a hemoglobin count less than  g/dL has been observed in  of patients who started therapy with a baseline above that value.
 The incidence of anemia increases with increasing exposure.
 Bone marrow depression may be more severe when carboplatin is combined with other bone marrow suppressing drugs or with radiotherapy.
 One study has suggested that myelotoxicity could be minimized by the use of regimes based on the circadian rhythm of the bone marrow.
 Patients previously treated with emetogenic agents (especially cisplatin) have been more prone to vomiting.
-Nausea alone occurs in an additional 10% to 15% of patients.
-Prolonged administration of carboplatin (the active ingredient contained in Paraplatin) (either by continuous 24 hour infusion or daily pulse doses given for 5 consecutive days) was associated with less severe vomiting than the single dose intermittent schedule.
-Gastrointestinal side effects have included vomiting which occurred in 65% of patients and in 81% of PTOCP.
+Nausea alone occurs in an additional  to  of patients.
+Prolonged administration of carboplatin (the active ingredient contained in Paraplatin) (either by continuous  hour infusion or daily pulse doses given for  consecutive days) was associated with less severe vomiting than the single dose intermittent schedule.
+Gastrointestinal side effects have included vomiting which occurred in  of patients and in  of PTOCP.
 In approximately one third of these patients, the vomiting was reported as severe.
-Other gastrointestinal side effects have included pain (17%), diarrhea (6%), constipation (6%), and stomatitis.
-Nervous system side effects have included peripheral neuropathies which have been reported in 4% of patients and 6% of PTOCP, with mild paresthesias occurring most frequently.
-Patients older than 65 years of age or previously treated with cisplatin have a been reported to have a 10% risk for peripheral neuropathies.
+Other gastrointestinal side effects have included pain , diarrhea , constipation , and stomatitis.
+Nervous system side effects have included peripheral neuropathies which have been reported in  of patients and  of PTOCP, with mild paresthesias occurring most frequently.
+Patients older than  years of age or previously treated with cisplatin have a been reported to have a  risk for peripheral neuropathies.
 Prolonged treatment, particularly in cisplatin-pretreated patients, may result in cumulative neurotoxicity.
-Hepatic side effects have included abnormal liver function tests reported in patients with normal baseline values receiving standard dosages including total bilirubin (5%), SGOT (15%), and alkaline phosphatase (24%), and 5%, 19%, and 37% respectively in PTOCP.
+Hepatic side effects have included abnormal liver function tests reported in patients with normal baseline values receiving standard dosages including total bilirubin , SGOT , and alkaline phosphatase , and , , and  respectively in PTOCP.
 These abnormalities were mild and reversible in about one-half of the cases.
 In patients receiving very high dosages of carboplatin (the active ingredient contained in Paraplatin) and autologous bone marrow transplantation, severe abnormalities of liver function tests have been reported.
-Renal side effects have included abnormalities in 6% of serum creatinine test results (10% for PTOCP) and 14% of blood urea nitrogen test results (22% for PTOCP).
+Renal side effects have included abnormalities in  of serum creatinine test results ( for PTOCP) and  of blood urea nitrogen test results ( for PTOCP).
 Most of these reported abnormalities have been mild and about one-half of them were reversible.
 There have been at least two case reports in the literature of patients with preexisting renal dysfunction deteriorating into renal failure due to intravenous carboplatin (the active ingredient contained in Paraplatin) therapy.
 In one of the cases, renal failure followed high-dose therapy.
@@ -37,10 +36,10 @@ There have also been at least two reports in the literature of acute renal failu
 Neither patient had a full return of renal function to baseline.
 Creatinine clearance is the most sensitive measure of renal function in patients receiving carboplatin.
 Creatinine clearance also appears to be the most useful test for correlating drug clearance and bone marrow suppression.
-Other side effects have included abnormally decreased serum electrolyte values such as sodium (29%), magnesium (29%), calcium (22%), and potassium (20%), 47%, 43%, 31%, and 28% respectively in PTOCP.
+Other side effects have included abnormally decreased serum electrolyte values such as sodium , magnesium , calcium , and potassium , , , , and  respectively in PTOCP.
 Electrolyte abnormalities were rarely associated with symptoms.
 Ototoxicity has been reported with the use of high-dose carboplatin (the active ingredient contained in Paraplatin) The most frequently reported miscellaneous side effects were pain and asthenia.
-One study has noted that approximately 40 instances of hypersensitivity have been reported.
+One study has noted that approximately  instances of hypersensitivity have been reported.
 The study further notes that there is generally a slow development of hypersensitivity, with reactions evolving only after several cycles of therapy.
 Allergic reactions have generally been manageable with standard epinephrine, corticosteroid, and antihistamine therapy.
 Hypersensitivity side effects have been reported to include rash, urticaria, erythema, pruritus, and rarely bronchospasm and hypotension.

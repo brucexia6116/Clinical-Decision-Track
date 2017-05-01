@@ -1,33 +1,19 @@
-Cardiovascular side effects have included hypertension (up to 13%), edema (up to 11%), including peripheral edema (up to 9%).
-Ischemic cardiovascular disease (4%) has also been reported.
-Very common (10% or more): Arthritis/arthralgia/arthrosis/joint disorder/joint pain/joint stiffness (36%), back pain (12%), bone pain (12%), osteoporosis (11%), fracture (10%)Common (1% to 10%): Myalgia, anorexiaUncommon (0.
-1% to 1%): Trigger finger
-Very common (10% or more): Nausea (20%), vomiting (11%)Common (1% to 10%): Abdominal pain, diarrhea, constipation, dyspepsia, gastrointestinal disorder, dry mouth
-Very common (10% or more): Fatigue/asthenia (19%), pain (17%), accidental injury (10%), lymphedema (10%), peripheral edema (10%)Common (1% to 10%): Infection, flu syndrome, cyst, fever, neck pain, malaise
-Very common (10% or more): Mood disturbances (19%), depression, insomnia
-Very common (10% or more): Headache (18%), depression (13%), insomnia (10%)Common (1% to 10%): Dizziness, anxiety, paresthesia, hypertonia, cerebrovascular event (cerebrovascular accident, cerebral ischemia, cerebral infarct), somnolence, confusion, nervousness, carpal tunnel syndrome, sensory disturbances (e.
-g.
-, taste loss and taste perversion)
-Very common (10% or more): Rash (11%)Common (1% to 10%): Sweating, alopecia/hair thinning, pruritusRare (less than 0.
-1%): Skin reactions (lesions, ulcers blisters), erythema multiforme, cutaneous vasculitis (including Henoch-Schonlein purpura)Very rare (less than 0.
-01%): Stevens-Johnson syndrome
-Very common (10% or more): Dyspnea (11%), increased cough (11%), pharyngitis (10%)Common (1% to 10%): Sinusitis, bronchitis, rhinitis
-Common (1% to 10%): Urinary tract infection, breast pain, vulvovaginitis, vaginal hemorrhage, vaginitis, vaginal discharge, vaginal bleeding, vaginal dryness, pelvic pain, leukorrhea
-Common (1% to 10%): Anemia, leukopenia
-Common (1% to 10%): Increased gamma GT, increased SGOT, increased SGPT, increased alkaline phosphataseUncommon (0.
-1% to 1%): Hepatobiliary events (e.
-g.
-, increased bilirubin), hepatitisRare (less than 0.
-1%): Changes in liver function (liver inflammation, liver pain, liver swelling)
-Common (1% to 10%): Weight gain, hypercholesterolemia, weight loss, anorexiaUncommon (0.
-1% to 1%): Hypercalcemia (with or without an increase in parathyroid hormone)
-Common (1% to 10%): Allergic reactions Uncommon (0.
-1% to 1%): UrticariaRare (less than 0.
-1%): Anaphylaxis, anaphylactoid reactionVery rare (less than 0.
-01%): Angioedema
-Common (1% to 10%): Cataracts
-Common (1% to 10%): Neoplasm, tumor flareUncommon (0.
-1% to 1%): Endometrial cancer
+Cardiovascular side effects have included hypertension (up to ), edema (up to ), including peripheral edema (up to ).
+Ischemic cardiovascular disease  has also been reported.
+Very common ( or more): Arthritis/arthralgia/arthrosis/joint disorder/joint pain/joint stiffness , back pain , bone pain , osteoporosis , fracture Common ( to ): Myalgia, anorexiaUncommon ( to ): Trigger finger
+Very common ( or more): Nausea , vomiting Common ( to ): Abdominal pain, diarrhea, constipation, dyspepsia, gastrointestinal disorder, dry mouth
+Very common ( or more): Fatigue/asthenia , pain , accidental injury , lymphedema , peripheral edema Common ( to ): Infection, flu syndrome, cyst, fever, neck pain, malaise
+Very common ( or more): Mood disturbances , depression, insomnia
+Very common ( or more): Headache , depression , insomnia Common ( to ): Dizziness, anxiety, paresthesia, hypertonia, cerebrovascular event (cerebrovascular accident, cerebral ischemia, cerebral infarct), somnolence, confusion, nervousness, carpal tunnel syndrome, sensory disturbances (, taste loss and taste perversion)
+Very common ( or more): Rash Common ( to ): Sweating, alopecia/hair thinning, pruritusRare (less than ): Skin reactions (lesions, ulcers blisters), erythema multiforme, cutaneous vasculitis (including Henoch-Schonlein purpura)Very rare (less than ): Stevens-Johnson syndrome
+Very common ( or more): Dyspnea , increased cough , pharyngitis Common ( to ): Sinusitis, bronchitis, rhinitis
+Common ( to ): Urinary tract infection, breast pain, vulvovaginitis, vaginal hemorrhage, vaginitis, vaginal discharge, vaginal bleeding, vaginal dryness, pelvic pain, leukorrhea
+Common ( to ): Anemia, leukopenia
+Common ( to ): Increased gamma GT, increased SGOT, increased SGPT, increased alkaline phosphataseUncommon ( to ): Hepatobiliary events (, increased bilirubin), hepatitisRare (less than ): Changes in liver function (liver inflammation, liver pain, liver swelling)
+Common ( to ): Weight gain, hypercholesterolemia, weight loss, anorexiaUncommon ( to ): Hypercalcemia (with or without an increase in parathyroid hormone)
+Common ( to ): Allergic reactions Uncommon ( to ): UrticariaRare (less than ): Anaphylaxis, anaphylactoid reactionVery rare (less than ): Angioedema
+Common ( to ): Cataracts
+Common ( to ): Neoplasm, tumor flareUncommon ( to ): Endometrial cancer
 Blurred vision
 chest pain or discomfort
 dizziness

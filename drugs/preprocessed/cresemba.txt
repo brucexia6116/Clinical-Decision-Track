@@ -3,34 +3,21 @@ Other side effects include: hypotension.
 See below for a comprehensive list of adverse effects.
 Other dosage forms:
 The most common side effects were nausea, vomiting, diarrhea, headache, elevated liver chemistry tests, hypokalemia, constipation, dyspnea, cough, peripheral edema, and back pain.
-Serious side effects were reported in 55% of patients.
-Therapy was permanently discontinued due to side effects in 14% of patients; confusional state, acute renal failure, increased blood bilirubin, convulsion, dyspnea, epilepsy, respiratory failure, and vomiting led to permanent discontinuation most often.
-Very common (10% or more): Nausea (up to 27.
-6%), vomiting (up to 25%), diarrhea (up to 23.
-7%), abdominal pain (16.
-7%), constipation (up to 14%)Common (1% to 10%): DyspepsiaFrequency not reported: Abdominal distension, gastritis, gingivitis, stomatitis
-Very common (10% or more): Hypokalemia (up to 19.
-1%)Common (1% to 10%): Decreased appetite, hypomagnesemiaFrequency not reported: Hypoalbuminemia, hypoglycemia, hyponatremia
-Elevated liver transaminases (ALT or AST) greater than 3 times the upper limit of normal (3 x ULN) and greater than 10 x ULN were reported in 4.
-4% and 1.
-2% of patients, respectively.
-Very common (10% or more): Elevated liver chemistry/laboratory tests (includes increased ALT, AST, blood alkaline phosphatase, blood bilirubin, GGT; up to 17.
-1%)Common (1% to 10%): Elevated liver transaminases (ALT or AST)Frequency not reported: Cholecystitis, cholelithiasis, hepatitis, hepatomegaly, hepatic failure, cholestasis
-Very common (10% or more): Dyspnea (up to 17.
-1%), cough (12%)Common (1% to 10%): Acute respiratory failureFrequency not reported: Bronchospasm, tachypnea
-Very common (10% or more): Headache (up to 17%)Frequency not reported: Convulsion, epilepsy, dysgeusia, encephalopathy, hypoesthesia, migraine, peripheral neuropathy, paresthesia, somnolence, stupor, syncope, tremor, tinnitus, vertigo
-Very common (10% or more): Peripheral edema (up to 15.
-2%), fatigue (10.
-5%)Common (1% to 10%): Chest painFrequency not reported: Infusion-related reactions (including hypotension, dyspnea, chills, dizziness, paresthesia, hypoesthesia), catheter thrombosis, malaise, chills, fall
-Very common (10% or more): Insomnia (10.
-5%)Common (1% to 10%): Delirium (includes agitation, confusional state, delirium, disorientation, mental status changes), anxietyFrequency not reported: Confusion, hallucination, depression
-Very common (10% or more): Renal failure (10.
-1%)Frequency not reported: Acute renal failure
-Very common (10% or more): Back pain (up to 10.
-1%)Frequency not reported: Myositis, bone pain, neck pain
-Common (1% to 10%): HypotensionFrequency not reported: Atrial fibrillation, atrial flutter, bradycardia, reduced QT interval on ECG, palpitations, supraventricular extrasystoles, supraventricular tachycardia, ventricular extrasystoles, cardiac arrest, thrombophlebitis
-Common (1% to 10%): Rash, pruritusFrequency not reported: Alopecia, dermatitis, exfoliative dermatitis, erythema, petechiae, urticaria
-Common (1% to 10%): Injection site reaction
+Serious side effects were reported in  of patients.
+Therapy was permanently discontinued due to side effects in  of patients; confusional state, acute renal failure, increased blood bilirubin, convulsion, dyspnea, epilepsy, respiratory failure, and vomiting led to permanent discontinuation most often.
+Very common ( or more): Nausea (up to ), vomiting (up to ), diarrhea (up to ), abdominal pain , constipation (up to )Common ( to ): DyspepsiaFrequency not reported: Abdominal distension, gastritis, gingivitis, stomatitis
+Very common ( or more): Hypokalemia (up to )Common ( to ): Decreased appetite, hypomagnesemiaFrequency not reported: Hypoalbuminemia, hypoglycemia, hyponatremia
+Elevated liver transaminases (ALT or AST) greater than  times the upper limit of normal ( x ULN) and greater than  x ULN were reported in  and  of patients, respectively.
+Very common ( or more): Elevated liver chemistry/laboratory tests (includes increased ALT, AST, blood alkaline phosphatase, blood bilirubin, GGT; up to )Common ( to ): Elevated liver transaminases (ALT or AST)Frequency not reported: Cholecystitis, cholelithiasis, hepatitis, hepatomegaly, hepatic failure, cholestasis
+Very common ( or more): Dyspnea (up to ), cough Common ( to ): Acute respiratory failureFrequency not reported: Bronchospasm, tachypnea
+Very common ( or more): Headache (up to )Frequency not reported: Convulsion, epilepsy, dysgeusia, encephalopathy, hypoesthesia, migraine, peripheral neuropathy, paresthesia, somnolence, stupor, syncope, tremor, tinnitus, vertigo
+Very common ( or more): Peripheral edema (up to ), fatigue Common ( to ): Chest painFrequency not reported: Infusion-related reactions (including hypotension, dyspnea, chills, dizziness, paresthesia, hypoesthesia), catheter thrombosis, malaise, chills, fall
+Very common ( or more): Insomnia Common ( to ): Delirium (includes agitation, confusional state, delirium, disorientation, mental status changes), anxietyFrequency not reported: Confusion, hallucination, depression
+Very common ( or more): Renal failure Frequency not reported: Acute renal failure
+Very common ( or more): Back pain (up to )Frequency not reported: Myositis, bone pain, neck pain
+Common ( to ): HypotensionFrequency not reported: Atrial fibrillation, atrial flutter, bradycardia, reduced QT interval on ECG, palpitations, supraventricular extrasystoles, supraventricular tachycardia, ventricular extrasystoles, cardiac arrest, thrombophlebitis
+Common ( to ): Rash, pruritusFrequency not reported: Alopecia, dermatitis, exfoliative dermatitis, erythema, petechiae, urticaria
+Common ( to ): Injection site reaction
 Frequency not reported: Agranulocytosis, leukopenia, pancytopenia
 Frequency not reported: Hypersensitivity
 Frequency not reported: Hematuria, proteinuria

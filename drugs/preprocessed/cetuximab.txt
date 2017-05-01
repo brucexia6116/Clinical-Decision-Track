@@ -1,23 +1,19 @@
 If any of the following side effects occur while taking cetuximab, check with your doctor or nurse immediately:
-Very common (10% or more): Acneiform rash (90% in patients on this drug alone, alopecia (21% in patients on this drug with irinotecan), nail disorder (16% in patients on this drug alone), skin disorder (15% in patients on this drug with irinotecan) Common (1% to 10%): PruritusVery rare (less than 0.
-01%): Stevens-Johnson syndrome/toxic necrolysisFrequency not reported: Superinfection of skin lesions
-Common (1% to 10%): Cardiopulmonary arrest and/or sudden death have been reported in 2% of patients with squamous cell carcinoma of the head and neck treated with radiation therapy and this drug as compared to none of the patients treated with radiation therapy aloneUncommon (0.
-1% to 1%): Deep vein thrombosis
-Very common (10% or more): Diarrhea (72%), nausea (55%), vomiting (41%), anorexia (36%), constipation (30%), stomatitis (26%), dyspepsia (14%), mucositis, in some cases severe (mucositis may lead to epistaxis), abdominal pain (45% in patients receiving this drug with irinotecan)
-Very common (10% or more): Leukopenia (25%), anemia (16%)
-Very common (10% or more): Dyspnea (23%) and increased cough (20%) have been reported in patients receiving this drug with irinotecanUncommon (0.
-1% to 1%): Pulmonary embolism, interstitial lung disease
-Very common (10% or more): Hypomagnesemia (up to 55%), high alanine transaminase (43% in patients receiving this drug with radiation), high aspartate transaminase (38% in patients receiving this drug with radiation), and high alkaline phosphatase (33% in patients receiving this drug with radiation), weight loss (21% in patients receiving this drug with irinotecan), peripheral edema (16% in patients receiving this drug with irinotecan), dehydration (15% in patients receiving this drug with irinotecan) and severe hypomagnesemia (10% to 15% in patients receiving this drug with irinotecan)Common (1% to 10%): Dehydration, hypocalcemia, anorexia
-Very common (10% or more): Asthenia/malaise (73% in patients receiving cetuximab with irinotecan), pain (23% in patients receiving this drug with irinotecan)Common (1% to 10%): FatigueFrequency not reported: Late radiation toxicities (higher with this drug in combination with radiation therapy compared with radiation therapy alone)
-Very common (10% or more): Conjunctivitis (up to 14%)Uncommon (0.
-1% to 1%): Blepharitis, keratitis
-Very common (10% or more): Headache (25% in patients receiving this drug as monotherapy)Frequency not reported: Aseptic meningitis
-Common (1% to 10%): Kidney failure
-Very common (10% or more): Mild or moderate infusion related reactionsCommon (1% to 10%): Severe infusion related reactions (in some cases fatal)
-Very common (10% or more): Infection (16% in patients receiving this drug with irinotecan)
-Very common (10% or more): Back pain (16% in patients receiving this drug with irinotecan)
-Very common (10% or more): Increase in liver enzyme levels (ASAT, ALAT, AP)
-Very common (10% or more): Insomnia (12%), depression (10%)
+Very common ( or more): Acneiform rash ( in patients on this drug alone, alopecia ( in patients on this drug with irinotecan), nail disorder ( in patients on this drug alone), skin disorder ( in patients on this drug with irinotecan) Common ( to ): PruritusVery rare (less than ): Stevens-Johnson syndrome/toxic necrolysisFrequency not reported: Superinfection of skin lesions
+Common ( to ): Cardiopulmonary arrest and/or sudden death have been reported in  of patients with squamous cell carcinoma of the head and neck treated with radiation therapy and this drug as compared to none of the patients treated with radiation therapy aloneUncommon ( to ): Deep vein thrombosis
+Very common ( or more): Diarrhea , nausea , vomiting , anorexia , constipation , stomatitis , dyspepsia , mucositis, in some cases severe (mucositis may lead to epistaxis), abdominal pain ( in patients receiving this drug with irinotecan)
+Very common ( or more): Leukopenia , anemia 
+Very common ( or more): Dyspnea  and increased cough  have been reported in patients receiving this drug with irinotecanUncommon ( to ): Pulmonary embolism, interstitial lung disease
+Very common ( or more): Hypomagnesemia (up to ), high alanine transaminase ( in patients receiving this drug with radiation), high aspartate transaminase ( in patients receiving this drug with radiation), and high alkaline phosphatase ( in patients receiving this drug with radiation), weight loss ( in patients receiving this drug with irinotecan), peripheral edema ( in patients receiving this drug with irinotecan), dehydration ( in patients receiving this drug with irinotecan) and severe hypomagnesemia ( to  in patients receiving this drug with irinotecan)Common ( to ): Dehydration, hypocalcemia, anorexia
+Very common ( or more): Asthenia/malaise ( in patients receiving cetuximab with irinotecan), pain ( in patients receiving this drug with irinotecan)Common ( to ): FatigueFrequency not reported: Late radiation toxicities (higher with this drug in combination with radiation therapy compared with radiation therapy alone)
+Very common ( or more): Conjunctivitis (up to )Uncommon ( to ): Blepharitis, keratitis
+Very common ( or more): Headache ( in patients receiving this drug as monotherapy)Frequency not reported: Aseptic meningitis
+Common ( to ): Kidney failure
+Very common ( or more): Mild or moderate infusion related reactionsCommon ( to ): Severe infusion related reactions (in some cases fatal)
+Very common ( or more): Infection ( in patients receiving this drug with irinotecan)
+Very common ( or more): Back pain ( in patients receiving this drug with irinotecan)
+Very common ( or more): Increase in liver enzyme levels (ASAT, ALAT, AP)
+Very common ( or more): Insomnia , depression 
 Blemishes on the skin or pimples
 bloating or swelling of the face, arms, hands, lower legs, or feet
 body aches or pain

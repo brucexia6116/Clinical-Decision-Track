@@ -1,7 +1,6 @@
 Common side effects of Novolog include: hypoglycemia.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, insulin aspart (the active ingredient contained in Novolog) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking insulin aspart, check with your doctor immediately:
 Adverse reactions observed have included hypoglycemia, allergic reactions, local injection site reactions, lipodystrophy, rash, and pruritus.
 Hypersensitivity side effects have included both local and systemic reactions.
@@ -9,31 +8,25 @@ Anaphylaxis has been reported.
 Local reactions have presented as erythema, local edema, and pruritus at the injection site.
 Most minor reactions to insulin at the injection site resolve in a few days to a few weeks.
 Generalized allergy to insulin may present as a whole body rash, dyspnea, wheezing, hypotension, tachycardia, or diaphoresis.
-In clinical trials, allergic reactions were reported in 0.
-7% (10/1394) patients receiving insulin aspart (the active ingredient contained in Novolog) 
-Very rare (less than 0.
-01%): AnaphylaxisFrequency not reported: Allergic reactions
+In clinical trials, allergic reactions were reported in  (/) patients receiving insulin aspart (the active ingredient contained in Novolog) 
+Very rare (less than ): AnaphylaxisFrequency not reported: Allergic reactions
 Weight gain has been reported with insulin therapy and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
-Very common (10% or more): HypoglycemiaFrequency not reported: Weight gain
-Common (1% to 10%): Chest painUncommon (0.
-1% to 1%): Peripheral edema
+Very common ( or more): HypoglycemiaFrequency not reported: Weight gain
+Common ( to ): Chest painUncommon ( to ): Peripheral edema
 Insulin may cause sodium retention and edema, especially as metabolic control is improving.
 Long-term use of insulin may cause lipodystrophy at the site of repeated injection.
 Lipodystrophy includes lipohypertrophy, a thickening of adipose tissue, and lipoatrophy, thinning of adipose tissue.
-Common (1% to 10%): Skin disorderUncommon (0.
-1% to 1%): Urticaria, rash Frequency not reported: Lipodystrophy including lipohypertrophy and lipoatrophy
-Common (1% to 10%): Onychomycosis Frequency not reported: Anti-insulin antibody titers
+Common ( to ): Skin disorderUncommon ( to ): Urticaria, rash Frequency not reported: Lipodystrophy including lipohypertrophy and lipoatrophy
+Common ( to ): Onychomycosis Frequency not reported: Anti-insulin antibody titers
 The clinical significance of the development of these antibody titers is unknown.
 Rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder and worsening of diabetic retinopathy.
 However, long-term glycemic control decreases the risk of diabetic retinopathy.
-Uncommon (0.
-1% to 1%): Refraction disorder, worsening of diabetic retinopathy
+Uncommon ( to ): Refraction disorder, worsening of diabetic retinopathy
 Rapid improvement in glucose control has been associated with a transitory, reversible acute painful peripheral neuropathy.
 However, long-term glycemic control decreases the risk.
-Very common (10% or more): Headache (up to 12%)Common (1% to 10%): Hyporeflexia, sensory disturbanceRare (less than 0.
-1%): Painful peripheral neuropathy
-Common (1% to 10%): Nausea, diarrhea, abdominal pain
-Common (1% to 10%): Urinary tract infection
+Very common ( or more): Headache (up to )Common ( to ): Hyporeflexia, sensory disturbanceRare (less than ): Painful peripheral neuropathy
+Common ( to ): Nausea, diarrhea, abdominal pain
+Common ( to ): Urinary tract infection
 It is possible that some side effects of Novolog may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

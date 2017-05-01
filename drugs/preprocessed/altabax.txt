@@ -1,14 +1,10 @@
-Common (1% to 10%): Pruritus, eczemaUncommon (0.
-1% to 1%): Erythema, contact dermatitis, impetigo, excoriation
-Common (1% to 10%): Application site irritation, application site pruritus, application site painUncommon (0.
-1% to 1%): Application site erythemaPostmarketing reports: Application site burning sensation
+Common ( to ): Pruritus, eczemaUncommon ( to ): Erythema, contact dermatitis, impetigo, excoriation
+Common ( to ): Application site irritation, application site pruritus, application site painUncommon ( to ): Application site erythemaPostmarketing reports: Application site burning sensation
 Postmarketing reports: Hypersensitivity events including angioedema
-Common (1% to 10%): PyrexiaUncommon (0.
-1% to 1%): Increased creatinine phosphokinase
-Common (1% to 10%): Diarrhea, nauseaUncommon (0.
-1% to 1%): Abdominal discomfort
-Common (1% to 10%): Nasopharyngitis
-Common (1% to 10%): Headache
+Common ( to ): PyrexiaUncommon ( to ): Increased creatinine phosphokinase
+Common ( to ): Diarrhea, nauseaUncommon ( to ): Abdominal discomfort
+Common ( to ): Nasopharyngitis
+Common ( to ): Headache
 Burning, itching, redness, skin rash, swelling, or soreness at site
 skin rash, encrusted, scaly, and oozing
 Blistering, burning, crusting, dryness, flaking of skin

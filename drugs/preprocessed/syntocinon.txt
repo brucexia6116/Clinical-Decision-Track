@@ -1,5 +1,4 @@
 As well as its needed effects, oxytocin (the active ingredient contained in Syntocinon) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking oxytocin, check with your doctor or nurse immediately:
 If any of the following symptoms of overdose occur while taking oxytocin, get emergency help immediately:
 Some oxytocin side effects may not need any medical attention.
@@ -19,11 +18,11 @@ Hepatic side effects have included neonatal jaundice.
 Gastrointestinal side effects have included nausea and vomiting.
 Respiratory side effects have included pulmonary edema.
 Renal side effects have included decreases in glomerular filtration rate and renal plasma flow.
-Doses of 40 milliunits per minute may produce significant decreases in urine output.
+Doses of  milliunits per minute may produce significant decreases in urine output.
 Local side effects have included nasal irritation and rhinorrhea.
 Ocular side effects have included neonatal retinal hemorrhages.
 Psychiatric side effects have included memory impairment and mania in patients on high doses.
-General side effects have include low Apgar scores at 5 minutes.
+General side effects have include low Apgar scores at  minutes.
 Fetal death has been reported.
 It is possible that some side effects of Syntocinon may not have been reported.
 These can be reported to the FDA here.

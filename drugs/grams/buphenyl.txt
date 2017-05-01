@@ -1,0 +1,99 @@
+causality of adverse effects
+underlying disease
+patient
+restricted diet
+intercurrent illness
+drug
+amenorrhea/menstrual dysfunction
+acidosis
+hypoalbuminemia
+alkalosis
+appetite
+hyperchloremia
+hypophosphatemia
+total protein
+hyperuricemia
+hyperphosphatemia
+hypernatremia
+hypokalemia
+weight
+edemauncommon
+arrhythmia
+rash
+body odor
+abdominal pain
+nausea
+vomiting
+constipation
+dysgeusiauncommon
+pancreatitis
+rectal bleeding/hemorrhage
+peptic ulcer
+gastritis
+anemia
+leukopenia
+leukocytosis
+thrombocytopenia
+thrombocytosisuncommon
+aplastic anemia
+ecchymosis
+increased alkaline phosphatase
+liver transaminases
+hyperbilirubinemia
+syncope
+headache
+bad taste/taste aversionfrequency
+somnolence
+fatigue
+lightheadedness
+hypoacusis
+disorientation
+impaired memory
+exacerbation
+preexisting neuropathy
+depression
+irritability
+renal tubular acidosis
+change in the frequency of breathing
+lack
+irregular menstruation
+side
+stomach pain
+mood
+mental changes
+muscle pain
+twitching
+nausea or vomiting
+nervousness or restlessness
+swelling of the feet
+lower legs
+unpleasant taste
+unusual tiredness
+weakness
+chills
+fever
+joint pain
+sore throat
+unusual bleeding
+bruising
+convulsions (seizures)
+dizziness
+dryness of the mouth
+irregular heartbeat
+increased blood pressure
+increased thirst
+irritability
+muscle cramps
+rectal bleeding
+swelling of the face
+unusual weight gain
+weak pulse
+changes in taste
+decreased appetite
+strong body odor
+stomach pain
+constipation
+fainting
+headache
+mental depression
+skin rash

@@ -1,15 +1,15 @@
 If any of the following symptoms of overdose occur while taking acamprosate, get emergency help immediately:
-Gastrointestinal side effects have frequently included anorexia (3%), diarrhea (16%), flatulence (3%), nausea (4%), dry mouth (2%), vomiting, dyspepsia, constipation, taste perversion, abdominal pain and increased appetite.
+Gastrointestinal side effects have frequently included anorexia , diarrhea , flatulence , nausea , dry mouth , vomiting, dyspepsia, constipation, taste perversion, abdominal pain and increased appetite.
 Gastroenteritis, gastritis, dysphagia, eructation, gastrointestinal hemorrhage, pancreatitis, rectal hemorrhage, esophagitis and hematemesis have also been reported.
 Melena, stomach ulcer, cholecystitis, colitis, increased salivation, duodenal ulcer, enlarged abdomen, and mouth ulceration have been reported rarely.
-Diarrhea was the only side effect associated with a drop out rate of greater than 1%, when compared to placebo, in clinical studies.
-Nervous system side effects have frequently included anxiety/nervousness (6%), dizziness (3%), insomnia (7%), paresthesia (2%), somnolence, decreased libido, amnesia, abnormal thinking and tremor.
+Diarrhea was the only side effect associated with a drop out rate of greater than , when compared to placebo, in clinical studies.
+Nervous system side effects have frequently included anxiety/nervousness , dizziness , insomnia , paresthesia , somnolence, decreased libido, amnesia, abnormal thinking and tremor.
 Convulsions, migraine, confusion, increased libido, vertigo, withdrawal syndrome, apathy, neuralgia and hypesthesia have also been reported.
 Alcohol craving, hyperkinesia, twitching, torticollis and encephalopathy have been reported rarely.
 Cardiovascular side effects have frequently included palpitations, vasodilation, hypertension and syncope.
 Hypotension, tachycardia, hemorrhage, angina pectoris, varicose veins, myocardial infarct, phlebitis and postural hypotension have also been reported.
 Heart failure, mesenteric arterial occlusion, cardiomyopathy, deep thrombophlebitis and shock have been reported rarely.
-Other side effects have frequently included accidental injury/fractures (3%), asthenia (6%), pain (3%), headache, back pain, chest pain and suicide attempt.
+Other side effects have frequently included accidental injury/fractures , asthenia , pain , headache, back pain, chest pain and suicide attempt.
 Tinnitus, deafness, fever, intentional overdose, malaise, abscess, neck pain, hernia and intentional injury have also been reported.
 Ascites, face edema, photosensitivity reaction and sudden death have been reported rarely.
 Hematologic side effects have included anemia, ecchymosis, eosinophilia, lymphocytosis and thrombocytopenia.
@@ -24,11 +24,11 @@ Hypercalcemia has been reported in cases of chronic overdose.
 Musculoskeletal side effects have frequently included myalgia and arthralgia.
 Leg cramps have also been reported.
 Rheumatoid arthritis and myopathy have been reported rarely.
-Dermatologic side effects have frequently included pruritus (4%), sweating (2%) and rash.
+Dermatologic side effects have frequently included pruritus , sweating  and rash.
 Acne, eczema, alopecia, maculopapular rash, dry skin, urticaria, exfoliative dermatitis and vesiculobullous rash have also been reported.
 Psoriasis has been reported rarely.
 There is a single case report of a possible association of erythema multiforme with acamprosate (the active ingredient contained in Campral) 
-A 40-year-old woman with cirrhosis of the liver presented with a possible case of erythema multiforme after 10 days of therapy.
+A -year-old woman with cirrhosis of the liver presented with a possible case of erythema multiforme after  days of therapy.
 While it may be probable that acamprosate was the cause, it is also possible that this outbreak could have been caused by the herpes simplex virus.
 Endocrine side effects have rarely included goiter and hypothyroidism.
 Hepatic side effects have frequently included increased SGOT and increased SGPT.
@@ -39,12 +39,12 @@ Immunologic side effects have frequently included infection, flu syndrome and ch
 Ocular side effects have frequently included abnormal vision.
 Ophthalmitis, diplopia and photophobia have been reported rarely.
 Renal side effects have rarely included acute kidney failure.
-Acute kidney failure has been reported in at least 3 patients.
+Acute kidney failure has been reported in at least  patients.
 While there has been no causal relationship found between these incidents and acamprosate therapy, a temporal association has been reported by the manufacturer.
 Respiratory side effects have frequently included rhinitis, increased cough, dyspnea, pharyngitis and bronchitis.
 Asthma, epistaxis and pneumonia have also been reported.
 Laryngismus and pulmonary embolus have been reported rarely.
-Psychiatric side effects have included depression (5%), suicidal ideation, hostility, agitation, neurosis, abnormal dreams and hallucinations.
+Psychiatric side effects have included depression , suicidal ideation, hostility, agitation, neurosis, abnormal dreams and hallucinations.
 Psychosis, depersonalization, paranoid reaction, and manic reaction have been reported rarely.
 Oncologic side effects have rarely included hepatic carcinoma.
 Extreme feeling of sadness or emptiness

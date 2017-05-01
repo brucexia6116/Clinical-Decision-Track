@@ -1,60 +1,41 @@
 Adverse reactions associated with insulin glargine (the active ingredient contained in Lantus) include hypoglycemia, allergic reactions, injection site reactions, lipodystrophy, pruritus, rash, edema, and weight gain.
-The ORIGIN (Outcome Reduction with Initial Glargine Intervention) trial, an open-labeled, randomized study comparing insulin glargine (the active ingredient contained in Lantus) to standard care in persons 50 years or older with abnormal glucose levels (impaired fasting glucose and/or impaired glucose tolerance) or early type 2 diabetes mellitus and established cardiovascular (CV) disease or CV risk factors, found over the course of the 6 year study, severe hypoglycemia occurred in 5.
-7% of patients receiving insulin glargine compared to 1.
-9% in the standard care group.
-The median HbA1c values in the insulin glargine group ranged from 5.
-9% to 6.
-4% while the HbA1c values in the standard care group ranged from 6.
-2% to 6.
-6%.
-The incidence for all hypoglycemia was 58% and 26% in the insulin glargine and standard groups, respectively.
+The ORIGIN (Outcome Reduction with Initial Glargine Intervention) trial, an open-labeled, randomized study comparing insulin glargine (the active ingredient contained in Lantus) to standard care in persons  years or older with abnormal glucose levels (impaired fasting glucose and/or impaired glucose tolerance) or early type  diabetes mellitus and established cardiovascular (CV) disease or CV risk factors, found over the course of the  year study, severe hypoglycemia occurred in  of patients receiving insulin glargine compared to  in the standard care group.
+The median HbAc values in the insulin glargine group ranged from  to  while the HbAc values in the standard care group ranged from  to .
+The incidence for all hypoglycemia was  and  in the insulin glargine and standard groups, respectively.
 Weight gain has been reported with insulin therapy and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
-In the ORIGIN trial, the median change in body weight from baseline to the last treatment visit was 2.
-2 kg greater in the insulin glargine group (+1.
-4 kg vs -0.
-8 kg).
-Very common (10% or more): HypoglycemiaFrequency not reported: Weight gain
+In the ORIGIN trial, the median change in body weight from baseline to the last treatment visit was  kg greater in the insulin glargine group (+ kg vs - kg).
+Very common ( or more): HypoglycemiaFrequency not reported: Weight gain
 Injection site reactions include redness, pain, itching, hives, swelling, or inflammation.
 In some cases, these reactions may be caused by other factors, such as irritants in skin cleansing agents.
-In clinical studies, there was a higher incidence of treatment-emergent injection site pain in insulin-glargine treated patients compared to NPH-treated patients (2.
-7% vs 0.
-7%).
-Common (1% to 10%): Injection site reactions, injection site pain
+In clinical studies, there was a higher incidence of treatment-emergent injection site pain in insulin-glargine treated patients compared to NPH-treated patients ( vs ).
+Common ( to ): Injection site reactions, injection site pain
 Hypersensitivity side effects have included both local and systemic reactions.
 Anaphylaxis has been reported.
 Local reactions have presented as erythema, local edema, and pruritus at the injection site.
 Most minor reactions to insulin at the injection site resolve in a few days to a few weeks.
-Rare (less than 0.
-1%): Allergic reactions
-Very common (10% or more): Hypertension (up to 19.
-6%) Common (1% to 10%): Peripheral edema
+Rare (less than ): Allergic reactions
+Very common ( or more): Hypertension (up to ) Common ( to ): Peripheral edema
 Insulin may cause sodium retention and edema, especially as metabolic control is improving.
-The ORIGIN (Outcome Reduction with Initial Glargine Intervention) trial, an open-labeled, randomized study in persons 50 years or older with abnormal glucose levels (impaired fasting glucose and/or impaired glucose tolerance) or early type 2 diabetes mellitus and established cardiovascular (CV) disease or CV risk factors, found the time to first occurrence of a major adverse cardiovascular event (MACE) and the incidence of MACE to be similar between insulin glargine and standard care (n=12.
-537).
+The ORIGIN (Outcome Reduction with Initial Glargine Intervention) trial, an open-labeled, randomized study in persons  years or older with abnormal glucose levels (impaired fasting glucose and/or impaired glucose tolerance) or early type  diabetes mellitus and established cardiovascular (CV) disease or CV risk factors, found the time to first occurrence of a major adverse cardiovascular event (MACE) and the incidence of MACE to be similar between insulin glargine and standard care (n=).
 Postmarketing reports indicate children and adolescents may experience more skin reactions such as rash and urticaria, than adults.
-Common (1% to 10%): LipohypertrophyUncommon (0.
-1% to 1%): LipoatrophyPostmarketing reports: Rash urticaria
+Common ( to ): LipohypertrophyUncommon ( to ): LipoatrophyPostmarketing reports: Rash urticaria
 Frequency not reported: Cancer occurrence
-The ORIGIN (Outcome Reduction with Initial Glargine Intervention) trial, an open-labeled, randomized study in persons 50 years or older with abnormal glucose levels (impaired fasting glucose and/or impaired glucose tolerance) or early type 2 diabetes mellitus and established cardiovascular (CV) disease or CV risk factors, comparing insulin glargine to standard care found the overall incidence of all types of cancer combined or death from cancers was similar between treatment groups (n=12,537).
-In July 2009, The US FDA reported on an ongoing safety review evaluating a possible increased risk of cancer.
-In February 2011, the FDA in an updated communication reported the evidence was inconclusive and it is not possible to conclude that the use of this insulin increases the risk of cancer.
+The ORIGIN (Outcome Reduction with Initial Glargine Intervention) trial, an open-labeled, randomized study in persons  years or older with abnormal glucose levels (impaired fasting glucose and/or impaired glucose tolerance) or early type  diabetes mellitus and established cardiovascular (CV) disease or CV risk factors, comparing insulin glargine to standard care found the overall incidence of all types of cancer combined or death from cancers was similar between treatment groups (n=,).
+In July , The US FDA reported on an ongoing safety review evaluating a possible increased risk of cancer.
+In February , the FDA in an updated communication reported the evidence was inconclusive and it is not possible to conclude that the use of this insulin increases the risk of cancer.
 Frequency not reported: Antibody formation
 As with all therapeutic proteins, the potential for immunogenicity exits.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay and may be influenced by assay methodology, sample handling and collection, concomitant medications, and underlying disease.
 The presence of insulin antibodies may increase or decrease the efficacy of insulin and may require dose adjustment.
-Rare (less than 0.
-1%): Visual impairment, retinopathy
+Rare (less than ): Visual impairment, retinopathy
 Rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder and worsening of diabetic retinopathy.
 However, long-term glycemic control decreases the risk.
-Common (1% to 10%): Gastroenteritis
-Rare (less than 0.
-1%): Myalgia
-Common (1% to 10%): HeadacheVery rare (less than 0.
-01%): DysgeusiaFrequency not reported: Peripheral neuropathy
+Common ( to ): Gastroenteritis
+Rare (less than ): Myalgia
+Common ( to ): HeadacheVery rare (less than ): DysgeusiaFrequency not reported: Peripheral neuropathy
 Rapid improvement in glucose control has been associated with a transitory, reversible acute painful peripheral neuropathy.
 However, long-term glycemic control decreases the risk.
-Very common (10% or more): Upper respiratory infection (up to 22.
-4%)	Common (1% to 10%): Pharyngitis, rhinitis, sinusitis
+Very common ( or more): Upper respiratory infection (up to )	Common ( to ): Pharyngitis, rhinitis, sinusitis
 Anxiety
 behavior change similar to being drunk
 blurred vision

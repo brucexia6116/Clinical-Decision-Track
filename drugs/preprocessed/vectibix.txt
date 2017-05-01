@@ -1,36 +1,29 @@
 As well as its needed effects, panitumumab (the active ingredient contained in Vectibix) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking panitumumab, check with your doctor or nurse immediately:
-Very common (10% or more): Erythema (66%), pruritus (58%), acneiform dermatitis (57%), rash (22%), skin fissures (20%), exfoliative rash (18%), alopecia (15%)Common (1% to 10%): Dry skin, nail disorder, skin exfoliation, skin ulcer, pustular rash, popular rash, Palmar-plantar erythrodysesthesia syndromePostmarketing reports: Skin necrosis, life threatening and fatal bullous mucocutaneous disease
+Very common ( or more): Erythema , pruritus , acneiform dermatitis , rash , skin fissures , exfoliative rash , alopecia Common ( to ): Dry skin, nail disorder, skin exfoliation, skin ulcer, pustular rash, popular rash, Palmar-plantar erythrodysesthesia syndromePostmarketing reports: Skin necrosis, life threatening and fatal bullous mucocutaneous disease
 When used in combination with irinotecan, the incidence and severity of diarrhea is increased.
-In a study of 19 patients who received panitumumab (the active ingredient contained in Vectibix) in combination with irinotecan, 5-fluorouracil, and leucovorin, the incidence of grade 3 or 4 diarrhea was 58% and was fatal in one patient.
+In a study of  patients who received panitumumab (the active ingredient contained in Vectibix) in combination with irinotecan, -fluorouracil, and leucovorin, the incidence of grade  or  diarrhea was  and was fatal in one patient.
 The combination of panitumumab with leucovorin is not recommended.
-Very common (10% or more): Abdominal pain (25%), nausea (23%), diarrhea (21%), constipation (21%), vomiting (19%)Common (1% to 10%): Stomatitis, mucosal inflammation, dry mouth
-Very common (10% or more): Anorexia (36%), hypomagnesemia (30%), hypokalemia (21%), weight loss (18%) Common (1% to 10%): DehydrationFrequency not reported: Hypocalcemia
-Median magnesium levels decreased by 0.
-1 mmol/L.
-Hypomagnesemia (grade 3 or 4) requiring oral or IV electrolyte repletion occurred in 2% of patients.
-Hypomagnesemia occurred 6 weeks or longer after the initiation of panitumumab.
+Very common ( or more): Abdominal pain , nausea , diarrhea , constipation , vomiting Common ( to ): Stomatitis, mucosal inflammation, dry mouth
+Very common ( or more): Anorexia , hypomagnesemia , hypokalemia , weight loss  Common ( to ): DehydrationFrequency not reported: Hypocalcemia
+Median magnesium levels decreased by  mmol/L.
+Hypomagnesemia (grade  or ) requiring oral or IV electrolyte repletion occurred in  of patients.
+Hypomagnesemia occurred  weeks or longer after the initiation of panitumumab.
 In some patients, hypomagnesemia was associated with hypocalcemia.
 Patient's electrolytes should be monitored during and for eight weeks after the completion of panitumumab therapy.
 Patients should be periodically monitored for hypomagnesemia and accompanying hypocalcemia during the eight weeks after the completion of panitumumab therapy.
-Very common (10% or more): Dyspnea (18%), cough (15%)Common (1% to 10%): Epistaxis, pulmonary embolismUncommon (0.
-1% to 1%): Pulmonary fibrosisFrequency not reported: Nasal dryness, interstitial lung disease (including fatal cases), lung infiltrates
+Very common ( or more): Dyspnea , cough Common ( to ): Epistaxis, pulmonary embolismUncommon ( to ): Pulmonary fibrosisFrequency not reported: Nasal dryness, interstitial lung disease (including fatal cases), lung infiltrates
 Panitumumab should be permanently discontinued in patients developing interstitial lung disease, pneumonitis, or lung infiltrates.
-Common (1% to 10%): Growth of eyelashes, blepharitis, increased lacrimation, ocular hyperemia, dry eye, eye pruritus, eye irritation, conjunctivitisUncommon (0.
-1% to 1%): eyelid irritation, keratitisRare (less than 0.
-1%): Ulcerative keratitis
+Common ( to ): Growth of eyelashes, blepharitis, increased lacrimation, ocular hyperemia, dry eye, eye pruritus, eye irritation, conjunctivitisUncommon ( to ): eyelid irritation, keratitisRare (less than ): Ulcerative keratitis
 Severe infusion reactions were identified as anaphylactic reaction, bronchospasm, fever, chills, and hypotension.
 Although fatal infusion reactions have not been reported with panitumumab (the active ingredient contained in Vectibix)  fatalities have occurred with other monoclonal antibody products.
 The infusion should be stopped if a severe infusion reaction occurs.
 Depending on the severity and/or persistence of the reaction, panitumumab may need to be permanently discontinued.
-Common (1% to 10%): HypersensitivityRare (less than 0.
-1%): Anaphylactic reaction, infusion reaction
-Very common (10% or more): AnemiaCommon (1% to 10%): Leukopenia
-Very common (10% or more): Paronychia (25%)Common (1% to 10%): Pustular rash, cellulitis, folliculitis, localized infectionUncommon (0.
-1% to 1%): Eye infection, eyelid infectionPostmarketing reports: Angioedema
+Common ( to ): HypersensitivityRare (less than ): Anaphylactic reaction, infusion reaction
+Very common ( or more): AnemiaCommon ( to ): Leukopenia
+Very common ( or more): Paronychia Common ( to ): Pustular rash, cellulitis, folliculitis, localized infectionUncommon ( to ): Eye infection, eyelid infectionPostmarketing reports: Angioedema
 Frequency not reported: Headache
-Very common (10% or more): Fatigue (26%), peripheral edema (12%)Common (1% to 10%): Mucosal inflammation, pyrexia, chills
+Very common ( or more): Fatigue , peripheral edema Common ( to ): Mucosal inflammation, pyrexia, chills
 Frequency not reported: Acute renal failure (in patients who developed diarrhea and dehydration)
 It is possible that some side effects of Vectibix may not have been reported.
 These can be reported to the FDA here.

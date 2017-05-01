@@ -4,55 +4,32 @@ See below for a comprehensive list of adverse effects.
 Other dosage forms:
 The most common adverse reactions among patients treated with ketorolac include abdominal pain, nausea, dyspepsia, and headaches.
 For patients receiving the nasal spray, nasal discomfort, rhinalgia, increased lacrimation, throat irritation, and rhinitis were reported.
-A large postmarketing observational study (n=10,000) revealed the incidence of clinically serious gastrointestinal (GI) bleeding was dose dependent and more than double in patients 65 years or older.
-The incidence of clinically serious GI bleeding after up to 5 days of treatment with doses of 60 mg or less, greater than 60 to 90 mg, greater than 90 to 120 mg, or greater than 120 mg, respectively was 0.
-4%, 0.
-4%, 0.
-9%, and 4.
-6% in those less than 65 years compared with 1.
-2%, 2.
-8%, 2.
-2%, and 7.
-7% in those 65 years or older.
-Among patients with a history of GI perforation, ulcer, or bleeding, these numbers were 2.
-1%, 4.
-6%, 7.
-8%, and 15.
-4% compared with 4.
-7%, 3.
-7%, 2.
-8%, and 25%, in younger and older patients, respectively.
-Very common (10% or more): Abdominal pain, dyspepsia, nauseaCommon (1% to 10%): Constipation, diarrhea, flatulence, gastrointestinal (GI) fullness, GI ulcers (gastric/duodenal), gross bleeding/perforation, heartburn, stomatitis, vomiting, throat irritation (nasal spray) Frequency not reported: Anorexia, dry mouth, eructation, esophagitis, excessive thirst, gastritis, glossitis, hematemesis, melena, rectal bleeding, increased appetite, peptic ulcers, ulcers, hematemesis, gastritisPostmarketing reports: Acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease), eructation
-Common (1% to 10%): Anemia, increased bleeding timeFrequency not reported: Bleeding, hematoma, postoperative wound hemorrhagePostmarketing reports: Agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, thrombocytopenia purpura, thrombocytopenia, neutropenia, postoperative wound hemorrhage (rarely requiring blood transfusion)
-Serious events of bleeding (n=4) or hematoma (n=3) at the operative site were reported in controlled clinical trials in patients (n=455) undergoing major surgeries (primarily knee and hip replacements, and abdominal hysterectomies) receiving ketorolac nasal spray compared with 1 patient in the placebo group (hematoma).
+A large postmarketing observational study (n=,) revealed the incidence of clinically serious gastrointestinal (GI) bleeding was dose dependent and more than double in patients  years or older.
+The incidence of clinically serious GI bleeding after up to  days of treatment with doses of  mg or less, greater than  to  mg, greater than  to  mg, or greater than  mg, respectively was , , , and  in those less than  years compared with , , , and  in those  years or older.
+Among patients with a history of GI perforation, ulcer, or bleeding, these numbers were , , , and  compared with , , , and , in younger and older patients, respectively.
+Very common ( or more): Abdominal pain, dyspepsia, nauseaCommon ( to ): Constipation, diarrhea, flatulence, gastrointestinal (GI) fullness, GI ulcers (gastric/duodenal), gross bleeding/perforation, heartburn, stomatitis, vomiting, throat irritation (nasal spray) Frequency not reported: Anorexia, dry mouth, eructation, esophagitis, excessive thirst, gastritis, glossitis, hematemesis, melena, rectal bleeding, increased appetite, peptic ulcers, ulcers, hematemesis, gastritisPostmarketing reports: Acute pancreatitis, liver failure, ulcerative stomatitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease), eructation
+Common ( to ): Anemia, increased bleeding timeFrequency not reported: Bleeding, hematoma, postoperative wound hemorrhagePostmarketing reports: Agranulocytosis, aplastic anemia, hemolytic anemia, lymphadenopathy, pancytopenia, thrombocytopenia purpura, thrombocytopenia, neutropenia, postoperative wound hemorrhage (rarely requiring blood transfusion)
+Serious events of bleeding (n=) or hematoma (n=) at the operative site were reported in controlled clinical trials in patients (n=) undergoing major surgeries (primarily knee and hip replacements, and abdominal hysterectomies) receiving ketorolac nasal spray compared with  patient in the placebo group (hematoma).
 In pediatric patients, an increased risk of bleeding was observed following tonsillectomy.
-In a retrospective analysis, risk of bleeding following a tonsillectomy with or without adenoidectomy was 10.
-1% in patients receiving this drug compared with 2.
-2% in those receiving opioids.
-The postoperative hemorrhage rate in patients 12 years and younger was 6.
-5% with ketorolac treatment versus 3.
-3% without.
-In a prospective study in patients 3 to 9 years undergoing tonsillectomy with or without adenoidectomy, the overall incidence of bleeding in patients receiving this drug was 16.
-3% compared with 17% in children receiving morphine.
-However, during the first 24 hours after surgery, bleeding was observed in 14.
-3% of the ketorolac group versus 4.
-2% of the morphine group.
-Common (1% to 10%): Edema, hypertension, bradycardiaFrequency not reported: Congestive heart failure, palpitations, pallor, tachycardia, syncope, cardiac failurePostmarketing reports: Arrhythmia, chest pain, flushing, hypotension, myocardial infarction, vasculitis
-Clinical trials of several cyclooxygenase (COX)-2 selective and nonselective NSAIDs of up to 3 years duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
+In a retrospective analysis, risk of bleeding following a tonsillectomy with or without adenoidectomy was  in patients receiving this drug compared with  in those receiving opioids.
+The postoperative hemorrhage rate in patients  years and younger was  with ketorolac treatment versus  without.
+In a prospective study in patients  to  years undergoing tonsillectomy with or without adenoidectomy, the overall incidence of bleeding in patients receiving this drug was  compared with  in children receiving morphine.
+However, during the first  hours after surgery, bleeding was observed in  of the ketorolac group versus  of the morphine group.
+Common ( to ): Edema, hypertension, bradycardiaFrequency not reported: Congestive heart failure, palpitations, pallor, tachycardia, syncope, cardiac failurePostmarketing reports: Arrhythmia, chest pain, flushing, hypotension, myocardial infarction, vasculitis
+Clinical trials of several cyclooxygenase (COX)- selective and nonselective NSAIDs of up to  years duration have shown an increased risk of serious cardiovascular thrombotic events, myocardial infarction, and stroke, which can be fatal.
 All NSAIDs appear to have a similar risk.
 There is no consistent evidence that concurrent use of aspirin mitigates this increased risk and may be associated with an increased risk of serious gastrointestinal events.
-Common (1% to 10%): Rash, pruritus, purpura, sweatingVery rare (less than 0.
-01%):Frequency not reported: Alopecia, photosensitivity, urticariaPostmarketing reports: Angioedema, exfoliative dermatitis, erythema multiforme, Lyell's syndrome, bullous reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis
+Common ( to ): Rash, pruritus, purpura, sweatingVery rare (less than ):Frequency not reported: Alopecia, photosensitivity, urticariaPostmarketing reports: Angioedema, exfoliative dermatitis, erythema multiforme, Lyell's syndrome, bullous reactions including Stevens-Johnson syndrome and toxic epidermal necrolysis
 Frequency not reported: Anaphylactoid reactionsPostmarketing reports: Laryngeal edema, tongue edema
-Common (1% to 10%): Abnormal renal function, oliguriaPostmarketing reports: Acute renal failure, nephrotic syndrome
-Common (1% to 10%): Elevated liver enzymesFrequency not reported: Hepatitis, jaundice, liver failure
+Common ( to ): Abnormal renal function, oliguriaPostmarketing reports: Acute renal failure, nephrotic syndrome
+Common ( to ): Elevated liver enzymesFrequency not reported: Hepatitis, jaundice, liver failure
 Frequency not reported: Weight changePostmarketing reports: Hyperglycemia, hyperkalemia, hyponatremia
-Very common (10% or more): Nasal discomfort (15%, nasal spray), rhinalgia (13%, nasal spray)Common (1% to 10%): Rhinitis (nasal spray)Frequency not reported: Epistaxis, pulmonary edema, asthmaPostmarketing reports: Bronchospasm, respiratory depression, pneumonia
-Very common (10% or more): HeadachesCommon (1% to 10%): Drowsiness, dizzinessFrequency not reported: Extrapyramidal symptoms, hyperkinesis, inability to concentrate, insomnia, paresthesia, somnolence, stupor, tremorsPostmarketing reports: Aseptic meningitis, convulsions, coma, taste abnormality
-Common (1% to 10%): Injection site pain
-Common (1% to 10%): Lacrimation increased (nasal spray)Postmarketing reports: Conjunctivitis, optic neuritis, visual disturbances, abnormal vision
+Very common ( or more): Nasal discomfort (, nasal spray), rhinalgia (, nasal spray)Common ( to ): Rhinitis (nasal spray)Frequency not reported: Epistaxis, pulmonary edema, asthmaPostmarketing reports: Bronchospasm, respiratory depression, pneumonia
+Very common ( or more): HeadachesCommon ( to ): Drowsiness, dizzinessFrequency not reported: Extrapyramidal symptoms, hyperkinesis, inability to concentrate, insomnia, paresthesia, somnolence, stupor, tremorsPostmarketing reports: Aseptic meningitis, convulsions, coma, taste abnormality
+Common ( to ): Injection site pain
+Common ( to ): Lacrimation increased (nasal spray)Postmarketing reports: Conjunctivitis, optic neuritis, visual disturbances, abnormal vision
 Frequency not reported: Anxiety, depression, euphoria, hallucinations, abnormal dreams, abnormal thinkingPostmarketing reports: Psychosis
-Common (1% to 10%): TinnitusFrequency not reported: Fever, asthenia, malaise, vertigo, hearing loss
+Common ( to ): TinnitusFrequency not reported: Fever, asthenia, malaise, vertigo, hearing loss
 Frequency not reported: Female infertility
 Postmarketing reports: Flank pain with or without hematuria and/or azotemia, hemolytic uremia syndrome, increased urinary frequency, oliguria, interstitial nephritis, urinary retention
 Frequency not reported: Infections, sepsis

@@ -4,13 +4,12 @@ Diarrhea; gas; nausea; stomach discomfort; vomiting.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); black, tarry stools; chest pain; irregular heartbeat; listlessness; numbness or tingling in your skin, lips, hands, or feet; severe nausea or vomiting; stomach pain or swelling; unusual confusion or anxiety; unusual muscle weakness or paralysis; vomit that looks like coffee grounds; weak or heavy legs.
 Hyperkalemia can cause muscle weakness, paresthesia of the extremities, listlessness, mental confusion, flaccid paralysis, cold skin, grey pallor, peripheral vascular collapse, fall in blood pressure, paralysis, cardiac arrhythmias, and heart block.
 Electrocardiogram abnormalities include disappearance of the P-wave, widening and slurring of QRS complex, changes of the S-T segment, tall peaked T-waves.
-At extremely high concentrations (8 to 11 mmol/L) may cause death from cardiac depression, arrhythmias, or arrest.
+At extremely high concentrations ( to  mmol/L) may cause death from cardiac depression, arrhythmias, or arrest.
 Frequency not reported: Hyperkalemia, hypervolemia
 Frequency not reported: Nausea, vomiting, flatulence, abdominal pain/discomfort, diarrhea, obstruction, bleeding, ulceration, perforation, gastrointestinal hemorrhage, local irritation of the mucosaPostmarketing reports: Delayed intestinal transit
 Frequency not reported: Injection site pain, injection site phlebitis, infection at injection site, venous thrombosis extending from site of injection, extravasation
 Frequency not reported: Cardiac arrhythmias, cardiac arrest
-Rare (less than 0.
-1%): Skin rashFrequency not reported: Urticaria, pruritus
+Rare (less than ): Skin rashFrequency not reported: Urticaria, pruritus
 Frequency not reported: Febrile response
 It is possible that some side effects of Slow-K may not have been reported.
 These can be reported to the FDA here.

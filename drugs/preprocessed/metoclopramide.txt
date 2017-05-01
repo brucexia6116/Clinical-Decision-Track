@@ -1,73 +1,37 @@
 Other dosage forms:
 If any of the following symptoms of overdose occur while taking metoclopramide, get emergency help immediately:
 The incidence of side effects correlates with dose and duration of metoclopramide therapy.
-Very common (10% or more): Drowsiness/somnolence (up to 70%), extrapyramidal syndrome (EPS)/acute dystonic reactions (at least 25%)Common (1% to 10%): Fatigue, restlessness, lassitude, parkinsonism/parkinsonian symptoms, akathisiaUncommon (0.
-1% to 1%): Dystonia, depressed level of consciousness, dyskinesia, hallucinationsRare (0.
-01% to 0.
-1%): Seizures/convulsions, dizziness, headacheVery rare (less than 0.
-01%): Neuroleptic malignant syndromeFrequency not reported: Tardive dyskinesia, pseudo-parkinsonism, syncope
+Very common ( or more): Drowsiness/somnolence (up to ), extrapyramidal syndrome (EPS)/acute dystonic reactions (at least )Common ( to ): Fatigue, restlessness, lassitude, parkinsonism/parkinsonian symptoms, akathisiaUncommon ( to ): Dystonia, depressed level of consciousness, dyskinesia, hallucinationsRare ( to ): Seizures/convulsions, dizziness, headacheVery rare (less than ): Neuroleptic malignant syndromeFrequency not reported: Tardive dyskinesia, pseudo-parkinsonism, syncope
 Drowsiness, decreased level of consciousness, confusion, and hallucinations have higher incidences with higher doses.
 Convulsive seizures have been reported, especially in patients with epilepsy; however, there is no obvious association with use of this drug.
 Parkinsonian symptoms may be related to usual/excessive doses and/or decreased renal function and includes tremor, rigidity, bradykinesia, and akinesia.
-Common (1% to 10%): Depression/acute depressionUncommon (0.
-1% to 1%): Confusion/confusional stateRare (0.
-01% to 0.
-1%): Trouble sleeping/insomnia, unusual irritabilityFrequency not reported: Mental depression with suicidal ideation/suicide, anxiety, agitation, mania, psychosis, severe dysphoria, obsessive rumination, delirium
+Common ( to ): Depression/acute depressionUncommon ( to ): Confusion/confusional stateRare ( to ): Trouble sleeping/insomnia, unusual irritabilityFrequency not reported: Mental depression with suicidal ideation/suicide, anxiety, agitation, mania, psychosis, severe dysphoria, obsessive rumination, delirium
 Hypotension, bradycardia, shock, and other abnormalities or cardiac conduction occurred most frequently with IV formulations.
 Cardiac arrest occurred shortly after IV administration, and may have been subsequent to bradycardia.
 Sinus arrest and transient facial/upper body flushing occurred, particularly with IV administration.
 Flushing typically occurred without alterations in vital signs following high dose IVs.
 Edema/fluid retention may be secondary to a transient increase in aldosterone levels.
-Common (1% to 10%): HypotensionUncommon (0.
-1% to 1%): BradycardiaRare (0.
-01% to 0.
-1%): Edema/fluid retention, face edemaVery rare (less than 0.
-01%): Abnormalities of cardiac conduction (e.
-g.
-, bradycardia, asystole, heart block, sinus arrest, cardiac arrest)Frequency not reported: Hypertension, ventricular/supraventricular tachycardia, tachycardia, acute congestive heart failure, atrioventricular (AV) block, QT prolonged, Torsade de Pointes, acute hypertension/hypertensive crisis in patients with pheochromocytoma, transient flushing of the face and upper body, atrial fibrillation, ventricular fibrillation, shock, palpitations
-Common (1% to 10%): DiarrheaRare (0.
-01% to 0.
-1%): Constipation, unusual dryness of the mouth, nauseaFrequency not reported: Bowel disturbances (primarily diarrhea)
-Common (1% to 10%): AstheniaFrequency not reported: Hyperthermia
-Uncommon (0.
-1% to 1%): Amenorrhea/irregular periods, hyperprolactinemiaRare (0.
-01% to 0.
-1%): GalactorrheaFrequency not reported: Gynecomastia/breast enlargement, transient increase in aldosterone levels
+Common ( to ): HypotensionUncommon ( to ): BradycardiaRare ( to ): Edema/fluid retention, face edemaVery rare (less than ): Abnormalities of cardiac conduction (, bradycardia, asystole, heart block, sinus arrest, cardiac arrest)Frequency not reported: Hypertension, ventricular/supraventricular tachycardia, tachycardia, acute congestive heart failure, atrioventricular (AV) block, QT prolonged, Torsade de Pointes, acute hypertension/hypertensive crisis in patients with pheochromocytoma, transient flushing of the face and upper body, atrial fibrillation, ventricular fibrillation, shock, palpitations
+Common ( to ): DiarrheaRare ( to ): Constipation, unusual dryness of the mouth, nauseaFrequency not reported: Bowel disturbances (primarily diarrhea)
+Common ( to ): AstheniaFrequency not reported: Hyperthermia
+Uncommon ( to ): Amenorrhea/irregular periods, hyperprolactinemiaRare ( to ): GalactorrheaFrequency not reported: Gynecomastia/breast enlargement, transient increase in aldosterone levels
 Amenorrhea, galactorrhea, and gynecomastia occurred secondary to hyperprolactinemia during prolonged treatment.
 Anaphylactic shock typically occurred with the IV formulation.
-Uncommon (0.
-1% to 1%): Hypersensitivity/hypersensitivity reactionsVery rare (less than 0.
-01%): Anaphylactic shock, anaphylactic/anaphylactoid reactions (e.
-g.
-, tongue swelling/edema)Frequency not reported: Angioneurotic edema (e.
-g.
-, glossal/laryngoedema reactions)
+Uncommon ( to ): Hypersensitivity/hypersensitivity reactionsVery rare (less than ): Anaphylactic shock, anaphylactic/anaphylactoid reactions (, tongue swelling/edema)Frequency not reported: Angioneurotic edema (, glossal/laryngoedema reactions)
 Leukopenia, neutropenia, and agranulocytosis typically did not have a clear-cut relationship with this drug.
 Methemoglobinemia and sulfhemoglobinemia occurred with high doses of this drug.
-Methemoglobinemia may be related to NADH cytochrome b5 reductase deficiency or overdose, particularly in neonates.
+Methemoglobinemia may be related to NADH cytochrome b reductase deficiency or overdose, particularly in neonates.
 Sulfhemoglobinemia usually occurred in adults with concomitant use of high doses of sulfur-releasing products.
-Rare (0.
-01% to 0.
-1%): Leukopenia, neutropenia, porphyria, agranulocytosisVery rare (less than 0.
-01%): Red cell disorders (e.
-g.
-, methemoglobinemia, sulfhemoglobinemia)
+Rare ( to ): Leukopenia, neutropenia, porphyria, agranulocytosisVery rare (less than ): Red cell disorders (, methemoglobinemia, sulfhemoglobinemia)
 Rash and urticaria typically occurred in patients with a history of asthma.
-Rare (0.
-01% to 0.
-1%): Skin rash, maculopapular rash, urticaria, pruritus
+Rare ( to ): Skin rash, maculopapular rash, urticaria, pruritus
 Hepatotoxicity occurred with concurrent use of other potentially hepatotoxic drugs and was characterized by findings such as jaundice and altered liver function tests.
-Rare (0.
-01% to 0.
-1%): Hepatotoxicity (jaundice, altered liver function tests)Postmarketing reports: Arteriovenous shunting and cholestasis in conjunction with hepatic hemangiomatosis
+Rare ( to ): Hepatotoxicity (jaundice, altered liver function tests)Postmarketing reports: Arteriovenous shunting and cholestasis in conjunction with hepatic hemangiomatosis
 Dystonic reactions typically presented as upper airway obstruction with stridor and dyspnea.
-Very rare (less than 0.
-01%): Dystonic reactionFrequency not reported: Muscle spasm
+Very rare (less than ): Dystonic reactionFrequency not reported: Muscle spasm
 Bronchospasm, wheezing, and dyspnea typically occurred in patients with a history of asthma.
 Respiratory failure occurred secondary to dystonic reactions.
-Frequency not reported: Bronchospasm, dyspnea, respiratory failure, acute asthmatic symptoms (e.
-g.
-, wheezing, dyspnea)
+Frequency not reported: Bronchospasm, dyspnea, respiratory failure, acute asthmatic symptoms (, wheezing, dyspnea)
 Frequency not reported: Urinary frequency, incontinence, sexual dysfunction, priapism, impotence
 Impotence may be secondary to hyperprolactinemia.
 Frequency not reported: Visual disturbances

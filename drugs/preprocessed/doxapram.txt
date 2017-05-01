@@ -3,9 +3,7 @@ Cough,   dyspnea,   tachypnea,   headache,   dizziness,   apprehension,   hypert
 
 -In preterm neonates and infants, this drug has caused significant QT interval prolongation (associated with atrioventricular block in some cases), bloody stools, abdominal distension, necrotizing enterocolitis, multiple gastric perforations/increased gastric residuals, neurodevelopmental delay, vomiting, premature teeth eruption, hypertension, irritability, jitteriness, hyperglycemia, glucosuria, erratic limb movements, excessive crying, and disturbed sleep.
 -Seizures have occurred in premature neonates with risk factors such as a previous seizure, perinatal asphyxia, or intracerebral hemorrhage.
-In many cases, this drug was given following administration of xanthine derivatives (e.
-g.
-, caffeine, aminophylline, or theophylline).
+In many cases, this drug was given following administration of xanthine derivatives (, caffeine, aminophylline, or theophylline).
 Frequency not reported: Phlebitis, heart rate variations, lowered T-waves, arrhythmia, ventricular tachycardia, sinus tachycardia, ventricular fibrillation, bradycardia, extrasystole, chest pain, chest tightness, increased blood pressure, flushing
 Frequency not reported: Pruritus, sweating
 Frequency not reported: Nausea, vomiting, diarrhea, defecation desire, salivation

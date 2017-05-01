@@ -5,45 +5,21 @@ If any of the following symptoms of overdose occur while taking atenolol, get em
 The more commonly reported side effects associated with this drug are hypotension, tiredness, and dizziness.
 Bradycardia and hypotension were reported more frequently in patients following a myocardial infarction than among those receiving the drug for treatment of hypertension.
 In a large study, after a myocardial infarction, patients were more likely to reduce the dosage or discontinue this drug due to bradycardia and hypotension.
-Common (1% to 10%): Bradycardia, hypotension, cold extremities, heart failure deterioration, heart block precipitation, postural hypotension with or without syncopeRare (0.
-01% to 0.
-1%): Intermittent claudication exacerbation, Raynaud's phenomenon Frequency not reported: Left ventricular insufficiencyPostmarketing reports: Sick sinus syndrome
-Very common (10% or more): Tiredness (up to 26%)Common (1% to 10%): FatigueFrequency not reported: Malaise, tinnitus
-Very common (10% or more): Dizziness (up to 13%)Common (1% to 10%): Vertigo, lightheadedness, lethargy, drowsinessRare (0.
-01% to 0.
-1%): Headache, paresthesiaFrequency not reported: Ataxia
-Very common (10% or more): Depression (up to 12%)Common (1% to 10%): DreamingUncommon (0.
-1% to 1%): Sleep disturbances, Rare (0.
-01% to 0.
-1%): Mood changes, nightmares, confusion, psychoses, hallucinationsFrequency not reported: Vivid dreams, insomnia
-Common (1% to 10%): Wheezing, dyspnea, pulmonary emboliRare (0.
-01% to 0.
-1%): Bronchospasm Frequency not reported: Asthma, nasal congestion
-Common (1% to 10%): Gastrointestinal disturbances, diarrhea, nauseaRare (0.
-01% to 0.
-1%): Dry mouthFrequency not reported: Indigestion, constipation
-Common (1% to 10%): Leg pain
-Uncommon (0.
-1% to 1%): Transaminase level elevationRare (0.
-01% to 0.
-1%): Hepatic toxicity including intrahepatic cholestasisPostmarketing reports: Elevated bilirubin
-Uncommon (0.
-1% to 1%): Renal failureFrequency not reported: Increased blood urea, increased serum creatinine
-Rare (0.
-01% to 0.
-1%): Purpura, alopecia, psoriasiform skin reactions, psoriasis exacerbations, skin rash
-Rare (0.
-01% to 0.
-1%): ImpotencePostmarketing reports: Peyronie's disease
-Rare (0.
-01% to 0.
-1%): Thrombocytopenia
-Rare (0.
-01% to 0.
-1%): Dry eyes, visual disturbances
+Common ( to ): Bradycardia, hypotension, cold extremities, heart failure deterioration, heart block precipitation, postural hypotension with or without syncopeRare ( to ): Intermittent claudication exacerbation, Raynaud's phenomenon Frequency not reported: Left ventricular insufficiencyPostmarketing reports: Sick sinus syndrome
+Very common ( or more): Tiredness (up to )Common ( to ): FatigueFrequency not reported: Malaise, tinnitus
+Very common ( or more): Dizziness (up to )Common ( to ): Vertigo, lightheadedness, lethargy, drowsinessRare ( to ): Headache, paresthesiaFrequency not reported: Ataxia
+Very common ( or more): Depression (up to )Common ( to ): DreamingUncommon ( to ): Sleep disturbances, Rare ( to ): Mood changes, nightmares, confusion, psychoses, hallucinationsFrequency not reported: Vivid dreams, insomnia
+Common ( to ): Wheezing, dyspnea, pulmonary emboliRare ( to ): Bronchospasm Frequency not reported: Asthma, nasal congestion
+Common ( to ): Gastrointestinal disturbances, diarrhea, nauseaRare ( to ): Dry mouthFrequency not reported: Indigestion, constipation
+Common ( to ): Leg pain
+Uncommon ( to ): Transaminase level elevationRare ( to ): Hepatic toxicity including intrahepatic cholestasisPostmarketing reports: Elevated bilirubin
+Uncommon ( to ): Renal failureFrequency not reported: Increased blood urea, increased serum creatinine
+Rare ( to ): Purpura, alopecia, psoriasiform skin reactions, psoriasis exacerbations, skin rash
+Rare ( to ): ImpotencePostmarketing reports: Peyronie's disease
+Rare ( to ): Thrombocytopenia
+Rare ( to ): Dry eyes, visual disturbances
 The clinical significance of elevated ANA levels is unknown.
-Very rare (less than 0.
-01%): Increase in antinuclear antibodies (ANA)
+Very rare (less than ): Increase in antinuclear antibodies (ANA)
 Frequency not reported: Angioedema, urticaria
 intravenous solution
 Blurred vision

@@ -1,18 +1,17 @@
 Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Black or hairy tongue; exaggerated reflexes; mild diarrhea; nausea or vomiting; pain, swelling, or redness at the injection site; twitching.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); bizarre behavior; blood in stools or urine; changes in heartbeat; chest pain; chills; coma; convulsions; excessive sweating; extreme tiredness; fainting; fast heartbeat; fever; flushing with lightheadedness or fainting; hallucinations; itching; muscle pain; pale skin; pounding in the chest; rapid breathing; seizures; severe diarrhea; stomach pain/cramps; vaginal irritation or itching; vein swelling; worsening of skin lesions.
-Allergic reactions have been reported with all penicillins and the incidence ranged from 0.
-7% to 10% in studies.
+Allergic reactions have been reported with all penicillins and the incidence ranged from  to  in studies.
 Hypersensitivity reactions with penicillin are more common and more serious with intravenous therapy, but have also been reported with oral therapy.
 An initial sensitizing exposure is required to stimulate the production of antigen-specific IgE before clinical manifestations of hypersensitivity are seen on the second exposure.
 There are numerous "hidden" environmental or occupational exposures to penicillin including in utero exposure, breast milk exposure, and occupational exposure.
 Immediate anaphylactic reactions were very rare and generally occurred after parenteral therapy; however, a few cases of anaphylaxis have been reported after oral therapy.
-Delayed reactions to penicillin have been reported within 1 to 2 weeks after therapy was started.
-The Jarisch-Herxheimer reaction has started 1 to 2 hours after initiation of therapy and has stopped within 12 to 24 hours.
+Delayed reactions to penicillin have been reported within  to  weeks after therapy was started.
+The Jarisch-Herxheimer reaction has started  to  hours after initiation of therapy and has stopped within  to  hours.
 The Herxheimer reaction may be due to the release of heat-stable pyrogen from spirochetes.
 Hypersensitivity side effects have included immediate and delayed allergic reactions.
-Immediate reactions generally occurred within 20 minutes of use and the severity ranged from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse, and death.
-A different type of immediate reaction, an accelerated reaction, occurred 20 minutes to 48 hours after use and included urticaria, pruritus, fever, and, occasionally, laryngeal edema.
+Immediate reactions generally occurred within  minutes of use and the severity ranged from urticaria and pruritus to angioneurotic edema, laryngospasm, bronchospasm, hypotension, vascular collapse, and death.
+A different type of immediate reaction, an accelerated reaction, occurred  minutes to  hours after use and included urticaria, pruritus, fever, and, occasionally, laryngeal edema.
 Manifestations of delayed reactions to penicillin included serum sickness-like symptoms, i.
 e.
 , fever, malaise, urticaria, myalgia, arthralgia, abdominal pain, and various skin rashes (ranging from maculopapular eruptions to exfoliative dermatitis).
@@ -23,15 +22,13 @@ Gastrointestinal side effects have included Clostridium difficile associated dia
 Nausea, vomiting, diarrhea, stomatitis, black or hairy tongue, and other symptoms of gastrointestinal irritation have been reported, especially during oral therapy.
 Metabolic side effects have included serious and even fatal electrolyte disturbances (i.
 e.
-, hyperkalemia) with large intravenous doses since 1 million units of penicillin G potassium contains 1.
-68 mEq of potassium ion.
-Severe or fatal potassium poisoning (signs included hyperreflexia, convulsions, and coma) has been reported in patients receiving continuous intravenous therapy in high doses (10 million to 100 million units/day), especially in the presence of renal insufficiency.
-Severe neurologic reactions were most often seen with penicillin doses of 18 million to 80 million units daily.
+, hyperkalemia) with large intravenous doses since  million units of penicillin G potassium contains  mEq of potassium ion.
+Severe or fatal potassium poisoning (signs included hyperreflexia, convulsions, and coma) has been reported in patients receiving continuous intravenous therapy in high doses ( million to  million units/day), especially in the presence of renal insufficiency.
+Severe neurologic reactions were most often seen with penicillin doses of  million to  million units daily.
 These reactions frequently abated after discontinuation of penicillin.
 In several cases, penicillin was restarted at a lower dose with no further sequelae.
 In one review, the authors found that cerebral spinal fluid (CSF) penicillin levels were higher in patients with seizures than in those without.
-CSF penicillin levels ranged from 12 to 61 units/mL in the seizure group with the highest CSF concentrations, compared to 7.
-8 units/mL in the group without seizures.
+CSF penicillin levels ranged from  to  units/mL in the seizure group with the highest CSF concentrations, compared to  units/mL in the group without seizures.
 Nervous system side effects have rarely included neuropathy, which was usually associated with high intravenous dosage.
 Neurotoxic reactions (including hyperreflexia, myoclonic twitches, seizures, and coma) have been reported after massive intravenous doses were administered, and were more likely in patients with renal dysfunction.
 Severe reactions (including myoclonus, seizures, auditory and visual hallucinations, and decreased mentation) have been reported with high dose penicillin therapy or in patients with renal dysfunction.
@@ -45,14 +42,14 @@ Increased BUN and creatinine, renal failure, and nephropathy have been reported.
 Hematologic side effects have included hemolytic anemia, anemia, leukopenia, neutropenia, thrombocytopenia, Coombs-positive hemolytic anemia, and a bleeding diathesis secondary to platelet dysfunction.
 Hemolytic anemia, leukopenia, and thrombocytopenia have been reported rarely and were usually associated with high intravenous dosage.
 Neutropenia resolved after penicillin was discontinued.
-Coombs-positive hemolytic anemia (an uncommon reaction) was reported in patients treated with greater than 10 million units/day of intravenous penicillin G and who previously received large doses of the drug.
+Coombs-positive hemolytic anemia (an uncommon reaction) was reported in patients treated with greater than  million units/day of intravenous penicillin G and who previously received large doses of the drug.
 A bleeding diathesis secondary to platelet dysfunction has been associated with large doses of penicillin.
 Local side effects have included injection site pain with intravenous administration, phlebitis, thrombophlebitis, and neurovascular damage.
 Genitourinary side effects have included hematuria, proteinuria, and eosinophiluria.
 Dermatologic side effects have included rash and urticaria.
 Contact dermatitis has been reported in those who prepared penicillin solutions.
-A 28-year-old female developed jaundice, fever, epidermolysis, abnormal liver function tests, and cholestasis several days after receiving a single dose of penicillin intramuscularly.
-Her liver dysfunction continued for up to 18 months.
+A -year-old female developed jaundice, fever, epidermolysis, abnormal liver function tests, and cholestasis several days after receiving a single dose of penicillin intramuscularly.
+Her liver dysfunction continued for up to  months.
 She had taken acetaminophen concurrently but denied alcohol use.
 Hepatic side effects have included increased SGOT, reversible hepatotoxicity, jaundice, and prolonged cholestasis.
 It is possible that some side effects of Pfizerpen may not have been reported.

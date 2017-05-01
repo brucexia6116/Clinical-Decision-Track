@@ -1,27 +1,18 @@
 Commonly reported side effects of bosutinib include: diarrhea, abdominal pain, anemia, edema, increased serum alanine aminotransferase, increased serum aspartate aminotransferase, nausea, neutropenia, peripheral edema, thrombocytopenia, and vomiting.
 See below for a comprehensive list of adverse effects.
 The most commonly reported side effects were diarrhea, nausea, thrombocytopenia, vomiting, abdominal pain, rash, anemia, pyrexia, and fatigue.
-Common (1% to 10%): Pericardial effusion, chest pain, prolonged QT intervalUncommon (0.
-1% to 1%): Pericarditis
-Very common (10% or more): Low platelet count (less than 50 × 10(9)/L, up to 57%), thrombocytopenia (up to 40%), absolute neutrophil count (less than 1 × 10(9)/L, up to 37%), Low hemoglobin (less than 80 g/L, up to 35%), anemia (up to 27%), neutropenia (16%), leukopenia (11%)Common (1% to 10%): Febrile neutropeniaUncommon (0.
-1% to 1%): GranulocytopeniaFrequency not reported: Myelosuppression
-Very common (10% or more): Increased alanine aminotransferase (up to 22%), increased aspartate aminotransferase (up to 18%)Common (1% to 10%): Increased bilirubin [greater than 3 times the upper limit of normal (3 x ULN)], hepatotoxicity, abnormal hepatic function, increased gamma-glutamyltransferaseUncommon (0.
-1% to 1%): Liver injuryFrequency not reported: Hepatic toxicity
-Very common (10% or more): Diarrhea (up to 84%), nausea (up to 46%), abdominal pain (up to 40%), vomiting (up to 37%)Common (1% to 10%): Increased lipase (greater than 2 × ULN), gastritis, increased blood amylaseUncommon (0.
-1% to 1%): Acute pancreatitis, gastrointestinal hemorrhageFrequency not reported: Gastrointestinal toxicity
-Very common (10% or more): Rash (up to 34%), pruritus (up to 11%)Common (1% to 10%): Urticaria, pruritus, acneUncommon (0.
-1% to 1%): Erythema multiforme, exfoliative rash, drug eruption
-Common (1% to 10%): Drug hypersensitivityUncommon (0.
-1% to 1%): Anaphylactic shock
-Very common (10% or more): Cough (up to 20%), nasopharyngitis (up to 12%), respiratory tract infection (up to 12%), dyspnea (up to 10%)Common (1% to 10%): Pneumonia, influenza, bronchitis, pleural effusionUncommon (0.
-1% to 1%): Acute pulmonary edema, respiratory failure, pulmonary hypertension
-Very common (10% or more): Decreased appetite (up to 13%)Common (1% to 10%): Hyperkalemia, dehydrationFrequency not reported: Fluid retention
-Very common (10% or more): Arthralgia (up to 14%), back pain (up to 12%)Common (1% to 10%): Myalgia
-Very common (10% or more): Headache (up to 20%), dizziness (up to 10%)Common (1% to 10%): Dysgeusia
-Very common (10% or more): Fatigue (up to 26%), pyrexia (up to 22%), edema (up to 14%), asthenia (11%)Common (1% to 10%): Low phosphorus (less than 0.
-6 mmol/L), tinnitus, pain, increased blood creatine phosphokinase
-Common (1% to 10%): Increased blood creatinineUncommon (0.
-1% to 1%): Acute renal failure, renal failure, renal impairment
+Common ( to ): Pericardial effusion, chest pain, prolonged QT intervalUncommon ( to ): Pericarditis
+Very common ( or more): Low platelet count (less than   /L, up to ), thrombocytopenia (up to ), absolute neutrophil count (less than   /L, up to ), Low hemoglobin (less than  g/L, up to ), anemia (up to ), neutropenia , leukopenia Common ( to ): Febrile neutropeniaUncommon ( to ): GranulocytopeniaFrequency not reported: Myelosuppression
+Very common ( or more): Increased alanine aminotransferase (up to ), increased aspartate aminotransferase (up to )Common ( to ): Increased bilirubin [greater than  times the upper limit of normal ( x ULN)], hepatotoxicity, abnormal hepatic function, increased gamma-glutamyltransferaseUncommon ( to ): Liver injuryFrequency not reported: Hepatic toxicity
+Very common ( or more): Diarrhea (up to ), nausea (up to ), abdominal pain (up to ), vomiting (up to )Common ( to ): Increased lipase (greater than   ULN), gastritis, increased blood amylaseUncommon ( to ): Acute pancreatitis, gastrointestinal hemorrhageFrequency not reported: Gastrointestinal toxicity
+Very common ( or more): Rash (up to ), pruritus (up to )Common ( to ): Urticaria, pruritus, acneUncommon ( to ): Erythema multiforme, exfoliative rash, drug eruption
+Common ( to ): Drug hypersensitivityUncommon ( to ): Anaphylactic shock
+Very common ( or more): Cough (up to ), nasopharyngitis (up to ), respiratory tract infection (up to ), dyspnea (up to )Common ( to ): Pneumonia, influenza, bronchitis, pleural effusionUncommon ( to ): Acute pulmonary edema, respiratory failure, pulmonary hypertension
+Very common ( or more): Decreased appetite (up to )Common ( to ): Hyperkalemia, dehydrationFrequency not reported: Fluid retention
+Very common ( or more): Arthralgia (up to ), back pain (up to )Common ( to ): Myalgia
+Very common ( or more): Headache (up to ), dizziness (up to )Common ( to ): Dysgeusia
+Very common ( or more): Fatigue (up to ), pyrexia (up to ), edema (up to ), asthenia Common ( to ): Low phosphorus (less than  mmol/L), tinnitus, pain, increased blood creatine phosphokinase
+Common ( to ): Increased blood creatinineUncommon ( to ): Acute renal failure, renal failure, renal impairment
 Black, tarry stools
 bleeding gums
 blood in the urine or stools

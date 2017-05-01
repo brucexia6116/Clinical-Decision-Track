@@ -1,0 +1,83 @@
+common side effects
+drug
+fatigue
+headache
+drug
+ribavirin
+common side effects
+fatigue
+anemia
+nausea
+headache
+insomnia
+diarrhea
+manufacturer product information for ribavirin
+fatigue
+asthenia
+irritability
+anemia
+hemoglobin
+hemoglobin
+g/dl
+g/dl during combination therapy
+subjects
+headache
+nausea
+diarrhea
+lipase
+asymptomatic lipase elevations
+times
+upper limit of normal
+uln
+subjects
+insomnia
+depressed mood
+serious symptomatic bradycardia
+patients
+taking amiodarone
+therapy with sofosbuvir in combination with another hepatitis c virus
+hcv
+postmarketing reports
+serious symptomatic bradycardia
+including
+fatal cardiac arrest
+cases
+requiring pacemaker intervention
+rash
+increased creatine kinase
+asymptomatic creatine kinase elevations
+uln
+subjects
+frequency
+increased indirect bilirubin
+increased indirect bilirubin
+mg/dl above baseline
+hiv
+hcv-coinfected patients
+drug
+atazanavir/ritonavir-based antiretroviral regimen
+chest pain
+discomfort
+lightheadedness
+dizziness
+fainting
+shortness of breath
+irregular heartbeat
+unconsciousness
+unusual tiredness
+fatigue
+headache
+diarrhea
+discouragement
+feeling
+irritability
+lack of appetite
+nausea
+lack
+loss of strength
+loss of interest
+pleasure
+rash
+tiredness
+trouble concentrating
+trouble sleeping

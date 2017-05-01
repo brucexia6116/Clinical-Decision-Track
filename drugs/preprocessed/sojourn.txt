@@ -5,33 +5,19 @@ Some sevoflurane side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 The most common adverse events were nausea, vomiting, hypotension, agitation, and cough.
-Very common (10% or more): Nausea (25%), vomiting (18%)Common (1% to 10%): Increased salivationUncommon (0.
-1% to 1%): Dry mouth
-Very common (10% or more): Hypotension (11%), bradycardiaCommon (1% to 10%): Tachycardia, hypertension Uncommon (0.
-1% to 1%): Arrhythmia, ventricular extrasystoles, supraventricular extrasystoles, complete AV block, bigeminy, inverted T wave, atrial fibrillation, atrial arrhythmia, second degree AV block, S-T depressed, extrasystolesFrequency not reported: QT prolongation, torsade de pointesPostmarketing reports: Cardiac arrest
-Very common (10% or more): Cough increased (11%), Common (1% to 10%): Laryngospasm, airway obstruction, breath holding, apnea, respiratory disorderUncommon (0.
-1% to 1%): Sputum increased, hypoxia, wheezing, bronchospasm, hyperventilation, pharyngitis, hiccup, hypoventilation, dyspnea, stridor, hypoxia, asthmaPostmarketing reports: Pulmonary edema
-Very common (10% or more): Agitation (up to 15%)Uncommon (0.
-1% to 1%): Crying, nervousness, confusion, insomnia, confusional state
-Common (1% to 10%): Somnolence, dizziness, movement Uncommon (0.
-1% to 1%): Syncope, hypertonia, taste perversionPostmarketing reports: Seizures, dystonia
-Common (1% to 10%): Shivering, fever, hypothermia, headache, blood fluoride increasedUncommon (0.
-1% to 1%): Asthenia, pain, fluorosis, Rare (less than 0.
-1%): Malignant hyperthermia
-Common (1% to 10%): White blood cell count abnormalUncommon (0.
-1% to 1%): Hemorrhage, leukocytosis, thrombocytopenia, leukopeniaPostmarketing reports: Transient elevations in white blood cell count
-Common (1% to 10%): Liver function test abnormalUncommon (0.
-1% to 1%): Increases in AST, increases in ALT, bilirubinemia Postmarketing reports: Hepatic dysfunction, hepatitis, jaundice, hepatic necrosis, hepatic failure, transient elevations in liver function tests
-Common (1% to 10%): Blood glucose abnormalUncommon (0.
-1% to 1%): Increases in LDH, increases in alkaline phosphatase, hypophosphatemia, acidosis, hyperglycemiaPostmarketing reports: Transient elevations in glucose
-Uncommon (0.
-1% to 1%): Increases in BUN, increases in creatinine, glycosuria, albuminuria, Frequency not reported: Mild impairment of renal concentrating abilityPostmarketing reports: Acute renal failure
-Uncommon (0.
-1% to 1%): Amblyopia, conjunctivitis
-Uncommon (0.
-1% to 1%): Urination impaired, urine abnormality, urinary retention, oliguria
-Uncommon (0.
-1% to 1%): Pruritus, rash
+Very common ( or more): Nausea , vomiting Common ( to ): Increased salivationUncommon ( to ): Dry mouth
+Very common ( or more): Hypotension , bradycardiaCommon ( to ): Tachycardia, hypertension Uncommon ( to ): Arrhythmia, ventricular extrasystoles, supraventricular extrasystoles, complete AV block, bigeminy, inverted T wave, atrial fibrillation, atrial arrhythmia, second degree AV block, S-T depressed, extrasystolesFrequency not reported: QT prolongation, torsade de pointesPostmarketing reports: Cardiac arrest
+Very common ( or more): Cough increased , Common ( to ): Laryngospasm, airway obstruction, breath holding, apnea, respiratory disorderUncommon ( to ): Sputum increased, hypoxia, wheezing, bronchospasm, hyperventilation, pharyngitis, hiccup, hypoventilation, dyspnea, stridor, hypoxia, asthmaPostmarketing reports: Pulmonary edema
+Very common ( or more): Agitation (up to )Uncommon ( to ): Crying, nervousness, confusion, insomnia, confusional state
+Common ( to ): Somnolence, dizziness, movement Uncommon ( to ): Syncope, hypertonia, taste perversionPostmarketing reports: Seizures, dystonia
+Common ( to ): Shivering, fever, hypothermia, headache, blood fluoride increasedUncommon ( to ): Asthenia, pain, fluorosis, Rare (less than ): Malignant hyperthermia
+Common ( to ): White blood cell count abnormalUncommon ( to ): Hemorrhage, leukocytosis, thrombocytopenia, leukopeniaPostmarketing reports: Transient elevations in white blood cell count
+Common ( to ): Liver function test abnormalUncommon ( to ): Increases in AST, increases in ALT, bilirubinemia Postmarketing reports: Hepatic dysfunction, hepatitis, jaundice, hepatic necrosis, hepatic failure, transient elevations in liver function tests
+Common ( to ): Blood glucose abnormalUncommon ( to ): Increases in LDH, increases in alkaline phosphatase, hypophosphatemia, acidosis, hyperglycemiaPostmarketing reports: Transient elevations in glucose
+Uncommon ( to ): Increases in BUN, increases in creatinine, glycosuria, albuminuria, Frequency not reported: Mild impairment of renal concentrating abilityPostmarketing reports: Acute renal failure
+Uncommon ( to ): Amblyopia, conjunctivitis
+Uncommon ( to ): Urination impaired, urine abnormality, urinary retention, oliguria
+Uncommon ( to ): Pruritus, rash
 Postmarketing reports: Allergic reactions, urticaria, bronchospasm, anaphylactic or anaphylactoid reaction, hypersensitivity (including contact dermatitis, rash, dyspnea, wheezing, chest discomfort, swelling face, or anaphylactic reaction)
 Postmarketing reports: Muscle twitching
 It is possible that some side effects of Sojourn may not have been reported.

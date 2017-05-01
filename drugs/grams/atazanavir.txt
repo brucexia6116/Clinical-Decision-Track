@@ -1,0 +1,384 @@
+common side effects
+therapy-naive patients during clinical trials
+nausea
+jaundice/scleral icterus
+rash
+common side effects
+therapy-experienced patients during clinical trials
+jaundice/scleral icterus
+myalgia
+elevated total bilirubin
+least times
+upper limit of normal
+uln
+alt
+least times uln
+ast
+least times uln
+patients
+most patients
+drug
+asymptomatic elevations in indirect
+bilirubin
+inhibition of udp-glucuronosyl transferase
+hyperbilirubinemia
+discontinuation of this drug
+bilirubin
+elevated total bilirubin
+elevated alt
+jaundice
+elevated ast
+jaundice/scleral icterusuncommon
+hepatitisrare
+hepatosplenomegalyfrequency
+hepatomegaly
+liver damage
+acute hepatic cytolysis
+biliary lithiasis
+choledocholithiasispostmarketing reports
+hepatic function abnormalities
+cholelithiasis
+cholecystitis
+cholestasis
+elevated total cholesterol
+least mg/dl
+triglycerides
+least mg/dl
+glucose
+least mg/dl
+patients
+elevated total cholesterol
+elevated triglycerides
+elevated glucoseuncommon
+anorexia
+appetite
+weight
+weight gainrare
+ketoacidosisfrequency
+elevated ldl cholesterol
+elevated hdl cholesterol
+hyperkalemia
+lactic acidosis
+hyperlactatemia
+redistribution/accumulation of body fat
+including
+central obesity
+dorsocervical fat enlargement
+peripheral wasting
+facial wasting
+breast enlargement
+cushingoid appearance
+hypertriglyceridemia
+hypercholesterolemia
+insulin resistancepostmarketing reports
+new onset diabetes mellitus
+exacerbation
+preexisting diabetes mellitus
+hyperglycemia
+rash
+lipodystrophyuncommon
+alopecia
+pruritus
+urticariarare
+vesiculobullous rash
+eczemafrequency
+photosensitivitypostmarketing reports
+maculopapular rash
+erythema multiforme
+toxic skin eruptions
+drug rash with eosinophilia
+systemic symptoms
+dress
+syndrome
+angioedema
+stevens-johnson syndrome
+elevated amylase
+least times uln
+lipase
+least times uln
+patients
+nausea
+elevated amylase
+elevated lipase
+abdominal pain
+diarrhea
+vomiting
+dyspepsiauncommon
+dry mouth
+flatulence
+gastritis
+pancreatitis
+abdominal distension
+aphthous stomatitisfrequency
+acholia
+colitis
+constipation
+dental pain
+esophageal ulcer
+gastrointestinal disorder
+peptic ulcer
+sialolithiasis/parotid gland lithiasis
+headache
+peripheral neurological symptoms
+dizzinessuncommon
+syncope
+peripheral neuropathy
+amnesia
+somnolence
+dysgeusiafrequency
+paresthesias
+elevated creatine kinase
+pain
+myalgia
+arthralgiauncommon
+muscle atrophyrare
+myopathyfrequency
+bone pain
+extremity pain
+myasthenia
+osteonecrosis
+elevated creatine kinase
+least times uln
+patients
+decreased neutrophils
+hemoglobin
+plateletsrare
+spontaneous bleeding in hemophiliacs
+decreased neutrophils
+cells/mm
+hemoglobin
+g/dl
+platelets
+cells/mm
+patients
+fever/pyrexia
+pain
+fatigue
+asthenia
+lipodystrophy syndromeuncommon
+chest pain
+malaise
+gait disturbancesrare
+edemafrequency
+burning sensation
+dysplasia
+facial atrophy
+generalized edema
+heat sensitivity
+infection
+overdose
+pallor
+peripheral edema
+substernal chest pain
+sweating
+semicircular canal lithiasis
+depression
+insomniauncommon
+anxiety
+disorientation
+disorder
+abnormal dream
+scleral icterus/ocular icterus
+increased coughuncommon
+dyspnea
+healthy volunteers
+patients
+abnormalities in av conduction
+first-degree av block
+year-old hiv-infected woman with congestive heart failure
+ejection fraction
+started lamivudine
+zidovudine
+atazanavir
+month
+patient
+syncope
+nausea
+begun days
+month after therapy initiation
+patient
+progressive shortness of breath
+ecg
+qtc interval prolongation of min
+starting
+starting antiretroviral therapy
+ecg
+qtc interval of min for the patient
+patient
+continuous ventricular tachycardia
+sinus bradycardia
+qt interval prolongation
+patient
+torsades de pointes
+further defibrillation
+treatment
+heart rate
+qt interval
+patient
+antiretroviral therapy
+hospitalization
+concerns
+regarding qt prolongation
+patient
+qtc interval
+min
+additional ventricular tachyarrhythmias
+patient
+lamivudine
+zidovudine
+atazanavir
+days
+ecg
+qtc interval prolongation
+min
+atazanavir
+cause of the prolonged qt interval
+torsades de pointes
+patient
+qt interval
+normal following discontinuation
+antiretroviral therapy
+hypertensionrare
+palpitation
+vasodilatationfrequency
+prolongation of the pr interval
+abnormalities in atrioventricular
+av
+conduction
+first-degree av block
+prolonged qt interval
+ventricular tachycardia
+qrs interval
+heart arrest
+heart block
+myocarditispostmarketing reports
+second-degree av block
+third-degree av block
+bundle branch block
+qtc prolongation
+torsades de pointes
+interstitial nephritisrare
+acute interstitial nephritis
+renal colic
+reversible acute renal failure
+urolithiasis
+kidney painpostmarketing reports
+nephrolithiasis
+hydronephrosis
+renal insufficiency
+analysis of a ureteral stone
+atazanavir metabolite
+calcium phosphate
+carbonate apatite
+stone
+metabolites
+apatite
+atazanavir crystals
+analysis of renal calculi from additional patients
+concentrations of atazanavir
+hypersensitivityfrequency
+allergic reaction
+hematuria
+frequency of micturition/pollakiuria
+proteinuria
+gynecomastiafrequency
+decreased male fertility
+frequency
+immune reconstitution syndrome
+autoimmune disorders in the setting of immune reconstitution
+graves
+disease
+polymyositis
+guillain-barre syndrome
+stomach discomfort
+fullness
+pain
+bloating
+blood in the urine
+blurred vision
+chest pain
+discomfort
+chills
+clay-colored stools
+constipation
+dark-colored urine
+decreased appetite
+diarrhea
+dizziness or lightheadedness
+dry mouth
+fainting
+fast heartbeat
+fast, shallow breathing
+fever
+flushed, dry skin
+fruit-like breath odor
+stomach pain
+general feeling of discomfort
+headache
+hives
+itching
+skin rash
+increased hunger
+increased thirst
+increased urination
+indigestion
+irregular heartbeat
+loss of appetite
+loss of consciousness
+muscle pain
+cramping
+nausea
+pain in the groin
+genitals
+pain in the stomach
+side
+abdomen
+radiating
+back
+recurrent fever
+severe nausea
+vomiting
+sharp back pain
+ribs
+sleepiness
+irregular heartbeat
+stomachache
+sweating
+swelling
+tightness in the chest
+trouble with breathing
+unexplained weight loss
+unpleasant breath odor
+unusual tiredness
+weakness
+vomiting
+vomiting of blood
+yellow eyes
+skin
+back pain
+cough, increased
+discouragement
+extra body fat
+feeling
+irritability
+loss of interest
+pleasure
+trouble concentrating
+trouble sleeping
+burning
+numbness
+tingling
+painful sensations
+difficulty with moving
+muscle stiffness
+pain
+pain in the joints
+unsteadiness or awkwardness
+weakness in the arms
+hands
+legs
+feet
+hair loss
+thinning of the hair
+rash with flat lesions
+small raised lesions on the skin

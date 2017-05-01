@@ -1,5 +1,4 @@
 As well as its needed effects, pancrelipase (the active ingredient contained in Viokase) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking pancrelipase, check with your doctor immediately:
 Some pancrelipase side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
@@ -7,7 +6,7 @@ Your health care professional may be able to help you prevent or reduce these si
 In general, pancreatic enzymes are well tolerated at recommended therapeutic doses.
 Gastrointestinal symptoms appear to be the primary, and most common adverse effect.
 Fibrosing colonopathy should be suspected in patients who present with obstruction, bloody diarrhea, chylous ascites, or a combination of abdominal pain with chronic diarrhea, inadequate weight gain, or both.
-Patients with fibrosing colonopathy should have their enzyme dosage reduced to the recommended range of 500 to 2500 units/kg per meal.
+Patients with fibrosing colonopathy should have their enzyme dosage reduced to the recommended range of  to  units/kg per meal.
 Surgical intervention is often needed in patients who cannot maintain their nutritional status.
 Gastrointestinal side effects have included cramping, nausea, abnormal feces, flatulence, abdominal pain, upper abdominal pain, and diarrhea, particularly with high doses.
 Fibrosing colonopathy has been reported.
@@ -16,7 +15,7 @@ Postmarketing reports have included abdominal distention, abdominal pain, diarrh
 Metabolic side effects reported with high doses of pancreatic enzymes have included hyperuricosuria and hyperuricemia.
 It appears that both the enzyme product and some undefined aspect of the disease may lead to increased uric acid levels.
 Postmarketing reports of inadequate control of diabetes mellitus have been reported.
-Krasinger and colleagues suggest that it may be reasonable to add allopurinol to the pancreatic enzyme treatment regimen in CF patients that have a urine pH of less than 6 and also excrete large amounts of uric acid.
+Krasinger and colleagues suggest that it may be reasonable to add allopurinol to the pancreatic enzyme treatment regimen in CF patients that have a urine pH of less than  and also excrete large amounts of uric acid.
 The addition of allopurinol may help to protect the renal tubules from long-term damage due to uric acid crystallization.
 Hypersensitivity side effects have included reversible bronchial asthma and nasal rhinitis due to exposure to pancreatic enzyme powder.
 Postmarketing severe allergic reactions including anaphylaxis, asthma, hives and pruritus have been reported.

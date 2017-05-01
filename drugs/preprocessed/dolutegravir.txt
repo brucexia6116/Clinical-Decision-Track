@@ -1,41 +1,34 @@
-Discontinuation due to side effects was reported in 2% of therapy-naive patients, 2% of therapy-experienced integrase strand transfer inhibitor (INSTI)-naive patients, and 3% of therapy-experienced INSTI-experienced patients.
-Very common (10% or more): Diarrhea (up to 16%), nausea (up to 15%)Common (1% to 10%): Elevated lipase, abdominal pain, abdominal discomfort, flatulence, upper abdominal pain, vomiting
-Grade 2 and Grade 3 to 4 elevations in lipase were reported in up to 8% and up to 3% of therapy-naive patients, respectively.
-Elevated lipase was reported in 8% of therapy-experienced INSTI-experienced patients.
-Common (1% to 10%): HyperglycemiaFrequency not reported: Fasted lipid values increased (including cholesterol, HDL cholesterol, LDL cholesterol, triglycerides), redistribution/accumulation of body fat (including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, "cushingoid appearance")
-Grade 2 and Grade 3 hyperglycemia were reported in up to 7% and up to 1% of therapy-naive patients, respectively.
-Hyperglycemia and elevated cholesterol were reported in 12% and 8% of therapy-experienced INSTI-experienced patients, respectively.
+Discontinuation due to side effects was reported in  of therapy-naive patients,  of therapy-experienced integrase strand transfer inhibitor (INSTI)-naive patients, and  of therapy-experienced INSTI-experienced patients.
+Very common ( or more): Diarrhea (up to ), nausea (up to )Common ( to ): Elevated lipase, abdominal pain, abdominal discomfort, flatulence, upper abdominal pain, vomiting
+Grade  and Grade  to  elevations in lipase were reported in up to  and up to  of therapy-naive patients, respectively.
+Elevated lipase was reported in  of therapy-experienced INSTI-experienced patients.
+Common ( to ): HyperglycemiaFrequency not reported: Fasted lipid values increased (including cholesterol, HDL cholesterol, LDL cholesterol, triglycerides), redistribution/accumulation of body fat (including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, "cushingoid appearance")
+Grade  and Grade  hyperglycemia were reported in up to  and up to  of therapy-naive patients, respectively.
+Hyperglycemia and elevated cholesterol were reported in  and  of therapy-experienced INSTI-experienced patients, respectively.
 Redistribution/accumulation of body fat has been reported with antiretroviral therapy; causality has not been established.
-Common (1% to 10%): Insomnia, abnormal dreams
-Grade 2 and Grade 3 to 4 elevations in AST were reported in up to 3% and up to 2% of therapy-naive patients, respectively.
-Grade 2 and Grade 3 to 4 elevations in ALT were reported in 2% and up to 2% of therapy-naive patients, respectively.
-Grade 2 and Grade 3 to 4 elevations in total bilirubin were reported in up to 2% and less than 1% of therapy-naive patients, respectively.
-Elevated ALT and AST were reported in 8% and 6% of therapy-experienced INSTI-experienced patients, respectively.
+Common ( to ): Insomnia, abnormal dreams
+Grade  and Grade  to  elevations in AST were reported in up to  and up to  of therapy-naive patients, respectively.
+Grade  and Grade  to  elevations in ALT were reported in  and up to  of therapy-naive patients, respectively.
+Grade  and Grade  to  elevations in total bilirubin were reported in up to  and less than  of therapy-naive patients, respectively.
+Elevated ALT and AST were reported in  and  of therapy-experienced INSTI-experienced patients, respectively.
 The rates of AST and ALT abnormalities were higher patients coinfected with hepatitis B and/or C virus.
-ALT abnormalities (Grade 2 to 4) in hepatitis B and/or C coinfected patients compared with HIV monoinfected patients were reported in 16% versus 2% with 50 mg once a day and 8% versus 7% with 50 mg twice a day.
+ALT abnormalities (Grade  to ) in hepatitis B and/or C coinfected patients compared with HIV monoinfected patients were reported in  versus  with  mg once a day and  versus  with  mg twice a day.
 Liver chemistry elevations consistent with immune reconstitution syndrome were reported in some patients with hepatitis B and/or C at the start of dolutegravir therapy, especially when antihepatitis therapy was stopped.
-Common (1% to 10%): Elevated AST, elevated ALT, elevated total bilirubin, hepatitisFrequency not reported: Liver chemistry elevations consistent with immune reconstitution syndrome
-Grade 2 and Grade 3 to 4 elevations in creatine kinase were reported in up to 3% and up to 4% of therapy-naive patients, respectively.
-Common (1% to 10%): Elevated creatine kinase, myositis
-Grade 2 and Grade 3 to 4 reductions in total neutrophils were reported in up to 3% and 2% of therapy-naive patients, respectively.
-Hematology laboratory abnormality (Grade 3 to 4) was reported in 2% of therapy-experienced INSTI-experienced patients, with neutropenia (1%) reported most often.
-Common (1% to 10%): Decreased total neutrophils, hematology laboratory abnormality
-Very common (10% or more): Headache (up to 14%)Common (1% to 10%): Dizziness
-Common (1% to 10%): Pruritus, rash (includes rash, generalized rash, macular rash, maculopapular rash, pruritic rash, drug eruption)
+Common ( to ): Elevated AST, elevated ALT, elevated total bilirubin, hepatitisFrequency not reported: Liver chemistry elevations consistent with immune reconstitution syndrome
+Grade  and Grade  to  elevations in creatine kinase were reported in up to  and up to  of therapy-naive patients, respectively.
+Common ( to ): Elevated creatine kinase, myositis
+Grade  and Grade  to  reductions in total neutrophils were reported in up to  and  of therapy-naive patients, respectively.
+Hematology laboratory abnormality (Grade  to ) was reported in  of therapy-experienced INSTI-experienced patients, with neutropenia  reported most often.
+Common ( to ): Decreased total neutrophils, hematology laboratory abnormality
+Very common ( or more): Headache (up to )Common ( to ): Dizziness
+Common ( to ): Pruritus, rash (includes rash, generalized rash, macular rash, maculopapular rash, pruritic rash, drug eruption)
 Increased serum creatinine occurred due to inhibition of tubular secretion of creatinine without affecting renal glomerular function.
-Increased serum creatinine was reported within the first 4 weeks of therapy and remained stable through 24 to 48 weeks.
-A mean change of 0.
-11 mg/dL (range of -0.
-6 to 0.
-62 mg/dL) was reported after 48 weeks of therapy in therapy-naive patients.
-Common (1% to 10%): Renal impairmentFrequency not reported: Increased serum creatinine (due to inhibition of tubular secretion of creatinine)
-Common (1% to 10%): Fatigue
-Uncommon (0.
-1% to 1%): Hypersensitivity reactions (characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury)
-Uncommon (0.
-1% to 1%): Immune reconstitution syndrome, autoimmune disorders in the setting of immune reconstitution (e.
-g.
-, Graves' disease, polymyositis, Guillain-Barre syndrome)
+Increased serum creatinine was reported within the first  weeks of therapy and remained stable through  to  weeks.
+A mean change of  mg/dL (range of - to  mg/dL) was reported after  weeks of therapy in therapy-naive patients.
+Common ( to ): Renal impairmentFrequency not reported: Increased serum creatinine (due to inhibition of tubular secretion of creatinine)
+Common ( to ): Fatigue
+Uncommon ( to ): Hypersensitivity reactions (characterized by rash, constitutional findings, and sometimes organ dysfunction, including liver injury)
+Uncommon ( to ): Immune reconstitution syndrome, autoimmune disorders in the setting of immune reconstitution (, Graves' disease, polymyositis, Guillain-Barre syndrome)
 Black, tarry stools
 blistering or peeling skin
 bloody urine

@@ -1,27 +1,20 @@
 More frequently reported side effects include: constipation, headache, and hypertension.
 See below for a comprehensive list of adverse effects.
-The most common adverse reactions (frequency of at least 5% and higher than placebo) were dizziness, headache, confusion, constipation, and diarrhea.
-Common (1% to 10%): Hypertension, hypotension, bradycardia, angina pectoris, phlebitis, deep thrombophlebitis, cardiac arrestUncommon (0.
-1% to 1%): Cardiac failure, venous thrombosis/thromboembolismFrequency not reported: Postural hypotension, rhythm and rate disturbance (e.
-g.
-, atrial fibrillation), QTc prolongation, ischemic event and sudden death (e.
-g.
-, myocardial infarction), embolism, venous thrombosis/thromboembolism
-Common (1% to 10%): Purpura, rash, basal cell carcinomaFrequency not reported: Dermatitis, skin disorder, skin ulceration, bullous eruption, pruritus, increased sweatingPostmarketing reports: Stevens Johnson syndrome
-Common (1% to 10%): Hyperglycemia, diabetes mellitusFrequency not reported: Aggravated diabetes mellitus
-Common (1% to 10%): Constipation, diarrhea, abdominal pain, vomiting, nausea, gastroenteritisFrequency not reported: Diverticulitis, dyspepsia, hemorrhoids, gastric ulcer, ileusPostmarketing reports: Pancreatitis
-Common (1% to 10%): Urinary incontinence, fecal incontinence, urinary tract infection, hyperuricemia, micturition frequencyFrequency not reported: Cystitis, pyuria, hematuria
-Common (1% to 10%): Increased ALT, increased AST, increased gamma-glutamyl transferase (GGT), increased phosphatase alkaline, elevated liver function testPostmarketing reports: Hepatitis, bilirubinemia
-Common (1% to 10%): Drug hypersensitivity
-Common (1% to 10%): Increased weight, decreased weight, anorexia, dehydration, hypokalemiaFrequency not reported: Increased appetite, hypernatremia, hyponatremia
-Common (1% to 10%): Back pain, arthralgia, leg pain, hypertonia, arthrosis, muscle weakness, myalgia, skeletal pain
-Common (1% to 10%): Dizziness, headache, somnolence, balance disorders, abnormal gait, syncope, comaUncommon (0.
-1% to 1%): SeizuresFrequency not reported: Aphasia, speech disorder, hyperkinesia, dyskinesia, dementia, partial epileptic seizure, convulsions, tremor, extrapyramidal disorder, transient ischemic attack, vertigo, numbness, paresthesia, stupor, cerebrovascular disorder, intracranial hemorrhage
-Common (1% to 10%): Cataract, conjunctivitis
-Common (1% to 10%): Fatigue, peripheral edema, pain, influenza, inflicted injury, fall, dependent edema, tooth ache, tooth caries, edema, abrasionUncommon (0.
-1% to 1%): Fungal infectionsFrequency not reported: Fever, asthenia, tiredness, chest pain, menstrual disorder
-Common (1% to 10%): Confusion, hallucination, anxiety, depression, aggression, agitation, insomnia, delusion, sleep disorder, abnormal cryingFrequency not reported: Increased libido, mental status changes, nervousness, excitation/mania, suicide attempt, psychotic reactionsPostmarketing reports: Suicidal ideation, suicide, psychotic reactions
-Common (1% to 10%): Coughing, dyspnea, bronchitis, pneumonia, upper respiratory tract infection, apnea, rhinitisFrequency not reported: Atelectasis
+The most common adverse reactions (frequency of at least  and higher than placebo) were dizziness, headache, confusion, constipation, and diarrhea.
+Common ( to ): Hypertension, hypotension, bradycardia, angina pectoris, phlebitis, deep thrombophlebitis, cardiac arrestUncommon ( to ): Cardiac failure, venous thrombosis/thromboembolismFrequency not reported: Postural hypotension, rhythm and rate disturbance (, atrial fibrillation), QTc prolongation, ischemic event and sudden death (, myocardial infarction), embolism, venous thrombosis/thromboembolism
+Common ( to ): Purpura, rash, basal cell carcinomaFrequency not reported: Dermatitis, skin disorder, skin ulceration, bullous eruption, pruritus, increased sweatingPostmarketing reports: Stevens Johnson syndrome
+Common ( to ): Hyperglycemia, diabetes mellitusFrequency not reported: Aggravated diabetes mellitus
+Common ( to ): Constipation, diarrhea, abdominal pain, vomiting, nausea, gastroenteritisFrequency not reported: Diverticulitis, dyspepsia, hemorrhoids, gastric ulcer, ileusPostmarketing reports: Pancreatitis
+Common ( to ): Urinary incontinence, fecal incontinence, urinary tract infection, hyperuricemia, micturition frequencyFrequency not reported: Cystitis, pyuria, hematuria
+Common ( to ): Increased ALT, increased AST, increased gamma-glutamyl transferase (GGT), increased phosphatase alkaline, elevated liver function testPostmarketing reports: Hepatitis, bilirubinemia
+Common ( to ): Drug hypersensitivity
+Common ( to ): Increased weight, decreased weight, anorexia, dehydration, hypokalemiaFrequency not reported: Increased appetite, hypernatremia, hyponatremia
+Common ( to ): Back pain, arthralgia, leg pain, hypertonia, arthrosis, muscle weakness, myalgia, skeletal pain
+Common ( to ): Dizziness, headache, somnolence, balance disorders, abnormal gait, syncope, comaUncommon ( to ): SeizuresFrequency not reported: Aphasia, speech disorder, hyperkinesia, dyskinesia, dementia, partial epileptic seizure, convulsions, tremor, extrapyramidal disorder, transient ischemic attack, vertigo, numbness, paresthesia, stupor, cerebrovascular disorder, intracranial hemorrhage
+Common ( to ): Cataract, conjunctivitis
+Common ( to ): Fatigue, peripheral edema, pain, influenza, inflicted injury, fall, dependent edema, tooth ache, tooth caries, edema, abrasionUncommon ( to ): Fungal infectionsFrequency not reported: Fever, asthenia, tiredness, chest pain, menstrual disorder
+Common ( to ): Confusion, hallucination, anxiety, depression, aggression, agitation, insomnia, delusion, sleep disorder, abnormal cryingFrequency not reported: Increased libido, mental status changes, nervousness, excitation/mania, suicide attempt, psychotic reactionsPostmarketing reports: Suicidal ideation, suicide, psychotic reactions
+Common ( to ): Coughing, dyspnea, bronchitis, pneumonia, upper respiratory tract infection, apnea, rhinitisFrequency not reported: Atelectasis
 Frequency not reported: AnemiaPostmarketing reports: Agranulocytosis, leukopenia (including neutropenia), pancytopenia, thrombocytopenia, thrombotic thrombocytopenic purpura, increased erythrocyte sedimentation rate (ESR), leucocytosis
 Frequency not reported: Abnormal renal function, renal calculusPostmarketing reports: Acute renal failure (including increased creatinine, renal insufficiency)
 Bloating or swelling of the face, arms, hands, lower legs, or feet

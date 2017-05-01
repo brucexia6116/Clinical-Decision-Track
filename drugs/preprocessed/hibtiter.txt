@@ -2,8 +2,7 @@ Keep track of any and all side effects your child has after receiving this vacci
 When the
 child receives a booster dose, you will need to tell the doctor if the previous shots caused any side
 effects.
-
-Becoming infected with haemophilus B is much more dangerous to your child’s health than
+Becoming infected with haemophilus B is much more dangerous to your childs health than
 receiving the vaccine to protect against it.
 Like any medicine, this vaccine can cause side effects, but
 the risk of serious side effects is extremely low.
@@ -26,7 +25,6 @@ diarrhea.
 This is not a complete list of side effects and others may occur.
 Call your
 doctor for medical advice about side effects.
-
 pale skin, severe weakness, dizziness, fast heartbeat;
 extreme drowsiness, fainting;
 fussiness, irritability, crying for an hour or longer;

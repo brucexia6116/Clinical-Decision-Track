@@ -5,38 +5,22 @@ The most frequently reported adverse effects in all clinical trials were hyperse
 The most frequently reported adverse effects following treatment were hypoxia, pyrexia, rash, vomiting, diarrhea, cough, musculoskeletal pain, headache, pruritus, and urticaria.
 In clinical trials, the most common adverse effects were hypersensitivity reactions and included rash, urticaria, pruritus, flushing, pyrexia, and headache.
 Most reactions were resolved with slowing the infusion rate or temporarily stopping the infusion, with or without additional treatments including antihistamines and/or corticosteroids prior to or during infusions.
-Very common (10% or more): Hypersensitivity reactionFrequency not reported: Anaphylactoid/anaphylactic reactionPostmarketing reports: Late-emergent anaphylactoid reaction
-In clinical trials, 32 out of 63 patients 5 years and older tested positive for antidrug antibodies at least 1 time; of the 32 patients, 23 tested positive for antidrug antibodies 3 or more times.
+Very common ( or more): Hypersensitivity reactionFrequency not reported: Anaphylactoid/anaphylactic reactionPostmarketing reports: Late-emergent anaphylactoid reaction
+In clinical trials,  out of  patients  years and older tested positive for antidrug antibodies at least  time; of the  patients,  tested positive for antidrug antibodies  or more times.
 The incidence of hypersensitivity reactions was higher in positive antidrug antibody patients than those who tested negative.
-Out of 32 antidrug antibody positive patients, 13 also tested positive for neutralizing antibodies.
+Out of  antidrug antibody positive patients,  also tested positive for neutralizing antibodies.
 There was no clear relationship between presence of either type of antibody and therapeutic response.
-Very common (10% or more): Antidrug antibody development (50%), neutralizing antibody development (24.
-3%)
-Very common (10% or more): Headache (up to 65.
-6%)Common (1% to 10%): Dizziness, tremor
-Very common (10% or more): Rash (up to 34.
-4%), pruritus (up to 31.
-3%), urticaria (up to 16%)Common (1% to 10%): Erythema
-Very common (10% or more): Infusion-related reaction (68.
-8%), pyrexia (up to 62.
-5%), chest pain (up to 15.
-6%), infusion site swelling (12.
-5%)Common (1% to 10%): Face edema, peripheral edema
+Very common ( or more): Antidrug antibody development , neutralizing antibody development 
+Very common ( or more): Headache (up to )Common ( to ): Dizziness, tremor
+Very common ( or more): Rash (up to ), pruritus (up to ), urticaria (up to )Common ( to ): Erythema
+Very common ( or more): Infusion-related reaction , pyrexia (up to ), chest pain (up to ), infusion site swelling Common ( to ): Face edema, peripheral edema
 The most serious infusion-related reactions included anaphylactoid/anaphylactic reactions.
 The most common infusion-related reactions included cutaneous reactions (rash, pruritus, urticaria), pyrexia, headache, hypertension, flushing, wheezing, hypoxia, dyspnea, abdominal pain, nausea, dyspepsia, chest pain, and infusion site swelling.
-Treatment/amelioration of infusion-related reactions included slowing the infusion rate, interrupting the infusion, or drug therapy (e.
-g.
-, antihistamines, antipyretics, low-dose corticosteroids [prednisone, methylprednisolone], beta-agonist nebulization).
-Very common (10% or more): Musculoskeletal pain (13%)Common (1% to 10%): Arthralgia
-Very common (10% or more): Abdominal pain (up to 53.
-1%), nausea (up to 28.
-1%), dyspepsia (12.
-5%), vomiting, diarrheaCommon (1% to 10%): Swollen tongue
-Very common (10% or more): Hypertension (up to 25%), flushing (15.
-6%)Common (1% to 10%): Cyanosis, arrhythmia, tachycardia, hypotensionPostmarketing reports: Cardiac failure, cardiorespiratory arrest
-Very common (10% or more): Wheezing (15.
-6%), dyspnea (up to 12.
-5%)Common (1% to 10%): Cough, bronchospasm, tachypnea, hypoxiaFrequency not reported: Pulmonary embolismPostmarketing reports: Respiratory failure, respiratory distress, pneumonia
+Treatment/amelioration of infusion-related reactions included slowing the infusion rate, interrupting the infusion, or drug therapy (, antihistamines, antipyretics, low-dose corticosteroids [prednisone, methylprednisolone], beta-agonist nebulization).
+Very common ( or more): Musculoskeletal pain Common ( to ): Arthralgia
+Very common ( or more): Abdominal pain (up to ), nausea (up to ), dyspepsia , vomiting, diarrheaCommon ( to ): Swollen tongue
+Very common ( or more): Hypertension (up to ), flushing Common ( to ): Cyanosis, arrhythmia, tachycardia, hypotensionPostmarketing reports: Cardiac failure, cardiorespiratory arrest
+Very common ( or more): Wheezing , dyspnea (up to )Common ( to ): Cough, bronchospasm, tachypnea, hypoxiaFrequency not reported: Pulmonary embolismPostmarketing reports: Respiratory failure, respiratory distress, pneumonia
 Bone or muscle pain
 chest pain
 chills

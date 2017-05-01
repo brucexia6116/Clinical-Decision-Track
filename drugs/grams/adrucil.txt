@@ -1,0 +1,211 @@
+way
+medicines
+body
+chance
+other unwanted effects
+months
+years after the medicine
+delayed effects
+certain types of cancer
+leukemia
+possible effects
+doctor
+following side effects
+taking fluorouracil
+check
+doctor
+nurse
+medicine
+temporary loss of hair
+treatment with fluorouracil
+normal hair growth
+taking
+drug
+side effects
+medical attention
+following side effects
+doctor
+ischemic ecg abnormalitiescommon
+angina
+pectoris-like chest painuncommon
+arrhythmia
+myocardial infarction
+myocardial ischemia myocarditis
+heart insufficiency
+dilative cardiomyopathy
+cardiac shock
+hypotensionrare
+cerebral
+peripheral ischemia
+raynaud
+syndrome
+thromboembolismvery
+cardiac arrest
+sudden cardiac deathfrequency
+tachycardia
+palmar-plantar erythrodysesthesia syndrome
+hand-foot syndrome
+alopeciauncommon
+dermatitis
+skin alterations
+dry skin
+fissure erosion
+erythema
+pruritic maculopapular rash
+exanthema
+urticaria
+photosensitivity
+hyperpigmentation
+streaky hyperpigmentation
+depigmentation near the veins
+changes in nails
+diffuse superficial blue pigmentation
+hyperpigmentation
+nail dystrophy
+pain
+thickening of the nail bed
+paronychia
+onycholysis
+total thyroxin
+t
+total triiodothyronine
+t
+mucositis
+stomatitis
+esophagitis
+pharyngitis
+proctitis
+anorexia
+watery diarrhea
+nausea
+vomitinguncommon
+dehydration
+gi ulceration
+gi bleeding
+gi sloughingfrequency
+dysphagia
+spermatogenesis
+ovulation disorderfrequency
+urinary tract infection
+myelosuppression
+neutropenia
+thrombocytopenia
+leucopenia
+agranulocytosis
+anemia
+pancytopeniarare
+thrombophlebitis/vein tracking
+liver cell damagevery
+liver necrosis
+biliary sclerosis
+cholecystitis
+generalized
+allergic reactions
+anaphylaxis
+anaphylactic shock
+immunosuppression with an
+increased risk of infectionfrequency
+sepsis
+septic shock
+neutropenic sepsis
+super infection
+cellulitis
+headache
+dizziness
+parkinson
+disease like symptoms
+pyramidal signsvery
+symptoms of leukoencephalopathy
+including ataxia
+acute cerebellar syndrome
+dysarthria
+confusion
+disorientation
+myasthenia
+aphasia
+convulsion
+coma in patients
+receiving high doses
+patients with dihydropyrimidine dehydrogenase deficiency
+frequency
+peripheral neuropathy
+acute cerebellar syndrome
+nystagmus
+excessive lacrimation
+vision
+eye movement disturbance
+optic neuritis
+diplopia
+decrease in visual acuity
+photophobia
+conjunctivitis
+blepharitis
+ectropion
+dacryostenosis
+kidney failure
+euphoria
+somnolencerare
+confusion
+disorientation
+bronchospasm
+epistaxisfrequency
+breathlessness
+pneumonia
+pharyngitis
+diarrhea
+heartburn
+sores in mouth
+lips
+black, tarry stools
+cough
+hoarseness
+fever
+chills
+fever or chills
+side pain
+fever
+chills
+nausea
+vomiting
+difficult urination
+fever
+chills
+stomach cramps
+blood in urine
+stools
+red spots on skin
+unusual bleeding
+bruising
+chest pain
+cough
+shortness of breath
+tingling of hands
+feet
+pain
+redness
+swelling
+trouble with balance
+loss of appetite
+nausea and vomiting 
+skin rash
+itching
+weakness
+dry
+cracked skin
+black, tarry stools
+blood in urine
+stools
+cough
+hoarseness
+fever
+chills
+fever or chills
+side pain
+fever
+chills
+difficult urination
+fever
+chills
+red spots on skin
+unusual bleeding
+bruising

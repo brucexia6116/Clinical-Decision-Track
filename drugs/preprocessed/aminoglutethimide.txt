@@ -9,14 +9,13 @@ In general, side effects have been reported to have occurred in approximately tw
 Side effects typically manifest as sedation or lethargy and skin rash.
 Somnolence and lethargy are dose-related and are more common early in therapy.
 Although these effects are usually transient, some patients may require a dosage reduction to alleviate severe lethargy.
-Nervous system side effects have included lethargy (up to 40% incidence), ataxia (up to 10%), malaise, confusion, dizziness, and headache.
+Nervous system side effects have included lethargy (up to  incidence), ataxia (up to ), malaise, confusion, dizziness, and headache.
 Although these rashes are generally mild and transient, they have also occurred in conjunction with more serious side effects, such as cholestatic jaundice and blood dyscrasias.
 In addition, patients on radiotherapy in close temporal association with aminoglutethimide administration have developed erythema, confluent and plaque-like rashes, and marked desquamation in the areas of radiation exposure.
-Dermatologic side effects have included rash of the morbilliform or maculopapular types in up to 30% of patients, pruritus, petechiae, ecchymoses, urticaria, oral ulcerations, and capillaritis (purpura simplex).
-Gastrointestinal side effects have included nausea (14%) and vomiting (3%).
+Dermatologic side effects have included rash of the morbilliform or maculopapular types in up to  of patients, pruritus, petechiae, ecchymoses, urticaria, oral ulcerations, and capillaritis (purpura simplex).
+Gastrointestinal side effects have included nausea  and vomiting .
 Hematologic side effects have included thrombocytopenia, leukopenia, eosinophilia, pancytopenia, and agranulocytosis.
-In a multicenter analysis involving 1,233 patients treated with aminoglutethimide, 0.
-9% of patients developed hematologic toxicity.
+In a multicenter analysis involving , patients treated with aminoglutethimide,  of patients developed hematologic toxicity.
 Thrombocytopenia and/or leukopenia were noted.
 One patient with marrow aplasia developed septicemia and died.
 Additional cases of fatal thrombocytopenia and fatal agranulocytosis have been reported, although most patients recover with discontinuation of aminoglutethimide and supportive care.
@@ -38,9 +37,9 @@ Endocrine side effects have included hypothyroidism and adrenal insufficiency.
 Hypersensitivity side effects have included skin rashes, pruritus, and rarely, Stevens-Johnson syndrome.
 Immunologic side effects have included positive antinuclear antibody and drug-induced systemic lupus erythematosus.
 Musculoskeletal side effects have included leg cramps and myalgia.
-Aminoglutethimide interferes with the conversion of cholesterol to delta-5-pregnenolone.
+Aminoglutethimide interferes with the conversion of cholesterol to delta--pregnenolone.
 Consequently, serum cholesterol levels may become elevated.
-In one study, 68% of patients treated with aminoglutethimide 500 mg per day experienced elevations in total cholesterol and 100% of patients treated with 1000 mg per day experienced this effect.
+In one study,  of patients treated with aminoglutethimide  mg per day experienced elevations in total cholesterol and  of patients treated with  mg per day experienced this effect.
 In another study, patients who were normolipidemic at baseline developed elevated GGT in addition to elevated lipoproteins.
 Metabolic side effects have included elevations in total cholesterol, low density lipoprotein cholesterol, apoprotein B, and apoprotein C-III.
 Aminoglutethimide has been reported to decrease thyroid hormone secretion.

@@ -1,14 +1,11 @@
 As well as its needed effects, sulfadiazine may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking sulfadiazine, check with your doctor immediately:
 Some sulfadiazine side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Hypersensitivity side effects have included urticarial rash (most common), allergic myocarditis, anaphylactoid reactions, anaphylaxis, arthralgia, conjunctival and scleral injection, drug fever and chills, epidermal necrolysis, erythema multiforme, exfoliative dermatitis, generalized skin eruptions, periorbital edema, photosensitization, serum sickness, Stevens-Johnson syndrome, and urticaria.
 The use of sulfonamide antibiotics, including sulfadiazine, is associated with large increases in the risk of Stevens-Johnson syndrome and toxic epidermal necrolysis, although these phenomena are rare as a whole.
-Hematologic side effects have included agranulocytosis (0.
-1%), aplastic anemia, hemolytic anemia (0.
-05%), hypoprothrombinemia, leukopenia, methemoglobinemia, and purpura.
+Hematologic side effects have included agranulocytosis , aplastic anemia, hemolytic anemia , hypoprothrombinemia, leukopenia, methemoglobinemia, and purpura.
 Hemolytic anemia occurs less often with sulfadiazine than with other sulfonamides.
 Aplastic anemia may be more likely in patients with poor bone marrow reserves.
 Gastrointestinal side effects have included nausea, vomiting, abdominal pain, diarrhea, anorexia, pancreatitis, and stomatitis.
@@ -24,7 +21,7 @@ Psychiatric side effects have rarely included frank psychosis in patients with A
 Tremulousness, disorientation, and delirium have been reported.
 Nervous system side effects have included ataxia, convulsions, hallucinations, headache, insomnia, mental depression, peripheral neuritis, tinnitus, and vertigo.
 Renal side effects have included crystalluria, lupus erythematosus, periarteritis nodosa, toxic nephrosis with oliguria and anuria, and acute renal failure secondary to crystalluria or tubulointerstitial nephritis.
-In one case, analysis of the stone fragments showed a composition of 100% acetylated 2-sulfanilamidopyrimidine, a metabolite of sulfadiazine.
+In one case, analysis of the stone fragments showed a composition of  acetylated -sulfanilamidopyrimidine, a metabolite of sulfadiazine.
 Genitourinary side effects have included urolithiasis.
 Metabolic side effects have included hypoglycemia.
 Endocrine side effects associated with sulfonamides have rarely included diuresis, goiter production, and sialadenitis.

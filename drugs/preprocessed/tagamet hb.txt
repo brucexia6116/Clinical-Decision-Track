@@ -2,20 +2,17 @@ More frequent side effects include: gynecomastia.
 See below for a comprehensive list of adverse effects.
 Side effects include:
 Headache,   dizziness, somnolence, diarrhea.
-
-With ≥1 month of therapy: gynecomastia.
+With  month of therapy: gynecomastia.
 
 With IM therapy: transient pain at injection site.
-
-Nervous system side effects have included headache (up to 3.
-5%), dizziness (1%), and somnolence (1%).
+Nervous system side effects have included headache (up to ), dizziness , and somnolence .
 Severe mental status changes, including depression, agitation, disorientation, confusion, delirium, unsteadiness, slurred speech, lethargy, hallucinations, and coma, while uncommon, have been reported frequently in the literature.
 Other nervous system effects reported are extrapyramidal symptoms, cerebellar syndrome with encephalopathy, and paresthesias.
 Critical illness, advanced age, renal, and/or liver disease appear to be associated with an increased risk for central nervous system toxicity.
 The mechanism by which cimetidine induces mental status changes is not well established but appears to involve increased serum concentrations of cimetidine and, possibly, cimetidine sulfoxide.
 Advanced age has been implicated in many case reports of mental status changes, however, the pharmacokinetics of cimetidine correlate more closely with renal function, making renal dysfunction associated with advanced age a more likely risk factor than age itself.
 In addition, enhanced cimetidine penetration of the blood brain barrier has been demonstrated in patients with liver disease.
-Onset of symptoms have usually developed within 2 to 3 days of start of therapy, but may be delayed.
+Onset of symptoms have usually developed within  to  days of start of therapy, but may be delayed.
 Following discontinuation of cimetidine, mental status usually normalizes over several days.
 Psychiatric side effects may accompany other signs and symptoms of neurologic toxicity such as unsteadiness, slurred speech, and lethargy.
 Age, renal dysfunction, and/or liver disease may be predisposing factors in these cases.
@@ -23,30 +20,27 @@ Psychiatric side effects in the form of severe depression, suicidal ideation, pa
 Psychiatric side effects have included depression, paranoia, agitation, mania, hallucinations, psychosis, and loss of libido.
 These side effects may be accompanied by other signs and symptoms of neurologic toxicity.
 Critical illness, advanced age, renal, and/or liver disease appear to be associated with an increased risk for central nervous system toxicity, including psychiatric disturbances.
-Endocrine side effects have included gynecomastia, occurring in 0.
-3% to 1% of patients treated for nonhypersecretory conditions for 1 month or longer.
-In patients treated for pathologic hypersecretory conditions, this occurred in about 4% of cases.
+Endocrine side effects have included gynecomastia, occurring in  to  of patients treated for nonhypersecretory conditions for  month or longer.
+In patients treated for pathologic hypersecretory conditions, this occurred in about  of cases.
 In the majority of cases, however, hormone levels remain in the normal range.
 In addition, galactorrhea, impotence, and transient alopecia as well as a case of possible cimetidine-induced hypoparathyroidism have been reported.
-A large population-based cohort study involving 81,535 men evaluated the risk of gynecomastia associated with cimetidine, ranitidine, misoprostol, and omeprazole.
-Overall, 37,202 men received cimetidine.
-Gynecomastia developed in 86 men treated with cimetidine.
-The relative risk of gynecomastia during cimetidine treatment compared to a control population not treated with cimetidine was 7.
-2.
-Use of daily doses of 1000 mg or more was associated with a relative risk of 43.
-5.
+A large population-based cohort study involving , men evaluated the risk of gynecomastia associated with cimetidine, ranitidine, misoprostol, and omeprazole.
+Overall, , men received cimetidine.
+Gynecomastia developed in  men treated with cimetidine.
+The relative risk of gynecomastia during cimetidine treatment compared to a control population not treated with cimetidine was .
+Use of daily doses of  mg or more was associated with a relative risk of .
 Luteinizing hormone (LH), follicle-stimulating hormone (FSH), serum prolactin, testosterone, and estradiol levels are usually within the normal range in patients who develop gynecomastia or breast tenderness while on cimetidine.
 However, decreases in serum testosterone and increases in LH and estradiol as well as increases in serum prolactin have been reported on occasion.
 Severe hypocalcemia was reported in an elderly woman treated with cimetidine postoperatively.
 There was some evidence in this case to support a possible cimetidine-induced reduction in parathyroid hormone with subsequent hypocalcemia.
 More study is needed to confirm this.
-In a study involving medical ICU patients requiring invasive blood pressure monitoring for circulatory instability or with a need for repeated arterial blood gas draws, an average decrease of 14 mmHg in systolic and 9 mmHg in diastolic pressure was noted in 74% (50/68) of patients following administration of cimetidine (the active ingredient contained in Tagamet HB) 200 mg IV over 3 minutes.
-In 13% of patients, systolic pressure decreased by more than 30 mmHg.
+In a study involving medical ICU patients requiring invasive blood pressure monitoring for circulatory instability or with a need for repeated arterial blood gas draws, an average decrease of  mmHg in systolic and  mmHg in diastolic pressure was noted in  (/) of patients following administration of cimetidine (the active ingredient contained in Tagamet HB)  mg IV over  minutes.
+In  of patients, systolic pressure decreased by more than  mmHg.
 Most cardiovascular side effects are noted following rapid intravenous administration.
 While administration by slow infusion appears to reduce the incidence of such effects, serious cardiovascular events, including sinus arrest, have been reported with continuous intravenous infusions as well as oral administration.
 Cardiovascular side effects have been rarely reported.
 These are usually associated with rapid intravenous administration.
-Tachycardia, bradycardia, hypotension, QT interval prolongation, premature ventricular contractions, junctional rhythm, AV block, and sinus arrest have been reported with H2 receptor antagonist.
+Tachycardia, bradycardia, hypotension, QT interval prolongation, premature ventricular contractions, junctional rhythm, AV block, and sinus arrest have been reported with H receptor antagonist.
 Hematologic side effects have rarely included leukopenia, eosinophilia, neutropenia, thrombocytopenia, agranulocytosis, and aplastic anemia.
 The manufacturer also reports extremely rare cases of autoimmune hemolytic anemia.
 Rare cases of irreversible or fatal blood dyscrasias have been reported in the literature.
@@ -57,20 +51,18 @@ Overall, serious hepatotoxicity due to cimetidine is rare.
 Bridging hepatic necrosis, centrilobular hepatic necrosis, and intrahepatic cholestasis have been noted on biopsy in cases of cimetidine-induced hepatitis.
 In some cases, liver toxicity has been associated with fever, rash, and eosinophilia, suggesting a hypersensitivity etiology.
 Cimetidine-induced hepatitis in a patient with a history of famotidine-induced hepatitis has been reported in at least one case.
-Extreme caution is recommended when initiating cimetidine therapy in a patient with a history of other H2-antagonist-induced hepatotoxicity.
-Liver injury, with fatal outcome, has been reported with the use of other H2 receptor antagonists.
+Extreme caution is recommended when initiating cimetidine therapy in a patient with a history of other H-antagonist-induced hepatotoxicity.
+Liver injury, with fatal outcome, has been reported with the use of other H receptor antagonists.
 Renal side effects have included elevations in serum creatinine.
 However, such elevations are generally due to competitive inhibition of tubular secretion of creatinine rather than a result of impaired glomerular filtration or renal toxicity.
 Rare cases of acute renal failure and interstitial nephritis have been reported.
-Elevations in serum creatinine by as much as 20% are reported during cimetidine therapy.
+Elevations in serum creatinine by as much as  are reported during cimetidine therapy.
 Cimetidine is thought to competitively inhibit the secretion of creatinine by the renal proximal tubules resulting in a reduction in creatinine clearance.
 Creatinine does not appear to affect cimetidine transport, except at very high concentrations.
 Overt renal toxicity, such as renal failure and interstitial nephritis, is rare.
 In some cases, cimetidine-induced renal toxicity has been attributed to a delayed-type hypersensitivity.
 Gastrointestinal side effects have been reported rarely.
-These have included diarrhea (1%) which is generally mild although severe cases have been reported, nausea/vomiting (0.
-6%), constipation (0.
-2%), dry mouth, and taste changes.
+These have included diarrhea  which is generally mild although severe cases have been reported, nausea/vomiting , constipation , dry mouth, and taste changes.
 In addition, cases of parotitis, phytobezoars, and pancreatitis have been reported.
 Dermatologic side effects have included mild rash as well as severe dry skin (xerosis), seborrheic dermatitis, erythema annular centrifugum, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, and toxic epidermal necrolysis.
 Reversible alopecia has also been reported rarely.

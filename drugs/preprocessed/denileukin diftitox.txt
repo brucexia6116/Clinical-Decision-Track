@@ -1,37 +1,14 @@
 Side effects include:
 Hypoalbuminemia, chills/fever, asthenia, infection, chest pain, hypotension, vasodilation, edema, dyspnea, nausea/vomiting, anorexia, diarrhea, anemia, increase in serum aminotransferase concentrations, dizziness, pain, headache, cough, rash, pruritus.
 
-Very common (10% or more): Infusion reactions (up to 70.
-5%), pyrexia (up to 63.
-6%), rigors (up to 47.
-3%), fatigue (up to 46.
-7%), peripheral edema (up to 25.
-5%), asthenia (up to 18.
-2%), pain (up to 12.
-7%), chest pain (up to 12.
-7%)
-Very common (10% or more): Capillary leak syndrome (up to 32.
-5%), hypotension (up to 16.
-4%)
-Common (1% to 10%): Visual changes (e.
-g.
-, visual acuity loss)
-Very common (10% or more): Rash (up to 24.
-4%), pruritus (up to 18.
-2%)
+Very common ( or more): Infusion reactions (up to ), pyrexia (up to ), rigors (up to ), fatigue (up to ), peripheral edema (up to ), asthenia (up to ), pain (up to ), chest pain (up to )
+Very common ( or more): Capillary leak syndrome (up to ), hypotension (up to )
+Common ( to ): Visual changes (, visual acuity loss)
+Very common ( or more): Rash (up to ), pruritus (up to )
 Postmarketing reports: Thyroid conditions (hyperthyroidism, thyroiditis, thyrotoxicosis, and hypothyroidism)
-Very common (10% or more): Nausea (up to 60%), vomiting (up to 34.
-5%), diarrhea (up to 22.
-2%)
-Very common (10% or more): Increased ALT or increased AST (up to 84%)
-Very common (10% or more): Anorexia (up to 20%)
-Very common (10% or more): Myalgia (up to 20%), back pain (up to 18.
-2%), arthralgia (up to 15.
-6%)
-Very common (10% or more): Headache (up to 28.
-9%), dizziness (up to 12.
-7%), dysgeusia (up to 10.
-9%)
-Very common (10% or more): Cough (up to 20%), upper respiratory tract infection (up to 13.
-3%), dyspnea (up to 13.
-3%)
+Very common ( or more): Nausea (up to ), vomiting (up to ), diarrhea (up to )
+Very common ( or more): Increased ALT or increased AST (up to )
+Very common ( or more): Anorexia (up to )
+Very common ( or more): Myalgia (up to ), back pain (up to ), arthralgia (up to )
+Very common ( or more): Headache (up to ), dizziness (up to ), dysgeusia (up to )
+Very common ( or more): Cough (up to ), upper respiratory tract infection (up to ), dyspnea (up to )

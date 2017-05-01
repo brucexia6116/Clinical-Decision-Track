@@ -1,38 +1,20 @@
 If any of the following symptoms of overdose occur while taking spironolactone, get emergency help immediately:
 The most common adverse effect was gynecomastia.
-Very common (10% or more): Gynecomastia (13%)Frequency not reported: Breast disorders in women, slight androgenic effects, breast tenderness in women, voice deepening in women, breast pain
-Common (1% to 10%): Hyperkalemia, hyponatremiaUncommon (0.
-1% to 1%): Acidosis in patients with liver problemsRare (less than 0.
-1%): Dehydration, porphyria, hyperuricemiaFrequency not reported: Reversible hyperchloremic metabolic acidosis in patients with decompensated hepatic cirrhosis, electrolyte disturbances
-Common (1% to 10%): Changes in vaginal secretions, amenorrhea, postmenopausal bleedingFrequency not reported: Reproductive system disorders, erectile dysfunction, impotence, menstrual disorders
-Common (1% to 10%): Lethargy in patients with cirrhosis, paresthesiaRare (less than 0.
-1%): Paralysis, paraplegia of the limbs due to hyperkalemiaFrequency not reported: Headache, drowsiness, dizziness, ataxia
-Common (1% to 10%): Nausea, vomitingVery rare (less than 0.
-01%): Gastric inflammation, gastric ulcers, intestinal hemorrhage, crampsFrequency not reported: Digestive system disorders, diarrhea, indigestion, gastric bleeding
-Common (1% to 10%): Libido reduced in womenUncommon (0.
-1% to 1%): ConfusionFrequency not reported: Libido reduced in men
-Common (1% to 10%): MalaiseVery rare (less than 0.
-01%): Breast cancer
-Common (1% to 10%): WeaknessFrequency not reported: Fatigue, fever
-Uncommon (0.
-1% to 1%): Rash, urticaria, erythema, chloasma, pruritus, exanthemaRare (less than 0.
-1%): EczemaVery rare (less than 0.
-01%): Alopecia, erythema annulare centrifugum, hypertrichosisFrequency not reported: Hirsutism, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS), maculopapular or erythematous cutaneous eruptions
-Uncommon (0.
-1% to 1%): Muscle spasms, leg crampsVery rare (less than 0.
-01%): Systemic lupus erythematosus, osteomalacia
-Uncommon (0.
-1% to 1%): Serum creatinine elevatedRare (less than 0.
-1%): BUN increasedVery rare (less than 0.
-01%): Acute renal failureFrequency not reported: Renal dysfunction
-Rare (less than 0.
-1%): Thrombocytopenia, eosinophilia, leukopeniaFrequency not reported: Agranulocytosis
-Rare (less than 0.
-1%): HypersensitivityFrequency not reported: Anaphylactic reactions
-Very rare (less than 0.
-01%): VasculitisFrequency not reported: Mild hypotension
-Very rare (less than 0.
-01%): HepatitisFrequency not reported: Mixed cholestatic/hepatocellular toxicity
+Very common ( or more): Gynecomastia Frequency not reported: Breast disorders in women, slight androgenic effects, breast tenderness in women, voice deepening in women, breast pain
+Common ( to ): Hyperkalemia, hyponatremiaUncommon ( to ): Acidosis in patients with liver problemsRare (less than ): Dehydration, porphyria, hyperuricemiaFrequency not reported: Reversible hyperchloremic metabolic acidosis in patients with decompensated hepatic cirrhosis, electrolyte disturbances
+Common ( to ): Changes in vaginal secretions, amenorrhea, postmenopausal bleedingFrequency not reported: Reproductive system disorders, erectile dysfunction, impotence, menstrual disorders
+Common ( to ): Lethargy in patients with cirrhosis, paresthesiaRare (less than ): Paralysis, paraplegia of the limbs due to hyperkalemiaFrequency not reported: Headache, drowsiness, dizziness, ataxia
+Common ( to ): Nausea, vomitingVery rare (less than ): Gastric inflammation, gastric ulcers, intestinal hemorrhage, crampsFrequency not reported: Digestive system disorders, diarrhea, indigestion, gastric bleeding
+Common ( to ): Libido reduced in womenUncommon ( to ): ConfusionFrequency not reported: Libido reduced in men
+Common ( to ): MalaiseVery rare (less than ): Breast cancer
+Common ( to ): WeaknessFrequency not reported: Fatigue, fever
+Uncommon ( to ): Rash, urticaria, erythema, chloasma, pruritus, exanthemaRare (less than ): EczemaVery rare (less than ): Alopecia, erythema annulare centrifugum, hypertrichosisFrequency not reported: Hirsutism, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms (DRESS), maculopapular or erythematous cutaneous eruptions
+Uncommon ( to ): Muscle spasms, leg crampsVery rare (less than ): Systemic lupus erythematosus, osteomalacia
+Uncommon ( to ): Serum creatinine elevatedRare (less than ): BUN increasedVery rare (less than ): Acute renal failureFrequency not reported: Renal dysfunction
+Rare (less than ): Thrombocytopenia, eosinophilia, leukopeniaFrequency not reported: Agranulocytosis
+Rare (less than ): HypersensitivityFrequency not reported: Anaphylactic reactions
+Very rare (less than ): VasculitisFrequency not reported: Mild hypotension
+Very rare (less than ): HepatitisFrequency not reported: Mixed cholestatic/hepatocellular toxicity
 Abdominal or stomach cramping, burning, or tenderness
 bleeding gums
 bloody or black, tarry stools

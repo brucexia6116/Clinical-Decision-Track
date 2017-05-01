@@ -1,0 +1,41 @@
+moderate ovarian hyperstimulation syndrome
+ohss
+grade
+severe ovarian hyperstimulation syndrome
+grade
+nausea
+reported side effects
+local injection site reactions
+erythema
+swelling
+pruritus
+nature
+intensity
+systemic allergic/pseudo-allergic reactions
+life-threatening anaphylaxis
+redness
+erythema
+bruising
+itching
+swelling
+pruritus
+injection site
+headache
+stomach pain
+continuing
+severe nausea
+vomiting
+diarrhea
+decreased amount of urine
+feeling of indigestion
+severe bloating
+pelvic pain, severe 
+rapid weight gain
+shortness of breath
+swelling of lower legs
+headache
+injection site
+itching
+swelling
+redness
+nausea

@@ -1,15 +1,15 @@
 If any of the following side effects occur while taking gentamicin, check with your doctor or nurse immediately:
 The most frequently reported adverse effects associated with gentamicin therapy are ototoxicity and nephrotoxicity.
-These forms of toxicity occur more frequently in patients who experience prolonged exposure to serum gentamicin trough concentrations of greater than 2 mcg/mL.
+These forms of toxicity occur more frequently in patients who experience prolonged exposure to serum gentamicin trough concentrations of greater than  mcg/mL.
 Patients with renal insufficiency are at an increased risk of developing toxicity.
-Acute renal failure due to gentamicin is usually nonoliguric with an average rise in serum creatinine of 1 to 3 mg/dL.
-Renal function generally returns to baseline in 7 to 14 days.
+Acute renal failure due to gentamicin is usually nonoliguric with an average rise in serum creatinine of  to  mg/dL.
+Renal function generally returns to baseline in  to  days.
 Rarely, gentamicin produces renal tubular acidosis and renal potassium and magnesium wasting.
-There is no relationship between acute renal failure and the daily dose of gentamicin, however, an increased incidence has been associated with a serum trough gentamicin concentration greater than 2 mcg/mL.
+There is no relationship between acute renal failure and the daily dose of gentamicin, however, an increased incidence has been associated with a serum trough gentamicin concentration greater than  mcg/mL.
 It has been suggested that there is a correlation between the higher peak concentrations associated with once-daily dosing and a higher incidence of nephrotoxicity.
 Other predisposing factors include advanced age, preexisting renal insufficiency, dehydration, and concomitant use of other potentially nephrotoxic drugs.
 Renal side effects associated with gentamicin use have included nephrotoxicity.
-The overall incidence of aminoglycoside nephrotoxicity is 2% to 10%.
+The overall incidence of aminoglycoside nephrotoxicity is  to .
 Gentamicin nephrotoxicity occurs in two forms: acute renal failure (ARF), and a more gradual, transient, and reversible azotemia.
 Fanconi syndrome and Bartter-like syndrome have been reported.
 The onset of ototoxicity may be asymptomatic or may manifest as dizziness, vertigo, ataxia, tinnitus, and roaring in the ears.
@@ -20,7 +20,7 @@ Nervous system side effects have included ototoxicity, which generally presents 
 Ototoxicity is closely related to the development of renal impairment, and may be irreversible.
 Peripheral neuropathy or encephalopathy with numbness, skin tingling, muscle twitching, seizures, and myasthenia gravis-like syndrome have also been reported.
 Intraventricular and intrathecal administration of gentamicin has rarely been associated with aseptic meningitis, transient hearing loss, and seizures.
-Neuromuscular side effects including ataxia, paresis and incontinence have been reported after large intrathecal doses (40 mg to 160 mg) of preservative-containing gentamicin.
+Neuromuscular side effects including ataxia, paresis and incontinence have been reported after large intrathecal doses ( mg to  mg) of preservative-containing gentamicin.
 Concurrent administration of parenteral and intrathecal gentamicin has been associated with eighth nerve dysfunction, fever, convulsions, leg cramps, and increases in cerebrospinal fluid protein.
 Musculoskeletal side effects have rarely included neuromuscular blockade, which occurs most commonly in patients who are predisposed including patients with myasthenia gravis, hypocalcemia, and those receiving a concomitant neuromuscular blocking agent.
 Tetany and muscle weakness may be associated with gentamicin-induced hypomagnesemia, hypocalcemia, and hypokalemia.
@@ -39,7 +39,7 @@ Gastrointestinal side effects possibly related to gentamicin have included nause
 Ocular side effects have included case reports of retinal ischemia resulting in loss of visual acuity after inadvertent intraocular injection of massive doses of gentamicin.
 Other side effects possibly related to gentamicin have included transient splenomegaly and fever.
 Pyrogenic reactions with symptoms of shaking, chills, fever, rigors, tachycardia, and/or hypotension have been reported with intravenous gentamicin.
-These reactions generally occurred within 3 hours of administration and were believed to be due to once-daily gentamicin doses delivering sufficient endotoxin over one hour to be pyrogenic.
+These reactions generally occurred within  hours of administration and were believed to be due to once-daily gentamicin doses delivering sufficient endotoxin over one hour to be pyrogenic.
 Abdominal or stomach cramps or pain
 agitation
 back pain

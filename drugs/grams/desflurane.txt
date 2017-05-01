@@ -1,0 +1,176 @@
+following side effects
+taking desflurane
+check
+doctor
+nurse
+respiratory side effects
+coughing
+breathholding
+apnea
+secretions
+laryngospasm
+oxyhemoglobin desaturation
+pharyngitis
+cough
+dyspnea
+respiratory arrest
+respiratory failure
+respiratory distress
+bronchospasm
+hemoptysis
+hypoxia
+gastrointestinal side effects
+nausea
+vomiting
+acute pancreatitis
+abdominal pain
+cardiovascular
+side effects
+bradycardia
+hypertension
+nodal arrhythmia
+tachycardia
+arrhythmia
+bigeminy
+abnormal electrocardiogram
+myocardial ischemia
+vasodilation
+hemorrhage
+cardiac arrest
+torsade de pointes
+ventricular failure
+ventricular hypokinesia
+malignant hypertension
+hypotension
+myocardial infarct
+nervous system
+side effects
+increased salivation
+agitation
+convulsion
+dizziness
+hepatic side effects
+hepatitis
+hepatic failure
+hepatic necrosis
+cytolytic hepatitis
+cholestasis
+jaundice
+abnormal hepatic function
+liver disorder
+transaminases
+alanine aminotransferase
+aspartate aminotransferase
+general
+side effects
+shock
+malignant hyperthermia
+asthenia
+malaise
+headache
+fever
+ocular side effects
+conjunctivitis
+conjunctival hyperemia
+ocular icterus
+metabolic side effects
+hyperkalemia
+hypokalemia
+metabolic acidosis
+creatinine phosphokinase
+musculoskeletal side effects
+myalgia
+rhabdomyolysis
+dermatologic side effects
+urticaria
+erythema
+pruritus
+hematologic side effects
+coagulopathy
+bluish lips
+skin
+body aches
+pain
+congestion
+cough
+dryness
+soreness of the throat
+fever
+hoarseness
+not breathing
+runny nose
+tender
+swollen glands in the neck
+tightness in the chest
+trouble breathing
+trouble swallowing
+voice changes
+blurred vision
+chest pain
+discomfort
+dizziness
+pounding
+irregular heartbeat
+pulse
+headache
+lightheadedness
+dizziness
+fainting
+nervousness
+pounding in the ears
+irregular heartbeat
+unusual tiredness
+dark urine
+difficulty with moving
+feeling of warmth
+heat
+flushing
+redness of the skin
+face
+neck
+general tiredness
+weakness
+joint pain
+light-colored stools
+muscle
+cramping
+muscle pains
+stiffness
+nausea and vomiting
+noisy breathing
+pain
+discomfort in the arms
+jaw
+neck
+sweating
+swollen joints
+stomach pain
+yellow eyes
+skin
+stomach pain
+confusion
+convulsions
+decreased urine
+dry mouth
+increased thirst
+loss of appetite
+blood pressure
+pulse
+numbness
+tingling in the hands
+feet
+lips
+stopping of heart
+unconsciousness
+weakness
+heaviness of the legs
+increased watering of the mouth
+redness of the white part of the eyes
+eyelids
+anxiety
+hyperventilation
+irritability
+itching skin
+restlessness
+shaking
+trouble sleeping

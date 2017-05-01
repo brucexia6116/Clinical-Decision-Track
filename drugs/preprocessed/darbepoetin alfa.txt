@@ -3,21 +3,20 @@ Other side effects include: congestive heart failure and hypervolemia.
 See below for a comprehensive list of adverse effects.
 The most common adverse reactions in patients with chronic kidney disease (CKD) were hypertension, dyspnea, peripheral edema, cough, and procedural hypotension.
 The most common adverse reactions in cancer patients receiving chemotherapy were abdominal pain, edema, and thrombovascular events.
-Very common (10% or more): Nausea (up to 38%), vomiting (up to 27%), diarrhea (up to 20%), constipation (up to 19%), abdominal pain (up to 16%)Common (1% to 10%): Dyspepsia
-Very common (10% or more): Fatigue (up to 32%), fever (up to 19%), peripheral edema (up to 17%), asthenia (up to 16%), edema (up to 12.
-8%), procedural hypotension (10%), chest pain (up to 10%)Common (1% to 10%): Death, influenza-like symptoms, fluid overload, fall, contusion, pain, arteriovenous graft thrombosis
-Very common (10% or more): Hypertension (up to 31%), hypotension (up to 22%)Common (1% to 10%): Myocardial infarction, thrombotic events, angina pectorisFrequency not reported: Arrhythmia, thromboembolism, thrombosis, thrombophlebitis
-Very common (10% or more): Myalgia (up to 20%), back pain (14%), arthralgia (up to 13%), limb pain (up to 11%)Common (1% to 10%): Skeletal pain
-Very common (10% or more): Dyspnea (up to 20%), upper respiratory infection (up to 14%), cough (up to 12%), nasopharyngitis (11%)Common (1% to 10%): Bronchitis, sinusitis, sore throat, pulmonary embolismFrequency not reported: Epistaxis, allergic bronchospasm
-Very common (10% or more): Headache (up to 16%), dizziness (up to 14%)Common (1% to 10%): Cerebrovascular accident/transient ischemic attack, convulsions, paresthesia, hypoesthesia, cerebrovascular disorders, strokeFrequency not reported: Somnolence
-Very common (10% or more): Urinary tract infection (15%)
-Very common (10% or more): Chronic renal failure (15%)
-Very common (10% or more): Hypoglycemia (14%)
-Very common (10% or more): Insomnia (11%)Common (1% to 10%): Depression, anxiety
-Common (1% to 10%): Pruritus, cellulitis, rash, skin ulcer, alopeciaFrequency not reported: Angioedema, urticaria
-Common (1% to 10%): Injection site pain, access hemorrhage, access infection, vascular access thrombosis, vascular access complications
-Common (1% to 10%): GranulocytopeniaFrequency not reported: Anemia, pure red cell aplasia associated with neutralizing antibodies to erythropoietin
-Common (1% to 10%): Metastatic neoplasm
+Very common ( or more): Nausea (up to ), vomiting (up to ), diarrhea (up to ), constipation (up to ), abdominal pain (up to )Common ( to ): Dyspepsia
+Very common ( or more): Fatigue (up to ), fever (up to ), peripheral edema (up to ), asthenia (up to ), edema (up to ), procedural hypotension , chest pain (up to )Common ( to ): Death, influenza-like symptoms, fluid overload, fall, contusion, pain, arteriovenous graft thrombosis
+Very common ( or more): Hypertension (up to ), hypotension (up to )Common ( to ): Myocardial infarction, thrombotic events, angina pectorisFrequency not reported: Arrhythmia, thromboembolism, thrombosis, thrombophlebitis
+Very common ( or more): Myalgia (up to ), back pain , arthralgia (up to ), limb pain (up to )Common ( to ): Skeletal pain
+Very common ( or more): Dyspnea (up to ), upper respiratory infection (up to ), cough (up to ), nasopharyngitis Common ( to ): Bronchitis, sinusitis, sore throat, pulmonary embolismFrequency not reported: Epistaxis, allergic bronchospasm
+Very common ( or more): Headache (up to ), dizziness (up to )Common ( to ): Cerebrovascular accident/transient ischemic attack, convulsions, paresthesia, hypoesthesia, cerebrovascular disorders, strokeFrequency not reported: Somnolence
+Very common ( or more): Urinary tract infection 
+Very common ( or more): Chronic renal failure 
+Very common ( or more): Hypoglycemia 
+Very common ( or more): Insomnia Common ( to ): Depression, anxiety
+Common ( to ): Pruritus, cellulitis, rash, skin ulcer, alopeciaFrequency not reported: Angioedema, urticaria
+Common ( to ): Injection site pain, access hemorrhage, access infection, vascular access thrombosis, vascular access complications
+Common ( to ): GranulocytopeniaFrequency not reported: Anemia, pure red cell aplasia associated with neutralizing antibodies to erythropoietin
+Common ( to ): Metastatic neoplasm
 Frequency not reported: Serious allergic reaction, hypersensitivity reaction, anaphylactic reaction
 Abdominal or stomach pain
 accumulation of pus

@@ -1,13 +1,12 @@
 Other dosage forms:
 As well as its needed effects, theophylline (the active ingredient contained in Theochron) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking theophylline, check with your doctor immediately:
 If any of the following symptoms of overdose occur while taking theophylline, get emergency help immediately:
 Some theophylline side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 The majority of side effects have been dependent on the serum concentration.
-Generally, serum concentrations of theophylline (the active ingredient contained in Theochron) ranging from 10 to 20 mcg/mL are considered therapeutic, and serum concentrations greater than 20 mcg/mL are associated with greater toxicity.
+Generally, serum concentrations of theophylline (the active ingredient contained in Theochron) ranging from  to  mcg/mL are considered therapeutic, and serum concentrations greater than  mcg/mL are associated with greater toxicity.
 There are several factors which may predispose a patient to higher serum concentrations and, thus, toxicity.
 These factors may include increased age, concomitant drugs which reduce the clearance of theophylline, hypothyroidism, congestive heart failure, liver disease, renal failure, and alterations in smoking habits.
 One series of patients with theophylline intoxication had recent upper respiratory tract infections.
@@ -30,14 +29,14 @@ Cardiovascular side effects have included increases in heart rate which have pro
 Patients with a history of arrhythmias may be predisposed to this effect.
 Hypotension has occurred with rapid intravenous administration.
 Theophylline serum concentrations have been a significant predictor of arrhythmias.
-One study reported multifocal atrial tachycardia in 8% and 16% of patients with a serum concentration between 10 and 20 mcg/mL and greater than 20 mcg/mL, respectively.
+One study reported multifocal atrial tachycardia in  and  of patients with a serum concentration between  and  mcg/mL and greater than  mcg/mL, respectively.
 The onset of serious arrhythmias is not always preceded by less severe signs of theophylline toxicity.
 Elevated serum CK-MB levels have been associated with theophylline toxicity in the absence of cardiac disease.
 CK-MB levels have returned to normal following discontinuation of theophylline therapy.
 Metabolic side effects have included hypokalemia, hyperglycemia, respiratory alkalosis, hypophosphatemia, and hypomagnesemia, especially in the situation of acute overdosage.
 The magnitude of these abnormalities have been correlated with theophylline (the active ingredient contained in Theochron) concentrations.
 Hypercalcemia has been reported in a patient with hyperthyroid disease with theophylline at therapeutic concentrations.
-In one group of patients with theophylline concentrations greater than 20 mcg/mL, hyperglycemia was present in approximately 50%, hypokalemia in 15%, and hypomagnesemia in 20%.
+In one group of patients with theophylline concentrations greater than  mcg/mL, hyperglycemia was present in approximately , hypokalemia in , and hypomagnesemia in .
 Hyponatremia and hypophosphatemia were seen less frequently.
 Genitourinary side effects have included urinary retention.
 It is possible that some side effects of Theochron may not have been reported.

@@ -1,0 +1,312 @@
+medication
+varying doses
+actual frequency of side effects
+side effects
+lower doses
+higher doses
+following side effects
+taking bexarotene
+check
+doctor
+nurse
+decreased hdl cholesterol
+hyperlipemia
+elevated cholesterol
+elevated triglycerides
+hypercholesterolemia
+hypocholesterolemia
+anorexia
+lactic dehydrogenase
+weight gain
+hypoproteinemiauncommon
+goutfrequency
+elevated ldl cholesterol
+weight
+dehydration
+alkaline phosphatase
+hypercalcemia
+hypocalcemia
+hypernatremia
+hyponatremia
+hyperkalemia
+hypokalemia
+hypolipemia
+hypomagnesemia
+appetite
+thirst
+hypovolemia
+decreased tsh
+hypothyroidism
+total t
+thyroid disorder
+altered hormone leveluncommon
+hyperthyroidismfrequency
+hyperglycemia
+libido
+gonadotropic luteinizing hormone
+leukopenia
+anemia
+hypochromic anemia
+lymphoma-like reaction
+lymphadenopathyuncommon
+blood dyscrasia
+coagulation disorder
+coagulation time
+thrombocytopenia
+thrombocythemia
+eosinophilia
+leukocytosis
+lymphocytosis
+abnormal erythrocytesfrequency
+neutropenia
+thromboplastin
+bone marrow suppression
+absolute neutrophil count
+absolute lymphocyte count
+white blood cell count
+hemoglobin
+asthenia
+infection
+fever
+bacterial infection
+chills
+flu syndrome
+peripheral edema
+pain
+deafnessuncommon
+ear disorder
+parasitic infection
+edema
+mucous membrane disorder
+abnormal lab testfrequency
+chest pain
+breast pain
+breast enlargement
+sepsis
+ear pain
+otitis externa
+tinnitus
+malaise
+viral infection
+diarrhea
+nausea
+vomiting
+abdominal pain
+cheilitis
+constipation
+dry mouth
+flatulenceuncommon
+pancreatitis
+gastrointestinal disorderfrequency
+colitis
+melena
+dyspepsia
+gastroenteritis
+gingivitis
+amylase
+lipase
+stomatitis
+abnormal stools
+tenesmus
+pelvic pain
+eructation
+enlarged abdomen
+dysphagia
+mouth ulceration
+oral moniliasis
+gingivitis
+headache
+dizziness
+hypesthesiauncommon
+ataxia
+neuropathy
+vertigo
+hyperesthesiafrequency
+syncope
+cerebrovascular accident
+subdural hematoma
+migraine
+peripheral neuritis
+paresthesia
+somnolence
+stupor
+circumoral paresthesia
+taste perversion
+exfoliative dermatitis
+rash
+pruritus
+dry skin
+alopecia
+skin ulcer
+skin hypertrophy
+skin nodule
+acne
+sweating
+skin disorderuncommon
+purpura
+serous drainage
+herpes simplex
+pustular rash
+cellulitis
+skin discoloration
+hair disorder
+nail disorderfrequency
+maculopapular rash
+vesicular bullous rash
+ecchymosis
+petechia
+pallor
+psoriasis
+furunculosis
+contact dermatitis
+herpes zoster
+seborrhea
+lichenoid dermatitis
+photosensitivity reaction
+face edema
+body odor
+cataracts/lens opacities
+dry eyes
+eye disorderuncommon
+amblyopia
+visual field defect
+corneal lesion
+abnormal vision
+blepharitis
+conjunctivitisfrequency
+keratitis
+night blindness
+nystagmus
+lacrimation disorder
+eye pain
+pain
+arthralgia
+myalgia
+bone painuncommon
+myastheniafrequency
+arthrosis
+creatinine phosphokinase
+hypertonia
+leg cramps
+abnormal gait
+arthritis
+joint disorder
+insomnia
+depression
+agitationfrequency
+anxiety
+emotional lability
+abnormal thinking
+confusion
+nervousness
+retinoid x receptor
+rxr
+binding activity
+drug
+adverse effects
+arthralgia
+myalgia
+nail
+hair toxicities
+retinoic acid receptor
+rar
+binding agents
+increased sgpt/alt
+sgot/ast
+bilirubinuncommon
+bilirubinemia
+liver failurefrequency
+cholestasis
+cholecystitis
+liver damage
+jaundice
+allergic reaction
+increased creatinineuncommon
+increased bun
+abnormal kidney function
+tachycardia
+hemorrhage
+hypertension
+vasodilation
+varicose veinfrequency
+angina
+right heart failure
+arrhythmia
+peripheral vascular disorder
+prothrombin
+congestive heart failure
+palpitation
+vascular anomaly
+vascular disorder
+albuminuriafrequency
+hematuria
+urinary incontinence
+urinary tract infection
+urinary urgency
+dysuria
+monilia infection
+hyperuricemia
+urinary retention
+impaired urination
+polyuria
+nocturia
+urine abnormality
+neoplasmfrequency
+carcinoma
+frequency
+pharyngitis
+rhinitis
+dyspnea
+pleural effusion
+bronchitis
+cough
+lung edema
+hemoptysis
+hypoxia
+pneumonia
+sinusitis
+epistaxis
+respiratory disorder
+lung disorder
+pleural disorder
+laryngismus
+unusual tiredness
+weakness
+skin rash
+other skin
+mucous membrane lesions
+fever
+increase in lipid
+cholesterol levels
+coldness
+puffy skin
+weight gain
+chills
+cough
+hoarseness
+side pain
+difficult urination
+swelling of the arms
+feet
+hands
+legs
+severe stomach pain with nausea
+vomiting
+shortness of breath
+yellow eyes
+skin
+abdominal pain
+hair loss
+loss of appetite
+loss of strength
+energy
+tiredness
+weakness
+back pain
+diarrhea
+dry skin
+general feeling of discomfort
+illness
+trouble in sleeping
+headache
+nausea or vomiting 

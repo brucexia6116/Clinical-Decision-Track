@@ -1,26 +1,19 @@
-In 1976, a number of people who received the “swine flu” influenza vaccine developed Guillain-Barré syndrome (GBS), which is a disease that may cause paralysis.
-Most of these people were over 25 years of age.
-Although only 10 out of every one million people who received the vaccine actually developed GBS, this number was 6 times higher than would normally have been expected.
+In , a number of people who received the swine flu influenza vaccine developed Guillain-Barr syndrome (GBS), which is a disease that may cause paralysis.
+Most of these people were over  years of age.
+Although only  out of every one million people who received the vaccine actually developed GBS, this number was  times higher than would normally have been expected.
 Most of the people who got GBS recovered completely.
-It is assumed that the “swine flu” virus included in the 1976 vaccine caused the problem, but this has not been proven.
-Since that time, the “swine flu” virus has not been used in influenza vaccines, and there has been no recurrence of GBS that was associated with influenza vaccinations.
+It is assumed that the swine flu virus included in the  vaccine caused the problem, but this has not been proven.
+Since that time, the swine flu virus has not been used in influenza vaccines, and there has been no recurrence of GBS that was associated with influenza vaccinations.
 If any of the following side effects occur while taking influenza virus vaccine, live, trivalent, check with your doctor or nurse immediately:
 The most common adverse events were nasal congestion, headache, sore throat, and tiredness.
-Very common (10% or more): Runny nose/nasal congestion (58%), sore throat (28%), cough (14%)Common (1% to 10%): Wheezing, sinusitis, sneezingUncommon (0.
-1% to 1%): Epistaxis
-In a clinical trial, among children 6 to 23 months of age, wheezing requiring bronchodilator therapy or with significant respiratory symptoms occurred in 5.
-9% of FluMist recipients compared to 3.
-8% of active control (injectable influenza vaccine made by Sanofi Pasteur Inc) recipients (Relative Risk 1.
-5, 95% CI: 1.
-2, 2.
-1).
-Wheezing was not increased in children 24 months of age and older.
-Very common (10% or more): Headache (44%), decreased activity/lethargy (18%)Postmarketing reports: Exacerbation of symptoms of mitochondrial encephalomyopathy (Leigh syndrome), Guillain-Barre syndrome, Bell's Palsy, meningitis, eosinophilic meningitis, vaccine-associated meningitis
-Very common (10% or more): Tiredness/weakness (26%), fever (16%)Common (1% to 10%): Hospitalizations, otitis media
-Very common (10% or more): Muscle aches (17%), abdominal pain (12%)Common (1% to 10%): Chills
-Very common (10% or more): Decreased appetite (21%)
-Uncommon (0.
-1% to 1%): Hypersensitivity reactions (including anaphylactic reaction, facial edema, and urticaria)
+Very common ( or more): Runny nose/nasal congestion , sore throat , cough Common ( to ): Wheezing, sinusitis, sneezingUncommon ( to ): Epistaxis
+In a clinical trial, among children  to  months of age, wheezing requiring bronchodilator therapy or with significant respiratory symptoms occurred in  of FluMist recipients compared to  of active control (injectable influenza vaccine made by Sanofi Pasteur Inc) recipients (Relative Risk ,  CI: , ).
+Wheezing was not increased in children  months of age and older.
+Very common ( or more): Headache , decreased activity/lethargy Postmarketing reports: Exacerbation of symptoms of mitochondrial encephalomyopathy (Leigh syndrome), Guillain-Barre syndrome, Bell's Palsy, meningitis, eosinophilic meningitis, vaccine-associated meningitis
+Very common ( or more): Tiredness/weakness , fever Common ( to ): Hospitalizations, otitis media
+Very common ( or more): Muscle aches , abdominal pain Common ( to ): Chills
+Very common ( or more): Decreased appetite 
+Uncommon ( to ): Hypersensitivity reactions (including anaphylactic reaction, facial edema, and urticaria)
 Postmarketing reports: Nausea, vomiting, diarrhea
 Postmarketing reports: Rash
 Postmarketing reports: Pericarditis

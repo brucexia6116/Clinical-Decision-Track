@@ -1,42 +1,25 @@
 Other dosage forms:
 The most common side effects were penile pain, local bleeding, fever, urethral pain, urethral burning, apnea, and flushing.
-Very common (10% or more): Penile pain (up to 36%), urethral pain (13%), urethral burning (12%)Common (1% to 10%): Prolonged erection greater than 4 hours, penile angulation, penile fibrosis, cavernous body fibrosis, Peyronie's disease, penis disorder, prostate disorder, testicular pain, urethral bleeding/spotting and other minor urethral abrasions, vaginal burning/itchingUncommon (0.
-1% to 1%): Priapism, scrotal erythema, dysuria, hematuria, pollakiuria, micturition urgency, urethral hemorrhage, balanitis, phimosis, ejaculation disorder, scrotal disorder, scrotal pain, testicular swelling, testicular edema, scrotal edema, spermatocele, testicular disorder, testicular mass, penile hemosiderin deposits, swelling of the preputium or the glans, perineal pain, painful erectionRare (less than 0.
-1%): Urinary tract infectionFrequency not reported: Anuria, abnormal ejaculation, penile deviations, penile warmth, urinary frequency/urinary urgency/impaired urination
-Very common (10% or more): Flushing (10.
-1%)Common (1% to 10%): Bradycardia, hypotension, tachycardia, cardiac arrest, edema, hematoma, hypertension, myocardial infarction, abnormal ECGUncommon (0.
-1% to 1%): Vascular fragility, supraventricular extrasystoles, vein disorder, vasodilatation, peripheral vascular disorder, peripheral edema, swelling of the leg veinsFrequency not reported: Congestive heart failure, hyperemia, second degree heart block, shock, spasm of the right ventricle infundibulum, supraventricular tachycardia, ventricular fibrillation, rapid pulse, pneumopericardium, ventricular hypertrophy, tachyphylaxis, ductus arteriosus histological changes, venous leak, cardiac arrhythmias, postural hypotension, changes in blood pressure, vagal shock, vasovagal reactions, myocardial ischemia
-Very common (10% or more): Local bleeding (15%)Common (1% to 10%): Injection site hematoma, injection site burning, sensation of tension in the penis, injection site painUncommon (0.
-1% to 1%): Injection site hemorrhage, injection site edema, injection site inflammation, injection site mass, injection site pruritus, injection site swelling and reddening, injection site irritation, injection site anesthesia, injection site warmthFrequency not reported: Localized pain
-Very common (10% or more): Apnea (12%)Common (1% to 10%): Upper respiratory tract infection, sinusitis, rhinitisFrequency not reported: Bradypnea, bronchial wheezing, hypercapnia, respiratory depression, respiratory distress, tachypnea, hypoplastic lungs, pneumothorax
-Very common (10% or more): Fever (14%)Common (1% to 10%): Sepsis, influenza-like symptoms, pain, accidental injuryUncommon (0.
-1% to 1%): AstheniaRare (less than 0.
-1%): VertigoFrequency not reported: Hypothermia, jitteriness, non-generalized weakness
-Common (1% to 10%): Back pain, leg pain, pelvic pain, muscle spasmsUncommon (0.
-1% to 1%): ExostosisFrequency not reported: Hyperextension of the neck, stiffness, cortical proliferation of the long bones, microcephaly, leg cramps
-Common (1% to 10%): Hypokalemia, hypertriglyceridemia, hypercholesterolemia, hyperglycemiaFrequency not reported: Hypoglycemia, hyperkalemia
-Common (1% to 10%): Seizures, headache, dizzinessUncommon (0.
-1% to 1%): Syncope, hypoesthesia, hyperesthesia, presyncopeFrequency not reported: Cerebral bleeding, lethargy, numbness, collapse, amnesia, cerebrovascular accident
-Common (1% to 10%): Ecchymosis, erythema, skin disorderUncommon (0.
-1% to 1%): Rash, pruritus, hyperhidrosisRare (less than 0.
-1%): UrticariaFrequency not reported: Diaphoresis, sensitivity, irritation, non-application site pruritus
-Common (1% to 10%): Diarrhea, inguinal herniaUncommon (0.
-1% to 1%): Obstruction gastric, gastric mucosal hypertrophy, nausea, dry mouthFrequency not reported: Gastric regurgitation, peritonitis
-Common (1% to 10%): InfectionUncommon (0.
-1% to 1%): Fungal infection, common coldRare (less than 0.
-1%): Anaphylactic/anaphylactoid reactions
-Common (1% to 10%): Disseminated intravascular coagulationUncommon (0.
-1% to 1%): Blood creatinine increasedVery rare (less than 0.
-01%): ThrombocytopeniaFrequency not reported: Anemia, bleeding, hypochromic anemia
-Common (1% to 10%): Abnormal visionUncommon (0.
-1% to 1%): Mydriasis
+Very common ( or more): Penile pain (up to ), urethral pain , urethral burning Common ( to ): Prolonged erection greater than  hours, penile angulation, penile fibrosis, cavernous body fibrosis, Peyronie's disease, penis disorder, prostate disorder, testicular pain, urethral bleeding/spotting and other minor urethral abrasions, vaginal burning/itchingUncommon ( to ): Priapism, scrotal erythema, dysuria, hematuria, pollakiuria, micturition urgency, urethral hemorrhage, balanitis, phimosis, ejaculation disorder, scrotal disorder, scrotal pain, testicular swelling, testicular edema, scrotal edema, spermatocele, testicular disorder, testicular mass, penile hemosiderin deposits, swelling of the preputium or the glans, perineal pain, painful erectionRare (less than ): Urinary tract infectionFrequency not reported: Anuria, abnormal ejaculation, penile deviations, penile warmth, urinary frequency/urinary urgency/impaired urination
+Very common ( or more): Flushing Common ( to ): Bradycardia, hypotension, tachycardia, cardiac arrest, edema, hematoma, hypertension, myocardial infarction, abnormal ECGUncommon ( to ): Vascular fragility, supraventricular extrasystoles, vein disorder, vasodilatation, peripheral vascular disorder, peripheral edema, swelling of the leg veinsFrequency not reported: Congestive heart failure, hyperemia, second degree heart block, shock, spasm of the right ventricle infundibulum, supraventricular tachycardia, ventricular fibrillation, rapid pulse, pneumopericardium, ventricular hypertrophy, tachyphylaxis, ductus arteriosus histological changes, venous leak, cardiac arrhythmias, postural hypotension, changes in blood pressure, vagal shock, vasovagal reactions, myocardial ischemia
+Very common ( or more): Local bleeding Common ( to ): Injection site hematoma, injection site burning, sensation of tension in the penis, injection site painUncommon ( to ): Injection site hemorrhage, injection site edema, injection site inflammation, injection site mass, injection site pruritus, injection site swelling and reddening, injection site irritation, injection site anesthesia, injection site warmthFrequency not reported: Localized pain
+Very common ( or more): Apnea Common ( to ): Upper respiratory tract infection, sinusitis, rhinitisFrequency not reported: Bradypnea, bronchial wheezing, hypercapnia, respiratory depression, respiratory distress, tachypnea, hypoplastic lungs, pneumothorax
+Very common ( or more): Fever Common ( to ): Sepsis, influenza-like symptoms, pain, accidental injuryUncommon ( to ): AstheniaRare (less than ): VertigoFrequency not reported: Hypothermia, jitteriness, non-generalized weakness
+Common ( to ): Back pain, leg pain, pelvic pain, muscle spasmsUncommon ( to ): ExostosisFrequency not reported: Hyperextension of the neck, stiffness, cortical proliferation of the long bones, microcephaly, leg cramps
+Common ( to ): Hypokalemia, hypertriglyceridemia, hypercholesterolemia, hyperglycemiaFrequency not reported: Hypoglycemia, hyperkalemia
+Common ( to ): Seizures, headache, dizzinessUncommon ( to ): Syncope, hypoesthesia, hyperesthesia, presyncopeFrequency not reported: Cerebral bleeding, lethargy, numbness, collapse, amnesia, cerebrovascular accident
+Common ( to ): Ecchymosis, erythema, skin disorderUncommon ( to ): Rash, pruritus, hyperhidrosisRare (less than ): UrticariaFrequency not reported: Diaphoresis, sensitivity, irritation, non-application site pruritus
+Common ( to ): Diarrhea, inguinal herniaUncommon ( to ): Obstruction gastric, gastric mucosal hypertrophy, nausea, dry mouthFrequency not reported: Gastric regurgitation, peritonitis
+Common ( to ): InfectionUncommon ( to ): Fungal infection, common coldRare (less than ): Anaphylactic/anaphylactoid reactions
+Common ( to ): Disseminated intravascular coagulationUncommon ( to ): Blood creatinine increasedVery rare (less than ): ThrombocytopeniaFrequency not reported: Anemia, bleeding, hypochromic anemia
+Common ( to ): Abnormal visionUncommon ( to ): Mydriasis
 Frequency not reported: Hyperbilirubinemia, biliary atresia
 Frequency not reported: Polycystic kidneys, renal failure
 Frequency not reported: Hyperirritability
 intravenous solutionurethral suppository
 Curving of penis with pain during erection
-erection continuing for 4 to 6 hours
-erection continuing longer than 6 hours with severe and continuing pain of the penis
+erection continuing for  to  hours
+erection continuing longer than  hours with severe and continuing pain of the penis
 swelling in or pain of the testes
 Bleeding and pain at the injection site (short-term)
 painful erection

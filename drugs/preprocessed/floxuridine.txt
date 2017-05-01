@@ -7,7 +7,7 @@ Frequency not reported: Fever, lethargy, malaise, weakness-Adverse reactions to 
 The complications include arterial aneurysm, arterial ischemia, arterial thrombosis, embolism, fibromyositis, thrombophlebitis, hepatic necrosis, abscesses, infection at the catheter site, bleeding at the catheter site and/or a blocked, leaking, or displaced catheter.
 -Laboratory abnormalities include BSP, prothrombin, total proteins, sedimentation rate and thrombocytopenia.
 Frequency not reported: Stomatitis, esophagopharyngitis (at the first visible sign), nausea, vomiting, diarrhea, enteritis, stomatitis, duodenal ulcer, duodenitis, gastritis, bleeding, gastroenteritis, glossitis, pharyngitis, anorexia, cramps, abdominal pain, possible intra- and extrahepatic biliary sclerosis, acalculous cholecystitis
-Frequency not reported: Leukopenia (WBC under 3500) or a rapidly falling white blood count, anemia, leukopenia, thrombocytopenia, hemorrhage (from any site)
+Frequency not reported: Leukopenia (WBC under ) or a rapidly falling white blood count, anemia, leukopenia, thrombocytopenia, hemorrhage (from any site)
 Frequency not reported: Elevations of alkaline phosphatase, serum transaminase, serum bilirubin, and lactic dehydrogenase
 Frequency not reported: Alopecia, dermatitis, nonspecific skin toxicity, rash
 Frequency not reported: Myocardial ischemia

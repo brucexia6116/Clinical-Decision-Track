@@ -1,0 +1,180 @@
+upper
+respiratory tract infection
+respiratory infection
+bronchitis
+pharyngitis
+sinusitis
+nasopharyngitis
+coughcandesartan
+frequency
+cough
+rhinitishydrochlorothiazide
+frequency
+pneumonitis
+pulmonary edema
+hypokalemia
+dyslipidemiauncommon
+hyperkalemiacandesartan
+hyponatremia
+hyperkalemiahydrochlorothiazide
+frequency
+anorexia
+loss of appetite
+hyperglycemia
+hyperuricemia
+hyponatremia
+hypokalemia
+cholesterol
+triglycerides
+abdominal pain
+nauseauncommon
+vomitingcandesartan
+frequency
+diarrheahydrochlorothiazide
+frequency
+gastric irritation
+diarrhea
+constipationpostmarketing reports
+sialadenitis
+cramping
+influenza-like symptoms
+inflicted injuryfrequency
+fatiguecandesartan
+frequency
+peripheral edemahydrochlorothiazide
+frequency
+fever
+weakness
+vertigo
+dizziness
+headachecandesartan
+postmarketing reports
+somnolencehydrochlorothiazide
+frequency
+lightheadedness
+paresthesia
+tachycardiauncommon
+atrioventricular blockcandesartan
+postmarketing reports
+palpitationshydrochlorothiazide
+frequency
+vasculitis
+postural hypotension
+cardiac arrhythmias
+painpostmarketing reports
+myalgiacandesartan
+postmarketing reports
+rhabdomyolysishydrochlorothiazide
+frequency
+muscle spasm
+urinary tract infectionhydrochlorothiazide
+frequency
+glycosuriapostmarketing reports
+impotence
+candesartan
+angioedema
+urticaria
+pruritus
+rashhydrochlorothiazide
+frequency
+photosensitivity reactions
+rash
+cutaneous lupus
+erythematosus-like reactions
+reactivation of cutaneous lupus erythematosus
+urticaria
+cutaneous vasculitis
+toxic epidermal necrolysispostmarketing reports
+purpura
+erythema multiforme
+stevens-johnson syndrome
+exfoliative dermatitis
+alopecia
+candesartan
+leucopenia
+neutropenia
+agranulocytosishydrochlorothiazide
+frequency
+leucopenia
+neutropenia
+agranulocytosis
+thrombocytopenia
+aplastic anemia
+hemolytic anemia
+bone marrow depression
+candesartan
+liver enzymes
+abnormal hepatic function
+hepatitishydrochlorothiazide
+frequency
+intrahepatic cholestatic jaundice
+pancreatitis
+candesartan
+renal impairment
+renal failurehydrochlorothiazide
+frequency
+bun
+serum creatinine
+renal dysfunction
+interstitial nephritis
+candesartan
+postmarketing reports
+agitation
+anxiety
+depression
+insomnia
+nervousness
+disorder
+nightmarehydrochlorothiazide
+frequency
+restlessness
+sleep disturbances
+depression
+hydrochlorothiazide
+frequency
+transient blurred vision
+acute myopia
+acute angle-closure glaucoma
+xanthopsia
+hydrochlorothiazide
+frequency
+anaphylactic reactions
+cough
+dizziness
+dryness of the mouth
+fever
+increased thirst
+irregular heartbeat
+lightheadedness
+muscle cramps
+nausea
+sore throat
+unusual tiredness
+vomiting
+weak pulse
+weakness
+arm pain
+chest pain
+chest tightness
+irregular heartbeat
+swelling on the face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+shortness of breath
+back pain
+diarrhea
+headache
+joint pain
+loss of appetite
+muscle aches
+pains
+runny nose
+sneezing
+sweating
+trouble sleeping

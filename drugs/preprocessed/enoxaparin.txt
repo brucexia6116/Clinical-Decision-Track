@@ -1,29 +1,25 @@
 Commonly reported side effects of enoxaparin include: anemia and hemorrhage.
 Other side effects include: fever.
 See below for a comprehensive list of adverse effects.
-Hematologic side effects including wound hematoma (11%), anemia (3%), ecchymosis (3%), thrombocytopenia (1.
-5%), thrombocytosis, hemarthrosis, thrombosis, hypochromic anemia, and retroperitoneal hematoma have been reported.
+Hematologic side effects including wound hematoma , anemia , ecchymosis , thrombocytopenia , thrombocytosis, hemarthrosis, thrombosis, hypochromic anemia, and retroperitoneal hematoma have been reported.
 Clinical trials experience included reports of spinal/epidural hematoma and increased risk of hemorrhage.
 Postmarketing side effects have included hemorrhagic anemia and eosinophilia.
 Patients undergoing spinal/epidural anesthesia or puncture and anticoagulated or scheduled to be anticoagulated with low molecular weight heparins or heparinoids are at risk for long-term or permanent paralysis due to epidural or spinal hematoma.
 The risk of these events is increased by the use of indwelling epidural catheters or by concomitant use of platelet inhibitors, other anticoagulants, or drugs that affect hemostasis.
-In one clinical study, compared with younger patients, the incidence of bleeding complications was higher in patients greater than or equal to 65-years-old.
-Patients previously exposed to unfractionated heparin or a low-molecular-weight heparin appear to be more susceptible to developing heparin-induced thrombocytopenia (HIT) and HIT-related thromboembolic complications (e.
-g.
-, transient ischemic attack, stroke) than those who were never exposed.
-Heparin-induced thrombocytopenia (HIT) is an immune-mediated, prothrombotic reaction that occurs in 0.
-5% to 5% of patients treated with unfractionated heparin and in less than 1% of patients treated with a low molecular weight heparin (LMWH).
-The decrease in platelet count associated with HIT usually begins 5 to 14 days after starting heparin.
+In one clinical study, compared with younger patients, the incidence of bleeding complications was higher in patients greater than or equal to -years-old.
+Patients previously exposed to unfractionated heparin or a low-molecular-weight heparin appear to be more susceptible to developing heparin-induced thrombocytopenia (HIT) and HIT-related thromboembolic complications (, transient ischemic attack, stroke) than those who were never exposed.
+Heparin-induced thrombocytopenia (HIT) is an immune-mediated, prothrombotic reaction that occurs in  to  of patients treated with unfractionated heparin and in less than  of patients treated with a low molecular weight heparin (LMWH).
+The decrease in platelet count associated with HIT usually begins  to  days after starting heparin.
 However, patients with a previous exposure to heparin may have an abrupt decrease in platelets upon restarting heparin.
 Patients with LMWH-induced HIT exhibit a longer delay in the onset of symptoms compared with those who develop it from unfractionated heparin.
-Following discontinuation, platelet counts begin to recover within 4 days, but may take more than 2 weeks in patients with high-titer HIT antibodies.
-Thrombocytopenia is caused by heparin-dependent IgG antibodies that bind to a specific platelet protein, platelet factor 4 (PF4).
-The heparin-PF4-IgG immune complex binds to platelets causing platelet activation.
+Following discontinuation, platelet counts begin to recover within  days, but may take more than  weeks in patients with high-titer HIT antibodies.
+Thrombocytopenia is caused by heparin-dependent IgG antibodies that bind to a specific platelet protein, platelet factor  (PF).
+The heparin-PF-IgG immune complex binds to platelets causing platelet activation.
 The activated platelets cause release of platelet-derived procoagulant microparticles, which accelerate coagulation reactions and generate thrombin.
-LMWHs have a high cross-reactivity with circulating heparin-PF4-IgG immune complex.
+LMWHs have a high cross-reactivity with circulating heparin-PF-IgG immune complex.
 Factors associated with a higher risk for developing HIT-associated thrombosis include women, nonwhites, severity of thrombocytopenia, and lower body weight.
 Complications associated with HIT include exacerbation of venous thromboembolism, arterial or venous thrombosis, limb gangrene, stroke, and skin necrosis.
-The antibodies that cause HIT will usually disappear after approximately 3 months; therefore, use of unfractionated heparin or LMWH may be considered in a patient with a history of HIT if the antibody test is negative.
+The antibodies that cause HIT will usually disappear after approximately  months; therefore, use of unfractionated heparin or LMWH may be considered in a patient with a history of HIT if the antibody test is negative.
 Factors associated with an increased risk of bleeding include high doses, advanced age, renal dysfunction, and concomitant use of other drugs that affect hemostasis.
 Hepatic side effects have included transient elevations in liver function tests.
 Postmarketing side effects have included hepatocellular and cholestatic liver injury.
@@ -44,24 +40,18 @@ Cardiovascular side effects have included atrial fibrillation, heart failure, ed
 Gastrointestinal side effects have included nausea and diarrhea.
 Metabolic side effects have rarely included hyperlipidemia.
 Postmarketing reports have included cases of hyperkalemia.
-Most of these reports occurred in patients who also had conditions that tend toward the development of hyperkalemia (e.
-g.
-, renal dysfunction, concomitant potassium-sparing drugs, administration of potassium, and hematoma in body tissues).
+Most of these reports occurred in patients who also had conditions that tend toward the development of hyperkalemia (, renal dysfunction, concomitant potassium-sparing drugs, administration of potassium, and hematoma in body tissues).
 One case of hyperlipidemia with marked hypertriglyceridemia was reported in a diabetic pregnant woman, although causality has not been determined.
 Genitourinary side effects have included hematuria.
 Nervous system side effects have included confusion and postmarketing reports of headache.
 Other side effects have included fever.
-In general, hemorrhagic side effects have occurred in 3% to 7% of patients.
-A meta-analysis of published studies reported an overall incidence of major bleeding with low molecular weight heparins of 0.
-7% to 1.
-4%.
+In general, hemorrhagic side effects have occurred in  to  of patients.
+A meta-analysis of published studies reported an overall incidence of major bleeding with low molecular weight heparins of  to .
 Hemorrhage may occur at any site in the body.
 Any unexplained decrease in blood pressure and/or hematocrit as well as unexplained symptoms should prompt consideration of a possible hemorrhagic event.
-In a study involving pregnant women (n=120) requiring thromboprophylaxis, clinically significant bone loss (i.
+In a study involving pregnant women (n=) requiring thromboprophylaxis, clinically significant bone loss (i.
 e.
-, 10% or greater) in the femur occurred in approximately 2% to 2.
-5% of patients regardless if they received enoxaparin (68.
-4 mg/day) or unfractionated heparin (17,380 units/day) for approximately 26 to 27 weeks.
+,  or greater) in the femur occurred in approximately  to  of patients regardless if they received enoxaparin ( mg/day) or unfractionated heparin (, units/day) for approximately  to  weeks.
 Musculoskeletal side effects have included osteoporosis.
 Bleeding gums
 coughing up blood

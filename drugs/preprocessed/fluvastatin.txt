@@ -1,39 +1,24 @@
 More frequently reported side effects include: dyspepsia, myalgia, and accidental injury.
 See below for a comprehensive list of adverse effects.
 The most frequently reported side effects were headache, dyspepsia, abdominal pain, nausea, and myalgia.
-Common (1% to 10%): Myalgia, arthritis, arthropathy, arthralgia, pain in extremity, back painRare (0.
-01% to 0.
-1%): Muscular weakness, myopathyVery rare (less than 0.
-01%): Rhabdomyolysis, myositis, lupus erythematosus-like syndromeFrequency not reported: Immune-mediated necrotizing myopathyPostmarketing reports: Muscle cramps, muscle spasms
-Common (1% to 10%): ALT increased, AST increasedVery rare (less than 0.
-01%): HepatitisPostmarketing reports: Chronic active hepatitis, cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, fatal hepatic failure, nonfatal hepatic failure, gamma-glutamyl transpeptidase increased, bilirubin increased
-Common (1% to 10%): Dyspepsia, diarrhea, abdominal pain, nausea, flatulence, tooth disorder, upper abdominal pain, constipation, gastric disorderVery rare (less than 0.
-01%): PancreatitisPostmarketing reports: Vomiting
-Common (1% to 10%): RashRare (0.
-01% to 0.
-1%): UrticariaVery rare (less than 0.
-01%): Angioedema, face edema, eczema, dermatitis, bullous exanthemaPostmarketing reports: Bullous dermatitis, alopecia, pruritus, skin nodules, skin discoloration, dry skin/mucous membranes, hair/nails changed
-Very common (10% or more): Upper respiratory tract infection (16.
-2%)Common (1% to 10%): Sinusitis, bronchitis, nasopharyngitis, exertional dyspnea, pharyngitis, rhinitis, cough
-Common (1% to 10%): Influenza-like symptoms, accidental trauma, fatigue, peripheral edema, blood transaminases increased, creatine phosphokinase increasedUncommon (0.
-1% to 1%): Chest painPostmarketing reports: Vertigo, alkaline phosphatase increased
-Common (1% to 10%): Headache, dizziness, syncopeVery rare (less than 0.
-01%): Paresthesia, dysesthesia, hypoesthesiaPostmarketing reports: Tremor, peripheral nerve palsy, peripheral neuropathy, dysfunction of cranial nerve, alteration of taste, extra-ocular movement impaired, facial paresis, cognitive impairment, memory loss, forgetfulness, amnesia, memory impairment
-Common (1% to 10%): Urinary tract infectionPostmarketing reports: Erectile dysfunction, gynecomastia
-Common (1% to 10%): Atrial fibrillation, hypertension, intermittent claudicationVery rare (less than 0.
-01%): Vasculitis
-Very rare (less than 0.
-01%): Thrombocytopenia
+Common ( to ): Myalgia, arthritis, arthropathy, arthralgia, pain in extremity, back painRare ( to ): Muscular weakness, myopathyVery rare (less than ): Rhabdomyolysis, myositis, lupus erythematosus-like syndromeFrequency not reported: Immune-mediated necrotizing myopathyPostmarketing reports: Muscle cramps, muscle spasms
+Common ( to ): ALT increased, AST increasedVery rare (less than ): HepatitisPostmarketing reports: Chronic active hepatitis, cholestatic jaundice, fatty change in liver, cirrhosis, fulminant hepatic necrosis, fatal hepatic failure, nonfatal hepatic failure, gamma-glutamyl transpeptidase increased, bilirubin increased
+Common ( to ): Dyspepsia, diarrhea, abdominal pain, nausea, flatulence, tooth disorder, upper abdominal pain, constipation, gastric disorderVery rare (less than ): PancreatitisPostmarketing reports: Vomiting
+Common ( to ): RashRare ( to ): UrticariaVery rare (less than ): Angioedema, face edema, eczema, dermatitis, bullous exanthemaPostmarketing reports: Bullous dermatitis, alopecia, pruritus, skin nodules, skin discoloration, dry skin/mucous membranes, hair/nails changed
+Very common ( or more): Upper respiratory tract infection Common ( to ): Sinusitis, bronchitis, nasopharyngitis, exertional dyspnea, pharyngitis, rhinitis, cough
+Common ( to ): Influenza-like symptoms, accidental trauma, fatigue, peripheral edema, blood transaminases increased, creatine phosphokinase increasedUncommon ( to ): Chest painPostmarketing reports: Vertigo, alkaline phosphatase increased
+Common ( to ): Headache, dizziness, syncopeVery rare (less than ): Paresthesia, dysesthesia, hypoesthesiaPostmarketing reports: Tremor, peripheral nerve palsy, peripheral neuropathy, dysfunction of cranial nerve, alteration of taste, extra-ocular movement impaired, facial paresis, cognitive impairment, memory loss, forgetfulness, amnesia, memory impairment
+Common ( to ): Urinary tract infectionPostmarketing reports: Erectile dysfunction, gynecomastia
+Common ( to ): Atrial fibrillation, hypertension, intermittent claudicationVery rare (less than ): Vasculitis
+Very rare (less than ): Thrombocytopenia
 Frequency not reported: Myoglobinuria, acute renal failure
-Common (1% to 10%): AllergyVery rare (less than 0.
-01%): Anaphylactic reaction
+Common ( to ): AllergyVery rare (less than ): Anaphylactic reaction
 An apparent hypersensitivity syndrome was reported rarely and included one or more of the following: anaphylaxis, angioedema, lupus erythematosus-like syndrome, polymyalgia rheumatica, vasculitis, purpura, thrombocytopenia, leukopenia, hemolytic anemia, positive antinuclear antibodies, erythrocyte sedimentation rate increased, eosinophilia, arthritis, arthralgia, urticaria, asthenia, photosensitivity reaction, fever, chills, flushing, malaise, dyspnea, toxic epidermal necrolysis, erythema multiforme, and Stevens-Johnson syndrome.
-Rare (less than 0.
-1%): Hypersensitivity reaction
+Rare (less than ): Hypersensitivity reaction
 Postmarketing reports: Hepatoma
 Postmarketing reports: Thyroid function abnormal
-Common (1% to 10%): InsomniaPostmarketing reports: Anxiety, depression, psychic disturbances, loss of libido, confusion
-Frequency not reported: HbA1c increased, serum glucose increasedPostmarketing reports: Anorexia
+Common ( to ): InsomniaPostmarketing reports: Anxiety, depression, psychic disturbances, loss of libido, confusion
+Frequency not reported: HbAc increased, serum glucose increasedPostmarketing reports: Anorexia
 Postmarketing reports: Cataracts progressed, lens opacity, ophthalmoplegia
 Chills
 diarrhea

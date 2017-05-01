@@ -1,6 +1,5 @@
 Other dosage forms:
 As well as its needed effects, estradiol (the active ingredient contained in Vivelle) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking estradiol, check with your doctor immediately:
 If any of the following symptoms of overdose occur while taking estradiol, get emergency help immediately:
 Some estradiol side effects may not need any medical attention.
@@ -8,7 +7,7 @@ As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Cases of oral pigmentation and ischemic colitis have been reported rarely.
 Gastrointestinal side effects have included nausea, abdominal cramps, bloating and vomiting.
-Some studies have demonstrated a 2 to 4 fold increase in gallbladder disease in postmenopausal women taking estrogen therapy.
+Some studies have demonstrated a  to  fold increase in gallbladder disease in postmenopausal women taking estrogen therapy.
 Cholestatic jaundice, pancreatitis, and enlargement of hepatic hemangiomas have been reported.
 Postmarketing experience with the vaginal ring has included a few cases of bowel obstruction and vaginal ring use.
 Postmarketing side effects with Vivelle-Dot include nausea, vomiting, abdominal cramps, bloating, cholelithiasis and diarrhea.
@@ -16,44 +15,28 @@ Oncologic side effects have included reports of an increased risk of endometrial
 A number of studies have suggested that the risk of endometrial carcinoma is removed (or delayed) by the administration of progestins in combination with estrogen therapy.
 The increased risk of breast cancer due to use of estrogens is controversial.
 Several studies have suggested that long-term estrogen therapy may be associated with a slightly increased risk of breast cancer.
-Meta analysis of 51 studies (epidemiological data) supports a modest risk increase associated with long-term hormone replacement therapy (HRT).
-One study of Swedish women has reported that a 10% increase in the relative risk of breast cancer may occur and that the risk is related to increasing duration of estrogen therapy.
-In that study, women with more than nine years of estrogen use had a 70% greater relative risk of breast cancer than controls.
+Meta analysis of  studies (epidemiological data) supports a modest risk increase associated with long-term hormone replacement therapy (HRT).
+One study of Swedish women has reported that a  increase in the relative risk of breast cancer may occur and that the risk is related to increasing duration of estrogen therapy.
+In that study, women with more than nine years of estrogen use had a  greater relative risk of breast cancer than controls.
 That study, however, examined use of a variety of estrogen preparations of which estradiol was the most frequently prescribed.
 In addition, women who took progestins did not demonstrate a decreased risk of breast cancer and may even have been at higher risk.
-The Toronto Breast Cancer Study has reported that women who receive unopposed conjugated estrogens for less than 15 years are not at increased risk of breast cancer.
-In that study, an increase in the risk of breast cancer for women who used conjugated estrogens for more than 15 years was not ruled out.
+The Toronto Breast Cancer Study has reported that women who receive unopposed conjugated estrogens for less than  years are not at increased risk of breast cancer.
+In that study, an increase in the risk of breast cancer for women who used conjugated estrogens for more than  years was not ruled out.
 The Case-Control Surveillance Study has reported that there is "no evidence that the use of unopposed conjugated estrogens increases the risk of breast cancer, even after long duration of use or long latent intervals, but the possibility of a modest increase (less than a doubling) could not be excluded.
-"Follow-up to the Nurses' Health Study of 1992 concluded, however, that there is an increased risk of breast cancer in women taking estrogen replacement therapy and that the risk is not reduced by concurrent use of progestins.
+"Follow-up to the Nurses' Health Study of  concluded, however, that there is an increased risk of breast cancer in women taking estrogen replacement therapy and that the risk is not reduced by concurrent use of progestins.
 (In that study, greater risk was associated with advanced age and prolonged duration of hormonal therapy.
 )A study of middle-aged women in the Puget Sound area concluded that "on the whole, the use of estrogen with progestin HRT [hormone replacement therapy] does not appear to be associated with an increased risk of breast cancer in middle-aged women.
-"A prospective cohort study (11 years) of 37,105 women by Gapstur et al evaluated the histology of the breast cancer in women who ever used HRT.
+"A prospective cohort study ( years) of , women by Gapstur et al evaluated the histology of the breast cancer in women who ever used HRT.
 No association was found between duration of ever HRT use and the incidence of ductal carcinoma in situ or invasive ductal/lobular carcinoma.
-The duration of ever HRT use was associated with risk of invasive carcinoma with a favorable prognosis (relative risk (RR) = 1.
-81, 95% confidence interval (CI), 1.
-07 to 3.
-07 for HRT use less than or equal to 5 yrs and RR = 2.
-65, CI, 1.
-32 to 5.
-23 for HRT use > 5 yrs, p = 0.
-005).
-The relative risk of invasive carcinoma with a favorable prognosis for current users (adjusted for age and other risk factors) was 4.
-42, CI, 2.
-00 to 9.
-76 for  less than or equal to 5 yrs and 2.
-63, CI, 1.
-18 to 5.
-89 for > 5 yrs).
-Risk of invasive ductal or lobular carcinoma for current users less than or equal to 5 yrs was RR = 1.
-38, CI, 1.
-03 to 1.
-85.
+The duration of ever HRT use was associated with risk of invasive carcinoma with a favorable prognosis (relative risk (RR) = ,  confidence interval (CI),  to  for HRT use less than or equal to  yrs and RR = , CI,  to  for HRT use >  yrs, p = ).
+The relative risk of invasive carcinoma with a favorable prognosis for current users (adjusted for age and other risk factors) was , CI,  to  for  less than or equal to  yrs and , CI,  to  for >  yrs).
+Risk of invasive ductal or lobular carcinoma for current users less than or equal to  yrs was RR = , CI,  to .
 The reported effects of estrogens on cardiovascular activity are variable.
 Alterations in lipid profiles in treated women are thought to be responsible for reducing cardiovascular risks.
 Data suggest estrogen use may increase blood pressure, particularly in patients receiving high doses, decrease blood pressure, or result in no change.
 In addition, noncontraceptive use of estrogens in young women (particularly smokers) may substantially increase the risk of nonfatal myocardial infarction.
 Other studies have concluded that no increased risk of myocardial infarction exists.
-Cardiovascular side effects have included studies suggesting that unopposed estrogen therapy decreased the risk of coronary heart disease by as much as 35%.
+Cardiovascular side effects have included studies suggesting that unopposed estrogen therapy decreased the risk of coronary heart disease by as much as .
 Combination therapy with a progestin may have also decreased coronary risk.
 However, the extent of risk reduction with combination therapy has not been determined.
 Data are available that suggest combination therapy does not reduce the overall rate of coronary heart disease in postmenopausal women with established coronary disease.
@@ -62,8 +45,7 @@ Metabolic side effects have included reports of generally favorable alterations 
 Specifically, increased HDL and decreased cholesterol and LDL levels have occurred.
 Estrogen therapy may have led to increased serum triglyceride levels resulting in pancreatitis in patients with familial lipoprotein metabolic defects.
 Metabolic adverse effects such as hypercalcemia have occurred in patients with breast cancer and bone metastases.
-Endocrine side effects have included increased levels of thyroxin-binding globulin which led to increased total thyroid serum levels and a decreased in resin uptake of T3.
-Free thyroid hormone levels remained unchanged.
+Endocrine side effects have included increased levels of thyroxin-binding globulin which led to increased total thyroid serum levels and a decreased in resin uptake of T  Free thyroid hormone levels remained unchanged.
 Other endocrine effects have included decreased fasting plasma glucose.
 General side effects have included fluid retention and mastodynia.
 Alterations in libido have occurred.

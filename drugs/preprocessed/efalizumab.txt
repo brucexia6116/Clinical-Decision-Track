@@ -1,44 +1,33 @@
 Side effects include:
 Headache, infection, chills, fever, nausea, myalgia, pain, flu syndrome, back pain, acne.
-
-Hematologic side effects including lymphocytosis (40%), leukocytosis (26%), and thrombocytopenia (0.
-3%) have been reported.
-Nervous system side effects including headache (32%) have been reported.
-Cases of Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, facial palsy, and transverse myelitis have been observed in patients receiving efalizumab in the postmarketing setting.
+Hematologic side effects including lymphocytosis , leukocytosis , and thrombocytopenia  have been reported.
+Nervous system side effects including headache  have been reported.
+Cases of Guillain-Barr syndrome, chronic inflammatory demyelinating polyneuropathy, facial palsy, and transverse myelitis have been observed in patients receiving efalizumab in the postmarketing setting.
 A case of efalizumab-induced aseptic meningitis and a case of efalizumab-induced isolated cerebral Lupus-like syndrome have also been reported.
 The most common nonspecific infection was upper respiratory infection.
 Serious infections requiring hospitalization have included cellulitis, pneumonia, abscess, sepsis, bronchitis, gastroenteritis, aseptic meningitis, Legionnaire's disease, and vertebral osteomyelitis.
 (Some of the patients had more than one infection.
 )
-Immunologic side effects including infection (29%) have been reported.
-The proportion of patients with serious infection was 0.
-4%.
-Inflammatory, potentially immune-mediated adverse reactions resulting in hospitalization included inflammatory arthritis (0.
-4%) and rare cases of interstitial pneumonitis.
+Immunologic side effects including infection  have been reported.
+The proportion of patients with serious infection was .
+Inflammatory, potentially immune-mediated adverse reactions resulting in hospitalization included inflammatory arthritis  and rare cases of interstitial pneumonitis.
 Transverse myelitis, bronchiolitis obliterans, aseptic meningitis, idiopathic hepatitis, sialadenitis, and sensorineural hearing loss have been reported rarely.
 Postmarketing reports of serious infections have included necrotizing fasciitis and tuberculosis pneumonia.
-Bacterial sepsis with seeding of distant sites, severe pneumonia with neutropenia, and worsening of infection (e.
-g.
-cellulitis, pneumonia) despite antimicrobial treatment have also been reported.
+Bacterial sepsis with seeding of distant sites, severe pneumonia with neutropenia, and worsening of infection (  cellulitis, pneumonia) despite antimicrobial treatment have also been reported.
 Three confirmed, and one possible case of progressive multifocal leukoencephalopathy (PML) have been reported.
 Three of those patients have died.
 A case of immune-mediated pancytopenia and a case of serum sickness-like reaction have been reported.
-General side effects including chills (13%), pain (10%), flu syndrome (7%), fever (7%), and asthenia have been reported.
-Gastrointestinal side effects including nausea (11%) have been reported.
+General side effects including chills , pain , flu syndrome , fever , and asthenia have been reported.
+Gastrointestinal side effects including nausea  have been reported.
 A case of candida colitis has also been reported.
-Musculoskeletal side effects including myalgia (8%), back pain (4%) and arthralgia have been reported.
+Musculoskeletal side effects including myalgia , back pain  and arthralgia have been reported.
 Serious adverse events of psoriasis included pustular, erythrodermic, and guttate subtypes.
-Dermatologic side effects including acne (4%) and serious psoriasis (0.
-7%) have been reported.
+Dermatologic side effects including acne  and serious psoriasis  have been reported.
 Four cases of papular psoriasis, one case of hypertrichosis, and one case of repigmentation of vitiligo have also been reported.
 Malignancies reported in the efalizumab-treated patients included non-melanoma skin cancer, non-cutaneous solid tumors, Hodgkin's lymphoma, non-Hodgkin's lymphoma, and malignant melanoma.
-The majority of the malignancies were non-melanoma skin cancers (50% basal cell and 50% squamous cell).
-Oncologic side effects have included an overall incidence of malignancies of any kind at 1.
-8 per 100 patient-years for efalizumab treated patients compared to 1.
-6 per 100 patient-years for placebo-treated patients.
-Hypersensitivity side effects were reported at a rate of 8% (versus 7% in the placebo group).
-Hepatic side effects including a mean elevation in alkaline phosphatase (5 Units/L) has been reported.
-A shift to above normal values of alkaline phosphatase was reported in 4% of efalizumab-treated patients.
-Higher numbers of efalizumab-treated patients experienced elevations to above normal in two or more liver function tests than in placebo-treated patients (3.
-1% versus 1.
-5%).
+The majority of the malignancies were non-melanoma skin cancers ( basal cell and  squamous cell).
+Oncologic side effects have included an overall incidence of malignancies of any kind at  per  patient-years for efalizumab treated patients compared to  per  patient-years for placebo-treated patients.
+Hypersensitivity side effects were reported at a rate of  (versus  in the placebo group).
+Hepatic side effects including a mean elevation in alkaline phosphatase ( Units/L) has been reported.
+A shift to above normal values of alkaline phosphatase was reported in  of efalizumab-treated patients.
+Higher numbers of efalizumab-treated patients experienced elevations to above normal in two or more liver function tests than in placebo-treated patients ( versus ).

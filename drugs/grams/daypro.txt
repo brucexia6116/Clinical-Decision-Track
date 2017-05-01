@@ -1,0 +1,346 @@
+more frequent side effects
+constipation
+diarrhea
+dyspepsia
+nausea
+skin rash
+comprehensive list of adverse effects
+reported adverse effects
+gi
+nature
+gi pain
+anorexia
+gi ulcers
+heartburn
+dyspepsia
+nausea
+vomiting
+diarrhea
+constipation
+flatulence
+gross bleeding
+perforation
+abdominal pain/distress
+anorexia
+constipation
+diarrhea
+dyspepsia
+flatulence
+gi
+ulcers
+gross bleeding/perforation
+heartburn
+nausea
+vomitingfrequency
+dry mouth
+eructation
+esophagitis
+gastritis
+glossitis
+hematemesis
+stomatitis
+pancreatitis
+hemorrhoid bleeding
+rectal bleeding
+melena
+liver enzymes elevatedfrequency
+jaundice
+liver function abnormalities
+hepatitis
+liver failure
+abnormal renal functionfrequency
+acute interstitial nephritis
+cystitis
+renal insufficiency
+acute renal failure
+nephrotic syndrome
+renal calculi
+frequency
+arrhythmia
+blood pressure changes
+congestive heart failure
+hypertension
+hypotension
+myocardial infarction
+palpitations
+tachycardia
+syncope
+vasculitis
+cns inhibition
+somnolence
+sedation
+dizziness
+headachefrequency
+taste disturbance
+coma
+convulsions
+drowsiness
+paresthesia
+tremors
+pruritus
+rashfrequency
+ecchymosis
+purpura
+alopecia
+angioedema
+urticaria
+photosensitivity
+pseudoporphyria
+exfoliative dermatitis
+erythema multiforme
+stevens-johnson syndrome
+sweating
+toxic epidermal necrolysis
+anemia
+bleeding time increasedfrequency
+agranulocytosis
+aplastic anemia
+eosinophilia
+hemolytic anemia
+lymphadenopathy
+pancytopenia
+thrombocytopenia
+leukopenia
+frequency
+hypersensitivity reactions
+edema
+tinnitusfrequency
+death
+sepsis
+fever
+infection
+asthenia
+malaise
+meningitis
+vertigo
+weakness
+hearing
+depression
+confusion
+sleep disturbance
+dream abnormalitiesfrequency
+anxiety
+hallucinations
+insomnia
+nervousness
+dysuria
+urinary frequencyfrequency
+hematuria
+menstrual flow
+oliguria
+polyuria
+proteinuria
+menstrual flow
+frequency
+asthma
+dyspnea
+pulmonary infections
+pneumonia
+sinusitis
+upper respiratory tract infection
+respiratory depression
+frequency
+serum sickness
+frequency
+appetite changes
+hyperglycemia
+weight changes
+frequency
+blurred vision
+conjunctivitis
+skin rash
+bloating
+tarry stools
+burning
+stomach pain
+burning while urinating
+cloudy urine
+constipation
+decrease in urine output
+urine-concentrating ability
+diarrhea
+painful urination
+frequent urination
+headache
+heartburn
+indigestion
+itching skin
+loss of appetite
+nausea or vomiting
+pale skin
+stomach pain
+cramping
+burning
+continuing nausea
+swelling
+troubled breathing with exertion
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+vomiting of blood
+material
+coffee grounds
+weight loss
+agitation
+bleeding gums
+blistering
+peeling
+loosening of the skin
+blurred vision
+body aches
+pain
+burning feeling in chest
+stomach
+changes in blood pressure
+chest pain
+clay-colored stools
+coma
+confusion
+cough or hoarseness
+cracks in the skin
+dark urine
+depression
+breathing
+difficulty swallowing
+dilated neck veins
+dizziness
+ear congestion
+extreme fatigue
+fainting
+feeling of discomfort
+fever or chills
+fluid-filled skin blisters
+high fever
+hives or welts
+hostility
+increased sensitivity of the skin
+sunlight
+increased thirst
+increased volume of pale
+urine
+inflammation of the joints
+shallow breathing
+muscle pain
+purplish patches in the skin
+hive-like swelling on the face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+lethargy
+light-colored stools
+lightheadedness
+loss of heat from the body
+loss of voice
+side pain
+muscle aches
+muscle twitching
+noisy breathing
+pain
+burning in the throat
+pain
+tenderness around the eyes
+cheekbones
+blue lips
+fingernails
+skin
+purple spots on the skin
+pounding in the ears
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+rapid weight gain
+red skin lesions
+purple center
+red, irritated eyes
+redness
+other discoloration of the skin
+redness
+swelling
+soreness of tongue
+scaly skin
+seizures
+severe sunburn
+skin thinness
+pounding
+racing heartbeat
+pulse
+sneezing
+sore throat
+sores
+ulcers
+white spots on the lips
+tongue
+mouth
+runny nose
+stupor
+swelling of the face
+fingers
+feet
+lower legs
+swelling
+inflammation of the mouth
+swollen lymph glands
+tenderness in the stomach area
+tightness in the chest
+unpleasant breath odor
+stomach pain
+yellow eyes
+skin
+acid
+sour stomach
+belching
+stomach discomfort
+continuing ringing
+buzzing
+other unexplained noise in the ears
+excess air
+gas in the stomach
+intestines
+hearing loss
+passing gas
+relaxed and calm
+sleepiness
+unusual drowsiness
+trouble sleeping
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+burning
+itching eyes
+change in taste
+decreased hearing
+discharge, excessive tearing
+dry mouth
+feeling of constant movement of self
+surroundings
+general feeling of discomfort
+illness
+lack
+loss of strength
+redness
+pain
+swelling of the eye
+eyelid
+inner lining of the eyelid
+sensation of spinning
+shakiness in the legs
+arms
+hands
+feet
+trembling
+shaking of the hands
+feet

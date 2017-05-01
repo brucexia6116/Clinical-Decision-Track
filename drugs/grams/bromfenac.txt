@@ -1,0 +1,138 @@
+gastrointestinal side effects
+dyspepsia
+abdominal pain
+constipation
+diarrhea
+eructation
+flatulence
+liver enzyme elevations
+times
+upper limit of normal
+nausea
+vomiting
+anorexia
+colitis
+dry mouth
+gastritis
+gastroenteritis
+gastrointestinal hemorrhage
+appetite
+liver test abnormalities
+times
+upper limit of normal
+pancreatitis
+peptic ulcer
+periodontal abscess
+positive fecal occult blood test
+rectal disorder
+stomatitis
+tenesmus
+nervous system
+side effects
+dizziness
+somnolence
+abnormal dreams
+amnesia
+anxiety
+confusion
+depression
+emotional lability
+euphoria
+hallucination
+incoordination
+insomnia
+libido
+nervousness
+paresthesia
+psychosis
+tremor
+twitching
+general effects
+asthenia
+headache
+pain
+chest pain
+chills
+edema
+fever
+flu syndrome
+generalized edema
+infection
+malaise
+cardiovascular
+side effects
+arrhythmias
+hemorrhage
+hypertension
+migraine
+myocardial infarction
+palpitations
+phlebitis
+syncope
+vasodilation
+endocrine effects
+glycosuria
+hematologic side effects
+anemia
+ecchymosis
+leukopenia
+metabolic side effects
+increased blood urea nitrogen
+edema
+hypoglycemia
+hypokalemia
+serum creatinine
+thirst
+weight gain
+weight loss
+musculoskeletal side effects
+leg cramps
+myalgia
+respiratory side effects
+asthma
+cough
+dyspnea
+epistaxis
+hiccup
+hyperventilation
+pharyngitis
+rhinitis
+sinusitis
+dermatologic side effects
+alopecia
+pruritus
+rash
+seborrhea
+skin infections
+skin ulcer
+sweating
+urticaria
+ocular side effects
+abnormal vision
+blepharitis
+cataract
+conjunctivitis
+dry eyes
+lacrimation
+photophobia
+other side effects
+ear disorder
+taste perversion
+tinnitus
+genitourinary side effects
+albuminuria
+breast pain
+dysuria
+hematuria
+impotence
+menstrual disorder
+nocturia
+oliguria
+orchitis
+polyuria
+pyuria
+enlarged uterine fibroids
+urinary frequency
+uterine hemorrhage
+urinary incontinence
+urinary tract infection

@@ -1,7 +1,7 @@
 If any of the following symptoms of overdose occur while taking lithium, get emergency help immediately:
 Frequency not reported: Headache, drowsiness, lethargy, tendency to sleep, impaired consciousness, lack of coordination, ataxia, giddiness, fine hand tremor, tremor, coarse tremor of the extremities and lower jaw, dysarthria, myoclonus, clonic movements of whole limbs, choreoathetotic movements, hyperactive deep tendon reflexes, abnormal reflexes, hypertonicity, blackout spells, epileptiform seizures, convulsions, slurred speech/speech disorder, dizziness, vertigo, somnolence, metallic/salty taste, dysgeusia/taste distortion, peripheral neuropathy, psychomotor retardation, restlessness, stupor, coma, acute dystonia, extrapyramidal syndrome, cogwheel rigidity, downbeat nystagmus, tongue movements, poor memory, slowed intellectual functioning, startle response, benign intracranial hypertension, pseudotumor cerebri (increased intracranial pressure and papilledema), encephalopathy, transient electroencephalogram (EEG), diffuse slowing of EEG, widening of EEG frequency spectrum, potentiation and disorganization of EEG background rhythm
-Drowsiness and lack of coordination may be early signs of lithium toxicity, and may occur at lithium levels below 2 mEq/L.
-Ataxia and giddiness occurred at levels above 2 mEq/L.
+Drowsiness and lack of coordination may be early signs of lithium toxicity, and may occur at lithium levels below  mEq/L.
+Ataxia and giddiness occurred at levels above  mEq/L.
 Fine hand tremor may occur during initial therapy for the acute manic phase, and may persist during therapy.
 The development of transient EEG changes, headache, dysgeusia/taste distortion, and metallic taste were unrelated to dosage.
 Peripheral neuropathy may occur in patients on long-term treatment, but is usually reversible after discontinuation of therapy.
@@ -10,16 +10,16 @@ Painful discoloration of the fingers/toes and coldness of extremities (resemblin
 The exact mechanism for this side effect is unknown.
 Frequency not reported: Cardiac arrhythmia, hypotension, peripheral circulatory collapse, sinus node dysfunction with severe bradycardia (may result in syncope), bradycardia, unmasking of Brugada syndrome, transient ECG changes, reversible flattening of ECG, isoelectricity of ECG, inversion of T-waves, QT prolongation, Raynaud's syndrome, chest tightness, atrioventricular block, cardiomyopathy, peripheral edema/edematous swelling of ankles or wrists
 Frequency not reported: Diarrhea, vomiting, nausea, flatulence, constipation, indigestion, incontinence of feces, gastritis, salivary gland swelling, dry mouth, excessive salivation, abdominal pain/discomfort, swollen lips, dental caries
-Diarrhea and vomiting may be early signs of lithium toxicity, and may occur at lithium levels below 2 mEq/L.
+Diarrhea and vomiting may be early signs of lithium toxicity, and may occur at lithium levels below  mEq/L.
 Transient and mild nausea may occur within the first few days of therapy.
 The development of metallic/salty taste, dental caries, and swollen lips were unrelated to dosage.
 Frequency not reported: Drying and thinning of hair, anesthesia of skin, acne/acneform eruptions, chronic folliculitis, xerosis cutis, alopecia, psoriasis exacerbation, cutaneous ulcers, papular skin disorders, generalized pruritus with/without rash
 The development of generalized pruritus with/without rash and cutaneous ulcers were unrelated to dosage.
-Frequency not reported: Euthyroid goiter, hypothyroidism (including myxedema), thyrotoxicosis, lower T3 and T4 levels, iodine 131 uptake increased, hyperthyroidism, hyperparathyroidism, diffuse nontoxic goiter with/without hypothyroidism
+Frequency not reported: Euthyroid goiter, hypothyroidism (including myxedema), thyrotoxicosis, lower T and T levels, iodine  uptake increased, hyperthyroidism, hyperparathyroidism, diffuse nontoxic goiter with/without hypothyroidism
 Hyperthyroidism has been rarely reported, and may persist after discontinuation of treatment.
 Hyperparathyroidism may persist after discontinuation of treatment.
 The development of diffuse nontoxic goiter with/without hypothyroidism and hyperparathyroidism were unrelated to dosage.
-Muscular weakness develops early in lithium (the active ingredient contained in Lithium Carbonate ER) toxicity, and may occur at lithium levels below 2 mEq/L.
+Muscular weakness develops early in lithium (the active ingredient contained in Lithium Carbonate ER) toxicity, and may occur at lithium levels below  mEq/L.
 Muscle hyperirritability includes fasciculations, twitching, clonic movements of whole limbs.
 The development of swollen/painful joints and polyarthralgia were unrelated to dosage.
 Frequency not reported: Muscular weakness, muscle hyperirritability, twitching, arthralgia/polyarthralgia, myalgia, myasthenia gravis, swollen/painful joints, rhabdomyolysis
@@ -29,14 +29,14 @@ Histological renal changes with interstitial fibrosis occurred in patients on pr
 Long-term treatment may cause permanent kidney changes and impairment of renal function; high serum concentrations and/or acute lithium toxicity may worsen these changes.
 Frequency not reported: Anorexia, dehydration, weight loss, transient hyperglycemia/hyperglycemia, hypercalcemia, hypermagnesemia, excessive weight gain
 The development of transient hyperglycemia, hypercalcemia, and excessive weight gain were unrelated to dosage.
-Tinnitus occurred at levels above 2 mEq/L.
+Tinnitus occurred at levels above  mEq/L.
 Mild thirst may occur during initial therapy for the acute manic phase, and may persist during therapy; in some cases, thirst resembled diabetes insipidus.
 The development of thirst was unrelated to dosage.
 General discomfort may also appear within the first few days of therapy.
 The development of fever was unrelated to dosage.
 Frequency not reported: Tinnitus, thirst, general discomfort, fasciculations, fatigue, feeling dazed, fever
 Frequency not reported: Large output of dilute urine, polyuria, incontinence of urine, albuminuria, polyuria, impotence/sexual dysfunction
-At levels above 2 mEq/L, patients excreted a large output of dilute urine.
+At levels above  mEq/L, patients excreted a large output of dilute urine.
 Polyuria may occur during initial therapy for the acute manic phase, and may persist during therapy; in some cases, polyuria resembled diabetes insipidus.
 The development of polyuria was unrelated to dosage.
 The development of albuminuria was unrelated to dosage.
@@ -44,7 +44,7 @@ Frequency not reported: Confusion, tics, hallucinations, delirium, worsening of 
 The worsening of organic brain syndromes was unrelated to dosage.
 Frequency not reported: Angioedema, allergic rashes
 Frequency not reported: Blurred vision, transient scotomata/scotoma
-Blurred vision occurred at levels above 2 mEq/L.
+Blurred vision occurred at levels above  mEq/L.
 Frequency not reported: Oncocytoma, collecting duct renal carcinoma
 Collecting duct renal carcinoma occurred in patients on long-term therapy.
 Frequency not reported: Leukocytosis

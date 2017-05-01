@@ -1,25 +1,13 @@
-Very common (10% or more): Hypertension (up to 11.
-3%)Common (1% to 10%): TachycardiaUncommon (0.
-1% to 1%): Atrial fibrillation, palpitations
-Uncommon (0.
-1% to 1%): Urticaria, rash, pruritus, lip edema, macular rash, papular rashRare (less than 0.
-1%): Leukocytoclastic vasculitis, purpura, angioedema
-Common (1% to 10%): Nausea, constipation, diarrhea, abdominal painUncommon (0.
-1% to 1%): Dyspepsia, gastritis, abdominal distensionRare (less than 0.
-1%): Lip edema
-Common (1% to 10%): Urinary tract infectionUncommon (0.
-1% to 1%): Nephrolithiasis, bladder pain, cystitis, vaginal infection, vulvovaginal pruritusPostmarketing reports: Urinary retention
-Common (1% to 10%): ArthralgiaUncommon (0.
-1% to 1%): Joint swelling
-Common (1% to 10%): Headache, fatigue, dizziness
-Uncommon (0.
-1% to 1%): Glaucoma, blurred vision, dry eyesRare (less than 0.
-1%): Eyelid edema
-Rare (less than 0.
-1%): Prostate cancer
-Common (1% to 10%): Nasopharyngitis, upper respiratory tract infection, sinusitis, rhinitis
-Uncommon (0.
-1% to 1%): Increased ALT, AST, and GGT
+Very common ( or more): Hypertension (up to )Common ( to ): TachycardiaUncommon ( to ): Atrial fibrillation, palpitations
+Uncommon ( to ): Urticaria, rash, pruritus, lip edema, macular rash, papular rashRare (less than ): Leukocytoclastic vasculitis, purpura, angioedema
+Common ( to ): Nausea, constipation, diarrhea, abdominal painUncommon ( to ): Dyspepsia, gastritis, abdominal distensionRare (less than ): Lip edema
+Common ( to ): Urinary tract infectionUncommon ( to ): Nephrolithiasis, bladder pain, cystitis, vaginal infection, vulvovaginal pruritusPostmarketing reports: Urinary retention
+Common ( to ): ArthralgiaUncommon ( to ): Joint swelling
+Common ( to ): Headache, fatigue, dizziness
+Uncommon ( to ): Glaucoma, blurred vision, dry eyesRare (less than ): Eyelid edema
+Rare (less than ): Prostate cancer
+Common ( to ): Nasopharyngitis, upper respiratory tract infection, sinusitis, rhinitis
+Uncommon ( to ): Increased ALT, AST, and GGT
 Bladder pain
 bloody or cloudy urine
 blurred vision

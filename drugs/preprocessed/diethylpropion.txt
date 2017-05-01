@@ -1,10 +1,7 @@
 If any of the following symptoms of overdose occur while taking diethylpropion, get emergency help immediately:
-Very rare (less than 0.
-01%): ValvulopathyFrequency not reported: Precordial pain, arrhythmia (including ventricular), ECG changes, tachycardia, blood pressure elevation, palpitation, valvular heart disease
-Rare (less than 0.
-1%): Pulmonary hypertensionFrequency not reported: Dyspnea
-Rare (less than 0.
-1%): Psychotic episodesFrequency not reported: Insomnia, anxiety, euphoria, depression, dysphoria, tremor
+Very rare (less than ): ValvulopathyFrequency not reported: Precordial pain, arrhythmia (including ventricular), ECG changes, tachycardia, blood pressure elevation, palpitation, valvular heart disease
+Rare (less than ): Pulmonary hypertensionFrequency not reported: Dyspnea
+Rare (less than ): Psychotic episodesFrequency not reported: Insomnia, anxiety, euphoria, depression, dysphoria, tremor
 Frequency not reported: Convulsive episodes, dyskinesia, overstimulation, nervousness, restlessness, dizziness, jitteriness, somnolence, headache, cerebrovascular accident
 Frequency not reported: Urticaria, rash, ecchymosis, erythema, hair loss, increased sweating
 Frequency not reported: Impotence, libido changes, gynecomastia, menstrual upset

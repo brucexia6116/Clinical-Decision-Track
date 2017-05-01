@@ -1,12 +1,10 @@
-Common (1% to 10%): Hypoglycemia (when used in combination with insulin or sulfonylurea)
-In a pooled analysis of 19 trials (sitagliptin (the active ingredient contained in Januvia) 100 mg/day, n=5429; active control or placebo, n=4817), the incidence of acute pancreatitis was in 0.
-1 per 100 patient-years in each group (4 patients in each group)
-Common (1% to 10%): Abdominal pain, nausea, diarrhea, constipation, gastroenteritisPostmarketing reports: Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, vomiting
-Common (1% to 10%): Nasopharyngitis, upper respiratory infection, pharyngitis, Postmarketing reports: Interstitial lung disease
-Common (1% to 10%): HeadacheUncommon (0.
-1% to 1%): Dizziness
+Common ( to ): Hypoglycemia (when used in combination with insulin or sulfonylurea)
+In a pooled analysis of  trials (sitagliptin (the active ingredient contained in Januvia)  mg/day, n=; active control or placebo, n=), the incidence of acute pancreatitis was in  per  patient-years in each group ( patients in each group)
+Common ( to ): Abdominal pain, nausea, diarrhea, constipation, gastroenteritisPostmarketing reports: Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, vomiting
+Common ( to ): Nasopharyngitis, upper respiratory infection, pharyngitis, Postmarketing reports: Interstitial lung disease
+Common ( to ): HeadacheUncommon ( to ): Dizziness
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with this drug.
-Reactions have occurred within the first 3 months of therapy initiation, with some reports occurring after the first dose.
+Reactions have occurred within the first  months of therapy initiation, with some reports occurring after the first dose.
 Postmarketing reports: Serious hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome
 Postmarketing reports: Hepatic enzyme elevations
 There have been postmarketing reports of worsening renal function, including acute renal failure, sometime requiring dialysis.
@@ -14,14 +12,14 @@ A subset of these reports involved patients with renal insufficiency, some who w
 With drug discontinuation, supportive treatment and discontinuation of potentially causative agents, a return to baseline levels of renal insufficiency occurred.
 Postmarketing reports: Worsening renal function
 Postmarketing reports: Arthralgia, myalgia, extremity pain, back pain, osteoarthritis
-Between October 2006 and December 2013, thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.
-Each case involved the use of 1 or more dipeptidyl peptidase-4 (DPP-4) inhibitors.
-In all cases, substantial reduction in prior activity level was reported, 10 patients were hospitalized due to disabling joint pain.
-In 22 cases, symptoms appeared within 1 month of starting therapy.
-In 23 cases symptoms resolved less than 1 month after discontinuation.
-A positive rechallenge was reported in 8 cases, with 6 cases involving use of a different DPP-4 inhibitor.
-Sitagliptin had the greatest number of cases reported (n=28) followed by saxagliptin (n=5), linagliptin (n=2), alogliptin (n=1), and vildagliptin (n=2).
-Common (1% to 10%): Hypertension
+Between October  and December , thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.
+Each case involved the use of  or more dipeptidyl peptidase- (DPP-) inhibitors.
+In all cases, substantial reduction in prior activity level was reported,  patients were hospitalized due to disabling joint pain.
+In  cases, symptoms appeared within  month of starting therapy.
+In  cases symptoms resolved less than  month after discontinuation.
+A positive rechallenge was reported in  cases, with  cases involving use of a different DPP- inhibitor.
+Sitagliptin had the greatest number of cases reported (n=) followed by saxagliptin (n=), linagliptin (n=), alogliptin (n=), and vildagliptin (n=).
+Common ( to ): Hypertension
 Postmarketing reports: Pruritus
 The most commonly reported adverse events included upper respiratory tract infection, nasopharyngitis, and headache.
 As add-on to insulin studies, hypoglycemia was commonly reported.

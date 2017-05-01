@@ -1,20 +1,12 @@
 The most common side effects were eye irritation and eye pain.
-Common (1% to 10%): Conjunctivitis, decreased visual acuity, dry eye, keratitis, ocular discomfort, ocular hyperemia, ocular pain, ocular pruritus, subconjunctival hemorrhage, tearing, eye irritation, eye painUncommon (0.
-1% to 1%): Punctuate keratitis, eye pruritus, conjunctival hemorrhage, eyelid edemaRare (less than 0.
-1%): Corneal epithelium defect, corneal disorder, blepharitis, eye swelling, conjunctival edema, blurred vision, asthenopia, erythema of eyelidFrequency not reported: Endophthalmitis, ulcerative keratitis, corneal erosion, corneal abrasion, intraocular pressure increased, corneal opacity, corneal infiltrates, corneal deposits, eye allergy, corneal edema, photophobia, lacrimation increased, eye discharge, foreign body sensation in eyes, corneal staining, eyelid disorder, abnormal sensation in eye
-Common (1% to 10%): Increased cough, pharyngitis, rhinitisRare (less than 0.
-1%): Nasal discomfort, pharyngolaryngeal pain, sensation of foreign body (throat)Frequency not reported: Dyspnea
-Common (1% to 10%): RashFrequency not reported: Erythema, pruritus, urticaria
-Common (1% to 10%): Otitis media, fever/pyrexia, infection
-Uncommon (0.
-1% to 1%): Dysgeusia, headacheRare (less than 0.
-1%): ParesthesiaFrequency not reported: Dizziness
-Rare (less than 0.
-1%): VomitingFrequency not reported: Nausea
-Rare (less than 0.
-1%): Decreased hemoglobin
-Rare (less than 0.
-1%): Increased ALT, increased GGT
+Common ( to ): Conjunctivitis, decreased visual acuity, dry eye, keratitis, ocular discomfort, ocular hyperemia, ocular pain, ocular pruritus, subconjunctival hemorrhage, tearing, eye irritation, eye painUncommon ( to ): Punctuate keratitis, eye pruritus, conjunctival hemorrhage, eyelid edemaRare (less than ): Corneal epithelium defect, corneal disorder, blepharitis, eye swelling, conjunctival edema, blurred vision, asthenopia, erythema of eyelidFrequency not reported: Endophthalmitis, ulcerative keratitis, corneal erosion, corneal abrasion, intraocular pressure increased, corneal opacity, corneal infiltrates, corneal deposits, eye allergy, corneal edema, photophobia, lacrimation increased, eye discharge, foreign body sensation in eyes, corneal staining, eyelid disorder, abnormal sensation in eye
+Common ( to ): Increased cough, pharyngitis, rhinitisRare (less than ): Nasal discomfort, pharyngolaryngeal pain, sensation of foreign body (throat)Frequency not reported: Dyspnea
+Common ( to ): RashFrequency not reported: Erythema, pruritus, urticaria
+Common ( to ): Otitis media, fever/pyrexia, infection
+Uncommon ( to ): Dysgeusia, headacheRare (less than ): ParesthesiaFrequency not reported: Dizziness
+Rare (less than ): VomitingFrequency not reported: Nausea
+Rare (less than ): Decreased hemoglobin
+Rare (less than ): Increased ALT, increased GGT
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions (some after first dose) have been reported with systemic quinolones.
 Frequency not reported: HypersensitivitySystemic quinolones:-Frequency not reported: Hypersensitivity (anaphylactic) reactions
 Frequency not reported: Palpitations

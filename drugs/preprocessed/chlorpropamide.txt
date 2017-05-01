@@ -1,18 +1,13 @@
 The most commonly reported adverse reactions have included gastrointestinal disturbances such as nausea, diarrhea, vomiting, anorexia, and hunger.
-Rare (less than 0.
-1%): Disulfiram-like reactionsFrequency not reported: Hypoglycemia  Sulfonylureas: Frequency not reported: Hepatic porphyria
-Common (1% to 10%): Nausea, diarrhea, vomiting, anorexia, hungerFrequency not reported: Proctocolitis
-Uncommon (0.
-1% to 1%): Pruritus, allergic skin reactions (pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions) Sulfonylureas: Frequency not reported: Photosensitivity, porphyria cutanea tarda
+Rare (less than ): Disulfiram-like reactionsFrequency not reported: Hypoglycemia  Sulfonylureas: Frequency not reported: Hepatic porphyria
+Common ( to ): Nausea, diarrhea, vomiting, anorexia, hungerFrequency not reported: Proctocolitis
+Uncommon ( to ): Pruritus, allergic skin reactions (pruritus, erythema, urticaria, and morbilliform or maculopapular eruptions) Sulfonylureas: Frequency not reported: Photosensitivity, porphyria cutanea tarda
 Frequency not reported: Allergic skin reactions
-Rare (less than 0.
-1%): Cholestatic jaundice, hepatitisFrequency not reported: Hepatic porphyria
+Rare (less than ): Cholestatic jaundice, hepatitisFrequency not reported: Hepatic porphyria
 Sulfonylureas:Frequency not reported: Leukopenia, agranulocytosis, thrombocytopenia, hemolytic anemia, aplastic anemia, pancytopenia, eosinophilia
 Sulfonylureas: Frequency not reported: Increased cardiovascular mortality
-In the University Group Diabetes Program (UGDP) study, cardiovascular mortality rate was approximately 2.
-5 times higher in patients treated for 5 to 8 years with diet plus tolbutamide 1.
-5 g per day compared with that of patients treated with diet alone.
-The UGDP study was a long-term prospective clinical trial designed to evaluate the effectiveness of glucose lowering drugs in preventing or delaying vascular complications in patients with type 2 diabetes mellitus (n=823).
+In the University Group Diabetes Program (UGDP) study, cardiovascular mortality rate was approximately  times higher in patients treated for  to  years with diet plus tolbutamide  g per day compared with that of patients treated with diet alone.
+The UGDP study was a long-term prospective clinical trial designed to evaluate the effectiveness of glucose lowering drugs in preventing or delaying vascular complications in patients with type  diabetes mellitus (n=).
 Tolbutamide was stopped based on the increase in cardiovascular mortality; a significant increase in total mortality was not observed, but stopping the drug may have limited the ability to measure that.
 In view of the close similarities in mode of action and chemical structure among sulfonylureas, these results may apply to other drug in this class.
 Frequency not reported: Dizziness, headache

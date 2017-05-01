@@ -1,0 +1,422 @@
+needed effects
+sparfloxacin
+unwanted side effects
+medical attention
+following side effects
+taking sparfloxacin
+check
+doctor
+following side effects
+taking sparfloxacin
+check
+doctor
+nurse
+sparfloxacin side effects
+medical attention
+body
+medicine
+side effects
+health care professional
+side effects
+following side effects
+taking
+drug
+side effects
+medical attention
+following side effects
+doctor
+cardiovascular
+side effects
+qtc interval prolongation
+vasodilatation
+palpitation
+abnormal ecg
+hypertension
+tachycardia
+bradycardia
+pr interval
+angina pectoris
+arrhythmia
+atrial fibrillation
+atrial flutter
+complete av block
+second-degree av block
+cardiovascular disorder
+hemorrhage
+migraine
+peripheral vascular disorder
+supraventricular extrasystoles
+ventricular extrasystoles
+postural hypotension
+patients
+cardiopulmonary arrest
+cerebral thrombosis
+embolism
+vasculitis
+postmarketing experience
+qtc prolongation
+healthy patients
+patients with a history of heart disease
+arrhythmogenic drugs
+phase
+trial with patients
+overall population
+qtc prolongation
+severe delays in ventricular repolarization
+qtc
+> msec
+reports of arrhythmia during this investigation
+qtc interval prolongation
+qtc
+> ms
+elderly patients
+younger patients
+postmarketing surveillance in europe
+severe cardiovascular adverse events
+sparfloxacin use in an
+patients
+patients
+event
+identifiable risk factors for arrhythmia
+year-old woman
+torsade de pointes
+days of therapy with sparfloxacin
+rifampin
+patient
+consciousness
+qtc interval at the time
+qtc
+baseline
+week of sparfloxacin discontinuation
+dermatologic side effects
+photosensitivity reactions
+pruritus
+rash
+maculopapular rash
+dry skin
+herpes simplex
+sweating
+urticaria
+vesiculobullous rash
+exfoliative dermatitis
+acne
+alopecia
+angioedema
+contact dermatitis
+fungal dermatitis
+furunculosis
+pustular rash
+skin discoloration
+herpes zoster
+petechial rash
+patients
+bullous eruption
+erythema nodosum
+hyperpigmentation
+postmarketing experience
+clinical trials
+patients
+severe phototoxicity
+involving
+involving significant curtailment of normal activity
+reactions
+use of sunscreens
+manufacturer
+products
+containing ingredients
+uva spectrum
+octocrylene
+parsol
+protection
+many over-the-counter products
+enough uva protection
+risk of photosensitivity
+sparfloxacin
+gastrointestinal side effects
+nausea
+diarrhea
+abdominal pain
+dyspepsia
+dry mouth
+vomiting
+flatulence
+constipation
+anorexia
+gingivitis
+oral moniliasis
+stomatitis
+tongue disorder
+tooth disorder
+gastroenteritis
+appetite
+mouth ulceration
+serum amylase
+serum lipase
+patients
+pseudomembranous colitis
+sparfloxacin
+other quinolone antibiotics
+dysgeusia
+dysphagia
+gastralgia
+hiccough
+intestinal perforation
+painful oral mucosa
+pancreatitis
+quincke
+edema
+postmarketing experience
+nervous system
+side effects
+headache
+dizziness
+somnolence
+insomnia
+paresthesia
+hypesthesia
+nervousness
+somnolence
+tremor
+confusion
+hyperesthesia
+hyperkinesia
+disorder
+hypokinesia
+vertigo
+abnormal gait
+lightheadedness
+euphoria
+amnesia
+twitching
+patients
+ataxia
+convulsions
+ebrious feeling
+exacerbation of myasthenia gravis
+numbness
+peripheral neuropathy
+sensory disturbances
+renal side effects
+increased bun
+creatinine in less
+patients
+acute renal failure
+interstitial nephritis
+hemolytic uremic syndrome
+renal calculi
+postmarketing experience
+hematologic side effects
+increased white blood cells
+patients
+cyanosis
+ecchymosis
+lymphadenopathy
+eosinophils
+monocytes
+neutrophils in less
+patients
+hematocrit
+hemoglobin
+lymphocytes
+red blood cells
+increases
+platelets
+white blood cells
+patients
+agranulocytosis
+hemolytic anemia
+prolongation of prothrombin time
+thrombocytopenia
+thrombocytopenic purpura
+postmarketing experience
+musculoskeletal side effects
+arthralgia
+arthritis
+joint disorder
+myalgia
+rheumatoid arthritis in less
+patients
+rhabdomyolysis
+tendonitis
+tendon rupture
+postmarketing experience
+metabolic side effects
+gout
+peripheral edema
+thirst in less
+patients
+acidosis
+serum triglycerides
+serum cholesterol
+blood glucose
+serum potassium
+postmarketing experience
+respiratory side effects
+asthma
+epistaxis
+pneumonia
+rhinitis
+pharyngitis
+bronchitis
+hemoptysis
+sinusitis
+cough
+dyspnea
+laryngismus
+lung disorder
+pleural disorder in less
+patients
+interstitial pneumonia
+laryngeal
+pulmonary edema
+postmarketing experience
+genitourinary side effects
+vaginitis
+dysuria
+breast pain
+dysmenorrhea
+hematuria
+menorrhagia
+nocturia
+polyuria
+urinary tract infection
+kidney pain
+leukorrhea
+metrorrhagia
+vulvovaginal disorder
+urine glucose
+urine protein
+urine
+red blood cells
+urine
+white blood cells in less
+patients
+albuminuria
+candiduria
+crystalluria
+urinary retention
+vaginal candidiasis
+postmarketing experience
+quinolone class antibiotics
+renal calculi
+ocular side effects
+amblyopia
+photophobia
+conjunctivitis
+diplopia
+abnormal accommodation
+blepharitis
+eye pain
+lacrimation disorder in less
+patients
+nystagmus
+uveitis
+postmarketing experience
+hypersensitivity reactions
+anaphylactic
+anaphylactoid
+allergic reactions in less
+patients
+quinolones
+anaphylactic shock
+angioedema
+stevens johnson syndrome
+toxic epidermal necrolysis
+serum sickness
+allergic pneumonitis
+rash
+reactions
+hepatic side effects
+increased alt
+ast
+increased alkaline phosphatase
+total bilirubin
+patients
+hepatic necrosis
+hepatitis
+jaundice
+ldh
+ggtp
+postmarketing experience
+psychiatric side effects
+anxiety
+manic reaction
+abnormal dreams
+abnormal thinking
+depression
+phobia
+agitation
+emotional lability
+hallucinations
+toxic psychosis
+oncologic side effects
+postmarketing experience
+squamous cell carcinoma
+causality
+other side effects
+asthenia
+taste perversion
+ear pain
+tinnitus
+ear disorder
+otitis media
+fever
+chest pain
+generalized pain
+cellulitis
+pain
+chills
+edema
+malaise
+accidental injury
+infection
+mucous membrane disorder
+neck pain
+patients
+anosmia
+postmarketing experience
+side effects of sparfloxacin
+fda
+healthcare professional for medical advice
+blisters
+itching
+redness of skin
+sensation of skin burning
+skin rash
+swelling of skin
+stomach cramps
+pain
+abdominal tenderness
+diarrhea
+fever
+pain
+inflammation
+swelling in calves
+shoulders
+hands
+irregular heartbeat
+acute psychosis
+agitation
+confusion
+hallucinations
+seeing
+hearing
+feeling things
+tremors
+changes in sense of taste
+diarrhea 
+dizziness
+drowsiness 
+headache
+lightheadedness 
+nausea
+nervousness
+trouble in sleeping
+vaginal itching
+discharge
+vomiting
+stomach cramps
+pain
+abdominal tenderness
+diarrhea
+fever

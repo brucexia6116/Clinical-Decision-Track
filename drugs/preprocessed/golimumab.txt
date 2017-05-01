@@ -2,65 +2,25 @@ Commonly reported side effects of golimumab include: infection.
 See below for a comprehensive list of adverse effects.
 The most common side effects were upper respiratory tract infection, sepsis, increased ALT, increased AST, tuberculosis, and anemia.
 The most serious side effects were serious infections and malignancies.
-Very common (10% or more): Upper respiratory tract infections (nasopharyngitis, pharyngitis, laryngitis, and rhinitis) (up to 16%)Common (1% to 10%): Bronchitis, sinusitisUncommon (0.
-1% to 1%): Lower respiratory tract infection (e.
-g.
-, pneumonia), asthma and related symptoms (such as wheezing and bronchial hyperactivity), interstitial lung diseaseRare (less than 0.
-1%): Tuberculosis
-Uncommon (0.
-1% to 1%): Neoplasms (e.
-g.
-, skin cancer, squamous cell carcinoma, melanocytic nevus)Rare (less than 0.
-1%): Lymphoma, leukemia, melanoma
-Common (1% to 10%): Pyrexia, astheniaRare (less than 0.
-1%): Impaired healing
-Common (1% to 10%): HypertensionUncommon (0.
-1% to 1%): Congestive heart failure (new onset or worsening), arrhythmia, ischemic coronary artery disorders, thrombosis (e.
-g.
-, deep venous and aortic), Raynaud's phenomenon, flushing, chest discomfortRare (less than 0.
-1%): Vasculitis (systemic)
-Common (1% to 10%): Dizziness, headacheUncommon (0.
-1% to 1%): Demyelinating disorders (central and peripheral), balance disorders, dysgeusia, paresthesia
-Common (1% to 10%): Increased ALT and ASTUncommon (0.
-1% to 1%): Cholelithiasis, hepatic disordersRare (less than 0.
-1%): Hepatitis B reactivation
-Common (1% to 10%): AnemiaUncommon (0.
-1% to 1%): Leucopenia, thrombocytopenia, pancytopeniaFrequency not reported: Aplastic anemia
-Common (1% to 10%): Bacterial infections (such as cellulitis), viral infections (such as influenza and herpes), superficial fungal infections, autoantibody positiveUncommon (0.
-1% to 1%): Septic shock, sepsis, opportunistic infections (e.
-g.
-, invasive fungal infections [histoplasmosis, coccidioidomycosis, pneumocytosis], bacterial, atypical mycobacterial infection and protozoal), abscessRare (less than 0.
-1%): SarcoidosisPostmarketing reports: Autoimmune lupus-like syndrome
-Common (1% to 10%): Injection site reactions (e.
-g.
-, injection site erythema, urticaria, induration, pain, bruising, irritation, paresthesia)
-Common (1% to 10%): Pruritus, rashUncommon (0.
-1% to 1%): Psoriasis (new onset or worsening of preexisting psoriasis, palmar/plantar and pustular), urticaria, vasculitis (cutaneous), alopecia, dermatitisRare (less than 0.
-1%): Skin exfoliation
-Common (1% to 10%): Allergic reactions (bronchospasm, urticaria)Rare (less than 0.
-1%): Serious systemic hypersensitivity reactions (including anaphylactic reaction)
-Uncommon (0.
-1% to 1%): Hypothyroidism, hyperthyroidism, goiter
-Common (1% to 10%): Constipation, dyspepsia, gastrointestinal and abdominal pain, nauseaUncommon (0.
-1% to 1%): Gastrointestinal inflammatory disorders (e.
-g.
-, gastritis and colitis), gastro-esophageal reflux disease, stomatitis
-Uncommon (0.
-1% to 1%): Breast disorders, menstrual disorders, bladder disorders
-Uncommon (0.
-1% to 1%): Increased blood glucose, increased lipids
-Uncommon (0.
-1% to 1%): Bacterial arthritis, bone fracturesRare (less than 0.
-1%): Infective bursitis, lupus-like syndrome
-Uncommon (0.
-1% to 1%): Blurred vision, decreased visual acuity, conjunctivitis, eye allergy (e.
-g.
-, pruritus, irritation)
-Uncommon (0.
-1% to 1%): Depression, insomnia
-Uncommon (0.
-1% to 1%): Renal disordersRare (less than 0.
-1%): Pyelonephritis
+Very common ( or more): Upper respiratory tract infections (nasopharyngitis, pharyngitis, laryngitis, and rhinitis) (up to )Common ( to ): Bronchitis, sinusitisUncommon ( to ): Lower respiratory tract infection (, pneumonia), asthma and related symptoms (such as wheezing and bronchial hyperactivity), interstitial lung diseaseRare (less than ): Tuberculosis
+Uncommon ( to ): Neoplasms (, skin cancer, squamous cell carcinoma, melanocytic nevus)Rare (less than ): Lymphoma, leukemia, melanoma
+Common ( to ): Pyrexia, astheniaRare (less than ): Impaired healing
+Common ( to ): HypertensionUncommon ( to ): Congestive heart failure (new onset or worsening), arrhythmia, ischemic coronary artery disorders, thrombosis (, deep venous and aortic), Raynaud's phenomenon, flushing, chest discomfortRare (less than ): Vasculitis (systemic)
+Common ( to ): Dizziness, headacheUncommon ( to ): Demyelinating disorders (central and peripheral), balance disorders, dysgeusia, paresthesia
+Common ( to ): Increased ALT and ASTUncommon ( to ): Cholelithiasis, hepatic disordersRare (less than ): Hepatitis B reactivation
+Common ( to ): AnemiaUncommon ( to ): Leucopenia, thrombocytopenia, pancytopeniaFrequency not reported: Aplastic anemia
+Common ( to ): Bacterial infections (such as cellulitis), viral infections (such as influenza and herpes), superficial fungal infections, autoantibody positiveUncommon ( to ): Septic shock, sepsis, opportunistic infections (, invasive fungal infections [histoplasmosis, coccidioidomycosis, pneumocytosis], bacterial, atypical mycobacterial infection and protozoal), abscessRare (less than ): SarcoidosisPostmarketing reports: Autoimmune lupus-like syndrome
+Common ( to ): Injection site reactions (, injection site erythema, urticaria, induration, pain, bruising, irritation, paresthesia)
+Common ( to ): Pruritus, rashUncommon ( to ): Psoriasis (new onset or worsening of preexisting psoriasis, palmar/plantar and pustular), urticaria, vasculitis (cutaneous), alopecia, dermatitisRare (less than ): Skin exfoliation
+Common ( to ): Allergic reactions (bronchospasm, urticaria)Rare (less than ): Serious systemic hypersensitivity reactions (including anaphylactic reaction)
+Uncommon ( to ): Hypothyroidism, hyperthyroidism, goiter
+Common ( to ): Constipation, dyspepsia, gastrointestinal and abdominal pain, nauseaUncommon ( to ): Gastrointestinal inflammatory disorders (, gastritis and colitis), gastro-esophageal reflux disease, stomatitis
+Uncommon ( to ): Breast disorders, menstrual disorders, bladder disorders
+Uncommon ( to ): Increased blood glucose, increased lipids
+Uncommon ( to ): Bacterial arthritis, bone fracturesRare (less than ): Infective bursitis, lupus-like syndrome
+Uncommon ( to ): Blurred vision, decreased visual acuity, conjunctivitis, eye allergy (, pruritus, irritation)
+Uncommon ( to ): Depression, insomnia
+Uncommon ( to ): Renal disordersRare (less than ): Pyelonephritis
 Body aches or pain
 chills
 cough

@@ -1,72 +1,59 @@
 As well as its needed effects, simeprevir (the active ingredient contained in Olysio) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking simeprevir, check with your doctor immediately:
 Some simeprevir side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-In clinical trials, most side effects reported during 12 weeks therapy with this drug in combination with peginterferon alfa and ribavirin were grade 1 to 2 in severity.
-Grade 3 or 4 side effects were reported in 2.
-8% to 23% of subjects using this drug with peginterferon alfa and ribavirin and in 0.
-5% to 25% using placebo with peginterferon alfa and ribavirin.
-Serious side effects were reported in 0.
-3% to 2% of subjects using this drug with peginterferon alfa and ribavirin and in 0% to 3% using placebo with peginterferon alfa and ribavirin.
-During the first 12 weeks of therapy, the most common side effects were nausea, rash, pruritus, dyspnea, increased blood bilirubin, and photosensitivity reaction.
-This drug was discontinued due to side effects in 0.
-9% to 2% of subjects using this drug with peginterferon alfa and ribavirin.
-In a clinical trial, the most common side effects reported during 12 weeks therapy with this drug in combination with sofosbuvir (without ribavirin) were fatigue, headache, nausea, insomnia, and pruritus.
+In clinical trials, most side effects reported during  weeks therapy with this drug in combination with peginterferon alfa and ribavirin were grade  to  in severity.
+Grade  or  side effects were reported in  to  of subjects using this drug with peginterferon alfa and ribavirin and in  to  using placebo with peginterferon alfa and ribavirin.
+Serious side effects were reported in  to  of subjects using this drug with peginterferon alfa and ribavirin and in  to  using placebo with peginterferon alfa and ribavirin.
+During the first  weeks of therapy, the most common side effects were nausea, rash, pruritus, dyspnea, increased blood bilirubin, and photosensitivity reaction.
+This drug was discontinued due to side effects in  to  of subjects using this drug with peginterferon alfa and ribavirin.
+In a clinical trial, the most common side effects reported during  weeks therapy with this drug in combination with sofosbuvir (without ribavirin) were fatigue, headache, nausea, insomnia, and pruritus.
 The manufacturer product information for coadministered hepatitis C virus (HCV) antiviral drugs should be consulted.
-Grade 1, 2, 3, and 4 hyperbilirubinemia were reported in 26.
-7%, 18.
-3%, 4.
-1%, and 0.
-4% of patients, respectively.
+Grade , , , and  hyperbilirubinemia were reported in , , , and  of patients, respectively.
 Bilirubin elevations were mostly mild to moderate in severity, and included elevation of both direct and indirect bilirubin.
 Bilirubin elevations occurred soon after therapy started, peaked by the second week, and reversed quickly after this drug was stopped.
 In general, bilirubin elevations (direct and indirect) were not associated with liver transaminase elevations.
 The incidence of increased bilirubin was higher in patients with increased simeprevir (the active ingredient contained in Olysio) exposures.
-Compared to a pooled phase 3 population from global trials, East Asian patients using this drug with peginterferon alfa and ribavirin had a higher incidence of hyperbilirubinemia; elevated total bilirubin (all grades) was reported in up to 66% of patients.
-Bilirubin elevations were primarily grade 1 or 2; grade 3 bilirubin elevations were reported in up to 9% of patients.
+Compared to a pooled phase  population from global trials, East Asian patients using this drug with peginterferon alfa and ribavirin had a higher incidence of hyperbilirubinemia; elevated total bilirubin (all grades) was reported in up to  of patients.
+Bilirubin elevations were primarily grade  or ; grade  bilirubin elevations were reported in up to  of patients.
 Bilirubin elevations were not associated with liver transaminase elevations and were reversible after therapy ended.
-Increased bilirubin was reported in 0% of patients using this drug with sofosbuvir and 9% using this drug with sofosbuvir and ribavirin.
+Increased bilirubin was reported in  of patients using this drug with sofosbuvir and  using this drug with sofosbuvir and ribavirin.
 Hepatic decompensation and hepatic failure (including fatalities) have been reported with this drug coadministered with peginterferon alfa and ribavirin or with sofosbuvir.
 Most reports occurred in patients with advanced and/or decompensated cirrhosis.
-Very common (10% or more): Increased blood bilirubin (term included increased conjugated bilirubin, increased blood bilirubin, increased unconjugated blood bilirubin, hyperbilirubinemia; up to 66%)Postmarketing reports: Hepatic decompensation, hepatic failure
-Fifty-six percent (56%) of rash events occurred in the first 4 weeks; 42% in the first 2 weeks.
+Very common ( or more): Increased blood bilirubin (term included increased conjugated bilirubin, increased blood bilirubin, increased unconjugated blood bilirubin, hyperbilirubinemia; up to )Postmarketing reports: Hepatic decompensation, hepatic failure
+Fifty-six percent  of rash events occurred in the first  weeks;  in the first  weeks.
 Most rash and pruritus events were of mild or moderate severity.
-Severe rash was reported in up to 1% of subjects.
-This drug was discontinued due to rash in up to 1% of subjects.
+Severe rash was reported in up to  of subjects.
+This drug was discontinued due to rash in up to  of subjects.
 The frequencies of rash and photosensitivity reactions were higher in subjects with higher simeprevir (the active ingredient contained in Olysio) exposures.
-Rash was reported in 20% of patients using this drug with sofosbuvir and ribavirin and up to 11% using this drug with sofosbuvir.
-Pruritus was reported in 11% of patients using this drug with sofosbuvir.
+Rash was reported in  of patients using this drug with sofosbuvir and ribavirin and up to  using this drug with sofosbuvir.
+Pruritus was reported in  of patients using this drug with sofosbuvir.
 All trial subjects were directed to use sun protection measures.
 Most photosensitivity reactions were of mild or moderate severity.
 Two subjects had photosensitivity reactions that required hospitalization.
-Photosensitivity reactions were reported in 7% of patients using this drug with sofosbuvir and 6% using this drug with sofosbuvir and ribavirin.
-Very common (10% or more): Rash (including photosensitivity; term included rash, erythema, eczema, maculopapular rash, macular rash, dermatitis, papular rash, skin exfoliation, pruritic rash, erythematous rash, urticaria, generalized rash, drug eruption, allergic dermatitis, dermatosis, vasculitic rash, toxic skin eruption, exfoliative rash, generalized erythema, exfoliative dermatitis, cutaneous vasculitis, photosensitivity reaction, polymorphic light eruption, solar dermatitis, photodermatosis, sunburn, blister, macule, erythema of eyelid, palmar erythema, papule, pityriasis rosea, follicular rash, morbilliform rash, pustular rash, scrotal erythema, skin irritation, skin reaction, umbilical erythema; up to 28%), pruritus (term included pruritus, generalized pruritus, eyelids pruritus, prurigo; up to 22%)Common (1% to 10%): Photosensitivity reaction
-Fatigue was reported in 25% of patients using this drug with sofosbuvir.
-Very common (10% or more): Fatigue (25%)
-Very common (10% or more): Nausea (up to 22%), diarrhea (16%)Common (1% to 10%): Constipation
-Nausea was reported in up to 21% of patients using this drug with sofosbuvir.
-Diarrhea was commonly reported during 24 weeks therapy with this drug and sofosbuvir.
-Very common (10% or more): Headache (21%), dizziness (16%)
-Headache was reported in 21% of patients using this drug with sofosbuvir.
-Dizziness was commonly reported during 24 weeks therapy with this drug and sofosbuvir.
-Very common (10% or more): Myalgia (16%)
-Insomnia was reported in 14% of patients using this drug with sofosbuvir.
-Very common (10% or more): Insomnia (14%)
-Anemia was reported in 13% of patients using this drug with sofosbuvir and ribavirin and 0% using this drug with sofosbuvir.
+Photosensitivity reactions were reported in  of patients using this drug with sofosbuvir and  using this drug with sofosbuvir and ribavirin.
+Very common ( or more): Rash (including photosensitivity; term included rash, erythema, eczema, maculopapular rash, macular rash, dermatitis, papular rash, skin exfoliation, pruritic rash, erythematous rash, urticaria, generalized rash, drug eruption, allergic dermatitis, dermatosis, vasculitic rash, toxic skin eruption, exfoliative rash, generalized erythema, exfoliative dermatitis, cutaneous vasculitis, photosensitivity reaction, polymorphic light eruption, solar dermatitis, photodermatosis, sunburn, blister, macule, erythema of eyelid, palmar erythema, papule, pityriasis rosea, follicular rash, morbilliform rash, pustular rash, scrotal erythema, skin irritation, skin reaction, umbilical erythema; up to ), pruritus (term included pruritus, generalized pruritus, eyelids pruritus, prurigo; up to )Common ( to ): Photosensitivity reaction
+Fatigue was reported in  of patients using this drug with sofosbuvir.
+Very common ( or more): Fatigue 
+Very common ( or more): Nausea (up to ), diarrhea Common ( to ): Constipation
+Nausea was reported in up to  of patients using this drug with sofosbuvir.
+Diarrhea was commonly reported during  weeks therapy with this drug and sofosbuvir.
+Very common ( or more): Headache , dizziness 
+Headache was reported in  of patients using this drug with sofosbuvir.
+Dizziness was commonly reported during  weeks therapy with this drug and sofosbuvir.
+Very common ( or more): Myalgia 
+Insomnia was reported in  of patients using this drug with sofosbuvir.
+Very common ( or more): Insomnia 
+Anemia was reported in  of patients using this drug with sofosbuvir and ribavirin and  using this drug with sofosbuvir.
 A higher incidence of anemia was reported in patients with advanced fibrosis.
-Very common (10% or more): Anemia (up to 13%)
-Very common (10% or more): Dyspnea (term included dyspnea, exertional dyspnea; 12%)
+Very common ( or more): Anemia (up to )
+Very common ( or more): Dyspnea (term included dyspnea, exertional dyspnea; )
 All dyspnea events were of mild or moderate severity.
-Sixty-one percent (61%) of dyspnea events occurred in the first 4 weeks.
-In patients older than 45 years, dyspnea was reported in 16.
-4% of patients using this drug compared to 9.
-1% using placebo with peginterferon alfa and ribavirin.
-Grade 1 and 2 alkaline phosphatase elevations were reported in 3.
-3% and 0.
-1% of patients, respectively.
-Common (1% to 10%): Increased alkaline phosphatase
+Sixty-one percent  of dyspnea events occurred in the first  weeks.
+In patients older than  years, dyspnea was reported in  of patients using this drug compared to  using placebo with peginterferon alfa and ribavirin.
+Grade  and  alkaline phosphatase elevations were reported in  and  of patients, respectively.
+Common ( to ): Increased alkaline phosphatase
 Postmarketing reports: Symptomatic bradycardia (including cases requiring pacemaker intervention)
 Serious symptomatic bradycardia has been reported in patients taking amiodarone who started therapy with sofosbuvir in combination with another HCV direct-acting antiviral (including this drug).
 It is possible that some side effects of Olysio may not have been reported.

@@ -1,4 +1,4 @@
-Feverfew is an herb also known as Altamisa, Bachelor's Buttons, Chrysanthème Matricaire, Chrysanthemum Parthenium, Chrysanthemum praealtum, Featerfoiul, Featherfew, Featherfoil, Flirtwort Midsummer Daisy, Grande Camomille, Leucanthemum Parthenium, Matricaria, Pyrethrum Parthenium, Santa Maria, Tanaceti Parthenii, or Tanacetum Parthenium.
+Feverfew is an herb also known as Altamisa, Bachelor's Buttons, Chrysanthme Matricaire, Chrysanthemum Parthenium, Chrysanthemum praealtum, Featerfoiul, Featherfew, Featherfoil, Flirtwort Midsummer Daisy, Grande Camomille, Leucanthemum Parthenium, Matricaria, Pyrethrum Parthenium, Santa Maria, Tanaceti Parthenii, or Tanacetum Parthenium.
 Feverfew has been used in alternative medicine as a possibly effective aid in preventing migraine headaches or reducing the symptoms of headaches that do occur.
 Feverfew has also been used to treat rheumatoid arthritis.
 However, research has shown that feverfew may not be effective in treating this condition.
@@ -35,15 +35,15 @@ Do not take topical (for the skin) feverfew by mouth.
 Topical forms of this product are for use only on the skin.
 Call your doctor if the condition you are treating with feverfew does not improve, or if it gets worse while using this product.
 Feverfew can affect blood-clotting and may increase your risk of bleeding.
-If you need surgery, dental work, or a medical procedure, stop taking feverfew at least 2 weeks ahead of time.
+If you need surgery, dental work, or a medical procedure, stop taking feverfew at least  weeks ahead of time.
 Store feverfew in a sealed container at room temperature away from moisture, heat, and light.
 Skip the missed dose if it is almost time for your next scheduled dose.
 Do not use extra feverfew to make up the missed dose.
-Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.
+Seek emergency medical attention or call the Poison Help line at ---
 Avoid using feverfew together with other herbal/health supplements that can also affect blood-clotting.
 This includes angelica (dong quai), capsicum, clove, danshen, garlic, ginger, ginkgo, horse chestnut, panax ginseng, poplar, red clover, turmeric, and willow.
 Get emergency medical help if you have any of these signs of an allergic reaction: hives; difficult breathing; swelling of your face, lips, tongue, or throat.
-Although not all side effects are known, feverfew is thought to be likely safe when taken for a short period of time (up to 4 months).
+Although not all side effects are known, feverfew is thought to be likely safe when taken for a short period of time (up to  months).
 Common side effects may include:
 heartburn, upset stomach, nausea, vomiting;
 gas, bloating, diarrhea, constipation;
@@ -56,7 +56,7 @@ rash; or
 changes in your menstrual periods.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at --FDA-
 Do not take feverfew without medical advice if you are using a medication to treat any of the following conditions:
 any type of infection (including HIV, malaria, or tuberculosis);
 anxiety or depression;
@@ -72,11 +72,9 @@ seizures.
 This list is not complete.
 Other drugs may interact with feverfew, including prescription and over-the-counter medicines, vitamins, and herbal products.
 Not all possible interactions are listed in this product guide.
-Copyright 1996-2012 Cerner Multum, Inc.
-Version: 5.
-02.
-
-Date modified: April 03, 2017Last reviewed: March 03, 2015
+Copyright - Cerner Multum, Inc.
+Version: .
+Date modified: April , Last reviewed: March , 
 easy bruising or bleeding (nosebleeds, bleeding gums);
 allergies to chamomile, ragweed, yarrow, or other plants in the Asteraceae family; or
 if you have ever had a rash after touching a feverfew plant.

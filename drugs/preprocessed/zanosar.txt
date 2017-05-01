@@ -16,8 +16,7 @@ If you notice any of the following side effects check with your doctor immediate
 Frequency not reported: Renal toxicity (azotemia, anuria, hypophosphatemia, glycosuria, renal tubular acidosis), nephrogenic diabetes insipidus
 Frequency not reported: Hepatic toxicity (elevated SGOT and LDH levels, hypoalbuminemia)
 Frequency not reported: Nausea, vomiting, diarrhea
-Rare (less than 0.
-1%): Hematologic toxicity (decreased hematocrit values, reduced leukocyte and platelet count)
+Rare (less than ): Hematologic toxicity (decreased hematocrit values, reduced leukocyte and platelet count)
 Frequency not reported: Glucose tolerance abnormalities, insulin shock, hypoglycemia
 Postmarketing reports: Local inflammation
 Frequency not reported: Confusion, lethargy, depression
@@ -41,7 +40,7 @@ pinpoint red spots on skin
 unusual bleeding or bruising
 Swelling of feet or lower legs
 unusual decrease in urination
-Nausea and vomiting (usually occurs within 2 to 4 hours after receiving dose and may be severe)
+Nausea and vomiting (usually occurs within  to  hours after receiving dose and may be severe)
 Diarrhea
 Decrease in urination
 swelling of feet or lower legs

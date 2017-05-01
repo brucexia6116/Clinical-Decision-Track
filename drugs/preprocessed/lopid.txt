@@ -2,31 +2,18 @@ Common side effects of Lopid include: malignant neoplasm, pancreatitis, dyspepsi
 Other side effects include: abdominal pain.
 See below for a comprehensive list of adverse effects.
 The most frequently reported side effects were gastrointestinal reactions and included dyspepsia, abdominal pain, diarrhea, nausea, vomiting, acute appendicitis, constipation, and flatulence.
-Very common (10% or more): Dyspepsia (19.
-6%)Common (1% to 10%): Abdominal pain, acute appendicitis, diarrhea, nausea, vomiting, constipation, flatulenceRare (less than 0.
-1%): PancreatitisFrequency not reported: Colitis
-Common (1% to 10%): HeadacheRare (less than 0.
-1%): Peripheral neuropathy, paresthesia, dizziness, somnolenceFrequency not reported: Peripheral neuritis, convulsions, syncope, hyperesthesia, taste perversion, intracerebral hemorrhage
-Rare (less than 0.
-1%): Hepatitis, cholestatic jaundice, cholelithiasis, cholecystitis, hepatic function abnormalFrequency not reported: ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased
-Uncommon (0.
-1% to 1%): Atrial fibrillationFrequency not reported: Extrasystoles, vasculitis, peripheral vascular disease
-Common (1% to 10%): Eczema, rashRare (less than 0.
-1%): Angioedema, urticaria, exfoliative dermatitis, dermatitis, pruritus, alopecia, photosensitivity reaction
-Common (1% to 10%): Fatigue, vertigoRare (less than 0.
-1%): Creatine phosphokinase increasedFrequency not reported: Weight loss, viral infections, bacterial infections
-Rare (less than 0.
-1%): Myopathy, myalgia, painful extremities, arthralgia, synovitis, rhabdomyolysis, myositis, muscular weaknessFrequency not reported: Lupus-like syndrome, myasthenia
-Rare (less than 0.
-1%): Bone marrow failure, severe anemia, thrombocytopenia, leukopenia, eosinophilia, hemoglobin decreased, hematocrit decreased, WBC decreasedFrequency not reported: Anemia, bone marrow hypoplasia
-Rare (less than 0.
-1%): Blurred visionFrequency not reported: Retinal edema, cataracts
-Rare (less than 0.
-1%): Erectile dysfunctionFrequency not reported: Impotence, male fertility decreased
-Rare (less than 0.
-1%): Libido decreased, depressionFrequency not reported: Confusion
-Rare (less than 0.
-1%): Laryngeal edema
+Very common ( or more): Dyspepsia Common ( to ): Abdominal pain, acute appendicitis, diarrhea, nausea, vomiting, constipation, flatulenceRare (less than ): PancreatitisFrequency not reported: Colitis
+Common ( to ): HeadacheRare (less than ): Peripheral neuropathy, paresthesia, dizziness, somnolenceFrequency not reported: Peripheral neuritis, convulsions, syncope, hyperesthesia, taste perversion, intracerebral hemorrhage
+Rare (less than ): Hepatitis, cholestatic jaundice, cholelithiasis, cholecystitis, hepatic function abnormalFrequency not reported: ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased
+Uncommon ( to ): Atrial fibrillationFrequency not reported: Extrasystoles, vasculitis, peripheral vascular disease
+Common ( to ): Eczema, rashRare (less than ): Angioedema, urticaria, exfoliative dermatitis, dermatitis, pruritus, alopecia, photosensitivity reaction
+Common ( to ): Fatigue, vertigoRare (less than ): Creatine phosphokinase increasedFrequency not reported: Weight loss, viral infections, bacterial infections
+Rare (less than ): Myopathy, myalgia, painful extremities, arthralgia, synovitis, rhabdomyolysis, myositis, muscular weaknessFrequency not reported: Lupus-like syndrome, myasthenia
+Rare (less than ): Bone marrow failure, severe anemia, thrombocytopenia, leukopenia, eosinophilia, hemoglobin decreased, hematocrit decreased, WBC decreasedFrequency not reported: Anemia, bone marrow hypoplasia
+Rare (less than ): Blurred visionFrequency not reported: Retinal edema, cataracts
+Rare (less than ): Erectile dysfunctionFrequency not reported: Impotence, male fertility decreased
+Rare (less than ): Libido decreased, depressionFrequency not reported: Confusion
+Rare (less than ): Laryngeal edema
 Frequency not reported: Renal dysfunction, renal failure
 Frequency not reported: Hepatoma
 Frequency not reported: Positive antinuclear antibody, anaphylaxis

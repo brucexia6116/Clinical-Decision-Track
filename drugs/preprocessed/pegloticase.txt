@@ -2,39 +2,36 @@ Commonly reported side effects of pegloticase include: infusion related reaction
 Other side effects include: anaphylaxis, chest pain, nasopharyngitis, and vomiting.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, pegloticase may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking pegloticase, check with your doctor or nurse immediately:
 Some pegloticase side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 The most commonly reported adverse reactions included gout flares, infusion reactions, nausea, contusion or ecchymosis, nasopharyngitis, constipation, chest pain, anaphylaxis, and vomiting.
-Common (1% to 10%): Anaphylaxis
+Common ( to ): Anaphylaxis
 The diagnostic criteria for anaphylaxis included skin or mucosal tissue involvement, and either airway compromise, and/or reduced blood pressure with or without associated symptoms, and a temporal relationship with the injection as well as no other identifiable cause.
-In clinical trials, 6.
-5% (n=8) patients receiving this drug every 2-weeks and 4.
-8% (n=6) of patients receiving this drug every 4 weeks experienced anaphylaxis.
+In clinical trials,  (n=) patients receiving this drug every -weeks and  (n=) of patients receiving this drug every  weeks experienced anaphylaxis.
 All patients had been pretreated with oral antihistamine, IV corticosteroid, and/or acetaminophen.
 There were no instances in placebo patients.
-Infusion reactions occurred in 26% of patients receiving this drug every 2-weeks and 41% of patients receiving this drug every 4 weeks.
+Infusion reactions occurred in  of patients receiving this drug every -weeks and  of patients receiving this drug every  weeks.
 Manifestations have included urticaria, dyspnea, chest discomfort, chest pain, erythema, and pruritus.
 These symptoms overlap with those that constitute anaphylaxis, but in the individual patient did not satisfy the clinical criteria for anaphylaxis.
 Infusion reactions are thought to result from the release of various mediators, such as cytokines.
-They may occur at any time during the course of treatment with approximately 3% occurring with the first infusion and 91% occurring during the time of infusion.
+They may occur at any time during the course of treatment with approximately  occurring with the first infusion and  occurring during the time of infusion.
 Some infusion reactions improved with the slowing of the infusion rate.
-Very common (10% or more): Infusion reactions (up to 26%)
-Very common (10% or more): Anti-pegloticase antibodies (up to 92%)
+Very common ( or more): Infusion reactions (up to )
+Very common ( or more): Anti-pegloticase antibodies (up to )
 An increase in gout flares is frequently observed upon initiation of anti-hyperuricemic therapy due to changing serum uric acid levels resulting from mobilization of urate from tissue deposits.
-During clinical trials, the frequency of gout flares was 74%, 81%, and 51% for patients receiving 8 mg every 2 weeks, 8 mg every 4 weeks, and placebo, respectively.
-In the subsequent 3 months, the frequencies were 41%, 57%, and 67%, respectively.
+During clinical trials, the frequency of gout flares was , , and  for patients receiving  mg every  weeks,  mg every  weeks, and placebo, respectively.
+In the subsequent  months, the frequencies were , , and , respectively.
 Patients were receiving gout flare prophylaxis with colchicine and/or a NSAID.
-Very common (10% or more): Gout flares (77%)
-Common (1% to 10%): Chest painFrequency not reported: Congestive heart failure exacerbation
-During clinical trials, 2 cases of congestive heart failure (CHF) exacerbation were reported among patients receiving 8 mg every 2 weeks.
-During the open-label extension study while patients continued to receive 8 mg every 2 weeks, 4 patients reported CHF exacerbation.
-Very common (10% or more): Nausea (12%)Common (1% to 10%): Constipation, vomiting
-Common (1% to 10%): Nasopharyngitis
-Contusions were generally not reported on the day of infusion; most were thought to be related to other factors such as concomitant medications relevant to contusion or ecchymosis, type 1 diabetes mellitus.
-Very common (10% or more): Contusion or ecchymosis (11%)
+Very common ( or more): Gout flares 
+Common ( to ): Chest painFrequency not reported: Congestive heart failure exacerbation
+During clinical trials,  cases of congestive heart failure (CHF) exacerbation were reported among patients receiving  mg every  weeks.
+During the open-label extension study while patients continued to receive  mg every  weeks,  patients reported CHF exacerbation.
+Very common ( or more): Nausea Common ( to ): Constipation, vomiting
+Common ( to ): Nasopharyngitis
+Contusions were generally not reported on the day of infusion; most were thought to be related to other factors such as concomitant medications relevant to contusion or ecchymosis, type  diabetes mellitus.
+Very common ( or more): Contusion or ecchymosis 
 It is possible that some side effects of pegloticase may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

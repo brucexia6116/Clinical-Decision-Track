@@ -1,35 +1,30 @@
 More frequently reported side effects include: hypoglycemia.
 See below for a comprehensive list of adverse effects.
-Uncommon (0.
-1% to 1%): Constipation, increased amylase levelsFrequency not reported: PancreatitisPostmarketing reports: Acute pancreatitis
-During clinical trials, pancreatitis was reported in 15.
-2 cases per 10,000 patient year exposure in patients receiving linagliptin compared with 3.
-7 cases per 10,000 patient year exposure in those receiving active comparator (sulfonylurea).
-Following completion of clinical trials, 3 additional cases of pancreatitis were reported among those receiving linagliptin.
+Uncommon ( to ): Constipation, increased amylase levelsFrequency not reported: PancreatitisPostmarketing reports: Acute pancreatitis
+During clinical trials, pancreatitis was reported in  cases per , patient year exposure in patients receiving linagliptin compared with  cases per , patient year exposure in those receiving active comparator (sulfonylurea).
+Following completion of clinical trials,  additional cases of pancreatitis were reported among those receiving linagliptin.
 Postmarketing reports of acute pancreatitis, including fatalities, have been received.
 The most common adverse event reported was nasopharyngitis.
 Serious hypersensitivity reactions including anaphylaxis, angioedema, and exfoliative skin conditions have been reported postmarketing in patients treated with this drug.
-These reactions have occurred within the first 3 months, with some occurring after the first dose.
+These reactions have occurred within the first  months, with some occurring after the first dose.
 Frequency not reported: Drug hypersensitivityPostmarketing reports: Serious hypersensitivity reactions
-Common (1% to 10%): Hypoglycemia, hypertriglyceridemia, hyperlipidemia, increased uric acid
+Common ( to ): Hypoglycemia, hypertriglyceridemia, hyperlipidemia, increased uric acid
 The incidence of hypoglycemia in patients treated with this drug as monotherapy, or in combination with metformin or pioglitazone, was similar to the incidence observed in placebo-treated patients.
-When given in combination with metformin plus a sulfonylurea, the incidence of hypoglycemia was almost 23% compared to 15% in those receiving placebo with metformin plus a sulfonylurea.
-As add-on to stable insulin therapy, the incidence of hypoglycemia was similar to placebo (31.
-4% versus 32.
-9%).
-Postmarketing reports of bullous pemphigoid requiring hospitalization have been reported with dipeptidyl peptidase-4 (DPP-4) inhibitors use.
-These case typically recovered with topical or systemic immunosuppressive treatment and discontinuation of DPP-4 inhibitor.
-Postmarketing reports: Rash, angioedema, urticariaDipeptidyl peptidase-4 inhibitors:Postmarketing reports: Bullous pemphigoid
-Common (1% to 10%): Cough, nasopharyngitis, upper respiratory tract infection
-Between October 2006 and December 2013, thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.
-Each case involved the use of 1 or more dipeptidyl peptidase-4 (DPP-4) inhibitor.
-In all cases, substantial reduction in prior activity level was reported, 10 patients were hospitalized due to disabling joint pain.
-In 22 cases, symptoms appeared within 1 month of starting therapy, in 23 cases symptoms resolved less than 1 month after discontinuation.
-A positive rechallenge was reported in 8 cases, with 6 cases involving use of a different DPP-4 inhibitor.
-Sitagliptin had the greatest number of cases reported (n=28) followed by saxagliptin (n=5), linagliptin (n=2), alogliptin (n=1), and vildagliptin (n=2).
-Common (1% to 10%): Back pain, arthralgia, extremity pain
-Common (1% to 10%): Headache
-Common (1% to 10%): Urinary tract infection
+When given in combination with metformin plus a sulfonylurea, the incidence of hypoglycemia was almost  compared to  in those receiving placebo with metformin plus a sulfonylurea.
+As add-on to stable insulin therapy, the incidence of hypoglycemia was similar to placebo ( versus ).
+Postmarketing reports of bullous pemphigoid requiring hospitalization have been reported with dipeptidyl peptidase- (DPP-) inhibitors use.
+These case typically recovered with topical or systemic immunosuppressive treatment and discontinuation of DPP- inhibitor.
+Postmarketing reports: Rash, angioedema, urticariaDipeptidyl peptidase- inhibitors:Postmarketing reports: Bullous pemphigoid
+Common ( to ): Cough, nasopharyngitis, upper respiratory tract infection
+Between October  and December , thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.
+Each case involved the use of  or more dipeptidyl peptidase- (DPP-) inhibitor.
+In all cases, substantial reduction in prior activity level was reported,  patients were hospitalized due to disabling joint pain.
+In  cases, symptoms appeared within  month of starting therapy, in  cases symptoms resolved less than  month after discontinuation.
+A positive rechallenge was reported in  cases, with  cases involving use of a different DPP- inhibitor.
+Sitagliptin had the greatest number of cases reported (n=) followed by saxagliptin (n=), linagliptin (n=), alogliptin (n=), and vildagliptin (n=).
+Common ( to ): Back pain, arthralgia, extremity pain
+Common ( to ): Headache
+Common ( to ): Urinary tract infection
 Anxiety
 blurred vision
 chills

@@ -1,29 +1,19 @@
 Because many patients in clinical trials had advanced HIV disease, it was difficult to distinguish between trimetrexate-associated side effects and underlying medical conditions.
-In a clinical trial, 10% of patients in the trimetrexate-leucovorin group discontinued treatment due to side effects, as compared to 29% in the sulfamethoxazole-trimethoprim group.
+In a clinical trial,  of patients in the trimetrexate-leucovorin group discontinued treatment due to side effects, as compared to  in the sulfamethoxazole-trimethoprim group.
 Hematologic toxicity has been the primary dose-limiting adverse effect.
-In a clinical trial (n=109) trimetrexate commonly caused myelosuppression, resulting in neutropenia (<= 1000/mm3) in 30%, thrombocytopenia (<=75,000/mm3) in 10%, and anemia (Hgb<8 g/dL) in 7% of patients also treated with leucovorin.
-Therapy was discontinued in 3.
-7% of patients due to hematologic toxicity.
-Renal toxicity consisting of elevations in serum creatinine greater than 3 times upper normal limits has occurred in 0.
-9%  of clinical trial patients treated with trimetrexate and leucovorin.
-Gastrointestinal side effects associated with trimetrexate have included nausea and vomiting in 5% or more of patients also treated with leucovorin.
+In a clinical trial (n=) trimetrexate commonly caused myelosuppression, resulting in neutropenia (<= /mm) in , thrombocytopenia (<=,/mm) in , and anemia (Hgb< g/dL) in  of patients also treated with leucovorin.
+Therapy was discontinued in  of patients due to hematologic toxicity.
+Renal toxicity consisting of elevations in serum creatinine greater than  times upper normal limits has occurred in   of clinical trial patients treated with trimetrexate and leucovorin.
+Gastrointestinal side effects associated with trimetrexate have included nausea and vomiting in  or more of patients also treated with leucovorin.
 Mucositis and diarrhea also occur relatively often.
-Hepatic side effects have included transient elevations in liver function tests in up to 14% (n=109) of trial patients who also received leucovorin with increases greater than 5 times upper normal limits in AST (13.
-8%), ALT (11%), alkaline phosphatase (4.
-6%), and 2.
-5 times upper normal limit increases in bilirubin (1.
-8%).
-Discontinuation of therapy was necessary in approximately 3% of cases.
+Hepatic side effects have included transient elevations in liver function tests in up to  (n=) of trial patients who also received leucovorin with increases greater than  times upper normal limits in AST , ALT , alkaline phosphatase , and  times upper normal limit increases in bilirubin .
+Discontinuation of therapy was necessary in approximately  of cases.
 Hypersensitivity reactions to trimetrexate have occurred and are generally limited to skin rash and pruritus.
 However, severe reactions consisting of bronchospasm, hypotension, rigors, and fever have occurred rarely.
 Respiratory side effects have included dyspnea and rare cases of pneumonitis.
-Metabolic abnormalities have included hyponatremia (4.
-6%) and hypocalcemia (1.
-8%).
+Metabolic abnormalities have included hyponatremia  and hypocalcemia .
 Dermatologic side effects have included alopecia in a few patients treated with trimetrexate.
-Nervous system side effects have included confusion (2.
-8%) and fatigue (1.
-8%).
+Nervous system side effects have included confusion  and fatigue .
 It is possible that some side effects of trimetrexate may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

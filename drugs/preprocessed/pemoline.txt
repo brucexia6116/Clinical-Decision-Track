@@ -15,8 +15,8 @@ Your health care professional may be able to help you prevent or reduce these si
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention.
 If you notice any of the following side effects check with your doctor immediately:
 Hepatic side effects have included asymptomatic reversible increases in liver enzymes, hepatitis, jaundice, and life threatening hepatic failure.
-As of October 2005, hepatic failure resulting in liver transplant or death, usually within 4 weeks of onset of signs and symptoms of hepatic failure, has been reported in at least 13 patients receiving pemoline.
-The reporting rate for hepatic failure with pemoline is 10 to 25 times greater than the background rate of hepatic failure in the general population.
+As of October , hepatic failure resulting in liver transplant or death, usually within  weeks of onset of signs and symptoms of hepatic failure, has been reported in at least  patients receiving pemoline.
+The reporting rate for hepatic failure with pemoline is  to  times greater than the background rate of hepatic failure in the general population.
 Insomnia tends to occur early in therapy.
 Most cases are transient and respond to a reduction in dosage.
 General side effects have included insomnia which has been reported to be the most frequent side effect with the use of pemoline.
@@ -26,7 +26,7 @@ Nervous system side effects including seizures, hallucinations, dyskinetic movem
 Ocular side effects have included nystagmus and oculogyric crisis.
 Anorexia and weight loss tend to occur during the first weeks of therapy.
 Most cases are transient.
-Weight gain usually resumes within 3 to 6 months.
+Weight gain usually resumes within  to  months.
 Gastrointestinal side effects including anorexia, weight loss, nausea, and stomach ache have been reported.
 Dermatologic side effects have included skin rash.
 The case of severe hypotension was reported in a patient receiving pemoline during general anesthesia.
@@ -53,7 +53,7 @@ unusual tiredness
 vocal sounds you cannot control
 Agitation
 confusion
-convulsions (seizures)—may be followed by coma
+convulsions (seizures)may be followed by coma
 false sense of well-being
 fast heartbeat
 hallucinations (seeing, hearing, or feeling things that are not there)

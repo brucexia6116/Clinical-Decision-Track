@@ -1,28 +1,18 @@
-Uncommon (0.
-1% to 1%): Colorectal polypsRare (less than 0.
-1%): Malignancy
-Very common (10% or more): Fluid overload (up to 11.
-7%)Common (1% to 10%): FlushingUncommon (0.
-1% to 1%): SyncopeRare (less than 0.
-1%): Congestive heart failurePostmarketing reports: Cardiac arrest, cardiac failure
-Very common (10% or more): Gastrointestinal stoma complication (up to 41.
-9%), abdominal pain (up to 37.
-7%), nausea (up to 27%), abdominal distension (up to 19.
-5%), vomiting (up to 14%)Common (1% to 10%): Pancreatic disease, intestinal obstruction/stenosis, flatulence
+Uncommon ( to ): Colorectal polypsRare (less than ): Malignancy
+Very common ( or more): Fluid overload (up to )Common ( to ): FlushingUncommon ( to ): SyncopeRare (less than ): Congestive heart failurePostmarketing reports: Cardiac arrest, cardiac failure
+Very common ( or more): Gastrointestinal stoma complication (up to ), abdominal pain (up to ), nausea (up to ), abdominal distension (up to ), vomiting (up to )Common ( to ): Pancreatic disease, intestinal obstruction/stenosis, flatulence
 GI stoma complication (swelling of the stoma and associated complications) is considered a sign of efficacy rather than an adverse event.
-Common (1% to 10%): Gallbladder and biliary tract disease (cholecystitis, cholangitis, cholelithiasis, cholestasis), increased c-reactive protein
-Common (1% to 10%): Skin hemorrhage, allergic dermatitis
-Common (1% to 10%): Hypersensitivity reaction
-Very common (10% or more): Antibody formation (up to 48%)Common (1% to 10%): Influenza
-Very common (10% or more): Headache (up to 17%)Common (1% to 10%): ParesthesiaPostmarketing reports: Cerebral hemorrhage
-Common (1% to 10%): Anxiety, sleep disturbance/disorderVery rare (less than 0.
-01%): Mental status deterioration
-Very common (10% or more): Respiratory tract infection (up to 28%)Common (1% to 10%): Dyspnea, cough
-Common (1% to 10%): Appetite disorder
-Common (1% to 10%): Arthralgia
-Very common (10% or more): Injection site reaction (up to 21.
-8%), peripheral edema (up to 10%)Common (1% to 10%): Chest pain, night sweats
-Common (1% to 10%): Renal colic, costovertebral angle tenderness
+Common ( to ): Gallbladder and biliary tract disease (cholecystitis, cholangitis, cholelithiasis, cholestasis), increased c-reactive protein
+Common ( to ): Skin hemorrhage, allergic dermatitis
+Common ( to ): Hypersensitivity reaction
+Very common ( or more): Antibody formation (up to )Common ( to ): Influenza
+Very common ( or more): Headache (up to )Common ( to ): ParesthesiaPostmarketing reports: Cerebral hemorrhage
+Common ( to ): Anxiety, sleep disturbance/disorderVery rare (less than ): Mental status deterioration
+Very common ( or more): Respiratory tract infection (up to )Common ( to ): Dyspnea, cough
+Common ( to ): Appetite disorder
+Common ( to ): Arthralgia
+Very common ( or more): Injection site reaction (up to ), peripheral edema (up to )Common ( to ): Chest pain, night sweats
+Common ( to ): Renal colic, costovertebral angle tenderness
 Abdominal or stomach pain
 decrease in the amount of urine
 excess air or gas in the stomach or intestines

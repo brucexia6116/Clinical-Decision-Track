@@ -2,7 +2,7 @@ More frequent side effects include: pain at injection site and tenderness at inj
 See below for a comprehensive list of adverse effects.
 If any of the following side effects occur while taking hepatitis a adult vaccine, check with your doctor or nurse immediately:
 Hepatitis A vaccine is generally well-tolerated.
-Most side effects were mild, self-limiting, and of short duration (<= 24 hours).
+Most side effects were mild, self-limiting, and of short duration (<=  hours).
 Local side effects have included pain, tenderness, warmth, induration, erythema, swelling, ecchymosis, hematoma, and injection site pruritus and/or rash.
 Cardiovascular side effects have included syncope.
 Dermatologic side effects have included pruritus, rash, and urticaria.
@@ -15,8 +15,7 @@ Musculoskeletal side effects have included arthralgia, creatine phosphokinase el
 Nervous system side effects have included headache, hypertonic episode, insomnia, somnolence, photophobia, vertigo, Guillain-Barre syndrome, cerebellar ataxia.
 Respiratory side effects have included pharyngitis, other upper respiratory tract infections, nasal congestion, and cough.
 Other side effects have included asthenia, fatigue, fever, and malaise.
-Fever more than 99.
-5 degrees F
+Fever more than  degrees F
 general feeling of discomfort or illness
 unusual tiredness or weakness
 Body aches or pain

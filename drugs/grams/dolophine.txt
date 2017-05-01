@@ -1,0 +1,248 @@
+sedation
+drowsinessfrequency
+headache
+seizures
+confusion
+disorientation
+lightheadedness
+cases of qt interval prolongation
+torsades de pointes
+treatment
+cases
+higher dose treatment
+mg per day
+cases in patients
+receiving lower doses
+cases
+contributing factors
+concomitant medications
+clinical conditions
+studies
+drug effects
+qt interval
+studies
+cardiac potassium channels
+edemauncommon
+syncope
+flushing
+hypotensionrare
+bradycardia
+palpitations
+qt interval prolongation
+torsades de pointes frequency
+arrhythmias
+bigeminal rhythms
+cardiomyopathy
+ecg abnormalities
+extrasystoles
+heart failure
+phlebitis
+qt interval prolongation
+syncope
+t-wave inversion
+tachycardia
+ventricular fibrillation
+ventricular tachycardia
+constipation
+chronic administration
+nausea
+vomiting
+oral administration
+nausea
+vomitingcommon
+constipationuncommon
+dry mouth
+glossitisfrequency
+abdominal pain
+anorexia
+biliary tract spasm
+vertigo
+fatigueuncommon
+asthenia
+hypothermia
+frequency
+anaphylaxis
+anaphylaxis
+ingredients
+methadone products
+euphoria
+hallucinationsfrequency
+agitation
+dysphoria
+insomnia
+mood changes
+galactorrhea
+dysmenorrhea
+amenorrheafrequency
+hypogonadism
+serum testosterone
+libido
+potency
+volume
+seminal vesicle
+prostate secretions
+sperm motility
+abnormalities in sperm morphology
+gynecomastia
+adrenal insufficiency
+prolactin concentrations
+hypogonadism
+serum testosterone
+reproductive effects
+chronic opioid use
+urinary retention frequency
+urinary hesitancy
+ureteric spasm
+pulmonary edema
+exacerbation of asthma
+dry nose
+respiratory depressionfrequency
+pulmonary edema
+antidiuretic effect
+frequency
+reversible thrombocytopenia
+lymphocytosis
+reversible thrombocytopenia
+opioid addicts with chronic hepatitis
+major adverse reaction of this drug
+respiratory depression
+lesser degree
+systemic hypotension
+respiratory arrest
+shock
+cardiac arrest
+death
+observed adverse reactions
+lightheadedness
+dizziness
+sedation
+nausea
+vomiting
+sweating
+weight gainfrequency
+hypokalemia
+hypomagnesemia
+miosis
+dry eyesfrequency
+visual disturbances
+transient rash
+sweating
+pruritus
+urticaria
+other skin rashesrare
+hemorrhagic urticaria
+sweating
+chronic administration
+bile duct dyskinesia
+frequency
+local tissue reactions
+pain
+erythema
+swelling
+continuous subcutaneous infusion
+black, tarry stools
+bleeding gums
+blood in the urine
+stools
+blurred vision
+bulging
+bulging soft spot on the head of an infant
+change in the ability
+colors
+changes in skin color
+chest discomfort
+pain
+confusion
+convulsions
+cough
+coughing
+pink frothy sputum
+decreased urine output
+troubled breathing
+noisy breathing
+wheezing
+difficulty with swallowing
+dilated neck veins
+dizziness
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+dry mouth
+extreme fatigue
+fainting
+irregular heartbeat
+headache
+hives
+itching
+skin rash
+increased sweating
+increased thirst
+irregular heartbeat
+shallow breathing
+loss of appetite
+muscle pain
+cramps
+nausea or vomiting
+numbness
+tingling in the hands
+feet
+lips
+pain
+blue lips
+fingernails
+skin
+red spots on the skin
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+seizures
+sweating
+swelling of the face
+fingers
+feet
+lower legs
+tenderness
+trouble sleeping
+trouble urinating
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+weight gain
+irregular menstrual periods
+anxiety
+loss of vision
+confusion about identity
+place
+time
+constipation
+decreased interest in sexual intercourse
+disturbed color perception
+double vision
+unusual sense of well-being
+halos around lights
+inability
+erection
+irritability
+lack
+loss of strength
+loss in sexual ability
+desire
+drive
+performance
+night blindness
+overbright appearance of lights
+redness
+swelling
+soreness of the tongue
+restlessness
+stopping of menstrual bleeding
+tunnel vision
+weight changes
+welts

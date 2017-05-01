@@ -1,38 +1,28 @@
-Simvastatin:Very common (10% or more): Atrial fibrillation
-Simvastatin: Very common (10% or more): EczemaUncommon (0.
-1% to 1%): RashSimvastatin-sitagliptin:Postmarketing reports: Pruritus, alopecia, variety of skin changes (e.
-g.
-, nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails)
-Simvastatin:Very common (10% or more): Diabetes mellitus
-Simvastatin:Very common (10% or more): Urinary tract infectionSimvastatin-sitagliptin:Postmarketing reports: Erectile dysfunction, gynecomastia
-Simvastatin:Very common (10% or more):Elevation of creatinine kinase (CK)Frequency not reported: Elevated alkaline phosphatase and gamma-glutamyl transpeptidaseSimvastatin-sitagliptin:Postmarketing reports: Anemia
-Elevation of CK levels of 3 or more times the normal value has been reported.
+Simvastatin:Very common ( or more): Atrial fibrillation
+Simvastatin: Very common ( or more): EczemaUncommon ( to ): RashSimvastatin-sitagliptin:Postmarketing reports: Pruritus, alopecia, variety of skin changes (, nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails)
+Simvastatin:Very common ( or more): Diabetes mellitus
+Simvastatin:Very common ( or more): Urinary tract infectionSimvastatin-sitagliptin:Postmarketing reports: Erectile dysfunction, gynecomastia
+Simvastatin:Very common ( or more):Elevation of creatinine kinase (CK)Frequency not reported: Elevated alkaline phosphatase and gamma-glutamyl transpeptidaseSimvastatin-sitagliptin:Postmarketing reports: Anemia
+Elevation of CK levels of  or more times the normal value has been reported.
 This was attributable to the noncardiac fraction of CK.
-Sitagliptin: Between October 2006 and December 2013, thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.
-Each case involved the use of 1 or more dipeptidyl peptidase-4 (DPP-4) inhibitor.
-In all cases, substantial reduction in prior activity level was reported, 10 patients were hospitalized due to disabling joint pain.
-In 22 cases, symptoms appeared within 1 month of starting therapy, in 23 cases symptoms resolved less than 1 month after discontinuation.
-A positive rechallenge was reported in 8 cases, with 6 cases involving use of a different DPP-4 inhibitor.
-Sitagliptin had the greatest number of cases reported (n=28) followed by saxagliptin (n=5), linagliptin (n=2), alogliptin (n=1), and vildagliptin (n=2).
-Simvastatin:Very common (10% or more): MyalgiaUncommon (0.
-1% to 1%): AstheniaRare (less than 0.
-1%): Myopathy, rhabdomyolysisPostmarketing reports: Immune-mediated necrotizing myopathySimvastatin-sitagliptin:Postmarketing reports: muscle cramps, myalgia, rhabdomyolysis, arthralgia, pain in extremity, back pain
-Simvastatin:Common (1% to 10%): Abdominal pain, constipation, nausea, flatulence, gastritisUncommon (0.
-1% to 1%): Acid regurgitation, diarrhea, dyspepsiaSitagliptinCommon (1% to 10%): Abdominal pain, constipation, nausea, flatulenceUncommon (0.
-1% to 1%): Acid regurgitation, diarrhea, dyspepsia, pancreatitisSimvastatin-sitagliptin:Postmarketing reports: Pancreatitis, acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis, constipation, vomiting
-Simvastatin:Common (1% to 10%): Edema, swelling
-Sitagliptin:Common (1% to 10%): Hypoglycemia
-Simvastatin:Common (1% to 10%): Headache, insomnia, vertigo Sitagliptin:Common (1% to 10%): HeadacheSimvastatin-sitagliptin:Postmarketing reports: Peripheral neuropathy, dizziness, paresthesia
-Simvastatin:Common (1% to 10%): Upper respiratory infection, bronchitis, sinusitisSitagliptin:Common (1% to 10%): Upper respiratory tract infections, nasopharyngitisSimvastatin-sitagliptin:Postmarketing reports: Interstitial lung disease
-SimvastatinUncommon (0.
-1% to 1%): Elevated transaminasesSimvastatin-sitagliptin:Postmarketing reports: Hepatitis/jaundice, fatal and non-fatal hepatic failure, hepatic enzymes elevation
+Sitagliptin: Between October  and December , thirty-three cases of severe arthralgia have been reported to the FDA Adverse Event Reporting System Database.
+Each case involved the use of  or more dipeptidyl peptidase- (DPP-) inhibitor.
+In all cases, substantial reduction in prior activity level was reported,  patients were hospitalized due to disabling joint pain.
+In  cases, symptoms appeared within  month of starting therapy, in  cases symptoms resolved less than  month after discontinuation.
+A positive rechallenge was reported in  cases, with  cases involving use of a different DPP- inhibitor.
+Sitagliptin had the greatest number of cases reported (n=) followed by saxagliptin (n=), linagliptin (n=), alogliptin (n=), and vildagliptin (n=).
+Simvastatin:Very common ( or more): MyalgiaUncommon ( to ): AstheniaRare (less than ): Myopathy, rhabdomyolysisPostmarketing reports: Immune-mediated necrotizing myopathySimvastatin-sitagliptin:Postmarketing reports: muscle cramps, myalgia, rhabdomyolysis, arthralgia, pain in extremity, back pain
+Simvastatin:Common ( to ): Abdominal pain, constipation, nausea, flatulence, gastritisUncommon ( to ): Acid regurgitation, diarrhea, dyspepsiaSitagliptinCommon ( to ): Abdominal pain, constipation, nausea, flatulenceUncommon ( to ): Acid regurgitation, diarrhea, dyspepsia, pancreatitisSimvastatin-sitagliptin:Postmarketing reports: Pancreatitis, acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis, constipation, vomiting
+Simvastatin:Common ( to ): Edema, swelling
+Sitagliptin:Common ( to ): Hypoglycemia
+Simvastatin:Common ( to ): Headache, insomnia, vertigo Sitagliptin:Common ( to ): HeadacheSimvastatin-sitagliptin:Postmarketing reports: Peripheral neuropathy, dizziness, paresthesia
+Simvastatin:Common ( to ): Upper respiratory infection, bronchitis, sinusitisSitagliptin:Common ( to ): Upper respiratory tract infections, nasopharyngitisSimvastatin-sitagliptin:Postmarketing reports: Interstitial lung disease
+SimvastatinUncommon ( to ): Elevated transaminasesSimvastatin-sitagliptin:Postmarketing reports: Hepatitis/jaundice, fatal and non-fatal hepatic failure, hepatic enzymes elevation
 Simvastatin:Postmarketing reports: Anaphylaxis, angioedema, lupus erythematous-like syndrome, polymyalgia rheumatic, dermatomyositis, vasculitis, purpura, thrombocytopenia, leukopenia, hemolytic anemia, positive ANA, ESR increase, eosinophilia, arthritis, arthralgia, urticarial, asthenia, photosensitivity, fever, chills, flushing, malaise, dyspnea, toxic epidermal necrolysis, erythema multiforme (including Stevens-Johnson syndrome).
 Sitagliptin:Postmarketing reports: Anaphylaxis, angioedema, rash, urticarial, cutaneous vasculitis, exfoliative skin conditions including Stevens-Johnson syndrome
 Simvastatin-sitagliptin:Postmarketing reports: Worsening of renal function, including acute renal failure (sometimes requiring dialysis)
 Cognitive impairment is reversible up on statin discontinuation.
-Simvastatin:Postmarketing reports: Cognitive impairment (e.
-g.
-, memory loss, forgetfulness, amnesia, memory impairment, confusion)Simvastatin-sitagliptin:Postmarketing reports: Depression
+Simvastatin:Postmarketing reports: Cognitive impairment (, memory loss, forgetfulness, amnesia, memory impairment, confusion)Simvastatin-sitagliptin:Postmarketing reports: Depression
 Anxiety
 blurred vision
 chills

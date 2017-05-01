@@ -1,0 +1,382 @@
+following side effects
+taking docetaxel
+check
+doctor
+nurse
+common adverse reactions across all indications
+infections
+neutropenia
+anemia
+febrile neutropenia
+hypersensitivity
+thrombocytopenia
+neuropathy
+dysgeusia
+dyspnea
+constipation
+anorexia
+nail disorders
+fluid retention
+asthenia
+pain
+nausea
+diarrhea
+vomiting
+mucositis
+alopecia
+skin reactions
+myalgia
+neutropenia
+leukopenia
+thrombocytopenia
+anemia
+hemorrhage postmarketing reports
+bleeding episodes
+disseminated intravascular coagulation
+dic
+major dose-limiting toxicity of this drug
+reversible marrow suppression
+clinical trials
+median time
+nadir
+days
+median duration of severe neutropenia
+cells/mm
+days
+hematologic toxicity
+higher doses
+patients with elevated baseline liver function tests
+hypersensitivity
+severe hypersensitivityfrequency
+flushing
+rash
+pruritus
+chest tightness
+pain
+dyspnea
+drug fever
+chillspostmarketing reports
+anaphylactic shock
+severe hypersensitivity reactions
+minor events
+including flushing
+rash
+pruritus
+chest tightness
+pain
+dyspnea
+drug fever
+chills
+discontinuation of the infusion
+instituting treatment
+fluid retention
+severe fluid retention
+hypotension
+lymphedema
+phlebitis
+hypertensionrare
+heart failure
+sinus tachycardia
+atrial flutter
+dysrhythmia
+unstable angina
+pulmonary edemapostmarketing reports
+atrial fibrillation
+deep vein thrombosis
+ecg abnormalities
+pulmonary embolism
+syncope
+tachycardia
+myocardial infarction
+chest pain
+alopecia
+cutaneous reactions
+nail changes
+severe cutaneous reactions
+severe nail changes
+rashrare
+onycholysispostmarketing reports
+rare cases of cutaneous lupus erythematosus
+rare cases of bullous eruptions
+erythema multiforme
+stevens-johnson syndrome
+toxic epidermal necrolysis
+scleroderma-like changes
+peripheral lymphedema
+severe hand
+foot syndrome
+radiation recall
+cutaneous reactions
+severe skin toxicity
+reversible cutaneous reactions
+feet
+hands
+arms
+face
+thorax
+pruritus
+eruptions
+week
+receiving
+drug
+resolve before the next infusion
+neurosensory events
+dizziness
+headache
+hypoesthesia
+severe neurosensory events
+somnolencefrequency
+paresthesia
+dysesthesia
+neuromotor weakness
+postmarketing reports
+confusion
+seizures
+transient loss of consciousness
+postmarketing reports
+acute myeloid leukemia
+myelodysplasic syndrome
+cumulative risk
+developing
+developing treatment-related acute myeloid leukemia
+risk
+other anthracyclines/cyclophosphamide
+containing adjuvant breast chemotherapy regimens
+patients with normal liver function tests at baseline
+elevations in bilirubin
+ast
+alt
+times
+upper limit of normal
+uln
+increases in alkaline phosphatase
+uln
+increases in ast
+alt
+x uln
+alkaline phosphatase elevations
+uln
+patients
+changes
+drug
+underlying disease condition
+transaminase elevations
+bilirubin elevations
+alkaline phosphatase elevations
+transaminase elevations in combination with alkaline phosphatase elevations
+postmarketing reports
+hepatitis
+considering
+tumor types
+stomatitis
+patients with normal lfts at baseline
+patients with elevated lfts
+severe stomatitis
+patients with normal lfts at baseline
+patients with elevated lfts
+stomatitis
+dose
+stomatitis
+nausea
+vomiting
+diarrhea
+constipation
+esophagitis/dysphagia/odynophagia
+severe gastrointestinal events
+severe stomatitis
+gastrointestinal pain
+cramping
+dry mouthuncommon
+gastrointestinal hemorrhage
+severe abdominal pain
+severe esophagitispostmarketing reports
+duodenal ulcer
+gastrointestinal hemorrhage
+gastrointestinal perforation
+ischemic colitis
+colitis
+intestinal obstruction
+ileus
+neutropenic enterocolitis
+dehydration
+asthenia
+severe asthenia
+febrile neutropenia
+fever in absence of infection
+non-septic death
+impaired hearing
+postmarketing reports
+ototoxicity
+hearing disorders
+infusion reactions
+hyperpigmentation
+inflammation
+redness
+dryness of the skin
+phlebitis
+extravasation
+swelling of the vein
+infusion site reactions frequency
+hyperpigmentation
+inflammation
+redness
+dryness of the skin
+phlebitis
+extravasation
+swelling of the vein
+lacrimation disorder
+conjunctivitispostmarketing reports
+cystoid
+macular edema
+transient visual disturbances
+drug infusion
+association with hypersensitivity reactions
+discontinuation of the infusion
+cough
+rhinorrhea
+pharyngolaryngeal paincommon
+epistaxis
+pneumonia
+dyspneapostmarketing reports
+acute pulmonary edema
+acute respiratory distress syndrome/pneumonitis
+interstitial lung disease
+interstitial pneumonia
+respiratory failure
+pulmonary fibrosis
+rare cases of radiation pneumonitis in patients
+receiving concomitant radiotherapy
+postmarketing reports
+renal insufficiency
+renal failure
+majority of these cases
+concomitant nephrotoxic drugs
+weight gain
+weight loss
+anorexia postmarketing reports
+hyponatremia
+myalgia
+severe myalgia
+arthralgia
+bone pain
+pain
+infections
+severe infections
+septic death
+oral candidiasis
+insomnia
+amenorrhea
+menstrual irregularities
+burning
+numbness
+tingling
+pain in the arms
+hands
+legs
+feet
+swelling of the stomach
+face
+fingers
+hands
+feet
+lower legs
+unusual tiredness
+weakness
+weight gain
+black, tarry stools
+blood in the urine
+stools
+cough
+hoarseness
+fever
+chills
+breathing
+painful urination
+fever
+chills
+difficulty with swallowing
+dizziness
+fast heartbeat
+fever or chills
+hives
+skin rash
+itching
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+side pain
+fever
+chills
+noisy, rattling breathing
+red spots on the skin
+peeling areas of the skin
+tightness in the chest
+troubled breathing
+rest
+unusual bleeding
+bruising
+chest pain
+discomfort
+decreased blood pressure
+irregular heartbeat
+increased blood pressure
+congestion
+diarrhea
+dryness
+soreness of the throat
+nausea
+skin rash
+redness
+sores
+ulcers on the lips
+tongue
+mouth
+weakness in the arms
+hands
+legs
+feet
+bloody nose
+body aches
+pain
+change in the color of the fingernails
+toenails
+irritated skin at the injection site
+headache
+hoarseness
+loosening
+loss of the fingernails
+toenails
+pain in the joints
+muscles
+pain
+swelling
+lump under the skin at the injection site
+runny nose
+tender
+swollen glands in the neck
+voice changes
+vomiting
+burning
+itching eyes
+burning
+stomach pain
+confusion
+difficulty
+bowel movement
+stool
+discharge from the eyes
+excessive tearing
+pain
+redness of the skin at the place of earlier radiation treatment
+rapid breathing
+redness
+pain
+swelling of the eye
+eyelid
+inner lining of the eyelid
+sunken eyes
+tearing of the eyes
+wrinkled skin

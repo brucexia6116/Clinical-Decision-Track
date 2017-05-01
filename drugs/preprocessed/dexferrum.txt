@@ -1,39 +1,16 @@
 If any of the following side effects occur while taking iron dextran, check with your doctor or nurse immediately:
-Uncommon (0.
-1% to 1%): Anaphylactoid reactions (including dyspnea, urticaria, rashes, itching, nausea, and shivering)Very rare (less than 0.
-01%): Acute severe anaphylactoid reactions (sudden onset of respiratory difficulty and/or cardiovascular collapse)Frequency not reported: Anaphylactic reactions, fatal anaphylactic reactions
-Uncommon (0.
-1% to 1%): Flushing, pruritus, rashRare (less than 0.
-1%): Angioedema, sweatingFrequency not reported: Urticaria, purpura
-Uncommon (0.
-1% to 1%): NumbnessRare (less than 0.
-1%): Loss of consciousness, seizure, dizziness, tremorVery rare (less than 0.
-01%): Headache, paresthesiaFrequency not reported: Convulsions, syncope, unresponsiveness, altered taste
-Uncommon (0.
-1% to 1%): CrampsRare (less than 0.
-1%): MyalgiasFrequency not reported: Arthralgia, exacerbation of joint pain, arthritis, backache
-Uncommon (0.
-1% to 1%): Feeling hotRare (0.
-01% to 0.
-1%): Fatigue, chest painVery rare (less than 0.
-01%): Transient deafnessFrequency not reported: Fever, weakness, febrile episodes, chills
-Uncommon (0.
-1% to 1%): DyspneaFrequency not reported: Respiratory arrest, bronchospasm, wheezing
-Uncommon (0.
-1% to 1%): Blurred vision
-Uncommon (0.
-1% to 1%): Nausea, emesis, abdominal painRare (less than 0.
-1%): DiarrheaFrequency not reported: Vomiting
-Rare (0.
-01 to 0.
-1%): Arrhythmia, tachycardia, hypotensionVery rare (less than 0.
-01%): Bradycardia, palpitations, hypertensionFrequency not reported: Chest tightness, shock, cyanosis, cardiac arrest
-Rare (less than 0.
-1%): Pain and brown pigmentation at injection siteFrequency not reported: Soreness or inflammation at or near injection site, local phlebitic reaction, staining of the skin, bleeding, formation of sterile abscesses, tissue necrosis, atrophy, pain, sterile abscess, cellulitis
-Very rare (less than 0.
-01%): HemolysisFrequency not reported: Leukocytosis, lymphadenopathy
-Rare (less than 0.
-1%): Restlessness, mental status changesFrequency not reported: Disorientation
+Uncommon ( to ): Anaphylactoid reactions (including dyspnea, urticaria, rashes, itching, nausea, and shivering)Very rare (less than ): Acute severe anaphylactoid reactions (sudden onset of respiratory difficulty and/or cardiovascular collapse)Frequency not reported: Anaphylactic reactions, fatal anaphylactic reactions
+Uncommon ( to ): Flushing, pruritus, rashRare (less than ): Angioedema, sweatingFrequency not reported: Urticaria, purpura
+Uncommon ( to ): NumbnessRare (less than ): Loss of consciousness, seizure, dizziness, tremorVery rare (less than ): Headache, paresthesiaFrequency not reported: Convulsions, syncope, unresponsiveness, altered taste
+Uncommon ( to ): CrampsRare (less than ): MyalgiasFrequency not reported: Arthralgia, exacerbation of joint pain, arthritis, backache
+Uncommon ( to ): Feeling hotRare ( to ): Fatigue, chest painVery rare (less than ): Transient deafnessFrequency not reported: Fever, weakness, febrile episodes, chills
+Uncommon ( to ): DyspneaFrequency not reported: Respiratory arrest, bronchospasm, wheezing
+Uncommon ( to ): Blurred vision
+Uncommon ( to ): Nausea, emesis, abdominal painRare (less than ): DiarrheaFrequency not reported: Vomiting
+Rare ( to ): Arrhythmia, tachycardia, hypotensionVery rare (less than ): Bradycardia, palpitations, hypertensionFrequency not reported: Chest tightness, shock, cyanosis, cardiac arrest
+Rare (less than ): Pain and brown pigmentation at injection siteFrequency not reported: Soreness or inflammation at or near injection site, local phlebitic reaction, staining of the skin, bleeding, formation of sterile abscesses, tissue necrosis, atrophy, pain, sterile abscess, cellulitis
+Very rare (less than ): HemolysisFrequency not reported: Leukocytosis, lymphadenopathy
+Rare (less than ): Restlessness, mental status changesFrequency not reported: Disorientation
 Frequency not reported: Tumors at the injection site
 Frequency not reported: Hematuria
 Backache

@@ -1,23 +1,14 @@
 The most common side effects were diarrhea, dizziness, headache, dyslipidemia, cough, and increased blood creatine phosphokinase.
-Common (1% to 10%): DiarrheaUncommon (0.
-1% to 1%): Nausea
-Common (1% to 10%): Dizziness, headacheFrequency not reported: Dizziness postural
-Common (1% to 10%): DyslipidemiaUncommon (0.
-1% to 1%): Blood uric acid increased, hyperuricemia
-Common (1% to 10%): Cough
-Common (1% to 10%): Blood creatine phosphokinase increasedUncommon (0.
-1% to 1%): Muscle spasm
-Uncommon (0.
-1% to 1%): Rash, pruritusRare (less than 0.
-1%): Angioedema
-Uncommon (0.
-1% to 1%): Fatigue, peripheral edemaFrequency not reported: Asthenia
-Uncommon (0.
-1% to 1%): Low hemoglobin, low hematocrit, low RBC counts
-Uncommon (0.
-1% to 1%): Blood creatinine increased
-Uncommon (0.
-1% to 1%): Hypotension
+Common ( to ): DiarrheaUncommon ( to ): Nausea
+Common ( to ): Dizziness, headacheFrequency not reported: Dizziness postural
+Common ( to ): DyslipidemiaUncommon ( to ): Blood uric acid increased, hyperuricemia
+Common ( to ): Cough
+Common ( to ): Blood creatine phosphokinase increasedUncommon ( to ): Muscle spasm
+Uncommon ( to ): Rash, pruritusRare (less than ): Angioedema
+Uncommon ( to ): Fatigue, peripheral edemaFrequency not reported: Asthenia
+Uncommon ( to ): Low hemoglobin, low hematocrit, low RBC counts
+Uncommon ( to ): Blood creatinine increased
+Uncommon ( to ): Hypotension
 Blurred vision
 confusion
 dizziness, faintness, or lightheadedness when getting up suddenly from a lying or sitting position

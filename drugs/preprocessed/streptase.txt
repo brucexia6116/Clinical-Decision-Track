@@ -1,50 +1,34 @@
 As well as its needed effects, streptokinase (the active ingredient contained in Streptase) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking streptokinase, check with your doctor or nurse immediately:
-Predisposing risk factors for the development of intracranial hemorrhage during thrombolytic therapy for myocardial infarction have included body weight less than 70 kg, age greater than 65 years old, and preexisting anticoagulant therapy.
+Predisposing risk factors for the development of intracranial hemorrhage during thrombolytic therapy for myocardial infarction have included body weight less than  kg, age greater than  years old, and preexisting anticoagulant therapy.
 The authors of GISSI concluded that the risk of hemorrhagic stroke is also directly related to Killip classification.
-A meta-analysis of 30 studies dealing with proximal lower extremity deep vein thrombosis (DVT) has revealed the following relative risks for patients who received SK + heparin versus heparin alone:  any major bleeding, 2.
-9; central nervous system (CNS) bleeding, 4.
-5; mortality from CNS bleeding, 4.
-0; pulmonary embolism (PE), 1.
-0; mortality from PE, 1.
-0; postphlebitic syndrome, 0.
-4.
+A meta-analysis of  studies dealing with proximal lower extremity deep vein thrombosis (DVT) has revealed the following relative risks for patients who received SK + heparin versus heparin alone:  any major bleeding, ; central nervous system (CNS) bleeding, ; mortality from CNS bleeding, ; pulmonary embolism (PE), ; mortality from PE, ; postphlebitic syndrome, .
 The risk of hemorrhagic side effects from streptokinase (the active ingredient contained in Streptase) can be minimized with patient selection.
 Major risk factors for intracranial hemorrhage have included known intracranial tumor, prior neurosurgery, stroke within the past six months, head trauma within the past month.
 Other significant risk factors included severe, uncontrolled hypertension, a remote stroke known not to be hemorrhagic, recent transient ischemic attacks, advanced age, and female gender.
 Hematologic side effects of streptokinase (SK) have included minor and major bleeding.
-The risk of bleeding appears to be significantly increased when plasma fibrinogen levels fall below 250 mg/dl.
-Minor bleeding has occurred in up to 67% of patients, presenting as venipuncture or arterial cutdown site oozing, microscopic hematuria, hemoptysis, or hematemesis.
-Local bleeding usually has been controlled by manual compression for 20 to 30 minutes.
-Serious or major bleeding, including gastrointestinal, genitourinary, joint, retroperitoneal or intracerebral hemorrhage, has occurred in 0.
-3% to 6.
-0% of patients.
+The risk of bleeding appears to be significantly increased when plasma fibrinogen levels fall below  mg/dl.
+Minor bleeding has occurred in up to  of patients, presenting as venipuncture or arterial cutdown site oozing, microscopic hematuria, hemoptysis, or hematemesis.
+Local bleeding usually has been controlled by manual compression for  to  minutes.
+Serious or major bleeding, including gastrointestinal, genitourinary, joint, retroperitoneal or intracerebral hemorrhage, has occurred in  to  of patients.
 Adjuvant heparin, but not aspirin, therapy appears to increase the risk of bleeding.
-Intracranial hemorrhage in 0.
-1% to 1.
-0% of patients and rare cases of intramyocardial hemorrhage have been reported.
+Intracranial hemorrhage in  to  of patients and rare cases of intramyocardial hemorrhage have been reported.
 Several fatalities due to intracranial or retroperitoneal hemorrhage have occurred during thrombolytic therapy.
 Rare cases of embolization and anti-SK-mediated platelet aggregation during or after SK therapy have been reported.
 There is speculation that fibrinolysis could increase pericatheter thrombosis, which can result in local or distal thromboembolism.
-The overall incidence of hypersensitivity reactions to SK from the ISIS-2, GISSI-1 and GISSI-2 data ranged from 1.
-6% to 4.
-4%.
-Smaller studies have reported an incidence of 2% to 6%.
+The overall incidence of hypersensitivity reactions to SK from the ISIS-, GISSI- and GISSI- data ranged from  to .
+Smaller studies have reported an incidence of  to .
 Acute allergic reactions to SK ranged from minor dyspnea, urticaria, pruritus, flushing, nausea, headache, or musculoskeletal pain to severe anaphylaxis, bronchospasm, or periorbital or angioneurotic edema.
-SK-induced fever has been reported in 30% to 50% of patients.
+SK-induced fever has been reported in  to  of patients.
 Severe acute hypersensitivity reactions have usually required discontinuation of therapy, antihistamines, and/or corticosteroids.
 In rare cases, adrenergic agents have been required to treat anaphylactic shock.
-In the 8,592 patients in the ISIS-2 trial who received SK there were no confirmed incidences of anaphylactic shock.
-The GISSI study 7 incidents of nonfatal anaphylactic reactions among 5,860 patients who had received SK (0.
-1%), though 99 patients (1.
-7%) had allergic reactions severe enough to discontinue therapy and another 42 (0.
-7%) were identified retrospectively.
+In the , patients in the ISIS- trial who received SK there were no confirmed incidences of anaphylactic shock.
+The GISSI study  incidents of nonfatal anaphylactic reactions among , patients who had received SK , though  patients  had allergic reactions severe enough to discontinue therapy and another   were identified retrospectively.
 Skin testing immediately before SK therapy appears to be a practical, sensitive, and specific tool to help identify patients at risk for anaphylaxis.
 Since cardiovascular side effects may be more likely among the population of patients in whom SK in indicated, a cause-and-effect relationship to the drug is not always clear.
-Transient hypotension has been reported during SK therapy in approximately 40% of patients (anterior or inferior wall MI).
+Transient hypotension has been reported during SK therapy in approximately  of patients (anterior or inferior wall MI).
 Hypotension has been associated with reperfusion, which has been associated with decreased in-hospital mortality.
-Reperfusion of the myocardium has resulted in arrhythmias in 80% of patients who experience reperfusion.
+Reperfusion of the myocardium has resulted in arrhythmias in  of patients who experience reperfusion.
 The most common reperfusion arrhythmia is a transient accelerated idioventricular rhythm, which is typically clinically benign.
 Premature ventricular depolarizations during reperfusion do not necessarily predict severe ventricular arrhythmias.
 Dyspnea, cyanosis, rare cases of hemorrhagic myocardial infarction, serious ventricular arrhythmias, hemopericardium, and death from cardiogenic shock have been associated with thrombolytic therapy, in general.
@@ -61,9 +45,7 @@ Ischemia may also be due to emboli from mural thrombi (if present), cholesterol 
 Immunologic injury to the kidney may be related to SK-induced serum sickness, Schonlein-Henoch purpura, or immune complex nephritis.
 Retroperitoneal hemorrhage or ureter thrombosis during or following SK therapy can cause postrenal obstruction.
 In one case of Guillain-Barre syndrome (GBS) associated with SK oligoclonal IgG bands in the cerebrospinal fluid and serum were shown to be specific for streptokinase (the active ingredient contained in Streptase)   Clinical symptoms of GBS were thought to result from SK-antibody complex-mediated damage to the local blood-nerve barrier.
-Hemorrhagic stroke, a potentially serious nervous system side effect, has affected approximately 0.
-1% to 1.
-0% of patients.
+Hemorrhagic stroke, a potentially serious nervous system side effect, has affected approximately  to  of patients.
 Extremely rare cases of Guillain-Barre syndrome have been associated with the use of SK.
 Gastrointestinal side effects have been rare.
 Hemorrhagic gastritis has been associated with the thrombolytic state.
@@ -72,7 +54,7 @@ Unusual cases of hemorrhagic splenic rupture and subcapsular hepatic hematoma ha
 Rare cases of SK-induced hepatic dysfunction have been reported .
 Some experts believe that mild, transient liver function test elevations indicative of cholestasis do not appear to be caused by toxic or allergic effects of SK itself, but by the high activities of the proteolytic enzymes, plasminogen activator and plasmin.
 Rare cases of jaundice have been reported.
-In a prospective study of 24 nonselected patients with peripheral arterial occlusions undergoing SK therapy, 18 had significant liver enzyme elevations typical of cholestasis and impaired hepatocellular integrity and function, but none became jaundiced.
+In a prospective study of  nonselected patients with peripheral arterial occlusions undergoing SK therapy,  had significant liver enzyme elevations typical of cholestasis and impaired hepatocellular integrity and function, but none became jaundiced.
 Rare cases of musculoskeletal back pain have been reported.
 In some cases bleeding into the iliopsoas muscles was discovered, but in most reported cases, there was no evidence of allergy, aortic dissection, worsened myocardial infarction or retroperitoneal hemorrhage.
 A genitourinary concern for menstruating women who are considered for thrombolytic therapy has been whether SK can safely be used during menses.

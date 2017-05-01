@@ -1,43 +1,20 @@
 If any of the following side effects occur while taking immune globulin intravenous, check with your doctor or nurse immediately:
 The most common adverse events were headache, cough, fatigue, infusion site reaction, nausea, urticaria, sinusitis, blood pressure increased, diarrhea, dizziness, and lethargy.
-Very common (10% or more): Cough increased (54%), rhinitis (51%), pharyngitis (41%), asthma (29%), upper respiratory tract infection (25%), cough (22%), bronchitis (19%), epistaxis (10.
-5%)Common (1% to 10%): Sinusitis, pharyngolaryngeal pain, pharyngitis, nasal congestionUncommon (0.
-1% to 1%): BronchospasmFrequency not reported: Dyspnea, wheezingPostmarketing reports: Apnea, acute respiratory distress syndrome (ARDS), transfusion associated lung injury (TRALI), cyanosis, hypoxemia, pulmonary edema, bronchospasm, pulmonary embolism, hyperventilation, hypoxia, throat tightness, respiratory failure
-Very common (10% or more): Hypotension (25%), tachycardia (25%), diastolic hypertension (21%)Common (1% to 10%): Blood pressure increased, blood pressure diastolic decreased, palpitationsUncommon (0.
-1% to 1%): Tachycardia, hypertension, blood pressure systolic decreased, blood pressure systolic increased, blood pressure fluctuationFrequency not reported: Myocardial infarctionPostmarketing reports: Cardiac arrest, thromboembolism, vascular collapse, changes in blood pressure, flushing, cyanosis, bradycardia, thrombophlebitis, pallor vena cava thrombosis, arterial thrombosis, deep vein thrombosis
-Very common (10% or more): Headache (64.
-9%)Common (1% to 10%): Dizziness, lethargy, migraine, vertigo, sensory disturbanceUncommon (0.
-1% to 1%): Tinnitus, tremor, dysgeusiaFrequency not reported: Aseptic meningitis, death from cerebrovascular hemorrhage, sleepinessPostmarketing reports: Coma, loss of consciousness, seizures, photophobia, cerebrovascular accident, transient ischemic attack, convulsion, paresthesia, syncope, dysesthesia
-Very common (10% or more): Diarrhea (28%), nausea (22.
-2%) Common (1% to 10%): Vomiting, upper abdominal pain, stomach discomfortUncommon (0.
-1% to 1%): Abdominal distension, flatulenceFrequency not reported: Gingival bleedingPostmarketing reports: Abdominal pain, dyspepsia
-Very common (10% or more): Fatigue (38%), fever/pyrexia (38.
-6%), pain (25.
-5%), ear pain (18%), chills (19.
-4%), asthenia (10%) Common (1% to 10%): Influenza-like illness, blood lactate dehydrogenase increasedUncommon (0.
-1% to 1%): Hot flush, feeling jitteryFrequency not reported: Increased body temperaturePostmarketing reports: Rigors, chest pain/discomfort
-Very common (10% or more): Transient borderline elevation in liver enzyme (13%), blood unconjugated bilirubin increased (10.
-5%)Common (1% to 10%): Blood conjugated bilirubin increased, blood total bilirubin increased, hyperbilirubinemia, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increasedPostmarketing reports: Hepatic dysfunction, jaundice, non-infectious hepatitis
-Very common (10% or more): Anemia (10.
-5%)Common (1% to 10%): Hematocrit decreased, positive direct antiglobulin (Coombs/DAT) testUncommon (0.
-1% to 1%): Hemoglobin decreased, white blood cell count increased, anisocytosisFrequency not reported: Autoimmune pure red cell aplasia, Coombs negative hypochromic anemia, hemolysis, decrease in hemoglobin level, active bleeding, anemia, thrombocytopenia, hemolytic anemiaPostmarketing reports: Pancytopenia, leukopenia, hemoglobinuria/hematuria/chromaturia, lymphadenopathy
-Very common (10% or more): Local pain and/or irritation (15.
-2%), injection site reaction (13%)Common (1% to 10%): Infusion site painUncommon (0.
-1% to 1%): Infusion site inflammation, injection site edema, injection site pruritus, injection site swelling, migration of implant
-Common (1% to 10%): Hyperhidrosis, flushing, urticaria, pruritus, dermatitis exfoliative NOS, rash macular, eczemaUncommon (0.
-1% to 1%): Exanthema, erythema multiforme, acneFrequency not reported: Mild to moderate hives, itching, recurrence of chronic cellulitisPostmarketing reports: Stevens-Johnson syndrome, epidermolysis, bullous dermatitis, rash, angioedema, dermatitis, erythema
-Common (1% to 10%): HypersensitivityPostmarketing reports: Anaphylactic shock, anaphylactic/anaphylactoid reaction
-Very common (10% or more): Backache (11.
-8%)Common (1% to 10%): Joint pain/effusion, back pain, fibromyalgia, myalgia, arthralgia, muscle spasms, neck painUncommon (0.
-1% to 1%): Leg cramps, musculoskeletal stiffness, pain in extremity
-Common (1% to 10%): Fluid retention, dehydrationUncommon (0.
-1% to 1%): Loss of appetitePostmarketing reports: Fluid overload
-Uncommon (0.
-1% to 1%): Urinary hemosiderin positive, proteinuriaFrequency not reported: Increase in serum creatininePostmarketing reports: Renal failure
-Uncommon (0.
-1% to 1%): Anxiety, agitation, insomniaPostmarketing reports: Restlessness
-Uncommon (0.
-1% to 1%): Vision blurred, conjunctivitis, maculopathyPostmarketing reports: Photophobia, retinal vein thrombosis, eye pain, visual disturbance
+Very common ( or more): Cough increased , rhinitis , pharyngitis , asthma , upper respiratory tract infection , cough , bronchitis , epistaxis Common ( to ): Sinusitis, pharyngolaryngeal pain, pharyngitis, nasal congestionUncommon ( to ): BronchospasmFrequency not reported: Dyspnea, wheezingPostmarketing reports: Apnea, acute respiratory distress syndrome (ARDS), transfusion associated lung injury (TRALI), cyanosis, hypoxemia, pulmonary edema, bronchospasm, pulmonary embolism, hyperventilation, hypoxia, throat tightness, respiratory failure
+Very common ( or more): Hypotension , tachycardia , diastolic hypertension Common ( to ): Blood pressure increased, blood pressure diastolic decreased, palpitationsUncommon ( to ): Tachycardia, hypertension, blood pressure systolic decreased, blood pressure systolic increased, blood pressure fluctuationFrequency not reported: Myocardial infarctionPostmarketing reports: Cardiac arrest, thromboembolism, vascular collapse, changes in blood pressure, flushing, cyanosis, bradycardia, thrombophlebitis, pallor vena cava thrombosis, arterial thrombosis, deep vein thrombosis
+Very common ( or more): Headache Common ( to ): Dizziness, lethargy, migraine, vertigo, sensory disturbanceUncommon ( to ): Tinnitus, tremor, dysgeusiaFrequency not reported: Aseptic meningitis, death from cerebrovascular hemorrhage, sleepinessPostmarketing reports: Coma, loss of consciousness, seizures, photophobia, cerebrovascular accident, transient ischemic attack, convulsion, paresthesia, syncope, dysesthesia
+Very common ( or more): Diarrhea , nausea  Common ( to ): Vomiting, upper abdominal pain, stomach discomfortUncommon ( to ): Abdominal distension, flatulenceFrequency not reported: Gingival bleedingPostmarketing reports: Abdominal pain, dyspepsia
+Very common ( or more): Fatigue , fever/pyrexia , pain , ear pain , chills , asthenia  Common ( to ): Influenza-like illness, blood lactate dehydrogenase increasedUncommon ( to ): Hot flush, feeling jitteryFrequency not reported: Increased body temperaturePostmarketing reports: Rigors, chest pain/discomfort
+Very common ( or more): Transient borderline elevation in liver enzyme , blood unconjugated bilirubin increased Common ( to ): Blood conjugated bilirubin increased, blood total bilirubin increased, hyperbilirubinemia, alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzymes increasedPostmarketing reports: Hepatic dysfunction, jaundice, non-infectious hepatitis
+Very common ( or more): Anemia Common ( to ): Hematocrit decreased, positive direct antiglobulin (Coombs/DAT) testUncommon ( to ): Hemoglobin decreased, white blood cell count increased, anisocytosisFrequency not reported: Autoimmune pure red cell aplasia, Coombs negative hypochromic anemia, hemolysis, decrease in hemoglobin level, active bleeding, anemia, thrombocytopenia, hemolytic anemiaPostmarketing reports: Pancytopenia, leukopenia, hemoglobinuria/hematuria/chromaturia, lymphadenopathy
+Very common ( or more): Local pain and/or irritation , injection site reaction Common ( to ): Infusion site painUncommon ( to ): Infusion site inflammation, injection site edema, injection site pruritus, injection site swelling, migration of implant
+Common ( to ): Hyperhidrosis, flushing, urticaria, pruritus, dermatitis exfoliative NOS, rash macular, eczemaUncommon ( to ): Exanthema, erythema multiforme, acneFrequency not reported: Mild to moderate hives, itching, recurrence of chronic cellulitisPostmarketing reports: Stevens-Johnson syndrome, epidermolysis, bullous dermatitis, rash, angioedema, dermatitis, erythema
+Common ( to ): HypersensitivityPostmarketing reports: Anaphylactic shock, anaphylactic/anaphylactoid reaction
+Very common ( or more): Backache Common ( to ): Joint pain/effusion, back pain, fibromyalgia, myalgia, arthralgia, muscle spasms, neck painUncommon ( to ): Leg cramps, musculoskeletal stiffness, pain in extremity
+Common ( to ): Fluid retention, dehydrationUncommon ( to ): Loss of appetitePostmarketing reports: Fluid overload
+Uncommon ( to ): Urinary hemosiderin positive, proteinuriaFrequency not reported: Increase in serum creatininePostmarketing reports: Renal failure
+Uncommon ( to ): Anxiety, agitation, insomniaPostmarketing reports: Restlessness
+Uncommon ( to ): Vision blurred, conjunctivitis, maculopathyPostmarketing reports: Photophobia, retinal vein thrombosis, eye pain, visual disturbance
 Frequency not reported: Infection
 Chills
 cough

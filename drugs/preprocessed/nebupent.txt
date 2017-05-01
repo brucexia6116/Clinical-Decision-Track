@@ -4,7 +4,6 @@ Other dosage forms:
 On rare occasions, pneumocystis infections have occurred in parts of the body outside the lungs in patients receiving pentamidine (the active ingredient contained in Nebupent) inhalation therapy.
 You should discuss this possible problem with your doctor.
 As well as its needed effects, pentamidine may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking pentamidine, check with your doctor immediately:
 Parenteral administration is commonly associated with nephrotoxicity (increased creatinine, impaired renal function, azotemia, and renal failure).
 Fatalities due to severe hypotension, hypoglycemia, acute pancreatitis, and cardiac arrhythmias have occurred with IM and IV pentamidine (the active ingredient contained in Nebupent)   Inhaled pentamidine has been most frequently associated with cough and bronchospasm.
@@ -15,58 +14,49 @@ Renal function often returns to baseline after discontinuation.
 Hyperkalemia, which may be severe, has been reported.
 In several cases, potassium binding therapy or hemodialysis was required.
 Frequent monitoring of potassium is recommended during pentamidine (the active ingredient contained in Nebupent) therapy.
-Renal side effects associated with parenteral pentamidine have included azotemia (8.
-5%), elevated serum creatinine (23.
-6%), elevated blood urea nitrogen (6.
-6%), and impaired renal function (28.
-8%).
-Nephritis, renal failure, and renal pain have been reported in less than 1% of patients receiving inhaled pentamidine.
+Renal side effects associated with parenteral pentamidine have included azotemia , elevated serum creatinine , elevated blood urea nitrogen , and impaired renal function .
+Nephritis, renal failure, and renal pain have been reported in less than  of patients receiving inhaled pentamidine.
 Renal dysfunction, and increased blood urea nitrogen (BUN) and serum creatinine have also been reported during postmarketing experience with inhaled pentamidine.
 Pentamidine has been reported to cause torsades de pointes and ventricular arrhythmias.
 These arrhythmias are reversible but may require antiarrhythmic therapy for several days following drug discontinuation.
-In many cases, the development of torsades de pointes did not occur until after about 10 days of therapy.
-In one prospective study of 14 patients, torsades de pointes developed in 3 of the subjects.
+In many cases, the development of torsades de pointes did not occur until after about  days of therapy.
+In one prospective study of  patients, torsades de pointes developed in  of the subjects.
 Sudden and severe hypotension has occurred after single IM or IV doses of pentamidine (the active ingredient contained in Nebupent)   Rapid IV administration increases the likelihood of severe hypotension.
-Persistent hypotension accompanied by a fixed heart rate has been reported in an AIDS patient after 2 weeks of pentamidine therapy and was attributed to acute autonomic failure.
+Persistent hypotension accompanied by a fixed heart rate has been reported in an AIDS patient after  weeks of pentamidine therapy and was attributed to acute autonomic failure.
 Autonomic insufficiency resulting from pentamidine therapy is rare but should be suspected when there is chronic hypotension occurring in a phase of a fixed heart rate, and should be treated aggressively.
 Discontinuation of pentamidine should be considered.
-Cardiovascular side effects have included hypotension in 1% to 5% of patients, and abnormal ST segment on EKG, arrhythmias, cerebrovascular accident, hypertension, palpitations, poor circulation, syncope, tachycardia, vasodilatation, vasculitis, ventricular tachycardia in less than 1% of patients.
+Cardiovascular side effects have included hypotension in  to  of patients, and abnormal ST segment on EKG, arrhythmias, cerebrovascular accident, hypertension, palpitations, poor circulation, syncope, tachycardia, vasodilatation, vasculitis, ventricular tachycardia in less than  of patients.
 QT prolongation, torsade de pointes, cardiac arrest, and sudden death have also been reported.
 Prior administration of a nebulized beta-agonist may lessen the bronchospasm.
 Aerosolized pentamidine (the active ingredient contained in Nebupent) is also associated with an increased risk of developing AIDS-related spontaneous pneumothorax.
 Reactive airways dysfunction syndrome (RADS) has been reported in a nurse after exposure to aerosolized pentamidine.
-Her symptoms and requirement for asthma medication persisted for at least 2 years after exposure.
-Respiratory side effects most commonly associated with inhaled pentamidine have included cough (38%) and bronchospasm (15%).
+Her symptoms and requirement for asthma medication persisted for at least  years after exposure.
+Respiratory side effects most commonly associated with inhaled pentamidine have included cough  and bronchospasm .
 Chest pain, wheezing, asthma, bronchitis, chest congestion, chest tightness, coryza, cyanosis, eosinophilic or interstitial pneumonitis, gagging, hemoptysis, hyperventilation, laryngitis, laryngospasm, nonspecific lung disorder, nasal congestion, pleuritis, pneumothorax, rales, rhinitis, shortness of breath, nonspecific sputum, and tachypnea have also been reported.
 Pancreatitis may be preceded by glucose abnormalities, renal insufficiency, and abdominal pain.
 Pancreatitis has been reported during both aerosolized and intravenous pentamidine (the active ingredient contained in Nebupent) therapy.
 Fatalities have been reported.
 In some cases of pentamidine-induced pancreatitis, the patient had been receiving aerosolized therapy prophylactically prior to developing pancreatitis during intravenous therapy for the treatment of PCP.
 Extensive necrosis of the pancreatic acinar and islet cells with a black or reddish-black appearance has been seen on autopsy.
-Gastrointestinal side effects have included anorexia, diarrhea, nausea, and bad taste in less than 5% of patients.
-Abdominal cramps and pain, constipation, dry mouth, dyspepsia, gastritis, gastric ulcer, gingivitis, hiatal hernia, hypersalivation, melena, oral ulcer/abscess, pancreatitis, splenomegaly, vomiting, and loss of taste have been reported in less than 1% of patients.
+Gastrointestinal side effects have included anorexia, diarrhea, nausea, and bad taste in less than  of patients.
+Abdominal cramps and pain, constipation, dry mouth, dyspepsia, gastritis, gastric ulcer, gingivitis, hiatal hernia, hypersalivation, melena, oral ulcer/abscess, pancreatitis, splenomegaly, vomiting, and loss of taste have been reported in less than  of patients.
 Colitis, esophagitis, and hematochezia have been reported during postmarketing experience.
-Metabolic side effects have included hypoglycemia in up to 5.
-9% of patients, and hyperglycemia, hyperkalemia, hypocalcemia, and hypomagnesemia in less than 1% of patients.
+Metabolic side effects have included hypoglycemia in up to  of patients, and hyperglycemia, hyperkalemia, hypocalcemia, and hypomagnesemia in less than  of patients.
 Diabetes, ketoacidosis, and syndrome of inappropriate antidiuretic hormone have been reported during postmarketing experience.
 Hypoglycemia has been associated with pancreatic islet cell necrosis and high plasma insulin concentrations.
 Hyperglycemia and diabetes has been reported with or without preceding hypoglycemia.
 Hypoglycemia may require treatment with intravenous glucose and, in some instances, glucagon.
 Hyperglycemia may follow, and in some cases has necessitated insulin therapy.
 This condition may not be reversible.
-A review of 15 cases of diabetes mellitus resulting from pentamidine administration revealed a mean duration of 26 days of intravenous therapy and one year of aerosolized therapy prior to the development of diabetes.
+A review of  cases of diabetes mellitus resulting from pentamidine administration revealed a mean duration of  days of intravenous therapy and one year of aerosolized therapy prior to the development of diabetes.
 Four of these patients presented with ketoacidosis.
 The diabetes was transient in one-third of these cases.
 Increased urine excretion of magnesium has been noted in some patients exhibiting hypomagnesemia.
-Hematologic side effects have included anemia (less than 5%), leukopenia (parenteral, 10.
-4%), and thrombocytopenia (parenteral, 2.
-6%).
-Defibrination, cytopenia, eosinophilia, neutropenia, pancytopenia, and prolonged clotting time have been reported in less than 1% of patients.
+Hematologic side effects have included anemia (less than ), leukopenia (parenteral, ), and thrombocytopenia (parenteral, ).
+Defibrination, cytopenia, eosinophilia, neutropenia, pancytopenia, and prolonged clotting time have been reported in less than  of patients.
 Hemolytic anemia (following parenteral pentamidine (the active ingredient contained in Nebupent)  and megaloblastic anemia have been reported.
-Hepatic side effects have included elevation of liver function tests in 8.
-7% of patients, and hepatitis, hepatomegaly, and hepatic dysfunction in less than 1% of patients.
-Local side effects have included sterile abscess, necrosis, pain, and/or induration at the site of intramuscular injection in 11.
-1% of patients, phlebitis in less than 1% of patients.
+Hepatic side effects have included elevation of liver function tests in  of patients, and hepatitis, hepatomegaly, and hepatic dysfunction in less than  of patients.
+Local side effects have included sterile abscess, necrosis, pain, and/or induration at the site of intramuscular injection in  of patients, phlebitis in less than  of patients.
 Intravenous administration has been associated with transient erythema, pain, pruritus, and rash at the IV site and along the vein.
 Ulceration, tissue necrosis, and/or sloughing has occurred after extravasation.
 In some cases of extravasation, surgical debridement and skin grafting was required.
@@ -76,19 +66,18 @@ These effects have been typically reversible upon discontinuation of the infusio
 The volume of dilution and duration of infusion did not appear to affect the reaction in the described cases.
 Premedication with antihistamines provided inconsistent results.
 Improvement was seen with hydroxyzine premedication but not with diphenhydramine.
-Dermatologic side effects have included rash in up to 3.
-3% of patients, and desquamation, dry and breaking hair, dry skin, erythema, dermatitis, pruritus, and urticaria in less than 1% of patients.
-Nervous system side effects have included headache in less than 5% of patients.
-Anxiety, confusion, depression, dizziness, drowsiness, emotional lability, hallucination, hypesthesia, insomnia, memory loss, nervousness, neuralgia, neuropathy, paranoia, paresthesia, peripheral neuropathy, facial numbness, seizure, tremors, unsteady gait, and vertigo have been reported in less than 1% of patients.
-Other side effects have included night sweats in less than 5% of patients, and body odor, chills, extrapulmonary pneumocystosis, facial edema, fever, leg edema, lethargy, low body temperature, and abnormal temperature in less than 1% of patients.
+Dermatologic side effects have included rash in up to  of patients, and desquamation, dry and breaking hair, dry skin, erythema, dermatitis, pruritus, and urticaria in less than  of patients.
+Nervous system side effects have included headache in less than  of patients.
+Anxiety, confusion, depression, dizziness, drowsiness, emotional lability, hallucination, hypesthesia, insomnia, memory loss, nervousness, neuralgia, neuropathy, paranoia, paresthesia, peripheral neuropathy, facial numbness, seizure, tremors, unsteady gait, and vertigo have been reported in less than  of patients.
+Other side effects have included night sweats in less than  of patients, and body odor, chills, extrapulmonary pneumocystosis, facial edema, fever, leg edema, lethargy, low body temperature, and abnormal temperature in less than  of patients.
 Asthenia has also been reported.
-Infectious side effects have included bronchitis, herpes, herpes zoster, influenza, oral candidiasis, pharyngitis, sinusitis, and upper respiratory tract infections in less than 5% of patients.
-Bacterial pneumonia, central venous line-related sepsis, cryptococcal meningitis, cytomegalovirus (CMV) colitis, CMV retinitis, esophageal candidiasis, histoplasmosis, Kaposi's sarcoma, nonspecific Mycoplasma, oral herpes, nonspecific otitis, nonspecific pharyngitis, pharyngeal herpes, nonspecific serious infections, tonsillitis, tuberculosis, and viral encephalitis have been reported in less than 1% of patients.
-Musculoskeletal side effects have included arthralgia, gout, and myalgia in less than 1% of patients.
-Genitourinary side effects have included miscarriage, flank pain, and incontinence in less than 1% of patients.
+Infectious side effects have included bronchitis, herpes, herpes zoster, influenza, oral candidiasis, pharyngitis, sinusitis, and upper respiratory tract infections in less than  of patients.
+Bacterial pneumonia, central venous line-related sepsis, cryptococcal meningitis, cytomegalovirus (CMV) colitis, CMV retinitis, esophageal candidiasis, histoplasmosis, Kaposi's sarcoma, nonspecific Mycoplasma, oral herpes, nonspecific otitis, nonspecific pharyngitis, pharyngeal herpes, nonspecific serious infections, tonsillitis, tuberculosis, and viral encephalitis have been reported in less than  of patients.
+Musculoskeletal side effects have included arthralgia, gout, and myalgia in less than  of patients.
+Genitourinary side effects have included miscarriage, flank pain, and incontinence in less than  of patients.
 Hematuria has also been reported.
-Ocular side effects have included blepharitis, blurred vision, conjunctivitis, contact lens discomfort, eye pain or discomfort, and hemianopsia in less than 1% of patients.
-Hypersensitivity reactions have included anaphylaxis, allergic reactions (urticaria, itching, rash), and Stevens-Johnson syndrome in less than 1% of patients.
+Ocular side effects have included blepharitis, blurred vision, conjunctivitis, contact lens discomfort, eye pain or discomfort, and hemianopsia in less than  of patients.
+Hypersensitivity reactions have included anaphylaxis, allergic reactions (urticaria, itching, rash), and Stevens-Johnson syndrome in less than  of patients.
 Toxic epidermal necrolysis has been reported; at least one case was associated with aerosolized pentamidine (the active ingredient contained in Nebupent) 
 It is possible that some side effects of Nebupent may not have been reported.
 These can be reported to the FDA here.

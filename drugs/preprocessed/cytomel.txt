@@ -6,29 +6,21 @@ Cardiac function was evaluated in twenty patients requiring TSH suppression for 
 TSH suppression was associated with an increased incidence of premature ventricular beats, an increased left ventricular mass index, and enhanced left ventricular systolic function.
 The clinical significance of these changes remains to be determined.
 Cardiovascular side effects of thyroid hormone therapy have included palpitations, hypertension, tachycardia, and angina, all of which may be exacerbated in patients with underlying cardiovascular disorders.
-In the treatment of myxedema coma/precoma, cardiovascular side effects associated with the use of intravenous liothyronine have included arrhythmia (6%), tachycardia (3%), cardiopulmonary arrest (2%), hypotension (2%), and myocardial infarction (2%).
-Angina, congestive heart failure, hypertension, and phlebitis have occurred in approximately 1% or fewer of patients.
+In the treatment of myxedema coma/precoma, cardiovascular side effects associated with the use of intravenous liothyronine have included arrhythmia , tachycardia , cardiopulmonary arrest , hypotension , and myocardial infarction .
+Angina, congestive heart failure, hypertension, and phlebitis have occurred in approximately  or fewer of patients.
 Endocrine side effects of thyroid hormone therapy have included changes in symptom presentation for diabetes and adrenal cortical insufficiency.
 Treatment measures of these conditions may require adjustment.
 Nervous system side effects of thyroid hormone therapy have rarely included seizures during initiation of therapy.
-In the treatment of myxedema coma/precoma, twitching has been reported in approximately 1% or fewer of patients treated with intravenous liothyronine (the active ingredient contained in Cytomel) 
+In the treatment of myxedema coma/precoma, twitching has been reported in approximately  or fewer of patients treated with intravenous liothyronine (the active ingredient contained in Cytomel) 
 Dermatologic side effects of thyroid hormone therapy have included transient hair loss during the initial months of therapy.
 Rarely, allergic skin reactions have been reported with liothyronine (the active ingredient contained in Cytomel) 
 Musculoskeletal side effects of thyroid hormone therapy have included an increased risk of osteoporosis.
 However, data from long-term studies are conflicting.
-A study evaluated the effect of long-term thyroid hormone therapy on bone mineral density in 196 women (mean age, 74.
-4 years) compared to a control group comprised of 795 women (mean age, 72.
-1 years).
-The mean daily thyroxine dose was 1.
-99 mcg/kg (range, 0.
-3 to 6.
-6 mcg/kg) and the mean duration of therapy was 20.
-4 years (range, less than 1 to 68 years).
-Women taking daily doses of 1.
-6 mcg/kg or more had significantly lower bone mineral density levels at the ultradistal radius, midshaft radius, hip, and lumbar spine compared to controls.
+A study evaluated the effect of long-term thyroid hormone therapy on bone mineral density in  women (mean age,  years) compared to a control group comprised of  women (mean age,  years).
+The mean daily thyroxine dose was  mcg/kg (range,  to  mcg/kg) and the mean duration of therapy was  years (range, less than  to  years).
+Women taking daily doses of  mcg/kg or more had significantly lower bone mineral density levels at the ultradistal radius, midshaft radius, hip, and lumbar spine compared to controls.
 However, estrogen use appeared to negate the adverse effects of thyroid hormone on bone mineral density.
-Higher rates of femur fractures have been found in males (p=0.
-008) prescribed long-term thyroid hormone therapy as compared to controls in a case-control analysis of 23,183 patients from the United Kingdom General Practice Research Database.
+Higher rates of femur fractures have been found in males (p=) prescribed long-term thyroid hormone therapy as compared to controls in a case-control analysis of , patients from the United Kingdom General Practice Research Database.
 intravenous injectable, intravenous solution
 Arm, back or jaw pain
 changes in appetite

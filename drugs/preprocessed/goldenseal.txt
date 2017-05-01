@@ -28,13 +28,13 @@ Call your doctor if the condition you are treating with goldenseal does not impr
 Store at room temperature away from moisture and heat.
 Skip the missed dose if it is almost time for your next scheduled dose.
 Do not use extra goldenseal to make up the missed dose.
-Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.
+Seek emergency medical attention or call the Poison Help line at ---
 Follow your healthcare provider's instructions about any restrictions on food, beverages, or activity.
 Get emergency medical help if you have signs of an allergic reaction: hives; difficulty breathing; swelling of your face, lips, tongue, or throat.
 Although not all side effects are known, goldenseal is thought to be possibly safe when taken as a single dose.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at --FDA-
 Do not take goldenseal without medical advice if you are using a medication to treat any of the following conditions:
 any type of infection (including HIV, malaria, or tuberculosis);
 anxiety or depression;
@@ -51,11 +51,9 @@ seizures.
 This list is not complete.
 Other drugs may interact with goldenseal, including prescription and over-the-counter medicines, vitamins, and herbal products.
 Not all possible interactions are listed in this medication guide.
-Copyright 1996-2012 Cerner Multum, Inc.
-Version: 5.
-01.
-
-Date modified: April 03, 2017Last reviewed: March 16, 2015
+Copyright - Cerner Multum, Inc.
+Version: .
+Date modified: April , Last reviewed: March , 
 any type of infection (including HIV, malaria, or tuberculosis);
 anxiety or depression;
 asthma or allergies;

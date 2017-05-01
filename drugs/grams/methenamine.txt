@@ -1,0 +1,41 @@
+drug
+minor side effects
+patients
+drug
+rash
+pruritusfrequency
+generalized skin rash
+gastric irritationfrequency
+nausea
+vomiting
+upset stomach
+stomatitis
+gastrointestinal disturbances
+diarrhea
+abdominal cramping
+high doses
+albuminuria
+gross hematuria
+bladder irritation
+painful/frequent micturition
+bladder irritationfrequency
+dysuria
+hematuria
+urinary frequency
+albuminuria
+frequency
+elevated ast
+elevated alt
+frequency
+hypersensitivity reactions
+frequency
+anorexia
+frequency
+anterior uveitis
+skin rash
+blood in urine
+lower back pain
+pain
+burning
+urinating
+nausea and vomiting

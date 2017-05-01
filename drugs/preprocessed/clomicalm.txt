@@ -1,55 +1,24 @@
 Commonly reported side effects of clomipramine include: constipation, dizziness, drowsiness, dyspepsia, ejaculatory disorder, fatigue, headache, insomnia, myoclonus, nausea, nervousness, paresthesia, tremor, urination disorder, visual disturbance, weight gain, anorexia, diaphoresis, and xerostomia.
 Other side effects include: anxiety, fever, hot flash, hypertonia, memory impairment, muscle twitching, non-puerperal lactation, orthostatic hypotension, pruritus, skin rash, sleep disorder, tachycardia, tinnitus, vomiting, flushing, and taste disorder.
 See below for a comprehensive list of adverse effects.
-Very common (10% or more): Somnolence (up to 54%), tremor (up to 54%), dizziness (up to 54%), headache (up to 52%), nervousness (up to 18%), myoclonus (up to 13%)Common (1% to 10%): Paraesthesia, twitching, hypertonia, confusion, speech disorder, migraine, paresis, taste perversion, abnormal thinking, vertigoUncommon (0.
-1% to 1%): Abnormal coordination, abnormal EEG, abnormal gait, ataxia, coma, convulsions, dyskinesia, dysphonia, encephalopathy, euphoria, extrapyramidal disorder, hyperkinesia, hypokinesia, neuralgia, sensory disturbance, somnambulism, stimulationRare (less than 0.
-1%): Cerebral hemorrhage, anticholinergic syndrome, aphasia, apraxia, cholinergic syndrome, choreoathetosis, generalized spasm, hemiparesis, hyperesthesia, hyperreflexia, hypoesthesia, indecisiveness, neuropathy, nystagmus, oculomotor nerve paralysis, stuporFrequency not reported: Neuroleptic malignant syndrome
-Common (1% to 10%): Flushing, chest pain, postural hypotension, palpitation, tachycardia, syncopeUncommon (0.
-1% to 1%): Abnormal ECG, arrhythmia, bradycardia, cardiac arrest, extrasystoles, pallor, increased blood pressure Rare (less than 0.
-1%): Cyanosis, aneurysm, atrial flutter, bundle branch block, cardiac failure, heart block, myocardial infarction, myocardial ischemia, peripheral ischemia, thrombophlebitis, vasospasm, ventricular tachycardia
-Very common (10% or more): Insomnia (up to 25%)Common (1% to 10%): Anxiety, memory impairment, impaired concentration, depression, sleep disorder, psychosomatic disorder, abnormal dreaming, agitation, depersonalization, irritability, emotional lability, panic reaction, aggressive reactionUncommon (0.
-1% to 1%): Delirium, delusion, apathy, euphoria, catalepsy, illusion, impaired impulse control, mutism, oculogyric crisis, hallucinations, hostility, hypnagogic hallucinations, manic reaction, paranoia, phobic disorder, suicidal ideation, suicide attempt, psychosisRare (less than 0.
-1%): Withdrawal syndrome, schizophrenic reaction
-Very common (10% or more): Dry mouth (up to 84%), constipation (up to 47%), nausea (up to 33%), dyspepsia (up to 22%), diarrhea (up to 13%), abdominal pain (up to 11%)Common (1% to 10%): Vomiting, flatulence, tooth disorder, gastrointestinal disorder, dysphagia, esophagitis, eructation, ulcerative stomatitis, halitosisUncommon (0.
-1% to 1%): Blood in stool, teeth-grinding, colitis, duodenitis, gastric ulcer, gastritis, gastroesophageal reflux, gingivitis, glossitis, hemorrhoids, increased saliva, irritable bowel syndrome, peptic ulcer, rectal hemorrhage, tongue ulceration, tooth cariesRare (less than 0.
-1%): Cheilitis, chronic enteritis, discolored feces, gastric dilatation, gingival bleeding, hiccup, intestinal obstruction, oral/pharyngeal edema, paralytic ileus, salivary gland enlargement
+Very common ( or more): Somnolence (up to ), tremor (up to ), dizziness (up to ), headache (up to ), nervousness (up to ), myoclonus (up to )Common ( to ): Paraesthesia, twitching, hypertonia, confusion, speech disorder, migraine, paresis, taste perversion, abnormal thinking, vertigoUncommon ( to ): Abnormal coordination, abnormal EEG, abnormal gait, ataxia, coma, convulsions, dyskinesia, dysphonia, encephalopathy, euphoria, extrapyramidal disorder, hyperkinesia, hypokinesia, neuralgia, sensory disturbance, somnambulism, stimulationRare (less than ): Cerebral hemorrhage, anticholinergic syndrome, aphasia, apraxia, cholinergic syndrome, choreoathetosis, generalized spasm, hemiparesis, hyperesthesia, hyperreflexia, hypoesthesia, indecisiveness, neuropathy, nystagmus, oculomotor nerve paralysis, stuporFrequency not reported: Neuroleptic malignant syndrome
+Common ( to ): Flushing, chest pain, postural hypotension, palpitation, tachycardia, syncopeUncommon ( to ): Abnormal ECG, arrhythmia, bradycardia, cardiac arrest, extrasystoles, pallor, increased blood pressure Rare (less than ): Cyanosis, aneurysm, atrial flutter, bundle branch block, cardiac failure, heart block, myocardial infarction, myocardial ischemia, peripheral ischemia, thrombophlebitis, vasospasm, ventricular tachycardia
+Very common ( or more): Insomnia (up to )Common ( to ): Anxiety, memory impairment, impaired concentration, depression, sleep disorder, psychosomatic disorder, abnormal dreaming, agitation, depersonalization, irritability, emotional lability, panic reaction, aggressive reactionUncommon ( to ): Delirium, delusion, apathy, euphoria, catalepsy, illusion, impaired impulse control, mutism, oculogyric crisis, hallucinations, hostility, hypnagogic hallucinations, manic reaction, paranoia, phobic disorder, suicidal ideation, suicide attempt, psychosisRare (less than ): Withdrawal syndrome, schizophrenic reaction
+Very common ( or more): Dry mouth (up to ), constipation (up to ), nausea (up to ), dyspepsia (up to ), diarrhea (up to ), abdominal pain (up to )Common ( to ): Vomiting, flatulence, tooth disorder, gastrointestinal disorder, dysphagia, esophagitis, eructation, ulcerative stomatitis, halitosisUncommon ( to ): Blood in stool, teeth-grinding, colitis, duodenitis, gastric ulcer, gastritis, gastroesophageal reflux, gingivitis, glossitis, hemorrhoids, increased saliva, irritable bowel syndrome, peptic ulcer, rectal hemorrhage, tongue ulceration, tooth cariesRare (less than ): Cheilitis, chronic enteritis, discolored feces, gastric dilatation, gingival bleeding, hiccup, intestinal obstruction, oral/pharyngeal edema, paralytic ileus, salivary gland enlargement
 The most commonly reported side effects were somnolence, tremor, dizziness, headache, dry mouth, constipation, and nausea.
-Very common (10% or more): Libido change (up to 21%), micturition disorder (up to 14%), dysmenorrhea (up to 12%)Common (1% to 10%): Urinary tract infection, micturition frequency, urinary retention, dysuria, cystitis, lactation (nonpuerperal), menstrual disorder, vaginitis, leukorrhea, breast enlargement, breast pain, amenorrhea, ejaculation failure, impotenceUncommon (0.
-1% to 1%): Endometriosis, epididymitis, hematuria, nocturia, oliguria, ovarian cyst, perineal pain, polyuria, prostatic disorder, urethral disorder, urinary incontinence, uterine hemorrhage, vaginal hemorrhageRare (less than 0.
-1%): Albuminuria, anorgasmy, breast engorgement, breast fibroadenosis, cervical dysplasia, endometrial hyperplasia, premature ejaculation, pyelonephritis, pyuria, uterine inflammation, vulvar disorder
-Common (1% to 10%): Purpura, anemiaUncommon (0.
-1% to 1%): LymphadenopathyRare (less than 0.
-1%): Leukemoid reaction, lymphoma-like disorder, marrow depressionVery rare (less than 0.
-01%): Leucopenia, agranulocytosis, thrombocytopenia, eosinophilia
-Common (1% to 10%): Hot flushes, galactorrheaUncommon (0.
-1% to 1%): HypothyroidismRare (less than 0.
-1%): Goiter, gynecomastia, hyperthyroidismVery rare (less than 0.
-01%): SIADH (inappropriate antidiuretic hormone secretion syndrome)Frequency not reported: Increased blood prolactin
-Uncommon (0.
-1% to 1%): Abnormal hepatic function, hepatitis
-Very common (10% or more): Increased sweating (up to 29%)Common (1% to 10%): Rash, pruritus, dermatitis, acne, dry skin, urticaria, abnormal skin odor
-Very common (10% or more): Fatigue (up to 39%)Common (1% to 10%): Fever, pain, local edema, chills, otitis media, asthenia, tinnitus, vestibular disorderUncommon (0.
-1% to 1%): Malaise, deafness, earache, foreign body sensation, hyperacusis, parosmiaRare (less than 0.
-1%): Dependent edema, labyrinth disorder
-Very common (10% or more): Weight increase (up to 18%), anorexia (up to 12%), increased appetite (up to 11%)Common (1% to 10%): Weight decrease, thirst, decreased appetiteUncommon (0.
-1%): Dehydration, diabetes mellitus, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypokalemiaRare (less than 0.
-1%): Fat intolerance, glycosuria
-Common (1% to 10%): AllergyVery rare (less than 0.
-01%): Anaphylactic and anaphylactoid reactions
-Very common (10% or more): Pharyngitis (up to 14%), rhinitis (up to 12%)Common (1% to 10%): Yawning, sinusitis, coughing, bronchospasm, epistaxis, dyspnea, laryngitisUncommon (0.
-1% to 1%): Bronchitis, hyperventilation, increased sputum, pneumoniaRare (less than 1%): Hemoptysis, hypoventilation, laryngismusVery rare (less than 0.
-01%): Pneumonitis
-Very common (10% or more): Abnormal vision (up to 18%)Common (1% to 10%): Abnormal lacrimation, mydriasis, conjunctivitis, anisocoria, blepharospasm, ocular allergyUncommon (0.
-1% to 1%): Abnormal accomodation, diplopia, eye pain, photophobia, scleritisRare (less than 0.
-1%): Blepharitis, chromatopsia, conjunctival hemorrhage, exophthalmos, glaucoma, keratitis, night blindness, retinal disorder, strabismus, visual field defectPostmarketing reports: Angle-closure glaucoma
-Very common (10% or more): Myalgia (13%)Common (1% to 10%): Back pain, arthralgia, muscle weaknessUncommon (0.
-1% to 1%): ArthrosisRare (less than 0.
-1%): Dystonia, exostosis, myopathy, myositis, polyarteritis nodosa, torticollisFrequency nor reported: Rhabdomyolysis
-Uncommon (0.
-1% to 1%): Increased susceptibility to infection
-Uncommon (0.
-1% to 1%): Renal calculus, renal painRare (less than 0.
-1%): Renal cyst
+Very common ( or more): Libido change (up to ), micturition disorder (up to ), dysmenorrhea (up to )Common ( to ): Urinary tract infection, micturition frequency, urinary retention, dysuria, cystitis, lactation (nonpuerperal), menstrual disorder, vaginitis, leukorrhea, breast enlargement, breast pain, amenorrhea, ejaculation failure, impotenceUncommon ( to ): Endometriosis, epididymitis, hematuria, nocturia, oliguria, ovarian cyst, perineal pain, polyuria, prostatic disorder, urethral disorder, urinary incontinence, uterine hemorrhage, vaginal hemorrhageRare (less than ): Albuminuria, anorgasmy, breast engorgement, breast fibroadenosis, cervical dysplasia, endometrial hyperplasia, premature ejaculation, pyelonephritis, pyuria, uterine inflammation, vulvar disorder
+Common ( to ): Purpura, anemiaUncommon ( to ): LymphadenopathyRare (less than ): Leukemoid reaction, lymphoma-like disorder, marrow depressionVery rare (less than ): Leucopenia, agranulocytosis, thrombocytopenia, eosinophilia
+Common ( to ): Hot flushes, galactorrheaUncommon ( to ): HypothyroidismRare (less than ): Goiter, gynecomastia, hyperthyroidismVery rare (less than ): SIADH (inappropriate antidiuretic hormone secretion syndrome)Frequency not reported: Increased blood prolactin
+Uncommon ( to ): Abnormal hepatic function, hepatitis
+Very common ( or more): Increased sweating (up to )Common ( to ): Rash, pruritus, dermatitis, acne, dry skin, urticaria, abnormal skin odor
+Very common ( or more): Fatigue (up to )Common ( to ): Fever, pain, local edema, chills, otitis media, asthenia, tinnitus, vestibular disorderUncommon ( to ): Malaise, deafness, earache, foreign body sensation, hyperacusis, parosmiaRare (less than ): Dependent edema, labyrinth disorder
+Very common ( or more): Weight increase (up to ), anorexia (up to ), increased appetite (up to )Common ( to ): Weight decrease, thirst, decreased appetiteUncommon : Dehydration, diabetes mellitus, gout, hypercholesterolemia, hyperglycemia, hyperuricemia, hypokalemiaRare (less than ): Fat intolerance, glycosuria
+Common ( to ): AllergyVery rare (less than ): Anaphylactic and anaphylactoid reactions
+Very common ( or more): Pharyngitis (up to ), rhinitis (up to )Common ( to ): Yawning, sinusitis, coughing, bronchospasm, epistaxis, dyspnea, laryngitisUncommon ( to ): Bronchitis, hyperventilation, increased sputum, pneumoniaRare (less than ): Hemoptysis, hypoventilation, laryngismusVery rare (less than ): Pneumonitis
+Very common ( or more): Abnormal vision (up to )Common ( to ): Abnormal lacrimation, mydriasis, conjunctivitis, anisocoria, blepharospasm, ocular allergyUncommon ( to ): Abnormal accomodation, diplopia, eye pain, photophobia, scleritisRare (less than ): Blepharitis, chromatopsia, conjunctival hemorrhage, exophthalmos, glaucoma, keratitis, night blindness, retinal disorder, strabismus, visual field defectPostmarketing reports: Angle-closure glaucoma
+Very common ( or more): Myalgia Common ( to ): Back pain, arthralgia, muscle weaknessUncommon ( to ): ArthrosisRare (less than ): Dystonia, exostosis, myopathy, myositis, polyarteritis nodosa, torticollisFrequency nor reported: Rhabdomyolysis
+Uncommon ( to ): Increased susceptibility to infection
+Uncommon ( to ): Renal calculus, renal painRare (less than ): Renal cyst
 Bladder pain
 bloody or cloudy urine
 blurred vision

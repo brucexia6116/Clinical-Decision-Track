@@ -1,33 +1,19 @@
-Very common (10% or more): Elevated blood pressure (up to 96%), hypertension (up to 61%)Common (1% to 10%): Hypotension, venous thromboembolism, arterial thromboembolism, atrial fibrillationUncommon (0.
-1% to 1%): Angina pectoris, supraventricular tachycardia, shortened activated partial thromboplastin timeFrequency not reported: QT interval prolongation
-Very common (10% or more): Increased ALT (up to 86%), increased AST (up to 86%), increased alkaline phosphatase (up to 52%), hyperbilirubinemia (up to 25%)Common (1% to 10%): CholelithiasisUncommon (0.
-1% to 1%): Hepatic encephalopathy
-Very common (10% or more): Diarrhea (up to 63%), stomatitis (up to 51%), nausea (up to 43%), oral pain (up to 36%), constipation (up to 27%), abdominal pain (up to 27%), vomiting (up to 24%), dysphagia (up to 13%), dyspepsia (up to 11%), glossodyniaCommon (1% to 10%): Hemorrhoids, GI perforation, GI fistula, GI hemorrhage, pancreatitis, anal fissure, anal inflammation, cheilitisUncommon (0.
-1% to 1%): Esophagitis
-Very common (10% or more): Increased blood thyroid stimulating hormone (up to 57%)Common (1% to 10%): HypothyroidismUncommon (0.
-1% to 1%): Amenorrhea
-Very common (10% or more): Lymphopenia (up to 53%), neutropenia (up to 35%), thrombocytopenia (up to 35%)Uncommon (0.
-1% to 1%): Increased eosinophil count, increased platelet count
-Very common (10% or more): Palmar-plantar erythrodysesthesia syndrome (up to 50%), hair color changes/depigmentation/graying (up to 34%), rash (up to 19%), dry skin (up to 19%), alopecia (up to 16%), erythema (up to 11%)Common (1% to 10%): Hyperkeratosis, folliculitis, acne, blister, abnormal hair growth, skin exfoliation, skin hypopigmentationUncommon (0.
-1% to 1%): Skin ulcer, telangiectasia
-Very common (10% or more): Decreased weight (up to 48%), decreased appetite (up to 46%), hypocalcemia (up to 52%), hypophosphatemia (up to 28%), hypomagnesemia (up to 19%), hypokalemia (up to 18%), hyponatremia (up to 10%), increased blood lactate dehydrogenase, increased blood creatinine phosphokinaseCommon (1% to 10%): Dehydration, hypoalbuminemia
-Very common (10% or more): Fatigue (up to 41%), asthenia (up to 21%), mucosal inflammationCommon (1% to 10%): Abscess (including visceral, intra-abdominal, skin, tooth), fungal infection (including skin, oral, genital), ear pain, tinnitus, pallor, peripheral coldness, impaired wound healing/wound complications, chills, face edemaUncommon (0.
-1% to 1%): Aspergilloma, hypoacusis, cyst, facial pain, localized edemaFrequency not reported: Hemorrhage
-Very common (10% or more): Dysgeusia (up to 34%), headache (up to 18%), dizziness (up to 14%)Common (1% to 10%): Paresthesia, peripheral sensory neuropathy, peripheral neuropathy, ageusia, tremorUncommon (0.
-1% to 1%): Reversible posterior leukoencephalopathy syndrome, ataxia, attention disturbance, loss of consciousness, speech disorder, transient ischemic attack
-Very common (10% or more): Arthralgia (up to 14%), muscle spasms (up to 12%)Common (1% to 10%): Musculoskeletal chest pain, osteonecrosis of the jawUncommon (0.
-1% to 1%): Rhabdomyolysis
-Patients should be closely monitored for the first 8 weeks as most adverse events have occurred early in the course of treatment.
-Common (1% to 10%): Proteinuria, dysuria, hematuriaUncommon (0.
-1% to 1%): Vaginal hemorrhage
-Common (1% to 10%): Blurred visionUncommon (0.
-1% to 1%): Cataract, conjunctivitis
-Common (1% to 10%): Anxiety, depression, confusional stateUncommon (0.
-1% to 1%): Abnormal dreams, delirium
-Very common (10% or more): Dysphonia (up to 20%),oropharyngeal painCommon (1% to 10%): Non-GI fistula (including tracheal, pneumomediastinum, tracheo-esophageal), pulmonary embolism, respiratory tract hemorrhage (including pulmonary, bronchial, tracheal), pneumonia, pneumonia aspirationUncommon (0.
-1% to 1%): Atelectasis, pharyngeal edema, pneumonitis
-Uncommon (0.
-1% to 1%): Acute renal failure
+Very common ( or more): Elevated blood pressure (up to ), hypertension (up to )Common ( to ): Hypotension, venous thromboembolism, arterial thromboembolism, atrial fibrillationUncommon ( to ): Angina pectoris, supraventricular tachycardia, shortened activated partial thromboplastin timeFrequency not reported: QT interval prolongation
+Very common ( or more): Increased ALT (up to ), increased AST (up to ), increased alkaline phosphatase (up to ), hyperbilirubinemia (up to )Common ( to ): CholelithiasisUncommon ( to ): Hepatic encephalopathy
+Very common ( or more): Diarrhea (up to ), stomatitis (up to ), nausea (up to ), oral pain (up to ), constipation (up to ), abdominal pain (up to ), vomiting (up to ), dysphagia (up to ), dyspepsia (up to ), glossodyniaCommon ( to ): Hemorrhoids, GI perforation, GI fistula, GI hemorrhage, pancreatitis, anal fissure, anal inflammation, cheilitisUncommon ( to ): Esophagitis
+Very common ( or more): Increased blood thyroid stimulating hormone (up to )Common ( to ): HypothyroidismUncommon ( to ): Amenorrhea
+Very common ( or more): Lymphopenia (up to ), neutropenia (up to ), thrombocytopenia (up to )Uncommon ( to ): Increased eosinophil count, increased platelet count
+Very common ( or more): Palmar-plantar erythrodysesthesia syndrome (up to ), hair color changes/depigmentation/graying (up to ), rash (up to ), dry skin (up to ), alopecia (up to ), erythema (up to )Common ( to ): Hyperkeratosis, folliculitis, acne, blister, abnormal hair growth, skin exfoliation, skin hypopigmentationUncommon ( to ): Skin ulcer, telangiectasia
+Very common ( or more): Decreased weight (up to ), decreased appetite (up to ), hypocalcemia (up to ), hypophosphatemia (up to ), hypomagnesemia (up to ), hypokalemia (up to ), hyponatremia (up to ), increased blood lactate dehydrogenase, increased blood creatinine phosphokinaseCommon ( to ): Dehydration, hypoalbuminemia
+Very common ( or more): Fatigue (up to ), asthenia (up to ), mucosal inflammationCommon ( to ): Abscess (including visceral, intra-abdominal, skin, tooth), fungal infection (including skin, oral, genital), ear pain, tinnitus, pallor, peripheral coldness, impaired wound healing/wound complications, chills, face edemaUncommon ( to ): Aspergilloma, hypoacusis, cyst, facial pain, localized edemaFrequency not reported: Hemorrhage
+Very common ( or more): Dysgeusia (up to ), headache (up to ), dizziness (up to )Common ( to ): Paresthesia, peripheral sensory neuropathy, peripheral neuropathy, ageusia, tremorUncommon ( to ): Reversible posterior leukoencephalopathy syndrome, ataxia, attention disturbance, loss of consciousness, speech disorder, transient ischemic attack
+Very common ( or more): Arthralgia (up to ), muscle spasms (up to )Common ( to ): Musculoskeletal chest pain, osteonecrosis of the jawUncommon ( to ): Rhabdomyolysis
+Patients should be closely monitored for the first  weeks as most adverse events have occurred early in the course of treatment.
+Common ( to ): Proteinuria, dysuria, hematuriaUncommon ( to ): Vaginal hemorrhage
+Common ( to ): Blurred visionUncommon ( to ): Cataract, conjunctivitis
+Common ( to ): Anxiety, depression, confusional stateUncommon ( to ): Abnormal dreams, delirium
+Very common ( or more): Dysphonia (up to ),oropharyngeal painCommon ( to ): Non-GI fistula (including tracheal, pneumomediastinum, tracheo-esophageal), pulmonary embolism, respiratory tract hemorrhage (including pulmonary, bronchial, tracheal), pneumonia, pneumonia aspirationUncommon ( to ): Atelectasis, pharyngeal edema, pneumonitis
+Uncommon ( to ): Acute renal failure
 Blurred vision
 burning, numbness, tingling, or painful sensations
 dehydration

@@ -5,14 +5,10 @@ The most frequently expected adverse reactions based on the individual component
 Acetaminophen: Frequency not reported: Hepatotoxicity
 Dihydrocodeine: Frequency not reported: Respiratory depression, cough suppression
 Dihydrocodeine: Frequency not reported: Confusion, physical and psychological dependence, hallucinations vivid dreamsCaffeine: Frequency not reported: Anxiety, anxiety neurosis, excitement, insomnia, irritability, restlessness, tenseness
-Dihydrocodeine: Frequency not reported: Sweating, pruritus, skin reactions Acetaminophen:Rare (less than 0.
-1%): Serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN) Caffeine: Frequency not reported: Urticaria
-Dihydrocodeine: Frequency not reported: Anaphylactoid reactions, hypersensitivity reactionsAcetaminophen: Rare (less than 0.
-1%): Anaphylactoid reactions Frequency not reported: Hypersensitivity reactions including urticarial or erythematous skin reactions, laryngeal edema, angioedema
-Postmarketing reports: Serotonin syndromeDihydrocodeine: Rare (less than 0.
-1%): NarcosisFrequency not reported: Lightheadedness, dizziness, drowsiness, sedation, headacheCaffeine: Frequency not reported: Headaches, lightheadedness, tremor
-Dihydrocodeine:Rare (less than 0.
-1%): Acute renal failureFrequency not reported: Granulomatous interstitial nephritisCaffeine: Frequency not reported: Diuresis
+Dihydrocodeine: Frequency not reported: Sweating, pruritus, skin reactions Acetaminophen:Rare (less than ): Serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN) Caffeine: Frequency not reported: Urticaria
+Dihydrocodeine: Frequency not reported: Anaphylactoid reactions, hypersensitivity reactionsAcetaminophen: Rare (less than ): Anaphylactoid reactions Frequency not reported: Hypersensitivity reactions including urticarial or erythematous skin reactions, laryngeal edema, angioedema
+Postmarketing reports: Serotonin syndromeDihydrocodeine: Rare (less than ): NarcosisFrequency not reported: Lightheadedness, dizziness, drowsiness, sedation, headacheCaffeine: Frequency not reported: Headaches, lightheadedness, tremor
+Dihydrocodeine:Rare (less than ): Acute renal failureFrequency not reported: Granulomatous interstitial nephritisCaffeine: Frequency not reported: Diuresis
 Dihydrocodeine: Frequency not reported: Orthostatic hypotensionCaffeine: Frequency not reported: Extrasystoles, palpitations, tachycardia
 Postmarketing reports: Adrenal insufficiencyOpioids: Frequency not reported: Androgen deficiency
 Chronic opioid use may influence the hypothalamic-pituitary-gonadal axis and lead to androgen deficiency; however, the causal role of opioids is unknown due to the lack of studies into the many medical, physical, lifestyle, and psychological stressors that influence gonadal hormone levels.

@@ -2,30 +2,23 @@ Common side effects of Zykadia include: abdominal pain, diarrhea, hyperglycemia,
 Other side effects include: interstitial pulmonary disease, pneumonitis, and prolonged qt interval on ecg.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, ceritinib (the active ingredient contained in Zykadia) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking ceritinib, check with your doctor immediately:
 Some ceritinib side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-The most common side effect resulting in dose reductions or interruptions were increased ALT (29%), nausea (20%), increased AST (16%), diarrhea (16%), and vomiting (16%).
+The most common side effect resulting in dose reductions or interruptions were increased ALT , nausea , increased AST , diarrhea , and vomiting .
 The most common side effects leading to discontinuation were pneumonia, interstitial lung disease/pneumonitis, and decreased appetite.
-Very common (10% or more): Diarrhea (86%), nausea (80%), vomiting (60%), abdominal pain (54%), constipation (29%), esophageal disorder (16%)Rare (less than 0.
-1%): Gastrointestinal hemorrhage
-Very Common (10% or more): Hemoglobin decreased (84%), phosphate decreased (36%)
-Very Common (10% or more): ALT increased (80%), AST increased (75%), bilirubin increased (15%)
-Very Common (10% or more): Creatinine increased (58%), phosphate decreased (36%)
-Very common (10% or more): Decreased appetite (34%), glucose increased (49%), lipase increased (28%)
-Very common (10% or more): Rash (16%)
-Common (1% to 10%): Interstitial lung disease/pneumonitisRare (0.
-01% than 0.
-1%): Respiratory failure, pneumothorax, pulmonary tuberculosis
-Very common (10% or more): Neuropathy (17%)
-Common (1% to 10%): Vision disorder
-Common (1% to 10%): Prolonged QT, bradycardiaRare (less than 0.
-1%): Cardiac tamponade
-Very common (10% or more): Fatigue (52%)Uncommon (0.
-1% to 1%): General physical health deteriorationRare (less than 0.
-1%): Sepsis
+Very common ( or more): Diarrhea , nausea , vomiting , abdominal pain , constipation , esophageal disorder Rare (less than ): Gastrointestinal hemorrhage
+Very Common ( or more): Hemoglobin decreased , phosphate decreased 
+Very Common ( or more): ALT increased , AST increased , bilirubin increased 
+Very Common ( or more): Creatinine increased , phosphate decreased 
+Very common ( or more): Decreased appetite , glucose increased , lipase increased 
+Very common ( or more): Rash 
+Common ( to ): Interstitial lung disease/pneumonitisRare ( than ): Respiratory failure, pneumothorax, pulmonary tuberculosis
+Very common ( or more): Neuropathy 
+Common ( to ): Vision disorder
+Common ( to ): Prolonged QT, bradycardiaRare (less than ): Cardiac tamponade
+Very common ( or more): Fatigue Uncommon ( to ): General physical health deteriorationRare (less than ): Sepsis
 It is possible that some side effects of Zykadia may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

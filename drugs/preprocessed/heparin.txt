@@ -5,44 +5,39 @@ Hematologic side effects including hemorrhage at any site have been reported the
 These have included hematomas, melena, hematuria, and less frequently, ecchymoses, epistaxis, and hematemesis.
 Compression neuropathy and nerve paralysis from local bleeding and/or hematoma, fatal rectal sheath hematomas, intracranial hemorrhage, and other serious bleeding events have been reported.
 Adrenal hemorrhage, ovarian hemorrhage, and retroperitoneal hemorrhage have been reported.
-Thrombocytopenia has been reported in up to 30% of patients.
+Thrombocytopenia has been reported in up to  of patients.
 Heparin-induced thrombocytopenia (HIT), heparin-induced thrombocytopenia and thrombosis (HITT), and delayed onset HIT and HITT have been reported.
-The risk of bleeding has been reported to be increased in women over 60 years of age.
+The risk of bleeding has been reported to be increased in women over  years of age.
 Other risk factors have included administration by intermittent intravenous injection, a serious comorbid condition or history of alcohol abuse, concomitant use of aspirin, or advanced age.
-In addition, patients previously exposed to unfractionated heparin or a low-molecular-weight heparin appear to be more susceptible to developing heparin-induced thrombocytopenia (HIT) and HIT-related thromboembolic complications (e.
-g.
-, transient ischemic attack, stroke) than those who were never exposed.
+In addition, patients previously exposed to unfractionated heparin or a low-molecular-weight heparin appear to be more susceptible to developing heparin-induced thrombocytopenia (HIT) and HIT-related thromboembolic complications (, transient ischemic attack, stroke) than those who were never exposed.
 There are two types of heparin-induced thrombocytopenia (HIT).
-Type I, sometimes called heparin-associated thrombocytopenia, occurs in approximately 10% to 20% of patients treated with heparin and is a nonimmunogenic response to heparin.
+Type I, sometimes called heparin-associated thrombocytopenia, occurs in approximately  to  of patients treated with heparin and is a nonimmunogenic response to heparin.
 Type I is not progressive, not associated with bleeding or thrombosis, and does not require special treatment.
 Platelet counts usually recover within a few days even if heparin therapy is continued.
-Type II HIT is an immune-mediated, prothrombotic reaction that occurs in 0.
-5% to 5% of patients treated with unfractionated heparin and in less than 1% of patients treated with a low molecular weight heparin (LMWH).
-An overall mortality of 20% to 30% has been reported in patients who develop HIT type II.
-The decrease in platelet count associated with HIT usually begins 5 to 14 days after starting heparin.
-However, patients with a previous exposure (within past 100 days) to heparin may still have HIT antibodies circulating which can result in an abrupt (within 30 minutes of an IV bolus) decrease in platelets upon restarting heparin.
-Another phenomenon known as delayed-onset HIT can also occur 9 to 40 days after heparin is stopped.
-This typically occurs in patients exposed to heparin in the recent past (previous 2 weeks).
+Type II HIT is an immune-mediated, prothrombotic reaction that occurs in  to  of patients treated with unfractionated heparin and in less than  of patients treated with a low molecular weight heparin (LMWH).
+An overall mortality of  to  has been reported in patients who develop HIT type II.
+The decrease in platelet count associated with HIT usually begins  to  days after starting heparin.
+However, patients with a previous exposure (within past  days) to heparin may still have HIT antibodies circulating which can result in an abrupt (within  minutes of an IV bolus) decrease in platelets upon restarting heparin.
+Another phenomenon known as delayed-onset HIT can also occur  to  days after heparin is stopped.
+This typically occurs in patients exposed to heparin in the recent past (previous  weeks).
 Patients with LMWH-induced HIT exhibit a longer delay in the onset of symptoms compared with those who have heparin-induced HIT.
-Following discontinuation, platelet counts begin to recover within 4 days, but may take more than 2 weeks in patients with high-titer HIT antibodies.
-Thrombocytopenia is caused by heparin-dependent IgG antibodies that bind to a specific platelet protein, platelet factor 4 (PF4).
-The heparin-PF4-IgG immune complex binds to platelets causing platelet activation.
+Following discontinuation, platelet counts begin to recover within  days, but may take more than  weeks in patients with high-titer HIT antibodies.
+Thrombocytopenia is caused by heparin-dependent IgG antibodies that bind to a specific platelet protein, platelet factor  (PF).
+The heparin-PF-IgG immune complex binds to platelets causing platelet activation.
 The activated platelets cause release of platelet-derived procoagulant microparticles, which accelerate coagulation reactions and generates thrombin.
-LMWHs have a high cross-reactivity with circulating heparin-PF4-IgG immune complex.
+LMWHs have a high cross-reactivity with circulating heparin-PF-IgG immune complex.
 Complications associated with HIT include exacerbation of venous thromboembolism, arterial or venous thrombosis, limb gangrene, stroke, and skin necrosis.
-Approximately 50% to 75% of patients with HIT develop symptomatic thrombosis.
+Approximately  to  of patients with HIT develop symptomatic thrombosis.
 The risk of HIT-associated thrombosis correlates with the magnitude of decrease in platelet count.
 Other factors associated with a higher risk for developing HIT-associated thrombosis include women, nonwhites, and lower body weight.
-In approximately 20% of HIT patients, thrombosis occurs 1 to 3 days before thrombocytopenia is detected.
-If HIT is suspected, treatment with the offending agent (e.
-g.
-, heparin, LMWH, including heparin flushes) should be discontinued immediately and the patient should be given an alternative anticoagulant such as a direct thrombin inhibitor (i.
+In approximately  of HIT patients, thrombosis occurs  to  days before thrombocytopenia is detected.
+If HIT is suspected, treatment with the offending agent (, heparin, LMWH, including heparin flushes) should be discontinued immediately and the patient should be given an alternative anticoagulant such as a direct thrombin inhibitor (i.
 e.
 , argatroban, bivalirudin, lepirudin) or fondaparinux.
 Use of a vitamin K antagonist (i.
 e.
 , warfarin) should be delayed until the platelet count returns to normal.
-The antibodies that cause HIT will usually disappear after approximately 3 months; therefore, use of heparin may be considered in a patient with a history of HIT if the antibody test is negative.
+The antibodies that cause HIT will usually disappear after approximately  months; therefore, use of heparin may be considered in a patient with a history of HIT if the antibody test is negative.
 There are data which support an increased risk of thrombocytopenia with bovine heparin.
 Cardiovascular side effects have included new or recurrent arterial and venous thrombosis in association with thrombocytopenia.
 This paradoxical effect, known as the "white clot syndrome", has resulted in cerebral vascular accident, pulmonary embolism, myocardial infarction, loss of limbs, and may be fatal.
@@ -56,15 +51,10 @@ Hypersensitivity side effects have included pruritic, inflammatory, papular, and
 Eosinophilia and delayed type hypersensitivity have also been reported.
 Hypersensitivity is thought to play a role in the pathogenesis of Type II heparin induced thrombocytopenia and thrombosis as well as skin necrosis.
 A case of adult respiratory distress syndrome in which hypersensitivity was suspected has been reported.
-Hepatic side effects reported in up to 60% of patients have included elevations in liver function enzymes.
-In one study of 86 patients, elevations in alanine aminotransferase (ALT) and aspartate aminotransferase (AST) occurred in 59.
-3% and 26.
-7% of patients, respectively.
-The average maximum increase was 3.
-6 times baseline for ALT and 3.
-1 times baseline for AST.
-Lactate dehydrogenase abnormalities were observed in 35.
-7% of patients.
+Hepatic side effects reported in up to  of patients have included elevations in liver function enzymes.
+In one study of  patients, elevations in alanine aminotransferase (ALT) and aspartate aminotransferase (AST) occurred in  and  of patients, respectively.
+The average maximum increase was  times baseline for ALT and  times baseline for AST.
+Lactate dehydrogenase abnormalities were observed in  of patients.
 Isoenzyme determinations in seven patients showed elevated hepatic fractions.
 In no case was there clinical evidence of hepatotoxicity.
 Endocrine side effects have included increased free thyroxine levels.
@@ -73,13 +63,11 @@ Hypoaldosteronism has been reported.
 The mechanism for increased free thyroxine levels appears to be displacement of thyroxine from binding sites by free fatty acids and may be more significant in patients with hypertriglyceridemia.
 Metabolic side effects have included hyperkalemia, hyponatremia, and hypertriglyceridemia.
 Musculoskeletal side effects have included osteoporosis.
-A study of 39 women given prophylactic heparin therapy during pregnancy revealed an almost 5% reduction in trabecular bone mass during treatment.
+A study of  women given prophylactic heparin therapy during pregnancy revealed an almost  reduction in trabecular bone mass during treatment.
 Although limited data are available, the osteoporotic effects of heparin are believed to be reversible.
-In a study involving pregnant women (n=120) requiring thromboprophylaxis, clinically significant bone loss (i.
+In a study involving pregnant women (n=) requiring thromboprophylaxis, clinically significant bone loss (i.
 e.
-, 10% or greater) in the femur occurred in approximately 2% to 2.
-5% of patients regardless if they received enoxaparin (68.
-4 mg/day) or unfractionated heparin (17,380 units/day) for approximately 26 to 27 weeks.
+,  or greater) in the femur occurred in approximately  to  of patients regardless if they received enoxaparin ( mg/day) or unfractionated heparin (, units/day) for approximately  to  weeks.
 Renal side effects have been reported rarely.
 A case of hemolytic uremic syndrome has been reported.
 Genitourinary side effects have been reported rarely.

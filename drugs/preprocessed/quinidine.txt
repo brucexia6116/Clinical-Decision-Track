@@ -1,5 +1,4 @@
 As well as its needed effects, quinidine may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking quinidine, check with your doctor immediately:
 Some quinidine side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
@@ -7,28 +6,28 @@ Your health care professional may be able to help you prevent or reduce these si
 Cinchonism may be classified as mild, moderate, or severe depending on symptoms.
 Mild cinchonism includes symptoms of blurred vision, transient deafness, anorexia, nausea, weakness, vertigo, tinnitus, diarrhea, and headache.
 Mild cinchonism does not always occur with higher dosages, nor does it preclude further quinidine therapy.
-Moderate cinchonism includes vomiting, hypotension, a 25% to 50% increase in QRS duration, and rare premature ventricular contractions.
-Severe cinchonism is characterized by myocardial toxicity such as malignant arrhythmias, QRS duration greater than 50%, high degree AV heart block, or cardiac arrest.
+Moderate cinchonism includes vomiting, hypotension, a  to  increase in QRS duration, and rare premature ventricular contractions.
+Severe cinchonism is characterized by myocardial toxicity such as malignant arrhythmias, QRS duration greater than , high degree AV heart block, or cardiac arrest.
 Quinidine side effects have varied from vague neurological and gastrointestinal complaints to myocardial toxicity.
 The most frequently reported symptoms have been diarrhea, nausea, and vomiting.
-The risk of toxicity is greater when plasma quinidine concentrations exceed 4 mg/L.
+The risk of toxicity is greater when plasma quinidine concentrations exceed  mg/L.
 Dose-related cinchonism may be the first sign of quinidine toxicity.
 Cinchonism refers to a syndrome caused by any of the cinchona alkaloids, including quinidine.
 It most often is a sign of chronic toxicity, but may occur after a single moderate dose in sensitive patients.
-Cardiovascular side effects have included hypotension, syncope, increased QRS duration (500 to 600 msec), and myocardial toxicity.
-Tachyarrhythmia has occurred in approximately 2% of patients.
+Cardiovascular side effects have included hypotension, syncope, increased QRS duration ( to  msec), and myocardial toxicity.
+Tachyarrhythmia has occurred in approximately  of patients.
 Quinidine-induced long QT syndrome has resulted in rare cases of torsades de pointes.
-Myocardial toxicity may present as malignant arrhythmias, increased QRS duration of greater than 50%, high degree AV heart block, or cardiac arrest.
+Myocardial toxicity may present as malignant arrhythmias, increased QRS duration of greater than , high degree AV heart block, or cardiac arrest.
 Quinidine may significantly decrease stroke volume and cardiac output.
 Routine use following myocardial infarction is not recommended in view of the Cardiac Arrhythmia Suppression Trial (CAST) data.
 The use of quinidine to prevent atrial fibrillation in patients with chronic atrial fibrillation is somewhat controversial.
 A large, randomized, controlled study comparing quinidine to placebo has shown no difference in efficacy and no demonstrable reduction in overall mortality in treated patients.
 The crude mortality rate was greater in patients treated with quinidine relative to patients treated with placebo.
 Gastrointestinal side effects have been the most frequently reported adverse effects.
-Anorexia, nausea, vomiting, and diarrhea occurred in up to 30% of patients.
+Anorexia, nausea, vomiting, and diarrhea occurred in up to  of patients.
 Quinidine pill esophagitis has been reported.
 Nausea, vomiting, and diarrhea may be part of the cinchonism syndrome resulting from dose-related quinidine toxicity.
-A 76-year-old man developed progressive dysphagia to solids during quinidine therapy.
+A -year-old man developed progressive dysphagia to solids during quinidine therapy.
 Upper endoscopy revealed a proximal narrowing, but no findings of cancer or infection.
 Quinidine pill esophagitis was suspected and the drug was discontinued.
 The lesion resolved one month later and did not recur.
@@ -36,82 +35,81 @@ Nervous system side effects have included dizziness, headache, tremor, nervousne
 Such symptoms may be part of the cinchonism syndrome and signs of quinidine toxicity.
 The anticholinergic activity of quinidine may exacerbate myasthenia gravis.
 Convulsions have been reported, but the association with quinidine has not been clearly defined.
-An 85-year-old man with atrial flutter developed drowsiness, emesis, and icterus associated with elevated liver function tests and marked centrilobular cholestasis with mild bile duct inflammation per liver biopsy within ten days after beginning quinidine therapy.
+An -year-old man with atrial flutter developed drowsiness, emesis, and icterus associated with elevated liver function tests and marked centrilobular cholestasis with mild bile duct inflammation per liver biopsy within ten days after beginning quinidine therapy.
 There was no evidence of biliary obstruction per ultrasound.
 The signs and symptoms of hepatitis resolved after discontinuation of quinidine.
-A 58-year-old man with paroxysmal atrial fibrillation developed fever, lethargy, nausea, and abdominal pain associated with elevated liver function tests and no serological evidence of a viral etiology within ten days after beginning quinidine therapy.
+A -year-old man with paroxysmal atrial fibrillation developed fever, lethargy, nausea, and abdominal pain associated with elevated liver function tests and no serological evidence of a viral etiology within ten days after beginning quinidine therapy.
 No liver biopsy was performed.
 The signs and symptoms of hepatitis began to resolve within three days after discontinuation of quinidine.
 Rare cases of reversible granulomatous hepatitis, presenting as fever, urticarial rash, elevated liver function tests, and mild thrombocytopenia have been associated with quinidine.
-In a long-term study of 15 patients with a history of quinidine-associated hepatitis, no persistent liver function abnormalities were observed.
+In a long-term study of  patients with a history of quinidine-associated hepatitis, no persistent liver function abnormalities were observed.
 Hepatic toxicity associated with quinidine is believed primarily due to hypersensitivity to quinidine.
-Hypersensitivity-induced hepatitis has occurred in approximately 2% of patients, usually within the first two weeks of therapy.
+Hypersensitivity-induced hepatitis has occurred in approximately  of patients, usually within the first two weeks of therapy.
 Jaundice occurred rarely.
-Resolution was complete in most cases within 4 to 8 weeks following discontinuation.
+Resolution was complete in most cases within  to  weeks following discontinuation.
 Not all cases have resolved.
 Granulomatous hepatitis has been reported.
 Ocular side effects have included mydriasis, color perception changes, night blindness, scotomata, optic neuritis, and visual field loss.
 Blurred vision, diplopia, and photophobia may be part of the dose-related cinchonism syndrome.
 Quinidine keratopathy, an extremely rare ocular side effect, has been reported.
-A 66-year-old man with coronary artery disease developed photophobia and blurred vision while taking quinidine, metoprolol, furosemide, isosorbide, and digoxin.
+A -year-old man with coronary artery disease developed photophobia and blurred vision while taking quinidine, metoprolol, furosemide, isosorbide, and digoxin.
 Slit-lamp examination revealed superficial granular deposits within the corneal epithelium; the epithelial surface was smooth and did not contain fluorescein upon staining.
 The corneal deposits disappeared within two months after discontinuing quinidine.
 Hematologic abnormalities including leukopenia, thrombocytopenia, and rare cases of leukocytosis have occurred.
 Cases of an IgG antibody requiring the presence of quinidine, with activity against leukocytes and platelets have been reported.
 In some cases, significant infection or hemorrhage resulted.
-A 60-year-old man developed malaise, weakness, chills, and oral ulcerations within three days of beginning quinidine and digoxin for atrial fibrillation.
+A -year-old man developed malaise, weakness, chills, and oral ulcerations within three days of beginning quinidine and digoxin for atrial fibrillation.
 Laboratory examination revealed a profoundly low leukocyte count and bone marrow aspiration revealed a hypocellular myeloid line.
 The neutrophil count returned to baseline within three days after discontinuation of quinidine and continuation of digoxin.
 The authors found eight other such cases in a review of medical literature.
-A 52-year-old man developed malaise, an extensive maculopapular rash, palpable purpura, mental status changes, rigors, nausea, and night sweats during therapy with quinidine and digoxin.
+A -year-old man developed malaise, an extensive maculopapular rash, palpable purpura, mental status changes, rigors, nausea, and night sweats during therapy with quinidine and digoxin.
 Laboratory findings included proteinuria, elevated liver function tests, eosinophilia, an elevated antinuclear antibody titer, and renal biopsy findings consistent with allergic granulomatous angiitis.
 The syndrome worsened following quinidine discontinuation, but resolved gradually with steroid therapy.
 Because allergic reactions to digoxin are rare, the authors implicated quinidine.
 Rechallenge was not performed.
-A 54-year-old man with a history of atrial fibrillation, treated with digoxin and quinidine sulfate, developed fever and malaise associated with nodular infiltrates on chest X-ray.
+A -year-old man with a history of atrial fibrillation, treated with digoxin and quinidine sulfate, developed fever and malaise associated with nodular infiltrates on chest X-ray.
 His condition worsened despite treatment with an oral cephalosporin.
 A diagnostic evaluation ruled out heart failure; tests for typical and atypical infections were negative.
 Pulmonary function testing revealed mild restriction.
 Two days after stopping quinidine the signs and symptoms of pneumonitis resolved.
 Bronchoalveolar lavage and transbronchial biopsy revealed changes consistent with allergic pneumonitis.
 Rechallenge with quinidine resulted in recurrent signs and symptoms of allergic pneumonitis.
-Hypersensitivity-induced hepatitis has occurred in approximately 2% of patients, usually within the first two weeks of therapy.
+Hypersensitivity-induced hepatitis has occurred in approximately  of patients, usually within the first two weeks of therapy.
 Hypersensitivity reactions including of uveitis, allergic vasculitis, lymphadenopathy, hemolytic anemia, thrombocytopenia, agranulocytosis, bronchospasm, pneumonitis and photosensitive dermatitis psoriaform rash, angioedema, sicca syndrome, arthralgia, myalgia, and elevated levels of skeletal muscle enzymes have been reported.
 Dermatologic side effects including photosensitive rashes, psoriasis, abnormal pigmentation, and actinic dermatitis have been reported.
 Quinidine has been identified as a possible cause of lichen planus in susceptible patients.
-A 57-year-old man with premature ventricular depolarizations developed a papular rash on his back and chest.
+A -year-old man with premature ventricular depolarizations developed a papular rash on his back and chest.
 Resolution was complete within four weeks of discontinuation of therapy.
 The patient was on no other oral medications.
-An 83-year-old man developed a bluish-grey discoloration involving his skin, oral mucosa, and nailbeds which resolved over four months following discontinuation of quinidine.
+An -year-old man developed a bluish-grey discoloration involving his skin, oral mucosa, and nailbeds which resolved over four months following discontinuation of quinidine.
 Other medications were continued.
-A 64-year-old man with a history of convalescent psoriasis vulgaris experienced an exacerbation of psoriasis within 72 hours after initiating quinidine therapy.
+A -year-old man with a history of convalescent psoriasis vulgaris experienced an exacerbation of psoriasis within  hours after initiating quinidine therapy.
 The psoriasis was refractory to aggressive PUVA therapy and resolved only when quinidine was discontinued.
-Approximately 30 cases of quinidine-induced systemic lupus erythematosus have been reported.
+Approximately  cases of quinidine-induced systemic lupus erythematosus have been reported.
 The majority of patients were Caucasian and elderly, without gender difference.
-The most frequent complaint was polyarthralgias (87%).
+The most frequent complaint was polyarthralgias .
 Immunologic side effects including systemic lupus erythematosus have been rarely associated with quinidine therapy.
 Rare cases of quinidine-induced polyarthropathy without development of antinuclear antibodies have been reported.
 Renal side effects have been limited to rare reports of quinidine-induced nephrotic syndromes.
-A 64-year-old woman developed edema, proteinuria (3 grams per 24 hours), hypercholesterolemia, elevated complement levels, and elevated antinuclear antibody titers within three months after beginning digoxin and quinidine.
+A -year-old woman developed edema, proteinuria ( grams per  hours), hypercholesterolemia, elevated complement levels, and elevated antinuclear antibody titers within three months after beginning digoxin and quinidine.
 Signs of the nephrotic syndrome resolved within seven days after discontinuation of quinidine, but continuation of digoxin.
 Rechallenge with quinidine resulted in fatigue, myalgias, arthralgias, anorexia, and weakness.
 The author believed this case represented quinidine-induced nephrotic syndrome or a quinidine-induced lupus erythematosus-like illness complicated by renal disease.
-A 63-year-old man receiving allopurinol for gout developed progressive uremia, proteinuria, edema, and purpura after beginning quinidine therapy.
+A -year-old man receiving allopurinol for gout developed progressive uremia, proteinuria, edema, and purpura after beginning quinidine therapy.
 The patient required hemodialysis secondary to biopsy-proven, rapidly progressive glomerulonephritis.
 A macrophage migration-inhibition test was negative in the presence of both quinidine and allopurinol.
 Such tests may be falsely negative in the presence of uremia.
 The authors believed quinidine caused Henoch-Schonlein purpura in this patient based on a chronologic association and lack of allopurinol-associated problems following chronic therapy.
-A 73-year-old man with supraventricular tachycardia developed visual hallucinations, delusions, and psychomotor agitation within 90 minutes of the initial dose of quinidine.
-A serum quinidine level at the time was 0.
-8 mg/L (therapeutic 3 to 6 mg/L).
+A -year-old man with supraventricular tachycardia developed visual hallucinations, delusions, and psychomotor agitation within  minutes of the initial dose of quinidine.
+A serum quinidine level at the time was  mg/L (therapeutic  to  mg/L).
 The patient's mental status returned to baseline after discontinuation of quinidine.
-A 67-year-old man with a supraventricular arrhythmia and hypertension developed psychosis and psychomotor hyperactivity within two hours after starting quinidine.
-A serum quinidine level at the time was 1 mg/L (therapeutic 3 to 6 mg/L).
+A -year-old man with a supraventricular arrhythmia and hypertension developed psychosis and psychomotor hyperactivity within two hours after starting quinidine.
+A serum quinidine level at the time was  mg/L (therapeutic  to  mg/L).
 The patient's mental status returned to baseline after discontinuation of quinidine.
 Psychiatric side effects of depression have been associated with quinidine.
 Rare cases of acute psychosis and psychomotor agitation have been reported with subtherapeutic quinidine levels in elderly patients.
 Musculoskeletal effects including a case of profound musculoskeletal weakness has been reported.
-A 68-year-old woman with paroxysmal atrial fibrillation developed progressive proximal limb muscle weakness within two weeks after starting quinidine.
+A -year-old woman with paroxysmal atrial fibrillation developed progressive proximal limb muscle weakness within two weeks after starting quinidine.
 Symptoms resolved upon discontinuation of therapy.
 Rechallenge was associated with recurrent weakness and a diffuse, pruritic rash.
 A diagnostic evaluation failed to reveal evidence of myasthenia gravis.

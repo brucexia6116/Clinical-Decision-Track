@@ -1,6 +1,5 @@
 Side effects include:
 GI effects (nausea, vomiting, epigastric distress, loose stools, diarrhea, flatulence); hypersensitivity reactions.
-
 Gastrointestinal side effects have included nausea, vomiting, diarrhea, stomatitis, black or hairy tongue, epigastric discomfort, flatulence, loose stools, and pseudomembranous colitis.
 Hematologic side effects have included neutropenia, leukopenia, and thrombocytopenia.
 Other penicillins have been associated with agranulocytosis and bone marrow depression.
@@ -8,5 +7,5 @@ Hepatic side effects have included transient changes in SGOT, hepatotoxicity, an
 Serum transaminase levels may take several weeks to return to normal following discontinuation of therapy.
 Hypersensitivity reactions have included rash, fever, eosinophilia, pruritus, urticaria, angioneurotic edema, anaphylactic reactions (bronchospasm, hypotension, vascular collapse, death), laryngeal edema, laryngospasm, serum-sickness-like symptoms, fever, chills and myalgias.
 Renal side effects have rarely included renal failure.
-Increases in serum creatinine and acute renal failure have been reported with higher doses (3 to 4 grams daily) using an intravenous formulation, in postoperative patients with advanced age.
+Increases in serum creatinine and acute renal failure have been reported with higher doses ( to  grams daily) using an intravenous formulation, in postoperative patients with advanced age.
 Other penicillins have been associated with renal tubular damage and interstitial nephritis (rash, fever, eosinophilia, hematuria, proteinuria, renal insufficiency).

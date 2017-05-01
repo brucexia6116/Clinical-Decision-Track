@@ -2,64 +2,50 @@ Commonly reported side effects of rosiglitazone include: headache.
 Other side effects include: edema and nausea.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, rosiglitazone may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking rosiglitazone, check with your doctor immediately:
 Some rosiglitazone side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 The most commonly reported adverse reports included upper respiratory tract infections, injury, and headache.
-Major Adverse Cardiovascular Events:Overall data from long-term rosiglitazone trials including the RECORD, ADOPT, and DREAM trials (rosiglitazone n=6311; control n=7756) showed no difference in overall mortality or major adverse cardiovascular events; however, a meta-analysis of shorter-term trials suggests and increased risk for myocardial infarction with rosiglitazone compared with placebo.
-The RECORD trial (Rosiglitazone evaluated for Cardiac Outcomes and Regulation of Glycemia in Diabetes) revealed no significant difference in cardiovascular hospitalization or cardiovascular death (primary outcome) among patients with type 2 diabetes receiving rosiglitazone add-on therapy (n=2220) compared with active control (n=2227); however, there was a significant difference in the incidence of CHF (secondary endpoint).
-Patients randomized were those who had failed metformin or sulfonylurea monotherapy; mean age: 58 years; 52% male.
-Following randomization to add-on rosiglitazone or active control (add-on metformin for those inadequately controlled on sulfonylurea or add-on sulfonylurea for those inadequately controlled on metformin) patients were treated to a target glycosylated hemoglobin (HbA1c) of 7% or less.
-Heart failure was reported in 61 patients receiving add-on rosiglitazone and 29 patients receiving active control.
-In a retrospective analysis of 42 clinical trials (mean duration 6 months), rosiglitazone was associated with an increased risk of myocardial ischemia compared with combined active or placebo control (2% versus 1.
-53%).
+Major Adverse Cardiovascular Events:Overall data from long-term rosiglitazone trials including the RECORD, ADOPT, and DREAM trials (rosiglitazone n=; control n=) showed no difference in overall mortality or major adverse cardiovascular events; however, a meta-analysis of shorter-term trials suggests and increased risk for myocardial infarction with rosiglitazone compared with placebo.
+The RECORD trial (Rosiglitazone evaluated for Cardiac Outcomes and Regulation of Glycemia in Diabetes) revealed no significant difference in cardiovascular hospitalization or cardiovascular death (primary outcome) among patients with type  diabetes receiving rosiglitazone add-on therapy (n=) compared with active control (n=); however, there was a significant difference in the incidence of CHF (secondary endpoint).
+Patients randomized were those who had failed metformin or sulfonylurea monotherapy; mean age:  years;  male.
+Following randomization to add-on rosiglitazone or active control (add-on metformin for those inadequately controlled on sulfonylurea or add-on sulfonylurea for those inadequately controlled on metformin) patients were treated to a target glycosylated hemoglobin (HbAc) of  or less.
+Heart failure was reported in  patients receiving add-on rosiglitazone and  patients receiving active control.
+In a retrospective analysis of  clinical trials (mean duration  months), rosiglitazone was associated with an increased risk of myocardial ischemia compared with combined active or placebo control ( versus ).
 These events included angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, and coronary artery disorder.
 There was an increased risk with combination insulin therapy and in patients receiving nitrates for known coronary heart disease.
-Cardiovascular Events in Patients with NYHA Class I and II Heart Failure:An increased risk of cardiovascular events was observed in a 52-week trial in patients with NYHA Class I and II Heart Failure who were receiving rosiglitazone (n=110) compared with placebo (n=114).
-These events included: cardiovascular deaths (5% vs 4%), worsening CHF (6% vs 4%), new or worsening edema (25% vs 9%), new or worsening dyspnea (26% vs 17%), increases in CHF medication (33% vs 18%), and cardiovascular hospitalization (19% vs 13%).
+Cardiovascular Events in Patients with NYHA Class I and II Heart Failure:An increased risk of cardiovascular events was observed in a -week trial in patients with NYHA Class I and II Heart Failure who were receiving rosiglitazone (n=) compared with placebo (n=).
+These events included: cardiovascular deaths ( vs ), worsening CHF ( vs ), new or worsening edema ( vs ), new or worsening dyspnea ( vs ), increases in CHF medication ( vs ), and cardiovascular hospitalization ( vs ).
 Edema: -Dose-related edema was reported in rosiglitazone clinical trials.
-In patients receiving rosiglitazone 8 mg in combination with a sulfonylurea, the incidence of edema was 12.
-4%.
-In rosiglitazone monotherapy trials, edema was reported in 4.
-8% of patients (dose not specified).
-Healthy volunteers receiving rosiglitazone 8 mg once daily for 8 weeks experienced a statistically significant increase in median plasma volume compared with placebo.
-Concomitant Administration with Insulin:-Edema was reported with higher frequency in the rosiglitazone plus insulin combination trials (insulin, 5.
-4%; and rosiglitazone with insulin 14.
-7%).
-Reports of new onset or exacerbation of CHF occurred at a rate of 1% for insulin alone, 2% (4 mg) and 3% (8 mg) for insulin in combination with rosiglitazone.
+In patients receiving rosiglitazone  mg in combination with a sulfonylurea, the incidence of edema was .
+In rosiglitazone monotherapy trials, edema was reported in  of patients (dose not specified).
+Healthy volunteers receiving rosiglitazone  mg once daily for  weeks experienced a statistically significant increase in median plasma volume compared with placebo.
+Concomitant Administration with Insulin:-Edema was reported with higher frequency in the rosiglitazone plus insulin combination trials (insulin, ; and rosiglitazone with insulin ).
+Reports of new onset or exacerbation of CHF occurred at a rate of  for insulin alone,  ( mg) and  ( mg) for insulin in combination with rosiglitazone.
 The coadministration of rosiglitazone and insulin is not recommended.
-Common (1% to 10%): Edema, hypertension, Frequency not reported: Cardiovascular deaths, congestive heart failure (CHF), myocardial infarction, angina, angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, coronary artery disorder
-Anemia was reported in 1.
-9% of patients receiving rosiglitazone as monotherapy.
-In combination therapy with metformin, a sulfonylurea, or metformin plus a sulfonylurea, the incidence of anemia was 7.
-1%, 2.
-3%, and 6.
-7%, respectively.
-Laboratory findings have shown dose-related decreases in hemoglobin and hematocrit; mean decreases in hemoglobin were 1 g/dL and up to 3.
-3% in hematocrit.
-These changes primarily occurred during the first 3 months or following a dose increase.
+Common ( to ): Edema, hypertension, Frequency not reported: Cardiovascular deaths, congestive heart failure (CHF), myocardial infarction, angina, angina pectoris, angina dyspnea, myocardial infarction, coronary thrombosis, myocardial ischemia, coronary artery disease, coronary artery disorder
+Anemia was reported in  of patients receiving rosiglitazone as monotherapy.
+In combination therapy with metformin, a sulfonylurea, or metformin plus a sulfonylurea, the incidence of anemia was , , and , respectively.
+Laboratory findings have shown dose-related decreases in hemoglobin and hematocrit; mean decreases in hemoglobin were  g/dL and up to  in hematocrit.
+These changes primarily occurred during the first  months or following a dose increase.
 They may be related to increased plasma volume.
-Common (1% to 10%): AnemiaFrequency not reported: Decrease in WBC counts
-Uncommon (0.
-1% to 1%): Hyperbilirubinemia, ALT elevationsPostmarketing reports: Hepatitis, hepatic enzyme elevations greater than 3 times the upper limit of normal, hepatic failure
-Common (1% to 10%): Hyperglycemia, hypoglycemia, hypocholesterolemiaUncommon (0.
-1% to 1%): Weight gainFrequency not reported: Increases in waist and hip circumference
+Common ( to ): AnemiaFrequency not reported: Decrease in WBC counts
+Uncommon ( to ): Hyperbilirubinemia, ALT elevationsPostmarketing reports: Hepatitis, hepatic enzyme elevations greater than  times the upper limit of normal, hepatic failure
+Common ( to ): Hyperglycemia, hypoglycemia, hypocholesterolemiaUncommon ( to ): Weight gainFrequency not reported: Increases in waist and hip circumference
 The mechanism of weight gain is unclear, although it probably is due to a combination of fluid retention and fat accumulation.
-In the ADOPT monotherapy trial, median weight change at 4 years was plus 3.
-5 kg.
+In the ADOPT monotherapy trial, median weight change at  years was plus  kg.
 Frequency not reported: Resumption of ovulation in premenopausal, anovulatory women, hormonal imbalance
 Postmarketing reports: Anaphylactic reaction, urticaria, angioedema
 Postmarketing reports: Rash, pruritus, urticaria, angioedema, Stevens-Johnson syndrome
 Postmarketing reports: Diabetic macular edema with decreased visual acuity
-Common (1% to 10%): Upper respiratory tract infection, sinusitisFrequency not reported: DyspneaPostmarketing reports: Pulmonary edema, pleural effusions
-Common (1% to 10%): Back painFrequency not reported: Fractures
+Common ( to ): Upper respiratory tract infection, sinusitisFrequency not reported: DyspneaPostmarketing reports: Pulmonary edema, pleural effusions
+Common ( to ): Back painFrequency not reported: Fractures
 Long-term clinical trials have shown an increased incidence of bone fracture in patients receiving drug compared with glyburide or metformin.
 This increased incidence appeared after the first year and persisted during the trials.
 The majority of fractures were observed in women and occurred in the upper arm, hand, and foot.
-Common (1% to 10%): Diarrhea
-Common (1% to 10%): Injury, fatigue
+Common ( to ): Diarrhea
+Common ( to ): Injury, fatigue
 It is possible that some side effects of rosiglitazone may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

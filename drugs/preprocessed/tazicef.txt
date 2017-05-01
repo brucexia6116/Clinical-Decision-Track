@@ -1,20 +1,19 @@
 As well as its needed effects, ceftazidime (the active ingredient contained in Tazicef) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking ceftazidime, check with your doctor or nurse immediately:
 Some ceftazidime side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Discontinuation of ceftazidime (the active ingredient contained in Tazicef) may be necessary in severe, prolonged cases of diarrhea.
 Pseudomembranous colitis has been reported and should be considered if the patient does not respond to discontinuation of ceftazidime.
-Gastrointestinal side effects reported in less than 2% of patients have included diarrhea, nausea, vomiting, abdominal pain, and pseudomembranous colitis.
-Oral candidiasis has been reported in less than 1% of patients.
+Gastrointestinal side effects reported in less than  of patients have included diarrhea, nausea, vomiting, abdominal pain, and pseudomembranous colitis.
+Oral candidiasis has been reported in less than  of patients.
 Clostridium difficile associated diarrhea has also been reported.
 Mild hypersensitivity reactions, such as rash, pruritus, and fever, have been reported and may necessitate discontinuation of ceftazidime (the active ingredient contained in Tazicef)   A case of asthma induced by occupational exposure to ceftazidime has been reported.
 A case of occupational contact dermatitis due to cephalosporin allergy has been reported in a nurse who prepared cephalosporin solutions for administration to patients.
 The dermatitis resolved after the nurse stopped preparing the solutions.
 A patient with sensitization to aztreonam showed cross-reactivity to ceftazidime.
 Ceftazidime and aztreonam contain the same side chain, which may explain the cross-sensitivity.
-Hypersensitivity reactions including rash, pruritus, and fever have been reported (2%).
+Hypersensitivity reactions including rash, pruritus, and fever have been reported .
 Cross reactions may occur in penicillin-allergic or aztreonam-allergic patients.
 Rarely, angioedema and anaphylactic reactions have occurred.
 Allergic reactions including cardiopulmonary arrest have been reported during postmarketing experience.
@@ -23,7 +22,7 @@ Although increases in serum creatinine do not necessarily indicate renal toxicit
 Renal side effects have included transient increases in serum creatinine and BUN.
 Renal impairment has been reported during postmarketing experience.
 Cephalosporins as a class have been associated with renal dysfunction and toxic nephropathy.
-Ceftazidime-induced encephalopathy has been reported in an 80-year-old man with underlying renal dysfunction.
+Ceftazidime-induced encephalopathy has been reported in an -year-old man with underlying renal dysfunction.
 This patient became incoherent and  tremulous and had severe myoclonic jerking in all extremities.
 Therapy was discontinued and symptoms abated, but reappeared on rechallenge with a smaller dose.
 Symptoms again resolved with discontinuation of ceftazidime (the active ingredient contained in Tazicef) therapy.
@@ -32,7 +31,7 @@ In most cases the patients had underlying renal dysfunction.
 Symptoms were similar and resolved with dose reduction or drug discontinuation.
 Neurologic reactions may be more likely to occur in patients with underlying renal dysfunction.
 Close monitoring of neurologic status is recommended.
-Nervous system side effects reported in less than 1% of patients have included headache, dizziness, paresthesia, and seizures.
+Nervous system side effects reported in less than  of patients have included headache, dizziness, paresthesia, and seizures.
 Encephalopathy, coma, asterixis, neuromuscular excitability, and myoclonia have occurred in patients with renal dysfunction who received unadjusted doses of ceftazidime.
 Dermatologic side effects have included pemphigus erythematosus and urticaria.
 Local side effects have included phlebitis and inflammation at the injection site.

@@ -1,0 +1,205 @@
+adverse events
+frequency
+dose within the
+recommended daily dosage range
+rash
+angioedema
+dermatitisuncommon
+urticaria
+photosensitivity
+pruritus
+excessive sweating/hyperhidrosisrare
+ecchymosisfrequency
+bullous pemphigus
+exfoliative dermatitis
+orthostatic hypotension
+angina pectoris
+hypotension
+atrial/cardiac rhythm disturbances
+tachycardia
+myocardial infarction
+hypertensive crisis
+palpitations
+flushing
+claudication
+cardiorespiratory arrest
+shock
+non-anginal chest pain
+hypertension
+conduction disorder
+bradycardia
+cardiac arrest
+conduction disturbances
+transitory ischemia rare
+hemorrhage
+peripheral vascular diseasefrequency
+vasculitis
+dizziness
+headacheuncommon
+tremor
+paresthesia
+drowsiness
+cerebrovascular accident
+syncope
+memory disturbance
+taste disturbance/dysgeusia
+cerebral infarction
+transient ischemic attack
+tia
+numbness
+somnolence
+strokerare
+dysphasia
+cough
+dyspnea
+upper respiratory infectionuncommon
+bronchospasm
+pharyngitis
+sinusitis
+rhinitis
+laryngitis/hoarseness
+epistaxis
+abnormal vocalization
+sinus abnormality
+abnormal breathing
+pleuritic chest pain
+tracheobronchitis rare
+pneumonia
+pulmonary congestionfrequency
+eosinophilic pneumonitis
+nausea
+vomiting
+diarrhea
+abdominal painuncommon
+pancreatitis
+dysphagia
+abdominal distention
+flatulence
+constipation
+heartburn
+appetite changes
+dry mouthrare
+oral lesions
+swollen tonguevery
+intestinal angioedema
+sub-ileus
+elevated alkaline phosphatase
+elevated lactate dehydrogenaseuncommon
+gout
+hyperkalemia
+increased blood urea
+appetite
+weight increaserare
+hyponatremiafrequency
+symptomatic hyponatremia
+renal insufficiency
+kidney pain
+renal failure
+serum creatinine
+acute renal failurefrequency
+elevated bun
+increased serum bilirubin
+elevated transaminasesuncommon
+hepatitis
+hepatomegalyvery
+hepatic failurefrequency
+hepatocellular jaundice
+cholestatic jaundice
+sexual dysfunctionuncommon
+urinary frequency
+abnormal urination
+proteinuria rare
+prostatic disorders
+lymphadenopathy
+hemoglobin
+hematocritrare
+eosinophilia
+leukopenia
+neutropenia
+thrombocytopenia
+transient anemiavery
+agranulocytosisfrequency
+pancytopenia
+hemolytic anemia
+aplastic anemia
+leukocytosis
+elevated erythrocyte sedimentation rate
+esr
+insomniauncommon
+mood change
+libido
+confusion
+sleep disturbance
+depression
+behavior changerare
+disorientation
+muscle cramp
+musculoskeletal painuncommon
+arthralgia
+myalgia
+muscle ache
+weakness of an extremityrare
+arthritis
+vision disturbance
+eye irritation
+fatigue
+edema
+non-cardiac chest pain
+weakness
+viral infectionuncommon
+vertigo
+tinnitus
+ear ache
+fever
+influenza-like syndrome
+weight gain
+sensation of cold
+fall
+pain
+sudden death
+lower extremity edema
+swelling of extremity
+peripheral edema
+thoracic painrare
+weakness
+extremityfrequency
+serositis
+frequency
+anaphylactoid reactions
+positive antinuclear antibodies
+ana
+blurred vision
+chest pain
+discomfort
+chills
+cold sweats
+confusion
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+irregular heartbeat
+pounding
+rapid pulse
+sweating
+unusual tiredness
+weakness
+cough
+body aches
+pain
+diarrhea
+difficult breathing
+ear congestion
+fever
+headache
+loss of voice
+muscle
+bone pain
+nasal congestion
+nausea and vomiting
+runny nose
+sneezing
+sore throat
+weakness

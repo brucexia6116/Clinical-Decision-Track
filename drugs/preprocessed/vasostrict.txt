@@ -1,11 +1,10 @@
 As well as its needed effects, vasopressin (the active ingredient contained in Vasostrict) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking vasopressin, check with your doctor immediately:
 Some vasopressin side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Cardiovascular side effects have included cardiac arrest, circumoral pallor, decreased cardiac output, increased blood pressure, bradycardia, arrhythmias, venous thrombosis, myocardial ischemia, peripheral vasoconstriction at higher doses, and angina.
-The overall incidence of cardiovascular complications has been estimated to be 25%.
+The overall incidence of cardiovascular complications has been estimated to be .
 Due to vasopressin-induced increased coronary and systemic vascular resistance, the drug can cause myocardial ischemia, reduced cardiac output, and systemic hypertension.
 Some clinicians choose to give nitroglycerin and/or isoproterenol during vasopressin administration to reduce the likelihood of some of these problems.
 Cardiovascular side effects related to the pressor activity of vasopressin may be important in patients with a history of coronary artery or peripheral vascular disease.
@@ -20,8 +19,8 @@ Diabetes insipidus does not result from spontaneously occurring antibodies to va
 Hypersensitivity side effects have included rare cases of severe anaphylaxis and urticaria.
 Mesenteric artery thrombosis (MAT) with retrograde propagation of the thrombus into the portal vein has been associated with selective arterial drug infusions for control of upper gastrointestinal hemorrhage.
 In some cases, small bowel necrosis with or without bacterial peritonitis secondary to thrombosis of the superior mesenteric artery has resulted.
-Because up to 10% of patients with liver cirrhosis develop portal vein thrombosis, an association between intra-arterial vasopressin (the active ingredient contained in Vasostrict) and MAT may be coincidental.
-Gastrointestinal side effects have included abdominal cramps, nausea, vomiting, diarrhea, and flatus in 18% of patients.
+Because up to  of patients with liver cirrhosis develop portal vein thrombosis, an association between intra-arterial vasopressin (the active ingredient contained in Vasostrict) and MAT may be coincidental.
+Gastrointestinal side effects have included abdominal cramps, nausea, vomiting, diarrhea, and flatus in  of patients.
 Unexplained abdominal pain associated with hemodynamic instability in patients receiving vasopressin has rarely been associated with mesenteric or portal vein thrombosis and bowel necrosis.
 Renal side effects have included reports of myoglobinuria with acute renal failure, which has been attributed to vasopressin-induced skeletal muscle ischemia in two patients.
 Nervous system side effects have included tremor, vertigo, and headache (usually described as a "pounding head").

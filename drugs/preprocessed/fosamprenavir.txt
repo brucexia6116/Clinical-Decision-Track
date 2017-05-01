@@ -1,30 +1,28 @@
 Commonly reported side effects of fosamprenavir include: skin rash.
 See below for a comprehensive list of adverse effects.
 Diarrhea, rash, nausea, vomiting, and headache were the most frequent moderate to severe side effects in clinical trials of fosamprenavir.
-Discontinuations due to side effects were 6.
-4% in patients receiving fosamprenavir compared to 5.
-9% in those receiving comparator therapies.
-The most common side effects leading to fosamprenavir discontinuation (incidence of 1% or less) included diarrhea, nausea, vomiting, increased AST, increased ALT, and rash.
-Dermatologic side effects of moderate to severe intensity have included rash (up to 8%) in patients treated with combination therapy.
-Skin rash, regardless of causality, occurred in approximately 19% of patients treated with fosamprenavir in studies.
+Discontinuations due to side effects were  in patients receiving fosamprenavir compared to  in those receiving comparator therapies.
+The most common side effects leading to fosamprenavir discontinuation (incidence of  or less) included diarrhea, nausea, vomiting, increased AST, increased ALT, and rash.
+Dermatologic side effects of moderate to severe intensity have included rash (up to ) in patients treated with combination therapy.
+Skin rash, regardless of causality, occurred in approximately  of patients treated with fosamprenavir in studies.
 Rashes were generally maculopapular and of mild or moderate intensity, some with pruritus.
-Severe or life-threatening skin reactions, including at least 1 case of Stevens-Johnson syndrome, have been reported during clinical trials.
-Erythema multiforme has been reported in at least 1 patient receiving fosamprenavir with ritonavir, zidovudine, and lamivudine.
+Severe or life-threatening skin reactions, including at least  case of Stevens-Johnson syndrome, have been reported during clinical trials.
+Erythema multiforme has been reported in at least  patient receiving fosamprenavir with ritonavir, zidovudine, and lamivudine.
 Angioedema has been reported during postmarketing experience.
-Skin rash, regardless of causality, had a median onset and duration of 11 and 13 days, respectively, and led to discontinuation of fosamprenavir in less than 1% of patients.
-Gastrointestinal side effects of moderate to severe intensity have included diarrhea (up to 13%), nausea (up to 7%), vomiting (up to 6%), and abdominal pain (up to 2%) in patients treated with combination therapy.
+Skin rash, regardless of causality, had a median onset and duration of  and  days, respectively, and led to discontinuation of fosamprenavir in less than  of patients.
+Gastrointestinal side effects of moderate to severe intensity have included diarrhea (up to ), nausea (up to ), vomiting (up to ), and abdominal pain (up to ) in patients treated with combination therapy.
 The mechanism and long-term consequences of body fat redistribution/accumulation are currently unknown and a causal relationship has not been established.
-Metabolic side effects have included increased serum lipase (greater than 2 times ULN; up to 8%), triglycerides (greater than 750 mg/dL; up to 11%), glucose (greater than 251 mg/dL; 2%), and amylase.
+Metabolic side effects have included increased serum lipase (greater than  times ULN; up to ), triglycerides (greater than  mg/dL; up to ), glucose (greater than  mg/dL; ), and amylase.
 Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance," have been observed in patients receiving antiretroviral therapy, including fosamprenavir.
 Hypercholesterolemia has been reported during postmarketing experience.
 New onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing experience in HIV-infected patients receiving protease inhibitor therapy; however, causality has not been established.
-Hepatic side effects have included elevated ALT (greater than 5 times ULN; up to 8%) and AST (greater than 5 times ULN; up to 6%).
+Hepatic side effects have included elevated ALT (greater than  times ULN; up to ) and AST (greater than  times ULN; up to ).
 Liver toxicity has been reported in patients receiving fosamprenavir with ritonavir, zidovudine, and lamivudine.
-Nervous system side effects of moderate to severe intensity have included headache (up to 4%) in patients treated with combination therapy.
+Nervous system side effects of moderate to severe intensity have included headache (up to ) in patients treated with combination therapy.
 Oral paresthesia has been reported during postmarketing experience.
-Other side effects of moderate to severe intensity have included fatigue (up to 4%) in patients treated with combination therapy.
+Other side effects of moderate to severe intensity have included fatigue (up to ) in patients treated with combination therapy.
 Elevated creatine kinase has been reported.
-Hematologic side effects have included neutropenia (less than 750 cells/mm3; 3%).
+Hematologic side effects have included neutropenia (less than  cells/mm; ).
 Acute hemolytic anemia has been associated with amprenavir.
 Hematologic side effects associated with protease inhibitors have included spontaneous bleeding in patients with hemophilia A and B.
 In many of the reported cases, treatment with protease inhibitors was continued or restarted and some patients required additional factor VIII.
@@ -33,9 +31,7 @@ Psychiatric side effects have included depressive/mood disorders.
 Cardiovascular side effects have included myocardial infarction during postmarketing experience.
 Genitourinary side effects have included nephrolithiasis during postmarketing experience.
 Immunologic side effects have included immune reconstitution syndrome.
-Autoimmune disorders (e.
-g.
-, Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
+Autoimmune disorders (, Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
 Severe skin rash
 Abdominal or stomach pain
 blurred vision

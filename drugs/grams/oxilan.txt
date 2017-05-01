@@ -1,0 +1,89 @@
+general
+side effects
+headache
+fever
+chills
+asthenia
+chest
+pain
+edema of the neck
+facial edema
+pain
+peripheral edema
+angina
+hypertension
+bradycardia
+hypotension
+atrial fibrillation
+syncope
+tachycardia
+vasodilation
+ventricular extrasystole
+severe life-threatening cardiovascular reactions
+fatalities
+most deaths
+injection
+minutes
+main feature
+being cardiac arrest with cardiovascular disease as the main aggravating factor
+nausea
+diarrhea
+nausea with vomiting
+constipation
+dyspepsia
+dysphagia
+gastrointestinal hemorrhage
+ileus
+headache uncommon
+dizziness
+hypotonia
+nystagmus
+paresthesia
+somnolence
+vertigo
+taste perversion
+fever
+chills
+asthenia
+edema of the neck
+facial edema
+pain
+peripheral edema
+urticaria
+rash
+pruritus
+sweating
+hypothyroidism
+transient thyroid suppression
+anuria
+dysuria
+hematuria
+urinary tract infection
+urination impairment
+liver failure
+reported incidence of adverse reactions
+contrast agents in patients with a history of allergy
+general population
+patients with a history of previous reactions
+contrast agent
+times
+other patients
+sensitivity
+contrast agents
+repeated examinations
+allergic reaction
+hematoma at the injection site
+anorexia
+chest
+pain
+amblyopia
+conjunctivitis
+vision abnormality
+kidney failure
+dyspnea
+pharyngitis
+rhinitispostmarketing reports
+bronchospasm
+side effects of oxilan
+fda
+healthcare professional for medical advice

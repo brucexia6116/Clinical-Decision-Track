@@ -3,7 +3,7 @@ Check with your doctor if any of these most COMMON side effects persist or becom
 Constipation; diarrhea; dizziness; drowsiness; dry mouth, throat, and nose; excitability; gas; headache; heartburn; nausea; stomach pain or upset; thickening of mucus in nose or throat.
 Severe allergic reactions (rash; hives; itching; trouble breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); bloody or black, tarry stools; change in the amount of urine produced; chest pain; confusion; dark urine; depression; fainting; fast or irregular heartbeat; fever, chills, or persistent sore throat; hallucinations; mental or mood changes; numbness of an arm or leg; one-sided weakness; red, swollen, blistered, or peeling skin; ringing in the ears; seizures; severe headache or dizziness; severe or persistent stomach pain or nausea; severe vomiting; shortness of breath; stiff neck; sudden or unexplained weight gain; swelling of hands, legs, or feet; tremor; unusual bruising or bleeding; unusual joint or muscle pain; unusual tiredness or weakness; vision or speech changes; vomit that looks like coffee grounds; wheezing; yellowing of the skin or eyes.
 The CNS depressant effect of diphenhydramine parallels its plasma concentrations.
-The plasma concentration threshold for sedation is 30 to 42 ng/mL, and to cause mental impairment is 58 to 74 ng/mL.
+The plasma concentration threshold for sedation is  to  ng/mL, and to cause mental impairment is  to  ng/mL.
 Dystonic reactions have been accompanied by dizziness, mental confusion, rigidity, lip and tongue protrusion, trismus, torticollis, and swallowing difficulties and generally resolve spontaneously.
 Toxic encephalopathy has been reported in a child with chicken pox treated generously with topical diphenhydramine.
 Delirium has been reported in elderly patients with mild dementia following a small oral dose of diphenhydramine.
@@ -13,16 +13,16 @@ Motor skills may be impaired.
 Dystonic reactions have been reported after single doses of diphenhydramine.
 Nervous system side effects of ibuprofen have rarely incuded headache, drowsiness, and dizziness.
 Aseptic meningitis, paresthesias, and pseudotumor cerebri have rarely been associated with the use of ibuprofen.
-Other nervous system side effects of ibuprofen have included tinnitus (1% to 3%) and vertigo.
+Other nervous system side effects of ibuprofen have included tinnitus ( to ) and vertigo.
 A rare case of painful, persistent peripheral cyanosis and swelling of the fingers and toes which progressed to desquamation and digital pitting infarctions has been associated with ibuprofen.
 Cardiovascular side effects of diphenhydramine have included hypotension, tachycardia, and palpitations.
-Cardiovascular side effects of ibuprofen include peripheral edema (1% to 3%) and elevated blood pressure (less than 1%).
+Cardiovascular side effects of ibuprofen include peripheral edema ( to ) and elevated blood pressure (less than ).
 These problems may be important in some patients with preexisting hypertension or congestive heart failure.
 Gastrointestinal side effects of diphenhydramine have been usually mild and included nausea and dry mouth.
 Gastrointestinal side effects of ibuprofen have included dyspepsia, nausea, diarrhea, abdominal pain, and flatulence.
 More serious gastrointestinal effects of ibuprofen are uncommon but include occult blood loss, ulcer, gastrointestinal hemorrhage with or without perforation, and pancreatitis.
 In addition, a case of ibuprofen-associated colitis has been reported.
-The incidence of gastrointestinal blood loss with ibuprofen is dose-related, occurring in up to 17% of patients receiving 1,600 mg per day and in 23% of patients receiving 2,400 mg per day.
+The incidence of gastrointestinal blood loss with ibuprofen is dose-related, occurring in up to  of patients receiving , mg per day and in  of patients receiving , mg per day.
 Patients with a history of serious gastrointestinal events or alcohol abuse are at increased risk for severe gastrointestinal side effect.
 Ibuprofen should be used with caution in these patients.
 Genitourinary side effects of diphenhydramine have included urinary retention and dysuria as a result of the anticholinergic effects of diphenhydramine.
@@ -38,11 +38,11 @@ Hypersensitivity side effects of ibuprofen have included erythematous or urticar
 Patients who are at higher risk of hypersensitivity reactions to ibuprofen include those with the syndrome of asthma, nasal polyps, and angioedema and/or bronchospastic reactivity to aspirin.
 Rare cases of systemic reactions, including interstitial nephritis and diffuse pulmonary infiltrates, have also been reported.
 Ocular side effects of diphenhydramine have included blurred vision, diplopia, and dry eyes due to anticholinergic effects.
-Ocular side effects of ibuprofen have included blurred vision (less than 1%), scotomata, and diplopia.
+Ocular side effects of ibuprofen have included blurred vision (less than ), scotomata, and diplopia.
 Dermatologic side effects of ibuprofen have included maculopapular rash, pruritus, vesiculobullous eruptions, erythema multiforme, Stevens-Johnson syndrome, alopecia, toxic epidermal necrolysis, and photosensitivity reactions.
-Hepatic side effects of ibuprofen have included elevations in liver function tests in up to 15% of patients.
+Hepatic side effects of ibuprofen have included elevations in liver function tests in up to  of patients.
 Jaundice and hepatitis have rarely been reported.
-Elevations in liver function tests three times normal values occur in less than 1% of patients treated with ibuprofen.
+Elevations in liver function tests three times normal values occur in less than  of patients treated with ibuprofen.
 Ibuprofen-induced hepatitis has been associated with a fatal outcome in some cases.
 Metabolic side effects of ibuprofen have included hyponatremia and the Syndrome of Inappropriate Antidiuretic Hormone (SIADH), gynecomastia, hypoglycemia, and metabolic acidosis.
 Renal side effects of ibuprofen have included new or worsened renal insufficiency.
@@ -51,7 +51,7 @@ Rarer renal side effects associated with the use of ibuprofen include the nephro
 Ibuprofen may impair the ability of the kidney to cope with low renal blood flow states due to inhibition of prostaglandin-dependent afferent arteriolar vasodilation.
 Renal function may be further compromised in patients with heart failure, hypovolemia, cirrhosis, nephrotic syndrome, or hypoalbuminemia.
 Additional risk factors for ibuprofen-induced renal insufficiency are advanced age and concomitant use of diuretics.
-A case-controlled study suggested that patients who consumed 5000 or more pills containing NSAIDs during their lifetime may be at increased risk of end-stage renal disease.
+A case-controlled study suggested that patients who consumed  or more pills containing NSAIDs during their lifetime may be at increased risk of end-stage renal disease.
 Respiratory side effects of ibuprofen have included noncardiogenic pulmonary edema.
 Acute noncardiogenic pulmonary edema developed on two occasions in an HIV-positive patient.
 Infectious as well as cardiac etiologies were excluded.

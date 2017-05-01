@@ -1,29 +1,17 @@
 The most common side effects were upper respiratory tract infection, dizziness, back pain, pharyngitis, and rhinitis.
-Common (1% to 10%): Upper respiratory tract infection, pharyngitis, rhinitis, nasopharyngitisVery rare (less than 0.
-01%): Cough
-Common (1% to 10%): Renal impairment, creatinine increased, urea increased
-Common (1% to 10%): Dizziness, headacheVery rare (less than 0.
-01%): Somnolence
-Common (1% to 10%): Hypotension, sinus arrhythmiaVery rare (less than 0.
-01%): Palpitations
-Common (1% to 10%): ALT increasedUncommon (0.
-1% to 1%): Abnormal liver function, AST increasedVery rare (less than 0.
-01%): Hepatitis
-Common (1% to 10%): HyperkalemiaUncommon (0.
-1% to 1%): Hyponatremia
-Common (1% to 10%): Back painVery rare (less than 0.
-01%): Arthralgia, myalgiaFrequency not reported: Rhabdomyolysis
-Common (1% to 10%): RashVery rare (less than 0.
-01%): Pruritus, urticaria
-Common (1% to 10%): Pyrexia
-Very rare (less than 0.
-01%): Agitation, anxiety, depression, insomnia, nervousness, nightmare, sleep disorder
-Very rare (less than 0.
-01%): Neutropenia, leukopenia, agranulocytosis
-Very rare (less than 0.
-01%): NauseaFrequency not reported: Oropharyngeal pain
-Very rare (less than 0.
-01%): Angioedema
+Common ( to ): Upper respiratory tract infection, pharyngitis, rhinitis, nasopharyngitisVery rare (less than ): Cough
+Common ( to ): Renal impairment, creatinine increased, urea increased
+Common ( to ): Dizziness, headacheVery rare (less than ): Somnolence
+Common ( to ): Hypotension, sinus arrhythmiaVery rare (less than ): Palpitations
+Common ( to ): ALT increasedUncommon ( to ): Abnormal liver function, AST increasedVery rare (less than ): Hepatitis
+Common ( to ): HyperkalemiaUncommon ( to ): Hyponatremia
+Common ( to ): Back painVery rare (less than ): Arthralgia, myalgiaFrequency not reported: Rhabdomyolysis
+Common ( to ): RashVery rare (less than ): Pruritus, urticaria
+Common ( to ): Pyrexia
+Very rare (less than ): Agitation, anxiety, depression, insomnia, nervousness, nightmare, sleep disorder
+Very rare (less than ): Neutropenia, leukopenia, agranulocytosis
+Very rare (less than ): NauseaFrequency not reported: Oropharyngeal pain
+Very rare (less than ): Angioedema
 Arm, back, or jaw pain
 bleeding gums
 chest pain or discomfort

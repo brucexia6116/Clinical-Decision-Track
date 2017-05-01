@@ -1,27 +1,23 @@
 If any of the following symptoms of overdose occur while taking arformoterol, get emergency help immediately:
 Two double-blind, placebo-controlled clinical trials showed a decreased or comparable incidence of COPD exacerbations when compared to placebo.
-COPD exacerbations occurred at a rate of 12.
-1% for those patients receiving the drug and 15.
-1% for those patients receiving placebo.
-Common (1% to 10%): Dyspnea, sinusitis, flu syndrome, pulmonary and chest congestionFrequency not reported (Less than 2%): Respiratory disorder, voice alteration
-Common (1% to 10%): Chest pain, peripheral edemaFrequency not reported (Less than 2%): Arteriosclerosis, atrial flutter, AV block, congestive heart failure, heart block, myocardial infarct, QT interval prolongation, supraventricular tachycardia, inverted T-wave
+COPD exacerbations occurred at a rate of  for those patients receiving the drug and  for those patients receiving placebo.
+Common ( to ): Dyspnea, sinusitis, flu syndrome, pulmonary and chest congestionFrequency not reported (Less than ): Respiratory disorder, voice alteration
+Common ( to ): Chest pain, peripheral edemaFrequency not reported (Less than ): Arteriosclerosis, atrial flutter, AV block, congestive heart failure, heart block, myocardial infarct, QT interval prolongation, supraventricular tachycardia, inverted T-wave
 Two double-blind, placebo-controlled clinical trials showed a decreased or comparable incidence of cardiovascular events.
-Frequency of all cardiovascular events was 6.
-9% in those using the drug and 13.
-3% in the placebo group.
-No frequently occurring, defined as 1% or greater than placebo, cardiovascular events were associated.
-Common (1% to 10%): RashFrequency not reported (Less than 2%): Dry skin, herpes simplex, herpes zoster, skin discoloration, skin hypertrophy
-Common (1% to 10%): DiarrheaFrequency not reported (Less than 2%): Constipation, gastritis, melena, oral moniliasis, periodontal abscess, rectal hemorrhage
-Common (1% to 10%): Back pain, leg crampsFrequency not reported (Less than 2%): Neck rigidity, pelvic pain, arthralgia, arthritis, rheumatoid arthritis, bone disorder, tendinous contracture
-Frequency not reported (Less than 2%): Retroperitoneal hemorrhage
-Frequency not reported (Less than 2%): Allergic reaction
-Frequency not reported (Less than 2%): Injection site pain
-Frequency not reported (Less than 2%): Dehydration, edema, glucose tolerance decreased, gout, hyperglycemia, hyperlipidemia, hypoglycemia, hypokalemia
-Frequency not reported (Less than 2%): Agitation, cerebral infarct, circumoral paresthesia, hypokinesia, somnolence, tremor, paralysis
-Frequency not reported (Less than 2%): Abnormal vision, glaucoma
-Frequency not reported (Less than 2%): Neoplasm, carcinoma of the lung, breast neoplasm
-Common (1% to 10%): PainFrequency not reported (Less than 2%): Digitalis intoxication, abscess, fever, hernia
-Frequency not reported (Less than 2%): Calcium crystalluria, cystitis, glycosuria, hematuria, kidney calculus, nocturia, PSA increase, pyuria, urinary tract disorder, urine abnormality
+Frequency of all cardiovascular events was  in those using the drug and  in the placebo group.
+No frequently occurring, defined as  or greater than placebo, cardiovascular events were associated.
+Common ( to ): RashFrequency not reported (Less than ): Dry skin, herpes simplex, herpes zoster, skin discoloration, skin hypertrophy
+Common ( to ): DiarrheaFrequency not reported (Less than ): Constipation, gastritis, melena, oral moniliasis, periodontal abscess, rectal hemorrhage
+Common ( to ): Back pain, leg crampsFrequency not reported (Less than ): Neck rigidity, pelvic pain, arthralgia, arthritis, rheumatoid arthritis, bone disorder, tendinous contracture
+Frequency not reported (Less than ): Retroperitoneal hemorrhage
+Frequency not reported (Less than ): Allergic reaction
+Frequency not reported (Less than ): Injection site pain
+Frequency not reported (Less than ): Dehydration, edema, glucose tolerance decreased, gout, hyperglycemia, hyperlipidemia, hypoglycemia, hypokalemia
+Frequency not reported (Less than ): Agitation, cerebral infarct, circumoral paresthesia, hypokinesia, somnolence, tremor, paralysis
+Frequency not reported (Less than ): Abnormal vision, glaucoma
+Frequency not reported (Less than ): Neoplasm, carcinoma of the lung, breast neoplasm
+Common ( to ): PainFrequency not reported (Less than ): Digitalis intoxication, abscess, fever, hernia
+Frequency not reported (Less than ): Calcium crystalluria, cystitis, glycosuria, hematuria, kidney calculus, nocturia, PSA increase, pyuria, urinary tract disorder, urine abnormality
 Back pain
 chest pain
 diarrhea

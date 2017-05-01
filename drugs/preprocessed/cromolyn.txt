@@ -10,18 +10,12 @@ Postmarketing reports: Anaphylaxis, laryngeal edema
 Frequency not reported: Pharyngitis, dyspnea, cough, nasal congestion, sneezing, wheezing, nasal itching, nose bleed, nose burningPostmarketing reports: Bronchospasm, pulmonary infiltrates with eosinophilia, hoarseness
 Frequency not reported: Polycythemia, neutropenia, pancytopeniaPostmarketing reports: Anemia
 Postmarketing reports: Dysuria, urinary frequency
-Rare (less than 0.
-1%): Pruritus, rashFrequency not reported: Urticaria/angioedema, erythema/burning, photosensitivity, purpuraPostmarketing reports: Photodermatitis, exfoliative dermatitis
-Rare (0.
-01% to 0.
-1%): Abdominal pain, nausea, Frequency not reported: Diarrhea, constipation, dyspepsia, flatulence, glossitis, stomatitis, vomiting, dysphagia, oesophagospasm, unpleasant taste, stomachache, mild throat irritationPostmarketing reports: Swollen parotid gland
+Rare (less than ): Pruritus, rashFrequency not reported: Urticaria/angioedema, erythema/burning, photosensitivity, purpuraPostmarketing reports: Photodermatitis, exfoliative dermatitis
+Rare ( to ): Abdominal pain, nausea, Frequency not reported: Diarrhea, constipation, dyspepsia, flatulence, glossitis, stomatitis, vomiting, dysphagia, oesophagospasm, unpleasant taste, stomachache, mild throat irritationPostmarketing reports: Swollen parotid gland
 Frequency not reported: Abnormal hepatic function test
 Frequency not reported: Flushing, tachycardia, premature ventricular contractions, palpitations, chest pain Postmarketing reports: Periarteritic vasculitis, pericarditis
-Rare (less than 0.
-1%): MyalgiaFrequency not reported: Arthralgia, stiffness/weakness of legs, lupus erythematosus syndromePostmarketing reports: Joint swelling and pain, polymyositis
-Rare (0.
-01% to 0.
-1%): HeadacheFrequency not reported: Dizziness, hypoesthesia, paresthesia, migraine, convulsionsPostmarketing reports: Peripheral neuritis
+Rare (less than ): MyalgiaFrequency not reported: Arthralgia, stiffness/weakness of legs, lupus erythematosus syndromePostmarketing reports: Joint swelling and pain, polymyositis
+Rare ( to ): HeadacheFrequency not reported: Dizziness, hypoesthesia, paresthesia, migraine, convulsionsPostmarketing reports: Peripheral neuritis
 Frequency not reported: Psychosis, anxiety, depression, hallucinations, behavior change, insomnia, nervousness
 Frequency not reported: Fatigue, malaise, tinnitusPostmarketing reports: Vertigo
 Postmarketing reports: Lacrimation

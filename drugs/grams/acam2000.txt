@@ -1,0 +1,450 @@
+regional lymphadenopathy
+myalgia
+fever
+nausea
+malaise
+height of the major reaction after vaccination
+indicating
+vaccination
+fever
+children after vaccination
+adults
+days after primary vaccination at least of children
+more days of temperature
+degrees f.
+percent
+had temperatures
+degrees f.
+frequent complication
+inadvertent inoculation of other sites
+autoinoculation of the virus
+vaccination site
+other parts of the body
+face
+eyelids
+nose
+mouth
+genitalia
+rectum
+autoinoculation of the eyes
+blindness
+postvaccinial encephalitis
+encephalomyelitis
+encephalopathy
+progressive vaccinia
+vaccinia necrosum
+eczema vaccinatum
+severe complications
+following
+following primary vaccination
+revaccination
+severe disability
+permanent neurological sequelae
+death
+death
+primary vaccinations
+death
+revaccinations
+encephalitis
+progressive vaccinia
+death
+unvaccinated contacts
+vaccinated persons
+vaccinia viremia
+vaccination
+vaccinia immune globulin
+certain vaccine complications
+eczema vaccinatum
+progressive vaccinia
+severe generalized vaccinia
+severe ocular vaccinia
+centers for disease control
+cdc
+physicians
+cdc for assistance with diagnosis
+treatment of smallpox vaccine complications
+telephone
+monday-friday
+am
+pm est
+other times
+healthy persons
+generalized vaccinia with a
+maculopapular rash
+days after vaccination
+condition
+immunocompromised individuals
+eczema vaccinatum
+vaccinial lesion
+high fever
+malaise
+generalized lymphadenopathy
+pustular eruptions
+patients with a history of atopic dermatitis
+highest risk
+developing ev
+prognosis
+mortality rate
+progressive vaccinia (i.
+e.
+vaccinia necrosum
+vaccinia gangrenosa
+prolonged vaccinia
+disseminated vaccinia
+nonhealing vaccination site
+painless progressive necrosis at the vaccination site
+metastasis
+other parts of the skin
+bones
+viscera
+distant lesions
+live vaccinia virus
+immunocompromised patients
+greater risk
+prognosis
+vaccinia immune globulin
+vig
+eczema vaccinatum
+progressive vaccinia
+centers for disease control
+cdc
+physicians
+cdc for assistance with diagnosis
+treatment of smallpox vaccine
+active ingredient
+acam
+complications
+telephone
+monday-friday
+am
+pm est
+other times
+hypersensitivity reactions
+stevens-johnson syndrome
+erythema multiforme
+onset of symptoms
+bulls-eye lesions
+pruritus
+days after vaccination
+dermatofibrosarcoma protuberans
+malignant fibrous histiocytoma
+malignant melanoma
+squamous cell carcinoma
+basal cell carcinoma
+benign dermatofibroma
+smallpox vaccination scars
+contact spread of vaccinia
+vaccinated military personnel
+dermatologic side effects
+pruritus
+rash
+generalized vaccinia
+gv
+eczema vaccinatum
+ev
+progressive vaccinia
+pv
+erythema multiforme
+folliculitis
+stevens-johnson syndrome
+bacterial infections
+contact spread
+addition
+precipitation of erythema nodosum in patients with leprosy
+malignant tumors at the vaccination scar
+discoid lupus
+localized myxedema
+causality
+local side effects
+secondary pyogenic infections at the site of vaccine application
+occurring
+days after vaccination
+swelling
+warmth
+pain at the injection site
+peak symptoms
+days after vaccination
+resolving
+hours
+normal vaccination reaction
+hypersensitivity reactions
+persistent allergic sensitization
+viral proteins
+immunity
+allergy
+appearance of a papule
+small area of redness
+first hours after revaccination
+vesicles
+hours
+scabbing
+stevens-johnson syndrome
+erythema multiforme
+ocular side effects
+severe ocular vaccinia
+inadvertent autoinoculation
+keratitis
+iritis
+conjunctivitis
+hyperemia
+edema
+membranes
+focal lesions
+blepharitis
+lid pustules
+edema
+hyperemia
+cellulitis
+corneal scarring
+disciform edema
+loss of vision
+patients with vaccinial keratitis
+lymphadenopathy
+fever
+ocular vaccinia
+ocular vaccinia
+contacts of vaccinees
+trifluridine
+vidarabine
+ophthalmic ointment
+conjunctival
+corneal vaccinia infections
+addition
+vaccinia
+immune globulin
+vig
+severe blepharitis
+blepharoconjunctivitis
+keratitis
+risk of vision loss
+using of vig for keratitis
+possibility of an
+increased risk of corneal scar formation
+large doses over multiple days in animal models
+consideration
+vig
+isolated keratitis
+vig
+centers for disease control
+cdc
+physicians
+cdc for assistance with diagnosis
+treatment of smallpox vaccine complications
+telephone
+monday-friday
+am
+pm est
+other times
+nervous system
+side effects
+headache
+dizziness
+paresthesia
+vertigo
+transient global amnesia
+anoxic encephalopathy
+polyneuropathy
+cerebrovascular accident
+cns tumor
+precipitation of neuritis in leprosy patients
+transverse myelitis
+seizures
+paralysis
+polyneuritis
+brachial neuritis
+case of ptosis
+diplopia
+speech
+paresis
+causality
+cases
+vaccine
+encephalitis
+pve
+encephalomyelitis
+pvem
+pve
+sudden onset
+days after vaccination
+seizures
+hemiplegia
+aphasia
+transient amnesia
+generalized cerebral edema
+mild lymphocytic meningeal infiltration
+ganglion
+degenerative changes
+perivascular hemorrhages
+cerebrospinal fluid examination
+increased opening csf pressure
+monocytosis
+lymphocytosis
+elevated csf protein
+pvem
+sudden onset
+days after vaccination
+fever
+headache
+malaise
+lethargy
+vomiting
+anorexia
+symptoms
+unconsciousness
+amnesia
+confusion
+disorientation
+restlessness
+delirium
+drowsiness
+seizures
+urinary incontinence
+urinary retention
+constipation
+meningismus
+coma
+increased csf pressure
+chemistry
+cell count
+histopathological changes
+perivenous demyelination
+microglial proliferation
+demyelinated areas with lymphocytic infiltration
+pve
+children
+years
+incidence
+cases
+vaccinees
+mortality rate
+complete recovery
+neurologic sequelae
+cardiovascular
+side effects
+myocarditis
+pericarditis
+myocardial infarction
+hypertension
+atypical chest pain
+angina
+palpitations
+supraventricular tachycardia
+atrial dysrhythmias
+symptomatic trigeminy
+premature ventricular contractions
+coronary artery disease
+dilated cardiomyopathy
+sudden death
+atherosclerotic coronary artery disease days after vaccination
+chest tightness with ecg changes
+causality
+cases
+symptoms of myopericarditis
+chest pain
+ecg changes
+cardiac enzymes
+abnormal echocardiograms
+days after vaccination
+pulmonary edema
+eosinophilic myopericarditis
+year-old male weeks after multiple vaccinations
+smallpox vaccine
+musculoskeletal side effects
+osteomyelitis
+arthritis
+shoulder pain
+noncardiac chest pain
+causality
+cases
+respiratory side effects
+asthma
+pneumonia
+respiratory distress
+pseudomediastinum
+scuba diving
+causality
+genitourinary side effects
+prostatitis
+causality
+gastrointestinal side effects
+cholecystitis
+gastroesophageal reflux disease
+causality
+cases
+feeling unusually cold
+shivering
+tender lymph glands in the neck
+armpit
+groin
+agitation
+anxiety
+back pain
+blindness
+blistering
+peeling
+loosening of skin
+pale skin
+blurred vision
+changes in vision
+chest discomfort
+chest pain
+moving
+left arm
+neck
+shoulder
+confusion
+convulsions (seizures)
+cough
+diarrhea
+breathing
+dizziness
+drowsiness
+fast heartbeat
+fever and chills
+hallucinations
+headache
+irritability
+itching
+muscle pain
+loss of consciousness
+mood
+mental changes
+red skin lesions
+purple center
+red, irritated eyes
+shortness of breath
+skin rash
+oozing
+sore throat
+sores
+ulcers
+white spots in the mouth
+lips
+stiff neck
+tightness in the chest
+trouble breathing
+unusual tiredness
+weakness
+vomiting
+wheezing
+decreased ability
+exercise
+difficulty
+bowel movement
+stool
+difficulty with moving
+flushing
+redness of the skin
+general feeling of discomfort
+illness
+itching
+pain
+redness
+swelling at the vaccine site
+muscle
+cramping
+muscle stiffness
+nausea
+rash
+swollen joints
+unusually warm skin

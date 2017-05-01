@@ -1,41 +1,22 @@
 If any of the following symptoms of overdose occur while taking fondaparinux, get emergency help immediately:
 The most common adverse events were bleeding events.
 The most serious adverse events were bleeding complications and thrombocytopenia.
-Very common (10% or more): Anemia (19.
-6%)Common (1% to 10%): Post-operative hemorrhage, major bleeding, minor bleeding, moderate thrombocytopenia, non-fatal major bleeding at surgical site, overt bleeding associated with a bleeding index of 2 or greater, prothrombin decreased, other clinically overt bleeding, bleedingUncommon (0.
-1% to 1%): Reoperation due to bleeding, non-fatal major bleeding at non-surgical site, severe thrombocytopenia, fatal bleeding, intracranial bleeding, thrombocythemia, abnormal platelets, coagulation disorder Very rare (less than 0.
-01%): Hypertensive encephalopathy with intracranial bleeding, minor gastrointestinal bleedingPostmarketing reports: Thrombocytopenia with thrombosis, aPTT elevation, intracerebral bleeding, retroperitoneal bleeding
-The majority of major bleeding events occurred during the first 4 days after surgery.
-Major bleeding incidence increased in patients weighing less than 50 kg and in patients with impaired renal function.
-Very common (10% or more): Fever (13.
-6%)Common (1% to 10%): Edema, post-operative wound infection, wound drainage increased, surgical site reaction, pain, chest painUncommon (0.
-1% to 1%): Edema peripheral, wound secretionRare (less than 0.
-1%): Hot flushes
-Very common (10% or more): Nausea (11.
-3%)Common (1% to 10%): Constipation, vomiting, diarrhea, dyspepsia, abdominal painRare (less than 0.
-1%): Gastritis
-Common (1% to 10%): Hematoma, bruisingRare (less than 0.
-1%): Injection site reactionFrequency not reported: Local irritation (injection site bleeding, rash, pruritus)
-Common (1% to 10%): Increases in ALT, increases in ASTUncommon (0.
-1% to 1%): Hepatic function abnormal, hepatic enzymes increasedRare (less than 0.
-1%): BilirubinemiaFrequency not reported: Increases in bilirubin
-Common (1% to 10%): Hypotension, hypertension
-Common (1% to 10%): Rash, purpura, bullous eruption (includes localized blister)Uncommon (0.
-1% to 1%): PruritusRare (less than 0.
-1%): Flushing
-Common (1% to 10%): Headache, dizziness Rare (less than 0.
-1%): Somnolence, vertigo, fatigue, syncopePostmarketing reports: Spinal or epidural hematoma
-Common (1% to 10%): Urinary tract infection, urinary retentionRare (less than 0.
-1%): Edema genital
-Common (1% to 10%): Hypokalemia
-Common (1% to 10%): Leg pain, back pain
-Common (1% to 10%): Insomnia, confusionUncommon (0.
-1% to 1%): Anxiety
-Common (1% to 10%): Pneumonia, coughing, epistaxisRare (less than 0.
-1%): Dyspnea
-Rare (less than 0.
-1%): Allergic reactionVery rare (less than 0.
-01%): Angioedema, anaphylactoid/anaphylactic reactionPostmarketing reports: Serious allergic reactions
+Very common ( or more): Anemia Common ( to ): Post-operative hemorrhage, major bleeding, minor bleeding, moderate thrombocytopenia, non-fatal major bleeding at surgical site, overt bleeding associated with a bleeding index of  or greater, prothrombin decreased, other clinically overt bleeding, bleedingUncommon ( to ): Reoperation due to bleeding, non-fatal major bleeding at non-surgical site, severe thrombocytopenia, fatal bleeding, intracranial bleeding, thrombocythemia, abnormal platelets, coagulation disorder Very rare (less than ): Hypertensive encephalopathy with intracranial bleeding, minor gastrointestinal bleedingPostmarketing reports: Thrombocytopenia with thrombosis, aPTT elevation, intracerebral bleeding, retroperitoneal bleeding
+The majority of major bleeding events occurred during the first  days after surgery.
+Major bleeding incidence increased in patients weighing less than  kg and in patients with impaired renal function.
+Very common ( or more): Fever Common ( to ): Edema, post-operative wound infection, wound drainage increased, surgical site reaction, pain, chest painUncommon ( to ): Edema peripheral, wound secretionRare (less than ): Hot flushes
+Very common ( or more): Nausea Common ( to ): Constipation, vomiting, diarrhea, dyspepsia, abdominal painRare (less than ): Gastritis
+Common ( to ): Hematoma, bruisingRare (less than ): Injection site reactionFrequency not reported: Local irritation (injection site bleeding, rash, pruritus)
+Common ( to ): Increases in ALT, increases in ASTUncommon ( to ): Hepatic function abnormal, hepatic enzymes increasedRare (less than ): BilirubinemiaFrequency not reported: Increases in bilirubin
+Common ( to ): Hypotension, hypertension
+Common ( to ): Rash, purpura, bullous eruption (includes localized blister)Uncommon ( to ): PruritusRare (less than ): Flushing
+Common ( to ): Headache, dizziness Rare (less than ): Somnolence, vertigo, fatigue, syncopePostmarketing reports: Spinal or epidural hematoma
+Common ( to ): Urinary tract infection, urinary retentionRare (less than ): Edema genital
+Common ( to ): Hypokalemia
+Common ( to ): Leg pain, back pain
+Common ( to ): Insomnia, confusionUncommon ( to ): Anxiety
+Common ( to ): Pneumonia, coughing, epistaxisRare (less than ): Dyspnea
+Rare (less than ): Allergic reactionVery rare (less than ): Angioedema, anaphylactoid/anaphylactic reactionPostmarketing reports: Serious allergic reactions
 Pale skin
 troubled breathing with exertion
 unusual bleeding or bruising

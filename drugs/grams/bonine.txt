@@ -1,0 +1,32 @@
+frequency
+drowsiness
+headache
+frequency
+anaphylactoid reaction
+frequency
+dry mouth
+vomiting
+blurred vision
+frequency
+fatigue
+cough
+difficulty swallowing
+dizziness
+drowsiness
+fast heartbeat
+hives
+itching
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+shortness of breath
+skin rash
+tightness in the chest
+unusual tiredness
+weakness
+blurred vision
+dry mouth
+headache

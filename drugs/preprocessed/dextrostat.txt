@@ -1,32 +1,17 @@
 If any of the following symptoms of overdose occur while taking dextroamphetamine, get emergency help immediately:
-Very common (10% or more): Decreased appetite, reduced weight gain, weight loss Common (1% to 10%): AnorexiaFrequency not reported: Acidosis
-Very common (10% or more): Insomnia, nervousnessCommon (1% to 10%): Abnormal behavior, aggression/hostility, excitation, anxiety, depression, irritabilityUncommon (0.
-1% to 1%): Psychotic episodes/psychosisVery rare (less than 0.
-01%): Suicidal behavior (including completed suicide), mania, hallucinations Frequency not reported: Overstimulation, restlessness, euphoria, dysphoria, confusion, dependence, emotional lability, impaired cognitive test performance, altered libido, night terrors, obsessive-compulsive behavior, panic states, paranoia
-Common (1% to 10%): Arrhythmia, palpitations, tachycardiaRare (less than 0.
-1%): Angina pectorisVery rare (less than 0.
-01%): Cardiac arrestFrequency not reported: Blood pressure and heart rate changes (usually elevated), cardiomyopathy, myocardial infarction, chest pain, cardiovascular collapse, Raynaud's phenomenon
-Common (1% to 10%): Abdominal pain and cramps, nausea, vomiting, dry mouthFrequency not reported: Ischemic colitis, unpleasant taste, diarrhea, constipation, other gastrointestinal disturbances
-Common (1% to 10%): ArthralgiaRare (less than 0.
-1%): Growth retardationVery rare (less than 0.
-01%): Muscle crampsFrequency not reported: Rhabdomyolysis
-Common (1% to 10%): Vertigo, dyskinesia, headache, hyperactivityVery rare (less than 0.
-01%): Tourette syndrome, tics, exacerbation of pre-existing motor and phonic tics, convulsions, choreoathetoid movements, intracranial hemorrhage, cerebral vasculitis and/or occlusion, neuroleptic malignant syndrome (NMS)Frequency not reported: Dizziness, tremor, ataxia, dysgeusia, concentration difficulties, hyperreflexia, stroke
-Rare (less than 0.
-1%): Rash, urticariaVery rare (less than 0.
-01%): Erythema multiforme, exfoliative dermatitis, fixed drug eruptionFrequency not reported: Sweating, alopecia
-Rare (less than 0.
-1%): Visual accommodation difficulties, blurred vision, mydriasis
-Rare (less than 0.
-1%): FatigueFrequency not reported: Hyperpyrexia, sudden death
-Very rare (less than 0.
-01%): Anemia, leukopenia, thrombocytopenia, thrombocytopenic purpura
-Very rare (less than 0.
-01%): Abnormal liver function ranging from hepatic enzyme elevations to hepatic coma
+Very common ( or more): Decreased appetite, reduced weight gain, weight loss Common ( to ): AnorexiaFrequency not reported: Acidosis
+Very common ( or more): Insomnia, nervousnessCommon ( to ): Abnormal behavior, aggression/hostility, excitation, anxiety, depression, irritabilityUncommon ( to ): Psychotic episodes/psychosisVery rare (less than ): Suicidal behavior (including completed suicide), mania, hallucinations Frequency not reported: Overstimulation, restlessness, euphoria, dysphoria, confusion, dependence, emotional lability, impaired cognitive test performance, altered libido, night terrors, obsessive-compulsive behavior, panic states, paranoia
+Common ( to ): Arrhythmia, palpitations, tachycardiaRare (less than ): Angina pectorisVery rare (less than ): Cardiac arrestFrequency not reported: Blood pressure and heart rate changes (usually elevated), cardiomyopathy, myocardial infarction, chest pain, cardiovascular collapse, Raynaud's phenomenon
+Common ( to ): Abdominal pain and cramps, nausea, vomiting, dry mouthFrequency not reported: Ischemic colitis, unpleasant taste, diarrhea, constipation, other gastrointestinal disturbances
+Common ( to ): ArthralgiaRare (less than ): Growth retardationVery rare (less than ): Muscle crampsFrequency not reported: Rhabdomyolysis
+Common ( to ): Vertigo, dyskinesia, headache, hyperactivityVery rare (less than ): Tourette syndrome, tics, exacerbation of pre-existing motor and phonic tics, convulsions, choreoathetoid movements, intracranial hemorrhage, cerebral vasculitis and/or occlusion, neuroleptic malignant syndrome (NMS)Frequency not reported: Dizziness, tremor, ataxia, dysgeusia, concentration difficulties, hyperreflexia, stroke
+Rare (less than ): Rash, urticariaVery rare (less than ): Erythema multiforme, exfoliative dermatitis, fixed drug eruptionFrequency not reported: Sweating, alopecia
+Rare (less than ): Visual accommodation difficulties, blurred vision, mydriasis
+Rare (less than ): FatigueFrequency not reported: Hyperpyrexia, sudden death
+Very rare (less than ): Anemia, leukopenia, thrombocytopenia, thrombocytopenic purpura
+Very rare (less than ): Abnormal liver function ranging from hepatic enzyme elevations to hepatic coma
 Frequency not reported: Impotence, libido changes, frequent or prolonged erections
-Frequency not reported: Hypersensitivity reactions (e.
-g.
-, angioedema and anaphylaxis)
+Frequency not reported: Hypersensitivity reactions (, angioedema and anaphylaxis)
 Frequency not reported: Renal damage
 Agitation
 delusions

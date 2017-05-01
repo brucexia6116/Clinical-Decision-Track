@@ -1,9 +1,7 @@
 The most common side effects were cough, headache, dizziness, and edema.
-Common (1% to 10%): Headache, dizzinessFrequency not reported: TremorAmlodipine:Common (1% to 10%): Headache, dizzinessPostmarketing reports: Dysgeusia, hypoesthesia, paresthesia, syncope, peripheral neuropathy, hypertoniaBenazepril:Common (1% to 10%): Headache, dizzinessPostmarketing reports: Paresthesia, dysgeusia
-Common (1% to 10%): CoughFrequency not reported: PharyngitisAmlodipine:Uncommon (0.
-1% to 1%): CoughPostmarketing reports: RhinitisBenazepril:Common (1% to 10%): Cough
-Common (1% to 10%): EdemaFrequency not reported: Asthenia, fatigueAmlodipine:Common (1% to 10%): EdemaPostmarketing reports: MalaiseBenazepril:Uncommon (0.
-1% to 1%): Edema
+Common ( to ): Headache, dizzinessFrequency not reported: TremorAmlodipine:Common ( to ): Headache, dizzinessPostmarketing reports: Dysgeusia, hypoesthesia, paresthesia, syncope, peripheral neuropathy, hypertoniaBenazepril:Common ( to ): Headache, dizzinessPostmarketing reports: Paresthesia, dysgeusia
+Common ( to ): CoughFrequency not reported: PharyngitisAmlodipine:Uncommon ( to ): CoughPostmarketing reports: RhinitisBenazepril:Common ( to ): Cough
+Common ( to ): EdemaFrequency not reported: Asthenia, fatigueAmlodipine:Common ( to ): EdemaPostmarketing reports: MalaiseBenazepril:Uncommon ( to ): Edema
 Amlodipine-induced peripheral edema is dose dependent.
 Benazepril reduces the incidence of edema when added to amlodipine.
 Frequency not reported: Impotence, polyuriaAmlodipine:Postmarketing reports: Micturition disorder, nocturia, erectile dysfunction

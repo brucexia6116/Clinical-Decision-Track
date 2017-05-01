@@ -1,7 +1,7 @@
 In some animal studies, cholestyramine (the active ingredient contained in Cholestyramine Light) was found to cause tumors.
 It is not known whether cholestyramine causes tumors in humans.
 If any of the following side effects occur while taking cholestyramine, check with your doctor or nurse as soon as possible:
-Gastrointestinal side effects include constipation (28%), heartburn (17%), belching or bloating (11%), nausea (9%), eructation, anorexia, steatorrhea, hemorrhoids, rectal pain and irritation, diverticulitis, and bleeding from a known duodenal ulcer.
+Gastrointestinal side effects include constipation , heartburn , belching or bloating , nausea , eructation, anorexia, steatorrhea, hemorrhoids, rectal pain and irritation, diverticulitis, and bleeding from a known duodenal ulcer.
 Intestinal obstruction and pancreatitis are also reported in the literature.
 Gastrointestinal side effects occur in the majority of patients treated with cholestyramine.
 Constipation is most common and can be severe.
@@ -10,7 +10,7 @@ Elderly patients are probably at risk for this as well.
 In one large study, gastrointestinal side effects diminished with continued therapy.
 If gastrointestinal side effects are significant, dosage reductions, even if temporary, may be beneficial.
 Metabolic side effects include hyperchloremic metabolic acidosis, weight loss, and weight gain.
-Cholestyramine (the active ingredient contained in Cholestyramine Light) has been reported to decrease the absorption of thyroxine (T4).
+Cholestyramine (the active ingredient contained in Cholestyramine Light) has been reported to decrease the absorption of thyroxine (T).
 Hyperchloremic metabolic acidosis has been reported in pediatric as well as adult patients.
 Onset of clinical illness ranged from days to several weeks after beginning cholestyramine therapy.
 In three out of four adult cases in the literature, spironolactone was used as concomitant therapy.

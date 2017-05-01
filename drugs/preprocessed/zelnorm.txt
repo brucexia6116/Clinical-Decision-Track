@@ -1,5 +1,4 @@
 As well as its needed effects, tegaserod (the active ingredient contained in Zelnorm) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking tegaserod, check with your doctor immediately:
 If any of the following symptoms of overdose occur while taking tegaserod, get emergency help immediately:
 Some tegaserod side effects may not need any medical attention.
@@ -7,7 +6,7 @@ As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Cardiovascular side effects have included hypotension, angina pectoris, syncope, arrhythmia, bundle branch block, supraventricular tachycardia, and flushing.
 A case of myocardial infarction has been reported.
-Myocardial infarction has been reported in a 64-year-old male after receiving two doses of tegaserod 6 mg.
+Myocardial infarction has been reported in a -year-old male after receiving two doses of tegaserod  mg.
 Nervous system side effects have included headache, dizziness, migraine, insomnia, vertigo, and Raynaud's phenomenon.
 Gastrointestinal side effects have included abdominal pain, diarrhea, nausea, flatulence, abdominal distention and pain, vomiting, dyspepsia, gastritis, gastroesophageal reflux, hemorrhoids, and proctalgia.
 Irritable colon, fecal incontinence, tenesmus, increased appetite, eructation, appendicitis, bilirubinemia, subileus, sphincter of Oddi spasm, bile duct stone, ischemic colitis, mesenteric ischemia, gangrenous bowel, rectal bleeding, and increases in abdominal surgeries, primarily cholecystectomies, have also been reported; however, causality was not clearly established.
@@ -24,9 +23,9 @@ Alopecia has been reported during postmarketing experience.
 Endocrine side effects have included increased sweating.
 Genitourinary side effects have included frequent micturition, polyuria, urinary tract infection, ovarian cyst, miscarriage, dysmenorrhea, and menorrhagia.
 Renal side effects have included renal pain and albuminuria.
-Side effects affecting the body as a whole have included accidental trauma (3% vs.
-2% for placebo) and leg pain (1% vs.
-less than 1% for placebo).
+Side effects affecting the body as a whole have included accidental trauma ( vs.
+for placebo) and leg pain ( vs.
+less than  for placebo).
 Other effects, regardless of causality, have included pain and facial edema.
 It is possible that some side effects of Zelnorm may not have been reported.
 These can be reported to the FDA here.

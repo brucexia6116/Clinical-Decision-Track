@@ -6,36 +6,35 @@ This medicine may cause a temporary loss of hair in some people.
 After treatment with dacarbazine has ended, normal hair growth should return.
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention.
 If you notice any of the following side effects check with your doctor immediately:
-Hematologic side effects may be delayed for 2 to 4 weeks after dosage administration.
+Hematologic side effects may be delayed for  to  weeks after dosage administration.
 Hematologic side effects including hematopoietic depression (involving primarily the leukocytes and platelets) are the most commonly reported toxicity.
 Severe cases of leukopenia and thrombocytopenia resulting in fatality have been reported.
 Anemia has also been reported.
 Gastrointestinal side effects including anorexia, nausea, and vomiting have been reported frequently.
 Diarrhea has rarely been reported.
-Anorexia, nausea, and vomiting may begin within 1 to 12 hours of dosage administration.
-Over 90% of patients are affected within the first few doses.
+Anorexia, nausea, and vomiting may begin within  to  hours of dosage administration.
+Over  of patients are affected within the first few doses.
 Intractable nausea and vomiting have rarely necessitated discontinuation of therapy.
-Vomiting has been reported to last for 1 to 2 hours and be incompletely and unpredictably palliated with phenobarbital and/or prochlorperazine.
+Vomiting has been reported to last for  to  hours and be incompletely and unpredictably palliated with phenobarbital and/or prochlorperazine.
 Some clinicians have recommended the use of serotonin receptor antagonist to control the nausea and vomiting.
 The rapid toleration of nausea and vomiting may suggest a central nervous system mechanism.
 Usually these symptoms subside after the first day or two.
-In a trial of high-dose dacarbazine, of 28 dosages equal to or greater than 1,380 mg/m2, all caused nausea and vomiting.
-At 1,380 mg/m2, 12 of 14 patients experienced diarrhea.
-Of 13 dosages greater than 1,380 mg/m2, all caused diarrhea.
+In a trial of high-dose dacarbazine, of  dosages equal to or greater than , mg/m, all caused nausea and vomiting.
+At , mg/m,  of  patients experienced diarrhea.
+Of  dosages greater than , mg/m, all caused diarrhea.
 The manufacturer states that hepatic toxicity has occurred primarily when dacarbazine has been administered concomitantly with other antineoplastic agents.
-In one study, fatal massive hepatic necrosis with widespread thrombotic occlusion of the small hepatic veins developed in two of 68 patients (3%).
-The study notes 13 similar reactions in patients receiving dacarbazine as single agent therapy to have been reported in the literature.
+In one study, fatal massive hepatic necrosis with widespread thrombotic occlusion of the small hepatic veins developed in two of  patients .
+The study notes  similar reactions in patients receiving dacarbazine as single agent therapy to have been reported in the literature.
 Hepatic toxicity may be delayed.
-Hepatic side effects including hepatic vein thrombosis and fatal hepatocellular necrosis have been reported (0.
-01%).
+Hepatic side effects including hepatic vein thrombosis and fatal hepatocellular necrosis have been reported .
 Because the hypotension was reversible by either stopping the infusion or administration of calcium chloride, it has been suggested that the citric acid preservative may have been the cause of the hypotension.
 Cardiovascular side effects including dose-limiting hypotension have been reported during high dose therapy.
 Hypersensitivity side effects including anaphylaxis have been reported.
 Dermatologic side effects including erythematous and urticarial rashes, facial flushing, phototoxic dermatitis, facial paresthesia, alopecia, facial flushing, and photosensitivity have been reported.
 Ten cases of photosensitivity have been reported.
 The influenza-like syndrome usually occurs after large single doses, and may occur with successive treatments.
-Onset may occur after approximately 7 days and symptoms generally resolve after 1 to 3 weeks.
-Other side effects including an influenza-like syndrome (fever to 39 degrees Celsius, myalgias, and malaise) have been reported.
+Onset may occur after approximately  days and symptoms generally resolve after  to  weeks.
+Other side effects including an influenza-like syndrome (fever to  degrees Celsius, myalgias, and malaise) have been reported.
 Metallic taste has also been reported.
 Local side effects including extravasation of the drug subcutaneously during intravenous administration have been reported to have resulted in local pain (occasionally severe), burning sensation, irritation and tissue damage.
 Oncologic side effects have been reported in animal studies.
@@ -54,7 +53,7 @@ swelling of face
 yellow eyes or skin 
 Sores in mouth and on lips
 Loss of appetite
-nausea or vomiting (should lessen after 1 or 2 days)
+nausea or vomiting (should lessen after  or  days)
 Feelings of uneasiness
 flushing of face
 muscle pain

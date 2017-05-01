@@ -6,16 +6,15 @@ Discuss these possible effects with your doctor.
 If any of the following side effects occur while taking cisplatin, check with your doctor or nurse as soon as possible:
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention.
 If you notice any of the following side effects check with your doctor immediately:
-A study of 12 patients who received recommended doses of cisplatin incurred moderate loss of renal function 12 and 24 months after therapy was discontinued.
+A study of  patients who received recommended doses of cisplatin incurred moderate loss of renal function  and  months after therapy was discontinued.
 The renal dysfunction was not progressive.
-However, glomerular filtration rate (GFR) and effective renal plasma flow (EPRF) were decreased by 23% and 19%, respectively.
-Other studies have shown moderate and permanent reduction in GFR up to 52 months after cisplatin therapy.
+However, glomerular filtration rate (GFR) and effective renal plasma flow (EPRF) were decreased by  and , respectively.
+Other studies have shown moderate and permanent reduction in GFR up to  months after cisplatin therapy.
 Elderly patients may be more susceptible to nephrotoxicity.
 The risk of renal toxicity may be decreased with appropriate monitoring of renal function tests as well as aggressive hydration with chloride-containing fluids and appropriate electrolyte replacement.
 Amifostine, a thiol chemoprotectant, is approved to reduce cisplatin nephrotoxicity and does not interfere with antitumor activity.
 Renal side effects have been reported to present during the second week after a dose of cisplatin and become more prolonged and severe with repeated courses of cisplatin therapy.
-Nephrotoxicity is the most important dose-limiting side effect of cisplatin, which is dose-related, cumulative, and occurs in 36% of patients after single doses of 50 mg/m2.
-Renal function should return to baseline before subsequent doses are administered.
+Nephrotoxicity is the most important dose-limiting side effect of cisplatin, which is dose-related, cumulative, and occurs in  of patients after single doses of  mg/m  Renal function should return to baseline before subsequent doses are administered.
 Cisplatin-induced renal tubule damage can result in clinically significant hypomagnesemia and hypokalemia as well as hypocalcemia, hyponatremia, hypophosphatemia, and hyperuricemia.
 Gastrointestinal side effects have included nausea and vomiting which can be dose-limiting in some patients.
 Nausea and vomiting usually begin one to four hours after treatment and may last up to five days.
@@ -28,11 +27,11 @@ Oral steroid therapy, if tolerated, with or without metoclopramide may be useful
 (Serotonin antagonists provide limited benefits for delayed emesis.
 )
 Symptoms of the sensory polyneuropathy typically begin in toes and feet and, later, affect the fingers and hands in a stocking-and-glove distribution.
-The neuropathies typically occur after prolonged therapy (4 to 7 months).
+The neuropathies typically occur after prolonged therapy ( to  months).
 However, symptoms have been reported after a single dose.
 Cisplatin neuropathies generally occur with higher dosage regimens and may be irreversible.
 Elderly patients may be more susceptible to peripheral neuropathy.
-Tinnitus and/or high-frequency (4000 to 8000 Hz) hearing loss occurs first, is unilateral or bilateral and may appear 3 to 4 days after initial treatment; however, deafness after the initial dose of cisplatin is rare.
+Tinnitus and/or high-frequency ( to  Hz) hearing loss occurs first, is unilateral or bilateral and may appear  to  days after initial treatment; however, deafness after the initial dose of cisplatin is rare.
 Cisplatin-induced ototoxicity is related to the loss of outer hair cells in the cochlea.
 Ototoxicity is associated with both high cisplatin doses and high cumulative doses.
 Hearing impairment is generally irreversible; however, hearing aids may help.
@@ -40,21 +39,18 @@ Nervous system side effects can be dose limiting for patients receiving cisplati
 The most common form of nerve damage from cisplatin is a sensory polyneuropathy.
 Other forms of nerve damage from cisplatin include autonomic neuropathies, seizures, encephalopathy, myasthenic syndrome, cortical blindness, Lhermitte's sign, and dorsal column myelopathy.
 Ototoxicity, headache, loss of taste, strokes, leukoencephalopathy, and reversible posterior leukoencephalopathy syndrome (RPLS) have also been reported.
-Myelosuppression is a dose-related effect and usually occurs with doses greater than 50 mg/m2.
-Cisplatin-based therapy may result in a cumulative, clinically significant anemia which is disproportionate to the drugs effects on other blood cells.
+Myelosuppression is a dose-related effect and usually occurs with doses greater than  mg/m  Cisplatin-based therapy may result in a cumulative, clinically significant anemia which is disproportionate to the drugs effects on other blood cells.
 Elderly patients may be more susceptible to myelosuppression.
-Frequent anemia was reported in one study with 28 patients receiving six cycles of cisplatin in combination with 3 other chemotherapeutic agents.
-Thirteen patients became severely anemic, 12 became moderately anemic, and three became mildly anemic.
-The anemia was progressive and 66.
-7% of the patients became severely anemic during the third and fourth months of therapy.
+Frequent anemia was reported in one study with  patients receiving six cycles of cisplatin in combination with  other chemotherapeutic agents.
+Thirteen patients became severely anemic,  became moderately anemic, and three became mildly anemic.
+The anemia was progressive and  of the patients became severely anemic during the third and fourth months of therapy.
 Treatment of anemia with recombinant erythropoietin is generally helpful.
 Epoetin alfa has been approved for use in the treatment of anemia in patients with nonmyeloid malignancies where anemia is the result of concomitantly administered chemotherapy.
-The nadirs in circulating erythrocytes, platelets, and leukocytes occur between days 18 to 23 (range 7.
-5 to 45), with most patients recovering by day 39 (range 13 to 62).
-Leukocytes usually recover after 14 to 21 days.
-Most patients are able to be retreated at 21 day intervals.
+The nadirs in circulating erythrocytes, platelets, and leukocytes occur between days  to  (range  to ), with most patients recovering by day  (range  to ).
+Leukocytes usually recover after  to  days.
+Most patients are able to be retreated at  day intervals.
 Hematologic side effects including myelosuppression have been reported.
-Cisplatin causes moderate and transient myelosuppression in 25% to 30% of patients.
+Cisplatin causes moderate and transient myelosuppression in  to  of patients.
 Coombs' positive hemolytic anemia has also been reported.
 Ocular side effects including optic neuritis, papilledema, cortical blindness, focal deficits, and cerebral blindness have been infrequently reported in patients receiving standard doses of cisplatin.
 Improvement and/or total recovery usually occurs after discontinuation of cisplatin.
@@ -66,8 +62,7 @@ Supportive equipment and medications should be available for possible anaphylact
 Hepatic side effects including transient elevations of liver enzymes, especially SGOT, as well as bilirubin, have been reported.
 However, the incidence and clinical importance is relatively low.
 Severity of the local tissue toxicity appears to be related to the concentration of the cisplatin solution.
-Infusions of solutions with a cisplatin concentration greater than 0.
-5 mg/mL may rarely result in tissue inflammation and fibrosis.
+Infusions of solutions with a cisplatin concentration greater than  mg/mL may rarely result in tissue inflammation and fibrosis.
 Local side effects including soft tissue toxicity have rarely been reported following extravasation of cisplatin.
 Cardiovascular side effects including myocardial infarction, cerebrovascular accident, deep vein thrombosis, pulmonary embolism, transient ischemic attack, thrombotic microangiopathy (hemolytic uremic syndrome), cerebral arteritis, and blood pressure abnormalities have been reported.
 Raynaud's phenomenon has been reported in patients receiving bleomycin and vinblastine, with or without cisplatin.

@@ -1,0 +1,142 @@
+common adverse reaction
+drug discontinuation
+bleeding
+cabg
+coronary artery bypass graft surgery
+related timi
+thrombolysis in myocardial infarction
+overt bleeding
+hemoglobin
+g/dl
+intracranial hemorrhage
+minor
+overt bleeding
+hemoglobin
+g/dl
+bleeding
+non-cabg-related timi major
+minor bleeding in patients
+kg
+non-cabg-related timi major bleeding
+non-cabg-related timi minor bleeding
+non-cabg-related life-threatening timi major bleeding
+non-cabg-related timi
+fatal bleeding in patients years
+cabg-related reoperation timi major bleeding
+cabg-related timi major
+bleeding requiring transfusion of units
+anemia
+leukopenia
+wbc/l
+non-cabg-related fatal timi major bleeding
+non-cabg-related symptomatic intracranial hemorrhage
+ich
+non-cabg-related timi major
+bleeding requiring inotropes
+non-cabg-related timi major
+bleeding requiring
+bleeding requiring surgical intervention
+non-cabg-related timi major
+bleeding requiring transfusion of units
+cabg-related fatal timi major bleeding
+post-procedural hemorrhagerare
+severe thrombocytopeniapostmarketing reports
+thrombocytopenia
+hypertension
+hypotension
+atrial fibrillation
+bradycardia
+hematomauncommon
+retroperitoneal hemorrhage
+pericardial effusion/hemorrhage/tamponadevery
+thrombotic thrombocytopenic purpura
+gastrointestinal hemorrhage
+nausea
+diarrheauncommon
+rectal hemorrhage
+gingival bleeding
+hematochezia
+rash
+contusion
+ecchymosisuncommon
+subcutaneous hematomarare
+angioedema
+dyspnea
+cough
+epistaxisuncommon
+hemoptysis
+pain
+non-cardiac chest pain
+pain in extremity
+vessel puncture site hematoma
+puncture site hemorrhage
+headache
+dizziness
+hypercholesterolemia/hyperlipidemia
+peripheral edema
+fatigue
+pyrexia
+hematuria
+newly-diagnosed malignancies
+allergic reactionsrare
+hypersensitivity
+anaphylaxis
+abnormal hepatic function
+eye hemorrhage
+blurred vision
+dizziness
+headache
+nervousness
+pounding in the ears
+fast heartbeat
+black, tarry stools
+bloating
+swelling of the face
+arms
+hands
+lower legs
+feet
+chest pain
+discomfort
+chills
+cough
+breathing
+fainting
+fever
+irregular heartbeat
+lightheadedness
+dizziness
+fainting
+difficult urination
+rapid weight gain
+sore throat
+sores
+ulcers
+white spots on the lips
+mouth
+swollen glands
+tightness in the chest
+tingling of the hands
+feet
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+unusual weight gain
+loss
+change in mental status
+bloody urine
+difficulty with speaking
+fever
+pale color of the skin
+red spots on the skin
+seizures
+weakness
+yellow eyes
+skin
+back pain
+diarrhea
+nausea
+pain in the arms
+legs
+rash

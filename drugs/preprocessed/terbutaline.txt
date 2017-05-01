@@ -1,6 +1,5 @@
 Other dosage forms:
 As well as its needed effects, terbutaline may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking terbutaline, check with your doctor immediately:
 If any of the following symptoms of overdose occur while taking terbutaline, get emergency help immediately:
 Some terbutaline side effects may not need any medical attention.
@@ -10,14 +9,13 @@ Terbutaline has usually been well tolerated and adverse effects seen have been c
 In general, the severity of these adverse effects have been dependent on dose and the route of administration.
 Administration by metered dose inhaler (MDI) has been associated with less systemic effects than administration of higher doses by nebulizer or orally.
 Tolerance to the adverse effects of terbutaline has occurred.
-Changes in heart rate of approximately 30% may be observed following 5 mg of terbutaline given orally.
+Changes in heart rate of approximately  may be observed following  mg of terbutaline given orally.
 Aggravation of angina may be due to the tachycardia induced by terbutaline.
-Prolongation of the QT interval occurred in ten healthy males given a bolus injection of 0.
-25 mg terbutaline followed by an infusion of 5 mcg/min.
+Prolongation of the QT interval occurred in ten healthy males given a bolus injection of  mg terbutaline followed by an infusion of  mcg/min.
 Supraventricular ectopic beats and ventricular tachycardia have also been reported.
 Higher dosages of terbutaline should be used with caution in patients with cardiac disease, arrhythmias, or hypertension.
 All of these effects are dose-related and lower doses may be tolerated.
-In one case-control study a positive association was found between the use of oral terbutaline for longer than 9 days and peripartum cardiomyopathy.
+In one case-control study a positive association was found between the use of oral terbutaline for longer than  days and peripartum cardiomyopathy.
 Further study is needed to determine if a causative relationship exists.
 Cardiovascular side effects have included palpitations and peripheral vasodilation, commonly resulting in reflex tachycardia.
 Changes in blood pressure, both increases and decreases, have been reported.
@@ -28,13 +26,9 @@ Musculoskeletal side effects have included tremors, especially at higher doses.
 Tolerance has developed to the tremorogenic effects.
 Severe muscle cramping has been rarely reported.
 Metabolic side effects have included hypokalemia, hypomagnesemia, and less commonly hyperglycemia.
-Infusions of terbutaline, 25 mcg/min, in women in premature labor has caused decreases in serum potassium of up to 1.
-6 to 2 mEq/L.
-Another study in ten healthy males produced a mean decrease in serum potassium of 0.
-9 mEq/L following a bolus injection of 0.
-25 mg terbutaline, followed by an infusion of 5 mcg/min.
-A decrease in magnesium of 0.
-08 mmol/L was produced in these same patients.
+Infusions of terbutaline,  mcg/min, in women in premature labor has caused decreases in serum potassium of up to  to  mEq/L.
+Another study in ten healthy males produced a mean decrease in serum potassium of  mEq/L following a bolus injection of  mg terbutaline, followed by an infusion of  mcg/min.
+A decrease in magnesium of  mmol/L was produced in these same patients.
 This fall in potassium is presumably due to an intracellular shift of potassium secondary to hyperglycemia and hyperinsulinemia.
 Nervous system side effects have included headache, restlessness, anxiety, nervousness, irritability, and insomnia.
 Other side effects have included the development of tachyphylaxis to the bronchodilating effects of terbutaline.

@@ -2,7 +2,7 @@ Adverse effects may occur at any time during parenteral gold therapy.
 Blood or plasma concentrations do not appear to correlate with the development of toxicity but the cumulative dose may.
 Severe side effects result in discontinuation of aurothioglucose in up to one-third of patients by one year of therapy.
 Dermatologic side effects have been reported the most frequently.
-These occur in up to 50% of patients.
+These occur in up to  of patients.
 Dermatitis, pruritus, nonspecific rash, and maculopapular rash, papular or vesicular eruptions, exfoliative dermatitis, and toxic epidermal necrolysis, have been reported as the more serious reactions.
 Partial or complete hair loss can occur.
 In addition, sterile abscesses at injection sites, fat necrosis, erythema anulare centrifugum, granuloma anulare, pityriasis rosea, lichen planus, discoid eczema, and skin pigmentation or chrysiasis have been associated with parenteral gold therapy.
@@ -12,8 +12,8 @@ Aurothioglucose may be successfully reintroduced following complete resolution o
 Therapy should be cautiously reinstituted using small doses with a gradual titration.
 Skin pigmentation, known as chrysiasis, characterized by a gray or blue discoloration of sun-exposed skin has been reported following the use of parenteral gold salts.
 There are data to suggest that the development of gold-induced skin rash is associated with remission in rheumatoid arthritis patients.
-In one retrospective study of 247 patients treated with parenteral gold, 31 patients experienced dermatologic toxicity.
-All 31 patients entered remission as defined by clinical and laboratory parameters.
+In one retrospective study of  patients treated with parenteral gold,  patients experienced dermatologic toxicity.
+All  patients entered remission as defined by clinical and laboratory parameters.
 None of the patients who developed other types of toxicity went into remission.
 Further study is needed to validate these findings.
 Mucous membrane reactions occur commonly and may prompt discontinuation of therapy.
@@ -22,19 +22,18 @@ Conjunctivitis and vaginitis have also been reported.
 A case report of gold-induced oral lichen-planus has also been described in the literature.
 Patients should be instructed to practice good oral hygiene in an attempt to reduce the incidence and severity of oral mucocutaneous reactions.
 In the event that mucocutaneous reactions worsen or spread, systemic glucocorticoids may be necessary in addition to discontinuation of aurothioglucose therapy.
-One recent study found an increased frequency of HLA-DR1 antigens in rheumatoid arthritis patients who developed gold-induced mucocutaneous reactions compared to patients who did not develop such reactions.
-The authors of this study suggest that knowledge of the presence of HLA-DR1 may aid in the evaluation of risk versus benefit in given patients.
+One recent study found an increased frequency of HLA-DR antigens in rheumatoid arthritis patients who developed gold-induced mucocutaneous reactions compared to patients who did not develop such reactions.
+The authors of this study suggest that knowledge of the presence of HLA-DR may aid in the evaluation of risk versus benefit in given patients.
 Hypersensitivity side effects have included anaphylactic shock, syncope, bradycardia, thickening of the tongue, difficulty in swallowing and breathing, fever, and angioneurotic edema.
-Patients should be observed for evidence of an immediate hypersensitivity response for at least 15 to 30 minutes after each injection.
+Patients should be observed for evidence of an immediate hypersensitivity response for at least  to  minutes after each injection.
 Decreases in hemoglobin as well as leukopenia, granulocytopenia, and thrombocytopenia may be warning signs of gold toxicity.
-Any rapid decline in platelet counts or a platelet count of less than 100,000/mm3 necessitates discontinuation of aurothioglucose.
+Any rapid decline in platelet counts or a platelet count of less than ,/mm necessitates discontinuation of aurothioglucose.
 Gold therapy should not be reinstituted unless the thrombocytopenia is shown to be unrelated to gold.
 Gold-induced thrombocytopenia appears to involve peripheral destruction of platelets.
 Bone marrow aspirates in cases of aurothioglucose- or other gold salt-induced thrombocytopenias revealed normal or increased numbers of megakaryocytes.
 While elevated platelet-associated IgG was present in some cases, in others, evidence of circulating antibodies could not be found.
 In addition to discontinuation of gold therapy and initiation of glucocorticoid therapy, treatment of various refractory gold-induced blood dyscrasias has included the use of antithymocyte globulin, chelating agents, granulocyte colony-stimulating factor, granulocyte-macrophage colony-stimulating factor, and high-dose intravenous gamma globulin as well as bone marrow transplantation.
-Hematologic side effects have included thrombocytopenia (3% to 5%), eosinophilia (5%), leukopenia (up to 1.
-4%), anemia, agranulocytosis, pancytopenia, and aplastic anemia.
+Hematologic side effects have included thrombocytopenia ( to ), eosinophilia , leukopenia (up to ), anemia, agranulocytosis, pancytopenia, and aplastic anemia.
 In addition, lymphadenopathy has been reported.
 Gold deposits in the lens and cornea appear to be dose related.
 Such deposits are not usually associated with visual disturbances and typically disappear within months of discontinuing therapy.
@@ -45,15 +44,15 @@ A case of transient monocular visual loss in association with a nitritoid reacti
 Clinically significant proteinuria or hematuria or increasing proteinuria require cessation of gold therapy.
 Renal toxicity is usually reversible if recognized early and aurothioglucose is discontinued.
 Further therapy with gold salts is contraindicated in this setting.
-There are data which suggest that the risk of proteinuria may be increased in patients with HLA-DR3 antigens.
+There are data which suggest that the risk of proteinuria may be increased in patients with HLA-DR antigens.
 In addition, onset of proteinuria may be faster in this population.
-Renal side effects have included proteinuria (3% to 19%), hematuria, nephrotic syndrome, glomerulonephritis, and interstitial nephritis.
+Renal side effects have included proteinuria ( to ), hematuria, nephrotic syndrome, glomerulonephritis, and interstitial nephritis.
 In addition, extremely rare cases of acute tubular necrosis have been reported.
 Cholestasis is the most common form of gold-induced hepatotoxicity and typically presents early in the course of gold therapy.
 While usually reversible upon discontinuation of the drug, fatal cases of intrahepatic cholestasis have been reported.
 The presence of rash and eosinophilia in many cases suggests that this form of hepatotoxicity is due to a hypersensitivity reaction.
 Several cases of massive hepatic necrosis have also been reported in the literature.
-In three fatal cases, cumulative doses of parenteral gold were 75 mg, 385 mg, and greater than 2500 mg, respectively.
+In three fatal cases, cumulative doses of parenteral gold were  mg,  mg, and greater than  mg, respectively.
 Hepatotoxicity side effects have been reported rarely.
 These have included jaundice, cholestatic hepatitis, hepatic necrosis, and granulomatous hepatitis.
 Vasomotor, or nitritoid, symptoms typically faintness, palpitations, flushing, weakness, sweating, nausea, and vomiting occur most often following injection of gold sodium thiomalate.
@@ -70,7 +69,7 @@ Patients with gold-induced lung disease may present with shortness of breath, no
 If drug-induced lung disease is suspected, gold therapy should be discontinued.
 If infection has been excluded, glucocorticoid therapy may also be indicated.
 As rheumatoid arthritis may be associated with pulmonary changes, assessment of causality in cases of suspected gold-induced pulmonary toxicity is difficult.
-However, gold-induced lung disease tends to be associated with an acute onset of symptoms, often shortly after gold therapy is initiated (typically after a cumulative dose of approximately 500 mg).
+However, gold-induced lung disease tends to be associated with an acute onset of symptoms, often shortly after gold therapy is initiated (typically after a cumulative dose of approximately  mg).
 In addition, positive dechallenges and rechallenges tend to support gold as a causative factor.
 Nervous system side effects are rare.
 Peripheral neuritis, encephalopathy, encephalomyelitis, and Guillain Barre-like syndrome have been reported.

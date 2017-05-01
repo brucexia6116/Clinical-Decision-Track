@@ -12,7 +12,7 @@ Hypernatremia may cause water retention, weight gain, and edema, which may be im
 Metabolic side effects have included metabolic alkalosis, hypernatremia/hyperosmolarity, hypochloremia, and hypokalemia.
 These effects have been associated with rapid or prolonged administration.
 Side effects have rarely included intravascular volume expansion with resultant hyporeninemia and hypoaldosteronemia.
-The respiratory drive may be suppressed after bicarbonate administration due to increased venous C02 concentration.
+The respiratory drive may be suppressed after bicarbonate administration due to increased venous C concentration.
 Without adequate ventilation, worsened systemic acidosis could develop.
 Respiratory side effects have included suppressed respiratory drive.
 Rapid infusion of hyperosmolar sodium bicarbonate has been associated with intraventricular hemorrhage in the pediatric literature.
@@ -27,7 +27,7 @@ Experimentally, the administration of intravenous hypertonic sodium bicarbonate 
 Some experts recommend invasive hemodynamic monitoring in acidotic patients before the administration of bicarbonate.
 Gastrointestinal side effects associated with oral administration have rarely included gastric rupture.
 As an antacid, sodium bicarbonate, especially after excess food or liquid, can cause excess gas release (when combined with gastric acid).
-The mortality associated with gastric rupture is as high as 65%.
+The mortality associated with gastric rupture is as high as .
 Urinary alkalinization from bicarbonate can cause a falsely positive colorimetric assay for protein.
 Renal side effects have rarely included "False proteinuria".
 It is possible that some side effects of sodium bicarbonate may not have been reported.

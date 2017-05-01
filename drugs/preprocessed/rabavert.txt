@@ -3,7 +3,6 @@ You should not receive a booster vaccine if you had a life-threatening allergic 
 
 Keep track of any and all side effects you have after receiving this vaccine.
 When you receive a booster dose, you will need to tell the doctor if the previous shot caused any side effects.
-
 Becoming infected with rabies is much more dangerous to your health than receiving this vaccine.
 However, like any medicine, this vaccine can cause side effects but the risk of serious side effects is extremely low.
 Call your doctor at once if you have rare but serious side effects, such as:
@@ -21,7 +20,6 @@ nausea; or
 skin rash.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-
 Hypersensitivity side effects have included anaphylaxis, type III hypersensitivity-like reactions, bronchospasm, urticaria, pruritus, and edema.
 Nervous system side effects have included dizziness, transient paresthesias, neuroparalysis, encephalitis, meningitis, transient paralysis, Guillain-Barre syndrome, myelitis, retrobulbar neuritis, multiple sclerosis, vertigo, and visual disturbance.
 The use of corticosteroids to treat life-threatening neuroparalytic reactions may inhibit the development of immunity to rabies.
@@ -31,8 +29,8 @@ Gastrointestinal side effects have included nausea.
 Dermatologic side effects have included rash and one case of suspected urticaria pigmentosa.
 Musculoskeletal side effects have included myalgia, arthralgia, and monoarthritis.
 Other side effects have included flu-like symptoms such as asthenia, fatigue, fever, headache, myalgia, and malaise; and lymphadenopathy, sweating, and chills.
-The most common side effects have included local injection site reactions in up to 45% of patients.
-The most common systemic reactions have included malaise, headache, and dizziness in up to 25% of patients.
+The most common side effects have included local injection site reactions in up to  of patients.
+The most common systemic reactions have included malaise, headache, and dizziness in up to  of patients.
 Rabies prophylaxis should not be interrupted or discontinued because of local or mild systemic reactions.
 These reactions usually can be managed with antipyretics and anti-inflammatories.
 The risk of developing a potentially fatal rabies infection should be considered before making the decision to discontinue rabies vaccination when severe anaphylactic or neuroparalytic reactions occur.
@@ -40,7 +38,7 @@ The State Health Department or Centers for Disease Control and Prevention may be
 Adverse reactions should be reported to the U.
 S.
 Department of Health and Human Services Vaccine Adverse Event Reporting System.
-Reporting forms and information regarding the completion of the form can be obtained at 1-800-822-7967 (USA).
+Reporting forms and information regarding the completion of the form can be obtained at --- (USA).
 It is possible that some side effects of RabAvert may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

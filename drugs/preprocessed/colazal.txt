@@ -4,29 +4,24 @@ Abdominal pain, rectal bleeding, and anemia can be part of the clinical presenta
 During a clinical trial, the most common side effects reported in male patients taking the tablet formulation were headache, nasopharyngitis, anemia, diarrhea fatigue, pharyngolaryngeal pain, and urinary tract infection.
 Most side effects were mild to moderate in severity.
 The most common serious side effects were gastrointestinal disorders, which were primarily associated with symptoms of ulcerative colitis.
-Gastrointestinal side effects have included abdominal pain (up to 6%), diarrhea (up to 5%), nausea (5%), vomiting (up to 4%), dyspepsia (2%), flatulence (up to 2%), anorexia (2%), dry mouth (up to 1%), constipation (up to 1%), defecation urgency (less than 1%), hard feces (less than 1%), gastroesophageal reflux disease (less than 1%), and gastroenteritis (less than 1%).
+Gastrointestinal side effects have included abdominal pain (up to ), diarrhea (up to ), nausea , vomiting (up to ), dyspepsia , flatulence (up to ), anorexia , dry mouth (up to ), constipation (up to ), defecation urgency (less than ), hard feces (less than ), gastroesophageal reflux disease (less than ), and gastroenteritis (less than ).
 Pancreatitis has been reported during postmarketing experience.
-Musculoskeletal side effects have included arthralgia (up to 4%), musculoskeletal pain (2.
-4%), myalgia (up to 1%), and back pain (less than 1%).
-Respiratory side effects have included nasopharyngitis, respiratory infection (4%), pharyngolaryngeal pain (3.
-7%), coughing (2%), pharyngitis (2%), rhinitis (2%), dyspnea (less than 1%), and upper respiratory infection (less than 1%).
+Musculoskeletal side effects have included arthralgia (up to ), musculoskeletal pain , myalgia (up to ), and back pain (less than ).
+Respiratory side effects have included nasopharyngitis, respiratory infection , pharyngolaryngeal pain , coughing , pharyngitis , rhinitis , dyspnea (less than ), and upper respiratory infection (less than ).
 Pleural effusion, pneumonia (with and without eosinophilia), and alveolitis have been reported during postmarketing experience.
-Nervous system side effects have included headache (8%), insomnia (up to 2.
-4%), lethargy (less than 1%), and dizziness (less than 1%).
-Hepatic side effects have included elevated aspartate aminotransferase (less than 1%).
+Nervous system side effects have included headache , insomnia (up to ), lethargy (less than ), and dizziness (less than ).
+Hepatic side effects have included elevated aspartate aminotransferase (less than ).
 Hepatotoxicity, including elevated liver function tests (SGOT/AST, SGPT/ALT, GGT, LDH, alkaline phosphatase, bilirubin), jaundice, cholestatic jaundice, cirrhosis, hepatocellular damage (including liver necrosis and liver failure), and Kawasaki-like syndrome (including hepatic function changes) have been reported during postmarketing experience of products that contain (or are metabolized to) mesalamine; some cases were fatal.
-Hematologic side effects have included anemia (3.
-7%), thrombocythemia, and prothrombin changes.
+Hematologic side effects have included anemia , thrombocythemia, and prothrombin changes.
 A higher incidence of blood dyscrasias (i.
 e.
-, neutropenia and pancytopenia) has been reported during uncontrolled clinical trials and postmarketing experience in patients 65 years or older receiving mesalamine-containing products.
-Cardiovascular side effects have included increased blood pressure (less than 1%), increased heart rate (less than 1%), hypertension, palpitations, and bradycardia.
+, neutropenia and pancytopenia) has been reported during uncontrolled clinical trials and postmarketing experience in patients  years or older receiving mesalamine-containing products.
+Cardiovascular side effects have included increased blood pressure (less than ), increased heart rate (less than ), hypertension, palpitations, and bradycardia.
 Myocarditis, pericarditis, and vasculitis have been reported during postmarketing experience.
 Renal side effects have included renal failure and interstitial nephritis during postmarketing experience.
-Other side effects have included fatigue (up to 2%), fever (2%), cramps (1%), influenza-like disorder (1%), pyrexia (less than 1%), face edema (less than 1%), malaise (less than 1%), pain (less than 1%), and swelling (less than 1%).
-Genitourinary side effects have included urinary tract infection (up to 3.
-7%).
-Dermatologic side effects have included erythema nodosum (less than 1%) and rash (less than 1%).
+Other side effects have included fatigue (up to ), fever , cramps , influenza-like disorder , pyrexia (less than ), face edema (less than ), malaise (less than ), pain (less than ), and swelling (less than ).
+Genitourinary side effects have included urinary tract infection (up to ).
+Dermatologic side effects have included erythema nodosum (less than ) and rash (less than ).
 Pruritus and alopecia have been reported during postmarketing experience.
 Bloody diarrhea
 fever

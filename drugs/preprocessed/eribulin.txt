@@ -2,27 +2,24 @@ Commonly reported side effects of eribulin include: urinary tract infection, sev
 Other side effects include: febrile neutropenia, and peripheral motor neuropathy.
 See below for a comprehensive list of adverse effects.
 If any of the following side effects occur while taking eribulin, check with your doctor or nurse immediately:
-Very common (10% or more): Neutropenia (up to 82%), anemia (up to 58%) Very common (10% or more): Urinary tract infection (up to 10%)Uncommon (0.
-1% to 1%): Dysuria, hematuria, proteinuria, hematuria, leukopenia, lymphopenia
-In one study, grade 3 neutropenia occurred in 28% of patients, 29% experience grade 4 neutropenia, and 5% of patients experienced febrile neutropenia.
-Dose reductions due to neutropenia occurred in 12% of patients and discontinuation was required in less than 1% of patients.
-Grade 3 or greater thrombocytopenia was reported in 1% of patients.
-Granulocyte colony-stimulating factor or granulocyte-macrophage colony-stimulating factor was used in 19% of patients treated with this drug.
-Very common (10% or more): Peripheral neuropathy (up to 35%)Common (1% to 10%): Dysgeusia, dizziness, hypoesthesia, lethargy, neurotoxicity, polyneuropathy, peripheral sensory neuropathy, paresthesia
-Very common (10% or more): Nausea (up to 35%), constipation (up to 25%), diarrhea (up to 18%), vomiting (up to 18%)Common (1% to 10%): Abdominal pain, stomatitis, dry mouth, dyspepsia, gastroesophageal reflux disease, mouth ulceration, mucosal inflammation, abdominal distensionPostmarketing reports: Pancreatitis
-Common (1% to 10%): QT prolongation, tachycardia, peripheral edema
-Very common (10% or more): Alopecia (up to 45%)Common (1% to 10%): Rash, pruritus, nail disorder, night sweats, palmar plantar erythrodysesthesia, dry skin, erythema, hyperhidrosis
-Very common (10% or more): Urinary tract infection (up to 10%)Uncommon (0.
-1% to 1%): Dysuria, hematuria, proteinuriav
-Common (1% to 10%): Alanine aminotransferase increased, aspartate aminotransferase increased, gamma glutamyl transferase increased, hyperbilirubinemia
-Very common (10% or more): Weight decreased (up to 21%), anorexia (up to 20%)Common (1% to 10%): Hypokalemia
-Very common (10% or more): Arthralgia/Myalgia (up to 22%), back pain (up to 16%), bone pain (up to 12%), pain in extremity (up to 11%)Common (1% to 10%): Muscle spasms, musculoskeletal pain, musculoskeletal chest pain
-Common (1% to 10%): Lacrimation increased, conjunctivitis
-Very common (10% or more): Asthenia/Fatigue (up to 54%), pyrexia (up to 21%) Common (1% to 10%): Disseminated intravascular coagulation, oral herpes, mucosal inflammation, hot flushes, pain, chills, peripheral neuropathy, headacheFrequency not reported: Tinnitus
-Very common (10% or more): HeadacheCommon (1% to 10%): Insomnia, depression
-Very common (10% or more): Dyspnea (up to 16%), cough (up to 14%)Rare (less than 0.
-1%): Upper respiratory tract infection, nasopharyngitis, rhinitisFrequency not reported: Oropharyngeal pain, epistaxis, rhinorrhea
-Very common (10% or more):Common (1% to 10%): Oral candidiasis, influenza-like illness, mucosal inflammationPostmarketing reports: Pneumonia, sepsis/neutropenic sepsis
+Very common ( or more): Neutropenia (up to ), anemia (up to ) Very common ( or more): Urinary tract infection (up to )Uncommon ( to ): Dysuria, hematuria, proteinuria, hematuria, leukopenia, lymphopenia
+In one study, grade  neutropenia occurred in  of patients,  experience grade  neutropenia, and  of patients experienced febrile neutropenia.
+Dose reductions due to neutropenia occurred in  of patients and discontinuation was required in less than  of patients.
+Grade  or greater thrombocytopenia was reported in  of patients.
+Granulocyte colony-stimulating factor or granulocyte-macrophage colony-stimulating factor was used in  of patients treated with this drug.
+Very common ( or more): Peripheral neuropathy (up to )Common ( to ): Dysgeusia, dizziness, hypoesthesia, lethargy, neurotoxicity, polyneuropathy, peripheral sensory neuropathy, paresthesia
+Very common ( or more): Nausea (up to ), constipation (up to ), diarrhea (up to ), vomiting (up to )Common ( to ): Abdominal pain, stomatitis, dry mouth, dyspepsia, gastroesophageal reflux disease, mouth ulceration, mucosal inflammation, abdominal distensionPostmarketing reports: Pancreatitis
+Common ( to ): QT prolongation, tachycardia, peripheral edema
+Very common ( or more): Alopecia (up to )Common ( to ): Rash, pruritus, nail disorder, night sweats, palmar plantar erythrodysesthesia, dry skin, erythema, hyperhidrosis
+Very common ( or more): Urinary tract infection (up to )Uncommon ( to ): Dysuria, hematuria, proteinuriav
+Common ( to ): Alanine aminotransferase increased, aspartate aminotransferase increased, gamma glutamyl transferase increased, hyperbilirubinemia
+Very common ( or more): Weight decreased (up to ), anorexia (up to )Common ( to ): Hypokalemia
+Very common ( or more): Arthralgia/Myalgia (up to ), back pain (up to ), bone pain (up to ), pain in extremity (up to )Common ( to ): Muscle spasms, musculoskeletal pain, musculoskeletal chest pain
+Common ( to ): Lacrimation increased, conjunctivitis
+Very common ( or more): Asthenia/Fatigue (up to ), pyrexia (up to ) Common ( to ): Disseminated intravascular coagulation, oral herpes, mucosal inflammation, hot flushes, pain, chills, peripheral neuropathy, headacheFrequency not reported: Tinnitus
+Very common ( or more): HeadacheCommon ( to ): Insomnia, depression
+Very common ( or more): Dyspnea (up to ), cough (up to )Rare (less than ): Upper respiratory tract infection, nasopharyngitis, rhinitisFrequency not reported: Oropharyngeal pain, epistaxis, rhinorrhea
+Very common ( or more):Common ( to ): Oral candidiasis, influenza-like illness, mucosal inflammationPostmarketing reports: Pneumonia, sepsis/neutropenic sepsis
 Black, tarry stools
 bladder pain
 bloating or swelling of the face, arms, hands, lower legs, or feet

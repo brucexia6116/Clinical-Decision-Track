@@ -1,78 +1,67 @@
-Because of the way that muromonab-CD3 acts on the body, there is a chance that it may cause effects that may not occur until years after the medicine is used.
+Because of the way that muromonab-CD acts on the body, there is a chance that it may cause effects that may not occur until years after the medicine is used.
 These delayed effects may include certain types of cancer, such as lymphomas and skin cancers.
 Discuss these possible effects with your doctor.
 Although not all of the following side effects may occur, if they do occur, they may need medical attention.
-If any of the following side effects occur while taking muromonab-cd3, check with your doctor or nurse as soon as possible:
+If any of the following side effects occur while taking muromonab-cd, check with your doctor or nurse as soon as possible:
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention.
 If you notice any of the following side effects check with your doctor immediately:
-General side effects of muromonab CD3 include an acute clinical syndrome known as the Cytokine Release Syndrome or CRS.
-CRS, attributed to the release of cytokines by activated T cells, is most commonly characterized by a "flu-like" illness, including fever (spiking as high as 107 degrees Fahrenheit), chills, rigors, headache, nausea, vomiting, diarrhea, malaise, arthralgias, myalgias, and weakness.
+General side effects of muromonab CD include an acute clinical syndrome known as the Cytokine Release Syndrome or CRS.
+CRS, attributed to the release of cytokines by activated T cells, is most commonly characterized by a "flu-like" illness, including fever (spiking as high as  degrees Fahrenheit), chills, rigors, headache, nausea, vomiting, diarrhea, malaise, arthralgias, myalgias, and weakness.
 More serious, and sometimes fatal, manifestations, include pulmonary edema, hemodynamic instability, shock, respiratory arrest, and cardiac arrest.
-The CRS is associated with the first few doses of muromonab CD3.
-Onset of symptoms is typically within 30 to 60 minutes after the first dose.
-Symptoms are thought to be due to the release of cytokines, including tumor necrosis factor, gamma interferon, interleukin-2, interleukin-3, interleukin-4, interleukin-6, and granulocyte colony stimulating factor, from T cells following binding of muromonab CD3.
-Pretreatment with 8 mg/kg methylprednisolone sodium succinate intravenously one to four hours before and 100 mg hydrocortisone sodium succinate 30 minutes after administration of the first dose of muromonab CD3 may reduce the severity of symptoms associated with the CRS.
+The CRS is associated with the first few doses of muromonab CD  Onset of symptoms is typically within  to  minutes after the first dose.
+Symptoms are thought to be due to the release of cytokines, including tumor necrosis factor, gamma interferon, interleukin-, interleukin-, interleukin-, interleukin-, and granulocyte colony stimulating factor, from T cells following binding of muromonab CDPretreatment with  mg/kg methylprednisolone sodium succinate intravenously one to four hours before and  mg hydrocortisone sodium succinate  minutes after administration of the first dose of muromonab CD may reduce the severity of symptoms associated with the CRS.
 While data are conflicting, other agents which may be of benefit include indomethacin, heparin, pentoxifylline, and experimental anti-TNF monoclonal antibodies.
 Patients at increased risk for serious complications associated with the CRS include those with unstable angina, recent myocardial infarction, symptomatic ischemic heart disease, heart failure, pulmonary edema, intravascular volume overload or depletion, cerebrovascular disease, septic shock, or a history of seizures.
-Cardiovascular side effects may be more common in patients receiving muromonab CD3 for prophylaxis of allograft rejection than in patients receiving muromonab CD3 for reversal of rejection.
+Cardiovascular side effects may be more common in patients receiving muromonab CD for prophylaxis of allograft rejection than in patients receiving muromonab CD for reversal of rejection.
 Tumor necrosis factor is thought to be involved in the pathogenesis of the cardiovascular side effects.
-In one study involving 18 patients treated with muromonab CD3 5 mg per day for ten days for renal allograft rejection, mean systolic and diastolic blood pressures increased 20.
-9 and 10.
-8 mmHg, respectively, on day one, in nine patients.
-On day 2, mean systolic and diastolic pressures increased 41.
-7 and 19.
-1 mmHg, respectively, in 10 patients.
-Heart rate increased 23.
-7 beats per minute on day one but no change was noted on day two.
+In one study involving  patients treated with muromonab CD  mg per day for ten days for renal allograft rejection, mean systolic and diastolic blood pressures increased  and  mmHg, respectively, on day one, in nine patients.
+On day , mean systolic and diastolic pressures increased  and  mmHg, respectively, in  patients.
+Heart rate increased  beats per minute on day one but no change was noted on day two.
 No significant changes in blood pressure or heart rate were noted on day three.
-The increase in blood pressure lasted approximately two hours on day one and 11 to 13 hours on day two.
-Thrombosis of allografts and other vascular beds has been reported during therapy with muromonab CD3.
-In one study of 93 renal allograft recipients receiving muromonab CD3 prophylactically, nine patients had intragraft thromboses within two weeks of transplantation.
-Elevated prothrombin fragments 1 and 2 were noted as compared to a control group.
+The increase in blood pressure lasted approximately two hours on day one and  to  hours on day two.
+Thrombosis of allografts and other vascular beds has been reported during therapy with muromonab CD  In one study of  renal allograft recipients receiving muromonab CD prophylactically, nine patients had intragraft thromboses within two weeks of transplantation.
+Elevated prothrombin fragments  and  were noted as compared to a control group.
 Tumor necrosis factor as well as endothelial cell activation are suspected of playing a role in the thrombotic events.
-Cardiovascular side effects have included hypertension (24% to 64%), hypotension (12% to 18%), chest pain or angina (14%), tachycardia (3% to 45%), bradycardia, and hemodynamic instability.
+Cardiovascular side effects have included hypertension ( to ), hypotension ( to ), chest pain or angina , tachycardia ( to ), bradycardia, and hemodynamic instability.
 Cardiac arrest, severe hypotension or shock, heart failure, cardiovascular collapse, left ventricular dysfunction, and arrhythmias have also been reported.
 In addition, thrombotic events within main graft vessels have been reported.
-Pulmonary edema, sometimes fatal, has been reported in up to 13% of patients in early studies.
+Pulmonary edema, sometimes fatal, has been reported in up to  of patients in early studies.
 However, affected patients were determined to be fluid overloaded in the pretreatment period.
-Restrictions against use in patients who are volume overloaded as evidenced by a 3% or greater increase in body weight during the week prior to muromonab CD3 treatment has drastically reduced the occurrence of pulmonary edema; although, cases of pulmonary edema in euvolemic patients have been reported.
+Restrictions against use in patients who are volume overloaded as evidenced by a  or greater increase in body weight during the week prior to muromonab CD treatment has drastically reduced the occurrence of pulmonary edema; although, cases of pulmonary edema in euvolemic patients have been reported.
 Increased pulmonary vascular permeability and/or reduced left ventricular compliance or contractility are additional risk factors.
 The mechanism may involve tumor necrosis factor-alpha as well as complement activation and pulmonary sequestration of activated granulocytes.
-The use of muromonab CD3 is considered contraindicated in patients with volume overload and/or uncompensated heart failure.
+The use of muromonab CD is considered contraindicated in patients with volume overload and/or uncompensated heart failure.
 Respiratory side effects have included dyspnea, shortness of breath, bronchospasm, apnea, and tachypnea.
-More serious effects, including pulmonary edema (cardiogenic and noncardiogenic), respiratory distress syndrome, and respiratory failure have also been attributed to muromonab CD3 therapy and may be fatal.
-Aseptic meningitis usually presents within 72 hours following the first dose of muromonab CD3, accompanied by symptoms of fever, headache, nuchal rigidity, and photophobia.
+More serious effects, including pulmonary edema (cardiogenic and noncardiogenic), respiratory distress syndrome, and respiratory failure have also been attributed to muromonab CD therapy and may be fatal.
+Aseptic meningitis usually presents within  hours following the first dose of muromonab CD, accompanied by symptoms of fever, headache, nuchal rigidity, and photophobia.
 Cerebral spinal fluid findings include pleocytosis, elevated protein, and negative cultures.
-Symptoms typically resolve in two or three days regardless of whether or not muromonab CD3 therapy is continued.
-Encephalopathy, also known as cytokine encephalopathy, may occur in up to 7% of patients and is typically characterized by confusion, hallucinations, seizures, obtundation, coma, and occasionally, blindness.
+Symptoms typically resolve in two or three days regardless of whether or not muromonab CD therapy is continued.
+Encephalopathy, also known as cytokine encephalopathy, may occur in up to  of patients and is typically characterized by confusion, hallucinations, seizures, obtundation, coma, and occasionally, blindness.
 Cytokine encephalopathy usually regresses without significant intervention.
 However, severe cases necessitate discontinuation of the drug.
 Permanent neurologic deficits have been reported.
-One study identified delayed graft function as a significant risk factor for the development of cytokine encephalopathy in patients treated prophylactically with muromonab CD3.
+One study identified delayed graft function as a significant risk factor for the development of cytokine encephalopathy in patients treated prophylactically with muromonab CD
 Nervous system side effects have included headache and mental status changes as well as more serious sequelae including seizures, cerebritis, aseptic meningitis, and encephalopathy.
 Hematologic side effects have included pancytopenia, aplastic anemia, neutropenia, leukopenia, thrombocytopenia, lymphopenia, leukocytosis, and disturbances in coagulation.
 Graft vessel thromboses have also been reported.
-Elevations in prothrombin fragments 1 and 2 and von Willebrand's factor have been found following the first dose of muromonab CD3.
-Tumor necrosis factor-alpha appears to be the mediator of muromonab CD3-induced coagulopathy.
+Elevations in prothrombin fragments  and  and von Willebrand's factor have been found following the first dose of muromonab CD  Tumor necrosis factor-alpha appears to be the mediator of muromonab CD-induced coagulopathy.
 Oncologic side effects, or the development of new malignancies, are of particular concern in post-transplant patients.
 Lymphoproliferative disorders are of the most concern.
 Lymphadenopathy and benign polyclonal B cell hyperplasia as well as malignant, often fatal, B cell lymphomas have been reported.
 The majority of lymphomas have been diagnosed within the first four months following transplantation, and are often rapidly progressive and disseminated at the time of diagnosis.
-Reduction in doses of other immunosuppressants during muromonab CD3 therapy for reversal of rejection is recommended to reduce the risk of neoplastic disease.
-Muromonab CD3 is considered contraindicated in patients with a history of hypersensitivity to murine-derived products or with an anti-mouse antibody titer greater than 1:1000.
-Retreatment with muromonab CD3 may be associated with an increased incidence of hypersensitivity reactions and should be done with caution.
-Hypersensitivity side effects from muromonab CD3 have included rash, pruritus, angioedema, and anaphylaxis.
+Reduction in doses of other immunosuppressants during muromonab CD therapy for reversal of rejection is recommended to reduce the risk of neoplastic disease.
+Muromonab CD is considered contraindicated in patients with a history of hypersensitivity to murine-derived products or with an anti-mouse antibody titer greater than :  Retreatment with muromonab CD may be associated with an increased incidence of hypersensitivity reactions and should be done with caution.
+Hypersensitivity side effects from muromonab CD have included rash, pruritus, angioedema, and anaphylaxis.
 In addition, serum sickness; immune complex deposition causing glomerulonephritis, vasculitis, and temporal arteritis; and eosinophilia have been reported.
 Reversible renal dysfunction, known as cytokine nephropathy, is characterized by transient increases in serum creatinine and blood urea nitrogen.
-In one study, serum creatinine increased by an average of 2.
-9 mg/dl and fell to prerejection levels by the end of muromonab CD3 therapy.
+In one study, serum creatinine increased by an average of  mg/dl and fell to prerejection levels by the end of muromonab CD therapy.
 Renal side effects have included a slight decline in renal function, as evidenced by a transient increase in serum creatinine and blood urea nitrogen.
 In addition, anuria, oliguria, delayed renal graft function, interstitial nephritis, and abnormal urinalysis have been reported.
-Gastrointestinal side effects, such as nausea/vomiting (18% to 51%) and diarrhea (21%), may be severe requiring fluid management.
+Gastrointestinal side effects, such as nausea/vomiting ( to ) and diarrhea , may be severe requiring fluid management.
 In addition, cases of bowel infarction and pancreatitis have been reported.
-Other side effects associated with muromonab CD3 have included blindness, anterior scleritis, blurred vision, double vision, conjunctivitis, hearing loss, vertigo, tinnitus, and VI cranial nerve palsy.
-Immunologic side effects including infections have been associated with muromonab CD3 therapy and are a result of immunosuppression.
-Cytomegalovirus, Herpes simplex, and fungal infections are the most commonly encountered infections during muromonab CD3 immunosuppressive therapy.
+Other side effects associated with muromonab CD have included blindness, anterior scleritis, blurred vision, double vision, conjunctivitis, hearing loss, vertigo, tinnitus, and VI cranial nerve palsy.
+Immunologic side effects including infections have been associated with muromonab CD therapy and are a result of immunosuppression.
+Cytomegalovirus, Herpes simplex, and fungal infections are the most commonly encountered infections during muromonab CD immunosuppressive therapy.
 Other infections, including bacterial, viral, and protozoal, have been reported as well.
 Several studies have identified an increased risk of invasive cytomegalovirus infection in recipients of CMV-positive grafts which is associated with a significant increase in morbidity and mortality.
 Chest pain

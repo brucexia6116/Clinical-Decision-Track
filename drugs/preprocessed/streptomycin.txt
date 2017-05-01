@@ -1,5 +1,4 @@
 As well as its needed effects, streptomycin may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking streptomycin, check with your doctor or nurse immediately:
 Some streptomycin side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
@@ -10,8 +9,7 @@ Nervous system side effects have included eighth cranial nerve toxicity, which t
 Streptomycin has more vestibulotoxicity than cochlear toxicity.
 Vestibulotoxicity is usually reversible with early detection and discontinuation of streptomycin.
 Cochlear toxicity is often irreversible.
-A large percentage of patients receiving daily doses of 1.
-8 to 2 grams are likely to develop symptoms of vestibular toxicity within 4 weeks, especially the elderly or renally impaired.
+A large percentage of patients receiving daily doses of  to  grams are likely to develop symptoms of vestibular toxicity within  weeks, especially the elderly or renally impaired.
 Scotomas, presenting as blind spots, and peripheral neuritis have been reported.
 Previous exposure to aminoglycosides, concomitant use of other potentially ototoxic agents (such as aspirin), and advanced age may provide additional risk of ototoxicity.
 If symptoms of dizziness, ataxia, tinnitus, vertigo, headache, or decreased hearing occur, alternate therapy should be considered.

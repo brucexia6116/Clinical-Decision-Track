@@ -1,55 +1,38 @@
-Common (1% to 10%): Dry cough, rhinitis, upper respiratory infection, bronchitis, pharyngitisUncommon (0.
-1% to 1%):Rare (less than 0.
-1%): Pneumonia, asthma, respiratory infiltration, lung disorder, acute noncardiogenic pulmonary edemaFrequency not reported: Rash, acute pulmonary edema, interstitial cystitis
+Common ( to ): Dry cough, rhinitis, upper respiratory infection, bronchitis, pharyngitisUncommon ( to ):Rare (less than ): Pneumonia, asthma, respiratory infiltration, lung disorder, acute noncardiogenic pulmonary edemaFrequency not reported: Rash, acute pulmonary edema, interstitial cystitis
 Patients with renal artery stenosis maintain glomerular filtration rate (GFR) by efferent arteriolar vasoconstriction, which is blocked by quinapril.
 Although quinapril may be associated with a rise in serum creatinine and BUN, GFR has been shown to remain unchanged or improve in most patients.
 HCTZ has been used to treat nephrogenic diabetes insipidus.
 However, a case in which the drug was believed to have caused this condition has been reported.
-Frequency not reported: New or worsened renal insufficiency (especially in patients with preexisting renal insufficiency or who are angiotensin-dependent, such as those with CHF)Quinapril:Frequency not reported: Acute renal failure, new onset proteinuriaHydrochlorothiazide:Rare (less than 0.
-1%): Interstitial nephritis
-Common (1% to 10%): Vasodilation, vertigo, chest painUncommon (0.
-1% to 1%): Palpitations, tachycardiaRare (less than 0.
-1%): Heart failure, myocardial infarction, cerebrovascular accident, hypertensive crisis, orthostatic hypotension, cardiac rhythm disturbanceFrequency not reported: Hydrochlorothiazide-induced hypokalemia can predispose some patients to various cardiac arrhythmias, such as ventricular ectopy and complete AV heart blockPostmarketing reports: Bradycardia, cor pulmonale, vasculitis, deep thrombosis
+Frequency not reported: New or worsened renal insufficiency (especially in patients with preexisting renal insufficiency or who are angiotensin-dependent, such as those with CHF)Quinapril:Frequency not reported: Acute renal failure, new onset proteinuriaHydrochlorothiazide:Rare (less than ): Interstitial nephritis
+Common ( to ): Vasodilation, vertigo, chest painUncommon ( to ): Palpitations, tachycardiaRare (less than ): Heart failure, myocardial infarction, cerebrovascular accident, hypertensive crisis, orthostatic hypotension, cardiac rhythm disturbanceFrequency not reported: Hydrochlorothiazide-induced hypokalemia can predispose some patients to various cardiac arrhythmias, such as ventricular ectopy and complete AV heart blockPostmarketing reports: Bradycardia, cor pulmonale, vasculitis, deep thrombosis
 Hypotension is most likely in patients who are sodium and intravascular volume depleted.
-Patients with intestinal angioedema generally present with abdominal pain (with or without nausea or vomiting) and in some cases there was no prior history of facial angioedema, and C-1 esterase levels were normal.
+Patients with intestinal angioedema generally present with abdominal pain (with or without nausea or vomiting) and in some cases there was no prior history of facial angioedema, and C- esterase levels were normal.
 These symptoms resolve after stopping the ACE inhibitor.
 .
-There have been approximately 34 known cases of thiazide-induced pulmonary edema, encompassing 52 episodes of pulmonary edema, as of 1991 (per a 1996 review).
-In some cases, doses as small as 12.
-5 mg were associated with the development of pulmonary edema.
-The average time to onset of this adverse reaction was 44 minutes, women have a relative risk of 9:1, and the average age was 56 years.
-The mortality rate was 6%.
+There have been approximately  known cases of thiazide-induced pulmonary edema, encompassing  episodes of pulmonary edema, as of  (per a  review).
+In some cases, doses as small as  mg were associated with the development of pulmonary edema.
+The average time to onset of this adverse reaction was  minutes, women have a relative risk of :, and the average age was  years.
+The mortality rate was .
 Some experts consider this side effect grossly underreported.
-Quinapril:Rare (less than 0.
-1%): Angioedema of the face, extremities, lips, tongue, glottis and/or pharynx, intestinal angioedemaHydrochlorothiazide:Uncommon (0.
-1% to 1%): Rash, anaphylaxis
-Common (1% to 10%): Headache, dizziness, fatigue, insomnia, somnolence, astheniaPostmarketing reports: Speech disorder, meningism, amnesia
-Quinapril:Rare (less than 0.
-1%): Angioedema of the face, extremities, lips, tongue, glottis and/or pharynx, intestinal angioedemaHydrochlorothiazide: Frequency not reported: Metabolic alkalosis, hyponatremia, hypomagnesemia, hypercalcemia, hyperglycemia, elevated serum uric acid levels, increased serum cholesterol
-HCTZ may increase total serum cholesterol by 11%, LDL lipoprotein cholesterol by 12%, and VLDL lipoprotein cholesterol levels by 50%, as well as reduce insulin secretion.
+Quinapril:Rare (less than ): Angioedema of the face, extremities, lips, tongue, glottis and/or pharynx, intestinal angioedemaHydrochlorothiazide:Uncommon ( to ): Rash, anaphylaxis
+Common ( to ): Headache, dizziness, fatigue, insomnia, somnolence, astheniaPostmarketing reports: Speech disorder, meningism, amnesia
+Quinapril:Rare (less than ): Angioedema of the face, extremities, lips, tongue, glottis and/or pharynx, intestinal angioedemaHydrochlorothiazide: Frequency not reported: Metabolic alkalosis, hyponatremia, hypomagnesemia, hypercalcemia, hyperglycemia, elevated serum uric acid levels, increased serum cholesterol
+HCTZ may increase total serum cholesterol by , LDL lipoprotein cholesterol by , and VLDL lipoprotein cholesterol levels by , as well as reduce insulin secretion.
 It should be used with caution in patients with diabetes or hypercholesterolemia.
 Hyperuricemia may be an important consideration in patients with a history of gout.
 Hypophosphatemia and low serum magnesium concentrations may also occur, but are usually clinically insignificant except in malnourished patients.
-Quinapril:Rare (less than 0.
-1%): Neutropenia, bone marrow depressionHydrochlorothiazide:Very rare (less than 0.
-01%): Immune complex hemolytic anemia, aplastic anemia, thrombocytopenia
+Quinapril:Rare (less than ): Neutropenia, bone marrow depressionHydrochlorothiazide:Very rare (less than ): Immune complex hemolytic anemia, aplastic anemia, thrombocytopenia
 Thiazide diuretics may increase serum cholesterol and triglycerides, resulting in an increased risk of cholesterol gallstone formation.
-Reports of bowel strictures associated with thiazide ingestion were reported in the 1960's (although patients in these reports were on a combination HCTZ-potassium product).
-Common (1% to 10%): Nausea, vomiting, abdominal pain, diarrhea, dyspepsiaUncommon (0.
-1% to 1%): Dry mouth, gastrointestinal hemorrhageHydrochlorothiazide:Rare (less than 0.
-1%): Pancreatitis, acute cholecystitis
-Hydrochlorothiazide:Rare (less than 0.
-1%): A distinct entity with clinical and laboratory features indistinguishable from those of subacute cutaneous lupus erythematosus, pruritus, increased sweating, erythema, alopecia, pemphigusFrequency not reported: Erythema annular centrifugum, acute eczematous dermatitis, morbilliform or leukocytoclastic vasculitis, phototoxic dermatitisPostmarketing reports: Urticaria, maculopapular rash, petechiae
-A prospective study of 34 patients who received oral thiazide diuretics for 14 years without interruption revealed an increased mean fasting blood glucose level after treatment.
-Withdrawal of thiazide therapy for seven months in 10 of the patients resulted in mean reductions of 10% in fasting blood glucose and 25% in the 2-hour glucose tolerance test value.
+Reports of bowel strictures associated with thiazide ingestion were reported in the 's (although patients in these reports were on a combination HCTZ-potassium product).
+Common ( to ): Nausea, vomiting, abdominal pain, diarrhea, dyspepsiaUncommon ( to ): Dry mouth, gastrointestinal hemorrhageHydrochlorothiazide:Rare (less than ): Pancreatitis, acute cholecystitis
+Hydrochlorothiazide:Rare (less than ): A distinct entity with clinical and laboratory features indistinguishable from those of subacute cutaneous lupus erythematosus, pruritus, increased sweating, erythema, alopecia, pemphigusFrequency not reported: Erythema annular centrifugum, acute eczematous dermatitis, morbilliform or leukocytoclastic vasculitis, phototoxic dermatitisPostmarketing reports: Urticaria, maculopapular rash, petechiae
+A prospective study of  patients who received oral thiazide diuretics for  years without interruption revealed an increased mean fasting blood glucose level after treatment.
+Withdrawal of thiazide therapy for seven months in  of the patients resulted in mean reductions of  in fasting blood glucose and  in the -hour glucose tolerance test value.
 A control group was not reported.
 Hydrochlorothiazide:Frequency not reported: Glucose intolerance and a potentially deleterious effect on the lipid profile (either of which may be important in some patients with or at risk for diabetes or coronary artery disease)
-Rare (less than 0.
-1%): Myalgias, chills, myopathy, myositis, muscle spasm, back pain, arthritisPostmarketing reports: Paralysis, hemiplegia, abnormal gait
-Rare (less than 0.
-1%): Impotence in male patients, interstitial cystitis
-Hydrochlorothiazide:Rare (less than 0.
-1%): Acute transient myopia, acute angle-closure glaucoma
+Rare (less than ): Myalgias, chills, myopathy, myositis, muscle spasm, back pain, arthritisPostmarketing reports: Paralysis, hemiplegia, abnormal gait
+Rare (less than ): Impotence in male patients, interstitial cystitis
+Hydrochlorothiazide:Rare (less than ): Acute transient myopia, acute angle-closure glaucoma
 Hydrochlorothiazide:Frequency not reported: Interstitial nephritis
 Cough producing mucus
 diarrhea

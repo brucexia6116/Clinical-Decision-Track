@@ -1,0 +1,196 @@
+common side effect
+rash
+rash
+pruritus
+alopeciauncommon
+angioedemavery
+urticaria
+stevens-johnson syndrome
+erythema multiforme
+photosensitivity
+erythroderma
+pemphigoid reactions
+exfoliative dermatitis
+nausea
+vomiting
+abdominal pain
+dry mouth
+diarrhea
+constipation
+gastric irritationrare
+stomatitis/aphthous ulceration
+mouth ulcers
+intestinal angioedemavery
+glossitis
+peptic ulcer
+pancreatitis
+dizziness
+taste impairment
+loss of tasterare
+paresthesia
+headache
+drowsinessvery
+cerebrovascular incidentsfrequency
+syncope
+ataxia
+somnolence
+cough
+dyspnearare
+bronchospasmvery
+rhinitis
+allergic alveolitis/eosinophilic pneumonia
+hypotensionuncommon
+tachycardia
+tachyarrhythmia
+angina pectoris
+palpitations
+raynaud
+syndrome
+flushing
+pallor
+myocardial infarction
+congestive heart failurevery
+cardiac arrest
+cardiogenic shockfrequency
+rhythm disturbances
+orthostatic hypotension
+proteinuriauncommon
+polyuria
+oliguria
+urinary frequencyrare
+impotence
+sleep disorderrare
+loss of libidovery
+confusion
+depressionfrequency
+nervousness
+chest pain
+fatigue
+malaisevery
+gynecomastia
+feverfrequency
+asthenia
+alkaline phosphatase
+renal insufficiency
+acute renal failure
+nephrotic syndromevery
+bun
+serum creatinine elevatedfrequency
+glomerulopathy
+anorexia
+weight loss
+loss of appetitevery
+hyperkalemia
+hypoglycemia
+serum potassium
+serum sodium decreasedfrequency
+hyponatremia
+disturbed vision
+dry eye
+itchy eyevery
+blurred vision
+neutropenia/agranulocytosis
+pancytopenia
+anemia
+thrombocytopenia
+lymphadenopathy
+eosinophilia
+hemoglobin
+hematocrit
+leukocytes
+thrombocytes
+erythrocyte sedimentation rate
+liver enzymes
+bilirubin
+impaired hepatic function
+cholestasis
+hepatitisfrequency
+jaundice
+autoimmune disease
+positive antinuclear antibody titerfrequency
+serum
+sickness-like syndrome
+anaphylactoid reactions
+myalgia
+arthralgiafrequency
+myasthenia
+chest pain
+cloudy urine
+pounding
+irregular heartbeat
+pulse
+arm
+jaw pain
+bloody urine
+chest discomfort
+chest tightness
+heaviness
+decreased blood pressure
+increased frequency
+amount of urine
+dilated neck veins
+increased thirst
+irregular breathing
+hive-like swelling on face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+loss of appetite
+low blood pressure
+side pain
+nausea
+paleness
+cold feeling in fingertips
+toes
+sweating
+swelling of face
+fingers
+feet
+lower legs
+tingling
+pain in fingers
+toes
+troubled breathing
+wheezing
+unusual tiredness
+weakness
+vomiting
+weight gain
+bleeding gums
+tarry stools
+blurred vision
+chills
+confusion
+cough
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+high fever
+difficult urination
+pale skin
+red spots on skin
+sore throat
+sores
+ulcers
+white spots on lips
+mouth
+swollen glands
+unusual bleeding
+bruising
+change in taste
+feeling of warmth
+itching skin
+loss of taste
+rash
+redness of the face
+neck
+arms
+upper chest

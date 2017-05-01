@@ -1,7 +1,6 @@
 Common side effects of Parlodel include: symptomatic hypotension.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, bromocriptine (the active ingredient contained in Parlodel) may cause unwanted side effects that require medical attention.
-
 Some serious side effects have occurred during the use of bromocriptine to stop milk flow after pregnancy or abortion.
 These side effects have included strokes, seizures (convulsions), and heart attacks.
 Some deaths have also occurred.
@@ -11,22 +10,22 @@ Some bromocriptine side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Some side effects may be more likely to occur in patients who are taking bromocriptine for Parkinson's disease, acromegaly, or pituitary tumors since they may be taking larger doses.
-Gastrointestinal side effects have included nausea (18% to 49%), constipation (3% to 14%), vomiting (2% to 5%), abdominal cramps (5%), indigestion/dyspepsia (4%), anorexia (4%), diarrhea (3%), gastrointestinal bleeding (less than 2%), abdominal discomfort, anorexia, dry mouth, and peptic ulcers have been reported.
-Nervous system side effects have included headache (19%), dizziness (17%), fatigue (7%), lightheadedness (5%), and drowsiness/tiredness (3%).
-Other side effects occurring less frequently (less than 2%) have included faintness, vertigo, paresthesia, insomnia, decreased sleep requirement, heavy headedness, sluggishness, reduced tolerance to cold, asthenia, tingling of ears, and numbness.
+Gastrointestinal side effects have included nausea ( to ), constipation ( to ), vomiting ( to ), abdominal cramps , indigestion/dyspepsia , anorexia , diarrhea , gastrointestinal bleeding (less than ), abdominal discomfort, anorexia, dry mouth, and peptic ulcers have been reported.
+Nervous system side effects have included headache , dizziness , fatigue , lightheadedness , and drowsiness/tiredness .
+Other side effects occurring less frequently (less than ) have included faintness, vertigo, paresthesia, insomnia, decreased sleep requirement, heavy headedness, sluggishness, reduced tolerance to cold, asthenia, tingling of ears, and numbness.
 A syndrome resembling neuroleptic malignant syndrome has been reported on abrupt withdrawal of bromocriptine (the active ingredient contained in Parlodel) 
-Syncope and symptomatic hypotension (decreases in supine systolic and diastolic pressures of greater than 20 mm and 10 mm Hg, respectively) have been reported in approximately 30% of postpartum patients.
+Syncope and symptomatic hypotension (decreases in supine systolic and diastolic pressures of greater than  mm and  mm Hg, respectively) have been reported in approximately  of postpartum patients.
 Seizures and/or strokes have been reported with bromocriptine (the active ingredient contained in Parlodel) administration.
 Many of the patients experiencing seizures and/or strokes reported developing a continuous headache, often progressively severe, hours to days prior to the acute event.
 In addition, visual disturbances (blurred vision and transient cortical blindness) have been reported to also precede stroke and/or seizure events.
 If a patient experiences severe, progressive, or unremitting headache (with or without visual disturbance), or evidence of CNS toxicity develops, bromocriptine therapy should be discontinued and the patient should be evaluated promptly.
-Cardiovascular side effects have included postural/orthostatic hypotension (6%), digital vasospasm (3%), syncope (less than 2%), seizures, stroke, and myocardial infarction.
+Cardiovascular side effects have included postural/orthostatic hypotension , digital vasospasm , syncope (less than ), seizures, stroke, and myocardial infarction.
 Rare cardiovascular side effects including arrhythmia, pleural and pericardial effusions, constrictive pericarditis, ventricular tachycardia, bradycardia, and vasovagal attack have been reported.
-A case of severe dilated cardiomyopathy has been reported in a 31-year-old African American female one month after initiating treatment of a microprolactinoma with bromocriptine 5 mg orally daily.
+A case of severe dilated cardiomyopathy has been reported in a -year-old African American female one month after initiating treatment of a microprolactinoma with bromocriptine  mg orally daily.
 An echocardiogram showed a markedly dilated left ventricle with severe reduction in the left-ventricular ejection fraction.
 The patient returned to NYHA Class I four weeks after bromocriptine was stopped.
-Respiratory side effects have included nasal congestion (3%) and shortness of breath.
-Pulmonary infiltrates, pleural effusion, and thickening of the pleura have been reported with long-term administration (6 months to 36 months) of bromocriptine (the active ingredient contained in Parlodel) doses ranging from 20 mg to 100 mg daily.
+Respiratory side effects have included nasal congestion  and shortness of breath.
+Pulmonary infiltrates, pleural effusion, and thickening of the pleura have been reported with long-term administration ( months to  months) of bromocriptine (the active ingredient contained in Parlodel) doses ranging from  mg to  mg daily.
 Upon termination of bromocriptine therapy, these changes slowly reverted towards normal.
 Rare cases of cerebrospinal fluid rhinorrhea have been reported in patients who have received previous transphenoidal surgery and/or pituitary radiation, and who were receiving bromocriptine for tumor recurrence.
 Musculoskeletal side effects have included muscle cramps, facial pallor, abnormal involuntary movements, ataxia, edema of the feet and ankles, and erythromelalgia.
@@ -45,8 +44,8 @@ The visual field defect may improve on reduction of bromocriptine (the active in
 Genitourinary side effects have included urinary frequency, urinary incontinence, and urinary retention.
 Dermatologic side effects have included mottling of skin and skin rash.
 Other side effects have included hair loss, alcohol potentiation, reduced tolerance to cold, tingling of the ears, sign and symptoms of ergotism such as tingling of the fingers, cold feet, numbness, muscle cramps of feet and legs or exacerbation of Raynaud's syndrome.
-Local side effects have included retroperitoneal fibrosis in a few patients receiving long-term therapy (2 to 10 years) with bromocriptine (the active ingredient contained in Parlodel) in doses ranging from 30 to 140 mg daily.
-Studies have shown that Parkinson's patients have an approximately 2 to 6 fold higher risk of developing melanoma than the general population.
+Local side effects have included retroperitoneal fibrosis in a few patients receiving long-term therapy ( to  years) with bromocriptine (the active ingredient contained in Parlodel) in doses ranging from  to  mg daily.
+Studies have shown that Parkinson's patients have an approximately  to  fold higher risk of developing melanoma than the general population.
 It is not clear whether this increased risk was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease.
 It is possible that some side effects of Parlodel may not have been reported.
 These can be reported to the FDA here.

@@ -1,43 +1,22 @@
 Other dosage forms:
 If any of the following symptoms of overdose occur while taking hydralazine, get emergency help immediately:
 The most frequently reported side effects were palpitations and tachycardia.
-Very common (10% or more): Palpitations, tachycardiaCommon (1% to 10%): Angina pectoris, flushing, hypotensionUncommon (0.
-1% to 1%): Heart failure, vasculitisVery rare (less than 0.
-01%): Paradoxical pressor response
-Common (1% to 10%): Nausea, vomiting, diarrhea, gastrointestinal disturbancesVery rare (less than 0.
-01%): Paralytic ileusFrequency not reported: Constipation
-Common (1% to 10%): HeadacheUncommon (0.
-1% to 1%): DizzinessVery rare (less than 0.
-01%): Peripheral neuritis, paresthesia, tremor, polyneuritisFrequency not reported: Tingling, numbness
-Common (1% to 10%): Arthralgia, joint swelling, myalgiaUncommon (0.
-1% to 1%): Systemic lupus erythematosus-like syndromeFrequency not reported: Muscle cramp
-Common (1% to 10%): Anorexia
-Common (1% to 10%): Positive antinuclear factor
-Uncommon (0.
-1% to 1%): Nasal congestion, dyspnea, pleural pain
-Uncommon (0.
-1% to 1%): Anemia, leukopenia, neutropenia, thrombocytopeniaVery rare (less than 0.
-01%): Hemolytic anemia, leukocytosis, lymphadenopathy, pancytopenia, splenomegaly, agranulocytosis, eosinophiliaFrequency not reported: Blood dyscrasias, hemoglobin decreased, red cell count decreased
-Uncommon (0.
-1% to 1%): Serum creatinine increased, glomerulonephritisVery rare (less than 0.
-01%): Acute renal failure
-Uncommon (0.
-1% to 1%): Rash, purpura, urticaria, pruritus
-Uncommon (0.
-1% to 1%): Jaundice, liver enlarged, abnormal liver function, hepatitis
-Uncommon (0.
-1% to 1%): Hypersensitivity reaction
-Uncommon (0.
-1% to 1%): Proteinuria, hematuria, urinary retentionVery rare (less than 0.
-01%): Retroperitoneal fibrosisFrequency not reported: Urination difficult
-Uncommon (0.
-1% to 1%): Lacrimation increased, conjunctivitisVery rare (less than 0.
-01%): Exophthalmos
-Uncommon (0.
-1% to 1%): Edema, fever, weight decreased, malaiseFrequency not reported: Chills
-Uncommon (0.
-1% to 1%): Agitation, anxietyVery rare (less than 0.
-01%): Depression, hallucinationsFrequency not reported: Psychotic reactions, disorientation, anxiety
+Very common ( or more): Palpitations, tachycardiaCommon ( to ): Angina pectoris, flushing, hypotensionUncommon ( to ): Heart failure, vasculitisVery rare (less than ): Paradoxical pressor response
+Common ( to ): Nausea, vomiting, diarrhea, gastrointestinal disturbancesVery rare (less than ): Paralytic ileusFrequency not reported: Constipation
+Common ( to ): HeadacheUncommon ( to ): DizzinessVery rare (less than ): Peripheral neuritis, paresthesia, tremor, polyneuritisFrequency not reported: Tingling, numbness
+Common ( to ): Arthralgia, joint swelling, myalgiaUncommon ( to ): Systemic lupus erythematosus-like syndromeFrequency not reported: Muscle cramp
+Common ( to ): Anorexia
+Common ( to ): Positive antinuclear factor
+Uncommon ( to ): Nasal congestion, dyspnea, pleural pain
+Uncommon ( to ): Anemia, leukopenia, neutropenia, thrombocytopeniaVery rare (less than ): Hemolytic anemia, leukocytosis, lymphadenopathy, pancytopenia, splenomegaly, agranulocytosis, eosinophiliaFrequency not reported: Blood dyscrasias, hemoglobin decreased, red cell count decreased
+Uncommon ( to ): Serum creatinine increased, glomerulonephritisVery rare (less than ): Acute renal failure
+Uncommon ( to ): Rash, purpura, urticaria, pruritus
+Uncommon ( to ): Jaundice, liver enlarged, abnormal liver function, hepatitis
+Uncommon ( to ): Hypersensitivity reaction
+Uncommon ( to ): Proteinuria, hematuria, urinary retentionVery rare (less than ): Retroperitoneal fibrosisFrequency not reported: Urination difficult
+Uncommon ( to ): Lacrimation increased, conjunctivitisVery rare (less than ): Exophthalmos
+Uncommon ( to ): Edema, fever, weight decreased, malaiseFrequency not reported: Chills
+Uncommon ( to ): Agitation, anxietyVery rare (less than ): Depression, hallucinationsFrequency not reported: Psychotic reactions, disorientation, anxiety
 injection solution
 Arm, back, or jaw pain
 chest pain or discomfort

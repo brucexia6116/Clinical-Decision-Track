@@ -2,45 +2,20 @@ Commonly reported side effects of lamotrigine include: ataxia, blurred vision, d
 Other side effects include: dysmenorrhea, dyspepsia, vaginitis, abnormal gait, asthenia, bronchitis, constipation, pain, pruritus, and emotional lability.
 See below for a comprehensive list of adverse effects.
 If any of the following symptoms of overdose occur while taking lamotrigine, get emergency help immediately:
-Uncommon (0.
-1% to 1%): Allergic reaction, chills, malaise
-Very common (10% or more): Dizziness (38%), headache (29%), ataxia (22%), somnolence (14%)Common (1% to 10%): Seizure exacerbation, incoordination, insomnia, tremor, speech disorder, amnesia, hypoesthesia, pain, gait abnormality, vertigo, dyspraxia, confusion, paresthesiaUncommon (0.
-1% to 1%): Akathisia, aphasia, central nervous system depression, dysarthria, dyskinesia, hyperkinesia, hypertonia, movement disorder, myoclonusRare (less than 0.
-1%): Choreoathetosis, dystonia, extrapyramidal syndrome, faintness, grand mal seizures, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, neuralgia, muscle spasm, neuralgia, paralysis, peripheral neuritisVery rare (less than 0.
-01%): Muscle spasm, paralysis, peripheral neuritisPostmarketing reports: Exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson's disease, tics
-Very common (10% or more): Diplopia (28%), blurred vision (16%)Common (1% to 10%): Vision abnormality, nystagmus, photosensitivity, amblyopiaUncommon (0.
-1% to 1%): Abnormality of accommodation, conjunctivitis, dry eyes, photophobiaRare (less than 0.
-1%): Lacrimation disorder, oscillopsia, ptosis, strabismus, uveitis, visual field defect
-Very common (10% or more): Vomiting (20%), nausea (19%), diarrhea (10%)Common (1% to 10%): Abdominal pain, vomiting, dyspepsia, constipation, anorexia, dry mouth, rectal hemorrhage, peptic ulcer, flatulenceUncommon (0.
-1% to 1%): Dysphagia, eructation, gastritis, gingivitis, increased appetite, increased salivation, mouth ulcerationRare (less than 0.
-1%): Gastrointestinal hemorrhage, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hemorrhagic colitis, melena, stomach ulcer, stomatitis, tongue edemaVery rare (less than 0.
-01%): Pancreatitis, esophagitis
-Very common (10% or more): Rhinitis (14%)Common (1% to 10%): Pharyngitis, increased cough, epistaxis, dyspnea, bronchitis, sinusitis, bronchospasmUncommon (0.
-1% to 1%): YawnRare (less than 0.
-1%): Hiccup, hyperventilationPostmarketing reports: Apnea
-Very common (10% or more): Rash (14%)Common (1% to 10%): Contact dermatitis, dry skin, sweating, eczema, pruritusUncommon (0.
-1% to 1%): Acne, alopecia, hirsutism, maculopapular rash, skin discoloration, urticaria, ecchymosis, leukopeniaRare (less than 0.
-1%): Angioedema, erythema, exfoliative dermatitis, fungal dermatitis, herpes zoster, leukoderma, multiforme erythema, petechial rash, pustular rash, Stevens-Johnson syndrome, vesiculobullous rash, anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, thrombocytopenia
-Common (1% to 10%): Dysmenorrhea, vaginitis, amenorrhea, libido increase, urinary tract infection (both male and female), urinary frequencyUncommon (0.
-1% to 1%): Libido decreased, abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, urinary incontinenceRare (less than 0.
-1%): Anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, nocturia, urinary retention, urinary urgency
-Very common (10% or more): Fever (15%), accidental injury (14%)Common (1% to 10%): FatigueUncommon (0.
-1% to 1%): Ear pain, taste perversion, tinnitusRare (less than 0.
-1%): Alcohol intolerance, deafness, taste loss, parosmia, taste loss
-Common (1% to 10%): Weight decrease, weight gain, peripheral edema, facial edemaRare (less than 0.
-1%): Bilirubinemia, general edema, gamma glutamyl transpeptidase increase, hyperglycemia
-Common (1% to 10%): Neck pain, arthralgia, myalgia, decreased reflexes, back pain, increased reflexes, astheniaUncommon (0.
-1% to 1%): Arthritis, leg cramps, myasthenia, twitchingRare (less than 0.
-1%): Bursitis, muscle atrophy, pathological fracture, tendinous contracturePostmarketing reports: Rhabdomyolysis
-Common (1% to 10%): Chest pain, migraineUncommon (0.
-1% to 1%): Flushing, hot flashes, hypertension, palpitations, postural hypotension, syncope, tachycardia, vasodilation
+Uncommon ( to ): Allergic reaction, chills, malaise
+Very common ( or more): Dizziness , headache , ataxia , somnolence Common ( to ): Seizure exacerbation, incoordination, insomnia, tremor, speech disorder, amnesia, hypoesthesia, pain, gait abnormality, vertigo, dyspraxia, confusion, paresthesiaUncommon ( to ): Akathisia, aphasia, central nervous system depression, dysarthria, dyskinesia, hyperkinesia, hypertonia, movement disorder, myoclonusRare (less than ): Choreoathetosis, dystonia, extrapyramidal syndrome, faintness, grand mal seizures, hemiplegia, hyperalgesia, hyperesthesia, hypokinesia, hypotonia, neuralgia, muscle spasm, neuralgia, paralysis, peripheral neuritisVery rare (less than ): Muscle spasm, paralysis, peripheral neuritisPostmarketing reports: Exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson's disease, tics
+Very common ( or more): Diplopia , blurred vision Common ( to ): Vision abnormality, nystagmus, photosensitivity, amblyopiaUncommon ( to ): Abnormality of accommodation, conjunctivitis, dry eyes, photophobiaRare (less than ): Lacrimation disorder, oscillopsia, ptosis, strabismus, uveitis, visual field defect
+Very common ( or more): Vomiting , nausea , diarrhea Common ( to ): Abdominal pain, vomiting, dyspepsia, constipation, anorexia, dry mouth, rectal hemorrhage, peptic ulcer, flatulenceUncommon ( to ): Dysphagia, eructation, gastritis, gingivitis, increased appetite, increased salivation, mouth ulcerationRare (less than ): Gastrointestinal hemorrhage, glossitis, gum hemorrhage, gum hyperplasia, hematemesis, hemorrhagic colitis, melena, stomach ulcer, stomatitis, tongue edemaVery rare (less than ): Pancreatitis, esophagitis
+Very common ( or more): Rhinitis Common ( to ): Pharyngitis, increased cough, epistaxis, dyspnea, bronchitis, sinusitis, bronchospasmUncommon ( to ): YawnRare (less than ): Hiccup, hyperventilationPostmarketing reports: Apnea
+Very common ( or more): Rash Common ( to ): Contact dermatitis, dry skin, sweating, eczema, pruritusUncommon ( to ): Acne, alopecia, hirsutism, maculopapular rash, skin discoloration, urticaria, ecchymosis, leukopeniaRare (less than ): Angioedema, erythema, exfoliative dermatitis, fungal dermatitis, herpes zoster, leukoderma, multiforme erythema, petechial rash, pustular rash, Stevens-Johnson syndrome, vesiculobullous rash, anemia, eosinophilia, fibrin decrease, fibrinogen decrease, iron deficiency anemia, leukocytosis, lymphocytosis, macrocytic anemia, thrombocytopenia
+Common ( to ): Dysmenorrhea, vaginitis, amenorrhea, libido increase, urinary tract infection (both male and female), urinary frequencyUncommon ( to ): Libido decreased, abnormal ejaculation, hematuria, impotence, menorrhagia, polyuria, urinary incontinenceRare (less than ): Anorgasmia, breast abscess, breast neoplasm, creatinine increase, cystitis, dysuria, epididymitis, female lactation, nocturia, urinary retention, urinary urgency
+Very common ( or more): Fever , accidental injury Common ( to ): FatigueUncommon ( to ): Ear pain, taste perversion, tinnitusRare (less than ): Alcohol intolerance, deafness, taste loss, parosmia, taste loss
+Common ( to ): Weight decrease, weight gain, peripheral edema, facial edemaRare (less than ): Bilirubinemia, general edema, gamma glutamyl transpeptidase increase, hyperglycemia
+Common ( to ): Neck pain, arthralgia, myalgia, decreased reflexes, back pain, increased reflexes, astheniaUncommon ( to ): Arthritis, leg cramps, myasthenia, twitchingRare (less than ): Bursitis, muscle atrophy, pathological fracture, tendinous contracturePostmarketing reports: Rhabdomyolysis
+Common ( to ): Chest pain, migraineUncommon ( to ): Flushing, hot flashes, hypertension, palpitations, postural hypotension, syncope, tachycardia, vasodilation
 Postmarketing reports: Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder
-Common (1% to 10%): Depression, anxiety, irritability, disturbance of concentration, emotional lability, abnormal thinking, nervousnessUncommon (0.
-1% to 1%): Apathy, euphoria, hallucinations, hostility, depersonalization, memory decrease, mind racing, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, suicidal ideationRare (less than 0.
-1%): Delirium, delusions, dysphoria, manic depression reaction, neurosisPostmarketing reports: Aggression, nightmares
-Common (1% to 10%): LymphadenopathyUncommon (0.
-1% to 1%): Liver function tests abnormal, aspartate transaminase (AST) increasedRare (less than 0.
-1%): Hepatitis, alanine transaminase ALT) increased, acute kidney failure, kidney failure, kidney pain
+Common ( to ): Depression, anxiety, irritability, disturbance of concentration, emotional lability, abnormal thinking, nervousnessUncommon ( to ): Apathy, euphoria, hallucinations, hostility, depersonalization, memory decrease, mind racing, panic attack, paranoid reaction, personality disorder, psychosis, sleep disorder, stupor, suicidal ideationRare (less than ): Delirium, delusions, dysphoria, manic depression reaction, neurosisPostmarketing reports: Aggression, nightmares
+Common ( to ): LymphadenopathyUncommon ( to ): Liver function tests abnormal, aspartate transaminase (AST) increasedRare (less than ): Hepatitis, alanine transaminase ALT) increased, acute kidney failure, kidney failure, kidney pain
 Postmarketing reports: Progressive immunosuppressionPostmarketing reports: Lupus-like reaction, vasculitis
 Blurred vision
 changes in vision

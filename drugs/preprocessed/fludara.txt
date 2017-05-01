@@ -2,11 +2,11 @@ Common side effects of Fludara include: central nervous system toxicity, angina 
 Other side effects include: pneumonitis, dysuria, hearing loss, hemoptysis, hyperglycemia, pharyngitis, sinusitis, stomatitis, and malaise.
 See below for a comprehensive list of adverse effects.
 Other dosage forms:
-In general, the most common dose-limiting toxicities have been myelosuppression (60%), fever and chills (11% to 60%, sometimes without infection), infection (33%, including serious opportunistic infections), and nausea and vomiting (36%).
-General side effects including pain (up to 19%), flu syndrome (up to 8%), and decreased weight (up to 6%) have been reported.
+In general, the most common dose-limiting toxicities have been myelosuppression , fever and chills ( to , sometimes without infection), infection (, including serious opportunistic infections), and nausea and vomiting .
+General side effects including pain (up to ), flu syndrome (up to ), and decreased weight (up to ) have been reported.
 Hematologic toxicity has been reported to have occurred in the majority of patients.
 It presents as either neutropenia, thrombocytopenia, anemia, or a combination.
-Fifty-nine percent of patients develop an absolute neutrophil count of less than 500/mm3, 60% develop a hemoglobin concentration decrease by at least 2 g percent, and 55% develop a platelet count decrease by 50%.
+Fifty-nine percent of patients develop an absolute neutrophil count of less than /mm,  develop a hemoglobin concentration decrease by at least  g percent, and  develop a platelet count decrease by .
 Several instances of trilineage bone marrow hypoplasia or aplasia resulting in sometimes fatal pancytopenia have been reported.
 Rarely, bone marrow fibrosis or clinically significant hemolytic anemia have been associated with the use of fludarabine (the active ingredient contained in Fludara)   A single case of pure red cell aplasia has been reported.
 Myelosuppression may be severe, cumulative, and may affect multiple cell lines.
@@ -17,31 +17,31 @@ An increased incidence of infections with pathogens not commonly associated with
 These have included Listeria, Pneumocystis carinii pneumonia, disseminated varicella-zoster, cytomegalovirus, and unusual fungal pathogens.
 Fludarabine can significantly decrease the quantity of T-helper cells.
 Immunologic side effects have been reported secondary to neutropenia which predisposes patients to infection.
-Pneumonia has been reported in 16% to 22% of treated patients from major clinical trials.
+Pneumonia has been reported in  to  of treated patients from major clinical trials.
 Other, less common, infections include minor bacterial and/or fungal infections of the oropharynx, upper respiratory tract, urinary tract, and soft tissue, as well as herpes zoster infections.
 The risk of sepsis or life-threatening infection appears greatest during the first three courses of chemotherapy with fludarabine in patients with extensive disease.
-Gastrointestinal side effects including nausea, vomiting, and/or diarrhea have been reported in up to 36% of patients.
-Anorexia, stomatitis, esophagitis, mucositis, constipation, taste disturbances, abdominal pain, and gastrointestinal bleeding have been reported in less than 30% of patients.
-Central and peripheral nervous system toxicities have been reported, including weakness/fatigue (asthenia) (up to 31%), headache (up to 9%), hearing disturbances (6%), paresthesias (4%), confusion (1%), visual disturbances (3%), and coma (less than 1%).
+Gastrointestinal side effects including nausea, vomiting, and/or diarrhea have been reported in up to  of patients.
+Anorexia, stomatitis, esophagitis, mucositis, constipation, taste disturbances, abdominal pain, and gastrointestinal bleeding have been reported in less than  of patients.
+Central and peripheral nervous system toxicities have been reported, including weakness/fatigue (asthenia) (up to ), headache (up to ), hearing disturbances , paresthesias , confusion , visual disturbances , and coma (less than ).
 In postmarketing experience, cases of progressive multifocal leukoencephalopathy have been reported.
 Rare cases of disabling, severe, but reversible neurologic toxicity have been reported.
 Most cases of progressive multifocal leukoencephalopathy had a fatal outcome.
 Many of these cases were confounded by prior and/or concurrent chemotherapy.
 The time to onset has ranged from a few weeks to approximately one year after initiating treatment.
-The early trials of fludarabine given at high doses in the treatment of acute leukemia (up to 125 mg/m2 per day for up to 7 days) revealed evidence of severe CNS toxicity.
-Progressive optic neuritis, cortical blindness, seizures, and paralysis developed in some patients up to 2 months after therapy ended.
+The early trials of fludarabine given at high doses in the treatment of acute leukemia (up to  mg/m per day for up to  days) revealed evidence of severe CNS toxicity.
+Progressive optic neuritis, cortical blindness, seizures, and paralysis developed in some patients up to  months after therapy ended.
 Use of lower doses for low-grade lymphoid malignancy has not generally been associated with these severe side effects.
 However, progressive headaches, paresthesias, hemiparesis, and progressive and fatal neurologic dysfunction have rarely been associated with recommended doses.
 Respiratory side effects have been reported including severe cases of pulmonary toxicity which resulted in adult respiratory distress syndrome, respiratory distress, pulmonary hemorrhage, pulmonary fibrosis, respiratory failure, and death.
-Cough (10% to 44%), upper respiratory tract infection or pneumonia (up to 22%), dyspnea (1% to 22%), rhinitis (up to 11%), increased cough (up to 6%), bronchitis (up to 5%), and sinusitis (up to 5%) have also been reported.
+Cough ( to ), upper respiratory tract infection or pneumonia (up to ), dyspnea ( to ), rhinitis (up to ), increased cough (up to ), bronchitis (up to ), and sinusitis (up to ) have also been reported.
 Diffuse interstitial pneumonitis has been reported rarely.
 Rare cases of diffuse alveolar damage have been associated with tumor lysis syndrome and the use of fludarabine.
 In a clinical investigation using fludarabine injection in combination with pentostatin for the treatment of refractory chronic lymphocytic leukemia in adults, there was an unacceptably high incidence of fatal pulmonary toxicity.
-Cardiovascular side effects including peripheral edema (8%) and chest pain (up to 5%) have been reported.
+Cardiovascular side effects including peripheral edema  and chest pain (up to ) have been reported.
 A single case of pericardial effusion has been associated with the use of fludarabine (the active ingredient contained in Fludara) 
-Genitourinary side effects including dysuria, hematuria, or proteinuria have been reported in 1% to 4% of patients.
+Genitourinary side effects including dysuria, hematuria, or proteinuria have been reported in  to  of patients.
 Rare cases of hemorrhagic cystitis have also been reported.
-A single case of acute renal failure secondary to mesangiocapillary glomerulonephritis has been associated with the use of fludarabine (the active ingredient contained in Fludara) in a 60-year-old man who had refractory chronic lymphocytic leukemia (CLL).
+A single case of acute renal failure secondary to mesangiocapillary glomerulonephritis has been associated with the use of fludarabine (the active ingredient contained in Fludara) in a -year-old man who had refractory chronic lymphocytic leukemia (CLL).
 This lesion has rarely been associated with CLL itself.
 Renal side effects including hemolytic uremic syndrome and acute renal failure have rarely been associated with the use of fludarabine.
 Hypersensitivity reactions--usually skin rashes-- to fludarabine (the active ingredient contained in Fludara) are relatively rare.
@@ -50,16 +50,16 @@ Extremely rare cases of anaphylaxis have been reported.
 TLS may result in serious metabolic problems, including hyperuricemia, hyperphosphatemia, hypocalcemia, metabolic acidosis, hyperkalemia, hematuria, urate crystalluria, renal failure, and even death.
 (Allopurinol before and during therapy is recommended.
 )  The onset of this syndrome may be heralded by flank pain and hematuria.
-Metabolic side effects including tumor lysis syndrome (TLS) has been reported to have occurred in approximately 1% of patients.
+Metabolic side effects including tumor lysis syndrome (TLS) has been reported to have occurred in approximately  of patients.
 A single case of diffuse alveolar damage has been associated with TLS and the use of fludarabine.
 Most dermatologic problems are related to allergic reactions to fludarabine (the active ingredient contained in Fludara) 
-Dermatologic side effects including increased sweating (up to 14%), diaphoresis (up to 8%), skin disorder (up to 6%), and rash (up to 5%) have been reported.
+Dermatologic side effects including increased sweating (up to ), diaphoresis (up to ), skin disorder (up to ), and rash (up to ) have been reported.
 Alopecia has been reported only rarely.
 Oncologic side effects have been reported in animal studies.
 Fludarabine phosphate was clastogenic in vitro to Chinese hamster ovary cells (chromosome aberrations in the presence of metabolic activation and induce sister chromatid exchanges both with and without metabolic activation).
 In addition, fludarabine (the active ingredient contained in Fludara) phosphate was clastogenic in vivo (mouse micronucleus assay).
-Hepatic side effects including increased lactic dehydrogenase (up to 6%) have been reported.
-Musculoskeletal side effects including back pain (up to 9%) have been reported.
+Hepatic side effects including increased lactic dehydrogenase (up to ) have been reported.
+Musculoskeletal side effects including back pain (up to ) have been reported.
 intravenous powder for solution, intravenous solution
 Bloating or swelling of the face, arms, hands, lower legs, or feet
 body aches or pain

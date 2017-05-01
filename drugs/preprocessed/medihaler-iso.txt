@@ -1,9 +1,9 @@
 Side effects include:
 Nervousness, headache, dizziness, restlessness, insomnia, anxiety, tension, blurring of vision, fear, excitement, tachycardia, palpitations, angina, Adam-Stokes syndrome, pulmonary edema, hypertension, hypotension, ventricular arrhythmias, tachyarrhythmias, flushing of the skin, diaphoresis, mild tremors, weakness.
 
-A 43-year-old man with normal coronary arteries developed reproducible chest pain, ST segment ECG changes, and ventricular tachycardia during an isoproterenol (the active ingredient contained in Medihaler-Iso) infusion, indicating isoproterenol-induced coronary artery vasospasm and arrhythmia.
+A -year-old man with normal coronary arteries developed reproducible chest pain, ST segment ECG changes, and ventricular tachycardia during an isoproterenol (the active ingredient contained in Medihaler-Iso) infusion, indicating isoproterenol-induced coronary artery vasospasm and arrhythmia.
 The man was successfully treated with diltiazem and isosorbide dinitrate.
-A 51-year-old man status post cardiac transplant, with syncope upon standing, was found to have decreased right middle cerebral blood flow and decreased systolic blood pressure during a formal tilt test with isoproterenol.
+A -year-old man status post cardiac transplant, with syncope upon standing, was found to have decreased right middle cerebral blood flow and decreased systolic blood pressure during a formal tilt test with isoproterenol.
 The authors believe that cerebral hypoperfusion in a patient with a denervated heart may be due to a combined effect of upright tilt and a direct vasomotor response of the middle cerebral artery to isoproterenol.
 Catecholamines, in general, are associated with some types of ventricular tachycardia.
 Several cases of syncope or near syncope in patients with no structural cardiac disease, with ventricular tachycardia induced only by isoproterenol or exercise are reported.
@@ -16,14 +16,14 @@ Due to an increase in the cardiac work and oxygen demand to oxygen supply ratio 
 In some patients, presumably with organic disease of the AV node, isoproterenol injection has caused or worsened AV heart block.
 Cases of Adams-Stokes attacks are reported.
 Rare cases of paradoxical bronchospasm have been reported.
-Paradoxical bronchospasm may be due to a local irritative effect of inhaled isoproterenol (the active ingredient contained in Medihaler-Iso) on sensitive bronchial mucosa, a counteractive effect of a metabolite of isoproterenol, 3-methoxyisoproterenol, which is a weak beta-adrenergic antagonist, or an irritating effect of an inert inhalant are reported.
+Paradoxical bronchospasm may be due to a local irritative effect of inhaled isoproterenol (the active ingredient contained in Medihaler-Iso) on sensitive bronchial mucosa, a counteractive effect of a metabolite of isoproterenol, -methoxyisoproterenol, which is a weak beta-adrenergic antagonist, or an irritating effect of an inert inhalant are reported.
 Respiratory side effects have included throat irritation and rare cases of paradoxical bronchospasm.
 Other problems accompany excessive use of isoproterenol.
 In a select group of patients with refractory asthma who use progressively greater amounts of isoproterenol with less and less effectiveness, a vicious cycle, or "locked lung" syndrome develops, which may indicate severe underlying disease rather than toxicity of isoproterenol.
 Nervous system side effects have included nervousness or jitteriness, headache, dizziness, and tremors.
 Musculoskeletal side effects have included inhibition of myometrial contractility.
 Hypersensitivity side effects have included rare cases of severe pharyngeal and true vocal cord edema and erythema.
-A 48-year-old man with reactive airways disease developed pharyngeal and true vocal cord edema and erythema within 2 days after starting an isoproterenol metered dose inhaler.
+A -year-old man with reactive airways disease developed pharyngeal and true vocal cord edema and erythema within  days after starting an isoproterenol metered dose inhaler.
 Skin patch testing revealed sensitivity to pure isoproterenol hydrochloride.
 No complement-fixing antibody was demonstrated.
 Metabolic side effects have included rare reports of decreased serum potassium.

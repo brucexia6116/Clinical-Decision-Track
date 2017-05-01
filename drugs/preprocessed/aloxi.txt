@@ -1,29 +1,17 @@
 If any of the following side effects occur while taking palonosetron, check with your doctor or nurse immediately:
 If any of the following symptoms of overdose occur while taking palonosetron, get emergency help immediately:
-Common (1% to 10%): Bradycardia, hypotension, nonsustained tachycardiaUncommon (0.
-1% to 1%): Hypertension, myocardial ischemia, extrasystoles, sinus tachycardia, sinus arrhythmia, supraventricular extrasystoles, QT prolongation
-Uncommon (0.
-1% to 1%): Allergic dermatitis, rash
-Common (1% to 10%): Constipation, diarrheaUncommon (0.
-1% to 1%): Appetite decrease, dyspepsia, abdominal pain, dry mouth, hiccups, flatulence
-Uncommon (0.
-1% to 1%): Transient, asymptomatic increases in AST and/or ALT and bilirubin; increased transaminases
-Common (1% to 10%): HyperkalemiaUncommon (0.
-1% to 1%): Electrolyte fluctuations, hyperglycemia, metabolic acidosis, glycosuria
-Uncommon (0.
-1% to 1%): Urinary retention
-Common (1% to 10%): AnxietyUncommon (0.
-1% to 1%): Euphoric mood
-Common (1% to 10%): Headache, dizzinessUncommon (0.
-1% to 1%): Fatigue, fever, hot flash, insomnia, somnolence, hypersomnia, paresthesia
-Common (1% to 10%): WeaknessUncommon (0.
-1% to 1%): Arthralgia
-Uncommon (0.
-1% to 1%): Eye irritation, amblyopia
-Very rare (less than 0.
-01%): Injection site reactions (burning, induration, discomfort, and pain)
-Uncommon (0.
-1% to 1%): Motion sickness, tinnitus, vein discoloration, vein distention, influenza-like syndrome
+Common ( to ): Bradycardia, hypotension, nonsustained tachycardiaUncommon ( to ): Hypertension, myocardial ischemia, extrasystoles, sinus tachycardia, sinus arrhythmia, supraventricular extrasystoles, QT prolongation
+Uncommon ( to ): Allergic dermatitis, rash
+Common ( to ): Constipation, diarrheaUncommon ( to ): Appetite decrease, dyspepsia, abdominal pain, dry mouth, hiccups, flatulence
+Uncommon ( to ): Transient, asymptomatic increases in AST and/or ALT and bilirubin; increased transaminases
+Common ( to ): HyperkalemiaUncommon ( to ): Electrolyte fluctuations, hyperglycemia, metabolic acidosis, glycosuria
+Uncommon ( to ): Urinary retention
+Common ( to ): AnxietyUncommon ( to ): Euphoric mood
+Common ( to ): Headache, dizzinessUncommon ( to ): Fatigue, fever, hot flash, insomnia, somnolence, hypersomnia, paresthesia
+Common ( to ): WeaknessUncommon ( to ): Arthralgia
+Uncommon ( to ): Eye irritation, amblyopia
+Very rare (less than ): Injection site reactions (burning, induration, discomfort, and pain)
+Uncommon ( to ): Motion sickness, tinnitus, vein discoloration, vein distention, influenza-like syndrome
 Blurred vision
 chest pain or discomfort
 confusion

@@ -1,49 +1,44 @@
 Common side effects of Zerit include: increased serum alanine aminotransferase, increased serum amylase, increased serum aspartate aminotransferase, and increased serum lipase.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, stavudine (the active ingredient contained in Zerit) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking stavudine, check with your doctor immediately:
 Some stavudine side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Many of the side effects associated with nucleoside reverse transcriptase inhibitor therapy (neuropathy, pancreatitis, liver failure, lactic acidosis, etc.
 ) are attributable to their direct toxic effect on mitochondria which causes decreased mitochondrial energy-generating capacity.
-Nervous system side effects have included headache (up to 54%), peripheral neurologic symptoms/neuropathy (up to 52%), dizziness, abnormal dreams, somnolence, abnormal thinking, depression, and ototoxicity.
+Nervous system side effects have included headache (up to ), peripheral neurologic symptoms/neuropathy (up to ), dizziness, abnormal dreams, somnolence, abnormal thinking, depression, and ototoxicity.
 Insomnia and severe motor weakness (usually with lactic acidosis) have been reported during postmarketing experience.
 Peripheral neuropathy (PN) seen with the administration of stavudine is both dosage- and treatment duration-dependent.
 It is also more common in patients who are being treated with other neurotoxic drugs, who have previously experienced PN, or who have been diagnosed with AIDS at the time of starting treatment.
 PN is generally characterized by numbness, tingling, or pain in the feet or hands.
 Stavudine should be discontinued if peripheral neuropathy develops.
-Hepatic side effects have included elevated bilirubin (all grades: up to 68%; greater than 2.
-6 times ULN: up to 16%), ALT (all grades: up to 50%; greater than 5 times ULN: up to 13%), AST (all grades: up to 53%; greater than 5 times ULN: up to 11%), and gamma glutamyltransferase (all grades: up to 28%; greater than 5 times ULN: up to 5%).
+Hepatic side effects have included elevated bilirubin (all grades: up to ; greater than  times ULN: up to ), ALT (all grades: up to ; greater than  times ULN: up to ), AST (all grades: up to ; greater than  times ULN: up to ), and gamma glutamyltransferase (all grades: up to ; greater than  times ULN: up to ).
 Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogs alone or in combination, including stavudine (the active ingredient contained in Zerit) and other antiretroviral agents.
-Hepatic decompensation (some fatal) has been reported in patients coinfected with HIV-1 and hepatitis C receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin.
+Hepatic decompensation (some fatal) has been reported in patients coinfected with HIV- and hepatitis C receiving combination antiretroviral therapy for HIV- and interferon alfa with or without ribavirin.
 Symptomatic hyperlactatemia/lactic acidosis and hepatic steatosis, hepatitis, and liver failure have been reported during postmarketing experience.
 Caution should be exercised when administering stavudine to any patient with known risk factors for liver disease.
 However, cases of hepatic toxicity have also been reported in patients with no known risk factors.
 Treatment with stavudine should be suspended in any patient who develops clinical or laboratory findings suggestive of lactic acidosis (fatigue, nausea, vomiting, abdominal pain, unexplained weight loss, tachypnea, dyspnea, motor weakness) or pronounced hepatotoxicity.
 Fatal lactic acidosis has been reported in pregnant women who received the combination of stavudine and didanosine with other antiretroviral agents.
-Gastrointestinal side effects have included nausea (up to 53%), diarrhea (up to 50%), nausea and vomiting (39%), vomiting (up to 30%), pancreatitis, and dyspepsia.
+Gastrointestinal side effects have included nausea (up to ), diarrhea (up to ), nausea and vomiting , vomiting (up to ), pancreatitis, and dyspepsia.
 Anorexia and pancreatitis (including fatal cases) have been reported during postmarketing experience.
 When stavudine is used in combination with other drugs that have pancreatic toxic effects (other nucleoside analogs or drugs to treat/prevent Pneumocystis pneumonia) the incidence of pancreatitis may increase.
 Hematologic side effects have included anemia, leukopenia, neutropenia, macrocytosis, and thrombocytopenia during postmarketing experience.
 Other side effects have included edema.
 Abdominal pain, allergic reactions, and chills/fever have been reported during postmarketing experience.
 Edema has been reported with use of stavudine although no causal relationship has been established.
-Dermatologic side effects have included rash (up to 40%) and pruritus.
+Dermatologic side effects have included rash (up to ) and pruritus.
 Musculoskeletal side effects have included muscle weakness and decreased bone mineral density.
 Myalgia has been reported during postmarketing experience.
-Metabolic side effects have included elevated amylase (all grades: up to 31%; greater than or equal to 1.
-4 times ULN: 14%; greater than 2 times ULN: up to 8%) and lipase (all grades: up to 27%; greater than 2 times ULN: up to 6%).
+Metabolic side effects have included elevated amylase (all grades: up to ; greater than or equal to  times ULN: ; greater than  times ULN: up to ) and lipase (all grades: up to ; greater than  times ULN: up to ).
 Hyperlipidemia and progressive subcutaneous fat wasting have been reported.
 Redistribution/accumulation of body fat including central obesity, dorsocervical fat enlargement, peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral agents.
 Diabetes mellitus, hyperglycemia, lipoatrophy, lipodystrophy, and redistribution/accumulation of body fat have been reported during postmarketing experience.
 Although progressive subcutaneous fat wasting has been attributed to the use of protease inhibitors, nucleoside reverse transcriptase inhibitors may have an independent contribution.
 This syndrome has been observed in patients naive to protease inhibitors, however, not to the same degree as in patients on a combination regimen that includes a protease inhibitor.
 Immunologic side effects have included immune reconstitution syndrome.
-Autoimmune disorders (e.
-g.
-, Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
+Autoimmune disorders (, Graves' disease, polymyositis, and Guillain-Barre syndrome) have been reported in the setting of immune reconstitution.
 Renal side effects have included at least one case of Fanconi syndrome.
 It is possible that some side effects of Zerit may not have been reported.
 These can be reported to the FDA here.

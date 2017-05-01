@@ -2,47 +2,22 @@ Common side effects of Antara include: increased serum aspartate aminotransferas
 Other side effects include: abnormal hepatic function tests, increased creatine phosphokinase, and increased serum transaminases.
 See below for a comprehensive list of adverse effects.
 The most frequently reported side effects were abnormal liver tests, AST increased, ALT increased, creatine phosphokinase (CPK) increased, and rhinitis.
-Common (1% to 10%): Liver function tests abnormal, AST increased, ALT increasedUncommon (0.
-1% to 1%): CholelithiasisRare (less than 0.
-1%): HepatitisPostmarketing reports: Cirrhosis, liver fatty deposit, cholecystitis, jaundice, cholangitis, biliary colic
-Very common (10% or more): Rhinitis (up to 23.
-2%), bronchitis (16.
-4%)Common (1% to 10%): Respiratory disorder, pharyngitis, sinusitisUncommon (0.
-1% to 1%): Pulmonary embolismVery rare (less than 0.
-01%): Interstitial pneumopathyFrequency not reported: Cough increased, dyspnea, asthma, pneumonia, laryngitisPostmarketing reports: Interstitial lung disease
-Very common (10% or more): Arthralgia (up to 25.
-1%), back pain (up to 15%)Common (1% to 10%): Back pain, myalgiaUncommon (0.
-1% to 1%): Diffuse myalgia, myositis, muscle cramp, muscle weaknessVery rare (less than 0.
-01%): RhabdomyolysisFrequency not reported: Arthritis, tenosynovitis, joint disorder, arthrosis, leg cramp, bursitis, myastheniaPostmarketing reports: Muscle spasm
-Very common (10% or more): Abdominal pain (up to 15.
-9%)Common (1% to 10%): Nausea, constipation, diarrhea, vomiting, flatulenceUncommon (0.
-1% to 1%): PancreatitisFrequency not reported: Dyspepsia, gastroenteritis, rectal disorder, esophagitis, gastritis, colitis, tooth disorder, gastrointestinal disorder, duodenal ulcer, peptic ulcer, rectal hemorrhage, eructation, gamma glutamyl transpeptidase, dry mouth
-Common (1% to 10%): Headache, dizzinessRare (less than 0.
-1%): Peripheral neuropathyFrequency not reported: Migraine, paresthesia, hypertonia, neuralgia, somnolence
-Common (1% to 10%): Rash, pruritus, urticariaUncommon (0.
-1% to 1%): Photosensitivity reactionRare (0.
-01% to 0.
-1%): AlopeciaVery rare (less than 0.
-01%): Cutaneous photosensitivity with erythema, vesiculation, nodulationFrequency not reported: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, eczema, acne, sweating, fungal dermatitis, skin disorder, contact dermatitis, maculopapular rash, nail disorder, skin ulcerPostmarketing reports: Ecchymosis
-Uncommon (0.
-1% to 1%): Deep vein thrombosisFrequency not reported: Angina pectoris, hypertension, vasodilatation, coronary artery disorder, electrocardiogram abnormal, extrasystole, myocardial infarct, peripheral vascular disorder, varicose vein, cardiovascular disorder, hypotension, palpitation, arrhythmia, phlebitis, tachycardia, atrial fibrillation
-Common (1% to 10%): ConjunctivitisFrequency not reported: Eye disorder, amblyopia, abnormal vision, cataract specified, refraction disorder
-Very common (10% or more): Accidental injury (up to 18.
-4%), flu syndrome (up to 17.
-9%), chest pain (up to 10.
-1%)Common (1% to 10%): Creatine phosphokinase increased, malaise, vertigo, fatigueUncommon (0.
-1% to 1%): Serum creatinine increased, urea increasedRare (less than 0.
-1%): Sexual astheniaFrequency not reported: Pain, infection, cyst, hernia, fever, peripheral edema, ear pain, otitis media, herpes zoster, herpes simplex, weight gain, weight loss, edemaPostmarketing reports: Asthenia
-Uncommon (0.
-1% to 1%): Sexual dysfunctionFrequency not reported: Urinary frequency, prostatic disorder, dysuria, gynecomastia, vaginal moniliasis, cystitis
-Rare (less than 0.
-1%): Hemoglobin decreased, leukopeniaFrequency not reported: Eosinophilia, lymphadenopathy, thrombocytopenia, anemiaPostmarketing reports: Hematocrit decreased
+Common ( to ): Liver function tests abnormal, AST increased, ALT increasedUncommon ( to ): CholelithiasisRare (less than ): HepatitisPostmarketing reports: Cirrhosis, liver fatty deposit, cholecystitis, jaundice, cholangitis, biliary colic
+Very common ( or more): Rhinitis (up to ), bronchitis Common ( to ): Respiratory disorder, pharyngitis, sinusitisUncommon ( to ): Pulmonary embolismVery rare (less than ): Interstitial pneumopathyFrequency not reported: Cough increased, dyspnea, asthma, pneumonia, laryngitisPostmarketing reports: Interstitial lung disease
+Very common ( or more): Arthralgia (up to ), back pain (up to )Common ( to ): Back pain, myalgiaUncommon ( to ): Diffuse myalgia, myositis, muscle cramp, muscle weaknessVery rare (less than ): RhabdomyolysisFrequency not reported: Arthritis, tenosynovitis, joint disorder, arthrosis, leg cramp, bursitis, myastheniaPostmarketing reports: Muscle spasm
+Very common ( or more): Abdominal pain (up to )Common ( to ): Nausea, constipation, diarrhea, vomiting, flatulenceUncommon ( to ): PancreatitisFrequency not reported: Dyspepsia, gastroenteritis, rectal disorder, esophagitis, gastritis, colitis, tooth disorder, gastrointestinal disorder, duodenal ulcer, peptic ulcer, rectal hemorrhage, eructation, gamma glutamyl transpeptidase, dry mouth
+Common ( to ): Headache, dizzinessRare (less than ): Peripheral neuropathyFrequency not reported: Migraine, paresthesia, hypertonia, neuralgia, somnolence
+Common ( to ): Rash, pruritus, urticariaUncommon ( to ): Photosensitivity reactionRare ( to ): AlopeciaVery rare (less than ): Cutaneous photosensitivity with erythema, vesiculation, nodulationFrequency not reported: Erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, eczema, acne, sweating, fungal dermatitis, skin disorder, contact dermatitis, maculopapular rash, nail disorder, skin ulcerPostmarketing reports: Ecchymosis
+Uncommon ( to ): Deep vein thrombosisFrequency not reported: Angina pectoris, hypertension, vasodilatation, coronary artery disorder, electrocardiogram abnormal, extrasystole, myocardial infarct, peripheral vascular disorder, varicose vein, cardiovascular disorder, hypotension, palpitation, arrhythmia, phlebitis, tachycardia, atrial fibrillation
+Common ( to ): ConjunctivitisFrequency not reported: Eye disorder, amblyopia, abnormal vision, cataract specified, refraction disorder
+Very common ( or more): Accidental injury (up to ), flu syndrome (up to ), chest pain (up to )Common ( to ): Creatine phosphokinase increased, malaise, vertigo, fatigueUncommon ( to ): Serum creatinine increased, urea increasedRare (less than ): Sexual astheniaFrequency not reported: Pain, infection, cyst, hernia, fever, peripheral edema, ear pain, otitis media, herpes zoster, herpes simplex, weight gain, weight loss, edemaPostmarketing reports: Asthenia
+Uncommon ( to ): Sexual dysfunctionFrequency not reported: Urinary frequency, prostatic disorder, dysuria, gynecomastia, vaginal moniliasis, cystitis
+Rare (less than ): Hemoglobin decreased, leukopeniaFrequency not reported: Eosinophilia, lymphadenopathy, thrombocytopenia, anemiaPostmarketing reports: Hematocrit decreased
 Frequency not reported: Appetite increased, anorexia, diabetes mellitus, hypoglycemia, gout, hyperuricemiaPostmarketing reports: High-density lipoprotein cholesterol levels severely depressed
 Frequency not reported: Kidney function abnormal, urolithiasisPostmarketing reports: Renal failure, acute renal failure
-Common (1% to 10%): InsomniaFrequency not reported: Depression, libido decreased, anxiety, nervousness
+Common ( to ): InsomniaFrequency not reported: Depression, libido decreased, anxiety, nervousness
 Frequency not reported: Diabetes mellitus
-Rare (less than 0.
-1%): Hypersensitivity reactionFrequency not reported: Allergic reaction
+Rare (less than ): Hypersensitivity reactionFrequency not reported: Allergic reaction
 Chills or fever
 hives, itching, or skin rash
 muscle aches and pains

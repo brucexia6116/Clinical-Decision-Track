@@ -1,83 +1,60 @@
 Other dosage forms:
 As well as its needed effects, ribavirin (the active ingredient contained in RibaPak) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking ribavirin, check with your doctor immediately:
 Some ribavirin side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-The most common serious or life-threatening side effects induced or aggravated by ribavirin (the active ingredient contained in RibaPak) tablets in combination with peginterferon alfa-2a have included depression, suicide, relapse of drug abuse/overdose, and bacterial infections in less than 1% of patients and hepatic decompensation in 2% of chronic hepatitis C (CHC)-HIV coinfected patients.
-The most common serious side effect in CHC monoinfected (3%) and CHC-HIV coinfected (5%) patients receiving peginterferon alfa-2a alone or in combination with ribavirin tablets was bacterial infection (e.
-g.
-, sepsis, osteomyelitis, endocarditis, pyelonephritis, pneumonia).
-Common side effects reported in CHC-HIV coinfected patients receiving ribavirin tablets in combination with peginterferon alfa-2a have included neutropenia, anemia, thrombocytopenia, weight decrease, and mood alteration.
-The most common side effects reported in patients receiving ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b were injection site inflammation/reaction, fatigue/asthenia, headache, rigors, fevers, nausea, myalgia, and anxiety/emotional lability/irritability.
-The most common serious side effects associated with peginterferon alfa-2b in combination with ribavirin capsules/oral solution were depression and suicidal ideation in less than 1% of patients.
-The most common fatal side effects reported in patients receiving peginterferon alfa-2b in combination with ribavirin capsules/oral solution were cardiac arrest, suicidal ideation, and suicide attempt in less than 1% of patients.
+The most common serious or life-threatening side effects induced or aggravated by ribavirin (the active ingredient contained in RibaPak) tablets in combination with peginterferon alfa-a have included depression, suicide, relapse of drug abuse/overdose, and bacterial infections in less than  of patients and hepatic decompensation in  of chronic hepatitis C (CHC)-HIV coinfected patients.
+The most common serious side effect in CHC monoinfected  and CHC-HIV coinfected  patients receiving peginterferon alfa-a alone or in combination with ribavirin tablets was bacterial infection (, sepsis, osteomyelitis, endocarditis, pyelonephritis, pneumonia).
+Common side effects reported in CHC-HIV coinfected patients receiving ribavirin tablets in combination with peginterferon alfa-a have included neutropenia, anemia, thrombocytopenia, weight decrease, and mood alteration.
+The most common side effects reported in patients receiving ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b were injection site inflammation/reaction, fatigue/asthenia, headache, rigors, fevers, nausea, myalgia, and anxiety/emotional lability/irritability.
+The most common serious side effects associated with peginterferon alfa-b in combination with ribavirin capsules/oral solution were depression and suicidal ideation in less than  of patients.
+The most common fatal side effects reported in patients receiving peginterferon alfa-b in combination with ribavirin capsules/oral solution were cardiac arrest, suicidal ideation, and suicide attempt in less than  of patients.
 Mechanically ventilated patients may be predisposed to respiratory deterioration.
-Severe hypoxia was described in a case report of a previously healthy infant who experienced a dramatic drop in transcutaneous oxygen within 1 minute of receiving ribavirin (the active ingredient contained in RibaPak)   Oxygen levels returned to normal promptly following discontinuation of therapy.
+Severe hypoxia was described in a case report of a previously healthy infant who experienced a dramatic drop in transcutaneous oxygen within  minute of receiving ribavirin (the active ingredient contained in RibaPak)   Oxygen levels returned to normal promptly following discontinuation of therapy.
 However, the infant later died, and postmortem examination revealed a high pulmonary arterial pressure and a patent ductus arteriosus.
 A definitive causal relationship was not established, and equipment failure was not specifically ruled out by the authors.
 Most signs and symptoms reported in exposed health care workers resolved within minutes to hours of stopping close exposure to aerosolized ribavirin.
-Respiratory side effects associated with oral ribavirin in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b have included dyspnea (up to 26%), cough (up to 23%), and exertional dyspnea (up to 7%).
-Pharyngitis (up to 13%), rhinitis (up to 8%), and sinusitis (up to 12%) have been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b.
+Respiratory side effects associated with oral ribavirin in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b have included dyspnea (up to ), cough (up to ), and exertional dyspnea (up to ).
+Pharyngitis (up to ), rhinitis (up to ), and sinusitis (up to ) have been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b.
 Pulmonary symptoms (including dyspnea, pulmonary infiltrates, pneumonitis, pulmonary hypertension, pneumonia, and fatal pneumonia), sarcoidosis, and exacerbation of sarcoidosis have been reported with oral ribavirin in combination with alpha interferon.
-Pulmonary hypertension has been reported during postmarketing experience with ribavirin capsules/oral solution in combination with interferon alfa-2b or peginterferon alfa-2b.
+Pulmonary hypertension has been reported during postmarketing experience with ribavirin capsules/oral solution in combination with interferon alfa-b or peginterferon alfa-b.
 Significant deterioration of pulmonary function in patients with chronic obstructive pulmonary disease or asthma and minor pulmonary function abnormalities in healthy volunteers have been reported with aerosolized ribavirin.
 Asthmatic patients have also reported dyspnea and chest soreness with aerosolized ribavirin.
 Worsening of respiratory status, bronchospasm, hypoventilation, cyanosis, dyspnea, bronchoconstriction, bacterial pneumonia, cough, pneumothorax, pulmonary edema, apnea, atelectasis, hypoxia, and ventilator dependence have been reported with aerosolized ribavirin.
 Rhinitis and pharyngitis, as well as several cases of bronchospasm and/or chest pain (usually in individuals with underlying reactive airway disease), have been reported in health care workers exposed to aerosolized ribavirin.
-Hypersensitivity side effects have included reactions such as urticaria, angioedema, bronchoconstriction, and anaphylaxis in patients treated with alfa interferon and ribavirin (the active ingredient contained in RibaPak)   Severe skin reactions (including vesiculobullous eruptions, Stevens-Johnson syndrome, erythema multiforme, and exfoliative dermatitis/erythroderma) have been reported in patients treated with peginterferon alfa-2a alone or in combination with ribavirin tablets.
-Serious skin reactions have been reported during postmarketing experience in patients treated with peginterferon alfa-2a.
+Hypersensitivity side effects have included reactions such as urticaria, angioedema, bronchoconstriction, and anaphylaxis in patients treated with alfa interferon and ribavirin (the active ingredient contained in RibaPak)   Severe skin reactions (including vesiculobullous eruptions, Stevens-Johnson syndrome, erythema multiforme, and exfoliative dermatitis/erythroderma) have been reported in patients treated with peginterferon alfa-a alone or in combination with ribavirin tablets.
+Serious skin reactions have been reported during postmarketing experience in patients treated with peginterferon alfa-a.
 Dermatologic side effects have included rash and skin irritation from prolonged drug contact.
-Alopecia (up to 36%), pruritus (up to 29%), dermatitis (up to 16%), dry skin (up to 24%), increased sweating (up to 11%), rash (up to 34%), and eczema (up to 5%) have been associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b.
-Grover's disease has been reported in a 55-year-old man 2 weeks after the start of ribavirin therapy.
-A photoallergic skin reaction was reported to occur 4 months after initiation of ribavirin treatment, and recurred approximately 24 hours after reexposure to ribavirin.
-Skin disorders associated with ribavirin tablets in combination with peginterferon alfa-2a have included lichenoid eruptions and maculopapular rashes.
+Alopecia (up to ), pruritus (up to ), dermatitis (up to ), dry skin (up to ), increased sweating (up to ), rash (up to ), and eczema (up to ) have been associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b.
+Grover's disease has been reported in a -year-old man  weeks after the start of ribavirin therapy.
+A photoallergic skin reaction was reported to occur  months after initiation of ribavirin treatment, and recurred approximately  hours after reexposure to ribavirin.
+Skin disorders associated with ribavirin tablets in combination with peginterferon alfa-a have included lichenoid eruptions and maculopapular rashes.
 Rash has been reported in patients treated with and health care workers exposed to aerosolized ribavirin.
-Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported during postmarketing experience with ribavirin tablets in combination with peginterferon alfa-2a.
-Grover's disease (suprabasal transient acantholytic dermatosis) secondary to ribavirin use was confirmed upon drug rechallenge in a 55-year-old man with chronic active hepatitis C.
+Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported during postmarketing experience with ribavirin tablets in combination with peginterferon alfa-a.
+Grover's disease (suprabasal transient acantholytic dermatosis) secondary to ribavirin use was confirmed upon drug rechallenge in a -year-old man with chronic active hepatitis C.
 Rash associated with aerosolized ribavirin usually resolved within hours of stopping treatment in patients and within minutes to hours of stopping close exposure in health care workers.
-Cardiovascular side effects have included angina, arrhythmia, and pulmonary embolism in less than 1% of patients treated with peginterferon alfa-2a alone or in combination with ribavirin (the active ingredient contained in RibaPak) tablets.
+Cardiovascular side effects have included angina, arrhythmia, and pulmonary embolism in less than  of patients treated with peginterferon alfa-a alone or in combination with ribavirin (the active ingredient contained in RibaPak) tablets.
 Fatal and nonfatal myocardial infarctions have been reported in patients with anemia due to ribavirin capsules/oral solution.
 Cardiac arrest, hypotension, bradycardia, bigeminy, tachycardia, hypertension (usually slight increases in blood pressure), and digitalis toxicity have been reported with aerosolized ribavirin.
 Bigeminy, bradycardia, and tachycardia have been reported in patients with underlying congenital heart disease.
-Hematologic side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b have included anemia (up to 35%), lymphopenia (up to 14%), neutropenia (up to 40%), thrombocytopenia (up to 8%), and leukopenia (up to 10%).
+Hematologic side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b have included anemia (up to ), lymphopenia (up to ), neutropenia (up to ), thrombocytopenia (up to ), and leukopenia (up to ).
 Hemolytic anemia is the most significant toxicity of ribavirin.
-Aplastic anemia and thrombotic thrombocytopenic purpura have been reported in less than 1% of patients treated with peginterferon alfa-2a alone or in combination with ribavirin tablets.
+Aplastic anemia and thrombotic thrombocytopenic purpura have been reported in less than  of patients treated with peginterferon alfa-a alone or in combination with ribavirin tablets.
 Pancytopenia (marked decreases in red blood cells, neutrophils, and platelets) and bone marrow suppression have been reported following concomitant administration of pegylated interferon plus oral ribavirin and azathioprine.
-Aplastic anemia has been reported during postmarketing experience with ribavirin capsules/oral solution in combination with interferon alfa-2b or peginterferon alfa-2b.
-Pure red cell aplasia has been reported during postmarketing experience with oral ribavirin in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b.
+Aplastic anemia has been reported during postmarketing experience with ribavirin capsules/oral solution in combination with interferon alfa-b or peginterferon alfa-b.
+Pure red cell aplasia has been reported during postmarketing experience with oral ribavirin in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b.
 Cases of anemia (type unspecified), reticulocytosis, and hemolytic anemia associated with aerosolized ribavirin have been reported during postmarketing experience and have been reversible with drug discontinuation.
 Hemolytic anemia is the primary toxicity of ribavirin therapy.
-Hemoglobin levels generally declined within the first 1 to 2 weeks of oral therapy.
-Cardiac and pulmonary adverse effects associated with anemia have been reported in 10% of patients.
-Hemoglobin less than 10 g/dL was reported in 13% of patients receiving ribavirin tablets in combination with peginterferon alfa-2a.
-Additional laboratory abnormalities during treatment with ribavirin tablets in combination with peginterferon alfa-2a or interferon alfa-2b have included decreased neutrophils (1000 to less than 1500 cells/mm3: up to 38%; 500 to less than 1000 cells/mm3: up to 49%; less than 500 cells/mm3: up to 5%), platelets (50,000 to less than 75,000 cells/mm3: up to 11%; 20,000 to less than 50,000 cells/mm3: up to 5%), and hemoglobin (8.
-5 to 9.
-9 g/dL: 11%; less than 8.
-5 g/dL: up to 2%).
-Changes in laboratory values during treatment with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b have included decreased hemoglobin (9.
-5 to 10.
-9 g/dL: up to 32%; 8 to 9.
-4 g/dL: up to 5%; 6.
-5 to 7.
-9 g/dL: up to 0.
-2%), leukocytes [2 to 2.
-9 x 10(9)/L: up to 46%; 1.
-5 to 1.
-9 x 10(9)/L: up to 24%; 1 to 1.
-4 x 10(9)/L: up to 5%], neutrophils [1 to 1.
-49 x 10(9)/L: up to 42%; 0.
-75 to 0.
-99 x 10(9)/L: up to 25%; 0.
-5 to 0.
-74 x 10(9)/L: up to 18%; less than 0.
-5 x 10(9)/L: up to 11%], and platelets [70 to 99 x 10(9)/L: up to 15%; 50 to 69 x 10(9)/L: up to 3%; 30 to 49 x 10(9)/L: up to 0.
-2%; less than 30 x 10(9)/L: up to 1%].
-Ocular side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b have included blurred vision (up to 6%).
-Corneal ulcer has been reported in less than 1% of patients treated with peginterferon alfa-2a alone or in combination with ribavirin tablets.
-Conjunctivitis (up to 5%) has been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b.
-Serous retinal detachment has been reported during postmarketing experience with oral ribavirin in combination with peginterferon alfa-2a, interferon alfa-2b, or peginterferon alfa-2b.
+Hemoglobin levels generally declined within the first  to  weeks of oral therapy.
+Cardiac and pulmonary adverse effects associated with anemia have been reported in  of patients.
+Hemoglobin less than  g/dL was reported in  of patients receiving ribavirin tablets in combination with peginterferon alfa-a.
+Additional laboratory abnormalities during treatment with ribavirin tablets in combination with peginterferon alfa-a or interferon alfa-b have included decreased neutrophils ( to less than  cells/mm: up to ;  to less than  cells/mm: up to ; less than  cells/mm: up to ), platelets (, to less than , cells/mm: up to ; , to less than , cells/mm: up to ), and hemoglobin ( to  g/dL: ; less than  g/dL: up to ).
+Changes in laboratory values during treatment with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b have included decreased hemoglobin ( to  g/dL: up to ;  to  g/dL: up to ;  to  g/dL: up to ), leukocytes [ to  x /L: up to ;  to  x /L: up to ;  to  x /L: up to ], neutrophils [ to  x /L: up to ;  to  x /L: up to ;  to  x /L: up to ; less than  x /L: up to ], and platelets [ to  x /L: up to ;  to  x /L: up to ;  to  x /L: up to ; less than  x /L: up to ].
+Ocular side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b have included blurred vision (up to ).
+Corneal ulcer has been reported in less than  of patients treated with peginterferon alfa-a alone or in combination with ribavirin tablets.
+Conjunctivitis (up to ) has been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b.
+Serous retinal detachment has been reported during postmarketing experience with oral ribavirin in combination with peginterferon alfa-a, interferon alfa-b, or peginterferon alfa-b.
 Eye irritation and conjunctivitis have been reported in patients treated with and health care workers exposed to aerosolized ribavirin.
 Lacrimation has been reported in health care workers exposed to aerosolized ribavirin.
 Damage to contact lenses after prolonged close exposure to aerosolized ribavirin has also been reported.
@@ -87,55 +64,47 @@ Eye and conjunctival irritation resolved spontaneously when the caregivers left 
 In five of six cases, the caregivers were wearing contact lenses.
 After the staff stopped wearing contact lenses while caring for patients receiving aerosolized ribavirin, the reactions did not occur.
 Most signs and symptoms reported in exposed health care workers resolved within minutes to hours of stopping close exposure to aerosolized ribavirin (the active ingredient contained in RibaPak) 
-Gastrointestinal side effects associated with oral ribavirin in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b have included nausea (up to 47%), nausea and vomiting (up to 29%), diarrhea (up to 22%), vomiting (up to 14%), abdominal pain (up to 13%), dry mouth (up to 12%), dyspepsia (up to 16%), and constipation (5%).
-Peptic ulcer, gastrointestinal bleeding, pancreatitis, and colitis have been reported in less than 1% of patients treated with peginterferon alfa-2a alone or in combination with ribavirin tablets.
+Gastrointestinal side effects associated with oral ribavirin in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b have included nausea (up to ), nausea and vomiting (up to ), diarrhea (up to ), vomiting (up to ), abdominal pain (up to ), dry mouth (up to ), dyspepsia (up to ), and constipation .
+Peptic ulcer, gastrointestinal bleeding, pancreatitis, and colitis have been reported in less than  of patients treated with peginterferon alfa-a alone or in combination with ribavirin tablets.
 Nausea has been reported in health care workers exposed to aerosolized ribavirin.
-Musculoskeletal side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b have included myalgia (up to 64%), arthralgia (up to 34%), musculoskeletal pain (up to 28%), and back pain (5%).
-Myositis has been reported in less than 1% of patients treated with peginterferon alfa-2a alone or in combination with ribavirin tablets.
-At least 6 cases of mild to moderate gout have been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b.
-Nervous system side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b have included headache (up to 66%), dizziness (excluding vertigo; 26%), and memory impairment (up to 6%).
-Peripheral neuropathy, coma, and cerebral hemorrhage have been reported in less than 1% of patients treated with peginterferon alfa-2a alone or in combination with ribavirin tablets.
-Taste perversion (up to 9%) has been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b.
-Hearing impairment and hearing loss have been reported during postmarketing experience with ribavirin tablets in combination with peginterferon alfa-2a.
-Vertigo and hearing disorder have been reported during postmarketing experience with ribavirin capsules/oral solution in combination with interferon alfa-2b or peginterferon alfa-2b.
+Musculoskeletal side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b have included myalgia (up to ), arthralgia (up to ), musculoskeletal pain (up to ), and back pain .
+Myositis has been reported in less than  of patients treated with peginterferon alfa-a alone or in combination with ribavirin tablets.
+At least  cases of mild to moderate gout have been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b.
+Nervous system side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b have included headache (up to ), dizziness (excluding vertigo; ), and memory impairment (up to ).
+Peripheral neuropathy, coma, and cerebral hemorrhage have been reported in less than  of patients treated with peginterferon alfa-a alone or in combination with ribavirin tablets.
+Taste perversion (up to ) has been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b.
+Hearing impairment and hearing loss have been reported during postmarketing experience with ribavirin tablets in combination with peginterferon alfa-a.
+Vertigo and hearing disorder have been reported during postmarketing experience with ribavirin capsules/oral solution in combination with interferon alfa-b or peginterferon alfa-b.
 Headache and dizziness have been reported in health care workers exposed to aerosolized ribavirin.
 Seizures have been reported with experimental intravenous ribavirin.
 Most signs and symptoms reported in exposed health care workers resolved within minutes to hours of stopping close exposure to aerosolized ribavirin.
-Metabolic side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b have included anorexia (up to 32%) and weight decrease (up to 29%).
-Diabetes mellitus has been reported in less than 1% of patients treated with peginterferon alfa-2a alone or in combination with ribavirin tablets.
-Falsely low hemoglobin A1c levels have been reported.
-Dehydration has been reported during postmarketing experience with ribavirin tablets in combination with peginterferon alfa-2a.
-Diabetes has been reported during postmarketing experience with ribavirin capsules/oral solution in combination with interferon alfa-2b or peginterferon alfa-2b.
-Falsely low hemoglobin A1c levels may be due to ribavirin-induced hemolysis decreasing the number of circulating glycosylated hemoglobin molecules.
-Psychiatric side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b have included irritability/anxiety/nervousness/emotional lability (up to 47%), insomnia (up to 41%), depression (up to 36%), concentration impairment (up to 21%), mood alteration (up to 9%), and agitation (up to 8%).
-Suicide, suicidal ideation, psychosis, aggression, anxiety, drug abuse/overdose, psychotic disorder, and hallucination have been reported in less than 1% of patients treated with peginterferon alfa-2a alone or in combination with ribavirin tablets.
-Impairment of desire and the potential to affect sexual satisfaction have been reported with ribavirin tablets in combination with peginterferon alfa-2a in male patients.
-Endocrine side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b have included hypothyroidism (up to 5%).
-Other side effects frequently associated with ribavirin (the active ingredient contained in RibaPak) tablets in combination with peginterferon alfa-2a have included influenza-like symptoms (such as fatigue, pyrexia, myalgia, headache, and rigors).
-Fatigue/asthenia (up to 70%), pyrexia (up to 55%), rigors (up to 48%), chills (up to 39%), influenza-like illness (up to 18%), unspecified pain (up to 13%), right upper quadrant pain (up to 12%), pain (up to 10%), chest pain (up to 9%), and malaise (up to 6%) have been associated with oral ribavirin in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b.
-Hyperuricemia (in association with hemolysis; up to 38%) and flushing (up to 4%) have been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b.
+Metabolic side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b have included anorexia (up to ) and weight decrease (up to ).
+Diabetes mellitus has been reported in less than  of patients treated with peginterferon alfa-a alone or in combination with ribavirin tablets.
+Falsely low hemoglobin Ac levels have been reported.
+Dehydration has been reported during postmarketing experience with ribavirin tablets in combination with peginterferon alfa-a.
+Diabetes has been reported during postmarketing experience with ribavirin capsules/oral solution in combination with interferon alfa-b or peginterferon alfa-b.
+Falsely low hemoglobin Ac levels may be due to ribavirin-induced hemolysis decreasing the number of circulating glycosylated hemoglobin molecules.
+Psychiatric side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b have included irritability/anxiety/nervousness/emotional lability (up to ), insomnia (up to ), depression (up to ), concentration impairment (up to ), mood alteration (up to ), and agitation (up to ).
+Suicide, suicidal ideation, psychosis, aggression, anxiety, drug abuse/overdose, psychotic disorder, and hallucination have been reported in less than  of patients treated with peginterferon alfa-a alone or in combination with ribavirin tablets.
+Impairment of desire and the potential to affect sexual satisfaction have been reported with ribavirin tablets in combination with peginterferon alfa-a in male patients.
+Endocrine side effects associated with oral ribavirin (the active ingredient contained in RibaPak) in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b have included hypothyroidism (up to ).
+Other side effects frequently associated with ribavirin (the active ingredient contained in RibaPak) tablets in combination with peginterferon alfa-a have included influenza-like symptoms (such as fatigue, pyrexia, myalgia, headache, and rigors).
+Fatigue/asthenia (up to ), pyrexia (up to ), rigors (up to ), chills (up to ), influenza-like illness (up to ), unspecified pain (up to ), right upper quadrant pain (up to ), pain (up to ), chest pain (up to ), and malaise (up to ) have been associated with oral ribavirin in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b.
+Hyperuricemia (in association with hemolysis; up to ) and flushing (up to ) have been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b.
 Asthenia has been reported with experimental intravenous ribavirin.
-Hepatic side effects have included hepatic dysfunction, fatty liver, and cholangitis in less than 1% of patients treated with peginterferon alfa-2a alone or in combination with ribavirin (the active ingredient contained in RibaPak) tablets.
-Hepatic decompensation has been reported in 2% of CHC-HIV coinfected patients receiving peginterferon alfa-2a in combination with ribavirin tablets.
-Hyperbilirubinemia (in association with hemolysis; up to 14%), hepatomegaly (4%), and increased ALT have been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b.
-Changes in laboratory values during treatment with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b have included increased total bilirubin (1.
-5 to 3 mg/dL: up to 32%; 3.
-1 to 6 mg/dL: up to 3%; 6.
-1 to 12 mg/dL: up to 0.
-4%) and ALT (2 x baseline: up to 0.
-6%; 2.
-1 to 5 x baseline: up to 3%).
-Immunologic side effects associated with peginterferon alfa-2a alone or in combination with ribavirin (the active ingredient contained in RibaPak) tablets have included bacterial infection (e.
-g.
-, sepsis, osteomyelitis, endocarditis, pyelonephritis, pneumonia) in 3% of CHC and 5% of CHC-HIV patients and autoimmune phenomena (such as hyperthyroidism, hypothyroidism, sarcoidosis, systemic lupus erythematosus, rheumatoid arthritis) in less than 1% of patients.
-Resistance mechanism disorders (overall: up to 12%), including viral infection (12%) and fungal infection (up to 6%), have been associated with oral ribavirin in combination with peginterferon alfa-2a, peginterferon alfa-2b, or interferon alfa-2b.
-Liver and renal graft rejections have been reported during postmarketing experience with ribavirin tablets in combination with peginterferon alfa-2a.
-Genitourinary side effects associated with ribavirin (the active ingredient contained in RibaPak) tablets in combination with peginterferon alfa-2a have included sexual dysfunction in male patients.
-Menstrual disorder has been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b.
-Local side effects have included injection site reactions (up to 58%) in patients treated with oral ribavirin (the active ingredient contained in RibaPak) in combination with interferon alfa-2b, peginterferon alfa-2b, or peginterferon alfa-2a.
-Injection site inflammation (up to 25%) has been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-2b or interferon alfa-2b.
-Skin disorders associated with ribavirin tablets in combination with peginterferon alfa-2a have included cutaneous necrosis at peginterferon alfa-2a injection sites.
-Hyperpigmentation around/over peginterferon alfa-2a injection sites has been reported.
+Hepatic side effects have included hepatic dysfunction, fatty liver, and cholangitis in less than  of patients treated with peginterferon alfa-a alone or in combination with ribavirin (the active ingredient contained in RibaPak) tablets.
+Hepatic decompensation has been reported in  of CHC-HIV coinfected patients receiving peginterferon alfa-a in combination with ribavirin tablets.
+Hyperbilirubinemia (in association with hemolysis; up to ), hepatomegaly , and increased ALT have been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b.
+Changes in laboratory values during treatment with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b have included increased total bilirubin ( to  mg/dL: up to ;  to  mg/dL: up to ;  to  mg/dL: up to ) and ALT ( x baseline: up to ;  to  x baseline: up to ).
+Immunologic side effects associated with peginterferon alfa-a alone or in combination with ribavirin (the active ingredient contained in RibaPak) tablets have included bacterial infection (, sepsis, osteomyelitis, endocarditis, pyelonephritis, pneumonia) in  of CHC and  of CHC-HIV patients and autoimmune phenomena (such as hyperthyroidism, hypothyroidism, sarcoidosis, systemic lupus erythematosus, rheumatoid arthritis) in less than  of patients.
+Resistance mechanism disorders (overall: up to ), including viral infection  and fungal infection (up to ), have been associated with oral ribavirin in combination with peginterferon alfa-a, peginterferon alfa-b, or interferon alfa-b.
+Liver and renal graft rejections have been reported during postmarketing experience with ribavirin tablets in combination with peginterferon alfa-a.
+Genitourinary side effects associated with ribavirin (the active ingredient contained in RibaPak) tablets in combination with peginterferon alfa-a have included sexual dysfunction in male patients.
+Menstrual disorder has been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b.
+Local side effects have included injection site reactions (up to ) in patients treated with oral ribavirin (the active ingredient contained in RibaPak) in combination with interferon alfa-b, peginterferon alfa-b, or peginterferon alfa-a.
+Injection site inflammation (up to ) has been reported with ribavirin capsules/oral solution in combination with peginterferon alfa-b or interferon alfa-b.
+Skin disorders associated with ribavirin tablets in combination with peginterferon alfa-a have included cutaneous necrosis at peginterferon alfa-a injection sites.
+Hyperpigmentation around/over peginterferon alfa-a injection sites has been reported.
 It is possible that some side effects of RibaPak may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

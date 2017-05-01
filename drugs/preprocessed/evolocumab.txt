@@ -1,22 +1,13 @@
-Common (1% to 10%): Hypertension
-Common (1% to 10%): Diarrhea, gastroenteritis, nausea (1.
-8%)
-Common (1% to 10%): Urinary tract infection
-Common (1% to 10%): Hypersensitivity reactions (including rash, eczema, erythema, urticaria)
-Common (1% to 10%): Injection site reaction (including erythema, pain, bruising)
-Common (1% to 10%): Back pain, myalgia, musculoskeletal pain, arthralgia (1.
-8%)
-Common (1% to 10%): Headache, dizzinessUncommon (0.
-1% to 1%): Neurocognitive events (0.
-2%)
-Common (1% to 10%): Influenza, fatigue (1.
-6%)Uncommon (0.
-1% to 1%): Contusion
-Common (1% to 10%): Influenza, fatigue (1.
-6%)Uncommon (0.
-1% to 1%): Contusion
-Rare (less than 0.
-1%): Development anti-drug antibody
+Common ( to ): Hypertension
+Common ( to ): Diarrhea, gastroenteritis, nausea 
+Common ( to ): Urinary tract infection
+Common ( to ): Hypersensitivity reactions (including rash, eczema, erythema, urticaria)
+Common ( to ): Injection site reaction (including erythema, pain, bruising)
+Common ( to ): Back pain, myalgia, musculoskeletal pain, arthralgia 
+Common ( to ): Headache, dizzinessUncommon ( to ): Neurocognitive events 
+Common ( to ): Influenza, fatigue Uncommon ( to ): Contusion
+Common ( to ): Influenza, fatigue Uncommon ( to ): Contusion
+Rare (less than ): Development anti-drug antibody
 Difficulty with breathing or swallowing
 fever
 hives, itching, or rash

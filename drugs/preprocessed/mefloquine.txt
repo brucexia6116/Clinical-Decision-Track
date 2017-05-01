@@ -1,6 +1,6 @@
 At the doses used for treatment of acute malaria infections, the side effects possibly associated with mefloquine cannot be distinguished from the side effects usually associated with the disease.
 The most common side effects reported during treatment included dizziness, myalgia, nausea, fever, headache, vomiting, chills, diarrhea, skin rash, abdominal pain, fatigue, loss of appetite, and tinnitus.
-The most common side effects reported during malaria prophylaxis included vomiting (3%).
+The most common side effects reported during malaria prophylaxis included vomiting .
 Due to the long half-life of mefloquine, side effects may occur and persist up to several weeks after drug discontinuation.
 Psychiatric side effects have included emotional problems and transient emotional disturbances.
 Behavioral changes, strange or vivid dreams, mania, nightmares, delusions, tension, anger, organic psychosis, and dysphoria have been reported.
@@ -16,14 +16,14 @@ Cardiovascular side effects have included extrasystoles and bradycardia.
 Cardiopulmonary arrest was reported in one patient after a single prophylactic dose while concomitantly using propranolol.
 Transitory and clinically silent electrocardiograph alterations (including sinus bradycardia, sinus arrhythmia, first degree atrioventricular block, prolongation of the QTc interval, and abnormal T waves) and atrial flutter have been reported.
 Circulatory disturbances (hypotension, hypertension, flushing, syncope), chest pain, tachycardia or palpitation, bradycardia, irregular heart rate, extrasystoles, atrioventricular block, and other transient cardiac conduction alterations have been reported during postmarketing experience.
-A 56-year-old male experienced thrombotic thrombocytopenic purpura (TTP) coincident with mefloquine therapy.
+A -year-old male experienced thrombotic thrombocytopenic purpura (TTP) coincident with mefloquine therapy.
 One week before admission, the patient developed weakness, followed some days later by anorexia, myalgia, and lethargy, and, finally, by fever, confusion, and blurred vision.
-A central venous catheter was placed in the right jugular vein and two plasmapheresis sessions (12 units of fresh frozen plasma) were conducted in the first 24 hours.
+A central venous catheter was placed in the right jugular vein and two plasmapheresis sessions ( units of fresh frozen plasma) were conducted in the first  hours.
 Neurological status improved after the first plasmapheresis; hematological abnormalities disappeared in the first few days of therapy.
 For this patient, the presence of severe neurological symptoms together with fever, thrombocytopenia, and microangiopathic anemia suggested a more complex hematological abnormality, such as TTP.
 The causal relation between drug and disease is supported by the temporal relation of drug intake with the onset of the clinical symptoms and laboratory abnormalities, as well as by their prompt improvement after the aphaeretic therapy and drug withdrawal.
 Hematologic side effects have included decreased hematocrit, leukopenia, leukocytosis, and thrombocytopenia.
-Anemia, at least 8 cases of isolated thrombocytopenia, at least five cases of hemolytic anemia, and at least one case of thrombotic thrombocytopenic purpura have been reported.
+Anemia, at least  cases of isolated thrombocytopenia, at least five cases of hemolytic anemia, and at least one case of thrombotic thrombocytopenic purpura have been reported.
 Agranulocytosis and aplastic anemia have been reported during postmarketing experience.
 Dermatologic side effects have included skin rash, hair loss, pruritus, and telogen effluvium.
 Itching and cutaneous vasculitis have been reported.
@@ -36,10 +36,10 @@ Muscle weakness, muscle cramps, myalgia, and arthralgia have been reported durin
 Hypersensitivity side effects have included hypersensitivity reactions ranging from mild cutaneous events to anaphylaxis.
 Respiratory side effects have included dyspnea and pneumonitis of possible allergic etiology during postmarketing experience.
 At least one case of eosinophilic pneumonia has been reported.
-A 67-year-old female with a history of pityriasis versicolor experienced eosinophilic pneumonia coincident with infliximab therapy.
-She was admitted because she had experienced high-grade fever (39 degrees Celsius), malaise, productive cough, and dyspnea on exertion during the previous week.
-She had traveled to South Africa for 8 weeks and had taken oral mefloquine 250 mg once every week as malaria prophylaxis.
-The therapy was continued for 4 weeks after she returned home.
+A -year-old female with a history of pityriasis versicolor experienced eosinophilic pneumonia coincident with infliximab therapy.
+She was admitted because she had experienced high-grade fever ( degrees Celsius), malaise, productive cough, and dyspnea on exertion during the previous week.
+She had traveled to South Africa for  weeks and had taken oral mefloquine  mg once every week as malaria prophylaxis.
+The therapy was continued for  weeks after she returned home.
 A thorough workup led to the diagnosis of eosinophilic pneumonia due to the mefloquine therapy.
 Her condition improved after the drug was withdrawn.
 Hepatic side effects have included transient elevation of transaminases.

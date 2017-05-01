@@ -1,19 +1,15 @@
 Commonly reported side effects of bedaquiline include: headache and nausea.
 Other side effects include: hepatic insufficiency, increased liver enzymes, increased serum alanine aminotransferase, increased serum aspartate aminotransferase, increased serum transaminases, and anorexia.
 See below for a comprehensive list of adverse effects.
-Very common (10% or more): Increased mortality risk/death (up to 12.
-7%), chest pain (up to 11%)
-Common (1% to 10%): QT prolongation
-Very common (10% or more): Elevated aminotransferases at least 3 times ULN (up to 10.
-8%)Common (1% to 10%): Hepatotoxicity (increased ALT, increase AST, increased hepatic enzyme, abnormal hepatic function)
-Very common (10% or more): Nausea (up to 38%), vomiting (up to 20.
-6%)Common (1% to 10%): Diarrhea, increased blood amylase
-Very common (10% or more): Arthralgia (up to 33%)Common (1% to 10%): Myalgia
-Very common (10% or more): Headache (up to 28%), dizziness (up to 12.
-7%)
-Very common (10% or more): Hemoptysis (up to 18%)
-Common (1% to 10%): Anorexia
-Common (1% to 10%): Rash
+Very common ( or more): Increased mortality risk/death (up to ), chest pain (up to )
+Common ( to ): QT prolongation
+Very common ( or more): Elevated aminotransferases at least  times ULN (up to )Common ( to ): Hepatotoxicity (increased ALT, increase AST, increased hepatic enzyme, abnormal hepatic function)
+Very common ( or more): Nausea (up to ), vomiting (up to )Common ( to ): Diarrhea, increased blood amylase
+Very common ( or more): Arthralgia (up to )Common ( to ): Myalgia
+Very common ( or more): Headache (up to ), dizziness (up to )
+Very common ( or more): Hemoptysis (up to )
+Common ( to ): Anorexia
+Common ( to ): Rash
 Abdominal or stomach pain or tenderness
 chest pain
 coughing or spitting up blood

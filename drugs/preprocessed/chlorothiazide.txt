@@ -3,9 +3,8 @@ Hyperuricemia may be an important consideration in patients with a history of go
 Hypophosphatemia and low serum magnesium concentrations may occur, but are usually clinically insignificant except in malnourished patients.
 Rare cases of the milk-alkali syndrome (hypercalcemia, metabolic alkalosis, and renal insufficiency)  have been associated with chlorothiazide.
 Chlorothiazide-induced hypercalcemia appears to depend on circulating parathyroid hormone.
-Metabolic changes associated with chlorothiazide, as with other thiazide diuretics, are relatively common, especially when daily doses greater than 500 mg are used.
-Mild hypokalemia (decrease of 0.
-5 mEq/L) occurs in up to 50%, and may predispose patients to cardiac arrhythmias.
+Metabolic changes associated with chlorothiazide, as with other thiazide diuretics, are relatively common, especially when daily doses greater than  mg are used.
+Mild hypokalemia (decrease of  mEq/L) occurs in up to , and may predispose patients to cardiac arrhythmias.
 Metabolic alkalosis, hyponatremia, hypomagnesemia, hypophosphatemia, hypercalcemia, hyperglycemia, hypercholesterolemia, and hyperuricemia are also relatively common.
 Cardiovascular complications of diuretic therapy include orthostatic hypotension secondary to intravascular volume depletion.
 This has resulted in syncope and, in some patients with glaucoma, temporary loss of vision.
@@ -15,10 +14,9 @@ Hypersensitivity reactions usually involve the skin (cutaneous vasculitis, urtic
 Thiazide diuretics may induce phototoxic dermatitis.
 Dermatologic reactions may indicate hypersensitivity to the drug.
 Erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis (including toxic epidermal necrolysis), and alopecia have been reported in rare cases.
-Gastrointestinal problems include diarrhea, vomiting, constipation or abdominal pain in approximately 5% of patients.
+Gastrointestinal problems include diarrhea, vomiting, constipation or abdominal pain in approximately  of patients.
 Thiazide diuretics have been associated with acute cholecystitis and rare cases of pancreatitis.
-A retrospective case-control drug surveillance study has revealed the relative risk of acute cholecystitis associated with the use of a thiazide diuretic is 2.
-0.
+A retrospective case-control drug surveillance study has revealed the relative risk of acute cholecystitis associated with the use of a thiazide diuretic is .
 The suspected explanation for this association is the potentially deleterious effect thiazides have on the serum lipid profile.
 Chlorothiazide-induced hypercholesterolemia or hypertriglyceridemia may enhance the formation of some types of gallstones.
 Renal side effects including new or worsened renal insufficiency associated with chlorothiazide therapy is a probable sign of intravascular volume depletion, and serves as a signal to reduce or withhold therapy.

@@ -1,55 +1,30 @@
 In clinical trials, this drug was used in combination with sofosbuvir (with or without ribavirin), with peginterferon alfa/ribavirin, with asunaprevir, or with asunaprevir/peginterferon alfa/ribavirin.
 Fatigue, headache, and nausea were reported most often when used with sofosbuvir.
-Fatigue, headache, pruritus, insomnia, influenza-like illness, dry skin, nausea, decreased appetite, alopecia, rash, asthenia, irritability, myalgia, anemia, pyrexia, cough, dyspnea, neutropenia, diarrhea, and arthralgia were reported most often when used with peginterferon alfa/ribavirin; the most common side effects of at least grade 3 severity were neutropenia, anemia, thrombocytopenia, and lymphopenia.
+Fatigue, headache, pruritus, insomnia, influenza-like illness, dry skin, nausea, decreased appetite, alopecia, rash, asthenia, irritability, myalgia, anemia, pyrexia, cough, dyspnea, neutropenia, diarrhea, and arthralgia were reported most often when used with peginterferon alfa/ribavirin; the most common side effects of at least grade  severity were neutropenia, anemia, thrombocytopenia, and lymphopenia.
 The side effects and laboratory abnormalities reported with this drug in combination with peginterferon alfa/ribavirin was similar to those reported with peginterferon alfa/ribavirin alone, including in patients with cirrhosis.
 Headache, fatigue, diarrhea, nasopharyngitis, and nausea were reported most often when used with asunaprevir.
 Fatigue, headache, pruritus, asthenia, influenza-like illness, insomnia, rash, anemia, cough, dry skin, diarrhea, nausea, alopecia, irritability, pyrexia, and myalgia were reported most often when used with asunaprevir/peginterferon alfa/ribavirin.
 The manufacturer product information for coadministered drugs should be consulted.
-Very common (10% or more): Fatigue (up to 41.
-5%), asthenia (up to 22.
-4%), influenza-like illness (up to 22.
-4%), pyrexia (up to 16.
-1%)Common (1% to 10%): Hot flush, pain, weight decreased
-Very common (10% or more): Headache (up to 31.
-2%)Common (1% to 10%): Dizziness, migraine
-Very common (10% or more): Pruritus (up to 26.
-1%), rash (up to 20.
-6%), dry skin (up to 17.
-8%), alopecia (up to 16.
-1%)
-Very common (10% or more): Insomnia (up to 22.
-4%), irritability (up to 16.
-1%)Common (1% to 10%): Depression, anxiety
-Very common (10% or more): Anemia (up to 19.
-3%), neutropenia (up to 14.
-8%)Common (1% to 10%): ThrombocytopeniaFrequency not reported: Decreased hemoglobin, eosinophilia
-Of the patients reporting anemia, 43% received ribavirin in addition to this drug and sofosbuvir.
+Very common ( or more): Fatigue (up to ), asthenia (up to ), influenza-like illness (up to ), pyrexia (up to )Common ( to ): Hot flush, pain, weight decreased
+Very common ( or more): Headache (up to )Common ( to ): Dizziness, migraine
+Very common ( or more): Pruritus (up to ), rash (up to ), dry skin (up to ), alopecia (up to )
+Very common ( or more): Insomnia (up to ), irritability (up to )Common ( to ): Depression, anxiety
+Very common ( or more): Anemia (up to ), neutropenia (up to )Common ( to ): ThrombocytopeniaFrequency not reported: Decreased hemoglobin, eosinophilia
+Of the patients reporting anemia,  received ribavirin in addition to this drug and sofosbuvir.
 During the study, anemia was not reported in the ribavirin-free treatment groups.
-Grade 3 decreased hemoglobin was reported in 1 patient in a ribavirin treatment group.
-Very common (10% or more): Cough (up to 18.
-3%), nasopharyngitis (up to 13.
-7%), dyspnea (up to 12.
-3%)Common (1% to 10%): Exertional dyspnea, nasal congestion, upper respiratory tract infection
-Very common (10% or more): Diarrhea (up to 17.
-6%), nausea (up to 16.
-6%)Common (1% to 10%): Upper abdominal pain, constipation, flatulence, gastroesophageal reflux disease, dry mouth, vomiting, elevated lipase
-Transient, asymptomatic elevated lipase (greater than 3 times the upper limit of normal [3 x ULN]) was reported in 2% of patients using this drug with sofosbuvir.
-Very common (10% or more): Myalgia (up to 15.
-3%), arthralgia (up to 10.
-1%)Common (1% to 10%): Back pain
-Very common (10% or more): Decreased appetite (up to 11.
-8%)
+Grade  decreased hemoglobin was reported in  patient in a ribavirin treatment group.
+Very common ( or more): Cough (up to ), nasopharyngitis (up to ), dyspnea (up to )Common ( to ): Exertional dyspnea, nasal congestion, upper respiratory tract infection
+Very common ( or more): Diarrhea (up to ), nausea (up to )Common ( to ): Upper abdominal pain, constipation, flatulence, gastroesophageal reflux disease, dry mouth, vomiting, elevated lipase
+Transient, asymptomatic elevated lipase (greater than  times the upper limit of normal [ x ULN]) was reported in  of patients using this drug with sofosbuvir.
+Very common ( or more): Myalgia (up to ), arthralgia (up to )Common ( to ): Back pain
+Very common ( or more): Decreased appetite (up to )
 Serious symptomatic bradycardia has been reported in patients taking amiodarone who started therapy with sofosbuvir in combination with another hepatitis C virus direct-acting antiviral (including this drug).
 Cases of severe bradycardia and heart block have been reported with this drug in combination with sofosbuvir and concomitant amiodarone and/or other drugs that lower heart rate.
 Postmarketing reports: Symptomatic bradycardia, heart block, cardiac arrhythmias
-Increased ALT (at least 5.
-1 x ULN), AST (at least 5.
-1 x ULN), and total bilirubin (at least 2.
-6 x ULN) were reported in up to 4%, up to 3%, and up to 1% of patients, respectively.
-Common (1% to 10%): Increased ALT, increased ASTUncommon (0.
-1% to 1%): Increased total bilirubin
-Common (1% to 10%): Urinary tract infection
-Common (1% to 10%): Dry eye
+Increased ALT (at least  x ULN), AST (at least  x ULN), and total bilirubin (at least  x ULN) were reported in up to , up to , and up to  of patients, respectively.
+Common ( to ): Increased ALT, increased ASTUncommon ( to ): Increased total bilirubin
+Common ( to ): Urinary tract infection
+Common ( to ): Dry eye
 Chest pain or discomfort
 lightheadedness, dizziness, or fainting
 shortness of breath

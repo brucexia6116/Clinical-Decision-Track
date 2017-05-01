@@ -1,27 +1,19 @@
 If any of the following side effects occur while taking defibrotide, check with your doctor or nurse immediately:
 The most common adverse reactions were hypotension, diarrhea, vomiting, nausea, and epistaxis.
-The most common adverse reactions considered to be life-threatening or fatal were hypotension (7%) and pulmonary alveolar hemorrhage (7%).
-Hemorrhage events of any type and any grade were reported for 104 (59%) of the patients, and the events were considered life-threatening or fatal in 35 (20%).
-Very common (10% or more): Hypotension (37%)
-Very common (10% or more): Diarrhea (24%), vomiting (18%), nausea (16%)Common (1% to 10%): Gastrointestinal hemorrhageUncommon (0.
-1% to 1%): Hematemesis, melena, mouth hemorrhage
-Very common (10% or more): Epistaxis (14%)Common (1% to 10%): Pulmonary alveolar hemorrhage, lung infiltration, pneumonia, pulmonary hemorrhageUncommon (0.
-1% to 1%): Hemothorax
-Common (1% to 10%): Sepsis, graft versus host disease, infectionUncommon (0.
-1% to 1%): Hypersensitivity, anaphylactic reaction
-Common (1% to 10%): Hemorrhage intracranial, cerebral hemorrhageUncommon (0.
-1% to 1%): Cerebral hematoma
-Common (1% to 10%): Coagulopathy, hemorrhage
-Common (1% to 10%): Catheter site hemorrhageUncommon (0.
-1% to 1%): Injection site hemorrhage
-Common (1% to 10%): Hyperuricemia
-Common (1% to 10%): Hematuria
-Uncommon (0.
-1% to 1%): Ecchymosis, petechiae, rash, pruritus
-Uncommon (0.
-1% to 1%): Conjunctival hemorrhage
-Uncommon (0.
-1% to 1%): Pyrexia
+The most common adverse reactions considered to be life-threatening or fatal were hypotension  and pulmonary alveolar hemorrhage .
+Hemorrhage events of any type and any grade were reported for   of the patients, and the events were considered life-threatening or fatal in  .
+Very common ( or more): Hypotension 
+Very common ( or more): Diarrhea , vomiting , nausea Common ( to ): Gastrointestinal hemorrhageUncommon ( to ): Hematemesis, melena, mouth hemorrhage
+Very common ( or more): Epistaxis Common ( to ): Pulmonary alveolar hemorrhage, lung infiltration, pneumonia, pulmonary hemorrhageUncommon ( to ): Hemothorax
+Common ( to ): Sepsis, graft versus host disease, infectionUncommon ( to ): Hypersensitivity, anaphylactic reaction
+Common ( to ): Hemorrhage intracranial, cerebral hemorrhageUncommon ( to ): Cerebral hematoma
+Common ( to ): Coagulopathy, hemorrhage
+Common ( to ): Catheter site hemorrhageUncommon ( to ): Injection site hemorrhage
+Common ( to ): Hyperuricemia
+Common ( to ): Hematuria
+Uncommon ( to ): Ecchymosis, petechiae, rash, pruritus
+Uncommon ( to ): Conjunctival hemorrhage
+Uncommon ( to ): Pyrexia
 Black, tarry stools
 bloody nose
 bloody stools

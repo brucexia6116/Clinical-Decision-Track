@@ -1,0 +1,284 @@
+common adverse reactions
+cough
+headache
+upper respiratory infection
+dizziness
+weakness
+musculoskeletal pain
+pharyngitis
+fatigue
+cough
+upper respiratory infection
+pharyngitis
+rhinitis
+sinus abnormality
+tracheobronchitisuncommon
+congestion
+dyspnea
+epistaxis
+sneezingfrequency
+sinus congestionfosinopril
+cough
+pharyngitis
+rhinitis
+upper respiratory infectionuncommon
+sinus abnormality
+tracheobronchitisfrequency
+bronchospasm
+laryngitis/hoarseness
+epistaxishydrochlorothiazide
+frequency
+respiratory distress
+pneumonitis
+pulmonary edema
+dyspepsia/heartburn
+gastroenteritis
+nausea/vomiting
+epigastric painuncommon
+abnormal stool
+constipation
+diarrhea
+abdominal distention
+dry mouth
+gastritis
+oral lesion
+intestinal obstruction
+abdominal pain
+eructation
+halitosisfrequency
+esophagitisfosinopril
+dyspepsia/heartburn
+gastroenteritis
+nausea/vomiting
+epigastric painfrequency
+pancreatitis
+dysphagia
+abdominal distention
+flatulence
+dry mouthhydrochlorothiazide
+frequency
+pancreatitis
+sialadenitis
+vomiting
+diarrhea
+cramping
+nausea
+gastric irritation
+constipation
+headache
+dizziness
+vertigouncommon
+syncope
+neuropathy entrapment
+memory impairment
+numbness
+somnolence
+paresthesiafrequency
+tinnitusfosinopril
+dizziness
+headachefrequency
+cerebrovascular accident
+memory disturbance
+tremor
+taste disturbancehydrochlorothiazide
+frequency
+vertigo
+lightheadedness
+headache
+paresthesia
+sexual dysfunction
+urinary tract infectionuncommon
+menstrual disorder
+urination abnormality
+prostate disorder
+vaginal bleedingfrequency
+urinary frequency
+dysuriafosinopril
+sexual dysfunction
+urinary tract infectionhydrochlorothiazide
+frequency
+glycosuria
+viral infection
+influenzauncommon
+allergyfosinopril
+viral infection
+influenzahydrochlorothiazide
+frequency
+anaphylactic reactions
+fatigue
+weaknessuncommon
+edema
+breast disorder
+chest pain
+chills
+fever
+cold sensation
+malaise
+extremity
+ear abnormality
+ear infection
+hearing abnormalityfrequency
+breast mass
+edema
+lower extremityfosinopril
+fatigue
+weaknesshydrochlorothiazide
+frequency
+weakness
+musculoskeletal painuncommon
+limitation of movement
+muscle cramp
+musculoskeletal trauma
+musculoskeletal chest pain
+tendonitis
+extremity weaknessfrequency
+myalgiafosinopril
+musculoskeletal painfrequency
+arthralgiahydrochlorothiazide
+frequency
+muscle spasm
+orthostatic hypotensionuncommon
+rhythm disturbance
+flushing
+hypertension
+non-angina cardiac chest pain
+hot flashesfosinopril
+frequency
+angina
+myocardial infarction
+hypertensive crisis
+hypotension
+claudicationhydrochlorothiazide
+frequency
+orthostatic hypotension
+necrotizing angiitis
+acne
+dermatitis
+ecchymosis
+extremity erythema
+bacterial skin infection
+pruritus
+rash
+skin discomfort
+hyperhidrosis
+angioedemafosinopril
+frequency
+urticaria
+photosensitivityhydrochlorothiazide
+frequency
+stevens-johnson syndrome
+purpura
+urticaria
+rash
+photosensitivity
+libido change
+depression
+emotional lability/disturbance
+insomniafosinopril
+frequency
+confusion
+mood change
+sleep disturbancehydrochlorothiazide
+frequency
+restlessness
+polydipsia
+appetite
+appetite
+weight lossfosinopril
+frequency
+gout
+appetite/weight changehydrochlorothiazide
+frequency
+anorexia
+hyperglycemia
+hyperuricemia
+hepatitisfosinopril
+frequency
+hepatitis
+transaminases
+lactate dehydrogenase
+alkaline phosphatase
+serum bilirubin elevatedhydrochlorothiazide
+frequency
+intrahepatic cholestatic jaundice
+frequency
+neutropenia
+hematocrit
+hemoglobin
+eosinophiliafosinopril
+frequency
+lymphadenopathy
+eosinophilia
+hemoglobin
+leukopeniahydrochlorothiazide
+frequency
+aplastic anemia
+agranulocytosis
+leukopenia
+thrombocytopenia
+hemolytic anemia
+frequency
+bun
+creatinine elevatedfosinopril
+frequency
+renal insufficiency
+bun
+creatinine
+fosinopril
+frequency
+vision disturbance
+eye irritationhydrochlorothiazide
+frequency
+transient blurred vision
+xanthopsia
+blurred vision
+chest pain
+discomfort
+chills
+cold sweats
+confusion
+decreased urination
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+dry mouth
+fainting
+irregular heartbeat
+muscle cramps
+pain
+numbness
+tingling
+pain
+weakness in hands
+feet
+rapid breathing
+seizures
+sunken eyes
+sweating
+thirst
+trembling
+unusual tiredness
+weakness
+weakness
+heaviness of legs
+wrinkled skin
+cough
+body aches
+pain
+diarrhea
+difficult breathing
+ear congestion
+fever
+headache
+loss of voice
+muscle
+bone pain
+nasal congestion
+nausea and vomiting
+runny nose
+sneezing
+sore throat
+weakness

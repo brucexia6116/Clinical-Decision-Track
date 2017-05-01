@@ -1,17 +1,16 @@
-Respiratory side effects including decreased oxygen saturation (>10%), hypoxia (5% to 10%), respiratory depression (2% to 5%), hypercapnia (2% to 5%), and dyspnea (2% to 5%) have been reported.
+Respiratory side effects including decreased oxygen saturation (>), hypoxia ( to ), respiratory depression ( to ), hypercapnia ( to ), and dyspnea ( to ) have been reported.
 During postmarketing experience, severe respiratory depression, involving apnea or respiratory arrest, and cardiac arrest have been reported following administration of labeled doses of morphine sulfate extended-release liposome injection.
 Four percent of the patients who received morphine liposomal in clinical trials required treatment with narcotic antagonists for respiratory depression.
-Ninety percent of events of respiratory depression were reported to have started within the first 24 hours after dosing with morphine liposomal.
-Respiratory depression occurred in 0.
-6% of patients after more than 48 hours.
-Cardiovascular side effects including hypotension (>10%), tachycardia (5% to 10%), hypertension (2% to 5%) and bradycardia (2% to 5%) have been reported.
-Genitourinary side effects including urinary retention (>10%), bladder spasm (2% to 5%), and oliguria (2% to 5%) have been reported.
-Gastrointestinal side effects including vomiting (>10%), constipation (>10%), nausea (>10%), flatulence (5% to 10%), paralytic ileus (2% to 5%), dyspepsia (2% to 5%), and abdominal distention (2% to 5%) have been reported.
-Dermatologic side effects including pruritus (>10%), hypoesthesia (2% to 5%), and increased sweating (2% to 5%) have been reported.
-General side effects including pyrexia (>10%), headache (>10%), dizziness (>10%), insomnia (5% to 10%), somnolence (2% to 5%), anxiety (2% to 5%), and back pain (2% to 5%) have been reported.
-Hematologic side effects including anemia (>10%), hypokalemia (2% to 5%), and decreased hematocrit (2% to 5%) have been reported.
-Musculoskeletal side effects including rigors (2% to 5%) have been reported.
-Nervous system side effects including paresthesia (2% to 5%) have been reported.
+Ninety percent of events of respiratory depression were reported to have started within the first  hours after dosing with morphine liposomal.
+Respiratory depression occurred in  of patients after more than  hours.
+Cardiovascular side effects including hypotension (>), tachycardia ( to ), hypertension ( to ) and bradycardia ( to ) have been reported.
+Genitourinary side effects including urinary retention (>), bladder spasm ( to ), and oliguria ( to ) have been reported.
+Gastrointestinal side effects including vomiting (>), constipation (>), nausea (>), flatulence ( to ), paralytic ileus ( to ), dyspepsia ( to ), and abdominal distention ( to ) have been reported.
+Dermatologic side effects including pruritus (>), hypoesthesia ( to ), and increased sweating ( to ) have been reported.
+General side effects including pyrexia (>), headache (>), dizziness (>), insomnia ( to ), somnolence ( to ), anxiety ( to ), and back pain ( to ) have been reported.
+Hematologic side effects including anemia (>), hypokalemia ( to ), and decreased hematocrit ( to ) have been reported.
+Musculoskeletal side effects including rigors ( to ) have been reported.
+Nervous system side effects including paresthesia ( to ) have been reported.
 During postmarketing experience, central nervous system depression, including obtunded feeling, non-arousable condition, unresponsiveness, confusion, and lethargy, has been reported following epidural administration of morphine sulfate extended-release liposome injection.
 In most of these cases with central nervous system depression following epidural administration of morphine sulfate extended-release liposome injection, there was concomitant administration of different narcotics or hypnotic/sedative medications in the postoperative period.
 Oncologic side effects have included an increase in DNA fragmentation when incubated in vitro with a human lymphoma cell line.

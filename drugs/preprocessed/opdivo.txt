@@ -1,25 +1,23 @@
 As well as its needed effects, nivolumab (the active ingredient contained in Opdivo) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking nivolumab, check with your doctor or nurse immediately:
 Some nivolumab side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Very common (10% or more): Rash (21%), pruritus (19%), vitiligo (11%), erythema (10%)Frequency not reported: Exfoliative dermatitis, erythema multiforme, vitiligo, psoriasis, immune-mediated rash
-Very common (10% or more): Elevated AST (28%), elevated alkaline phosphatase (22%), elevated ALT (16%)Common (1% to 10%): Elevated total bilirubin, immune-mediated hepatitisFrequency not reported: Increased amylase, increased lipase
-Very common (10% or more): Diarrhea or colitis (21%)Common (1% to 10%): Immune-mediated colitis, nausea, vomitingFrequency not reported: Immune-mediated pancreatitis
-Very common (10% or more): Cough (17%), upper respiratory tract infection (17%)Common (1% to 10%): Pneumonitis, immune-mediated pneumonitis, dyspnea
-Very common (10% or more): Increased serum creatinine (13%)Uncommon (0.
-1% to 1%): Immune-mediated nephritis, immune-mediated renal dysfunction
-Very common (10% or more): Peripheral edema (10%)Frequency not reported: Ventricular arrhythmia
+Very common ( or more): Rash , pruritus , vitiligo , erythema Frequency not reported: Exfoliative dermatitis, erythema multiforme, vitiligo, psoriasis, immune-mediated rash
+Very common ( or more): Elevated AST , elevated alkaline phosphatase , elevated ALT Common ( to ): Elevated total bilirubin, immune-mediated hepatitisFrequency not reported: Increased amylase, increased lipase
+Very common ( or more): Diarrhea or colitis Common ( to ): Immune-mediated colitis, nausea, vomitingFrequency not reported: Immune-mediated pancreatitis
+Very common ( or more): Cough , upper respiratory tract infection Common ( to ): Pneumonitis, immune-mediated pneumonitis, dyspnea
+Very common ( or more): Increased serum creatinine Uncommon ( to ): Immune-mediated nephritis, immune-mediated renal dysfunction
+Very common ( or more): Peripheral edema Frequency not reported: Ventricular arrhythmia
 The most commonly reported adverse reaction in clinical trials was rash; a composite term including the following rashes maculopapular, erythematous, pruritic, follicular, macular, papular, pustular, vesicular, and dermatitis acneiform.
-Common (1% to 10%): Hypothyroidism, hyperthyroidismFrequency not reported: Immune-mediated hypopituitarism, immune-mediated hypophysitis
+Common ( to ): Hypothyroidism, hyperthyroidismFrequency not reported: Immune-mediated hypopituitarism, immune-mediated hypophysitis
 Frequency not reported: Dizziness, peripheral and sensory neuropathy, immune-mediated demyelination, immune-mediated facial and abducens nerve paresis, immune-mediated myasthenic syndrome, immune-mediated encephalitis
 Frequency not reported: Infusion-related reactions
 Frequency not reported: Iridocyclitis
-Very common (10% or more): Anorexia (28%)Frequency not reported: Immune-mediated adrenal insufficiency, immune-mediated diabetic ketoacidosis
+Very common ( or more): Anorexia Frequency not reported: Immune-mediated adrenal insufficiency, immune-mediated diabetic ketoacidosis
 Frequency not reported: Immune-mediated uveitis, immune-mediated autoimmune neuropathy, immune-mediated Guillain-Barre Syndrome
-Common (1% to 10%): Musculoskeletal pain, back pain (21%), arthralgia (20%)Frequency not reported: Pain in extremity
-Very common (10% or more): Fatigue (49%)Common (1% to 10%): Pyrexia
+Common ( to ): Musculoskeletal pain, back pain , arthralgia Frequency not reported: Pain in extremity
+Very common ( or more): Fatigue Common ( to ): Pyrexia
 It is possible that some side effects of Opdivo may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

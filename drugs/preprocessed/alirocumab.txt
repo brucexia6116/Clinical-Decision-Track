@@ -1,18 +1,14 @@
 The most common adverse reactions leading to treatment discontinuation were allergic reactions and elevated liver enzymes.
-Very common (10% or more): Hypersensitivity reaction, nummular eczema, hypersensitivity vasculitis
-Very common (10% or more): Nasopharyngitis (11.
-3%)Common (1% to 10%): Influenza, bronchitis, sinusitis, cough
-Common (1% to 10%): Diarrhea
-Common (1% to 10%): Urinary tract infection
-Common (1% to 10%): Elevated liver enzyme
-Common (1% to 10%): Development of antidrug antibody (ADA), neutralizing antibodies (NAb)
-Patients who developed ADA (antidrug antibody) had a higher incidence of injection site reactions compared with patients who did not develop ADA (10.
-2% vs 5.
-9%).
-Common (1% to 10%): Injection site reaction (erythema, redness, itching, swelling, pain, tenderness)
-Common (1% to 10%): Myalgia, muscle spasm, contusion, musculoskeletal pain
-Uncommon (0.
-1% to 1%): Neurocognitive events, confusion or memory impairment
+Very common ( or more): Hypersensitivity reaction, nummular eczema, hypersensitivity vasculitis
+Very common ( or more): Nasopharyngitis Common ( to ): Influenza, bronchitis, sinusitis, cough
+Common ( to ): Diarrhea
+Common ( to ): Urinary tract infection
+Common ( to ): Elevated liver enzyme
+Common ( to ): Development of antidrug antibody (ADA), neutralizing antibodies (NAb)
+Patients who developed ADA (antidrug antibody) had a higher incidence of injection site reactions compared with patients who did not develop ADA ( vs ).
+Common ( to ): Injection site reaction (erythema, redness, itching, swelling, pain, tenderness)
+Common ( to ): Myalgia, muscle spasm, contusion, musculoskeletal pain
+Uncommon ( to ): Neurocognitive events, confusion or memory impairment
 Difficulty with breathing or swallowing
 fever
 hives

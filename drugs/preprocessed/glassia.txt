@@ -1,4 +1,4 @@
-If any of the following side effects occur while taking alpha 1-proteinase inhibitor, check with your doctor or nurse immediately:
+If any of the following side effects occur while taking alpha -proteinase inhibitor, check with your doctor or nurse immediately:
 Respiratory side effects have included chest pain, pharyngitis, asthma, rhinitis, bronchitis, sinusitis, increased cough, upper and lower respiratory tract infections, dyspnea, chronic obstructive pulmonary disease (COPD) exacerbation, nasopharyngitis, pharyngolaryngeal pain, COPD, sore throat, bronchospasm, lung disorder, infective exacerbation of COPD, bilateral pulmonary infiltrates, and diffuse interstitial lung disease.
 Dyspnea has been reported during postmarketing experience.
 Nervous system side effects have included dizziness, headache, somnolence, dysgeusia, lethargy, lightheadedness, paresthesia, and migraine.
@@ -10,7 +10,7 @@ Hematologic side effects have included decreased platelet count, transient leuko
 Dermatologic side effects have included pruritus, rash, erythema marginatum, and urticaria.
 Rash has been reported during postmarketing experience.
 Gastrointestinal side effects have included bloating, nausea, abdominal pain, diarrhea, and dyspepsia.
-Hepatic side effects have included elevations (greater than 2 times the upper limit of normal) in aminotransferases (ALT or AST), increased hepatic enzyme (unspecified), and cholangitis.
+Hepatic side effects have included elevations (greater than  times the upper limit of normal) in aminotransferases (ALT or AST), increased hepatic enzyme (unspecified), and cholangitis.
 Musculoskeletal side effects have included musculoskeletal discomfort, joint swelling, arthralgia, and myalgia.
 Ocular side effects have included abnormal vision.
 Local side effects have included injection site pain, injection site hemorrhage, and injection site reaction.

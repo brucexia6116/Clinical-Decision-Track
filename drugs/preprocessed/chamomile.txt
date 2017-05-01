@@ -1,4 +1,4 @@
-Chamomile is an herb also known as Camomille, Blue Chamomile, Camomèle, Echte Kamille, Feldkamille, Fleur de Camomile, Kamillen, Kleine Kamille, Manzanilla, Matricaire, Matricaria chamomilla, Petite Camomille, Pin Heads, Sweet False Chamomile, and other names.
+Chamomile is an herb also known as Camomille, Blue Chamomile, Camomle, Echte Kamille, Feldkamille, Fleur de Camomile, Kamillen, Kleine Kamille, Manzanilla, Matricaire, Matricaria chamomilla, Petite Camomille, Pin Heads, Sweet False Chamomile, and other names.
 Chamomile is a common flavoring agent in foods and beverages, and other products such as mouthwash, soaps, and cosmetics.
 When used as a food product, chamomile is not likely to produce health benefits or side effects.
 When used as a medicinal product, chamomile may produce both desired and unwanted effects on the body.
@@ -35,15 +35,15 @@ Do not use more of this product than is recommended on the label.
 Do not use different forms (tablets, liquid, tincture, teas, etc) of chamomile at the same time without medical advice.
 Using different formulations together increases the risk of an overdose.
 Call your doctor if the condition you are treating with chamomile does not improve, or if it gets worse while using this product.
-If you need surgery, stop taking chamomile at least 2 weeks ahead of time.
+If you need surgery, stop taking chamomile at least  weeks ahead of time.
 Store at room temperature away from moisture and heat.
 Skip the missed dose if it is almost time for your next scheduled dose.
 Do not use extra chamomile to make up the missed dose.
-Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.
+Seek emergency medical attention or call the Poison Help line at ---
 Rinse with water if this product gets in your eyes.
 Chamomile can irritate the eyes.
 Avoid using chamomile with other herbal/health supplements that can cause drowsiness.
-This includes 5-HTP (5-hydroxytryptophan), California poppy, catnip, gotu kola, Jamaican dogwood, kava, melatonin, St.
+This includes -HTP (-hydroxytryptophan), California poppy, catnip, gotu kola, Jamaican dogwood, kava, melatonin, St.
 John's wort, skullcap (or scullcap), valerian, yerba mansa, and others.
 Get emergency medical help if you have any of these signs of an allergic reaction: hives; difficult breathing; swelling of your face, lips, tongue, or throat.
 Although not all side effects are known, chamomile is thought to be possibly safe when taken for a short period of time.
@@ -53,7 +53,7 @@ Common side effects may include:
 mild skin rash, scaling, or itching.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at --FDA-
 Taking this product with other drugs that make you sleepy can worsen this effect.
 Ask your doctor before taking chamomile with a sleeping pill, narcotic pain medicine, muscle relaxer, or medicine for anxiety, depression, or seizures.
 Do not take chamomile without medical advice if you are using a medication to treat any of the following conditions:
@@ -73,11 +73,9 @@ warfarin (Coumadin, Jantoven).
 This list is not complete.
 Other drugs may interact with chamomile, including prescription and over-the-counter medicines, vitamins, and herbal products.
 Not all possible interactions are listed in this medication guide.
-Copyright 1996-2012 Cerner Multum, Inc.
-Version: 3.
-02.
-
-Date modified: April 03, 2017Last reviewed: October 09, 2014
+Copyright - Cerner Multum, Inc.
+Version: .
+Date modified: April , Last reviewed: October , 
 past or present cancer of the breast, ovary, or uterus; or
 a history of endometriosis or uterine fibroids.
 pollen allergies (especially to ragweed, herbs, chrysanthemums, marigolds, daisies, other plants).

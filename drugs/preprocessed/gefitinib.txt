@@ -1,22 +1,15 @@
-Common (1% to 10%): Interstitial lung disease or ILD-like adverse reactions
-Very common (10% or more): Increased AST (up to 40%), increased ALT (up to 38%)Common (1% to 10%): Increased bilirubinUncommon (0.
-1% to 1%): Hepatitis/hepatic failureRare (less than 0.
-1%): Fatal hepatotoxicity
-Very common (10% or more): Diarrhea (up to 29%), nausea (up to 18%), vomiting (up to 14%)Common (1% to 10%): Stomatitis, dry mouth, pancreatitis, dehydration (secondary to diarrhea, nausea, vomiting, or anorexia)Uncommon (0.
-1% to 1%): GI perforation
-Common (1% to 10%): Keratitis, conjunctivitis, blepharitis, dry eyeUncommon (0.
-1% to 1%): Corneal erosion/aberrant eyelash growth
-Rare (less than 0.
-1%): CNS hemorrhageFrequency not reported: Cerebrovascular events
+Common ( to ): Interstitial lung disease or ILD-like adverse reactions
+Very common ( or more): Increased AST (up to ), increased ALT (up to )Common ( to ): Increased bilirubinUncommon ( to ): Hepatitis/hepatic failureRare (less than ): Fatal hepatotoxicity
+Very common ( or more): Diarrhea (up to ), nausea (up to ), vomiting (up to )Common ( to ): Stomatitis, dry mouth, pancreatitis, dehydration (secondary to diarrhea, nausea, vomiting, or anorexia)Uncommon ( to ): GI perforation
+Common ( to ): Keratitis, conjunctivitis, blepharitis, dry eyeUncommon ( to ): Corneal erosion/aberrant eyelash growth
+Rare (less than ): CNS hemorrhageFrequency not reported: Cerebrovascular events
 Reported skin reactions: acne/acne pustular, dermatitis (acneiform and exfoliative), drug eruption, dry skin, erythema, folliculitis, pruritus, rash (erythematous, exfoliative, generalized, macular, maculo-papular, papular, pruritic, pustular, vesicular), skin exfoliation, skin toxicity, and xeroderma.
-Very common (10% or more): Skin reactions (up to 47%)Common (1% to 10%): Nail disorder, alopeciaRare (less than 0.
-1%): Bullous conditions (including toxic epidermal necrolysis, Stevens Johnson syndrome, erythema multiforme), cutaneous vasculitis
-Very common (10% or more): Proteinuria (up to 35%)Common (1% to 10%): Elevated blood creatinine, cystitisRare (less than 0.
-1%): Hemorrhagic cystitisFrequency not reported: Renal failure
-Very common (10% or more): Decreased appetite (up to 17%), anorexia (10%)
-Very common (10% or more): Asthenia (up to 17%)Common (1% to 10%): Pyrexia
-Common (1% to 10%): Hemorrhage (including epistaxis and hematuria)
-Common (1% to 10%): Allergic reactions (including angioedema and urticaria)
+Very common ( or more): Skin reactions (up to )Common ( to ): Nail disorder, alopeciaRare (less than ): Bullous conditions (including toxic epidermal necrolysis, Stevens Johnson syndrome, erythema multiforme), cutaneous vasculitis
+Very common ( or more): Proteinuria (up to )Common ( to ): Elevated blood creatinine, cystitisRare (less than ): Hemorrhagic cystitisFrequency not reported: Renal failure
+Very common ( or more): Decreased appetite (up to ), anorexia 
+Very common ( or more): Asthenia (up to )Common ( to ): Pyrexia
+Common ( to ): Hemorrhage (including epistaxis and hematuria)
+Common ( to ): Allergic reactions (including angioedema and urticaria)
 Abdominal or stomach pain or tenderness
 clay colored stools
 dark urine

@@ -1,4 +1,4 @@
-Dandelion is an herb also known as Blowball, Cankerwort, Cochet, Couronne de Moine, Délice Printanier, Dent-de-Lion, Diente de Leon, Dudal, Endive Sauvage, Fausse Chicorée, Florin d'Or, Florion d'Or, Herba Taraxaci, Laitue de Chien, Leontodon taraxacum, Lion's Tooth, Pisse au Lit, Pissenlit, Priest's Crown, Pu Gong Ying, Salade de Taupe, Swine Snout, Taraxaci Herba, Taraxacum, Tête de Moine, Wild Endive and other names.
+Dandelion is an herb also known as Blowball, Cankerwort, Cochet, Couronne de Moine, Dlice Printanier, Dent-de-Lion, Diente de Leon, Dudal, Endive Sauvage, Fausse Chicore, Florin d'Or, Florion d'Or, Herba Taraxaci, Laitue de Chien, Leontodon taraxacum, Lion's Tooth, Pisse au Lit, Pissenlit, Priest's Crown, Pu Gong Ying, Salade de Taupe, Swine Snout, Taraxaci Herba, Taraxacum, Tte de Moine, Wild Endive and other names.
 Dandelion has been used in alternative medicine to treat tonsillitis, bladder infections, upset stomach, constipation, arthritis pain, and other conditions.
 However, these uses have not been proven with research.
 It is not certain whether dandelion is effective in treating any medical condition.
@@ -25,7 +25,7 @@ Call your doctor if the condition you are treating with dandelion does not impro
 Store at room temperature away from moisture and heat.
 Skip the missed dose if it is almost time for your next scheduled dose.
 Do not use extra dandelion to make up the missed dose.
-Seek emergency medical attention or call the Poison Help line at 1-800-222-1222.
+Seek emergency medical attention or call the Poison Help line at ---
 Follow your healthcare provider's instructions about any restrictions on food, beverages, or activity.
 Avoid using dandelion together with other herbal/health supplements that can also affect blood-clotting.
 This includes angelica (dong quai), capsicum, clove, danshen, garlic, ginger, ginkgo, horse chestnut, panax ginseng, poplar, red clover, saw palmetto, turmeric, and willow.
@@ -33,7 +33,7 @@ Get emergency medical help if you have signs of an allergic reaction: hives; dif
 Although not all side effects are known, dandelion is thought to be possibly safe for most people.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at --FDA-
 Other drugs may interact with dandelion, including prescription and over-the-counter medicines, vitamins, and herbal products.
 Tell each of your health care providers about all medicines you use now and any medicine you start or stop using.
 Do not take dandelion without medical advice if you are using any of the following medications:
@@ -46,11 +46,9 @@ a sedative such as Valium.
 This list is not complete.
 Other drugs may interact with dandelion, including prescription and over-the-counter medicines, vitamins, and herbal products.
 Not all possible interactions are listed in this product guide.
-Copyright 1996-2012 Cerner Multum, Inc.
-Version: 5.
-01.
-
-Date modified: April 03, 2017Last reviewed: June 09, 2015
+Copyright - Cerner Multum, Inc.
+Version: .
+Date modified: April , Last reviewed: June , 
 allergies to plants such as ragweed, daisies, chrysanthemums, or marigolds.
 lithium;
 an antibiotic, such as Cipro, Levaquin, Avelox, Noroxin, and others;

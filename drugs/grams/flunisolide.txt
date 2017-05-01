@@ -1,0 +1,245 @@
+reported adverse reactions
+pharyngitis
+rhinitis
+headache
+sinusitis
+cough
+pharyngitis
+rhinitis
+increased cough
+sinusitis
+epistaxis
+bronchitis
+laryngitis
+voice alteration
+cold symptoms
+nasal congestion
+sinus drainage
+sinus infection
+sneezing
+sputum
+wheezing
+bronchospasm
+dyspnea
+head stuffiness
+nasal irritation
+sinus discomfort
+sore throat
+dry throat
+vomiting
+dyspepsia
+abdominal pain
+diarrhea
+gastroenteritis
+nausea
+oral moniliasis
+upset stomach
+heartburn
+constipation
+gas
+abdominal fullness
+glossitis
+mouth irritation
+phlegm
+headache
+migraine
+taste perversion
+weakness
+numbness
+hyperactivity
+neck pain
+myalgiafrequency
+decreased bone mineral density
+reduction in growth velocity
+blurred vision
+eye discomfort
+eye infectionfrequency
+glaucoma
+intraocular pressure
+cataracts
+erythema multiforme
+sweating
+eczema
+pruritus
+acne
+urticaria
+chest pain
+edema
+palpitations
+tachycardia
+hypertension
+urinary tract infection
+dysmenorrhea
+vaginitis
+enlarged lymph nodes
+capillary fragility
+allergic reaction
+decreased appetite
+appetite
+weight gain
+ear pain
+chills
+malaise
+vertigo
+fatigue
+loss of smell
+ear infection
+insomnia
+irritability
+shakiness
+anxiety
+depression
+moodiness
+hypoactivity
+body aches
+pain
+congestion
+cough
+dryness
+soreness of the throat
+fever
+headache
+hoarseness
+pain
+tenderness around the eyes
+cheekbones
+shortness of breath
+troubled breathing
+sneezing
+runny nose
+tender
+swollen glands in the neck
+tightness of the chest
+wheezing
+trouble with swallowing
+voice changes
+bladder pain
+blistering
+peeling
+loosening of the skin
+bloating
+swelling of the face
+arms
+hands
+lower legs
+feet
+bloody nose
+cloudy urine
+blurred vision
+chest pain
+chills
+cough producing mucus
+diarrhea
+burning
+painful urination
+dizziness
+pounding
+racing heartbeat
+pulse
+frequent urge
+general feeling of discomfort
+illness
+hives
+itching
+muscle pain
+side pain
+nervousness
+pounding in the ears
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+rapid weight gain
+red, irritated eyes
+skin rash
+slow heartbeat
+sore mouth
+tongue
+sores
+ulcers
+white spots in the mouth
+lips
+sweating
+swelling
+tingling of the hands
+feet
+unusual tiredness
+weakness
+unusual weight gain
+loss
+curd-like patches in the mouth
+throat
+darkening of the skin
+discouragement
+fainting
+feeling
+irritability
+loss of appetite
+loss of interest
+pleasure
+loss of strength
+energy
+muscle weakness
+nausea
+pain
+eating
+swallowing
+trouble concentrating
+trouble sleeping
+vomiting
+stomach fullness
+acid
+sour stomach
+appetite changes
+taste
+belching
+blemishes on the skin
+burning
+itching eyes
+change in taste
+constipation
+cramps
+difficulty with moving
+discharge
+excessive tearing
+dizziness or lightheadedness
+ear pain
+fear
+feeling of constant movement of self
+surroundings
+gas
+headache
+heartburn
+heavy bleeding
+indigestion
+irritability
+itching of the vagina
+genital area
+loss of smell
+taste
+muscle
+cramping
+muscle stiffness
+pain during sexual intercourse
+pain in the neck
+pimples
+redness
+pain
+swelling of the eye
+eyelid
+inner lining of the eyelid
+restlessness
+sensation of spinning
+shakiness
+skin rash
+oozing
+stomach discomfort
+pain
+swollen joints
+white vaginal discharge with no odor
+mild odor
+trouble sitting still
+trouble sleeping
+upset stomach

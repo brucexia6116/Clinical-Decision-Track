@@ -6,7 +6,6 @@ sudden lack of energy or feelings of low self-worth;
 loss of interest in things you once enjoyed;
 new sleep problems, such as nightmares or early morning insomnia; or
 thoughts about hurting yourself.
-
 Keep taking reserpine but call your doctor at once if you have:
 chest pain, slow heartbeats, trouble breathing;
 swelling in your hands or feet;
@@ -24,22 +23,18 @@ weight gain; or
 impotence, decreased interest in sex.
 This is not a complete list of side effects and others may occur.
 Call your doctor for medical advice about side effects.
-
-In one study of 231 hospitalized patients, 26 (11.
-3%) reported adverse side effects.
-Of these 26 patients, three (1.
-2%) patients developed side effects that were considered life-threatening.
-Adverse reactions were observed within the first two days of therapy in 62% of patients who experienced side effects.
-The most common side effect is nasal congestion, reported in 8% of patients.
+In one study of  hospitalized patients,   reported adverse side effects.
+Of these  patients, three  patients developed side effects that were considered life-threatening.
+Adverse reactions were observed within the first two days of therapy in  of patients who experienced side effects.
+The most common side effect is nasal congestion, reported in  of patients.
 A rare respiratory system side effect is bronchospasm.
 Rare reports of reserpine-induced bronchospasm are believed to be due to inactivation of beta-adrenergic receptors, which can result in a marked potentiation of the bronchoconstrictive effect of histamine.
 Increased parkinsonian movements upon reserpine withdrawal (as with neuroleptics) may be due to supersensitivity to dopamine as a result of increased dopamine receptors that developed during reserpine therapy.
-Common nervous system side effects include sedation, lethargy (different from the psychiatric syndrome of depression), drowsiness, weakness, vertigo, insomnia, or headache in approximately 1% to 5% of patients.
+Common nervous system side effects include sedation, lethargy (different from the psychiatric syndrome of depression), drowsiness, weakness, vertigo, insomnia, or headache in approximately  to  of patients.
 While reserpine is used to treat tardive dyskinesia, extrapyramidal movements may worsen upon withdrawal of therapy.
 A case of CNS hypertension, believed to be due to cerebral edema, has been associated with the use of reserpine.
 Psychiatric problems related to reserpine therapy can be serious.
-Depression occurs in 2% to 28% of patients, is more likely when daily doses exceed 0.
-5 mg, and can present at any time during therapy.
+Depression occurs in  to  of patients, is more likely when daily doses exceed  mg, and can present at any time during therapy.
 Suicidal ideation has been reported.
 Reserpine-induced depression is quickly reversible if therapy is withdrawn as soon as the syndrome is recognized, but can persist for several months after drug discontinuation if the syndrome fully develops.
 Reserpine withdrawal psychosis has been reported.
@@ -47,28 +42,28 @@ The depressive syndrome usually consists of melancholy, loss of self confidence,
 A case of reserpine withdrawal psychosis has been reported.
 This uncommon condition may be due to dopamine receptor supersensitivity, which develops during reserpine therapy.
 Due to unopposed parasympathetic activity produced by catecholamine depletion, reserpine increases gastrointestinal motility and secretory activity.
-Because of this, new diarrhea or worsening of existing diarrhea or increased salivation have been reported in 2% of patients.
+Because of this, new diarrhea or worsening of existing diarrhea or increased salivation have been reported in  of patients.
 Increased appetite, abdominal pain, or vomiting have only rarely been reported.
-Cardiovascular side effects include hypotension in 8% and bradycardia (and rare cases of syncope with bradycardia) in 3% of patients.
+Cardiovascular side effects include hypotension in  and bradycardia (and rare cases of syncope with bradycardia) in  of patients.
 A rare case of paroxysmal atrial tachycardia with block associated with reserpine in a patient who was not taking a digitalis preparation has been reported.
 A woman with paroxysmal atrial tachycardia developed sinus pauses during reserpine therapy which were reproducible by carotid massage, except when isoproterenol was given.
 Reserpine is known to increase vagal tone and deplete cardiac catecholamines.
-One patient, in a series of 231, had emergent hypertension, stroke, and thyrotoxic crisis.
-Reserpine 1 mg intramuscularly resulted in a blood pressure drop from 180/100 to an unmeasurable level.
+One patient, in a series of , had emergent hypertension, stroke, and thyrotoxic crisis.
+Reserpine  mg intramuscularly resulted in a blood pressure drop from / to an unmeasurable level.
 The patient recovered after isoproterenol therapy.
-Genitourinary complaints have been limited to impotence in approximately 5% of male patients.
+Genitourinary complaints have been limited to impotence in approximately  of male patients.
 Endocrinologic abnormalities are due to reserpine-induced hyperprolactinemia.
 Gynecomastia in men, breast engorgement in women, and pseudolactation have been reported.
-A 79-year-old woman with hypertension, taking reserpine, potassium, HCTZ, and ibuprofen, developed fatigue, anorexia, fever, night sweats, and weight loss.
+A -year-old woman with hypertension, taking reserpine, potassium, HCTZ, and ibuprofen, developed fatigue, anorexia, fever, night sweats, and weight loss.
 Associated laboratory findings showed anemia, lymphocytosis, thrombocytopenia, IgA kappa paraproteinemia, positive ANA, and a positive Coombs' test.
 Bone marrow biopsy, lymphangiography, and lymph node biopsy showed bone marrow lymphocytosis, enlarged foamy abdominal lymph nodes with irregular filling, and angioimmunoblastic lymphadenopathy, respectively.
 Within four days after discontinuation of reserpine (her other medications were continued), the paraprotein level normalized and the platelet count rose.
 After an additional nine months of prednisone therapy, all signs and symptoms resolved.
 Immunologic side effects are rare.
 One case of angioimmunoblastic lymphadenopathy has been associated with reserpine.
-In one study of 231 patients, only one case of a lupus-like syndrome was recorded.
+In one study of  patients, only one case of a lupus-like syndrome was recorded.
 The patient had previously received hydralazine.
-Oncologic concerns were raised after a large drug surveillance center in Boston reported an association between reserpine, a stimulator of prolactin, and breast cancer in 1974, which was partially, but not completely, confirmed in two similar centers in Europe.
+Oncologic concerns were raised after a large drug surveillance center in Boston reported an association between reserpine, a stimulator of prolactin, and breast cancer in , which was partially, but not completely, confirmed in two similar centers in Europe.
 A critical review of the these studies elucidated several design flaws.
 Subsequent, controlled studies failed to show an association between reserpine and an increased incidence of breast carcinoma.
 It is possible that some side effects of reserpine may not have been reported.
@@ -79,7 +74,6 @@ sudden lack of energy or feelings of low self-worth;
 loss of interest in things you once enjoyed;
 new sleep problems, such as nightmares or early morning insomnia; or
 thoughts about hurting yourself.
-
 chest pain, slow heartbeats, trouble breathing;
 swelling in your hands or feet;
 a light-headed feeling, like you might pass out;

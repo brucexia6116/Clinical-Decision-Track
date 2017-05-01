@@ -7,8 +7,7 @@ After treatment with mechlorethamine has ended, normal hair growth should return
 After you stop taking this drug, it is possible that you may still experience side effects that need medical attention.
 If you notice any of the following side effects check with your doctor immediately:
 The most commonly reported side effect was hematopoietic system depression.
-Rare (less than 0.
-1%): Hemolytic anemiaFrequency not reported: Lymphocytopenia, granulocytopenia, agranulocytosis, thrombocytopenia, pancytopenia, hyperheparenemia, hematopoietic system depression
+Rare (less than ): Hemolytic anemiaFrequency not reported: Lymphocytopenia, granulocytopenia, agranulocytosis, thrombocytopenia, pancytopenia, hyperheparenemia, hematopoietic system depression
 Frequency not reported: Hypersensitivity reactions, including anaphylaxis
 Frequency not reported: Nausea, vomiting, diarrhea, gum bleeding, gastrointestinal tract bleeding
 Frequency not reported: Alopecia, maculopapular skin eruption, erythema multiforme, petechiae, small subcutaneous hemorrhages
@@ -38,7 +37,7 @@ swelling of feet or lower legs
 Numbness, tingling, or burning of fingers, toes, or face
 sores in mouth and on lips
 yellow eyes or skin
-Nausea and vomiting (usually lasts only 8 to 24 hours)
+Nausea and vomiting (usually lasts only  to  hours)
 Confusion
 diarrhea
 drowsiness

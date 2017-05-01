@@ -1,0 +1,428 @@
+serious adverse reactions
+allergic reactions
+reported adverse reactions
+infusion reactions
+chills
+fever
+feeling
+dyspnea
+nausea
+flushing
+headache
+vomiting
+paresthesia
+fatigue
+pruritus
+pain in extremity
+hypertension
+chest pain
+throat tightness
+abdominal pain
+dizziness
+tachycardia
+nasal congestion
+diarrhea
+peripheral edema
+pain
+pallor
+bradycardia
+hypotension
+face edema
+rash
+somnolence
+hypertension
+tachycardia
+ventricular wall
+hot flush
+palpitations
+blood pressure
+heart rate
+blood pressure
+flushing
+pallor
+bradycardiauncommon
+sinus bradycardia
+peripheral coldnessfrequency
+cardiac arrhythmia
+cardiac arrest
+cardiac output
+aortic valve incompetence
+supraventricular arrhythmia
+right bundle branch block
+cardiac valve disease
+atrial dilation
+ventricular dilation
+mitral valve disease
+mitral valve incompetence
+mitral valve sclerosis
+pulmonary valve incompetence
+supraventricular extrasystoles
+ventricular extrasystoles
+ventricular hypokinesia
+cardiac imaging procedure
+ejection fraction
+ecg pr
+ecg
+st segment
+ecg t wave
+heart rate
+right ventricular systolic pressure
+orthostatic hypotension
+poor peripheral circulation
+poor venous access
+vasoconstriction
+vasospasmpostmarketing reports
+cardiorespiratory arrest
+cardiac failure
+myocardial infarction
+nausea
+vomitingcommon
+toothache
+dry mouth
+abdominal pain/discomfort
+stomach discomfort
+hypoesthesia
+upper abdominal pain
+diarrheauncommon
+dyspepsia
+dysphagiafrequency
+gastroenteritis
+gingivitis
+retchingpostmarketing reports
+lip
+tongue
+rash
+pruritus common
+urticaria
+erythema
+angioneurotic edema
+maculopapular rashuncommon
+livedo reticularis
+rash erythematosus
+pruritic rash
+skin discoloration
+skin discomfortfrequency
+leukocytoclastic vasculitis
+pustular rash
+excoriation
+acne
+eczema
+hair growth
+abnormalpostmarketing reports
+hyperhidrosis
+localized angioedema
+clinical trials
+adult patients
+pediatric patients
+antidrug igg antibodies
+majority of patients
+antibodies within the first months of exposure
+pediatric patients
+igg seroconversion in pediatric patients
+prolonged half-life
+ability of antibodies
+carriers
+antigens
+clinical significance of binding
+inhibitory antibodies
+drug
+testing for ige antibodies
+patients during clinical trials
+severe infusion reactions
+mast cell activation
+patients
+antidrug ige antibodies
+positive skin test
+drug
+antidrug igg antibody development frequency
+anaphylaxis/anaphylactoid reaction
+seasonal allergy
+skin test positivepostmarketing reports
+anaphylactic shock
+headache
+paresthesia
+dizziness
+burning sensation
+somnolence
+hypoesthesia
+lethargy
+syncopeuncommon
+hyperesthesia
+tremorfrequency
+stroke
+ataxia
+cerebrovascular accident
+ischemic stroke
+migraine
+psychomotor hyperactivity
+sinus headache
+vasovagal syncope
+restless leg syndrome
+balance disorder
+dyskinesia
+pain in extremity
+pain
+myalgia
+muscle spasms
+arthralgia
+muscle tightness
+musculoskeletal stiffness
+musculoskeletal painfrequency
+chest wall pain
+flank pain
+groin pain
+joint stiffness
+musculoskeletal chest pain
+pain in jaw
+shoulder pain
+chills
+pyrexia
+procedural pain
+fatigue
+peripheral edema
+pain
+feeling
+adverse event
+post
+procedural complication
+tinnitus
+hypoacusis
+chest discomfort
+fungal infection
+viral infection
+localized infection
+fall
+contusion
+feeling
+asthenia
+chest pain
+face edema
+malaise
+hyperthermia
+body temperature
+vertigouncommon
+auricular swelling
+ear pain/discomfort
+influenza-like illnessfrequency
+oxygen saturation
+hypoacousia
+axillary pain
+discomfort
+feeling
+gait disturbance
+sluggishness
+thirst
+gingival infection
+infection
+tooth infection
+fall
+post
+procedural nausea
+vascular access complication
+blood alkaline phosphatase increasedpostmarketing reports
+infusion-related reaction
+sepsis
+edema
+upper
+respiratory tract infection
+cough
+nasal congestion
+lower respiratory tract infection
+sinusitis
+pharyngitis
+dyspnea
+dyspnea
+respiratory tract congestion
+wheezing
+throat tightness
+nasopharyngitisuncommon
+rhinitis
+bronchospasm
+pharyngolaryngeal pain
+rhinorrhea
+tachypnea
+upper respiratory tract congestionfrequency
+hypoxia
+pulmonary edema
+respiratory distress
+allergic rhinitis
+rhonchi
+throat
+irritationpostmarketing reports
+respiratory failure
+pneumonia
+pharyngeal edema
+anxiety
+depressionfrequency
+agitation
+confessional state
+visual hallucination
+flat affect
+restlessness
+frequency
+hypocalcemia
+lacrimation increaseduncommon
+eye pruritus
+ocular hyperemiafrequency
+diplopia
+eye edema
+night blindness
+vision
+visual acuity
+visual disturbance
+intraocular pressure increasedpostmarketing reports
+eye
+blood creatinine increasedfrequency
+nephrotic syndrome
+creatinine clearance
+cystatin c
+renal failure
+renal impairment
+frequency
+catheter site rash
+catheter site
+related reaction
+infusion site pain
+infusion site thrombosispostmarketing reports
+infusion site reaction
+frequency
+alanine aminotransferase
+aspartate aminotransferase
+hepatic enzyme
+frequency
+anemia
+eosinophilia
+leukopenia
+hematocrit
+hemoglobin decreasedpostmarketing reports
+lymphadenopathy
+frequency
+examination
+albuminuria
+proteinuria
+dysuria
+hematuria
+benign prostatic hyperplasia
+dysmenorrhea
+nipple pain
+erectile dysfunction
+blurred vision
+chest pain
+discomfort
+confusion
+cough producing mucus
+difficulty breathing
+difficulty in moving
+dizziness;
+fatigue
+faintness
+lightheadedness
+getting
+lying
+sitting position
+feeling
+cold shivering
+headache
+hives or welts
+irregular heartbeat 
+itching
+joint pain
+muscle
+cramping
+muscle pains
+stiffness
+nervousness
+pain
+pounding in the ears
+redness of skin
+shortness of breath
+skin rash
+stomach pain
+sweating
+swelling of ankles
+feet
+lower legs
+swollen joints
+tightness in chest
+unusual tiredness
+weakness
+wheezing
+bloody urine
+decreased cardiac output
+difficulty in speaking
+double vision
+feeling of constant movement of self
+surroundings
+high blood pressure
+inability
+arms
+legs
+facial muscles
+inability to speak
+blood pressure
+pulse
+partial loss of hearing
+pounding
+rapid pulse
+problems with muscle control
+coordination
+sensation of spinning
+shakiness
+unsteady walk
+slow speech 
+stopping of heart
+swelling of face
+swelling of the lip
+ear
+throat tightness
+trembling
+unconsciousness
+acid
+sour stomach
+belching
+body aches
+pain
+body
+substance
+drug
+side effects
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+congestion
+discouragement
+dryness
+soreness of throat
+fear
+feeling
+fever
+infusion
+heartburn
+hoarseness
+indigestion
+irritability
+lack of appetite
+loss of interest
+pleasure
+nausea
+pain
+tenderness around eyes
+cheekbones
+paleness of skin
+runny nose
+sensation of change in temperature
+skeletal pain
+sneezing
+stuffy nose
+swelling of testes
+tender
+swollen glands in neck
+trouble concentrating
+trouble sleeping
+trouble in swallowing
+voice changes 

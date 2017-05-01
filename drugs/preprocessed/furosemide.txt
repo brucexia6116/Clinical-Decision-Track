@@ -3,7 +3,7 @@ If any of the following symptoms of overdose occur while taking furosemide, get 
 Volume depletion may predispose some patients to deep venous thrombosis.
 In a study of patients with congestive heart failure (CHF) due to myocardial infarction, furosemide has been shown to decrease left ventricular end diastolic pressure and decrease peripheral vascular resistance before a significant increase in urine output or decrease in arterial blood pressure is observed.
 However, in patients with advanced, chronic CHF, the IV administration of furosemide may result in an acute vasoconstrictor response associated with an acute increase in vasoconstrictive hormones, such as norepinephrine, renin, and arginine vasopressin (AVP).
-After central venous catheter administration of furosemide 125 mg, 3rd degree AV heart block was observed in a very ill patient (one case report).
+After central venous catheter administration of furosemide  mg, rd degree AV heart block was observed in a very ill patient (one case report).
 Because no other etiology was found, it was believed that the relatively high pH of furosemide and/or the rapid rate of administration caused the arrhythmia.
 Furosemide may increase cholesterol and triglyceride serum levels.
 Cardiovascular side effects have commonly included intravascular volume depletion and hypotension.
@@ -17,26 +17,23 @@ If a patient has severe liver disease, frequent monitoring of the patient's elec
 Calcium balance appears to remain neutral during treatment with a loop diuretic (i.
 e.
 , furosemide, bumetanide).
-Although loop diuretics cause an increase in renal calcium excretion, this appears to be compensated for by a parathyroid-dependent increase in 1,25-dihydroxyvitamin D levels, which increases intestinal calcium absorption.
+Although loop diuretics cause an increase in renal calcium excretion, this appears to be compensated for by a parathyroid-dependent increase in ,-dihydroxyvitamin D levels, which increases intestinal calcium absorption.
 Bone metabolism does not appear to be significantly affected by loop diuretics.
 Metabolic side effects including hypokalemia, hypomagnesemia, and an increase in serum uric acid, have been relatively common especially with higher doses.
 Although less common than with thiazide diuretics, mild hyperlipidemia and hypercholesterolemia have been associated with the use of furosemide.
 A single study suggests that chronic furosemide therapy is associated with clinically significant thiamine deficiency via urinary thiamine loss.
 This may be important in patients with congestive heart failure since thiamine deficiency may impair cardiac performance.
-Furosemide has been reported to displace thyroxine (T4) from protein-binding sites.
-When administered in large intravenous doses (above 80 mg), a transient increase in serum free T4 concentrations and decrease in serum total T4 concentrations have been reported.
+Furosemide has been reported to displace thyroxine (T) from protein-binding sites.
+When administered in large intravenous doses (above  mg), a transient increase in serum free T concentrations and decrease in serum total T concentrations have been reported.
 Hypersensitivity reactions to furosemide have been uncommon.
 Rashes, fever, malaise, interstitial nephritis, and eosinophilia have been reported.
-Severe anaphylactic or anaphylactoid reactions (e.
-g.
-, with shock) have been reported.
+Severe anaphylactic or anaphylactoid reactions (, with shock) have been reported.
 Furosemide contains a sulfur moiety, and may induce an allergic reaction in some patients with a history of sulfa sensitivity.
 Rare cases of interstitial nephritis and hypersensitivity angiitis associated with furosemide have been reported.
 Nervous system side effects have included headaches and dizziness.
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
-The doses of furosemide in cases of tinnitus, vertigo, or deafness ranged from 0.
-24 grams IV given over 40 minutes to 3 grams IV in divided doses over 9 hours and 2 grams IV in a single dose.
-It is recommended that infusion rates not exceed 4 mg/min to minimize the risk of ototoxicity.
+The doses of furosemide in cases of tinnitus, vertigo, or deafness ranged from  grams IV given over  minutes to  grams IV in divided doses over  hours and  grams IV in a single dose.
+It is recommended that infusion rates not exceed  mg/min to minimize the risk of ototoxicity.
 Ototoxicity may be more likely and more severe due in patients with renal insufficiency.
 Gastrointestinal side effects have included hepatic encephalopathy in patients with hepatocellular insufficiency, pancreatitis, jaundice (intrahepatic cholestatic jaundice), anorexia, oral and gastric irritation, cramping, diarrhea, constipation, nausea, and vomiting.
 Cholestatic jaundice may be important in patients with liver disease.

@@ -1,37 +1,29 @@
 Other dosage forms:
 The most common side effects associated with oral erythromycin were gastrointestinal and were dose-related.
 Onset of pseudomembranous colitis symptoms has been reported during or after antibacterial therapy.
-Rare (less than 0.
-1%): Pancreatitis, pancreatitis without biliary obstructionFrequency not reported: Nausea, abdominal pain, diarrhea, vomiting, anorexia, infantile hypertrophic pyloric stenosis, pseudomembranous colitis, Clostridium difficile associated diarrhea (ranging from mild diarrhea to fatal colitis)
+Rare (less than ): Pancreatitis, pancreatitis without biliary obstructionFrequency not reported: Nausea, abdominal pain, diarrhea, vomiting, anorexia, infantile hypertrophic pyloric stenosis, pseudomembranous colitis, Clostridium difficile associated diarrhea (ranging from mild diarrhea to fatal colitis)
 Life-threatening episodes of ventricular tachycardia associated with prolonged QT interval (torsades de pointes) have been reported following IV administration of erythromycin lactobionate.
 QT prolongation has been reported both in otherwise healthy patients and in patients with a history of heart disease or who were on other potentially arrhythmogenic drugs.
 Most affected patients were receiving erythromycin intravenously.
-In a recent retrospective study of 278 consecutive patients who had received IV erythromycin lactobionate, 39% of 49 evaluable patients developed moderate to severe delay in ventricular repolarization (QTc interval greater than or equal to 500 msec) during treatment.
-Of the 278 patients, torsade de pointes was observed in one patient (less than 0.
-4%).
+In a recent retrospective study of  consecutive patients who had received IV erythromycin lactobionate,  of  evaluable patients developed moderate to severe delay in ventricular repolarization (QTc interval greater than or equal to  msec) during treatment.
+Of the  patients, torsade de pointes was observed in one patient (less than ).
 Arrhythmias and hypotension have been reported following IV administration.
 One case of erythromycin-related polymorphous ventricular tachycardia reported in a patient treated for pneumonia was characterized by a normal QT interval.
 Frequency not reported: QT prolongation, ventricular arrhythmias, ventricular tachycardia, torsades de pointes, arrhythmias, hypotension, polymorphous ventricular tachycardiaPostmarketing reports: Torsades de pointes
-Rare (less than 0.
-1%): Hepatotoxicity, fulminant hepatic necrosis, false isolated elevations of serum glutamic oxaloacetic transaminase (SGOT) enzymesFrequency not reported: Hepatic dysfunction (including increased liver enzymes), hepatocellular and/or cholestatic hepatitis (with or without jaundice), transient elevations of liver function tests, hepatitis, abnormal liver function test results, intrahepatic cholestasis
+Rare (less than ): Hepatotoxicity, fulminant hepatic necrosis, false isolated elevations of serum glutamic oxaloacetic transaminase (SGOT) enzymesFrequency not reported: Hepatic dysfunction (including increased liver enzymes), hepatocellular and/or cholestatic hepatitis (with or without jaundice), transient elevations of liver function tests, hepatitis, abnormal liver function test results, intrahepatic cholestasis
 Hepatic dysfunction (including increased liver enzymes) and hepatocellular and/or cholestatic hepatitis (with or without jaundice) have been reported with oral erythromycin.
 Frequency not reported: Allergic reactions (ranging from urticaria to anaphylaxis), hypersensitivity reactions (presented as rash, eosinophilia, fever), hypersensitivity with noninfectious hepatitis
-Rare (less than 0.
-1%): Skin rash, maculopapular rashes (generalized, pruritic)Frequency not reported: Skin reactions (ranging from mild eruptions to erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis)
-Rare (less than 0.
-1%): Convulsions, reversible hearing loss, reversible ototoxicityFrequency not reported: Exacerbation of myasthenia gravis symptoms, new onset of myasthenic syndrome
+Rare (less than ): Skin rash, maculopapular rashes (generalized, pruritic)Frequency not reported: Skin reactions (ranging from mild eruptions to erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis)
+Rare (less than ): Convulsions, reversible hearing loss, reversible ototoxicityFrequency not reported: Exacerbation of myasthenia gravis symptoms, new onset of myasthenic syndrome
 Reversible hearing loss was reported primarily in patients with renal dysfunction and in patients receiving high doses of erythromycin.
-Several published reviews have indicated that ototoxicity was associated with erythromycin dosages greater than 4 grams per day, preexisting liver or kidney disease, and advanced age.
+Several published reviews have indicated that ototoxicity was associated with erythromycin dosages greater than  grams per day, preexisting liver or kidney disease, and advanced age.
 Recovery generally occurred within two weeks.
 A case of hemolytic anemia has been reported in a patient with severe underlying diseases and erythromycin-associated hepatitis.
-Rare (less than 0.
-1%): Reversible agranulocytosisFrequency not reported: Hemolytic anemia
+Rare (less than ): Reversible agranulocytosisFrequency not reported: Hemolytic anemia
 Frequency not reported: Interstitial nephritis
-Rare (less than 0.
-1%): Recurrent nightmares
-Slow infusion of diluted erythromycin (continuously or intermittently over no less than 20 to 60 minutes) almost invariably alleviated venous irritation.
-Rare (less than 0.
-1%): Venous irritation with IV administration
+Rare (less than ): Recurrent nightmares
+Slow infusion of diluted erythromycin (continuously or intermittently over no less than  to  minutes) almost invariably alleviated venous irritation.
+Rare (less than ): Venous irritation with IV administration
 intravenous powder for solution
 Blistering, peeling, or loosening of the skin
 chills

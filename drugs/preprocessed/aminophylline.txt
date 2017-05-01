@@ -1,7 +1,7 @@
 Other dosage forms:
 If any of the following symptoms of overdose occur while taking aminophylline, get emergency help immediately:
 Most of the side effects of aminophylline (theophylline) have been dependent on serum concentrations.
-Generally, theophylline serum concentrations ranging from 10 to 20 mcg/mL are considered therapeutic, and serum concentrations greater than 20 mcg/mL are associated with greater toxicity.
+Generally, theophylline serum concentrations ranging from  to  mcg/mL are considered therapeutic, and serum concentrations greater than  mcg/mL are associated with greater toxicity.
 There are several factors which may predispose a patient to higher serum concentrations and, thus, toxicity.
 These factors may include increased age, concomitant drugs which reduce the clearance of theophylline, hypothyroidism, congestive heart failure, liver disease, renal failure, and alterations in smoking habits.
 One series of patients with theophylline intoxication had recent upper respiratory tract infections.
@@ -24,7 +24,7 @@ Cardiovascular side effects have included increased heart rate which has progres
 Patients with a history of arrhythmias may be predisposed to this effect.
 Hypotension has occurred with rapid intravenous administration.
 Theophylline serum concentrations are a significant predictor of arrhythmias.
-One study reported multifocal atrial tachycardia in 8% and 16% of patients with a serum concentration between 10 and 20 mcg/mL and greater than 20 mcg/mL, respectively.
+One study reported multifocal atrial tachycardia in  and  of patients with a serum concentration between  and  mcg/mL and greater than  mcg/mL, respectively.
 The onset of serious arrhythmias is not always preceded by less severe signs of theophylline toxicity.
 Patients are frequently sensitized to ethylenediamine through topical use, as it is used as a preservative in some topical preparations.
 These patients are generally able to tolerate plain theophylline preparations.
@@ -32,7 +32,7 @@ Hypersensitivity side effects have included erythematous rash, pruritus, urticar
 These side effects have been more commonly reported in patients sensitive to ethylenediamine component of aminophylline.
 Metabolic side effects have included hypokalemia, hyperglycemia, respiratory alkalosis, hypophosphatemia, and hypomagnesemia.
 The magnitude of these abnormalities have been correlated with theophylline concentrations.
-In one group of patients with theophylline concentrations greater than 20 mcg/mL, hyperglycemia was present in approximately 50%, hypokalemia in 15%, and hypomagnesemia in 20%.
+In one group of patients with theophylline concentrations greater than  mcg/mL, hyperglycemia was present in approximately , hypokalemia in , and hypomagnesemia in .
 Hyponatremia and hypophosphatemia were seen less frequently.
 Genitourinary side effects have included urinary retention.
 intravenous solution

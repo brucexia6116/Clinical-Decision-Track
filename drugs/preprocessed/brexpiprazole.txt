@@ -1,40 +1,33 @@
 More frequently reported side effects include: anxiety, dizziness, drowsiness, dyspepsia, fatigue, increased creatine phosphokinase, nasopharyngitis, tremor, weight gain, hypersomnia, and sedation.
 See below for a comprehensive list of adverse effects.
 The most common adverse reactions are weight gain and akathisia.
-Common (1% to 10%): Weight gain, increased appetite, elevated fasting blood glucose
-In 6-week fixed-dose trials in patients with major depressive disorder (MDD) receiving this drug plus an antidepressant and in patients with schizophrenia receiving this drug, the proportion of patients with shifts in fasting blood glucose (FBG) from normal or borderline, to high were similar compared with placebo-treated patients.
-In long-term, open-label studies, 5% (MDD) and 8% (schizophrenia) of patients with normal baseline FBGs experienced a shift to high, while 25% (MDD) and 17% (schizophrenia) of patients with baseline borderline FBGs experienced a shift to high.
-In 6-week fixed-dose trials in patients with major depressive disorder (MDD) receiving this drug plus an antidepressant and in patients with schizophrenia receiving this drug, the proportion of patients with changes in fasting total cholesterol, LDL cholesterol, and HDL cholesterol were similar compared with placebo-treated patients.
-For patients with MDD, changes in fasting triglycerides from normal to high were reported in 5%, 13%, and 9% of patients receiving this drug at 1 mg/day, 2 mg/day, and 3 mg/day, respectively, compared with 6% of placebo-treated patients; for patients with schizophrenia, the change was 10%, 8%, and 10%, in patients receiving 1 mg/day, 2 mg/day, and 4 mg/day, respectively, compared with 6% in placebo-treated patients.
-In long-term open-label depression studies, 4% of patients discontinued this drug due to weight gain.
-Mean change from baseline weight was 2.
-9 kg at week 26 and 3.
-1 kg at week 52.
-A 7% or greater increase in body weight was observed in 30% of patients and 4% demonstrated a 7% or greater decrease in body weight.
-In long-term open-label schizophrenia studies, 0.
-6% of patients discontinued this drug due to weight gain.
-Mean change from baseline weight was 1.
-3 kg at week 26 and 2 kg at week 52.
-A 7% or greater increase in body weight was observed in 20% of patients and 10% demonstrated a 7% or greater decrease in body weight.
-Common (1% to 10%): Constipation, dyspepsia, diarrhea, nausea, dry mouth, salivary hypersecretion, abdominal pain, flatulence
+Common ( to ): Weight gain, increased appetite, elevated fasting blood glucose
+In -week fixed-dose trials in patients with major depressive disorder (MDD) receiving this drug plus an antidepressant and in patients with schizophrenia receiving this drug, the proportion of patients with shifts in fasting blood glucose (FBG) from normal or borderline, to high were similar compared with placebo-treated patients.
+In long-term, open-label studies,  (MDD) and  (schizophrenia) of patients with normal baseline FBGs experienced a shift to high, while  (MDD) and  (schizophrenia) of patients with baseline borderline FBGs experienced a shift to high.
+In -week fixed-dose trials in patients with major depressive disorder (MDD) receiving this drug plus an antidepressant and in patients with schizophrenia receiving this drug, the proportion of patients with changes in fasting total cholesterol, LDL cholesterol, and HDL cholesterol were similar compared with placebo-treated patients.
+For patients with MDD, changes in fasting triglycerides from normal to high were reported in , , and  of patients receiving this drug at  mg/day,  mg/day, and  mg/day, respectively, compared with  of placebo-treated patients; for patients with schizophrenia, the change was , , and , in patients receiving  mg/day,  mg/day, and  mg/day, respectively, compared with  in placebo-treated patients.
+In long-term open-label depression studies,  of patients discontinued this drug due to weight gain.
+Mean change from baseline weight was  kg at week  and  kg at week   A  or greater increase in body weight was observed in  of patients and  demonstrated a  or greater decrease in body weight.
+In long-term open-label schizophrenia studies,  of patients discontinued this drug due to weight gain.
+Mean change from baseline weight was  kg at week  and  kg at week   A  or greater increase in body weight was observed in  of patients and  demonstrated a  or greater decrease in body weight.
+Common ( to ): Constipation, dyspepsia, diarrhea, nausea, dry mouth, salivary hypersecretion, abdominal pain, flatulence
 Frequency not reported: Rash, facial swelling, urticaria, anaphylaxis
-In clinical trials in patients with major depressive disorder, the incidence of EPS-related adverse reactions, excluding akathisia, was 6% (3% in placebo patients).
-Akathisia occurred in 9% of patients (2% in placebo patients).
+In clinical trials in patients with major depressive disorder, the incidence of EPS-related adverse reactions, excluding akathisia, was  ( in placebo patients).
+Akathisia occurred in  of patients ( in placebo patients).
 The incidence of akathisia was dose-related.
-In clinical trials in patients with schizophrenia, the incidence of EPS-related adverse reactions, excluding akathisia, was 5% (4% in placebo patients).
-Akathisia occurred in 6% of patients (5% in placebo patients).
-Common (1% to 10%): Akathisia, headache, somnolence, tremor, dizziness, sedation, extrapyramidal-related events (excluding akathisia)
-Common (1% to 10%): Anxiety, restlessness, abnormal dreams, insomnia
+In clinical trials in patients with schizophrenia, the incidence of EPS-related adverse reactions, excluding akathisia, was  ( in placebo patients).
+Akathisia occurred in  of patients ( in placebo patients).
+Common ( to ): Akathisia, headache, somnolence, tremor, dizziness, sedation, extrapyramidal-related events (excluding akathisia)
+Common ( to ): Anxiety, restlessness, abnormal dreams, insomnia
 The incidence of restlessness was dose-related in patients with major depressive disorder receiving this drug in combination with an antidepressant.
-Uncommon (0.
-1% to 1%): Orthostatic hypotension
-Common (1% to 10%): Hyperhidrosis
-Common (1% to 10%): Decreased blood cortisol, increased blood prolactin
-Common (1% to 10%): Urinary tract infection
-Common (1% to 10%): Increased blood creatine phosphokinase, myalgia
-Common (1% to 10%): Blurred vision
-Common (1% to 10%): Fatigue
-Common (1% to 10%): Nasopharyngitis
+Uncommon ( to ): Orthostatic hypotension
+Common ( to ): Hyperhidrosis
+Common ( to ): Decreased blood cortisol, increased blood prolactin
+Common ( to ): Urinary tract infection
+Common ( to ): Increased blood creatine phosphokinase, myalgia
+Common ( to ): Blurred vision
+Common ( to ): Fatigue
+Common ( to ): Nasopharyngitis
 Chills
 cold sweats
 confusion

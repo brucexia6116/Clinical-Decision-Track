@@ -2,7 +2,6 @@ Commonly reported side effects of teniposide include: infection and bone marrow 
 Other side effects include: bronchospasm, hypersensitivity reaction, hypotension, hemorrhage, dyspnea, fever, hypertension, tachycardia, and chills.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, teniposide may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking teniposide, check with your doctor immediately:
 If any of the following side effects occur while taking teniposide, check with your doctor or nurse as soon as possible:
 Some teniposide side effects may not need any medical attention.
@@ -11,24 +10,24 @@ Your health care professional may be able to help you prevent or reduce these si
 This medicine often causes a temporary loss of hair.
 After treatment with teniposide has ended, normal hair growth should return.
 Hematologic side effects have included bone marrow suppression which is the most significant toxicity associated with teniposide therapy.
-Hematologic effects including neutropenia (less than 2,000 ANC/mcL), leukopenia (less than 3,000 WBC/mcL), anemia (88%), thrombocytopenia (less than 100,000 platelets/mcL) (85%), myelosuppression (unspecified) (75%), and bleeding (5%) have been reported.
+Hematologic effects including neutropenia (less than , ANC/mcL), leukopenia (less than , WBC/mcL), anemia , thrombocytopenia (less than , platelets/mcL) , myelosuppression (unspecified) , and bleeding  have been reported.
 Sepsis, sometimes fatal, may be a consequence of severe myelosuppression.
-Hypersensitivity side effects (5%) have been reported.
+Hypersensitivity side effects  have been reported.
 These have included some potentially life threatening hypersensitivity reactions with anaphylaxis-like symptoms.
 The hypersensitivity reaction may include chills, fever, urticaria, tachycardia, bronchospasm, dyspnea, hypertension or hypotension, and facial flushing.
 Treatment for a severe hypersensitivity reaction include prompt use of antihistamines, corticosteroids, epinephrine, intravenous fluids, and other supportive measures.
 One analysis of hypersensitivity reactions to teniposide concluded that the frequency of the reactions is substantially higher in patients with neuroblastoma and brain tumors.
-Cardiovascular side effects including hypotension/cardiovascular (2%) have been reported.
+Cardiovascular side effects including hypotension/cardiovascular  have been reported.
 One episode of sudden death attributable to probable arrhythmia and intractable hypotension has also been reported.
 Oncologic side effects include one report of a relative risk of developing secondary acute nonlymphocytic leukemia approximately twelve times that of patients treated with less intensive schedules.
 The patients in the report were children with acute lymphoblastic leukemia in remission who received teniposide plus other chemotherapeutic agents at weekly or twice weekly doses.
 Compounds with similar mechanisms of action and mutagenicity profiles have been carcinogenic.
 Teniposide should be considered to be a potential carcinogen.
 Teniposide has been shown to be mutagenic in various bacterial and mammalian genetic toxicity tests.
-Gastrointestinal side effects including mucositis (76%), diarrhea (33%), and nausea/vomiting (29%) have been reported.
-Immunologic side effects including infection (12%) have been reported.
+Gastrointestinal side effects including mucositis , diarrhea , and nausea/vomiting  have been reported.
+Immunologic side effects including infection  have been reported.
 Alopecia, which sometimes progressed to total baldness, was usually reversible.
-Dermatologic side effects including alopecia (9%) and rash (3%) have been reported.
+Dermatologic side effects including alopecia  and rash  have been reported.
 General side effects including fever and asthenia have been reported.
 Nervous system side effects have included headache, confusion, neurotoxicity and, at investigational high doses, acute CNS depression has been reported.
 Other side effects have included three case reports of somnolence, hypotension, and metabolic acidosis which have been reported with teniposide doses at three to five times the standard dose.

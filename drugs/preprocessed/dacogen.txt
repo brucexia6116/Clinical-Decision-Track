@@ -1,24 +1,24 @@
 Common side effects of Dacogen include: neutropenia and thrombocytopenia.
 See below for a comprehensive list of adverse effects.
 If any of the following side effects occur while taking decitabine, check with your doctor or nurse immediately:
-Hematologic side effects including neutropenia (up to 90%), thrombocytopenia (up to 89%), anemia (up to 82%), febrile neutropenia (up to 29%), leukopenia (up to 28%), lymphadenopathy (12%), pancytopenia (5%), and thrombocythemia (5%) have been reported.
-General side effects including pyrexia (53%), fatigue (46%), pyrexia (36%), peripheral edema (up to 27%), rigors (22%), edema (up to 18%), chills (16%), asthenia (15%), pain (13%), lethargy (12%), tenderness (11%), mucosal inflammation (9%), fall (8%), chest discomfort (7%), intermittent pyrexia (6%), chest pain (6%), malaise (5%), pain (5%), and crepitations (5%) have been reported.
-Gastrointestinal side effects including nausea (up to 42%), constipation (up to 35%), diarrhea (up to 34%), vomiting (up to 25%), abdominal pain (14%), oral mucosal petechiae (13%), stomatitis (up to 12%), dyspepsia (up to 12%), ascites (10%), gingival bleeding (8%), hemorrhoids (8%), loose stools (7%), tongue ulceration (7%), dysphagia (up to 6%), oral soft tissue disorder (6%), toothache (6%), abdominal pain upper (up to 6%), lip ulceration (5%), abdominal distension (5%), gastroesophageal reflux disease (5%), oral pain (5%), and glossodynia (5%) have been reported.
-Respiratory side effects including cough (up to 40%), dyspnea (29%), pharyngitis (16%), lung crackles (14%), epistaxis (13%), decreased breath sounds (10%), hypoxia (10%), pharyngolaryngeal pain (8%), rales (8%), pleural effusion (5%), sinus congestion (5%), and postnasal drip (5%) have been reported.
-Other side effects have included vascular disorders such as petechiae (39%), pallor (23%), and hematoma (5%).
-Other side effects such as laboratory abnormalities including increased blood alkaline phosphatase (11%), increased aspartate aminotransferase (10%), increased blood urea (10%), decreased weight (9% ), contusions (9%), increased blood lactate dehydrogenase (8%), decreased blood albumin (7%), increased blood bilirubin (6% ), increased blood bicarbonate (6%), decreased blood chloride (6%), ear pain (6%), abnormal breath sounds (5% ), decreased protein total (5%), decreased blood bicarbonate (5%), and decreased blood bilirubin (5%) have also been reported.
-Metabolic side effects including hyperglycemia (up to 33%), hypoalbuminemia (24%), hypomagnesemia (up to 24%), anorexia (up to 23%), hypokalemia (up to 22%), hyponatremia (19%), decreased appetite (up to 16%), hyperkalemia (13%), and dehydration (up to 8%) have been reported.
-Nervous system side effects including headache (up to 28%), dizziness (up to 21%), and hypoesthesia (11%) have been reported.
-Psychiatric side effects including insomnia (up to 28%), confusional state (up to 12%), anxiety (up to 11%) and depression (9%) have been reported.
-Immunologic side effects have included infections and infestations such as pneumonia (22%), cellulitis (12%), candidal infection (10%), catheter related infection (8%), urinary tract infection (7%), staphylococcal infection (7%), oral candidiasis (6%), sinusitis (5%), and bacteremia (5%).
-Dermatologic side effects including ecchymosis (up to 22%), rash (19%), erythema (up to 14%), petechiae (12%), skin lesion (11%), pruritus (11%), rash (11%), alopecia (8%), dry skin (8%), urticaria (6%), facial swelling (6%), night sweats (5%), and cases of Sweet's syndrome (acute febrile neutrophilic dermatosis) have been reported.
-Musculoskeletal side effects including arthralgia (up to 20%), limb pain (19%), back pain (up to 18%), pain in extremity (18%), myalgia (up to 9%), chest wall pain (7%), muscle spasms (7%), musculoskeletal discomfort (6%), bone pain (6%), muscular weakness (5%), and musculoskeletal pain (5%) have been reported.
-Cardiovascular side effects including cardiac murmur (16%), hypotension (up to 11%), tachycardia (8%), hypertension (6%), pulmonary edema (6%) and congestive cardiac failure (5%) have been reported.
-Hepatic side effects including hyperbilirubinemia (14%) have been reported.
-Hypersensitivity side effects including transfusion reactions (7%) have been reported.
-Ocular side effects including blurred vision (6%) have been reported.
-Genitourinary side effects including dysuria (6%) and urinary frequency (5%) have been reported.
-Local side effects including catheter site erythema (5%), catheter site pain (5%), and injection site swelling (5%) have been reported.
+Hematologic side effects including neutropenia (up to ), thrombocytopenia (up to ), anemia (up to ), febrile neutropenia (up to ), leukopenia (up to ), lymphadenopathy , pancytopenia , and thrombocythemia  have been reported.
+General side effects including pyrexia , fatigue , pyrexia , peripheral edema (up to ), rigors , edema (up to ), chills , asthenia , pain , lethargy , tenderness , mucosal inflammation , fall , chest discomfort , intermittent pyrexia , chest pain , malaise , pain , and crepitations  have been reported.
+Gastrointestinal side effects including nausea (up to ), constipation (up to ), diarrhea (up to ), vomiting (up to ), abdominal pain , oral mucosal petechiae , stomatitis (up to ), dyspepsia (up to ), ascites , gingival bleeding , hemorrhoids , loose stools , tongue ulceration , dysphagia (up to ), oral soft tissue disorder , toothache , abdominal pain upper (up to ), lip ulceration , abdominal distension , gastroesophageal reflux disease , oral pain , and glossodynia  have been reported.
+Respiratory side effects including cough (up to ), dyspnea , pharyngitis , lung crackles , epistaxis , decreased breath sounds , hypoxia , pharyngolaryngeal pain , rales , pleural effusion , sinus congestion , and postnasal drip  have been reported.
+Other side effects have included vascular disorders such as petechiae , pallor , and hematoma .
+Other side effects such as laboratory abnormalities including increased blood alkaline phosphatase , increased aspartate aminotransferase , increased blood urea , decreased weight ( ), contusions , increased blood lactate dehydrogenase , decreased blood albumin , increased blood bilirubin ( ), increased blood bicarbonate , decreased blood chloride , ear pain , abnormal breath sounds ( ), decreased protein total , decreased blood bicarbonate , and decreased blood bilirubin  have also been reported.
+Metabolic side effects including hyperglycemia (up to ), hypoalbuminemia , hypomagnesemia (up to ), anorexia (up to ), hypokalemia (up to ), hyponatremia , decreased appetite (up to ), hyperkalemia , and dehydration (up to ) have been reported.
+Nervous system side effects including headache (up to ), dizziness (up to ), and hypoesthesia  have been reported.
+Psychiatric side effects including insomnia (up to ), confusional state (up to ), anxiety (up to ) and depression  have been reported.
+Immunologic side effects have included infections and infestations such as pneumonia , cellulitis , candidal infection , catheter related infection , urinary tract infection , staphylococcal infection , oral candidiasis , sinusitis , and bacteremia .
+Dermatologic side effects including ecchymosis (up to ), rash , erythema (up to ), petechiae , skin lesion , pruritus , rash , alopecia , dry skin , urticaria , facial swelling , night sweats , and cases of Sweet's syndrome (acute febrile neutrophilic dermatosis) have been reported.
+Musculoskeletal side effects including arthralgia (up to ), limb pain , back pain (up to ), pain in extremity , myalgia (up to ), chest wall pain , muscle spasms , musculoskeletal discomfort , bone pain , muscular weakness , and musculoskeletal pain  have been reported.
+Cardiovascular side effects including cardiac murmur , hypotension (up to ), tachycardia , hypertension , pulmonary edema  and congestive cardiac failure  have been reported.
+Hepatic side effects including hyperbilirubinemia  have been reported.
+Hypersensitivity side effects including transfusion reactions  have been reported.
+Ocular side effects including blurred vision  have been reported.
+Genitourinary side effects including dysuria  and urinary frequency  have been reported.
+Local side effects including catheter site erythema , catheter site pain , and injection site swelling  have been reported.
 Black, tarry stools
 bladder pain
 bleeding after defecation

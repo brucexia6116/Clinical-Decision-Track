@@ -1,12 +1,11 @@
-Common (1% to 10%): Nausea, vomiting, gastrointestinal upset
-Common (1% to 10%): Drowsiness, dizziness, headache
+Common ( to ): Nausea, vomiting, gastrointestinal upset
+Common ( to ): Drowsiness, dizziness, headache
 Frequency not reported: Leukopenia, hemolytic anemia
-Rare (less than 0.
-1%): Anaphylactoid reaction, hypersensitivity reaction, rash (with or without pruritus)
+Rare (less than ): Anaphylactoid reaction, hypersensitivity reaction, rash (with or without pruritus)
 Frequency not reported: Jaundice
 Frequency not reported: False-positive Benedict's tests (due to an unknown reducing substance)
 A glucose-specific test may be used to differentiate findings.
-Common (1% to 10%): Nervousness, irritability
+Common ( to ): Nervousness, irritability
 Abdominal or stomach pain
 back or leg pains
 black, tarry stools

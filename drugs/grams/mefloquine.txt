@@ -1,0 +1,340 @@
+doses
+treatment of acute malaria infections
+side effects
+mefloquine
+side effects
+disease
+common side effects
+treatment
+dizziness
+myalgia
+nausea
+fever
+headache
+vomiting
+chills
+diarrhea
+skin rash
+abdominal pain
+fatigue
+loss of appetite
+tinnitus
+common side effects
+malaria prophylaxis
+vomiting
+long half-life of mefloquine
+side effects
+several weeks after drug discontinuation
+psychiatric side effects
+emotional problems
+transient emotional disturbances
+behavioral changes
+vivid dreams
+mania
+nightmares
+delusions
+tension
+anger
+organic psychosis
+dysphoria
+disorders
+abnormal dreams
+anxiety
+depression
+mood swings
+panic attacks
+aggression
+paranoid reactions
+suicidal ideation
+suicide
+postmarketing experience
+gastrointestinal side effects
+vomiting
+nausea
+diarrhea
+abdominal pain
+loss of appetite
+mouth ulcers
+anorexia
+nausea
+vomiting
+abdominal pain
+loose stools
+diarrhea
+dyspepsia
+loss of appetite
+postmarketing experience
+nervous system
+side effects
+dizziness
+syncope
+headache
+tinnitus
+seizures
+encephalopathy of unknown etiology
+prophylactic mefloquine administration
+relationship
+drug administration
+weakness
+myoclonus
+dizziness
+vertigo
+headache
+loss of balance
+somnolence
+sleep disorders
+insomnia
+motor neuropathies
+including paresthesia
+tremor
+ataxia
+convulsions
+agitation
+restlessness
+memory impairment
+confusion
+hallucinations
+encephalopathy
+vestibular disorders
+including tinnitus
+hearing impairment
+postmarketing experience
+cardiovascular
+side effects
+extrasystoles
+bradycardia
+cardiopulmonary arrest
+patient after a single prophylactic dose
+using propranolol
+silent electrocardiograph alterations
+including sinus bradycardia
+sinus arrhythmia
+first degree
+atrioventricular block
+prolongation of the qtc interval
+abnormal t waves
+atrial flutter
+circulatory disturbances
+hypotension
+hypertension
+flushing
+syncope
+chest pain
+tachycardia
+palpitation
+bradycardia
+irregular heart rate
+extrasystoles
+atrioventricular block
+other transient cardiac conduction alterations
+postmarketing experience
+year-old male experienced thrombotic thrombocytopenic purpura
+ttp
+mefloquine therapy
+week before admission
+patient
+weakness
+days
+anorexia
+myalgia
+lethargy
+fever
+confusion
+vision
+central venous catheter
+right jugular vein
+plasmapheresis sessions
+units of fresh frozen plasma
+first hours
+neurological status
+first plasmapheresis
+hematological abnormalities
+first few days of therapy
+patient
+presence of severe neurological symptoms
+fever
+thrombocytopenia
+microangiopathic anemia
+complex hematological abnormality
+ttp
+causal relation between drug
+disease
+temporal relation of drug intake with the onset of the clinical symptoms
+laboratory abnormalities
+prompt improvement after the aphaeretic therapy
+drug withdrawal
+hematologic side effects
+decreased hematocrit
+leukopenia
+leukocytosis
+thrombocytopenia
+anemia
+least cases
+isolated thrombocytopenia
+cases of hemolytic anemia
+case of thrombotic thrombocytopenic purpura
+agranulocytosis
+aplastic anemia
+postmarketing experience
+dermatologic side effects
+skin rash
+hair loss
+pruritus
+telogen effluvium
+itching
+cutaneous vasculitis
+rash
+exanthema
+erythema
+urticaria
+pruritus
+hair loss
+hyperhidrosis
+erythema multiforme
+stevens-johnson syndrome
+postmarketing experience
+other side effects
+asthenia
+fatigue
+fever
+chills
+asthenia
+edema
+malaise
+fatigue
+fever
+chills
+postmarketing experience
+musculoskeletal side effects
+myalgia
+severe arthralgias
+myalgias
+muscle weakness
+muscle cramps
+myalgia
+arthralgia
+postmarketing experience
+hypersensitivity side effects
+hypersensitivity reactions
+mild cutaneous events
+anaphylaxis
+respiratory side effects
+dyspnea
+pneumonitis of possible allergic etiology
+postmarketing experience
+case of eosinophilic pneumonia
+history of pityriasis versicolor
+eosinophilic pneumonia
+infliximab therapy
+experienced high-grade fever
+degrees celsius
+malaise
+productive cough
+dyspnea on exertion during the previous week
+south africa for weeks
+taken oral mefloquine mg
+week as malaria prophylaxis
+therapy
+weeks
+home
+thorough workup
+diagnosis of eosinophilic pneumonia
+mefloquine therapy
+condition
+drug
+hepatic side effects
+transient elevation of transaminases
+drug-related hepatic disorders from asymptomatic transient transaminase elevations
+hepatic failure
+postmarketing experience
+ocular side effects
+visual disturbances
+postmarketing experience
+aching joints
+muscles
+anxiety
+blistering
+loosening
+peeling
+redness of the skin
+chest pain
+discomfort
+chills
+confusion
+convulsions (seizures)
+cough or hoarseness
+dizziness
+fainting
+fever
+hallucinations
+seeing
+hearing
+feeling things
+pounding
+heartbeat
+pulse
+irritability
+lightheadedness
+side pain
+mental depression
+difficult urination
+red spots on the skin
+irritated eye
+restlessness
+sore throat
+sores
+ulcers
+white spots in the mouth
+lips
+stiff neck
+swelling of the ankles
+feet
+lower legs
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+vomiting
+loss of vision
+continuing ringing
+buzzing
+other unexplained noise in the ears
+disturbed color perception
+double vision
+feeling of constant movement of self
+surroundings
+halos around lights
+hearing loss
+hearing problems
+loss of balance
+loss of bladder control
+muscle spasm
+jerking of all extremities
+night blindness
+overbright appearance of lights
+sensation of spinning
+continuing headache
+sudden loss of consciousness
+trouble sleeping
+troubled breathing
+tunnel vision
+diarrhea
+emotional problems
+nausea
+stomach pain
+abnormal dreams
+loss of appetite
+skin rash
+loss of hair
+acid
+sour stomach
+belching
+flushing
+redness of the skin
+heartburn
+indigestion
+skin rash with a general disease
+stomach discomfort
+pain
+swelling
+unusually warm skin

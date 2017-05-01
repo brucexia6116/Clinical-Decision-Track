@@ -4,8 +4,8 @@ doctor or healthcare specialist for medical advice.
 You may also report side
 effects to the FDA at http://www.
 fda.
-gov/medwatch/ or 1-800-FDA-1088
-(1-800-332-1088).
+gov/medwatch/ or --FDA-
+(---).
 A side effect is usually regarded as an undesirable secondary effect which
 occurs in addition to the desired therapeutic effect of a drug or
 medication.

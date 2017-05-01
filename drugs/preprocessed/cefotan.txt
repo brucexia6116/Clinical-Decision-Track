@@ -4,34 +4,22 @@ Moxalactam, another broad spectrum cephalosporin, also has this side chain and i
 This side chain is thought to be the moiety responsible for the development of hypoprothrombinemia in patients receiving these cephalosporins.
 Administration of parenteral vitamin K has been shown to reverse the coagulation abnormalities.
 Rare cases of hemolytic anemia, sometimes fatal, are associated with cefotetan (the active ingredient contained in Cefotan)   In some cases, antibodies that react with red blood cells that have been exposed to cefotetan have been identified.
-Hematologic side effects have been reported in 1.
-4% of patients and include eosinophilia (0.
-5%), positive direct Coombs' test (0.
-4%), thrombocytosis (0.
-3%), agranulocytosis, hemolytic anemia, leukopenia, thrombocytopenia,  and increased prothrombin time with or without bleeding.
+Hematologic side effects have been reported in  of patients and include eosinophilia , positive direct Coombs' test , thrombocytosis , agranulocytosis, hemolytic anemia, leukopenia, thrombocytopenia,  and increased prothrombin time with or without bleeding.
 Cephalosporin-class antibiotics have been associated with aplastic anemia, hemorrhage, pancytopenia, and neutropenia.
-Hypersensitivity reactions have been reported in 1.
-2% of patients and include rash (0.
-7%), pruritus (0.
-14%), anaphylactic reactions, and urticaria.
+Hypersensitivity reactions have been reported in  of patients and include rash , pruritus , anaphylactic reactions, and urticaria.
 Cephalosporin-class antibiotics have been associated with pruritus, Stevens-Johnson syndrome, erythema multiforme, and toxic epidermal necrolysis.
 There may be cross-reactivity in penicillin allergic patients.
 Anaphylaxis is rare with cefotetan, although three cases are reported in female patients with no known drug allergies and no known prior exposure to cefotetan.
 A case of occupational contact dermatitis due to cephalosporin allergy has been reported in a nurse who prepared cephalosporin solutions for administration to patients.
 The dermatitis resolved after the nurse stopped preparing the solutions.
-Gastrointestinal side effects have been reported in 1.
-5% of patients and have included diarrhea (1.
-25%), nausea (0.
-14%), pseudomembranous colitis, and hiccups.
+Gastrointestinal side effects have been reported in  of patients and have included diarrhea , nausea , pseudomembranous colitis, and hiccups.
 Cephalosporin-class antibiotics have been associated with vomiting, abdominal pain, and colitis.
 Diarrhea seems to be the most common gastrointestinal side effect, although it is usually mild, self-limited, and rarely requires discontinuation of therapy.
 If diarrhea is persistent, testing for Clostridium difficile colitis and discontinuation of therapy is recommended.
 Pseudomembranous colitis may occur during or after discontinuation of therapy.
 Pain with intramuscular injection is common, but may be minimized by administering cefotetan (the active ingredient contained in Cefotan) with lidocaine as a diluent.
 Injection pain usually resolves over several minutes to one hour.
-Local side effects have been reported in less than 1% of patients and include phlebitis with intravenous administration (0.
-3%) and discomfort (0.
-2%).
+Local side effects have been reported in less than  of patients and include phlebitis with intravenous administration  and discomfort .
 Local pain frequently occurs with intramuscular injections.
 Renal side effects have included increases in serum creatinine and blood urea nitrogen (BUN), and rarely nephrotoxicity.
 Cephalosporin-class antibiotics have been associated with toxic nephropathy and renal dysfunction.
@@ -39,12 +27,7 @@ Although mild changes may occur in serum creatinine, blood urea nitrogen and liv
 No increases in urinary excretion of alanine aminopeptidase (AAP) or N-acetyl-beta-D-glucosaminidase (NAG), enzymes indicative of renal tubular damage, were noted in one study.
 However, at least one case of acute interstitial nephritis is associated with cefotetan.
 The authors believed this was due to cefotetan, but could not rule out nephrotoxicity due to concomitantly administered piperacillin.
-Hepatic side effects have occurred in 1.
-2% of patients and include increases in ALT (SGPT) (0.
-7%), AST (SGOT) (0.
-3%), alkaline phosphatase (0.
-14%), and LDH (0.
-14%).
+Hepatic side effects have occurred in  of patients and include increases in ALT (SGPT) , AST (SGOT) , alkaline phosphatase , and LDH .
 Cephalosporin-class antibiotics have been associated with hepatic dysfunction including cholestasis and elevated bilirubin.
 Other side effects have rarely included fever.
 Cephalosporin-class antibiotics have been associated with superinfection.

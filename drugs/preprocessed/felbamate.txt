@@ -1,48 +1,23 @@
 Commonly reported side effects of felbamate include: headache, nausea, vomiting, constipation, insomnia, and anorexia.
 Other side effects include: abdominal pain, abnormal gait, depression, diplopia, nervousness, tremor, and dysgeusia.
 See below for a comprehensive list of adverse effects.
-Very common (10% or more): Headache (36.
-8%), somnolence (19.
-3%), dizziness (18.
-4%)Common (1% to 10%): Tremor, abnormal gait, paresthesia, ataxiaUncommon (0.
-1% to 1%): MigrainePostmarketing reports: Hyperpyrexia, paralysis, mononeuritis
-Very common (10% or more): Nausea (34.
-2%), vomiting (16.
-7%), dyspepsia (12.
-3%), constipation (11.
-4%)Common (1% to 10%): Diarrhea, dry mouth, abdominal pain, hiccoughUncommon (0.
-1% to 1%): EsophagitisPostmarketing reports: GI hemorrhage, pancreatitis, hematemesis, gastritis, rectal hemorrhage, flatulence, gingival bleeding, acquired megacolon, ileus, intestinal obstruction, enteritis, ulcerative stomatitis, glossitis, dysphagia, jaundice, gastric ulcer, gastric dilatation, gastroesophageal reflux
-Common (1% to 10%): Serum glutamic-pyruvic transaminase (SGPT) increasedPostmarketing reports: Hepatitis, hepatic failure, hepatorenal syndrome
-Common (1% to 10%): Acne, rash, pruritusUncommon (0.
-1% to 1%): Urticaria, bullous eruptionRare (less than 0.
-1%): Buccal mucous membrane swelling, Stevens-Johnson Syndrome, photosensitivity Postmarketing reports: Abnormal body odor, sweating, lichen planus, livedo reticularis, alopecia, toxic epidermal necrolysis (TEN)
-Very common (10% or more): Anorexia (19.
-3%)Common (1% to 10%): Weight loss, weight gain, hypophosphatemiaUncommon (0.
-1% to 1%): Increased appetite, hypokalemia, hyponatremia, LDH increased, alkaline phosphatase increasedRare (less than 0.
-1%): Creatinine phosphokinase increased Postmarketing reports: Hyperammonemia, hypernatremia, hypoglycemia, SIADH, hypomagnesemia, dehydration, hyperglycemia, hypocalcemia
-Very common (10% or more): Purpura (12.
-9%)Common (1% to 10%): LeukopeniaUncommon (0.
-1% to 1%): Leukocytosis, thrombocytopenia, granulocytopeniaRare (less than 0.
-1%): Antinuclear factor test positive, qualitative platelet disorder, agranulocytosis Postmarketing reports: Sepsis, increased and decreased prothrombin time, anemia, hypochromic anemia, aplastic anemia, pancytopenia, hemolytic uremic syndrome, increased mean corpuscular volume with and without anemia, coagulation disorder, embolism-limb, disseminated intravascular coagulation, eosinophilia, hemolytic anemia, leukemia, including myelogenous leukemia, and lymphoma, including T-cell and B-cell lymphoproliferative disorders
-Common (1% to 10%): Intramenstrual bleeding, urinary tract infection, urinary incontinenceFrequency not reported: Menstrual disorder, hematuria, urinary retention, vaginal hemorrhage, dysuria
-Rare (less than 0.
-1%): Anaphylactoid reaction
-Common (1% to 10%): Palpitation, tachycardiaUncommon (0.
-1% to 1%): LymphadenopathyRare (less than 0.
-1%): Supraventricular tachycardiaPostmarketing reports: Atrial fibrillation, atrial arrhythmia, cardiac arrest, torsade de pointes, cardiac failure, hypotension, hypertension, flushing, thrombophlebitis, ischemic necrosis, gangrene, peripheral ischemia, bradycardia, Henoch-Schonlein purpura (vasculitis), cerebrovascular disorder, cerebral edema
-Common (1% to 10%): Influenza-like symptomsPostmarketing reports: Lupus syndrome
-Common (1% to 10%): MyalgiaUncommon (0.
-1% to 1%): DystoniaPostmarketing reports: Rigors, arthralgia, muscle weakness, involuntary muscle contraction, rhabdomyolysis
-Common (1% to 10%): Diplopia, abnormal vision, miosisPostmarketing reports: Nystagmus, hemianopsia, conjunctivitis
+Very common ( or more): Headache , somnolence , dizziness Common ( to ): Tremor, abnormal gait, paresthesia, ataxiaUncommon ( to ): MigrainePostmarketing reports: Hyperpyrexia, paralysis, mononeuritis
+Very common ( or more): Nausea , vomiting , dyspepsia , constipation Common ( to ): Diarrhea, dry mouth, abdominal pain, hiccoughUncommon ( to ): EsophagitisPostmarketing reports: GI hemorrhage, pancreatitis, hematemesis, gastritis, rectal hemorrhage, flatulence, gingival bleeding, acquired megacolon, ileus, intestinal obstruction, enteritis, ulcerative stomatitis, glossitis, dysphagia, jaundice, gastric ulcer, gastric dilatation, gastroesophageal reflux
+Common ( to ): Serum glutamic-pyruvic transaminase (SGPT) increasedPostmarketing reports: Hepatitis, hepatic failure, hepatorenal syndrome
+Common ( to ): Acne, rash, pruritusUncommon ( to ): Urticaria, bullous eruptionRare (less than ): Buccal mucous membrane swelling, Stevens-Johnson Syndrome, photosensitivity Postmarketing reports: Abnormal body odor, sweating, lichen planus, livedo reticularis, alopecia, toxic epidermal necrolysis (TEN)
+Very common ( or more): Anorexia Common ( to ): Weight loss, weight gain, hypophosphatemiaUncommon ( to ): Increased appetite, hypokalemia, hyponatremia, LDH increased, alkaline phosphatase increasedRare (less than ): Creatinine phosphokinase increased Postmarketing reports: Hyperammonemia, hypernatremia, hypoglycemia, SIADH, hypomagnesemia, dehydration, hyperglycemia, hypocalcemia
+Very common ( or more): Purpura Common ( to ): LeukopeniaUncommon ( to ): Leukocytosis, thrombocytopenia, granulocytopeniaRare (less than ): Antinuclear factor test positive, qualitative platelet disorder, agranulocytosis Postmarketing reports: Sepsis, increased and decreased prothrombin time, anemia, hypochromic anemia, aplastic anemia, pancytopenia, hemolytic uremic syndrome, increased mean corpuscular volume with and without anemia, coagulation disorder, embolism-limb, disseminated intravascular coagulation, eosinophilia, hemolytic anemia, leukemia, including myelogenous leukemia, and lymphoma, including T-cell and B-cell lymphoproliferative disorders
+Common ( to ): Intramenstrual bleeding, urinary tract infection, urinary incontinenceFrequency not reported: Menstrual disorder, hematuria, urinary retention, vaginal hemorrhage, dysuria
+Rare (less than ): Anaphylactoid reaction
+Common ( to ): Palpitation, tachycardiaUncommon ( to ): LymphadenopathyRare (less than ): Supraventricular tachycardiaPostmarketing reports: Atrial fibrillation, atrial arrhythmia, cardiac arrest, torsade de pointes, cardiac failure, hypotension, hypertension, flushing, thrombophlebitis, ischemic necrosis, gangrene, peripheral ischemia, bradycardia, Henoch-Schonlein purpura (vasculitis), cerebrovascular disorder, cerebral edema
+Common ( to ): Influenza-like symptomsPostmarketing reports: Lupus syndrome
+Common ( to ): MyalgiaUncommon ( to ): DystoniaPostmarketing reports: Rigors, arthralgia, muscle weakness, involuntary muscle contraction, rhabdomyolysis
+Common ( to ): Diplopia, abnormal vision, miosisPostmarketing reports: Nystagmus, hemianopsia, conjunctivitis
 Postmarketing reports: Neoplasm
-Very common (10% or more): Fever (22.
-6%), fatigue (16.
-8%)Common (1% to 10%): Otitis media, face edema, depression, taste perversion, pain, asthenia, malaisePostmarketing reports: Edema, sudden death, hypothermia, fetal death, microcephaly, genital malformation, anencephaly, encephalocele, decreased hearing, placental disorder
-Very common (10% or more): Insomnia (17.
-5%)Common (1% to 10%): Anxiety, nervousness, stupor, abnormal thinking, emotional liability, agitation, psychological disturbance, aggressive reactionUncommon (0.
-1% to 1%): Hallucination, euphoria, suicide attemptPostmarketing reports: Delusion, manic reaction, paranoid reaction, confusion, psychosis, apathy, impaired concentration
+Very common ( or more): Fever , fatigue Common ( to ): Otitis media, face edema, depression, taste perversion, pain, asthenia, malaisePostmarketing reports: Edema, sudden death, hypothermia, fetal death, microcephaly, genital malformation, anencephaly, encephalocele, decreased hearing, placental disorder
+Very common ( or more): Insomnia Common ( to ): Anxiety, nervousness, stupor, abnormal thinking, emotional liability, agitation, psychological disturbance, aggressive reactionUncommon ( to ): Hallucination, euphoria, suicide attemptPostmarketing reports: Delusion, manic reaction, paranoid reaction, confusion, psychosis, apathy, impaired concentration
 Postmarketing reports: Acute renal failure, nephrosis, abnormal renal function
-Common (1% to 10%): Upper respiratory tract infection, rhinitis, chest pain, sinusitis, pharyngitis, coughingPostmarketing reports: Respiratory depression
+Common ( to ): Upper respiratory tract infection, rhinitis, chest pain, sinusitis, pharyngitis, coughingPostmarketing reports: Respiratory depression
 Black, tarry stools
 chest pain
 chills

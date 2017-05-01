@@ -1,9 +1,7 @@
-Common (1% to 10%): Corneal edema, ciliary and conjunctival hyperemia, eye pain, photophobia, posterior capsule opacification, anterior chamber cells, anterior chamber flare, conjunctival edema, blepharitis, reduced visual acuity, punctate keratitis, eye inflammation, iritis, blurred vision, eye irritationUncommon (0.
-1% to 1%): Corneal pigmentation and striae, episcleritis, eye pruritus, eyelid irritation and crusting, foreign body sensation, increased lacrimation, macular edema, sclera hyperemia, uveitis, increased intraocular pressure, iritis, limbal and conjunctival hyperemia, dry eye, iridocyclitis
+Common ( to ): Corneal edema, ciliary and conjunctival hyperemia, eye pain, photophobia, posterior capsule opacification, anterior chamber cells, anterior chamber flare, conjunctival edema, blepharitis, reduced visual acuity, punctate keratitis, eye inflammation, iritis, blurred vision, eye irritationUncommon ( to ): Corneal pigmentation and striae, episcleritis, eye pruritus, eyelid irritation and crusting, foreign body sensation, increased lacrimation, macular edema, sclera hyperemia, uveitis, increased intraocular pressure, iritis, limbal and conjunctival hyperemia, dry eye, iridocyclitis
 The most commonly reported side effects were elevated intraocular pressure, visual acuity and field defects, and posterior subcapsular cataract formation.
-Uncommon (0.
-1% to 1%): Application site discomfort or irritation
-Common (1% to 10%): Headache
+Uncommon ( to ): Application site discomfort or irritation
+Common ( to ): Headache
 Blurred vision
 change in color vision
 decreased vision or other changes in vision

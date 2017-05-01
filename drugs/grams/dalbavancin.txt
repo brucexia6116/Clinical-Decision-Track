@@ -1,0 +1,122 @@
+common adverse reactions
+nausea
+headache
+diarrhea
+frequency
+anemia
+hemorrhagic anemia
+leucopenia
+neutropenia
+thrombocytopenia
+petechiae
+eosinophilia
+thrombocytosis
+ratio
+phlebitis
+wound hemorrhage
+spontaneous hematoma
+rash
+pruritusfrequency
+urticaria
+flushing
+nausea
+diarrhea
+vomitingfrequency
+gastrointestinal hemorrhage
+melena
+hematochezia
+abdominal pain
+frequency
+hepatotoxicity
+hepatic transaminases
+blood alkaline phosphatase
+frequency
+anaphylactoid reaction
+frequency
+clostridium difficile colitis
+oral candidiasis
+vulvovaginal mycotic infection
+frequency
+infusion-related reactions
+frequency
+hypoglycemia
+headachefrequency
+dizziness
+frequency
+bronchospasm
+stomach pain
+tenderness
+back pain
+black, tarry stools
+bleeding gums
+blood in the urine
+stools
+chest pain
+tightness
+chills
+clay colored stools
+cough
+dark urine
+decreased appetite
+difficulty swallowing
+dizziness
+fast heartbeat
+feeling of warmth
+fever
+headache
+hives
+welts
+itching
+rash
+loss of appetite
+difficult urination
+pale skin
+red spots on the skin
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+redness of the face
+neck
+arms
+upper chest
+redness of the skin
+stomach cramps
+pain
+sore mouth
+tongue
+sore throat
+sores
+ulcers
+white spots on the lips
+mouth
+swelling of the feet
+lower legs
+swollen glands
+tightness in the chest
+troubled breathing with exertion
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+vomiting of blood
+material
+coffee grounds
+severe diarrhea
+yellow eyes
+skin
+diarrhea
+anxiety
+blurred vision
+cold sweats
+coma
+confusion
+cool, pale skin
+depression
+increased hunger
+nightmares
+seizures
+shakiness
+slurred speech

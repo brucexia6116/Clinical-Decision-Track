@@ -1,0 +1,307 @@
+common side effect
+dizziness
+dizziness
+headacheuncommon
+syncopehydrochlorothiazide
+dizziness
+headachepostmarketing reports
+lightheadedness
+paresthesiaolmesartan
+dizziness
+headache
+bronchitis
+pharyngitis
+sinusitis
+upper respiratory tract infection
+coughing
+nasopharyngitishydrochlorothiazide
+bronchitis
+nasopharyngitis
+pharyngitisuncommon
+sinusitis
+upper respiratory tract infection
+coughfrequency
+pneumonitis
+pulmonary edemaolmesartan
+bronchitis
+nasopharyngitis
+sinusitis
+upper respiratory tract infection
+cough
+pharyngitis
+rhinitis
+vertigo
+influenza-like symptoms
+chest pain
+fatigue
+peripheral edemauncommon
+weaknesspostmarketing reports
+asthenia
+lethargy
+malaisehydrochlorothiazide
+vertigo
+influenza-like symptomsuncommon
+chest pain
+fatigue
+peripheral edemafrequency
+weakness
+feverolmesartan
+vertigo
+chest pain
+fatigue
+influenza-like symptoms
+peripheral edema
+painpostmarketing reports
+asthenia
+lethargy
+malaise
+diarrhea
+gastroenteritis
+nausea
+abdominal pain
+dyspepsiapostmarketing reports
+sprue-like enteropathy
+vomitinghydrochlorothiazide
+diarrhea
+dyspepsia
+nausea
+gastroenteritisfrequency
+sialadenitis
+cramping
+gastric irritationpostmarketing reports
+constipationolmesartan
+diarrhea
+dyspepsia
+nausea
+gastroenteritis
+abdominal painpostmarketing reports
+vomiting
+sprue-like enteropathy
+pain
+creatine phosphokinase
+arthralgia
+arthritis
+myalgiauncommon
+pain in limb
+spinal disorderpostmarketing reports
+rhabdomyolysishydrochlorothiazide
+arthralgia
+pain
+pain in limbuncommon
+spinal disorderfrequency
+muscle spasmolmesartan
+arthralgia
+pain
+pain in limb
+arthritis
+skeletal pain
+creatine phosphokinase increaseduncommon
+spinal disorder
+myalgiapostmarketing reports
+rhabdomyolysis
+hyperlipemia
+hyperglycemia
+blood
+uric acid
+hyperuricemiauncommon
+blood glucose
+blood potassium
+blood potassium
+hypertriglyceridemiapostmarketing reports
+hyperkalemiahydrochlorothiazide
+blood glucose
+blood potassium decreaseduncommon
+blood
+uric acid increasedfrequency
+hyperglycemia
+glycosuria
+hyperuricemiapostmarketing reports
+anorexia
+loss of appetiteolmesartan
+hypertriglyceridemia
+hyperglycemia
+hyperuricemiauncommon
+blood glucose
+blood potassium
+blood
+uric acid increasedrare
+hyperkalemiafrequency
+hypercholesterolemia
+ggt
+ast
+alt increasedhydrochlorothiazide
+alt
+ast
+ggt increasedfrequency
+pancreatitis
+intrahepatic cholestatic jaundiceolmesartan
+alt
+ast
+ggt
+hematuria
+urinary tract infectionhydrochlorothiazide
+urinary tract infectionolmesartan
+urinary tract infection
+hematuria
+anxiety
+insomniahydrochlorothiazide
+anxiety
+insomniafrequency
+restlessnesspostmarketing reports
+sleep disturbances
+depressionolmesartan
+insomniauncommon
+anxiety
+rash
+facial edemauncommon
+eczemapostmarketing reports
+alopecia
+pruritus
+urticariahydrochlorothiazide
+frequency
+purpura
+photosensitivity
+urticaria
+stevens-johnson syndrome
+toxic epidermal necrolysispostmarketing reports
+rash
+cutaneous lupus
+erythematosus-like reactions
+reactivation of cutaneous lupus
+erythematosusolmesartan
+rashpostmarketing reports
+alopecia
+pruritus
+urticaria
+influenzauncommon
+viral infectionfrequency
+angioedemapostmarketing reports
+anaphylactic reactionshydrochlorothiazide
+influenza
+viral infectionfrequency
+anaphylactic reactionsolmesartan
+influenzauncommon
+viral infectionpostmarketing reports
+angioedema
+anaphylactic reactions
+blood creatinine increasedpostmarketing reports
+acute renal failurehydrochlorothiazide
+blood creatinine increasedfrequency
+renal failure
+renal dysfunction
+interstitial nephritisolmesartan
+blood creatinine increasedpostmarketing reports
+acute renal failure
+palpitations
+hypotension
+orthostatic hypotensionhydrochlorothiazide
+frequency
+vasculitis
+cutaneous vasculitispostmarketing reports
+cardiac arrhythmias
+postural hypotensionolmesartan
+tachycardia
+angina pectorisrare
+hypotension
+hydrochlorothiazide
+frequency
+aplastic anemia
+agranulocytosis
+leukopenia
+hemolytic anemia
+thrombocytopeniapostmarketing reports
+bone marrow depression
+ocular side effects
+idiosyncratic reactions
+hydrochlorothiazide component
+acute transient myopia
+acute angle-closure glaucoma
+bladder pain
+bloating
+swelling of the face
+arms
+hands
+lower legs
+feet
+cloudy urine
+blurred vision
+chest pain
+burning
+painful urination
+flushed, dry skin
+frequent urge
+fruit-like breath odor
+increased hunger
+increased urination
+joint pain
+stiffness
+swelling
+side
+stomach pain
+rapid weight gain
+sweating
+swelling of the feet
+lower legs
+tingling of the hands
+feet
+troubled breathing
+unexplained weight loss
+unusual weight gain
+loss
+swelling
+puffiness of the face
+convulsions
+decrease in amount of urine
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+rash
+severe diarrhea with weight loss
+back pain
+body aches
+pain
+chills
+cough
+difficulty with breathing
+ear congestion
+pain
+fever
+headache
+head congestion
+hoarseness
+other voice changes
+loss of voice
+stuffy nose
+sneezing
+sore throat
+acid
+sour stomach
+belching
+difficulty with moving
+dizziness or lightheadedness
+feeling of constant movement of self
+surroundings
+heartburn
+indigestion
+joint pain
+stiffness
+swelling
+loss of appetite
+muscle pain
+stiffness
+pain
+swelling
+redness in the joints
+sensation of spinning
+stomach discomfort
+upset
+weakness
+diarrhea
+muscle pain
+stiffness
+nervousness
+weakness
+heaviness of the legs

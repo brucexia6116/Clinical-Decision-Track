@@ -2,7 +2,6 @@ Common side effects of Novolin R include: hypoglycemia.
 Other side effects include: weight gain.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, insulin regular (the active ingredient contained in Novolin R) may cause unwanted side effects that require medical attention.
-
 If any of the following side effects occur while taking insulin regular, check with your doctor immediately:
 Some insulin regular side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
@@ -10,13 +9,10 @@ Your health care professional may be able to help you prevent or reduce these si
 Frequency not reported: Transitory, reversible ophthalmologic refraction disorder, worsening diabetic neuropathy
 Transitory, reversible ophthalmologic refraction disorder and worsening of diabetic retinopathy has been reported with insulin initiation and glucose control intensification.
 Over the long-term, improved glycemic control decreases the risk for diabetic neuropathy.
-Uncommon (0.
-1% to 1%): Lipodystrophy
+Uncommon ( to ): Lipodystrophy
 Long-term use of insulin can cause lipodystrophy at the site of repeated insulin injections.
 Lipodystrophy includes lipohypertrophy (thickening of adipose tissue) and lipoatrophy (thinning of adipose tissues).
-Uncommon (0.
-1% to 1%): Local reactions such as redness, swelling, or itching at the injection siteVery rare (less than 0.
-01%): Anaphylactic reactions
+Uncommon ( to ): Local reactions such as redness, swelling, or itching at the injection siteVery rare (less than ): Anaphylactic reactions
 Hypersensitivity reactions have included both local and systemic reactions.
 Anaphylaxis has been reported.
 Local reactions have presented as erythema, local edema, and pruritus at the injection site.
@@ -31,8 +27,7 @@ Frequency not reported: Sodium retention and edema
 Insulin may cause sodium retention and edema, especially with intensified insulin therapy.
 Combination use with thiazolidinediones has resulted in fluid retention which has led to or exacerbated heart failure.
 Adverse reactions reported with this insulin include hypoglycemia, allergic reactions, injection site reactions, lipodystrophy, weight gain, and edema
-Very common (10% or more): HypoglycemiaRare (less than 0.
-1%): Insulin resistanceFrequency not reported: Hypokalemia, hyperglycemia, diabetic ketoacidosis, hyperosmolar hyperglycemic non-ketotic syndrome, hypomagnesemia, hypophosphatemia
+Very common ( or more): HypoglycemiaRare (less than ): Insulin resistanceFrequency not reported: Hypokalemia, hyperglycemia, diabetic ketoacidosis, hyperosmolar hyperglycemic non-ketotic syndrome, hypomagnesemia, hypophosphatemia
 Hypoglycemia is the most common adverse reaction of all insulin therapies.
 The timing of hypoglycemia generally reflects the time-action profile of the administered insulin, however, the time action profile of any insulin may vary considerably in different individuals or at different times in the same individual depending on dose, site of injection, blood supply, temperature, and physical activity.
 Other factors such as changes in food intake (timing of meals, amount or type of food) and concomitant medications will also affect the risk of hypoglycemia.
@@ -42,7 +37,7 @@ Insulin increases the intracellular transport of phosphate, which often results 
 In situations in which not enough insulin is available to control blood glucose, hyperglycemia, diabetic ketoacidosis, and hyperosmolar hyperglycemic non-ketotic syndrome may occur.
 Injection site reactions including pain, redness, hives, inflammation, bruising, swelling, and itching have occurred.
 These usually resolve in a few days to a few weeks; rotation of the injection site reduces the risk of these reactions developing.
-Common (1% to 10%): Injection site hypertrophyFrequency not reported: Injection site reactions
+Common ( to ): Injection site hypertrophyFrequency not reported: Injection site reactions
 Frequency not reported: Acute painful peripheral neuropathy
 Acute painful peripheral neuropathy has been reported with insulin initiation and glucose control intensification.
 Over the long-term, improved glycemic control decreases the risk for neuropathy.
