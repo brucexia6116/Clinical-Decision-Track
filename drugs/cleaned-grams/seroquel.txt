@@ -1,0 +1,386 @@
+influenza
+weight loss
+hypothyroidism
+appetite
+aggression
+suicide
+bundle branch block
+somnambulismfrequency
+unusual facial expression
+anemia
+swell of the eyelid
+abnormal gait
+loss of balance control
+hive
+clozapine
+eosinophilia
+puffing of the cheek
+water intoxication
+tiredness
+tightness in the chest
+sensation
+acid
+depression
+conjunctivitis
+bruxism
+jaundice
+body
+pediatrics
+leg
+asthenia
+decrease hemoglobincommon
+seizure
+runny nose
+trunk
+tremor
+active ingredient
+altered hormone level
+stomach discomfort
+shift
+free thyroxine
+retrograde amnesia
+normal growth
+xerostomia
+glossitis
+pancreatitis
+extremity pain
+pound
+fbg
+sweating
+av bloc
+eye
+leucopeniauncommon
+tachycardia
+shakiness in the leg
+psoriasis
+loss of appetite
+atrial fibrillation
+infection
+sore
+adult
+myasthenia
+high fpg
+pathological fracture
+hypertonia
+hypersomnia
+similar result i
+agent
+quetiapine
+melenafrequency
+hyponatremia
+dress
+neuroleptic malignant syndrome
+fpg
+hyperprolactinemia
+musculoskeletal stiffnessuncommon
+hypersensitivity
+tongue edemarare
+qr duration
+dysuria
+acneuncommon
+fever
+fatigue
+sinus congestion
+arthralgia
+skin ulcer
+pucker
+triglyceride
+electrolyte imbalance
+elevation in serum creatine phosphokinase
+bradycardia
+difficult urination
+black tarry stool
+st abnormality
+somnolence
+n rrb
+tsh
+leg cramp
+dysmenorrhea
+visionuncommon
+nausea
+lightheadedness
+weakness
+palpitationsuncommon
+drowsiness
+sleepiness
+aphasia
+foot
+maximal reduction in total
+sore throat
+ecchymosisrare
+behavioruncommon
+myocarditis
+own profile
+nasal congestion
+incoordination
+constipation
+weight
+uncontrolled movement of the arm
+dyslipidemia
+metrorrhagia
+choreoathetosis
+bipolar mania
+increase salivation
+event
+maculopapular rash
+irritability
+vertigo
+heart failure
+medicine
+unusual secretion of milk
+vaginitis
+hematemesis
+cough
+dizziness
+mean change
+nocturnal enuresis
+decrease neutrophil count
+uncontrolled twist movement of the neck
+fast glucose
+unusual weight gain
+indigestion
+hyperventilationfrequency
+hdl cholesterol from baseline
+collective datum
+euphoria
+unusual tiredness
+swollen gland
+shift in total cholesterol
+slow movement
+drool
+t wave flatten
+dyskinesia
+headache
+shake of the hand
+abnormal dream
+increase appetite
+hepatitisfrequency
+risperidone
+abnormal thinking
+abnormal vision
+systemic symptom
+lens change
+anxiety
+hemiplegia
+hyperlipidemia
+pneumonia
+change in pattern
+tardive dyskinesia
+hallucination
+serum triglyceride
+lip smacking
+abnormal ejaculation
+metabolic change
+angina
+gingivitis
+upper respiratory tract infectionuncommon
+hyperthyroidismfrequency
+leukopenia neutropenia
+lie
+qt interval prolongation
+unusual bleeding
+qt interval
+lip
+catatonic reactionrare
+logistic regression analysis
+pharyngitis
+pain
+shift in thyroid hormone
+mouth
+urinary retention
+mean change in body weight
+postural hypotension
+gamma gt elevation
+exfoliative dermatitis
+face
+serum alanine aminotransferase
+nightmare
+gastroenteritis
+ulcer
+syndrome of inappropriate hormone secretion
+fast plasma glucose
+anaphylactic reactionsfrequency
+dry eye
+rash
+hypoesthesia
+speech disorder
+stiffness of the arm
+move
+get
+chest pain
+health care professional
+agranulocytosisfrequency
+dyspepsia
+skin rash
+hemorrhoid
+weight gain
+trouble with breathing
+gout
+lethargy
+abdominal pain
+heartburn
+result
+blood pressure elevation
+bone painfrequency
+arm
+uncontrolled chewing movement
+increase weight
+platelet
+finger
+buccoglossal syndrome
+tooth abscessfrequency
+nature
+confusion
+intestinal obstruction
+risk of mortality with atypical antipsychotic
+muscle ache
+hyperkinesia
+dysarthria
+akathisia
+taste perversionrare
+delirium
+swallow
+placebo
+suicidal ideation
+siadh
+blepharitis
+child with a history of hypertension
+adaptation
+ataxia
+speak
+gynecomastia
+amnesia
+urinary tract infectionuncommon
+balance disorder
+qt prolongation
+faintness
+diastolic elevation of mmhg
+hypothyroidismrare
+hypertensive crisis
+child
+chill
+medical attention
+hypotension
+worm like movement of the tongue
+systolic elevation of mmhg
+discomfort in the lower leg
+use of atypical antipsychotic agent
+polyuriafrequency
+glycosuria
+thirstuncommon
+diastolic blood pressure elevation in pediatric patientscommon
+agitation
+extrapyramidal disorder
+leukocytosis
+thyroid axis
+eczema
+shuffling walk
+withdrawal symptom
+sinusitis
+belch
+rhythm of speech
+restless leg syndrome
+moniliasis
+itch
+increase sweating
+depersonalization
+hand
+menstrual change
+i
+nocturia
+unusual drowsiness
+inability
+vomit
+lower leg
+olanzapine
+urinary incontinence
+healthcare professional for medical advice
+involuntary movement
+sour stomach
+glaucomafrequency
+bruise
+congestive heart failure
+venous thromboembolism
+atypical antipsychotic agent
+syncope
+cold sweat
+mouth ulceration
+asthmarare
+tingle of the hand
+flatulence
+dry puffy skin
+blur vision
+irregular heartbeat
+loss
+discontinuation syndrome
+indication
+t
+slurred speech
+seroquel
+significant level
+rhabdomyolysis
+amblyopia
+mask like face
+neuralgia
+seborrhea
+thyroid stimulating hormone level
+meta analysis
+paresthesia
+epistaxis
+acute renal failure
+dyspnea
+hypoglycemiarare
+sit position
+energy
+contact dermatitis
+astrare
+cardiomyopathy
+restlessness
+decrease appetite
+swell of the face
+dysphagiauncommon
+tongue
+twitch
+prolonged erection of the penis
+ldl cholesterol
+hypothermia
+decrease strength
+crawl in the leg
+serum cholesterol
+female
+increase muscle tone
+hyperglycemia
+spasm of the eyelid
+adolescent
+dry mouth
+pruritus
+puffiness
+myoclonus
+first degree
+stomatitis
+toxic epidermal necrolysis
+orthostatic hypotension
+hiccup
+steven johnson syndrome
+fda
+rhinitis
+alkaline phosphatase
+muscle rigidity
+psychosis
+gastroesophageal reflux disease
+hypertension
+tremble
+nm
+peripheral edema
+hypokalemia
+tremoruncommon
+lymphadenopathy
+hyperglycemia diabetes mellitus
+persistent increase in qt interval
+sneeze
+eye painrare
+increase risk of mortality
+e
+white spot on the lip
+emotional lability
+stick

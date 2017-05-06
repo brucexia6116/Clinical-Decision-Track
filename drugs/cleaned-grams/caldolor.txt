@@ -1,0 +1,417 @@
+hypocalcemia
+hepatitis
+skin
+appetite
+gi
+runny nose
+increase blood pressure
+nervousness
+erythema multiforme
+hair loss
+stiff neck
+itch skin
+discouragement
+nausea
+swell of the eyelid
+pseudo tumor
+disorientation
+eosinophilia
+myocardial infarction
+ulcer
+bullous dermatosis
+respiratory depression
+pulse
+esophagitis
+urine output
+tubular necrosis
+depression
+abdominal cramp pain
+stool
+renal papillary necrosis
+conjunctivitis
+interstitial nephritis
+jaundice
+leg
+asthenia
+renal insufficiency impairment
+other bleeding
+tremor
+perforation
+excess air
+dilated neck vein
+cough or hoarseness
+use in preterm infant
+red irritated eye
+hearing loss
+wheezingfrequency
+continue nausea
+coffee grounds
+cataract
+exacerbation of colitis
+pale skin
+dry eye
+liver failure
+rash with flat lesion
+sweating
+use
+eye
+sepsis common
+blood urea
+blood creatinine
+tachycardia
+loss of appetite
+gi disorder
+lack of appetite
+continue ringing
+general feeling of tiredness
+infection
+sore
+unable to sleep
+general body swell
+menorrhagiapatent ductus arteriosus
+leukopenia
+thrombotic eventspatent ductus arteriosus
+hemolytic anemia
+respiratory infection
+angina pectoris
+exacerbation of infection related inflammationsfrequency
+lupus erythematosus syndrome
+azotemia
+bacteremia
+gingival ulcer
+scotomata
+nervousnessvery
+fever
+serum sickness
+wound hemorrhage
+abdomen
+lab
+adrenal insufficiency
+discomfort
+fluid retentionfrequency
+increase blood urea with hematuria
+increase volume of pale
+other unexplained noise in ear
+chest pain
+bacterial pneumonia
+pleasure
+intestinal perforationfrequency
+difficult urination
+cerebrovascular accidentfrequency
+abdominal cramp
+asthma aggravate asthma
+urine
+indigestion
+gastritisvery
+somnolence
+difficulty swallow
+cardiac failurefrequency
+severe abdominal pain
+urinary tract infection
+hypernatremia
+vesiculobullous eruption
+cholestasis
+thrombocythemia
+atelectasis
+anemia
+hypoalbuminemia
+lightheadedness
+tenderness in stomach area
+belch
+blood sodium decreasedcommon
+drowsiness
+insomnia
+sleepiness
+gas in stomach
+vomit
+foot
+sore throat
+show problem with liver
+dysphoria
+side
+unpleasant breath odor
+constipation
+painful gland
+maculopapular rash
+irritability
+vertigo
+weakness
+thirst
+light color stool
+sudden fainting
+gynecomastiapatent ductus arteriosus
+nephrotic syndrome
+difficulty
+hematemesis
+duodenal ulcer
+dizziness
+blister
+gastric ulcer
+sleeplessness
+profound coma
+skin lesion irritation
+trouble sleep
+grade
+drowsinesspatent ductus arteriosus
+red spot on skin
+muscle twitching
+stomach upset
+impaired vision
+radiate
+intravenous solution
+peptic ulcer
+unusual tiredness
+euphoria
+palpitation
+ankle
+percentage
+not breathing
+headache
+abnormal liver function testspatent ductus arteriosus
+intestine
+alopecia
+gi perforation
+oliguria
+side pain
+anxiety
+trouble concentrate
+bloat
+race heartbeat
+sinus bradycardia
+thin of hair
+feed problem
+purpura
+pneumonia
+epigastric pain
+hallucination
+feeling
+hypernatremiafrequency
+diseasefrequency
+loosening of skin
+pass gas
+throat
+stomach
+muscle pain
+lie
+acid
+unusual bleeding
+hear impairment
+toxic epidermal necrolysis
+neutropenia
+lip
+abdominal distension
+stomach soreness
+stuffy nose
+pain
+ileus
+upper gastrointestinal tract ulcer
+stomatitis
+arrhythmia
+face
+glomerulitis
+vomiting of blood
+henoch schonlein vasculitispatent ductus arteriosus
+rectal bleeding
+red skin lesion
+vomiting of material
+creatinine clearance
+full feeling
+liver necrosis
+duodenitis
+edema
+paranoia
+rash
+acidosispatent ductus arteriosus
+small raise lesion on the skin
+tinnitus
+get
+hostility
+respiratory failure
+malaise
+wheeze
+abdominal distention
+dyspepsia
+cry
+white spot in mouth
+intraventricular hemorrhage
+weight gain
+vision
+bleed episodespatent ductus arteriosus
+increase blood creatinine
+cramp
+lethargy
+abdominal pain
+heartburn
+fatiguevery
+appetite change
+hemoglobin decreasedvery
+pulmonary hemorrhageuncommon
+angioedema
+loss of interest
+decrease in urine output
+thrombocytopenia
+finger
+clay color stool
+nature
+confusion
+redness of skin
+coma
+renal failure
+rapidly change mood
+hypoglycemia
+impaired renal function
+buzz
+epistaxispatent ductus arteriosus
+tarry stool
+optic neuritis
+difficulty sleep
+sepsis
+blur vision
+dark urine
+upper stomach
+toxic optic neuropathy
+dysuria
+dyspnea
+stupor
+faintness
+agranulocytosis
+cystitis
+abdominal discomfort
+chill
+pruritusvery
+hypotension
+eructation
+cloudy urine
+blood ldh
+extreme fatigue
+intraventricular bleeding
+hematocrit decreasedfrequency
+glossitis
+pound
+agitation
+hematuriafrequency
+gi hemorrhage
+renal event
+aplastic anemia
+decrease urine output
+blood in urine
+gi bleeding
+nephrotoxicitypatent ductus arteriosus
+bowel movement
+hive or welt
+troubled breathing with exertion
+hematuriacommon
+itch
+depersonalization
+photosensitivity
+hand
+syndrome of abdominal pain
+stomach pain
+shortness of breath
+comprise bronchospasm
+total bleeding
+unusual drowsiness
+lower leg
+sour stomach
+gastritis
+bruise
+bronchospasm
+congestive heart failure
+troubled breathing at rest
+asthma
+syncope
+rapid deep breathing
+non necrotizing enterocolitis
+difficulty breathing
+mouth ulceration
+exacerbation of crohn
+apnea
+flatulence
+discomfort in chest
+seizure
+jaundicefrequency
+irregular heartbeat
+diplopia
+pain in stomach
+decrease in amount of urine
+mental depression
+amblyopia
+back
+rhinitis
+pulmonary hypertension
+hemorrhage
+visual disturbancesfrequency
+mood
+toxic epidermal necrolysisfrequency
+paresthesia
+pancreatitispatent ductus arteriosus
+burn feeling in chest
+upper right abdominal pain
+acute renal failure
+comapatent ductus arteriosus
+increase blood urea
+renal insufficiencyfrequency
+sit position
+coughvery
+peel
+dream abnormality
+burn
+pancytopenia
+change in vision
+bleed gum
+urine concentrate ability
+restlessness
+necrotize enterocolitis
+nosebleed
+transient sensation of burning in mouth throatpatent ductus arteriosus
+weight change
+tongue
+hepatorenal syndrome
+skin lesion
+muscle tremor
+noisy rattle breathing
+swell of face
+tightness in chest
+proteinuria
+hyperglycemia
+convulsion
+urticaria
+dry mouth
+pruritus
+cardiac failure
+patent ductus arteriosus
+puffiness
+bluish lip
+ecchymosis
+vasculitis
+abdominal distress
+exfoliative dermatitis
+upper gastrointestinal hemorrhage
+urinary retentionvery
+steven johnson syndrome
+melenauncommon
+aseptic meningitis
+purple center
+various infection
+respiratory tract reactivity
+fullness of gi tract
+periventricular hemorrhagefrequency
+yellow eye
+stomach cramp
+hypertension
+anaphylaxis
+lightheadedness or fainting
+irregular breathing
+diarrhea
+gastroesophageal reflux
+peripheral edema
+polyuria
+frequent urination
+hypokalemia
+change in color vision
+lymphadenopathy
+other mental change
+sneeze
+hypoproteinemia
+emotional lability
+bronchopulmonary dysplasiacommon

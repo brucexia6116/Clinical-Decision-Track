@@ -1,0 +1,437 @@
+infectionuncommon
+epistaxis
+lack
+weight loss
+rectal hemorrhage
+hypothyroidism
+skin
+appetite
+osteoporosis
+amount of urine
+cold foot
+appendicitis
+cervicitis
+nervousness
+neck rigidity
+erythema multiforme
+enlarged prostate
+rheumatoid arthritis
+proctitis
+anemia
+abnormal gait
+hypokalemiarare
+eosinophilia
+menstrual disorder
+salivation
+urolithiasis
+muscle cramp
+periodontitis
+depression
+material
+retinal hemorrhage
+voice alterationrare
+conjunctivitis
+bruxism
+jaundice
+miosis
+parotitis
+asthenia
+runny nose
+hypokinesia
+tremor
+soft stool
+lichenoid dermatitis
+action
+coffee grounds
+loss of strength
+hold urine
+cataract
+pancreatitis
+chest painuncommon
+impulse control difficulty
+corneal lesion
+gastrointestinal ulcer
+sweating
+leukorrhea
+ventricular tachycardia
+chest congestion
+guillain barre syndrome
+bloody stool
+mental change
+lie position
+associate withincreased bleeding
+impotence
+psoriasis
+loss of appetite
+general feeling of tiredness
+tenosynovitisrare
+cellulitis
+myasthenia
+pathological fracture
+leukopenia
+ventricular fibrillation
+hypertonia
+breast pain
+prostatitis
+lymphocytosis
+peripheral vascular disorder
+male
+act with excitement
+pulmonary eosinophilia
+control
+bilirubinemia
+skin discoluration
+angina pectoris
+hypercalcinuria
+keratitis
+scleritis
+petechial rash
+hyponatremia
+neuroleptic malignant syndrome
+sit
+exophthalmo
+get
+night sweat
+hyperkalemia
+osteosclerosis
+fever
+hypophosphatemia
+menorrhagia
+arthritis
+tongue edema
+fatigue
+gastrointestinal hemorrhage
+chest pain
+melena
+talk
+bradycardia
+torsade de pointe
+urine
+urticariarare
+dry skin
+shake
+aortic aneurysm
+somnolence
+bacteremia
+leg cramp
+thrombocythemia
+atelectasis
+nausea
+photophobia
+lightheadedness
+weakness
+libido
+insomnia
+bundle branch block
+blood dyscrasia
+hypoxia
+aphasia
+alcohol abuse
+loss of consciousness
+purple spot on skin
+kidney pain
+eczema
+skin rash
+paraesthesia
+hemoptysis
+basophilia
+incoordination
+brittle nail
+constipation
+pleurisy
+metrorrhagia
+maculopapular rash
+irritability
+abnormality of accommodation
+prickly sensation
+buccoclusal syndrome
+light color stool
+leukoderma
+vaginitisuncommon
+cold hand
+blur vision
+hematemesis
+bigeminy
+facial paralysis
+uveitis
+vertigouncommon
+pyelonephritis
+trouble sleep
+unusually pale skin
+tremble or shake
+ring
+change in taste
+unusual tiredness
+cardiovascular disorder
+pulmonary embolus
+increase prolactin
+euphoria
+mastitis
+acne
+palpitation
+shiver
+ankle
+dyskinesia
+headache
+pyuria
+nausea or vomit
+hyperuricemia
+alopecia
+abnormal liver function testsrare
+pharyngitis
+abnormal vision
+gastroenteritis
+oliguria
+emotional lability
+colitis
+vesiculobullous rash
+pneumonia
+tardive dyskinesia
+hallucination
+feeling
+abnormal ejaculation
+bronchitis
+skin hypertrophy
+torticollisfrequency
+stomatitis
+gingivitis
+dementia
+increase sweating
+goiter
+thrombocytopeniarare
+neutropenia
+visual field defectrare
+high blood pressure
+prostatic disorder
+pain
+salpingitis
+glucosuria
+yawn
+carcinoma
+urinary retention
+hypoventilation
+cerebrovascular accident
+postural hypotension
+hyperthyroidism
+cheilitis
+dystonia
+maniafrequency
+skin atrophy
+cholecystitis
+akinesia
+gum hemorrhage
+duodenitis
+nosebleed
+dry eye
+rash
+breast discharge
+vaginal hemorrhagerare
+bradykinesia
+thrombophlebitisrare
+hostility
+arrhythmia
+multiple myeloma
+malaise
+muscle tension
+dyspepsia
+plantar fasciitis
+hemorrhoid
+hyperchlorhydria
+alcohol intolerance
+capillary fragility
+dizziness
+hot flash flush
+gout
+face edema
+abdominal pain
+heartburn
+syndrome of inappropriate antidiuretic hormone secretion
+diabetes mellitus
+stomach pain on upper right side
+bladder pain
+impaired urination
+angle closure glaucoma
+finger
+mydriasisuncommon
+myopathy
+eye pain
+ability
+decrease in sexual desire
+confusion
+intestinal obstruction
+furunculosis
+chromatopsia
+mitral valve
+problem
+hyperkinesia
+akathisia
+hypoglycemia
+uterine spasm
+delirium
+laryngitis
+tarry stool
+hypomaniarare
+suicidal ideation
+dysphagia
+siadh
+blepharitis
+dark urine
+cholelithiasis
+tingle
+rhabdomyolysis
+dysuria
+papilledema
+thyroid nodule
+gynecomastia
+myocardial infarct
+ovarian cyst
+erythema nodosum
+qt prolongation
+buzz in the ear
+agranulocytosis
+arthrosis
+gas
+anorgasmia
+cystitis
+chill
+hypotension
+severe muscle stiffness
+glossitis
+agitation
+first degree atrioventricular block
+leukocytosis
+aplastic anemia
+urinate
+migraine
+paresis
+suicidal behavior
+vasodilatation
+anxietyuncommon
+traumauncommon
+drowsiness
+itch
+hemochromatosis
+depersonalization
+photosensitivity
+hand
+subconjunctival hemorrhage
+dyspneauncommon
+fibrocystic breast
+stomach pain
+vomiting of blood
+menstrual change
+stuporrare
+accidental injury
+neuropathy
+laryngismus
+hyperventilation
+vomit
+lower leg
+coronary artery disease
+endometriosis
+trouble breathing
+urinary incontinence
+mucous membrane bleeding
+gastritis
+low blood pressure
+anorexiauncommon
+dehydration
+congestive heart failure
+arteritis
+hyperesthesia
+asthma
+mouth ulcerationrare
+syncope
+weight gain
+esophageal spasm
+circumoral paraesthesia
+flatulence
+seizure
+irregular heartbeat
+trismus
+diplopia
+breast enlargement
+moniliasisrare
+neuralgia
+serotonergic syndrome
+seborrhea
+ataxia
+pustular rash
+spasm
+mood
+poor coordination
+hypoproteinemia
+pelvic pain
+abnormal dream
+hepatitis
+increase thirst
+high fever
+esophagitis
+contact dermatitis
+burn
+pancytopenia
+menopause
+restlessness
+hyperlipemia
+hypocholesteremia
+swell of the face
+bone
+twitch
+heart arrest
+faint
+bone pain
+proteinuria
+severe headache
+hyperglycemia
+convulsion
+hypotonia
+mucocutaneous hemorrhage
+dry mouth
+pruritus
+unusual bruise
+myoclonus
+uremia
+abnormal speech
+ecchymosis
+breast engorgement
+toxic epidermal necrolysis
+bursitis
+exfoliative dermatitis
+bun
+steven johnson syndrome
+alkaline phosphatase
+increase serum cholesterol
+cns stimulation
+dysgeusia
+yellow eye
+increase irregular bleeding
+neck painuncommon
+kidney calculus
+neuritis
+overactive reflex
+hypertension
+anaphylaxis
+creatinine
+tremble
+hair discoloration
+derealization
+nm
+larynx edema
+diarrhea
+calcium crystalluria
+erectile dysfunction
+polyuria
+hematuria
+urinary urgency
+conjunctival edema
+suicidal thought
+lymphadenopathy
+eructationuncommon
+cyanosis
+ileitis
+balanitis
+apathy
+orchitis
+nocturia
+circulatory disturbance
+extrasystole

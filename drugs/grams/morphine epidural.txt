@@ -1,6 +1,331 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+central
+nervous system
+side effects
+depressant
+excitatory symptoms
+possible side effects of morphine
+severe adverse effects
+respiratory depression
+opioid antagonist naloxone
+patients
+receiving continuous infusion of morphine sulfate
+indwelling
+indwelling intrathecal catheter
+new neurologic signs
+symptoms
+further assessment
+intervention
+clinical condition of the individual patient
+myoclonic spasms
+patients
+receiving high dose morphine
+setting of renal dysfunction
+hyperalgesia
+high doses
+drowsiness common
+dizziness
+sedation
+fever
+anxiety
+confusion
+tremor
+diaphoresis
+lethargy
+feeling of warmthuncommon
+withdrawal symptoms
+abrupt cessation
+fast tapering of the drug
+headache
+chills
+flu syndrome
+malaise
+withdrawal syndrome
+pallor
+facial flushing
+syncope
+loss of concentration
+insomnia
+amnesia
+paresthesia
+agitation
+vertigo
+foot drop
+ataxia
+hypesthesia
+speech
+hallucinations
+euphoria
+apathy
+seizures
+myoclonusfrequency
+inflammatory masses
+granulomas
+serous neurologic impairment
+paralysis
+patients
+receiving continuous infusion of opioids
+indwelling
+indwelling intrathecal catheter
+respiratory depressionuncommon
+hiccup
+rhinitis
+atelectasis
+asthma
+hypoxia
+voice alteration
+depressed cough
+noncardiogenic pulmonary edema
+bronchospasm
+morphine
+constriction of the common bile duct
+spasm of the sphincter of oddi
+increasing
+increasing intrabiliary pressure
+worsening
+relieving
+biliary colic
+addition
+morphine
+uncoordinated duodenal contraction
+gastric emptying
+dry mouth
+constipation
+nausea
+diarrhea
+anorexia
+abdominal pain
+vomitinguncommon
+dysphagia
+dyspepsia
+stomach atony disorder
+gastroesophageal reflux
+delayed gastric emptying
+biliary colic
+gastroesophageal reflux
+intestinal obstruction
+chest painuncommon
+tachycardia
+atrial fibrillation
+hypertension
+hypotension
+palpitations
+bradycardia
+vasodilation
+abnormal thinking
+abnormal dreams
+depression
+fearfulness
+agitation
+paranoia
+psychosis
+hypervigilance
+hallucinations
+deliriumfrequency
+withdrawal symptoms after abrupt cessation of therapy
+urinary abnormality
+urinary retention
+urinary hesitancy
+risk of acute urinary retention
+morphine
+intrathecal injection
+clinicians
+increased risk of urosepsis in this setting
+instrumentation of the urinary tract
+anemia
+leukopeniauncommon
+thrombocytopenia
+hyponatremia
+inappropriate adh secretion
+gynecomastia
+amenorrhea
+libido
+potency
+prolonged labor
+asthenia
+accidental injuryuncommon
+pain
+bone pain
+arthralgiafrequency
+opioid-induced involuntary muscle hyperactivity with chronic high doses
+rashuncommon
+decubitus ulcer
+pruritus
+skin flush
+amblyopia
+conjunctivitis
+miosis
+vision
+nystagmus
+diplopia
+hypersensitivity reactions
+anaphylaxis
+increases in hepatic enzymes
+peripheral edemauncommon
+hyponatremia
+epidural suspension
+releaseinjection
+injection solution
+stomach pain
+blurred vision
+bulging
+bulging soft spot on the head of an infant
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+change in the ability
+colors
+chest pain
+discomfort
+confusion
+cough
+decreased urination
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+fainting
+pounding
+irregular heartbeat
+pulse
+headache
+hives
+itching
+skin rash
+increased sweating
+loss of appetite
+nausea or vomiting
+nervousness
+pounding in the ears
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+severe constipation
+severe vomiting
+shakiness in the legs
+arms
+hands
+feet
+slow heartbeat
+sweating or chills
+black, tarry stools
+cold, clammy skin
+feeling of warmth
+heat
+flushing
+redness of the skin
+face
+neck
+shallow breathing
+lightheadedness
+loss of consciousness
+low blood pressure
+pulse
+painful urination
+blue lips
+fingernails
+skin
+pale skin
+red spots on the skin
+pounding in the ears
+shakiness
+unsteady walk
+unsteadiness
+trembling
+other problems with muscle control
+coordination
+unusual bleeding
+bruising
+very slow heartbeat
+small pupils
+black part of the eye
+decreased awareness
+responsiveness
+extreme drowsiness
+fever
+increased blood pressure
+increased thirst
+side pain
+muscle cramps
+spasms
+muscle pain
+stiffness
+muscle tone
+movement
+severe sleepiness
+swelling of the face
+fingers
+lower legs
+weight gain
+cramps
+difficulty
+bowel movement
+stool
+drowsiness
+unusual sense of well-being
+calm feeling
+sleepiness
+unusual drowsiness
+weight loss
+irregular menstrual periods
+agitation
+taste
+change in vision
+depression
+dry mouth
+face
+floating feeling
+halos around lights
+heartburn or indigestion
+loss in sexual ability
+desire
+drive
+performance
+muscle stiffness
+tightness
+night blindness
+overbright appearance of lights
+problems with muscle control
+redness of the skin
+skin rash
+stomach discomfort
+upset
+trouble sleeping
+uncontrolled eye movements
+abnormal dreams
+change
+walking
+balance
+change
+problem with discharge of semen
+clumsiness or unsteadiness
+confusion
+time
+place
+person
+delusions
+dementia
+feeling of constant movement of self
+surroundings
+general feeling of discomfort
+illness
+holding
+holding false beliefs
+fact
+problems with memory
+seeing
+hearing
+feeling things
+sensation of spinning
+unusual excitement
+nervousness
+restlessness

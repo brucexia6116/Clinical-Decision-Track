@@ -1,0 +1,269 @@
+st segment depression
+viral infection
+gastritis
+stool
+lack
+gas in the stomach
+indigestion
+aphthous stomatitis
+general feeling of discomfort
+feel thing
+dysphagia
+dry skin
+diabetes mellitus
+appetite
+full feeling
+coordination
+aggression
+dissociationrare
+runny nose
+asthma
+mouth ulcerationrare
+syncope
+night sweat
+change of bowel habit
+rash
+hypoesthesia
+dry eye
+c reactive protein
+sore throat
+hyperhidrosis
+anemia
+pollakiuria
+ocular vascular disorder
+erectile dysfunction
+erythema multiforme
+respiratory tract congestion
+nasopharyngitiscommon
+tinnitus
+body ache
+weakness
+libido
+insomnia
+flatulence
+hypotension
+vomit
+feeling of panic
+malaiserare
+sour stomach
+snore
+visual disturbancerare
+irregular heartbeat
+kill oneself
+nausea
+abnormal behavior
+disorientation
+dyspepsia
+menorrhagiarare
+acute coronary syndrome
+dysphoria
+fungal infection
+mood swing
+electrocardiogram t wave amplitude
+myocardial infarction
+dizziness
+disorder
+vision
+upper
+cardiac flutter
+lethargy
+constipation
+weight
+influenza like illness
+abdominal pain
+circadian rhythm sleep disorder
+myalgia
+rhinitis
+diabetes mellitusvery
+see
+muscle spasm
+nightmareuncommon
+loss of interest
+angina
+acute pancreatitisfrequency
+acid
+depression
+irritability
+bradyphrenia
+musculoskeletal chest pain
+thrombocytopenia
+discouragement
+anger
+sleepiness
+nightmare
+abnormal dream
+dysphonia
+thirst
+acute renal failure
+conjunctivitis
+lacrimation
+hypogeusia
+blood calcium decreasedrare
+throat irritation
+menstrual disorder
+eye pain
+esophagitis
+gall bladder disease
+somnolence
+intestinal obstruction
+fatigue uncommon
+difficulty
+facial palsyrare
+balance disorder convulsion
+abnormal fece
+hematemesis
+tremor
+excess air
+polydipsia
+coughuncommon
+abnormal urine analysis
+airway cough syndrome
+sleepwalk
+restlessness
+dysarthria
+decrease appetite
+pleurisy
+gastric ulcer
+psychomotor hyperactivity
+itch skin
+anorexiarare
+cyst
+tongue
+loss of strength
+think
+chest discomfort
+suicidal ideation
+flatulenceuncommon
+epistaxisrare
+trouble sleep
+coronary artery diseasefrequency
+deafness
+ear congestion
+chest painuncommon
+seizure
+hearing
+meniere
+enterocolitis
+cor pulmonale
+hyperglycemia
+increase appetite
+urticaria
+electrocardiogram
+dyspnea
+dermatitis
+cough
+tightness in the chest
+dry mouth
+ventricular extrasystolesrare
+bronchitis
+acne
+palpitation
+loss of voice
+amnesia
+respiratory tract inflammation
+tachycardia
+heartburn
+eye irritation
+headache
+psoriasis
+insomniacommon
+loss of appetite
+intestine
+peripheral ischemia
+mydriasis
+gi reflux disease
+seasonal allergy
+erythema
+feeling of sluggishness
+urine abnormality
+blindness
+nephrolithiasis
+pain
+steven johnson syndrome
+chill
+blood calcium decreasedfrequency
+anxiety
+eructation
+belch
+dullness
+myopia
+semen analysis
+hypertonia
+psychosis
+cataract
+hyperlipidemia
+vaginal discharge
+splenomegaly
+arthralgia
+angioedema
+hallucination
+feeling
+loss of taste
+hematochezia
+hypoglycemia
+stomach discomfort
+agitation
+painuncommon
+photophobia
+leukocytosis
+gi hemorrhage
+laryngeal pain
+hypertension
+trouble concentrate
+eczema
+heart rate
+toothache
+pituitary hemorrhage
+urethral syndrome
+scleral discoloration
+breathing
+somnambulism
+dysgeusiauncommon
+postnasal drip
+diarrhea
+sinusitis
+hoarseness
+hyperkalemia
+hyperventilation
+bowel movement
+abdominal distension
+atrial fibrillation
+polyuria
+rhinorrhea
+illness
+hot flush
+restless leg syndrome
+joint stiffness
+gingival pain
+arthritis
+lymphadenopathy
+arrhythmia
+osteoporosisrare
+urinary retention
+stomach pain
+parosmia
+change in taste
+sneeze
+thyroid gland disorder
+cerebrovascular accident
+behavior change
+sinus congestion
+asthenia
+night blindness
+pyrexia
+upset
+disease
+fever
+thought
+unusual tiredness
+nocturia
+unusual drowsiness
+liver function test
+vitreous floater
+platelet count
+pleasure
+pass gas
+scotoma
+glycosuria
+costochondritis
+bradycardia

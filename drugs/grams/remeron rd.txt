@@ -1,6 +1,364 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+reported side effects of mirtazapine
+severe sedation
+constipation
+drowsiness
+serum cholesterol
+weight gain
+fatigue
+insomnia
+appetite
+xerostomia
+appetite
+other side effects
+dizziness
+serum triglycerides
+tremor
+dyspepsia
+hot flash
+palpitations
+vertigo
+abnormal dreams
+bitter taste
+libido
+diaphoresis
+comprehensive list of adverse effects
+somnolence
+dizziness
+tremor
+headache
+sedation/drowsinessuncommon
+hypesthesia
+hypokinesia
+vertigo
+amnesia
+hyperkinesia
+paresthesia
+lethargyrare
+syncope
+migraine
+ataxia
+dyskinesia
+extrapyramidal syndrome
+coordination
+dysarthria
+dystonia
+reflexes
+restless legs
+akathisia
+psychomotor restlessness
+vascular headache
+cerebral ischemia
+aphasia
+nystagmus
+stupor
+dementia
+paralysis
+grand mal convulsion
+hypotonia
+taste loss
+myoclonus
+parosmiafrequency
+hypertonia
+taste perversion
+convulsions
+insults
+postmarketing reports
+impaired concentration
+cerebrovascular disorder
+movement disorders
+dry mouth
+constipation
+nauseauncommon
+abdominal pain
+abdominal syndrome
+vomiting
+diarrhearare
+abdomen
+eructation
+glossitis
+nausea
+vomiting
+gum hemorrhage
+stomatitis
+colitis
+oral hypoesthesiavery
+tongue discoloration
+ulcerative stomatitis
+salivary gland enlargement
+salivation
+intestinal obstruction
+pancreatitis
+aphthous stomatitis
+gastritis
+gastroenteritis
+oral moniliasis
+tongue edemafrequency
+dyspepsia
+flatulence
+oral paresthesia
+mouth edema
+increased appetite
+weight gain
+anorexiarare
+dehydration
+weight lossvery
+gout
+acid phosphatase
+diabetes mellitus
+hyponatremiafrequency
+hypertriglyceridemiapostmarketing reports
+hypercholesterolemia
+hyperlipidemia
+abnormal dreams
+thinking
+confusionuncommon
+apathy
+depression
+agitation
+anxiety
+insomniarare
+delirium
+delusions
+depersonalization
+libido
+hallucinations
+manic reaction/mania
+neurosis
+hostility
+emotional lability
+euphoria
+paranoid reaction
+nightmares/vivid dreamsvery
+drug dependence
+psychotic depression
+withdrawal syndrome
+serotonin syndrome
+aggressionfrequency
+nervousness
+libido
+suicidal ideation
+suicidal behavior
+somnambulismpostmarketing reports
+psychomotor restlessness
+drug withdrawal symptoms
+paroniria
+peripheral edema
+edemauncommon
+hypertension
+vasodilation
+orthostatic hypotensionrare
+angina
+myocardial infarction
+bradycardia
+ventricular extrasystoles
+hypotensionvery
+chest pain
+atrial arrhythmia
+bigeminy
+cardiomegaly
+phlebitis
+heart failurefrequency
+chest pain
+palpitation
+tachycardia
+postural hypotension
+ecg changespostmarketing reports
+ventricular arrhythmia
+torsades de pointes
+generalized edema
+localized edema
+mean increase in heart rate
+patients
+drug
+placebo
+bpm
+bpm
+clinical significance of this difference
+pain
+myalgiauncommon
+myasthenia
+arthralgia
+twitchingrare
+neck rigidity
+neck pain
+arthritis
+tenosynovitisvery
+pathologic fracture
+osteoporosis fracture
+bone pain
+myositis
+tendon rupture
+arthrosis
+bursitispostmarketing reports
+increased creatine kinase blood levels
+rhabdomyolysis
+dyspneauncommon
+cough
+sinusitisrare
+epistaxis
+bronchitis
+asthma
+pneumoniavery
+respiratory/pulmonary embolus
+asphyxia
+laryngitis
+pneumothorax
+hiccupfrequency
+pharyngitis
+rhinitispostmarketing reports
+pulmonary embolism
+urinary frequencyuncommon
+urinary tract infectionrare
+dysuria
+urinary incontinence
+urinary retention
+vaginitis
+hematuria
+breast pain
+amenorrhea
+dysmenorrhea
+leukorrhea
+impotencevery
+polyuria
+urethritis
+metrorrhagia
+abnormal ejaculation
+breast engorgement
+breast enlargement
+urinary urgency
+menorrhagia
+astheniauncommon
+malaise
+thirst
+fatiguerare
+chills
+fever
+face edema
+ulcer
+ear pain
+deafness
+hyperacusisvery
+healing
+partial transitory deafness
+otitis mediafrequency
+pain
+tinnitus
+influenza/flu syndromefrequency
+infection
+pruritus
+rash
+exanthemarare
+photosensitivity reaction
+acne
+exfoliative dermatitis
+dry skin
+herpes simplex
+alopeciavery
+cellulitis
+petechia
+urticaria
+herpes zoster
+skin hypertrophy
+skin ulcer
+seborrheafrequency
+sweatingpostmarketing reports
+stevens-johnson syndrome
+bullous dermatitis
+erythema multiforme
+toxic epidermal necrolysis
+rash
+including
+eye pain
+abnormality of accommodation
+conjunctivitis
+keratoconjunctivitis
+lacrimation disorder
+angle-closure glaucomavery
+diplopia
+blepharitisfrequency
+amblyopiapostmarketing reports
+glaucoma
+cholecystitis
+liver function tests abnormalvery
+cirrhosis of the liver
+ast
+alt increasedpostmarketing reports
+jaundice
+hepatitis
+kidney calculus
+cystitis
+lymphadenopathy
+leukopenia
+anemia
+thrombocytopenia
+lymphocytosis
+pancytopeniafrequency
+bone marrow depression
+granulocytopenia
+agranulocytosis
+aplastic anemia
+thrombocytopenia
+eosinophiliapostmarketing reports
+thromboembolic disorder
+coagulation disorder
+goiter
+hypothyroidismfrequency
+inappropriate antidiuretic hormone secretion
+increased movement
+mood
+mental changes
+including
+abnormal thinking
+agitation
+anxiety
+confusion
+feelings
+caring
+shortness of breath
+skin rash
+swelling
+change in menstrual cycle
+periods
+convulsions (seizures)
+decreased sexual ability
+menstrual pain
+mood
+mental changes
+including anger
+feelings
+being outside the body
+hallucinations
+seeing
+hearing
+feeling things
+mood swings
+unusual excitement
+mouth sores
+sore throat
+chills
+fever
+constipation
+dizziness
+drowsiness
+dry mouth
+increased appetite
+weight gain
+stomach pain
+abnormal dreams
+back pain
+dizziness
+fainting
+getting
+lying
+sitting position
+increased need
+increased sensitivity
+increased thirst
+low blood pressure
+muscle pain
+nausea
+sense of constant movement of self
+surroundings
+trembling or shaking
+vomiting
+weakness

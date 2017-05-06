@@ -1,0 +1,144 @@
+st segment depression
+av block
+peripheral coldness
+pr prolongation
+first degree atrioventricular
+oral discomfortuncommon
+hive like swell on the face
+somnolence
+complete av block
+syncope
+irregular heartbeat
+rash
+hypoesthesia
+moreuncommon
+depressed level of consciousness
+rhythm
+pain at injection site
+transient ischemic attack
+breathing
+diastolic blood pressure
+weakness
+rhythm abnormality
+intracranial hemorrhage
+other ecg abnormality
+dyspnea exertional
+upper chest
+chest pain
+vomit
+foot
+wheeze
+conduction abnormality
+nausea
+swell of the eyelid
+mmhg
+abdominal distention
+stimulus
+hive
+premature ventricular contraction
+feeling of warmth
+myocardial infarction
+dizziness
+vision
+systolic hypotension
+difficulty with move
+marked hypertension
+eyelid
+tightness in the chest
+sit position
+abdominal pain
+st segment change
+second degree av block
+flush
+unresponsiveness
+worsen
+get
+throat irritation
+ecg
+eye pain
+leg
+confusion
+irregular heartbeat recurrent
+chest discomfort
+av conduction abnormality
+tremor
+respiratory arrest
+symptomatic hypotension
+qtc prolongation
+tinnitusrare
+musculoskeletal discomfortuncommon
+jaw pain
+block
+bronchoconstriction
+redness of the face
+cramp
+difficulty swallow
+sex organ
+oxygen saturation
+ventricular arrhythmia
+obstructive airway disorder
+convulsion
+urticaria
+dyspnea
+sweating
+change in taste
+eye
+unusual tiredness
+faint
+puffiness
+coughuncommon
+palpitation
+hyperhidrosisuncommon
+increase heart rate
+tachycardia
+headache
+loss of taste
+faintness
+atrial fibrillation
+abdominal discomfort
+cardiac arrest
+erythema
+hypotension
+dysgeusia
+angioedema
+severe headacheuncommon
+angina pectoris
+asystole
+shake of the hand
+joint pain
+atrial flutter
+hypertension
+anaphylaxis
+av
+throat
+tremble
+pallor
+respiratory distress
+systolic blood pressure
+lightheadedness
+diarrhea
+arm
+lip
+astheniauncommon
+premature atrial contraction
+stomach soreness
+gastrointestinal discomfort
+anxiety
+tachypnea
+lie
+insomnia
+hand
+discomfort
+pain in extremity
+ventricular conduction abnormality
+throat tightness
+tongue
+neck
+general body pain
+face
+paresthesia
+malaise
+supraventricular tachyarrhythmia
+itch skin
+muscle
+bradycardia

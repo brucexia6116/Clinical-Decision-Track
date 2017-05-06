@@ -11,10 +11,6 @@ active ingredient
 slo-niacin
 unwanted side effects
 medical attention
-following side effects
-taking niacin
-check
-doctor
 niacin side effects
 medical attention
 body
@@ -23,207 +19,75 @@ side effects
 health care professional
 side effects
 following side effects
-incidences of hepatic
-gastrointestinal side effects
-use
-timed release niacin
-active ingredient
-slo-niacin
-immediate release form
-incidence of cutaneous flushing
-dermatologic flushing
-whole body
-pruritus as a result of stimulation
-release of prostaglandins by niacin
-active ingredient
-slo-niacin
-been major drawbacks of this drug
-symptoms
-patients
-weeks of continued therapy
 flushing
-use of an extended release form of the drug
-gradual dosage titration
-months
-administering
-dosage
-minutes after meals
-aspirin
-mg
-minutes of niacin ingestion
-avoidance of hot beverages
-alcohol
-flushing
-causing
-causing peripheral vasodilation
-flushing
-addition
-maculopapular rash
-urticaria
-dry skin
-skin burning sensation
-sweating
-niacin use
-rare cases of hyperpigmentation
-acanthosis nigricans
-dose-related increases in aspartate aminotransferase
-alkaline phosphatase
-dosage
-grams over month
-computerized tomography
-revealed changes
-focal fatty liver in some cases
-changes
-dose reduction
-routine monitoring of liver function tests
-rare cases of fulminant
-hepatic failure
-retrospective analysis
-elderly male veterans
-dyslipoproteinemia with controlled release niacin
-active ingredient
-slo-niacin
-average dose grams/day
-incidences of possible
-probable hepatotoxicity
-biochemical criteria
-predisposing risk factors
-high dose
-alcohol use
-preexisting liver disease
-concurrent oral sulfonylurea use
-incidence of hepatotoxicity
-patients
-taking
-average daily dose of grams
-hepatic side effects
-hepatotoxicity
-hepatitis
-patients
-taken larger doses
-grams
-used timed release preparations
-hepatotoxicity
-week after drug discontinuation
-dosage reductions
-switching
-crystalline niacin
-hepatotoxicity
-using
-timed release preparation
-clinical monitoring of patient response
-tolerance
-including laboratory evaluation of liver function tests
-gastrointestinal disturbances
-exacerbation of peptic ulcer disease
-eructation
-nausea
-vomiting
-diarrhea
-flatulence
-dyspepsia
-persistent fatigue
-nausea
-anorexia
-sign of hepatotoxicity
-nicotinic acid
-uric acid for excretion by the kidneys
-hyperuricemia
-niacin
-active ingredient
-slo-niacin
-men
-metabolic changes
-niacin
-hyperuricemia
-hyperglycemia
-clinical monitoring of patient response
-tolerance
-including laboratory evaluations of serum
-uric acid
-blood glucose levels
-patients with a history of gout
-diabetes mellitus
-cardiovascular
-side effects
-transient tachycardia
+i.
+e.
+warmth
+redness
+itching
+tingling
+frequency
+tachycardia
 palpitations
 atrial fibrillation
-orthostasis
+other cardiac arrhythmias
 syncope
 hypotension
-dizziness
-coronary drug project
-significant increase in cardiac arrhythmias
-use of niacin
-active ingredient
-slo-niacin
-experts
-preexisting arrhythmias
-angina pectoris contraindications
-use
-niacin
-plasma homocysteine levels
-homocysteine
-independent risk factor for arterial occlusive disease
-clinical implications of these increases
-influence of folic acid supplementation as a means
-homocysteine levels
-nervous system
-side effects
-rare reports of paresthesias
-nervousness
-dizziness
-headache
-fatigue
-insomnia
-hematologic side effects
-rare hematologic coagulopathies
-niacin-induced elevations of liver function tests
-genitourinary complaints
-decreased sexual function
-male patients
-release niacin
-active ingredient
-slo-niacin
-endocrine side effects
-rare incidences of altered thyroid function tests
-changes
-decreased thyroid binding capacity
-concentration of thyroid binding globulin
-niacin
-active ingredient
-slo-niacin
-reversible toxic cystoid maculopathy
-patients
-least grams
-maculopathy
-discontinuation of therapy
-ocular side effects
-amblyopia
-sicca syndromes
-vision
-eyelid edema
-macular edema
-musculoskeletal side effects
-niacin
-active ingredient
-slo-niacin
-myalgia
-myasthenia
-myopathy
-leg cramps
-creatine kinase increase
-sustained release product
-hypersensitivity effects
-niacin
-active ingredient
-slo-niacin
+postural hypotension
 rash
-generalized edema
-facial edema
+pruritusfrequency
+sweating
+skin burning sensation
+maculopapular rash
+dry skinpostmarketing reports
+skin discoloration
+diarrhea
+nausea
+vomitingfrequency
+peptic ulcers
+eructation
+flatulence
+postmarketing reports
+slight reductions in platelet counts
+prothrombin time
+postmarketing reports
+hypersensitivity reactions
+anaphylaxis
+angioedema
+urticaria
+flushing
+dyspnea
+tongue edema
+larynx edema
+face edema
 peripheral edema
-respiratory side effects
+laryngismus
+vesiculobullous rash
+postmarketing reports
+hepatitis
+jaundice
+frequency
+decreased glucose tolerance
+gout
+frequency
+myalgia
+myopathy
+frequency
+dizziness
+syncopepostmarketing reports
+migraine
+asthenia
+paresthesia
+postmarketing reports
+blurred vision
+macular edema
+postmarketing reports
+insomnia
+nervousness
+frequency
+chills
+edema
+cough increasedfrequency
 dyspnea
 side effects of slo-niacin
 fda

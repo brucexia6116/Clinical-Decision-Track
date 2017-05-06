@@ -10,11 +10,6 @@ active ingredient
 ultiva
 unwanted side effects
 medical attention
-following side effects
-taking remifentanil
-check
-doctor
-nurse
 remifentanil side effects
 medical attention
 body
@@ -81,14 +76,10 @@ rigidity
 concomitant administration of a muscle relaxant
 musculoskeletal side effects
 muscle rigidity
-induction
-maintenance
 nervous system
 side effects
 dizziness
 agitation
-case
-generalized tonic-clonic activity
 other side effects
 postoperative shivering
 chills

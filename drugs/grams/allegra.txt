@@ -1,32 +1,44 @@
-gastrointestinal side effects
-nausea
-dyspepsia
-patients
-nervous system
-side effects
-drowsiness
-patients
-dizziness
+reported side effects
 headache
-genitourinary side effects
-dysmenorrhea at a rate
-hypersensitivity side effects
-rare reports of rash
-urticaria
-pruritus
-other hypersensitivity reactions
-angioedema
-chest tightness
-dyspnea
-flushing
-systemic anaphylaxis
-respiratory side effects
-nasopharyngitis
+drowsiness
+dizziness
+nausea
+vomiting
+nausea
+diarrhea
+stomach discomfort
+headache
+drowsiness
+dizziness
+somnolence
+otitis media
+pyrexia
+fatigue
+extremity pain
+cough
 upper respiratory tract infection
-musculoskeletal side effects
-myalgia
+rhinorrheafrequency
+dyspnea
 pain
-pain in extremity
+dysmenorrhea
+frequency
+insomnia
+nervousness
+nightmares
+disorders
+paroniria/excessive dreaming
+frequency
+palpitations
+tachycardia
+chest tightness
+frequency
+hypersensitivity reactions
+angioedema
+systemic anaphylaxis
+frequency
+rash
+pruritus
+flushing
 chest tightness
 feeling of warmth
 redness of the face

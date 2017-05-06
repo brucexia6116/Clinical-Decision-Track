@@ -1,0 +1,39 @@
+filter blebfrequency
+loss of accommodation
+corneal ulcer
+intraocular pressure
+transient ocular discomfort
+acute anterior uveitis
+irritation
+field defect
+anaphylaxis
+perforation of globe
+optic nerve damage
+urticaria
+foreign body sensation
+systemic hypercorticoidism
+wound healing
+pruritus
+elevated iop
+rash
+ocular hypertension
+ocular irritation
+conjunctivitis
+secondary ocular infection
+headache
+elevation of intraocular pressure with possible development of glaucoma
+keratitis
+mydriasis
+burn
+infrequent optic nerve damage
+manufacturer
+ptosis
+visual acuity defect
+glaucoma
+corneal calcification
+scleral corneal perforation
+delay wound healing
+dysgeusia
+posterior subcapsular cataract formation
+conjunctival hyperemia
+vision

@@ -1,13 +1,8 @@
-other dosage forms:
 needed effects
 lidocaine
 prilocaine topical
 unwanted side effects
 medical attention
-following side effects
-taking lidocaine
-prilocaine
-doctor
 lidocaine
 prilocaine
 topical side effects
@@ -30,10 +25,6 @@ alterations in temperature sensations
 edema
 itching
 rash
-reported local side effects in clinical studies on genital mucous membranes
-redness
-burning sensation
-edema
 cardiovascular
 side effects
 bradycardia

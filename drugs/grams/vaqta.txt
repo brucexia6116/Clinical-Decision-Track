@@ -9,12 +9,6 @@ active ingredient
 vaqta
 unwanted side effects
 medical attention
-following side effects
-taking hepatitis
-adult vaccine
-check
-doctor
-nurse
 hepatitis
 adult vaccine side effects
 medical attention
@@ -27,7 +21,6 @@ following side effects
 hepatitis a vaccine
 most side effects
 short duration
-< = hours
 local side effects
 pain
 tenderness

@@ -10,9 +10,6 @@ peripheral edema
 vomiting
 liver enzymes
 comprehensive list of adverse effects
-following symptoms of overdose
-taking celecoxib
-emergency help
 reported adverse events
 abdominal pain
 diarrhea
@@ -26,6 +23,37 @@ rhinitis
 sinusitis
 upper respiratory tract infection
 rash
+abdominal pain
+diarrhea
+dyspepsia
+flatulence
+nausearare
+intestinal obstruction
+intestinal perforation
+gastrointestinal bleeding
+colitis with bleeding
+esophageal perforation
+pancreatitis
+ileus
+esophageal ulcer
+gastric ulcer
+duodenal ulcerfrequency
+constipation
+diverticulitis
+dysphagia
+eructation
+esophagitis
+gastritis
+gastroenteritis
+gastroesophageal reflux
+hemorrhoids
+hiatal hernia
+melena
+dry mouth
+stomatitis
+tenesmus
+tooth disorder
+vomiting
 constipation
 diverticulitis
 dysphagia
@@ -61,37 +89,25 @@ celecoxib
 caution in patients with a prior history of ulcer disease
 gastrointestinal bleeding
 lowest effective dose
-abdominal pain
-diarrhea
-dyspepsia
-flatulence
-nausearare
-intestinal obstruction
-intestinal perforation
-gastrointestinal bleeding
-colitis with bleeding
-esophageal perforation
-pancreatitis
-ileus
-esophageal ulcer
-gastric ulcer
-duodenal ulcerfrequency
-constipation
-diverticulitis
-dysphagia
-eructation
-esophagitis
-gastritis
-gastroenteritis
-gastroesophageal reflux
-hemorrhoids
-hiatal hernia
-melena
-dry mouth
-stomatitis
-tenesmus
-tooth disorder
-vomiting
+peripheral edemauncommon
+unstable angina
+aortic valve incompetence
+coronary artery atherosclerosis
+sinus bradycardia
+ventricular hypertrophy
+deep vein thrombosisrare
+syncope
+cardiac failure
+ventricular fibrillation
+thrombophlebitisfrequency
+aggravated hypertension
+angina pectoris
+coronary artery disorder
+myocardial infarction
+arrhythmia
+palpitation
+tachycardiapostmarketing reports
+vasculitis
 aggravated hypertension
 angina pectoris
 coronary artery disorder
@@ -143,43 +159,6 @@ mg
 placebo patients
 increase in drug-treated patients
 increased incidence of myocardial infarction
-peripheral edemauncommon
-unstable angina
-aortic valve incompetence
-coronary artery atherosclerosis
-sinus bradycardia
-ventricular hypertrophy
-deep vein thrombosisrare
-syncope
-cardiac failure
-ventricular fibrillation
-thrombophlebitisfrequency
-aggravated hypertension
-angina pectoris
-coronary artery disorder
-myocardial infarction
-arrhythmia
-palpitation
-tachycardiapostmarketing reports
-vasculitis
-dizziness
-headacherare
-aseptic meningitis
-ataxia
-aggravated epilepsyfrequency
-leg cramps
-hypertonia
-hypoesthesia
-migraine
-neuralgia
-neuropathy
-paresthesia
-vertigo
-somnolence
-taste perversionpostmarketing reports
-cerebral hemorrhage
-ageusia
-anosmia
 leg cramps
 hypertonia
 hypoesthesia
@@ -203,6 +182,24 @@ years
 cerebral infarction
 patients
 patients
+dizziness
+headacherare
+aseptic meningitis
+ataxia
+aggravated epilepsyfrequency
+leg cramps
+hypertonia
+hypoesthesia
+migraine
+neuralgia
+neuropathy
+paresthesia
+vertigo
+somnolence
+taste perversionpostmarketing reports
+cerebral hemorrhage
+ageusia
+anosmia
 rashfrequency
 alopecia
 dermatitis
@@ -242,6 +239,18 @@ mg
 day
 mg
 day
+anemiafrequency
+ecchymosis
+epistaxis
+thrombocytopenia
+mild prolongation
+activated partial thromboplastin time
+aptt
+postmarketing reports
+agranulocytosis
+aplastic anemia
+pancytopenia
+leukopenia
 ecchymosis
 epistaxis
 thrombocytopenia
@@ -270,18 +279,6 @@ pt
 pediatric patients with systemic onset
 juvenile rheumatoid arthritis
 active systemic features
-anemiafrequency
-ecchymosis
-epistaxis
-thrombocytopenia
-mild prolongation
-activated partial thromboplastin time
-aptt
-postmarketing reports
-agranulocytosis
-aplastic anemia
-pancytopenia
-leukopenia
 abnormal hepatic function
 ast
 alt increases
@@ -350,6 +347,13 @@ anxiety
 depression
 nervousnesspostmarketing reports
 hallucination
+vitreous floaters
+conjunctival hemorrhagefrequency
+blurred vision
+cataract
+conjunctivitis
+eye pain
+glaucoma
 blurred vision
 cataract
 conjunctivitis
@@ -369,23 +373,6 @@ vitreous floaters
 conjunctival hemorrhage
 patients
 patients
-vitreous floaters
-conjunctival hemorrhagefrequency
-blurred vision
-cataract
-conjunctivitis
-eye pain
-glaucoma
-epicondylitis
-tendon rupturefrequency
-arthralgia
-arthrosis
-bone disorder
-accidental fracture
-myalgia
-neck stiffness
-synovitis
-tendinitis
 arthralgia
 arthrosis
 bone disorder
@@ -408,18 +395,16 @@ epicondylitis
 tendon rupture
 patients
 patients
-asthenia fatigue
-fever
-hot flushes
-influenza-like illness
-cyst
-pain
-patients
-taking celecoxib
-mg
-day
-mg
-day
+epicondylitis
+tendon rupturefrequency
+arthralgia
+arthrosis
+bone disorder
+accidental fracture
+myalgia
+neck stiffness
+synovitis
+tendinitis
 frequency
 asthenia fatigue
 fever
@@ -427,15 +412,12 @@ hot flushes
 cyst
 painpostmarketing reports
 conjunctivitis
-herpes simplex
-herpes zoster
-bacterial infection
-fungal infection
-soft tissue infection
-viral infection
-moniliasis
-moniliasis
+asthenia fatigue
+fever
+hot flushes
 influenza-like illness
+cyst
+pain
 patients
 taking celecoxib
 mg
@@ -453,6 +435,21 @@ moniliasis
 moniliasis
 influenza-like illnesspostmarketing reports
 sepsis
+herpes simplex
+herpes zoster
+bacterial infection
+fungal infection
+soft tissue infection
+viral infection
+moniliasis
+moniliasis
+influenza-like illness
+patients
+taking celecoxib
+mg
+day
+mg
+day
 breast fibroadenosis
 breast neoplasm
 patients
@@ -508,13 +505,6 @@ mg
 day
 mg
 day
-labyrinthitisvery
-hearing decreasedfrequency
-otitis media
-deafness
-ear abnormality
-earache
-tinnitus
 otitis media
 deafness
 ear abnormality
@@ -533,6 +523,13 @@ years
 labyrinthitis
 patients
 patients
+labyrinthitisvery
+hearing decreasedfrequency
+otitis media
+deafness
+ear abnormality
+earache
+tinnitus
 postmarketing reports
 impaired female fertility
 urinary tract infectionuncommon

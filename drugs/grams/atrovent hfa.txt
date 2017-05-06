@@ -14,73 +14,82 @@ bronchitis
 copd exacerbation
 dyspnea
 headache
-headache
+throat irritation
+cough
+dry mouth
+gastro-intestinal motility disorders
+including constipation
+diarrhea
+vomiting
+nausea
 dizziness
-postmarketing reports
-skin rash
-pruritus
-angioedema
-including
-tongue
+bronchitis
+upper respiratory tract infection
+chest pain
+cough
+dyspnea
+bronchospasm
+sputum
+pharyngitis
+rhinitis
+sinusitis
+throat irritationuncommon
+paradoxical bronchospasm
+laryngospasm
+pharyngeal edema
+dry throat
+mouth dryness
+nausea
+gastrointestinal motility disorder
+dyspepsiauncommon
+constipation
+diarrhea
+taste perversion
+vomiting
+stomatitisfrequency
+mouth edema
+urinary tract infectionuncommon
+urinary retention
+painuncommon
+arthritis
+headache
+dizzinessuncommon
+tremor
+nervousness
+influenza-like symptoms
+pain
+hypertension
+palpitations
+supraventricular tachycardiarare
+atrial fibrillation
+rate increasedfrequency
+hypotension
+palpitation
+tachycardia
+rash
+pruritusrare
+urticaria
+hypersensitivity
+anaphylactic reactions
+angioedema of tongue
 lips
-face
-urticarial
+facefrequency
+urticaria
 including
 giant urticaria
 laryngospasm
-anaphylactic reactions
-frequency
-precipitation
-worsening of narrow-angle glaucoma
-glaucoma
-halo vision
-conjunctival hyperemia
-corneal edema
-acute eye pain
-visionpostmarketing reports
+blurred vision
 mydriasis
 intraocular pressure
-urinary tract infectionpostmarketing reports
-urinary retention
-bronchitis
-copd exacerbation
-sinusitiscommon
-dyspnea
-sinusitis
-cough
-rhinitis
-upper respiratory infectionpostmarketing reports
-cough
-bronchospasm
-including
-paradoxical bronchospasm
-frequency
-hypotension
-palpitations
-tachycardiapostmarketing reports
-supraventricular tachycardia
-atrial fibrillation
-heart rate
-dyspepsia
-dry mouth
-nauseauncommon
-taste perversion
-bitter taste
-frequency
-dry throat
-constipation
-throat irritation
-stomatitis
-mouth edemapostmarketing reports
-gastrointestinal distress
-diarrhea
-nausea
-vomiting
-pharyngeal edema
-gastrointestinal motility disorders
-pain
-influenza-like symptomspostmarketing reports
-accommodation disorder
+glaucoma
+eye pain
+halo vision
+conjunctival hyperemia
+corneal edemarare
+accommodation disorderfrequency
+precipitation
+worsening of narrow-angle glaucoma
+acute eye pain
 bladder pain
 cloudy urine
 cough producing mucus

@@ -4,10 +4,6 @@ active ingredient
 supartz
 unwanted side effects
 medical attention
-following side effects
-taking sodium hyaluronate
-check
-doctor
 sodium hyaluronate
 side effects
 medical attention
@@ -48,7 +44,6 @@ injection site pain
 reason for premature discontinuation of treatment
 patients
 sodium hyaluronate
-placebo-treated patients
 patients with inflammatory arthritis
 transient increases in inflammation of the
 injected knee

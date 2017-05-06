@@ -1,0 +1,229 @@
+burn
+edema
+diarrhea
+generalize feeling of discomfort
+oropharyngeal pain
+sgot
+urticariarare
+bronchitisrare
+hypothyroidism
+flu like symptom
+congestive heart failure
+night sweatsuncommon
+muscle spasticity
+anaphylactic reactionsfrequency
+syncope
+urinary tract infection
+hepatic failure
+leg cramp
+rash
+quincke
+hyperthermia
+feel cold
+injection site edema
+lymphopenia
+nausea
+cloudy urine
+vertigofrequency
+injection site rashuncommon
+nervousness
+somnolenceuncommon
+erythema multiforme
+tinnitus
+benign lump in the breast
+hair loss
+weakness
+drowsiness
+insomnia
+arrhythmia
+menstrual pain
+diaphoresis
+chest pain
+vomit
+seizure
+stuffy nose
+injection site pruritus
+foot
+anemia
+dyspepsia
+skin rash
+lymphocytopenia
+abnormal growth in the breast
+weight gain
+loss of memory
+thrombotic thrombocytopenic purpura hemolytic uremic syndrome
+neck pain
+constipation
+weight
+abdominal pain
+inflammation at injection site
+increase muscle tone
+hypertonia
+influenza like symptom
+metrorrhagia
+angioedema
+blue black discoloration
+muscle cramp
+neutrophil count
+muscle stiffness
+troubled breathing
+blood urea nitrogen increaseduncommon
+maculopapular rash
+contusion
+pound heartbeat
+thrombocytopenia
+paresthesia
+other change
+pelvic pain
+antibody development
+abdominal painfrequency
+hive
+hepatitis
+tachyphylaxis
+injection site bleeding
+confusion
+jaundice
+swell
+hypoesthesiauncommon
+disorder of integument
+feeling of heat at the injection site
+muscle spasm
+cold hand
+sudden hearing loss
+asthenia
+injection site abscess
+pancytopenia
+suicide
+musculoskeletal stiffnessrare
+cardiomyopathy
+cough
+dizziness
+arthritis
+glomerulosclerosis
+aspartate aminotransferase
+injection site cellulitis
+decrease sexual ability in male
+unusual tiredness
+nasopharyngitis
+hypersexuality
+change in vision
+unusual weight gain
+abnormal absolute neutrophil count
+cyst
+painful urination
+injection site bruisingcommon
+anxietyfrequency
+injection site hematoma
+increase urge
+pancreatitis
+allergic dermatitis
+swell of the front part of the neck
+platelet count decreasedrare
+injection site pain
+neurological symptom
+injection site necrosis
+convulsion seizure
+bloat or swell
+urticaria
+muscular weakness
+dyspnea
+sweating
+hematocrit
+sweatingcommon
+gamma glutamyl transferase increaseduncommon
+dry mouth
+pruritus
+swollen gland
+peripheral vascular disease
+alanine aminotransferase
+palpitation
+drainage of fluid
+frequent urge
+nail alterationsfrequency
+loss of voice
+tachycardia
+problem with speaking
+impotence
+psoriasis
+injection site inflammation
+semisolid material
+change in menstrual period
+alopecia
+calcified subcutaneous nodule
+erythema
+myasthenia
+blood potassium
+facial hypoesthesiafrequency
+steven johnson syndrome
+chill
+leukopenia
+mental depression with thought of suicide
+anxiety
+anaphylactic shock
+race heartbeat
+mood disturbance
+depression suicidal ideation
+myalgia
+psychosis
+pulmonary arterial hypertension
+anhedonia
+headache
+skin ulceration necrosis at the site of injection
+injection site infection
+bilirubinemia
+pyrexia
+headache or migraine
+hyperactivity
+pain in extremity
+hypertension
+psychotic thought
+icterus
+muscle pain
+aggressive behavior
+abnormal growth
+redness
+suicide attempt
+systemic lupus erythematosus
+migraine
+swollen eye
+vasodilatation
+sinusitis
+bleed problem
+peripheral edema
+neutropenia
+tissue necrosis at injection site
+rhinorrhea
+panic attack
+illness
+unusual weight loss
+urinary urgency
+fever
+pain
+erythematous rash
+itch
+menorrhagia
+white blood cell count
+elevation of hepatic transaminase
+lymphadenopathy
+nephrotic syndrome
+injection site warmth
+fluid
+fatigue
+thrombotic microangiopathy
+upper respiratory tract infection
+stomach pain
+uterine hemorrhage
+hyperthyroidism
+arthralgia
+injection site erythema
+pruritic rash
+dry puffy skin
+sgpt
+serum alanine aminotransferase
+malaise
+emotional lability
+breast pain
+tachycardiarare
+swell at the injection site
+break in the skin at the injection site
+urinary incontinence

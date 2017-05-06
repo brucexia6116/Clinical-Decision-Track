@@ -1,0 +1,106 @@
+cardiac outputfrequency
+pleural effusion
+hypocalcemia
+pulmonary edema
+bronchospasm
+hypomagnesemia
+abnormal hepatic function
+ineffective drugfrequency
+peripheral edema
+hyperthermia
+speech disorder
+atelectasis
+hyperhidrosis
+anemia
+increase blood alkaline phosphatase
+hypoalbuminemia
+arrhythmia
+hypoxia
+vomit
+apneafrequency
+nausea
+photopsia
+confusional state
+illusion
+dizziness
+supraventricular tachycardia
+constipation
+neuralgia
+generalize edema
+abdominal pain
+first degree
+increase blood urea
+urine output
+pharyngolaryngeal painuncommon
+hypercapnia
+thrombocytopenia
+hyperbilirubinemia
+acidosis
+gamma glutamyl transferase
+thirst
+acute renal failure
+tolerance
+require interventionuncommon
+systolic hypertension
+post procedural hemorrhage
+light anesthesia
+diastolic hypertension
+metabolic acidosis
+hypernatremia
+withdrawal event syndrome
+xerostomia
+sepsis
+anemiauncommon
+septic shockuncommon
+ventricular arrhythmia
+hyperglycemia
+convulsion
+dyspnea
+ventricular tachycardia
+dry mouth
+tachycardia
+respiratory depression
+prolonged qt
+atrial fibrillation
+abnormal vision
+cardiac arrest
+respiratory acidosis
+chill
+hypotension
+hypovolemia
+pneumonia
+heart block
+hypoglycemia
+neuritis
+agitation
+acute respiratory distress syndrome
+require intervention
+hypertension
+bradypnea
+hyperpyrexia
+blood pressure fluctuation
+atrioventricular block
+electrocardiogram t wave inversion
+diarrhea
+pulmonary congestion
+hyperkalemia
+abdominal distension
+infarction
+polyuria
+anxietyuncommon
+fever
+pain
+hypokalemia
+respiratory failure
+decubitus ulceruncommon
+rigor
+delirium
+hypophosphatemiauncommon
+sinus tachycardia
+hypoventilation
+visual impairment
+pyrexia
+myocardial ischemia
+cardiac disorder
+bradycardia
+extrasystole

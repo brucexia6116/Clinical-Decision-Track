@@ -1,0 +1,28 @@
+infant
+edema
+pharyngolaryngeal pain
+general
+rhinitis
+flu like symptom
+irritability
+pruritus
+diarrhea
+rash
+induration
+nervous system
+headache
+influenza like illness
+loss of appetite
+fever
+pain
+vomit
+adult
+upper respiratory tract infection
+cough
+nausea
+pyrexia
+nasopharyngitis
+myalgia
+tenderness
+fatigue
+erythema

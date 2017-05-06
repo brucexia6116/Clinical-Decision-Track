@@ -1,6 +1,251 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+reported side effects of levobunolol
+burning sensation of eyes
+comprehensive list of adverse effects
+reported side effects
+ocular burning/stinging
+blepharoconjunctivitis
+eye irritation
+eye pain
+eye irritation
+eye paincommon
+blepharitis
+conjunctivitisrare
+iridocyclitisfrequency
+conjunctival/ocular hyperemia
+allergic conjunctivitis
+corneal
+keratitis
+vision
+punctate keratitis
+eye/eyelids pruritus
+eye/eyelid edema
+eye discharge
+lacrimation
+dry eye
+choroidal detachment
+following filtration surgery
+corneal erosion
+diplopia
+ptosis
+corneal calcification
+corneal sensitivity
+blepharoptosis
+frequency
+asthma
+dyspnea
+throat irritation
+nasal discomfort
+bronchospasm
+patients with pre-existing bronchospastic disease
+cough
+respiratory failure
+nasal congestion
+frequency
+raynaud
+phenomenon
+syncope
+bradycardia
+atrioventricular block
+palpitations
+hypotension
+arrhythmia
+cardiac arrest
+cardiac failure
+chest pain
+congestive heart failure
+cold hands
+feet
+frequency
+anaphylactic reaction
+systemic allergic reactions
+angioedema
+transient ataxiafrequency
+confusion
+dizziness
+somnolence
+lethargy
+headache
+memory loss
+cerebral ischemia
+cerebrovascular accident
+signs
+symptoms of myasthenia gravis
+paresthesia
+dysgeusia
+frequency
+nausea
+abdominal pain
+diarrhea
+dry mouth
+dyspepsia
+vomiting
+frequency
+decreased libido
+sexual dysfunction
+impotence
+frequency
+myalgia
+frequency
+depression
+insomnia
+nightmares
+frequency
+edema
+fatigue
+asthenia
+frequency
+stevens-johnson syndrome
+urticaria
+contact dermatitis
+including
+allergic contact dermatitis
+rash
+skin exfoliation
+lichenoid keratosis
+pruritus
+erythema of eyelid
+eyelid eczema
+alopecia
+psoriasiform rash
+exacerbation of psoriasis
+frequency
+hypoglycemia
+masked symptoms of hypoglycemia in insulin-dependent diabetics
+burning
+eye
+drainage from the eye
+redness
+swelling
+itching of eye
+eyelid
+blurred vision
+chest pain
+discomfort
+confusion
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+shortness of breath
+irregular heartbeat
+sweating
+unusual tiredness
+weakness
+eye pain
+headache
+hives or welts
+itching skin
+redness of skin
+shakiness
+unsteady walk
+skin rash
+tearing
+unsteadiness
+trembling
+other problems with muscle control
+coordination
+unusual drowsiness
+dullness
+feeling of sluggishness
+blistering
+peeling
+loosening of skin
+blue lips
+fingernails
+skin
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+chills
+cough
+decreased urine output
+diarrhea
+breathing
+difficulty
+chewing
+swallowing
+talking
+dilated neck veins
+disturbed color perception
+double vision
+drooping eyelids
+extreme fatigue
+pounding
+racing heartbeat
+pulse
+fever
+halos around lights
+hoarseness
+inability to speak
+shallow breathing
+irritation
+joint pain
+stiffness
+swelling
+muscle pain
+muscle weakness
+night blindness
+blood pressure
+pulse
+noisy breathing
+overbright appearance of lights
+red skin lesions
+purple center
+seeing double
+seizures
+severe numbness
+side of the face
+body
+sudden headache
+severe tiredness
+slurred speech
+sore throat
+sores
+ulcers
+white spots in mouth
+lips
+stopping of heart
+swelling of eyelids
+face
+lips
+hands
+fingers
+feet
+lower legs
+temporary blindness
+tightness in chest
+troubled breathing
+tunnel vision
+unconsciousness
+weakness in arm
+leg
+side of the body
+weight gain
+wheezing
+decreased interest in sexual intercourse
+discouragement
+feeling
+inability
+erection
+irritability
+lack of appetite
+lack
+loss of strength
+loss in sexual ability
+desire
+drive
+performance
+loss of interest
+pleasure
+nausea
+stuffy nose
+tiredness
+trouble concentrating
+trouble sleeping

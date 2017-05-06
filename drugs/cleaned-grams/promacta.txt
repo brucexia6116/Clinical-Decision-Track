@@ -1,0 +1,322 @@
+healthcare professional for medical advice
+hoarseness
+influenza
+sour stomach
+hypocalcemia
+embolism
+edema
+chill or fever
+pyrexiacommon
+pain in extremityuncommon
+bruise
+oropharyngeal pain
+aphthous stomatitis
+general feeling of discomfort
+ocular icterus
+dry skin
+upper abdominal pain
+pulmonary infarction
+appetite
+urine ph
+hepatic lesion
+abnormal hepatic function
+sinus disorder
+somnolence
+runny nose
+myelocytosis
+increase blood glucoseuncommon
+urinary tract infection
+hepatic failure
+cholestasis
+rash
+hypoesthesia
+dry eye
+oropharyngeal blistering
+vascular headache
+cold sweat
+speech disorder
+lymphopenia
+portal vein thrombosis
+hyperhidrosis
+anemia
+increase blood alkaline phosphatase
+back pain
+sleep disorderuncommon
+esophageal varice
+cortical cataract
+tingle of the hand
+astigmatism
+weakness
+pale skin
+decrease vision
+insomnia
+deep vein thrombosis
+esophageal varice hemorrhage
+burn
+chest pain
+vomit
+injection site rash pruritus
+foot
+shiver
+productive cough
+lenticular opacity
+sore throat
+nausea
+loss
+health care professional
+thin of the hair
+dyspepsia
+hemorrhoid
+swollen gland in the neck
+confusional state
+bladder pain
+disturbance in attention
+nasal discomfort
+toxic neuropathy
+oropharyngeal painuncommon
+eosinophilia
+red spot on the skin
+dizziness
+glossodynia
+vision
+urine protein creatinine ratio
+sunburn
+gout
+cramp
+acute myocardial infarction
+lethargy
+constipation
+weight
+eye pain
+abdominal pain
+heartburn
+skin
+lack
+discontinuation of eltrombopag
+myalgia
+rhinitis
+memory impairment
+anemiacommon
+muscle spasm
+difficulty with move
+paresthesiauncommon
+neutrophil count
+tender
+hemorrhage
+acid
+arm
+depression
+hepatic encephalopathy
+swell face
+thrombocytopenia
+hyperbilirubinemia
+pneumonia
+paresthesia
+rectosigmoid cancer
+epistaxis
+hepatitis
+urticaria
+redness of the eye
+vertigo
+medicine
+jaundice
+increase blood urea
+pulmonary embolism
+anisocytosis
+balance disorder
+body
+influenza like illness
+mouth hemorrhage
+gastritis
+asthenia
+altered mood
+hepatic decompensation
+sinusitis
+band neutrophil count
+joint pain
+hematemesis
+tremor
+exertional dyspnea
+cough
+active ingredient
+eltrombopag
+muscle ache
+variceal hemorrhage
+keratoconjunctivitis sicca
+crawl
+hemiparesis
+nasopharyngitis
+cerebral infarction
+cardiovascular disorder
+prickle
+swell of the face
+bronchitis
+stiffness
+platelet cell count
+gingival bleeding
+increase blood bilirubin level
+placebo
+cataract
+influenza like illnesscommon
+prolonged qt interval on ecg
+frequent bowel movement
+pigmentation disorder
+trouble sleep
+increase blood creatinine
+ill define disorder
+bone pain
+blepharitis
+apathy
+numbness
+increase blood
+illness
+proteinuria
+dysuria
+hyperglycemia
+prurituscommon
+muscular weakness
+dyspnea
+sweating
+increase blood albumin
+renal failure
+dry mouth
+pruritus
+migraine with aura
+retinal hemorrhageuncommon
+retinal hemorrhage
+total protein
+palpitation
+tonsillitis
+sleep apnea syndrome
+urinary tract infectionuncommon
+swollen joint
+oral herpes
+dysesthesia
+tachycardia
+hand
+rapid weight gain
+headache
+insomniacommon
+stomatitis
+skin exfoliation
+muscle
+decrease appetite
+alopecia
+mucosal inflammation
+pharyngitis
+hair loss
+abnormal visual acuity test
+skin discoloration
+dermatosis
+abdominal discomfort
+melanosis
+leukocytosis
+gastroenteritis
+body ache
+blindness
+abdominal tenderness
+side pain
+chill
+fda
+tearfulness
+medical attention
+anxiety
+belch
+bloat
+lupus nephritis
+visual acuity
+abnormal loss of weight
+nauseacommon
+difficulty with breathing
+vessel puncture site hemorrhage
+discolor fece
+non cardiac chest pain
+dysgeusia
+yellow eye
+gastroesophageal reflux disease
+loss of strength
+hemolytic anemia
+chest discomfort
+feeling
+leukocyturia
+uric acid
+vomitinguncommon
+pruritic rash
+pin
+agitation
+hemoglobin
+painuncommon
+flush
+decrease hemoglobin
+inr
+trouble swallow
+peripheral neuropathy
+ecchymosis
+hypertension
+malignant hepatic neoplasmuncommon
+eczema
+inflammation of wound
+toothache
+petechia
+muscle pain
+presence of myelocyte
+redness
+ear pain
+malaise
+generalize pruritus
+tingle feeling
+migraine
+hematoma
+diarrhea
+swell in the leg
+lacrimation
+night sweat
+peripheral edema
+hypersensitivity
+abdominal distension
+promacta
+rhinorrhea
+contusion
+sensation of foreign body
+troubled breathing with exertion
+decrease appetitecommon
+irritability
+hot flush
+needle
+pain
+hypokalemia
+itch
+loss of voice
+thrombotic thromboembolic eventsuncommon
+musculoskeletal pain
+white blood cell count
+unusual weight gain
+decrease blood albumin
+flatulence
+myalgiacommon
+cyanosis
+fatigue
+upper respiratory tract infection
+sinus tachycardia
+oral discomfort
+superficial thrombophlebitis
+spontaneous bacterial peritonitis
+stomach discomfort
+voice change
+conjunctival hemorrhage
+peripheral sensory neuropathy
+retinal pigment epitheliopathy
+arthralgia
+pyrexia
+ascite
+retinal exudate
+unusual tiredness
+headachecommon
+nocturia
+sensation of heaviness
+skin lesionuncommon
+indigestion
+itch skin
+lower leg
+visual impairment
+erythema

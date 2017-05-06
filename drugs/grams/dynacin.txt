@@ -11,25 +11,133 @@ sore throat
 stomatitis
 anorexia
 comprehensive list of adverse effects
-other dosage forms:
+headache, dizziness, vertigo.
+ataxia
+side effects
+hours
+stopping therapy
+low doses
+pseudotumor cerebri
+bulging fontanels
+infants
+hearing
+postmarketing experience
+headache
+dizziness
+lightheadedness
+somnolence
+tinnitus
+vertigorare
+hypoesthesia
+paresthesia
+intracranial hypertension
+impaired/decreased hearingvery
+bulging fontanels
+infants
+frequency
+convulsions
+sedation
+ataxia
+benign intracranial hypertension
+pseudotumor cerebri
+vestibular reactions
+hyperpigmentation of various body sites
+including
+skin
+nails
+teeth
+oral mucosa
+bones
+thyroid
+eyes
+including sclera
+conjunctiva
+breast milk
+lacrimal secretions
+perspiration
+blue/black/grey
+muddy-brown discoloration
+common site
+skin
+pigmentation
+drug
+resolution
+several months
+cases
+generalized muddy-brown skin pigmentation
+areas
+sun
+biopsies of pigmented tissue
+shown granules within the cells
+iron
+pigmentation
+time after drug discontinuation
+dress syndrome
+including
+fatal cases
+dress syndrome with persistent myocarditis
+least cases
+fixed drug eruptions
+erythema multiforme
+stevens-johnson syndrome
+photosensitivity
+postmarketing experience
+pruritus
+urticariarare
+alopecia
+erythema multiforme
+erythema nodosum
+fixed drug eruptions
+hyperpigmentation
+bluish-black pigmentation
+skin
+photosensitivity
+rash
+vasculitisvery
+angioedema
+exfoliative dermatitis
+hyperpigmentation of nails/nail beds
+stevens-johnson syndrome
+toxic epidermal necrolysisfrequency
+hyperpigmentation of various body sites
+including bones
+mucous membranes
+teeth
+oral mucosa
+tongue
+thyroid
+eyes
+including sclera
+conjunctiva
+breast milk
+lacrimal secretions
+structures of inner organs
+maculopapular rash
+erythematous rash
+discolored perspiration
+sweet
+syndrome
+acute febrile neutrophilic dermatosis
+postmarketing reports
+anaphylactoid purpura
+pigmentation of skin
+mucous membranes
+angioneurotic edema
+drug rash with eosinophilia
+systemic symptoms
+dress
 pancreatitis
-association with minocycline
-active ingredient
-dynacin
-use
-case reports of cystic fibrosis patients
-pancreatitis
-being
-minocycline for acute bacterial exacerbations of respiratory disease
-medical literature
+use of this drug
+case reports
+cystic fibrosis patients
+pancreatitis during treatment with this drug for acute bacterial exacerbations of respiratory disease
 authors
 cystic fibrosis patients
 result of the disease process
 drug-induced pancreatitis
-case
-multiple medications
-being
-temporal relationship between minocycline
+least case
+multiple concomitant medications
+temporal relationship between this drug
 pancreatitis
 esophagitis
 esophageal ulcerations
@@ -40,10 +148,19 @@ patients
 drug
 going
 bed
-gastrointestinal side effects
-abdominal cramping
-anorexia
+enterocolitis
+pancreatitis
+glossitis
+dysphagia
+tooth discoloration
+postmarketing experience
+dry mouthrare
 diarrhea
+nausea
+stomatitis
+discoloration of teeth
+vomitingvery
+anogenital candidiasis
 dyspepsia
 dysphagia
 enamel hypoplasia
@@ -51,92 +168,117 @@ enterocolitis
 esophagitis
 esophageal ulcerations
 glossitis
-nausea
-oral cavity
-tooth discoloration
+pancreatitis
+pseudomembranous colitisfrequency
+antibiotic-associated colitis
+oral cavity discoloration
+including
+buccal mucosa
+tongue
+lip
+gum
+abdominal cramping
 inflammatory lesions
 monilial overgrowth
 anogenital regions
-pancreatitis
-pseudomembranous colitis
-stomatitis
-vomiting
-dry mouth
-nervous system
-side effects
-convulsions
-headache
-hypesthesia
-paresthesia
-sedation
-vestibular reactions
-dizziness
-vertigo
-decreased hearing
-tinnitus
-benign intracranial hypertension
-pseudotumor cerebri
-adults
-bulging fontanels in infants
-hepatic side effects
-hyperbilirubinemia
-hepatic cholestasis
-liver enzymes
-fatal hepatic failure
-jaundice
+arthralgia
+myalgiarare
+lupus-like syndrome
+consisting of positive antinuclear antibody
+ana
+arthralgia
+arthritis
+joint stiffness/swelling
+following
+fever
+myalgia
 hepatitis
-including
-autoimmune hepatitis
-liver failure
-case
-patient
-progressing liver failure
-weeks of minocycline therapy for acne
-patient
-medication
-weeks
-onset of malaise
-liver transplantation
-patient
-significant intervention
-other reports of immunologically-mediated progressive liver dysfunction
-case
-patient
-liver transplant
-following fulminant hepatic failure
-year history of daily minocycline therapy
-acne
-dose of minocycline
+rash
+vasculitis
+arthritis
+bone discoloration
+systemic lupus erythematosus
+sle
+exacerbation of sle
+joint stiffness
+joint swelling
+joint discoloration
+myopathy
+hypersensitivity-associated rhabdomyolysispostmarketing reports
+polyarthralgia
+exacerbation of systemic lupus
+transient lupus-like syndrome
+lupus-like reactions
+drug
+arthralgia
+arthritis
+myalgia
+malaise
+positive ana titer
+patients
+positive anti-double stranded dna
+antibodies
+patients
+drug
+several required short courses of corticosteroids
+severe acute myopathy
+drug
 mg
-mg per day
-second patient
-been receiving minocycline therapy
-acne for year
-seeking
-seeking medical attention for a
-syndrome
-hospitalization
-patient
-experiencing
-autoimmune-mediated hepatitis
+day
+year-old male after strenuous exercise
+laboratory values
+esr mm/hr
+crp mg/dl
+creatine kinase
+units/l
+ast units/l
+alt units/l
+ldh units/l
+aldolase units/l
+alkaline phosphatase units/l
+ggt units/l
+muscle enzyme levels
+symptoms
+resolved month after this drug
 minocycline
-resolution of symptoms
-cases after minocycline therapy
-patient
-received appropriate supportive medical care
+quinupristin-dalfopristin
+myalgia
+arthralgia
+neutropenic cancer patients
+n =-rrb-
+fatigue
+malaiseuncommon
+feververy
+discoloration of secretionsinjection
+frequency
+magnesium intoxication
+including flushing
+sweating
+hypotension
+depressed reflexes
+flaccid paralysis
+hypothermia
+circulatory collapse
+cns depression
+respiratory paralysis
+mood alteration
+death
+cases
+involving hypersensitivity syndrome
+serum
+sickness-like syndrome
+lupus-like syndrome
 pulmonary infiltrates
 night sweats
 fever
 eosinophilia
 several patients
-receiving minocycline
-active ingredient
-dynacin
+drug
 effects
-hypersensitivity
-minocycline
+drug hypersensitivity
 case reports
-severe central nervous system-pulmonary hypersensitivity syndrome
+severe cns
+pulmonary hypersensitivity syndrome
 requiring high-dose corticosteroid therapy
 signs
 symptoms
@@ -150,7 +292,8 @@ abnormal brain mri
 seizures
 pulmonary infiltrates
 elevated serum ige
-erythrocyte sedimentation rate
+elevated erythrocyte sedimentation rate
+esr
 eosinophilia
 eosinophilic pneumonia
 relapsing
@@ -166,9 +309,11 @@ dyspnea
 eosinophilia
 elevated leukocytes
 c-reactive protein
+crp
 days
 being
-resuming minocycline
+resuming
+drug
 patient
 progressive respiratory failure
 requiring
@@ -184,42 +329,18 @@ pound weight loss
 esr mm/hr
 crp mg/dl
 mild increases in liver enzymes
-year-old boy after months of minocycline therapy for acne
-other case of late-onset drug fever
-year of treatment
+year-old boy
+using
+drug for months for acne
+year of therapy
+least other case of late-onset drug fever
 other reported cases of drug fever
-weeks of minocycline exposure
-hypersensitivity side effects
-anaphylactoid purpura
+weeks of drug exposure
 anaphylaxis/anaphylactoid reaction
 including shock
 fatalities
-angioneurotic edema
-autoimmune vasculitis
-drug fever
-eosinophilic pneumonitis
-erythema multiforme
-fixed drug eruptions
-hepatitis
-lupus-like syndrome
-myocarditis
-pericarditis
-polyarthralgia
-pulmonary infiltrates with eosinophilia
-rhabdomyolysis
-serum sickness
-serum
-sickness-like reactions
-stevens-johnson syndrome
-urticaria
-severe central nervous system-pulmonary hypersensitivity syndrome
-drug rash with eosinophilia
-systemic symptoms
-dress
-including
-fatal cases
-dress syndrome with persistent myocarditis
-least cases
+frequency
+hypersensitivity
 hypersensitivity syndrome
 consisting of cutaneous reaction
 rash
@@ -233,224 +354,201 @@ myocarditis
 pericarditis
 fever
 lymphadenopathy
-hypersensitivity syndrome
-death
-cases
-involving hypersensitivity syndrome
-immunologic side effects
-positive antineutrophil
-cytoplasmic antibody
+serum
+sickness-like syndrome
+consisting of fever
+urticaria/rash
+arthralgia
+arthritis
+joint stiffness/swelling
+lymphadenopathy
+eosinophilia
+autoimmune vasculitis
+drug fever
+eosinophilic pneumonitis
+drug hypersensitivity
+pulmonary infiltrates
+night sweats
+fever
+eosinophilia
+serum sickness
+serum
+sickness-like reactions
+severe central nervous system
+cns
+pulmonary hypersensitivity syndromepostmarketing reports
+hypersensitivity reactions
+anaphylaxis
+frequency
+positive antineutrophil cytoplasmic antibody
 anca
 titers
-exacerbation of systemic lupus
 polyarteritis nodosa
 anca-positive crescentic glomerulonephritis
 anca-positive vasculitis
 autoimmune hepatitis
-rare cases of necrotizing vasculitis
-systemic reactions
-lupus-like syndrome
-consisting of positive antinuclear antibody
-arthralgia
-arthritis
-joint stiffness
-joint swelling
-following
-fever
-myalgia
-hepatitis
-rash
-vasculitis
-serum
-sickness-like syndrome
-consisting of fever
-urticaria
-rash
-arthralgia
-arthritis
-joint stiffness
-joint swelling
-eosinophilia
-serum
-sickness-like syndrome
-death
-cases
-syndromes
-lupus-like reactions
-minocycline
-arthralgia
-arthritis
-myalgia
-malaise
-positive ana titer
-patients
-positive anti-dsdna antibodies
-patients
-recovered following discontinuation of the drug
-required short courses of corticosteroids
-rare case reports of additional immunologic side effects
 necrotizing vasculitis
+systemic reactions
+rare cases of necrotizing vasculitis
 systemic reactions
 lymphadenopathy
 eosinophilia
 liver function enzyme levels
 dermatologic involvement
 case
-minocycline
+drug
 cases
 corticosteroid therapy
 resolution of symptoms
-dermatologic side effects
-pruritus
-alopecia
-erythema multiforme
-erythema nodosum
-exfoliative dermatitis
-fixed drug eruptions
-erythematous rashes
-photosensitivity
-stevens-johnson syndrome
-toxic epidermal necrolysis
-lesions on the glans penis
-vasculitis
-bluish-black pigmentation of the skin
-bones
-mucous membranes
-teeth
-tongue
-nail beds
-structures of inner organs
-minocycline
-active ingredient
-dynacin
-sweet
-syndrome
-acute febrile neutrophilic dermatosis
-biopsies of pigmented tissue
-shown granules within the cells
-iron
-pigmentation
-time
-following drug discontinuation
-been case reports of mucosal pigmentation
-minocycline use
-severe acute myopathy
-oral minocycline
-active ingredient
-dynacin
+hepatic reactions
+autoimmune basis
+several months of therapy
+case
+patient
+progressing liver failure
+using
+drug for weeks for acne
+patient
+drug weeks
+onset of malaise
+liver transplantation
+patient
+significant intervention
+other reports of immunologically-mediated progressive liver dysfunction
+case
+patient
+liver transplant after fulminant hepatic failure
+year history of daily therapy
+acne
+dose of this drug
 mg/day
-year-old male after strenuous exercise
-laboratory values
-erythrocyte sedimentation rate
-mm/hr
-c-reactive protein
-mg/dl
-creatine kinase
-units/l
-ast
-units/l
-alt
-units/l
-lactate dehydrogenase
-units/l
-aldolase units/l
-alkaline phosphatase
-units/l
-ggt
-units/l
-muscle enzyme levels
-symptoms
-month after minocycline
-intravenous minocycline
-quinupristin-dalfopristin
-myalgia
-arthralgia
-neutropenic cancer patients
-n =-rrb-
-musculoskeletal side effects
-arthralgia
-arthritis
-bone discoloration
-joint discoloration
-joint stiffness
-joint swelling
-myalgia
-myopathy
-hypersensitivity-associated rhabdomyolysis
-renal side effects
-increased bun
+second patient
+been using
+drug
+acne for year
+seeking
+seeking medical attention for an
+syndrome
+hospitalization
+patient
+experiencing
+autoimmune-mediated hepatitis
+drug
+resolution of symptoms
+cases after therapy
+patient
+received appropriate supportive medical care
+hepatitis
+liver failure
+postmarketing experience
+increased liver enzymes
+hepatitis
+autoimmune hepatitis/hepatotoxicityvery
+hepatic cholestasis
+hepatic failure
+including fatalities
+hyperbilirubinemia
+jaundicefrequency
+autoimmune hepatitis with lupus-like symptoms
+liver function test values
+acute hepatic failure
+liver injury
+acute hypersensitivity hepatitis
+eosinophilia
+dermatitis
+increased bun/serum urea
 interstitial nephritis
-acute renal failure
+acute renal failurepostmarketing reports
+reversible acute renal failuretetracyclines
+frequency
+aggravation
+preexisting
+preexisting renal failure
+azotemia/uremia
+nephrotoxicity
+acute fatty liver
+renal tubular damage
+fanconi-like syndrome
+nephrotoxicity
+acute fatty liver
+high tetracycline doses
 high serum levels of tetracyclines
 azotemia
 hyperphosphatemia
-acidosis
-impaired patients
-hematologic side effects
+acidosis in patients with renal dysfunction
+degraded tetracycline
+renal tubular damage
+fanconi-like syndrome
+eosinophilia
+leukopenia
+neutropenia
+thrombocytopeniavery
+hemolytic anemia
+pancytopeniafrequency
+agranulocytosis
 antineutrophil cytoplasmic antibody
 anca
 positive vasculitis
-eosinophilia
-tetracyclines
 hemolytic anemia
 thrombocytopenia
-neutropenia
-agranulocytosis
-leukopenia
-pancytopenia
-other side effects
-tetracyclines
-fatigue
-malaise
-somnolence
-fever
-discoloration of secretions
-respiratory side effects
+eosinophilia
+postmarketing experience
+cough
+dyspnea
+pulmonary infiltrationvery
+bronchospasm
+exacerbation of asthma
+pulmonary eosinophiliafrequency
+pneumonitis
 hypersensitivity pneumonitis
 pulmonary lupus
 eosinophilic pneumonia
 pleural effusions
 relapsing
-relapsing acute respiratory failure
-tetracyclines
-cough
-dyspnea
-bronchospasm
-pneumonitis
-exacerbation of asthma
-oncologic side effects
-papillary thyroid cancer
-thyroid cancer
-postmarketing experience
-endocrine system
-side effects
+relapsing acute respiratory failurepostmarketing reports
+pulmonary infiltrates with eosinophilia
+myocarditis
+pericarditis
+high serum levels of tetracyclines
+azotemia
+hyperphosphatemia
+acidosis in patients with renal dysfunction
+anorexiatetracyclines
+frequency
+hyperphosphatemia
+acidosis
+abnormal thyroid function
+brown-black microscopic thyroid discolorationfrequency
+discolored breast secretions
 condition
 dark pigmentation
 brown-black microscopic discoloration
 thyroid gland
 laboratory evidence of thyroid dysfunction
-clinical implications of this pigmentation
+unknown clinical implications
+brown-black microscopic thyroid discoloration
 abnormal thyroid function
-genitourinary side effects
+postmarketing experience
 balanitis
 lesions on the glans penis
-vulvovaginitis
-minocycline
-active ingredient
-dynacin
-detrimental effects on spermatogenesis
-preliminary studies
-local side effects
-erythema
-pain at the injection site
-psychiatric side effects
-mood alteration
-ocular side effects
-case reports of gray scleral pigmentation
-macular pigmentation in elderly patients after chronic minocycline
-active ingredient
-dynacin
-use
+vulvovaginitispostmarketing reports
+deleterious effects on spermatogenesis
+balanitis
+postmarketing experience
+frequency
+injection site erythema
+injection site pain
+frequency
+papillary thyroid cancerpostmarketing reports
+thyroid cancer
+frequency
+discoloration of conjunctiva
+discoloration of lacrimal secretions
+grey scleral pigmentation
+macular pigmentation
+cases of grey scleral pigmentation
+macular pigmentation
+elderly patients after chronic use of this drug
 years
 intravenous powder for solution
 black, tarry stools

@@ -1,6 +1,348 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+cardiovascular
+side effects
+increased risks of myocardial infarction
+pulmonary embolism
+superficial venous thrombosis
+stroke
+increased blood pressure
+oncologic side effects
+increase risk of breast cancer
+genitourinary side effects
+changes in vaginal bleeding pattern
+abnormal withdrawal bleeding
+flow
+breakthrough bleeding
+spotting
+dysmenorrhea
+increase in size of uterine leiomyomata
+vaginitis
+including
+vaginal candidiasis
+change in amount of cervical secretion
+changes in cervical ectropion
+ovarian cancer
+endometrial hyperplasia
+endometrial cancer
+cystitis-like syndrome
+side effects
+breasts
+tenderness
+enlargement
+pain
+nipple discharge
+galactorrhea
+fibrocystic breast changes
+side effects of androgen therapy
+amenorrhea
+other menstrual irregularities
+virilization
+including
+voice
+clitoral enlargement
+androgens
+gastrointestinal side effects
+nausea
+vomiting
+abdominal cramps
+bloating
+cholestatic jaundice
+incidence of gallbladder disease
+pancreatitis
+enlargement of hepatic hemangiomas
+additional side effects
+alterations in liver function test
+hepatocellular neoplasms
+peliosis hepatis
+dermatologic side effects
+chloasma
+melasma
+drug
+erythema multiforme
+erythema nodosum
+hemorrhagic eruption
+loss of scalp hair
+hirsutism
+pruritus
+acne
+rash
+ocular side effects
+retinal vascular thrombosis
+steepening of corneal curvature
+intolerance
+lenses
+nervous system
+side effects
+headache
+migraine
+dizziness
+mental depression
+chorea
+nervousness
+mood disturbances
+irritability
+exacerbation of epilepsy
+dementia
+additional side effects
+decreased libido
+headache
+anxiety
+depression
+generalized paresthesia
+hematologic side effects
+suppression of clotting factors
+v
+vii
+x
+bleeding in patients on concomitant anticoagulant therapy
+polycythemia
+aggravation of porphyria
+hypersensitivity side effects
+urticaria
+angioedema
+anaphylactoid/anaphylactic reactions
+respiratory side effects
+exacerbation of asthma
+general
+side effects
+increase
+weight
+edema
+arthralgias
+leg cramps
+metabolic side effects
+reduced carbohydrate tolerance
+serum cholesterol
+retention of sodium
+chloride
+water
+potassium
+calcium
+inorganic phosphates
+irregular menstrual periods
+acne
+oily skin
+decreased breast size
+enlarging clitoris
+hoarseness
+deepening of the voice
+menstrual changes
+stopping of menstrual bleeding
+unnatural hair growth
+loss
+continuing nausea
+cough
+dark-colored urine
+difficulty with swallowing
+dizziness
+fast heartbeat
+fever
+hives
+itching
+light-colored stools
+loss of appetite
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+red-colored spots on the body
+mouth
+nose
+shortness of breath
+skin rash
+sore throat
+tightness in the chest
+unusual tiredness
+weakness
+vomiting
+wheezing
+stomach bloating
+cramps
+pain
+anxiety
+bleeding from gums
+nose
+blistering
+peeling
+loosening of the skin
+bloating
+cloudy urine
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+change in vaginal discharge
+changes in skin color
+pain
+tenderness
+chest pain
+discomfort
+chills
+clay-colored stools
+bloody discharge from nipple
+confusion
+constipation
+convulsions
+darkening of urine
+decrease in amount of urine
+diarrhea
+burning
+painful urination
+difficulty with breathing
+difficulty with moving
+difficulty with speaking
+dimpling of the breast skin
+dizziness or lightheadedness
+double vision
+eye pain
+fainting
+fever
+fluid-filled skin blisters
+frequent urge
+headache
+heavy bleeding
+inability
+arms
+legs
+facial muscles
+inability to speak
+indigestion
+inverted nipple
+irregular heartbeats
+itching of the vagina
+genital area
+muscle pain
+hive-like swelling on the face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+light-colored stools
+loss of appetite
+lump in the breast
+arm
+mood
+mental changes
+muscle cramps in the hands
+arms
+feet
+legs
+face
+muscle pain
+stiffness
+nausea
+noisy, rattling breathing
+numbness
+tingling around the mouth
+fingertips
+feet
+pain
+pain during sexual intercourse
+pain in the ankles
+knees
+pain
+discomfort in the arms
+jaw
+neck
+pain
+feeling of pressure in pelvis
+red lumps under the skin
+legs
+pains in the stomach
+side
+abdomen
+radiating
+back
+pelvic pain
+scaling of the nipple
+purple spots on the skin
+poor insight
+judgment problems with memory
+speech
+red, irritated eyes
+redness
+swelling of the breast
+ringing in the ears
+sensitivity
+sun
+shortness of breath
+skin thinness
+slow speech
+skin of the breast
+sore throat
+sores
+ulcers
+white spots in the mouth
+lips
+stomach pain
+sudden shortness of breath
+troubled breathing
+sweating
+swelling
+swelling of the fingers
+hands
+feet
+lower legs
+tenderness of the breast
+white curd-like vaginal discharge without odor
+mild odor
+tiredness
+tremor
+trouble recognizing objects
+trouble thinking
+planning
+trouble walking
+troubled breathing at rest
+excess milk flow from breasts
+unpleasant breath odor
+vaginal bleeding
+vision changes
+vomiting of blood
+weakness
+weight gain
+yellow eyes
+skin
+blemishes on the skin
+blotchy spots on the
+exposed skin
+decreased interest in sexual intercourse
+depression
+headache
+inability
+erection
+increase
+weight
+increased hair growth
+face
+sexual ability
+desire
+drive
+performance
+increased interest in sexual intercourse
+irritability
+leg cramps
+loss in sexual ability
+desire
+drive
+performance
+loss of hair
+mental depression
+pimples
+redness of the skin
+swelling
+inflammation of the mouth
+twitching
+uncontrolled movements of the tongue
+lips
+face
+arms
+legs

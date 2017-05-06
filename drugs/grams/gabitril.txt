@@ -1,96 +1,58 @@
-following side effects
-taking tiagabine
-check
-doctor
-nurse
-nervous system
-side effects
+rash
+pruritusuncommon
+dermatitis
+bullous dermatitis
+bruisingfrequency
+vesiculobullous rash
+exfoliative dermatitis
+vasodilation
+nausea
+abdominal pain
+diarrhea
+vomiting
+appetite
+mouth ulceration
+abnormal hepatic function
+elevated sgpt
+ggt
+myasthenia
+muscle twitching
+infection
+influenza syndrome
 dizziness
 asthenia
-tremor
 somnolence
 nervousness
-difficulty with concentration/attention
+tremorcommon
 ataxia
-depression
-insomnia
+paresthesia
 abnormal gait
-hostility
-launch of tiagabine
-active ingredient
-gabitril
-end
-postmarketing reports of seizures in patients without a history of epilepsy
-case of transient athetosis
-tiagabine
-patients
-experiencing incapacitating generalized weakness
-weakness
-cases
-discontinuation
-reduction in tiagabine
-active ingredient
-gabitril
-dosage
-general
-side effects
-accidental injury
-infection
-flu syndrome
-pain
-abdominal pain
-incapacitating
-incapacitating generalized weakness
-gastrointestinal side effects
-diarrhea
-nausea
-vomiting
-mouth ulceration
-studies
-dogs
-single dose
-radiolabeled tiagabine
-active ingredient
-gabitril
-residual binding in the retina
-uvea
-weeks
-specific recommendations for periodic ophthalmic monitoring
-prescribers
-possibility of long term
-ophthalmic effects
-ocular side effects
+nystagmus
+speech disorderuncommon
+nonconvulsive status epilepticusfrequency
+encephalopathy
+blurred vision
+visual field defectscommon
 amblyopia
-respiratory side effects
+diplopia
 pharyngitis
-hematologic side effects
-ecchymosis
-patients
-receiving tiagabine
-active ingredient
-gabitril
-therapy
-case of thrombocytopenia
-being
-tiagabine
-musculoskeletal side effects
-myalgia
-cases of transient dystonias
-genitourinary side effects
-urinary tract infection
-patients on tiagabine
-active ingredient
-gabitril
-therapy
-definite correlation between tiagabine
-active ingredient
-gabitril
-rashes
-dermatologic side effects
-cases of serious rashes
-rashes
-case
-stevens-johnson syndrome
+cough
+rhinitis
+difficulty with concentration/attention
+insomnia
+confusion
+memory loss
+depressed mood
+emotional liability
+hostility/aggression
+agitationuncommon
+depression
+psychosisrare
+hallucinations
+delusion
+accidental injury
+pain
+fatigue
 purple spots on skin
 difficulty
 concentrating

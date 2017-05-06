@@ -1,0 +1,30 @@
+peripheral vasospasm
+general
+dyspnea
+blood pressure elevation
+pain in arm
+ventricular arrhythmia
+pain in lower
+cardiovascular
+sweating
+diarrhea
+pain in leg
+nervous system
+headache
+tinnitus
+cold hand
+weakness in leg
+chest pain
+vomit
+foot
+stomach pain
+nasal congestion
+nausea
+itch of skin
+uterine cramp
+shock
+unpleasant taste
+myocardial infarction
+dizziness
+ergonovine
+bradycardia

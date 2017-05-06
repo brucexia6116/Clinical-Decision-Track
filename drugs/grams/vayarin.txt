@@ -4,11 +4,6 @@ active ingredient
 vayarin
 unwanted side effects
 medical attention
-following side effects
-taking
-polyunsaturated fatty acids
-check
-doctor
 polyunsaturated fatty acids
 side effects
 medical attention
@@ -18,123 +13,64 @@ side effects
 health care professional
 side effects
 following side effects
-gastrointestinal side effects
 eructation
 dyspepsia
-anorexia
+nausea
+gastrointestinal disorders
+including
+abdominal distension
+abdominal pain
 constipation
-dry mouth
-dysphagia
-colitis
-fecal incontinence
-gastritis
-gastroenteritis
-gastrointestinal disorder
-appetite
-intestinal obstruction
-melena
-pancreatitis
-tenesmus
+diarrhea
+flatulence
+gastroesophageal reflux disease
 vomiting
-general
-side effects
-infection
-flu syndrome
-pain
-pain
-enlarged abdomen
-asthenia
-body odor
-chest pains
-chills
-suicide
-fever
-generalized edema
-fungal infection
-malaise
-neck pain
-sudden death
-viral infection
-other side effects
+gastrointestinal hemorrhage
+gastroenteritisrare
+gastrointestinal painvery
+lower gastrointestinal hemorrhage
+common adverse events
+eructation
+dyspepsia
 taste perversion
-lymphadenopathy
-dermatologic side effects
-rashes
-alopecia
-eczema
+infection
+painuncommon
+death
+rashuncommon
+atopic dermatitisrare
+urticaria
+acne
+rash pruriticfrequency
 pruritus
-sweating
-study
-omega
-fatty acid supplementation
-heart rate
-qrs duration in heart transplant recipients
-vagal intervention
-findings
-omega
-fatty acids
-electrophysiologic properties of the myocardium
-cardiovascular
-side effects
-angina pectoris
-arrhythmia
-bypass surgery
-cardiac arrest
-hyperlipidemia
-hypertension
-migraine
-myocardial infarct
-myocardial ischemia
-occlusion
-peripheral vascular disorder
-syncope
-tachycardia
-musculoskeletal side effects
-rheumatoid arthritis
-arthralgia
-arthritis
-myalgia
-pathological fracture
-tendon disorder
-metabolic side effects
-edema
+hypotension
+pain
 hyperglycemia
-alt
-ast
-nervous system
-side effects
-depression
+gout
+high triglyceridesvery
+blood lactate dehydrogenase
+taste perversion
 dizziness
-emotional lability
-facial paralysis
-insomnia
-vasodilation
-vertigo
-respiratory side effects
-asthma
-bronchitis
-cough
-dyspnea
-epistaxis
-laryngitis
-pharyngitis
-pneumonia
-rhinitis
-sinusitis
-genitourinary side effects
-cervical disorder
-endometrial carcinoma
-epididymitis
-impotence
-hypersensitivity side effects
+dysgeusia
+headache
+hyperactivity
+epistaxisvery
+nasal drynessfrequency
+influenza
+hypersensitivitypostmarketing reports
 anaphylactic reaction
-oncologic side effects
-neoplasm
-central nervous system neoplasia
-ocular side effects
-cataract
-hematologic side effects
+white blood count
+frequency
+slight prolongation
+bleeding timepostmarketing reports
 hemorrhagic diathesis
+tics
+tantrum
+insomnia
+liver disorders
+including
+increased alt
+ast
+transaminases
 side effects of vayarin
 fda
 healthcare professional for medical advice

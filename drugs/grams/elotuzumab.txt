@@ -1,11 +1,6 @@
 reported side effects
 fever
 comprehensive list of adverse effects
-following side effects
-taking elotuzumab
-check
-doctor
-nurse
 night sweats
 diarrhea
 constipation
@@ -14,10 +9,12 @@ oropharyngeal pain
 lymphopenia frequency
 leukopenia
 thrombocytopenia
+deep vein thrombosis
 frequency
 hypoalbuminemia
 elevated alkaline phosphatase
-hypersensitivity
+hypersensitivityuncommon
+anaphylactic reaction
 decreased appetite
 weight loss frequency
 hyperglycemia
@@ -42,6 +39,9 @@ upper respiratory tract infection
 pneumonia
 respiratory tract infection
 pulmonary embolism
+herpes zoster
+infusion
+related reaction
 blurred vision
 body aches
 pain

@@ -1,6 +1,48 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+adverse effects
+gastrointestinal disturbances
+stomach upset
+diarrhea
+frequency
+drowsiness
+dizziness
+convulsions
+frequency
+respiratory depression
+frequency
+vomiting
+nausea
+diarrhea
+abdominal pain
+gastrointestinal disturbance
+fixed-drug eruptions
+cases of abuse
+frequency
+mental confusion
+excitation
+insomnia
+abuse
+frequency
+rash
+angioedema
+pruritus
+urticaria
+blurred vision
+confusion
+difficulty in urination
+drowsiness or dizziness
+nausea
+vomiting
+shakiness
+unsteady walk
+slowed breathing
+unusual excitement
+nervousness
+restlessness
+irritability
+confusion
+constipation
+dizziness (mild)
+drowsiness (mild) 
+headache
+nausea or vomiting 
+stomach pain

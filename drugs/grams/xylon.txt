@@ -2,10 +2,6 @@ reported side effects of hydrocodone/ibuprofen
 drowsiness
 dyspepsia
 comprehensive list of adverse effects
-following symptoms of overdose
-taking hydrocodone
-ibuprofen
-emergency help
 nervous system
 side effects of hydrocodone
 mental depression
@@ -210,9 +206,6 @@ cardiovascular
 side effects of ibuprofen
 peripheral edema
 elevated blood pressure
-patients
-preexisting hypertension
-congestive heart failure
 hypersensitivity side effect of ibuprofen
 urticarial rashes
 pruritus
@@ -254,10 +247,6 @@ noncardiogenic pulmonary edema
 ibuprofen therapy
 ocular side effects from the use of ibuprofen
 blurred vision
-scotomata
-diplopia
-addition
-case of corneal verticillata
 bloody stools
 burning feeling in the chest
 stomach

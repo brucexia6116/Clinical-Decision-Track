@@ -9,74 +9,104 @@ dizziness
 disturbed coordination
 epigastric distress
 thickening of bronchial secretions
-nervous system
-side effects
-depression with drowsiness
-sedation
-patients
-motor skills
-dystonic reactions
-single doses of diphenhydramine
-active ingredient
-sleep
-cns depressant effect of diphenhydramine
-plasma concentrations
-plasma concentration threshold for sedation
-ng/ml
-mental impairment
-ng/ml
-patients
-driving
-taking diphenhydramine
-dystonic reactions
+reported side effects
+somnolence
 dizziness
-mental confusion
-rigidity
-lip
-tongue protrusion
-trismus
-torticollis
-swallowing difficulties
-toxic encephalopathy
-child with chicken pox
-topical diphenhydramine
-delirium
-elderly patients with mild dementia
-small oral dose of diphenhydramine
-hypersensitivity side effects
-rash
-pruritus
-eczema
-photosensitivity reactions
-hypersensitivity
-patients
-receiving systemic drug
-being
-topical application
-sensitization with systemic administration
-gastrointestinal side effects
+incoordination
+sedation/somnolence/sleepiness
+drowsiness
+unsteadiness
+dizziness
+headache
+attention disturbancerare
+extrapyramidal effects
+tremor
+convulsionsfrequency
+paresthesia
+dyskinesia/muscle dyskinesia
+vertigo
+neuritis
+incoordination
+psychomotor impairment
+activation of epileptogenic foci
+drowsiness
+few days
+dry mouthfrequency
+gastrointestinal disturbance
 nausea
-dry mouth
-cardiovascular
-side effects
-hypotension
-tachycardia
+vomiting
+constipation
+diarrhea
+dyspepsia
+epigastric distress
+fatiguefrequency
+lassitude
+tinnitus
+acute labyrinthitis
+asthenia
+chills
+impaired performance
+including
+impaired driving
+work
+information processing
+confusion
+depression
+sleep disturbancesfrequency
+paradoxical excitation/excitation
+agitation
+energy
+restlessness
+nervousness
+euphoria
+anxiety
+hallucinations
+insomnia
+irritability
 palpitations
-ocular side effects
-blurred vision
-diplopia
-dry eyes
-anticholinergic effects
-genitourinary side effects
-urinary retention
-dysuria as a result of the anticholinergic effects of diphenhydramine
-active ingredient
-sleep
-hematologic side effects
+hypotension
+arrhythmiafrequency
+tachycardia
+chest tightness
+extrasystoles
+blood disordersfrequency
 hemolytic anemia
 thrombocytopenia
 agranulocytosis
-antihistamines
+hypersensitivity reactionsfrequency
+angioedema
+anaphylactic shock
+liver dysfunction
+frequency
+rash
+urticaria
+skin rashes
+erythema
+photosensitivity
+pruritus
+drug rash
+excessive perspiration
+frequency
+dyspnea
+thickening of bronchial secretions
+throat tightening
+wheezing
+nasal stuffiness
+dry nose
+throat
+frequency
+urinary hesitancy/difficulty/retention
+dysuria
+early menses
+frequency
+blurred vision
+dry eyes
+diplopia
+frequency
+increased appetite
+anorexia
+frequency
+muscle twitching/weakness
 side effects
 sleep
 fda

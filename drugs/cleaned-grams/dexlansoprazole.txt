@@ -1,0 +1,282 @@
+stiffness
+abnormal dream
+viral infection
+red skin lesion
+dyspareunia
+edema
+tingle in the hand
+needle
+rectal hemorrhage
+pancreatitis
+hypothyroidism
+ulcer
+diabetes mellitus
+full feeling
+associate diarrhea
+alp
+trouble sleep
+oral mucosal blistering
+joint sprain
+duodenitis
+blood glucose
+blood potassium
+incoherent speech
+acne
+rash
+dysmenorrhea
+dermatitis
+tetany
+tonsillitis
+biliary colic
+blood gastrin
+vomiting of blood
+anemia
+bloody diarrhea
+sensation of spin
+desire
+transient ischemic attack
+respiratory tract congestion
+tinnitus
+lightheadedness
+body ache
+weakness
+require emergency intervention
+insomnia
+flatulence
+rectal tenesmus
+unusual weight gain
+burn
+respiratory tract infectionfrequency
+chest pain
+vomit
+seizure
+fall
+foot
+proctitis
+sore throat
+nausea
+swell of the eyelid
+painful defecation
+dyspepsia
+hemorrhoid
+cholecystitis
+ankle
+menstrual disorder
+idiopathic thrombocytopenic purpura
+myocardial infarction
+dizziness
+itch around the anus
+upper
+cramp
+constipation
+weight
+excess air
+abdominal pain
+pulse
+myalgia
+memory impairment
+dehydration
+fever
+difficulty with move
+muscle cramp
+hypomagnesemia
+angina
+drowsiness
+shakiness in the leg
+depression
+buzz
+candida infection
+gastric polyp
+vertigo
+red irritated eye
+paresthesia
+heaviness
+colonic polyp
+mchc
+dysphonia
+asthma
+bruise
+acute renal failure
+libido change
+inflammation
+bone pain
+facial edema
+armpit
+esophagitis
+loosening of the skin
+peel
+leg
+gastritis
+confusion
+tremble
+asthenia
+material
+chest tightness
+bone fracture
+runny nose
+abnormal fece
+hematemesis
+tremor
+perforation
+cough
+nasal congestion
+b cell lymphoma
+barrett
+influenza
+hyperventilation
+auditory hallucination
+feeling
+numbness
+crawl
+nasopharyngitis
+psychomotor hyperactivity
+pruritus
+corpuscular hemoglobin concentration
+jaw
+coffee grounds
+twitch
+headache
+total protein
+dysphagia
+epistaxis
+tender lymph gland in the neck
+skin lesion
+deafness
+ear congestion
+blur vision
+cholelithiasis
+leukocytoclastic vasculitis
+dysuria
+esophagus
+breath odor
+convulsion
+sunburn
+purple center
+discomfort in the arm
+sweating
+change in taste
+gerd
+dry mouth
+vulvo vaginal infection
+faint
+mucus stool
+blood creatinine
+palpitation
+loss of voice
+nausea or vomit
+oral herpes
+tachycardia
+bezoar
+eye irritation
+clostridium difficile
+blister
+redness of the face
+steven johnson syndrome
+goiter
+toxic epidermal necrolysis
+impaired gastric emptying
+continue ringing
+bowel
+pharyngitis
+micturition urgency
+procedural pain
+sore
+exfoliative dermatitis
+abdominal discomfort
+erythema
+gastroenteritis
+abdominal tenderness
+colitis
+chill
+painful urination
+deep vein thrombosis
+generalize rash
+eructation
+anaphylactic shock
+flatulencefrequency
+race heartbeat
+aspiration
+enteritis
+appetite change
+muscle spasm
+gas in the stomach
+loss in sexual ability
+trigeminal neuralgia
+hand
+hemolytic anemia
+altered taste
+groin
+oral edema
+hematochezia
+pound
+autoimmune
+pin
+bronchitis
+taste
+face
+rash or hive
+joint pain
+drive
+breathing
+hypertension
+upper chest
+intestine
+hyponatremia
+muscle pain
+ear pain
+feeling of constant movement of self
+surroundings
+pound in the ear
+tingle feeling
+migraine
+bilirubin
+diarrhea
+other unexplained noise in the ear
+arm
+sinusitis
+mucosal inflammation
+hypersensitivity
+lip
+unusual bleeding
+fracture
+liver function test
+performance
+anxiety
+swell of the body
+pharyngeal edema
+hot flush
+restless leg syndrome
+pain
+hypokalemia
+itch
+gastrointestinal hypermotility disorder
+menorrhagia
+musculoskeletal pain
+swell
+arthritis
+lymphadenopathy
+arrhythmia
+white spot in the mouth
+discomfort
+metallic taste
+gastrointestinal disorder
+upper respiratory tract infection
+hypercalcemia
+throat tightness
+sneeze
+folliculitis
+cerebrovascular accident
+central obesity
+muscle
+neck
+continue stomach pain
+arthralgia
+pyrexia
+hiccup
+prickle
+nodule
+anal discomfort
+pass gas
+bradycardia
+irritable bowel syndrome
+gi ulcer

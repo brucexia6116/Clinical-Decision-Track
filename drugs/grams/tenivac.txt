@@ -1,6 +1,125 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+needed effects
+diphtheria toxoid
+tetanus toxoid
+unwanted side effects
+medical attention
+diphtheria toxoid
+tetanus toxoid
+side effects
+medical attention
+body
+medicine
+side effects
+health care professional
+side effects
+following side effects
+local side effects
+erythema
+tenderness
+induration
+swelling
+redness
+warmth
+cellulitis
+nodules at the injection site
+hypersensitivity side effects
+allergic reactions
+rash
+urticaria
+pruritus
+face edema
+anaphylactoid reactions
+general
+side effects
+malaise
+temperature elevations
+pyrexia
+chills
+pain
+asthenia
+fatigue
+peripheral edema
+nervous system
+side effects
+headache
+paresthesia
+dizziness
+syncope
+convulsions
+gastrointestinal side effects
+nausea
+vomiting
+musculoskeletal side effects
+myalgia
+arthralgia
+pain in extremities
+musculoskeletal stiffness
+side effects of tenivac
+td
+fda
+healthcare professional for medical advice
+fever
+general feeling of discomfort
+illness
+unusual tiredness
+weakness
+bloating
+swelling of the face
+arms
+hands
+lower legs
+feet
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+chills
+convulsions
+cough
+difficulty with swallowing
+dizziness
+fainting
+fast heartbeat
+hives
+itching
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+rapid weight gain
+shortness of breath
+skin rash
+swelling
+puffiness of the face
+tender lymph glands in the neck
+armpit
+groin
+tightness in the chest
+tingling of the hands
+feet
+unusual weight gain
+loss
+wheezing
+hard lumps
+redness
+tenderness
+warmth at the injection site
+headache
+difficulty with moving
+joint pain
+lack
+loss of strength
+muscle
+cramping
+muscle stiffness
+nausea
+pain in the arms
+legs
+swollen joints
+vomiting

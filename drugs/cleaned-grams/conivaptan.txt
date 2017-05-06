@@ -1,0 +1,157 @@
+st segment depression
+swell of foot
+increase urination
+bruise
+tingle of hand
+hypomagnesemia
+fear
+sore mouth
+phlebitis
+urinary tract infection
+rash
+tetany
+cold sweat
+sore throat
+osmotic demyelination syndrome
+bowel movement
+nausea
+cloudy urine
+nervousness
+lightheadedness
+weakness
+unusually warm skin
+drowsiness
+insomnia
+chest pain
+vomit
+seizure
+foot
+fruit like breath odor
+wheeze
+irregular heartbeat
+loss of consciousness
+anemia
+loss
+infusion site pain
+confusional state
+hive
+tenderness
+tingle in hand
+slurred speech
+dizziness
+infusion site phlebitis
+cramp
+constipation
+pharyngolaryngeal pain
+sunken eye
+atrial dysrhythmia
+flush
+increase in amount of urine
+frequent urge
+arm
+bladder pain
+nightmare
+white patch in mouth
+stool
+thirst
+bluish color
+tingle
+inflammation
+mood change
+increase thirst
+sit position
+discoloration of skin
+leg
+cardiac failure event
+confusion
+tremble
+burn
+ulceration
+difficulty
+post
+cough
+bleed
+feeling of pressure
+blister
+change in skin color
+numbness
+adverse cardiac failure event
+unusual tiredness
+sleeplessness
+unusual weight gain
+problem in urination
+tongue
+placebo
+pale skin
+trouble sleep
+sepsis
+blur vision
+swell of face
+tightness in chest
+electrocardiogram
+sweating
+dry mouth
+pruritus
+sneeze
+faint
+underlie heart failure
+wrinkle skin
+nausea or vomit
+abdominal pain
+ankle
+side pain
+decrease urination
+rapid weight gain
+headache
+loss of appetite
+procedural diarrhea
+muscle spasm
+atrial fibrillation
+infection
+orthostatic hypotension
+unable to sleep
+fever or chill
+hypotension
+bloat
+soreness
+change in consciousness
+pneumonia
+warmth at site
+mental change
+faintness
+hypertension
+cool pale skin
+hyponatremia
+muscle pain
+redness
+lie
+pound in the ear
+unusual bleeding
+scarring
+get
+diarrhea
+peripheral edema
+lip
+depression
+increase in heart rate
+troubled breathing with exertion
+decrease urine
+pain
+hypokalemia
+itch
+swell
+painful urination
+lump
+hand
+flush dry skin
+rapid breathing
+fast heartbeat
+twitch
+increase hunger
+shortness of breath
+redness of skin
+pyrexia
+shakiness
+coldness
+infusion site erythema
+lower leg

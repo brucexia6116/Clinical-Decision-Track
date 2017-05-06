@@ -1,0 +1,491 @@
+epistaxis
+hypercholesterolemia
+periodontal destruction
+rectal hemorrhage
+normal level
+appetite
+osteoporosis
+genital infection
+runny nose
+recurrence
+pulmonary embolism
+grand mal convulsion
+nervousness
+erythema multiforme
+woman
+obsessive compulsive disorder
+mania
+other cardiac disease
+fall
+nonpsychiatric indication
+anemia
+disorientation
+abnormal gait
+psychotic disorder
+menstrual disorder
+sedation
+myocardial infarction
+acute psychosis
+young adult
+orgasm
+muscle cramp
+depression
+irritable bowel syndrome
+bruxism
+ejaculation delay
+other psychiatric disorder
+otitis externa
+gastritis
+asthenia
+genital moniliasis
+joint pain
+inappropriate antidiuretic hormone secretion
+sinus headache
+episode
+ejaculation disordercommon
+numbness
+precursor
+respiratory tract infection
+xerostomia
+pancreatitis
+micturition disorder
+impulsivity
+aggravate allergy
+weight decreasedfrequency
+actual incidence
+sweating
+ventricular tachycardia
+intermenstrual bleeding
+tachycardia
+injury
+impotence
+insomniacommon
+mydriasis
+atrial fibrillation
+infection
+unusual dream
+cellulitis
+adult
+general feeling of discomfort
+verrucafrequency
+hypertonia
+breast pain
+hemolytic anemia
+lichenoid dermatitis
+movement disorder
+bilirubinemia
+angina pectoris
+placebo group
+aplastic anemia
+paroxysmal cervical cranial dystonia
+scar
+serum
+neuroleptic malignant syndrome
+hyponatremia
+tingle feeling
+hematoma
+hyperprolactinemia
+nystagmus
+hypersensitivity
+epidermal necrolysis
+fever
+menorrhagia
+arthritis
+tenosynovitis
+fatigue
+palpitationuncommon
+aggravate depression
+man
+sinus congestion
+arthralgia
+menopausal symptom
+chest pain
+melena
+aggravate psoriasis
+bradycardia
+abdominal cramp
+premenstrual tension
+torsade de pointe
+indigestion
+bowel habit
+traumatic hematoma
+dry skin
+diabetes mellitus
+somnolence
+urinary tract infection
+induce worsening of depression
+leg cramp
+dysmenorrhea
+dry eye
+pain in the neck
+nausea
+lightheadedness
+belch
+drowsiness
+insomnia
+sleepiness
+vaginal hemorrhage
+associate hyponatremia
+pulmonary hypertension of the newborn
+jaw stiffness
+sore throat
+uterine fibroid
+erection
+aggravate restlessness
+myocarditis
+risk factor for the development of ssrus
+confusional state
+paroniria
+jitteriness
+mood swing
+nasal congestion
+paroxysmal movement disorder
+ulcerative stomatitisfrequency
+case of escitalopram induce paroxysmal dystonia
+constipation
+twist tongue movement
+increase risk of suicidal thinking
+mdd
+case of qt interval prolongation
+metrorrhagia
+leucopeniafrequency
+choreoathetosis
+fungal dermatitis
+muscle stiffness
+irritability
+abnormal glucose tolerance
+cheekbone
+convulsion
+tooth disorder
+thirst
+issue
+facial edema
+skin disorder
+influenza like symptomsuncommon
+spontaneous abortion
+cough
+alcohol problem
+tooth problem
+pyelonephritis
+earache
+trouble sleep
+life threatening serotonin syndrome
+hypomania
+postmenopausal bleeding
+ear disorder
+pre exist qt interval prolongation
+serum sodium
+ventricular arrhythmia
+erythematous rash
+unusual tiredness
+emerge suicidality
+shiver
+ankle
+dysesthesia
+tracheitis
+dyskinesia
+headache
+ear infection
+intestine
+nausea or vomit
+peripheral ischemia
+prolonged qt
+alopecia
+pharyngitis
+abnormal thinking
+vaginal bleedinguncommon
+abnormal vision
+ejaculation failure
+colitis
+vein disorder
+ulcerative colitis
+libido
+anxiety
+bloat
+shortness of breath
+excitability
+purpura
+pneumonia
+tardive dyskinesia
+hallucination
+feeling
+gastrointestinal hemorrhage
+racemic citalopram
+illness
+bronchitis
+ssris
+pass gas
+anger
+varicose vein
+muscle pain
+increase sweating
+galactorrhea
+idiopathic thrombocytopenia purpura
+stuffy nose
+prostatic disorder
+needle
+pain
+muscle contraction
+yawn
+rigor
+urinary retention
+epigastric discomfort
+cerebrovascular accident
+postural hypotension
+limb pain
+drive
+antidepressant
+propose mechanism for the development of hyponatremia
+vein distendedfrequency
+parkinsonism
+nerve root lesion
+dystonia
+hypochromic anemia
+tiredness
+full feeling
+causality
+crawl
+acne
+rash
+hypoesthesia
+disequilibrium
+somnolencecommon
+dullness
+tinnitus
+hostility
+abnormal accommodation
+malaise
+ejaculatory disorder
+tuberculosis
+myopathy
+dyspepsia
+plantar fasciitis
+hemorrhoid
+fulminant hepatitis
+dizziness
+eye infection
+vision
+female breast neoplasm
+gout
+cramp
+lethargy
+abdominal pain
+heartburn
+myalgia
+intensity
+angioedema
+withdrawal syndrome
+oral contracture with sustained
+weight increaseduncommon
+nightmare
+angle closure glaucoma
+pyrexiauncommon
+behavior in child
+sexual function abnormality
+incidence rate in the group
+postmarket experience
+eye pain
+muscle spasm
+arthropathy
+confusion
+herpes simplex
+furunculosis
+coma
+unintended pregnancy
+muscle ache
+syncoperare
+dysarthria
+akathisia
+hypoglycemia
+aggravate hypertension
+otosalpingitis
+concentration impairment
+blepharospasm
+delirium
+leg pain
+laryngitis
+dysphagia
+siadh
+rhabdomyolysis
+concomitant use of diuretic
+ataxia
+dyspnea
+excess air
+gastrointestinal bleeding
+tetany
+amnesia
+ovarian cyst
+eye irritation
+agranulocytosis
+arthrosis
+hyperkinesia
+anorgasmia
+carpal tunnel syndrome
+cystitis
+abdominal discomfort
+hypertensive crisis
+feeling of sluggishness
+hernia
+chill
+inflict injury
+hypotension
+enteritis
+numerous case of hyponatremia
+herpes zoster
+agitation
+extrapyramidal disorder
+delusion
+sting
+eczema
+muscle tightness
+decrease urine output
+toothache
+abscess
+author
+migraine
+hepatic enzyme
+prothrombin
+sinusitis
+weakness
+pustular rash
+metabolism of serotonin
+hot flush
+literature
+moniliasis
+itch
+depersonalization
+hand
+cyst
+restlessnessuncommon
+bacterial infection
+onychomycosis
+accidental injury
+neuropathy
+nocturia
+unusual drowsiness
+inability
+major depressive disorder
+urinary incontinence
+edema
+yawninguncommon
+delay ejaculation
+tca
+paroxysmal symptom
+lower baseline serum sodium level
+asthma
+phlebitis
+hepatic failure
+allergic reactionsfrequency
+shoulder
+flatulence
+increase sweatinguncommon
+diaphoresis
+performance
+snore
+irregular heartbeat
+desire
+fibromyalgia
+diplopia
+carbohydrate craving
+abnormal ecg
+risk of hyponatremia
+fractured neck of femur
+parasitic infection
+disorder
+lumbar disc lesion
+unintended injury
+vaginal candidiasis
+neuralgia
+paraesthesia
+rhinitis
+dysuria
+female gender
+flush
+estimate of the incidence of untoward sexual experience
+visual disturbance
+panic attack
+hepatic necrosis
+aggressiveness
+ocular hemorrhage
+similar case
+abnormal dream
+hepatitis
+acute renal failure
+increase thirst
+priapism
+burn
+chest tightness
+forgetfulness
+decrease appetite
+loss in sexual ability
+hyperlipemia
+paralysis
+atrophic vaginitis
+range
+swell of the face
+muscle weakness
+menstrual cramp
+loss of libido
+deafness
+female
+hyperglycemia
+painful laterocollis
+urticaria
+anorexia
+adolescent
+dry mouth
+pruritus
+cardiac failure
+decrease interest in sexual intercourse
+tenderness around the eye
+myoclonus
+vaginitisfrequency
+serotonin syndrome
+stomatitis
+siadh via release of antidiuretic hormone
+toxic epidermal necrolysis
+surgical intervention
+bursitis
+sleep apnea
+urine osmolality
+discontinuation of escitalopram serum sodium level
+other ssris
+low body weight
+steven johnson syndrome
+deep vein thrombosis
+gas in the stomach
+dysgeusia
+ticsfrequency
+vomitinguncommon
+pin
+inr
+hyperreflexia
+hypertension
+prickle
+suicide attempt
+snris as monotherapy
+bilirubin
+trouble breathing
+diarrhea
+gastroesophageal reflux
+peripheral edema
+role
+cerebrovascular disorder
+polyuria
+edema of extremity
+tightness of the chest
+serotonin syndromefrequency
+hypokalemia
+tremoruncommon
+nasopharyngitis
+neck shoulder pain
+upper respiratory tract infection
+tendinitis
+sneeze
+ischial neuralgia
+apathy
+thrombosis
+myocardial ischemia
+emotional lability
+amenorrhea
+costochondritis

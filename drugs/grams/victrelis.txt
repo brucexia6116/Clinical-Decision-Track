@@ -10,10 +10,6 @@ active ingredient
 victrelis
 unwanted side effects
 medical attention
-following side effects
-taking boceprevir
-check
-doctor
 boceprevir side effects
 medical attention
 body
@@ -56,6 +52,19 @@ side effects
 discontinuation
 anemia
 fatigue
+anemia
+hemoglobin
+neutrophils
+neutropenia
+decreased platelets
+leukopenia
+thrombocytopenia
+pancytopenia
+agranulocytosisuncommon
+hemorrhagic diathesis
+lymphadenopathy
+lymphopeniarare
+hemolysis
 decreased hemoglobin
 g/dl
 g/dl
@@ -73,19 +82,6 @@ agranulocytosis
 pancytopenia
 thrombocytopenia
 postmarketing experience
-anemia
-hemoglobin
-neutrophils
-neutropenia
-decreased platelets
-leukopenia
-thrombocytopenia
-pancytopenia
-agranulocytosisuncommon
-hemorrhagic diathesis
-lymphadenopathy
-lymphopeniarare
-hemolysis
 frequency
 serious acute hypersensitivity reactions
 urticaria
@@ -217,6 +213,8 @@ suicide attempt
 auditory hallucination
 visual hallucination
 psychiatric decompensation
+urticaria
+postmarketing experience
 alopecia
 dry skin
 rash
@@ -250,8 +248,6 @@ exfoliative dermatitis
 stevens-johnson syndrome
 toxic skin eruption
 toxicoderma
-urticaria
-postmarketing experience
 decreased appetite/anorexia
 dehydration
 hyperglycemia

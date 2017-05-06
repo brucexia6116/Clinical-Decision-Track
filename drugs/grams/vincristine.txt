@@ -15,15 +15,6 @@ months
 years after the medicine
 possible effects
 doctor
-following side effects
-taking vincristine
-check
-doctor
-following side effects
-taking vincristine
-check
-doctor
-nurse
 vincristine side effects
 medical attention
 body
@@ -115,13 +106,6 @@ common adverse reaction
 soft tissue damage
 extravasation
 place
-respiratory side effects
-acute shortness of breath
-severe bronchospasm
-been reported following
-administration of vinca alkaloids
-progressive dyspnea
-requiring chronic therapy
 acute shortness of breath
 severe bronchospasm
 vincristine
@@ -135,6 +119,26 @@ minutes
 hours after the administration of vincristine
 weeks
 dose of mitomycin
+respiratory side effects
+acute shortness of breath
+severe bronchospasm
+been reported following
+administration of vinca alkaloids
+progressive dyspnea
+requiring chronic therapy
+gastrointestinal side effects
+constipation
+abdominal cramps
+anorexia
+weight loss
+nausea
+vomiting
+oral ulceration
+diarrhea
+paralytic ileus
+intestinal necrosis
+megacolon
+perforation
 constipation
 form of upper colon impaction
 physical examination
@@ -151,19 +155,6 @@ laxatives
 paralytic ileus
 temporary discontinuance of the drug
 symptomatic care
-gastrointestinal side effects
-constipation
-abdominal cramps
-anorexia
-weight loss
-nausea
-vomiting
-oral ulceration
-diarrhea
-paralytic ileus
-intestinal necrosis
-megacolon
-perforation
 hematologic side effects
 anemia
 leukopenia
@@ -188,6 +179,10 @@ diplopia
 ptosis
 photophobia
 optic atrophy with blindness
+endocrine side effects
+pancreatitis
+syndrome
+inappropriate antidiuretic hormone
 syndrome
 high urinary sodium excretion in the presence of hyponatremia
 adrenal disease
@@ -200,23 +195,6 @@ improvement
 hyponatremia
 renal loss of sodium
 treatment with vincristine
-endocrine side effects
-pancreatitis
-syndrome
-inappropriate antidiuretic hormone
-study of males
-chemotherapy as children
-time of the study
-fold increase in azoospermia
-patients
-vincristine
-study
-vincristine
-unrecognized important role
-causing
-irreversible azoospermia
-childhood
-adolescence
 genitourinary side effects
 polyuria
 dysuria
@@ -232,6 +210,19 @@ prednisone
 clinicians
 counsel patients
 regarding reproductive risks if appropriate
+study of males
+chemotherapy as children
+time of the study
+fold increase in azoospermia
+patients
+vincristine
+study
+vincristine
+unrecognized important role
+causing
+irreversible azoospermia
+childhood
+adolescence
 studies in rats
 mice
 evidence of carcinogenesis

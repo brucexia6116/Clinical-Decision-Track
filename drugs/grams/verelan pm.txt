@@ -6,17 +6,12 @@ severe hypotension
 second degree
 atrioventricular block
 comprehensive list of adverse effects
-other dosage forms:
 needed effects
 verapamil
 active ingredient
 verelan pm
 unwanted side effects
 medical attention
-following side effects
-taking verapamil
-check
-doctor
 verapamil side effects
 medical attention
 body
@@ -54,6 +49,24 @@ paresthesia
 shakiness/tremor
 paralysis/tetraparesis
 somnolence
+cardiovascular
+side effects
+greater intensity at higher doses
+patients with a history of myocardial damage
+patients
+atrial flutter/fibrillation
+drug
+digoxin
+resting
+resting ventricular rates below beats/min
+same trial
+asymptomatic hypotension
+patients
+asystole
+second/third degree av block
+duration
+spontaneous cardiac action
+seconds in the form of a sinus rhythm
 symptomatic hypotension/hypotension/abrupt blood pressure fall
 sinus bradycardia/bradycardia
 heart rate
@@ -79,24 +92,12 @@ cardiogenic shock
 bradyarrhythmia in atrial fibrillation
 vasculitis
 erythromelalgia
-cardiovascular
-side effects
-greater intensity at higher doses
-patients with a history of myocardial damage
-patients
-atrial flutter/fibrillation
+non-obstructive paralytic ileus
+treatment
+gingival hyperplasia
 drug
-digoxin
-resting
-resting ventricular rates below beats/min
-same trial
-asymptomatic hypotension
-patients
-asystole
-second/third degree av block
-duration
-spontaneous cardiac action
-seconds in the form of a sinus rhythm
+prolonged period of time
+drug
 constipation
 dyspepsia
 nausea
@@ -109,12 +110,6 @@ dry mouth
 gastrointestinal stress
 gingival hyperplasia
 vomiting
-non-obstructive paralytic ileus
-treatment
-gingival hyperplasia
-drug
-prolonged period of time
-drug
 bronchospasm
 laryngeal spasm
 hypersensitivity reactions
@@ -164,13 +159,13 @@ myalgiafrequency
 muscle fatiguepostmarketing reports
 muscle cramps
 arthralgia
-elevated liver enzymes
-transaminases
-alkaline phosphatase
 reversible elevations liver enzymes
 treatment
 result of a hypersensitivity reaction
 allergic hepatitis
+elevated liver enzymes
+transaminases
+alkaline phosphatase
 hypersensitivity/allergic reactionspostmarketing reports
 allergy
 frequency
@@ -184,10 +179,10 @@ spotty menstruation
 erectile dysfunction/impotence
 postmarketing reports
 renal failure
-postmarketing reports: gynecomastia
 gynecomastia
 older male patients on prolonged treatment
 discontinuation of this drug
+postmarketing reports: gynecomastia
 postmarketing reports: purpura
 postmarketing reports
 blurred vision

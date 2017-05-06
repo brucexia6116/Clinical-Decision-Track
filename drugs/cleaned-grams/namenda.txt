@@ -1,0 +1,320 @@
+healthcare professional for medical advice
+yellow eye
+excitation mania
+influenza
+red skin lesion
+embolism
+edema
+bruise
+low blood pressure
+dehydration
+black tarry stool
+tiredness
+skin
+anxiety
+fear
+blood in the urine
+bloody diarrhea
+discouragement
+aggression
+dark color urine
+somnolence
+seizuresfrequency
+skeletal pain
+syncope
+phlebitis
+urinary tract infection
+no pulse
+abnormal renal function
+loss in sexual ability
+rash
+tenderness in the stomach area
+dermatitis
+cold sweat
+speech disorder
+rhythm
+atelectasis
+gastroenteritisfrequency
+no breathing
+cloudy urine
+nervousness
+inflict injury
+transient ischemic attack
+breathing
+apnea
+tingle of the hand
+weakness
+hostility
+intracranial hemorrhage
+insomnia
+recurrent fainting
+chest pain
+vomit
+seizure
+fall
+foot
+trouble
+walk
+irregular heartbeat
+loss of consciousness
+nausea
+desire
+loss
+health care professional
+erection
+dyspepsia
+hemorrhoid
+abnormal gait
+feel thing
+ankle
+menstrual disorder
+swell in the arm
+myocardial infarction
+dizziness
+disorder
+side
+thrombotic thrombocytopenic purpura
+phosphatase alkaline
+skin ulceration
+high fever
+worm like movement of the tongue
+lethargy
+constipation
+weight
+diabetes mellitusfrequency
+abdominal pain
+heartburn
+feeling
+back
+pulse
+myalgia
+tingle in all finger except smallest finger
+see
+difficulty with move
+loss of interest
+faint
+frequent urge
+troubled breathing
+comauncommon
+arm
+depression
+irritability
+vertigo
+esr
+venous thrombosis thromboembolismfrequency
+paresthesia
+gamma glutamyl transferase
+leg
+stool
+hepatitis
+namenda
+acute renal failure
+conjunctivitis
+leucocytosis
+medicine
+light color stool
+ulcer
+dyspnea
+erythrocyte sedimentation rate
+leg without any injury
+body
+ggt
+burn
+aggravate diabetes mellitus
+peel
+increase weight
+skin disorder
+confusion
+asthenia
+nightmare
+speak
+pancytopenia
+suicide
+deep thrombophlebitis
+diverticulitis
+puffing of the cheek
+coma
+tremor
+increase libido
+cough
+fecal incontinence
+active ingredient
+blister
+rate disturbance
+stupor
+restlessness
+numbness
+difficulty with swallow
+slurred speech
+hypernatremia
+dry mouth
+extrapyramidal disorder
+red irritated eye
+qtc prolongation
+swell of the face
+wheeze
+muscle weakness
+stiffness
+unusual weight gain
+trouble with sleep
+walk that subside during period of rest
+placebo
+leg pain
+sudden severe weakness
+cataract
+fda
+suicidal ideation
+pancreatitis
+unusually pale skin
+large amount of fat in the blood
+blur vision
+abrasionuncommon
+muscle twitching
+illness
+shortness of breath
+stomach upset
+breathe foreign substance into the lung
+radiate
+hyperglycemia
+increase appetite
+convulsion
+anorexia
+partial epileptic seizure
+tightness in the chest
+gastric ulcer
+pruritus
+bleed gum
+cardiac failure
+bronchitis
+decrease interest in sexual intercourse
+abnormal cryingfrequency
+red spot on the skin
+loss of bladder control
+venous thrombosis thromboembolism
+change
+severe constipation
+pain in the joint
+balance disorder
+pain in the stomach
+side pain
+dyskinesia
+headache
+loss of appetite
+pyuria
+hyperuricemia
+agranulocytosis
+atrial fibrillation
+arthrosis
+clumsiness or unsteadiness
+general feeling of tiredness
+hyperkinesia
+infection
+pound slow heartbeat
+cystitis
+rhinitisfrequency
+fungal infectionsfrequency
+general feeling of discomfort
+tingle in the face
+trouble with concentrate
+stomach
+steven johnson syndrome
+pneumonia
+hypokalemiafrequency
+leukopenia
+medical attention
+hypotension
+uncontrolled repetitive movement of the tongue
+bloat
+dependent edema
+increase creatinine
+purple center
+hypertonia
+difficulty with breathing
+purpura
+ischemic event
+rapid weight gain
+arthralgia
+severe muscle stiffness
+hallucination
+balance
+stomach cramp
+lip smacking
+bilirubinemia
+cardiac arrestuncommon
+pound
+pleasure
+angina pectoris
+agitation
+loosening of the skin
+delusion
+severe vomiting
+joint pain
+twist
+hypertension
+mental status change
+decrease urine output
+tooth caries
+cool pale skin
+hyponatremia
+muscle pain
+sleepiness
+suicide attempt
+increase sweating
+dementia
+basal cell carcinomafrequency
+pound in the ear
+unusual bleeding
+hearing
+unusual tiredness
+diarrhea
+sore throat
+no blood pressure
+peripheral edema
+neutropenia
+lip
+bladder pain
+burn feeling in the chest
+cerebrovascular disorder
+performance
+hematuria
+chill
+tension
+bullous eruption
+fever
+pain
+itch
+cough produce mucus
+renal insufficiency
+back pain
+painful urination
+abdomen
+hand
+continue vomit
+white spot in the mouth
+thrombocytopenia
+fatigue
+severe headache
+upper respiratory tract infection
+stomach pain
+indigestion
+fast heartbeat
+total body jerk
+twitch
+postural hypotension
+increase hunger
+sore
+memantine
+pucker
+drive
+face
+micturition frequencyfrequency
+shakiness
+hyperventilation
+unusual drowsiness
+tooth ache
+inability
+aphasia
+lower leg
+bradycardia
+uncontrolled chewing movement
+urinary incontinence

@@ -1,0 +1,299 @@
+hyper
+pulmonary edemafrequency
+pulmonary congestion
+pleural effusion
+hypocalcemia
+burn
+torsade de pointe
+disturbance in attention
+suicidal ideation
+pulmonary edema
+cardiac amyloidosis
+dehydration
+subdural hematoma
+erythematous plaque
+sinus arrest
+appetite
+pericardial effusion
+somnolence
+asthma
+syncope
+bacteremia
+joint swell
+decrease blood bicarbonate level
+dry eye
+rash
+improvement
+hypoesthesia
+herpetic neuralgia
+c reactive protein
+herpes
+speech disorder
+proliferative glomerular nephritis
+atelectasis
+portal vein thrombosis
+nausea
+increase blood alkaline phosphatase
+cognitive disorder
+aggravate atrial fibrillation
+small intestinal obstruction
+urea
+return
+pain in limb
+weakness
+intracranial hemorrhage
+long term outcome of peripheral neuropathy
+paraplegia
+asymptomatic increase in liver enzyme
+disseminate intravascular coagulation
+malaise
+vomit
+blepharitis
+pleural infection
+wheeze
+rhinorrhea
+siadh
+anemia
+chronic obstructive airway disease
+angioedema
+thrombocytopenia purpurafrequency
+aspergillosis
+dyspepsia
+tachypnea
+psychotic disorder
+hemoptysis
+resolution of peripheral neuropathy
+mantle cell lymphoma
+activity
+case of severe sensory
+myocardial infarction
+dizziness
+increase blood lactate dehydrogenaseuncommon
+disorder
+peripheral swell
+preexist symptom
+cutaneous vasculitis
+constipation
+weight
+neuralgia
+irritation
+viral infection
+rhinitis
+renal colic
+fever
+neuropathic pain
+muscle cramp
+encephalopathy
+sciatica
+paralytic ileus
+psychiatric disorder
+irritability
+cholestasis
+septic shock
+thrombocytopenia
+grade hypotension
+burn sensation
+fda
+paresthesia
+epistaxis
+hepatitis
+conjunctivitis
+worsen peripheral neuropathy
+dyspnea
+paralytic intestinal obstruction
+mood swing
+lacrimation
+muscle spasm
+jerky movement
+tumor lysis syndrome
+hyperesthesia
+confusion
+complete atrioventricular block
+bronchopneumonia
+chest wall pain
+lower respiratory tract lung infection
+oral candidiasis
+photophobia
+pain in jaw
+pancytopenia
+hepatic hemorrhage
+sinusitis
+hypomagnesemia
+cachexia
+hematemesis
+post
+cough
+nasal congestion
+impaired hearing
+peripheral neuropathy in the phase
+histiocytoid sweet syndromefrequency
+syndrome of inappropriate antidiuretic hormone
+restlessness
+numbness
+hypoglycemia
+nasopharyngitis
+respiratory alkalosis
+laryngeal edema
+urinary tract infection
+muscle weakness
+rigor
+symptom of neuropathy
+exclude vertigo
+ageusia
+eye discharge
+dysphagia
+dysuriauncommon
+grade
+febrile neutropenia
+bone pain
+blur vision
+productive cough
+ophthalmic herpesfrequency
+steven johnson syndromefrequency
+muscle twitching
+pericarditis
+leukocytoclastic vasculitis
+proteinuria
+motor
+listeriosis
+convulsion
+urticaria
+anorexia
+bladder spasm
+grade neuropathy
+eye
+ventricular tachycardia
+toxoplasmosis
+pruritus
+agitation
+hyperventilation
+micturition urgency
+left ventricular ejection fraction
+pyrexiafrequency
+dysesthesia
+bilateral hydronephrosis
+eye irritation
+headache
+insomnia
+large intestinal perforation
+stomatitis
+hyperuricemia
+toxic epidermal necrolysis
+acute respiratory distress syndrome
+pulmonary alveolar hemorrhage
+orthostatic hypotension
+mediate hypersensitivity
+peripheral sensory neuropathy
+baseline platelet count during the rest period
+abnormal vision
+buttock pain
+gastroenteritis
+generalize morbilliform erythema with ulceration
+blindness
+oliguria
+gastrointestinal event
+increase blood creatininefrequency
+leukopenia
+anxiety
+autonomic neuropathy
+optic neuropathy
+immune complex
+large intestinal obstruction
+related infection
+sinus pain
+myalgia
+sign of peripheral neuropathy
+orthopnea
+pneumonia
+dysgeusia
+herpes zoster
+arthralgia
+nodule on the trunk
+hemolytic anemia
+hallucination
+eye painuncommon
+difficulty in micturition
+conjunctival infection
+grade event
+thrombocytopenia purpura
+injection site erythema
+schedule of bortezomib
+angina pectoris
+bronchitis
+pulmonary hypertension
+joint stiffness
+dyspnea on exertion
+related decrease in platelet count during the dosing period
+atrial flutter
+respiratory arrest
+hemorrhagic cystitis
+hypertension
+mental status change
+peripheral neuropathy
+facial edema
+myocardial ischemia
+muscle stiffness
+acute diffuse infiltrative pulmonary disease
+hemorrhagic duodenitis
+hyponatremia
+severity
+hypophosphatemia
+migraine
+acute pancreatitis
+paresis
+burn feeling in the foot
+diarrhea
+gastroesophageal reflux
+hoarseness
+hyperkalemia
+neutropenia
+hemorrhagic gastritis
+erectile dysfunction
+fecal impaction
+mononeuropathy
+hematuria
+asthenic condition
+serious underlying medical condition
+blood amylase
+acute liver failure
+restless leg syndrome
+pain
+hypokalemia
+renal calculus
+tremoruncommon
+musculoskeletal pain
+swell
+lymphadenopathy
+hand
+discomfort
+vertigo
+fatigue
+lymphopenia uncommon
+delirium
+upper respiratory tract infection
+hyperbilirubinemia
+catheter
+throat tightness
+cerebrovascular accident
+procedural pain
+congestive cardiac failure
+testicular pain
+postural dizziness
+gastrointestinal hemorrhage
+pyrexia
+depressionuncommon
+peritonitis
+oral mucosal petechiae
+ascite
+chronic renal impairment
+worsen
+procedural hemorrhage
+hypoxia
+eye hemorrhage
+sensation of heaviness
+healthcare professional for medical advice
+vitamin b deficiency
+conjunctival hyperemia
+cardiac arrest
+melena
+bradycardia

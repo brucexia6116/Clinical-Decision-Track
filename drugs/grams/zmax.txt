@@ -1,14 +1,9 @@
-other dosage forms:
 needed effects
 azithromycin
 active ingredient
 zmax
 unwanted side effects
 medical attention
-following side effects
-taking azithromycin
-check
-doctor
 azithromycin side effects
 medical attention
 body
@@ -17,160 +12,191 @@ side effects
 health care professional
 side effects
 following side effects
-gastrointestinal side effects
+reported side effects
+diarrhea/loose stools
+abdominal pain
 nausea
-abdominal discomfort
-vomiting
 diarrhea
-patients
-patients
-discontinued therapy
-side effects
-dyspepsia
+nausea
+abdominal pain
+loose stools
 flatulence
-mucositis
-oral moniliasis
-constipation
-melena
-gastritis
-frequency
-pseudomembranous colitis
-antibacterial agents
-severity from mild
-diagnosis in patients
-diarrhea
-administration of azithromycin
-active ingredient
-zmax
-anorexia
-vomiting/diarrhea
-resulting in dehydration
-pancreatitis
+vomiting
+dyspepsia
+stomatitisuncommon
+gastroenteritis
 oral candidiasis
+constipation
+dysphagia/oral dysphagia
+abdominal distension
+dry mouth
+eructation
+mouth ulceration
+salivary hypersecretionfrequency
+pseudomembranous colitis
+pancreatitis
+tongue discoloration
+melena
+enteritis
+abnormal stools
+gastrointestinal disorderpostmarketing reports
 pyloric stenosis
-rare cases of tongue discoloration
-postmarketing experience
-reappearance of allergic symptoms
-further azithromycin
-active ingredient
-zmax
-exposure
-symptomatic therapy
-phenomenon
-long tissue half-life of the drug
-patients
-experiencing allergic symptoms
-prolonged periods of observation
-symptomatic treatment
-hypersensitivity side effects
-angioedema
-anaphylaxis
-stevens-johnson syndrome
-toxic epidermal necrolysis
-toxic pustuloderma with fever
-patient
-receiving azithromycin
-isolated report of azithromycin-induced hypersensitivity syndrome
-allergic reactions
-including arthralgia
-edema
-urticaria
-angioedema
-anaphylaxis
-postmarketing experience
-cardiovascular
-side effects
-arrhythmias
-including
-ventricular tachycardia
-prolongation of the qt interval
-torsades de pointes
-palpitations
-hypotension
-chest pain
-postmarketing experience
-causal relationship
-hepatic side effects
-transient elevations of liver function tests
-including ast
-alt
-elevated bilirubin
-hepatitis
-cholestatic jaundice
-rare cases of hepatic necrosis
-hepatic failure
-resulting in death
-postmarketing experience
-local side effects
-intravenous administration of the drug
-pain at injection site
-local inflammation
-nervous system
-side effects
+decreased lymphocyte
+hematocrit
+hemoglobin
+neutrophil count
+eosinophil count
+platelets
+hematocrit
+lymphocytes
+basophils
+monocytes
+neutrophilsuncommon
+leukopenia
+neutropenia/mild neutropenia
+eosinophiliafrequency
+thrombocytopenia
+anemia/hemolytic anemia
+platelets
 headache
-somnolence
-vertigo
 dizziness
-patients
-hearing disturbances
-hearing loss
-deafness
-tinnitus
 paresthesia
-convulsions
-hyperactivity
-nervousness
-agitation
+dysgeusiauncommon
+somnolence
+hypesthesiafrequency
 syncope
-postmarketing experience
-dermatologic side effects
-rash
-pruritus
-urticaria
-photosensitivity
-serious skin reactions
-including erythema multiforme
-stevens-johnson syndrome
-toxic epidermal necrolysis
-postmarketing experience
-other side effects
+convulsion
+anosmia
+ageusia
+parosmia
+vertigo
+myasthenia gravis
+taste perversion
+hyperkinesiapostmarketing reports
+hyperactivity
+injection site pain
+infection
+edema
+reactions
+inflammation
+deafness
+fatigueuncommon
+candidiasis
+ear disorder
 asthenia
+malaise
+face edema
+pyrexia
+pain
+post
+procedural complications
+hearing disturbances/impairment
+tinnitus
+laboratory abnormalities
+bacterial infectionfrequency
+psychomotor hyperactivity
+mucositis
+fever
+chills
+otitis mediapostmarketing reports
+hearing loss
 taste/smell perversion
 loss
-fatigue
-malaise
-postmarketing experience
-renal side effects
-elevations in serum creatinine
-blood urea nitrogen
-interstitial nephritis
-acute renal failure
-postmarketing experience
-interstitial nephritis
-permanent renal failure
-patient
-receiving azithromycin
-active ingredient
-zmax
-monotherapy
-hematologic side effects
-decreased lymphocytes
-eosinophils
-leukopenia
-neutropenia
-thrombocytopenia
-postmarketing experience
-metabolic side effects
-reduced bicarbonate
-alterations in potassium
-psychiatric side effects
-aggressive reaction
+rash
+pruritusuncommon
+photosensitivity reaction
+stevens-johnson syndrome
+urticaria
+dermatitis
+dry skin
+hyperhidrosis
+eczemavery
+drug reaction of eosinophilia
+systemic symptoms
+dress
+frequency
+toxic epidermal necrolysis
+erythema multiforme
+fungal dermatitis
+sweating
+vesiculobullous rash
+maculopapular rash
+decreased blood bicarbonate
+anorexiauncommon
+abnormal sodium
+increased blood alkaline phosphatase
+bicarbonate
+chloridefrequency
+increased lactate dehydrogenase
+sodium
+potassiumpostmarketing reports
+dehydration
+dyspneauncommon
+pneumonia
+pharyngitis
+rhinitis
+respiratory disorder
+epistaxisfrequency
+bronchospasm
+cough
+pleural effusion
+asthma
+bronchitis
+arthralgiauncommon
+osteoarthritis
+myalgia
+pain
+neck painfrequency
+increased creatine phosphokinase
+vaginitis/vaginal infectionuncommon
+dysuria
+metrorrhagia
+testicular disorder
+allergic reactionuncommon
+angioedema
+hypersensitivityfrequency
+anaphylactic reaction/anaphylaxispostmarketing reports
+fatal anaphylaxis
+visual impairmentfrequency
+conjunctivitis
+hepatitis
+ast
+alt
+ggt
+blood bilirubin
+abnormal liver function tests
+cholestatic jaundicefrequency
+hepatic failure/fatal hepatic failure
+fulminant hepatitis
+hepatic necrosis
+palpitations
+hot flush
+edema
+chest pain
+peripheral edemafrequency
+torsades de pointes
+arrhythmia
+ecg qt
+hypotension
+ventricular tachycardia
+nervousness
+insomniarare
+agitationfrequency
+aggression/aggressive reaction
 anxiety
-postmarketing experience
-genitourinary side effects
-vaginitis
+delirium
+hallucination
+emotional lability
+irritability
+hostility
+renal pain
+increased blood urea nitrogen
+creatininefrequency
+acute renal failure
+interstitial nephritis/nephritis
+frequency
 moniliasis
-postmarketing experience
+flu syndrome
 side effects of zmax
 fda
 healthcare professional for medical advice

@@ -67,10 +67,6 @@ increased ast
 alt
 alkaline phosphatase
 bilirubin
-cephalosporins
-rare cases of cholestatic jaundice
-cephalosporins as a class
-elevated ldh
 nervous system
 side effects
 dizziness
@@ -80,11 +76,7 @@ headache
 nervousness
 insomnia
 confusion
-somnolence in <
-cephalosporins
-seizures
-dosages
-impaired patients
+somnolence
 other side effects
 superinfection
 diaper rash

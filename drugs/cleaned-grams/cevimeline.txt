@@ -1,0 +1,439 @@
+precordial chest pain
+hypercholesterolemia
+stiffness of muscle
+heart disorder
+periodontal destruction
+hypothyroidism
+appetite
+abnormal hepatic function
+malignant female breast neoplasm
+strangury
+abnormal renal function
+electrolyte abnormality
+appendicitis
+pulmonary embolism
+breathing
+post operative hemorrhagefrequency
+cardiomegaly
+corneal opacity
+weight loss
+fall
+vascular disorder
+nausea
+disturbed color vision
+abnormal gait
+cough mucus produce
+menstrual disorder
+myocardial infarction
+positive cervical smear test
+lupus erythematosus rash
+depression
+irritable bowel syndrome
+swell of hand
+conjunctivitis
+weight decrease
+blur
+osteoporosis
+pyuriafrequency
+asthenia
+genital moniliasis
+puffiness of face
+abnormal coordination
+vitreous detachment
+ovarian disorder
+stiffness
+cataract
+distended vein
+acne
+micturition disorder
+vomitinguncommon
+bronchitisuncommon
+femoral head
+aggravate allergy
+epididymitis
+pericarditis
+tongue ulceration
+sweating
+leukorrhea
+intermenstrual bleeding
+faint
+heart murmur
+temperature sensation change
+tachycardia
+injury
+rapid weight gain
+impotence
+loss of appetite
+skin exfoliation
+mydriasis
+trouble in sleep
+sore
+cellulitis
+bundle branch block
+activate pain trauma
+lichenoid dermatitis
+purple bruise
+glaucoma
+angina pectoris
+keratoconjunctivitis
+keratitis
+scleritis
+lupus erythematosus syndrome
+hyponatremia
+serum
+nail discoloration
+redness
+tenosynovitis
+tongue disorder
+hematoma
+hyperkalemia
+esophageal stricture
+fever
+menorrhagia
+arthritis
+fatigue
+weight increase
+aggravate depression
+fast heartbeat
+tenesmus
+hyperkeratosis
+neck
+genital pruritus
+arthralgia
+scleroderma
+scaling of skin
+chest pain
+melena
+rectal disorder
+swell of eye
+viral infection
+dry skin
+shake
+diabetes mellitus
+somnolence
+leg cramp
+dysmenorrhea
+atelectasis
+nasal ulcer
+basal cell carcinoma
+belch
+insomnia
+vaginal hemorrhage
+aphasia
+foot
+cholinergic syndrome
+aggravate rheumatoid arthritis
+skin rash
+paroniria
+hemoptysis
+bone
+bloody nose
+eyelid
+constipation
+pleurisy
+swell on side of face
+lichen planus
+dizzinessuncommon
+renal calculus
+hyperproteinemia
+tooth disorder
+increase creatine phosphokinase
+hot flushesuncommon
+swell
+skin disorder
+periorbital edema
+lactic dehydrogenase
+mental confusion
+cough
+geographic tongue
+unusual tiredness
+tongue discoloration
+skeletal painuncommon
+osteomyelitis
+pyelonephritis
+earache
+feeling of warmth in face
+hearing
+ring
+peptic ulcer
+gastric ulcer
+ankle
+dysesthesia
+abnormal urine
+dyskinesia
+headache
+aggravate arthritis
+goiter
+alopecia
+pharyngitis
+abnormal thinking
+hypertriglyceridemia
+light headedness
+gastroenteritis
+oliguria
+ulcerative colitis
+itch of vagina
+bloat
+shortness of breath
+purpura
+herpes simplex
+hallucination
+gastrointestinal hemorrhage
+rigorsuncommon
+skin hypertrophy
+skin discoloration
+gum hyperplasia
+gingivitis
+dementia
+pallor
+lie
+peripheral ischemia
+unusual bleeding
+arm
+pulmonary congestion
+chest
+lip
+excessive sweating
+prostatic disorder
+bullous eruption
+pain
+ileus
+swell of gum
+yawn
+mouth
+urinary retention
+watering of mouth
+headache common
+postural hypotension
+decrease touch sensation
+itch feeling in eye
+respiratory disorderfrequency
+gamma glutamyl transferase
+bone disorder
+pleural effusion
+female breast pain
+squamous carcinoma
+change in bowel habit
+cholecystitis
+ulcer
+substernal chest pain
+duodenitis
+jaw
+edema
+avascular necrosis
+dermatitis
+surroundings
+speech disorder
+loss of vision
+lower back pain
+get
+arrhythmia
+malaise
+itch eye
+chronic obstructive airway disease
+dyspepsia
+plantar fasciitis
+hemorrhoid
+motion sickness
+postoperative pain
+soreness
+increase glucocorticoid
+nephrosis
+dizziness
+aggravate multiple sclerosis
+female breast neoplasm
+gout
+face edema
+abdominal pain
+heartburn
+hyperuricemia
+taste perversionfrequency
+retinal disorder
+stuffy nose
+pulmonary fibrosis
+thirstfrequency
+eye pain
+arthropathy
+confusion
+intestinal obstruction
+furunculosis
+redness of skin
+deep thrombophlebitis
+diverticulitis
+coma
+tear of the eye
+muscle ache
+hyperkinesia
+tinnitusfrequency
+hypoglycemia
+aggravate hypertension
+superficial phlebitis
+increase blood urea nitrogen
+delirium
+leg pain
+glutamate pyruvate transaminase
+laryngitis
+retinal deposit
+dysphagia
+synovitis
+sepsis
+blepharitis
+enterocolitis
+dysuria
+other skin area
+dyspnea
+feeling of constant movement of self
+amnesia
+urinary tract infectionuncommon
+ovarian cyst
+faintness
+carpal tunnel syndrome
+heat stroke
+chill
+hypotension
+cloudy urine
+dental caries
+herpes zoster
+hypertension
+glycosuria
+glossitis
+pound
+agitation
+mental change
+painuncommon
+delusion
+joint pain
+eczema
+hepatic enzyme
+sinusitis
+weakness
+pound in ear
+itch
+depersonalization
+painful urination
+hand
+parosmia
+onychomycosis
+uterine hemorrhage
+neuropathy
+cold clammy skin
+nocturia
+anxietyfrequency
+vomit
+lower leg
+urinary incontinence
+gastritis
+rashuncommon
+ldh
+bruise
+bronchospasm
+dehydration
+viral hepatitis
+abnormal cry
+hyperesthesia
+asthma
+syncope
+tremble of hand
+difficulty breathing
+oral hemorrhage
+apnea
+rectum hemorrhage
+bacterial infection
+urethral disorder
+diaphoresis
+oxaloacetic transaminase
+blur vision
+irregular heartbeat
+nail disorder
+rosacea
+photopsia
+diplopia
+pain on side of face
+abnormal ecg
+corneal ulceration
+cholelithiasis
+endometrial disorder
+supraventricular tachycardia
+skin ulceration
+albuminuria
+neuralgia
+abnormal sexual function
+redness of joint
+rhinitis
+flush
+tense muscle
+mood
+paresthesia
+abnormal dream
+dysphonia
+neurosis
+joint dislocation
+sit position
+esophagitis
+inner lining of eye
+bladder discomfort
+burn
+change in vision
+nonprotein nitrogen
+hyperlipemia
+paralysis
+atrophic vaginitis
+choke
+paronychia
+anterior chamber eye hemorrhage
+muscle weakness
+tongue
+temperature sensation
+deafness
+swell of face
+shake of hand
+tightness in chest
+hyperglycemia
+convulsion
+urticaria
+dry mouth
+pain in eye
+stomatitis
+vasculitis
+renal pain
+surgical intervention
+bursitis
+enlarged abdomen
+failure
+hiccup
+t wave inversion
+seborrhea
+alkaline phosphatase
+personality disorder
+crack in skin
+onychia
+myopia
+verruca
+fast weak pulse
+stomach cramp
+urine flow
+buzz in the ear
+hypercalcemia
+excessive salivation
+tremble
+blood pressure fluctuation
+serum glutamate
+mucositis
+diarrhea
+involuntary muscle contraction
+polyuria
+hematuria
+mouth edema
+illusion
+hypokalemia
+contact dermatitis
+upper respiratory tract infection
+tendinitis
+white spot on tongue
+migraine headache
+diarrhea common
+apathy
+emotional lability
+amenorrhea
+costochondritis
+extrasystole

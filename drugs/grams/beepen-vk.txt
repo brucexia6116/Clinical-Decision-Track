@@ -2,27 +2,35 @@ taking penicillin
 potassium
 emergency help
 following effects
-side effects
-oral penicillin therapy
-parenteral penicillin therapy
+common side effects
+gastrointestinal effects
+hypersensitivity reactions
+hypersensitivity reactions
+parenteral therapy
 degrees of hypersensitivity
 including
 fatal anaphylaxis
 oral penicillin
-gastrointestinal side effects
+onset of clostridium
+difficile-associated diarrhea
+antibacterial therapy
 nausea
 vomiting
-epigastric distress
-diarrhea
+abdominal pain
+diarrhearare
+sore mouth
 black hairy tongue
-clostridium difficile
-associated diarrhea
-therapy
+discoloration of tongue
+pseudomembranous colitisfrequency
+epigastric distress
+stomatitis
+glossitis
+soft stools
 pancreatitis
 intestinal necrosis
 blood in the stool
 hypersensitivity reactions with penicillin
-intravenous therapy
+therapy
 oral therapy
 initial sensitizing exposure
 production of antigen-specific ige before clinical manifestations of hypersensitivity
@@ -32,15 +40,13 @@ penicillin
 utero exposure
 breast milk exposure
 occupational exposure
-hypersensitivity side effects
-skin eruptions
-exfoliative dermatitis
-pruritus
-urticaria
+allergic reactions
+skin reactions
+severe allergic reactions
+causing angioedema
 laryngeal edema
-fever
-eosinophilia
-hypersensitivity myocarditis
+anaphylaxis
+frequency
 serum
 sickness-like reactions
 chills
@@ -48,37 +54,77 @@ fever
 edema
 arthralgia
 prostration
-fatal anaphylaxis
-shock
-death
-dermatologic side effects
+hypersensitivity/allergic reactions
+including skin eruptions
+exfoliative dermatitis
+pruritus
+urticaria
+angioneurotic edema
+erythema multiforme
+joint pain
+fever
+eosinophilia
+hypersensitivity myocarditis
+hemolytic anemia
+interstitial nephritis
+anaphylactic shock
+collapse
+anaphylactoid reactions
+asthma
+purpura
+gastrointestinal symptoms
 rash
+morbilliform
+pruritusrare
+exfoliative dermatitisfrequency
 peeling
 mucosal ulceration
 urticaria
-hematologic side effects
+changes in blood counts
 hemolytic anemia
-anemia
 leukopenia
 thrombocytopenia
+neutropenia
+eosinophilia
+agranulocytosisfrequency
+coagulation disorders
+including
+prolonged bleeding time
+platelet dysfunction
+anemia
 lymphadenopathy
-hepatic side effects
-increased sgot
+hepatitis
+cholestatic jaundicefrequency
+increased ast
 reversible hepatotoxicity
 jaundice
 prolonged cholestasis
+nephropathy
+high doses of parenteral penicillin
+interstitial nephritisfrequency
+nephropathy
+frequency
+central
 nervous system
-side effects
-severe reactions with high dose penicillin therapy
-patients with renal dysfunction
-reactions
+cns
+toxicity
+including convulsions
+paresthesia
+neuropathy
 myoclonus
 seizures
-visual hallucinations
 mentation
+abnormal taste perception
+tinnitus
 neurologic reactions
-patients with renal dysfunction
 aseptic meningitis
+cns toxicity
+high doses
+severe renal dysfunction
+paresthesia
+prolonged use
+neuropathy
+high doses of parenteral penicillin
 severe neurologic reactions
 penicillin doses
 units
@@ -94,17 +140,22 @@ csf
 penicillin levels
 patients with seizures
 csf penicillin levels
-units/ml in the seizure group with the highest csf concentrations
+units/ml in the seizure group with the highest csf levels
 units/ml in the group without seizures
-other side effects
+frequency
+overgrowth of nonsusceptible organisms
+candida
 fatigue
 asthenia
 pain
-abnormal taste perception
-tinnitus
 aggravation
 existing disorders
-respiratory side effects
+frequency
+vulvovaginitis
+frequency
+auditory hallucinations
+visual hallucinations
+frequency
 hypoxia
 apnea
 dyspnea

@@ -5,11 +5,6 @@ nausea
 vomiting
 alopecia
 comprehensive list of adverse effects
-following side effects
-taking doxorubicin
-check
-doctor
-nurse
 taking
 drug
 side effects
@@ -104,15 +99,6 @@ preexisting lv
 systolic dysfunction
 ejection fraction
 lvef
-decline
-absolute lvef
-least mg/m cumulative dose
-data
-shown right ventricular septal wall motion
-lv
-diastolic dysfunction
-development of doxorubicin-induced lv
-systolic dysfunction
 early effects of anthracyclines
 rare cases of pericarditis-myocarditis
 patients with no prior history of cardiac disease

@@ -1,0 +1,344 @@
+influenza
+vasovagal
+cholestasisrare
+red skin lesion
+runny nose
+sex organ
+nail bed disorder skin injuriesrare
+pulmonary embolism
+fatalitiesfrequency
+erythema multiforme
+appetite disorder
+hypertensionuncommon
+bladder symptom
+nephropathy
+odynophagia
+anemia
+inflammationuncommon
+hive
+sensory abnormalitiesuncommon
+tenderness
+feeling of warmth
+merkel cell carcinoma
+myocardial infarction
+upper
+tightness in the chest
+crust skin
+nail
+retinal hemorrhage
+bipolar disorder
+leg
+gastritis
+asthenia
+ulceration
+pain in the arm
+tremor
+perforation
+cirrhosis
+eyelid inflammation
+vasculitide
+cough or hoarseness
+autoantibody
+respiratory tract infection
+cyst
+hbv
+pancreatitis
+related condition
+sweating
+demyelinate disease
+eye
+ancytopenia
+faint
+red lump under the skin
+ecchymose
+rapid weight gain
+loss of appetite
+skin exfoliation
+atrial fibrillation
+thrombophilia
+infection
+sore
+cellulitis
+general feeling of discomfort
+cranial nerve inflammation
+lymphatic system malignancy
+leukopenia
+non melanoma skin cancer
+eczema
+gastrointestinal tumor
+gastrointestinal tract inflammation
+hypercoagulation
+redness
+thrombophlebitis
+swell of the lymph gland
+scarring
+hematoma
+night sweat
+mood disorder
+fever
+serum sickness
+leukemia
+lump
+fatigue
+blood
+neck
+arthralgia
+skin ulcer
+ascite
+malaise
+electrolyte imbalance
+viral infection
+hive like swell on the face
+hepatopathy
+dry skin
+restlessnessrare
+nephritis
+cold
+skin papilloma
+pericardial effusion
+positive ana titer
+urinary tract infection
+exacerbation of clinical symptom
+nausea
+cloudy urine
+lightheadedness
+weakness
+vomit
+foot
+sore throat
+stomatitisrare
+lacrimation disorder
+raynaud
+nasal congestion
+eyelid
+coughrare
+fistula
+breast disorder
+dyslipidemia
+hair texture disorderfrequency
+peripheral demyelinating disease
+inflammation of the joint
+visual disorder
+vertigo
+heart failure
+tingle
+alkaline phosphatase level
+interstitial lung disease
+cough
+bleed
+blister
+pneumocystosis
+loosening of the skin
+unusual weight gain
+pyelonephritis
+allergic dermatitis
+sudden high fever
+unusual tiredness
+palpitation
+dysesthesia
+side pain
+blood alkaline phosphatase
+headache
+alopecia
+pharyngitis
+blood creatine phosphokinase
+anxiety
+bloat
+pneumonia
+angioedema
+illness
+skin discoloration
+throat
+ear infectionsrare
+lie
+pain in the ankle
+neutropenia
+lip
+abdominal distension
+reactivation of hepatitis b virus
+pain
+knee
+papillomavirus
+cerebrovascular accident
+pyrexia
+paresthesiarare
+discoloration of the skin
+pleural effusion
+phenomenon
+pain in extremityuncommon
+flu like symptom
+ulcer
+upper abdominal pain
+benign tumor
+acne
+rash
+dermatitis
+angioneurotic edema
+thrombocytosis
+erythrocytosisfrequency
+respiratory tract congestion
+tinnitus
+get
+body ache
+arrhythmia
+chest pain
+tuberculosis
+oropharyngeal dryness
+dyspepsia
+skin rash
+anaphylactic shock
+fungal infection
+dizziness
+uveitis
+abdominal pain
+difficulty with move
+strokerare
+angina
+frequent urge
+arm
+bladder pain
+thrombocytopenia
+solid organ tumor
+acute bronchitis
+muscle spasm
+hemosiderosis
+confusion
+pyelonephritisuncommon
+sexual dysfunction
+feeling of pressure
+muscle ache
+nasopharyngitis
+delirium
+radiographic evidence of central nervous system
+sepsis
+blur vision
+nauseauncommon
+petechiae
+dyspnea
+renal impairmentrare
+conjunctivitisuncommon
+erythema nodosum
+faintness
+spit
+gastrointestinal infection
+erythema
+chill
+melanocytic nevus
+hypotension
+gastrointestinal stenosis
+numbness
+splenomegaly
+trigeminal neuralgia
+pericarditis
+gastrointestinal ulceration
+lower respiratory tract infection
+site
+joint pain
+upper respiratory infection
+peripheral neuropathy
+aplastic anemia
+gastrointestinal obstruction
+blood bilirubin
+bullous condition
+migraine
+muscle pain
+hepatic enzyme
+sweat gland disorder
+cranial nerve impairment
+desquamation
+opportunistic infection
+livedo reticularis
+hot flush
+low grade fever for month
+stiffness
+itch
+lupus erythematosusrare
+swell
+painful urination
+photosensitivity
+hand
+white spot in the mouth
+stomach pain
+ear congestion
+impaired healing
+eosinophilic disorder
+coldness
+melanomafrequency
+lower leg
+allergic disorder
+edema
+rashuncommon
+bruise
+sarcoidosis
+altered temperature perception
+arteriosclerosis
+asthma
+syncope
+urethral symptomsrare
+lymphopenia
+histoplasmosis
+white blood cell morphology
+tingle of the hand
+hypermotility
+decrease vision
+upper chest
+seizure
+lymphoma
+loss
+multiple sclerosis
+red irritated eye
+associate symptom
+flush
+hemorrhage
+ischemic coronary artery disorder
+scale
+hepatitis
+inflammation
+panniculitis
+sit position
+peel
+burn
+oral leukoplakia
+candidiasis
+pancytopenia
+mental impairment
+cardiomyopathy
+acoustic neuritis
+muscle disorder
+herpes
+elevated liver enzyme
+uterine bleeding disorder
+swell of the face
+weight change
+menstrual cycle
+tongue
+guillain barre syndrome
+erythrocytosis
+urticaria
+pruritus
+pneumonitis
+loss of voice
+toxic epidermal necrolysis
+dental infection
+warmth at the injection site
+steven johnson syndrome
+worsen of psoriasis
+soreness
+purple center
+difficulty with breathing
+uric acid
+redness of the face
+thyroid disorder
+palmoplantar pustular psoriasis
+suicide attempt
+atrioventricular block
+diarrhea
+pre cancerous lesion
+hematuria
+frequent urination
+lymphadenopathy
+gastrointestinal fistula
+optic neuritisfrequency
+sneeze
+systemic vasculitis
+amenorrhea

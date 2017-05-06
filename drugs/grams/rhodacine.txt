@@ -1,6 +1,581 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+reported side effects of indomethacin
+headache
+other side effects
+dizziness
+dyspepsia
+hyponatremia
+nausea
+comprehensive list of adverse effects
+nausea
+vomiting
+constipation
+diarrhea
+dyspepsia
+upper abdominal pain
+abdominal pain/distress
+indigestion
+heartburn
+epigastric pain
+gi
+bleeding
+gastrointestinal perforation
+necrotizing enterocolitis
+anorexia
+bloating/distention
+flatulence
+peptic ulcer
+gastroenteritis
+rectal bleeding
+proctitis
+ulcerations/perforations/hemorrhage of the esophagus
+stomach
+duodenum
+large intestines
+intestinal ulceration
+stenosis
+obstruction
+development of ulcerative colitis
+development of regional ileitis
+ulcerative stomatitis
+intestinal strictures frequency
+gastric perforation
+gastritis
+bleeding from sigmoid colon
+perforation
+existing
+existing sigmoid lesions
+tenesmus
+irritation of rectal mucosa
+rectal burning/pain
+rectal itching/discomfort
+glossitis
+esophageal lesions
+tenesmuspatent ductus arteriosus
+gi bleeding
+gi perforation
+necrotizing enterocolitisfrequency
+gross/microscopic bleeding into gastrointestinal tract
+vomiting
+abdominal distention
+transient ileus
+gastric perforation
+localized perforations of small/large intestines
+melena
+borderline elevations
+more liver function tests
+patients
+taking nsaids
+including
+drug
+elevations
+continued treatment
+elevations of alt
+ast
+more times
+upper limit of normal
+patients in clinical trials with nsaids
+rare cases of severe hepatic reactions
+including jaundice
+fatal fulminant hepatitis
+liver necrosis
+hepatic failure
+fatal outcomes
+pediatric patients
+been cases of hepatotoxicity
+including fatalities
+pediatric patients with juvenile rheumatoid arthritis
+toxic hepatitis
+jaundice
+elevated alt/astfrequency
+cholestasis
+abnormal liver function
+controlled clinical trials
+renal dysfunction
+use in neonates
+placebo
+renal dysfunction
+neonates
+following
+reduced urinary output
+urine sodium
+chloride
+potassium
+reduced urine osmolality
+free water clearance
+gfr
+elevated serum creatinine
+bun
+uremia
+nephrotic syndrome
+interstitial nephritis
+elevated bun
+renal insufficiency
+renal failurepatent ductus arteriosus
+renal dysfunction frequency
+elevated serum creatinine
+renal failure
+elevated bun
+decreased appetiteuncommon
+hyperglycemia
+hyperkalemia
+glycosuria
+weight gain
+fluid retentionpatent ductus arteriosus
+hyponatremia
+elevated serum potassiumfrequency
+reduction in blood sugar/hypoglycemia
+weight gain/fluid retention
+metabolic acidosis
+metabolic alkalosis
+leukopenia
+bone marrow depression
+anemia
+occult gi bleeding
+aplastic anemia
+hemolytic anemia
+agranulocytosis
+thrombocytopenic purpura
+disseminated intravascular coagulationfrequency
+leukemia
+blood
+dyscrasias/hematopoietic disorders
+neutropeniapatent ductus arteriosus
+bleedingfrequency
+disseminated intravascular coagulation
+platelet aggregation
+thrombocytopenia
+double blind placebo
+controlled trial of premature infants
+g with evidence of large ductal shunting
+significant greater incidence
+bleeding problems
+including
+microscopic bleeding in gi tract
+oozing from skin after needle stick
+pulmonary hemorrhage
+disseminated intravascular coagulopathy in infants
+drug
+n =-rrb-
+significant difference between treatment groups of intracranial hemorrhage
+headache
+dizziness
+presyncope
+somnolence
+syncope
+intracranial bleeding
+faintinguncommon
+drowsiness
+lightheadedness
+paresthesia
+aggravation of epilepsy
+parkinsonism
+coma
+peripheral neuropathy
+convulsion
+dysarthria
+aseptic meningitis
+optic neuritis patent ductus arteriosus
+intraventricular hemorrhage
+intracranial hemorrhage
+intracranial bleeding
+periventricular leukomalacia
+depression
+listlessness
+anxiety
+nervousness
+insomnia
+muzziness
+psychic disturbances
+psychotic episodes
+mental confusion
+depersonalizationfrequency
+hallucinations
+hot flushuncommon
+congestive heart failure
+hypertension
+hypotension
+tachycardia
+chest pain
+arrhythmia
+palpitations
+angiitisfrequency
+thrombophlebitis
+rapid fall in blood pressure
+resembling shock
+cardiac failure
+thrombotic eventspatent ductus arteriosus
+frequency
+bradycardia
+hypertension
+cardiac failure
+pruritus
+rash
+sweating/hyperhidrosis
+flushing
+urticariauncommon
+petechiae
+ecchymosis
+exfoliative dermatitis
+erythema nodosum
+loss of hair/alopecia
+stevens-johnson syndrome
+erythema multiforme
+toxic epidermal necrolysis
+angioedema
+purpuravery
+eczemafrequency
+fulminant necrotizing fasciitis
+photosensitivity
+acute anaphylaxisvery
+allergy-induced vasculitisfrequency
+hypersensitivity reactionspatent ductus arteriosus
+frequency
+hypersensitivity reactions
+corneal deposits
+retinal disturbances
+vision
+diplopiafrequency
+orbital/periorbital pain
+double visionpatent ductus arteriosus
+retinopathy of prematurity
+retrolental fibroplasiauncommon
+blindness
+post-procedural edema
+post-procedural hemorrhage
+post-procedural swelling
+vertigo
+fatigue
+malaise
+tinnitus
+asthenia
+exhaustionuncommon
+hearing disturbances
+deafness
+edema
+feverpostmarketing reports
+exacerbation of infectionpatent ductus arteriosus
+frequency
+exacerbation of infection
+edema
+reported adverse effects
+nausea
+headache
+dizziness
+vomiting
+constipation
+pruritus
+diarrhea
+dyspepsia
+presyncope
+rash
+upper abdominal pain
+somnolence
+pruritus
+hyperhidrosis
+appetite
+hot flush
+syncope
+patent ductus arteriosus
+reported adverse effects
+bleeding problems
+transient oliguria
+elevated serum creatinine
+hematuria
+vaginal bleeding
+proteinuria
+breast enlargement/tenderness
+gynecomastiafrequency
+urinary frequency patent ductus arteriosus
+oliguria frequency
+transient oliguria
+information from various medical literature states
+infants
+drug
+oliguria
+renal dysfunction
+dose
+renal function
+normal hours
+following discontinuation
+patent ductus arteriosus
+frequency
+bleeding/oozing from skin
+following needle puncture
+muscle weakness
+involuntary muscle movementsfrequency
+hypercreatininemia
+acceleration of cartilage degeneration
+dyspnea
+acute respiratory distress
+asthma
+pulmonary edema
+epistaxisfrequency
+bronchospasm
+pulmonary eosinophilia
+alveolitispatent ductus arteriosus
+frequency
+pulmonary hemorrhage
+pneumothorax
+pulmonary hypertension
+apnea
+exacerbation
+preexisting
+preexisting pulmonary infection
+intravenous powder for solutionrectal suppository
+acid
+sour stomach
+belching
+diarrhea
+heartburn
+indigestion
+nausea
+stomach discomfort
+pain
+vomiting
+stomach cramping
+burning
+tenderness
+leg pains
+bleeding gums
+blistering
+peeling
+loosening of the skin
+tarry stools
+blue lips
+fingernails
+blurred vision
+breast enlargement
+tenderness
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+burning
+stomach pain
+canker sores
+change in consciousness
+change in hearing
+chest pain
+discomfort
+burning
+clay colored stools
+bloody urine
+confusion
+continuing diarrhea
+cough or hoarseness
+coughing
+pink frothy sputum
+cracks in the skin
+dark urine
+decreased appetite
+decreased vision
+change in vision
+depression
+breathing
+difficulty with swallowing
+dilated neck veins
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+double vision
+dry mouth
+extreme fatigue
+false sense of well-being
+feeling of unreality
+feeling of warmth
+fever
+chills
+flushed, dry skin
+fruit-like breath odor
+general body swelling
+decreased frequency of urination
+amount of urine
+hair loss
+headache
+heavier menstrual periods
+increased hunger
+increased sweating
+increased thirst
+increased urination
+irregular breathing
+irritation
+swelling of the eye
+jerky movements of the head
+face
+mouth
+neck
+joint pain
+purplish patches in the skin
+hive-like swelling on the face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+loss of appetite
+loss of balance control
+loss of bladder control
+loss of consciousness
+loss of hearing
+loss of heat from the body
+side pain
+mask-like face
+mood swings
+muscle aches
+pains
+weakness
+muscle spasm
+jerking of all extremities
+nervousness
+noisy, rattling breathing
+nosebleeds
+numbness
+tingling in the hands
+feet
+lips
+pain in the ankles
+knees
+pain
+discomfort in the upper stomach
+throat
+pain with swallowing
+difficult urination
+red lumps under the skin
+legs
+pale skin
+persistent bleeding
+oozing from puncture sites
+mouth
+nose
+personality changes
+purple spots on the skin
+pounding in the ears
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+red skin lesions
+purple center
+red, irritated eyes
+red, swollen skin
+redness of the face
+neck
+arms
+upper chest
+scaly skin
+seeing double
+seeing
+hearing
+feeling things
+seizures
+sense of detachment from self
+body
+severe constipation
+severe mental changes
+continuing stomach pain
+shuffling walk
+skin rash
+hives
+welts
+itching
+pounding
+racing heartbeat
+pulse
+slowed movements
+slurred speech
+purple spots on the skin
+sore throat
+sores
+ulcers
+white spots on the lips
+tongue
+mouth
+stiffness of the arms
+legs
+sudden loss of consciousness
+swelling of the breasts
+breast soreness
+females
+males
+swelling of the face
+fingers
+feet
+ankles
+lower legs
+painful glands
+tightness in the chest
+trembling
+shaking of the fingers
+hands
+troubled breathing at rest
+troubled breathing with exertion
+unexplained weight loss
+unpleasant breath odor
+unsteadiness or awkwardness
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+vaginal bleeding
+vomiting of blood
+material
+coffee grounds
+weakness in the arms
+hands
+legs
+feet
+weight gain
+yellow eyes
+skin
+confusion about identity
+place
+time
+severe headache
+unusual drowsiness
+dullness
+feeling of sluggishness
+mild headache
+continuing ringing
+buzzing
+other unexplained noise in the ears
+difficulty
+bowel movement
+stool
+discouragement
+feeling
+general feeling of discomfort
+illness
+hearing loss
+irritability
+loss of interest
+pleasure
+sleepiness
+trouble with concentrating
+anxiety
+full feeling
+changes in patterns
+rhythms of speech
+excess air
+gas in the stomach
+intestines
+feeling of constant movement of self
+surroundings
+involuntary muscle movements
+lightheadedness
+passing gas
+sensation of spinning
+tiredness
+trouble sleeping
+trouble with speaking

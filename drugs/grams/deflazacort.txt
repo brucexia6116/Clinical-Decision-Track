@@ -1,6 +1,176 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+reported adverse reactions
+cushingoid appearance
+hirsutism
+weight gain
+central obesity
+appetite
+pollakiuria
+irritability
+abnormal behavior
+pyrexia
+postmarketing reports: anaphylaxis
+erythema
+rash
+contusion
+skin striae
+acne
+impetigo
+alopecia
+dermatitis acneiformrare
+bruisingfrequency
+skin atrophy
+telangiectasiapostmarketing reports
+toxic epidermal necrolysis
+abdominal discomfort
+abdominal pain/abdominal pain
+nausea
+dyspepsia
+gastrointestinal disorder
+tooth abscesspostmarketing reports
+acute pancreatitis
+hemorrhage
+peptic ulceration
+perforation of peptic ulcer
+cushingoid appearance
+hirsutismfrequency
+suppression of the hypothalamic-pituitary-adrenal axis
+amenorrhea
+menstrual irregularity
+steroid withdrawal syndrome
+acute adrenal insufficiency
+corticosteroids
+hpa
+axis suppression
+acute adrenal insufficiency
+corticosteroids
+risk of serious consequences of hpa axis suppression
+gradual dose reduction
+stress situations
+reinstitution of steroid therapy
+steroid
+withdrawal syndrome
+adrenocortical insufficiency
+following
+following abrupt discontinuance of steroids
+steroid withdrawal syndrome
+symptoms
+anorexia
+nausea
+vomiting
+lethargy
+headache
+fever
+joint pain
+desquamation
+myalgia
+weight loss
+pain
+fibula fracture
+greenstick fracture
+muscle spasms
+myalgia
+neck mass
+neck pain
+extremity painrare
+muscle wastingfrequency
+muscle weakness
+tendon disorder
+osteopenia
+growth suppression in pediatric patients
+osteoporosispostmarketing reports
+avascular osteonecrosis
+muscle wasting
+negative nitrogen balance
+tendonitis
+tendon rupture
+concomitant quinolone administration
+vertebral
+long bone fractures
+irritability
+abnormal behavior
+lability
+aggression
+depression
+emotional disorder
+middle insomnia
+mood
+mood swings
+sleep disorderpostmarketing reports
+anxiety
+amnesia
+delusions
+hallucinations
+mania
+suicidal thoughts
+psychomotor hyperactivity
+dizzinessuncommon
+headachepostmarketing reports
+aggravation of epilepsy
+intracranial pressure with papilledema in children
+pseudotumor cerebri
+treatment withdrawal
+cognitive dysfunction
+benign intracranial hypertension
+aggravation of epilepsy
+irregular heart rate
+hot flushfrequency
+sodium
+water retention with hypertensionpostmarketing reports
+heart failure
+edema
+thromboembolism
+patients with underlying conditions
+increased thrombotic tendency
+lacrimation
+hordeolum frequency
+increased intraocular pressure
+glaucoma
+papilledema
+posterior subcapsular cataracts
+exacerbation of ophthalmic viral
+fungal diseasespostmarketing reports
+chorioretinopathy
+corneal
+scleral thinning
+urinary tract infection
+glycosuria
+chromaturia
+dysuria
+hypertonic bladder
+testicular pain
+influenza
+viral infectionfrequency
+candidiasis
+upper
+respiratory tract infection
+cough
+nasopharyngitis
+rhinorrhea
+epistaxis
+pharyngitis
+hypoventilationfrequency
+recurrence of dormant tuberculosis
+pollakiuria
+increased weight
+appetite
+central obesity
+constipation
+thirstpostmarketing reports
+negative protein
+calcium balance
+potassium loss
+hypokalemic alkalosis
+concomitant beta
+agonist
+xanthines
+pyrexia
+otitis externa
+heat exhaustionuncommon
+vertigopostmarketing reports
+impaired healing
+corticosteroids
+frequency
+kaposi
+sarcoma
+pheochromocytoma crisis
+postmarketing reports: leukocytosis

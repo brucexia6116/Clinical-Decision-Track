@@ -2,12 +2,6 @@ needed effects
 pentosan polysulfate sodium
 unwanted side effects
 medical attention
-following side effects
-taking
-taking pentosan polysulfate sodium
-check
-doctor
-nurse
 pentosan polysulfate sodium side effects
 medical attention
 body
@@ -55,10 +49,6 @@ caution in patients with a history of heparin
 thrombocytopenia
 hepatic side effects
 liver function abnormalities
-transaminase
-alkaline phosphatase
-gamma-glutamyl transpeptidase
-lactic dehydrogenase
 respiratory side effects
 pharyngitis
 rhinitis

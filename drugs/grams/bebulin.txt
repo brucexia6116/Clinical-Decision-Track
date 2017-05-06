@@ -1,10 +1,11 @@
 emergency
 medical help
 signs of an allergic reaction
-taking factor ix complex
-active ingredient
-bebulin
 hives
+rash
+heartbeats
+chest tightness
+wheezing
 difficult breathing
 swelling
 face
@@ -12,52 +13,38 @@ lips
 tongue
 throat
 stop
-using factor
+medicine
 doctor
-serious side effect
+sweating
+feeling
+breath
+light-headed feeling
+bleeding episodes
+bleeding from a wound
+medicine
+signs of a blood clot in the lung
 chest pain
 sudden cough
 wheezing
 rapid breathing
 coughing
 blood
+signs of a blood clot
+leg
 pain
 swelling
 warmth
 redness
 legs
-shallow breathing
-feeling
-breath
-headache
-feeling
+common side effects
+headache;
 flushing
 warmth
 redness
 tingly feeling
-slow heart rate
-fever
-chills
-drowsiness
-runny nose
-skin rash
-joint pain weeks
-nausea
-upper stomach pain
-itching
-loss of appetite
-dark urine
-clay-colored stools
-jaundice
-yellowing of the skin
-eyes
-bleeding episodes
-bleeding from a wound
-medicine
-serious side effects of factor ix complex
-mild nausea;
-mild stomach pain
-jittery feeling
+nausea, vomiting;
+fever, chills; or
+lack of energy.
 complete list of side effects
 others
 doctor for medical advice about side effects
@@ -89,45 +76,32 @@ respiratory side effects
 respiratory distress
 chest pain
 cough
+sweating
+feeling
+breath
+light-headed feeling
+bleeding episodes
+bleeding from a wound
+medicine
+signs of a blood clot in the lung
 chest pain
 sudden cough
 wheezing
 rapid breathing
 coughing
 blood
+signs of a blood clot
+leg
 pain
 swelling
 warmth
 redness
 legs
-shallow breathing
-feeling
-breath
-headache
-feeling
+headache;
 flushing
 warmth
 redness
 tingly feeling
-slow heart rate
-fever
-chills
-drowsiness
-runny nose
-skin rash
-joint pain weeks
-nausea
-upper stomach pain
-itching
-loss of appetite
-dark urine
-clay-colored stools
-jaundice
-yellowing of the skin
-eyes
-bleeding episodes
-bleeding from a wound
-medicine
-mild nausea;
-mild stomach pain
-jittery feeling
+nausea, vomiting;
+fever, chills; or
+lack of energy.

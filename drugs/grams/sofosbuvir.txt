@@ -2,9 +2,6 @@ needed effects
 sofosbuvir
 unwanted side effects
 medical attention
-following side effects
-taking
-doctor
 sofosbuvir side effects
 medical attention
 body
@@ -91,6 +88,13 @@ suicide
 severe depression
 patients with history of psychiatric illness
 decreased hemoglobin
+anemia
+neutropenia
+neutrophils
+lymphocyte count
+platelet countuncommon
+pancytopenia
+decreased hemoglobin
 g/dl
 g/dl
 neutrophils
@@ -104,21 +108,14 @@ l
 pancytopenia
 patients
 using concomitant pegylated interferon
-decreased hemoglobin
-anemia
-neutropenia
-neutrophils
-lymphocyte count
-platelet countuncommon
-pancytopenia
-serious symptomatic bradycardia
-patients
-taking amiodarone
-therapy with this drug in combination with another hepatitis c virus
 postmarketing reports
 symptomatic bradycardia
 including cases
 requiring pacemaker intervention
+serious symptomatic bradycardia
+patients
+taking amiodarone
+therapy with this drug in combination with another hepatitis c virus
 decreased appetite
 decreased weight
 myalgia

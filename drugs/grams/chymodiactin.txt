@@ -10,11 +10,6 @@ death
 medicine
 dangerous allergic reactions
 women
-following side effects
-taking chymopapain
-check
-doctor
-nurse
 other side effects
 medical attention
 pain
@@ -29,11 +24,6 @@ short time
 check
 doctor if any of the
 following side effects
-following side effects
-taking chymopapain
-check
-doctor
-nurse
 stomach cramps
 pain
 changes in facial skin color

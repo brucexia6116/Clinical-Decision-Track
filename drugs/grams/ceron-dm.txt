@@ -1,4 +1,3 @@
-other dosage forms:
 doctor if any of these
 common side effects
 constipation
@@ -11,7 +10,6 @@ loss of appetite
 nausea
 nervousness
 anxiety
-trouble
 upset stomach
 vomiting
 weakness
@@ -73,6 +71,8 @@ respiratory side effects
 respiratory difficulties
 ocular side effects
 diplopia
-sustained-release tabletstabletsdropsliquid
+tabletschewable tablets
+suspension
+tabletsdropsliquid
 solution
 syrup

@@ -4,10 +4,6 @@ chest tightness
 fever
 flushing
 comprehensive list of adverse effects
-following side effects
-taking daunorubicin
-doctor
-nurse
 liposomal daunorubicin
 urine
 color
@@ -156,7 +152,7 @@ local side effects
 thrombophlebitis
 necrosis
 following extravasation
-injection site inflammation -lrb-<=-rrb-
+injection site inflammation
 hepatic serum transaminase
 bilirubin concentration elevations
 renal side effects
@@ -240,8 +236,7 @@ fewer patients
 n =-rrb-
 ocular side effects
 abnormal vision
-conjunctivitis -lrb-<=-rrb-
-eye pain -lrb-<=-rrb-
+conjunctivitis
 genitourinary side effects
 dysuria
 nocturia
@@ -253,9 +248,7 @@ increased sweating
 other side effects
 malaise
 influenza-like symptoms
-lymphadenopathy -lrb-<=-rrb-
-splenomegaly -lrb-<=-rrb-
-n =-rrb-
+lymphadenopathy
 musculoskeletal side effects
 rigors
 pain

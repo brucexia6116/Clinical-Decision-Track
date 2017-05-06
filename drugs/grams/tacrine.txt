@@ -15,11 +15,6 @@ doctor
 medicine
 risks
 receiving
-following side effects
-taking tacrine
-check
-doctor
-nurse
 medicine
 following side effect
 doctor

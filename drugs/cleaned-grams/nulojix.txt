@@ -1,0 +1,427 @@
+influenza
+glycosuriauncommon
+hypercholesterolemia
+aphthous stomatitis
+blastocystis infection
+rectal hemorrhage
+oropharyngeal painuncommon
+pleural effusion
+appetite
+amount of urine
+oropharyngeal blistering
+increase blood pressure
+tb
+nervousness
+breathing
+hair loss
+eyelid edema
+pulmonary edema
+nephrosclerosis
+anemia
+hydronephrosis
+renal vein thrombosis
+shock
+cmv
+tightness in the chest
+priapism
+osteomyelitisfrequency
+cytomegalovirus
+diabetic neuropathy
+fece
+swell of the foot
+depression
+cytolytic hepatitis
+acidosis
+stool
+conjunctivitis
+weight decrease
+body
+leg
+depressionuncommon
+tremor
+scrotal edema
+active ingredient
+stupor
+cough or hoarseness
+osteolysis
+stiffness
+cataract
+pale skin
+pancreatitis
+extremity pain
+cognitive disorder
+dark purple bruise
+epididymitis
+blood immunoglobulin m
+hemolysis
+associate lymphoproliferative disorder
+muscular weakness
+sweating
+breast mass
+hemiparesis
+second degree
+faint
+blood creatinine
+loss of bladder control
+hyperhidrosisuncommon
+intermittent claudication
+tachycardia
+rapid weight gain
+psoriasis
+loss of appetite
+joint lock
+atrial fibrillation
+infusion
+infection
+burn sensation
+cellulitis
+joint pain
+leukopenia
+polyoma virus
+angina pectoris
+keratitis
+decrease urine output
+wound infection
+deficit hyperactivity disorder
+parathyroid hormone increaseduncommon
+redness
+thrombophlebitis
+hematoma
+night sweat
+hyperkalemia
+eye inflammation
+lymphocele
+vesicoureteric reflux
+bk virus infection
+serious infection
+fever
+hypophosphatemia
+fatigue
+blood
+weight increase
+fast heartbeat
+irritated area
+testicular pain
+malaise
+melena
+persistent non healing sore
+bradycardia
+monocytopenia
+black tarry stool
+atrophic vulvovaginitis
+diabetic foot
+diabetes mellitus
+loss of consciousness
+renal tubular necrosis
+urinary tract infection
+hyperuricemiauncommon
+polyomavirus associate nephropathy
+nausea
+cloudy urine
+intracranial pressure
+photophobia
+basal cell carcinoma
+lightheadedness
+weakness
+libido
+hematomauncommon
+vomit
+foot
+troubled breathing with exertion
+arterial thrombosis
+rectal cancer
+thin of the hair
+trichorrhexis
+paraesthesia
+brain edema
+acute coronary syndrome
+sudden decrease in the amount of urine
+giardiasis
+mood swing
+encephalitis
+constipation
+kaposus
+dyslipidemia
+hematuriacommon
+restless leg syndrome
+irritability
+vertigo
+white spot on the lip
+medicine
+oral candidiasis
+difficulty
+cough
+weight gain
+sleeplessness
+unusual weight gain
+pyelonephritis
+blemish on the skin
+trouble sleep
+sudden high fever
+genital herpes
+laryngeal cancer
+arthralgia
+unusual tiredness
+swollen gland
+unexplained weight loss
+pneumonitis
+facial palsy
+ankle
+side pain
+transitional cell carcinoma
+headache
+abnormal dream
+alopecia
+cheilitis
+gastroenteritis
+colitis
+anxiety
+weakness in the arm
+progressive multifocal leukoencephalopathy
+bloat
+myalgia
+heaviness of the leg
+pneumonia
+herpes simplex
+feeling
+hepatic cyst
+bronchitis
+diabetic ketoacidosis
+encephalopathy
+staphylococcal infection
+peripheral neuropathy
+muscle pain
+lie
+pound in the ear
+unusual bleeding
+neutropenia
+lip
+painful respiration
+pimple
+pain
+penile ulceration
+mouth
+urinary retention
+flush dry skin
+cerebrovascular accident
+pyrexia
+face
+headachecommon
+angiopathy
+fungal infectionuncommon
+ulcer
+musculoskeletal painuncommon
+hypomagnesemia
+blood immunoglobulin g
+joint swell
+acne
+rash
+c reactive protein
+shakiness in the leg
+increase urination
+small intestinal obstruction
+salivary gland pain
+collection of blood under the skin
+tinnitus
+get
+body ache
+tingle in the hand
+hostility
+arrhythmia
+multiple myeloma
+chest pain
+tuberculosis
+fruit like breath odor
+wheeze
+pink growth
+squamous cell carcinoma of skin
+health care professional
+dyspepsia
+peripheral edemacommon
+reddish patch
+dizziness
+vision
+cramp
+lethargy
+hypogammaglobinemia
+abdominal pain
+ebv
+difficulty with move
+nephritis
+frequent urge
+troubled breathing
+arm
+bladder pain
+swell face
+thrombocytopenia
+ventricular hypertrophy
+itch in other skin area
+arterial stenosis
+shiny bump
+endocarditis
+alkalosis
+cerebral fungal infection
+muscle spasm
+confusion
+attention
+cytomegalovirus disease
+coma
+aortic valve disease
+bone metabolism disorder
+nasopharyngitis
+synovitis
+sepsis
+blur vision
+cholelithiasis
+memory impairment
+dyspnea
+bronchiectasis
+fluid retention
+cervix carcinoma
+sleep apnea syndrome
+pure red cell aplasia
+faintness
+nulojix
+agranulocytosis
+vitamin d deficiency
+cystitis
+hypercoagulation
+chill
+medical attention
+hypotension
+inflammation of the mouth
+numbness
+orthopnea
+fingertip
+herpes zoster
+glycosuria
+sudden numbness
+agitation
+mental change
+pain in the joint
+strongyloidiasis
+leukocytosis
+hydrocele
+sarcoma
+ear pain
+migraine
+lymphangitis
+sinusitis
+bowel movement
+infarction
+fibrosis
+kidney fibrosis
+drowsiness
+itch
+increase sweating
+insomnia
+swell
+painful urination
+hand
+osteoarthritis
+gingival hyperplasia
+burn while urinate
+stomach pain
+ear congestion
+onychomycosis
+large intestinal ulcer
+impaired healing
+herpes infection
+infertility
+shortness of breath
+hypocapnia
+nocturia
+inability
+lower leg
+muscle
+abdominal hernia
+urinary incontinence
+healthcare professional for medical advice
+renal artery stenosis
+bruise
+dehydration
+localized infection
+hypoacusis
+syncope
+tetany
+cervical dysplasia
+sore throat
+lymphopenia
+skin papillomauncommon
+lymphoma
+irregular heartbeat
+loss
+stomatitisuncommon
+rhinitis
+dysuria
+flush
+hemoptysis
+scale
+mood
+hypoproteinemia
+increase hunger
+epistaxis
+dysphonia
+retinitis
+cough produce mucus
+inflammation
+hepatic steatosis
+ocular hyperemia
+increase thirst
+sit position
+burn
+candidiasis
+hair growth
+swell of the face
+twitch
+guillain barre syndrome
+onychoclasis
+skin lesion
+bone pain
+low grade fever for month
+proteinuria
+hyperglycemia
+tingle around the mouth
+convulsion
+vulval ulceration
+dry mouth
+pruritus
+cardiac failure
+arterial fibrosisuncommon
+polycythemia
+loss of voice
+renal tubular atrophy
+nausea or vomit
+breast cancer
+hemorrhagic cystitis
+bronchopneumopathy
+acute respiratory distress syndrome
+intervertebral disc disorder
+venous thrombosis
+waxy scar like area
+fda
+demyelination
+dysgeusia
+osteitis
+stomach cramp
+prostate cancer
+pulmonary hypertension
+gi disorder
+hypertension
+muscle cramp in the hand
+tremble
+atrioventricular block
+spit
+diarrhea
+liver function test
+hematuria
+gastroduodenal ulcer
+hypokalemia
+renal artery thrombosis
+back pain
+upper respiratory tract infection
+sneeze
+belatacept
+sore
+unable to sleep
+lung cancer

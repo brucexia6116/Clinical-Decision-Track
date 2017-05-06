@@ -1,6 +1,114 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+overall incidence of adverse reactions with this drug
+adverse events
+cardiac toxicity accounts
+one-half
+gastrointestinal disturbances
+one-fourth
+cns
+other toxicity
+one-fourth of these adverse events
+arrhythmia
+conduction disturbances
+bigeminy
+trigeminy
+pr prolongation
+sinus bradycardiapostmarketing reports
+supraventricular tachyarrhythmia
+atrial tachycardia
+nodal tachycardia
+ventricular arrhythmia
+ventricular premature contraction
+st segment depression
+atrioventricular block
+ventricular fibrillation
+nausea
+vomiting
+diarrhea
+lower stomach painfrequency
+intestinal ischemia
+intestinal hemorrhagic necrosis
+central
+nervous system
+cns
+disturbances
+dizziness
+drowsiness
+headache
+central
+nervous system
+cns
+disturbances
+dizziness
+drowsiness
+headache
+skin rashes of urticarial
+scarlatiniform characterfrequency
+maculopapular rash
+anorexia
+loss of appetite
+blurred vision
+visual disturbances
+depressionfrequency
+apathy
+confusion
+anxiety
+delirium
+hallucinationpostmarketing reports
+psychosis
+frequency
+thrombocytopenia
+injectable, solution
+dizziness
+fainting
+pounding
+irregular heartbeat
+pulse
+slow heartbeat
+black, tarry stools
+bleeding gums
+blood in the urine
+stools
+bloody vomit
+red spots on the skin
+rash with flat lesions
+small raised lesions on the skin
+severe stomach pain
+unusual bleeding
+bruising
+chest pain
+discomfort
+nausea
+shortness of breath
+sweating
+swelling of the feet
+lower legs
+troubled breathing
+unusual tiredness
+weakness
+agitation or combativeness
+anxiety
+confusion
+depression
+diarrhea
+expressed fear
+impending death
+hallucinations
+rash
+vomiting
+loss of vision
+disturbed color perception
+double vision
+halos around lights
+headache
+lack of feeling
+emotion
+loss of appetite
+night blindness
+overbright appearance of lights
+swelling of the breasts
+breast soreness
+females
+males
+tunnel vision
+weakness
+weight loss

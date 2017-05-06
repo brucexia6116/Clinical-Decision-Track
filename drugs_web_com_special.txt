@@ -36,4 +36,3 @@ roychlor: https://www.drugs.com/cons/roychlor.html
 slippery elm: https://www.drugs.com/mtm/slippery-elm.html
 st. john's wort: https://www.drugs.com/cdi/st-john-s-wort.html
 sulfonamide: https://www.drugs.com/cons/sulfonamide.html
-witch hazel: https://www.drugs.com/npc/witch-hazel.html

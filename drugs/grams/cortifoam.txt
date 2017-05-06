@@ -1,40 +1,19 @@
-corticosteroid complications
+corticosteroid side effects/complications
 dose
-duration of therapy
+duration
 adverse effects
 lower pharmacologic dosages
-adverse effects
-duration of corticosteroid therapy
-occurring during short-term therapy
-weeks
-occurring during long-term therapy
-weeks
 short-term effects
 sodium
 retention-related weight gain
 fluid accumulation
-hyperglycemia
-glucose intolerance
+hyperglycemia/glucose intolerance
 hypokalemia
-gastrointestinal upset
-ulceration
-reversible depression of the hypothalamus-pituitary-adrenal axis
-mood changes
-mild euphoria
-insomnia
-nervousness
-restlessness
-mania
-catatonia
-depression
-delusions
-hallucinations
-violent behavior
+psychic disturbances
 long-term effects
 hypothalamus-pituitary-adrenal activity suppression
 cushingoid appearance
 hirsutism
-virilism
 impotence
 menstrual irregularities
 peptic ulcer disease
@@ -43,81 +22,71 @@ intraocular pressure/glaucoma
 myopathy
 osteoporosis
 vertebral compression fractures
-cardiovascular effects
+frequency
+bradycardia
+cardiac arrest
+cardia arrhythmias
+cardiac enlargement
+circulatory collapse
+fat embolism
 hypertension
 congestive heart failure
-long-term fluid retention
-direct vascular effects
-corticosteroid therapy
-corticosteroid therapy
-glucose intolerance
-reducing
-utilization of glucose in tissues
-increasing
-increasing hepatic glucose output
-diabetes mellitus
-requiring diet modifications
-hypoglycemic agents
-patients
-adrenal suppression
-months after long-term corticosteroid therapy
-giving corticosteroids
-day
-other day
-adrenal suppression
-corticosteroid therapy
-supplemental corticosteroid therapy during times of physical stress
-endocrine effects
-decreased glucose tolerance
-hyperglycemia
-diabetes-like symptoms
+hypertrophic cardiomyopathy in premature infants
+myocardial rupture
+following recent myocardial infarction
+thrombophlebitis
+vasculitis
+syncope
+tachycardia
+thromboembolism
+thrombophlebitis
+vasculitis
+necrotising angiitis
+frequency
 hypothalamus-pituitary-adrenal activity
 months
 following long-term corticosteroid administration
-cushingoid appearance
-chronic therapy
+cushingoid appearance with chronic therapy
 hirsutism
 virilism
 impotence
 menstrual irregularities
-gastrointestinal effects of corticosteroid therapy
-gastrointestinal upset
+hypertrichosis
+moon face
+latent hyperparathyroidism
+hypoparathyroidism
+antagonism
+parathyroids
+hypercorticism
+latent hyperparathyroidism
+administration of corticosteroids
+hypoparathyroidism
+phosphate retention
+renal failure
+adrenal insufficiency
+frequency
 nausea
 vomiting
 peptic ulcer disease
 pancreatitis
 ulcerative esophagitis
+abdominal distention
 gastrointestinal perforation
 hemorrhage
-gastrointestinal effects
-occurring during corticosteroid therapy
-nausea
-vomiting
-dyspepsia
-anorexia
-peptic ulcer disease
-long-term corticosteroid therapy
-routine prophylactic therapy
-individuals
-aluminum/magnesium-containing antacids
-gi complaints without significant drug interactions
-metabolic adverse effects
-hypernatremia
+esophageal candidiasis
+hypernatremiafrequency
+decreased glucose tolerance
+hyperglycemia
 hypokalemia
 fluid retention
 negative nitrogen balance
+protein catabolism
 increased blood urea nitrogen concentration
-corticosteroid therapy
-glucocorticoids
-secretion of thyrotropin
-tsh
-musculoskeletal effects of corticosteroid therapy
-myopathy
-osteoporosis
-vertebral compression fractures
-tendon rupture
-achilles tendon
-aseptic necrosis of bone
+sodium retention
+hypokalemic alkalosis
+appetite
+weight gain
+hypertriglyceridemia
 aseptic necrosis
 femoral head
 corticosteroid myopathy
@@ -136,42 +105,118 @@ risk of loss of bone density
 percent of elderly patients
 corticosteroids for years
 vertebral compression fractures
-immunologic effects of corticosteroid therapy
+frequency
+steroid myopathy
+muscle weakness
+loss of muscle mass
+osteoporosis
+vertebral compression fractures
+tendon rupture
+achilles tendon
+aseptic necrosis of bone
+growth suppression in pediatric patients
+charcot-like arthropathy
+post-injection flare
+intra-articular use
+osteonecrosis
+frequency
 impairment in cell-mediated immunity
 susceptibility
 parasitic infections
-immune response
-skin tests
-hepatic effects
+immunosuppression
+opportunistic infections from mild
+reactivation of tuberculosis
+increases in serum transaminases
+alkaline phosphatase
+corticosteroid therapy
+laboratory changes
+clinical symptoms
+discontinuation
+frequency
 reversible increases in serum transaminase
 alkaline phosphatase concentrations
 corticosteroid therapy
-hematologic effects
-thrombocytopenia
-lymphopenia
-platelet alterations
-thrombolic events
-dermatologic effects
-corticosteroid therapy
+total increase in wbc
+increase in neutrophils
+decrease in monocytes
+lymphocytes
+eosinophils
+frequency
+leukocytosis
+frequency
 increased ease
 bruising
 ecchymosis
-petechiae striae
+petechiae
 delayed wound healing
 acne
-ocular changes with corticosteroid therapy
+thin fragile skin
+facial erythema
+sweating
+reaction
+skin testing
+allergic dermatitis
+burning
+tingling in the perineal area
+injection
+subcutaneous atrophy
+edema
+hyperpigmentation
+hypopigmentation
+erythema
+sterile abscess
+striae
+thinning scalp hair
+urticaria
+frequency
 increased intraocular pressure
 glaucoma
 posterior subcapsular cataracts
-psychiatric effects
+exophthalmos
+central serous chorioretinopathy
+corneal
+scleral thinning
+exacerbation of ophthalmic viral disease
+adults
+incidence of severe psychic reactions
+psychological effects
+withdrawal of corticosteroids
+incidence
+frequency
 psychoses
 personality
 behavioral changes
-pseudotumor cerebri
-corticosteroid therapy
-bronchospasm after intravenous hydrocortisone
+depression
+emotional instability
+euphoria
+insomnia
+mood swings
+personality changes
+psychic disorders
+exacerbation
+preexisting
+lability
+psychotic behavior
+case reports of hypersensitivity reactions
+corticosteroids
+side effects
+bronchospasm
+shock
+urticaria
+angioedema
+cross-reactivity between aspirin
+hydrocortisone
 active ingredient
 cortifoam
+patients with aspirin-sensitive respiratory disease
+mechanism in patients with asthma
+data
+anaphylaxis
+rapid injection
+infusion of a high dose of corticosteroid
+reactions
+nonimmune mechanism
+bronchospasm after intravenous hydrocortisone
 patients with aspirin-sensitive respiratory disease
 challenge study with oral aspirin
 mg hydrocortisone
@@ -193,38 +238,49 @@ maintenance aspirin therapy
 patient
 similar symptoms
 hydrocortisone
-case reports of hypersensitivity reactions
-corticosteroids
-side effects
-bronchospasm
-shock
-urticaria
-angioedema
-cross-reactivity between aspirin
-hydrocortisone in patients with aspirin-sensitive respiratory disease
-mechanism in patients with asthma
-data
+hypersensitivity reaction
+enema
+frequency
 anaphylaxis
-rapid injection
-infusion of a high dose of corticosteroid
-reactions
-nonimmune mechanism
-pseudorheumatism
-glucocorticoid-withdrawal syndrome
-adrenal insufficiency
-withdrawal of corticosteroids
-patients
-anorexia
-nausea
-vomiting
-lethargy
+anaphylactoid reaction
+angioedema
+frequency
+vertigo
+abnormal fat deposits
+malaise
+frequency
+glycosuria
+motility
+number of spermatozoa
+frequency
+convulsions
+intracranial pressure with papilledema/pseudo-tumor cerebri
+treatment
 headache
-fever
-arthralgias
-myalgias
-postural hypotension
-symptoms
-corticosteroid therapy
+neuritis
+neuropathy
+paresthesia
+arachnoiditis
+meningitis
+paraparesis/paraplegia
+sensory disturbances
+epidural lipomatosis
+paresthesia
+arachnoiditis
+meningitis
+paraparesis/paraplegia
+sensory disturbances
+intrathecal administration
+intrathecal use
+epidural administration
+occurrence of serious adverse events
+routes of administration
+frequency
+kaposi
+sarcoma
+frequency
+pulmonary edema
+hiccups
 aggression
 anxiety
 blurred vision

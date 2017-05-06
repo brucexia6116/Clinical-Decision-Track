@@ -40,34 +40,6 @@ side effects
 dizziness
 headache
 lightheadedness
-abnormal coordination
-abnormal gait
-ataxia
-cold clammy skin
-confusion
-convulsions
-dry mouth
-dyskinesia
-dysphonia
-encephalopathy
-flushing
-hyperkinesia
-hypertonia
-hypoesthesia
-hypokinesia
-saliva
-sweating
-involuntary muscle contractions
-migraine
-paresthesia
-speech disorder
-tongue paralysis
-tremor
-vertigo
-patients
-peripheral neuropathy
-quinolone class antibiotics
-possible exacerbation of myasthenia gravis
 case of alatrofloxacin
 related seizure activity
 medical literature
@@ -135,21 +107,7 @@ quinolone class antibiotics
 intestinal perforation
 dermatologic side effects
 pruritus
-rash in <
-patients
-pruritus ani
-skin disorder
-skin ulceration
-angioedema
-dermatitis
-fungal dermatitis
-photosensitivity
-seborrhea
-skin exfoliation
-urticaria
-patients
-quinolone class antibiotics
-erythema nodosum
+rash
 hypersensitivity reactions
 rash
 stevens-johnson syndrome
@@ -164,22 +122,6 @@ phototoxicity
 study patients
 genitourinary side effects
 vaginitis
-leukorrhea
-menstrual disorder
-females
-balanoposthitis
-males
-dysuria
-micturition frequency
-urinary incontinence
-patients
-quinolone class antibiotics
-albuminuria
-candiduria
-crystalluria
-cylindruria
-hematuria
-vaginal candidiasis
 cardiovascular
 side effects
 arrhythmias

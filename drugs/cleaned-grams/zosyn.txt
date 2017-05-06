@@ -1,0 +1,372 @@
+decrease sodium
+pulmonary edema
+skin
+increase blood alkaline phosphataseuncommon
+runny nose
+electrolyte abnormality
+acute renal injury
+pulmonary embolism
+grand mal convulsion
+chill
+hypochromic anemia
+sensation of spin
+erythema multiforme
+medical attention
+increase blood bilirubinrare
+pseudomembranous colitis
+anemia
+swell of the eyelid
+ulcerative stomatitis
+hive
+tenderness
+eosinophilia
+epstein barr virus igg
+exanthem
+myocardial infarction
+ulcer
+bullous dermatosis
+bleed disorder
+acid
+swell of the foot
+swell at the injection site
+candida infection
+stool change
+acidosis
+stool
+anaphylaxisfrequency
+conjunctivitis
+interstitial nephritis
+jaundice
+body
+hematocrit
+prolonged partial thromboplastin timefrequency
+genital area
+leg
+asthenia
+neurotoxicity
+piperacillin
+increase blood urea bununcommon
+tremor
+fecal incontinence
+stupor
+temporary blindness
+numbness
+leukopenia neutropenia
+abnormal liver function test
+pancreatitis
+mild odor
+difficile associate diarrhea
+muscular weakness
+use
+cough
+leukorrhea
+ventricular tachycardia
+bullous dermatitis
+tachycardia
+petechial rash purpura
+tubulointerstitial nephritisfrequency
+atrial fibrillation
+soft loose stoolsuncommon
+sore
+leukopenia
+ventricular fibrillation
+hypertonia
+white patch in the mouth
+burn in the finger
+hemolytic anemia
+eosinophiluria
+total body jerk
+hyponatremia
+dress
+thrombophlebitis
+hypersensitivity
+respiratory disorder
+eosinophilic pneumonia
+fever
+hypophosphatemia
+white vaginal discharge with no odor
+clostridium
+neuromuscular excitability
+fast heartbeat
+prolonged prothrombin timerare
+itch of the vagina
+vesiculation
+voice change
+genital pruritus
+arthralgia
+gastrointestinal hemorrhage
+injection site pain
+platelet count
+melena
+bradycardia
+maculopapular rashpiperacillin
+injection site inflammationfrequency
+tingle in the hand
+total protein
+urticariarare
+somnolence
+urinary tract infection
+igm antibody
+thrombocythemia
+disturbed thrombocyte function
+atelectasis
+positive direct coomb test
+nausea
+fluid overloadpiperacillin
+photophobia
+lightheadedness
+tenderness in stomach area
+drowsiness
+insomnia
+prolonged muscle relaxation
+vomit
+foot
+sore throat
+acute kidney failure
+hiccough
+vision change
+hemoptysis
+central nervous system depression
+increase incidence of fever
+constipation
+severe sleepiness
+irritation
+fungal dermatitis
+muscle stiffness
+vertigo
+white spot on the lip
+thirst
+medicine
+vaginitis
+transient elevation of alkaline phosphatase
+pneumothorax
+lumbar pain
+balanoposthitis
+oral candidiasis
+difficulty
+altuncommon
+headachefrequency
+duodenal ulcer
+blister
+loosening of the skin
+pruritusuncommon
+earache
+trouble sleep
+gout
+hearing
+gastric ulcer
+swollen gland
+unexplained weight loss
+increase serum creatinine
+side pain
+headache
+pyuria
+pharyngitis
+cardiac arrest
+systemic symptom
+renal failurerare
+oliguria
+colitis
+anxiety
+hypotensionfrequency
+bloat
+sinus bradycardia
+injection site reactionuncommon
+hallucination
+toe
+diuretic
+fever pyrexia
+prolonged activate partial thromboplastin timeuncommon
+stomach
+muscle pain
+lie
+unusual bleeding
+vasculitis
+neutropenia
+lip
+depression
+ventricular extrasystole
+fast breathe with dizziness
+pain
+candidal superinfection
+ileus
+eruption
+decrease blood albumin
+mouth
+urinary retention
+cerebrovascular accident
+hiccup
+face
+acute generalize exanthematous pustulosis
+urticarial rash
+pleural effusion
+red skin lesion
+excoriation
+tiredness
+hypomagnesemia
+edema
+rash
+surroundings
+prolonged bleeding timevery
+tinnitus
+get
+body ache
+hostility
+arrhythmia
+chest pain
+anaphylactoid shockpiperacillin
+health care professional
+dyspepsia
+skin rash
+anaphylactic shock
+dizziness
+increase blood creatinine
+cramp
+lethargy
+generalize edema
+abdominal pain
+problem with vision
+angina
+troubled breathing
+arm
+bladder pain
+stuffy nose
+purpura
+thrombocytopenia
+nightmare
+change in urination
+bleed manifestation
+confusion
+burn feeling in the chest
+fatality
+hypoglycemia
+leg pain
+dysphagia
+hepatotoxicity
+blur vision
+dysuria
+dyspnea
+increase ggtfrequency
+feeling of constant movement of self
+exanthema
+warmth
+erythema nodosum
+faintness
+neuromuscular block agent
+agranulocytosis
+prolonged muscle relaxationpiperacillin
+erythema
+history of penicillin allergy
+circulatory failure
+hypotension
+thrombocytosispiperacillin
+calcium
+procedure
+anaphylaxis
+glossitis
+agitation
+decrease hemoglobin
+leukocytosis
+urinary tract infection with trichomona
+malaise
+decrease blood glucosefrequency
+chillsfrequency
+prothrombin
+bowel movement
+myalgia muscle pain
+hot flush
+crack in the skin at the corner of the mouth
+moniliasis
+increase sweating
+taste perversion
+hand
+superinfection
+stomach pain
+change in taste
+eczema eczematoid rash
+i
+elevated serum creatinine
+hyperventilation
+lower leg
+urinary incontinence
+healthcare professional for medical advice
+sour stomach
+gastritis
+bruise
+bronchospasm
+dehydration
+syncope
+phlebitis
+cold sweat
+injection site edema
+flatulence
+diaphoresis
+diplopia
+electrolyte disturbance
+nonallergic rash
+supraventricular tachycardia
+rhinitis
+flush
+fever or sweating
+erythematous rash
+hepatitis
+inflammation
+epistaxisfrequency
+high fever
+sit position
+peel
+burn
+candidiasis
+pancytopenia
+xerosis
+tazobactam
+eye
+hypernatremia
+swell of the face
+rigor
+tongue
+twitch
+arthralgiafrequency
+deafness
+bone pain
+reversible bone marrow suppression
+proteinuria
+hyperglycemia
+convulsion
+urticaria
+anorexia
+stomatitisfrequency
+dry mouth
+pruritus
+cardiac failure
+symptomatic hypoglycemia
+puffiness
+exanthematous pustulosis
+nausea or vomit
+ecchymosis
+toxic epidermal necrolysis
+potassium
+enlarged abdomen
+exfoliative dermatitis
+redness of the skin
+cholestatic jaundicepiperacillin
+steven johnson syndrome
+insomniafrequency
+fda
+result in shock
+purple center
+tonic clonic seizurepiperacillin
+yellow eye
+stomach cramp
+taste
+mesenteric embolism
+hypertension
+perineal irritation pain
+diarrhea
+acid base disturbance
+peripheral edema
+hematuria
+hypokalemia
+yeast in urine
+sneeze
+e

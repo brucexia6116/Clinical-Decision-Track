@@ -26,70 +26,201 @@ fussiness
 insomnia
 fatigue
 malaise
-nervous system
-side effects
-headache
-fatigue
+reported side effects
 somnolence
-somnolence
-doses
-mg per day
-other nervous system
-side effects
 dizziness
-insomnia
-nervousness
-post marketing reports
-aggression reaction
+headache
+somnolence
+headache
+dizzinessfrequency
+altered sense of taste
+paresthesia
+hypertonia
+tremor
+abnormal coordination/incoordination
+ataxia
+hyperesthesia
+hyperkinesia
+hypoesthesia
+migraine
+paralysis
+twitching
+parosmia
+taste loss/perversionpostmarketing reports
 convulsions
-cetirizine
-sedating than loratadine
-gastrointestinal side effects
+dysgeusia
+dyskinesia
+dystonia
+syncope
+amnesia
+vertigo
+memory impairment
 dry mouth
 nausea
+diarrhea
 vomiting
+abdominal painuncommon
+dyspepsiafrequency
+tongue disorder
+constipation
+flatulence
+salivation
+aggravated tooth caries
+eructation
+gastritis
+hemorrhoids
+melena
+rectal hemorrhage
+stomatitis/ulcerative stomatitis
+tongue discoloration/edema
+enlarged abdomen
 pharyngitis
-dyspepsia
-appetite
-hepatic side effects
-rare liver function test abnormalities
-following discontinuation of cetirizine
-active ingredient
-day allergy
-therapy
-case of recurrent acute hepatitis
-cetirizine use
-respiratory side effects
-rare reports
-wheezing
+rhinitis
 coughing
+epistaxisfrequency
+dyspnea
+respiratory disorder
+bronchospasm
+upper respiratory tract infection
+dysphonia
 bronchitis
+hyperventilation
+sputum
+pneumonia
 sinusitis
-asthma
-dermatologic side effects
-reports of maculopapular
-urticarial eruptions
-fixed drug eruptions
-cetirizine
-active ingredient
-day allergy
-general
-side effects
-epistaxis
+nasal polyp
+fatiguefrequency
+earache
+tinnitus
+fever
+pain
+rigor
+thirst
+deafness
+ototoxicity
 accidental injury
-hypersensitivity side effects
-case report of an anaphylactic reaction
-delusional thinking
+face edema
+leg edema
+malaisepostmarketing reports
+asthenia
+stillbirth
+insomniafrequency
+nervousness
+impaired concentration
+confusion
+libido
+abnormal thinking
+anxiety
+depersonalization
+emotional lability
+euphoria
+paroniria
+sleep disorderpostmarketing reports
+agitation
+aggression/aggressive reaction
 depression
-year-old woman
-cetirizine
-active ingredient
-day allergy
-symptoms
-cetirizine
-postmarketing
-postmarketing psychiatric side effects
-reports of aggressive reaction
-hallucinations
-suicidal ideation
-suicide
+hallucination
+suicidal ideation/suicide
+myelitisfrequency
+pain
+myalgia
+arthralgia
+bone disorder/fracture
+leg cramps
+arthritis
+arthrosis
+muscle weakness
+frequency
+pruritus/intense itching
+sweating
+acne
+alopecia
+bullous eruption
+dermatitis
+dry skin
+eczema
+erythematous rash
+furunculosis
+hyperkeratosis
+hypertrichosis
+maculopapular rash
+photosensitivity/photosensitivity
+toxic reaction
+purpura
+seborrhea
+skin disorder/nodulepostmarketing reports
+rash
+urticaria
+angioneurotic edema
+fixed drug eruption
+acute generalized exanthematous pustulosis
+agep
+frequency
+eye abnormality
+periorbital edema
+abnormal vision
+eye pain
+conjunctivitis
+ptosis
+visual field defects
+blindness
+glaucoma
+ocular hemorrhage
+xerophthalmia
+periorbital edema/eye swellingpostmarketing reports
+accommodation disorder/loss of accommodation
+vision
+oculogyration
+orofacial dyskinesia
+frequency
+polyuria
+urinary retention
+urinary tract infection
+dysmenorrhea
+hematuria
+micturition frequency
+urinary incontinence
+female breast pain
+intermenstrual bleeding
+leukorrhea
+menorrhagia
+vaginitispostmarketing reports
+dysuria
+frequency
+flushing
+palpitations
+tachycardia
+edema/general edema
+chest pain
+cardiac failure
+hypertension
+hot flashes
+peripheral edema
+pallorpostmarketing reports
+severe hypotension
+frequency
+increased appetite
+anorexia
+weight
+dehydration
+diabetes mellitus
+frequency
+reversible transaminase elevationspostmarketing reports
+abnormal hepatic function
+increased transaminases
+alkaline phosphatase
+ggt
+bilirubin
+cholestasis
+hepatitis
+frequency
+allergic reactions/delayed allergic reactionspostmarketing reports
+hypersensitivity
+anaphylactic shock
+frequency
+lymphadenopathypostmarketing reports
+thrombocytopenia
+hemolytic anemia
+frequency
+cystitispostmarketing reports
+glomerulonephritis

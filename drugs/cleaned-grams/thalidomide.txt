@@ -1,0 +1,319 @@
+healthcare professional for medical advice
+black tarry stool
+viral infection
+gastroenteritis
+burn
+causalgia
+hypercholesterolemia
+ldh
+bruise
+low blood pressure
+aphthous stomatitis
+dyspnea
+dehydration
+hypothyroidism
+case of fulminant hepatic failure
+dry skin
+congestive heart failure
+anxiety
+hypomagnesemia
+rhinitis
+blood in the urine
+leg
+hypocalcemia
+somnolence
+stomach pain
+myasthenia
+syncope
+difficulty with speaking
+irregular heartbeat
+acne
+hyperkalemia
+rash
+electrolyte abnormality
+sarcoma
+dry eye
+bone tenderness
+sore throat
+lymphopenia
+blistering of the skin
+nausea
+red skin lesion
+bile duct obstruction
+nervousness
+neck rigidity
+erythema multiforme
+twitching of the limb
+tinnitus
+sudden shortness of breath
+libido
+insomnia
+flatulence
+skin necrosis
+mood change
+herpes simplex
+vomit
+cardiovascular
+foot
+erythroleukemia
+case of severe hepatotoxicity
+enuresis
+nail disorder
+loss of consciousness
+anemia
+health care professional
+hematuria
+cerebral ischemia
+dyspepsia
+diplopia
+decrease urination
+taste disturbance
+lacrimation disorder
+abnormal gait
+raynaud
+disease
+peel
+myxedema
+retinitis
+eosinophilia
+red spot on the skin
+intestinal obstruction
+swell in the arm
+dizziness
+depression
+incoordination
+neck pain
+amblyopia
+albuminuria
+constipation
+neuralgia
+abdominal pain
+hypotension
+eye disorder
+myalgia
+seborrhea
+angioedema
+dryness of the mouth
+muscle cramp
+enlarged spleen
+pain
+periodontitis
+troubled breathing
+arm
+maculopapular rash
+double vision
+circumoral paresthesia
+vertigo
+inappropriate adh
+paresthesia
+drowsiness
+epistaxis
+thromboembolism
+emphysema
+acute renal failure
+conjunctivitis
+tingle
+confusion
+medicine
+rale
+anorexia
+facial edema
+peripheral vascular disorder
+body
+organize pneumonia
+esophagitis
+sudden loss of consciousness
+tumor lysis syndrome
+hyperesthesia
+skin disorder
+ichthyosis
+dizziness or lightheadedness
+asthenia
+deafness
+gum disorder
+pancytopenia
+murmur
+tremor
+cough
+intestinal perforation
+weight gain
+granulocytopenia
+pain in the hand
+altered hormone level
+hyperkinesia
+stupor
+numbness
+hyperlipemia
+hypoglycemia
+loosening of the skin
+bronchitis
+abnormal rbc
+tongue discoloration
+gynecomastia
+case of bradycardia
+muscle weakness
+lung edema
+avitaminosis
+heart arrest
+facial muscle
+dysphagia
+bilirubinemia
+sepsis
+febrile neutropenia
+seizure
+muscle jerking of the arm
+underlie etiology of the bradycardia
+pericarditis
+petechiae
+skin rash
+ataxia
+faint
+increase appetite
+convulsion
+urticaria
+purple center
+incomplete steven johnson syndrome
+sweating
+ulcer
+dry mouth
+pruritus
+bleed gum
+sick sinus syndrome
+intermittent shake
+myocardial infarct
+myelogenous leukemia
+euphoria
+lipase
+palpitation
+upper extremity pain
+amnesia
+tooth pain
+dysesthesia
+tachycardia
+diabetes
+reflex
+case of thalidomide associate hyperglycemia
+dyskinesia
+impotence
+psoriasis
+cerebrovascular accident
+stomatitis
+pyuria
+meningitis
+hyperuricemia
+red irritated eye
+alopecia
+atrial fibrillation
+pharyngitis
+apnea
+abnormal thinking
+infection
+orthostatic hypotension
+carpal tunnel syndrome
+sore
+exfoliative dermatitis
+bun
+case of encephalopathy
+slow speech
+hernia
+oliguria
+general
+nodular sclerosing hodgkin
+colitis
+chill
+fda
+leukopenia
+medical attention
+alkaline phosphatase
+eructation
+cholangitis
+hypertonia
+psychosis
+voice alteration
+purpura
+pneumonia
+erythema nodosum
+hypalgesia
+aid
+headache
+neurologic disorder
+vasodilation
+neuritis
+angina pectoris
+agitation
+oral moniliasis
+eye pain
+skin discoloration
+case of intractable insomnia
+orchitis
+fungal dermatitis
+cholestatic jaundice
+hypercalcemia
+appetite increase
+peripheral neuropathy
+ekg abnormality
+creatinine
+dementia
+joint disorder
+redness
+flu syndrome
+hyponatremia
+syndrome
+unusual bleeding
+migraine
+pulmonary embolus
+require medical intervention
+diarrhea
+elevated mcv
+blood in the stool
+increase sgot
+sinusitis
+parotid gland enlargement
+peripheral edema
+neutropenia
+lip
+abdominal distension
+decrease esr
+photosensitivity
+nervous system
+inability to speak
+suicide attempt
+fever
+moniliasis
+hypokalemia
+hypertension
+enlarged liver
+arthritis
+lymphadenopathy
+leukemia
+white spot in the mouth
+thrombocytopenia
+gastrointestinal disorder
+periosteal disorder
+upper respiratory tract infection
+benign skin neoplasm
+foot drop
+fast heartbeat
+pleural effusion
+phosphorus
+accidental injury
+chest pain
+clinical significance
+postural hypotension
+thalidomide
+lung disorder
+gastrointestinal hemorrhage
+thrombosis
+cellulitis
+sgpt
+ascite
+hypoproteinemia
+malaise
+cd count
+amenorrhea
+eczematous rash
+inability
+itch skin
+amyloidosis
+bradycardia
+urinary incontinence

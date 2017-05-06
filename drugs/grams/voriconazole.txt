@@ -10,15 +10,10 @@ skin rash
 vomiting
 chills
 comprehensive list of adverse effects
-other dosage forms:
 needed effects
 voriconazole
 unwanted side effects
 medical attention
-following side effects
-taking voriconazole
-check
-doctor
 voriconazole side effects
 medical attention
 body
@@ -370,18 +365,6 @@ neuralgia
 neuropathy
 otitis externa
 taste loss
-infusion-related side effects
-immediate anaphylactoid-type reactions
-including flushing
-fever
-sweating
-tachycardia
-chest tightness
-dyspnea
-faintness
-nausea
-pruritus
-rash
 fever/pyrexia
 peripheral edemacommon
 chills
@@ -410,6 +393,18 @@ substernal chest pain
 infusion-related side effects
 including
 immediate anaphylactoid-type reactions
+infusion-related side effects
+immediate anaphylactoid-type reactions
+including flushing
+fever
+sweating
+tachycardia
+chest tightness
+dyspnea
+faintness
+nausea
+pruritus
+rash
 abdominal pain
 nausea
 vomiting
@@ -544,6 +539,9 @@ music
 days
 third day
 music
+fluorosis
+periostitis
+long-term therapy
 painuncommon
 arthritisfrequency
 arthralgia
@@ -559,9 +557,6 @@ osteoporosis
 periostitis deformanspostmarketing reports
 fluorosis
 periostitis
-fluorosis
-periostitis
-long-term therapy
 hematuriauncommon
 albuminuria
 proteinuriafrequency

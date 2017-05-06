@@ -1,13 +1,7 @@
-other dosage forms:
 needed effects
 trimethoprim
 unwanted side effects
 medical attention
-following side effects
-taking
-trimethoprim
-check
-doctor
 trimethoprim side effects
 medical attention
 body
@@ -16,264 +10,132 @@ side effects
 health care professional
 side effects
 following side effects
-thrombophlebitispostmarketing reports
+thrombophlebitisvery
+polyarteritis nodosa
+syncopepostmarketing reports
 qt prolongation
 ventricular tachycardia
 torsade de pointes
-dermatologic side effects
-hypersensitivity
-sulfamethoxazole component
-few cases of acute febrile neutrophilic dermatosis
-sweet
-syndrome
-abrupt onset of painful erythematous plaques
-nodules
-fever
-degrees celsius
-acute febrile neutrophilic dermatosis
-sweet
-syndrome
-acute patchy exanthematous pustulosis
-least case
-frequency
-mild erythroderma
-severe exfoliative dermatitis
-stevens-johnson syndrome
-toxic epidermal necrolysis
-erythema multiforme
-exfoliative dermatitis
-generalized skin eruptions
+skin rash
+urticariavery
 photosensitivity
-phototoxicity
+exfoliative dermatitis
+fixed drug eruption
+erythema multiforme
+erythema nodosum
+stevens-johnson syndrome
+sjs
+toxic epidermal necrolysis
+bullous dermatitis
+purpura
+angioedemafrequency
 pruritus
-urticaria
-rash
-frequency
-nausea
-vomiting/emesis
 diarrhea
-stomatitis
+nausea
+vomiting
+anorexiavery
+constipation
 glossitis
-abdominal pain
-anorexia
+stomatitis
 pseudomembranous colitis
-clostridium difficile
-associated diarrhea
 pancreatitis
-trimethoprim
-step in folate synthesis
-patients
-preexisting folate deficiencies
-alcoholics
-malnourished patients
-patients on phenytoin
-antifolate metabolites
-chronic hemolysis
-risk
-developing
-developing megaloblastic anemia during sulfamethoxazole-trimethoprim therapy
-folate replenishment
-effect
-methemoglobinemia
-hiv-infected patient
-sulfamethoxazole-trimethoprim
-second time after the first course
-development of methemoglobinemia
-frequency
+abdominal painfrequency
+sore mouth
+moniliasis
+leucopenia
+neutropenia
+thrombocytopenia
+pancytopenia
+bone marrow depression
 agranulocytosis
 aplastic anemia
-thrombocytopenia
-leukopenia
-neutropenia
 hemolytic anemia
-megaloblastic anemia
-hypoprothrombinemia
-methemoglobinemia
-eosinophiliapostmarketing reports
-thrombotic thrombocytopenic purpura
-idiopathic thrombocytopenic purpura
-cholestatic hepatitis
-sulfamethoxazole-trimethoprim therapy
-other signs of hypersensitivity
-rash
-fever
 eosinophilia
-biopsy findings in patients with sulfamethoxazole-trimethoprim-associated cholestatic hepatitis
-hepatic necrosis
-hepatocyte degeneration
-hepatic granuloma
-centrilobular congestion
-inflammatory infiltrates
-year-old female developed pancreatitis
-hepatitis
-receiving sulfamethoxazole-trimethoprim for treatment of a urinary tract infection
-several years
-experiencing
-previous episode of sulfamethoxazole-trimethoprim-associated hepatitis
-frequency
+purpura
+hemolysisfrequency
+megaloblastic anemia
+methemoglobinemia
+hypoprothrombinemia
+granulocytopenia
+jaundice
 hepatitis
 including
 cholestatic jaundice
 hepatic necrosis
-elevated serum transaminase
+disturbance in liver enzymes
+elevated serum transaminases
 elevated bilirubin
-elevated liver function tests
-fulminant hepatic failure
-cholestatic lesions
-hepatitis with simultaneous pancreatitis
-hepatorenal failure
-cholestatic liver disease with ductopenia
-frequency
+hypersensitivity
+anaphylaxis
+anaphylactoid reaction drug fever
+chills
+allergic vasculitis
+resembling henoch-schonlein purpurafrequency
+stevens-johnson syndrome
+sjs
+toxic epidermal necrolysis
 anaphylaxis
 allergic myocarditis
+erythema multiforme
+exfoliative dermatitis
 angioedema
-henoch-schonlein purpura
 serum
 sickness-like syndrome
 generalized allergic reactions
-fixed drug eruption
-hypersensitivity reactions
-including
-cholestatic jaundice
-interstitial nephritis
-liver failure
-renal failure
-pancytopenia
-hypotension
-pulmonary edema
-elevated serum transaminases
-case
-fixed drug eruption
-polysensitivity
-sulfamethoxazole-trimethoprim
-tenoxicam
-reactivation of previous
-years
-sulfamethoxazole-trimethoprim-associated fixed drug eruption lesions
-hypersensitivity reactions
-patients with hiv infection
-opportunistic infections
-patients
-slow acetylators
-hypotension
-pulmonary edema
-elevated serum transaminases
-been reported following
-been reported following sulfamethoxazole-trimethoprim administration
-hiv-infected patients
-hypersensitivity reactions in some cases
-cholestatic jaundice
-interstitial nephritis
-liver failure
-renal failure
-pancytopenia
-year-old male developed liver failure
-renal failure
-requiring hemodialysis
-pancytopenia
-requiring blood transfusions after days of treatment with sulfamethoxazole-trimethoprim for pyelonephritis
-hypersensitivity reaction
-slow acetylator phenotype
-taken acetaminophen
-diclofenac
-acetaminophen
-reaction
-inhibiting nat
+generalized skin eruptions
+conjunctival
+scleral injection
+photosensitivity
+pruritus
+urticaria
+rash
+periarteritis nodosa
+systemic lupus erythematosus
+sle
+monilial overgrowth
 local reaction
 pain
 slight irritation
-local reaction
-pain
-slight irritation on intravenous administration
-hypoglycemiafrequency
 hyperkalemia
-metabolic acidosis
-hyponatremia
-hypouricemia
-hyperkalemia
-result of the blocking of sodium channels by trimethoprim
-reduction of potassium excretion in the distal tubule
-high doses of intravenous sulfamethoxazole-trimethoprim
-greater incidence of metabolic acidosis
-sulfonamides
+hiv patients
 hypoglycemia
-establishment of a causal relationship
-most cases
-suspected sulfa-induced hypoglycemia because many of the affected patients
-aids
-viral infection
-other medications
-hypouricemia
-high-dose therapy
-isolated cases of rhabdomyolysis
-patients with aids
-rhabdomyolysisfrequency
+hyponatremia
+metabolic acidosis
+rhabdomyolysis
+aids patients
+frequency
 arthralgia
 myalgia
-periarteritis nodosa
-systemic lupus erythematosus
-exacerbation of posthypoxic action myoclonus
-patient with non-hodgkin
-lymphoma
-receiving
-receiving high-dose intravenous sulfamethoxazole-trimethoprim
-mg/kg/day
-suspected pneumocystis pneumonia
-hiv-infected patients
-receiving high-dose intravenous sulfamethoxazole-trimethoprim
-greater incidence of tremors
-tremors
-several days
-initiating therapy
-several days after discontinuation
-dose reduction
-year-old male developed higher-level gait disorder on day of treatment
-days
-dosage
-sulfamethoxazole mg-trimethoprim mg
-day
-time
-patient
-nocturnal delirium
-sulfamethoxazole-trimethoprim
-day
-patient
-gait
-nocturnal delirium
-day
-higher-level gait disorder
-least case
-frequency
+headache
 aseptic meningitis
+withdrawal of therapy
+rechallenge
 convulsions
 peripheral neuritis
 ataxia
 vertigo
-tinnitus
-headache
 dizziness
-tremors
-lightheadedness
-coma
-seizures
-multifocal myoclonus
-bilateral asterixis
-exacerbation of posthypoxic action myoclonus
-frequency
-scleral injection
-frequency
-hallucinations
+tremor
+lethargy
+paresthesia
+convulsions
+peripheral neuritis
+tinnitus
+uveitis
 depression
-apathy
-nervousness
+hallucination
+confusional state
+agitation
+anxiety
+abnormal behavior
 insomnia
-irritability
-confusion
-disorientation
-catatonia
-nocturnal delirium
-exacerbation of panic attacks
-acute psychoses
+nightmares
+renal tubular acidosis
+impaired renal function
+renal failure
+hematuriafrequency
+serum creatinine
+blood urea nitrogen increasedpostmarketing reports
 frequency
 renal failure
 interstitial nephritis
@@ -287,40 +149,11 @@ aggravation of renal disease
 azotemia
 hyperkalemic renal tubular acidosis
 overestimations of normal creatinine values
-trimethoprim
-renal tubular creatinine secretion
-significant decrease in creatinine clearance
-changes
-discontinuation of therapy
-sulfamethoxazole
-sulfa crystalluria
-low urine output states
-interstitial nephritis
-tubular necrosis
-hypersensitivity
-propylene glycol vehicle in intravenous sulfamethoxazole-trimethoprim
-lorazepam
-development of acute tubular necrosis in a patient
-hyperkalemia
-high-dose therapy
-reported cases
-discontinuation of the drug
-required treatment with sodium polystyrene sulfonate
-patients with aids
-given sulfamethoxazole-trimethoprim for pneumocystis pneumonia
-mild hyperkalemia
-sulfamethoxazole-trimethoprim
-creatinine determinations by the jaffe alkaline picrate assay
-resulting in overestimations of normal values
-hypersensitivity reactions of the respiratory tract
-sulfonamides
 cough
+dyspnea
+lung infiltration
 shortness of breath
-pulmonary infiltrates
-frequency
-cough
-shortness of breath
-pulmonary infiltrates
+wheezing
 side effects of septra
 fda
 healthcare professional for medical advice

@@ -1,6 +1,229 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+needed effects
+naloxone
+oxycodone
+unwanted side effects
+medical attention
+naloxone
+oxycodone side effects
+medical attention
+body
+medicine
+side effects
+health care professional
+side effects
+following side effects
+hypertension
+hypotension
+angina
+patients with history of coronary artery disease
+palpitations
+peripheral edema
+chest painrare
+syncopefrequency
+flushing
+bradycardia
+st depression
+supraventricular tachycardia
+pruritus
+rash
+cold sweatpostmarketing reports
+hyperhidrosis
+exfoliative dermatitis
+dry skin
+urticaria
+hot flush
+diarrhea
+abdominal pain
+dry mouth
+flatulence
+vomiting
+nausea
+anorexia
+appetite
+gastroenteritis
+dyspepsia
+constipationfrequency
+thirst
+eructation
+colic
+dysphagia
+stomatitis
+taste perversion
+dental caries
+ileus
+flatulence
+frequency
+urinary tract infection
+micturition urgency
+ureteric spasm
+erectile dysfunction
+urinary retention
+amenorrhea
+frequency
+biliary colic
+liver enzymes
+biliary spasm
+cholestasis
+allergic reactions
+anaphylactic reactions
+influenzarare
+herpes simplexfrequency
+lymphadenopathy
+loss of appetite
+dehydration
+appetitefrequency
+increased serum triglycerides
+hyponatremia
+pain
+fall
+arthralgia
+myalgiafrequency
+myalgia
+neck pain
+nonstriated muscle spasms
+muscle twitching
+muscle rigidity
+osteoarthritis
+abnormal gait
+hypertonia
+involuntary muscle contractions
+abnormal coordination
+headache
+fatigue
+dizziness
+drug withdrawal syndrome
+sedation
+tremor
+sinus headache
+somnolenceuncommon
+disturbance in attention
+paraesthesia
+speech disorder
+malaiserare
+convulsions
+persons with epileptic disorder
+predisposition
+convulsions
+frequency
+syncopepostmarketing reports
+raised intracranial pressure
+sciatica
+tremor
+vertigo
+drowsiness
+paraesthesia
+somnolence
+speech disorder
+amnesia
+hypertonia
+migraine
+feeling
+chills
+tinnitus
+lacrimation increaseduncommon
+visual disturbances
+miosis
+malignant neoplasm progression
+drug abuse
+anxiety
+restlessnessuncommon
+abnormal thinking
+confusion
+depression
+hallucination
+altered mood
+personality change
+euphoric mood
+activity
+psychomotor hyperactivity
+agitation
+nervousness
+insomnia
+perception disturbances
+hallucination
+derealization
+libido
+mood changes
+disorientation
+dysphoria
+nightmares
+dyspnea
+rhinorrhea
+yawninguncommon
+respiratory depression
+bronchial spasm
+spasms of nonstriated muscles
+suppression of the cough reflexfrequency
+bronchitis
+nasopharyngitis
+pharyngitis
+voice alteration
+sinusitis
+lower respiratory tract infection
+hiccup
+side effects of naloxone
+oxycodone
+fda
+healthcare professional for medical advice
+blurred vision
+confusion
+troubled breathing
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+shallow breathing
+blue lips
+fingernails
+skin
+seizures
+sweating
+unusual tiredness
+weakness
+enlarged pupils
+black part of the eye
+change in consciousness
+chest pain
+discomfort
+cold, clammy skin
+coughing
+pink frothy sputum
+decreased awareness
+responsiveness
+noisy breathing
+wheezing
+increased sensitivity of the eyes
+light
+increased sweating
+loss of consciousness
+severe sleepiness
+sleepiness
+unusual drowsiness
+irregular heartbeat
+swelling in the legs
+ankles
+nausea
+stomach pain
+back pain
+difficulty
+bowel movement
+stool
+difficulty with moving
+dizziness
+fear or nervousness
+feeling of warmth
+headache
+itching skin
+rash
+muscle pain
+stiffness
+pain in the joints
+redness of the face
+neck
+arms
+upper chest
+sudden sweating
+trouble sleeping
+vomiting

@@ -1,0 +1,359 @@
+influenza
+hypercholesterolemia
+lack
+lymph node abscess
+rectal hemorrhage
+elevated fasting cholesterol
+skin
+appetite
+osteoporosis
+amount of urine
+abdominal tenderness
+iron deficiency anemia
+hyperhidrosis
+associate hypersensitivity
+odynophagia
+anemia
+swell of the eyelid
+organ dysfunction
+psychotic disorder
+myocardial infarction
+acute psychosis
+serum glucose test
+decrease absolute neutrophil count
+neck pain
+tightness in the chest
+change in behavior
+sharp back pain
+rate
+muscle cramp
+acid
+depression
+constitutional finding
+anal cancer
+body
+prurigo
+tremor
+polydipsia
+mental disorder
+painful cold sore
+other risk factor for cancer
+stiffness
+astheniauncommon
+loss of strength
+waist circumference
+headache
+acne
+cognitive disorder
+immunodeficient population
+elevated blood cholesterol
+eye
+submandibular mass
+guillain barre syndrome
+fat disorder
+hypersomnia
+type
+loss of appetite
+tenofovir
+cerebellar ataxia
+tobacco use
+belch
+elevated inr
+skin papillomafrequency
+middle insomnia
+elevated lipase
+hemoglobin
+dress
+lymph node pain
+generalize pruritus
+elevation in lipase
+night sweat
+hypersensitivity
+elevation in creatine phosphokinase
+fever
+emtricitabine
+arthritis
+fatigue
+fast heartbeat
+folliculitis
+postural dizziness
+menopausal symptom
+peritonitis
+acute pancreatitis
+platelet count
+underlie liver disease
+black tarry stool
+flank pain
+urine
+dry skin
+elevation in pancreatic amylase
+diabetes mellitus
+renal tubular necrosis
+elevated serum glucose
+somnolence
+depressed level of consciousness
+nausea
+weakness
+insomnia
+vomit
+foot
+kill oneself
+confusional state
+alcoholic hepatitis
+mistrust
+active hepatitis b virus infection
+nasal congestion
+poor quality sleep
+constipation
+weight
+kaposus
+dyslipidemia
+nephrolithiasis
+use efavirenz
+hive
+nausea and vomit
+maculopapular rash
+renal impairment
+wbc count
+autoimmune disorder in the setting of immune reconstitution
+medicine
+light color stool
+xeroderma
+blister on the lip
+pancreatic amylase
+macular rash
+lipodystrophy
+cough
+weight gain
+psychomotor hyperactivity
+renal cyst
+elevated high density lipoprotein
+vertigouncommon
+indigestion
+trouble sleep
+hepatitis c virus coinfection
+grade
+genital herpes
+elevated creatine phosphokinase
+squamous cell carcinoma
+peptic ulcer
+unusual tiredness
+exacerbation of depression
+fear or nervousness
+palpitation
+side pain
+glucose
+alopecia
+rbc in urine
+complete suicide
+systemic symptom
+anxiety
+sinus bradycardia
+myalgia
+elevated blood creatinine
+hyperlipidemia
+herpes simplex
+elevation in alkaline phosphatase
+hallucination
+feeling
+gingivitis
+peripheral neuropathy
+elevated fasting blood glucose
+muscle pain
+unusual bleeding
+neutropenia
+lip
+ventricular extrasystole
+pain
+decrease blood albumin
+epigastric discomfort
+papillomavirus
+grave
+osteopenia
+suicidal behaviorfrequency
+pyrexia
+disease
+face
+gastroenteritis
+perihepatitis
+upper abdominal pain
+toxic nephropathy
+blood in the urine
+elevated low density lipoprotein cholesterolfrequency
+edema
+paranoia
+rash
+hypoesthesia
+erosive duodenitis
+malaise
+painful blister on the trunk of the body
+immune reconstitution syndromefrequency
+health care professional
+abdominal distention
+dyspepsia
+contain
+dizziness
+total bilirubin
+lethargy
+abdominal pain
+heartburn
+cancer diagnosis
+nephritis
+troubled breathing
+thrombocytopenia
+delusion of persecution
+rhabdomyolysisfrequency
+nightmare
+myopathy
+postmarket experience
+stomach pain continue
+raltegravir
+polyarthritis
+anorectal discomfort
+chest discomfort
+renal failure
+auditory hallucination
+tinnitusfrequency
+elevation in fasting
+tenderness in the stomach area
+fat tissue
+delirium
+swallow
+placebo
+tension headache
+suicidal ideation
+flatulenceuncommon
+elevated blood triglyceridesuncommon
+cn
+dark urine
+rhabdomyolysis
+memory impairment
+gynecomastia
+amnesia
+lipohypertrophy
+decrease weight
+carpal tunnel syndrome
+abdominal discomfort
+molluscum contagiosumfrequency
+erythema
+hyperphagia
+skin cancer
+chill
+medical attention
+eructation
+herpes zoster
+behavior
+glossitis
+nasopharyngitis
+joint pain
+general tiredness
+sarcoma
+rib
+concentration
+severity
+migraine
+suicidal behavior
+rectal adenocarcinoma
+higher laboratory abnormality
+nervous system
+anxietyuncommon
+hot flush
+itch
+swell
+hand
+pain in extremity
+lipoatrophy
+arthralgiauncommon
+depressed mood
+stomach pain
+combativeness
+thought
+nocturia
+lower leg
+healthcare professional for medical advice
+sour stomach
+gastritis
+rashuncommon
+diarrhea
+bruise
+concomitant medication
+least cn symptom
+accidental overdosefrequency
+hepatic failure
+mouth ulceration
+elevated blood
+erectile dysfunction
+tubulointerstitial nephritis
+diaphoresis
+hypertensionfrequency
+lymphoma
+elevated blood amylasefrequency
+abnormal behavior
+absolute neutrophil count
+major depression
+nose
+elevated bunfrequency
+disorder
+specify cancer
+disturbance in attention concentration
+cachexia
+panic attack
+hepatic failurefrequency
+mood
+paresthesia
+abnormal dream
+dysphonia
+hepatitis
+hepatic steatosis
+red spot on the skin
+increase thirst
+facial waste
+burn
+sting of the skin
+bleed gum
+central
+tendonitis
+efavirenz
+stomach discomfort
+skin lesion
+osteonecrosis
+hyperglycemia
+urticaria
+dry mouth
+pruritus
+dosing regimen in combination with emtricitabine
+hepatocellular carcinoma
+toxic epidermal necrolysis
+redness of the skin
+steven johnson syndrome
+fda
+genitals
+regimen
+chronic renal failure
+dysgeusia
+yellow eye
+gastroesophageal reflux disease
+rate of discontinuation
+suspiciousness
+elevation in total bilirubin
+irritation
+pain in the groin
+severe intensity
+suicide attempt
+nervous system disorder
+atypical lymphocytesuncommon
+dermatitis acneiform
+hoarseness
+peripheral edema
+polymyositis
+elevated alkaline phosphatase
+spasm
+elevated total bilirubinuncommon
+epistaxis
+musculoskeletal pain
+lymphadenopathy
+herpes virus infection
+upper respiratory tract infection
+darunavir
+pruritic rash
+visual impairment

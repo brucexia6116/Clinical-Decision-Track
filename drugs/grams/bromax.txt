@@ -1,16 +1,12 @@
-other dosage forms:
 doctor if any of these
 common side effects
-anxiety
 dizziness
-lightheadedness
 drowsiness
-enlarged pupils
-headache
-loss of appetite
-restlessness
-sleeplessness
-tension
+dry mouth
+throat
+nose
+thickening of mucus in nose
+throat
 severe allergic reactions
 rash
 hives
@@ -21,23 +17,11 @@ swelling of the mouth
 face
 lips
 tongue
-double vision
-chest pain
-clumsiness
-unsteadiness
-convulsions
 irregular heartbeat
-hallucinations
-pounding in the chest
-psychotic episodes
-bizarre behavior
-severe dry mouth
-nose
-throat
+fever
+mood changes
 shortness of breath
 sore throat
-fever
-trouble
 unusual bleeding
 bruising
 unusual tiredness
@@ -104,7 +88,6 @@ hematologic side effects
 rare cases of hemolytic anemia
 thrombocytopenia
 agranulocytosis
-hour
-sustained-release tablets
-hour
-sustained-release capsules
+chewable tablets
+liquid
+oral suspension

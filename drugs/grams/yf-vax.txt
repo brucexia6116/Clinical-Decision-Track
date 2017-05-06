@@ -4,12 +4,6 @@ active ingredient
 yf-vax
 unwanted side effects
 medical attention
-following side effects
-taking
-taking yellow fever vaccine
-check
-doctor
-nurse
 yellow fever vaccine
 side effects
 medical attention
@@ -25,11 +19,7 @@ myalgia
 malaise
 asthenia
 low-grade fever
-days after vaccination in <
-vaccinees
-incidence of minor adverse events
-vaccinees
-> years
+days after vaccination in years
 younger subjects
 local side effects
 edema
@@ -64,24 +54,9 @@ loss of consciousness
 elevated wbcs
 protein in csf
 leukocytosis
-immunosuppression
-age
-< months
-known risk factors
-estimated incidence for all ages
-cases
-vaccinees
+immunosuppression and age 
 cases of neurotropic disease
 infants
-< months
-infants
-months
-cases
-adults
-month-old infant
-genetic variant of the vaccine virus
-brain of the
-encephalitis
 nonfatal cases of probable d
 vaccine-associated neurotropic disease
 u.

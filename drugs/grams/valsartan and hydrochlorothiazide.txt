@@ -1,6 +1,248 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+headache
+fatigue
+dizzinessrare
+vertigo
+tinnitus
+rare cases of interstitial nephritis
+use of hctz
+hctz
+nephrogenic diabetes insipidus
+case report in which the drug
+condition
+nausea
+diarrhea
+rash
+acute pulmonary edema
+interstitial nephritis
+cystitis
+anaphylaxis
+renal insufficiency
+azotemia
+multiple-dose studies in hypertensive patients with stable renal insufficiency
+renovascular hypertension
+use of valsartan
+significant effects of glomerular filtrate rate
+filtration fraction
+creatinine clearance
+renal plasma flow
+use of hctz
+development of pre-renal azotemia
+pretreatment volume repletion
+initiating therapy
+chest pain
+patients
+taking
+combination drug in controlled trials
+incidence
+incidence of chest pain among placebo patients
+palpitations
+chest pain
+angioedemafrequency
+cardiac arrhythmias
+including
+ventricular ectopy
+complete av heart block
+angiotensin
+receptor blockade
+ace inhibition
+impact on the processing of peptides
+bradykinin
+substance p
+peptides
+cough
+bronchospasm
+dyspnea
+epistaxis
+use of this drug
+cough
+valsartan component
+dyspnea
+acute pulmonary edema
+frequency
+erythema
+annular centrifugum
+acute eczematous dermatitis
+morbilliform
+leukocytoclastic vasculitis
+phototoxic dermatitis
+subacute cutaneous lupus
+erythematosus-like condition
+pruritus
+rash
+hctz
+total serum cholesterol
+ldl lipoprotein cholesterol
+vldl lipoprotein cholesterol levels
+insulin secretion
+caution in diabetic patients
+hypercholesterolemia
+true glucose intolerance
+patients
+months after discontinuation of therapy
+hyperuricemia
+important consideration in patients with a history of gout
+hypophosphatemia
+low serum magnesium concentrations
+malnourished patients
+hypokalemia
+hyperkalemia
+metabolic alkalosis
+hyponatremia
+hypomagnesemia
+hypercalcemia
+hyperglycemia
+elevated serum
+uric acid levels
+elevated serum cholesterol
+thiazide diuretics
+serum cholesterol
+triglycerides
+resulting in an
+increased risk of cholesterol gallstone formation
+reports of bowel strictures
+thiazide ingestion
+s
+patients in these reports
+combination hctz-potassium product
+diarrhea
+constipation
+appetite changes
+dry mouth
+dyspepsia
+nausea
+vomiting
+flatulence
+pancreatitis
+cholecystitis
+allergic vasculitis
+hemolytic anemia
+frequency
+glucose intolerance
+altered lipid profile
+use of valsartan
+significant changes in serum lipids
+glucose concentrations
+use of hctz
+increases in total serum cholesterol
+ldl lipoprotein cholesterol
+vldl lipoprotein cholesterol levels
+addition
+use of hctz
+reduced insulin secretion
+caution
+giving
+combination drug
+diabetic patients
+hypercholesterolemia
+hyperuricemia
+important consideration in patients with a history of gout
+hypophosphatemia
+low serum magnesium concentrations
+malnourished patients
+prospective study of patients
+oral thiazide diuretics for years without interruption
+increased average fasting blood glucose levels
+withdrawal of thiazide therapy for months
+patients
+average reductions
+fasting blood glucose
+hour glucose tolerance test values
+control group
+pain
+muscle cramps
+myalgia
+neutropeniauncommon
+hematocrit
+hemoglobin decreasedrare
+immune complex hemolytic anemiapostmarketing reports
+thrombocytopenia
+anxiety
+depression
+libido
+insomnia
+paresthesias
+somnolence
+impotence
+dysuria
+increases in hepatic enzymes
+abnormal vision
+idiosyncratic reactions
+hydrochlorothiazide
+acute transient myopia
+acute angle-closure glaucoma
+cold
+flu-like symptoms
+difficulty with swallowing
+sore throat
+tender
+swollen lymph nodes in the neck
+unusual tiredness
+weakness
+bloating
+stomach pain
+blurred vision
+chills
+eye pain
+fainting
+fever
+flushing
+itching
+pain
+redness
+swelling of the eye
+eyelid
+joint stiffness
+swelling
+nausea
+skin rash
+hives
+trouble with breathing
+wheezing
+vomiting
+watering of the eyes
+yellow eyes
+skin
+confusion
+convulsions (seizures)
+dark urine
+decreased urine output
+dizziness
+drowsiness
+dry mouth
+irregular heartbeat
+hive-like swelling on the face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+light-colored stools
+lightheadedness
+muscle cramps
+spasms
+muscle pain
+stiffness
+nervousness
+numbness
+tingling in the hands
+feet
+lips
+thirst
+weakness
+heaviness of the legs
+cough
+diarrhea (mild)
+headache
+anxiety
+increased sensitivity
+sunlight
+increased sweating
+redness of the face
+neck
+reduced sexual performance
+drive
+hair loss
+thinning of the hair

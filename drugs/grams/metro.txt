@@ -1,250 +1,160 @@
-other dosage forms:
 serious side effects
-metronidazole
-active ingredient
-metro
 convulsive seizures
 encephalopathy
 aseptic meningitis
 peripheral neuropathy
 numbness
 paresthesia of an extremity
-persistent peripheral neuropathy
-prolonged oral administration of metronidazole
 headache
-dizziness
-patients
-extended-release tablet formulation
-headaches
-patients
-serious side effect of metronidazole
-active ingredient
-metro
-peripheral neuropathy
-dose
-duration of therapy
-most cases
-doses
-mg per day
-least days
-total dose of grams
-neuropathy
-lower extremities
-numbness
-tingling
-paresthesias
-patients
-metronidazole
-effects
-neuropathy
-discontinuation of metronidazole
-seizures
-metronidazole
-several cases of mri abnormalities of the dentate nuclei
-symptoms of ataxia
-dysarthria
-symptoms
-dentate nuclei lesions
-several weeks after discontinuation of metronidazole
-symptoms
-metronidazole-induced lesions in the brain stem
-cerebellar nuclei
-rat studies
-headachecommon
-dizzinessfrequency
-encephalopathy
-aseptic meningitis
-peripheral neuropathy
-numbness
-paresthesia of an extremity
-convulsive seizures
-vertigo
-syncope
-incoordination
+taste
+dizzinessrare
+drowsiness
 ataxia
-confusion
+peripheral neuropathy
+transient epileptiform seizure
+encephalopathyvery
+acute cerebellar syndrome
+paralysis
 dysarthria
-weakness
-reversible abnormalities in the cerebellar dentate nuclei
-nauseacommon
-taste perversion
-metallic taste
+gait
+nystagmus
+tremor
+convulsion
+incoordinationfrequency
+convulsive seizure
+headache
+syncope
+paresthesia
+optic neuritis
+peripheral sensory neuropathy
+nausea
 abdominal pain
 diarrhea
-dry mouthrare
-pseudomembranous colitis
-pancreatitisfrequency
-sharp unpleasant metallic taste
+dry mouth
 vomiting
-abdominal discomfort
-epigastric distress
+stomatitis
+glossitisrare
+pancreatitis
+mucositis
+epigastralgiafrequency
+epigastric pain/distress
 abdominal cramping
 constipation
-proctitis
-coating of the tongue
 furry tongue
 glossitis
 stomatitis
-taste of alcoholic beverages
-nausea
-taste perversion
-metallic taste
-abdominal pain
-diarrhea
-dry mouth in patients
-extended-release tablet formulation
-nausea
-patients
-furry tongue
-glossitis
-stomatitis
-sudden overgrowth of candida
-metronidazole
+oral mucositis
+disorder
+dyspepsia
 pseudomembranous colitis
-causative agent
-rare cases
-vancomycin
-vaginitiscommon
-genital pruritus
-abnormal urine
+tongue
+vaginitis common
+pruritus
+urine
 dysmenorrhea
+moniliasis
 urinary tract infectionrare
 darkened urinefrequency
+vaginal dryness
+vulva dryness
 dysuria
-cystitis
 polyuria
 incontinence
-vulvovaginal candidiasis
-vaginal itching
+pelvic pressure
+cystitis
+candida infection
 dyspareunia
-sense of pelvic pressure
-vaginitis
-genital pruritus
-abnormal urine
-dysmenorrhea
-urinary tract infection
-patients
-extended-release tablet formulation
-instances of darkened urine
-pigment
-metabolite of metronidazole
-clinical significance
+procitiits
+pyuria
 bacterial infection
 influenza-like symptoms
-moniliasis
-patients
-extended-release tablet formulation
-disulfiram-like reaction
-patients
-drinking ethanol
-taking metronidazole
-active ingredient
-metro
-patients
-experienced abdominal distress
-vomiting
-flushing
-nausea
-headache
-hypotension
-patients
-forms of ethanol
-taking metronidazole
-least hours after the last dose
-bacterial infection
-influenza-like symptoms
-moniliasisfrequency
+weaknessrare
 fever
+aseptic meningitisfrequency
+vertigo
+tinnitus
+hearing
+hearing loss
+sensorineural hearing loss
 overgrowth of candida
 disulfiram-like reaction
-abdominal distress
-nausea
-vomiting
+upper
+respiratory tract infection
+rhinitis
+sinusitis
+pharyngitisfrequency
+nasal congestion
+hiccup
+leukopeniarare
+neutropenia
+neutropenia
+thrombocytopenia
+pancytopenia
+agranulocytosis
+blood dyscrasiafrequency
+bone marrow aplasia
+bone marrow depression
+frequency
+flat t-wave
 flushing
-hypotension
-headache
-ethanol
-upper
-respiratory tract infection
-rhinitis
-sinusitis
-pharyngitis
-patients
-extended-release tablet formulation
-upper
-respiratory tract infection
-rhinitis
-sinusitis
-pharyngitis
-metronidazole
-active ingredient
-metro
-serum
-sickness-like reaction
-arthralgias
-malaise
-fever
-chills
-pruritus
-rash
-serum
-sickness-like reactionfrequency
-hypersensitivity
-including urticaria
-erythematous rash
+qt interval
+pruritusrare
 stevens-johnson syndrome
 toxic epidermal necrolysis
-flushing
-nasal congestion
-dryness of the mouth
-vagina
-vulva
-fever
-fixed drug eruptions
-cross-sensitivity
-other nitroimidazole derivatives
-reversible thrombocytopeniafrequency
-reversible neutropenia
-leukopenia
-frequency
-flattening of the t-wave in ecg tracings
-frequency
-erythematous rash
+skin rash
+erythema multiforme
+pustulosis
+quincke edemavery
+fixed drug eruptionfrequency
+erythematosus rash
 pruritus
+urticaria
+mild erythematous eruption
+pustular eruption
+angioedema
 frequency
 thrombophlebitis
-infusion
-thrombophlebitis
-avoiding
-avoiding prolonged use of indwelling
-catheters
-frequency
+confusion
+hallucination
+psychotic disorderfrequency
 irritability
 depression
-libido
 insomnia
+libido
+psychosis
 disorientation
-agitation
-hallucinations
-frequency
+psychotic reaction
+depressed mood
 optic neuropathy
-frequency
+diplopia
+myopiavery
+light sensitivity
+vision disorderfrequency
+vision
+visual acuity
+color vision change
 anorexia
-frequency
-fleeting joint pains
-resembling
-serum sickness
-breast
-colon cancer
-crohn
-disease patients
-high doses of metronidazole
-active ingredient
-metro
-extended periods of time
+myalgiavery
+stiff neck
+arthralgiafrequency
+fleeting joint pain
 frequency
 breast cancer
 colon cancer
+cholestatic hepatitis
+liver function test abnormalvery
+mixed hepatitis
+hepatocellular injury
+jaundice
+liver failure
+liver transplantfrequency
+drug-induced hepatitis
+liver enzymes
+anaphylaxis
+anaphylactic shock
+herxheimer reactionfrequency
+reaction serum
+hypersensitivity reaction
 intravenous powder for solution
 intravenous solution
 agitation

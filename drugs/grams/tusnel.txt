@@ -1,14 +1,14 @@
-other dosage forms:
 doctor if any of these
 common side effects
+diarrhea
 dizziness
+drowsiness
 excitability
 headache
+irritability
 nausea
-nervousness
-anxiety
+stomach upset
 trouble
-weakness
 severe allergic reactions
 rash
 hives
@@ -24,12 +24,14 @@ irregular heartbeat
 fever
 hallucinations
 mood changes
+anxiety
+nervousness
+paleness
 seizures
-severe dizziness
+persistent dizziness
 lightheadedness
 headache
 tremor
-pale skin
 frequency
 rash
 frequency
@@ -45,4 +47,7 @@ nasal congestion
 side effects of tusnel
 fda
 healthcare professional for medical advice
-tabletsdropsliquid, solution, syrupsuspension
+controlled-release
+sustained-release tabletsdropsliquid
+solution
+syrupsuspension

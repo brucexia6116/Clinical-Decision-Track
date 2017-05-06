@@ -1,6 +1,13 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+cardiovascular
+flushing
+phlebitis
+thrombosis
+central
+nervous system
+localized warm feeling
+dermatologic: localized erythema
+metabolic acidosis
+gastrointestinal: nausea
+genitourinary: azotemia
+increased blood urea nitrogen
+miscellaneous: fever

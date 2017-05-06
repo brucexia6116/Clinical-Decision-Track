@@ -1,6 +1,348 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+reported side effects of carbidopa/entacapone/levodopa
+diarrhea
+dyskinesia
+hyperkinesia
+nausea
+dark urine
+urine discoloration
+other side effects
+abdominal pain
+vomiting
+comprehensive list of adverse effects
+nervous system
+side effects
+carbidopa-levodopa-entacapone
+dyskinesias
+choreiform
+involuntary movements
+headache
+hyperkinesia
+hypokinesia
+dizziness
+entacapone
+convulsions
+causal relationship with carbidopa-levodopa
+ocular side effects
+various carbidopa-levodopa products
+blurred vision
+dilated pupils
+diplopia
+oculogyric crisis
+psychiatric side effects
+reports of psychotic episodes
+including delusions
+hallucinations
+paranoid ideation
+agitation
+anxiety
+confusion
+dream abnormalities
+nightmares
+depression
+development of suicidal tendencies
+somnolence
+dementia
+respiratory side effects
+dyspnea
+upper respiratory infection
+pharyngeal pain
+cough
+pharyngitis
+rhinitis
+cardiovascular
+side effects
+reports of cardiac irregularities
+myocardial infarction
+orthostatic effects
+hypotension
+hypertension
+syncope
+palpitations
+dermatologic side effects
+rash
+sweating
+alopecia
+dark sweat
+malignant melanoma
+gi
+side effects
+dark saliva
+gi bleeding
+development of duodenal ulcer
+abdominal pain
+anorexia
+nausea
+vomiting
+diarrhea
+constipation
+dyspepsia
+dry mouth
+dysphagia
+sialorrhea
+flatulence
+gastritis
+taste alterations
+heartburn
+hiccups
+hematologic side effects
+nonhemolytic anemia
+agranulocytosis
+thrombocytopenia
+leukopenia
+purpura
+laboratory abnormalities
+decreased hemoglobin
+hematocrit
+serum potassium
+coombs
+test
+lactic dehydrogenase
+bilirubin
+blood urea nitrogen
+bun
+elevated serum glucose
+hypersensitivity side effects
+angioedema
+urticaria
+pruritus
+henoch-schonlein purpura
+bullous lesions
+pemphigus
+reactions
+musculoskeletal side effects
+asthenia
+fatigue
+pain
+shoulder pain
+leg pain
+muscle cramps
+genitourinary side effects
+dark urine
+blood in the urine
+urinary incontinence
+urinary retention
+urinary tract infection
+priapism
+hepatic side effects
+abnormalities in alkaline phosphatase
+sgot
+ast
+sgpt
+alt
+lactic dehydrogenase
+renal side effects
+increases in serum creatinine
+uric acid
+metabolic side effects
+edema
+weight gain
+weight loss
+twitching
+twisting
+uncontrolled repetitive movements of the tongue
+lips
+face
+arms
+legs
+bleeding gums
+tarry stools
+cloudy urine
+change in size
+shape
+color of an
+existing mole
+changes in skin color
+chest pain
+discomfort
+tightness
+constipation
+constricted pupil
+convulsions
+cough
+breathing
+difficulty with speaking
+drooling
+drooping eyelid (ptosis)
+facial dryness
+pounding heartbeat
+fever
+chills
+general feeling of illness
+hallucinations
+seeing
+hearing
+feeling things
+hoarseness
+purplish patches in the skin
+hive-like swelling on the face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+loss of appetite
+loss of bladder control
+stomach pain
+side pain
+mole that leaks fluid
+bleeds
+muscle cramps
+spasms
+muscle pain
+stiffness
+muscle
+jerking
+stiffness
+nausea
+pain
+difficult urination
+red spots on the skin
+raised red swellings on the skin
+buttocks
+legs
+ankles
+restlessness
+severe mental changes
+shakiness
+unsteady walk
+shuffling walk
+sore throat
+sores
+ulcers
+white spots on the lips
+mouth
+sweating
+swollen glands
+trembling
+other problems with muscle control
+coordination
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+vomiting
+absence
+body movement
+diarrhea
+dizziness
+urine discoloration
+acid
+sour stomach
+anxiety
+belching
+unusual taste in the mouth
+bloated
+burning feeling in the chest
+stomach
+dry mouth
+excess air
+gas in the stomach
+intestines
+fear
+full feeling
+heartburn
+hyperventilation
+increased sweating
+indigestion
+irritability
+lack
+loss of strength
+passing gas
+restlessness
+sleepiness
+unusual drowsiness
+stomach discomfort
+upset
+swollen mouth
+tongue
+tenderness in the stomach area
+trouble sleeping
+urge
+bowel movement
+being forgetful
+bladder pain
+blurred vision
+body aches
+pain
+burning
+crawling
+itching
+numbness
+prickling
+pins
+needles
+tingling feelings
+burning
+stomach pain
+burning sensation of the tongue
+clenching
+gnashing
+grinding teeth
+confusion about identity
+place
+time
+dark saliva
+dark sweat
+decreased mental acuity
+difficulty swallowing
+discouragement
+double vision
+ear congestion
+enlarged pupils
+excessive watering of the mouth
+fainting
+unusual sense of well-being
+feeling
+feeling of warmth
+feeling
+flushing
+hair loss
+headache
+hiccups
+hives or welts
+increased blinking
+increased interest in sexual ability
+desire
+drive
+performance
+increased interest in sexual intercourse
+lack of appetite
+hard skin blisters
+leg pain
+loss of voice
+muscle spasm
+neck
+nasal congestion
+nightmares
+numbness
+pain in the chest below the breastbone
+prolonged erection of the penis
+pharyngeal pain
+pounding in the ears
+problems with memory
+speech
+redness of the face
+neck
+arms
+upper chest
+runny nose
+sense of stimulation
+skin rash
+sleeplessness
+slow movement
+fast heartbeat
+slow reflexes
+sneezing
+swelling
+tremor, increased
+trouble concentrating
+trouble recognizing objects
+trouble thinking
+planning
+urinary frequency
+urinary retention
+weight gain
+weight loss

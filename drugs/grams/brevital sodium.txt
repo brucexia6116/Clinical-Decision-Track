@@ -1,33 +1,33 @@
 emergency
 medical help
 signs of an allergic reaction
-taking
-active ingredient
-brevital sodium
 hives
-difficulty breathing
+difficult breathing
 swelling
 face
 lips
 tongue
 throat
 caregivers
-serious side effects
 severe burning
 swelling
 medicine
-seizure (convulsions);
+fast heartbeats;
 numbness
 tingly feeling
-feeling
-fast heart rate;
+light-headed feeling
 shallow breathing
 confusion
 anxiety
 restless feeling
 coming
 anesthesia
-serious side effects of methohexital
+side effects
+confusion
+depression
+excitement
+older adults
+common side effects
 drowsiness;
 nausea
 vomiting
@@ -87,11 +87,10 @@ pain at injection site
 severe burning
 swelling
 medicine
-seizure (convulsions);
+fast heartbeats;
 numbness
 tingly feeling
-feeling
-fast heart rate;
+light-headed feeling
 shallow breathing
 confusion
 anxiety

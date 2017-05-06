@@ -1,0 +1,349 @@
+influenza
+epicondylitis
+aphthous stomatitis
+rectal hemorrhage
+skin
+appetite
+pulmonary embolism
+chromaturia
+nervousness
+peripheral edemauncommon
+jerk
+obsessive compulsive disorder
+clench
+nausea
+swell of the eyelid
+loss of balance control
+hive
+increase sensitivity of the skin
+slow heartbeat
+liver enzymesuncommon
+vomitingcommon
+aspartate aminotransferase
+tightness in the chest
+sunken eye
+painful knee
+acid
+depression
+stool
+blood in the urine
+difficulty with speaking
+bruxism
+jaundice
+influenza like illness
+leg
+reflux esophagitis
+asthenia
+impaired psychomotor skill
+dilated neck vein
+stiffness
+pale skin
+pancreatitis
+gait disturbance
+muscular weakness
+sweating
+joint effusion
+blood creatinine
+rapid weight gain
+eye movement disorder
+arthralgiacommon
+loss of appetite
+atrial fibrillation
+rash pruritic
+general feeling of tiredness
+sore
+hyperhidrosis
+tonsillitis
+stiffness of the limb
+leukopenia
+belch
+hepatic function
+hemoglobin decrease
+blood cortisol
+metatarsalgia
+psychomotor slowdown
+hyperpyrexia
+neutropenic sepsis
+hypospadia
+redness
+nystagmus
+fever
+joint stiffness
+arthritis
+spot
+abdomen
+stomach upset
+discomfort
+fatigue
+blood
+congestive cardiac failure
+neck
+arthralgia
+oropharyngolaryngeal pain
+malaise
+platelet count
+cardiac disorder
+difficult urination
+black tarry stool
+torsade de pointe
+hemoglobinuria
+parapharyngeal abscess
+urinary tract infection
+thrombocythemia
+depressed level of consciousness
+deafness
+intracranial pressure
+blood creatinine phosphokinase
+lightheadedness
+weakness
+drowsiness
+multi organ failure
+vomit
+foot
+sore throat
+cryptococcal cutaneous infection
+vision change
+hemoptysis
+rapid shallow breathing
+side
+bloody nose
+unpleasant breath odor
+constipation
+weight
+trouble with balance
+irritation
+hepatic pain
+vertigo
+thirst
+hypogeusia
+periorbital edema
+difficulty
+cough
+weight gain
+granulocytopenia
+blister
+diabetic foot infection
+gastric ulcer
+blood phosphorus
+unusual weight gain
+indigestion
+febrile neutropenia
+buttock
+radiate
+increase appetite
+rash pustular
+hand movement
+brow discoloration of the urine
+unusual tiredness
+pain in the stomach
+ankle
+drool
+side pain
+headache
+gnash
+alopecia
+pharyngitis
+vomiting of blood
+gastroenteritis
+anxiety
+anaphylactic shock
+myalgia
+pneumonia
+rash erythematous
+myositis
+hypersplenism
+infectious hepatitis
+increase in heart rate
+lie
+pound in the ear
+unusual bleeding
+neutropenia
+lip
+abdominal distension
+pimple
+pain
+mouth
+epigastric discomfort
+sinus tachycardia
+pyrexia
+face
+severe nausea
+serum alanine aminotransferase
+dystonia
+pyramidal tract syndrome
+abdominal pain discomfort
+ulcer
+pharyngeal erythema
+rash
+headacheuncommon
+thrombocytosis
+tinnitus
+get
+arrhythmia
+chest pain
+xerodermafrequency
+dyspepsia
+henoch schnlein purpura
+dizziness
+anti hb antibody
+cramp
+face edema
+abdominal pain
+heartburn
+cecitis
+blood corticotrophin
+difficulty with move
+joint range of motion
+amenorrhea
+troubled breathing
+arm
+musculoskeletal chest pain
+thrombocytopenia
+polyarthritis
+clay color stool
+muscle spasm
+arthropathy
+confusion
+renal failure
+yersinia infection
+abdominal pain upperuncommon
+nasopharyngitis
+swallow
+dysphagia
+sepsis
+blur vision
+dark urine
+enterocolitis
+purplish patch in the skin
+psychomotor skill
+dyspnea
+papilledema
+blood disorder
+alanine aminotransferase
+other discoloration of the skin
+balance disorder
+faintness
+uncontrolled movement
+spit
+agranulocytosis
+abdominal discomfort
+liver tenderness
+respiratory acidosis
+chill
+hypotension
+eructation
+metabolic disorder
+extreme fatigue
+decrease urination
+glycosuria
+joint pain
+blood bilirubin
+ear pain
+shuffling walk
+dry throat
+migraine
+muscle pain
+non acute porphyria
+hive or welt
+hepatic neoplasm
+somnolencefrequency
+grind tooth
+itch
+increase sweating
+blood zinc
+swell
+sleepiness
+white spot in the mouth
+pain in extremity
+stomach pain
+shortness of breath
+lung disorder
+unusual drowsiness
+lower leg
+muscle
+sour stomach
+gastritis
+twist movement of the body
+white blood cell count decreaseduncommon
+bruise
+stomach bloating
+anorexiauncommon
+dehydration
+coordination
+febrile convulsion
+asthma
+furuncle
+rapid deep breathing
+pollakiuria
+cerebral hemorrhage
+tingle of the hand
+sudden shortness of breath
+lockjaw
+walk
+irregular heartbeat
+trismus
+loss
+diplopia
+joint swellinguncommon
+retinal toxicity
+back
+gamma glutamyl transferase increasedfrequency
+common adverse event
+epistaxis
+hepatitis
+red spot on the skin
+sit position
+chromaturia uncommon
+dizziness or lightheadedness
+burn
+pain in the arm
+pancytopenia
+bleed gum
+cerebellar syndrome
+restlessness
+decrease appetite
+metabolic acidosis
+swell of the face
+stomach discomfort
+faint
+muscle tremor
+bone pain
+convulsion
+urticaria
+hypotonia
+dry mouth
+pruritus
+cardiac failure
+sunlight
+wrinkle skin
+subcutaneous abscess
+severe sunburn
+parotid gland enlargement
+acute respiratory distress syndrome
+redness of the skin
+yellow eye
+hand
+stomach cramp
+blood arsenic
+neutrophil count
+hypertension
+irregular breathing
+diarrhea
+sugar in the urine
+hoarseness
+urine color
+swell around the eye
+skin hypopigmentation
+musculoskeletal pain
+back pain
+chondropathy
+raise red swelling on the skin
+upper respiratory tract infection
+sneeze
+joint crepitation
+balanitis
+cytomegalovirus hepatitis
+bloat
+rash maculopapular
+visual impairment
+enteroviral encephalitis

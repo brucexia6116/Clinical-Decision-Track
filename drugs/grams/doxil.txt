@@ -30,10 +30,6 @@ tachycardia
 pharyngitis
 chills
 comprehensive list of adverse effects
-following side effects
-taking doxorubicin
-doctor
-nurse
 myelosuppression
 palmar-plantar erythrodysesthesia
 hand-foot syndrome
@@ -104,15 +100,6 @@ preexisting lv
 systolic dysfunction
 ejection fraction
 lvef
-decline
-absolute lvef
-least mg/m cumulative dose
-data
-shown right ventricular septal wall motion
-lv
-diastolic dysfunction
-development of doxorubicin-induced lv
-systolic dysfunction
 early effects of anthracyclines
 rare cases of pericarditis-myocarditis
 patients with no prior history of cardiac disease
@@ -196,25 +183,6 @@ thrombocytopenia
 hematologic events
 ovarian cancer trials
 leukopenia
-mm
-mm
-cytokine support
-neutropenia
-mm
-mm
-febrile neutropenia
-anemia
-< g/dl
-< g/dl
-rbc transfusions
-epoetin alpha support
-thrombocytopenia
-mm
-mm
-platelet transfusions
-hypochromic anemia
-ecchymosis
-petechiae
 side effects
 kaposi
 sarcoma trials
@@ -224,8 +192,6 @@ thrombocytopenia
 hemolysis
 prothrombin time
 eosinophilia
-petechiae
-thromboplastin
 leukocyte count
 nadir
 days after treatment
@@ -455,13 +421,6 @@ ocular side effects
 conjunctivitis
 retinitis
 amblyopia
-blepharitis
-abnormal vision
-blindness
-conjunctivitis
-eye pain
-optic neuritis
-visual field defect
 genitourinary side effects
 ovarian cancer trials
 urinary tract infection
@@ -583,10 +542,6 @@ side effects
 special senses
 taste perversion
 parosmia
-taste loss
-otitis media
-tinnitus
-loss of the sense of taste
 side effects
 ovarian cancer trials
 mucous membrane disorder

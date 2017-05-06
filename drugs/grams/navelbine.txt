@@ -4,15 +4,6 @@ active ingredient
 navelbine
 unwanted side effects
 medical attention
-following side effects
-taking vinorelbine
-check
-doctor
-following side effects
-taking vinorelbine
-check
-doctor
-nurse
 vinorelbine side effects
 medical attention
 body
@@ -85,10 +76,6 @@ occurrence
 dermatologic side effects
 alopecia
 rash
-pruritus
-blister formation
-skin sloughing
-urticaria
 chest pain
 patients
 history of cardiovascular disease

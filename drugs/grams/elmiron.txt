@@ -1,9 +1,3 @@
-following side effects
-taking
-taking pentosan polysulfate sodium
-check
-doctor
-nurse
 gastrointestinal side effects
 nausea
 diarrhea
@@ -43,10 +37,6 @@ caution in patients with a history of heparin
 thrombocytopenia
 hepatic side effects
 liver function abnormalities
-transaminase
-alkaline phosphatase
-gamma-glutamyl transpeptidase
-lactic dehydrogenase
 respiratory side effects
 pharyngitis
 rhinitis

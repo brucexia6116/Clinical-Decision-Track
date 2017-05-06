@@ -1,6 +1,131 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+reported side effects
+erythema
+itching
+irritation
+burning
+frequency
+hpa
+axis suppression
+cushing
+syndrome
+facial herpes simplex
+abscess
+molluscum
+telangiectasia
+erythema
+itching
+irritation
+burning
+hypopigmentation
+hyperpigmentation
+shiny skin
+folliculitis
+acneiform eruptions
+frequency
+intracranial hypertension
+including
+bulging fontanelles
+headaches
+bilateral papilledema
+secondary atopic dermatitis
+papules
+pustules
+keratosis pilaris
+eczema
+rashfrequency
+hypertrichosis
+maceration of the skin
+dermatitis
+perioral dermatitis
+acne
+worsening of acne
+acne rosacea
+frequency
+hyperglycemia
+glucosuria
+body aches
+pain
+congestion 
+cough
+dryness
+soreness of the throat
+fever
+headache
+hoarseness
+lightening of normal skin color
+lightening
+treated areas of dark skin
+sore throat
+runny nose
+tender
+swollen glands in the neck
+trouble swallowing
+unusual tiredness
+weakness
+voice changes
+acne or pimples
+accumulation of pus 
+blistering
+crusting
+irritation
+itching
+reddening of the skin
+burning
+itching
+pain in hairy areas
+pus at the root of the hair
+burning
+itching of the skin with pinhead-sized red blisters
+change in hearing
+scaly skin
+diarrhea
+dry skin
+earache
+pain in the ear
+ear drainage
+flushing
+redness of the skin
+darkening of the skin
+itching
+scaling
+severe redness
+soreness
+swelling of the skin
+round
+smooth
+skin-colored bumps
+area of the body
+thick white fluid
+dark red
+wart-like spots on skin
+face
+redness
+swelling in the ear
+skin irritation
+skin rash
+oozing
+spots
+skin
+blister
+pimple
+swelling
+tender area of infection
+thickened patches of the skin
+vomiting
+redness
+scaling around the mouth
+thinning
+weakness
+wasting
+skin
+changes in skin color
+shiny skin
+increased hair growth on the forehead
+arms
+legs
+reddish purple lines on the arms
+face
+legs
+trunk
+groin
+softening of the skin

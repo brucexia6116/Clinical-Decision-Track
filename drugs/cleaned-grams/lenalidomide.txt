@@ -1,0 +1,392 @@
+central line infection
+influenza
+lack
+pulmonary edema
+rectal hemorrhage
+hypothyroidism
+skin
+itch or rash
+increase alanine aminotransferase
+supraventricular arrhythmia
+pulmonary embolism
+chill
+erythema multiforme
+breathing
+hair loss
+nodule
+fall
+lung infiltration
+pseudomembranous colitis
+anemia
+abnormal gait
+psychotic disorder
+tenderness
+swell in the arm
+slow heartbeat
+neck pain
+tightness in the chest
+diabetes with hyperosmolarity
+pulse
+muscle cramp
+swell of the foot
+depression
+irritable bowel syndrome
+stool
+blood in the urine
+difficulty with speaking
+ventricular dysfunction
+enterobacter sepsis
+leg
+acute sinusitis
+asthenia
+hemolytic anemia
+tremor
+intestinal perforation
+tachyarrhythmia
+numbness
+stiffness
+xerostomia
+loss of strength
+pale skin
+pancreatitis
+aortic disorder
+sex organ
+hemolysis
+sweating
+faint
+bone marrow depression
+ecchymose
+ischemia
+loss of appetite
+atrial fibrillation
+general feeling of tiredness
+infection
+sore
+cellulitis
+spinal compression fracture
+leukopenia
+bronchoalveolar carcinoma
+hypertension palpitation
+angina pectoris
+hemoglobin
+chondrocalcinosis pyrophosphate
+transient ischemic attack
+redness
+azotemia
+night sweat
+hypersensitivity
+subarachnoid hemorrhage
+fever
+arthritis
+adrenal insufficiency
+fatigue
+fast heartbeat
+congestive cardiac failure
+neck
+arthralgia
+gastrointestinal hemorrhage
+disease progression
+unpleasant breath odor
+pleasure
+melena
+bradycardia
+difficult urination
+black tarry stool
+viral infection
+tingle in the hand
+acneform
+splenic infarction
+hive like swell on the face
+superficial thrombophlebitis
+dry skin
+diabetes mellitus
+renal tubular necrosis
+cardiovascular
+somnolence
+bacteremia
+urinary tract infection
+obstructive inguinal hernia
+feel cold
+refractory anemia
+nausea
+dyspnea on exertion
+oral infection
+weakness
+insomnia
+hypoxia
+vomit
+foot
+urticarial
+double vision
+sore throat
+troponin
+swollen gland in the neck
+confusional state
+brain edema
+encephalitis
+peripheral swell
+acquire hypothyroidism
+bloody nose
+cervical vertebral fracture
+eyelid
+constipation
+ischemic colitis
+irritability
+vertigo
+hyperbilirubinemia
+white spot on the lip
+colonic polyp
+tingle
+mood change
+xeroderma
+lobar pneumonia
+difficulty
+myocardial infarction
+interstitial lung disease
+cough
+weight gain
+blister
+loosening of the skin
+cardiorespiratory arrest
+trouble sleep
+gout
+febrile neutropenia
+discomfort in the arm
+ear congestion
+unusual tiredness
+swollen gland
+palpitation
+shiver
+side pain
+headache
+spinal cord compression
+ear infection
+aggravate arthritis
+pharyngitis
+voice change
+vomiting of blood
+cardiac arrest
+gastroenteritis
+slow speech
+anxiety
+trouble concentrate
+race heartbeat
+myalgia
+pneumonia
+bronchitis
+husky voice
+diabetic ketoacidosis
+atrial flutter
+staphylococcal infection
+tender
+throat
+muscle pain
+sensitivity to heat
+increase sweating
+unusual bleeding
+placebo dexamethasone arm
+perirectal abscess
+neutropenia
+lip
+leukoencephalopathy
+thromboembolism
+purplish patch in the skin
+inability to speak
+pain
+steroid myopathy
+rigor
+urinary retention
+cerebrovascular accident
+intermittent pyrexia
+disease
+decrease touch sensation
+serum alanine aminotransferase
+road traffic accident
+red skin lesion
+cholecystitis
+ulcer
+upper abdominal pain
+hypomagnesemia
+dermatitic
+acute febrile neutrophilic dermatosis
+morbilliform
+jaw
+gastritis
+rash
+hypoesthesia
+warm type
+intrahepatic cholestasis
+aggravate atrial fibrillation
+small intestinal obstruction
+body ache
+respiratory failure
+fractured pelvis
+chest pain
+wheeze
+chronic obstructive airway disease
+cerebral ischemia
+skin rash
+fungal infection
+cardiogenic shock
+dizziness
+ureteric calculus
+increase blood creatinine
+cramp
+abdominal pain
+skin desquamation
+cheekbone
+difficulty with move
+acute cholecystitis
+troubled breathing
+arm
+contusion
+septic shock
+thrombocytopenia
+acute leukemia
+myopathy
+clay color stool
+stomach pain continue
+muscle spasm
+klebsiella sepsis
+confusion
+chest discomfort
+diverticulitis
+renal failure
+lenalidomide dexamethasone combination
+hypoglycemia
+nasopharyngitis
+cerebral infarction
+delirium
+renal mass
+facial muscle
+dysphagia
+blur vision
+rib fracture
+memory impairment
+dyspnea
+painful sensation
+biliary obstruction
+depressed level of consciousness
+femoral neck fracture
+erythema
+dysarthria
+hypotension
+limb pain
+pound
+delusion
+joint pain
+peripheral neuropathy
+mental status change
+peptic ulcer hemorrhage
+migraine
+sinusitis
+bowel movement
+nervous system
+unsteadiness or awkwardness
+decrease urine
+itch
+swell
+hand
+burn while urinate
+depressed mood
+stomach pain
+change in taste
+weakness in the arm
+cerebellar infarction
+procedural hemorrhage
+inability
+aphasia
+lower leg
+edema
+upper abdomen
+bruise
+dehydration
+localized infection
+thromboembolic event
+trouble swallow
+case of severe hepatotoxicity
+kidney infection
+dark color urine
+intracranial venous sinus thrombosis
+hepatic failure
+warmth on the skin
+sudden shortness of breath
+drowsiness or tiredness
+intracranial hemorrhage
+diaphoresis
+seizure
+lymphoma
+irregular heartbeat
+loss
+red irritated eye
+rhinitis
+dysuria
+flush
+hypokalemia
+fanconi syndrome
+increase risk of venous thrombosis
+pelvic pain
+epistaxis
+acute renal failure
+red spot on the skin
+increase thirst
+aggravate anemia
+peel
+dizziness or lightheadedness
+burn
+pancytopenia
+abnormal liver function test
+cardiomyopathy
+post
+bleed gum
+herpes
+hip fracture
+hypernatremia
+mouth
+tongue
+twitch
+clostridial infection
+risk of thrombosis
+gouty arthritis
+basedow
+convulsion
+anorexia
+dry mouth
+pruritus
+cardiac failure
+tenderness around the eye
+nausea or vomit
+loose stool
+ecchymosis
+bronchopneumopathy
+upper gastrointestinal hemorrhage
+redness of the skin
+blindness
+femur fracture
+hair
+deep vein thrombosis
+metastatic prostate cancer
+purple center
+loss of interest
+dysgeusia
+yellow eye
+gastroesophageal reflux disease
+pyrexia
+urosepsis
+general
+hypertension
+tremble
+thrombotic event in the combination arm
+acute myeloid leukemia
+diarrhea
+hoarseness
+peripheral edema
+toxic hepatitis
+hematuria
+exertional dyspnea
+cough produce mucus
+coagulopathy
+upper respiratory tract infection
+thrombosis
+myocardial ischemia
+lung cancer

@@ -1,0 +1,83 @@
+infant
+pyrexia
+albuminuria
+theophylline
+perinatal asphyxia
+hemoglobin
+diarrhea
+involuntary movement
+seizure
+laryngospasm
+bronchospasm
+hypertension
+hemolysis
+flush
+erratic limb movement
+hyperglycemia
+premature tooth eruption
+convulsion
+dyspnea
+sweating
+many case
+muscle spasticity
+ventricular tachycardia
+phlebitis
+pruritus
+deep tendon reflex
+bloody stool
+caffeine
+previous seizure
+hyperactivity
+bilateral babinski
+hyperventilation
+abdominal distension
+increase blood pressure
+confusion
+clonus
+tachypnea
+jitteriness
+preterm neonate
+atrioventricular block in some case
+disturbed sleep
+irritability
+cause significant qt interval prolongation
+excessive cry
+cerebral blood flow velocity
+red blood cell count
+presence of pre exist leukopenia
+t wave
+white blood cell count
+hematocrit
+arrhythmia
+glucosuria
+chest tightness
+intracerebral hemorrhage
+neurodevelopmental delay
+chest pain
+vomit
+urinary retention
+multiple gastric perforation increase gastric residual
+heart rate variation
+sinus tachycardia
+cough
+salivation
+nausea
+urinary bladder stimulation with spontaneous
+disorientation
+premature neonate with risk factor
+hiccough
+extrasystole
+apprehension
+ventricular fibrillation
+paresthesia
+hallucination
+aminophylline
+pupillary dilation
+necrotize enterocolitis
+defecation desire
+perineal warmth
+elevated bun
+dizziness
+headache
+muscle fasciculation
+bradycardia

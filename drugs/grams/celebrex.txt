@@ -10,9 +10,6 @@ peripheral edema
 vomiting
 liver enzymes
 comprehensive list of adverse effects
-following symptoms of overdose
-taking celecoxib
-emergency help
 reported adverse events
 abdominal pain
 diarrhea
@@ -26,43 +23,6 @@ rhinitis
 sinusitis
 upper respiratory tract infection
 rash
-constipation
-diverticulitis
-dysphagia
-eructation
-esophagitis
-gastritis
-gastroenteritis
-gastroesophageal reflux
-hemorrhoids
-hiatal hernia
-melena
-dry mouth
-stomatitis
-tenesmus
-tooth disorder
-vomiting
-patients
-taking celecoxib
-active ingredient
-celebrex
-mg
-day
-mg
-day
-serious gastrointestinal toxicity
-bleeding
-ulceration
-perforation of the stomach
-small intestine
-large intestine
-time
-warning symptoms in patient
-taking nonsteroidal anti-inflammatory drugs
-celecoxib
-caution in patients with a prior history of ulcer disease
-gastrointestinal bleeding
-lowest effective dose
 abdominal pain
 diarrhea
 dyspepsia
@@ -94,6 +54,60 @@ stomatitis
 tenesmus
 tooth disorder
 vomiting
+constipation
+diverticulitis
+dysphagia
+eructation
+esophagitis
+gastritis
+gastroenteritis
+gastroesophageal reflux
+hemorrhoids
+hiatal hernia
+melena
+dry mouth
+stomatitis
+tenesmus
+tooth disorder
+vomiting
+patients
+taking celecoxib
+mg
+day
+mg
+day
+serious gastrointestinal toxicity
+bleeding
+ulceration
+perforation of the stomach
+small intestine
+large intestine
+time
+warning symptoms in patient
+taking nonsteroidal anti-inflammatory drugs
+celecoxib
+caution in patients with a prior history of ulcer disease
+gastrointestinal bleeding
+lowest effective dose
+peripheral edemauncommon
+unstable angina
+aortic valve incompetence
+coronary artery atherosclerosis
+sinus bradycardia
+ventricular hypertrophy
+deep vein thrombosisrare
+syncope
+cardiac failure
+ventricular fibrillation
+thrombophlebitisfrequency
+aggravated hypertension
+angina pectoris
+coronary artery disorder
+myocardial infarction
+arrhythmia
+palpitation
+tachycardiapostmarketing reports
+vasculitis
 aggravated hypertension
 angina pectoris
 coronary artery disorder
@@ -103,8 +117,6 @@ tachycardia
 arrhythmia
 patients
 taking celecoxib
-active ingredient
-celebrex
 mg
 day
 mg
@@ -147,25 +159,31 @@ mg
 placebo patients
 increase in drug-treated patients
 increased incidence of myocardial infarction
-peripheral edemauncommon
-unstable angina
-aortic valve incompetence
-coronary artery atherosclerosis
-sinus bradycardia
-ventricular hypertrophy
-deep vein thrombosisrare
-syncope
-cardiac failure
-ventricular fibrillation
-thrombophlebitisfrequency
-aggravated hypertension
-angina pectoris
-coronary artery disorder
-myocardial infarction
-arrhythmia
-palpitation
-tachycardiapostmarketing reports
-vasculitis
+leg cramps
+hypertonia
+hypoesthesia
+migraine
+neuralgia
+neuropathy
+paresthesia
+vertigo
+taste perversion
+somnolence
+patients
+taking celecoxib
+active ingredient
+celebrex
+mg
+day
+mg
+day
+long-term polyp prevention studies in which exposure
+celecoxib
+mg per day
+years
+cerebral infarction
+patients
+patients
 dizziness
 headacherare
 aseptic meningitis
@@ -184,29 +202,6 @@ taste perversionpostmarketing reports
 cerebral hemorrhage
 ageusia
 anosmia
-leg cramps
-hypertonia
-hypoesthesia
-migraine
-neuralgia
-neuropathy
-paresthesia
-vertigo
-taste perversion
-somnolence
-patients
-taking celecoxib
-mg
-day
-mg
-day
-long-term polyp prevention studies in which exposure
-celecoxib
-mg per day
-years
-cerebral infarction
-patients
-patients
 rashfrequency
 alopecia
 dermatitis
@@ -246,13 +241,23 @@ mg
 day
 mg
 day
+anemiafrequency
+ecchymosis
+epistaxis
+thrombocytopenia
+mild prolongation
+activated partial thromboplastin time
+aptt
+postmarketing reports
+agranulocytosis
+aplastic anemia
+pancytopenia
+leukopenia
 ecchymosis
 epistaxis
 thrombocytopenia
 patients
 taking celecoxib
-active ingredient
-celebrex
 mg
 day
 mg
@@ -276,18 +281,6 @@ pt
 pediatric patients with systemic onset
 juvenile rheumatoid arthritis
 active systemic features
-anemiafrequency
-ecchymosis
-epistaxis
-thrombocytopenia
-mild prolongation
-activated partial thromboplastin time
-aptt
-postmarketing reports
-agranulocytosis
-aplastic anemia
-pancytopenia
-leukopenia
 abnormal hepatic function
 ast
 alt increases
@@ -362,6 +355,13 @@ anxiety
 depression
 nervousnesspostmarketing reports
 hallucination
+vitreous floaters
+conjunctival hemorrhagefrequency
+blurred vision
+cataract
+conjunctivitis
+eye pain
+glaucoma
 blurred vision
 cataract
 conjunctivitis
@@ -369,8 +369,6 @@ eye pain
 glaucoma
 patients
 taking celecoxib
-active ingredient
-celebrex
 mg
 day
 mg
@@ -383,23 +381,6 @@ vitreous floaters
 conjunctival hemorrhage
 patients
 patients
-vitreous floaters
-conjunctival hemorrhagefrequency
-blurred vision
-cataract
-conjunctivitis
-eye pain
-glaucoma
-epicondylitis
-tendon rupturefrequency
-arthralgia
-arthrosis
-bone disorder
-accidental fracture
-myalgia
-neck stiffness
-synovitis
-tendinitis
 arthralgia
 arthrosis
 bone disorder
@@ -410,6 +391,8 @@ synovitis
 tendinitis
 patients
 taking celecoxib
+active ingredient
+celebrex
 mg
 day
 mg
@@ -422,6 +405,23 @@ epicondylitis
 tendon rupture
 patients
 patients
+epicondylitis
+tendon rupturefrequency
+arthralgia
+arthrosis
+bone disorder
+accidental fracture
+myalgia
+neck stiffness
+synovitis
+tendinitis
+frequency
+asthenia fatigue
+fever
+hot flushes
+cyst
+painpostmarketing reports
+conjunctivitis
 asthenia fatigue
 fever
 hot flushes
@@ -430,32 +430,6 @@ cyst
 pain
 patients
 taking celecoxib
-active ingredient
-celebrex
-mg
-day
-mg
-day
-frequency
-asthenia fatigue
-fever
-hot flushes
-cyst
-painpostmarketing reports
-conjunctivitis
-herpes simplex
-herpes zoster
-bacterial infection
-fungal infection
-soft tissue infection
-viral infection
-moniliasis
-moniliasis
-influenza-like illness
-patients
-taking celecoxib
-active ingredient
-celebrex
 mg
 day
 mg
@@ -471,6 +445,21 @@ moniliasis
 moniliasis
 influenza-like illnesspostmarketing reports
 sepsis
+herpes simplex
+herpes zoster
+bacterial infection
+fungal infection
+soft tissue infection
+viral infection
+moniliasis
+moniliasis
+influenza-like illness
+patients
+taking celecoxib
+mg
+day
+mg
+day
 breast fibroadenosis
 breast neoplasm
 patients
@@ -528,13 +517,6 @@ mg
 day
 mg
 day
-labyrinthitisvery
-hearing decreasedfrequency
-otitis media
-deafness
-ear abnormality
-earache
-tinnitus
 otitis media
 deafness
 ear abnormality
@@ -542,6 +524,8 @@ earache
 tinnitus
 patients
 taking celecoxib
+active ingredient
+celebrex
 mg
 day
 mg
@@ -553,6 +537,13 @@ years
 labyrinthitis
 patients
 patients
+labyrinthitisvery
+hearing decreasedfrequency
+otitis media
+deafness
+ear abnormality
+earache
+tinnitus
 postmarketing reports
 impaired female fertility
 urinary tract infectionuncommon

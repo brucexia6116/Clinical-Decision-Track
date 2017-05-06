@@ -131,13 +131,6 @@ hyperpigmentation
 postmarketing experience
 hepatic side effects
 abnormal liver function
-elevations of alt
-ast
-bilirubin
-alkaline phosphatase
-ggt
-quinolone class antibiotics
-hepatic necrosis
 hematologic side effects
 purpura
 lymphadenopathy
@@ -151,12 +144,6 @@ eosinophilia
 leukopenia
 leukocytosis
 prolonged prothrombin time
-hemoglobin
-elevated esr
-macrocytosis
-hemolytic anemia
-quinolone class antibiotics
-agranulocytosis
 musculoskeletal side effects
 arthralgias
 myalgias

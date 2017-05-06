@@ -1,0 +1,430 @@
+liver enzyme
+epicondylitis
+hypercholesterolemia
+aptt
+continue thirst
+abnormal hepatic function
+red skin lesion
+cumulative rate for this composite endpoint
+sex organ
+unsteadiness
+nervousness
+erythema multiforme
+peripheral edemauncommon
+toenail
+hair loss
+stiff neck
+eructation
+duodenal ulcerfrequency
+nausea
+swell of the eyelid
+neck stiffness
+hear decreasedfrequency
+hive
+tenderness
+feeling of warmth
+menstrual disorder
+swell in the arm
+redness around the fingernail
+myocardial infarction
+unexplained weight loss
+decrease in height
+skin
+mild odor
+depression
+pound heartbeat
+heaviness
+conjunctivitis
+jaundice
+influenza like illness
+genital area
+leg
+ulceration
+runny nose
+intestinal perforation
+dilated neck vein
+numbness
+other problem with muscle control
+stiffness
+cyst
+coffee grounds
+active systemic feature
+cataract
+pale skin
+pancreatitis
+tightness
+serious gastrointestinal toxicity
+liver transplant
+apc
+stomach pain severe
+sweating
+dermatitis
+cough
+eye
+bleed
+tachycardia
+loss of appetite
+unsteady walk
+confusionfrequency
+ovarian cystfrequency
+infection
+sore
+thrombophlebitisfrequency
+leukopenia
+ventricular fibrillation
+hypertonia
+breast pain
+soft tissue infection
+mild prolongation
+ageusia
+stomachache
+angina pectoris
+stroke
+hyponatremia
+dress
+redness
+colitis with bleeding
+scarring
+sensation of pin
+hypersensitivity
+fever
+esophageal perforation
+white vaginal discharge with no odor
+nephrotic syndrome
+lump
+risk of serious adverse cardiovascular thrombotic event
+discomfort
+weight increase
+tongue
+itch of the vagina
+voice change
+conjunctival hemorrhage
+sudden sweating
+arthralgia
+chest pain
+melena
+viral infection
+bleed after defecation
+increase urination
+move
+hive like swell on the face
+dry skin
+diabetes mellitus
+somnolence
+leg cramp
+cholestasis
+dysmenorrhea
+cloudy urine
+muscle tension
+weakness
+material
+sleepiness
+side of the body
+vaginal hemorrhage
+vomit
+celecoxib
+foot
+loss of consciousness
+excessive tear
+thin of the hair
+sudden decrease in the amount of urine
+tingle in the finger
+unpleasant breath odor
+eyelid
+constipation
+weight
+loss of energy
+muscle stiffness
+maculopapular rash
+vertigo
+itch
+tooth disorder
+tingle
+light color stool
+nerve pain
+vaginitis
+blister on the lip
+skin disorder
+difficulty
+large intestine
+dizziness
+blister
+gastric ulcer
+loosening of the skin
+chronic use of celecoxib
+unusual weight gain
+inability to sleep
+earache
+bone deformity
+neuropathy
+creatinine phosphokinase
+painful blister on the trunk of body
+puffiness
+anemiafrequency
+palpitation
+toe
+stomach
+alopecia
+breast neoplasm
+pharyngitis
+vomiting of blood
+esophageal ulcer
+systemic symptom
+anxiety
+weakness in the arm
+anaphylactic shock
+sinus bradycardia
+myalgia
+heaviness of the leg
+pneumonia
+warmth at site
+herpes simplex
+hallucination
+headache
+pass stool
+rash erythematous
+impaired female fertility
+bronchitis
+agep
+ecchymosis
+throat
+muscle pain
+increase sweating
+unusual bleeding
+toxic epidermal necrolysis
+swell in the ear
+lip
+coronary artery disorder
+purplish patch in the skin
+prostatic disorder
+juvenile rheumatoid arthritis
+pain
+incidence of hemoglobin
+needle
+ileus
+rashfrequency
+face
+acute generalize exanthematous pustulosis
+ear abnormality
+bone disorder
+gastroenteritis
+ulcer
+swell of the neck
+rash
+hypoesthesia
+coronary artery atherosclerosis
+non protein nitrogen
+tinnitus
+arrhythmia
+excessive muscle tone
+hyperkalemiafrequency
+small intestine
+wheeze
+accidental fracture
+dyspepsia
+skin rash
+hemorrhoid
+bloat
+fungal infection
+stab pain
+weight gain
+cramp
+abdominal pain
+heartburn
+change in sense of taste
+hiatal hernia
+angioedema
+heavy bleeding
+troubled breathing
+arm
+high blood pressure
+thrombocytopenia
+ventricular hypertrophy
+finger
+clay color stool
+aortic valve incompetence
+eye pain
+burn feeling in the chest
+loss of hearing
+confusion
+intestinal obstruction
+sensitivity of the skin
+diverticulitis
+hand
+feeling of pressure
+muscle ache
+tendon rupturefrequency
+hypoglycemia
+aggravate hypertension
+cerebral infarction
+increase blood urea nitrogen
+buzz
+placebo
+laryngitis
+tarry stool
+ci
+dysphagia
+bluish color skin of the finger
+dermatitis bullous
+synovitis
+sepsis
+seizure
+walk
+abnormal growth in the breast
+ataxia
+dyspnea
+anosmia
+gastrointestinal bleeding
+pt
+urinary tract infectionuncommon
+ovarian cyst
+minimal lesion
+agranulocytosis
+arthrosis
+gas
+cystitis
+chill
+asthenia fatigue
+glomerulonephritis
+inflammation of the mouth
+painful cold sore
+breast fibroadenosis
+herpes zoster
+strain
+aplastic anemia
+tenderness in the stomach area
+rib
+migraine
+tremble
+hepatic enzyme
+sinusitis
+congestion in the chest
+g dl
+troubled breathing with exertion
+conjunctival hemorrhagefrequency
+hot flush
+drowsiness
+moniliasis
+renal calculus
+taste perversion
+swell
+painful urination
+burn in the throat
+white spot in the mouth
+area rash
+tubulointerstitial nephritis
+jaw pain
+accidental injury
+increase hunger
+shortness of breath
+increase incidence of myocardial infarction
+unusual tiredness
+shakiness
+headacherare
+welt
+vitreous floater
+lower leg
+urinary incontinence
+difficulty with swallow
+gastritis
+bruise
+bronchospasm
+bloody diarrhea
+coordination
+labyrinthitisvery
+syncope
+hepatic failure
+ring noise in the ear
+sore throat
+irritated eye
+warmth on the skin
+heavy non menstrual vaginal bleeding
+insomniarare
+cerebral hemorrhage
+uncomfortable swell around anus
+flatulence
+bacterial infection
+blur vision
+perforation of the stomach
+irregular heartbeat
+nail disorder
+aggravate epilepsyfrequency
+continue
+nose
+slurred speech
+albuminuria
+neuralgia
+rhinitis
+dysuria
+labyrinthitis
+hepatic necrosis
+paresthesia
+epistaxis
+hepatitis
+inflammation
+pain in the
+aggravate bronchospasm
+red spot on the skin
+increase thirst
+tendon rupture
+severe inability
+esophagitis
+peel
+burn
+chest tightness
+pancytopenia
+sting of the skin
+bleed gum
+pain in the hand
+change in skin color
+decrease appetite
+trouble with swallow
+glaucoma
+abnormal hepatic function test
+swell of the face
+confidence interval
+tenesmus
+deep vein thrombosisrare
+deafness
+hyperglycemia
+urticaria
+anorexia
+dry mouth
+pruritus
+cardiac failure
+nausearare
+sunlight
+pneumonitis
+unstable angina
+adenoma prevention with celecoxib
+severe sunburn
+muscle pain increase
+stomatitis
+vasculitis
+cholelithiasisfrequency
+steven johnson syndrome
+genitals
+deep vein thrombosis
+alkaline phosphatase
+soreness
+aseptic meningitis
+purple center
+yellow eye
+gastroesophageal reflux disease
+stomach cramp
+hypertension
+creatinine
+pain during sexual intercourse
+diarrhea
+gastroesophageal reflux
+hoarseness
+peripheral edema
+hematuria
+pulmonary embolismfrequency
+loss of sense of smell
+hypokalemia
+back pain
+upper respiratory tract infection
+tendinitis
+sneeze
+otitis media

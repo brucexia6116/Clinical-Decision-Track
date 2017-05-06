@@ -2,10 +2,6 @@ needed effects
 tenecteplase
 unwanted side effects
 medical attention
-following side effects
-taking tenecteplase
-check
-doctor
 tenecteplase side effects
 medical attention
 body
@@ -18,18 +14,6 @@ major hematological side effects
 hematoma
 gastrointestinal bleeding
 urinary tract bleeding
-puncture site bleeding
-retroperitoneal bleeding
-respiratory tract bleeding
-unspecified bleeding
-intracranial hemorrhage
-ich
-study
-ich
-patients
-mg of tenecteplase
-patients
-receiving heparin
 minor hematological side effects
 hematoma
 urinary tract bleeding

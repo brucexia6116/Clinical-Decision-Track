@@ -1,6 +1,502 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+reported adverse effects
+gi
+nature
+nausea
+vomiting
+flatulence
+diarrhea
+patent ductus arteriosus
+reported adverse effects
+sepsis
+anemia
+intraventricular bleeding
+apnea
+gi disorders
+impaired renal function
+respiratory infection
+skin lesions
+hypoglycemia
+hypocalcemia
+respiratory failure
+nausea
+vomiting
+flatulence
+diarrhea
+dyspepsia
+abdominal discomfort
+epigastric pain
+heartburn
+abdominal distress
+indigestion
+constipation
+abdominal cramps/pain
+fullness of gi tract
+bloating
+gi hemorrhage
+melenauncommon
+abdominal distention
+dyspepsia
+gastritisvery
+peptic ulcer
+perforation
+hematemesis
+mouth ulceration
+exacerbation of colitis
+exacerbation of crohn
+diseasefrequency
+dry mouth
+duodenitis
+esophagitis
+gastric ulcer
+duodenal ulcer
+gi bleeding
+glossitis
+rectal bleeding
+stomatitis
+eructation
+gingival ulcer
+pancreatitispatent ductus arteriosus
+gi disorders
+non-necrotizing enterocolitis
+necrotizing enterocolitis
+intestinal perforationfrequency
+abdominal distension
+gastroesophageal reflux
+gastritis
+ileus
+inguinal herniapostmarketing reports
+gi perforation
+hemorrhage
+hypertension
+hypotension
+cardiac failurefrequency
+congestive heart failure
+tachycardia
+arrhythmia
+myocardial infarction
+palpitations
+vasculitis
+sinus bradycardia
+angina pectoris
+thrombotic eventspatent ductus arteriosus
+frequency
+tachycardia
+cardiac failure
+hypotension
+headache
+dizziness
+nervousnessvery
+cerebrovascular accidentfrequency
+syncope
+drowsiness
+paresthesia
+somnolence
+tremors
+convulsions
+comapatent ductus arteriosus
+intraventricular hemorrhage
+periventricular hemorrhagefrequency
+convulsions
+number of total renal events in preterm infants within days of therapy
+use
+increased blood urea
+renal insufficiency/impairment
+urine output
+increased blood creatinine
+renal failure
+increased blood urea with hematuria
+acute renal failure
+renal papillary necrosis
+interstitial nephritis
+nephrotic syndrome
+renal failure
+renal insufficiencyfrequency
+cystitis
+azotemia
+creatinine clearance
+glomerulitis
+tubular necrosis
+nephrotoxicitypatent ductus arteriosus
+renal events
+acute renal failure
+incidence of total bleeding events within days of therapy
+use in preterm infants
+percentage
+grade
+intraventricular hemorrhage
+grade
+intraventricular hemorrhage
+other bleeding
+anemia
+eosinophilia
+neutropenia
+thrombocythemia
+hemoglobin decreasedvery
+leukopenia
+thrombocytopenia
+agranulocytosis
+hemolytic anemia
+aplastic anemia
+pancytopenia
+hematocrit decreasedfrequency
+lymphadenopathy
+bleeding episodespatent ductus arteriosus
+anemia
+total bleeding
+intraventricular hemorrhage
+neutropenia
+thrombocytopenia
+rash
+maculopapular rash
+pruritusvery
+stevens-johnson syndrome
+erythema multiforme
+toxic epidermal necrolysisfrequency
+ecchymosis
+purpura
+alopecia
+sweating
+photosensitivity
+angioedema
+exfoliative dermatitis
+urticaria
+vesiculobullous eruptions
+henoch schonlein vasculitispatent ductus arteriosus
+skin lesion/irritation
+hypokalemia
+hypoproteinemia
+blood urea
+hypernatremia
+hypoalbuminemia
+appetite
+fluid retentionfrequency
+appetite changes
+hyperglycemia
+hypoglycemic reaction
+acidosispatent ductus arteriosus
+hypoglycemia
+hypocalcemia
+blood creatinine
+blood sodium decreasedcommon
+hypernatremiafrequency
+feeding problems
+hyperglycemia
+bacteremia
+blood ldh
+peripheral edema
+wound hemorrhage
+tinnitus
+hearing impairment
+edema
+fatiguevery
+aseptic meningitis
+vertigo
+exacerbation of infection-related inflammationsfrequency
+fever
+infection
+sepsis
+weight changes
+asthenia
+malaise
+pseudo-tumor
+hearing loss
+drowsinesspatent ductus arteriosus
+sepsis common
+edema
+fluid retentionfrequency
+various infections
+bacterial pneumonia
+coughvery
+asthma
+bronchospasm
+dyspnea
+wheezingfrequency
+apnea
+respiratory depression
+pneumonia
+rhinitis
+epistaxispatent ductus arteriosus
+apnea
+respiratory infection
+respiratory failure
+bronchopulmonary dysplasiacommon
+atelectasis
+pulmonary hemorrhageuncommon
+hypoxemiapostmarketing reports
+pulmonary hypertension
+hepatitis
+jaundicefrequency
+hepatorenal syndrome
+liver necrosis
+liver failure
+abnormal liver function testspatent ductus arteriosus
+frequency
+cholestasis
+jaundice
+hypersensitivity reactions
+following
+syndrome of abdominal pain
+fever
+chills
+nausea
+vomiting
+anaphylaxis
+respiratory tract reactivity
+comprising bronchospasm
+asthma/aggravated asthma
+dyspnea
+skin reactions
+bullous dermatoses
+stevens-johnson syndrome
+toxic epidermal necrolysis
+angioedema
+pruritus
+urticaria
+frequency
+anaphylactoid reactions
+hypersensitivity reaction
+visual disturbancesfrequency
+blurred vision
+amblyopia
+vision
+scotomata
+changes in color vision
+conjunctivitis
+dry eyes
+diplopia
+optic neuritis
+cataracts
+optic neuritis
+toxic optic neuropathy
+frequency
+lupus erythematosus syndrome
+frequency
+anxiety
+confusion
+depression
+dream abnormalities
+insomnia
+emotional lability
+hallucinations
+urinary retentionvery
+proteinuria
+hematuriafrequency
+dysuria
+oliguria
+polyuria
+menorrhagiapatent ductus arteriosus
+oliguria
+hematuriacommon
+urinary tract infection
+frequency
+serum sickness
+infusion site painpostmarketing reports
+transient sensation of burning in mouth/throatpatent ductus arteriosus
+frequency
+injection site reactions
+frequency
+gynecomastiapatent ductus arteriosus
+adrenal insufficiency
+intravenous solution
+abdominal pain
+acid
+sour stomach
+belching
+bloating
+cloudy urine
+decrease in amount of urine
+decrease in urine output
+urine-concentrating ability
+diarrhea
+difficulty
+bowel movement
+stool
+excess air
+gas in stomach
+intestines
+full feeling
+heartburn
+indigestion
+itching skin
+pain
+discomfort in chest
+upper stomach
+throat
+pale skin
+passing gas
+nausea
+noisy, rattling breathing
+rash with flat lesions
+small raised lesions on the skin
+shortness of breath
+swelling of face
+fingers
+hands
+feet
+lower legs
+ankles
+troubled breathing at rest
+troubled breathing with exertion
+unusual bleeding
+bruising
+unusual tiredness
+weakness
+vomiting
+weight gain
+abdominal cramps
+stomach soreness
+discomfort
+agitation
+leg
+stomach pains
+bleeding gums
+blistering
+peeling
+loosening of skin
+blood in urine
+stools
+tarry stools
+blurred vision
+burning feeling in chest
+stomach
+change in vision
+chest pain
+chills
+clay-colored stools
+coma
+confusion
+constipation
+cough or hoarseness
+dark urine
+decreased urine output
+depression
+difficulty breathing
+difficulty swallowing
+dilated neck veins
+dizziness
+dry mouth
+extreme fatigue
+pounding
+racing heartbeat
+pulse
+fever
+chills
+frequent urination
+general body swelling
+general feeling of tiredness
+weakness
+hair loss
+thinning of hair
+headache
+hives or welts
+hostility
+impaired vision
+increased blood pressure
+increased volume of pale
+urine
+irregular breathing
+irritability
+itching
+muscle pain
+lab
+show problems with liver
+lethargy
+light-colored stools
+loss of appetite
+side pain
+muscle twitching
+nosebleeds
+difficult urination
+pains in stomach
+side
+abdomen
+radiating
+back
+red spots on skin
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+rash
+red skin lesions
+purple center
+red, irritated eyes
+redness of skin
+seizures
+severe abdominal pain
+cramping
+burning
+continuing nausea
+sore throat
+sores
+ulcers
+white spots in mouth
+lips
+stiff neck
+stomach upset
+stupor
+painful glands
+tenderness in stomach area
+thirst
+tightness in chest
+unpleasant breath odor
+upper right abdominal pain
+vomiting of blood
+vomiting of material
+coffee grounds
+wheezing
+yellow eyes
+skin
+bluish lips
+skin
+difficulty sleeping
+disorientation
+dizziness
+faintness
+lightheadedness
+getting
+lying
+sitting position
+drowsiness
+profound coma
+hallucination
+lightheadedness or fainting
+mood
+other mental changes
+muscle tremors
+not breathing
+rapid, deep breathing
+restlessness
+irregular heartbeat
+stomach cramps
+sudden fainting
+sweating
+continuing ringing
+buzzing
+other unexplained noise in ears
+hearing loss
+nervousness
+crying
+depersonalization
+discouragement
+dry eyes
+dysphoria
+euphoria
+feeling
+lack of appetite
+loss of interest
+pleasure
+mental depression
+paranoia
+rapidly changing moods
+runny nose
+sleepiness
+unusual drowsiness
+sleeplessness
+sneezing
+stuffy nose
+trouble concentrating
+trouble sleeping
+unable to sleep

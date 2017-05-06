@@ -1,4 +1,3 @@
-other dosage forms:
 doctor if any of these
 common side effects
 diarrhea
@@ -15,7 +14,7 @@ face
 lips
 tongue
 abnormal heartbeat
-abnormal skin sensation
+abnormal skin sensations
 tarry stools
 confusion
 heaviness in the legs
@@ -28,4 +27,4 @@ feet
 unusual tiredness
 weakness
 coffee grounds
-capsules, tabletselixir
+controlled-release tabletselixir

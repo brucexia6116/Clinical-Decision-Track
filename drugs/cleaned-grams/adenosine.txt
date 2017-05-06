@@ -1,0 +1,135 @@
+st segment depression
+torsade de pointe
+diarrhea
+respiratory arrest apnea
+bronchospasm
+fullness
+atrial extrasystole
+ear
+rash
+jaw discomfort
+shakiness in the leg
+loss of consciousness syncope
+lower extremity discomfort
+sinus exit block
+nervousness
+breathing
+feeling of general discomfort weakness painrare
+tinnitus
+lightheadedness
+beat
+weakness
+intracranial hemorrhage
+arrhythmia
+upper chest
+upper extremity discomfortfrequency
+ventricular tachycardiauncommon
+vomit
+blur vision
+foot
+vaginal pressure
+irregular heartbeat
+third degree
+infusion site pain
+feeling of warmth
+myocardial infarction
+dizziness
+st segment elevation
+head pressurerare
+tightness in the chest
+first degree
+pulse
+sinus pause
+angioedema
+hyperventilationrare
+drowsiness
+burn sensationuncommon
+shake of the hand
+arm
+stuffy nose
+nasal congestionvery
+paresthesia
+pass of gas
+mood change
+severe bradycardiafrequency
+feeling of thoracic constriction oppression
+sit position
+confusion
+pressure
+chest discomfort
+tremor
+cough
+injection site
+numbness
+unusual tiredness
+metallic taste
+nipple discomfortfrequency
+transient increase in blood pressure
+tongue
+apprehensionfrequency
+indigestion
+redness of the face
+tongue discomfort
+seizure
+troubled breathing
+ventricular arrhythmia
+urticaria
+dyspnea
+sweating
+drowsinessvery
+palpitationsvery
+dry mouth
+second degree
+cardiac failure
+faint
+nauseafrequency
+tingle in arm
+nausea or vomit
+tachycardia
+headache
+faintness
+atrial fibrillation
+lightheadedness dizziness
+cardiac arrest asystole
+hypotension
+discomfort in the
+race heartbeat
+ventricular fibrillation
+heaviness in arm
+lightheadedness or dizziness
+respiratory failurefrequency
+facial flushing
+pound
+flush
+loss of appetite
+hypertension
+anaphylaxis
+emotional instability
+throat
+t wave change
+lie
+atrioventricular block
+pound in the ear
+tremble
+get
+prolonged asystole
+ear discomfort
+hypersensitivity
+chest pressureuncommon
+intracranial hypertension worseningfrequency
+gastrointestinal discomfort
+area
+decrease vision
+pain
+hand
+discomfort
+stomach pain
+sinus tachycardia
+cerebrovascular accident
+neck
+urinary urgencyfrequency
+chest pain
+throat neck jaw discomfort
+bradycardia
+tonic clonic seizure
+scotoma

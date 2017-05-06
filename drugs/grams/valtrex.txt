@@ -4,10 +4,6 @@ active ingredient
 valtrex
 unwanted side effects
 medical attention
-following side effects
-taking valacyclovir
-check
-doctor
 valacyclovir side effects
 medical attention
 body
@@ -16,201 +12,117 @@ side effects
 health care professional
 side effects
 following side effects
-gastrointestinal side effects
 nausea
-abdominal pain
 vomiting
 constipation
 anorexia
+dyspepsia
+dry mouth
+flatulencefrequency
+tooth disorderpostmarketing reports
 diarrhea
-elevated amylase
-elevated serum lipase
-diarrhea
-postmarketing experience
-clinical trials
-healthy individuals
-frequencies
-patients over years of age
-younger patients
-nervous system
-side effects
 headache
 dizziness
-central
-nervous system effects
-agitation
-seizures
-encephalopathy
-choreiform movements
-myoclonus
-vasculitic mononeuritis
-somnolence
-cotard
-syndrome
-agitation
-ataxia
-coma
-consciousness
-dysarthria
-encephalopathy
+somnolencefrequency
+migrainepostmarketing reports
 seizures
 tremors
-postmarketing experience
-neurotoxicity
-patients with renal failure
-patients
-following bone marrow transplant
-high serum concentrations of acyclovir
-acyclovir neurotoxicity
-patients with renal failure
-patients
-longstanding chronic renal failure
-acute failure
-acyclovir
-group
-bone marrow transplant patients
-abnormal eegs with diffuse slowing
-intravenous administration of higher doses
-neurotoxicity
-patients
-receiving oral doses of acyclovir
-following discontinuation of therapy
-mental status
-week
-several patients with chronic renal failure
-exhibiting neurotoxicity
-following hemodialysis
-similar reports in clinical trials of valacyclovir
-date
-assumption
-neurotoxicity
-valacyclovir
-fact that plasma acyclovir concentrations from oral valacyclovir administration
-oral acyclovir
-psychiatric side effects
-depression
-disorientation
-central
-nervous system effects
-hallucinations
+ataxia
+coma
+dysarthria
+encephalopathy
+neurologic/psychiatric events
 confusion
-delirium
+agitation
+convulsions
+hallucinations
+coma
+discontinuation
+events
+patients with renal impairment
+patients
+receiving higher doses
+neurologic/psychiatric events
+confusion
+agitation
+convulsions
+hallucinations
+coma
+discontinuation
+events
+patients with renal impairment
+patients
+receiving higher doses
+depression
+insomniapostmarketing reports
 aggressive behavior
+agitation
 confusion
 mania
 psychosis
-including
 visual hallucinations
-postmarketing experience
-transient renal dysfunction
-intravenous administration of acyclovir
-crystallization of the drug in the renal tubules
-mechanism for the development of renal dysfunction
-findings of crystalluria in several case reports
-prospective study
-inadequate hydration of the patient
-rapid administration of the drug
-development of crystalluria
-acute tubular necrosis
-interstitial nephritis
-association with acyclovir therapy
-similar reports in clinical trials of valacyclovir
-active ingredient
-valtrex
-date
-assumption
-renal toxicity
-valacyclovir
-fact that plasma acyclovir concentrations from oral valacyclovir administration
-oral acyclovir
-renal side effects
-acute renal failure
-elevated serum creatinine
-renal toxicity
-renal failure
-presenting as an increase in serum creatinine
-blood urea nitrogen
+increased serum creatinine frequency
+acute renal failurepostmarketing reports
 renal failure
 renal pain
-renal failure
-postmarketing experience
-renal effects
-several days
-following discontinuation of therapy
-renal damage
-crystallization of acyclovir in the renal tubules
-patients
-preexisting
-preexisting renal insufficiency
-greater risk
-developing neurotoxicity
-further deterioration in renal function
-hematologic side effects
-thrombotic thrombocytopenic purpura/hemolytic uremic syndrome
-ttp/hus
-neutrophil counts
-platelet counts
-hemoglobin
-white blood cells
-thrombocytopenia
-aplastic anemia
-leukocytoclastic vasculitis
-ttp/hus
-postmarketing experience
 ttp/hus
 including
 fatalities
 clinical trials in patients with advanced hiv disease
 allogeneic bone marrow transplant
 renal transplant recipients
-receiving g valacyclovir per day
-hepatic side effects
-elevated ast
-alt
-bilirubin
-liver enzyme abnormalities
+receiving g per day
+decreased neutrophil counts
+platelet countsuncommon
+decreased hemoglobinfrequency
+thrombotic thrombocytopenic purpura/hemolytic uremic syndromepostmarketing reports
+thrombocytopenia
+aplastic anemia
+leukocytoclastic vasculitis
+abnormal alt
+elevated alkaline phosphatase
+elevated astpostmarketing reports
 hepatitis
-postmarketing experience
-hypersensitivity side effects
+postmarketing reports
 acute hypersensitivity reactions
-including anaphylaxis
+anaphylaxis
 angioedema
 dyspnea
 pruritus
 rash
 urticaria
-postmarketing experience
-stevens-johnson syndrome
-dermatologic side effects
-rash
+rashfrequency
+acne
+prurituspostmarketing reports
+facial edema
 erythema multiforme
-rashes
 photosensitivity
 alopecia
-postmarketing experience
-cardiovascular
-side effects
+postmarketing reports
 hypertension
 tachycardia
-postmarketing experience
-ocular side effects
+postmarketing reports
 visual abnormalities
-postmarketing experience
-respiratory side effects
 nasopharyngitis
 upper respiratory tract infection
-musculoskeletal side effects
-arthralgia
-genitourinary side effects
+rhinitis
+pharyngitisuncommon
+dyspneafrequency
+sinusitis
+bronchitis
+arthralgiauncommon
+pain
+frequency
 dysmenorrhea
-other side effects
+urinary tract infection
 fatigue
-facial edema
-postmarketing experience
-metabolic side effects
-elevated alkaline phosphatase
-hypoglycemia
-case of hypercalcemia
+asthenia
+fever
+chills
+reported adverse reactions
+been headache
+nausea
+abdominal pain
 side effects of valtrex
 fda
 healthcare professional for medical advice

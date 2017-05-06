@@ -1,0 +1,40 @@
+shock
+constipation
+agitation
+seizure
+dehydration
+hive
+urticaria
+depression
+anorexia
+thrombocytopenia
+mucositis
+syncope
+hyperammonemia
+diarrhea
+hospital admission
+dermatitis
+hematologic adverse event
+combination with other agent
+stomatitis
+fluorouracil
+itch
+toxic epidermal necrolysis
+alopecia
+sensitization
+insomnia
+infection
+cheilitis
+vomit
+convulsion seizure
+wheeze
+allergic sensitization
+steven johnson syndrome
+nausea
+skin rash
+palmar plantar erythrodysesthesia
+adverse event
+leucovorin folinic acid
+lethargy malaise fatigue
+leucopenia
+gastrointestinal disorder

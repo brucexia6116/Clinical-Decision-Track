@@ -5,13 +5,6 @@ needed effects
 sulindac
 unwanted side effects
 medical attention
-following side effects
-taking sulindac
-check
-doctor
-following symptoms of overdose
-taking sulindac
-emergency help
 sulindac side effects
 medical attention
 body
@@ -108,6 +101,9 @@ congestive heart failure
 palpitation
 hypertension
 arrhythmia
+frequency
+anaphylaxis
+hypersensitivity vasculitis
 fatal apparent hypersensitivity reaction
 signs
 symptoms of such reaction
@@ -145,9 +141,6 @@ malaise
 hypotension
 chest pain
 tachycardia
-frequency
-anaphylaxis
-hypersensitivity vasculitis
 rare cases of metabolites of this drug
 common bile duct
 sludge

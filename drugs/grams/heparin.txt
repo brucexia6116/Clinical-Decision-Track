@@ -1,290 +1,84 @@
-following side effects
-taking heparin
-check
-doctor
-nurse
 taking
 drug
 side effects
 medical attention
 following side effects
 doctor
-hematologic side effects
-hemorrhage at any site
-hematomas
-melena
-hematuria
-ecchymoses
-epistaxis
-hematemesis
-compression neuropathy
-nerve paralysis from local bleeding
-hematoma
-fatal rectal sheath hematomas
-intracranial hemorrhage
-other serious bleeding events
-adrenal hemorrhage
-ovarian hemorrhage
+common adverse reaction
+hemorrhage
+postmarketing reports
+hemorrhage
 retroperitoneal hemorrhage
 thrombocytopenia
-patients
-heparin-induced thrombocytopenia
-hit
-heparin-induced thrombocytopenia
-thrombosis
-hitt
-delayed onset hit
-hitt
-risk of bleeding
-women over years of age
-other risk factors
-administration by intermittent intravenous injection
-serious comorbid condition
-history of alcohol abuse
-concomitant use of aspirin
-advanced age
-addition
-patients
-unfractionated heparin
-low-molecular-weight heparin
-developing
-developing heparin-induced thrombocytopenia
-hit
-hit-related thromboembolic complications
-transient ischemic attack
-stroke
-types of heparin-induced thrombocytopenia
-hit
-type
-called heparin-associated thrombocytopenia
-patients
-heparin
-nonimmunogenic response
-heparin
-type
-bleeding
-thrombosis
-special treatment
-platelet
-few days
-heparin therapy
-type
-hit
-prothrombotic reaction
-patients
-unfractionated heparin
-patients
-low molecular weight heparin
-lmwh
-overall mortality
-patients
-hit type
-decrease in platelet count
-hit
-days
-starting heparin
-patients with a previous exposure
-past days
-heparin
-hit antibodies
-minutes of an
-bolus
-decrease in platelets
-restarting heparin
-phenomenon
-delayed-onset hit
-days after heparin
-patients
-heparin in the recent past
-previous weeks
-patients with lmwh-induced hit
-longer delay in the onset of symptoms
-heparin-induced hit
-following discontinuation
-platelet
-days
-weeks in patients with high-titer hit antibodies
-thrombocytopenia
-heparin-dependent igg antibodies
-specific platelet protein
-platelet factor
-pf
-heparin-pf-igg
-immune complex
-platelets
-causing platelet activation
-activated platelets
-release of platelet-derived procoagulant microparticles
-coagulation reactions
-thrombin
-lmwhs
-high cross-reactivity
-circulating
-circulating heparin-pf-igg immune complex
-complications
-hit
-exacerbation of venous thromboembolism
-venous thrombosis
-limb gangrene
-stroke
-skin necrosis
-patients with hit
-symptomatic thrombosis
-risk of hit-associated thrombosis
-magnitude of decrease in platelet count
-other factors
-higher risk
-developing
-developing hit-associated thrombosis
-women
-nonwhites
-lower body weight
-hit patients
-thrombosis
-days before thrombocytopenia
-hit
-treatment with the
-offending agent
-heparin
-lmwh
-including heparin
-patient
-alternative anticoagulant
-direct thrombin inhibitor
-i.
-e.
-argatroban
-bivalirudin
-lepirudin
-fondaparinux
-use of a vitamin k antagonist
-i.
-e.
-warfarin
-platelet count returns
-antibodies
-hit
-months
-use of heparin
-patient with a history of hit if the antibody test
-data
-increased risk of thrombocytopenia with bovine heparin
-cardiovascular
-side effects
-venous thrombosis in association with thrombocytopenia
-paradoxical effect
-white clot syndrome
-cerebral vascular accident
-pulmonary embolism
-myocardial infarction
-loss of limbs
-gangrene of the limbs
-fulminant hepatic failure
-following liver transplantation
-cutaneous necrosis
-constrictive pericarditis
-following heparin
-hemopericardium
-fatal cardiac tamponade
-hypotension
-heparin administration in patients
-undergoing cardiac surgery
-dermatologic side effects
-extensive skin necrosis
-necrotic lesions at subcutaneous injection sites
-nonnecrotic plaques at injection sites
-eczema
-erythematous rash
-cutaneous necrosis
-burning sensation
-localized erythema
-formation
-alopecia
-hypersensitivity side effects
-vesicular lesions
+frequency
+plasma lipoprotein lipase increasedpostmarketing reports
+heparin resistance
+frequency
+conjunctivitis
+cyanosis
+tachypnea
+feeling of oppression
+angioneurotic edema
+anaphylactic shockpostmarketing reports
+chills
+fever
 urticaria
-drug fever
 asthma
 rhinitis
-anaphylaxis
-eosinophilia
-delayed type hypersensitivity
-hypersensitivity
-role in the pathogenesis of type
-heparin
-thrombocytopenia
-thrombosis
-skin necrosis
-case of adult respiratory distress syndrome in which hypersensitivity
-hepatic side effects
-patients
-elevations in liver function enzymes
-study of patients
-elevations in alanine aminotransferase
-alt
-aspartate aminotransferase
-ast
-patients
-average maximum increase
-times baseline for alt
-times baseline for ast
-lactate dehydrogenase abnormalities
-patients
-isoenzyme determinations
-patients
-elevated hepatic fractions
-case
-clinical evidence of hepatotoxicity
-endocrine side effects
-increased free thyroxine levels
-acute adrenal insufficiency
-heparin
-adrenal hemorrhage
-hypoaldosteronism
-mechanism
-increased free thyroxine levels
-displacement of thyroxine
-binding sites by free fatty acids
-patients with hypertriglyceridemia
-metabolic side effects
-hyperkalemia
-hyponatremia
-hypertriglyceridemia
-musculoskeletal side effects
-osteoporosis
-study of women
-given prophylactic heparin therapy during pregnancy
-reduction in trabecular bone mass during treatment
-limited data
-osteoporotic effects of heparin
-study
-involving pregnant women
-n =-rrb-
-requiring thromboprophylaxis
-significant bone loss
-i.
-e.
-femur
-patients
-enoxaparin
-mg/day
-unfractionated heparin
-units/day
-weeks
-renal side effects
-case of hemolytic uremic syndrome
-genitourinary side effects
-several cases of priapism
-local side effects
-injection site irritation
+lacrimation
+headache
+nausea
+vomiting
+anaphylactoid reactions
+shock
+itching
+burning
+frequency
+erythematous nodules
+eczema-like plaquespostmarketing reports
+local irritation
 erythema
 mild pain
 hematoma
 ulceration
-general
-side effects
-bleeding
-hemorrhage at any site
+histamine-like reactions
+skin necrosis
+frequency
+allergic reactions
+hypereosinophiliapostmarketing reports
+heparin-induced thrombocytopenia
+heparin-induced thrombocytopenia
+thrombosis
+generalized hypersensitivity reactions
+frequency
+hypoaldosteronismpostmarketing reports
+adrenal hemorrhage
+acute adrenal insufficiency
+fatal adrenal hemorrhage
+aldosterone synthesis
+frequency
+plasma potassium
+hyperkalemia
+metabolic acidosispostmarketing reports
+rebound hyperlipidemia
+frequency
+significant bone demineralization
+spontaneous bone fracturepostmarketing reports
+osteoporosis
+frequency
+ecchymosespostmarketing reports
+cutaneous necrosis
+delayed transient alopecia
+frequency
+serum transaminases
+increasedpostmarketing reports
+alt
+ast
+postmarketing reports
+ovarian hemorrhage
+priapism
+frequency
+renal function suppression
 stomach pain
 swelling
 pain

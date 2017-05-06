@@ -4,7 +4,6 @@ localized erythema
 other side effects
 local alterations in temperature sensations
 comprehensive list of adverse effects
-other dosage forms:
 local side effects
 erythema
 edema
@@ -17,10 +16,6 @@ alterations in temperature sensations
 edema
 itching
 rash
-reported local side effects in clinical studies on genital mucous membranes
-redness
-burning sensation
-edema
 cardiovascular
 side effects
 bradycardia

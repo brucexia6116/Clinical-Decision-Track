@@ -109,6 +109,11 @@ weeks after first exposure
 day of rechallenge
 syndrome
 cross reactivity with other antiepileptic agents
+skin eruptions
+fever
+delirium
+marked changes in the liver
+other organs
 postmarketing reports
 erythematous dermatitis
 exfoliative dermatitis
@@ -124,11 +129,6 @@ skin blisters/bullae
 photosensitivity
 erythroderma
 urticaria
-skin eruptions
-fever
-delirium
-marked changes in the liver
-other organs
 postmarketing reports
 localized/diffuse
 arthritic pain
@@ -179,13 +179,6 @@ vitamin k deficiency
 cleft lip
 palate
 body temperature
-megaloblastic anemia
-chronic use of this drug
-deficiency
-methemoglobinemia
-infants
-mothers
-drug
 postmarketing reports
 megaloblastic anemia
 macrocytic anemia
@@ -196,6 +189,13 @@ hypoprothrombinemia
 methemoglobinemia
 purpura
 lymphocytosis
+megaloblastic anemia
+chronic use of this drug
+deficiency
+methemoglobinemia
+infants
+mothers
+drug
 postmarketing reports
 circulatory collapse
 peripheral vascular collapse

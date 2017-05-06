@@ -1,0 +1,92 @@
+st segment depression
+pr prolongation
+bruise
+weight loss
+black tarry stool
+disturbance
+double vision
+rash
+loss of vision
+scarlatiniform characterfrequency
+cardiac toxicity account
+nodal tachycardia
+small raise lesion on the skin
+weakness
+drowsiness
+arrhythmia
+chest pain
+vomit
+visual disturbance
+irregular heartbeat
+gastrointestinal disturbance
+skin rash of urticarial
+slow heartbeat
+dizziness
+swell of the breast
+agitation or combativeness
+lower stomach painfrequency
+pulse
+troubled breathing
+swell of the foot
+maculopapular rash
+thrombocytopenia
+stool
+depressionfrequency
+express fear
+blood in the urine
+conduction disturbance
+red spot on the skin
+disturbed color perception
+confusion
+one half
+bleed gum
+overbright appearance of light
+one fourth
+central
+nausea
+delirium
+emotion
+one fourth of these adverse event
+cn
+intestinal ischemia
+blur vision
+female
+ventricular arrhythmia
+rash with flat lesion
+anorexia
+sweating
+unusual tiredness
+faint
+atrial tachycardia
+headache
+loss of appetite
+halo around light
+breast soreness
+lack of feeling
+anxiety
+ventricular fibrillation
+adverse event
+psychosis
+hallucination
+male
+pound
+bigeminy
+injectable solution
+bloody vomit
+ventricular premature contraction
+atrioventricular block
+unusual bleeding
+diarrhea
+depression
+nervous system
+intestinal hemorrhagic necrosis
+trigeminy
+discomfort
+shortness of breath
+night blindness
+apathy
+severe stomach pain
+supraventricular tachyarrhythmia
+lower leg
+other toxicity
+tunnel vision

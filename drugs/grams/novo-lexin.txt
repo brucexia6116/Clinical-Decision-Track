@@ -1,6 +1,195 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+cephalexin
+large studies
+overall incidence of side effects
+cephalexin
+hypersensitivity side effects
+fever
+urticaria
+rash
+eosinophilia
+anaphylaxis
+angioedema
+contact dermatitis
+erythema multiforme
+stevens-johnson syndrome
+toxic epidermal necrolysis
+acute paronychia
+hepatitis
+patients with a penicillin allergy
+cephalexin
+gastrointestinal side effects
+diarrhea
+nausea
+vomiting
+dyspepsia
+abdominal cramping
+anorexia
+anal pruritus
+diarrhea
+clostridium difficile colitis
+cephalosporins
+diarrhea
+discontinuation of the drug
+institution of standard antidiarrheal therapy
+pseudomembranous colitis
+hepatic side effects
+transient elevations of liver function tests
+transient hepatitis
+rare cases of cholestatic jaundice
+renal side effects
+interstitial nephritis
+reversible fever
+azotemia
+pyuria
+eosinophiluria
+hallmarks of cephalosporin-induced interstitial nephritis
+acute tubular necrosis
+hematologic side effects
+eosinophilia
+neutropenia
+thrombocytopenia
+hemolytic anemia
+nervous system
+side effects
+dizziness
+fatigue
+headache
+agitation
+confusion
+hallucinations
+reversible ototoxicity
+vertigo
+labyrinthine disease
+few patients with renal disease
+genitourinary side effects
+genital pruritus
+genital moniliasis
+vaginitis
+vaginal discharge
+musculoskeletal side effects
+arthralgia
+arthritis
+joint disorder
+dermatologic side effects
+urticaria
+rash
+contact dermatitis
+erythema multiforme
+toxic epidermal necrolysis
+acute generalized exanthematous pustulosis
+diarrhea
+stomach pain
+blistering
+peeling
+loosening of the skin
+chills
+clay-colored stools
+cough
+dark urine
+diarrhea
+dizziness
+fever
+general tiredness
+weakness
+headache
+itching or rash
+muscle pain
+light-colored stools
+loss of appetite
+nausea and vomiting
+red skin lesions
+purple center
+red, irritated eyes
+sore throat
+sores
+ulcers
+white spots in the mouth
+lips
+unpleasant breath odor
+unusual tiredness
+weakness
+stomach pain
+vomiting of blood
+yellow eyes
+skin
+stomach cramps
+tenderness
+leg pains
+black, tarry stools
+bleeding gums
+bloating
+blood in the urine
+stools
+chest pain
+coughing up blood
+diarrhea
+difficulty with breathing
+swallowing
+fast heartbeat
+general body swelling
+hives
+increased menstrual flow
+vaginal bleeding
+increased thirst
+hive-like swelling on the face
+eyelids
+lips
+tongue
+throat
+hands
+legs
+feet
+sex organs
+loss of appetite
+nosebleeds
+pain
+difficult urination
+pale skin
+paralysis
+red spots on the skin
+prolonged bleeding from cuts
+puffiness
+swelling of the eyelids
+eyes
+face
+lips
+tongue
+tarry stools
+dark brown urine
+painful glands
+tightness in the chest
+unusual bleeding
+bruising
+unusual weight loss
+bloody diarrhea
+acid
+sour stomach
+anxiety
+belching
+burning feeling in the chest
+stomach
+difficulty with moving
+dry mouth
+heartburn
+hyperventilation
+indigestion
+irregular heartbeats
+irritability
+itching of the vagina
+genital area
+muscle pain
+stiffness
+nervousness
+pain during sexual intercourse
+pain
+swelling
+redness in the joints
+redness of the skin
+restlessness
+seeing
+hearing
+feeling things
+shaking
+stomach upset
+trouble sleeping
+brownish vaginal discharge

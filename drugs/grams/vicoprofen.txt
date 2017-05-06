@@ -7,15 +7,6 @@ hydrocodone
 ibuprofen
 unwanted side effects
 medical attention
-following side effects
-taking hydrocodone
-ibuprofen
-check
-doctor
-following symptoms of overdose
-taking hydrocodone
-ibuprofen
-emergency help
 hydrocodone
 ibuprofen side effects
 medical attention
@@ -229,9 +220,6 @@ cardiovascular
 side effects of ibuprofen
 peripheral edema
 elevated blood pressure
-patients
-preexisting hypertension
-congestive heart failure
 hypersensitivity side effect of ibuprofen
 urticarial rashes
 pruritus
@@ -273,10 +261,6 @@ noncardiogenic pulmonary edema
 ibuprofen therapy
 ocular side effects from the use of ibuprofen
 blurred vision
-scotomata
-diplopia
-addition
-case of corneal verticillata
 side effects of vicoprofen
 fda
 healthcare professional for medical advice

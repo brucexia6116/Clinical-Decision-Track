@@ -1,11 +1,9 @@
 headache migraine
-elevated alt
 red skin lesion
 abnormal alkaline phosphatase
 edema
 fatal case
 hypercholesterolemia
-upper lit of normal
 hepatitis
 ulcer
 skin
@@ -21,7 +19,7 @@ redistribution accumulation of body fat
 viral respiratory infection
 neutropenia
 abnormal glucose
-infiltrate
+sore throat
 lymphopenia
 mouth ulceration
 anemia
@@ -32,6 +30,7 @@ breathing
 combination
 throat infection
 localized infiltrate
+eosinophiliafrequency
 insomnia
 respiratory failure
 interstitial nephritis
@@ -46,7 +45,7 @@ skin rash
 breast enlargement
 ischemic stroke
 absolute neutrophil count
-sore in the mouth
+abnormal dreamsfrequency
 hemoptysis
 small quantity of alcohol
 deep venous thrombosis
@@ -62,7 +61,6 @@ abdominal pain
 loss of memory until the next morning
 feed problem
 ingest bottle of wine after glass
-once daily regen
 achiness
 lopinavir ritonavir after a drop
 gain weight
@@ -71,15 +69,15 @@ depression
 fatigue lethargy
 thrombocytopenia
 alcohol
+once daily regimen
 paresthesia
-coronary bypass surgery
 gastrointestinal symptom
 medical attention with a
 acute renal failure
 respiratory symptom
 platelet
+autoimmune disorder in the setting of immune reconstitution
 hepatic steatosis
-steatosispostmarket report
 abnormal triglyceride
 light color stool
 peel
@@ -92,13 +90,14 @@ organize pneumonia
 facial waste
 variable appearance
 abnormal amylaserare
-ast
+sore in the mouth
 asthenia
 symptom of hypersensitivity
-soreness of the eye
 peripheral waste
+non site specific painfrequency
 renal failure
 dorsocervical fat enlargement
+mmol l
 control subject
 abdominal pain gastritis gastrointestinal sign
 numbness
@@ -126,14 +125,16 @@ loosening of the skin
 dark urine
 elevated creatine phosphokinase
 hyperglycemia
-sore throat
+elevated astuncommon
 alcohol tolerance
 dyspnea
 sweating
 hyperamylasemia
-transient ischemic attackpostmarketing report
+soreness of the eye
 cough
 renal sign symptom
+chillsuncommon
+lactic acidosis
 unusual tiredness
 pruritus
 lamivudine zidovudine
@@ -160,42 +161,48 @@ systemic symptom
 allele
 elevated creatinine
 metabolic abnormality
-symptom
+infiltrate
 chill
 case
 abacavir hypersensitivity
+abnormal creatininefrequency
 hypotension
 mild elevation of blood glucose
+lactic acidosisfrequency
 abnormal wbcrare
 decrease appetite
-mi
+purple center
 myalgia
 leukopenia
 mania
 uln
-yellow eye
+abnormal absolute neutrophilsuncommon
 abnormal platelet
+yellow eye
 preexist depression
 mucous membrane lesion
 steatosis
 cushingoid appearance
 facial flushing
 illness
-lactic acidosis
+bronchitisfrequency
 tachycardia after alcohol consumption
 acute dyspnea
+upper limit of normal
 angina
 anaphylaxis
 stomach
-face
-dream sleep disorder
+hyperlactatemiauncommon
 viral ear
+combination with agent
 redness
-purple center
 life threatening hypotension
+immune reconstitution reactivation syndrome
 reduce alcohol tolerance
+dream sleep disorder
 muscle pain
 diarrhea
+abnormal bilirubinfrequency
 agranulocytosis
 hypersensitivity
 lip
@@ -208,7 +215,6 @@ status
 fever
 pain
 itch
-case report
 incidence
 lymphadenopathy
 constitutional symptom
@@ -231,7 +237,7 @@ arthralgia
 fever pyrexia
 generalize malaise
 disease
-loss of appetitepostmarket report
+face
 sj
 zidovudine
 use of nucleoside analog

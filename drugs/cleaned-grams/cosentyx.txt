@@ -1,0 +1,55 @@
+upper
+viral infection
+tightness in the chest
+nasopharyngitis
+tinea pedis
+weight loss
+rhinitis
+anaphylaxis
+rectal bleeding
+puffiness
+urticaria
+ear congestion
+candida infection
+runny nose
+eye
+unusual tiredness
+swell of the eyelid
+difficulty with swallow
+diarrhea
+hive
+conjunctivitis
+neutropenia
+lip
+loss of voice
+rhinorrhea
+tongue
+headache
+staphylococcal skin infection
+fever
+pain
+itch
+body ache
+weakness
+exacerbation of inflammatory bowel disease
+pharyngitis
+infection
+redness of the skin
+cough
+fast heartbeat
+herpes
+sore throat
+chill
+immunogenicityfrequency
+muscle ache
+skin rash
+oral herpesuncommon
+ibd
+difficulty with breathing
+face
+severe stomach pain
+welt
+respiratory tract infection
+dizziness
+severe diarrhea
+oral candidiasisfrequency

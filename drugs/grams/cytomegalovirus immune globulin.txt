@@ -19,13 +19,7 @@ fever
 nausea
 vomiting
 arthralgia
-wheezing in < of all infusions
-reactions
-infusion rate
-decrease in blood pressure
-infusions in clinical trials
-minor reaction
-infusion
+wheezing
 renal side effects
 increases in serum creatinine
 blood urea nitrogen

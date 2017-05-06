@@ -1,7 +1,3 @@
-following side effects
-taking
-doctor
-nurse
 immunologic side effects
 dose-dependent reductions
 circulating cd
@@ -12,9 +8,6 @@ cardiovascular events
 cardiovascular
 side effects
 coronary artery disorder
-myocardial infarction
-adverse reactions
-clinical intervention
 patients
 alefacept
 active ingredient

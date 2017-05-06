@@ -7,178 +7,327 @@ visual hallucination
 anxiety
 nausea
 comprehensive list of adverse effects
-other dosage forms:
-zolpidem
-active ingredient
-edluar
-residual daytime effects in most young adult volunteers
-zolpidem
-sleep architecture
-recommended doses
-general
-side effects
-fatigue
-nervous system
-side effects
-visual disturbances
-ataxia
-dizziness
-headache
-feeling
-confusion
-anterograde amnesia
-excessive sedation
-lightheadedness
-delirium
-nightmares
-hallucinations
-nervousness
-agitation
-chronic use in high doses
-subsequent withdrawal
-grand mal seizures
-cases
-elderly patients
-hypersensitivity side effects
-rare cases of angioedema
-tongue
-glottis
-larynx
-patients
-taking
-subsequent doses of sedative-hypnotics
-including zolpidem
-active ingredient
-edluar
-patients
-had additional symptoms
-dyspnea
-throat closing
-nausea
-vomiting
-anaphylaxis
-patients
-required medical therapy in the emergency department
-angioedema
-throat
-glottis
-larynx
-airway obstruction
-patients
-angioedema after treatment with zolpidem
+evidence of a dose relationship for adverse effects
+certain central nervous system
+gastrointestinal events
+theory
+adverse effects
 drug
-gastrointestinal side effects
+bedtime
+headache
+somnolence/drowsiness
+dizziness
+lethargy
+lightheadedness
+ataxia
+vertigo
+labyrinthitis
+balance disorder
+attention disturbance
+hypoesthesia
+ataxia
+burning sensation
+paresthesia
+postural dizziness
+tremoruncommon
+syncope
+cerebrovascular disorder
+dysarthria
+migraine
+speech disorder
+stupor
+dysphagia
+dysgeusiarare
+restless legs
+rigors
+abnormal gait
+hypokinesia
+hypotonia
+neuralgia
+neuritis
+neuropathy
+paresis
+depressed level of consciousness
+palpitations
+increased blood pressureuncommon
+postural hypotension
+hypertension
+tachycardia
+heart raterare
+flushing
+hypotension
+hot flashes
+angina pectoris
+arrhythmia
+arteritis
+circulatory failure
+extrasystoles
+aggravated hypertension
+myocardial infarction
+phlebitis
+varicose veins
+ventricular tachycardia
+rash
+urticaria
+skin wrinklinguncommon
+increased sweating/hyperhidrosis
+pruritus
+contact dermatitisrare
+acne
+bullous eruption
+dermatitis
+furunculosis
+photosensitivity reaction
+angioneurotic edema
+diarrhea
+dry mouth
+abdominal pain
+constipation
+dyspepsia
+hiccup
 nausea
 vomiting
-dyspepsia
-anorexia
-diarrhea
-clinical studies on the sublingual tablet
-patient
-transient sublingual erythema
-patient
-transient paresthesia of the tongue
-other side effects
-tolerance
-pharmacologic effects of zolpidem
-active ingredient
-edluar
-withdrawal symptoms
-abrupt cessation
-fast tapering
-withdrawal symptoms
-agitation
-restlessness
-anxiety
-depression
-insomnia
-tremor
-nausea
+gastroenteritis
 abdominal discomfort
-sweating
-other side effects
-oral spray
-dry mouth
-case of sleep driving
-psychiatric side effects
-cases of psychotic reactions
-association with zolpidem
-active ingredient
-edluar
-therapy
-zolpidem-induced respiratory depression
-flumazenil
-zolpidem-induced respiratory depression
-usual hypnotic doses
-patients with impaired respiratory function
-study
-zolpidem
-active ingredient
-edluar
-doses of mg
-usual dose
-apneic episodes in patients with obstructive sleep apnea
-respiratory side effects
-respiratory depression
-high doses
-upper
-lower respiratory tract infection
-rhinitis
-cardiovascular
-side effects
-palpitations
-patients
-taking zolpidem
-active ingredient
-edluar
-genitourinary side effects
-urinary incontinence
+abdominal tenderness
+frequent bowel movements
+gastroesophageal reflux disease
+flatulencerare
+altered saliva
+saliva
+tenesmus
+enteritis
+eructation
+esophagospasm
+gastritis
+hemorrhoids
+intestinal obstruction
+rectal hemorrhage
+tooth caries
 urinary tract infection
-hepatic side effects
-case of hepatotoxicity
-zolpidem
-active ingredient
-edluar
-therapeutic doses
-immunologic side effects
-infection
-musculoskeletal side effects
+menorrhagia
+dysuria
+vulvovaginal drynessuncommon
+menstrual disorder
+vaginitis
+cystitis
+urinary incontinence
+dysmenorrhearare
+breast fibroadenosis
+breast neoplasm
+breast pain
+micturition frequency
+nocturia
+polyuria
+pyelonephritis
+urinary retention
+allergyrare
+allergic reaction
+aggravated allergy
+anaphylactic shockfrequency
+angioedema
+anaphylaxis
+appetite disorderuncommon
+anorexia
+hyperglycemia
+thirstrare
+decreased weight
+appetite
+gout
+hypercholesteremia
+hyperlipidemia
+alkaline phosphatase
+bun
+pain
 arthralgia
 myalgia
-spray, tablet
+neck pain
+muscle crampuncommon
+leg cramps
+arthritis
+muscle spasms
+involuntary muscle contractionsrare
+tetany
+arthrosis
+muscular weakness
+sciatica
+tendinitis
+diplopia
+abnormal vision
+visual disturbance
+eye redness
+vision
+altered visual depth perception
+asthenopiauncommon
+eye irritation
+eye pain
+scleritisrare
+abnormal accommodation
+glaucoma
+periorbital edema
+conjunctivitis
+corneal ulceration
+abnormal lacrimation
+parosmia
+photopsia
+influenza-like symptoms
 chest pain
-confusion
-confusion about identity
-place
-time
-discouragement
-unusual sense of well-being
-pounding
-racing heartbeat
-pulse
+chest discomfort
+asthenia
+fatigue
+tinnitus
+contusion
+body temperature
+otitis externa
+pyrexia/fever
+neck injury
+infectionuncommon
+pallor
+pain
+edema
+falling
+malaise
+trauma
+taste perversionrare
+face edema
+pain
+increased drug tolerance
+otitis media
+abscess herpes simplex/herpes zosterfrequency
+injuries
+hip fractures
+intracranial hemorrhages
+depression
+abnormal dreams
+disorder
+insomnia
+exacerbated/aggravated insomnia
+hallucinations
+agitation
+nightmare
 feeling
-fever
-general feeling of discomfort
-illness
-irritability
-lack of appetite
-lightheadedness
-loss of interest
-pleasure
-shakiness
-unsteady walk
-tiredness
-trouble concentrating
-trouble sleeping
-unsteadiness
-trembling
-other problems with muscle control
-coordination
-unusual tiredness
-weakness
+confusion
+euphoria
+memory impairment
+amnesia
+anterograde amnesia
+nervousness
+disorientation
 anxiety
+psychomotor retardation
+binge eating
+depersonalization
+disinhibition
+mood swings
+stress symptoms
+apathyuncommon
+decreased cognition
+difficulty
+emotional lability
+illusion
+sleeping
+daytime dosing
+irritability
+drunk feeling
+alertnessrare
+impotence
+abnormal thinking
+aggressive reaction
+libido
+delusion
+dementia
+feeling
+hysteria
+intoxicated feeling
+manic reaction
+panic attacks
+personality disorder
+somnambulism
+suicide attempts
+neurosis
+perceptual disturbances
+restlessness
+libido disorder
+inappropriate behaviorfrequency
+psychoses
+dependencepostmarketing reports
+anger
+abnormal behavior
+sinusitis
+pharyngitis
+upper respiratory infection
+lower respiratory infection
+throat irritation
+nasopharyngitis
+dry throat
+rhinitisuncommon
+bronchitis
+coughing
+dyspnearare
+pulmonary embolism
+pulmonary edema
+yawning
+bronchospasm
+respiratory depression
+epistaxis
+hypoxia
+laryngitis
+pneumonia
+abnormal hepatic function
+alt/sgptrare
+bilirubinemia
+ast/sgotpostmarketing reports
+mixed liver injury
+jaundice
+increased erythrocyte sedimentation rate
+esr
+anemia
+hyperhemoglobinemia
+leukopenia
+lymphadenopathy
+macrocytic anemia
+purpura
+thrombosis
+acute renal failure
+renal pain
+postmarketing reports
+sublingual application site reactions
+oral ulcers
+blisters
+mucosal inflammation
+oral tablet
+oral tablet
+release
+clumsiness or unsteadiness
+confusion
+depression
+difficulty with breathing
+dizziness
+lightheadedness
+fainting
+falling
+fast heartbeat
+seeing
+hearing
+feeling things
+skin rash
+swelling of the face
+trouble sleeping
+unusual excitement
+nervousness
+irritability
+wheezing
+sleepiness
+unusual drowsiness
+stomach pain
+decreased touch sensation
+abnormal sensation of movement
+appetite disorder
+balance disorder
+binge eating
 bladder pain
 cloudy urine
+blurred vision
 burning
 crawling
 itching
@@ -187,173 +336,70 @@ prickling
 pins
 needles
 tingling feelings
+change in hearing
+chest discomfort
 chills
-cold sweats
-crying
-decreased awareness
-responsiveness
-depersonalization
+confusion about identity
+place
+time
+constipation
+continuous ringing
+buzzing
+other unexplained noise in the ears
+daytime drowsiness
+diarrhea
 burning
 painful urination
-dizziness
-faintness
-lightheadedness
-getting
-lying
-sitting position
+difficulty with moving
+difficulty with swallowing
+discouragement
+double vision
+drugged feeling
 dry mouth
-dysphoria
-euphoria
-fainting
+earache
+eye redness
+unusual sense of well-being
+feeling of unreality
+feeling
+frequent bowel movements
 frequent urge
-hyperventilation
-irregular heartbeats
-irritability
-side pain
-paranoia
-rapidly changing moods
-restlessness
-seeing
-hearing
-feeling things
-severe sleepiness
-shakiness in the legs
-arms
-hands
-feet
-shortness of breath
-trembling
-shaking of the hands
-feet
-attack
-assault
-force
-black, tarry stools
-change
-walking
-balance
-clumsiness or unsteadiness
-cough
-delusions
-dementia
-difficulty swallowing
-dizziness
-hives.
-itching
-skin rash
+headache
+hearing loss
+heartburn
+hives or welts
+itching ears
+joint pain
+lack of appetite
 lack of feeling
 emotion
-pale skin
-puffiness
-swelling of the eyelids
-eyes
-face
-lips
-tongue
-sore throat
-sores
-ulcers
-white spots on the lips
-mouth
-swollen glands
-thoughts
-killing oneself
-changes in behavior
-tightness in the chest
-troubled breathing with exertion
-uncaring
-unusual bleeding
-bruising
-drowsiness
-headache
-muscle aches
-sleepiness
-unusual drowsiness
-runny nose
-stomach discomfort
-acid
-sour stomach
-back pain
-being forgetful
-belching
-body aches
-pain
-congestion
-diarrhea
-difficulty
-bowel movement
-stool
-difficulty with moving
-double vision
-feeling of constant movement of self
-surroundings
-heartburn
-hoarseness
-indigestion
-heavier menstrual periods
-loss of memory
-muscle pain
-stiffness
-nausea
-pain
-tenderness around the eyes
-cheekbones
-seeing double
-sensation of spinning
-tender
-swollen glands in the neck
-unusual drowsiness
-dullness
-tiredness
-weakness
-feeling of sluggishness
-voice changes
-taste
-breast pain
-change in taste
-changes in patterns
-rhythms of speech
-increased sweating
-itching of the vagina
-genital area
-pain during sexual intercourse
-paleness of the skin
-slurred speech
-white vaginal discharge with no odor
-mild odor
-vomiting
-blemishes on the skin
-blindness
-blurred vision
-change in near
-distance vision
-decreased interest in sexual intercourse
-difficulty
-focusing eyes
-eye pain
-feeling of warmth
-frequent urge
-inability
-erection
-increased appetite
-increased sensitivity of the skin
-sunlight
+lack
+loss of self-control
 lack
 loss of strength
-loss in sexual ability
-desire
-drive
-performance
-pimples
-redness of the face
-neck
-arms
-upper chest
+heavier menstrual periods
+loss of balance
+loss of interest
+pleasure
+memory problems
+mood swings
+muscle aches
+cramping
+pain
+stiffness
+nausea
+nightmares
+unusual dreams
+redness of the skin
 redness
-other discoloration of the skin
-severe sunburn
-stomach upset
-straining
-passing stool
-tearing
-weight loss
+soreness of the throat
+sense of detachment from self
+body
+slowing of mental
+physical activity
+sneezing
+runny nose
+swollen joints
+tiredness
+trouble concentrating
+vision changes
+vomiting

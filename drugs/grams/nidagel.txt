@@ -1,6 +1,185 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+reported side effects
+cervical candidiasis
+vaginitis
+comprehensive list of adverse effects
+metronidazole
+urine
+using
+medicine
+taking
+drug
+side effects
+medical attention
+following side effects
+doctor
+reported side effects
+nasopharyngitis
+upper respiratory tract infection
+headache
+reported side effects
+fungal infection
+vulvovaginal candidiasis
+headache
+vulvovaginal pruritus
+nausea
+diarrhea
+metrorrhagia
+breast pain
+infection
+rash
+pharyngitis
+abdominal pain
+pruritus
+dysmenorrhea
+mild dryness
+mild scaling
+moderate dryness
+moderate scaling
+mild pruritus
+moderate pruritus
+severe pruritus
+mild stinging/burning
+moderate stinging/burning
+severe stinging/burning
+local allergic reactionuncommon
+severe dryness
+severe scalingfrequency
+application site reaction
+condition
+transient redness
+dysmenorrhea
+breast pain
+metrorrhagia
+vulvovaginal candidiasis
+vulvovaginal pruritus
+urinary tract infection
+vaginal itching/irritation/burning
+numbness
+pelvic discomfort
+vaginal dischargeuncommon
+vaginal mycosis
+urine
+vulva edema
+menstrual discomfort/irregularities
+vaginal spotting/bleedingfrequency
+breast enlargement
+dysuria
+female lactation
+labial edema
+leucorrhoea
+menorrhagia
+salpingitis
+urinary frequency
+vaginitis
+vulvovaginal disorder
+abdominal pain
+nausea
+diarrhea
+gastritis
+tooth disorder
+gastrointestinal discomfort
+abdominal cramps
+vomitinguncommon
+constipation
+dry mouth
+abdominal bloating/noisefrequency
+dyspepsia
+flatulence
+gingivitis
+headache
+dizzinessuncommon
+tingling/numb extremities
+dysgeusia
+paresthesia
+hypothesiafrequency
+peripheral neuropathy
+ataxiapostmarketing reports
+taste perversion
+pharyngitis
+bronchitis
+nasopharyngitis
+sinusitis
+upper respiratory tract infection
+nasal congestionfrequency
+asthma
+rhinitis
+hypertension
+pruritus
+rash
+contact dermatitis
+dry skin
+skin discomfort
+burning/stinging
+erythema
+worsening of rosacea
+skin irritationfrequency
+acne
+sweating
+urticaria
+skin exfoliation
+facial edema
+zoster lesion
+nose pustule
+vesicular bullous eruptionpostmarketing reports
+hyperpigmentation
+pigmentation disorder
+hypertrichosis
+fungal infection
+flu syndrome
+infection
+influenza
+abscess
+painuncommon
+fatiguefrequency
+mucous membrane disorder
+depression
+difficult sleep
+irritabilityfrequency
+insomnia
+pain
+basal cell carcinomafrequency
+skin cancer
+frequency
+eye irritation
+watery eyepostmarketing reports
+eyelid edema
+frequency
+liver function test
+frequency
+allergic reaction
+appetite decreasedfrequency
+anorexia
+hypomagnesemia
+frequency
+pyelonephritis
+topical cream
+topical emulsion
+topical lotion
+itching in the vagina
+pain during sexual intercourse
+white vaginal discharge with no odor
+mild odor
+stomach cramping
+pain
+burning on urination
+burning
+irritation of penis of sexual partner
+itching
+redness of the genital area
+diarrhea
+dizziness or lightheadedness
+dryness of the mouth
+feeling of a furry tongue
+headache
+loss of appetite
+metallic taste
+other change in taste sensation
+nausea
+vomiting
+genital irritation
+itching
+pain during sexual intercourse
+white vaginal discharge
+treatment
+odor
+mild odor

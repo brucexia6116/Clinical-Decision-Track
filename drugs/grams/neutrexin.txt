@@ -16,17 +16,6 @@ active ingredient
 neutrexin
 myelosuppression
 resulting in neutropenia
-mm
-thrombocytopenia
-mm
-anemia
-hgb
-< g/dl
-patients
-leucovorin
-therapy
-patients
-hematologic toxicity
 renal toxicity
 elevations in serum creatinine
 times

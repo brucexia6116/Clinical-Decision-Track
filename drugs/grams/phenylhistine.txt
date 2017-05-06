@@ -1,13 +1,9 @@
-other dosage forms:
 doctor if any of these
 common side effects
 constipation
 diarrhea
 dizziness
 drowsiness
-dry mouth
-nose
-throat
 excitability
 headache
 loss of appetite
@@ -21,33 +17,22 @@ weakness
 severe allergic reactions
 rash
 hives
-itching
 difficulty breathing
 tightness in the chest
 swelling of the mouth
 face
 lips
 tongue
-blurred vision
-other vision changes
-confusion
 difficulty
 inability
 irregular heartbeat
-fever
-chills
-persistent sore throat
 hallucinations
-mood
-mental changes
-persistent trouble
-restlessness
 seizures
 severe dizziness
-drowsiness
 lightheadedness
 headache
 tremor
+vision changes
 general
 side effects
 drowsiness
@@ -65,11 +50,4 @@ flushing
 side effects of phenylhistine
 fda
 healthcare professional for medical advice
-controlled-release tablets
-elixir
-liquid
-solution
-suspension
-sustained-release capsules
-syrup
-tablets
+chewable tablets

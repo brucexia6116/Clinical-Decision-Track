@@ -1,0 +1,422 @@
+influenza
+hypocalcemia
+hypercholesterolemia
+lack
+pulmonary edema
+rectal hemorrhage
+hypothyroidism
+weakness in the hand
+skin
+appetite
+abnormal hepatic function
+gi
+runny nose
+retroperitoneal hemorrhage
+basilar artery stenosis
+hyperhidrosis
+puffiness of the face
+nervousness
+dermal cyst
+transient ischemic attack
+breathing
+hair loss
+cardiomegaly
+eyelid edema
+nausea
+disorientation
+tenderness
+eosinophilia
+myocardial infarction
+elevated triglyceride
+cardiac flutter
+increase blood creatinine phosphokinase
+tightness in the chest
+unexplained weight loss
+swollen joint
+depression
+vision impairment
+stool
+blood in the urine
+myelosuppression
+conjunctivitis
+ventricular dysfunction
+palmar plantar erythrodysesthesia syndrome
+body
+leg
+asthenia
+face swellingfrequency
+pain in the arm
+hyperglycemia increase blood glucose
+seizure
+tremor
+active ingredient
+numbness
+influenza like illnessfrequency
+loss of strength
+no pulse
+white patch with diaper rash
+pale skin
+pancreatitis
+tasigna
+dyslipidemiafrequency
+limb
+sweating
+hypoesthesia
+eye
+peripheral artery stenosis
+faint
+decrease blood insulin
+ischemic cerebrovascular eventsuncommon
+intermittent claudication
+tachycardia
+arterial vascular occlusive event
+rapid weight gain
+psoriasis
+loss of appetite
+skin exfoliation
+atrial fibrillation
+fever or chill
+sore
+parathyroid hormone
+chromaturia
+leukopenia
+gamma glutamyltransferaseuncommon
+treat skin
+visual acuity
+skin papillomafrequency
+hyperesthesiafrequency
+white patch in the mouth
+elevated lipase
+angina pectoris
+appetite anorexia
+decrease blood glucose
+erythema multiforme
+elevated total cholesterol
+hyponatremia
+dysgeusiauncommon
+hematoma
+ischemic heart disease
+night sweat
+hyperkalemia
+hypersensitivity
+allergic conjunctivitis
+periorbital edemauncommon
+menorrhagia
+arthritis
+fatigue
+hypercalcemia
+fast heartbeat
+folliculitis
+hyperkeratosis
+conjunctival hemorrhage
+arthralgia
+skin ulcer
+ascite
+malaise
+electrolyte imbalance
+skin hyperpigmentation
+melena
+bradycardia
+difficult urination
+black tarry stool
+flank pain
+increase urination
+dry skin
+diabetes mellitus
+pleural effusionuncommon
+pericardial effusion
+urinary tract infection
+cholestasis
+thrombocythemia
+feel cold
+anemia
+cloudy urine
+photophobia
+edema
+weakness
+insomnia
+joint swellingfrequency
+vomit
+foot
+sore throat
+troponin
+swollen gland in the neck
+ischemic stroke
+brain edema
+dysphoria
+rapid shallow breathing
+constipation
+weight
+pleurisy
+nausea and vomit
+muscle stiffness
+vertigo
+itch
+cheekbone
+tingle
+cardiac murmur
+medicine
+muscular weaknessuncommon
+gravitational edema
+hypophosphatemia decrease blood phosphoruscommon
+slow heartbeat
+hematemesis
+interstitial lung disease
+cough
+lipoprotein cholesterol
+blister
+unusual tiredness
+trouble sleep
+febrile neutropenia
+neck pain
+nocturiafrequency
+gastric ulcer
+increase blood insulinuncommon
+palpitation
+pharyngolaryngeal pain
+ankle
+dysesthesia
+side pain
+headache
+alopecia
+pharyngitis
+hypertriglyceridemia
+gastroenteritis
+eye pruritus
+heaviness of the leg
+hyperlipidemia
+pneumonia
+bronchitis
+globulin
+skin hypertrophy
+skin discoloration
+stomatitis
+gingivitis
+peripheral neuropathy
+sensitivity to heat
+unusual bleeding
+hear impairment
+pleuritic pain
+neutropenia
+lip
+hyperemia
+pain
+flush dry skin
+cerebrovascular accident
+hyperthyroidism
+pyrexia
+face
+skin atrophy
+disturbance in attention
+ulcer
+upper abdominal pain
+hypomagnesemia
+hemoglobinfrequency
+feel body temperature change
+acne
+rash
+dermatitis
+loss of consciousness syncope
+exfoliative rash
+tinnitus
+body ache
+arrhythmia
+hyperparathyroidism
+chest pain
+ejection fraction
+fruit like breath odor
+wheeze
+gi ulcer perforation
+health care professional
+abdominal distention
+dyspepsia
+skin rash
+hemorrhoid
+breast induration
+dizziness
+vision
+gout
+cramp
+lethargy
+abdominal pain
+myalgia
+difficulty with move
+tender
+frequent urge
+arm
+bladder pain
+contusion
+musculoskeletal chest pain
+thrombocytopenia
+arterial stenosis
+clay color stool
+yellow eye
+eye pain
+muscle spasm
+tumor lysis syndrome
+confusion
+sebaceous hyperplasia
+peripheral arterial occlusive disease
+chest discomfort
+coma
+renal failure
+muscle ache
+hypoglycemia
+nasopharyngitis
+cerebral infarction
+ocular surface disease
+anxietyfrequency
+optic neuritis
+hepatotoxicity
+acneiform
+sepsis
+blepharitis
+dark urine
+enterocolitis
+anal abscess
+petechiae
+dysuria
+dyspnea
+paraproteinemia
+gynecomastia
+amnesia
+erythema nodosum
+qt prolongation
+throat irritationfrequency
+hemorrhagic shock
+micturition urgency
+abdominal discomfort
+hypertensive crisis
+erythema
+elevated creatinine
+chill
+medical attention
+hypotension
+cough or hoarseness
+fingertip
+hypertension
+swell of the
+pericarditis
+pain in the joint
+leukocytosis
+throat
+eczema
+decrease urine output
+ear pain
+migraine
+troubled breathing with exertion
+restless leg syndrome
+increase blood amylaseuncommon
+swell
+painful urination
+photosensitivity
+white spot in the mouth
+pain in extremity
+depressed mood
+stomach pain
+ear congestion
+chorioretinopathy
+increase hunger
+hyperphosphatemia
+lower leg
+coronary artery disease
+urinary incontinence
+healthcare professional for medical advice
+gastritis
+diarrhea
+tinea pedis
+bruise
+oropharyngeal pain
+dehydration
+trouble swallow
+papilloedema
+arteriosclerosis
+furuncle
+fluid retention
+subileus
+lymphopenia
+mouth ulceration
+erectile dysfunction
+swell of the hand
+intracranial hemorrhage
+flatulence
+blur vision
+jaundicefrequency
+no breathing
+thyroiditis
+photopsia
+diplopia
+breast painfrequency
+nipple
+unconjugated blood bilirubin
+increase blood lactate dehydrogenase
+rhinitis
+eye hemorrhage
+flush
+hemorrhage
+exertional dyspnea
+nilotinib
+paresthesia
+epistaxis
+dysphonia
+musculoskeletal stiffness
+red spot on the skin
+increase thirst
+esophagitis
+burn
+candidiasis
+irregular heartbeat recurrent
+pancytopenia
+bleed gum
+decrease appetite
+weight change
+elevated alkaline phosphataseuncommon
+tongue
+insulin c peptide
+bone pain
+oral papilloma
+tingle around the mouth
+convulsion
+urticaria
+pus at the root of the hair
+dry mouth
+pruritus
+cardiac failure
+pollakiuriauncommon
+loss of voice
+tenderness around the eye
+dry eye xerophthalmia
+albumin
+subcutaneous abscess
+ecchymosis
+increase blood
+esophageal pain
+fda
+hair
+eye irritation
+localized edema
+pulmonary hypertension
+coronary artery stenosis
+muscle cramp in the hand
+tremble
+atrioventricular block
+skin pain
+no blood pressure
+gastroesophageal reflux
+peripheral edema
+toxic hepatitis
+pain in hairy area
+hematuria
+hiatus hernia
+hypokalemia
+cough produce mucus
+musculoskeletal pain
+back pain
+cyanosis
+herpes virus infection
+upper respiratory tract infection
+increase blood ureafrequency
+sneeze
+thrombosis
+hyperbilirubinemia increase blood bilirubin
+extrasystole

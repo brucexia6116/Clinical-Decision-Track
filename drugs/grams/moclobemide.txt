@@ -1,6 +1,111 @@
-page
-undergoing maintenance
-page
-problem
-drugs
-com homepage.
+racing heartbeat
+pounding
+irregular heartbeat
+neck stiffness
+severe throbbing headache
+back of the head
+slow heartbeat
+moderate headache
+pressure in the head
+anxiety
+blurred vision
+other changes in vision
+dizziness
+faintness
+lightheadedness
+getting
+sitting
+lying position
+racing heartbeat
+high blood pressure
+irritability
+nervousness
+pounding
+irregular heartbeat
+restlessness
+unusual tiredness
+weakness
+aggressive behavior
+bleeding gums
+burning
+prickling
+tingling sensations
+chest pain
+confusion
+increased depression
+other mood
+mental changes
+difficulty with speaking
+irregular heart beat
+feeling of something in the eye
+general feeling of illness
+headache (severe)
+increase in urination
+increased sensitivity of eyes
+light
+prolonged menstrual periods
+irritation
+soreness of the mouth
+itching
+redness
+swelling of the eye
+loss of balance control
+loss of interest in self
+surroundings
+memory problems
+pain
+straining
+urine
+stool
+painful urination
+restlessness
+desire
+moving
+ringing
+noise in the ears
+seeing
+hearing
+feeling things
+skin rash
+hives
+itching
+stomach pain
+burning
+slow heartbeat
+troubled breathing
+twisting movements of body
+uncontrolled movements
+face
+neck
+agitation
+confusion
+convulsions (seizures)
+decreased reflexes
+extreme drowsiness
+high blood pressure
+loss of memory
+nausea
+slurred speech
+vomiting
+dryness of mouth
+trembling
+shaking of arms
+legs
+stomach pain
+discomfort
+change
+sense of taste
+constipation
+diarrhea
+dizziness
+drowsiness
+feeling of warmth of the face
+neck
+arms
+upper chest
+heartburn or indigestion
+decreased appetite
+increased sweating
+muscle pain
+nightmares
+trouble sleeping.
