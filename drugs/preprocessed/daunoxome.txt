@@ -1,6 +1,5 @@
 Common side effects of DaunoXome include: back pain, chest tightness, fever, and flushing.
 See below for a comprehensive list of adverse effects.
-If any of the following side effects occur while taking daunorubicin liposomal, check with your doctor or nurse as soon as possible:
 Liposomal daunorubicin causes the urine to turn reddish in color, which may stain clothes.
 This is not blood.
 It is to be expected and only lasts for  or  days after each dose is given.
@@ -25,7 +24,7 @@ Chemical thrombophlebitis and local necrosis have occurred in cases of extravasa
 Cases of palmar-plantar erythrodysesthesia syndrome (hand-foot syndrome) have been reported in  patients receiving high dose daunorubicin liposomal (the active ingredient contained in DaunoXome) therapy ( to  mg/m daily for  days) in combination with cytarabine, and in one patient receiving recommended doses ( mg/m).
 Gastrointestinal side effects have included  nausea ( mild,  moderate,  severe), diarrhea ( mild/moderate,  severe), abdominal pain ( mild/moderate,  severe), vomiting ( mild,  moderate,  severe), anorexia ( mild/moderate,  severe), stomatitis ( mild/moderate,  severe), constipation ( mild/moderate), and tenesmus ( mild/moderate,  severe).
 Increase appetite, dysphagia, GI hemorrhage, gastritis, gingival bleeding, hemorrhoids, hepatomegaly, melena, dry mouth, and tooth caries have been reported in  or fewer patients (n=).
-Local side effects have included thrombophlebitis and necrosis following extravasation, and injection site inflammation (<=).
+Local side effects have included thrombophlebitis and necrosis following extravasation, and injection site inflammation (
 Hepatic serum transaminase and bilirubin concentration elevations have been transiently observed.
 Renal side effects have rarely included new or worsened renal insufficiency, probably associated with hyperuricemia and/or dehydration.
 One case report describes chest and back pain in a patient receiving a -hour infusion of high dose daunorubicin liposomal (the active ingredient contained in DaunoXome) ( mg/m).
@@ -39,10 +38,10 @@ Metabolic side effects have included dehydration and thirst in  or fewer patient
 Respiratory side effects have included dyspnea ( mild/moderate,  severe), cough ( mild/moderate,  severe), rhinitis ( mild/moderate), and sinusitis ( mild/moderate).
 Hemoptysis, hiccups, pulmonary infiltration, and increased sputum have been reported in  or fewer patients (n=).
 Ocular side effects have included abnormal vision ( mild.
-/moderate,  severe), conjunctivitis (<=), and eye pain (<=).
+/moderate,  severe), conjunctivitis (
 Genitourinary side effects have included dysuria, nocturia and polyuria in  or fewer patients (n=).
 Endocrine side effects have included increased sweating ( mild/moderate,  severe).
-Other side effects have included malaise ( mild/moderate,  severe), influenza-like symptoms ( mild/moderate), lymphadenopathy (<=), and splenomegaly (<=) (n=).
+Other side effects have included malaise ( mild/moderate,  severe), influenza-like symptoms ( mild/moderate), lymphadenopathy (
 Musculoskeletal side effects have included rigors ( mild/moderate), back pain ( mild/moderate), arthralgia ( mild/moderate), and myalgia ( mild/moderate).
 Hypersensitivity reactions have been reported ( mild/moderate,  severe) (n=).
 Cough or hoarseness

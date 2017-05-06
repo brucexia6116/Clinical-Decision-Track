@@ -1,47 +1,20 @@
-Other dosage forms:
-The most serious side effects reported with metronidazole (the active ingredient contained in Metro) have included convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy (primarily characterized by numbness or paresthesia of an extremity).
-Persistent peripheral neuropathy has been reported with prolonged oral administration of metronidazole.
-Headache  and dizziness  were reported in patients using the extended-release tablet formulation.
-Headaches were considered severe in  of these patients.
-A rare but serious side effect of metronidazole (the active ingredient contained in Metro) was peripheral neuropathy which was thought to be related to dose and duration of therapy.
-Most cases occurred after doses of  to  mg per day for at least  days, or a total dose of  grams.
-Neuropathy was generally located in the lower extremities and presented with numbness, tingling, and paresthesias.
-Patients should be advised to discontinue metronidazole if they experience these effects.
-Neuropathy may be persistent despite discontinuation of metronidazole.
-Seizures associated with metronidazole were rare, but did occur.
-Several cases of MRI abnormalities of the dentate nuclei associated with symptoms of ataxia and dysarthria have been reported.
-The symptoms and dentate nuclei lesions resolved several weeks after discontinuation of metronidazole.
-These symptoms and metronidazole-induced lesions in the brain stem and cerebellar nuclei have also been described in rat studies.
-Very common ( or more): HeadacheCommon ( to ): DizzinessFrequency not reported: Encephalopathy, aseptic meningitis, peripheral neuropathy (characterized mainly by numbness or paresthesia of an extremity), convulsive seizures, vertigo, syncope, incoordination, ataxia, confusion, dysarthria, weakness, reversible abnormalities in the cerebellar dentate nuclei
-Very common ( or more): NauseaCommon ( to ): Taste perversion (metallic taste), abdominal pain, diarrhea, dry mouthRare (less than ): Pseudomembranous colitis, pancreatitisFrequency not reported: Sharp unpleasant metallic taste, vomiting, abdominal discomfort, epigastric distress, abdominal cramping, constipation, proctitis, coating of the tongue (furry tongue), glossitis, stomatitis, taste of alcoholic beverages modified
-Nausea , taste perversion (metallic taste; ), abdominal pain , diarrhea , and dry mouth  in patients using the extended-release tablet formulation.
-Nausea was considered severe in less than  of these patients.
-Furry tongue, glossitis, and stomatitis may be associated with sudden overgrowth of Candida.
-Although metronidazole has been used to treat pseudomembranous colitis, it has rarely also been implicated as a causative agent.
-These rare cases have been successfully treated with vancomycin.
-Very common ( or more): VaginitisCommon ( to ): Genital pruritus, abnormal urine, dysmenorrhea, urinary tract infectionRare (less than ): Darkened urineFrequency not reported: Dysuria, cystitis, polyuria, incontinence, vulvovaginal candidiasis, vaginal itching, dyspareunia, sense of pelvic pressure
-Vaginitis , genital pruritus , abnormal urine , dysmenorrhea , and urinary tract infection  were reported in patients using the extended-release tablet formulation.
-Instances of darkened urine have been investigated.
-The pigment responsible has not been positively identified; however, it is most likely a metabolite of metronidazole and appears to have no clinical significance.
-Bacterial infection , influenza-like symptoms , and moniliasis  were reported in patients using the extended-release tablet formulation.
-A disulfiram-like reaction has been reported in some patients drinking ethanol while taking metronidazole (the active ingredient contained in Metro)   Patients have experienced abdominal distress, vomiting, flushing, nausea, headache, and hypotension.
-Patients should be advised to refrain from all forms of ethanol while taking metronidazole and for at least  hours after the last dose.
-Common ( to ): Bacterial infection, influenza-like symptoms, moniliasisFrequency not reported: Fever, overgrowth of Candida, disulfiram-like reaction (abdominal distress, nausea, vomiting, flushing, hypotension, or headache) with ethanol
-Upper respiratory tract infection , rhinitis , sinusitis , and pharyngitis  were reported in patients using the extended-release tablet formulation.
-Common ( to ): Upper respiratory tract infection, rhinitis, sinusitis, pharyngitis
-Metronidazole (the active ingredient contained in Metro) has rarely been associated with a serum sickness-like reaction which presented as arthralgias, malaise, fever, chills, pruritus, and rash.
-Rare (less than ): Serum sickness-like reactionFrequency not reported: Hypersensitivity (including urticaria, erythematous rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth [or vagina or vulva], fever), fixed drug eruptions, cross-sensitivity to other nitroimidazole derivatives
-Rare (less than ): Reversible thrombocytopeniaFrequency not reported: Reversible neutropenia (leukopenia)
-Frequency not reported: Flattening of the T-wave in ECG tracings
-Frequency not reported: Erythematous rash, pruritus
-Frequency not reported: Thrombophlebitis (after IV infusion)
-Thrombophlebitis can be minimized or avoided by avoiding prolonged use of indwelling IV catheters.
-Frequency not reported: Irritability, depression, decreased libido, insomnia, disorientation, agitation, hallucinations
-Frequency not reported: Optic neuropathy
-Frequency not reported: Anorexia
-Frequency not reported: Fleeting joint pains (sometimes resembling "serum sickness")
-Breast and colon cancer have been reported in Crohn's disease patients treated with high doses of metronidazole (the active ingredient contained in Metro) for extended periods of time.
+The most serious side effects reported were convulsive seizures, encephalopathy, aseptic meningitis, and optic and peripheral neuropathy (characterized by numbness or paresthesia of an extremity).
+Very common ( or more): Headache (up to )Common ( to ): Taste metallic, dizzinessRare ( to ): Drowsiness, ataxia, peripheral neuropathy, transient epileptiform seizure, encephalopathyVery rare (less than ): Acute cerebellar syndrome, paralysis, dysarthria, gait impaired, nystagmus, tremor, convulsion, incoordinationFrequency not reported: Convulsive seizure, headache, syncope, paresthesia, optic neuritis, peripheral sensory neuropathy
+Very common ( or more): Nausea (up to )Common ( to ): Abdominal pain, diarrhea, dry mouth, vomiting, stomatitis, glossitisRare (less than ): Pancreatitis, mucositis, epigastralgiaFrequency not reported: Epigastric pain/distress, abdominal cramping, constipation, furry tongue, glossitis, stomatitis, oral mucositis, taste disorder, dyspepsia, pseudomembranous colitis, tongue discolored
+Very common ( or more): Vaginitis Common ( to ): Pruritus genital, urine abnormal, dysmenorrhea, moniliasis, urinary tract infectionRare (less than ): Darkened urineFrequency not reported: Vaginal dryness, vulva dryness, dysuria, polyuria, incontinence, pelvic pressure, cystitis, candida infection proliferated, dyspareunia, procitiits, pyuria
+Common ( to ): Bacterial infection, influenza-like symptoms, weaknessRare (less than ): Fever, aseptic meningitisFrequency not reported: Vertigo, tinnitus, hearing impaired, hearing loss, sensorineural hearing loss, overgrowth of Candida, disulfiram-like reaction
+Common ( to ): Upper respiratory tract infection, rhinitis, sinusitis, pharyngitisFrequency not reported: Nasal congestion, hiccup
+Uncommon ( to ): LeukopeniaRare (less than ): Neutropenia, neutropenia reversible, thrombocytopenia, pancytopenia, agranulocytosis, blood dyscrasiaFrequency not reported: Bone marrow aplasia, bone marrow depression
+Frequency not reported: Flat T-wave, flushing, QT interval prolonged
+Common ( to ): PruritusRare ( to ): Stevens-Johnson Syndrome, toxic epidermal necrolysis, skin rash, erythema multiforme, pustulosis, Quincke edemaVery rare (less than ): Fixed drug eruptionFrequency not reported: Erythematosus rash, pruritus, urticaria, mild erythematous eruption, pustular eruption, angioedema
+Frequency not reported: Thrombophlebitis
+Very rare (less than ): Confusion, hallucination, psychotic disorderFrequency not reported: Irritability, depression, insomnia, libido decreased, psychosis, disorientation, psychotic reaction, depressed mood
+Rare ( to ): Optic neuropathy, diplopia, myopiaVery rare (less than ): Light sensitivity, vision disorderFrequency not reported: Vision blurred, visual acuity decreased, color vision change
+Rare (less than ): Anorexia
+Common ( to ): MyalgiaVery rare (less than ): Stiff neck, arthralgiaFrequency not reported: Fleeting joint pain
 Frequency not reported: Breast cancer, colon cancer
+Rare ( to ): Cholestatic hepatitis, liver function test abnormalVery rare (less than ): Mixed hepatitis, hepatocellular injury, jaundice, liver failure, liver transplantFrequency not reported: Drug-induced hepatitis, liver enzymes increased
+Rare (less than ): Anaphylaxis, anaphylactic shock, Herxheimer reactionFrequency not reported: Reaction serum sickness-like, hypersensitivity reaction
 intravenous powder for solution, intravenous solution
 Agitation
 back pain

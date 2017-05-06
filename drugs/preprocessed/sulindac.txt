@@ -1,8 +1,6 @@
 Commonly reported side effects of sulindac include: increased liver enzymes.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, sulindac may cause unwanted side effects that require medical attention.
-If any of the following side effects occur while taking sulindac, check with your doctor immediately:
-If any of the following symptoms of overdose occur while taking sulindac, get emergency help immediately:
 Some sulindac side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
@@ -14,9 +12,9 @@ Common ( to ): NervousnessFrequency not reported: Depression, psychic disturbanc
 Common ( to ): Rash, pruritusFrequency not reported: Alopecia, photosensitivity, erythema multiforme, toxic epidermal necrolysis, Stevens-Johnson syndrome, exfoliative dermatitis, ecchymosis, purpura, urticaria, angioneurotic edema, fulminant necrotizing fasciitis, sweating
 Frequency not reported: Thrombocytopenia, leukopenia, agranulocytosis, neutropenia, bone marrow depression, aplastic anemia, hemolytic anemia, prothrombin time increased
 Frequency not reported: Congestive heart failure, palpitation, hypertension, arrhythmia
+Frequency not reported: Anaphylaxis, hypersensitivity vasculitis
 A potentially fatal apparent hypersensitivity reaction has been reported.
 Signs and symptoms of such reaction include constitutional symptoms (, fever, chills, diaphoresis, and flushing), cutaneous reactions (, rash or other dermatologic reactions), conjunctivitis, involvement of major organs (, changes in liver function including hepatic failure, jaundice, pancreatitis, pneumonitis with or without pleural effusion, leukopenia, leukocytosis, eosinophilia, disseminated intravascular coagulation, anemia, renal impairment, including renal failure), and other less specific findings (, adenitis, arthralgia, arthritis, myalgia, fatigue, malaise, hypotension, chest pain, and tachycardia).
-Frequency not reported: Anaphylaxis, hypersensitivity vasculitis
 Rare cases of metabolites of this drug being found in common bile duct "sludge" and biliary calculi have been reported in patients with symptoms of cholecystitis who underwent a cholecystectomy.
 Frequency not reported: Jaundice, cholestasis, hepatitis, hepatic failure, liver function abnormalities
 Frequency not reported: Renal impairment, renal failure, interstitial nephritis, nephrotic syndrome, renal calculi

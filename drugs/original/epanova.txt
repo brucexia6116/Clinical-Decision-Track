@@ -1,18 +1,16 @@
-Gastrointestinal side effects including eructation (4.9%), dyspepsia (3.1%), anorexia, constipation, dry mouth, dysphagia, colitis, fecal incontinence, gastritis, gastroenteritis, gastrointestinal disorder, increased appetite, intestinal obstruction, melena, pancreatitis, tenesmus, and vomiting have been reported.
-General side effects including infection (4.4%), flu syndrome (3.5%), back pain (2.2%), pain (1.8%), enlarged abdomen, asthenia, body odor, chest pains, chills, suicide, fever, generalized edema, fungal infection, malaise, neck pain, sudden death, and viral infection have been reported.
-Other side effects including taste perversion (2.7%) and lymphadenopathy have been reported.
-Dermatologic side effects including rashes (1.8%), alopecia, eczema, pruritus, and sweating have been reported.
-One study concluded that omega-3 fatty acid supplementation reduced heart rate and QRS duration in heart transplant recipients who were presumably devoid of vagal intervention.  These findings suggest that omega-3 fatty acids may modify the electrophysiologic properties of the myocardium itself.
-Cardiovascular side effects including angina pectoris (1.3%), arrhythmia, bypass surgery, cardiac arrest, hyperlipidemia, hypertension, migraine, myocardial infarct, myocardial ischemia, occlusion, peripheral vascular disorder, syncope, and tachycardia have been reported.
-Musculoskeletal side effects including rheumatoid arthritis, arthralgia, arthritis, myalgia, pathological fracture, and tendon disorder have been reported.
-Metabolic side effects including edema, hyperglycemia, increased ALT and increased AST have been reported.
-Nervous system side effects including depression, dizziness, emotional lability, facial paralysis, insomnia, vasodilation, and vertigo have been reported.
-Respiratory side effects including asthma, bronchitis, increased cough, dyspnea, epistaxis, laryngitis, pharyngitis, pneumonia, rhinitis, and sinusitis have been reported.
-Genitourinary side effects including cervical disorder, endometrial carcinoma, epididymitis, and impotence have been reported.
-Hypersensitivity side effects including anaphylactic reaction have been reported.
-Oncologic side effects including neoplasm and central nervous system neoplasia have been reported.
-Ocular side effects including cataract have been reported.
-Hematologic side effects including hemorrhagic diathesis have been reported.
+Common (1% to 10%): Eructation, dyspepsia, nausea, gastrointestinal disorders (including abdominal distension, abdominal pain, constipation, diarrhea, flatulence, gastroesophageal reflux disease, vomiting)Uncommon (0.1% to 1%): Gastrointestinal hemorrhage, gastroenteritisRare (less than 0.1%): Gastrointestinal painVery rare (less than 0.01%): Lower gastrointestinal hemorrhage
+The most common adverse events were eructation, dyspepsia, and taste perversion
+Common (1% to 10%): Infection, painUncommon (0.1% to 1%): Death
+Common (1% to 10%): RashUncommon (0.1% to 1%): Atopic dermatitisRare (less than 0.1%): Urticaria, acne, rash pruriticFrequency not reported: Pruritus
+Uncommon (0.1% to 1%): Hypotension
+Common (1% to 10%): Back pain
+Uncommon (0.1% to 1%): Hyperglycemia, gout, high triglyceridesVery rare (less than 0.01%): Blood lactate dehydrogenase increased
+Common (1% to 10%): Taste perversion Uncommon (0.1% to 1%): Dizziness, dysgeusia, headache, hyperactivity
+Uncommon (0.1% to 1%): EpistaxisVery rare (less than 0.01%): Nasal drynessFrequency not reported: Influenza
+Rare (less than 0.1%): HypersensitivityPostmarketing reports: Anaphylactic reaction
+Very rare (less than 0.01%): White blood count increased, Frequency not reported: Slight prolongation of bleeding timePostmarketing reports: Hemorrhagic diathesis
+Uncommon (0.1% to 1%): Tics, tantrum, insomnia
+Rare (less than 0.1%): Liver disorders (including increased ALT, increased AST, and transaminases increased)
 Cough
 difficulty swallowing
 dizziness

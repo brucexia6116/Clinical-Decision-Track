@@ -2,7 +2,6 @@ Commonly reported side effects of remifentanil include: nausea.
 Other side effects include: shivering and diaphoresis.
 See below for a comprehensive list of adverse effects.
 As well as its needed effects, remifentanil may cause unwanted side effects that require medical attention.
-If any of the following side effects occur while taking remifentanil, check with your doctor or nurse immediately:
 Some remifentanil side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
@@ -21,9 +20,8 @@ Dershwitz and colleagues describe a case in which a patient who was taking  mg o
 These symptoms responded to atropine, ephedrine and phenylephrine.
 Remifentanil was continued without further sequelae.
 Rigidity may be lessened by concomitant administration of a muscle relaxant.
-Musculoskeletal side effects have included muscle rigidity (< to ) which has occurred more frequently during induction and maintenance than postoperatively.
-Nervous system side effects including dizziness and agitation have been relatively rare (<).
-A case of generalized tonic-clonic activity has also been reported.
+Musculoskeletal side effects have included muscle rigidity (
+Nervous system side effects including dizziness and agitation have been relatively rare (
 Other side effects have included postoperative shivering, chills, and fever ( to ).
 Headache has been reported to occur more frequently in monitored anesthesia care patients  than in general anesthesia patients ( to ).
 Dermatologic side effects have included pruritus ( to ) and sweating .

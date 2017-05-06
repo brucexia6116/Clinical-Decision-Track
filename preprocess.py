@@ -64,7 +64,7 @@ def sentence_segment(drugname):
 
 
 if __name__ == "__main__":
-	drug_name_file = open('./drugs_com_web_names.txt','r')
+	drug_name_file = open('./valid_drugs_com_web_names.txt','r')
 	drug_names = drug_name_file.readlines()
 	drug_names = [drug_name.replace('\n','') for drug_name in drug_names]
 	# sentence_segment('all day allergy')
@@ -77,6 +77,7 @@ if __name__ == "__main__":
 	#   time.sleep(1)
 	# print ('All tasks completed!')
 	# pool.close()
+	print len(drug_names)
 	for drug_name in drug_names:
 		sentence_segment(drug_name)
 	# for drugname in drug_names:

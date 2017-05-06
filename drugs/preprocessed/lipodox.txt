@@ -1,7 +1,6 @@
 Common side effects of Lipodox include: severe anemia, severe erythrodysesthesia syndrome, nausea, vomiting, diarrhea, stomatitis, erythrodysesthesia syndrome, alopecia, anemia, asthenia, bone marrow depression, neutropenia, thrombocytopenia, and anorexia.
 Other side effects include: asthma, syncope, severe neutropenia, back pain, chest pain, dyspnea, facial edema, fever, headache, hypotension, pruritus, skin rash, tachycardia, pharyngitis, and chills.
 See below for a comprehensive list of adverse effects.
-If any of the following side effects occur while taking doxorubicin liposomal, check with your doctor or nurse immediately:
 Myelosuppression, palmar-plantar erythrodysesthesia (hand-foot syndrome), stomatitis, cardiac toxicity, and infusion-related reactions are the major dose-limiting toxicities of doxorubicin liposomal (the active ingredient contained in Lipodox) The side effects listed in this section were for the most part compiled from  clinical trials with ovarian cancer patients (n=) and from  trials with AIDS-related Kaposi's sarcoma patients (n=).
 Causality was difficult for AIDS patients due to underlying disease and concurrent drug therapy.
 Cardiovascular effects have been reported in  of Kaposi's sarcoma patients;  were possibly or probably related to doxorubicin liposomal (the active ingredient contained in Lipodox)   Nine cases of cardiomyopathy and/or congestive heart failure were reported.
@@ -9,9 +8,7 @@ Seven  severe events included arrhythmia, cardiomyopathy, heart failure, pericar
 Other cardiac side effects have included chest pain, and hypotension  to  of patients.
 Other reported effects have included hypertension, angina pectoris, postural hypotension, palpitations, syncope, shock, bradycardia, phlebitis, cardiomegaly, thrombophlebitis, hemorrhage, palpitation, syncope, bundle branch block, cardiac arrest, thrombosis, and ventricular arrhythmia in less than .
 Cardiovascular side effects of conventional doxorubicin have included congestive heart failure due to the development of left ventricular (LV) systolic dysfunction in  to  of patients.
-Retrospective data have shown that the incidence of clinical heart failure in patients with preexisting LV systolic dysfunction (ejection fraction [LVEF] < ), who experienced a decline of  or more in absolute LVEF, and who received at least  mg/m cumulative dose, is approximately .
-(Data have shown right ventricular septal wall motion may also be affected and that LV diastolic dysfunction may precede the development of doxorubicin-induced LV systolic dysfunction.
-)Early effects of anthracyclines also include extremely rare cases of pericarditis-myocarditis (which can affect patients with no prior history of cardiac disease and which carries a high mortality rate of about ), left ventricular dysfunction (which may lead to clinically significant heart failure in patients with limited cardiac reserve), and arrhythmias, the most common of which is sinus tachycardia.
+Retrospective data have shown that the incidence of clinical heart failure in patients with preexisting LV systolic dysfunction (ejection fraction [LVEF] Early effects of anthracyclines also include extremely rare cases of pericarditis-myocarditis (which can affect patients with no prior history of cardiac disease and which carries a high mortality rate of about ), left ventricular dysfunction (which may lead to clinically significant heart failure in patients with limited cardiac reserve), and arrhythmias, the most common of which is sinus tachycardia.
 Although rhythm disturbances are common after acute administration they are rarely of clinical importance.
 Isolated cases of symptomatic supraventricular tachycardia, heart block, and ventricular arrhythmias (some sudden and fatal) have also been reported.
 The risk of heart failure is significantly increased after total doses of  mg/m ( to  mg/m if there is history of prior radiation therapy which included the heart or the area around it or use of other potentially cardiotoxic agents, such as cyclophosphamide).
@@ -26,8 +23,7 @@ Limited animal data suggest vitamins A and E, adenosine, coenzyme Q, N-acetylcys
 The benefits of doxorubicin must be carefully weighed against the risks in patients with a demonstrable decrease in cardiac function.
 Hematologic side effects include dose-dependent myelosuppression which may be profound.
 Anemia is most common, followed by neutropenia, leukopenia and thrombocytopenia.
-Hematologic events compiled from ovarian cancer trials have included leukopenia ( </mm,  </mm,  cytokine support), neutropenia ( </mm,  </mm,  febrile neutropenia), anemia ( < g/dL,  < g/dL,  RBC transfusions,  epoetin alpha support), thrombocytopenia ( <,/mm,  < ,/mm,  platelet transfusions), hypochromic anemia (<), ecchymosis (<), and petechiae (<).
-Side effects compiled from Kaposi's sarcoma trials have included anemia , hypochromic anemia , thrombocytopenia , hemolysis ( to ), increased prothrombin time ( to ), eosinophilia (<), petechiae (<), and decreased thromboplastin (<).
+Hematologic events compiled from ovarian cancer trials have included leukopenia ( Side effects compiled from Kaposi's sarcoma trials have included anemia , hypochromic anemia , thrombocytopenia , hemolysis ( to ), increased prothrombin time ( to ), eosinophilia (
 The leukocyte count usually reaches a nadir at  to  days after treatment.
 Severe and/or persistent myelosuppression may result in superinfection and/or hemorrhage.
 GCSF has been used clinically to avoid dose reductions or interruptions in dose schedules.
@@ -52,7 +48,7 @@ Dyspepsia, gastritis, gingivitis, ulcerative proctitis, colitis, esophageal ulce
 Nausea and vomiting are preventable with appropriate antiemetic therapy.
 Stomatitis or other ulcerations typically occur  to  days after administration and, if severe, can be complicated by bleeding or local infection.
 Severe cases of colonic ulceration can be fatal.
-Hypersensitivity side effects have included acute infusion-associated reactions (flushing, shortness of breath, facial swelling, headache, chills, back pain, tightness in the chest or throat, and/or hypotension) in  to  of patients treated with doxorubicin liposomal (the active ingredient contained in Lipodox)   Other side effects have included unspecified allergic reactions ( to ) and anaphylactoid reaction (<).
+Hypersensitivity side effects have included acute infusion-associated reactions (flushing, shortness of breath, facial swelling, headache, chills, back pain, tightness in the chest or throat, and/or hypotension) in  to  of patients treated with doxorubicin liposomal (the active ingredient contained in Lipodox)   Other side effects have included unspecified allergic reactions ( to ) and anaphylactoid reaction (
 Renal side effects have included rare cases of new or worsened renal insufficiency.
 A single case of rapidly progressive glomerulonephritis without evidence of a secondary cause or immunologic mechanism has been reported.
 Albuminuria has been reported in  to  of Kaposi's sarcoma patients.
@@ -68,7 +64,7 @@ Endomyocardial biopsy data have demonstrated that the cellular morphological cha
 Prior cardiac or mediastinal  XRT appears to portend a higher risk of doxorubicin-induced cardiomyopathy.
 Oncologic side effects including secondary leukemia have been associated with prior exposure to doxorubicin.
 A single case of skin cancer that developed at the site of doxorubicin extravasation  years prior has also been reported.
-Ocular side effects have included conjunctivitis (less than  to ), retinitis ( to ), amblyopia (<), blepharitis (<), abnormal vision (<), blindness (<), conjunctivitis (<), eye pain (<), optic neuritis (<), visual field defect (<).
+Ocular side effects have included conjunctivitis (less than  to ), retinitis ( to ), amblyopia (
 Genitourinary side effects compiled from ovarian cancer trials have included urinary tract infection, leukorrhea, cystitis, nocturia, breast pain, mastitis, oliguria, vaginitis, vaginal hemorrhage, and vaginal moniliasis in less than .
 Side effects compiled from Kaposi's sarcoma trials have included balanitis, cystitis, dysuria, and genital edema in less than .
 Musculoskeletal side effects have included myalgia in  to  of patients, and arthralgia, bone pain, myositis, and myasthenia in less than .
@@ -83,7 +79,7 @@ Peripheral edema, generalized edema, dehydration, hypercalcemia, hypocalcemia, h
 Increased lactic dehydrogenase, dehydration, hyperlipidemia, hypolipidemia, hyperuricemia, hypophosphatemia, hypoproteinemia, ketosis, and hypochloremia have been reported in less than .
 Hepatic side effects compiled from clinical trials have included SGPT increase ( to ) and hyperbilirubinemia ( to ).
 SGOT elevations, cholestatic jaundice, hepatic failure, hepatitis, hepatosplenomegaly, and jaundice have been reported in less than .
-Side effects affecting the special senses have included taste perversion (less than  to ), parosmia (<), taste loss (<), otitis media (<), tinnitus (<) and loss of the sense of taste.
+Side effects affecting the special senses have included taste perversion (less than  to ), parosmia (
 Side effects compiled from ovarian cancer trials have included mucous membrane disorder  and fever .
 Chills, infection, chest pain, back pain, enlarged abdomen, and malaise were reported in  to .
 Cellulitis, ascites, flu syndrome, neck pain, moniliasis, facial edema, chills and fever, pelvic pain, and substernal chest pain were reported in less than .

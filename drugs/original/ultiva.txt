@@ -1,6 +1,5 @@
 Common side effects of Ultiva include: nausea. Other side effects include: shivering and diaphoresis.  See below for a comprehensive list of adverse effects.
 As well as its needed effects, remifentanil (the active ingredient contained in Ultiva) may cause unwanted side effects that require medical attention. 
-If any of the following side effects occur while taking remifentanil, check with your doctor or nurse immediately:
 Some remifentanil side effects may not need any medical attention. As your body gets used to the medicine these side effects may disappear. Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
 Respiratory side effects have included respiratory depression, apnea, and hypoxia.  These effects have tended to occur most frequently in the immediate postoperative period.
 Extremely small doses of remifentanil can cause serious respiratory depression.Amin and colleagues have shown that respiratory depression due to remifentanil is reversed within 10 minutes upon withdrawal of the drug.  The administration of naloxone has not been shown to be more effective than withdrawal of remifentanil alone.
@@ -8,8 +7,8 @@ Gastrointestinal side effects including nausea (22% to 44%) and vomiting (8% to 
 Cardiovascular side effects such as hypotension (4% to 19%) and bradycardia (1% to 7%) have been reported to occur most frequently during the induction and maintenance period.  Hypertension and tachycardia have been rare events.
 Bradycardia and hypotension are probably due to a centrally mediated increase in vagal nerve activity.  Glycopyrrolate, atropine and/or ephedrine may be useful in treating these effects.  Unlike morphine, decreases in blood pressure are not due to histamine release.Dershwitz and colleagues describe a case in which a patient who was taking 100 mg of metoprolol twice a day for hypertension experienced severe bradycardia and hypotension within 2 minutes of receiving remifentanil intravenously at 0.3 mg/kg/min.  These symptoms responded to atropine, ephedrine and phenylephrine.  Remifentanil was continued without further sequelae.
 Rigidity may be lessened by concomitant administration of a muscle relaxant.
-Musculoskeletal side effects have included muscle rigidity (<1% to 11%) which has occurred more frequently during induction and maintenance than postoperatively.
-Nervous system side effects including dizziness and agitation have been relatively rare (<5%).  A case of generalized tonic-clonic activity has also been reported.
+Musculoskeletal side effects have included muscle rigidity (
+Nervous system side effects including dizziness and agitation have been relatively rare (
 Other side effects have included postoperative shivering, chills, and fever (1% to 5%).  Headache has been reported to occur more frequently in monitored anesthesia care patients (18%) than in general anesthesia patients (1% to 2%).
 Dermatologic side effects have included pruritus (1% to 18%) and sweating (6%).  Dermatologic side effects have been more common in patients receiving monitored anesthesia care.
 It is possible that some side effects of Ultiva may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.

@@ -1,7 +1,6 @@
-Other dosage forms:
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
-Anxiety; dizziness or lightheadedness; drowsiness; enlarged pupils; headache; loss of appetite; restlessness; sleeplessness; tension.
-Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); blurred or double vision; chest pain; clumsiness or unsteadiness; convulsions; fast or irregular heartbeat; hallucinations; pounding in the chest; psychotic episodes (bizarre behavior); severe dry mouth, nose, or throat; shortness of breath; sore throat and fever; trouble urinating; unusual bleeding or bruising; unusual tiredness or weakness.
+Dizziness; drowsiness; dry mouth, throat, and nose; thickening of mucus in nose or throat.
+Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); fast or irregular heartbeat; fever; mental or mood changes; shortness of breath; sore throat; unusual bleeding or bruising; unusual tiredness or weakness.
 Nervous system side effects have included central nervous system (CNS) depression, resulting in drowsiness and sedation in nearly 50% of patients treated. This effect has often been transient and ceased with continued use.  Motor skills have be impaired and patients should be advised to avoid tasks which require attention.  Patients should also avoid concomitant use with alcohol and other sedative-hypnotic drugs.  Dyskinesias have rarely been reported following chronic use of brompheniramine (the active ingredient contained in Bromax) 
 A few cases of dyskinesias and tremors, often of the face, have been reported in patients whose chronic use of brompheniramine extended over a period of up to 10 years.  Some of these cases were only partially relieved by discontinuation of the drug.  Haloperidol was successful in relieving symptoms in these patients.  Spasmodic torticollis has been reported in a child given brompheniramine over an eight month period.
 Gastrointestinal side effects have include nausea, dry mouth and constipation.
@@ -9,4 +8,4 @@ Cardiovascular effects of brompheniramine (the active ingredient contained in Br
 Ocular side effects have included blurred vision, diplopia, and dry eyes due to anticholinergic effects.
 Genitourinary side effects have included dysuria, urinary hesitancy, decrease in urine flow, and, in rare cases, acute urinary retention.
 Hematologic side effects have included rare cases of hemolytic anemia, thrombocytopenia, and agranulocytosis.
-12-hour sustained-release tablets, 24-hour sustained-release capsules
+chewable tablets, liquid, oral suspension

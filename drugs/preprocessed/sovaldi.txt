@@ -1,5 +1,4 @@
 As well as its needed effects, sofosbuvir (the active ingredient contained in Sovaldi) may cause unwanted side effects that require medical attention.
-If any of the following side effects occur while taking sofosbuvir, check with your doctor immediately:
 Some sofosbuvir side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
@@ -16,11 +15,11 @@ Very common ( or more): Nausea (up to ), diarrhea (up to ), vomitingCommon ( to 
 Very common ( or more): Pruritus (up to ), rash Common ( to ): Alopecia, dry skin
 Very common ( or more): Insomnia (up to ), irritability (up to )Common ( to ): Depression, anxiety, agitationUncommon ( to ): Severe depression (including suicidal ideation, suicide)
 Severe depression was reported, particularly in patients with history of psychiatric illness.
+Very common ( or more): Decreased hemoglobin (up to ), anemia (up to ), neutropenia (up to ), decreased neutrophils (up to ), decreased lymphocyte count, decreased platelet countUncommon ( to ): Pancytopenia
 Decreased hemoglobin (less than  g/dL: up to ; less than  g/dL: up to ), decreased neutrophils ( to less than  x []/L: up to ; less than  x []/L: up to ), and decreased platelets ( to less than  x []/L: up to ) have been reported.
 Pancytopenia was reported, particularly in patients using concomitant pegylated interferon.
-Very common ( or more): Decreased hemoglobin (up to ), anemia (up to ), neutropenia (up to ), decreased neutrophils (up to ), decreased lymphocyte count, decreased platelet countUncommon ( to ): Pancytopenia
-Serious symptomatic bradycardia has been reported in patients taking amiodarone who started therapy with this drug in combination with another hepatitis C virus direct-acting antiviral.
 Postmarketing reports: Symptomatic bradycardia (including cases requiring pacemaker intervention)
+Serious symptomatic bradycardia has been reported in patients taking amiodarone who started therapy with this drug in combination with another hepatitis C virus direct-acting antiviral.
 Very common ( or more): Decreased appetite (up to )Common ( to ): Decreased weight
 Very common ( or more): Myalgia (up to ), arthralgiaCommon ( to ): Increased creatine kinase, back pain, muscle spasms
 Increased creatine kinase (at least  times ULN) was reported in up to  of patients.

@@ -5,10 +5,7 @@ Liver enzyme abnormalities were primarily observed in patients receiving extende
 Hepatic side effects have included  deaths from liver toxicity and  patients requiring liver transplantation (one of which died) out of  cases of liver toxicity reported since the approval of trovafloxacin in February   Symptomatic hepatitis (sometimes associated with peripheral eosinophilia, liver failure (including acute hepatic necrosis with eosinophilic infiltration) have been reported.
 Increased liver enzymes, abnormal hepatic function, bilirubinemia, discolored feces, and jaundice have been reported in less than  of patients.
 Increased ALT, AST, and alkaline phosphatase have been reported in  or more of patients.
-Nervous system side effects have included dizziness ( to ), headache ( to ), and lightheadedness (< to ).
-Abnormal coordination, abnormal gait, ataxia, cold clammy skin, confusion, convulsions, dry mouth, dyskinesia, dysphonia, encephalopathy, flushing, hyperkinesia, hypertonia, hypoesthesia, hypokinesia, increased saliva, increased sweating, involuntary muscle contractions, migraine, paresthesia, speech disorder, tongue paralysis, tremor, and vertigo have been reported in less than  of patients.
-Peripheral neuropathy has also been reported.
-Quinolone class antibiotics have been associated with possible exacerbation of myasthenia gravis.
+Nervous system side effects have included dizziness ( to ), headache ( to ), and lightheadedness (
 A case of alatrofloxacin related seizure activity has been reported in the medical literature.
 The patient was given alatrofloxacin at the manufacturer's recommended dosage, concentration, and rate of infusion.
 Fifteen minutes into the infusion, the patient experienced generalized tonic movement of the upper torso which lasted  seconds.
@@ -22,14 +19,10 @@ Gastrointestinal side effects have included nausea ( to ), vomiting ( to ), diar
 Other gastrointestinal effects including altered bowel habit, altered saliva, cheilitis, constipation, Clostridium difficile diarrhea, dyspepsia, dysphagia, eructation, flatulence, gastritis, gastroenteritis, gastrointestinal disorder, gingivitis,halitosis, increased appetite, loose stools, melena, pseudomembranous colitis, rectal disorder, stomatitis, tongue disorder, and tongue edema have been reported in less than  of treated patients.
 Pancreatitis has been reported during postmarketing experience.
 Quinolone class antibiotics have been associated with intestinal perforation.
-Dermatologic side effects have most commonly included pruritus and rash in < to  of patients.
-Pruritus ani, skin disorder, skin ulceration, angioedema, dermatitis, fungal dermatitis, photosensitivity, seborrhea, skin exfoliation, and urticaria have been reported in less than  of patients.
-Quinolone class antibiotics have been associated with erythema nodosum.
+Dermatologic side effects have most commonly included pruritus and rash in 
 Hypersensitivity reactions have included rash, Stevens-Johnson syndrome, photosensitivity, urticaria, exfoliative dermatitis, toxic epidermal necrolysis, angioedema, and anaphylaxis in less than  of patients.
 Phototoxicity was reported in less than  of study patients.
-Genitourinary side effects have included vaginitis (< to ), leukorrhea (<), and menstrual disorder (<) in females; balanoposthitis (<) in males.
-Dysuria, micturition frequency, and urinary incontinence have been reported in less than  of patients.
-Quinolone class antibiotics have been associated with albuminuria, candiduria, crystalluria, cylindruria, hematuria, and vaginal candidiasis.
+Genitourinary side effects have included vaginitis (
 Cardiovascular side effects have included arrhythmias, peripheral edema, chest pain, thrombophlebitis, hypotension, palpitations, hypertension, angina pectoris, postural hypotension, syncope, tachycardia, bradycardia, peripheral ischemia, edema, and face edema in less than  of treated patients.
 Hematologic side effects have included anemia, granulocytopenia, hemorrhage, leukopenia, thrombocytopenia, thrombocythemia, and decreased prothrombin times in less than  of patients.
 Decreased hemoglobin and hematocrit, increased platelets, decreased and increased WBC, and eosinophilia have been reported in  or more of patients, although causality was not determined.

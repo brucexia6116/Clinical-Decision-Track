@@ -1,7 +1,6 @@
-Other dosage forms:
  Check with your doctor if any of these most COMMON side effects persist or become bothersome:
-Constipation; diarrhea; dizziness; drowsiness; dry mouth, nose, or throat; excitability; headache; loss of appetite; nausea; nervousness or anxiety; trouble sleeping; upset stomach; vomiting; weakness.
-Severe allergic reactions (rash; hives; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); dark urine or pale stools; difficulty urinating or inability to urinate; fast or irregular heartbeat; hallucinations; seizures; severe dizziness, lightheadedness, or headache; stomach pain; tremor; trouble sleeping; unusual fatigue; vision changes; yellowing of the skin or eyes.
+Constipation; diarrhea; dizziness; drowsiness; dry mouth, nose, or throat; excitability; headache; loss of appetite; nausea; nervousness or anxiety; upset stomach; vomiting; weakness.
+Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); dark urine or pale stools; difficulty urinating or inability to urinate; fast or irregular heartbeat; hallucinations; seizures; severe dizziness, drowsiness, lightheadedness, or headache; severe or persistent loss of appetite; stomach pain; tremor; trouble sleeping; unusual fatigue; vision changes; yellowing of the skin or eyes.
 Nervous system side effects from diphenhydramine have been reported frequently.  These have included depression with drowsiness and sedation in nearly all patients treated.  Motor skills may be impaired.  Dystonic reactions have been reported after single doses of diphenhydramine.
 The CNS depressant effect of diphenhydramine parallels its plasma concentrations.  The plasma concentration threshold for sedation is 30 to 42 ng/mL, and to cause mental impairment is 58 to 74 ng/mL.  Patients should be warned against driving while taking diphenhydramine.Dystonic reactions have been accompanied by dizziness, mental confusion, rigidity, lip and tongue protrusion, trismus, torticollis, and swallowing difficulties and generally resolve spontaneously.  Toxic encephalopathy has been reported in a child with chicken pox treated generously with topical diphenhydramine.Delirium has been reported in elderly patients with mild dementia following a small oral dose of diphenhydramine.
 Cardiovascular side effects including two cases of hypotension have been reported following the administration of acetaminophen.Cardiovascular side effects of diphenhydramine have included hypotension, tachycardia, and palpitations.
@@ -19,4 +18,4 @@ Dermatologic side effects including erythematous skin rashes associated with ace
 Genitourinary side effects have included urinary retention and dysuria as a result of the anticholinergic effects of diphenhydramine.
 Respiratory side effects including a case of acetaminophen-induced eosinophilic pneumonia have been reported.
 It is possible that some side effects of Percogesic Extra Strength may not have been reported. These can be reported to the FDA here. Always consult a healthcare professional for medical advice.
-tablets
+capsules, tablets

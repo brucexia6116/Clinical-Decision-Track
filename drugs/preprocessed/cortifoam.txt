@@ -1,53 +1,47 @@
-Corticosteroid complications are primarily dose and duration of therapy dependent.
-Adverse effects have occurred less frequently at physiologic or lower pharmacologic dosages.
-Adverse effects associated with duration of corticosteroid therapy include those occurring during short-term therapy (up to three weeks) or those occurring during long-term therapy (greater than three weeks).
-Short-term effects have included sodium retention-related weight gain and fluid accumulation, hyperglycemia and glucose intolerance, hypokalemia, gastrointestinal upset and ulceration, reversible depression of the hypothalamus-pituitary-adrenal axis, and mood changes including mild euphoria and insomnia, nervousness, restlessness, mania, catatonia, depression, delusions, hallucinations, and violent behavior.
-Long-term effects have included hypothalamus-pituitary-adrenal activity suppression, Cushingoid appearance, hirsutism or virilism, impotence, menstrual irregularities, peptic ulcer disease, cataracts and increased intraocular pressure/glaucoma, myopathy, osteoporosis, and vertebral compression fractures.
-Cardiovascular effects such as hypertension and congestive heart failure due to long-term fluid retention as well as direct vascular effects have occurred during corticosteroid therapy.
-Corticosteroid therapy may induce glucose intolerance by reducing the utilization of glucose in tissues and increasing hepatic glucose output.
-Diabetes mellitus requiring diet modifications and hypoglycemic agents has developed in some patients.
-Adrenal suppression can persist for up to twelve months after long-term corticosteroid therapy.
-Giving corticosteroids once a day or once every other day may reduce adrenal suppression.
-After corticosteroid therapy has been tapered, supplemental corticosteroid therapy during times of physical stress may be required.
-Endocrine effects such as decreased glucose tolerance and hyperglycemia resulting in diabetes-like symptoms have occurred.
-Hypothalamus-pituitary-adrenal activity has been suppressed up to  months following long-term corticosteroid administration.
-Cushingoid appearance commonly has occurred with chronic therapy.
-Hirsutism or virilism, impotence, and menstrual irregularities may occur.
-Gastrointestinal effects of corticosteroid therapy have included gastrointestinal upset, nausea, vomiting, and peptic ulcer disease.
-Pancreatitis, ulcerative esophagitis, gastrointestinal perforation and hemorrhage have also been reported.
-Gastrointestinal effects most commonly occurring during corticosteroid therapy have included nausea, vomiting, dyspepsia, and anorexia.
-Peptic ulcer disease has been associated with long-term corticosteroid therapy, but is relatively uncommon.
-Routine prophylactic therapy is not warranted in all individuals.
-Aluminum/magnesium-containing antacids generally have been used to manage GI complaints without significant drug interactions.
-Metabolic adverse effects including hypernatremia (rare), hypokalemia, fluid retention, negative nitrogen balance and increased blood urea nitrogen concentration have occurred during corticosteroid therapy.
-Glucocorticoids have been reported to decrease the secretion of thyrotropin (TSH).
-Musculoskeletal effects of corticosteroid therapy including myopathy, osteoporosis, vertebral compression fractures, tendon rupture (particularly the Achilles tendon), and aseptic necrosis of bone have been reported.
+Corticosteroid side effects/complications are primarily dose and duration dependent; adverse effects are infrequent with physiologic or lower pharmacologic dosages.
+Short-term effects have included sodium retention-related weight gain and fluid accumulation, hyperglycemia/glucose intolerance, hypokalemia, and psychic disturbances.
+Long-term effects have included hypothalamus-pituitary-adrenal activity suppression, Cushingoid appearance, hirsutism, impotence, menstrual irregularities, peptic ulcer disease, cataracts and increased intraocular pressure/glaucoma, myopathy, osteoporosis, and vertebral compression fractures.
+Frequency not reported: Bradycardia, cardiac arrest, cardia arrhythmias, cardiac enlargement, circulatory collapse, fat embolism, hypertension, congestive heart failure, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, thrombophlebitis, vasculitis, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis, necrotising angiitis
+Frequency not reported: Hypothalamus-pituitary-adrenal activity has been suppressed up to  months following long-term corticosteroid administration, Cushingoid appearance with chronic therapy, hirsutism, virilism, impotence, menstrual irregularities, hypertrichosis, moon face, latent hyperparathyroidism, hypoparathyroidism
+An antagonism occurs between the parathyroids and hypercorticism.
+Latent hyperparathyroidism may be unmasked by administration of corticosteroids; hypoparathyroidism may be manifest by phosphate retention occurring in renal failure caused by adrenal insufficiency.
+Frequency not reported: Gastrointestinal upset, nausea, vomiting, peptic ulcer disease, pancreatitis, ulcerative esophagitis, abdominal distention, gastrointestinal perforation and hemorrhage, esophageal candidiasis
+Rare ( to ): HypernatremiaFrequency not reported: Decreased glucose tolerance, hyperglycemia, hypokalemia, fluid retention, negative nitrogen balance due to protein catabolism, increased blood urea nitrogen concentration, sodium retention, hypokalemic alkalosis, increased appetite, weight gain, hypertriglyceridemia
 Aseptic necrosis has been reported most often to affect the femoral head.
 Corticosteroid myopathy has presented as weakness and wasting of the proximal limb and girdle muscles and generally has been reversible following cessation of therapy.
 Corticosteroids inhibit intestinal absorption and increase urinary excretion of calcium leading to bone resorption and bone loss.
 Postmenopausal females are at risk of loss of bone density.
 Sixteen percent of elderly patients treated with corticosteroids for  years may experience vertebral compression fractures.
-Immunologic effects of corticosteroid therapy have included impairment in cell-mediated immunity and increased susceptibility to bacterial, viral, fungal and parasitic infections.
-Immune response to skin tests may be suppressed.
-Hepatic effects such as reversible increases in serum transaminase and alkaline phosphatase concentrations have occurred during corticosteroid therapy.
-Hematologic effects have included thrombocytopenia, lymphopenia, and platelet alterations resulting in thrombolic events.
-Dermatologic effects occurring during corticosteroid therapy have included increased ease in bruising, ecchymosis, petechiae striae, delayed wound healing, and acne.
-Ocular changes with corticosteroid therapy have included increased intraocular pressure, glaucoma, and posterior subcapsular cataracts.
-Psychiatric effects including psychoses, personality or behavioral changes, and pseudotumor cerebri have occurred/been exacerbated during corticosteroid therapy.
-Bronchospasm after intravenous hydrocortisone (the active ingredient contained in Cortifoam) has been reported in some patients with aspirin-sensitive respiratory disease.
+Frequency not reported: Steroid myopathy, muscle weakness, loss of muscle mass, osteoporosis, vertebral compression fractures, tendon rupture (particularly the Achilles tendon), aseptic necrosis of bone, growth suppression in pediatric patients, Charcot-like arthropathy, post-injection flare (intra-articular use), osteonecrosis
+Frequency not reported: Impairment in cell-mediated immunity, increased susceptibility to bacterial, viral, fungal and parasitic infections, immunosuppression, opportunistic infections from mild to fatal, reactivation of tuberculosis
+Increases in serum transaminases and alkaline phosphatase have been observed with corticosteroid therapy; these laboratory changes are generally small, not associated with clinical symptoms, and are reversible upon discontinuation.
+Frequency not reported: Reversible increases in serum transaminase and alkaline phosphatase concentrations, hepatomegaly
+Corticosteroid therapy has been associated with a total increase in WBC; with an increase in neutrophils and a decrease in monocytes, lymphocytes, and eosinophils.
+Frequency not reported: Leukocytosis
+Frequency not reported: Increased ease in bruising, ecchymosis, petechiae, delayed wound healing, acne, thin fragile skin, facial erythema, increased sweating, suppress reaction to skin testing, allergic dermatitis, burning or tingling in the perineal area after IV injection, cutaneous and subcutaneous atrophy, edema, hyperpigmentation, hypopigmentation, erythema, sterile abscess, striae, thinning scalp hair, urticaria
+Frequency not reported: Increased intraocular pressure, glaucoma, posterior subcapsular cataracts, exophthalmos, central serous chorioretinopathy, corneal or scleral thinning, exacerbation of ophthalmic viral disease
+In adults, the incidence of severe psychic reactions has been estimated to be around  to .
+Psychological effects have been reported on withdrawal of corticosteroids, although the incidence is unknown.
+Frequency not reported: Psychoses, personality or behavioral changes, depression, emotional instability, euphoria, insomnia, mood swings, personality changes, psychic disorders, exacerbation of preexisting affect lability or psychotic behavior
+Case reports of hypersensitivity reactions to corticosteroids have been relatively uncommon.
+Side effects have included bronchospasm, shock, urticaria, and angioedema.
+Cross-reactivity between aspirin and hydrocortisone (the active ingredient contained in Cortifoam) in patients with aspirin-sensitive respiratory disease has been suggested as the mechanism in patients with asthma, however data are controversial.
+Anaphylaxis has been most frequently associated with rapid injection or infusion of a high dose of corticosteroid.
+Reactions may be mediated by an immune or nonimmune mechanism.
+Bronchospasm after intravenous hydrocortisone has been reported in some patients with aspirin-sensitive respiratory disease.
 A challenge study with oral aspirin followed with  mg hydrocortisone (IV) resulted in respiratory reactions to aspirin in  of  patients.
 These  patients then received a hydrocortisone challenge.
 No naso-ocular, dermal, or respiratory reactions were noted in  of  patients administered hydrocortisone.
 One aspirin-sensitive patient experienced bronchospasm and naso-ocular reactions to hydrocortisone and naso-ocular with minimal bronchospasm with methylprednisolone.
 Following aspirin desensitization and while on maintenance aspirin therapy, this patient again reacted with similar symptoms to hydrocortisone.
-Case reports of hypersensitivity reactions to corticosteroids have been relatively uncommon.
-Side effects have included bronchospasm, shock, urticaria, and angioedema.
-Cross-reactivity between aspirin and hydrocortisone in patients with aspirin-sensitive respiratory disease has been suggested as the mechanism in patients with asthma, however data are controversial.
-Anaphylaxis has been most frequently associated with rapid injection or infusion of a high dose of corticosteroid.
-Reactions may be mediated by an immune or nonimmune mechanism.
-Pseudorheumatism or glucocorticoid-withdrawal syndrome not related to adrenal insufficiency has occurred on withdrawal of corticosteroids.
-Patients experienced anorexia, nausea, vomiting, lethargy, headache, fever, arthralgias, myalgias, and postural hypotension.
-Symptoms resolved when corticosteroid therapy was reinstated.
+Rare ( to ): Hypersensitivity reaction (enema)	Frequency not reported: Anaphylaxis, anaphylactoid reaction, angioedema
+Frequency not reported: Vertigo, abnormal fat deposits, malaise
+Frequency not reported: Glycosuria, increased or decreased motility and number of spermatozoa
+Frequency not reported: Convulsions, increased intracranial pressure with papilledema/pseudo-tumor cerebri (usually occurs after treatment), headache, neuritis, neuropathy, paresthesia, arachnoiditis, meningitis, paraparesis/paraplegia, sensory disturbances, epidural lipomatosis
+Paresthesia, arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances have occurred after intrathecal administration.
+Intrathecal use is contraindicated and epidural administration is not recommended due to the occurrence of serious adverse events having been associated with these routes of administration.
+Frequency not reported: Kaposi's sarcoma
+Frequency not reported: Pulmonary edema, hiccups
 Aggression
 anxiety
 blurred vision

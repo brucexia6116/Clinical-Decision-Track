@@ -1,0 +1,124 @@
+fever
+chill rigor
+subsequent infusion
+slow
+rate of infusion
+acetaminophen
+antihistamine
+meperidine
+renal toxicity
+amphotericin b cholesteryl sulfate
+conventional amphotericin b
+increase serum creatinine
+bun
+hypokalemia
+acute kidney failure
+abnormal renal function
+oliguria
+albuminuria
+dysuria
+glycosuria
+urinary incontinence
+retention
+metabolic change
+amphotericin b cholesteryl sulfate
+conventional amphotericin b
+decrease serum concentration of potassium
+magnesium
+sodium
+calcium
+amphotericin induce nephrotoxicity
+hyperglycemia
+hypervolemia
+weight gain loss
+nausea
+vomit
+diarrhea
+gastrointestinal hemorrhage
+abdominal pain
+stomatitis
+anorexia
+dyspepsia
+epigastric pain
+cramp
+malaise
+constipation
+hematologic abnormality
+thrombocytopenia
+anemia
+coagulation defect
+altered leukocyte count
+nervous system
+headache
+insomnia
+anxiety
+confusion
+convulsion
+coma
+peripheral neuropathy
+somnolence
+hypersensitivity
+bronchospasm
+wheeze
+cell
+hypertension
+hypotension
+tachycardia
+cardiac failure arrest
+chest pain
+vasodilation
+cardiomyopathy
+arrhythmia
+dyspnea
+hypoxia
+increased cough
+rhinitis
+respiratory insufficiency failure
+hyperventilation
+pneumonia
+asthma
+hemoptysis
+lung edema
+alopecia
+dry skin
+skin discoloration
+maculopapular rash
+pruritus
+sweating
+flush
+ulceration
+local inflammation at the injection site
+generalize bone
+joint
+muscle pain
+elevated serum concentration of alkaline phosphatase
+bilirubin
+hepatocellular toxicity
+veno occlusive liver disease
+hematuria
+vaginal bleeding
+depression
+hallucination
+abnormal thought process
+chill
+fever
+headache
+nausea
+difficulty in breathing
+dizziness or fainting
+increase heartbeat
+unusual bleeding
+bruise
+difficulty in swallow
+hive
+itch
+foot
+hand
+redden of skin
+ear
+swell of eye
+face
+nose
+unusual tiredness
+weakness
+vomit

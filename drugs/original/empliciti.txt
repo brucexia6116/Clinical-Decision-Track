@@ -1,10 +1,9 @@
 More frequent side effects include: fever.  See below for a comprehensive list of adverse effects.
-If any of the following side effects occur while taking elotuzumab, check with your doctor or nurse immediately:
 Common (1% to 10%): Night sweats
 Very common (10% or more): Diarrhea (47%), constipation (36%), vomiting (15%), oropharyngeal pain (10%)
-Very common (10% or more): Lymphopenia (13%)Frequency not reported: Leukopenia, thrombocytopenia
+Very common (10% or more): Lymphopenia (13%)Frequency not reported: Leukopenia, thrombocytopenia, deep vein thrombosis
 Frequency not reported: Hypoalbuminemia, elevated alkaline phosphatase
-Common (1% to 10%): Hypersensitivity
+Common (1% to 10%): HypersensitivityUncommon (0.1% to 1%): Anaphylactic reaction
 Very common (10% or more): Decreased appetite (21%), weight loss (14%)Frequency not reported: Hyperglycemia, hypocalcemia, low bicarbonate, hyperkalemia
 Very common (10% or more): Pain in extremities (16%)Common (1% to 10%): Chest pain
 Very common (10% or more): Peripheral neuropathy (27%), headache (15%)Common (1% to 10%): Hypoesthesia
@@ -14,6 +13,8 @@ Very common (10% or more): Fatigue (62%), pyrexia (37%)
 Common (1% to 10%): Altered mood
 Common (1% to 10%): Acute renal failure
 Very common (10% or more): Cough (34%), nasopharyngitis (25%), upper respiratory tract infection (23%), pneumonia (20%)Common (1% to 10%): Respiratory tract infection, pulmonary embolism
+Very common (10% or more): Herpes zoster
+Common (1% to 10%): Infusion related reaction
 Blurred vision
 body aches or pain
 chest pain

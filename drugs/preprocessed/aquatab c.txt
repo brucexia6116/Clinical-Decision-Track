@@ -1,7 +1,6 @@
-Other dosage forms:
 Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Diarrhea; dizziness; drowsiness; excitability; headache; irritability; nausea; stomach upset; trouble sleeping.
-Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); difficulty urinating; fast, slow, or irregular heartbeat; fever; hallucinations; mental or mood changes (eg, anxiety, nervousness); paleness; seizures; severe or persistent dizziness, headache, or lightheadedness; tremor.
+Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); difficulty urinating; fast, slow, or irregular heartbeat; fever; hallucinations; mental or mood changes (eg, anxiety, nervousness); paleness; seizures; severe or persistent dizziness, lightheadedness, or headache; tremor.
 Nervous system side effects have included nervousness, lightheadedness, excitability, restlessness, dizziness, tenseness, convulsions, CNS depression, and insomnia.
 Cardiovascular side effects have included arrhythmias and hypotension with cardiovascular collapse.
 Gastrointestinal side effects have included nausea and vomiting.
@@ -9,4 +8,4 @@ Psychiatric side effects have included fear, anxiety, and hallucinations.
 Respiratory side effects have included respiratory difficulty.
 Genitourinary side effects have included dysuria.
 General side effects have included weakness and pallor.
-sustained-release tabletssolution, syrup
+capsules, tabletssolution, syrup

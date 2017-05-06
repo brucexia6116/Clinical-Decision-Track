@@ -1,13 +1,14 @@
-Most common adverse reactions were bronchitis, COPD exacerbation, dyspnea, headache
-Common ( to ): Headache, dizziness
-Postmarketing reports: Skin rash, pruritus, angioedema (including that of tongue, lips and face), urticarial (including giant urticaria), laryngospasm and anaphylactic reactions
-Frequency not reported: Precipitation or worsening of narrow-angle glaucoma, glaucoma, halo vision, conjunctival hyperemia, corneal edema, acute eye pain, blurred visionPostmarketing reports: Mydriasis, increased intraocular pressure
-Common ( to ): Urinary tract infectionPostmarketing reports: Urinary retention
-Very common ( or more): Bronchitis, COPD exacerbation, sinusitisCommon ( to ): Dyspnea, sinusitis, cough, rhinitis, upper respiratory infectionPostmarketing reports: Cough, bronchospasm (including paradoxical bronchospasm)
-Frequency not reported: Hypotension, palpitations, tachycardiaPostmarketing reports: Supraventricular tachycardia, atrial fibrillation, increased heart rate
-Common ( to ): Dyspepsia, dry mouth, nauseaUncommon ( to ): Taste perversion (bitter taste)Frequency not reported: Dry throat, constipation, throat irritation, stomatitis, mouth edemaPostmarketing reports: Gastrointestinal distress (diarrhea, nausea, vomiting), pharyngeal edema, gastrointestinal motility disorders
-Common ( to ): Back pain
-Common ( to ): Influenza-like symptomsPostmarketing reports: Accommodation disorder
+The most common adverse reactions were bronchitis, COPD exacerbation, dyspnea, headache, throat irritation, cough, dry mouth, gastro-intestinal motility disorders (including constipation, diarrhea and vomiting), nausea, and dizziness.
+Very common ( or more): Bronchitis (up to ), upper respiratory tract infection (up to )Common ( to ): Chest pain, cough, dyspnea, bronchospasm, sputum increased, pharyngitis, rhinitis, sinusitis, throat irritationUncommon ( to ): Paradoxical bronchospasm, laryngospasm, pharyngeal edema, dry throat
+Common ( to ): Mouth dryness, nausea, gastrointestinal motility disorder, dyspepsiaUncommon ( to ): Constipation, diarrhea, taste perversion, vomiting, stomatitisFrequency not reported: Mouth edema
+Common ( to ): Urinary tract infectionUncommon ( to ): Urinary retention
+Common ( to ): Back painUncommon ( to ): Arthritis
+Common ( to ): Headache, dizzinessUncommon ( to ): Tremor, nervousness
+Common ( to ): Influenza-like symptoms, pain
+Uncommon ( to ): Hypertension, palpitations, supraventricular tachycardiaRare (less than ): Atrial fibrillation, rate increasedFrequency not reported: Hypotension, palpitation, tachycardia
+Uncommon ( to ): Rash, pruritusRare (less than ): Urticaria
+Uncommon ( to ): Hypersensitivity, anaphylactic reactions, angioedema of tongue, lips, faceFrequency not reported: Urticaria (including giant urticaria), laryngospasm
+Uncommon ( to ): Blurred vision, mydriasis, intraocular pressure increased, glaucoma, eye pain, halo vision, conjunctival hyperemia, corneal edemaRare (less than ): Accommodation disorderFrequency not reported: Precipitation or worsening of narrow-angle glaucoma, acute eye pain
 Bladder pain
 bloody or cloudy urine
 cough producing mucus

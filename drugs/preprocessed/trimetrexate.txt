@@ -1,8 +1,7 @@
 Because many patients in clinical trials had advanced HIV disease, it was difficult to distinguish between trimetrexate-associated side effects and underlying medical conditions.
 In a clinical trial,  of patients in the trimetrexate-leucovorin group discontinued treatment due to side effects, as compared to  in the sulfamethoxazole-trimethoprim group.
 Hematologic toxicity has been the primary dose-limiting adverse effect.
-In a clinical trial (n=) trimetrexate commonly caused myelosuppression, resulting in neutropenia (<= /mm) in , thrombocytopenia (<=,/mm) in , and anemia (Hgb< g/dL) in  of patients also treated with leucovorin.
-Therapy was discontinued in  of patients due to hematologic toxicity.
+In a clinical trial (n=) trimetrexate commonly caused myelosuppression, resulting in neutropenia (
 Renal toxicity consisting of elevations in serum creatinine greater than  times upper normal limits has occurred in   of clinical trial patients treated with trimetrexate and leucovorin.
 Gastrointestinal side effects associated with trimetrexate have included nausea and vomiting in  or more of patients also treated with leucovorin.
 Mucositis and diarrhea also occur relatively often.

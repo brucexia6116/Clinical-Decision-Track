@@ -1,4 +1,74 @@
-Note: The page you requested is either undergoing maintenance or is no longer available.
-If you believe this page should exist, please try again later or contact us to report a problem.
-Click here to return to the Drugs.
-com homepage.
+As well as its needed effects, ombitasvir / paritaprevir / ritonavir may cause unwanted side effects that require medical attention.
+Some ombitasvir / paritaprevir / ritonavir side effects may not need any medical attention.
+As your body gets used to the medicine these side effects may disappear.
+Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
+The most common side effects reported in patients with genotype  hepatitis C virus (HCV) infection using this drug in combination with dasabuvir and ribavirin were fatigue and nausea.
+The most common side effects reported in patients with genotype  HCV infection using this drug with ribavirin were asthenia, fatigue, nausea, and insomnia; the most common side effect reported in such patients using this drug without ribavirin was asthenia.
+The manufacturer product information for dasabuvir and/or ribavirin should be consulted.
+Very common ( or more): Asthenia (up to ), fatigue (up to )
+Very common ( or more): Nausea (up to )
+Very common ( or more): Insomnia (up to )
+Pruritus was common during combination therapy with dasabuvir (without ribavirin) and very common during combination therapy with dasabuvir and ribavirin.
+Most skin reactions were of mild severity.
+Very common ( or more): Pruritus (includes pruritus, generalized pruritus)Common ( to ): Skin reactions (includes rash, erythema, eczema, maculopapular rash, macular rash, dermatitis, papular rash, skin exfoliation, pruritic rash, erythematous rash, generalized rash, allergic dermatitis, contact dermatitis, exfoliative rash, photosensitivity reaction, psoriasis, skin reaction, ulcer, urticaria)
+Common ( to ): Elevated ALT, elevated total bilirubin, hyperbilirubinemiaPostmarketing reports: Hepatic decompensation, hepatic failure
+Combination therapy with dasabuvir and ribavirin for  weeks: ALT greater than  to  times the upper limit of normal ( to  x ULN), ALT greater than  x ULN, total bilirubin greater than  to  x ULN, and total bilirubin greater than  x ULN were reported in , , , and  of patients, respectively.
+Combination therapy with dasabuvir (without ribavirin) for  weeks: ALT greater than  to  x ULN and total bilirubin greater than  to  x ULN were reported in  and  of patients, respectively.
+Combination therapy with dasabuvir and ribavirin for  or  weeks: ALT greater than  to  x ULN, ALT greater than  x ULN, and total bilirubin greater than  to  x ULN were reported in , , and  of cirrhosis patients, respectively.
+In clinical trials with this drug and dasabuvir (with and without ribavirin), about  of patients had post-baseline serum ALT levels greater than  x ULN during therapy; incidence increased to  in women concurrently using a product containing ethinyl estradiol.
+No increase in incidence of ALT elevations was reported with estrogens other than ethinyl estradiol (, estradiol, conjugated estrogens).
+ALT elevations were usually asymptomatic, occurred during the first  weeks of therapy ( days [mean]; range:  to  days), and resolved with continued use.
+Elevated ALT was usually not associated with elevated bilirubin.
+Cirrhosis was not a risk factor for elevated ALT.
+Transient serum bilirubin elevations were reported in patients using combination therapy with dasabuvir and ribavirin.
+These increases were primarily indirect and associated with inhibition of OATPB/B (bilirubin transporters) by paritaprevir and ribavirin-induced hemolysis.
+Bilirubin elevations occurred after therapy initiation, peaked by week  of the study, and usually resolved with ongoing therapy.
+Elevated bilirubin was not associated with aminotransferase elevations.
+Transient elevations in total bilirubin greater than  x ULN (mostly indirect) were reported in   HCV/HIV- coinfected patients using combination therapy with dasabuvir and ribavirin;  of these patients were also using atazanavir.
+No concurrent elevations of aminotransferases occurred with hyperbilirubinemia.
+None of the patients infected with genotype  HCV reported post-baseline ALT levels greater than  x ULN after starting this drug.
+Post-baseline bilirubin elevations (at least  x ULN) occurred in  of HCV genotype -infected patients using this drug with ribavirin.
+These increases were primarily indirect and associated with inhibition of OATPB/B (bilirubin transporters) by paritaprevir and possibly ribavirin-induced hemolysis.
+Bilirubin elevations occurred soon after the start of therapy, peaked by week  of the study, and usually resolved with ongoing therapy.
+Elevated bilirubin was usually not associated with elevated serum ALT.
+Hepatic decompensation and hepatic failure (including liver transplantation or fatal outcomes) have been reported in patients using ombitasvir / paritaprevir / ritonavir (with and without dasabuvir and with and without ribavirin).
+Most patients with these severe outcomes had evidence of advanced cirrhosis before starting therapy.
+Cases were generally reported within  to  weeks of starting therapy and characterized by acute onset of rising direct serum bilirubin levels without increases in ALT together with clinical signs/symptoms of hepatic decompensation.
+Common ( to ): Anemia, decreased hemoglobin (Hgb)
+Combination therapy with dasabuvir and ribavirin for  weeks: Hgb  to less than  g/dL and Hgb  to less than  g/dL were reported in  and  of patients, respectively.
+Combination therapy with dasabuvir and ribavirin for  or  weeks: Hgb  to less than  g/dL, Hgb  to less than  g/dL, and Hgb less than  g/dL were reported in , , and  of cirrhosis patients, respectively.
+At least  post-baseline Hgb value less than  g/dL was reported in  of  post-liver transplant patients using combination therapy with dasabuvir and ribavirin.
+Ribavirin dose was modified in  patients due to decreased Hgb; ribavirin was interrupted in  patient.
+Five patients (ribavirin starting dose of  to  mg/day) required erythropoietin; no patient required a blood transfusion.
+The change from baseline in Hgb levels averaged - g/dL in patients using this drug with ribavirin and - g/dL in patients using this drug alone.
+Hgb level decreased early in therapy (week  or ) with further decreases through week   Low Hgb values persisted throughout therapy and returned towards baseline levels by  weeks after therapy.
+At least  patient using this drug with ribavirin had a single Hgb level decrease to less than  g/dL during therapy and  had their ribavirin dose reduced due to anemia/decreased Hgb levels; no patient received a blood transfusion or erythropoietin.
+No patients using this drug alone had Hgb levels less than  g/dL.
+Postmarketing reports: Hypersensitivity reactions (including angioedema)
+It is possible that some side effects of ombitasvir / paritaprevir / ritonavir may not have been reported.
+These can be reported to the FDA here.
+Always consult a healthcare professional for medical advice.
+Abdominal or stomach pain
+chills
+clay-colored stools
+dark urine
+dizziness
+fever
+headache
+itching or rash
+loss of appetite
+nausea
+unpleasant breath odor
+unusual tiredness or weakness
+vomiting of blood
+yellow eyes or skin
+Large, hive-like swelling on the face, eyelids, lips, tongue, throat, hands, legs, feet, or sex organs
+Blistering, crusting, irritation, itching, or reddening of the skin
+cracked, dry, or scaly skin
+increased sensitivity of the skin to sunlight
+lack or loss of strength
+redness or other discoloration of the skin
+severe sunburn
+skin rash, encrusted, scaly, and oozing
+swelling
+trouble sleeping

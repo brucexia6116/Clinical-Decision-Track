@@ -1,0 +1,188 @@
+lack
+anxiety
+apprehensiveness
+restlessness
+tremor
+weakness
+dizziness
+sweating
+palpitation
+pallor
+nausea
+vomit
+headache
+respiratory difficulty
+tachycardia
+supraventricular tachycardia
+ventricular arrhythmia
+myocardial ischemia
+myocardial infarction
+limb peripheral ischemia
+palpitation
+angina
+arrhythmia
+hypertension
+vasoconstriction
+ventricular ectopy
+ventricular fibrillation
+cold extremity
+electrocardiogram change
+stress cardiomyopathy
+headache
+paresthesia
+tremor
+stroke
+central nervous system bleeding
+dizziness
+cerebral hemorrhage
+memory
+lightheadedness
+psychomotor agitation
+tingle
+parkinsonism
+syncope
+convulsion
+subarachnoid hemorrhage
+hemiplegia
+nervousness
+excitability
+anxiety
+apprehension
+restlessness
+disorientation
+panic
+hallucination
+psychosis
+fear
+sleeplessness insomnia
+tenseness
+confusion
+irritability
+extravasation
+injection site pallor
+coldness at injection site
+hypoesthesia at injection site
+injury at injection site
+local ischemic necrosis
+diaphoresis
+pallor
+piloerection
+skin blanching
+skin necrosis with extravasation
+necrotize fasciitis
+flush redness of skin
+face
+hyperhidrosis
+hypoglycemia
+hyperglycemia
+insulin resistance
+hypokalemia
+lactic acidosis
+insulin secretion
+metabolic acidosis
+anorexia
+pulmonary edema
+rale
+respiratory difficulty
+dyspnea
+bronchospasm
+hypoxia of mucosa
+renal insufficiency
+contact dermatitis
+ocularly apply epinephrine
+active ingredient
+adrenaclick
+lid edema
+thick yellow discharge
+nausea
+vomit
+bowel necrosis
+hypersalivation
+urinary retention
+difficult micturition
+thrombocytosis
+myonecrosis
+chest pain
+weakness
+gas gangrene
+asthenia
+corneal
+endothelial damage
+growth hormone secretion
+decrease touch sensation
+arm
+jaw pain
+bleed
+blister
+burn
+coldness
+discoloration of the skin
+feeling of pressure
+hive
+infection
+inflammation
+itch
+lump
+numbness
+pain
+rash
+redness
+scarring
+soreness
+swell
+tenderness
+tingle
+ulceration
+warmth at the injection site
+blur vision
+chest pain
+discomfort
+chest tightness
+heaviness
+dizziness
+faint
+pound
+race heartbeat
+pulse
+fear or nervousness
+headache
+nausea or vomit
+paleness of the skin
+pound in the ear
+restlessness
+shakiness in the leg
+arm
+hand
+foot
+fast heartbeat
+stroke
+sweating
+tremble
+shake of the hand
+foot
+troubled breathing
+unusual tiredness
+weakness
+agitation
+coldness of the skin
+coma
+confusion
+decrease urine output
+depression
+drowsiness
+hostility
+irritability
+lethargy
+lightheadedness
+dizziness
+faint
+muscle twitching
+pound slow heartbeat
+rapid weight gain
+rapid deep breathing
+seizure
+stomach cramp
+stupor
+swell of the face
+ankle
+hand

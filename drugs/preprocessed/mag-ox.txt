@@ -1,26 +1,6 @@
 Check with your doctor if any of these most COMMON side effects persist or become bothersome:
 Diarrhea.
 Severe allergic reactions (rash; hives; itching; difficulty breathing; tightness in the chest; swelling of the mouth, face, lips, or tongue); black, tarry stools; nausea; slow reflexes; vomit that looks like coffee grounds.
-Other side effects have included effects due to toxicity (hypermagnesemia).
-Mild hypermagnesemia is generally well-tolerated.
-Moderate or severe hypermagnesemia primarily affects the nervous and cardiovascular systems.
-The effects of hypermagnesemia may be worsened by the presence of hypocalcemia, especially in patients with uremia.
-Gastrointestinal side effects have included diarrhea.
-Magnesium toxicity has been associated with nausea (magnesium levels of  to  mg/dL or  to  mEq/L) and rare cases of paralytic ileus (magnesium levels greater than  mEq/L).
-Nervous system side effects have resulted from the suppression of neuromuscular transmission in the CNS and at the neuromuscular junction by magnesium (antagonized by calcium).
-The degree of severity of these side effects has been dependent on the serum magnesium level.
-Clinically, if serum magnesium levels increase to  to  mEq/L, there may be a decrease in tendon reflexes, muscle weakness and/or mental confusion/sedation.
-At levels of  to  mEq/L the respiratory rate slows and the blood pressure falls.
-At levels  of  to  mEq/L there is usually profound mental depression, areflexia, coma and respiratory paralysis.
-Magnesium also has a curare-like effect at the neuromuscular junction at serum levels above  mEq/L.
-Death is not uncommon when serum magnesium levels rise to  mEq/L.
-Cardiovascular side effects have included hypotension, depressed myocardial conductivity, and bradyarrhythmias.
-The cardiovascular consequences of hypermagnesemia are due to peripheral vasodilation.
-Hypotension may be observed when serum Mg levels rise to  to  mEq/L, becoming severe when serum Mg levels rise above  mEq/L.
-Magnesium can also depress myocardial conductivity and cause bradyarrhythmias at levels greater than  mEq/L.
-While some patients are inexplicably able to tolerate extraordinary magnesium levels, there is a significant risk of asystole when levels rise to  mEq/L.
-The risk of cardiotoxicity from hypermagnesemia is increased in the presence of hypocalcemia, hyperkalemia, acidosis, digitalis therapy, and renal insufficiency.
-Acute hypermagnesemia may cause hypocalcemia due to suppression of the release of parathyroid hormone (PTH) and competition for renal tubular reabsorption between calcium (Ca) and magnesium.
-The latter can lead to decreased Ca reabsorption and hypercalciuria, which aggravates the hypocalcemia produced by decreased release of PTH.
-Metabolic side effects have included hypocalcemia.
-Magnesium oxide (the active ingredient contained in Mag-Ox) is generally well-tolerated.
+Magnesium toxicity symptoms may include: hypotension, nausea, vomiting, facial flushing, urine retention, ileus, depression, lethargy, muscle weakness, respiratory depression, arrhythmia, cardiac arrest, coma, and death.
+Frequency not reported: Hypermagnesemia, magnesium toxicity
+Frequency not reported: Diarrhea, nausea, abdominal cramping

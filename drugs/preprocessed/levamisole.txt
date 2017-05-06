@@ -1,4 +1,3 @@
-If any of the following side effects occur while taking levamisole, check with your doctor or nurse as soon as possible:
 Levamisole may cause a temporary loss of hair in some people.
 After treatment has ended, normal hair growth should return.
 One analysis of  reports representing , patients, found that patients treated for rheumatic disorders (n=) reported a significantly higher rate of leukopenia and agranulocytosis .
@@ -12,7 +11,7 @@ Leukopenia has been reported in  (over ,/mm),  (, to ,/mm), and less than  (less
 Transient granulocytopenia has been reported in up to  of treated patients.
 Recovery is usually spontaneous.
 In patients with thrombocytopenia,  of patients show platelet counts over ,/mm, and  show platelet counts between , and ,/mm
-Dermatologic side effects include dermatitis , alopecia , pruritus  and urticaria (<).
+Dermatologic side effects include dermatitis , alopecia , pruritus  and urticaria (
 One analysis of  reports representing , patients, found that patients treated for rheumatic disorders (n=) reported a significantly high percentage of idiosyncratic or allergic reactions.
 These included skin rash .
 Half of the patients experiencing skin rash discontinued therapy .
@@ -20,14 +19,13 @@ Flu-like symptoms including fatigue , fever , rigors , myalgia, and malaise have
 Fever may be a symptom of infection associated with agranulocytosis, but often it is not.
 Gastrointestinal side effects include nausea , diarrhea , vomiting , stomatitis , anorexia , abdominal pain , and constipation .
 Flatulence and dyspepsia have also been reported.
-Cardiac dysfunction leading to edema  and chest pain (<) have been reported.
+Cardiac dysfunction leading to edema  and chest pain (
 Musculoskeletal side effects including arthralgia  and myalgia  have been reported.
 Nervous system side effects including dizziness , headache , paresthesia , taste perversion , and an altered sense of smell  have been reported.
 Psychiatric side effects including somnolence , depression , nervousness , insomnia , and anxiety  have been reported.
 Confusion, hallucinations, impaired concentration, nightmares, and an encephalopathy-like syndrome have also been reported.
 A case has been reported of a psychotic episode which was believed to be caused by prolonged levamisole use.
-Ocular side effects including blurred vision  and conjunctivitis (<) have been reported.
-Periorbital edema has also been reported.
+Ocular side effects including blurred vision  and conjunctivitis (
 Infection  has been reported.
 Hyperbilirubinemia and increased alkaline phosphatase have been reported rarely.
 Renal failure and elevated serum creatinine have been reported rarely.

@@ -1,42 +1,25 @@
-Other dosage forms:
 As well as its needed effects, azithromycin (the active ingredient contained in Zmax) may cause unwanted side effects that require medical attention.
-If any of the following side effects occur while taking azithromycin, check with your doctor immediately:
 Some azithromycin side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
-Gastrointestinal side effects have included nausea, abdominal discomfort, vomiting, and diarrhea in up to  of patients.
-However, patients rarely (less than ) discontinued therapy due to these side effects.
-Dyspepsia, flatulence, mucositis, oral moniliasis, constipation, melena, and gastritis have been reported with a frequency of  or less.
-Pseudomembranous colitis has been reported with nearly all antibacterial agents and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of azithromycin (the active ingredient contained in Zmax)   Anorexia, vomiting/diarrhea rarely resulting in dehydration, pancreatitis, oral candidiasis, pyloric stenosis, and rare cases of tongue discoloration have been reported during postmarketing experience.
-Reappearance of allergic symptoms may occur without further azithromycin (the active ingredient contained in Zmax) exposure when symptomatic therapy is discontinued.
-This phenomenon may be related to the long tissue half-life of the drug.
-Patients experiencing allergic symptoms may require prolonged periods of observation and symptomatic treatment.
-Hypersensitivity side effects have rarely included angioedema, anaphylaxis, Stevens-Johnson syndrome, and toxic epidermal necrolysis.
-Toxic pustuloderma with fever has been reported in at least one patient receiving azithromycin.
-There is also an isolated report of azithromycin-induced hypersensitivity syndrome.
-Allergic reactions (including arthralgia, edema, urticaria, and angioedema) and anaphylaxis (rarely fatal) have been reported during postmarketing experience.
-Cardiovascular side effects have rarely included arrhythmias (including ventricular tachycardia), prolongation of the QT interval, torsades de pointes, palpitations, hypotension, and chest pain in postmarketing experience.
-A causal relationship has not been established.
-Hepatic side effects have infrequently included transient elevations of liver function tests (including AST and ALT) and elevated bilirubin.
-Hepatitis and cholestatic jaundice, as well as rare cases of hepatic necrosis and hepatic failure (some resulting in death), have been reported during postmarketing experience.
-Local side effects associated with intravenous administration of the drug have included pain at injection site  and local inflammation .
-Nervous system side effects have included headache, somnolence, vertigo, and dizziness in approximately  of patients.
-Hearing disturbances including hearing loss, deafness, and/or tinnitus have been reported rarely.
-Paresthesia, convulsions, hyperactivity, nervousness, agitation, and syncope have been reported during postmarketing experience.
-Dermatologic side effects have included rash, pruritus, and urticaria.
-Photosensitivity and, rarely, serious skin reactions (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis) have been reported during postmarketing experience.
-Other side effects have included asthenia.
-Taste/smell perversion and/or loss (rare), fatigue, and malaise have been reported during postmarketing experience.
-Renal side effects have rarely included elevations in serum creatinine and blood urea nitrogen.
-Interstitial nephritis and acute renal failure have been reported during postmarketing experience.
-Interstitial nephritis resulting in permanent renal failure has been reported in a patient receiving azithromycin (the active ingredient contained in Zmax) monotherapy.
-Hematologic side effects have included decreased lymphocytes, increased eosinophils, leukopenia, and neutropenia.
-Thrombocytopenia has been reported during postmarketing experience.
-Metabolic side effects have included reduced bicarbonate and alterations in potassium.
-Psychiatric side effects have included aggressive reaction and anxiety during postmarketing experience.
-Genitourinary side effects have included vaginitis.
-Moniliasis has been reported during postmarketing experience.
+The most commonly reported side effects include diarrhea/loose stools, abdominal pain, and nausea.
+Very common ( or more): Diarrhea (up to ), nausea (up to ), abdominal pain (up to ), loose stools (up to ), flatulence (up to )Common ( to ): Vomiting, dyspepsia, stomatitisUncommon ( to ): Gastroenteritis, oral candidiasis, constipation, dysphagia/oral dysphagia, abdominal distension, dry mouth, eructation, mouth ulceration, salivary hypersecretionFrequency not reported: Pseudomembranous colitis, pancreatitis, tongue discoloration, melena, enteritis, abnormal stools, gastrointestinal disorderPostmarketing reports: Pyloric stenosis
+Common ( to ): Decreased lymphocyte, hematocrit, hemoglobin, or neutrophil count, increased eosinophil count, increased platelets, hematocrit, lymphocytes, basophils, monocytes, or neutrophilsUncommon ( to ): Leukopenia, neutropenia/mild neutropenia, eosinophiliaFrequency not reported: Thrombocytopenia, anemia/hemolytic anemia, decreased platelets
+Common ( to ): Headache, dizziness, paresthesia, dysgeusiaUncommon ( to ): Somnolence, hypesthesiaFrequency not reported: Syncope, convulsion, anosmia, ageusia, parosmia, vertigo, myasthenia gravis, taste perversion, hyperkinesiaPostmarketing reports: Hyperactivity
+Common ( to ): Injection site pain, infection, edema, reactions or inflammation
+Common ( to ): Deafness, fatigueUncommon ( to ): Candidiasis, ear disorder, asthenia, malaise, face edema, pyrexia, pain, post procedural complications, hearing disturbances/impairment, tinnitus, laboratory abnormalities, fungal or bacterial infectionFrequency not reported: Psychomotor hyperactivity, mucositis, fever, chills, otitis mediaPostmarketing reports: Hearing loss, taste/smell perversion and/or loss
+Common ( to ): Rash, pruritusUncommon ( to ): Photosensitivity reaction, Stevens-Johnson syndrome, urticaria, dermatitis, dry skin, hyperhidrosis, eczemaVery rare (less than ): Drug reaction of eosinophilia and systemic symptoms (DRESS)Frequency not reported: toxic epidermal necrolysis, erythema multiforme, fungal dermatitis, sweating, vesiculobullous rash, maculopapular rash
+Common ( to ): Decreased blood bicarbonate, anorexiaUncommon ( to ): Abnormal sodium, increased blood alkaline phosphatase, bicarbonate, or chlorideFrequency not reported: Increased lactate dehydrogenase, decreased sodium or potassiumPostmarketing reports: Dehydration
+Common ( to ): DyspneaUncommon ( to ): Pneumonia, pharyngitis, rhinitis, respiratory disorder, epistaxisFrequency not reported: Bronchospasm, cough, pleural effusion, asthma, bronchitis
+Common ( to ): ArthralgiaUncommon ( to ): Osteoarthritis, myalgia, back pain, neck painFrequency not reported: Increased creatine phosphokinase
+Common ( to ): Vaginitis/vaginal infectionUncommon ( to ): Dysuria, metrorrhagia, testicular disorder
+Common ( to ): Allergic reactionUncommon ( to ): Angioedema, hypersensitivityFrequency not reported: Anaphylactic reaction/anaphylaxisPostmarketing reports: Fatal anaphylaxis
+Common ( to ): Visual impairmentFrequency not reported: Conjunctivitis
+Uncommon ( to ): Hepatitis, increased AST, ALT, GGT, or blood bilirubin Rare ( to ): Abnormal liver function tests, cholestatic jaundiceFrequency not reported: Hepatic failure/fatal hepatic failure, fulminant hepatitis, hepatic necrosis
+Uncommon ( to ): Palpitations, hot flush, edema, chest pain, peripheral edemaFrequency not reported: Torsades de pointes, arrhythmia, ECG QT prolonged, hypotension, ventricular tachycardia
+Uncommon ( to ): Nervousness, insomniaRare ( to ): AgitationFrequency not reported: Aggression/aggressive reaction, anxiety, delirium, hallucination, emotional lability, irritability, hostility
+Uncommon ( to ): Renal pain, increased blood urea nitrogen and creatinineFrequency not reported: Acute renal failure, interstitial nephritis/nephritis
+Frequency not reported: Moniliasis, flu syndrome
 It is possible that some side effects of Zmax may not have been reported.
 These can be reported to the FDA here.
 Always consult a healthcare professional for medical advice.

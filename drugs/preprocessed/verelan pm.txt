@@ -1,9 +1,7 @@
 Common side effects of Verelan PM include: sinus bradycardia.
 Other side effects include: pulmonary edema, severe hypotension, and second degree atrioventricular block.
 See below for a comprehensive list of adverse effects.
-Other dosage forms:
 As well as its needed effects, verapamil (the active ingredient contained in Verelan PM) may cause unwanted side effects that require medical attention.
-If any of the following side effects occur while taking verapamil, check with your doctor immediately:
 Some verapamil side effects may not need any medical attention.
 As your body gets used to the medicine these side effects may disappear.
 Your health care professional may be able to help you prevent or reduce these side effects, but do check with them if any of the following side effects continue, or if you are concerned about them:
@@ -11,13 +9,13 @@ The most commonly reported side effects include constipation, dizziness, and hea
 Seizures occurred rarely with IV administration.
 Paralysis/tetraparesis was reported in a patient taking this drug and colchicine concurrently.
 Very common ( or more): Headache (up to )Common ( to ): Dizziness, lethargyRare ( to ): SeizuresFrequency not reported: Rotary nystagmus, sleepiness, vertigo, lightheadedness, tingling, numbness, neuropathyPostmarketing reports: Syncope, cerebrovascular accident, equilibrium disorders, parkinsonism/extrapyramidal symptoms/syndrome, paresthesia, shakiness/tremor, paralysis/tetraparesis, somnolence
-Common ( to ): Symptomatic hypotension/hypotension/abrupt blood pressure fall, sinus bradycardia/bradycardia (heart rate less than  beats/minute), severe tachycardia, ankle edema/edema, development/aggravation of congestive heart failure (CHF), atrioventricular (AV) block, peripheral edemaUncommon ( to ): Second-/third-degree AV block, palpitations, orthostasisPostmarketing reports: Angina pectoris/chest pain, AV dissociation, ECG abnormal, claudication, hypertension, myocardial infarction, sinus arrest with asystole, decreased myocardial contractility, cardiogenic shock, bradyarrhythmia in atrial fibrillation, vasculitis, erythromelalgia
 Cardiovascular side effects may occur with greater intensity at higher doses or in patients with a history of myocardial damage.
 Approximately  of patients who had atrial flutter/fibrillation and received this drug and digoxin developed resting ventricular rates below  beats/min; in the same trial, asymptomatic hypotension occurred in approximately  of patients.
 Asystole occurred after second/third degree AV block and was usually short in duration, with spontaneous cardiac action returning within seconds in the form of a sinus rhythm.
-Common ( to ): Constipation, dyspepsia, nausea, diarrhea, flatulenceUncommon ( to ): Abdominal discomfort/painFrequency not reported: Non-obstructive paralytic ileus/ileus, bloatingPostmarketing reports: Dry mouth, gastrointestinal stress, gingival hyperplasia, vomiting
+Common ( to ): Symptomatic hypotension/hypotension/abrupt blood pressure fall, sinus bradycardia/bradycardia (heart rate less than  beats/minute), severe tachycardia, ankle edema/edema, development/aggravation of congestive heart failure (CHF), atrioventricular (AV) block, peripheral edemaUncommon ( to ): Second-/third-degree AV block, palpitations, orthostasisPostmarketing reports: Angina pectoris/chest pain, AV dissociation, ECG abnormal, claudication, hypertension, myocardial infarction, sinus arrest with asystole, decreased myocardial contractility, cardiogenic shock, bradyarrhythmia in atrial fibrillation, vasculitis, erythromelalgia
 Non-obstructive paralytic ileus was reversible when treatment was stopped.
 Gingival hyperplasia occurred when this drug was given over a prolonged period of time, and was reversible once the drug was discontinued.
+Common ( to ): Constipation, dyspepsia, nausea, diarrhea, flatulenceUncommon ( to ): Abdominal discomfort/painFrequency not reported: Non-obstructive paralytic ileus/ileus, bloatingPostmarketing reports: Dry mouth, gastrointestinal stress, gingival hyperplasia, vomiting
 Bronchospasm and laryngeal spasm occurred during hypersensitivity reactions.
 Common ( to ): Pulmonary edema, pharyngitis, sinusitis, rhinitis, dyspneaRare ( to ): Broncho/laryngeal spasm
 Common ( to ): Fatigue, tiredness/malaise, accidental injury, painFrequency not reported: Infection, flu syndromePostmarketing reports: Tinnitus, asthenia
@@ -25,14 +23,14 @@ Common ( to ): Scalp irritation, rashUncommon ( to ): Itching, urticaria, flushi
 Itch and urticaria occurred in hypersensitivity reactions.
 Common ( to ): Sleep disturbanceUncommon ( to ): Bad dreams, depression/emotional depressionPostmarketing reports: Confusion, psychotic symptoms, insomnia, nervousness
 Common ( to ): MyalgiaFrequency not reported: Muscle fatiguePostmarketing reports: Muscle cramps, arthralgia
-Uncommon ( to ): Elevated liver enzymes (transaminases, alkaline phosphatase)
 Reversible elevations liver enzymes occurred during treatment, and are likely the result of a hypersensitivity reaction (, allergic hepatitis).
+Uncommon ( to ): Elevated liver enzymes (transaminases, alkaline phosphatase)
 Rare ( to ): Hypersensitivity/allergic reactionsPostmarketing reports: Allergy aggravated
 Frequency not reported: Lowered glucose tolerancePostmarketing reports: Hyperkalemia
 Postmarketing reports: Galactorrhea, increased blood prolactin/hyperprolactinemia, increased urination, spotty menstruation, erectile dysfunction/impotence
 Postmarketing reports: Renal failure
-Postmarketing reports: Gynecomastia
 Gynecomastia occurred in older male patients on prolonged treatment, and was reversible upon discontinuation of this drug.
+Postmarketing reports: Gynecomastia
 Postmarketing reports: Purpura
 Postmarketing reports: Blurred vision
 It is possible that some side effects of Verelan PM may not have been reported.

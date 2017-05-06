@@ -1,5 +1,4 @@
 Common side effects of DaunoXome include: back pain, chest tightness, fever, and flushing.  See below for a comprehensive list of adverse effects.
-If any of the following side effects occur while taking daunorubicin liposomal, check with your doctor or nurse as soon as possible:
 Liposomal daunorubicin causes the urine to turn reddish in color, which may stain clothes. This is not blood. It is to be expected and only lasts for 1 or 2 days after each dose is given.
 This medicine often causes a temporary and total loss of hair. After treatment with liposomal daunorubicin has ended, normal hair growth should return.
 In general the two main dose-limiting toxicities are myelosuppression and cumulative cardiotoxicity.  Acute febrile drug reactions have occurred in up to 50% of patients (probably represent reactions to histamine release), but are not generally observed with steroid and other premedications.  The main metabolite, daunorubicinol, has only approximately 1/10th the toxicity of the parent compound.
@@ -9,7 +8,7 @@ In one patient with Kaposi's sarcoma, congestive heart failure has been reported
 Cardiovascular toxicity has included congestive heart failure, pericardial effusion, pericardial tamponade, ventricular extrasystoles, cardiac arrest, sinus tachycardia, atrial fibrillation, pulmonary hypertension, myocardial infarction, supraventricular tachycardia, angina pectoris, hot flushes, hypertension, palpitation, syncope, and tachycardia in 5% or fewer patients (n=116).  Additionally, edema (9% mild/moderate, 2% severe) and chest pain (9% mild/moderate, 1% severe) have been reported.
 Dermatologic side effects have included reversible alopecia (6% mild, 2% moderate) and pruritus (7% mild/moderate).  Urticaria , folliculitis, dry skin, seborrhea have been reported in 5% or fewer patients (n=116).  Chemical thrombophlebitis and local necrosis have occurred in cases of extravasation. Cases of palmar-plantar erythrodysesthesia syndrome (hand-foot syndrome) have been reported in 2 patients receiving high dose daunorubicin liposomal (the active ingredient contained in DaunoXome) therapy (100 to 125 mg/m2 daily for 3 days) in combination with cytarabine, and in one patient receiving recommended doses (40 mg/m2).
 Gastrointestinal side effects have included  nausea (35% mild, 16% moderate, 3% severe), diarrhea (34% mild/moderate, 4% severe), abdominal pain (20% mild/moderate, 3% severe), vomiting (10% mild, 10% moderate, 3% severe), anorexia (21% mild/moderate, 2% severe), stomatitis (9% mild/moderate, 1% severe), constipation (7% mild/moderate), and tenesmus (4% mild/moderate, 1% severe).  Increase appetite, dysphagia, GI hemorrhage, gastritis, gingival bleeding, hemorrhoids, hepatomegaly, melena, dry mouth, and tooth caries have been reported in 5% or fewer patients (n=116).
-Local side effects have included thrombophlebitis and necrosis following extravasation, and injection site inflammation (<=5%).
+Local side effects have included thrombophlebitis and necrosis following extravasation, and injection site inflammation (
 Hepatic serum transaminase and bilirubin concentration elevations have been transiently observed.
 Renal side effects have rarely included new or worsened renal insufficiency, probably associated with hyperuricemia and/or dehydration.
 One case report describes chest and back pain in a patient receiving a 6-hour infusion of high dose daunorubicin liposomal (the active ingredient contained in DaunoXome) (125 mg/m2).
@@ -18,10 +17,10 @@ Immunologic side effects have included reports of opportunistic infections in 40
 Nervous system side effects have included fatigue (43% mild/moderate, 6% severe), headache (22% mild/moderate, 3% severe), neuropathy (12% mild/moderate, 1% severe), and dizziness (8% mild/moderate), depression (7% mild/moderate, 3% severe) insomnia (6% mild/moderate).  Amnesia, anxiety, ataxia, confusion, convulsions, emotional lability, abnormal gait, hallucination, hyperkinesia, hypertonia, meningitis, somnolence, abnormal thinking, tremor, taste perversion, deafness, earache, and tinnitus have been reported in 5% or fewer patients (n=116).
 Metabolic side effects have included dehydration and thirst in 5% or fewer patients (n=116).
 Respiratory side effects have included dyspnea (23% mild/moderate, 3% severe), cough (26% mild/moderate, 2% severe), rhinitis (12% mild/moderate), and sinusitis (8% mild/moderate).  Hemoptysis, hiccups, pulmonary infiltration, and increased sputum have been reported in 5% or fewer patients (n=116).
-Ocular side effects have included abnormal vision (3% mild./moderate, 2% severe), conjunctivitis (<=5%), and eye pain (<=5%).
+Ocular side effects have included abnormal vision (3% mild./moderate, 2% severe), conjunctivitis (
 Genitourinary side effects have included dysuria, nocturia and polyuria in 5% or fewer patients (n=116).
 Endocrine side effects have included increased sweating (12% mild/moderate, 2% severe).
-Other side effects have included malaise (9% mild/moderate, 1% severe), influenza-like symptoms (5% mild/moderate), lymphadenopathy (<=5%), and splenomegaly (<=5%) (n=116).
+Other side effects have included malaise (9% mild/moderate, 1% severe), influenza-like symptoms (5% mild/moderate), lymphadenopathy (
 Musculoskeletal side effects have included rigors (19% mild/moderate), back pain (16% mild/moderate), arthralgia (7% mild/moderate), and myalgia (7% mild/moderate).
 Hypersensitivity reactions have been reported (21% mild/moderate, 3% severe) (n=116).
 Cough or hoarseness

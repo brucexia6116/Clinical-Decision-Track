@@ -1,17 +1,16 @@
-If any of the following side effects occur while taking levamisole, check with your doctor or nurse as soon as possible:
 Levamisole may cause a temporary loss of hair in some people. After treatment has ended, normal hair growth should return.
 One analysis of 267 reports representing 6,217 patients, found that patients treated for rheumatic disorders (n=1131) reported a significantly higher rate of leukopenia and agranulocytosis (4.9%).  The majority of these patients (4.5%) discontinued therapy.  Leukopenia is usually not prodromal to agranulocytosis.Reports show some indication that agranulocytosis is due to a type II reaction (Coombs' classification).  Management of levamisole-induced agranulocytosis includes early diagnosis, discontinuation of treatment, and prevention of infection.  Agranulocytosis is spontaneously reversible when treatment is discontinued.
 Hematologic toxicity primarily involves (sometimes fatal) agranulocytosis.  Leukopenia has been reported in 2% (over 4,000/mm3), 4% (2,000 to 4,000/mm3), and less than 1% (less than 2,000/mm3).  Transient granulocytopenia has been reported in up to 20% of treated patients.  Recovery is usually spontaneous.  In patients with thrombocytopenia, 1% of patients show platelet counts over 130,000/mm3, and 1% show platelet counts between 50,000 and 130,000/mm3.
-Dermatologic side effects include dermatitis (8%), alopecia (3%), pruritus (1%) and urticaria (<1%).
+Dermatologic side effects include dermatitis (8%), alopecia (3%), pruritus (1%) and urticaria (
 One analysis of 267 reports representing 6,217 patients, found that patients treated for rheumatic disorders (n=1131) reported a significantly high percentage of idiosyncratic or allergic reactions.  These included skin rash (14.8%).  Half of the patients experiencing skin rash discontinued therapy (7%).
 Flu-like symptoms including fatigue (6%), fever (3%), rigors (3%), myalgia, and malaise have been reported.
 Fever may be a symptom of infection associated with agranulocytosis, but often it is not.
 Gastrointestinal side effects include nausea (22%), diarrhea (13%), vomiting (6%), stomatitis (3%), anorexia (2%), abdominal pain (2%), and constipation (2%).  Flatulence and dyspepsia have also been reported.
-Cardiac dysfunction leading to edema (1%) and chest pain (<1%) have been reported.
+Cardiac dysfunction leading to edema (1%) and chest pain (
 Musculoskeletal side effects including arthralgia (5%) and myalgia (3%) have been reported.
 Nervous system side effects including dizziness (3%), headache (3%), paresthesia (2%), taste perversion (8%), and an altered sense of smell (1%) have been reported.
 Psychiatric side effects including somnolence (3%), depression (1%), nervousness (1%), insomnia (1%), and anxiety (1%) have been reported.  Confusion, hallucinations, impaired concentration, nightmares, and an encephalopathy-like syndrome have also been reported.  A case has been reported of a psychotic episode which was believed to be caused by prolonged levamisole use.
-Ocular side effects including blurred vision (1%) and conjunctivitis (<1%) have been reported.  Periorbital edema has also been reported.
+Ocular side effects including blurred vision (1%) and conjunctivitis (
 Infection (5%) has been reported.
 Hyperbilirubinemia and increased alkaline phosphatase have been reported rarely.
 Renal failure and elevated serum creatinine have been reported rarely.  One case report of syndrome of inappropriate antidiuretic hormone has been reported.
